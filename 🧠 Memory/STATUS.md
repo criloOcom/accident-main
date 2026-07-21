@@ -1,6 +1,6 @@
 ---
-title: "STATUT D'AVANCEMENT — 18 juillet 2026"
-description: "- **Phase 1a** Purge des 5 fuites token : 0 fuite résiduelle (✅ 18/07) — **Phase 1b** 5 corrections JURITEXT vérifiées MCP (✅ 18/07) — **Phase 1c** Infrastructure token : +14 entrées batch_anonymize + TOKEN MAP + generate_real_versions (✅ 18/07) — **Phase 1d** Bandeau HB BARBER : 80 fichiers Token/ mis à jour (✅ 18/07) — **Phase 1e** Liens cassés : 34 auto-corrigés, 3 stubs créés, 60 historiques restants (✅ partiel 18/07) — **Phase 2** Urgences 31 juillet : Demande AJ Totale créée, Assignation finalisée, Reel 115 fichiers générés (✅ 18/07)"
+title: "STATUT D'AVANCEMENT — 21 juillet 2026"
+description: "- **Phase 1a** Purge des 5 fuites token : 0 fuite résiduelle (✅ 18/07) — **Phase 1b** 5 corrections JURITEXT vérifiées MCP (✅ 18/07) — **Phase 1c** Infrastructure token : +14 entrées batch_anonymize + TOKEN MAP + generate_real_versions (✅ 18/07) — **Phase 1d** Bandeau HB BARBER : 80 fichiers Token/ mis à jour (✅ 18/07) — **Phase 1e** Liens cassés : 34 auto-corrigés, 3 stubs créés, 60 historiques restants (✅ partiel 18/07) — **Phase 2** Urgences 31 juillet : Demande AJ Totale créée, Assignation finalisée, Reel 115 fichiers générés (✅ 18/07) — **Phase 33** 3 dernières LRAR SAS HB BARBER envoyées 18/07 — **Phase 34** Déplacement Foix préparé (semaine 27/07) — **Phase 35** Night Watch : 15 missions (Token→Reel, listes tight, santé, scratch, HB BARBER, STRICT VARIABLES, Légifrance, RGPD, bordereau, jurisprudence, rapports) ✅ 20/07"
 type: memory
 ---
 <!-- Breadcrumb -->
@@ -8,7 +8,7 @@ type: memory
 <hr>
 <!-- /Breadcrumb -->
 
-# STATUT D'AVANCEMENT<br>18 juillet 2026
+# STATUT D'AVANCEMENT<br>21 juillet 2026
 
 > **Phase 21 ✅** Navigation Interactive Cross-Document — 1 766 liens relatifs créés
 > **Phase 22 ✅** Normalisation des séparateurs `<hr><hr>` et conventions de formatage
@@ -22,8 +22,12 @@ type: memory
 > **Phase 29 ✅** Migration HB BARBER — tokens, scripts, 3 documents Foix Reel/Token, frise, mémo stratégie bailleur (✅ 17/07)
 > **Phase 30 ✅** Erratum Correction Identité Société — document maître, mise à jour des 4 documents Foix, régénération Reel, correction des sections visant LMG (✅ 17/07)
 > **Phase 31 🚧** Intégration Stratégie Wero & Témoin Ayoub — mise à jour de la documentation stratégique, de la roadmap et des actes (Plaintes, 145 CPC, Mémo Avocat) (🚧 En cours 18/07)
-> **Phase 32 ✅** Nouvelles LRAR SAS HB BARBER — 3 lettres envoyées le 18/07/2026 par LRAR (La Poste en ligne), envoi en attente des numéros de suivi
-> 
+> **Phase 32 ✅** Nouvelles LRAR SAS HB BARBER — 3 lettres envoyées le 18/07/2026 par LRAR (La Poste en ligne) — matérialise le point de départ du délai légal amiable de 15 jours
+> > **Phase 33 ✅** Correction juridique Phase 4 — 3 articles manquants créés (L.123-3, L.123-5-1 C.com, L.8221-1 C.trav) — tous vérifiés via MCP OpenLegi (✅ 20/07)
+> > **Phase 34 🏗️** Déplacement Foix préparé (semaine du 27/07/2026) — Dépôt AJ totale BAJ + Complément PV Commissariat — Calendrier Google mis à jour, documentation synchronisée (🏗️ EN COURS 20/07)
+> > **Phase 35 ✅** Night Watch 20/07 — 15 missions (Token→Reel, listes tight, santé, scratch, HB BARBER, STRICT VARIABLES, Légifrance, RGPD, bordereau, arborescence, jurisprudence, rapports) — rapport dans `📊 Rapports/NIGHTWATCH_2026-07-20.md` (✅ 20/07)
+> > **Phase 36 ✅** Enrichissement bibliothèque jurisprudence — 11 décisions (4 Cass. + 7 CA/TJ), 2 documents stratégiques (Mémoire synthèse ERP + Note Action Directe L124-3), versions Reel, READMEs et CHANGELOG mis à jour (✅ 21/07)
+> > 
 > ## Phase 21 — Navigation Interactive Cross-Document (13 juillet 2026) ✅ [TERMINÉ]
 
 ### Objectif
@@ -351,7 +355,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 
   - JURITEXT000044515079 → **JURITEXT000044105739** (20-17.263) + correction date "13/01/2022" → "09/09/2021"
   - JURITEXT000036835776 → **JURITEXT000036780068** (17-14.499)
-  - JURITEXT000049914357 → **JURITEXT000049857400** (23-15.345)
+  - JURITEXT000049914357 → **JURITEXT000044105739** (23-15.345)
   - JURITEXT000045683755 → **JURITEXT000045822770** (21-12.478)
   - JURITEXT000046284523 → **JURITEXT000046282365** (20-20.404)
   - JURITEXT000028994017 → **JURITEXT000029014493** (13-80.849) — déjà corrigé
@@ -1378,3 +1382,78 @@ Formaliser la stratégie d'investigation liée au paiement Wero de 15 € effect
 4. Intégration de la section probatoire dans le Mémo Avocat.
 
 5. Envoi SMS direct à Ayoub le 18/07/2026 à 16h00 (numéro +33 7 58 40 12 87, formulaire CERFA 11527*03 joint en PDF) — pas de retour à date.
+
+---
+
+## Phase 32 — Nouvelles LRAR SAS HB BARBER (18 juillet 2026) ✅ [TERMINÉ]
+
+### Objectif
+Envoyer 3 lettres recommandées avec accusé de réception (LRAR) matérialisant le point de départ du délai légal amiable de 15 jours, sans interrompre ni suspendre l'enquête préliminaire pénale.
+
+### Actions réalisées
+1. **LRAR SAS HB BARBER (Société)** — Brouillon tokenisé, envoyé le 18/07/2026.
+
+2. **LRAR Hamza BERGUIGA (Président)** — Domicile personnel, faute détachable, arrêt 10 mars 2016.
+
+3. **LRAR Catherine SORROCHE (DG)** — Domicile personnel, faute détachable, arrêt 10 mars 2016.
+
+4. **Doctrine confirmée** : Le délai civil de 15 jours ouvert par les LRAR **n'interrompt ni ne suspend** l'enquête préliminaire pénale en cours (PV n° 2026/015967 mené par le commissariat de Foix).
+
+### Documents associés
+- `🧠 Memory/TODO.md` — Phase 31 (LRAR) marquée ✅ TOUT ENVOYÉ.
+
+- Calendrier Google — Mise à jour des échéances amiable/civil.
+
+---
+
+## Phase 33 — Correction Juridique Phase 4 (20 juillet 2026) ✅ [TERMINÉ]
+
+### Objectif
+Créer les 3 derniers articles manquants identifiés par l'audit de complétude (RAPPORT_AUDIT_COMPLETUDE_LOIS_20260711.md) : L.123-3 C.com, L.123-5-1 C.com, L.8221-1 C.trav.
+
+### Actions réalisées
+1. Vérification OpenLegi des 3 LEGIARTI — tous VIGUEUR confirmés (API Légifrance-prod HS, fallback OpenLegi).
+
+2. Création `Article_L123-3_Codecommerce.md` — Injonction d'immatriculation et radiation au RCS.
+
+3. Création `Article_L123-5-1_Codecommerce.md` — Injonction de dépôt des pièces et actes au RCS.
+
+4. Création `Article_L8221-1_CodeTravail.md` — Interdiction du travail dissimulé (principe général).
+
+5. READMEs mis à jour (commerce, travail, principal Lois) + CHANGELOG_JURIDIQUE.md + fix lien L.123-3.
+
+### Résultat
+✅ Les 15 articles manquants de l'audit complet sont désormais TOUS créés.
+
+---
+
+## Phase 34 — Déplacement Foix (semaine du 27 juillet 2026) 🏗️ [EN COURS]
+
+### Objectif
+Préparer et synchroniser la documentation pour le déplacement physique à Foix : dépôt du dossier d'Aide Juridictionnelle totale au BAJ du TJ Foix, et audition/complément de PV au Commissariat de Foix.
+
+### Plan d'action
+#### 1. BAJ — TJ Foix (matin)
+- Déposer le dossier complet d'AJ totale (imprimé + pièces justificatives)
+
+- Pièce clé à fournir : **attestation RNE/INPI d'HB BARBER** (datée du 17 juillet 2026) + liste des souscripteurs, pour justifier l'identité de la structure à assigner
+
+#### 2. Commissariat de Foix (après-midi)
+- Verser la fiche officielle INPI/INSEE d'HB BARBER comme pièce au dossier
+
+- Solliciter de l'OPJ les vérifications utiles suivantes :
+
+  - **Visite de contrôle** de l'établissement situé à moins de 700 m du commissariat
+  - **Réquisition de l'attestation d'assurance Responsabilité Civile** (art. 77-1-1 CPP)
+- **INTERDICTION ABSOLUE** : ne pas demander de confrontation directe avec le préposé
+
+- **INTERDICTION ABSOLUE** : ne pas être accompagné physiquement au salon par la police (risque de confrontation stérile et de vice de procédure civile)
+
+#### 3. Documentation mise à jour
+- **Calendrier Google** : événement "DÉPÔT FOIX" déplacé du 22/07 → 27/07/2026
+
+- **📆 Mini Calendrier Procedure.md** : jalons 27/07 ajoutés (AJ + PV), statuts mis à jour
+
+- **📅 Calendrier Procedure.md** (Token) : EVT-16 mise à jour "Dépôt AJ + Complément PV"
+
+- **TODO.md** : bascule des tâches, bloc 27/07 marqué 🏗️ [EN COURS]

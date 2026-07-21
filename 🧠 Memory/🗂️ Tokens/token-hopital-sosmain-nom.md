@@ -44,4 +44,4 @@ type: memory
 
 ## Source
 
-[TOKEN MAP → Personnes morales](../TOKEN%20MAP.md#token-l-etablissement-sos-main)
+TOKEN MAP → Personnes morales

@@ -42,4 +42,4 @@ Adresse email de la victime, utilisée dans les mentions de contact des courrier
 
 ## Source
 
-[TOKEN MAP → Données localisantes / identifiantes](../TOKEN%20MAP.md#token-l-email-de-la-victime)
+TOKEN MAP → Données localisantes / identifiantes

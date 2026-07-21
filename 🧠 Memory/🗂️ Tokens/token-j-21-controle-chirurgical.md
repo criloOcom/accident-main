@@ -58,4 +58,4 @@ Le chirurgien préconise la poursuite de la rééducation ([J+25 Première kiné
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-21-controle-chirurgical)
+TOKEN MAP → Tokens événementiels (J+)

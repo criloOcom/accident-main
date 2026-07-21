@@ -1,17 +1,17 @@
 ---
 title: ANNEXE C — LISTE DES PIÈCES
-description: '- 29 mai 2026 — Dr Julie JARDON — Premiers soins
+description: '- **J+0 Accident** — **Le Médecin en Urgence** — Premiers soins
   urgence — 🔗 Drive'
 type: readme
 reel_path: ../../../👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md
 auteur: La Victime
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [🗄️ Archives](../README.md) › [annexes](./README.md) › 📑 ANNEXE C Pieces*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [📦 Archives](../README.md) › [📁 annexes](./README.md) › 📑 ANNEXE C Pieces*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 

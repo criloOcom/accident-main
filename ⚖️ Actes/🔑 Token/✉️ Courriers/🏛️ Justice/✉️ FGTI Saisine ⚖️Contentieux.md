@@ -24,7 +24,7 @@ jx: J+38
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -32,10 +32,10 @@ jx: J+38
 # DEMANDE D'INFORMATION ET DE PRÉ-ENREGISTREMENT<br>ARTICLE 706-3 DU CPP
 > 🔗 Source Google Drive : [13jocmpqETy6…](https://drive.google.com/open?id=13jocmpqETy64lldco9LGCKLJZp_ml_9u53NB7OySmrs)
 
-[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)  
-[**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)  
-[**[Le Téléphone de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)  
-Courriel : [**[L'Email de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)  
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**  
+**[Le Téléphone de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)**  
+Courriel : **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**  
 
 **Fonds de Garantie des Victimes (FGTI)**  
 64 Rue de la République  
@@ -43,18 +43,18 @@ Courriel : [**[L'Email de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9
 
 [**[La Ville de Residence de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md), le 12 juillet 2026  
 
-**Objet : Demande d'information et pré-ouverture de dossier – Article 706-3 du CPP – Accident du [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**  
+**Objet : Demande d'information et pré-ouverture de dossier – Article 706-3 du CPP – Accident du **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** — SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)****  
 
-Réf : SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) — Dossier CPAM n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**  
+Réf : SIREN **[SIREN de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)** — [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**  
 
 Madame, Monsieur le Directeur,  
 ## I — INTRODUCTION
 
-La présente lettre est adressée au FGTI par [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)).
+La présente lettre est adressée au FGTI par **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploité par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (SIREN **[SIREN de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)**).
 
 Cet accident a été causé par la chute brutale du préposé de l'exploitation depuis un bac à shampoing en céramique instable et cassé, sur lequel il avait dû monter pour accéder au poste de télévision, faute d'équipement d'accès adapté (escabeau) mis à disposition par l'employeur.
 
-Sa chute a entraîné sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon fléchisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant nécessité une microchirurgie d'urgence en SOS Main. Mon arrêt de travail total a été évalué à 55 jours (du 29 mai au [**[J+55 Fin d'ITT]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md)).
+Sa chute a entraîné sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon fléchisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant nécessité une microchirurgie d'urgence en SOS Main. Mon [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total a été évalué à 55 jours (du 29 mai au **[J+55 Fin d'ITT](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md)**).
 <hr><hr>
 
 ## II — PROCÉDURES JUDICIAIRES ENGAGÉES
@@ -67,7 +67,7 @@ Sa chute a entraîné sur ma main droite une plaie palmaire profonde de 8,5 cm a
 
 3. **Assignation Article 145 CPC** : projet rédigé, dépôt prévu après obtention de l'AJ.
 
-4. **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** (6 juillet 2026) : déposée auprès du Doyen des Juges d'Instruction de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) sur le fondement des articles 222-19 et 222-20 du Code pénal.
+4. **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** (6 juillet 2026) : déposée auprès du Doyen des Juges d'Instruction de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** sur le fondement des articles 222-19 et 222-20 du Code pénal.
 
 Ces démarches visent à identifier les débiteurs civils et à faire reconnaître les infractions, en vue, le cas échéant, d'une demande d'indemnisation au titre de l'article 706-3 du Code de procédure pénale.
 
@@ -118,7 +118,7 @@ Le montant total estimé de mon préjudice corporel, selon la nomenclature Dinti
 
 Conformément aux articles 706-3 et suivants du Code de procédure pénale, je comprends qu'une indemnisation peut être sollicitée, par l'intermédiaire de la Commission d'Indemnisation des Victimes d'Infractions (CIVI), lorsque l'auteur de l'infraction est inconnu, insolvable ou dans l'impossibilité de réparer le dommage.
 
-La SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) disposant d'un capital social de seulement 200 € et n'ayant justifié d'aucune assurance, il existe un risque caractérisé d'insolvabilité qui pourrait à terme justifier le recours à ce dispositif subsidiaire d'indemnisation.
+La SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** disposant d'un capital social de seulement 200 € et n'ayant justifié d'aucune assurance, il existe un risque caractérisé d'insolvabilité qui pourrait à terme justifier le recours à ce dispositif subsidiaire d'indemnisation.
 
 Je sollicite en conséquence de vos services :
 
@@ -130,7 +130,7 @@ Je sollicite en conséquence de vos services :
 
 Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Directeur, l'expression de ma considération distinguée.
 
-[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 <hr><hr>
 
 ## PIÈCES JOINTES
@@ -139,7 +139,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Dire
 
 - Accusés de réception des courriers recommandés retournés (29 mai 2026 — mentions NPAI)
 
-- [Extrait Kbis de la SAS **[L'Exploitant du Commerce (La SAS)]**](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) ([**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
+- [[[Extrait Kbis](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) (**[SIREN de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)**)
 
 - Dossier médical complet (11 pièces)
 <hr><hr>

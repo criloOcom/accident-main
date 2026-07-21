@@ -21,7 +21,7 @@ jx: J+39
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -33,23 +33,23 @@ jx: J+39
 
 **POUR :**
 
-[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), né le [**[Date de naissance de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md), de nationalité française, demeurant au [**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), exerçant la profession d'informaticien indépendant.
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, né le [**[Date de naissance de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md), de nationalité française, demeurant au **[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**, exerçant la profession d'informaticien indépendant.
 
 *Demandeur*
 
 **CONTRE :**
 
-[**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), Société par Actions Simplifiée, immatriculée au RCS de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) sous le numéro SIRET [**[L'Identifiant de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md), ayant son siège social au [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), représentée par ses co-dirigeants [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md).
+**[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, Société par Actions Simplifiée, immatriculée au RCS de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** sous le numéro SIRET **[L'Identifiant de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md)**, ayant son siège social au **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**, représentée par ses co-dirigeants **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**.
 
 *Défenderesse*
 ## I — EXPOSÉ DU LITIGE
 ### I.1 — LE SINISTRE ET SES CONSÉQUENCES MATÉRIELLES
 
-Le **29 mai 2026**, aux environs de 15 heures, [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), informaticien indépendant âgé de [**[Âge de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-age.md), se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
+Le **29 mai 2026**, aux environs de 15 heures, **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, informaticien indépendant âgé de [**[Âge de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-age.md), se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
 
 Le coiffeur préposé de la défenderesse, dans l'exercice de ses fonctions et agissant par nécessité de service, est monté sur la vasque en céramique d'un bac à shampoing installé à demeure pour régler un poste de télévision, **faute d'avoir à sa disposition un équipement d'accès en hauteur** (escabeau, échelle ou marchepied).
 
-Au cours de cette manipulation, la vasque a **basculé** brutalement et s'est brisée. Par réflexe de protection, [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a tendu sa main droite — sa main dominante — pour protéger le préposé.
+Au cours de cette manipulation, la vasque a **basculé** brutalement et s'est brisée. Par réflexe de protection, **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** a tendu sa main droite — sa main dominante — pour protéger le préposé.
 
 Sa paume a heurté violemment le flanc de la vasque qui présentait depuis une date indéterminée une **cassure majeure préexistante**, non signalée, aux arêtes extrêmement tranchantes.
 
@@ -61,7 +61,7 @@ Cet heurt a entraîné :
 
 - une **neurolyse du nerf palmaire**.
 
-Une intervention chirurgicale a été réalisée en urgence le 30 mai 2026 par un chirurgien spécialisé en chirurgie de la main. L'**arrêt de travail** a été fixé médicalement à **55 jours**, du 29 mai 2026 au 23 juillet 2026.
+Une intervention chirurgicale a été réalisée en urgence le 30 mai 2026 par un chirurgien spécialisé en chirurgie de la main. L'**[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** a été fixé médicalement à **55 jours**, du 29 mai 2026 au 23 juillet 2026.
 
 ### I.2 — LA PREUVE DU RISQUE ET DU DOMMAGE
 
@@ -147,20 +147,20 @@ L'obligation de la SAS envers la victime est établie par :
 
 ### II.2 — CARACTÈRE URGENT
 
-Le demandeur subit des pertes financières immédiates du fait de son arrêt de travail de 55 jours. En tant qu'informaticien indépendant, son activité repose exclusivement sur l'usage de sa main dominante. Ses frais médicaux sont réels et documentés. Les dirigeants de la SAS refusent toute coopération et n'ont pas communiqué les coordonnées de leur assureur RC Pro malgré demandes. Le capital social de la SAS (200 €) fait craindre une insolvabilité croissante si le recouvrement n'est pas accéléré.
+Le demandeur subit des pertes financières immédiates du fait de son [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) de 55 jours. En tant qu'informaticien indépendant, son activité repose exclusivement sur l'usage de sa main dominante. Ses frais médicaux sont réels et documentés. Les dirigeants de la SAS refusent toute coopération et n'ont pas communiqué les coordonnées de leur assureur RC Pro malgré demandes. Le capital social de la SAS (200 €) fait craindre une insolvabilité croissante si le recouvrement n'est pas accéléré.
 <hr><hr>
 
 ## III — DISPOSITIF
 
 **EN CONSÉQUENCE**, il est demandé au juge des référés :
 
-S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'évaluation indemnitaire barémique Dintilhac du 13 juillet 2026 (pièce n° 44). Ce rapport, établi sur la base de la situation réelle de [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) (informaticien indépendant, 9 000 € de revenus annuels, atteinte de la main droite dominante, 55 jours d'interruption d'activité), retient deux hypothèses de déficit fonctionnel permanent (10 % et 15 %) et chiffre le préjudice global en droit commun, avant imputation du recours de la CPAM, à environ 126 000 € dans le scénario prudent et 161 500 € dans le scénario médian. La provision sollicitée à hauteur de **15 000 €** s'inscrit ainsi très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.
+S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'évaluation indemnitaire barémique Dintilhac du 13 juillet 2026 (pièce n° 44). Ce rapport, établi sur la base de la situation réelle de **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** (informaticien indépendant, 9 000 € de revenus annuels, atteinte de la main droite dominante, 55 jours d'interruption d'activité), retient deux hypothèses de déficit fonctionnel permanent (10 % et 15 %) et chiffre le préjudice global en droit commun, avant imputation du recours de la CPAM, à environ 126 000 € dans le scénario prudent et 161 500 € dans le scénario médian. La provision sollicitée à hauteur de **15 000 €** s'inscrit ainsi très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.
 
 **PRINCIPALEMENT,**
 
 **I.** De constater que l'obligation de la société défenderesse n'est pas sérieusement contestable et d'ordonner la condamnation de cette dernière au paiement d'une provision provisoire de **15 000 €**, comprenant :
 
-- les pertes de gains professionnels actuels (PGPA) au titre des 55 jours d'arrêt de travail : 1 355 € ;
+- les pertes de gains professionnels actuels (PGPA) au titre des 55 jours d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) : 1 355 € ;
 
 - les frais médicaux et paramédicaux passés et à venir : 5 000 € ;
 
@@ -192,7 +192,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 **[Ville]**, le **[date]**
 
-[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 <hr><hr>
 
 ## PIECES JOINTES
@@ -203,7 +203,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 - **[Certificat medical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation initiale des blessures
 
-- **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — Arrêt de travail de 55 jours
+- **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — [Arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) de 55 jours
 
 - **[Constat d'huissier](%F0%9F%93%B8%20Requete%20Constat%20Huissier.md)** — Etat des lieux de la vasque litigieuse
 

@@ -20,11 +20,11 @@ calendar_event_id: "eicgcrnb2ir9bf072kennpm1ls"
 jx: J+31
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [✉️ Courriers (Versions Réelles)](../README.md) › [🏢 SAS & Salon](./README.md) › ✉️ SAS Directrice 📜Lettre*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS Directrice 📜Lettre*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -32,17 +32,17 @@ jx: J+31
 # MISE EN DEMEURE<br>DEMANDE D'INFORMATION ASSURANCE RC
 > 🔗 Source Google Drive : [1EcEmT59OVPS…](https://drive.google.com/open?id=1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93)
 
-[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
+**[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
 
-Courriel : [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
+Courriel : **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
 
-[Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)
-[22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
+**[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**
+**[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**
 
-[Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md), le [[29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)]
+**[La Ville de Résidence de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**, le [**[J+31 Mises en demeure](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)**]
 
-Objet : Demande d'information et communication d'assurance — Accident [[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)] — L.R.A.R.
-Réf : Dossier [[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)] / [[SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)]
+Objet : Demande d'information et communication d'assurance — Accident [**[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**] — L.R.A.R.
+Réf : Dossier [**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**] / [**[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**]
 
 Madame la Directrice Générale,
 ## I — Rappel des obligations légales
@@ -65,7 +65,7 @@ Le défaut d'information de la victime sur l'identité de l'assureur constitue u
 
 <hr><hr>
 
-Je me permets de vous adresser la présente lettre dans une démarche constructive, préalable à toute action contentieuse, afin d'obtenir les informations nécessaires à la régularisation du sinistre dont j'ai été victime le [[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)] dans les locaux de [[SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)], société au sein de laquelle vous exercez les fonctions de Directrice Générale.
+Je me permets de vous adresser la présente lettre dans une démarche constructive, préalable à toute action contentieuse, afin d'obtenir les informations nécessaires à la régularisation du sinistre dont j'ai été victime le [**[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**] dans les locaux de [**[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**], société au sein de laquelle vous exercez les fonctions de Directrice Générale.
 
 En application de l'article L. 124-3 du Code des assurances[^3], la victime dispose d'une action directe contre l'assureur de responsabilité civile de l'auteur du dommage.
 
@@ -75,7 +75,7 @@ En application de l'article L. 124-3 du Code des assurances[^3], la victime disp
 
 Je vous remercie de bien vouloir me communiquer, dans les meilleurs délais, les informations suivantes :
 
-1. Le nom et les coordonnées complètes de la compagnie d'assurance couvrant la responsabilité civile professionnelle de [[SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)] au titre de la police en vigueur le [[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)] ;
+1. Le nom et les coordonnées complètes de la compagnie d'assurance couvrant la responsabilité civile professionnelle de [**[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**] au titre de la police en vigueur le [**[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**] ;
 
 2. Le numéro de contrat d'assurance souscrit ;
 
@@ -83,7 +83,7 @@ Je vous remercie de bien vouloir me communiquer, dans les meilleurs délais, les
 
 Ces informations me permettront de déclarer le sinistre et d'envisager une résolution amiable, conformément à l'obligation de loyauté et de transparence qui incombe à tout dirigeant d'entreprise.
 
-À défaut de réponse de votre part dans un délai de quinze (15) jours à compter de la réception de la présente, je me verrai contraint de saisir le juge des référés du tribunal judiciaire de [[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)] afin d'obtenir, sur le fondement de l'article 145 du Code de procédure civile[^4], une mesure d'instruction in futurum aux fins d'identification de l'assureur.
+À défaut de réponse de votre part dans un délai de quinze (15) jours à compter de la réception de la présente, je me verrai contraint de saisir le juge des référés du tribunal judiciaire de [**[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**] afin d'obtenir, sur le fondement de l'article 145 du Code de procédure civile[^4], une mesure d'instruction in futurum aux fins d'identification de l'assureur.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
@@ -106,15 +106,15 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 3. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
-À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de [[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)] — d'abord en référé sur le fondement de l'article 145 du Code de procédure civile pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
+À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de [**[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**] — d'abord en référé sur le fondement de l'article 145 du Code de procédure civile pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
 
 Comptant sur votre diligence, je vous prie d'agréer, Madame la Directrice Générale, l'expression de mes salutations distinguées.
 
-[[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)]
+[**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**]
 
-> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)] sur ma main droite dominante, je suis actuellement en arrêt de travail total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [**[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**] sur ma main droite dominante, je suis actuellement en [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >
 > Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement de la présente mise en demeure.
 <hr><hr>
@@ -127,7 +127,7 @@ Comptant sur votre diligence, je vous prie d'agréer, Madame la Directrice Gén�
 
 - **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du [J+1]
 
-- **[Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [31727387](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md)
+- **[Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md)
 <hr><hr>
 
 ## Sources Législation

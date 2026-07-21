@@ -1,8 +1,3 @@
-<!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [👤 Actes / reel — Version réelle](../README.md) › 🗄️ Archives*
-<hr>
-<!-- /Breadcrumb -->
-
 # Index — 🗄️ Archives (Versions Réelles)
 
 - [11 Fiche Reflexe 48h Victime.md](11%20Fiche%20Reflexe%2048h%20Victime.md)

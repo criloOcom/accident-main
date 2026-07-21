@@ -30,4 +30,4 @@ type: memory
 
 ## Source
 
-[TOKEN MAP → Personnes physiques](../TOKEN%20MAP.md#token-age-de-la-victime)
+TOKEN MAP → Personnes physiques

@@ -62,4 +62,4 @@ Microchirurgie d'urgence réalisée sous anesthésie loco-régionale par le Dr *
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-1-chirurgie)
+TOKEN MAP → Tokens événementiels (J+)

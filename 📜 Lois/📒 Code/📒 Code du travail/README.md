@@ -16,6 +16,8 @@ type: readme
 
 - [L4121-1](Article_L4121-1_CodeTravail.md) — Obligations de l'employeur en matière de santé et sécurité (Art. L.4121-1)
 
+- [L8221-1](Article_L8221-1_CodeTravail.md) — Interdiction du travail dissimulé (Art. L.8221-1)
+
 - [L4321-1](Article_L4321-1_CodeTravail.md) — Principes généraux des équipements de travail (Art. L.4321-1)
 
 - [R4121-1](Article_R4121-1_CodeTravail.md) — Document unique d'évaluation des risques (Art. R.4121-1)

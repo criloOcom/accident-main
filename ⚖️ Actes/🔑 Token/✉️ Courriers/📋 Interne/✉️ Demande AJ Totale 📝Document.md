@@ -30,16 +30,16 @@ jx: J+50
 
 | Champ | Renseignement |
 |-------|---------------|
-| **Nom de naissance** | **[La Victime]** |
-| **Prénom** | **[Prénom de la Victime]** |
+| **Nom de naissance** | [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) |
+| **Prénom** | **[Prénom de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-prenom.md)** |
 | **Date de naissance** | 18 janvier 1982 |
-| **Lieu de naissance** | **[La Métropole Régionale]** |
+| **Lieu de naissance** | [**[La Métropole Régionale]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) |
 | **Nationalité** | Française |
 | **Situation familiale** | Célibataire |
 | **Nombre d'enfants à charge** | 0 |
-| **Adresse** | **[L'Adresse de la Victime]** |
+| **Adresse** | [**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) |
 | **Téléphone** | **[Téléphone de la Victime]** |
-| **Email** | **[L'Email de la Victime]** |
+| **Email** | [**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) |
 <hr><hr>
 
 ## II — SITUATION PROFESSIONNELLE ET RESSOURCES
@@ -49,7 +49,7 @@ jx: J+50
 
 - **Régime** : Micro-entrepreneur (régime fiscal micro-BNC)
 
-- **N° SIREN** : **[L'Identifiant Professionnel de la Victime]**
+- **N° SIREN** : [**[L'Identifiant Professionnel de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 ### Revenus
 | Type | Montant |
@@ -71,7 +71,7 @@ Demande d'indemnisation pour **accident corporel** — responsabilité civile du
 <hr><hr>
 
 ### Objet principal
-1. **Référé-provision** (Art. 835 C. pr. civ.) : Demande d'une provision de [**[Finance Provision Référé]**] à valoir sur la réparation des préjudices
+1. **Référé-provision** (Art. 835 C. pr. civ.) : Demande d'une provision de [**[Finance Provision Référé](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md)**] à valoir sur la réparation des préjudices
 
 2. **Expertise médicale judiciaire** (Art. 145 C. pr. civ.) : Désignation d'un expert judiciaire pour évaluer l'intégralité des postes de préjudice corporel
 
@@ -79,16 +79,16 @@ Demande d'indemnisation pour **accident corporel** — responsabilité civile du
 **Tribunal judiciaire de Foix** — Cabinet du Juge des Référés
 
 ### Qualité du demandeur
-**[La Victime]**, partie **demanderesse**
+[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), partie **demanderesse**
 
 ### Qualité du/des défendeur(s)
-1. **[Le Nouvel Exploitant (HB BARBER)]**, exploitant du salon de coiffure au 22 Rue Lafaurie, 09000 Foix, représenté par ses dirigeants
+1. **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**, exploitant du salon de coiffure au 22 Rue Lafaurie, 09000 Foix, représenté par ses dirigeants
 
-2. **[Le Nouvel Exploitant (HB BARBER)]**, exploitant effectif au jour de l'accident, intervenu volontairement
+2. **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**, exploitant effectif au jour de l'accident, intervenu volontairement
 
-3. **[Le Président de l'Exploitation]**, dirigeant
+3. [**[Le Président de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), dirigeant
 
-4. **[La Directrice Générale de l'Exploitation]**, dirigeante
+4. [**[La Directrice Générale de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), dirigeante
 <hr><hr>
 
 ## IV — URGENCE — DEMANDE DE TRAITEMENT ACCÉLÉRÉ
@@ -136,11 +136,11 @@ Le demandeur sollicite un **traitement accéléré** de sa demande d'AJ pour le 
 Le 29 mai 2026, alors que le demandeur se trouvait dans le salon de coiffure situé au 22 Rue Lafaurie à Foix, un employé de l'établissement est monté sur la vasque en céramique du salon pour régler un téléviseur, en l'absence de tout équipement adapté (escabeau ou marchepied). Sous son poids, la vasque a basculé et s'est brisée dans un mouvement de cisaillement, sectionnant les tendons extenseurs des doigts longs de la main droite de la victime (médicalement : **section complète des tendons extenseurs des doigts II à V**).
 
 ### Attestation sur l'honneur
-Je soussigné, **[La Victime]**, déclare sur l'honneur que l'ensemble des informations fournies dans le présent formulaire sont exactes et sincères.
+Je soussigné, [**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), déclare sur l'honneur que l'ensemble des informations fournies dans le présent formulaire sont exactes et sincères.
 
 Fait pour valoir ce que de droit.
 
-**[La Ville de l'Accident]**, le 18 juillet 2026
+[**[La Ville de l'Accident]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le 18 juillet 2026
 
 **Signature :**
 <hr><hr>

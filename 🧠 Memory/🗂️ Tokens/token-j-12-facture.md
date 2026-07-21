@@ -52,4 +52,4 @@ Cette facture constitue la **dépense de santé effective** supportée par **[La
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-12-facture)
+TOKEN MAP → Tokens événementiels (J+)

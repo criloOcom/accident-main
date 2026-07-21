@@ -56,4 +56,4 @@ Cette plainte complémentaire complète la plainte initiale du [J+4 Dépôt de p
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-33-plainte-complementaire)
+TOKEN MAP → Tokens événementiels (J+)

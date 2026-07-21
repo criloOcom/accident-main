@@ -29,4 +29,4 @@ Ce token est utilisé dans les courriers de relance (notamment relance Mairie/Pr
 
 ## Source
 
-[TOKEN MAP → Tokens temporaires / date tokens (generate_real_versions.py)](../TOKEN%20MAP.md#token-date-relance-v2)
+TOKEN MAP → Tokens temporaires / date tokens (generate_real_versions.py)

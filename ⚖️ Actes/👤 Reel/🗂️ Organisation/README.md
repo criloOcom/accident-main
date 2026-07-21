@@ -1,8 +1,3 @@
-<!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [👤 Actes / reel — Version réelle](../README.md) › 🗂️ Organisation*
-<hr>
-<!-- /Breadcrumb -->
-
 # Index — 🗂️ Organisation (Versions Réelles)
 
 - [06 📋 Synthese des Actions et Audits.md](06%20%F0%9F%93%8B%20Synthese%20des%20Actions%20et%20Audits.md)

@@ -1,6 +1,6 @@
 ---
 title: "📜 Jurisprudence"
-description: "Dossier regroupant les arrêts de la Cour de cassation classés par thème juridique."
+description: "Dossier regroupant les arrêts de la Cour de cassation et décisions CA/TJ classés par thème juridique."
 type: readme
 ---
 <!-- Breadcrumb -->
@@ -10,7 +10,7 @@ type: readme
 
 # 📜 Jurisprudence
 
-**Dossier regroupant les arrêts de la Cour de cassation classés par thème juridique.**
+**Dossier regroupant les arrêts de la Cour de cassation et décisions CA/TJ classés par thème juridique.**
 
 ## Sous-dossiers
 
@@ -24,7 +24,9 @@ type: readme
 
 - [🏛️ Responsabilité des dirigeants](%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20des%20dirigeants/README.md) — 4 arrêts
 
-- [🏛️ Action directe et obligation d'assurance](%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance/README.md) — 4 arrêts
+- [🏛️ Action directe et obligation d'assurance](%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance/README.md) — 8 arrêts
+
+- [🏛️ Jurisprudence du fond (CA-TJ)](%F0%9F%8F%9B%EF%B8%8F%20Jurisprudence%20du%20fond%20(CA-TJ)/README.md) — 7 décisions CA/TJ
 
 - [🏛️ Responsabilité du commettant](%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20commettant/README.md) — 2 arrêts
 

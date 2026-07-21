@@ -20,7 +20,7 @@ drive_id: 1ilezniEqbZrhb1YgPVAZbPdGYJyFNFkC
 jx: J+50
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [👤 Actes / reel — Version réelle](../README.md) › [📋 Attestations](./README.md) › 📋 Témoin Mathieu Frédéric*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📋 Attestations](./README.md) › 📋 Témoin Mathieu Frédéric*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -73,7 +73,7 @@ jx: J+50
 
 ### 1. Corroboration exacte de la version de la victime
 
-| Élément | Version Sébastien GRAZIDE | Attestation Mathieu | Convergence |
+| Élément | Version [Sébastien GRAZIDE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) | Attestation Mathieu | Convergence |
 |---------|--------------------------|---------------------|-------------|
 | **Date** | 29 mai 2026 | 29 mai 2026 | ✅ |
 | **Heure** | ~15h00 | 15h25 (enregistrement téléphone) | ✅ |
@@ -90,7 +90,7 @@ jx: J+50
 | **Art. 1242 C. civ.** (garde de la chose) | Vasque instable = chose sous garde du salon ; basculement = fait de la chose |
 | **Art. 1242 al. 5 C. civ.** (commettant/préposé) | Coiffeur (préposé) monte sur vasque = faute dans fonctions |
 | **Art. 1240 C. civ.** (faute) | Absence de signalement vasque cassée + instabilité = faute |
-| **Art. 222-20 C. pén.** (blessures involontaires) | arrêt de travail 55 jours → circonstances aggravantes (violation obligation sécurité) |
+| **Art. 222-20 C. pén.** (blessures involontaires) | [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 55 jours → circonstances aggravantes (violation obligation sécurité) |
 | **Art. 223-1 C. pén.** (mise en danger) | Vasque cassée non signalée + autorisation monte = exposition risque immédiat |
 
 ### 3. Valeur probante exceptionnelle

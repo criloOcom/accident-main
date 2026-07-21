@@ -42,6 +42,21 @@ run_audit "YAML links (Règle #25)"    ".dev/app/audit_yaml_links.py"
 run_audit "Citation links"            ".dev/app/audit_citation_links.py"
 run_audit "YAML frontmatter"          ".dev/app/yaml_validator.py"
 
+# ── Audit liens imbriqués invalides (Règle #28) ──
+echo ""
+echo "━━━ 🔍 Nested links audit (Règle #28) ━━━"
+NESTED=$(git diff --cached -U0 -- '*.md' 2>/dev/null | rg '^\+.*\[\[\*\*\[[^\]]*\]\*\*\]\([^)]*\)\]\(' || true)
+if [ -n "$NESTED" ]; then
+    echo "❌ Nested markdown links detected in staged diff:"
+    echo "$NESTED" | head -20
+    echo "   Pattern: [[**[X]**](url1)](url2) is invalid markdown."
+    echo "   FIX:   **[X](url2)**"
+    FAIL=$((FAIL + 1))
+else
+    echo "✅ Nested links : OK"
+    PASS=$((PASS + 1))
+fi
+
 # ── Audit listes à puces : format loose obligatoire (Règle #24) ──
 echo ""
 echo "━━━ 🔍 List spacing (format loose) ━━━"

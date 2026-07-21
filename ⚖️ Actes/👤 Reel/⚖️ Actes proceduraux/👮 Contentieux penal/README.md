@@ -1,8 +1,3 @@
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [⚖️ Actes Procéduraux (Versions Réelles)](../README.md) › 👮 Contentieux penal*
-<hr>
-<!-- /Breadcrumb -->
-
 # Index — ⚖️ Actes proceduraux/👮 Contentieux penal (Versions Réelles)
 
 - [16 ⚠️ Signalement Parquet Fraud.md](16%20%E2%9A%A0%EF%B8%8F%20Signalement%20Parquet%20Fraud.md)

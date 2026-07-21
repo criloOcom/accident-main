@@ -21,7 +21,7 @@ jx: J+365
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -36,13 +36,13 @@ jx: J+365
 
 **EXPERT :** [Docteur X], inscrit sur la liste des experts près la Cour d'appel de Toulouse, spécialité : chirurgie de la main et du membre supérieur
 
-**DÉSIGNATION :** Par ordonnance de référé du **31 juillet 2026** (RG n°[N° RG]), Monsieur le Président du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) a commis l'expert pour procéder à l'examen médical de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) et évaluer l'ensemble des préjudices corporels découlant de l'accident du 29 mai 2026.
+**DÉSIGNATION :** Par ordonnance de référé du **31 juillet 2026** (RG n°[N° RG]), Monsieur le Président du Tribunal Judiciaire de **[La Ville de l'Accident](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** a commis l'expert pour procéder à l'examen médical de **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** et évaluer l'ensemble des préjudices corporels découlant de l'accident du 29 mai 2026.
 
 ---
 
 ### I.1 — CONVOCATION ET DÉROULEMENT DES OPÉRATIONS
 
-L'expert a convoqué [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) par lettre recommandée du 24 avril 2027. L'examen médical a eu lieu au cabinet de l'expert le **29 mai 2027** en présence du requérant seul, ce dernier n'ayant pas constitué avocat et la partie défenderesse n'ayant pas comparu aux opérations d'expertise bien que régulièrement convoquée.
+L'expert a convoqué **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** par lettre recommandée du 24 avril 2027. L'examen médical a eu lieu au cabinet de l'expert le **29 mai 2027** en présence du requérant seul, ce dernier n'ayant pas constitué avocat et la partie défenderesse n'ayant pas comparu aux opérations d'expertise bien que régulièrement convoquée.
 
 ---
 
@@ -50,35 +50,35 @@ L'expert a convoqué [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97
 
 - Ordonnance de référé du 31 juillet 2026 (mission)
 
-- Procès-verbal de police n°[**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (28 juin 2026)
+- Procès-verbal de police n°**N° PV Police** (28 juin 2026)
 
-- Certificat médical initial du Dr [**[Le Médecin en Urgence]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md) (SMUR), 29 mai 2026
+- [Certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du Dr **[Le Médecin en Urgence](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md)** (SMUR), 29 mai 2026
 
-- Compte-rendu opératoire du [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) (SOS Main), 30 mai 2026
+- [Compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) du **[Le Chirurgien SOS Main](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)** (SOS Main), 30 mai 2026
 
 - Comptes-rendus de consultations de suivi chirurgical : 12 juin, 3 juillet, 24 juillet 2026
 
 - Prescriptions et bilans de rééducation kinésithérapie (juin 2026 — mars 2027)
 
-- Certificats d'arrêt de travail (ITT du 29 mai 2026 au 23 juillet 2026)
+- Certificats d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT du 29 mai 2026 au 23 juillet 2026)
 
 - Imagerie médicale : radiographies de contrôle (30 mai, 12 juin 2026)
 
 - Attestation de suivi d'ergothérapie (novembre 2026)
 
-- Correspondance médicale entre le médecin traitant [**[Le Médecin Généraliste]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-medecin-generaliste.md) et le chirurgien SOS Main
+- Correspondance médicale entre le médecin traitant **[Le Médecin Généraliste](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-medecin-generaliste.md)** et le chirurgien SOS Main
 
 ---
 
 ### I.3 — RAPPEL DES FAITS ET DES SOINS REÇUS
 
-Le **29 mai 2026**, vers 15 heures, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), alors âgé de 44 ans et exerçant la profession d'informaticien indépendant, se trouvait en qualité de client dans le salon de coiffure exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) au [**[L'Adresse de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md).
+Le **29 mai 2026**, vers 15 heures, **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, alors âgé de 44 ans et exerçant la profession d'informaticien indépendant, se trouvait en qualité de client dans le salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au **[L'Adresse de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**.
 
-Le préposé de l'établissement a entrepris de régler un téléviseur fixé en hauteur. En l'absence de tout équipement d'accès (escabeau, marchepied), il est monté sur la vasque en céramique du bac à shampoing. Sous le poids, la vasque a basculé et s'est descellée du mur. Par réflexe, [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a tendu la main droite pour protéger le préposé et a heurté une cassure majeure préexistante non signalée aux arêtes tranchantes, située sur le rebord de la vasque fracturée.
+Le préposé de l'établissement a entrepris de régler un téléviseur fixé en hauteur. En l'absence de tout équipement d'accès (escabeau, marchepied), il est monté sur la vasque en céramique du bac à shampoing. Sous le poids, la vasque a basculé et s'est descellée du mur. Par réflexe, **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** a tendu la main droite pour protéger le préposé et a heurté une cassure majeure préexistante non signalée aux arêtes tranchantes, située sur le rebord de la vasque fracturée.
 
 **Prise en charge immédiate :** Prise en charge par le SMUR 09 (Centre Hospitalier Ariège) — pansement compressif, bilan lésionnel. Pas de lésion osseuse. Transfert pour microchirurgie spécialisée.
 
-**Intervention chirurgicale (30 mai 2026) :** Le [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md) (SOS Main) a pratiqué :
+**Intervention chirurgicale (30 mai 2026) :** Le **[Le Chirurgien SOS Main](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)** (SOS Main) a pratiqué :
 - Exploration de la plaie palmaire de l'index droit
 
 - Réparation microchirurgicale d'une **section complète du paquet collatéral radial de l'index droit** (nerf collatéral radial + artère digitale) sous microscope opératoire
@@ -96,7 +96,7 @@ Le préposé de l'établissement a entrepris de régler un téléviseur fixé en
 
 - Prise en charge ergothérapique à partir de novembre 2026 (rééducation sensitive, désensibilisation)
 
-- Arrêt de travail total du 29 mai 2026 au 23 juillet 2026 (55 jours)
+- [Arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total du 29 mai 2026 au 23 juillet 2026 (55 jours)
 
 - Reprise professionnelle progressive à partir d'août 2026 à temps partiel thérapeutique
 
@@ -106,7 +106,7 @@ Le préposé de l'établissement a entrepris de régler un téléviseur fixé en
 
 ### I.4 — ANAMNÈSE ET DOLÉANCES ACTUELLES
 
-[**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), droitier, déclare :
+**[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, droitier, déclare :
 
 **Douleurs :**
 - Douleur résiduelle permanente cotée à 2-3/10 sur l'échelle visuelle analogique (EVA) au niveau de la face palmaire de l'index droit
@@ -239,7 +239,7 @@ L'ensemble des lésions décrites (section du tendon fléchisseur profond, du pa
 
 La lésion nerveuse (nerf collatéral radial de l'index) a bénéficié d'une réparation microchirurgicale de qualité. La récupération sensitive et motrice a atteint un plateau à compter du mois de février 2027, après 8 mois de rééducation kinésithérapique et ergothérapique. Aucune amélioration fonctionnelle significative n'est intervenue depuis 3 mois.
 
-L'état de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) peut être considéré comme **consolidé au 1er mars 2027**, avec les séquelles décrites ci-dessus. Les lésions conservent un caractère définitif, sans perspective d'amélioration notable à ce stade.
+L'état de **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** peut être considéré comme **consolidé au 1er mars 2027**, avec les séquelles décrites ci-dessus. Les lésions conservent un caractère définitif, sans perspective d'amélioration notable à ce stade.
 
 **3. Séquelles — analyse par poste**
 
@@ -357,7 +357,7 @@ L'incidence professionnelle est distincte de la perte de revenus stricte (PGPF).
 
 ### I.8 — CONCLUSION
 
-Au terme de nos opérations, et après examen de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) le 29 mai 2027, nous concluons :
+Au terme de nos opérations, et après examen de **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** le 29 mai 2027, nous concluons :
 
 **Consolidation :** 1er mars 2027
 
@@ -380,9 +380,9 @@ Au terme de nos opérations, et après examen de [**[La Victime]**](../../../%F0
 
 **Total évalué par l'expert :** **81 031 €** *(hors PGPA, PGPF, frais médicaux passés et autres postes patrimoniaux relevant du décompte définitif)*
 
-Sous toutes réserves, le préjudice corporel global de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) (y compris postes patrimoniaux) peut être évalué dans une **fourchette globale de 120 000 € à 160 000 €**, dans l'attente du décompte CPAM et de la justification des pertes de gains futurs.
+Sous toutes réserves, le préjudice corporel global de **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** (y compris postes patrimoniaux) peut être évalué dans une **fourchette globale de 120 000 € à 160 000 €**, dans l'attente du décompte CPAM et de la justification des pertes de gains futurs.
 
-Fait à [**[La Métropole Régionale]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md), le 12 juin 2027.
+Fait à **[La Métropole Régionale](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)**, le 12 juin 2027.
 
 **L'Expert,**
 *[Docteur X — signature]*

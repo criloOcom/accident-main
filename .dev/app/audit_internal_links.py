@@ -71,6 +71,7 @@ def build_basename_index():
 
 
 def is_internal(link: str) -> bool:
+    if link.startswith("/home/crilocom/accident-main/"): return True
     if not link or link == '...':
         return False
     decoded = unquote(link)
@@ -80,6 +81,9 @@ def is_internal(link: str) -> bool:
 
 
 def resolve_path(link: str, source_dir: str) -> str:
+    if link.startswith("/home/crilocom/accident-main/"):
+        link = link.replace("/home/crilocom/accident-main/", "")
+
     link_stripped = unquote(link.split('#')[0])
     if not link_stripped:
         return None

@@ -44,4 +44,4 @@ Email direct de l'adjoint au maire en charge de l'urbanisme et de la sécurité 
 
 ## Source
 
-[TOKEN MAP → Personnes morales (suite)](../TOKEN%20MAP.md#token-l-email-de-l-adjoint-au-maire)
+TOKEN MAP → Personnes morales (suite)

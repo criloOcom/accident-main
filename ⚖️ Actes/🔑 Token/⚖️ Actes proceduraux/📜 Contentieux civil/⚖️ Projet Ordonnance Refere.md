@@ -27,7 +27,7 @@ jx: J+63
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -41,17 +41,17 @@ jx: J+63
 
 **DEMANDEUR**
 
-[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), né le [**[Date de naissance de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md), de nationalité française, demeurant au [**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, né le [**[Date de naissance de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md), de nationalité française, demeurant au **[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
 
 *Ayant pour conseil Maître [À désigner — AJ totale en cours], avocat au Barreau de l'Ariège*
 
 **DÉFENDEURS**
 
-1. [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), SAS au capital de 200 €, immatriculée au RCS de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) sous le n°[**[L'Identifiant de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md), ayant son siège au [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)
+1. **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, SAS au capital de 200 €, immatriculée au RCS de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** sous le n°**[L'Identifiant de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md)**, ayant son siège au **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**
 
-2. [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), pris en qualité de dirigeant et personnellement
+2. **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)**, pris en qualité de dirigeant et personnellement
 
-3. [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), prise en qualité de dirigeante et personnellement
+3. **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**, prise en qualité de dirigeante et personnellement
 
 *Défendeurs non comparants*
 
@@ -69,14 +69,14 @@ Vu l'article **1242 alinéa 1er** du Code civil ;
 
 Vu l'article **R. 4323-58** du Code du travail ;
 
-Vu les pièces versées aux débats, et notamment le procès-verbal de police n°[N° PV Police] et le certificat médical initial du 29 mai 2026 ;
+Vu les pièces versées aux débats, et notamment le procès-verbal de police n°[N° PV Police] et le [certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du 29 mai 2026 ;
 
 Vu l'absence de comparution des défendeurs, régulièrement assignés selon procès-verbal de recherches infructueuses (articles 659 et 658 CPC) ;
 ### EXPOSÉ DU LITIGE
 
-Par acte d'huissier du [date], [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a fait assigner en référé les défendeurs aux fins d'obtenir, à titre principal, une provision de **15 000 €** sur le fondement de l'article 835 alinéa 2 du Code de procédure civile, et à titre subsidiaire, une expertise médicale et la communication de la police d'assurance RC de la société défenderesse sous astreinte, sur le fondement de l'article 145 du même code.
+Par acte d'huissier du [date], **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** a fait assigner en référé les défendeurs aux fins d'obtenir, à titre principal, une provision de **15 000 €** sur le fondement de l'article 835 alinéa 2 du Code de procédure civile, et à titre subsidiaire, une expertise médicale et la communication de la police d'assurance RC de la société défenderesse sous astreinte, sur le fondement de l'article 145 du même code.
 
-Le demandeur expose qu'il s'est rendu le **29 mai 2026** au salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). Le préposé de l'établissement, en l'absence de tout équipement d'accès en hauteur, est monté sur une vasque en céramique pour régler un téléviseur. Sous son poids, la vasque — déjà instable et fragilisée par une cassure majeure préexistante non signalée aux arêtes tranchantes — a basculé. Par réflexe, le demandeur — informaticien indépendant âgé de 44 ans — a tendu la main droite et a heurté la cassure tranchante.
+Le demandeur expose qu'il s'est rendu le **29 mai 2026** au salon de coiffure exploité par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**. Le préposé de l'établissement, en l'absence de tout équipement d'accès en hauteur, est monté sur une vasque en céramique pour régler un téléviseur. Sous son poids, la vasque — déjà instable et fragilisée par une cassure majeure préexistante non signalée aux arêtes tranchantes — a basculé. Par réflexe, le demandeur — informaticien indépendant âgé de 44 ans — a tendu la main droite et a heurté la cassure tranchante.
 
 L'accident a entraîné une section complète du tendon fléchisseur profond (FDP) de l'index droit, associée à une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une microchirurgie d'urgence le 30 mai 2026, puis une neurolyse du nerf palmaire. L'ITT a été fixée à **55 jours**. Le demandeur soutient que son obligation à indemnisation n'est pas sérieusement contestable et que l'absence de communication de la police d'assurance par les défendeurs le prive de son action directe.
 
@@ -89,23 +89,23 @@ Les défendeurs, régulièrement cités par procès-verbal de recherches infruct
 
 **Considérant** qu'aux termes de l'article 835 alinéa 2 du Code de procédure civile, le président du tribunal judiciaire peut accorder une provision au créancier lorsque l'existence de l'obligation n'est pas sérieusement contestable ;
 
-**Considérant** qu'il résulte des pièces produites — procès-verbal de police, certificat médical initial, compte-rendu opératoire — que le demandeur a été blessé le 29 mai 2026 dans l'établissement de la SAS défenderesse par le basculement d'une vasque en céramique sur laquelle le préposé était monté, et qu'il a subi des lésions graves à la main droite nécessitant une intervention chirurgicale d'urgence ;
+**Considérant** qu'il résulte des pièces produites — procès-verbal de police, [certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md), [compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) — que le demandeur a été blessé le 29 mai 2026 dans l'établissement de la SAS défenderesse par le basculement d'une vasque en céramique sur laquelle le préposé était monté, et qu'il a subi des lésions graves à la main droite nécessitant une intervention chirurgicale d'urgence ;
 
-**Considérant** que la responsabilité de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) est engagée de plein droit sur le fondement de l'article **1242 alinéa 1er** du Code civil en qualité de gardienne de la vasque, qui a été l'instrument actif du dommage (Civ. 2e, 13 février 1991, n° 89-18.422) ; que la société est également engagée en qualité de commettant sur le fondement de l'article 1242 alinéa 5 du même code, le préposé ayant agi dans le cadre de ses fonctions ;
+**Considérant** que la responsabilité de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** est engagée de plein droit sur le fondement de l'article **1242 alinéa 1er** du Code civil en qualité de gardienne de la vasque, qui a été l'instrument actif du dommage (Civ. 2e, 13 février 1991, n° 89-18.422) ; que la société est également engagée en qualité de commettant sur le fondement de l'article 1242 alinéa 5 du même code, le préposé ayant agi dans le cadre de ses fonctions ;
 
 **Considérant** que l'absence d'équipement d'accès en hauteur, en violation de l'article **R. 4323-58** du Code du travail, constitue une faute complémentaire de nature à engager la responsabilité de la société sur le fondement de l'article **1240** du Code civil, à titre subsidiaire ;
 
 **Considérant** que les défendeurs, non comparants, n'apportent aucun élément de nature à démontrer l'existence d'une cause étrangère exonératoire ; que la cassure préexistante de la vasque, vice inhérent à la chose, ne constitue pas une cause d'exonération (Civ. 2e, 5 mai 1975, n° 74-10.466) ;
 
-**Considérant** en revanche que la demande tendant à voir engager, à ce stade de la procédure, la responsabilité personnelle de [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) sur le fondement d'une faute détachable de leurs fonctions sociales se heurte à une **contestation sérieuse** relevant de l'appréciation souveraine du juge du fond ; qu'il n'y a donc pas lieu d'y faire droit en référé ;
+**Considérant** en revanche que la demande tendant à voir engager, à ce stade de la procédure, la responsabilité personnelle de **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** sur le fondement d'une faute détachable de leurs fonctions sociales se heurte à une **contestation sérieuse** relevant de l'appréciation souveraine du juge du fond ; qu'il n'y a donc pas lieu d'y faire droit en référé ;
 
 **Considérant**, en conséquence, que l'obligation à indemnisation de la SAS défenderesse n'est pas sérieusement contestable ;
 
 #### I.1.b — Sur le montant de la provision
 
-**Considérant** que le préjudice corporel de [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), nécessairement provisoire en l'absence de consolidation, peut être évalué comme suit à ce stade :
+**Considérant** que le préjudice corporel de **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, nécessairement provisoire en l'absence de consolidation, peut être évalué comme suit à ce stade :
 
-- Pertes de gains professionnels actuels (PGPA) pour 55 jours d'arrêt de travail : **1 355 €** ;
+- Pertes de gains professionnels actuels (PGPA) pour 55 jours d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) : **1 355 €** ;
 
 - Frais médicaux et paramédicaux (chirurgie 790,23 €, soins de kinésithérapie) : **4 000 €** ;
 
@@ -134,15 +134,15 @@ Les défendeurs, régulièrement cités par procès-verbal de recherches infruct
 
 ### PAR CES MOTIFS
 
-Nous, **Juge des référés** du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), statuant publiquement, par ordonnance **réputée contradictoire** et en premier ressort,
+Nous, **Juge des référés** du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, statuant publiquement, par ordonnance **réputée contradictoire** et en premier ressort,
 
 **I. Provision**
 
-**CONDAMNONS** [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) à verser à [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) une **provision de 15 000 € (quinze mille euros)** à valoir sur l'indemnisation définitive de son préjudice corporel ;
+**CONDAMNONS** **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** à verser à **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** une **provision de 15 000 € (quinze mille euros)** à valoir sur l'indemnisation définitive de son préjudice corporel ;
 
 **II. Expertise médicale**
 
-**ORDONNONS** une expertise médicale de [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) ;
+**ORDONNONS** une expertise médicale de **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** ;
 
 **DÉSIGNONS** pour y procéder [expert à désigner], avec pour mission de :
 
@@ -160,13 +160,13 @@ Nous, **Juge des référés** du Tribunal Judiciaire de [**[La Ville de l'Accide
 
 **III. Communication de l'assurance**
 
-**ORDONNONS** à [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) de communiquer à [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), dans un délai de **quinze jours** suivant la signification de la présente ordonnance, sa police d'assurance responsabilité civile professionnelle en vigueur au jour de l'accident, ainsi qu'une attestation de son caractère en cours de validité ;
+**ORDONNONS** à **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** de communiquer à **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, dans un délai de **quinze jours** suivant la signification de la présente ordonnance, sa police d'assurance responsabilité civile professionnelle en vigueur au jour de l'accident, ainsi qu'une attestation de son caractère en cours de validité ;
 
 **DISONS** qu'à défaut de production dans ce délai, la SAS y sera contrainte sous **astreinte provisoire de 100 € (cent euros) par jour de retard**, à compter du seizième jour suivant la signification de la présente ordonnance, et ce pendant une durée de **quatre-vingt-dix jours**, à l'issue de laquelle il pourra être à nouveau fait droit ;
 
 **IV. Article 700 et dépens**
 
-**CONDAMNONS** [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) à verser à [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) la somme de **2 000 € (deux mille euros)** au titre de l'article 700 du Code de procédure civile ;
+**CONDAMNONS** **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** à verser à **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** la somme de **2 000 € (deux mille euros)** au titre de l'article 700 du Code de procédure civile ;
 
 **CONDAMNONS** la même aux **entiers dépens** de la présente instance ;
 

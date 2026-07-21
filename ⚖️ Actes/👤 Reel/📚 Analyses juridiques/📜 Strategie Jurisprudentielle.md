@@ -13,7 +13,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Strategie Jurisprudenti
 source: local
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [👤 Actes / reel — Version réelle](../README.md) › [📚 Analyses juridiques](./README.md) › 📜 Strategie Jurisprudentielle*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › 📜 Strategie Jurisprudentielle*
 <hr>
 <!-- /Breadcrumb -->
 
