@@ -1,6 +1,6 @@
 ---
 title: "📊 Index des Textes Juridiques"
-description: "Ce dossier contient l'index complet et organisé de tous les textes de loi et articles juridiques référencés dans le projet."
+description: "Index complet et organisé de tous les textes de loi et articles juridiques référencés dans le projet."
 type: readme
 ---
 <!-- Breadcrumb -->
@@ -10,91 +10,174 @@ type: readme
 
 # 📊 Index des Textes Juridiques
 
-Ce dossier contient l'index complet et organisé de tous les textes de loi et articles juridiques référencés dans le projet.
+## 📒 Codes et Textes Législatifs
 
-## 📁 Structure de l'Index
+### Code Civil (12 articles)
+- [Art. 1240](../📒 Code/📒 Code civil/Article1240_CodeCivil.md) — Responsabilité délictuelle
 
-### 📒 Codes et Textes Législatifs
+- [Art. 1242](../📒 Code/📒 Code civil/Article1242_CodeCivil.md) — Responsabilité du fait des choses
 
-#### 📜 Code Civil (6 articles)
-- [Article 1240](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20civil/Article1240_CodeCivil.md) - Responsabilité délictuelle
+- [Art. 1359](../📒 Code/📒 Code civil/Article_1359_CodeCivil.md) — Preuve par écrit des actes juridiques
 
-- [Article 1242](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20civil/Article1242_CodeCivil.md) - Responsabilité du fait des choses
+- [Art. 1382](../📒 Code/📒 Code civil/Article_1382_CodeCivil.md) — Preuve par présomption judiciaire
 
-- [Article 1719](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20civil/Article1719_CodeCivil_LegiFrance.md) - Obligations du bailleur
+- [Art. 1383](../📒 Code/📒 Code civil/Article_1383_CodeCivil.md) — L'aveu
 
-- [Article 1720](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20civil/Article1720_CodeCivil_LegiFrance.md) - Garantie des vices cachés
+- [Art. 1641](../📒 Code/📒 Code civil/Article_1641_CodeCivil.md) — Garantie des défauts cachés
 
-- [Article 1844-8](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20civil/Article_1844-8_Code_Legifrance.md) - Responsabilité des dirigeants
+- [Art. 1719](../📒 Code/📒 Code civil/Article1719_CodeCivil_LegiFrance.md) — Obligations du bailleur
 
-- [Article 2226](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20civil/Article_2226_Code_Legifrance.md) - Prescription extinctive
+- [Art. 1720](../📒 Code/📒 Code civil/Article1720_CodeCivil_LegiFrance.md) — Obligations du bailleur (grosses réparations)
 
-#### 📜 Code Pénal (4 articles)
-- [Article 121-1 à 121-7](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/Article_121-1a121-7_CodePenal_Legifrance.md) - Responsabilité pénale
+- [Art. 1844-8](../📒 Code/📒 Code civil/Article_1844-8_Code_Legifrance.md) — Responsabilité des dirigeants
 
-- [Article 121-3](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/Article_121-3_Code_Legifrance.md) - Responsabilité des personnes morales
+- [Art. 2044](../📒 Code/📒 Code civil/Article_2044_CodeCivil.md) — Définition de la transaction
 
-- [Article 222-19](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/Article_222-19_CodePenal_Legifrance.md) - Blessures involontaires
+- [Art. 2224](../📒 Code/📒 Code civil/Article_2224_CodeCivil.md) — Prescription de droit commun 5 ans
 
-- [Article 222-20](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/Article222-20_CodePenal_LegiFrance.md) - Violences ayant entraîné une ITT
+- [Art. 2226](../📒 Code/📒 Code civil/Article_2226_Code_Legifrance.md) — Prescription décennale
 
-#### 📜 Code de Procédure Civile (4 articles)
-- [Article 145](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20civile/Article_145_CodeDeProc%C3%A9dureCivile_Legifrance.md) - Mesures d'instruction in futurum
+### Code Pénal (9 articles)
+- [Art. 121-1 à 121-7](../📒 Code/📒 Code pénal/Article_121-1a121-7_CodePenal_Legifrance.md) — Principes généraux responsabilité pénale
 
-- [Article 263](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20civile/Article_263_Codeproc_Legifrance.md) - Pouvoirs du juge
+- [Art. 121-3](../📒 Code/📒 Code pénal/Article_121-3_Code_Legifrance.md) — Élément moral de l'infraction (intention, imprudence, mise en danger)
 
-- [Article 700](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20civile/Article_700_Codeproc_Legifrance.md) - Frais irrépétibles
+- [Art. 222-19](../📒 Code/📒 Code pénal/Article_222-19_CodePenal_Legifrance.md) — Blessures involontaires
 
-- [Article 835](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20civile/Article835_CodeDeProcedureCivile_LegiFrance.md) - Provision
+- [Art. 222-20](../📒 Code/📒 Code pénal/Article222-20_CodePenal_LegiFrance.md) — Blessures involontaires avec circonstances aggravantes
 
-#### 📜 Code de Procédure Pénale (2 articles)
-- [Article 475-1](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20penale/Article475-1_CodeProcedurePenale.md) - Constitution de partie civile
+- [Art. 223-1](../📒 Code/📒 Code pénal/Article_223-1_Code_Legifrance.md) — Mise en danger d'autrui
 
-- [Article 706-3](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20penale/Article_706-3_CodeProcedurePenale_Legifrance.md) - Indemnisation des victimes d'infractions
+- [Art. 314-7](../📒 Code/📒 Code pénal/Article_314-7_CodePenal_Legifrance.md) — Fraude sociale
 
-#### 📜 Code de Commerce (6 articles)
-- [Article L210-6](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L210-6_Codecommerce_Legifrance.md) - Responsabilité des dirigeants
+- [Art. 434-4](../📒 Code/📒 Code pénal/Article_434-4_CodePenal_Legifrance.md) — Obstacle à la manifestation de la vérité
 
-- [Article L223-22](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L223-22_Codecommerce_Legifrance.md) - Dissolution de SARL
+- [Art. 434-15](../📒 Code/📒 Code pénal/Article_434-15_CodePenal_Legifrance.md) — Subornation de témoin
 
-- [Article L225-251](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L225-251_Codecommerce_Legifrance.md) - Responsabilité des dirigeants de SA
+- [Art. 434-15-1](../📒 Code/📒 Code pénal/Article_434-15-1_CodePenal_Legifrance.md) — Obstruction aggravée
 
-- [Article L227-1](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L227-1_Code_Legifrance.md) - Transformation de SAS
+### Code de Procédure Civile (7 articles)
+- [Art. 144](../📒 Code/📒 Code procédure civile/Article_144_CodeDeProcedureCivile.md) — Mesures d'instruction
 
-- [Article L227-8](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L227-8_Codecommerce_Legifrance.md) - Responsabilité des gérants de SAS
+- [Art. 145](../📒 Code/📒 Code procédure civile/Article_145_CodeDeProcédureCivile_Legifrance.md) — Mesures d'instruction in futurum
 
-- [Article L237-2](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L237-2_Codecommerce_Legifrance.md) - Conflits d'intérêts
+- [Art. 202](../📒 Code/📒 Code procédure civile/Article_202_CodeDeProcedureCivile.md) — Attestations de témoins
 
-#### 📜 Code des Assurances (2 articles)
-- [Article L113-2](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/Article_L113-2_Codesassurances_Legifrance.md) - Obligation de déclaration du risque
+- [Art. 263](../📒 Code/📒 Code procédure civile/Article_263_Codeproc_Legifrance.md) — Expertise judiciaire
 
-- [Article L124-3](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/Article_L124-3_Codesassurances_Legifrance.md) - Action directe de la victime
+- [Art. 655](../📒 Code/📒 Code procédure civile/Article_655_CodeProcedureCivile.md) — Signification à domicile ou à résidence
 
-#### 📜 Code de la consommation (1 article)
-- [Article L421-3](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20consommation/Article_L421-3_Codeconsommation_Legifrance.md) - Obligation générale de sécurité (Code de la consommation)
+- [Art. 700](../📒 Code/📒 Code procédure civile/Article_700_Codeproc_Legifrance.md) — Frais irrépétibles
 
-#### 📜 Code de la construction et de l'habitation (1 article)
-- [Article R143-2](../%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20construction%20habitation/Article_R143-2_Codeconstructionhabitation_Legifrance.md) - Définition des ERP (Code de la construction)
+- [Art. 835](../📒 Code/📒 Code procédure civile/Article835_CodeDeProcedureCivile_LegiFrance.md) — Référé-provision
 
-### 🏛️ Jurisprudence (24 arrêts)
+### Code de Procédure Pénale (10 articles)
+- [Art. 8](../📒 Code/📒 Code procédure pénale/Article_8_CodeProcedurePenale.md) — Prescription de l'action publique
 
-Consultez le dossier [📜 Jurisprudence](../%F0%9F%93%9C%20Jurisprudence/) pour la liste complète des arrêts de la Cour de cassation.
+- [Art. 15-3](../📒 Code/📒 Code procédure pénale/Article_15-3_CodeProcedurePenale.md) — Dépôt de plainte, récépissé
 
-## 🔍 Recherche et Navigation
+- [Art. 40](../📒 Code/📒 Code procédure pénale/Article_40_CodeProcedurePenale.md) — Attributions du procureur
 
-Pour trouver rapidement un texte :
-- Utilisez la commande `grep -r "mot-clé" 📜 Lois/` pour rechercher dans tous les fichiers
+- [Art. 53](../📒 Code/📒 Code procédure pénale/Article_53_CodeProcedurePenale.md) — Flagrant délit
 
-- Consultez les README.md de chaque sous-dossier pour une vue d'ensemble
+- [Art. 77-1-1](../📒 Code/📒 Code procédure pénale/Article_77-1-1_CodeProcedurePenale.md) — Réquisitions vidéoprotection
 
-- Les fichiers sont nommés selon le format : `Article_XXX-YY_CodeNom_Legifrance.md`
+- [Art. 80](../📒 Code/📒 Code procédure pénale/Article_80_CodeProcedurePenale.md) — Réquisitoire introductif
+
+- [Art. 86](../📒 Code/📒 Code procédure pénale/Article_86_CodeProcedurePenale.md) — Constitution partie civile
+
+- [Art. 475-1](../📒 Code/📒 Code procédure pénale/Article475-1_CodeProcedurePenale.md) — Frais de procédure (partie civile)
+
+- [Art. 706-3](../📒 Code/📒 Code procédure pénale/Article_706-3_CodeProcedurePenale_Legifrance.md) — FGTI, indemnisation victimes
+
+- [Art. 706-5](../📒 Code/📒 Code procédure pénale/Article_706-5_CodeProcedurePenale.md) — Délai forclusion CIVI (3 ans)
+
+### Code des Assurances (5 articles)
+- [Art. L.113-1](../📒 Code/📒 Code assurances/Article_L113-1_Codesassurances.md) — Obligations de l'assureur et de l'assuré
+
+- [Art. L.113-2](../📒 Code/📒 Code assurances/Article_L113-2_Codesassurances_Legifrance.md) — Déclaration du risque
+
+- [Art. L.114-1](../📒 Code/📒 Code assurances/Article_L114-1_Codesassurances.md) — Prescription biennale
+
+- [Art. L.124-3](../📒 Code/📒 Code assurances/Article_L124-3_Codesassurances_Legifrance.md) — Action directe de la victime
+
+- [Art. L.121-1 à L.121-7](../📒 Code/📒 Code assurances/Article_L121-1a121-7_Code_Legifrance.md) — Principes généraux (personnes morales)
+
+### Code de Commerce (13 articles)
+- [Art. L.123-2](../📒 Code/📒 Code commerce/Article_L123-2_Code_Legifrance.md) — Immatriculation commerçants RCS
+
+- [Art. L.123-3](../📒 Code/📒 Code commerce/Article_L123-3_Codecommerce.md) — Injonction immatriculation/radiation RCS
+
+- [Art. L.123-5-1](../📒 Code/📒 Code commerce/Article_L123-5-1_Codecommerce.md) — Injonction dépôt pièces RCS
+
+- [Art. L.210-6](../📒 Code/📒 Code commerce/Article_L210-6_Codecommerce_Legifrance.md) — Responsabilité des dirigeants
+
+- [Art. L.223-22](../📒 Code/📒 Code commerce/Article_L223-22_Codecommerce_Legifrance.md) — Nullité des actes
+
+- [Art. L.225-251](../📒 Code/📒 Code commerce/Article_L225-251_Codecommerce_Legifrance.md) — Responsabilité liquidation
+
+- [Art. L.227-1](../📒 Code/📒 Code commerce/Article_L227-1_Code_Legifrance.md) — Pouvoirs du président SAS
+
+- [Art. L.227-8](../📒 Code/📒 Code commerce/Article_L227-8_Codecommerce_Legifrance.md) — Responsabilité dirigeants SAS
+
+- [Art. L.237-2](../📒 Code/📒 Code commerce/Article_L237-2_Codecommerce_Legifrance.md) — Responsabilité liquidation
+
+- [Art. L.611-3](../📒 Code/📒 Code commerce/Article_L611-3_Code_Legifrance.md) — Procédure de sauvegarde
+
+- [Art. R.123-2](../📒 Code/📒 Code commerce/Article_R123-2_Codecommerce.md) — Guichet unique
+
+- [Art. R.123-128](../📒 Code/📒 Code commerce/Article_R123-128_Codecommerce.md) — Radiations d'office
+
+### Code du Travail (6 articles)
+- [Art. L.4121-1](../📒 Code/📒 Code du travail/Article_L4121-1_CodeTravail.md) — Obligations employeur santé/sécurité
+
+- [Art. L.4321-1](../📒 Code/📒 Code du travail/Article_L4321-1_CodeTravail.md) — Équipements de travail
+
+- [Art. L.8221-1](../📒 Code/📒 Code du travail/Article_L8221-1_CodeTravail.md) — Interdiction travail dissimulé
+
+- [Art. L.8221-5](../📒 Code/📒 Code du travail/Article_L8221-5_CodeTravail.md) — Dissimulation d'emploi salarié
+
+- [Art. L.8271-1-2](../📒 Code/📒 Code du travail/Article_L8271-1-2_CodeTravail.md) — Agents de contrôle travail illégal
+
+- [Art. R.4121-1](../📒 Code/📒 Code du travail/Article_R4121-1_CodeTravail.md) — Document unique évaluation risques
+
+### Code Général des Collectivités Territoriales (2 articles)
+- [Art. L.2212-2](../📒 Code/📒 Code général des collectivités territoriales/Article_L2212-2_CodeGeneralCollectivitesTerritoriales_Legifrance.md) — Pouvoirs de police du maire
+
+- [Art. L.2212-4](../📒 Code/📒 Code général des collectivités territoriales/Article_L2212-4_CodeGeneralCollectivitesTerritoriales_Legifrance.md) — Mesures d'urgence du maire
+
+### Code de la Consommation (1 article)
+- [Art. L.421-3](../📒 Code/📒 Code consommation/Article_L421-3_Codeconsommation_Legifrance.md) — Obligation générale de sécurité des prestations
+
+### Code de la Construction et de l'Habitation (1 article)
+- [Art. R.143-2](../📒 Code/📒 Code construction habitation/Article_R143-2_Codeconstructionhabitation_Legifrance.md) — Définition des ERP
+
+### Code des Relations entre le Public et l'Administration (1 article)
+- [Art. L.311-1](../📒 Code/📒 Code des relations entre le public et l'administration/Article_L311-1_CRPA.md) — Droit à communication des documents administratifs
+
+### Livre des Procédures Fiscales (2 articles)
+- [Art. L.252](../📒 Code/📒 Livre des procédures fiscales/Article_L252_LivreProceduresFiscales.md) — Recouvrement impôts
+
+- [Art. L.274](../📒 Code/📒 Livre des procédures fiscales/Article_L274_LivreProceduresFiscales.md) — Prescription recouvrement 4 ans
+
+### Code de la Sécurité Sociale (1 fiche)
+- [Régime AT/MP indépendants](../📒 Code/📒 Code sécurite sociale/Accident_Travail_Independants.md) — Accident du travail des indépendants
+
+### Règlement Européen
+- [RGPD – Art. 7, 9 et 82](../RGPD_Articles7_9_82.md) — Consentement, données sensibles, réparation
+
+## 🏛️ Jurisprudence
+
+- **37 arrêts Cour de cassation** dans [📜 Jurisprudence/](../📜 Jurisprudence/)
+
+- **7 décisions CA/TJ** dans [📜 Jurisprudence/🏛️ Jurisprudence du fond (CA-TJ)/](../📜 Jurisprudence/🏛️%20Jurisprudence%20du%20fond%20(CA-TJ)/)
 
 ## 📋 Statistiques
 
-- **Total articles de loi** : 24
+- **Total articles de loi** : 70+ (tous codes confondus)
 
-- **Total arrêts de jurisprudence** : 23
+- **Total arrêts de jurisprudence** : 44 (37 Cass. + 7 CA/TJ)
 
-- **Codes représentés** : 8
+- **Codes représentés** : 12
 
-- **Dernière mise à jour** : 11 juillet 2026
+- **Dernière mise à jour** : 21 juillet 2026
