@@ -42,6 +42,9 @@ jx: J+52
 Cabinet du Juge des Référés
 
 **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le 20 juillet 2026
+
+---
+
 ## I — INTRODUCTION
 
 La présente requête est introduite par **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** sur le fondement de l'article 145 du Code de procédure civile.
