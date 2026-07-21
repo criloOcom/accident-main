@@ -101,6 +101,9 @@ Je vous prie d'agréer, Monsieur le Doyen des Juges d'Instruction, l'expression 
 <hr><hr>
 <!-- /PJ -->
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 88 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575469](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575469)
+<!-- /Source -->
+

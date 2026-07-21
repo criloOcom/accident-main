@@ -27,8 +27,6 @@ jx: J+32
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 # ASSIGNATION EN RÉFÉRÉ-PROVISION <br> ET <br> DEMANDE D'EXPERTISE MÉDICALE
 > 🔗 Source Google Drive : [1ZIfWjszjl5V…](https://drive.google.com/open?id=1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg)
 Rédigé le **[J+32 Assignation référé](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)**
@@ -365,6 +363,7 @@ Pour **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20To
 13. LRAR adressée à **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** et son AR signé (**[J+35 AR propriétaire](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-35-ar-proprietaire.md)**)
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 835 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) ↩
@@ -387,3 +386,5 @@ Pour **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20To
 [^18]: [Arrêt n°96-16.128 — www.legifrance.gouv.fr/juri/id/JURITEXT000007037753](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007037753) ↩
 [^19]: [Article L.124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
 [^20]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
+<!-- /Source -->
+

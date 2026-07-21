@@ -21,8 +21,6 @@ jx: J+60
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 # **DOSSIER DE PLAIDOIRIE POUR L'AUDIENCE DE RÉFÉRÉ DU 31 JUILLET 2026**
 ## I — FICHE SYNTHÉTIQUE
 
@@ -186,6 +184,7 @@ Non, Monsieur le Juge. C'est précisément l'une des raisons de notre présence 
 Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'enceinte de l'établissement pendant ses horaires de travail pour accomplir une tâche au profit de l'exploitation. Il bénéficie donc de l'immunité civile selon la jurisprudence Costedoat, et la responsabilité de **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** en tant que commettant est pleinement engagée.
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 1242 alinéa 1er du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
@@ -196,3 +195,5 @@ Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'encei
 [^6]: [N° 99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
 [^7]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
 [^8]: [Article L.227-8 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) ↩
+<!-- /Source -->
+

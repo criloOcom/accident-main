@@ -20,8 +20,6 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/Mémoire - En défense adver
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 # MÉMOIRE EN DÉFENSE ADVERSE
 **Pour :** **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, **[Le Président de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** (Partie Défenderesse)
 **Contre :** **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** (Partie Demanderesse)
@@ -122,8 +120,11 @@ L'obligation de **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Me
 Fait pour valoir ce que de droit.
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 835 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) ↩
 [^2]: [Article 1241 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 [^3]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
+<!-- /Source -->
+

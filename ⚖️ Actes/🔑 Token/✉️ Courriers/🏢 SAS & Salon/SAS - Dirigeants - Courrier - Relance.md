@@ -189,6 +189,7 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
 <hr><hr>
 <!-- /PJ -->
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 434-4 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) ↩
@@ -196,3 +197,5 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
 [^3]: [Article L4121-1 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) ↩
 [^4]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
 [^5]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
+<!-- /Source -->
+

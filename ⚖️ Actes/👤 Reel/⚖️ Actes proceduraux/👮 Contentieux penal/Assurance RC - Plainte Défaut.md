@@ -188,6 +188,7 @@ Le plaignant se constitue partie civile et se tient à la disposition de la just
 <hr><hr>
 <!-- /PJ -->
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
@@ -198,3 +199,5 @@ Le plaignant se constitue partie civile et se tient à la disposition de la just
 [^6]: [Arrêt n°20-16.463 — www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
 [^7]: [Article 121-3 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
 [^8]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
+<!-- /Source -->
+

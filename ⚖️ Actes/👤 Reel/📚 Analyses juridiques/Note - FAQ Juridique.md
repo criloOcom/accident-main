@@ -22,8 +22,6 @@ jx: J+32
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 # SYNTHÈSE JURIDIQUE ET FAQ AFFAIRE **[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** C/ **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
 > 🔗 Source Google Drive : [1eoOJ-bcHBNn…](https://drive.google.com/open?id=1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM)
 Rédigé par : **[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
@@ -194,6 +192,7 @@ De plus, l'action directe contre l'assureur (Art. L. 124-3 du Code des assurance
 > **Code de commerce > Partie législative > Livre V > Titre IV > Chapitre IV > Section 3.[^11]**
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 1641 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924)
@@ -207,3 +206,5 @@ De plus, l'action directe contre l'assureur (Art. L. 124-3 du Code des assurance
 [^9]: [Article 835 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
 [^10]: [Article 2226 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259)
 [^11]: [Article L. 237-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063)
+<!-- /Source -->
+

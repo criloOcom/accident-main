@@ -21,8 +21,6 @@ drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 **Table des matières**
 
 - [INTRODUCTION](#introduction)
@@ -132,6 +130,7 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
@@ -142,3 +141,5 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 [^6]: [Arrêt n°20-16.463 — www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) ↩
 [^7]: [Arrêt n°22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) ↩
 [^8]: [Article 145 du CPC — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+<!-- /Source -->
+

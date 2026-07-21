@@ -145,6 +145,7 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 <hr><hr>
 <!-- /PJ -->
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 1719 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127)
@@ -153,3 +154,5 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 [^4]: [Arrêt n°20-15.106 — www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
 [^5]: [Article L. 113-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)
 [^6]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+<!-- /Source -->
+

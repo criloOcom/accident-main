@@ -162,7 +162,10 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
 <hr><hr>
 <!-- /PJ -->
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 [^2]: [Article R4323-58 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
+<!-- /Source -->
+

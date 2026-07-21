@@ -22,8 +22,6 @@ jx: J+32
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 # ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE **[L'EXPLOITANT DU COMMERCE (LA SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
 > 🔗 Source Google Drive : [1lUKoGE8kozm…](https://drive.google.com/open?id=1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34)
 Rédigé le **[J+32 Assignation référé](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)**
@@ -242,6 +240,7 @@ La responsabilité de **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A
 La difficulté centrale est le **recouvrement** : [**[Capital Social de l'Exploitation]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) seulement. La voie principale est la **saisine de la CIVI** pour obtenir l'indemnisation via le FGTI, qui contourne l'insolvabilité de la SAS. Les dirigeants doivent être mis en cause personnellement dès maintenant. L'action directe contre l'assureur RC, s'il est identifié, reste la voie la plus rapide.
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
@@ -256,3 +255,5 @@ La difficulté centrale est le **recouvrement** : [**[Capital Social de l'Exploi
 [^10]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
 [^11]: [Article L. 113-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) ↩
 [^12]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000045822770](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770) ↩
+<!-- /Source -->
+

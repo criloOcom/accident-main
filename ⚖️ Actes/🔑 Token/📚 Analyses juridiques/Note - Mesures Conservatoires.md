@@ -19,8 +19,6 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/Note - Mesures Conservatoire
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 # NOTE JURIDIQUE : MESURES CONSERVATOIRES AVANT DISPARITION
 ## I — PROBLÉMATIQUE
 
@@ -83,6 +81,9 @@ Afin de préserver les droits de **[La Victime](../../../%F0%9F%A7%A0%20Memory/%
 La constitution sans délai d'un dossier probant démontrant la menace pesant sur le recouvrement est l'étape préalable et indispensable à la réussite de cette démarche.
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article L.511-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026104](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026104) ↩
+<!-- /Source -->
+

@@ -23,8 +23,6 @@ jx: J+39
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 # BORDEREAU DE PIÈCES
 
 > **Procédure :** Référé (Art. 835 CPC, Art. 145 CPC) — **Demandeur :** **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — **Défendeur :** **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
@@ -250,8 +248,11 @@ jx: J+39
 - **05/06/2026** — Preuve de dépôt LRAR [arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (La Poste, **[La Ville de Résidence de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**) : Décalage de date constaté (vignette 03/06, flash postal 05/06).
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Arrêt n° 91-11.285 — www.legifrance.gouv.fr/juri/id/JURITEXT000007030228](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007030228) ↩
 [^2]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
 [^3]: [Arrêt n°22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) ↩
+<!-- /Source -->
+

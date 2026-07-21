@@ -21,8 +21,6 @@ drive_id: 1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 **Table des matières**
 
 - [INTRODUCTION](#introduction)
@@ -199,6 +197,7 @@ Les seules références doctrinales spécifiques aux salons de coiffure sont :
 Ces sources sont citées à titre de doctrine, non de jurisprudence.
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [articles 1240 et 1231-1 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
@@ -211,3 +210,5 @@ Ces sources sont citées à titre de doctrine, non de jurisprudence.
 [^8]: [Arrêt n°13-80.849 — www.legifrance.gouv.fr/juri/id/JURITEXT000029014493](https://www.legifrance.gouv.fr/juri/id/JURITEXT000029014493) ↩
 [^9]: [Arrêt n°20-15.106 — www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126) ↩
 [^10]: [Arrêt n°22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) ↩
+<!-- /Source -->
+

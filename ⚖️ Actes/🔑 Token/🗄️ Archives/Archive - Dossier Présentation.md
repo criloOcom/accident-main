@@ -22,8 +22,6 @@ drive_id: 1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 **Table des matières**
 
 - [INTRODUCTION](#introduction)
@@ -116,9 +114,12 @@ Les examens cliniques constatent une section partielle du tendon fléchisseur, u
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
 [^2]: [Article 475-1 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) ↩
 [^3]: [Article 1242 alinéas 1 et 5 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
 [^4]: [Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+<!-- /Source -->
+

@@ -22,8 +22,6 @@ jx: J+41
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 # NOTE JURIDIQUE <br> SUR LA RESPONSABILITÉ DES DIRIGEANTS EN CAS DE DISSOLUTION FRAUDULEUSE
 ## I — PROBLÉMATIQUE
 
@@ -83,9 +81,12 @@ La jurisprudence constante de la Cour de cassation (chambre commerciale, arrêt 
 **Conclusion :** la disparition frauduleuse de la SAS engage à titre personnel **[Hamza El Hachemi BERGUIGA](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[Catherine SORROCHE, dite ANDISSAC](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**. Il est recommandé de les mettre en cause personnellement dès la phase de référé-provision et de les viser dans le signalement au Parquet.
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article L.227-8 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
 [^2]: [Article L.651-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025718687](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025718687)
 [^3]: [Article L.654-7 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984550](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984550)
 [^4]: [Pourvoi n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
+<!-- /Source -->
+

@@ -102,7 +102,10 @@ Je vous prie de croire, Monsieur le Maire, à l'expression de ma considération 
 <hr><hr>
 <!-- /PJ -->
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [article L. 2212-2 du Code général des collectivités territoriales — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370) ↩
 [^2]: [article L. 2212-4 du Code général des collectivités territoriales — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390155](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390155) ↩
+<!-- /Source -->
+

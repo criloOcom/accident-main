@@ -22,8 +22,6 @@ jx: J+32
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 # PLAN D'ACTION ET CHRONOLOGIE DE LA PROCÉDURE
 > 🔗 Source Google Drive : [153cOANMpw-O…](https://drive.google.com/open?id=153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s)
 Rédigé le **[J+32 Assignation référé](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)**
@@ -154,9 +152,12 @@ Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel
 *Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[J+0 Accident](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) ([arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la prolongation involontaire de certaines démarches.*
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
 [^2]: [Article 1242 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
 [^3]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
 [^4]: [l'Arrêt Sati — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
+<!-- /Source -->
+

@@ -128,6 +128,9 @@ NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de 
 <hr><hr>
 <!-- /PJ -->
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Arrêt n°22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
+<!-- /Source -->
+

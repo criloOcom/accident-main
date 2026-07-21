@@ -669,6 +669,7 @@ La provision de [**[Finance Provision Référé]**](../../../%F0%9F%A7%A0%20Memo
 | **Provision référé demandée** | **15 000 €** |
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
@@ -693,3 +694,5 @@ La provision de [**[Finance Provision Référé]**](../../../%F0%9F%A7%A0%20Memo
 [^20]: [Arrêt n°22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) ↩
 [^21]: [Arrêt n°20-15.106 — www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126) ↩
 [^22]: [Arrêt n°20-16.463 — www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) ↩
+<!-- /Source -->
+

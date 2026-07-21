@@ -199,6 +199,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur l'Inspe
 <hr><hr>
 <!-- /PJ -->
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
@@ -206,3 +207,5 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur l'Inspe
 [^3]: [Article L4321-1 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209)
 [^4]: [Article L4121-1 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)
 [^5]: [Article 40 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)
+<!-- /Source -->
+

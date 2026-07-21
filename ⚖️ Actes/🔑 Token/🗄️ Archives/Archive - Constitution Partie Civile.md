@@ -21,8 +21,6 @@ drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 **Table des matières**
 
 - [INTRODUCTION](#introduction)
@@ -97,7 +95,10 @@ Fait à [**[La Ville de Résidence de la Victime]**](../../../%F0%9F%A7%A0%20Mem
 Signature :
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
 [^2]: [Article 475-1 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) ↩
+<!-- /Source -->
+

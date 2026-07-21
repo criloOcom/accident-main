@@ -22,8 +22,6 @@ jx: J+39
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 # INDEX DU DOSSIER **[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 > 🔗 Source Google Drive : [1Zp-JK9kz0V0…](https://drive.google.com/open?id=1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU)
 Rédigé le **[30 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)** — Mis à jour le **[J+38 Mise à jour](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-mise-a-jour.md)** (unification bordereau 43 pièces)
@@ -322,6 +320,7 @@ Documents non indexés conservés dans `archives/` :
 6. **Preuves officielles** — Insérer les documents physiques dans `📂 Preuves officielles/`.
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 835 du CPC — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
@@ -336,3 +335,5 @@ Documents non indexés conservés dans `archives/` :
 [^10]: [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
 [^11]: [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173 — www.legifrance.gouv.fr/juri/id/JURITEXT000043489943](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)
 [^12]: [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106 — www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
+<!-- /Source -->
+

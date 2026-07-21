@@ -22,8 +22,6 @@ drive_id: 1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 **Table des matières**
 
 - [INTRODUCTION](#introduction)
@@ -150,6 +148,7 @@ Mes coordonnées : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memor
 [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Art. L.124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
@@ -158,3 +157,5 @@ Mes coordonnées : [**[L'Adresse de la Victime]**](../../../%F0%9F%A7%A0%20Memor
 [^4]: [Arrêt n°20-15.106 — www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126) ↩
 [^5]: [Arrêt n°22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) ↩
 [^6]: [Article L. 113-2, 4° du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) ↩
+<!-- /Source -->
+

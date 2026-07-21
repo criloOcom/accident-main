@@ -365,6 +365,7 @@ jx: J+47
 **BONNE CHANCE !** Ce guide est conçu pour vous donner confiance et structure lors de votre entretien. Vous avez préparé un dossier solide avec des preuves tangibles. Présentez-le avec calme et professionnalisme. Les policiers sont là pour vous aider - donnez-leur les éléments pour le faire efficacement.
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
@@ -372,3 +373,5 @@ jx: J+47
 [^3]: [Article 53 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016) ↩
 [^4]: [Article 15-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) ↩
 [^5]: [Article 434-15 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641) ↩
+<!-- /Source -->
+

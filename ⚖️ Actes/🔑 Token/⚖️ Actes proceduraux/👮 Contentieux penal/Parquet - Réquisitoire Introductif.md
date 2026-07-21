@@ -222,6 +222,7 @@ Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19
 - Ordonnance de référé provision : [`Référé Provision - Ordonnance Projet.md`](../%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 222-19 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
@@ -232,3 +233,5 @@ Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19
 [^6]: [Article 8 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911) ↩
 [^7]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
 [^8]: [Article 131-27 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887) ↩
+<!-- /Source -->
+

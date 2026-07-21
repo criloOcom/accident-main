@@ -25,8 +25,6 @@ jx: J+52
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident.
 
-
-
 # REQUÊTE<br>Communication d'assurances, conservation de vidéos et mesures d'instruction
 
 **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
@@ -263,9 +261,12 @@ Fait à **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Token
 17. Échange de courriels avec **[Monsieur TAVELLA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md)**, adjoint au maire de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** (signalement du 1er juin 2026 et réponse indiquant la saisine de la préfecture / inspection du travail / CODAF)
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 [^2]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 [^3]: [Arrêt n°20-16.463 — www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
 [^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
+<!-- /Source -->
+

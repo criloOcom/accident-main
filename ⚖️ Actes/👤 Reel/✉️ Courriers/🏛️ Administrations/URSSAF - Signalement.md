@@ -127,8 +127,11 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Direc
 <hr><hr>
 <!-- /PJ -->
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article L8221-5 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966)
 [^2]: [Article R4121-1 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023795562](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023795562)
 [^3]: [Article L8271-1-2 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054334961](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054334961)
+<!-- /Source -->
+

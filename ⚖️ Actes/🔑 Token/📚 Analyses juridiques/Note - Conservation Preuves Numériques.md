@@ -19,8 +19,6 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/Note - Conservation Preuves 
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 # NOTE SUR LA CONSERVATION DES PREUVES EXTÉRIEURES ET NUMÉRIQUES
 ## I — PROBLÉMATIQUE
 
@@ -109,6 +107,7 @@ Il est impératif d'agir de manière proactive, avant même l'introduction de la
 3. Si la société tente de modifier ses informations publiques ou de fermer ses comptes, solliciter en urgence un **Commissaire de Justice** pour réaliser un constat d'internet, afin de garantir la force probante des éléments recueillis.
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [article 1358 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/) ↩
@@ -121,3 +120,5 @@ Il est impératif d'agir de manière proactive, avant même l'introduction de la
 [^8]: [article 1353 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042472/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042472/) ↩
 [^9]: [Article 1353 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341) ↩
 [^10]: [Arrêt n°19-25.198 — www.legifrance.gouv.fr/juri/id/JURITEXT000043302280](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043302280) ↩
+<!-- /Source -->
+

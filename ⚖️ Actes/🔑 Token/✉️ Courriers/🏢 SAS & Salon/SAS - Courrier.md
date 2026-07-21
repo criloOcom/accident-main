@@ -145,9 +145,12 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 <hr><hr>
 <!-- /PJ -->
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
 [^2]: [Article L. 227-8 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) ↩
 [^3]: [Article L. 113-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) ↩
 [^4]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+<!-- /Source -->
+

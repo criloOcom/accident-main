@@ -265,6 +265,7 @@ Fait a [Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Token
 14. Rapport d'expertise médicale judiciaire du 12 juin 2027 — consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 222-19 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
@@ -308,3 +309,5 @@ Les fondements juridiques (Section II) restent inchangés — le rapport d'exper
 - Ordonnance de référé (mission expertise) : [`Référé Provision - Ordonnance Projet.md`](../%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)
 
 - Avis Dintilhac externe : [`📊 Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`](../../../../%F0%9F%93%8A%20Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md)
+<!-- /Source -->
+

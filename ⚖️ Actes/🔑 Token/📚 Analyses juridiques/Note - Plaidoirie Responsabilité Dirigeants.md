@@ -22,8 +22,6 @@ jx: J+32
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 # **MÉMORANDUM JURIDIQUE : RESPONSABILITÉ DES DIRIGEANTS ET RÉPARATION DES PRÉJUDICES**
 > 🔗 Source Google Drive : [1uHOesWZrUf1…](https://drive.google.com/open?id=1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90)
 Rédigé le **[J+32 Assignation référé](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)**
@@ -136,6 +134,7 @@ Une stratégie multi-niveaux a été déployée : une plainte pénale complémen
 Enfin, des mises en demeure ont été adressées à L'Exploitant et à ses Dirigeants pour obtenir les garanties nécessaires à la résolution du litige, tandis que le propriétaire des murs a été sollicité pour la communication des coordonnées de l'assureur (via les annexes du bail commercial).
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article L. 223-22 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141) ↩
@@ -147,3 +146,5 @@ Enfin, des mises en demeure ont été adressées à L'Exploitant et à ses Dirig
 [^7]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
 [^8]: [Article L. 237-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063) ↩
 [^9]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+<!-- /Source -->
+

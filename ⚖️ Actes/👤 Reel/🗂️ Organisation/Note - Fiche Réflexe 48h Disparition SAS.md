@@ -20,8 +20,6 @@ reel_path: ../../👤 Reel/🗂️ Organisation/Note - Fiche Réflexe 48h Dispar
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 # FICHE RÉFLEXE 48H : DISPARITION DE LA SAS
 ## I — PROBLÉMATIQUE
 
@@ -73,6 +71,9 @@ Ce n'est qu'une fois les éléments de preuve sécurisés (Constat) et les véri
 La présente fiche réflexe impose un séquencement strict : **Constat → Vérifications → Signalement → Mise en demeure**. Le non-respect de cet ordre, et particulièrement l'envoi prématuré d'une LRAR, compromettrait irrémédiablement l'effet de surprise et, *in fine*, les intérêts de **[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**.
 <hr><hr>
 
+<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 40 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)
+<!-- /Source -->
+
