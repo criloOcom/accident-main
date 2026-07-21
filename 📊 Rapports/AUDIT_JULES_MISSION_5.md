@@ -293,9 +293,9 @@ Cet audit croise les données de `🧠 Memory/RECADRAGE_NOMENCLATURE.md`, `🧠 
 
 - [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Modèle - Saisine CADA.md:111 — Nom réel leak détecté : 'TAVELLA' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Relance - Inspection du Travail.md:67 — Nom réel leak détecté : 'TAVELLA' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Inspection du Travail - Relance.md:67 — Nom réel leak détecté : 'TAVELLA' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Relance - Signalement Préfecture CODAF.md:66 — Nom réel leak détecté : 'TAVELLA' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - CODAF - Relance.md:66 — Nom réel leak détecté : 'TAVELLA' — Remplacer par le token.
 
 - [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏥 CPAM/✉️ Relance - Rectification Identité CPAM.md:59 — Nom réel leak détecté : 'ANDISSAC' — Remplacer par le token.
 

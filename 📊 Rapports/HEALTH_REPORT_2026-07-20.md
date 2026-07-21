@@ -52,8 +52,8 @@ Détail :
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Conseil Départemental.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Opposition - Immatriculation INPI.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Signalement - INPI.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Relance - Inspection du Travail.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Relance - Signalement Préfecture CODAF.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Inspection du Travail - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Signalement - CODAF - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Signalement - SDIS.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Signalement - SIE.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Justice/Mémo - Audience 31-07-2026.md: date=2026-07-18 type=preuve mais calendar_event_id manquant
@@ -80,8 +80,8 @@ Détail :
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Conseil Départemental.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Opposition - Immatriculation INPI.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - INPI.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Relance - Inspection du Travail.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Relance - Signalement Préfecture CODAF.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Inspection du Travail - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - CODAF - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - SDIS.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - SIE.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/Mémo - Audience 31-07-2026.md: date=2026-07-18 type=preuve mais calendar_event_id manquant

@@ -20,21 +20,21 @@ type: rapport
 
 - [ ] **✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md:21 — Nom réel 'TAVELLA' trouvé dans un fichier Token — Remplacer par le token approprié
 
-- [ ] **✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md:3 — Nom réel 'TAVELLA' trouvé dans un fichier Token — Remplacer par le token approprié
+- [ ] **✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md:3 — Nom réel 'TAVELLA' trouvé dans un fichier Token — Remplacer par le token approprié
 
-- [ ] **✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md:35 — Nom réel 'LES MAUVAIS GARÇONS' trouvé dans un fichier Token — Remplacer par le token approprié
+- [ ] **✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md:35 — Nom réel 'LES MAUVAIS GARÇONS' trouvé dans un fichier Token — Remplacer par le token approprié
 
-- [ ] **✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md:41 — Nom réel 'LES MAUVAIS GARÇONS' trouvé dans un fichier Token — Remplacer par le token approprié
+- [ ] **✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md:41 — Nom réel 'LES MAUVAIS GARÇONS' trouvé dans un fichier Token — Remplacer par le token approprié
 
-- [ ] **✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md:45 — Nom réel 'TAVELLA' trouvé dans un fichier Token — Remplacer par le token approprié
+- [ ] **✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md:45 — Nom réel 'TAVELLA' trouvé dans un fichier Token — Remplacer par le token approprié
 
-- [ ] **✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md:60 — Nom réel 'TAVELLA' trouvé dans un fichier Token — Remplacer par le token approprié
+- [ ] **✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md:60 — Nom réel 'TAVELLA' trouvé dans un fichier Token — Remplacer par le token approprié
 
-- [ ] **✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md:34 — Nom réel 'LES MAUVAIS GARÇONS' trouvé dans un fichier Token — Remplacer par le token approprié
+- [ ] **✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md:34 — Nom réel 'LES MAUVAIS GARÇONS' trouvé dans un fichier Token — Remplacer par le token approprié
 
-- [ ] **✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md:40 — Nom réel 'LES MAUVAIS GARÇONS' trouvé dans un fichier Token — Remplacer par le token approprié
+- [ ] **✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md:40 — Nom réel 'LES MAUVAIS GARÇONS' trouvé dans un fichier Token — Remplacer par le token approprié
 
-- [ ] **✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md:61 — Nom réel 'TAVELLA' trouvé dans un fichier Token — Remplacer par le token approprié
+- [ ] **✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md:61 — Nom réel 'TAVELLA' trouvé dans un fichier Token — Remplacer par le token approprié
 
 - [ ] **✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md:13 — Nom réel 'DJERBI' trouvé dans un fichier Token — Remplacer par le token approprié
 

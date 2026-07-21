@@ -12,13 +12,13 @@
 
 - [Signalement - INPI.md](Signalement%20-%20INPI.md)
 
-- [Relance - Inspection du Travail.md](Relance%20-%20Inspection%20du%20Travail.md)
+- [Signalement - Inspection du Travail - Relance.md](Signalement%20-%20Inspection%20du%20Travail%20-%20Relance.md)
 
 - [Signalement - Inspection du Travail.md](Signalement%20-%20Inspection%20du%20Travail.md)
 
 - [Signalement - Préfecture.md](Signalement%20-%20Pr%C3%A9fecture.md)
 
-- [Relance - Signalement Préfecture CODAF.md](Relance%20-%20Signalement%20Pr%C3%A9fecture%20CODAF.md)
+- [Signalement - CODAF - Relance.md](Signalement%20-%20CODAF%20-%20Relance.md)
 
 - [Signalement - SDIS.md](Signalement%20-%20SDIS.md)
 

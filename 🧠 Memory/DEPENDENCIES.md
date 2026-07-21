@@ -194,8 +194,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Rectification Identité CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
@@ -323,8 +323,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Rectification Identité CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
@@ -836,8 +836,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Rectification Identité CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
@@ -967,8 +967,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Rectification Identité CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
@@ -1114,8 +1114,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Rectification Identité CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
@@ -1209,8 +1209,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Rectification Identité CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
@@ -1380,8 +1380,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Rectification Identité CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
@@ -1717,8 +1717,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Vidéos Police.md`
@@ -1782,8 +1782,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Directrice Générale SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Vidéos Police.md`
@@ -2061,8 +2061,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Conseil Départemental.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
@@ -2119,8 +2119,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Conseil Départemental.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
@@ -2234,8 +2234,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Rectification Identité CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
@@ -2871,8 +2871,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Rectification Identité CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Vidéos Police.md`
@@ -2926,8 +2926,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Rectification Identité CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Vidéos Police.md`
@@ -3715,8 +3715,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Rectification Identité CPAM.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Vidéos Police.md`
@@ -3825,8 +3825,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Rectification Identité CPAM.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Vidéos Police.md`
@@ -4214,8 +4214,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Vidéos Police.md`
@@ -4247,8 +4247,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Vidéos Police.md`
@@ -4304,8 +4304,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
@@ -4335,8 +4335,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
@@ -4503,8 +4503,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Rectification Identité CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
@@ -4555,8 +4555,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
@@ -4946,8 +4946,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Rectification Identité CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
@@ -5133,8 +5133,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
@@ -5155,8 +5155,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
@@ -7193,8 +7193,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `🚦 Status/01_PREPARATION.md`
   • `🚦 Status/brouillon.md`
   • `🧠 Memory/RECADRAGE_NOMENCLATURE.md`
@@ -7349,8 +7349,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Rectification Identité CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
@@ -7361,8 +7361,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Rectification Identité CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
@@ -7378,7 +7378,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Dossier Spécial CERFA.md`
   • `📊 Rapports/10_Pilotage/CHECKLIST_ACTIONS_JUSQUA_FIN_2026.md`
   • `📊 Rapports/10_Pilotage/FRISE_CHRONOLOGIQUE_MULTI_VOLETS.md`
@@ -7672,8 +7672,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Rectification Identité CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
@@ -7687,8 +7687,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
@@ -9208,9 +9208,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
 
-**✉️ Relance - Inspection du Travail.md**
+**✉️ Signalement - Inspection du Travail - Relance.md**
 
 **Cité par :**
 
@@ -9242,9 +9242,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
 
-**✉️ Relance - Signalement Préfecture CODAF.md**
+**✉️ Signalement - CODAF - Relance.md**
 
 **Cité par :**
 
@@ -10543,8 +10543,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-raison-sociale.md`
   • `🧠 Memory/🗂️ Tokens/token-victime-adresse.md`
@@ -12519,7 +12519,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Dossier Spécial CERFA.md`
 
 **Cite :**
@@ -14477,7 +14477,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
 
 **RELANCE<br>INSPECTION DU TRAVAIL**
 
@@ -14506,7 +14506,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
 
 **RELANCE<br>PRÉFECTURE / CODAF**
 
@@ -15633,8 +15633,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Ordonnance Projet.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS (copie Avocat).md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Préfecture.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
@@ -17773,8 +17773,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-raison-sociale.md`
   • `🧠 Memory/🗂️ Tokens/token-victime-adresse.md`
@@ -18915,8 +18915,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - CPAM.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
@@ -18945,8 +18945,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Adjoint au Maire Tavella.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
@@ -21704,8 +21704,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Attestation - Pompier SAMU.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Attestation - Témoin Client.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md`
 

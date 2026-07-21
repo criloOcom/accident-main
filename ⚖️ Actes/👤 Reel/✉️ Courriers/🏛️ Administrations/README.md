@@ -8,15 +8,15 @@
 
 - [Opposition - Immatriculation INPI.md](Opposition%20-%20Immatriculation%20INPI.md)
 
-- [Relance - Inspection du Travail.md](Relance%20-%20Inspection%20du%20Travail.md)
-
-- [Relance - Signalement Préfecture CODAF.md](Relance%20-%20Signalement%20Pr%C3%A9fecture%20CODAF.md)
+- [Signalement - CODAF - Relance.md](Signalement%20-%20CODAF%20-%20Relance.md)
 
 - [Signalement - CODAF.md](Signalement%20-%20CODAF.md)
 
 - [Signalement - Conseil Départemental.md](Signalement%20-%20Conseil%20D%C3%A9partemental.md)
 
 - [Signalement - INPI.md](Signalement%20-%20INPI.md)
+
+- [Signalement - Inspection du Travail - Relance.md](Signalement%20-%20Inspection%20du%20Travail%20-%20Relance.md)
 
 - [Signalement - Inspection du Travail.md](Signalement%20-%20Inspection%20du%20Travail.md)
 

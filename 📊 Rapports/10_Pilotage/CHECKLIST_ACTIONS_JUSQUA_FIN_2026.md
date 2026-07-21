@@ -62,7 +62,7 @@ type: rapport
   * Priorité : Haute
   * Statut : À faire
   * Note : Modèles validés par avocat, à envoyer.
-  * Fichier : [Relance CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Relance%20-%20Signalement%20Pr%C3%A9fecture%20CODAF.md) / [Relance IT](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Relance%20-%20Inspection%20du%20Travail.md)
+  * Fichier : [Relance CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20CODAF%20-%20Relance.md) / [Relance IT](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Inspection%20du%20Travail%20-%20Relance.md)
 
 * **Mise en demeure Assureur RC** (J+50)
 

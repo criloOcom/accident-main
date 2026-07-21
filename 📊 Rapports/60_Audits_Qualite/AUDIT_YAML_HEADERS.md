@@ -152,8 +152,8 @@ tags:
 | `✉️ Relance - CPAM.md` | `[Adresse à compléter]` |
 | `✉️ Relance - Vidéos Police.md` | `[Adresse à compléter]` |
 | `✉️🔄 Consolidation.md` | `[Adresse à compléter]` |
-| `✉️ Relance - Inspection du Travail.md` | `[Date d'envoi — À compléter]` |
-| `✉️ Relance - Signalement Préfecture CODAF.md` | `[Date d'envoi — À compléter]` |
+| `✉️ Signalement - Inspection du Travail - Relance.md` | `[Date d'envoi — À compléter]` |
+| `✉️ Signalement - CODAF - Relance.md` | `[Date d'envoi — À compléter]` |
 | `✉️ Signalement - INPI.md` | `[Adresse à compléter]` |
 | `✉️ Signalement - Préfecture.md` | `[Adresse à compléter]` |
 | `✉️ Signalement - SDIS.md` | `[Adresse à compléter]` |
