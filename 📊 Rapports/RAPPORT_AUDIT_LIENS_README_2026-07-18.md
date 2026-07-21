@@ -27,17 +27,17 @@ Il s'agit de liens dont le chemin est incorrect mais pour lesquels un fichier du
 
 - **`AGENTS.md`** : le lien `/home/crilocom/accident-main/🧠 Memory/README.md` pointe vers un chemin absolu (interdit par les conventions) et de nombreux candidats existent.
 
-- **`📊 Rapports/20_Accueil_Avocat/PACK_ACCUEIL_AVOCAT_AJ.md`** : lien vers `⚖️ Assignation Refere Provision.md` introuvable, 2 candidats.
+- **`📊 Rapports/20_Accueil_Avocat/PACK_ACCUEIL_AVOCAT_AJ.md`** : lien vers `Refere Assignation Provision.md` introuvable, 2 candidats.
 
-- **`🚦 Status/01_PREPARATION.md`** : lien vers `📑 Bordereau Unifie.md` introuvable, 2 candidats.
+- **`🚦 Status/01_PREPARATION.md`** : lien vers `Bordereau Unifie.md` introuvable, 2 candidats.
 
-- **`🚦 Status/02_PRET_POUR_ENVOI.md`** : lien vers `📑 Bordereau Unifie.md` introuvable, 2 candidats.
+- **`🚦 Status/02_PRET_POUR_ENVOI.md`** : lien vers `Bordereau Unifie.md` introuvable, 2 candidats.
 
-- **`🚦 Status/brouillon.md`** : lien vers `📑 Bordereau Unifie.md` introuvable, 2 candidats.
+- **`🚦 Status/brouillon.md`** : lien vers `Bordereau Unifie.md` introuvable, 2 candidats.
 
-- **`🚦 Status/final.md`** : lien vers `📑 Bordereau Unifie.md` introuvable, 2 candidats.
+- **`🚦 Status/final.md`** : lien vers `Bordereau Unifie.md` introuvable, 2 candidats.
 
-- **`🧠 Memory/TODO.md`** : lien vers `📑 Bordereau Unifie.md` introuvable, 2 candidats.
+- **`🧠 Memory/TODO.md`** : lien vers `Bordereau Unifie.md` introuvable, 2 candidats.
 
 ### B. Liens critiques cassés (introuvables)
 
@@ -47,7 +47,7 @@ Ces liens pointent vers des fichiers ou tokens qui n'existent pas ou plus à l'e
 
   - `token-dr-jardon.md` est appelé dans de multiples courriers de mises en demeure et relances (`✉️ Proprietaire 📜Lettre.md`, `✉️ SAS 📜Lettre.md`, `✉️🔄 Consolidation.md`, `✉️ Inspection Travail 🚨Signalement.md`, etc.).
 
-  - `token-assureur-rc.md` manque dans `📜 Conclusions au Fond TJ Foix.md` et plusieurs rapports.
+  - `token-assureur-rc.md` manque dans `Conclusions au Fond TJ Foix.md` et plusieurs rapports.
 
   - `token-metropole-regionale.md` manque dans `20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`.
 

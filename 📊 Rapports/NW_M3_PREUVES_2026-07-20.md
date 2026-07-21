@@ -104,7 +104,7 @@ Toutes les pièces listées dans `🧠 Memory/PIECES MAP.md` doivent exister phy
 - [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 43 — Preuve de dépôt LRAR arrêt de travail — Introuvable dans `⚖️ Actes/🔑 Token/📂 Preuves officielles/`.
 
 ## 2. Cohérence du Bordereau Unifié
-Vérification de `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/📑 Bordereau Unifie.md` par rapport à `PIECES MAP.md`.
+Vérification de `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifie.md` par rapport à `PIECES MAP.md`.
 
 ### Pièces manquantes dans le bordereau :
 - [ ] **BORDEREAU INCOMPLET** : [MAJEUR] Pièce 10b manquante.

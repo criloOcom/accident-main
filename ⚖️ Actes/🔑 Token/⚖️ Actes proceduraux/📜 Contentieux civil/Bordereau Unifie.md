@@ -1,4 +1,5 @@
 ---
+emoji: "📑"
 title: "Bordereau de pièces (unifié)"
 description: "Bordereau de pièces unifié — Procédure : Référé (Art. 835 CPC, Art. 145 CPC)"
 type: readme
@@ -10,7 +11,7 @@ tags:
 statut: final
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/📑 Bordereau Unifie.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifie.md
 source: drive
 jx: J+39
 ---

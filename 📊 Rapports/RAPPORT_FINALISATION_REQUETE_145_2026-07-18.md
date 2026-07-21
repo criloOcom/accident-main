@@ -19,7 +19,7 @@ Une analyse du dossier confirme que la requête fondée sur l'article 145 du Cod
 
 La seule action réellement effectuée au cours de cette période est le déplacement sur les lieux de l'accident à Foix le **16 juillet 2026**. Cette visite a permis d'établir de manière décisive que l'exploitant du salon de coiffure n'était pas la SAS **[L'Exploitant du Commerce (La SAS)]** (LMG), mais la SAS **[Le Nouvel Exploitant (HB BARBER)]**.
 
-Par conséquent, la requête actuelle (fichier `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/🔍 Requete Article 145 CPC.md`) doit impérativement être mise à jour avant son dépôt effectif, qui est programmé pour la semaine à venir au Tribunal Judiciaire de Foix.
+Par conséquent, la requête actuelle (fichier `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Article 145 CPC.md`) doit impérativement être mise à jour avant son dépôt effectif, qui est programmé pour la semaine à venir au Tribunal Judiciaire de Foix.
 
 <hr><hr>
 

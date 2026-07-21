@@ -26,7 +26,7 @@ Pour cette journée, tu as trois démarches physiques majeures à réaliser à F
 #### 1️⃣ Au Tribunal Judiciaire (Greffe Civil)
 * **Action** : Déposer la requête de mesures d'instruction unilatérales pour sauvegarder les vidéos de surveillance du salon.
 
-* **Document à imprimer & signer** : [🔍 Requete Article 145 CPC.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md)
+* **Document à imprimer & signer** : [Requete Article 145 CPC.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requete%20Article%20145%20CPC.md)
 
 * **Pièces à joindre** : Prépare le dossier comprenant les 17 pièces listées dans le bordereau de la requête.
 
@@ -72,7 +72,7 @@ Voici les prochaines étapes clés de ton dossier à moyen et long termes :
 
 * **Fin juillet / Début août 2026** : Décision du Bureau d'Aide Juridictionnelle et désignation d'office de ton avocat.
 
-* **Courant août 2026** : Prise de contact avec ton avocat pour lancer la signification par huissier de l'[⚖️ Assignation Refere Provision.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md) à la SAS HB BARBER.
+* **Courant août 2026** : Prise de contact avec ton avocat pour lancer la signification par huissier de l'[Refere Assignation Provision.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Refere%20Assignation%20Provision.md) à la SAS HB BARBER.
 
 * **📅 Jeudi 12 novembre 2026 à 13h45** : Rendez-vous obligatoire pour ton expertise médicale à l'**Unité de Médecine Judiciaire (UMJ) de l'Hôpital Purpan** à Toulouse (sur réquisition de police pour fixer l'ITT médico-légale).
 

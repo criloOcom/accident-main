@@ -81,7 +81,7 @@ type: memory
 
 - `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/MEMO_AUDIENCE_31072026.md`
 
-- `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md`
+- `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md`
 
 - `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Demande AJ Totale 📝Document.md`
 
@@ -163,7 +163,7 @@ Chaque session : `{repo: "criloOcom/accident-main", branch: "main", autoPr: true
 | V03 | M03 Stratégie | Mémo stratégie, Note synthèse avocat |
 | V04 | M04 Note étape | Notes d'étape, Frise |
 | V05 | M05 Demande AJ | ✉️ Demande AJ Totale 📝Document.md |
-| V06 | M06 Requête 145 | Assignation Refere Provision.md |
+| V06 | M06 Requête 145 | Refere Assignation Provision.md |
 | V07 | M07 Plainte + Erratum | Plainte complémentaire, Erratum |
 | V08 | M08 Plan déplacement | MEMO_AUDIENCE_31072026.md |
 | V09 | M09 LRARs | Courriers LRAR (Mises en demeure) |

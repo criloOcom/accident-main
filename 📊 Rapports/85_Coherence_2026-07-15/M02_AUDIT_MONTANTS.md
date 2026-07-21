@@ -15,11 +15,11 @@ type: rapport
 
 <hr><hr>
 
-## I — ⚖️ Assignation Refere Provision.md
+## I — Refere Assignation Provision.md
 
-- [ ] **⚖️ Assignation Refere Provision.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md:289 — SE utilise valeur historique/obsolète: 15000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **Refere Assignation Provision.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md:289 — SE utilise valeur historique/obsolète: 15000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
 
-- [ ] **⚖️ Assignation Refere Provision.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md:292 — Total Estimatif utilise valeur historique/obsolète: 30000.0 € (canonique: 120000 €) — aligner sur la valeur canonique.
+- [ ] **Refere Assignation Provision.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md:292 — Total Estimatif utilise valeur historique/obsolète: 30000.0 € (canonique: 120000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
 ## II — 🚔 Plainte Defaut Assurance RC.md
@@ -32,45 +32,45 @@ type: rapport
 - [ ] **🛡️ Constitution Partie Civile.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md:175 — SE utilise valeur historique/obsolète: 3000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## IV — 📑 Bordereau Unifie.md
+## IV — Bordereau Unifie.md
 
-- [ ] **📑 Bordereau Unifie.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/📑 Bordereau Unifie.md:228 — IP utilise valeur historique/obsolète: 30000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
+- [ ] **Bordereau Unifie.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifie.md:228 — IP utilise valeur historique/obsolète: 30000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
 
-- [ ] **📑 Bordereau Unifie.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/📑 Bordereau Unifie.md:240 — DFP utilise valeur historique/obsolète: 126000.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
+- [ ] **Bordereau Unifie.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifie.md:240 — DFP utilise valeur historique/obsolète: 126000.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## V — ⚖️ Projet Ordonnance Refere.md
+## V — Refere Ordonnance Projet.md
 
-- [ ] **⚖️ Projet Ordonnance Refere.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Projet Ordonnance Refere.md:99 — SE utilise valeur historique/obsolète: 5000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **Refere Ordonnance Projet.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Ordonnance Projet.md:99 — SE utilise valeur historique/obsolète: 5000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
 
-- [ ] **⚖️ Projet Ordonnance Refere.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Projet Ordonnance Refere.md:100 — IP utilise valeur historique/obsolète: 3000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
+- [ ] **Refere Ordonnance Projet.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Ordonnance Projet.md:100 — IP utilise valeur historique/obsolète: 3000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
 
-- [ ] **⚖️ Projet Ordonnance Refere.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Projet Ordonnance Refere.md:101 — PEP différent de la valeur canonique: 1000.0 € (attendu: 3500 €) — aligner sur la valeur canonique.
+- [ ] **Refere Ordonnance Projet.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Ordonnance Projet.md:101 — PEP différent de la valeur canonique: 1000.0 € (attendu: 3500 €) — aligner sur la valeur canonique.
 
-- [ ] **⚖️ Projet Ordonnance Refere.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Projet Ordonnance Refere.md:101 — DFT différent de la valeur canonique: 1000.0 € (attendu: 2031 €) — aligner sur la valeur canonique.
+- [ ] **Refere Ordonnance Projet.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Ordonnance Projet.md:101 — DFT différent de la valeur canonique: 1000.0 € (attendu: 2031 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## VI — 📜 Conclusions au Fond TJ Foix.md
+## VI — Conclusions au Fond TJ Foix.md
 
-- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md:256 — Total Estimatif différent de la valeur canonique: 2031.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md:256 — Total Estimatif différent de la valeur canonique: 2031.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
 
-- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md:317 — SE différent de la valeur canonique: 70000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
+- [ ] **Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md:317 — SE différent de la valeur canonique: 70000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
 
-- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md:319 — Total Estimatif différent de la valeur canonique: 83200.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md:319 — Total Estimatif différent de la valeur canonique: 83200.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
 
-- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md:352 — SE utilise valeur historique/obsolète: 3000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md:352 — SE utilise valeur historique/obsolète: 3000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
 
-- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md:354 — SE différent de la valeur canonique: 70000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
+- [ ] **Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md:354 — SE différent de la valeur canonique: 70000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
 
-- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md:260 — Total Estimatif différent de la valeur canonique: 2031.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md:260 — Total Estimatif différent de la valeur canonique: 2031.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
 
-- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md:321 — SE différent de la valeur canonique: 70000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
+- [ ] **Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md:321 — SE différent de la valeur canonique: 70000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
 
-- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md:323 — Total Estimatif différent de la valeur canonique: 83200.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md:323 — Total Estimatif différent de la valeur canonique: 83200.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
 
-- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md:356 — SE utilise valeur historique/obsolète: 3000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md:356 — SE utilise valeur historique/obsolète: 3000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
 
-- [ ] **📜 Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md:358 — SE différent de la valeur canonique: 70000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
+- [ ] **Conclusions au Fond TJ Foix.md** : [MAJEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md:358 — SE différent de la valeur canonique: 70000.0 € (attendu: 14000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
 ## VII — MEMO_AUDIENCE_31072026.md

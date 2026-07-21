@@ -165,7 +165,7 @@ tags:
 
 | Fichier |
 |---------|
-| `📑 Bordereau Unifie.md` |
+| `Bordereau Unifie.md` |
 | `📅 Calendrier Procedure.md` |
 | `🧠 STRATEGIE Contentieux Civil.md` |
 | `🧠 STRATEGIE Contentieux Penal.md` |

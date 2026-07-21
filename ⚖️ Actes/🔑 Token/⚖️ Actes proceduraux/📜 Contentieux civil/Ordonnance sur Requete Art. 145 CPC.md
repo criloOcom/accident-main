@@ -1,4 +1,5 @@
 ---
+emoji: "⚖️"
 title: "Ordonnance sur Requête — Article 145 CPC — Mesures d'Instruction HB BARBER"
 description: "Projet d'ordonnance calibré HB BARBER — communication assurances, baux, vidéos, lien contractuel du préposé."
 type: projet
@@ -14,7 +15,7 @@ tags:
 calendar_event_id: "tqegc9g9t96hp2td1oo3iqtqd8"
 statut: projet
 auteur: Projet — Juge des requêtes du TJ Foix
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Ordonnance sur Requete Art. 145 CPC.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requete Art. 145 CPC.md
 jx: J+52
 ---
 <!-- Breadcrumb -->

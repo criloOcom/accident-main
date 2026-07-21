@@ -44,11 +44,11 @@ type: memory
 | 2026-06-29 | ✉️ SAS President 📜Lettre.md | ✉️📦 LRAR Mise en demeure Président SAS | `dd8qkuvg1t3jquofh93ccnl0lg` |
 | 2026-06-29 | ✉️ Proprietaire 📜Lettre.md | ✉️📦 LRAR Demande Assurance Bailleur | `qrvadub2s8gekuhgpn0knq8130` |
 | 2026-06-29 | — | 📦 LOT 1 (méta) — 4 LRAR splittées | `197psmj9ngh1amdrmsfaghh96o` |
-| 2026-06-30 | ⚖️ Assignation Refere Provision.md | ✉️📦 Dépôt TJ Foix — Assignation Référé 835 CPC | `sr9bmf225pfn9fjfn6r4d740a8` |
+| 2026-06-30 | Refere Assignation Provision.md | ✉️📦 Dépôt TJ Foix — Assignation Référé 835 CPC | `sr9bmf225pfn9fjfn6r4d740a8` |
 | 2026-06-30 | ✉️ Temoin Client 📋Attestation.md, ✉️ Employe 📋Attestation.md, ✉️ Pompier SAMU 📋Attestation.md | 📋 Pièces 22-24 attestations témoins | `gaitgj8isroeqorobg9j9ghf4c` |
 | 2026-07-03 | — | 🖊 AR signé Bailleur Romain DELRIEU | `k39tgv3sm2lkmi5jpj59b85bvg` |
 | 2026-07-04 | — | 💻 Phase 4 — Injection Drive + Renommage | `n3gm3s3mekv06opfvhmc34lt04` |
-| 2026-07-06 | 📸 Requete Constat Huissier.md | 📸 Requête constat huissier (Art. 145 CPC) | `9pkmrn8fadbta67drfub7dssec` |
+| 2026-07-06 | Requete Constat Huissier.md | 📸 Requête constat huissier (Art. 145 CPC) | `9pkmrn8fadbta67drfub7dssec` |
 | 2026-07-06 | — | 🔧 Phases 6-10 (correction audit + scellement) | `7urbuje8nfvaq9cci6lddshj9s` |
 | 2026-07-08 | ✉️ SAS Dirigeants 🔄Relance.md | ✉️ LRAR Relance V2 SAS | `hj1d12jfdubeuoavj7sq548i2o` |
 | 2026-07-09 | ✉️ Maire Foix 📜Lettre.md | ✉️📦 LRAR Mise en demeure Maire de Foix | `gqu5r7mbuh6570913b2nisi7t8` |
@@ -66,7 +66,7 @@ type: memory
 | 2026-07-18 | ✉️ SAS 📜Lettre HB BARBER President.md | ✉️📦 LRAR Mise en demeure Président HB BARBER | `euj8kofakfdc2cib6btnqq2ae4` |
 | 2026-07-18 | — | 📦 LOT 2 (méta) — 3 LRAR HB BARBER splittées | `guv07tt1rpkkqba1g6c0m8eap4` |
 | 2026-07-18 | — | 🚧 Phase 32 — Wero & Témoin Ayoub | `mjfern74uv6kvbimfu1og4d3s0` |
-| 2026-07-20 | ✉️ Prefecture 🚨Signalement.md, ✉️ Inspection Travail 🚨Signalement.md, ✉️ CODAF 🚨Signalement.md, ✉️ Commissariat Foix Plainte Complementaire ⚖️Contentieux.md, 🔍 Requete Article 145 CPC.md, ⚖️ Ordonnance sur Requete Art. 145 CPC.md | ✉️📋 Courriers 41-44 + 🔴🔴 DÉPÔT FOIX | `tqegc9g9t96hp2td1oo3iqtqd8` / `ncdv7eqhn6njck42v7sdcuelak` |
+| 2026-07-20 | ✉️ Prefecture 🚨Signalement.md, ✉️ Inspection Travail 🚨Signalement.md, ✉️ CODAF 🚨Signalement.md, ✉️ Commissariat Foix Plainte Complementaire ⚖️Contentieux.md, Requete Article 145 CPC.md, Ordonnance sur Requete Art. 145 CPC.md | ✉️📋 Courriers 41-44 + 🔴🔴 DÉPÔT FOIX | `tqegc9g9t96hp2td1oo3iqtqd8` / `ncdv7eqhn6njck42v7sdcuelak` |
 | 2026-07-22 | — | 📋 Pièces 22-24 attestations témoins | `gaitgj8isroeqorobg9j9ghf4c` |
 | 2026-07-22 | — | 💳 Preuves Wero (PSP) | `jncdk9j4r2022bj9hentqe36oc` |
 | 2026-07-22 | — | 📱 Adresses emails témoins + Dr DJERBI | `ri26kq27dah4q9o5qtm11qfo08` |

@@ -1,4 +1,5 @@
 ---
+emoji: "📜"
 title: Conclusions au Fond — TJ de Foix
 description: Conclusions récapitulatives au fond — Demande d'indemnisation du préjudice
   corporel — Accident du 29 mai 2026 — SAS HB BARBER
@@ -19,7 +20,7 @@ tags:
 statut: projet
 destinataire: Tribunal Judiciaire de Foix
 auteur: La Victime
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md
 jx: J+368
 ---
 <!-- Breadcrumb -->

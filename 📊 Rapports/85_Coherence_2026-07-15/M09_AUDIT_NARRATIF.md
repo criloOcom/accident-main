@@ -85,9 +85,9 @@ Total des anomalies : 99
 
 - [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ PV Audition Plainte Complementaire.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 44)
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 53)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 53)
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md` : mention de « débris » (faux : il n'y a pas eu de débris, seulement une cassure préexistante) (ligne 53)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md` : mention de « débris » (faux : il n'y a pas eu de débris, seulement une cassure préexistante) (ligne 53)
 
 - [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/MEMO_AUDIENCE_31072026.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 24)
 
@@ -165,7 +165,7 @@ Total des anomalies : 99
 
 - [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire Foix.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 54)
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Ordonnance sur Requete Art. 145 CPC.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 44)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requete Art. 145 CPC.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 44)
 
 - [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/MEMO_AUDIENCE_31072026.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 24)
 

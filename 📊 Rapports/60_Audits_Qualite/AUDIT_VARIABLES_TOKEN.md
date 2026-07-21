@@ -19,7 +19,7 @@ Ce rapport liste les incohérences détectées dans les fichiers sous `⚖️ Ac
 
 ## I — INCOHÉRENCES DÉTECTÉES
 
-### I.1 — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/📑 Bordereau Unifie.md`
+### I.1 — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifie.md`
 
 - **Ligne 28** : Profession erronée (victime qualifiée de 'coiffeur')
 

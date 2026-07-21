@@ -14,23 +14,23 @@ type: readme
 
 ### [📜 Contentieux civil](%F0%9F%93%9C%20Contentieux%20civil%2FREADME.md)
 
-- [⚖️ Assignation Refere Provision.md](%F0%9F%93%9C%20Contentieux%20civil%2F%E2%9A%96%EF%B8%8F%20Assignation%20Refere%20Provision.md)
+- [Refere Assignation Provision.md](%F0%9F%93%9C%20Contentieux%20civil%2FRefere%20Assignation%20Provision.md)
 
-- [⚖️ Ordonnance sur Requete Art. 145 CPC.md](%F0%9F%93%9C%20Contentieux%20civil%2F%E2%9A%96%EF%B8%8F%20Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md)
+- [Ordonnance sur Requete Art. 145 CPC.md](%F0%9F%93%9C%20Contentieux%20civil%2FOrdonnance%20sur%20Requete%20Art.%20145%20CPC.md)
 
-- [⚖️ Projet Ordonnance Refere.md](%F0%9F%93%9C%20Contentieux%20civil%2F%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md)
+- [Refere Ordonnance Projet.md](%F0%9F%93%9C%20Contentieux%20civil%2FRefere%20Ordonnance%20Projet.md)
 
-- [🎯 Conclusions Refere Provision.md](%F0%9F%93%9C%20Contentieux%20civil%2F%F0%9F%8E%AF%20Conclusions%20Refere%20Provision.md)
+- [Refere Conclusion Provision.md](%F0%9F%93%9C%20Contentieux%20civil%2FRefere%20Conclusion%20Provision.md)
 
-- [📑 Bordereau Unifie.md](%F0%9F%93%9C%20Contentieux%20civil%2F%F0%9F%93%91%20Bordereau%20Unifie.md)
+- [Bordereau Unifie.md](%F0%9F%93%9C%20Contentieux%20civil%2FBordereau%20Unifie.md)
 
-- [📜 Conclusions au Fond TJ Foix.md](%F0%9F%93%9C%20Contentieux%20civil%2F%F0%9F%93%9C%20Conclusions%20au%20Fond%20TJ%20Foix.md)
+- [Conclusions au Fond TJ Foix.md](%F0%9F%93%9C%20Contentieux%20civil%2FConclusions%20au%20Fond%20TJ%20Foix.md)
 
-- [📸 Requete Constat Huissier.md](%F0%9F%93%9C%20Contentieux%20civil%2F%F0%9F%93%B8%20Requete%20Constat%20Huissier.md)
+- [Requete Constat Huissier.md](%F0%9F%93%9C%20Contentieux%20civil%2FRequete%20Constat%20Huissier.md)
 
-- [🔍 Requete Article 145 CPC.md](%F0%9F%93%9C%20Contentieux%20civil%2F%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md)
+- [Requete Article 145 CPC.md](%F0%9F%93%9C%20Contentieux%20civil%2FRequete%20Article%20145%20CPC.md)
 
-- [17 ⚖️ Requete Mandataire Ad Hoc.md](%F0%9F%93%9C%20Contentieux%20civil%2F17%20%E2%9A%96%EF%B8%8F%20Requete%20Mandataire%20Ad%20Hoc.md)
+- [Requete Mandataire Ad Hoc.md](%F0%9F%93%9C%20Contentieux%20civil%2FRequete%20Mandataire%20Ad%20Hoc.md)
 
 ### [👮 Contentieux penal](%F0%9F%91%AE%20Contentieux%20penal%2FREADME.md)
 

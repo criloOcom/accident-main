@@ -304,6 +304,6 @@ Les fondements juridiques (Section II) restent inchangés — le rapport d'exper
 **Documents liés :**
 - Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
 
-- Ordonnance de référé (mission expertise) : [`⚖️ Projet Ordonnance Refere.md`](../%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md)
+- Ordonnance de référé (mission expertise) : [`Refere Ordonnance Projet.md`](../%F0%9F%93%9C%20Contentieux%20civil/Refere%20Ordonnance%20Projet.md)
 
 - Avis Dintilhac externe : [`📊 Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`](../../../../%F0%9F%93%8A%20Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md)

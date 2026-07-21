@@ -99,19 +99,19 @@ Les fichiers suivants contiennent des placeholders non résolus (ex: [À complé
 
 - [ ] **MINEUR** `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md:653` — Placeholder trouvé: `XXX` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md:142` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md:142` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md:172` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md:172` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md:172` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md:172` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/🎯 Conclusions Refere Provision.md:193` — Placeholder trouvé: `[Ville]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Conclusion Provision.md:193` — Placeholder trouvé: `[Ville]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/🎯 Conclusions Refere Provision.md:193` — Placeholder trouvé: `[date]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Conclusion Provision.md:193` — Placeholder trouvé: `[date]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/📸 Requete Constat Huissier.md:116` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Constat Huissier.md:116` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Projet Ordonnance Refere.md:62` — Placeholder trouvé: `[date]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Ordonnance Projet.md:62` — Placeholder trouvé: `[date]` — Remplacer par la valeur réelle ou le token approprié
 
 - [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md:115` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 

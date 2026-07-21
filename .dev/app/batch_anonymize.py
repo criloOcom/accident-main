@@ -6,6 +6,14 @@ import re, sys
 # ============================================================
 REPLACEMENTS = [
     # --- Addresses (full address FIRST to avoid partial match) ---
+    # Geographic reference: complaint deposit location (must be BEFORE generic Toulouse)
+    ("Service Local de Sécurité Publique de Toulouse Rive Droite (Hôtel de Police, 23 Boulevard de l'Embouchure, 31300 Toulouse)", "[Le Lieu du Dépôt de Plainte Initiale]"),
+    ("Service Local de Sécurité Publique de Toulouse Rive Droite", "[Le Lieu du Dépôt de Plainte Initiale]"),
+    ("Hôtel de Police, 23 Boulevard de l'Embouchure, 31300 Toulouse", "[Le Lieu du Dépôt de Plainte Initiale]"),
+    ("23 Boulevard de l'Embouchure, 31300 Toulouse", "[Le Lieu du Dépôt de Plainte Initiale]"),
+    ("23 Boulevard de l'Embouchure", "[Le Lieu du Dépôt de Plainte Initiale]"),
+    ("Division Toulouse Rive Droite", "[Le Lieu du Dépôt de Plainte Initiale]"),
+    ("Toulouse Rive Droite", "[Le Lieu du Dépôt de Plainte Initiale]"),
     ("10 Avenue de Purpan, 31700 Blagnac", "[L'Adresse de la Victime]"),
     ("10 Avenue de Purpan", "[L'Adresse de la Victime]"),
     ("31700 Blagnac", "[L'Adresse de la Victime]"),

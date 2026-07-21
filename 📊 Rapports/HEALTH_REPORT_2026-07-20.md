@@ -184,13 +184,13 @@ Détail :
   •      ` |
   • | ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire Foix.md | 39 | ` (INTROUVABLE)
   •      ` |
-  • | ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md | 41 | ` (INTROUVABLE)
+  • | ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md | 41 | ` (INTROUVABLE)
   •      ` |
-  • | ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md | 52 | ` (INTROUVABLE)
+  • | ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md | 52 | ` (INTROUVABLE)
   •      ` |
-  • | ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md | 97 | ` (INTROUVABLE)
+  • | ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md | 97 | ` (INTROUVABLE)
   •      ` |
-  • | ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md | 384 | ` (INTROUVABLE)
+  • | ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md | 384 | ` (INTROUVABLE)
   •      `⚖️ Actes/contentieux-civil` (INTROUVABLE)
   •      `⚖️ Actes/contentieux-penal` (INTROUVABLE)
   •      `🧠 Memory/VACCIN.md` (existe)

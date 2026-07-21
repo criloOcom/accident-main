@@ -16,7 +16,7 @@ type: rapport
 
 - **Statut :** **CRITIQUE**
 
-- **Constat :** FICHIER `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md` (et autres fichiers de l'assignation) ne mentionne aucune demande de contre-expertise. L'assignation sollicite uniquement une **expertise médicale** judiciaire initiale (sur le fondement de l'article 145 du CPC) mais ne formule pas de demande de *contre-expertise*.
+- **Constat :** FICHIER `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md` (et autres fichiers de l'assignation) ne mentionne aucune demande de contre-expertise. L'assignation sollicite uniquement une **expertise médicale** judiciaire initiale (sur le fondement de l'article 145 du CPC) mais ne formule pas de demande de *contre-expertise*.
 
 - **Note :** La mention d'une éventuelle contre-expertise apparaît uniquement de manière anticipée dans l'évaluation des Frais Divers (`⚖️ Actes/🔑 Token/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md`, ligne 114 et `📊 Rapports/40_Indemnisation_Dintilhac/20260708_Rapport_Baremique_Dintilhac.md`, ligne 44) pour un montant provisionné dans la demande globale, mais pas formellement sollicitée dans l'assignation.
 
@@ -36,7 +36,7 @@ type: rapport
 
 - **Statut :** **INFO**
 
-- **Constat :** Les honoraires d'expertise médicale sont mentionnés dans les conclusions au fond (`⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md`, ligne 257) pour un montant de **1 000 €**. Ce montant est réaliste pour une expertise médicale judiciaire classique en nomenclature Dintilhac, bien qu'il s'agisse de frais de l'expertise initiale et non spécifiquement d'une contre-expertise. Dans `📊 Evaluation Dintilhac Consolidee.md`, une enveloppe globale de 3 000 € de Frais Divers est demandée pour couvrir "kinésithérapie 3x/semaine, déplacements, frais dossier, contre-expertise éventuelle".
+- **Constat :** Les honoraires d'expertise médicale sont mentionnés dans les conclusions au fond (`⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md`, ligne 257) pour un montant de **1 000 €**. Ce montant est réaliste pour une expertise médicale judiciaire classique en nomenclature Dintilhac, bien qu'il s'agisse de frais de l'expertise initiale et non spécifiquement d'une contre-expertise. Dans `📊 Evaluation Dintilhac Consolidee.md`, une enveloppe globale de 3 000 € de Frais Divers est demandée pour couvrir "kinésithérapie 3x/semaine, déplacements, frais dossier, contre-expertise éventuelle".
 
 <hr><hr>
 

@@ -1,9 +1,10 @@
 ---
+emoji: "⚖️"
 title: "REQUÊTE AUX FINS DE DÉSIGNATION D'UN MANDATAIRE AD HOC ET MESURES CONSERVATOIRES"
 description: "POUR :"
 type: readme
 statut: brouillon
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/17 ⚖️ Requete Mandataire Ad Hoc.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Mandataire Ad Hoc.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [📜 Contentieux civil](./README.md) › 17 ⚖️ Requete Mandataire Ad Hoc*

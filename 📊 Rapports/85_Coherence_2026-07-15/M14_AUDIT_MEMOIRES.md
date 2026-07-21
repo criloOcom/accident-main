@@ -17,7 +17,7 @@ Ce rapport consigne les résultats de l'audit de cohérence des mémoires et con
 
 ## I — 📜 Conclusions au Fond TJ Foix
 
-**Fichier audité :** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/📜 Conclusions au Fond TJ Foix.md`
+**Fichier audité :** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md`
 
 - [x] **Tous les postes de préjudice sont traités :** Conforme. Les postes patrimoniaux et extra-patrimoniaux listés dans `STRICT VARIABLES.md` (§1. Rapport d'expertise 2027-05-29) sont tous présents.
 
@@ -35,7 +35,7 @@ Ce rapport consigne les résultats de l'audit de cohérence des mémoires et con
 
 ## II — 🎯 Conclusions Refere Provision
 
-**Fichier audité :** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/🎯 Conclusions Refere Provision.md`
+**Fichier audité :** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Conclusion Provision.md`
 
 - [x] **Tous les postes de préjudice sont traités :** Conforme. Demande provisionnelle (PGPA, frais médicaux, SE, IP, article 700).
 

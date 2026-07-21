@@ -617,7 +617,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md`
 
 - **Ligne** : 70
 
@@ -629,7 +629,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md`
 
 - **Ligne** : 76
 
@@ -641,7 +641,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Ordonnance sur Requete Art. 145 CPC.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requete Art. 145 CPC.md`
 
 - **Ligne** : 86
 
@@ -653,7 +653,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Ordonnance sur Requete Art. 145 CPC.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requete Art. 145 CPC.md`
 
 - **Ligne** : 99
 
@@ -857,7 +857,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md`
 
 - **Ligne** : 70
 
@@ -869,7 +869,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Ordonnance sur Requete Art. 145 CPC.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requete Art. 145 CPC.md`
 
 - **Ligne** : 86
 
@@ -881,7 +881,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Ordonnance sur Requete Art. 145 CPC.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requete Art. 145 CPC.md`
 
 - **Ligne** : 99
 
@@ -933,7 +933,7 @@ type: rapport
 
 - **Ligne** : 36
 
-- **Citation** : `*   **Action immédiate :** Le projet de [Requête](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md) (Pièce 06) doit être déposé le jour-même au Président du Tribunal Judiciaire pour obtenir l'Ordonnance.`
+- **Citation** : `*   **Action immédiate :** Le projet de [Requête](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requete%20Article%20145%20CPC.md) (Pièce 06) doit être déposé le jour-même au Président du Tribunal Judiciaire pour obtenir l'Ordonnance.`
 
 - **Acte présenté comme fait** : Requête Art. 145 CPC
 

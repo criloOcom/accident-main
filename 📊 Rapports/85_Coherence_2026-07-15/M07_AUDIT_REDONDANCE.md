@@ -35,9 +35,9 @@ L'évaluation des préjudices a évolué à plusieurs reprises, entraînant des 
 
 * **Contradiction 3 (Évaluation 126 000 € - 161 500 €)** : Plusieurs actes de Référé Provision utilisent un rapport Dintilhac intermédiaire du 13/07/2026 :
 
-  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md` (ligne 229)
-  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/🎯 Conclusions Refere Provision.md` (ligne 153)
-  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Projet Ordonnance Refere.md` (lignes 103, 192)
+  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md` (ligne 229)
+  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Conclusion Provision.md` (ligne 153)
+  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Ordonnance Projet.md` (lignes 103, 192)
   * `📊 Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md` (lignes 109, 153)
 
 ### II.2 — Dates et Délais (ITT, Procédures)

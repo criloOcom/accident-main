@@ -92,17 +92,17 @@ type: rapport
 ### II.2 — ⚖️ Actes proceduraux
 | 🔑 Token | 👤 Reel | Statut |
 |----------|---------|--------|
-| `⚖️ Assignation Refere Provision.md` | ✅ Présent | OK |
+| `Refere Assignation Provision.md` | ✅ Présent | OK |
 | `02 🚔 Plainte.md` | ✅ Présent | OK |
 | `🛡️ Constitution Partie Civile.md` | ✅ Présent | OK |
 | `03 🔍 Assignation Article 145.md` | ✅ Présent | OK |
 | `04 📑 Bordereau.md` | ✅ Présent | OK |
 | `05 🎯 Conclusions Refere.md` | ✅ Présent | OK |
-| `06 📸 Requete Constat Huissier.md` | ✅ Présent | OK |
-| `07 ⚖️ Projet Ordonnance Refere.md` | ✅ Présent | OK |
+| `06 Requete Constat Huissier.md` | ✅ Présent | OK |
+| `07 Refere Ordonnance Projet.md` | ✅ Présent | OK |
 | `15 ⚖️ Réquisitoire introductif.md` | ✅ Présent | OK |
 | `16 ⚠️ Signalement Parquet Fraud.md` | ✅ Présent | OK |
-| `17 ⚖️ Requete Mandataire Ad Hoc.md` | ✅ Présent | OK |
+| `Requete Mandataire Ad Hoc.md` | ✅ Présent | OK |
 | — | ❌ `04 📑 Bordereau Audience.md` | **EXCÉDENT** 👤 |
 | — | ❌ `04 📑 Bordereau de pieces.md` | **EXCÉDENT** 👤 |
 

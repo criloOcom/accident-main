@@ -103,25 +103,25 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 ### 📄 `⚖️ Actes/🔑 Token/🗂️ Organisation/🗂️ Plan Action.md`
 - [x] `l.70` — Mention correcte de la profession : *Parallèlement, une action directe est engagée auprès de l'assureur pour solliciter l'ouverture d'un dossier de sinistre, la désignation d'un expert médical et le versement d'une provision financière de première urgence pour compenser les pertes d'exploitation de [**[La Victime]**], informaticien indépendant.*
 
-### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md`
+### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md`
 - [x] `l.52` — Mention correcte de la profession : *[**[La Victime]**], né le [**[Date de naissance de la Victime]**], de nationalité française, demeurant au [**[L'Adresse de la Victime]**], exerçant la profession d'informaticien indépendant, ayant pour avocat constitué [**[Nom de l'Avocat de la Victime]**], avocat au barreau de [**[La Ville de l'Accident]**].*
 
 - [x] `l.268` — Mention correcte de la profession : *[**[La Victime]**] est informaticien indépendant. L'atteinte physique sévère à sa main droite (dominante) limite gravement son activité professionnelle d'informaticien.*
 
-### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/🎯 Conclusions Refere Provision.md`
+### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Conclusion Provision.md`
 - [x] `l.157` — Mention correcte de la profession : *S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'évaluation indemnitaire barémique Dintilhac du 13 juillet 2026 (pièce n° 44). Ce rapport, établi sur la base de la situation réelle de [**[La Victime]**] (informaticien indépendant, 9 000 € de revenus annuels, atteinte de la main droite dominante, 55 jours d'interruption d'activité), retient deux hypothèses de déficit fonctionnel permanent (10 % et 15 %) et chiffre le préjudice global en droit commun, avant imputation du recours de la CPAM, à environ 126 000 € dans le scénario prudent et 161 500 € dans le scénario médian. La provision sollicitée à hauteur de **15 000 €** s'inscrit ainsi très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.*
 
 - [x] `l.48` — Mention correcte de la profession : *Le **29 mai 2026**, aux environs de 15 heures, [**[La Victime]**], informaticien indépendant âgé de [**[Âge de la Victime]**], se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.*
 
 - [x] `l.36` — Mention correcte de la profession : *[**[La Victime]**], né le [**[Date de naissance de la Victime]**], de nationalité française, demeurant au [**[L'Adresse de la Victime]**], exerçant la profession d'informaticien indépendant.*
 
-### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Ordonnance sur Requete Art. 145 CPC.md`
+### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requete Art. 145 CPC.md`
 - [x] `l.42` — Mention correcte de la profession : *[**[La Victime]**], demeurant [**[L'Adresse de la Victime]**], informaticien indépendant,*
 
-### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/17 ⚖️ Requete Mandataire Ad Hoc.md`
+### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Mandataire Ad Hoc.md`
 - [x] `l.24` — Mention correcte de la profession : *Né le [Date de naissance à compléter], de nationalité [Nationalité à compléter], profession : [**[L'Identifiant Professionnel de la Victime]**],*
 
-### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/📑 Bordereau Unifie.md`
+### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifie.md`
 - [x] `l.44` — Mention correcte de la profession : *- [**[J+3 Premiers arrêts]**] au [**[J+55 Fin d'ITT]**] — [Arrêts de travail] et prolongations ([**[Le Médecin Généraliste]**], [**[Le Médecin Généraliste]**]) : arrêt de travail total de 55 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 29 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.*
 
 ### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ PV Audition Plainte Complementaire.md`
@@ -231,29 +231,29 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 ### 📄 `⚖️ Actes/👤 Reel/🗂️ Organisation/🗂️ Plan Action.md`
 - [x] `l.70` — Mention correcte de la profession : *Parallèlement, une action directe est engagée auprès de l'assureur pour solliciter l'ouverture d'un dossier de sinistre, la désignation d'un expert médical et le versement d'une provision financière de première urgence pour compenser les pertes d'exploitation de [Sébastien GRAZIDE], informaticien indépendant.*
 
-### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Assignation Refere Provision.md`
+### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md`
 - [x] `l.52` — Mention correcte de la profession : *[Sébastien GRAZIDE], né le [**[Date de naissance de la Victime]**], de nationalité française, demeurant au [10 Avenue de Purpan, 31700 Blagnac], exerçant la profession d'informaticien indépendant, ayant pour avocat constitué [Nom Prénom de l'Avocat], avocat au barreau de [Foix].*
 
 - [x] `l.217` — Mention correcte de la profession : *S'agissant de l'évaluation des préjudices corporels de [Sébastien GRAZIDE], il sera renvoyé au rapport d'évaluation indemnitaire barémique établi le 13 juillet 2026 selon la méthode Dintilhac (pièce n° 44), lequel reprend de manière structurée l'ensemble des postes patrimoniaux et extra-patrimoniaux, temporaires et permanents. Ce rapport, fondé sur la situation réelle de la victime (informaticien indépendant percevant un revenu annuel net d'environ 9 000 €, atteinte de la main droite dominante, 55 jours d'interruption totale d'activité, séquelles fonctionnelles persistantes), retient deux hypothèses de déficit fonctionnel permanent, à savoir un scénario prudent à 10 % et un scénario médian à 15 %. Sur cette base, il aboutit à un montant global d'indemnisation avant recours de la CPAM d'environ 126 000 € (scénario prudent, formant le plancher de négociation, arrondi à 130 000 €) et 161 500 € (scénario médian, correspondant au point d'équilibre d'une indemnisation intégrale, dans une fourchette de 160 000 à 165 000 €). La provision de [15 000 €] sollicitée à titre provisoire s'inscrit très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.*
 
 - [x] `l.268` — Mention correcte de la profession : *[Sébastien GRAZIDE] est informaticien indépendant. L'atteinte physique sévère à sa main droite (dominante) limite gravement son activité professionnelle d'informaticien.*
 
-### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/🎯 Conclusions Refere Provision.md`
+### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Conclusion Provision.md`
 - [x] `l.48` — Mention correcte de la profession : *Le **29 mai 2026**, aux environs de 15 heures, [Sébastien GRAZIDE], informaticien indépendant âgé de [44 ans], se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.*
 
 - [x] `l.36` — Mention correcte de la profession : *[Sébastien GRAZIDE], né le [**[Date de naissance de la Victime]**], de nationalité française, demeurant au [10 Avenue de Purpan, 31700 Blagnac], exerçant la profession d'informaticien indépendant.*
 
 - [x] `l.157` — Mention correcte de la profession : *S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'évaluation indemnitaire barémique Dintilhac du 13 juillet 2026 (pièce n° 44). Ce rapport, établi sur la base de la situation réelle de [Sébastien GRAZIDE] (informaticien indépendant, 9 000 € de revenus annuels, atteinte de la main droite dominante, 55 jours d'interruption d'activité), retient deux hypothèses de déficit fonctionnel permanent (10 % et 15 %) et chiffre le préjudice global en droit commun, avant imputation du recours de la CPAM, à environ 126 000 € dans le scénario prudent et 161 500 € dans le scénario médian. La provision sollicitée à hauteur de **15 000 €** s'inscrit ainsi très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.*
 
-### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Ordonnance sur Requete Art. 145 CPC.md`
+### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requete Art. 145 CPC.md`
 - [x] `l.42` — Mention correcte de la profession : *[Sébastien GRAZIDE], demeurant [10 Avenue de Purpan, 31700 Blagnac], informaticien indépendant,*
 
-### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/17 ⚖️ Requete Mandataire Ad Hoc.md`
+### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Mandataire Ad Hoc.md`
 - [x] `l.24` — Mention correcte de la profession : *Né le [Date de naissance à compléter], de nationalité [Nationalité à compléter], profession : [500 474 457],*
 
 - [x] `l.24` — Mention correcte du SIREN : *Né le [Date de naissance à compléter], de nationalité [Nationalité à compléter], profession : [500 474 457],*
 
-### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/📑 Bordereau Unifie.md`
+### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifie.md`
 - [x] `l.44` — Mention correcte de la profession : *- [1 juin 2026] au [23 juillet 2026] — [Arrêts de travail] et prolongations ([Dr Oxybel], [Dr Oxybel]) : arrêt de travail total de 55 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 29 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.*
 
 ### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ PV Audition Plainte Complementaire.md`

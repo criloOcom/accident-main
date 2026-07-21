@@ -412,7 +412,7 @@ Tous les modèles sont disponibles dans :
 
 5. **Envoyer par LRAR** et noter le numéro de suivi
 
-6. **Mettre à jour** le tableau de suivi ([fichier 23](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%93%91%20Bordereau%20Unifie.md))
+6. **Mettre à jour** le tableau de suivi ([fichier 23](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifie.md))
 
 ---
 

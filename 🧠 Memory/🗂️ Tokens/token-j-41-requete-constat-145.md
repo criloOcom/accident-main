@@ -60,7 +60,7 @@ Les actes associés (courriers) sont les mêmes que ceux du J+41 Courrier SIE UR
 
 ## Croisements
 
-- [J+41 Requête Constat 145](token-j-41-requete-constat-145.md) complète la [Requête Art. 145 CPC J+37](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%94%8D%20Requete%20Article%20145%20CPC.md) (même fondement, constat matériel).
+- [J+41 Requête Constat 145](token-j-41-requete-constat-145.md) complète la [Requête Art. 145 CPC J+37](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requete%20Article%20145%20CPC.md) (même fondement, constat matériel).
 
 - Liée à [J+0 Accident](token-j-0-accident.md) (vasque) et à [J+41 Courrier SIE URSSAF](token-j-41-courrier-sie-urssaf.md) (même jour).
 

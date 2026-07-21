@@ -41,6 +41,7 @@ FALLBACK_MAP = {
     "L'Établissement SOS Main": "Clinique de l'Union",
     "L'Etablissement SOS Main": "Clinique de l'Union",
     "L'Adresse de la Victime": "10 Avenue de Purpan, 31700 Blagnac",
+    "Le Lieu du Dépôt de Plainte Initiale": "Service Local de Sécurité Publique de Toulouse Rive Droite (Hôtel de Police, 23 Boulevard de l'Embouchure, 31300 Toulouse)",
     "L'Adresse de l'Exploitation": "22 Rue Lafaurie, 09000 Foix",
     "Adresse du Commerce": "22 Rue Lafaurie, 09000 Foix",
     "L'Adresse du Président": "115 avenue Fernand Loubet, 09200 Saint-Girons",
