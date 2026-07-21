@@ -24,17 +24,22 @@ jx: J+41
 <!-- LRAR -->
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # OPPOSITION À IMMATRICULATION <br> AU REGISTRE NATIONAL DES ENTREPRISES
-**[Nom Prénom de l'Avocat](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
 
+<!-- Auteur -->
+**[Nom Prénom de l'Avocat](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
 **À L'ATTENTION DU GREFFIER DU Tribunal de Commerce de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)****
 **Service du Registre National des Entreprises (RNE)**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le 9 juillet 2026
@@ -59,15 +64,11 @@ jx: J+41
 
 Monsieur le Greffier,
 
-<!-- Auteur -->
-J'interviens dans les intérêts de **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le 29 mai 2026 au sein des locaux exploités par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
 ## I — EXPOSÉ DES FAITS
-<!-- /Auteur -->
 
-<!-- Destinataire -->
+J'interviens dans les intérêts de **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**.
+
 Il existe de sérieuses raisons de penser que la société **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et ses dirigeants, **[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, s'apprêtent à dissoudre ou à abandonner la structure actuelle pour recréer une nouvelle société exerçant la même activité à la même adresse, dans le but manifeste de se soustraire aux obligations indemnitaires nées de l'accident.
-<hr><hr>
-<!-- /Destinataire -->
 
 ## II — FONDEMENTS JURIDIQUES
 

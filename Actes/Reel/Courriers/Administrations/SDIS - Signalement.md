@@ -23,10 +23,9 @@ drive_id: 1CCl3bFp_jkYtAF8yEDNtJn5Tic8miKsxLOSGNP2peoE
 jx: J+37
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
-<!-- /Destinataire -->
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
@@ -38,13 +37,17 @@ jx: J+37
 
 # SIGNALEMENT DE SECURITE ERP <br> AU SDIS DE L'ARIEGE
 > 🔗 Source Google Drive : [1CCl3bFp_jkY…](https://drive.google.com/open?id=1CCl3bFp_jkYtAF8yEDNtJn5Tic8miKsxLOSGNP2peoE)
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **SDIS de l'Ariege**
 
 [À compléter]
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[5 juillet 2026](../../../../Memory/Tokens/token-j-37-assignation-145.md)**

@@ -13,7 +13,7 @@ auteur: La Victime
 reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - SAS - HB BARBER - Courrier.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -22,15 +22,19 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - SAS - HB BARBER -
 # LETTRE RECOMMANDÉE — SAS HB BARBER (SIÈGE SOCIAL)
 > 🔗 Source Google Drive : [20260718 ✉️ LRAR SAS HB BARBER (Societe)](https://docs.google.com/document/d/1mcrXdWAJM2TPbyp03NnhJeTCaKDp4b2WfuTUPtdBk-I/edit?usp=sharing)
 
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 SIREN : **[500 474 457](../../../../Memory/Tokens/token-victime-id-professionnel.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 Direction de [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
 **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
@@ -41,16 +45,6 @@ Objet : Déclaration d'accident corporel — Demande de communication des coordo
 ---
 
 Mode d’envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
-
-<!-- Auteur -->
-Réf. : Dossier **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** / [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) — Sinistre du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-N° Recours Tiers CPAM : 31727387
-<!-- /Destinataire -->
-
-<hr><hr>
 
 Madame, Monsieur,
 ## I — RAPPEL DU CADRE LÉGAL

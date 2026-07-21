@@ -13,7 +13,7 @@ auteur: La Victime
 reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - Président - Courrier.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -22,15 +22,19 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - Président - Cour
 # LETTRE RECOMMANDÉE — M. LE PRÉSIDENT (DOMICILE PERSONNEL)
 > 🔗 Source Google Drive : [20260718 ✉️ LRAR Hamza El Hachemi BERGUIGA (President)](https://docs.google.com/document/d/1D5UTW7pYf5smzSC5NHE_hsHuya2B-b4UuwDpDe1_C8Y/edit?usp=sharing)
 
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 [Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)
 
 Président de [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
 [115 avenue Fernand Loubet, 09200 Saint-Girons](../../../../Memory/Tokens/token-exploitation-president-adresse.md)
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
@@ -41,10 +45,6 @@ Objet : Demande de communication de l'assurance RC professionnelle de [SAS HB BA
 ---
 
 Mode d'envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
-
-<!-- Auteur -->
-Réf. : Dossier **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** / [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) — Accident du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**
-<!-- /Auteur -->
 
 Monsieur le Président,
 ## I — CONTEXTE ET EXCUSES SUR LE DÉLAI

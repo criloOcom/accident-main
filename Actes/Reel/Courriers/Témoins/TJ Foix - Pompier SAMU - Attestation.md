@@ -16,7 +16,7 @@ jx: J+32
 destinataire: Tribunal Judiciaire de Foix / Commissariat de Foix
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Témoins](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Témoins](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -43,11 +43,9 @@ Atteste sur l'honneur des faits suivants :
 
 <!-- Auteur -->
 "Je suis intervenu(e) le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**. À notre arrivée sur les lieux, nous avons pris en charge un individu, **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, qui présentait une blessure grave et un saignement abondant au niveau de la main droite. Un pansement compressif d'urgence a dû être mis en place pour stopper l'hémorragie. L'état de la victime a nécessité une prise en charge immédiate et son transport en urgence vers la structure médicale appropriée."
-<!-- /Auteur -->
 
-<!-- Destinataire -->
+
 Conscient que cette attestation pourra être utilisée en justice et que toute fausse déclaration de ma part m'expose à des sanctions pénales.
-<!-- /Destinataire -->
 
 Fait pour valoir ce que de droit.
 

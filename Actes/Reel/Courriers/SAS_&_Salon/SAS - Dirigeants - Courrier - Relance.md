@@ -25,7 +25,7 @@ source: local
 jx: J+40
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -33,13 +33,17 @@ jx: J+40
 
 # RELANCE<br>DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE
 
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 **[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)**
 **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**
 **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le [8 juillet 2026](../../../../Memory/Tokens/token-accident-date-relance-v2.md)
@@ -48,15 +52,6 @@ jx: J+40
 ---
 Objet : Relance — Demande d'information assurance RC et communication d'une adresse de correspondance — Accident **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**
 ---
-
-<!-- Auteur -->
-Réf : Dossier **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** / **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Madame la Directrice Générale, Monsieur le Président,
-## I — PRÉAMBULE — ABSENCE DE RÉPONSE ET DISSIPATION DES PREUVES
-<!-- /Destinataire -->
 
 Par lettre de mise en demeure adressée le **[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)** en recommandé avec accusé de réception à chacun de vous à l'adresse du siège social (**[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**), j'ai sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
 

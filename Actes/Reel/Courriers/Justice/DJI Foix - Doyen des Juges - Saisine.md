@@ -24,7 +24,7 @@ jx: J+38
 <!-- LRAR -->
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -34,18 +34,13 @@ jx: J+38
 > 🔗 Source Google Drive : [1nFSf3EDB_bV…](https://drive.google.com/open?id=1nFSf3EDB_bVudz5Xhf0NvXlibTesCL8M5hepEZqxd5w)
 <!-- Auteur -->
 **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
+**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[500 474 457](../../../../Memory/Tokens/token-victime-id-professionnel.md)**
 <!-- /Auteur -->
 
-**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
-
-**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**
-
 <!-- Destinataire -->
-**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
-<!-- /Destinataire -->
-
-**[500 474 457](../../../../Memory/Tokens/token-victime-id-professionnel.md)**
-
 À l'attention de Monsieur le Doyen des Juges d'Instruction
 Tribunal Judiciaire de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
 **Adresse Tribunal Judiciaire**

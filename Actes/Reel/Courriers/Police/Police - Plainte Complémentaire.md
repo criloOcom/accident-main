@@ -24,7 +24,7 @@ reel_path: ../../../Reel/Courriers/Police/Police - Plainte Complémentaire.md
 jx: J+52
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -40,9 +40,11 @@ jx: J+52
 **[06 30 51 67 75](../../../../Memory/Tokens/token-victime-telephone.md)**
 <!-- /Auteur -->
 
+<!-- Destinataire -->
 **Commissariat de Police de Toulouse**
 **Adresse du Commissariat**
 **[09000](../../../../Memory/Tokens/token-accident-code-postal.md)** **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 20 juillet 2026
@@ -62,9 +64,7 @@ jx: J+52
 
 ---
 
-<!-- Destinataire -->
 Monsieur le Commandant,
-<!-- /Destinataire -->
 
 Je me permets de vous adresser la présente plainte complémentaire afin de compléter et rectifier les éléments que j'ai portés à la connaissance de vos services à la suite de l'accident corporel dont j'ai été victime le vendredi 29 mai 2026 dans un salon de coiffure situé **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**.
 

@@ -26,7 +26,7 @@ calendar_event_id: eicgcrnb2ir9bf072kennpm1ls
 jx: J+31
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -35,12 +35,16 @@ jx: J+31
 # MISE EN DEMEURE<br>DEMANDE D'INFORMATION ASSURANCE RC
 > 🔗 Source Google Drive : [1EcEmT59OVPS…](https://drive.google.com/open?id=1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93)
 
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**
 **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le [**[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**]
@@ -48,16 +52,6 @@ jx: J+31
 
 ---
 Objet : Demande d'information et communication d'assurance — Accident [**[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**] — L.R.A.R.
-<!-- Auteur -->
-Réf : Dossier [**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**] / [**[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**]
-<!-- /Auteur -->
----
-
-<!-- Destinataire -->
-Madame la Directrice Générale,
-## I — Rappel des obligations légales
-<!-- /Destinataire -->
-
 La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions.
 
 La Cour de cassation (Cass. Com., 20 mai 2003, n° 99-17.092 — arrêt SATI[^1]) a posé le principe selon lequel constitue une faute détachable la faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. Le défaut de souscription d'assurances légalement obligatoires peut constituer, dans ces conditions, une application de ce principe, en exposant les tiers à un préjudice certain.

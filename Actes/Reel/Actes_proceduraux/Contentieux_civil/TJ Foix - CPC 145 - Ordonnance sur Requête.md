@@ -26,7 +26,7 @@ jx: J+52
 destinataire: Tribunal Judiciaire de Foix
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux civil](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux civil](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -79,7 +79,7 @@ tendant à voir ordonner, avant tout procès, des mesures d'instruction sur le f
 
 **Considérant** que le requérant a, dans un premier temps, cru de bonne foi que le salon était exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, et a visé cette société dans sa plainte initiale et ses démarches amiables ;
 
-**Considérant** qu'il résulte toutefois du courriel de **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**, propriétaire bailleur des locaux, en date du 16 juillet 2026, et des états des lieux de sortie produits, que **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** a quitté les lieux le 10 mars 2026, de sorte qu'elle n'occupait plus les locaux au jour de l'accident du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** ; qu'ainsi, la responsabilité de cette société, en tant qu'exploitant du salon au jour des faits, apparaît exclue ;
+**Considérant** qu'il résulte toutefois du courriel de **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**, propriétaire bailleur des locaux, en date du 16 juillet 2026, et des états des lieux de sortie produits, que **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** a quitté les lieux le 10 mars 2026, de sorte qu'elle n'occupait plus les locaux au jour de l'accident du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** ; qu'ainsi, la responsabilité de cette société, en tant qu'exploitant du salon au jour des faits, apparaît exclue ;
 
 **Considérant** qu'au vu des extraits RNE / DATA INPI et de l'avis de situation SIRENE produits, il ressort qu'une autre société, **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, immatriculée sous le SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md), exploite l'établissement situé à la même adresse (**[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**) depuis le 22 avril 2026, sous la direction de :
 
@@ -89,7 +89,7 @@ tendant à voir ordonner, avant tout procès, des mesures d'instruction sur le f
 
 que la liste des souscripteurs et le certificat de dépôt de fonds établissent un capital de [1 000 €](../../../../Memory/Tokens/token-exploitation-capital-social.md) (1 000 actions de 1 €), dont 990 actions souscrites par [**[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)**] et 10 par [[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques)] ;
 
-**Considérant** qu'il se déduit de ces pièces que, à la date de l'accident (**[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**), le salon de coiffure dans lequel les faits se sont produits était exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, sous la direction de [**[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)**] et [[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques)], et non plus par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** ; que l'erreur d'identification initiale commise par le requérant apparaît ainsi excusable, mais doit être corrigée pour que les responsabilités civiles et pénales et les assurances soient correctement recherchées ;
+**Considérant** qu'il se déduit de ces pièces que, à la date de l'accident (**[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**), le salon de coiffure dans lequel les faits se sont produits était exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, sous la direction de [**[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)**] et [[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques)], et non plus par **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** ; que l'erreur d'identification initiale commise par le requérant apparaît ainsi excusable, mais doit être corrigée pour que les responsabilités civiles et pénales et les assurances soient correctement recherchées ;
 
 **Considérant** que, malgré plusieurs courriers recommandés et relances amiables, le requérant ne parvient pas à obtenir :
 
@@ -125,10 +125,10 @@ Statuant sur requête, hors la présence des parties,
 1. Le ou les baux commerciaux (et tous avenants) liant le propriétaire aux exploitants successifs du local, et en particulier :
 
    - le bail conclu avec **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**,
-   - le bail ou avenant conclu avec **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**,
+   - le bail ou avenant conclu avec **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)**,
    dans leur version complète ou, à défaut, au moins les clauses relatives à l'identité du preneur, à la date d'entrée dans les lieux, aux obligations d'assurance du preneur et aux obligations d'entretien / de sécurité ;
 
-2. Les états des lieux de sortie de **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (10 mars 2026) et d'entrée de **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, s'ils existent, ainsi que tout document décrivant l'état du matériel (et notamment des bacs à shampoing) remis au nouvel exploitant ;
+2. Les états des lieux de sortie de **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** (10 mars 2026) et d'entrée de **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, s'ils existent, ainsi que tout document décrivant l'état du matériel (et notamment des bacs à shampoing) remis au nouvel exploitant ;
 
 3. Les attestations d'assurance de responsabilité civile éventuellement détenues par le bailleur pour cet immeuble sur la période incluant le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**, en indiquant l'identité de l'assureur et les références des contrats ;
 

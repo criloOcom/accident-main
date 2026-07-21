@@ -32,13 +32,17 @@ jx: J+31
 
 # MISE EN DEMEURE AUX DIRIGEANTS<br>DEMANDE D'INFORMATION ASSURANCE RC
 > 🔗 Source Google Drive : [1pheN3_rudxy…](https://drive.google.com/open?id=1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I)
+<!-- Auteur -->
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** <br>
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**
 
 **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** <br>
 **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
@@ -49,15 +53,6 @@ Objet : Demande d'information et communication d'assurance — Accident **[J+0 A
 ---
 
 <hr><hr>
-
-<!-- Auteur -->
-Réf : Dossier **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** / **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Madame la Directrice Générale, Monsieur le Président,
-## I — INTRODUCTION
-<!-- /Destinataire -->
 
 La présente lettre de mise en demeure est adressée conjointement par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** à **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, en leur qualité de dirigeants de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**.
 

@@ -23,7 +23,7 @@ drive_id: 1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA
 jx: J+37
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -31,13 +31,17 @@ jx: J+37
 
 # INFORMATION DE LITIGE <br> SERVICE DES IMPOTS DES ENTREPRISES
 > 🔗 Source Google Drive : [1yl55r__e8V0…](https://drive.google.com/open?id=1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA)
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **Service des Impôts des Entreprises de Foix
 
 [À compléter]
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[5 juillet 2026](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
@@ -53,13 +57,7 @@ Ref : SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)
 
 Madame, Monsieur le Responsable,
 
-<!-- Auteur -->
 La presente est adressee a vos services par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), immatriculee sous le SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md).
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, et a entraine des lesions graves de la main droite (plaie palmaire avec section du tendon flechisseur et du paquet vasculo-nerveux de l'index dominant) ayant necessite une microchirurgie d'urgence.
-<!-- /Destinataire -->
 
 Je porte par la presente a votre connaissance l'existence d'un litige en cours engageant la responsabilite civile et penale de la SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, pour des montants estimes a [59 600 €](../../../../Memory/Tokens/token-finance-evaluation-initiale.md) au titre de la reparation integrale de mes prejudices corporels, sans prejudice des procedures en cours devant les juridictions civiles et penales.
 

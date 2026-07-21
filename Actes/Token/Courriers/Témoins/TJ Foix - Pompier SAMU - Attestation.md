@@ -43,11 +43,9 @@ Atteste sur l'honneur des faits suivants :
 
 <!-- Auteur -->
 "Je suis intervenu(e) le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**. À notre arrivée sur les lieux, nous avons pris en charge un individu, **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, qui présentait une blessure grave et un saignement abondant au niveau de la main droite. Un pansement compressif d'urgence a dû être mis en place pour stopper l'hémorragie. L'état de la victime a nécessité une prise en charge immédiate et son transport en urgence vers la structure médicale appropriée."
-<!-- /Auteur -->
 
-<!-- Destinataire -->
+
 Conscient que cette attestation pourra être utilisée en justice et que toute fausse déclaration de ma part m'expose à des sanctions pénales.
-<!-- /Destinataire -->
 
 Fait pour valoir ce que de droit.
 

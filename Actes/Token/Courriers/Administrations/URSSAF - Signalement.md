@@ -25,19 +25,22 @@ jx: J+37
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
-<!-- /Destinataire -->
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # SIGNALEMENT DE TRAVAIL DISSIMULE PRESUME
 > 🔗 Source Google Drive : [1LdLfCnWLiD2…](https://drive.google.com/open?id=1LdLfCnWLiD2v1N1SMF3FAeh681znM0kXOrAlBXeOe8w)
+<!-- Auteur -->
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **URSSAF Midi-Pyrenees**
 TSA 90002
 93517 MONTREUIL CEDEX
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le 11 juillet 2026

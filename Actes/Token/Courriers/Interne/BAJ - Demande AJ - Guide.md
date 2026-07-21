@@ -22,7 +22,6 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Interne](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
-<!-- /Destinataire -->
 
 # GUIDE<br>DEMANDE D'AIDE JURIDICTIONNELLE TOTALE
 

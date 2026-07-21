@@ -26,14 +26,16 @@ jx: J+37
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Mairie](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
-<!-- /Destinataire -->
 
 # SUIVI<br>DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF
 > 🔗 Source Google Drive : [1Xj4wf-v-ShC…](https://drive.google.com/open?id=1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw)
+<!-- Auteur -->
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **[L'Adjoint au Maire de la Commune](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**
 
 Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
@@ -41,6 +43,7 @@ Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-vi
 **Adresse de la Mairie**
 
 **[Code Postal de l'Accident](../../../../Memory/Tokens/token-accident-code-postal.md)** **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le **[J+37 Assignation 145](../../../../Memory/Tokens/token-j-37-assignation-145.md)**

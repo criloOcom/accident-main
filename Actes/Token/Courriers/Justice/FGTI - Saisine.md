@@ -45,8 +45,8 @@ jx: J+38
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
-**Fonds de Garantie des Victimes (FGTI)**  
 <!-- Destinataire -->
+**Fonds de Garantie des Victimes (FGTI)**  
 64 Rue de la République  
 75011 Paris
 <!-- /Destinataire -->

@@ -28,7 +28,7 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS - Assureur RC - Courrier.md
 jx: J+50
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -37,14 +37,18 @@ jx: J+50
 # MISE EN DEMEURE ASSUREUR RC
 **Déclaration de sinistre — Action directe (Art. L. 124-3 C. assur.) — Expertise médicale consolidée**
 
+<!-- Auteur -->
 **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 À
 
 L'assureur responsabilité civile professionnelle de
 **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 [Adresse à compléter]
+<!-- /Destinataire -->
 
 Fait à **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[date à compléter]**
 

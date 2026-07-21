@@ -30,11 +30,15 @@ jx: J+31
 
 # DEMANDE DE COMMUNICATION <br> D'ASSURANCE RC
 > 🔗 Source Google Drive : [1W-C6nM5G_GU…](https://drive.google.com/open?id=1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4)
+<!-- Auteur -->
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** <br>
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** <br>
 **[Adresse à compléter]**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
@@ -43,15 +47,6 @@ jx: J+31
 ---
 Objet : Demande de communication d'assurance RC — Accident **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** — L.R.A.R.
 ---
-
-<!-- Auteur -->
-Réf : Dossier **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** / **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Monsieur,
-## I — INTRODUCTION
-<!-- /Destinataire -->
 
 La présente lettre est adressée par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** à **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** en sa qualité de propriétaire bailleur des locaux commerciaux situés au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de l'exploitant.
 

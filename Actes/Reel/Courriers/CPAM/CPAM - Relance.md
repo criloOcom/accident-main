@@ -25,7 +25,7 @@ jx: J+37
 <!-- Objet -->
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [CPAM](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [CPAM](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -33,13 +33,17 @@ jx: J+37
 
 # RELANCE CPAM<br>SUIVI DU DOSSIER DE RECOURS CONTRE TIERS
 > 🔗 Source Google Drive : [1MHhZf_KN4b3…](https://drive.google.com/open?id=1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k)
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **CPAM de la Haute-Garonne**
 
 [À compléter]
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[5 juillet 2026](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
@@ -55,14 +59,8 @@ Ref : Accident du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.m
 
 Madame, Monsieur,
 
-<!-- Auteur -->
 La presente est adressee a vos services par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, immatriculee sous le SIREN **[104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)**.
 ## I — OBJET DE LA RELANCE
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Un dossier de recours contre tiers a ete ouvert par vos services sous le numero 31727387 le **[3 juin 2026](../../../../Memory/Tokens/token-j-5-ouverture-cpam.md)** a la suite de mon accident.
-<!-- /Destinataire -->
 
 Je me permets de solliciter de vos services :
 

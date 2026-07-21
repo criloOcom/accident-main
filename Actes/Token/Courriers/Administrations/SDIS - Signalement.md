@@ -26,7 +26,6 @@ jx: J+37
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
-<!-- /Destinataire -->
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
@@ -38,13 +37,17 @@ jx: J+37
 
 # SIGNALEMENT DE SECURITE ERP <br> AU SDIS DE L'ARIEGE
 > 🔗 Source Google Drive : [1CCl3bFp_jkY…](https://drive.google.com/open?id=1CCl3bFp_jkYtAF8yEDNtJn5Tic8miKsxLOSGNP2peoE)
+<!-- Auteur -->
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **SDIS de l'Ariege**
 
 **[Adresse à compléter]**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le **[J+37 Assignation 145](../../../../Memory/Tokens/token-j-37-assignation-145.md)**

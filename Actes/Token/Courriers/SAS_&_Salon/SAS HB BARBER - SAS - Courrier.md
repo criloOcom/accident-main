@@ -34,13 +34,17 @@ jx: J+31
 
 # MISE EN DEMEURE<br>DÉCLARATION D'ACCIDENT CORPOREL
 > 🔗 Source Google Drive : [1s5_z0l9yti3…](https://drive.google.com/open?id=1s5_z0l9yti3Ir6yBGH5xlZE-2LMs8uMJGlVcQA_sHKc)
+<!-- Auteur -->
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 Direction de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
 **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
@@ -49,15 +53,6 @@ Direction de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/tok
 ---
 Objet : Déclaration d'accident corporel — Demande d'information assurance RC — L.R.A.R.
 ---
-
-<!-- Auteur -->
-Réf : Dossier **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** / **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Madame, Monsieur,
-## I — INTRODUCTION
-<!-- /Destinataire -->
 
 La présente lettre de mise en demeure est adressée par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** à **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** afin de déclarer officiellement l'accident corporel survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
 

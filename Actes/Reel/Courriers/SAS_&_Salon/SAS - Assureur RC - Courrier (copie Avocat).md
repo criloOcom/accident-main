@@ -28,7 +28,7 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS - Assureur RC - Courrier (cop
 jx: J+50-bis
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -37,21 +37,25 @@ jx: J+50-bis
 # MISE EN DEMEURE ASSUREUR RC
 **Action directe — Réserve de droits — Volet pénal expressément réservé**
 
+<!-- Auteur -->
 **Maître [À compléter — Nom de l'avocat]**
 Avocat au Barreau de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
 [Adresse du cabinet]
 [Contact]
 
 **Conseil de **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)****
+<!-- /Auteur -->
 
 <hr><hr>
 
+<!-- Destinataire -->
 À
 
 L'assureur responsabilité civile professionnelle de
 **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 [Adresse à compléter]
 **Service Sinistres**
+<!-- /Destinataire -->
 
 Fait à **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[date à compléter]**
 

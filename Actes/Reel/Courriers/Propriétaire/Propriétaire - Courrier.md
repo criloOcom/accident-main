@@ -22,7 +22,7 @@ calendar_event_id: qrvadub2s8gekuhgpn0knq8130
 jx: J+31
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Propriétaire](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Propriétaire](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -30,11 +30,15 @@ jx: J+31
 
 # DEMANDE DE COMMUNICATION <br> D'ASSURANCE RC
 > 🔗 Source Google Drive : [1W-C6nM5G_GU…](https://drive.google.com/open?id=1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4)
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)** <br>
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** <br>
 [À compléter]
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
@@ -43,15 +47,6 @@ jx: J+31
 ---
 Objet : Demande de communication d'assurance RC — Accident **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** — L.R.A.R.
 ---
-
-<!-- Auteur -->
-Réf : Dossier **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** / **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Monsieur,
-## I — INTRODUCTION
-<!-- /Destinataire -->
 
 La présente lettre est adressée par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** à **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** en sa qualité de propriétaire bailleur des locaux commerciaux situés au **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de l'exploitant.
 

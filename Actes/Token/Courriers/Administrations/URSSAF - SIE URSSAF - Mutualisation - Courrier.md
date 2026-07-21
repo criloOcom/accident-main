@@ -34,14 +34,18 @@ calendar_event_id: 9ortbnkvp8it8hnebif5fr4bec
 
 # DEMANDE DE MUTUALISATION <br> FISCALE ET SOCIALE URGENTE
 
+<!-- Auteur -->
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **Service des Impots des Entreprises de [La Ville de l'Accident]**
 **URSSAF Midi-Pyrenees**
 
 **[Adresse à compléter]**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le **[J+41 Courrier SIE URSSAF](../../../../Memory/Tokens/token-j-41-courrier-sie-urssaf.md)**
@@ -54,15 +58,12 @@ Objet : Demande de mutualisation fiscale et sociale urgente — SAS [**[L'Exploi
 Ref : SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md)
 
 Madame, Monsieur le Responsable,
+
 ## I — OBJET DE LA DEMANDE
 
-<!-- Auteur -->
-La presente est adressee conjointement a vos deux services par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md), capital 200 €).
-<!-- /Auteur -->
+La presente est adressee conjointement a vos deux services par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**.
 
-<!-- Destinataire -->
 L'accident, cause par la chute du prepose depuis un bac a shampoing en ceramique instable et casse, a entraine des lesions graves de la main droite (section partielle du tendon flechisseur et du paquet vasculo-nerveux de l'index dominant) ayant necessite une microchirurgie d'urgence en SOS Main.
-<!-- /Destinataire -->
 
 **Les montants en jeu sont estimes a 105 000 €** (evaluation Dintilhac detaillee), dont 15 000 € de provision immediatement exigible en reféré.
 <hr><hr>

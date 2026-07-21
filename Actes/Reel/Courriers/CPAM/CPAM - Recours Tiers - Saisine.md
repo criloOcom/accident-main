@@ -24,7 +24,7 @@ drive_id: 1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY
 jx: J+38
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [CPAM](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [CPAM](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -32,14 +32,18 @@ jx: J+38
 
 # TRANSMISSION ET BORDEREAU RECAPITULATIF<br>RECOURS CONTRE TIERS
 > 🔗 Source Google Drive : [1_cHcprI9XKo…](https://drive.google.com/open?id=1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY)
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **CPAM de la Haute-Garonne**
 Direction des Recours Contre Tiers
 
 [À compléter]
+<!-- /Destinataire -->
 
 <!-- Date -->
 [Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md), le **[6 juillet 2026](../../../../Memory/Tokens/token-j-38-constitution-pc.md)**
@@ -54,16 +58,12 @@ Ref : Accident du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.m
 Madame, Monsieur,
 ## I — INTRODUCTION
 
-<!-- Auteur -->
 La presente est adressee a vos services par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** afin de vous informer de l'etat d'avancement des procedures judiciaires engagees a la suite de l'accident corporel grave dont j'ai ete victime le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, et de vous transmettre les elements actualises necessaires au suivi de mon dossier de recours contre tiers n° 31727387.
 <hr><hr>
-<!-- /Auteur -->
 
 ## II — RAPPEL DU DOSSIER
 
-<!-- Destinataire -->
 Mon dossier de recours contre tiers a ete ouvert par vos services le **[3 juin 2026](../../../../Memory/Tokens/token-j-5-ouverture-cpam.md)** sous le numero 31727387, suite a l'accident corporel survenu le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**.
-<!-- /Destinataire -->
 
 L'accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte mis a disposition par l'employeur. Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main le **[30 mai 2026](../../../../Memory/Tokens/token-j-1-chirurgie.md)** par **[Dr Iskander DJERBI](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**.
 

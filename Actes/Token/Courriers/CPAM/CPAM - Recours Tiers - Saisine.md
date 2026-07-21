@@ -32,14 +32,18 @@ jx: J+38
 
 # TRANSMISSION ET BORDEREAU RECAPITULATIF<br>RECOURS CONTRE TIERS
 > 🔗 Source Google Drive : [1_cHcprI9XKo…](https://drive.google.com/open?id=1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY)
+<!-- Auteur -->
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **CPAM de la Haute-Garonne**
 Direction des Recours Contre Tiers
 
 **[Adresse à compléter]**
+<!-- /Destinataire -->
 
 <!-- Date -->
 [**[La Ville de Residence de la Victime]**](../../../../Memory/Tokens/token-victime-ville-residence.md), le **[J+38 Constitution PC](../../../../Memory/Tokens/token-j-38-constitution-pc.md)**
@@ -54,16 +58,12 @@ Ref : Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.
 Madame, Monsieur,
 ## I — INTRODUCTION
 
-<!-- Auteur -->
 La presente est adressee a vos services par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** afin de vous informer de l'etat d'avancement des procedures judiciaires engagees a la suite de l'accident corporel grave dont j'ai ete victime le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, et de vous transmettre les elements actualises necessaires au suivi de mon dossier de recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
 <hr><hr>
-<!-- /Auteur -->
 
 ## II — RAPPEL DU DOSSIER
 
-<!-- Destinataire -->
 Mon dossier de recours contre tiers a ete ouvert par vos services le **[J+5 Ouverture CPAM](../../../../Memory/Tokens/token-j-5-ouverture-cpam.md)** sous le numero **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**, suite a l'accident corporel survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**.
-<!-- /Destinataire -->
 
 L'accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte mis a disposition par l'employeur. Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main le **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)** par **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**.
 

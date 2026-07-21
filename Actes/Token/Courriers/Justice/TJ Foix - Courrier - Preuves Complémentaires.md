@@ -34,8 +34,8 @@ jx: J+44
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
-**Monsieur le President du Tribunal Judiciaire de Foix**
 <!-- Destinataire -->
+**Monsieur le President du Tribunal Judiciaire de Foix**
 14 Boulevard du Sud
 BP 50078
 09008 FOIX CEDEX

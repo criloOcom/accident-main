@@ -12,7 +12,7 @@ auteur: La Victime
 reel_path: ../../../Reel/Actes_proceduraux/Contentieux_penal/Parquet Foix - Plainte Complémentaire - Correction.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux penal](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux penal](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -54,7 +54,7 @@ Ces éléments, ainsi que mon suivi médical (**[Dr Julie JARDON](../../../../Me
 
 ## 2. Correction importante sur l'identité de la société exploitante
 
-Dans mon dossier de plainte initial et dans mes premières démarches administratives, j'ai indiqué de bonne foi la société SAS LES MAUVAIS GARÇONS (SIREN 938 033 222, 22 rue Lafaurie, 09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**) comme exploitante du salon.
+Dans mon dossier de plainte initial et dans mes premières démarches administratives, j'ai indiqué de bonne foi la société **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** (SIREN 938 033 222, 22 rue Lafaurie, 09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**) comme exploitante du salon.
 
 Depuis, de nouveaux éléments établissent qu'au **29 mai 2026**, date de l'accident, le salon était en réalité exploité sous une autre dénomination sociale, à savoir :
 
@@ -70,9 +70,9 @@ SAS HB BARBER (SAS)**
 | Président | [Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md) (né 07/1998, Saint-Girons) |
 | Directrice générale | **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** (née 04/1970, Baillargues) |
 
-Mme **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** était déjà mentionnée dans mon dossier comme directrice générale de SAS LES MAUVAIS GARÇONS. Elle occupe la fonction de **directrice générale dans les deux sociétés**, SAS LES MAUVAIS GARÇONS puis SAS HB BARBER, pour le même local et la même activité, avec une succession très rapprochée :
+Mme **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** était déjà mentionnée dans mon dossier comme directrice générale de **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)**. Elle occupe la fonction de **directrice générale dans les deux sociétés**, **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** puis SAS HB BARBER, pour le même local et la même activité, avec une succession très rapprochée :
 
-- **10 mars 2026** : date de cessation d'activité de SAS LES MAUVAIS GARÇONS dans les locaux selon le bailleur (état des lieux de sortie)
+- **10 mars 2026** : date de cessation d'activité de **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** dans les locaux selon le bailleur (état des lieux de sortie)
 
 - **22 avril 2026** : début d'activité déclarée de SAS HB BARBER au 22 rue / grande rue Lafaurie
 

@@ -13,11 +13,9 @@ reel_path: ../../../Reel/Courriers/Mairie/Mairie - ERP Tavella - Courrier.md
 jx: J+42
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Mairie](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Mairie](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
-<!-- /Destinataire -->
-
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # EMAIL<br>Éléments d'actualisation sur le dossier ERP (**[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**)
@@ -52,9 +50,7 @@ Afin d'assurer un suivi rigoureux de mon dossier et conformément aux dispositio
 
 Si je me permets de vous écrire à nouveau aujourd'hui, c'est en raison d'une évolution particulièrement anormale de la situation qui requiert l'attention de vos services.
 
-<!-- Date -->
 Sur le plan médical, lors de ma consultation de contrôle du **[23 juin 2026](../../../../Memory/Tokens/token-j-25-premiere-kine.md)**, le **[Dr Iskander DJERBI](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** (SOS Main — **[Clinique de l'Union](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)**) a prescrit un protocole de kinésithérapie stricte (3 séances par semaine) et certifié que la récupération de la sensibilité de mon index s'étendra sur une durée d'environ un an, tout en restant probablement partielle suite à la suture nerveuse.
-<!-- /Date -->
 
 Sur le plan administratif, résidant à **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**, j'ai fait adresser des mises en demeure par courriers recommandés à [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) à l'adresse de son siège social (**[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**) le 29 mai 2026. Or, ces courriers m'ont été retournés (mentions défaut d'adresse, distribution impossible).
 

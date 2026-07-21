@@ -20,7 +20,7 @@ source: local
 jx: J+38
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Médical](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Médical](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -29,7 +29,10 @@ jx: J+38
 Objet : Demande de certificat médical de consolidation — Suite courrier du **[5 juillet 2026](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
 ---
 
-**Destinataire :** **[Dr Iskander DJERBI](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** — SOS Main **[Clinique de l'Union](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)**
+<!-- Destinataire -->
+**[Dr Iskander DJERBI](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**
+SOS Main **[Clinique de l'Union](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)**
+<!-- /Destinataire -->
 
 <hr><hr>
 

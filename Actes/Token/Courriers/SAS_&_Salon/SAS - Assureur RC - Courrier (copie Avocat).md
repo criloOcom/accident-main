@@ -37,21 +37,25 @@ jx: J+50-bis
 # MISE EN DEMEURE ASSUREUR RC
 **Action directe — Réserve de droits — Volet pénal expressément réservé**
 
+<!-- Auteur -->
 **Maître [À compléter — Nom de l'avocat]**
 Avocat au Barreau de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
 [Adresse du cabinet]
 [Contact]
 
 **Conseil de **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)****
+<!-- /Auteur -->
 
 <hr><hr>
 
+<!-- Destinataire -->
 À
 
 L'assureur responsabilité civile professionnelle de
 **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 [Adresse à compléter]
 **Service Sinistres**
+<!-- /Destinataire -->
 
 Fait à **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le **[date à compléter]**
 

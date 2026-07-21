@@ -19,10 +19,9 @@ jx: J+47
 destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Interne](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Interne](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
-<!-- /Destinataire -->
 
 # GUIDE<br>DEMANDE D'AIDE JURIDICTIONNELLE TOTALE
 

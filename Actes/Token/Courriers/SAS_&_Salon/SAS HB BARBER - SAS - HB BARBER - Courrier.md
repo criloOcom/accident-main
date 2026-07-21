@@ -22,15 +22,19 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - SAS - HB BARBER -
 # LETTRE RECOMMANDÉE — SAS HB BARBER (SIÈGE SOCIAL)
 > 🔗 Source Google Drive : [20260718 ✉️ LRAR SAS HB BARBER (Societe)](https://docs.google.com/document/d/1mcrXdWAJM2TPbyp03NnhJeTCaKDp4b2WfuTUPtdBk-I/edit?usp=sharing)
 
+<!-- Auteur -->
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
 SIREN : **[L'Identifiant Professionnel de la Victime](../../../../Memory/Tokens/token-victime-id-professionnel.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 Direction de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
 **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
@@ -41,16 +45,6 @@ Objet : Déclaration d'accident corporel — Demande de communication des coordo
 ---
 
 Mode d’envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
-
-<!-- Auteur -->
-Réf. : Dossier **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** / [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) — Sinistre du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-N° Recours Tiers CPAM : [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)
-<!-- /Destinataire -->
-
-<hr><hr>
 
 Madame, Monsieur,
 ## I — RAPPEL DU CADRE LÉGAL

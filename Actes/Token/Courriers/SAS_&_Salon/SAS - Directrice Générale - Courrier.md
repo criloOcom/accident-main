@@ -35,12 +35,16 @@ jx: J+31
 # MISE EN DEMEURE<br>DEMANDE D'INFORMATION ASSURANCE RC
 > 🔗 Source Google Drive : [1EcEmT59OVPS…](https://drive.google.com/open?id=1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93)
 
+<!-- Auteur -->
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**
 **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le [**[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**]
@@ -48,16 +52,6 @@ jx: J+31
 
 ---
 Objet : Demande d'information et communication d'assurance — Accident [**[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**] — L.R.A.R.
-<!-- Auteur -->
-Réf : Dossier [**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**] / [**[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**]
-<!-- /Auteur -->
----
-
-<!-- Destinataire -->
-Madame la Directrice Générale,
-## I — Rappel des obligations légales
-<!-- /Destinataire -->
-
 La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions.
 
 La Cour de cassation (Cass. Com., 20 mai 2003, n° 99-17.092 — arrêt SATI[^1]) a posé le principe selon lequel constitue une faute détachable la faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. Le défaut de souscription d'assurances légalement obligatoires peut constituer, dans ces conditions, une application de ce principe, en exposant les tiers à un préjudice certain.

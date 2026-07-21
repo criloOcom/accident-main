@@ -30,20 +30,26 @@ signataire: 'Sébastien GRAZIDE (envoi sans signature manuscrite)'
 <!-- LRAR -->
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Propriétaire](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Propriétaire](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
 # MISE EN DEMEURE AMIABLE<br>RELANCE COMMUNICATION ASSURANCE RC & CORRECTION QUALIFICATIVE "ACCIDENT DU TRAVAIL"
 > 🔗 Source Google Drive : [À COMPLÉTER APRÈS ENVOI]
 
+<!-- Auteur -->
 [10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)  
 [sebastien.grazide@gmail.com](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)  
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+**Monsieur Romain DELRIEU  
+**17 Rue de la Baïse, 31120 Roquettes**
+<!-- /Destinataire -->
+
 <!-- Date -->
 [Blagnac](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes), le **19 juillet 2026**  
 <!-- /Date -->
-**Monsieur Romain DELRIEU  
-**17 Rue de la Baïse, 31120 Roquettes**
 
 ---
 
@@ -58,14 +64,6 @@ signataire: 'Sébastien GRAZIDE (envoi sans signature manuscrite)'
 <!-- /Objet -->
 
 ---
-
-<!-- Auteur -->
-**Réf : Dossier Sébastien GRAZIDE / SAS HB BARBER / SAS HB BARBER — LRAR n°3 [N° à compléter après dépôt La Poste]**
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Monsieur,
-<!-- /Destinataire -->
 
 Par la présente, je me permets de revenir vers vous pour la troisième fois concernant l'accident corporel dont j'ai été victime le **vendredi 29 mai 2026 à 15h00** dans vos locaux du **22 Rue Lafaurie à Foix (09000)**.
 
@@ -121,9 +119,9 @@ Cette disparition constatée, si elle est établie comme intentionnelle, pourrai
 
 Les informations publiques (Registre National des Entreprises) indiquent que **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN **104 103 262**) a été créée le **22 avril 2026** et exerce une activité de coiffure/barbier au **22 Rue Lafaurie à Foix** — soit **plus d'un mois avant mon accident**.
 
-**[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN 938 033 222) a, selon vos propres dires, cessé son activité le **10 mars 2026** (état des lieux de sortie à l'appui).
+**[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** (SIREN 938 033 222) a, selon vos propres dires, cessé son activité le **10 mars 2026** (état des lieux de sortie à l'appui).
 
-**Au 29 mai 2026, l'exploitant apparent des lieux était donc [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, et non **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
+**Au 29 mai 2026, l'exploitant apparent des lieux était donc [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, et non **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)**.
 <hr><hr>
 
 ## III — TROIS QUESTIONS RESTÉES SANS RÉPONSE

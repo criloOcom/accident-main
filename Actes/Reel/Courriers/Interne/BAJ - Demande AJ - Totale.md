@@ -25,7 +25,7 @@ jx: J+50
 destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Interne](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Interne](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -38,7 +38,6 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 
 | Champ | Renseignement |
 |-------|---------------|
-<!-- Auteur -->
 | **Nom de naissance** | [Sébastien GRAZIDE](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques) |
 | **Prénom** | **[Sébastien](../../../../Memory/Tokens/token-victime-prenom.md)** |
 | **Date de naissance** | 18 janvier 1982 |
@@ -49,15 +48,11 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 | **Adresse** | [10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) |
 | **Téléphone** | **[Téléphone de la Victime]** |
 | **Email** | [sebastien.grazide@gmail.com](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) |
-<hr><hr>
-<!-- /Auteur -->
 
 ## II — SITUATION PROFESSIONNELLE ET RESSOURCES
 
 ### Profession
-<!-- Destinataire -->
 - **Activité** : Informaticien indépendant (micro-entrepreneur — développement web et applications)
-<!-- /Destinataire -->
 
 - **Régime** : Micro-entrepreneur (régime fiscal micro-BNC)
 

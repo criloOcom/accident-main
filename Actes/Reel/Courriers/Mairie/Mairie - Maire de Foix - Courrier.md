@@ -20,7 +20,7 @@ calendar_event_id: gqu5r7mbuh6570913b2nisi7t8
 <!-- LRAR -->
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Mairie](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Mairie](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -34,8 +34,8 @@ calendar_event_id: gqu5r7mbuh6570913b2nisi7t8
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
-**Monsieur le Maire**
 <!-- Destinataire -->
+**Monsieur le Maire**
 Mairie de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
 45 Cours Gabriel Fauré
 09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**

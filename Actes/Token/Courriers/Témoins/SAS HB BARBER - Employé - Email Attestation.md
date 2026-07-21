@@ -22,7 +22,6 @@ jx: J+38
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Témoins](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
-<!-- /Destinataire -->
 
 # TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (EMPLOYÉ)
 ---

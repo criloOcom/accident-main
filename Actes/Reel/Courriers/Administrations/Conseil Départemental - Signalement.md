@@ -24,7 +24,7 @@ jx: J+37
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -40,8 +40,8 @@ jx: J+37
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
-**Conseil Départemental de l'Ariège**  
 <!-- Destinataire -->
+**Conseil Départemental de l'Ariège**  
 Président du Conseil Départemental  
 Hôtel du Département  
 5-7 Rue du Cap de la Ville  

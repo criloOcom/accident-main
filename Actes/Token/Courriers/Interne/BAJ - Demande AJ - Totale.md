@@ -38,7 +38,6 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 
 | Champ | Renseignement |
 |-------|---------------|
-<!-- Auteur -->
 | **Nom de naissance** | [**[La Victime]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques) |
 | **Prénom** | **[Prénom de la Victime](../../../../Memory/Tokens/token-victime-prenom.md)** |
 | **Date de naissance** | 18 janvier 1982 |
@@ -49,15 +48,11 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 | **Adresse** | [**[L'Adresse de la Victime]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) |
 | **Téléphone** | **[Téléphone de la Victime]** |
 | **Email** | [**[L'Email de la Victime]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) |
-<hr><hr>
-<!-- /Auteur -->
 
 ## II — SITUATION PROFESSIONNELLE ET RESSOURCES
 
 ### Profession
-<!-- Destinataire -->
 - **Activité** : Informaticien indépendant (micro-entrepreneur — développement web et applications)
-<!-- /Destinataire -->
 
 - **Régime** : Micro-entrepreneur (régime fiscal micro-BNC)
 

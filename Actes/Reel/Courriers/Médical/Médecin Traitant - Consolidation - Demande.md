@@ -25,7 +25,7 @@ jx: J+37
 <!-- Objet -->
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Médical](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Médical](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -35,15 +35,19 @@ jx: J+37
 
 # DEMANDE DE CERTIFICAT MEDICAL <br> CONSOLIDATION
 > 🔗 Source Google Drive : [1PSv6c0YFvLa…](https://drive.google.com/open?id=1PSv6c0YFvLa0WDEbwc3AVxL14z7ARi5ne50ctJgCvWI)
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **[Dr Iskander DJERBI](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**
 
 Service SOS Main — **[Clinique de l'Union](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)**
 
 [À compléter]
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[5 juillet 2026](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
@@ -52,15 +56,6 @@ Service SOS Main — **[Clinique de l'Union](../../../../Memory/Tokens/token-hop
 ---
 Objet : Demande de certificat medical de consolidation — Accident du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**
 ---
-
-<!-- Auteur -->
-Ref : Dossier **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** / **[Dr Iskander DJERBI](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Madame, Docteur,
-## I — INTRODUCTION
-<!-- /Destinataire -->
 
 La presente lettre est adressee par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** a **[Dr Iskander DJERBI](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** afin de solliciter la delivrance d'un certificat medical de consolidation dans le cadre de la procedure d'indemnisation de l'accident corporel dont il a ete victime le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** et qui a necessite votre intervention de microchirurgie d'urgence le **[30 mai 2026](../../../../Memory/Tokens/token-j-1-chirurgie.md)**.
 

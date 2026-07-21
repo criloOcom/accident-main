@@ -43,11 +43,8 @@ Atteste sur l'honneur des faits suivants :
 "Je travaillais en tant qu'employé(e) dans le salon de coiffure **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**. Je tiens à préciser qu'avant même l'accident, la vasque en céramique du bac à shampoing présentait déjà une cassure et une fragilité importantes. Nous n'avons reçu aucune consigne de sécurité particulière ni formation spécifique de la part de la direction concernant l'utilisation de cet équipement défectueux.
 <!-- Auteur -->
 Lors de l'accident, j'ai vu mon collègue, **[Le Préposé de l'Exploitation](../../../../Memory/Tokens/token-exploitation-prepose-nom.md)** (tél. [**[Le Téléphone du Préposé]**](../../../../Memory/Tokens/token-exploitation-prepose-telephone.md)), monter sur la vasque, et celle-ci basculer en descendant. Un client, **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, a tenté de le retenir par réflexe et s'est gravement blessé la main droite contre la partie cassée de la vasque. Cet accident s'est produit dans ce contexte de conditions de travail où l'équipement était préalablement endommagé."
-<!-- /Auteur -->
 
-<!-- Destinataire -->
 Conscient que cette attestation pourra être utilisée en justice et que toute fausse déclaration de ma part m'expose à des sanctions pénales.
-<!-- /Destinataire -->
 
 Fait pour valoir ce que de droit.
 

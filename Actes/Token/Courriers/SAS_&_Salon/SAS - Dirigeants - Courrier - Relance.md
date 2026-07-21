@@ -33,13 +33,17 @@ jx: J+40
 
 # RELANCE<br>DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE
 
+<!-- Auteur -->
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)**
 **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**
 **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le [**[DATE RELANCE V2]**](../../../../Memory/Tokens/token-accident-date-relance-v2.md)
@@ -48,15 +52,6 @@ jx: J+40
 ---
 Objet : Relance — Demande d'information assurance RC et communication d'une adresse de correspondance — Accident **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**
 ---
-
-<!-- Auteur -->
-Réf : Dossier **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** / **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Madame la Directrice Générale, Monsieur le Président,
-## I — PRÉAMBULE — ABSENCE DE RÉPONSE ET DISSIPATION DES PREUVES
-<!-- /Destinataire -->
 
 Par lettre de mise en demeure adressée le **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)** en recommandé avec accusé de réception à chacun de vous à l'adresse du siège social (**[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**), j'ai sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
 

@@ -26,7 +26,7 @@ jx: J+37
 <!-- Objet -->
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -35,13 +35,17 @@ jx: J+37
 # SIGNALEMENT DE LITIGE <br> INPI
 
 > 🔗 Source Google Drive : [1gFhTi6GhD6u…](https://drive.google.com/open?id=1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E)
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **INPI — Registre National des Entreprises**
 
 [À compléter]
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[5 juillet 2026](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
@@ -56,13 +60,7 @@ Ref : SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)
 Madame, Monsieur,
 ## I — INTRODUCTION
 
-<!-- Auteur -->
 La presente est adressee a l'INPI par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), immatriculee au RNE sous le SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md).
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
-<!-- /Destinataire -->
 
 Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main.
 <hr><hr>

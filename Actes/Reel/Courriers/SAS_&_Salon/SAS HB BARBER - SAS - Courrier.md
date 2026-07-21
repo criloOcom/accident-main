@@ -22,7 +22,7 @@ calendar_event_id: 5eptrv07lh40rmvir7mttd88s0
 jx: J+31
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -34,13 +34,17 @@ jx: J+31
 
 # MISE EN DEMEURE<br>DÉCLARATION D'ACCIDENT CORPOREL
 > 🔗 Source Google Drive : [1s5_z0l9yti3…](https://drive.google.com/open?id=1s5_z0l9yti3Ir6yBGH5xlZE-2LMs8uMJGlVcQA_sHKc)
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 Direction de **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
 **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
@@ -49,15 +53,6 @@ Direction de **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-rais
 ---
 Objet : Déclaration d'accident corporel — Demande d'information assurance RC — L.R.A.R.
 ---
-
-<!-- Auteur -->
-Réf : Dossier **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** / **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Madame, Monsieur,
-## I — INTRODUCTION
-<!-- /Destinataire -->
 
 La présente lettre de mise en demeure est adressée par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** à **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** afin de déclarer officiellement l'accident corporel survenu le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
 

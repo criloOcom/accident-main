@@ -26,7 +26,7 @@ reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - CPC 145 -
 jx: J+52
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux civil](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux civil](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -77,7 +77,7 @@ Le requérant a été opéré en urgence le **[30 mai 2026](../../../../Memory/T
 
 Dans un premier temps, le requérant a cru, de bonne foi, que le salon était exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, enseigne apposée sur le lieu. Il a adressé plusieurs lettres recommandées avec accusé de réception le **[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)** à cette société, à son président et à sa directrice générale, pour solliciter la communication de l'assurance de responsabilité civile professionnelle. Aucune réponse n'est parvenue.
 
-Parallèlement, le requérant a écrit le **[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)** à **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**, propriétaire des locaux, lequel a répondu par courriel le 16 juillet 2026 en indiquant que **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** avait quitté les lieux le 10 mars 2026 à la suite d'un état des lieux de sortie, et qu'en conséquence elle n'exploitait plus le salon au moment de l'accident.
+Parallèlement, le requérant a écrit le **[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)** à **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**, propriétaire des locaux, lequel a répondu par courriel le 16 juillet 2026 en indiquant que **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** avait quitté les lieux le 10 mars 2026 à la suite d'un état des lieux de sortie, et qu'en conséquence elle n'exploitait plus le salon au moment de l'accident.
 
 Dès le 1er juin 2026, le requérant a également signalé les faits à la mairie de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**. Par courriel, **[Monsieur TAVELLA](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**, adjoint au maire en charge de l'urbanisme et des travaux, lui a indiqué avoir saisi la préfecture afin de mobiliser l'inspection du travail et le CODAF. À ce jour, aucune suite concrète ne lui a été portée à connaissance (**Pièce n°17**).
 

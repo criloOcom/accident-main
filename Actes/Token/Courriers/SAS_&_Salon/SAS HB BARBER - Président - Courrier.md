@@ -22,15 +22,19 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - Président - Cour
 # LETTRE RECOMMANDÉE — M. LE PRÉSIDENT (DOMICILE PERSONNEL)
 > 🔗 Source Google Drive : [20260718 ✉️ LRAR Hamza El Hachemi BERGUIGA (President)](https://docs.google.com/document/d/1D5UTW7pYf5smzSC5NHE_hsHuya2B-b4UuwDpDe1_C8Y/edit?usp=sharing)
 
+<!-- Auteur -->
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md)
 
 Président de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
 [**[L'Adresse du Président]**](../../../../Memory/Tokens/token-exploitation-president-adresse.md)
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
@@ -41,10 +45,6 @@ Objet : Demande de communication de l'assurance RC professionnelle de [**[L'Expl
 ---
 
 Mode d'envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
-
-<!-- Auteur -->
-Réf. : Dossier **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** / [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) — Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**
-<!-- /Auteur -->
 
 Monsieur le Président,
 ## I — CONTEXTE ET EXCUSES SUR LE DÉLAI

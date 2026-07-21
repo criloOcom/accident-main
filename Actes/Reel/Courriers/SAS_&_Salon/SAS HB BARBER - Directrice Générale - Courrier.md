@@ -13,7 +13,7 @@ auteur: La Victime
 reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - Directrice Générale - Courrier.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -22,15 +22,19 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - Directrice Géné
 # LETTRE RECOMMANDÉE — MME LA DIRECTRICE GÉNÉRALE (DOMICILE PERSONNEL)
 > 🔗 Source Google Drive : [20260718 ✉️ LRAR [Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md) (DG)](https://docs.google.com/document/d/1g8I1hYbqsue4Q14iQBVkUsXM3uOgFOqRpg4Myp-frxE/edit?usp=sharing)
 
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**
 
 Directrice Générale de [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
 [351 route Impériale, 34670 Baillargues](../../../../Memory/Tokens/token-exploitation-dg-adresse.md)
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
@@ -41,10 +45,6 @@ Objet : Demande de communication de l'assurance RC professionnelle de [SAS HB BA
 ---
 
 Mode d'envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
-
-<!-- Auteur -->
-Réf. : Dossier **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** / [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) — Accident du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**
-<!-- /Auteur -->
 
 Madame la Directrice Générale,
 ## I — CONTEXTE ET EXCUSES SUR LE DÉLAI

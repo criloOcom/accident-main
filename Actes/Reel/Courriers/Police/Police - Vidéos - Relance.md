@@ -27,7 +27,7 @@ jx: J+37
 <!-- Objet -->
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -35,13 +35,17 @@ jx: J+37
 
 # RELANCE POLICE NATIONALE<br>SUIVI DE PLAINTE ET DEMANDE DE VIDEOS
 > 🔗 Source Google Drive : [171CF_LzNopY…](https://drive.google.com/open?id=171CF_LzNopYxIS6Tn4i3t3Ghx3ut14F1gh6-KjHevCA)
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **Police Nationale — Commissariat de Foix
 
 [À compléter]
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[5 juillet 2026](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
@@ -57,16 +61,11 @@ Ref : Depot de plainte du 1er juin 2026 — [Constitution de partie civile](../.
 
 Madame, Monsieur l'Officier de Police Judiciaire,
 
-<!-- Auteur -->
-La presente est adressee a vos services par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, situe [22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md) a **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**.
 ## I — OBJET DE LA RELANCE
-<!-- /Auteur -->
 
 J'ai depose plainte en vos services le 1er juin 2026 (PV n° [2026/015967](../../../../Memory/Tokens/token-pv-police-numero.md)) et me suis constitue partie civile le **[2 juin 2026](../../../../Memory/Tokens/token-j-4-depot-de-plainte.md)**. Une requisition a personne qualifiee a ete delivree le meme jour aux fins d'examen medical.
 
-<!-- Destinataire -->
 Je me permets de solliciter de vos services :
-<!-- /Destinataire -->
 
 ### I.1 — **1. L'ETAT D'AVANCEMENT DE L'ENQUETE** <BR>Je souhaiterais connaitre l'etat d'avancement des investigations et, si possible, une estimation du delai de traitement de la procedure.
 

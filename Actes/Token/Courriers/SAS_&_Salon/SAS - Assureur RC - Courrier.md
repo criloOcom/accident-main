@@ -37,14 +37,18 @@ jx: J+50
 # MISE EN DEMEURE ASSUREUR RC
 **Déclaration de sinistre — Action directe (Art. L. 124-3 C. assur.) — Expertise médicale consolidée**
 
+<!-- Auteur -->
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 À
 
 L'assureur responsabilité civile professionnelle de
 **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 [Adresse à compléter]
+<!-- /Destinataire -->
 
 Fait à **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le **[date à compléter]**
 

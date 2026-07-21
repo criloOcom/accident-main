@@ -24,7 +24,7 @@ calendar_event_id: dd8qkuvg1t3jquofh93ccnl0lg
 jx: J+31
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -32,13 +32,17 @@ jx: J+31
 
 # MISE EN DEMEURE AUX DIRIGEANTS<br>DEMANDE D'INFORMATION ASSURANCE RC
 > 🔗 Source Google Drive : [1pheN3_rudxy…](https://drive.google.com/open?id=1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I)
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)** <br>
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**
 
 **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** <br>
 **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
@@ -49,15 +53,6 @@ Objet : Demande d'information et communication d'assurance — Accident **[29 ma
 ---
 
 <hr><hr>
-
-<!-- Auteur -->
-Réf : Dossier **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** / **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Madame la Directrice Générale, Monsieur le Président,
-## I — INTRODUCTION
-<!-- /Destinataire -->
 
 La présente lettre de mise en demeure est adressée conjointement par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** à **[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, en leur qualité de dirigeants de **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**.
 

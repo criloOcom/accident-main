@@ -29,7 +29,10 @@ jx: J+38
 Objet : Demande de certificat médical de consolidation — Suite courrier du **[J+37 Assignation 145](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
 ---
 
-**Destinataire :** **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** — SOS Main **[L'Établissement SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)**
+<!-- Destinataire -->
+**[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**
+SOS Main **[L'Établissement SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)**
+<!-- /Destinataire -->
 
 <hr><hr>
 

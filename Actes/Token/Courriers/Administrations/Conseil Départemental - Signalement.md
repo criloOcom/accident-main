@@ -40,8 +40,8 @@ jx: J+37
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
-**Conseil Départemental de l'Ariège**  
 <!-- Destinataire -->
+**Conseil Départemental de l'Ariège**  
 Président du Conseil Départemental  
 Hôtel du Département  
 5-7 Rue du Cap de la Ville  

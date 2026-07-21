@@ -31,10 +31,15 @@ jx: J+41
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # OPPOSITION À IMMATRICULATION <br> AU REGISTRE NATIONAL DES ENTREPRISES
-**[Nom de l'Avocat de la Victime](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
 
+<!-- Auteur -->
+**[Nom de l'Avocat de la Victime](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
 **À L'ATTENTION DU GREFFIER DU Tribunal de Commerce de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)****
 **Service du Registre National des Entreprises (RNE)**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le 9 juillet 2026
@@ -59,15 +64,11 @@ jx: J+41
 
 Monsieur le Greffier,
 
-<!-- Auteur -->
-J'interviens dans les intérêts de **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le 29 mai 2026 au sein des locaux exploités par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
 ## I — EXPOSÉ DES FAITS
-<!-- /Auteur -->
 
-<!-- Destinataire -->
+J'interviens dans les intérêts de **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**.
+
 Il existe de sérieuses raisons de penser que la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et ses dirigeants, **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, s'apprêtent à dissoudre ou à abandonner la structure actuelle pour recréer une nouvelle société exerçant la même activité à la même adresse, dans le but manifeste de se soustraire aux obligations indemnitaires nées de l'accident.
-<hr><hr>
-<!-- /Destinataire -->
 
 ## II — FONDEMENTS JURIDIQUES
 

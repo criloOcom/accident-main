@@ -29,7 +29,7 @@ jx: J+38
 <!-- LRAR -->
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -45,8 +45,8 @@ jx: J+38
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
-**Fonds de Garantie des Victimes (FGTI)**  
 <!-- Destinataire -->
+**Fonds de Garantie des Victimes (FGTI)**  
 64 Rue de la République  
 75011 Paris
 <!-- /Destinataire -->

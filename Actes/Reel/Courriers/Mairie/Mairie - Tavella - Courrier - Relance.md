@@ -23,17 +23,19 @@ drive_id: 1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw
 jx: J+37
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Mairie](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Mairie](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
-<!-- /Destinataire -->
 
 # SUIVI<br>DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF
 > 🔗 Source Google Drive : [1Xj4wf-v-ShC…](https://drive.google.com/open?id=1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw)
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **[Monsieur TAVELLA](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**
 
 Mairie de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
@@ -41,6 +43,7 @@ Mairie de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
 **Adresse de la Mairie**
 
 **[09000](../../../../Memory/Tokens/token-accident-code-postal.md)** **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[5 juillet 2026](../../../../Memory/Tokens/token-j-37-assignation-145.md)**

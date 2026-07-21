@@ -54,7 +54,7 @@ Ces éléments, ainsi que mon suivi médical (**[Le Médecin en Urgence](../../.
 
 ## 2. Correction importante sur l'identité de la société exploitante
 
-Dans mon dossier de plainte initial et dans mes premières démarches administratives, j'ai indiqué de bonne foi la société SAS LES MAUVAIS GARÇONS (SIREN 938 033 222, 22 rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**) comme exploitante du salon.
+Dans mon dossier de plainte initial et dans mes premières démarches administratives, j'ai indiqué de bonne foi la société **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** (SIREN 938 033 222, 22 rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**) comme exploitante du salon.
 
 Depuis, de nouveaux éléments établissent qu'au **29 mai 2026**, date de l'accident, le salon était en réalité exploité sous une autre dénomination sociale, à savoir :
 
@@ -70,9 +70,9 @@ Depuis, de nouveaux éléments établissent qu'au **29 mai 2026**, date de l'acc
 | Président | [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) (né 07/1998, Saint-Girons) |
 | Directrice générale | **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** (née 04/1970, Baillargues) |
 
-Mme **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** était déjà mentionnée dans mon dossier comme directrice générale de SAS LES MAUVAIS GARÇONS. Elle occupe la fonction de **directrice générale dans les deux sociétés**, SAS LES MAUVAIS GARÇONS puis **[L'Exploitant du Commerce (La SAS)]**, pour le même local et la même activité, avec une succession très rapprochée :
+Mme **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** était déjà mentionnée dans mon dossier comme directrice générale de **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)**. Elle occupe la fonction de **directrice générale dans les deux sociétés**, **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** puis **[L'Exploitant du Commerce (La SAS)]**, pour le même local et la même activité, avec une succession très rapprochée :
 
-- **10 mars 2026** : date de cessation d'activité de SAS LES MAUVAIS GARÇONS dans les locaux selon le bailleur (état des lieux de sortie)
+- **10 mars 2026** : date de cessation d'activité de **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** dans les locaux selon le bailleur (état des lieux de sortie)
 
 - **22 avril 2026** : début d'activité déclarée de **[L'Exploitant du Commerce (La SAS)]** au 22 rue / grande rue Lafaurie
 

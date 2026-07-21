@@ -83,7 +83,7 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BAR
 ### Victime
 **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**, 44 ans, informaticien indépendant, droitier. Main droite (clavier/souris). Lésion : plaie profonde + atteinte tendineuse + nerveuse → handicap fonctionnel + impact financier.
 
-### Société initialement visée – **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
+### Société initialement visée – **[L'Ancien Exploitant du Commerce](../../../Memory/Tokens/token-ancien-exploitant.md)**
 | Champ | Valeur |
 |-------|--------|
 | SIREN | 938 033 222 |
@@ -98,7 +98,7 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BAR
 → C'est cette société qui a été désignée partout (plainte, CPAM, courriers, mairie)
 
 ### Bailleur – **[Le Propriétaire des Murs](../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**
-Propriétaire des locaux du **[L'Adresse de l'Exploitation](../../../Memory/Tokens/token-exploitation-adresse.md)**. Répond par mail le 16/07/2026 à la LRAR du 29 juin : affirme que **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** ont cessé au 10/03/2026 (état des lieux de sortie signé), refuse de donner l'assurance.
+Propriétaire des locaux du **[L'Adresse de l'Exploitation](../../../Memory/Tokens/token-exploitation-adresse.md)**. Répond par mail le 16/07/2026 à la LRAR du 29 juin : affirme que **[L'Ancien Exploitant du Commerce](../../../Memory/Tokens/token-ancien-exploitant.md)** ont cessé au 10/03/2026 (état des lieux de sortie signé), refuse de donner l'assurance.
 
 ### Société réelle – [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SAS)
 **Attestation RNE du 17/07/2026 (DATA INPI) :**
@@ -128,7 +128,7 @@ Propriétaire des locaux du **[L'Adresse de l'Exploitation](../../../Memory/Toke
 ### Le problème
 - La plainte et tout le dossier ont été construits contre **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
-- Le bailleur écrit le 16/07/2026 : **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** ont quitté les lieux le **10/03/2026** (état des lieux de sortie)
+- Le bailleur écrit le 16/07/2026 : **[L'Ancien Exploitant du Commerce](../../../Memory/Tokens/token-ancien-exploitant.md)** ont quitté les lieux le **10/03/2026** (état des lieux de sortie)
 
 - [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) a été créée au **même endroit** (22 rue Lafaurie), **même activité** (coiffure/barbier), avec **même DG** (**[La Directrice Générale de l'Exploitation](../../../Memory/Tokens/token-exploitation-dg-nom.md)**), début d'activité le **22/04/2026**
 

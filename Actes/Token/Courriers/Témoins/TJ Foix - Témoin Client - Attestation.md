@@ -41,14 +41,10 @@ Atteste sur l'honneur des faits suivants :
 [À compléter : Si le texte suivant correspond à ce que vous avez vu et entendu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**, vous pouvez le recopier ou vous en inspirer. Sinon, décrivez librement les faits avec vos propres mots.]
 
 "Je me trouvais dans le salon de coiffure **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**. L'ambiance était normale. J'ai vu le coiffeur, **[Le Préposé de l'Exploitation](../../../../Memory/Tokens/token-exploitation-prepose-nom.md)** (tél. [**[Le Téléphone du Préposé]**](../../../../Memory/Tokens/token-exploitation-prepose-telephone.md)), monter physiquement sur la vasque en céramique du bac à shampoing. En descendant, son poids a provoqué le basculement soudain de l'équipement, faisant un bruit important.
-<!-- Auteur -->
 J'ai alors vu un autre client, **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, tendre la main droite par un réflexe immédiat pour tenter de rattraper le coiffeur et le protéger de la chute. Sa paume a heurté le flanc de la vasque.
 J'ai immédiatement constaté un saignement très abondant (beaucoup de sang) provenant de sa main. La situation était très urgente. Les secours (pompiers/SAMU) ont été appelés et sont arrivés rapidement sur les lieux pour le prendre en charge."
-<!-- /Auteur -->
 
-<!-- Destinataire -->
 Conscient que cette attestation pourra être utilisée en justice et que toute fausse déclaration de ma part m'expose à des sanctions pénales.
-<!-- /Destinataire -->
 
 Fait pour valoir ce que de droit.
 

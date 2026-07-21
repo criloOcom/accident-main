@@ -24,15 +24,19 @@ jx: J+41
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
-<!-- /Destinataire -->
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # OPPOSITION CONSERVATOIRE <br> RADIATION DE SOCIÉTÉ
-**[Nom de l'Avocat de la Victime](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
 
+<!-- Auteur -->
+**[Nom de l'Avocat de la Victime](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
 **À L'ATTENTION DE MONSIEUR LE PRÉSIDENT DU Tribunal de Commerce de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)****
 Service du Registre du Commerce et des Sociétés
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le 9 juillet 2026

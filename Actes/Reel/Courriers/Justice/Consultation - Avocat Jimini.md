@@ -23,16 +23,11 @@ auteur: La Victime
 reel_path: ../../../Reel/Courriers/Justice/Consultation - Avocat Jimini.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
-<!-- /Auteur -->
 
-<!-- Destinataire -->
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-<!-- /Destinataire -->
-
-reel_path: ../../../Reel/Courriers/Justice/Consultation - Avocat Jimini.md
 
 # EMAIL<br>CONSULTATION PROACTIVITÉ VICTIME
 

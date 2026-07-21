@@ -26,7 +26,7 @@ jx: J+41
 calendar_event_id: 9ortbnkvp8it8hnebif5fr4bec
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -34,14 +34,18 @@ calendar_event_id: 9ortbnkvp8it8hnebif5fr4bec
 
 # DEMANDE DE MUTUALISATION <br> FISCALE ET SOCIALE URGENTE
 
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **Service des Impots des Entreprises de Foix
 **URSSAF Midi-Pyrenees**
 
 [À compléter]
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[J+41 Courrier SIE URSSAF](../../../../Memory/Tokens/token-j-41-courrier-sie-urssaf.md)**
@@ -54,15 +58,12 @@ Objet : Demande de mutualisation fiscale et sociale urgente — SAS [SAS HB BARB
 Ref : SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)
 
 Madame, Monsieur le Responsable,
+
 ## I — OBJET DE LA DEMANDE
 
-<!-- Auteur -->
-La presente est adressee conjointement a vos deux services par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md), capital 200 €).
-<!-- /Auteur -->
+La presente est adressee conjointement a vos deux services par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**.
 
-<!-- Destinataire -->
 L'accident, cause par la chute du prepose depuis un bac a shampoing en ceramique instable et casse, a entraine des lesions graves de la main droite (section partielle du tendon flechisseur et du paquet vasculo-nerveux de l'index dominant) ayant necessite une microchirurgie d'urgence en SOS Main.
-<!-- /Destinataire -->
 
 **Les montants en jeu sont estimes a 105 000 €** (evaluation Dintilhac detaillee), dont 15 000 € de provision immediatement exigible en reféré.
 <hr><hr>

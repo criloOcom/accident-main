@@ -38,13 +38,17 @@ jx: J+37
 
 # CONFIRMATION OFFICIELLE DE SIGNALEMENT <br> A LA PREFECTURE DE L'ARIEGE
 > 🔗 Source Google Drive : [1sIkiScOSFZy…](https://drive.google.com/open?id=1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM)
+<!-- Auteur -->
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **Prefecture de l'Ariege**
 
 **[Adresse à compléter]**
+<!-- /Destinataire -->
 
 <!-- Date -->
 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le **[J+37 Assignation 145](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
@@ -57,15 +61,10 @@ Objet : Confirmation officielle de signalement — Accident du **[J+0 Accident](
 Ref : Signalement effectué par la Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** le 1er juin 2026
 
 Madame, Monsieur le Préfet,
+
 ## I — INTRODUCTION
 
-<!-- Auteur -->
-La présente est adressée à vos services par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), sise **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** à **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**.
-<!-- /Auteur -->
-
-<!-- Destinataire -->
 Cet accident a été causé par le **basculement** de la vasque en céramique du bac à shampoing sous le poids du préposé de l'exploitation, lequel était monté physiquement sur l'équipement pour régler le poste de télévision, en l'absence totale de tout équipement d'accès en hauteur (escabeau, marchepied) mis à disposition par l'employeur. Sous le poids du préposé, la vasque a basculé violemment ; la victime a instinctivement tendu la main droite pour protéger le préposé, et sa paume a heurté une **cassure majeure préexistante non signalée** sur le flanc de la vasque. **La vasque ne s'est pas effondrée** — il n'y a pas de débris de céramique.
-<!-- /Destinataire -->
 
 Cette blessure a entraîné une plaie palmaire profonde de la main droite avec section partielle du tendon fléchisseur superficiel (FDP) et du paquet vasculo-nerveux collatéral radial de l'index, ayant nécessité une neurolyse du nerf palmaire et une microchirurgie d'urgence en SOS Main le 30 mai 2026. Les séquelles fonctionnelles sont importantes et durablement invalidantes ([arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours, consolidation au 1er mars 2027, DFP de 12 %, souffrances endurées 4/7, incidence professionnelle majeure — cf. rapport d'expertise médicale du 29 mai 2027).
 <hr><hr>
