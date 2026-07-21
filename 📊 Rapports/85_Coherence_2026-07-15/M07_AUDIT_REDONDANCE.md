@@ -37,7 +37,7 @@ L'évaluation des préjudices a évolué à plusieurs reprises, entraînant des 
 
   * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md` (ligne 229)
   * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md` (ligne 153)
-  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Ordonnance Projet.md` (lignes 103, 192)
+  * `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md` (lignes 103, 192)
   * `📊 Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md` (lignes 109, 153)
 
 ### II.2 — Dates et Délais (ITT, Procédures)

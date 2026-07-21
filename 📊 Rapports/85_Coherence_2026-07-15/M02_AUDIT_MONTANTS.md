@@ -39,15 +39,15 @@ type: rapport
 - [ ] **TJ Foix - TJ Foix - Bordereau Unifié.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md:240 — DFP utilise valeur historique/obsolète: 126000.0 € (canonique: 25200 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## V — Référé Provision - Ordonnance Projet.md
+## V — TJ Foix - Référé Provision - Ordonnance Projet.md
 
-- [ ] **Référé Provision - Ordonnance Projet.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Ordonnance Projet.md:99 — SE utilise valeur historique/obsolète: 5000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **TJ Foix - Référé Provision - Ordonnance Projet.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md:99 — SE utilise valeur historique/obsolète: 5000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
 
-- [ ] **Référé Provision - Ordonnance Projet.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Ordonnance Projet.md:100 — IP utilise valeur historique/obsolète: 3000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
+- [ ] **TJ Foix - Référé Provision - Ordonnance Projet.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md:100 — IP utilise valeur historique/obsolète: 3000.0 € (canonique: 28000 €) — aligner sur la valeur canonique.
 
-- [ ] **Référé Provision - Ordonnance Projet.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Ordonnance Projet.md:101 — PEP différent de la valeur canonique: 1000.0 € (attendu: 3500 €) — aligner sur la valeur canonique.
+- [ ] **TJ Foix - Référé Provision - Ordonnance Projet.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md:101 — PEP différent de la valeur canonique: 1000.0 € (attendu: 3500 €) — aligner sur la valeur canonique.
 
-- [ ] **Référé Provision - Ordonnance Projet.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Ordonnance Projet.md:101 — DFT différent de la valeur canonique: 1000.0 € (attendu: 2031 €) — aligner sur la valeur canonique.
+- [ ] **TJ Foix - Référé Provision - Ordonnance Projet.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md:101 — DFT différent de la valeur canonique: 1000.0 € (attendu: 2031 €) — aligner sur la valeur canonique.
 <hr><hr>
 
 ## VI — TJ Foix - Conclusions au Fond.md

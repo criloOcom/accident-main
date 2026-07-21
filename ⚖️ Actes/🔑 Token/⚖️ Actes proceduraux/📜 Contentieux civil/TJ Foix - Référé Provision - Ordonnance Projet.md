@@ -20,7 +20,7 @@ tags:
 - article 145
 statut: projet
 auteur: Simulation — Juge des Référés
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Ordonnance Projet.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md
 jx: J+63
 destinataire: Président du Tribunal Judiciaire de Foix
 ---

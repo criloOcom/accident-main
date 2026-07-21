@@ -40,7 +40,7 @@ auteur: Gemini
 **Q12.** Nombreux codes cités sans vérification complète.
 **Q13.** Jurisprudence non vérifiée par des scripts.
 **Q14.** La requête 145 CPC est insuffisante.
-**Q15.** **Critique** : L'ordonnance projetée (`⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Ordonnance Projet.md`, l. 25) accorde une provision de 15 000 €, ce qui est impossible sur le fondement d'une requête 145 CPC (qui est non contradictoire). Il s'agit d'une grave erreur de procédure.
+**Q15.** **Critique** : L'ordonnance projetée (`⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`, l. 25) accorde une provision de 15 000 €, ce qui est impossible sur le fondement d'une requête 145 CPC (qui est non contradictoire). Il s'agit d'une grave erreur de procédure.
 **Q16.** La plainte liste les faits mais laisse fuiter le nom du prévenu dans la version anonymisée.
 **Q17.** Le `JURITEXT_PROTOCOL.md` n'est pas appliqué systématiquement (de nombreux "À VÉRIFIER" sont présents).
 **Q18.** Les textes de lois semblent statiques.
@@ -69,7 +69,7 @@ auteur: Gemini
 ## 7 — Actes & Procédure (Q34–Q38)
 **Q34.** La plainte est formelle mais contient l'identité Tokenisée qui a fuité.
 **Q35.** Requête 145 irrecevable car mêle une demande d'instruction (conforme 145) et une demande de provision (non conforme).
-**Q36.** Ordonnance (`Référé Provision - Ordonnance Projet.md`) totalement incohérente avec la requête (elle accorde 15 000€).
+**Q36.** Ordonnance (`TJ Foix - Référé Provision - Ordonnance Projet.md`) totalement incohérente avec la requête (elle accorde 15 000€).
 **Q37.** Bordereaux cohérents (Pièce 6 pour 15€ Wero, Pièce 8 pour 790,23€).
 **Q38.** Lettre structurée.
 
@@ -89,7 +89,7 @@ auteur: Gemini
 **Q47. Les 5 problèmes critiques :**
 1. **Fuite d'Anonymisation (RGPD)** : Noms en clair ("Ayoub") dans la branche Token (`⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️⚖️ Commissariat Foix Plainte Complementaire.md` l. 1).
 
-2. **Hérésie procédurale** : Octroi d'une provision (15 000 €) sur une ordonnance statuant sur Requête 145 CPC (`⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Ordonnance Projet.md` l. 25).
+2. **Hérésie procédurale** : Octroi d'une provision (15 000 €) sur une ordonnance statuant sur Requête 145 CPC (`⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md` l. 25).
 
 3. **Citations Légifrance KO** : 36 fichiers (100%) échouent à la validation d'URL (statuts manquants).
 

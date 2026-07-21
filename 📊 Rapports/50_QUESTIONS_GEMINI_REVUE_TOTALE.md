@@ -86,7 +86,7 @@ type: rapport
 
 **Q19.** Vérifie que les demandes de provision (15 000 €) sont bien dans des actes SÉPARÉS :
    - `Référé Provision - Assignation.md` (fondée sur art. 835 al. 2 CPC)
-   - `Référé Provision - Ordonnance Projet.md` (fondée sur art. 835 al. 2 CPC)
+   - `TJ Foix - Référé Provision - Ordonnance Projet.md` (fondée sur art. 835 al. 2 CPC)
    Confirme que ces 2 actes existent et sont correctement fondés.
 
 **Q20.** Y a-t-il une confusion entre « Requête 145 » (unilatérale, mesures d'instruction) et « Assignation Référé-Provision » (contradictoire, provision + expertise) dans l'ensemble du dossier ? Cherche les occurrences où les deux sont mélangées.

@@ -38,8 +38,8 @@ Date: 2026-07-12 14:37
        → ⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md
   ✓  ⚖️ Actes proceduraux/06 Constat Huissier - Requête.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md
-  ✓  ⚖️ Actes proceduraux/07 Référé Provision - Ordonnance Projet.md
-       → ⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Ordonnance Projet.md
+  ✓  ⚖️ Actes proceduraux/07 TJ Foix - Référé Provision - Ordonnance Projet.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md
   ✓  ⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md
        → ⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md
   ✓  ✉️ Courriers/03 ✉️ Courrier SAS.md
@@ -182,8 +182,8 @@ Date: 2026-07-12 14:37
        → ⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md
   ✓  ⚖️ Actes proceduraux/06 Constat Huissier - Requête.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md
-  ✓  ⚖️ Actes proceduraux/07 Référé Provision - Ordonnance Projet.md
-       → ⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Ordonnance Projet.md
+  ✓  ⚖️ Actes proceduraux/07 TJ Foix - Référé Provision - Ordonnance Projet.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md
   ✓  ⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md
        → ⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md
   ✓  ✉️ Courriers/03 ✉️ Courrier SAS.md

@@ -260,7 +260,7 @@ Cet audit croise les données de `🧠 Memory/RECADRAGE_NOMENCLATURE.md`, `🧠 
 
 - [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md:84 — Token leak détecté : ['[**[Capital Social du Nouvel Exploitant]**]'] — Remplacer par les valeurs réelles.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Ordonnance Projet.md:44 — Token leak détecté : ['[**[Date de naissance de la Victime]**]'] — Remplacer par les valeurs réelles.
+- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md:44 — Token leak détecté : ['[**[Date de naissance de la Victime]**]'] — Remplacer par les valeurs réelles.
 
 - [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md:66 — Token leak détecté : ['[**[Le Prénom du Préposé]**]'] — Remplacer par les valeurs réelles.
 

@@ -111,7 +111,7 @@ Les fichiers suivants contiennent des placeholders non résolus (ex: [À complé
 
 - [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md:116` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Ordonnance Projet.md:62` — Placeholder trouvé: `[date]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md:62` — Placeholder trouvé: `[date]` — Remplacer par la valeur réelle ou le token approprié
 
 - [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md:115` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
