@@ -27,7 +27,7 @@ type: memory
 - **Sanction** : une information erronée reproduite sans vérification est une faute professionnelle immédiate
 
 ## VÉRIFICATION API AVANT INTÉGRATION
-- TOUTE nouvelle citation juridique (LEGIARTI, JURITEXT, n° pourvoi) DOIT être vérifiée via MCP Légifrance/Judilibre AVANT intégration
+- TOUTE nouvelle citation juridique (LEGIARTI, JURITEXT, n° pourvoi) DOIT être lue et vérifiée via MCP Légifrance (`consulter_article` ou `rechercher_code` via MCP Légifrance) AVANT intégration
 
 - Le checker exécute désormais cette vérification automatiquement
 
@@ -72,6 +72,8 @@ type: memory
 - Si un MCP crash (erreur d'import, timeout), le FIXER et RELANCER le serveur immédiatement — ne pas dériver vers des solutions alternatives sans MCP
 
 - Les MCP sont gérés par le runtime opencode ; le fix du code source + redémarrage du processus est la seule procédure valide
+
+- **Documentation :** Voir [Lois/EXEMPLES_REQUETES_MCP.md](../Lois/EXEMPLES_REQUETES_MCP.md) pour des exemples concrets et testés d'utilisation des MCP Légifrance et Judilibre.
 
 ## PROTOCOLE DE VACCINATION (OBLIGATOIRE — À FAIRE EN TOUT PREMIER)
 - 🔴 **Lire et appliquer** [/home/crilocom/accident-main/Memory/VACCIN.md](/home/crilocom/accident-main/Memory/VACCIN.md) avant la
@@ -447,7 +449,7 @@ Le dossier `/Status/` à la racine contient 3 index classés par statut :
 - **Raison** : lisibilité humaine et mobile-first. Les tableaux à numéros cassent la lecture ; les listes et le Mermaid la fluidifient.
 ## #19 — MINI-CHARTE CITATION JURIDIQUE (RÈGLE PERMANENTE — AJOUTÉE LE 12/07/2026)
 
-- **Règle 19a — Vérification systématique** : toute citation d'un article de loi, code ou jurisprudence DOIT être vérifiée sur Légifrance (MCP legifrance-prod puis openlegi) AVANT insertion dans un document. Ne JAMAIS citer un article de mémoire.
+- **Règle 19a — Vérification systématique** : toute citation d'un article de loi, code ou jurisprudence DOIT être lue et vérifiée sur Légifrance (`consulter_article` ou `rechercher_code` via MCP Légifrance) (MCP legifrance-prod puis openlegi) AVANT insertion dans un document. Ne JAMAIS citer un article de mémoire.
 
 - **Règle 19b — Citations interdites (blacklist)** :
 

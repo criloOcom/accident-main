@@ -177,7 +177,7 @@ Contenu...
 4. Chaque ligne se termine par `<br>` (sauf la dernière si elle termine le bloc)
 
 ### Règles
-1. Toute citation d'article de loi DOIT être vérifiée via MCP Légifrance (legifrance-prod PUIS openlegi)
+1. Toute citation d'article de loi DOIT être lue et vérifiée via MCP Légifrance (`consulter_article` ou `rechercher_code` via MCP Légifrance) (legifrance-prod PUIS openlegi)
 
 2. Le lien Légifrance est obligatoire sur toute citation
 
