@@ -13,6 +13,8 @@ type: readme
 
 - [Mémoire - En défense adverse.md](M%C3%A9moire%20-%20En%20d%C3%A9fense%20adverse.md)
 
+- [Mémoire_de_synthèse_—_Recours_assurances_ERP.md](Mémoire_de_synthèse_—_Recours_assurances_ERP.md)
+
 - [Note - Analyse Responsabilités Légales.md](Note%20-%20Analyse%20Responsabilit%C3%A9s%20L%C3%A9gales.md)
 
 - [Note - Audit RNE NPAI SAS.md](Note%20-%20Audit%20RNE%20NPAI%20SAS.md)
@@ -44,7 +46,5 @@ type: readme
 - [Note - Synthèse Avocat Bascule HB BARBER.md](Note%20-%20Synth%C3%A8se%20Avocat%20Bascule%20HB%20BARBER.md)
 
 - [Note - Tableau Défense Réponse.md](Note%20-%20Tableau%20D%C3%A9fense%20R%C3%A9ponse.md)
-
-- [Mémoire_de_synthèse_—_Recours_assurances_ERP.md](Mémoire_de_synthèse_—_Recours_assurances_ERP.md)
 
 - [Note_—_Procédure_Action_Directe_Assureur_L124-3.md](Note_—_Procédure_Action_Directe_Assureur_L124-3.md)

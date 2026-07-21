@@ -15,9 +15,17 @@ Ce dossier contient un fichier par statut, listant tous les documents concernés
 
 ## Index
 
+- [01_PREPARATION](01_PREPARATION.md)
+
+- [02_PRET_POUR_ENVOI](02_PRET_POUR_ENVOI.md)
+
+- [03_ENVOYE](03_ENVOYE.md)
+
 - [archive (8)](archive.md)
 
 - [brouillon (26)](brouillon.md)
+
+- [envoye](envoye.md)
 
 - [final (52)](final.md)
 
@@ -26,14 +34,6 @@ Ce dossier contient un fichier par statut, listant tous les documents concernés
 - [projet (6)](projet.md)
 
 - [recueillie (2)](recueillie.md)
-
-- [01_PREPARATION](01_PREPARATION.md)
-
-- [02_PRET_POUR_ENVOI](02_PRET_POUR_ENVOI.md)
-
-- [03_ENVOYE](03_ENVOYE.md)
-
-- [envoye](envoye.md)
 ## Convention des statuts
 
 | Statut | Signification |
