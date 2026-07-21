@@ -245,9 +245,9 @@ type: rapport
 
 - [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md** : [CRITIQUE] ./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md:124 — JURITEXT0000 inexistant ou mal formaté — Remplacer par un identifiant valide vérifié via Légifrance.
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md** : [CRITIQUE] ./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md:84 — JURITEXT0000 inexistant ou mal formaté — Remplacer par un identifiant valide vérifié via Légifrance.
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md** : [CRITIQUE] ./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md:84 — JURITEXT0000 inexistant ou mal formaté — Remplacer par un identifiant valide vérifié via Légifrance.
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md** : [CRITIQUE] ./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md:139 — JURITEXT0000 inexistant ou mal formaté — Remplacer par un identifiant valide vérifié via Légifrance.
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md** : [CRITIQUE] ./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md:139 — JURITEXT0000 inexistant ou mal formaté — Remplacer par un identifiant valide vérifié via Légifrance.
 
 - [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md** : [CRITIQUE] ./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md:88 — JURITEXT0000 inexistant ou mal formaté — Remplacer par un identifiant valide vérifié via Légifrance.
 
@@ -565,9 +565,9 @@ type: rapport
 
 - [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md** : [CRITIQUE] ./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md:124 — JURITEXT0000 inexistant ou mal formaté — Remplacer par un identifiant valide vérifié via Légifrance.
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md** : [CRITIQUE] ./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md:84 — JURITEXT0000 inexistant ou mal formaté — Remplacer par un identifiant valide vérifié via Légifrance.
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md** : [CRITIQUE] ./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md:84 — JURITEXT0000 inexistant ou mal formaté — Remplacer par un identifiant valide vérifié via Légifrance.
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md** : [CRITIQUE] ./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md:139 — JURITEXT0000 inexistant ou mal formaté — Remplacer par un identifiant valide vérifié via Légifrance.
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md** : [CRITIQUE] ./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md:139 — JURITEXT0000 inexistant ou mal formaté — Remplacer par un identifiant valide vérifié via Légifrance.
 
 - [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md** : [CRITIQUE] ./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md:88 — JURITEXT0000 inexistant ou mal formaté — Remplacer par un identifiant valide vérifié via Légifrance.
 

@@ -47,7 +47,7 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/✉️ Courrier - Assureur RC SAS.md
        → ✉️ Courriers/✉️ Courrier - Assureur RC SAS.md
   ✓  ✉️ Courriers/05 ✉️ Courrier Proprietaire.md
-       → ✉️ Courriers/✉️ Courrier - Propriétaire.md
+       → ✉️ Courriers/✉️ Propriétaire - Courrier.md
   ✓  ✉️ Courriers/06 V2 ✉️ Courrier - Dirigeants SAS - Relance.md
        → ✉️ Courriers/✉️ Courrier - Dirigeants SAS - Relance.md
   ✓  ✉️ Courriers/06 ✉️ Courrier President DG.md
@@ -191,7 +191,7 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/✉️ Courrier - Assureur RC SAS.md
        → ✉️ Courriers/✉️ Courrier - Assureur RC SAS.md
   ✓  ✉️ Courriers/05 ✉️ Courrier Proprietaire.md
-       → ✉️ Courriers/✉️ Courrier - Propriétaire.md
+       → ✉️ Courriers/✉️ Propriétaire - Courrier.md
   ✓  ✉️ Courriers/06 V2 ✉️ Courrier - Dirigeants SAS - Relance.md
        → ✉️ Courriers/✉️ Courrier - Dirigeants SAS - Relance.md
   ✓  ✉️ Courriers/06 ✉️ Courrier President DG.md

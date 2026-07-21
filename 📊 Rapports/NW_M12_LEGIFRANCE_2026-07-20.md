@@ -140,7 +140,7 @@ date: "2026-07-20"
 - **Action recommandée** : Remplacer `JURITEXT000043302280` par `JURITEXT000043302280` dans les fichiers concernés.
 
 #### ID Cassé : `JURITEXT000043782126` (JURITEXT)
-- **Fichiers impactés** : ./📜 Lois/README.md, ./⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md, ./📊 Rapports/RAPPORT_VERIFICATION_JURIDIQUE_PLANNING_20260720.md, ./⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Index Général.md, ./⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Index Général.md, ./⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md, ./⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Courrier - Propriétaire.md, ./⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md, ./⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Jurisprudence.md, ./📜 Lois/📜 Jurisprudence/🏛️ Réserve d'aggravation/20-15.106_CourCassation.md, ./📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_COHERENCE_JURIDIQUE_2026-07-14.md, ./⚖️ Actes/👤 Reel/✉️ Courriers/🏠 Propriétaire/✉️ Courrier - Propriétaire.md, ./📜 Lois/EXEMPLES_REQUETES_MCP.md, ./📊 Rapports/RAPPORT_VERIFICATION_JURITEXT_2026-07-18.md, ./⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Jurisprudence.md, ./⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md, ./⚖️ Actes/🔑 Token/🗄️ Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md, ./📊 Rapports/85_Coherence_2026-07-15/M04_AUDIT_JURITEXT.md, ./⚖️ Actes/👤 Reel/🗄️ Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md
+- **Fichiers impactés** : ./📜 Lois/README.md, ./⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md, ./📊 Rapports/RAPPORT_VERIFICATION_JURIDIQUE_PLANNING_20260720.md, ./⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Index Général.md, ./⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Index Général.md, ./⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md, ./⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Propriétaire - Courrier.md, ./⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md, ./⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Jurisprudence.md, ./📜 Lois/📜 Jurisprudence/🏛️ Réserve d'aggravation/20-15.106_CourCassation.md, ./📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_COHERENCE_JURIDIQUE_2026-07-14.md, ./⚖️ Actes/👤 Reel/✉️ Courriers/🏠 Propriétaire/✉️ Propriétaire - Courrier.md, ./📜 Lois/EXEMPLES_REQUETES_MCP.md, ./📊 Rapports/RAPPORT_VERIFICATION_JURITEXT_2026-07-18.md, ./⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Jurisprudence.md, ./⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md, ./⚖️ Actes/🔑 Token/🗄️ Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md, ./📊 Rapports/85_Coherence_2026-07-15/M04_AUDIT_JURITEXT.md, ./⚖️ Actes/👤 Reel/🗄️ Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md
 
 - **URLs concernées** :
 
@@ -230,7 +230,7 @@ date: "2026-07-20"
 - **Action recommandée** : Remplacer `JURITEXT000054167506` par `JURITEXT000054167506` dans les fichiers concernés.
 
 #### ID Cassé : `JURITEXT000045349845` (JURITEXT)
-- **Fichiers impactés** : ./⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Courrier - Propriétaire - Relance 3.md, ./⚖️ Actes/👤 Reel/✉️ Courriers/🏠 Propriétaire/✉️ Courrier - Propriétaire - Relance 3.md
+- **Fichiers impactés** : ./⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Propriétaire - Courrier - Relance 3.md, ./⚖️ Actes/👤 Reel/✉️ Courriers/🏠 Propriétaire/✉️ Propriétaire - Courrier - Relance 3.md
 
 - **URLs concernées** :
 
@@ -242,7 +242,7 @@ date: "2026-07-20"
 - **Action recommandée** : Remplacer `JURITEXT000045349845` par `JURITEXT000045349845` dans les fichiers concernés.
 
 #### ID Cassé : `JURITEXT000051464849` (JURITEXT)
-- **Fichiers impactés** : ./⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Courrier - Propriétaire - Relance 3.md, ./⚖️ Actes/👤 Reel/✉️ Courriers/🏠 Propriétaire/✉️ Courrier - Propriétaire - Relance 3.md
+- **Fichiers impactés** : ./⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Propriétaire - Courrier - Relance 3.md, ./⚖️ Actes/👤 Reel/✉️ Courriers/🏠 Propriétaire/✉️ Propriétaire - Courrier - Relance 3.md
 
 - **URLs concernées** :
 

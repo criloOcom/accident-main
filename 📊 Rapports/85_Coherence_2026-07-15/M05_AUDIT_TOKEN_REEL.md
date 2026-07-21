@@ -72,7 +72,7 @@ type: rapport
 
 - [ ] **✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md:80 — Nom réel 'JARDON' trouvé dans un fichier Token — Remplacer par le token approprié
 
-- [ ] **✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md:123 — Nom réel 'JARDON' trouvé dans un fichier Token — Remplacer par le token approprié
+- [ ] **✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md:123 — Nom réel 'JARDON' trouvé dans un fichier Token — Remplacer par le token approprié
 
 - [ ] **✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md:125 — Nom réel 'JARDON' trouvé dans un fichier Token — Remplacer par le token approprié
 
@@ -168,7 +168,7 @@ type: rapport
 
 - [ ] **✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Assureur RC SAS.md:41 — Token '**[Nom Commercial de l'Exploitation]**' non résolu dans un fichier Reel — Dé-anonymiser avec la valeur réelle
 
-- [ ] **✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md:123 — Token '**[Dr JARDON]**' non résolu dans un fichier Reel — Dé-anonymiser avec la valeur réelle
+- [ ] **✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md:123 — Token '**[Dr JARDON]**' non résolu dans un fichier Reel — Dé-anonymiser avec la valeur réelle
 
 - [ ] **✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md:125 — Token '**[Dr JARDON]**' non résolu dans un fichier Reel — Dé-anonymiser avec la valeur réelle
 

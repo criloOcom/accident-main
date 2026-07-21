@@ -15,7 +15,7 @@
 
 - [`⚖️ Actes/👤 Reel/✉️ Courriers/✉️ Courrier - Président SAS.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Pr%C3%A9sident%20SAS.md)
 
-- [`⚖️ Actes/👤 Reel/✉️ Courriers/✉️ Courrier - Propriétaire.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A0%20Propri%C3%A9taire/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Propri%C3%A9taire.md)
+- [`⚖️ Actes/👤 Reel/✉️ Courriers/✉️ Propriétaire - Courrier.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A0%20Propri%C3%A9taire/%E2%9C%89%EF%B8%8F%20Propri%C3%A9taire%20-%20Courrier.md)
 
 - [`⚖️ Actes/👤 Reel/✉️ Courriers/✉️ Courrier - SAS.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20SAS.md)
 

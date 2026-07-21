@@ -795,19 +795,19 @@ type: rapport
 
 - [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md:195 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md:109 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md:109 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md:136 — citation incomplète (Code manquant pour l'article 1719 dans `Article 1719`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md:136 — citation incomplète (Code manquant pour l'article 1719 dans `Article 1719`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md:137 — citation incomplète (Code manquant pour l'article 1720 dans `Article 1720`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md:137 — citation incomplète (Code manquant pour l'article 1720 dans `Article 1720`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md:141 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md:141 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md:52 — citation incomplète (Code manquant pour l'article 1719 dans `Article 1719`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md:52 — citation incomplète (Code manquant pour l'article 1719 dans `Article 1719`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md:55 — citation incomplète (Code manquant pour l'article 1720 dans `article 1720 du m`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md:55 — citation incomplète (Code manquant pour l'article 1720 dans `article 1720 du m`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire.md:58 — citation incomplète (Code manquant pour l'article 1720 dans `Article 1720`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md:58 — citation incomplète (Code manquant pour l'article 1720 dans `Article 1720`) — préciser le code applicable.
 
 - [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - SAS.md:107 — citation incomplète (Code manquant pour l'article 145 dans `Article 145`) — préciser le code applicable.
 

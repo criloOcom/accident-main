@@ -315,9 +315,9 @@ Cet audit croise les données de `🧠 Memory/RECADRAGE_NOMENCLATURE.md`, `🧠 
 
 - [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Mairie/✉️ Courrier - ERP Mairie Tavella.md:13 — Nom réel leak détecté : 'TAVELLA' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Courrier - Propriétaire - Relance 3.md:3 — Nom réel leak détecté : 'DELRIEU' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Propriétaire - Courrier - Relance 3.md:3 — Nom réel leak détecté : 'DELRIEU' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Courrier - Propriétaire - Relance 3.md:3 — Nom réel leak détecté : 'Romain' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Propriétaire - Courrier - Relance 3.md:3 — Nom réel leak détecté : 'Romain' — Remplacer par le token.
 
 - [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - DG SAS HB BARBER.md:23 — Nom réel leak détecté : 'Catherine' — Remplacer par le token.
 
