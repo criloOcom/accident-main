@@ -16,7 +16,7 @@ type: memory
 <a id="token-la-victime"></a>
 | Sébastien GRAZIDE / Grazide / GRAZIDE | [**[La Victime]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) |
 <a id="token-le-president-de-l-exploitation"></a>
-| Sabir MOUNTASSER / MOUNTASSER / Mountasser SABIR / SABIR / Mountasser Sabir | [**[Le Président de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) |
+| Hamza El Hachemi BERGUIGA / BERGUIGA | [**[Le Président de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) |
 <a id="token-la-directrice-generale-de-l-exploitation"></a>
 | Catherine ANDISSAC / SORROCHE / Catherine Andissac / Catherine Sorroche | [**[La Directrice Générale de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) |
 <a id="token-le-prepose-de-l-exploitation"></a>
@@ -44,11 +44,7 @@ type: memory
 | Texte original | Token | Note |
 |---|---|---|
 <a id="token-l-exploitant-du-commerce-la-sas"></a>
-| SAS LES MAUVAIS GARCONS / LES MAUVAIS GARÇONS | [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) | ⚠ Exploitant HISTORIQUE — voir aussi [**[Le Nouvel Exploitant (HB BARBER)]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) |
-<a id="token-le-nouvel-exploitant-hb-barber"></a>
-| SAS HB BARBER / HB BARBER | [**[Le Nouvel Exploitant (HB BARBER)]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) | ⚠ Nouvel exploitant au 29/05/2026 (jour de l'accident) — même local que LMG |
-<a id="token-le-president-du-nouvel-exploitant"></a>
-| Hamza El Hachemi BERGUIGA / BERGUIGA | [**[Le Président du Nouvel Exploitant]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) | Président de SAS HB BARBER |
+| SAS HB BARBER / HB BARBER | [**[L'Exploitant du Commerce (La SAS)]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) | ⚠ Exploitant RÉEL au 29/05/2026 (jour de l'accident) — voir historique LMG en fin de fiche |
 <a id="token-l-etablissement-sos-main"></a>
 | Clinique de l'Union | [**[L'Établissement SOS Main]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md) | |
 
@@ -60,9 +56,8 @@ type: memory
 <a id="token-l-adresse-de-l-exploitation"></a>
 | 22 Rue Lafaurie, 09000 Foix | [**[L'Adresse de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) |
 <a id="token-l-adresse-du-president"></a>
-| 108 Avenue Paul Bert, 09000 Foix | [**[L'Adresse du Président]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-adresse.md) |
-| 115 avenue Fernand Loubet, 09200 Saint-Girons | [**[Adresse du Président du Nouvel Exploitant]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-adresse.md) |
-| 351 route Impériale, 34670 Baillargues | [**[Adresse de la Directrice Générale du Nouvel Exploitant]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-dg-adresse.md) |
+| 115 avenue Fernand Loubet, 09200 Saint-Girons | [**[L'Adresse du Président]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-adresse.md) |
+| 351 route Impériale, 34670 Baillargues | [**[L'Adresse de la Directrice Générale]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-adresse.md) |
 | 17 rue de la Baïse, 31120 Roquettes | [**[Adresse du Propriétaire des Murs]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-adresse.md) |
 <a id="token-la-ville-de-l-accident"></a>
 | Foix | [**[La Ville de l'Accident]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) |
@@ -87,32 +82,24 @@ type: memory
 <a id="token-l-identifiant-professionnel-de-la-victime"></a>
 | 500 474 457 | [**[L'Identifiant Professionnel de la Victime]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md) |
 <a id="token-l-identifiant-de-l-exploitation"></a>
-| 938 033 222 00010 | [**[L'Identifiant de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md) |
-<a id="token-identifiant-du-nouvel-exploitant"></a>
-| 104 103 262 00010 | [**[Identifiant du Nouvel Exploitant]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-id.md) |
+| 104 103 262 00010 | [**[L'Identifiant de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md) |
 <a id="token-siren-de-l-exploitation"></a>
-| 938 033 222 | [**[SIREN de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) |
-<a id="token-siren-du-nouvel-exploitant"></a>
-| 104 103 262 | [**[SIREN du Nouvel Exploitant]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md) |
+| 104 103 262 | [**[SIREN de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) |
 <a id="token-capital-social-de-l-exploitation"></a>
-| 200 € | [**[Capital Social de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) |
-<a id="token-capital-du-nouvel-exploitant"></a>
-| 1 000 € | [**[Capital du Nouvel Exploitant]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-capital-social.md) |
+| 1 000 € | [**[Capital Social de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) |
 | 31727387 / 2026/015967 | `[ ... ]` (ou le contexte approprié) |
 <a id="token-n-pv-police"></a>
 | 2026/015967 | [**[N° PV Police]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md) |
 <a id="token-n-dossier-cpam"></a>
 | 31727387 | [**[N° Dossier CPAM]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md) |
 <a id="token-siret-de-l-exploitation"></a>
-| 938 033 222 00010 | [**[SIRET de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siret.md) |
+| 104 103 262 00010 | [**[SIRET de l'Exploitation]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siret.md) |
 | 87001424863012T | [**[N° LRAR Exploitant]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-exploitant.md) |
 | 87001424862879J | [**[N° LRAR Président]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-president.md) |
 | 87001424721856G | [**[N° LRAR Directrice]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-directrice.md) |
 | 87001424862462Y | [**[N° LRAR Propriétaire]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-proprietaire.md) |
 | 87001424923505I | [**[N° LRAR Parquet]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-parquet.md) |
-| 87500152771696F | [**[N° LRAR HB BARBER Société]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-hb-barber-societe.md) |
-| 875001528942001 | [**[N° LRAR HB BARBER Président]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-hb-barber-president.md) |
-| 875001528942010 | [**[N° LRAR HB BARBER DG]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-hb-barber-dg.md) |
+| 87500152771696F | [**[N° LRAR Exploitant (HB)]**] |
 | 87500152888336B | [**[N° LRAR CHIVA]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-chiva.md) |
 | 87500152910287Q | [**[N° LRAR Propriétaire Relance 3]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-lrar-proprietaire-relance-3.md) |
 
@@ -216,6 +203,6 @@ type: memory
 ## Limitations connues du script batch_anonymize.py
 - Le script utilise `str.replace()` — il ne capture que les chaînes exactes listées
 
-- Les prénoms/noms en casse mixte sans espace entre les deux (ex. "Mountasser Sabir" — ancien format inversé) doivent être ajoutés manuellement comme entrées au script
+- Les prénoms/noms en casse mixte sans espace entre les deux (ex. "Hamza El Hachemi") doivent être ajoutés manuellement comme entrées au script
 
 - Les montants financiers `15 000 €` et `3 000 €` ne sont PAS dans batch_anonymize.py car chaque valeur correspond à plusieurs tokens distincts — à remplacer manuellement selon le contexte

@@ -19,15 +19,15 @@ REEL_DIR = os.path.join(PROJECT_ROOT, '⚖️ Actes', '👤 Reel')
 REPORT_PATH = os.path.join(PROJECT_ROOT, '.dev', 'app', 'resolve_reel_tokens_report.md')
 
 SIMPLE_TOKENS = {
-    "**[Capital Social de l'Exploitation]**": "200 €",
+    "**[Capital Social de l'Exploitation]**": "1 000 €",
     "**[Prénom de la Victime]**": "Sébastien",
     "**[Date de naissance de la Victime]**": "18 janvier 1982",
     "**[Date de naissance de la victime]**": "18 janvier 1982",
     "**[Date de Naissance de la Victime]**": "18 janvier 1982",
     "**[Âge de la Victime]**": "44 ans",
-    "**[L'EXPLOITANT DU COMMERCE (LA SAS)]**": "SAS LES MAUVAIS GARCONS",
-    "**[L'Exploitant du Commerce (La SAS)]**": "SAS LES MAUVAIS GARCONS",
-    "**[SIRET]**": "938 033 222 00010",
+    "**[L'EXPLOITANT DU COMMERCE (LA SAS)]**": "SAS HB BARBER",
+    "**[L'Exploitant du Commerce (La SAS)]**": "SAS HB BARBER",
+    "**[SIRET]**": "104 103 262 00010",
     "**[Code Postal Accident]**": "09000",
     "**[Code Postal de l'Accident]**": "09000",
     "**[LA VILLE DE L'ACCIDENT]**": "Foix",

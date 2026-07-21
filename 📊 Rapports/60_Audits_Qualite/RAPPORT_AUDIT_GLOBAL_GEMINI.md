@@ -31,6 +31,7 @@ auteur: Gemini
 **Q8.** Le script `generate_real_versions.py` fonctionne mais génère parfois des coquilles (ex. "SAS au capital de 1 000 €" devient mal formaté l. 12 de `Correction Identite Societe.md`).
 **Q9.** **Fuites majeures** :
 - "Ayoub" (l. 1 de `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️⚖️ Commissariat Foix Plainte Complementaire.md`)
+
 - "Ayoub" (l. 1 de `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/🔍 Requete Article 145 CPC.md`).
 **Q10.** `batch_anonymize.py` contient des règles en dur (l. 42 : `(le token contient "HB BARBER" en sous-chaîne)`) qui ne sont pas dynamiquement synchronisées avec la map.
 
@@ -87,28 +88,44 @@ auteur: Gemini
 ## 10 — Synthèse & Note finale (Q47–Q50)
 **Q47. Les 5 problèmes critiques :**
 1. **Fuite d'Anonymisation (RGPD)** : Noms en clair ("Ayoub") dans la branche Token (`⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️⚖️ Commissariat Foix Plainte Complementaire.md` l. 1).
+
 2. **Hérésie procédurale** : Octroi d'une provision (15 000 €) sur une ordonnance statuant sur Requête 145 CPC (`⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/⚖️ Projet Ordonnance Refere.md` l. 25).
+
 3. **Citations Légifrance KO** : 36 fichiers (100%) échouent à la validation d'URL (statuts manquants).
+
 4. **Liens 404 Internes** : 47 liens morts détectés par le script d'audit (ex: `token-finance-transaction-wero.md` manquant).
+
 5. **Dates Erronées** : L'anomalie du "29 juin" non corrigée (47 fichiers concernés d'après `85_RESTANT_A_FAIRE_2026-07-15.md` l. 21).
 
 **Q48. Les 5 points forts :**
 1. Architecture en Double Strate (Token/Reel).
+
 2. `STRICT VARIABLES.md` comme Source Unique de Vérité.
+
 3. Couverture de tests unitaires (44/44).
+
 4. Système de scripts d'audit automatiques.
+
 5. Traçabilité des actions (Dossiers `📊 Rapports/`).
 
 **Q49. Priorités avant dépôt :**
 - Supprimer toutes les mentions "Ayoub" et "Grazide" des fichiers Token.
+
 - Séparer la Requête 145 (preuves) de l'Assignation Référé-Provision.
+
 - Corriger le format des 36 citations Légifrance.
+
 - Fixer les 47 liens internes 404 (créer les fichiers manquants).
+
 - Régler l'anomalie globale du 29 juin.
 
 **Q50. Note Globale : 58 / 100**
 - *Structure/Orga (14/20)* : Fichiers orphelins et AGENTS.md obsolète (-6 pts).
+
 - *Juridique (6/20)* : Erreur critique sur l'Article 145 et citations Légifrance cassées (-14 pts).
+
 - *Technique (16/20)* : Scripts solides, tests OK, mais des liens 404 résiduels (-4 pts).
+
 - *Cohérence (12/20)* : STRICT VARIABLES est souvent ignoré (dates, M01-M15 non résolus) (-8 pts).
+
 - *Sécurité (10/20)* : Faille RGPD critique avec la fuite de noms dans la strate anonyme (-10 pts).

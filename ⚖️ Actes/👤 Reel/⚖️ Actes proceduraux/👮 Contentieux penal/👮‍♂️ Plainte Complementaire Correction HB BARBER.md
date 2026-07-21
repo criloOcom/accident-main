@@ -1,5 +1,5 @@
 ---
-title: "Plainte complémentaire — Correction cible [Le Nouvel Exploitant (HB BARBER)]"
+title: "Plainte complémentaire — Correction cible [L'Exploitant du Commerce (La SAS)]"
 description: "Complément à la plainte initiale — Correction de l'identité de la société exploitante"
 type: document
 date: 2026-07-17
@@ -52,47 +52,47 @@ Ces éléments, ainsi que mon suivi médical (**[Le Médecin en Urgence](../../.
 
 ## 2. Correction importante sur l'identité de la société exploitante
 
-Dans mon dossier de plainte initial et dans mes premières démarches administratives, j'ai indiqué de bonne foi la société [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) (SIREN 938 033 222, SIRET **[L'Identifiant de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md)**, 22 rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**) comme exploitante du salon.
+Dans mon dossier de plainte initial et dans mes premières démarches administratives, j'ai indiqué de bonne foi la société SAS LES MAUVAIS GARÇONS (SIREN 938 033 222, 22 rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**) comme exploitante du salon.
 
 Depuis, de nouveaux éléments établissent qu'au **29 mai 2026**, date de l'accident, le salon était en réalité exploité sous une autre dénomination sociale, à savoir :
 
-**[Le Nouvel Exploitant (HB BARBER)] (SAS)**
+**[L'Exploitant du Commerce (La SAS)] (SAS)**
 | Champ | Valeur |
 |-------|--------|
-| SIREN | [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md) |
+| SIREN | [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) |
 | Forme | SAS |
 | Date d'immatriculation RNE | 19/05/2026 |
 | Début d'activité | 22/04/2026 |
 | Adresse | 22 GRANDE RUE LA FAURIE, 09000 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** |
 | Activité | Coiffure / barbier (APE 9602A) |
-| Président | [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) (né 07/1998, Saint-Girons) |
+| Président | [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) (né 07/1998, Saint-Girons) |
 | Directrice générale | **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** (née 04/1970, Baillargues) |
 
-Mme **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** (épouse **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**) était déjà mentionnée dans mon dossier comme directrice générale de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md). Elle occupe donc la fonction de **directrice générale dans les deux sociétés**, [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) puis [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), pour le même local et la même activité, avec une succession très rapprochée :
+Mme **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** était déjà mentionnée dans mon dossier comme directrice générale de SAS LES MAUVAIS GARÇONS. Elle occupe la fonction de **directrice générale dans les deux sociétés**, SAS LES MAUVAIS GARÇONS puis SAS HB BARBER, pour le même local et la même activité, avec une succession très rapprochée :
 
-- **10 mars 2026** : date de cessation d'activité de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) dans les locaux selon le bailleur (état des lieux de sortie)
+- **10 mars 2026** : date de cessation d'activité de SAS LES MAUVAIS GARÇONS dans les locaux selon le bailleur (état des lieux de sortie)
 
-- **22 avril 2026** : début d'activité déclarée de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) au 22 rue / grande rue Lafaurie
+- **22 avril 2026** : début d'activité déclarée de SAS HB BARBER au 22 rue / grande rue Lafaurie
 
 - **29 mai 2026** : date de mon accident dans ce même local
 
-**Je demande** que la société **[Le Nouvel Exploitant (HB BARBER)] (SAS)** et ses dirigeants soient formellement intégrés dans la procédure en qualité de société exploitante et responsables potentiels au jour des faits, en complément des investigations visant [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) et ses dirigeants.
+**Je demande** que la société SAS HB BARBER et ses dirigeants soient formellement intégrés dans la procédure en qualité de société exploitante et responsables potentiels au jour des faits.
 <hr><hr>
 
 ## 3. Courriel du bailleur et état des lieux de sortie
 
-Le **16 juillet 2026**, j'ai reçu un courriel de **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)**, propriétaire bailleur des locaux du 22 rue Lafaurie, en réponse à ma lettre recommandée du 29 juin 2026 par laquelle je sollicitais les coordonnées de l'assureur de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md).
+Le **16 juillet 2026**, j'ai reçu un courriel de **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)**, propriétaire bailleur des locaux du 22 rue Lafaurie, en réponse à ma lettre recommandée du 29 juin 2026 par laquelle je sollicitais les coordonnées de l'assureur de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 
 Dans ce courriel, M. **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** m'indique notamment :
 
-> « **[…]** je vous informe que je suis au regret de ne pouvoir vous renseigner sur l'assurance contractée par [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) car cette société a cessé toute activité dans mes locaux depuis le 10/03/2026 comme en atteste l'état des lieux de sortie signé par son représentant à cette date. Or, votre accident du travail étant postérieur à cette date, [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) ne peut donc pas voir sa responsabilité engagée. »
+> « **[…]** je vous informe que je suis au regret de ne pouvoir vous renseigner sur l'assurance contractée par [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) car cette société a cessé toute activité dans mes locaux depuis le 10/03/2026 comme en atteste l'état des lieux de sortie signé par son représentant à cette date. Or, votre accident du travail étant postérieur à cette date, [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) ne peut donc pas voir sa responsabilité engagée. »
 
-Ce courriel comporte en pièces jointes **trois photographies** de l'état des lieux de sortie signé par le représentant de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) à la date du 10/03/2026.
+Ce courriel comporte en pièces jointes **trois photographies** de l'état des lieux de sortie signé par le représentant de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) à la date du 10/03/2026.
 
 Je ne me prononce pas à ce stade sur la validité ou non de ces documents, mais je constate que :
 - le bailleur refuse de me communiquer toute information d'assurance
 
-- et qu'il tire lui-même une conclusion sur l'absence de responsabilité de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), alors que cela relève de l'appréciation de l'autorité judiciaire
+- et qu'il tire lui-même une conclusion sur l'absence de responsabilité de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), alors que cela relève de l'appréciation de l'autorité judiciaire
 
 Je joins à la présente copie du courriel du 16 juillet 2026 et la note de constatations que j'ai rédigée à la suite de ma visite des lieux.
 <hr><hr>
@@ -103,7 +103,7 @@ Le **16 juillet 2026**, je me suis rendu physiquement au **22 rue Lafaurie** pou
 
 Lors de cette visite, j'ai constaté que :
 
-- une pancarte / encart sur la vitrine indiquait désormais l'enseigne **« [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) »**
+- une pancarte / encart sur la vitrine indiquait désormais l'enseigne **« [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) »**
 
 - le **bac à shampoing en céramique cassé** à l'origine de ma blessure **avait disparu** et semblait avoir été remplacé par un nouveau bac
 
@@ -111,7 +111,7 @@ Lors de cette visite, j'ai constaté que :
 
 À ma connaissance, le salon est resté **fermé plusieurs semaines** après l'accident. Combiné au remplacement du matériel, cela fait naître un **risque sérieux de non-conservation des enregistrements de vidéosurveillance** et de disparition des preuves matérielles.
 
-Sur place, j'ai eu un échange avec une personne qui s'est présentée comme l'exploitant du salon et que j'identifie comme pouvant être [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md), président de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md). Cette personne a :
+Sur place, j'ai eu un échange avec une personne qui s'est présentée comme l'exploitant du salon et que j'identifie comme pouvant être [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), président de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). Cette personne a :
 - refusé de me coiffer
 
 - refusé de me délivrer une facture
@@ -129,19 +129,19 @@ J'annexe à la présente une **note de constatations** datée relatant précisé
 
 Compte tenu de ces éléments nouveaux, je sollicite respectueusement :
 
-**1. La prise en compte de la société [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) (SAS)** en qualité de société exploitante des lieux au 29/05/2026, avec identification complète de ses dirigeants (président et directrice générale) et vérification de ses contrats d'assurance responsabilité civile professionnelle.
+**1. La prise en compte de la société [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SAS)** en qualité de société exploitante des lieux au 29/05/2026, avec identification complète de ses dirigeants (président et directrice générale) et vérification de ses contrats d'assurance responsabilité civile professionnelle.
 
 **2. L'exploitation du courriel du bailleur du 16/07/2026** et de ses pièces jointes (photos de l'état des lieux de sortie du 10/03/2026), notamment pour :
-- confirmer la réalité de la date de sortie de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
+- confirmer la réalité de la date de sortie de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
-- obtenir, le cas échéant, copie du bail commercial et des attestations d'assurance exigées des différents exploitants ([SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) puis [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md))
+- obtenir, le cas échéant, copie du bail commercial et des attestations d'assurance exigées des différents exploitants ([SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) puis [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md))
 
 **3. L'audition**, si ce n'est déjà fait, des personnes suivantes :
 - **[Le Préposé de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** (tel : [**[Le Telephone du Prepose]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)), coiffeur present lors de l'accident, titulaire du compte Wero ayant recu puis rembourse le paiement
 
-- [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md), président de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
+- [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), président de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
-- **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** (épouse **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**), directrice générale successivement de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) et de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
+- **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** (épouse **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**), directrice générale successivement de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
 - **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)**, bailleur, sur les baux successifs, les états des lieux, la connaissance des exploitants et des assurances
 
@@ -165,7 +165,7 @@ Je sollicite que la copie d'écran de cet échange soit versée au dossier comme
 
 <hr><hr>
 
-Je reste à la disposition des services d'enquête pour toute précision complémentaire et pour fournir l'intégralité de mon dossier (correspondances mairie, CPAM, LRAR, attestations médicales, attestation RNE [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), etc.).
+Je reste à la disposition des services d'enquête pour toute précision complémentaire et pour fournir l'intégralité de mon dossier (correspondances mairie, CPAM, LRAR, attestations médicales, attestation RNE [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), etc.).
 
 **Je vous prie d'agréer, Monsieur le Procureur de la République, l'expression de ma considération distinguée.**
 
@@ -180,9 +180,9 @@ Je reste à la disposition des services d'enquête pour toute précision complé
 
 - **[Courriel bailleur **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** 16/07/2026](...)** — Réponse LRAR + 3 photos état des lieux de sortie
 
-- **[Note de constatations 16/07/2026](...)** — Visite des lieux, disparition du bac, découverte [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
+- **[Note de constatations 16/07/2026](...)** — Visite des lieux, disparition du bac, découverte [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
-- **[Attestation RNE [Le Nouvel Exploitant (HB BARBER)]](...)** — DATA INPI, SIREN [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md)
+- **[Attestation RNE [L'Exploitant du Commerce (La SAS)]](...)** — DATA INPI, SIREN [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)
 
 - **[Capture d'écran WhatsApp + CERFA 11527\*03](...)** — SMS adressé à **[Le Préposé de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** le 18/07/2026 — pas de retour à date
 

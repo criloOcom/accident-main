@@ -237,8 +237,8 @@ Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../%F0%9F%93%8A%20Rapports/RAPPORT_A
 | `87001424923505I` | Tribunal Judiciaire de Foix (constitution de partie civile) | 29/06/2026 | Avis de réception numérique disponible |
 | `87001421903907I` | CPAM de Toulouse (dossier RCT) | 24/06/2026 | Avis de réception numérique disponible |
 | `870014282662911` | **[L'Exploitant du Commerce (La SAS)]** (Relance Dirigeants J+40, V2) | 08/07/2026 | En attente de retrait (FOIX R P, jusqu'au 28/07) |
-| `87500152771696F` | **[Le Nouvel Exploitant (HB BARBER)]** (mise en demeure J+51) | 18/07/2026 | Pris en charge par La Poste |
-| `875001528942001` | **[Le Président du Nouvel Exploitant]** (Hamza BERGUIGA, J+51) | 18/07/2026 | Pris en charge par La Poste |
+| `87500152771696F` | **[L'Exploitant du Commerce (La SAS)]** (mise en demeure J+51) | 18/07/2026 | Pris en charge par La Poste |
+| `875001528942001` | **[Le Président de l'Exploitation]** (Hamza BERGUIGA, J+51) | 18/07/2026 | Pris en charge par La Poste |
 | `875001528942010` | **[La Directrice Générale de l'Exploitation]** (Catherine SORROCHE, J+51) | 18/07/2026 | Pris en charge par La Poste |
 | `87500152888336B` | GHT des Pyrénées Ariégeoises CHIVA (Hôpital de Foix) | 18/07/2026 | Pris en charge par La Poste |
 | `87500152910287Q` | **[Le Propriétaire des Murs]** (Relance 3, J+52) | 19/07/2026 | Pris en charge par La Poste |
@@ -258,7 +258,11 @@ Les tokens `[N° LRAR Exploitant]`, `[N° LRAR Directrice]`, `[N° LRAR Préside
 | Médecin Généraliste | `**[Le Médecin Généraliste]**` |
 | Gestionnaire CPAM | `**[La Gestionnaire CPAM]**` |
 
-⚠ **Statut de la SAS vérifié (2026-07-06)** : Active (état administratif "A"), créée le 01/06/2024, siège social au 22 Rue Lafaurie 09000 Foix. Président : Sabir MOUNTASSER. Directrice Générale : Catherine Andissac/Sorroche. Aucune procédure de dissolution ou liquidation en cours (source : API Recherche Entreprises).
+⚠ **Statut de l'exploitant au jour de l'accident vérifié (2026-07-17)** :
+
+**Exploitant réel au 29/05/2026** : SAS HB BARBER (SIREN 104 103 262, capital 1 000 €), créée le 22/04/2026, siège social au 22 Grande Rue La Faurie, 09000 Foix. Président : Hamza El Hachemi BERGUIGA. Directrice Générale : Catherine SORROCHE (ép. ANDISSAC). Active, immatriculée RCS Foix (source : INPI/RNE, extrait Kbis — pièces officielles du 17/07/2026).
+
+**Ancien exploitant** : SAS LES MAUVAIS GARÇONS (SIREN 938 033 222), créée le 01/06/2024, a quitté les lieux le 10/03/2026 (état des lieux de sortie). Président : Sabir MOUNTASSER. Directrice Générale : Catherine ANDISSAC/SORROCHE.
 
 ## Personnes morales (tokens)
 | Rôle | Token | Note |

@@ -129,7 +129,7 @@ Voir détails : [📊 Evaluation Dintilhac Consolidee.md](../%F0%9F%92%B0%20Etud
 
 1. **Assureur RC** (si identifié) → action directe L.124-3 C. Assurances
 
-2. **FGTI/CIVI** → voie principale si insolvabilité ([200 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md)). Art. 706-3 CPP.
+2. **FGTI/CIVI** → voie principale si insolvabilité ([1 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md)). Art. 706-3 CPP.
 
 3. **Dirigeants** → faute détachable (subsidiaire)
 

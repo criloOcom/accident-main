@@ -1,6 +1,6 @@
 ---
 title: "Erratum — Correction de l'identité de la société exploitante"
-description: "Document d'erratum formel — Correction de la désignation de la société défenderesse : remplacement de [L'Exploitant du Commerce (La SAS)] par [Le Nouvel Exploitant (HB BARBER)] dans l'ensemble des actes et démarches"
+description: "Document d'erratum formel — Correction de la désignation de la société défenderesse : remplacement de [L'Exploitant du Commerce (La SAS)] par [L'Exploitant du Commerce (La SAS)] dans l'ensemble des actes et démarches"
 type: document
 date: 2026-07-17
 statut: final
@@ -13,7 +13,7 @@ reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/📜 Erratum Correcti
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](./📜%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](./📜%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -70,11 +70,11 @@ Deux événements concomitants ont révélé l'erreur :
 
 **1. Réponse du bailleur :** M. **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)**, bailleur des locaux du 22 rue Lafaurie, m'a répondu par courriel le 16 juillet 2026 en m'informant que la société **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** avait signé un état des lieux de sortie le 10 mars 2026, et qu'elle ne pouvait donc pas être l'exploitante au jour de l'accident.
 
-**2. Visite des lieux :** Je me suis rendu physiquement au 22 rue Lafaurie, **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le 16 juillet 2026. J'ai alors constaté que l'enseigne sur la vitrine indiquait désormais **« [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) »**. Le commerce était exploité par une société que je ne connaissais pas : [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) (SIREN [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md) , même adresse).
+**2. Visite des lieux :** Je me suis rendu physiquement au 22 rue Lafaurie, **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le 16 juillet 2026. J'ai alors constaté que l'enseigne sur la vitrine indiquait désormais **« [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) »**. Le commerce était exploité par une société que je ne connaissais pas : [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) , même adresse).
 
-Des recherches web complémentaires effectuées à mon retour ont confirmé que [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) avait été créée le **22 avril 2026** — soit **37 jours avant l'accident** — à la même adresse (22 Grande Rue La Faurie, 09000 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**), pour la même activité (coiffure/barbier, code APE 9602A), avec un capital de [1 000 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-capital-social.md).
+Des recherches web complémentaires effectuées à mon retour ont confirmé que [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) avait été créée le **22 avril 2026** — soit **37 jours avant l'accident** — à la même adresse (22 Grande Rue La Faurie, 09000 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**), pour la même activité (coiffure/barbier, code APE 9602A), avec un capital de [1 000 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md).
 
-**Élément capital :** La directrice générale de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), **Mme **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** **, est la **même personne** que la directrice générale de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**. Il existe donc un lien organique direct entre les deux entités.
+**Élément capital :** La directrice générale de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), **Mme **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** **, est la **même personne** que la directrice générale de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**. Il existe donc un lien organique direct entre les deux entités.
 <hr><hr>
 
 ### Synthèse chronologique des sociétés au 22 rue Lafaurie
@@ -82,10 +82,10 @@ Des recherches web complémentaires effectuées à mon retour ont confirmé que 
 | Date | Événement |
 |------|-----------|
 | **10 mars 2026** | Cessation d'activité de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (état des lieux de sortie — source : bailleur) |
-| **22 avril 2026** | Début d'activité de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) au 22 Grande Rue La Faurie |
+| **22 avril 2026** | Début d'activité de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) au 22 Grande Rue La Faurie |
 | **29 mai 2026** | Accident corporel de **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** dans ce local |
 | **2 juin 2026** | Plainte initiale (visant à tort **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**) |
-| **16 juillet 2026** | Découverte de l'exploitation réelle par [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) |
+| **16 juillet 2026** | Découverte de l'exploitation réelle par [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) |
 <hr><hr>
 
 ## 3. Actes concernés par la correction
@@ -141,30 +141,30 @@ En conséquence de ce qui précède, je soussigné **[La Victime](../../../../%F
 
 2. **Cet exploitant est la société :**
 
-   > [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
-   > SAS au capital de [1 000 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-capital-social.md)
-   > SIREN : [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md)
+   > [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
+   > SAS au capital de [1 000 €](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md)
+   > SIREN : [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)
    > Siège social : 22 Grande Rue La Faurie, 09000 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
-   > Président : [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md)
+   > Président : [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)
    > Directrice générale : **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**
    > Date de création : 22 avril 2026
 
 3. **La mention de « **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** » dans mes actes antérieurs doit être comprise comme une erreur matérielle de désignation, la cible réelle de mes demandes ayant toujours été l'exploitant de fait du commerce au 22 rue Lafaurie, sans que j'aie eu les moyens de l'identifier correctement avant le 16 juillet 2026.**
 
-4. **Je prie les destinataires des actes listés à la section 3 de bien vouloir annexer le présent erratum aux dossiers et procédures concernés, et de considérer que les diligences engagées visent la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) en qualité d'exploitant réel au jour de l'accident.**
+4. **Je prie les destinataires des actes listés à la section 3 de bien vouloir annexer le présent erratum aux dossiers et procédures concernés, et de considérer que les diligences engagées visent la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) en qualité d'exploitant réel au jour de l'accident.**
 <hr><hr>
 
 ## 5. Précision sur la bonne foi et la transparence
 
 Je tiens à préciser les points suivants afin d'écarter toute ambiguïté :
 
-- **Je n'ai jamais eu connaissance de l'existence de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) avant le 16 juillet 2026.** Aucun document, panneau, facture, site web ou toute autre source d'information ne m'avait permis d'identifier cette société avant cette date.
+- **Je n'ai jamais eu connaissance de l'existence de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) avant le 16 juillet 2026.** Aucun document, panneau, facture, site web ou toute autre source d'information ne m'avait permis d'identifier cette société avant cette date.
 
 - **Dès ma première plainte, j'ai signalé mon incertitude** aux services de police, comme en atteste le procès-verbal.
 
 - **C'est uniquement par un déplacement physique sur place** que j'ai pu découvrir l'enseigne réelle. Les recherches à distance (sites web, annuaires, réseaux sociaux) s'étaient révélées insuffisantes.
 
-- **La création très récente de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) (22 avril 2026, soit 37 jours avant l'accident)** explique que les bases de données publiques n'étaient pas encore à jour lors de mes premières investigations en juin 2026.
+- **La création très récente de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (22 avril 2026, soit 37 jours avant l'accident)** explique que les bases de données publiques n'étaient pas encore à jour lors de mes premières investigations en juin 2026.
 
 - **Je n'ai modifié aucun fait, aucune date, aucune circonstance** de l'accident lui-même, qui reste rigoureusement identique à ma première déclaration.
 

@@ -82,11 +82,11 @@ Demande d'indemnisation pour **accident corporel** — responsabilité civile du
 [Sébastien GRAZIDE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), partie **demanderesse**
 
 ### Qualité du/des défendeur(s)
-1. **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**, exploitant du salon de coiffure au 22 Rue Lafaurie, 09000 Foix, représenté par ses dirigeants
+1. **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, exploitant du salon de coiffure au 22 Rue Lafaurie, 09000 Foix, représenté par ses dirigeants
 
-2. **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**, exploitant effectif au jour de l'accident, intervenu volontairement
+2. **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, exploitant effectif au jour de l'accident, intervenu volontairement
 
-3. [Sabir MOUNTASSER](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), dirigeant
+3. [Hamza El Hachemi BERGUIGA](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), dirigeant
 
 4. [Catherine SORROCHE, dite ANDISSAC](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), dirigeante
 <hr><hr>

@@ -22,7 +22,7 @@ jx: J+52
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident.
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident.
 
 
 
@@ -44,11 +44,11 @@ La présente requête est introduite par **[La Victime](../../../../%F0%9F%A7%A0
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »*
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
-Elle a pour objet d'obtenir, sous astreinte, la communication par **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** et ses dirigeants des pièces nécessaires à l'exercice de l'action indemnitaire du requérant, et notamment :
+Elle a pour objet d'obtenir, sous astreinte, la communication par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et ses dirigeants des pièces nécessaires à l'exercice de l'action indemnitaire du requérant, et notamment :
 
-1. La communication du bail commercial, des états des lieux d'entrée et de sortie et des attestations d'assurance de responsabilité civile professionnelle de **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** en vigueur au **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** ;
+1. La communication du bail commercial, des états des lieux d'entrée et de sortie et des attestations d'assurance de responsabilité civile professionnelle de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** en vigueur au **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** ;
 
-2. La communication du lien contractuel existant entre **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** et **[Le Préposé de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)**, coiffeur présent lors de l'accident ;
+2. La communication du lien contractuel existant entre **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et **[Le Préposé de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)**, coiffeur présent lors de l'accident ;
 
 3. La conservation et la communication des enregistrements de vidéosurveillance du salon pour la période du 25 mai au 5 juin 2026 ;
 
@@ -75,13 +75,13 @@ Parallèlement, le requérant a écrit le **[J+31 Mises en demeure](../../../../
 
 Dès le 1er juin 2026, le requérant a également signalé les faits à la mairie de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**. Par courriel, **[L'Adjoint au Maire de la Commune](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md)**, adjoint au maire en charge de l'urbanisme et des travaux, lui a indiqué avoir saisi la préfecture afin de mobiliser l'inspection du travail et le CODAF. À ce jour, aucune suite concrète ne lui a été portée à connaissance (**Pièce n°17**).
 
-À la suite de cette information, le requérant a consulté les registres officiels (RNE / DATA INPI et répertoire SIRENE) et a découvert que le salon était en réalité exploité depuis le 22 avril 2026 par **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** (SIREN [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md)), ayant pour président [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) et pour directrice générale **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**.
+À la suite de cette information, le requérant a consulté les registres officiels (RNE / DATA INPI et répertoire SIRENE) et a découvert que le salon était en réalité exploité depuis le 22 avril 2026 par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (SIREN [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)), ayant pour président [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et pour directrice générale **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**.
 
 Le requérant a déposé le 20 juillet 2026 une plainte complémentaire auprès du commissariat de Foix pour corriger l'identité de la société exploitante **(Pièce n°14)**.
 
 ### 3 — Constatations sur place du 16 juillet 2026
 
-Le 16 juillet 2026, le requérant s'est rendu sur place et a constaté que le bac à shampoing en céramique blanche, brisé et tranchant, qui avait provoqué l'accident, avait été entièrement retiré et remplacé par un bac neuf de couleur noire. Le meuble de télévision mural avait également été démonté, les trous de fixation étant visibles sur le mur nu. L'échange avec les personnes présentes (notamment [**[Le Président du Nouvel Exploitant](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md)**]) n'a donné lieu à aucune information sur ces modifications, ni sur l'identité de l'assureur ou les déclarations de sinistre.
+Le 16 juillet 2026, le requérant s'est rendu sur place et a constaté que le bac à shampoing en céramique blanche, brisé et tranchant, qui avait provoqué l'accident, avait été entièrement retiré et remplacé par un bac neuf de couleur noire. Le meuble de télévision mural avait également été démonté, les trous de fixation étant visibles sur le mur nu. L'échange avec les personnes présentes (notamment [**[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)**]) n'a donné lieu à aucune information sur ces modifications, ni sur l'identité de l'assureur ou les déclarations de sinistre.
 
 Par ailleurs, l'établissement est resté fermé environ 30 jours après l'accident et n'a rouvert que début juillet 2026, ce qui a empêché toute constatation officielle de l'état des lieux par les autorités avant le remplacement du bac (**Pièce n°16**).
 <hr><hr>
@@ -94,7 +94,7 @@ L'article 145 du Code de procédure civile dispose :
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »*
 
-En l'espèce, le motif légitime est caractérisé par l'impossibilité pour le requérant d'accéder aux documents et pièces nécessaires à la préparation de son action indemnitaire, détenus exclusivement par **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**, ses dirigeants et le bailleur.
+En l'espèce, le motif légitime est caractérisé par l'impossibilité pour le requérant d'accéder aux documents et pièces nécessaires à la préparation de son action indemnitaire, détenus exclusivement par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, ses dirigeants et le bailleur.
 
 Le requérant a, en amont de la présente requête, entrepris l'ensemble des démarches amiables à sa portée (déclarations et plaintes auprès des services de police, lettres recommandées à l'exploitant initialement identifié et à son bailleur, signalement auprès de la mairie de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** et échanges avec **[L'Adjoint au Maire de la Commune](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md)**), demeurées sans réponse satisfaisante et sans clarification effective de l'identité de l'exploitant et de son assureur, ce qui justifie à ce stade le recours aux mesures d'instruction sollicitées sur le fondement de l'article 145 du Code de procédure civile.
 
@@ -111,7 +111,7 @@ L'article L.124-3 du Code des assurances consacre le droit de la victime d'agir 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »*
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
-Ce droit est autonome et ne peut être paralysé par la carence du responsable à communiquer les coordonnées de son assureur. L'obstruction de **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** prive le requérant de son droit d'agir et constitue une entrave à ses droits les plus fondamentaux.
+Ce droit est autonome et ne peut être paralysé par la carence du responsable à communiquer les coordonnées de son assureur. L'obstruction de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** prive le requérant de son droit d'agir et constitue une entrave à ses droits les plus fondamentaux.
 
 ### III.3 — Sur l'urgence de la conservation des vidéos
 
@@ -124,11 +124,11 @@ Le bac à shampoing défectueux, pièce à conviction centrale, n'est plus prés
 
 ## IV — MESURES D'INSTRUCTION SOLLICITÉES
 
-### IV.1 — À la charge de **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**, de [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) et de **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**
+### IV.1 — À la charge de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, de [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et de **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**
 
 **1 — Communication du bail commercial et des états des lieux**
 
-Ordonner à **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** de communiquer :
+Ordonner à **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** de communiquer :
 
 1.1. Le bail commercial ou tout avenant liant la société au propriétaire des locaux, **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** ;
 
@@ -138,7 +138,7 @@ Ordonner à **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memo
 
 **2 — Communication des attestations d'assurance**
 
-Ordonner à **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** de communiquer l'intégralité de ses polices d'assurance de responsabilité civile professionnelle en vigueur au **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**, ou à défaut une attestation de l'assureur mentionnant :
+Ordonner à **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** de communiquer l'intégralité de ses polices d'assurance de responsabilité civile professionnelle en vigueur au **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**, ou à défaut une attestation de l'assureur mentionnant :
 
 2.1. La dénomination et l'adresse de la compagnie d'assurance ;
 
@@ -150,21 +150,21 @@ Ordonner à **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memo
 
 **3 — Conservation et communication des vidéosurveillance**
 
-Ordonner à **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** de conserver et de communiquer l'intégralité des enregistrements de vidéosurveillance du salon pour la période du 25 mai 2026 au 5 juin 2026.
+Ordonner à **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** de conserver et de communiquer l'intégralité des enregistrements de vidéosurveillance du salon pour la période du 25 mai 2026 au 5 juin 2026.
 
 **4 — Conservation du bac à shampoing et communication des documents de maintenance**
 
-Ordonner à **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** de conserver le bac à shampoing défectueux en l'état et de communiquer tout document relatif à son installation, sa maintenance ou ses réparations.
+Ordonner à **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** de conserver le bac à shampoing défectueux en l'état et de communiquer tout document relatif à son installation, sa maintenance ou ses réparations.
 
 **5 — Sur le statut et les liens contractuels de **[Le Préposé de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)****
 
-Ordonner à **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** de communiquer tout document établissant le lien contractuel existant au **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** entre elle et **[Le Préposé de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** (contrat de travail, contrat de location de fauteuil, contrat de prestation de services, convention de collaboration ou tout autre écrit), de manière à préciser s'il intervenait en qualité de salarié, de travailleur indépendant, de loueur de fauteuil ou à un autre titre, ainsi que, le cas échéant, les assurances de responsabilité civile souscrites à raison de cette activité.
+Ordonner à **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** de communiquer tout document établissant le lien contractuel existant au **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** entre elle et **[Le Préposé de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** (contrat de travail, contrat de location de fauteuil, contrat de prestation de services, convention de collaboration ou tout autre écrit), de manière à préciser s'il intervenait en qualité de salarié, de travailleur indépendant, de loueur de fauteuil ou à un autre titre, ainsi que, le cas échéant, les assurances de responsabilité civile souscrites à raison de cette activité.
 
 ### IV.2 — À la charge de **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** (bailleur)
 
 Ordonner à **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** de communiquer :
 
-6.1. Le bail commercial ou avenant liant **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** aux locaux ;
+6.1. Le bail commercial ou avenant liant **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** aux locaux ;
 
 6.2. L'attestation d'assurance de responsabilité civile du propriétaire pour l'immeuble concerné ;
 
@@ -197,13 +197,13 @@ Vu les pièces versées aux débats,
 
 **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** demande qu'il plaise à Monsieur le Président du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, statuant en référé, de :
 
-1. **ORDONNER** à **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** de communiquer le bail commercial, les états des lieux d'entrée et de sortie, et les attestations d'assurance de responsabilité civile professionnelle en vigueur au **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**, conformément au point IV.1 (1 et 2) ;
+1. **ORDONNER** à **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** de communiquer le bail commercial, les états des lieux d'entrée et de sortie, et les attestations d'assurance de responsabilité civile professionnelle en vigueur au **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**, conformément au point IV.1 (1 et 2) ;
 
-2. **ORDONNER** à **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** de conserver et de communiquer les enregistrements de vidéosurveillance pour la période du 25 mai au 5 juin 2026, conformément au point IV.1 (3) ;
+2. **ORDONNER** à **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** de conserver et de communiquer les enregistrements de vidéosurveillance pour la période du 25 mai au 5 juin 2026, conformément au point IV.1 (3) ;
 
-3. **ORDONNER** à **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** de conserver le bac à shampoing défectueux en l'état et de communiquer tout document de maintenance, conformément au point IV.1 (4) ;
+3. **ORDONNER** à **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** de conserver le bac à shampoing défectueux en l'état et de communiquer tout document de maintenance, conformément au point IV.1 (4) ;
 
-4. **ORDONNER** à **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** de communiquer tout document établissant le lien contractuel avec **[Le Préposé de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** au **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**, conformément au point IV.1 (5) ;
+4. **ORDONNER** à **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** de communiquer tout document établissant le lien contractuel avec **[Le Préposé de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** au **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**, conformément au point IV.1 (5) ;
 
 5. **ORDONNER** à **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** de communiquer le bail commercial, l'attestation d'assurance du propriétaire et l'état des lieux de sortie du 10 mars 2026, conformément au point IV.2 ;
 
@@ -215,7 +215,7 @@ Vu les pièces versées aux débats,
 
 8. **SE RÉSERVER** la liquidation de l'astreinte ;
 
-9. **CONDAMNER IN SOLIDUM** **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**, [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) et **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** à payer à **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** la somme de 1 500 € sur le fondement de l'article 700 du Code de procédure civile, ainsi qu'aux entiers dépens.
+9. **CONDAMNER IN SOLIDUM** **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** à payer à **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** la somme de 1 500 € sur le fondement de l'article 700 du Code de procédure civile, ainsi qu'aux entiers dépens.
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. »*
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
@@ -239,11 +239,11 @@ Fait à **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%8
 
 6. Preuve de paiement par virement Wero de 15,00 € à **[Le Préposé de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** (message « coif ») et remboursement ultérieur
 
-7. Attestation d'immatriculation RNE / DATA INPI de **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**
+7. Attestation d'immatriculation RNE / DATA INPI de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
 
-8. Avis de situation SIRENE de **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**
+8. Avis de situation SIRENE de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
 
-9. Liste des souscripteurs et certificat de dépôt de fonds de **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**
+9. Liste des souscripteurs et certificat de dépôt de fonds de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
 
 10. Courrier recommandé du **[J+31 Mises en demeure](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)** à **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (avec preuve d'envoi)
 

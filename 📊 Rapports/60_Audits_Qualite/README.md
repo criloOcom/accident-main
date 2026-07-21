@@ -56,6 +56,8 @@ Ce dossier contient les outils internes d'audit et de vérification. Destiné à
 
 - [`RAPPORT_ORGANISATION_DEPOT_2026-07-14.md`](RAPPORT_ORGANISATION_DEPOT_2026-07-14.md) — Organisation dépôt
 
+- [RAPPORT_AUDIT_GLOBAL_GEMINI](RAPPORT_AUDIT_GLOBAL_GEMINI.md)
+
 - [`audit/`](audit/) — Audits préexistants (juritext, faits canoniques, documentaire)
 
 ## Ordre de lecture

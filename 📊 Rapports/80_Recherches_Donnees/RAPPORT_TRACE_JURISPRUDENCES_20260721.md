@@ -112,6 +112,9 @@ Dossier : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/`
 ## Prochaines étapes recommandées
 
 1. **Génération Reel** : exécuter `.dev/app/generate_real_versions.py` pour les 2 nouveaux documents
+
 2. **Vérification JURITEXT** : valider les identifiants JURITEXT des 4 arrêts Cass. selon le protocole JURITEXT_PROTOCOL.md
+
 3. **README racine Lois** : mettre à jour le compteur de la section Jurisprudence
+
 4. **CHANGELOG_JURIDIQUE.md** : ajouter entrée pour cette session

@@ -34,6 +34,7 @@ La présente note a pour objet d'analyser les conditions, la prescription et la 
 Elle s'inscrit dans le cadre d'une procédure en deux temps :
 
 - **Phase 1** : Référé sur l'article 145 du Code de procédure civile pour obtenir l'identité de l'assureur, que le dirigeant refuse de communiquer (en cours — [**assignation en référé**](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux)).
+
 - **Phase 2** : Action directe en référé-provision (article 835 CPC) et/ou au fond contre l'assureur une fois identifié, pour obtenir l'indemnisation du préjudice corporel.
 
 Sont examinés : le fondement textuel, le régime de prescription, les conditions de mise en œuvre, le contentieux sur l'identité de l'assureur, l'articulation avec les mécanismes subsidiaires (FGAO, CIVI), les risques et limites, et la feuille de route procédurale.
@@ -60,15 +61,21 @@ L'article L.124-3 du Code des assurances constitue le socle juridique de l'actio
 
 Ce caractère autonome emporte des conséquences fondamentales :
 - L'action directe n'est pas affectée par les procédures collectives qui frapperaient l'assuré ;
+
 - L'assureur ne peut opposer à la victime les exceptions qu'il pourrait opposer à son assuré, sauf exceptions prévues par la loi ;
+
 - La prescription de l'action directe suit celle de l'action en responsabilité contre l'assuré, et non la prescription biennale du contrat d'assurance.
 
 **Textes connexes :**
 
 - **[Article L.113-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006791986)** — Exclusion des fautes intentionnelles et dolosives (limite à l'action directe).
+
 - **[Article L.113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)** — Obligation de déclaration du sinistre par l'assuré.
+
 - **[Article L.114-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044607740)** — Prescription biennale des actions dérivant du contrat d'assurance (inapplicable à la victime).
+
 - **[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006438827)** — Responsabilité du fait des choses (fondement de la responsabilité de l'ERP).
+
 - **[Article 835 CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)** — Référé-provision (voie procédurale pour obtenir une provision).
 
 <hr><hr>
@@ -100,6 +107,7 @@ Pour les dommages corporels, la prescription de l'action en responsabilité est 
 Il est impératif de ne pas confondre :
 
 - **L.114-1 C. assur.** (2 ans) : prescription des actions *contractuelles* entre l'assuré et l'assureur. Cette prescription n'est pas opposable à la victime.
+
 - **Prescription de l'action directe** : suit celle de l'action contre l'assuré (5 ou 10 ans selon le fondement).
 
 > *« L'action directe de la victime contre l'assureur est soumise à la prescription de droit commun de l'action en responsabilité contre l'assuré, et non à la prescription biennale de l'article L.114-1 du Code des assurances. »* <br>
@@ -129,7 +137,9 @@ Le droit d'action directe est un droit propre, qui n'est ni l'exercice par subro
 
 Conséquences :
 - La victime peut agir contre l'assureur sans avoir à poursuivre préalablement l'assuré ;
+
 - L'assureur ne peut opposer à la victime les exceptions personnelles qu'il pourrait opposer à l'assuré (notamment la nullité du contrat pour fausse déclaration, le non-paiement des primes, la déchéance pour déclaration tardive) ;
+
 - La victime n'a pas à démontrer la solvabilité de l'assuré.
 
 ### IV.3 — Responsabilité de l'assuré établie ou non sérieusement contestable
@@ -137,8 +147,11 @@ Conséquences :
 L'action directe suppose que la responsabilité de l'assuré soit engagée. Dans notre dossier :
 
 - **Responsabilité du fait des choses** (art. 1242 al.1er C. civ.) : la vasque en céramique, en tant que chose, a été l'instrument du dommage. La présomption de responsabilité pèse sur le gardien (la SAS exploitante).
+
 - **Obligation de sécurité de l'ERP** : l'établissement recevant du public est tenu d'une obligation de moyens renforcée en matière de sécurité ([**TJ Nanterre 2025, n°19/08999**](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Jurisprudence%20du%20fond%20(CA-TJ)/TJ%20Nanterre%2019-08999.md)).
+
 - **Défaut de surveillance et manquement du préposé** : le préposé qui a manipulé la vasque de manière imprégnante engage la responsabilité du commettant (art. 1242 al.5 C. civ.).
+
 - **Défaut d'entretien de l'équipement** ([**CA Toulouse 2013, n°11/03512**](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Jurisprudence%20du%20fond%20(CA-TJ)/CA%20Toulouse%2011-03512.md)).
 
 > *« L'exploitant d'un ERP est tenu d'une obligation de sécurité envers ses clients. Le défaut de signalisation, le mauvais entretien des lieux ou l'absence de dispositifs de prévention constituent des manquements engageant sa responsabilité. »* <br>
@@ -165,7 +178,9 @@ L'obstacle principal à l'exercice de l'action directe est l'absence d'identific
 Le motif légitime est caractérisé par trois éléments cumulatifs :
 
 1. **L'existence d'un litige potentiel** : l'action directe en indemnisation du préjudice corporel est un litige certain, dont le principe n'est pas contestable.
+
 2. **L'impossibilité d'accéder à l'information** : le dirigeant refuse de communiquer l'identité de l'assureur malgré les demandes amiables écrites.
+
 3. **L'utilité de la mesure** : seule la communication des contrats d'assurance permettra à [**La Victime**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) d'exercer son action directe.
 
 ### V.3 — Mesures sollicitées
@@ -173,14 +188,19 @@ Le motif légitime est caractérisé par trois éléments cumulatifs :
 L'assignation en référé demande :
 
 - La communication, **sous astreinte**, de l'intégralité des contrats d'assurance RC Pro souscrits par la SAS exploitante et en vigueur au 29 mai 2026 ;
+
 - La communication des coordonnées complètes de l'assureur (nom, adresse, numéro de police, références du gestionnaire de sinistres) ;
+
 - Subsidiairement, l'autorisation de rechercher l'assureur auprès de l'ORIAS (registre des intermédiaires d'assurance) ou du FGAO ;
+
 - La condamnation de la SAS aux dépens et à une indemnité au titre de l'article 700 CPC.
 
 ### V.4 — Risques et obstacles procéduraux
 
 - **Absence de comparution** : si [**Le Président de l'Exploitation**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) ne comparait pas, l'ordonnance sera rendue par défaut mais son exécution sera difficile.
+
 - **Opposition à la communication** : le dirigeant pourrait prétendre ne pas connaître l'assureur (défense peu crédible pour une société commerciale).
+
 - **Inexistence d'assurance** : si la SAS n'est pas assurée (ce qui constituerait une infraction pénale en soi — art. L.243-1 C. assur. pour certaines activités professionnelles), la procédure devra se rediriger vers le FGAO (voir section VI).
 
 <hr><hr>
@@ -218,8 +238,11 @@ Cependant, la Cour de cassation a posé un principe d'exclusivité des régimes 
 **Cependant, si la SAS n'est pas assurée :**
 
 - L'action directe est impossible (absence d'assureur) ;
+
 - Mais la responsabilité pénale de la SAS et de son dirigeant pour défaut d'assurance obligatoire peut être engagée ;
+
 - La CIVI pourrait alors être compétente pour les blessures involontaires (infraction pénale), sous réserve de remplir les conditions de l'article 706-3 CPP (préjudice corporel grave).
+
 - Par ailleurs, [**La Victime**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) pourrait se constituer partie civile dans le cadre d'une éventuelle procédure pénale.
 
 <hr><hr>
@@ -250,6 +273,7 @@ Le contrat d'assurance peut prévoir un plafond de garantie (limite quantitative
 Même si la prescription décennale de l'article 2226 C. civ. est le régime protecteur pour les dommages corporels, un débat pourrait naître sur le point de départ de la prescription :
 
 - **Si l'action est fondée contractuellement** (obligation de sécurité de l'ERP) : prescription **5 ans** à compter de la connaissance des faits (art. 2224 C. civ.).
+
 - **Si l'action est fondée délictuellement** (art. 1242 C. civ.) : prescription **10 ans** à compter de la consolidation (art. 2226 C. civ.).
 
 La distinction est importante pour la stratégie : il convient de cumuler les deux fondements pour bénéficier du délai le plus favorable.
@@ -259,8 +283,11 @@ La distinction est importante pour la stratégie : il convient de cumuler les de
 Si la SAS s'avère ne pas être assurée (hypothèse pessimiste mais envisageable au vu du comportement du dirigeant) :
 
 - L'action directe devient impossible ;
+
 - La responsabilité personnelle du dirigeant pour défaut d'assurance obligatoire peut être recherchée (art. L.243-1 C. assur.) ;
+
 - La CIVI peut être saisie (infraction de blessures involontaires) ;
+
 - Une action en responsabilité contre l'agent d'assurance ou le courtier peut être envisagée pour défaut de conseil et manquement à l'obligation de s'assurer que la société était couverte.
 
 ### VII.6 — Dissimulation d'actifs et fraude
@@ -268,7 +295,9 @@ Si la SAS s'avère ne pas être assurée (hypothèse pessimiste mais envisageabl
 Le comportement de [**Le Président de l'Exploitation**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) (dissimulation de l'assureur, changement d'exploitant apparent) pourrait relever de manœuvres frauduleuses tendant à organiser l'insolvabilité. Ces faits constituent :
 
 - Une violation de l'obligation de loyauté procédurale ;
+
 - Potentiellement une escroquerie au jugement (art. 313-1 CP) ;
+
 - Un abus de droit de ne pas communiquer les informations d'assurance.
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions — faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
@@ -318,18 +347,27 @@ Le comportement de [**Le Président de l'Exploitation**](../../../%F0%9F%A7%A0%2
 **Pour l'audience 145 CPC :**
 
 1. Démontrer le motif légitime : litige certain (préjudice corporel), information nécessaire à l'exercice de l'action directe, refus de communiquer.
+
 2. Souligner le caractère abusif de la rétention d'information.
+
 3. Solliciter une astreinte dissuasive (par jour de retard).
+
 4. Demander que l'ordonnance soit opposable à l'assureur dès son identification.
 
 **Pour le référé-provision (835 CPC) :**
 
 1. Invoquer l'action directe (L.124-3 C. assur.) — droit propre de la victime.
+
 2. Démontrer l'obligation non sérieusement contestable : accident certain, lien de causalité direct, responsabilité de l'assurée acquise.
+
 3. Écarter l'exception de prescription (arrêt 80-16.679 : prescription de l'action civile, pas la biennale).
+
 4. Écarter l'exclusion de garantie (L.113-1 — absence de faute dolosive).
+
 5. Écarter la déchéance pour déclaration tardive (inopposable à la victime).
+
 6. Présenter le préjudice : ITT de 55 jours, souffrances endurées, préjudice esthétique temporaire, incidence professionnelle (informaticien indépendant — cf. [**TJ Rennes 2026, n°20/05541**](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Jurisprudence%20du%20fond%20(CA-TJ)/TJ%20Rennes%2020-05541.md)), et post-consolidation à évaluer.
+
 7. Justifier le quantum de la provision (15 000 €) par référence aux barèmes et à la jurisprudence (cf. [**TJ Nanterre 2024, n°22/02447**](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Jurisprudence%20du%20fond%20(CA-TJ)/TJ%20Nanterre%2022-02447.md) — souffrances 5/7).
 
 <hr><hr>
@@ -340,19 +378,28 @@ L'action directe contre l'assureur de [**L'Exploitant du Commerce (La SAS)**](..
 
 **Points forts :**
 - Droit propre de la victime, autonome et non affecté par les procédures collectives ;
+
 - Prescription décennale (art. 2226 C. civ.) protectrice ;
+
 - Responsabilité de l'ERP acquise au regard de la jurisprudence ;
+
 - Absence d'exclusion de garantie opposable.
 
 **Points de vigilance :**
 - Identification de l'assureur : blocage actuel, en cours de levée par référé 145 CPC ;
+
 - Capacité financière de l'assurance (plafond de garantie à vérifier) ;
+
 - Risque d'absence d'assurance (hypothèse alternative : CIVI + action pénale).
 
 **Recommandations stratégiques :**
 
 1. Obtenir l'ordonnance sur requête/assignation 145 CPC dans les meilleurs délais ;
+
 2. En parallèle, consulter l'ORIAS pour identifier l'assureur déclaré ;
+
 3. Une fois l'assureur identifié, lui adresser une mise en demeure formelle (modèle disponible dans la [**Note Droit Assurances**](../%F0%9F%93%9C%20Note%20Droit%20Assurances.md)) ;
+
 4. En cas de silence ou refus, saisir le juge des référés pour obtenir une provision et une expertise médicale ;
+
 5. Si la SAS n'est pas assurée, engager sans délai une procédure pénale (blessures involontaires) et saisir la CIVI.

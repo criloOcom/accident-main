@@ -6,7 +6,7 @@ date: 2026-07-18
 calendar_event_id: "6let3i1ah4m2dqhlmlmb3u49h8"
 statut: envoye
 lrar_number: "87500152771696F"
-destinataire: Le Nouvel Exploitant (HB BARBER)
+destinataire: L'Exploitant du Commerce (La SAS)
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER Societe 📜Lettre.md
 ---
@@ -15,7 +15,7 @@ reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BA
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -28,7 +28,7 @@ Courriel : **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97
 
 SIREN : **[L'Identifiant Professionnel de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md)**
 
-Direction de [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
+Direction de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
 **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**
 
@@ -38,7 +38,7 @@ Objet : Déclaration d'accident corporel — Demande de communication des coordo
 
 Mode d’envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 
-Réf. : Dossier **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** / [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) — Sinistre du **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**
+Réf. : Dossier **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** / [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — Sinistre du **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**
 
 N° Recours Tiers CPAM : [**[N° [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md)
 
@@ -75,7 +75,7 @@ Exerçant une activité d’informaticien indépendant (SIREN **[L'Identifiant P
 
 Je tiens à m’excuser du délai écoulé avant de vous contacter.
 
-Votre société [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) étant de constitution très récente au moment des faits (début d’activité au 22 avril 2026 et immatriculation au Registre national des entreprises le 19 mai 2026, soit quelques jours seulement avant l’accident), les délais habituels de publication et d’indexation sur les registres officiels (RNE / INPI / SIRENE) ont rendu difficile, dans un premier temps, l’identification de l’exploitant réel des locaux au **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**.
+Votre société [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) étant de constitution très récente au moment des faits (début d’activité au 22 avril 2026 et immatriculation au Registre national des entreprises le 19 mai 2026, soit quelques jours seulement avant l’accident), les délais habituels de publication et d’indexation sur les registres officiels (RNE / INPI / SIRENE) ont rendu difficile, dans un premier temps, l’identification de l’exploitant réel des locaux au **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**.
 
 Ce n’est qu’après réception des informations officielles communiquées par le bailleur et vérification des données d'immatriculation que j’ai pu vous identifier clairement comme l'exploitant en titre des locaux au jour du sinistre.
 <hr><hr>
@@ -90,7 +90,7 @@ En France, lorsqu’un client est victime d’un accident dans un commerce, le r
 
 - coopérer de bonne foi avec ces organismes et, si nécessaire, avec la police ou la justice, en donnant des informations exactes sur les circonstances de l’accident.
 
-Dans mon cas, malgré la gravité des blessures, la prise en charge en urgence à Foix puis l’intervention chirurgicale spécialisée sur la main, je n’ai reçu à ce jour aucune information de la part de la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) sur votre assureur ni sur les déclarations qui auraient été faites, ce qui bloque le travail des assurances et complique inutilement une situation déjà très difficile pour moi.
+Dans mon cas, malgré la gravité des blessures, la prise en charge en urgence à Foix puis l’intervention chirurgicale spécialisée sur la main, je n’ai reçu à ce jour aucune information de la part de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) sur votre assureur ni sur les déclarations qui auraient été faites, ce qui bloque le travail des assurances et complique inutilement une situation déjà très difficile pour moi.
 
 Lors de ma venue à Foix le 16 juillet 2026, pour essayer d’obtenir calmement ces informations directement sur place, j’ai été confronté à une situation très déroutante :
 

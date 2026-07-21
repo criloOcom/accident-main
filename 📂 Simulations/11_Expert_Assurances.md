@@ -14,9 +14,9 @@ date: 2026-07-14
 
 <hr><hr>
 
-## 1. Contexte et couverture RC de la SAS LES MAUVAIS GARÇONS
+## 1. Contexte et couverture RC de l'exploitant
 
-Le présent rapport analyse la couverture en responsabilité civile (RC) de la SAS LES MAUVAIS GARÇONS à la suite de l'accident corporel survenu le 29 mai 2026. L'exploitant, immatriculé sous le numéro SIREN 938033222 (code NAF 96.02A — Coiffure), est situé au 22 Rue Lafaurie, 09000 Foix.
+Le présent rapport analyse la couverture en responsabilité civile (RC) de l'exploitant du salon de coiffure à la suite de l'accident corporel survenu le 29 mai 2026. Au jour du sinistre, l'exploitation était assurée par la SAS HB BARBER (SIREN 104 103 262, capital 1 000 €), sise au 22 Rue Lafaurie, 09000 Foix, ayant repris l'activité le 22 avril 2026 en lieu et place de la précédente société LES MAUVAIS GARÇONS (SIREN 938033222, capital 200 €, ayant cessé au local le 10/03/2026).
 
 Les constats amiables et les démarches précontentieuses (notamment la mise en demeure du 29/06/2026 et l'assignation en référé) confirment l'absence d'attestation d'assurance RC professionnelle fournie par la société. L'enquête démontre qu'aucune assurance responsabilité civile exploitation n'a été souscrite.
 
@@ -30,7 +30,7 @@ Il convient de relever une inexactitude dans l'hypothèse soulevée concernant l
 
 L'article L. 530-1 du Code des assurances impose une obligation de garantie financière et d'assurance de responsabilité civile professionnelle *exclusivement aux intermédiaires en assurance et en réassurance* (courtiers, agents généraux).
 
-L'activité de la SAS LES MAUVAIS GARÇONS (salon de coiffure, NAF 96.02A) n'étant pas une activité d'intermédiation financière ou d'assurance, cette obligation légale ne lui est pas applicable. De fait, aucune recherche au registre de l'ORIAS n'est pertinente ni juridiquement fondée. La société n'est tenue qu'à une obligation générale de prudence et de réparation des dommages causés aux tiers en vertu de sa responsabilité civile délictuelle (Art. 1242 al. 1 du Code civil).
+L'activité de la SAS HB BARBER (salon de coiffure, NAF 96.02A) n'étant pas une activité d'intermédiation financière ou d'assurance, cette obligation légale ne lui est pas applicable. De fait, aucune recherche au registre de l'ORIAS n'est pertinente ni juridiquement fondée. La société n'est tenue qu'à une obligation générale de prudence et de réparation des dommages causés aux tiers en vertu de sa responsabilité civile délictuelle (Art. 1242 al. 1 du Code civil).
 
 <hr><hr>
 
@@ -38,7 +38,7 @@ L'activité de la SAS LES MAUVAIS GARÇONS (salon de coiffure, NAF 96.02A) n'ét
 
 L'article L. 124-3 du Code des assurances dispose que le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable.
 
-Dans le cas présent, l'action directe contre l'assureur constitue la voie royale pour esquiver l'insolvabilité probable de la SAS (capital social de 200 €). Cependant, en l'absence persistante d'identification de la compagnie d'assurance garantissant l'exploitation (défaut d'assurance avéré), l'exercice de l'action directe est matériellement et juridiquement entravé. La procédure de référé engagée vise notamment à contraindre l'exploitant à communiquer l'identité de son assureur sous astreinte.
+Dans le cas présent, l'action directe contre l'assureur constitue la voie royale pour esquiver l'insolvabilité probable de la SAS (capital social de 1 000 €). Cependant, en l'absence persistante d'identification de la compagnie d'assurance garantissant l'exploitation (défaut d'assurance avéré), l'exercice de l'action directe est matériellement et juridiquement entravé. La procédure de référé engagée vise notamment à contraindre l'exploitant à communiquer l'identité de son assureur sous astreinte.
 
 <hr><hr>
 

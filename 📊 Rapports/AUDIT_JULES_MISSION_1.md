@@ -5,8 +5,11 @@ Vérifier qu'aucune autre date que le **vendredi 29 mai 2026** n'est mentionnée
 
 ## Méthodologie
 - Scan complet de l'ensemble des fichiers `.md` dans le répertoire `⚖️ Actes/` et autres répertoires clés du dépôt.
+
 - Recherche de correspondances contextuelles autour des mots clés liés à l'accident (`accident`, `survenu`, `sinistre`, `blessures`, etc.).
+
 - Exclusion des dates procédurales valides (ex. : `30 mai 2026` pour la chirurgie, `2 juin 2026` pour la première plainte, `29 juin 2026` pour les envois de LRAR, etc.).
+
 - Analyse systématique des occurrences reportées par les rapports de santé précédents (`HEALTH_REPORT`).
 
 ---
@@ -18,12 +21,19 @@ Suite à l'audit, plusieurs erreurs matérielles (mentionnant une date erronée 
 ### Confusion avec le 29 juin 2026
 Ces fichiers mentionnent par erreur `29 juin 2026` (date d'envoi des LRAR) comme étant la date de l'accident :
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/📚 Analyses juridiques/📜 Note Synthese Avocat Bascule HB BARBER.md` : l. 72 — Date accident erronée : '29 juin 2026' (réel : 29 mai 2026).
+
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Commissariat Foix Plainte Complementaire ⚖️Contentieux.md` : l. 72, 209 — Date accident erronée : '29 juin 2026'.
+
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Proprietaire 📜Lettre Relance 3.md` : l. 44 — Date accident erronée : '29 juin 2026'.
+
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md` : l. 84 — Date accident erronée : '29 juin 2026'.
+
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire Foix.md` : l. 66 — Date accident erronée : '29 juin 2026'.
+
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Note Personnelle Commissariat Foix.md` : l. 126 — Date accident erronée : '29 juin 2026'.
+
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md` : l. 51, 99 — Date accident erronée : '29 juin 2026'.
+
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/MEMO_AUDIENCE_31072026.md` : l. 79 — Date accident erronée : '29 juin 2026'.
 
 *(Note : Ces mêmes erreurs se répercutent logiquement dans les versions `👤 Reel` générées correspondantes.)*
@@ -31,7 +41,9 @@ Ces fichiers mentionnent par erreur `29 juin 2026` (date d'envoi des LRAR) comme
 ### Confusion avec le 19 mai 2026
 Ces fichiers mentionnent par erreur `19 mai 2026` (date d'immatriculation) comme étant la date de l'accident :
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER DG 📜Lettre.md` : l. 54 — Date accident erronée : '19 mai 2026' (réel : 29 mai 2026).
+
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER President 📜Lettre.md` : l. 54 — Date accident erronée : '19 mai 2026' (réel : 29 mai 2026).
+
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER Societe 📜Lettre.md` : l. 78 — Date accident erronée : '19 mai 2026' (réel : 29 mai 2026).
 
 ---
@@ -39,9 +51,13 @@ Ces fichiers mentionnent par erreur `19 mai 2026` (date d'immatriculation) comme
 ## ✅ Éléments vérifiés et conformes
 Les dates suivantes, bien que proches, sont **correctement** utilisées dans leur contexte et ne constituent pas des erreurs :
 - **19 mai 2026** : Correspond correctement à l'immatriculation au RNE de la nouvelle société.
+
 - **30 mai 2026** : Correspond correctement à la date de l'intervention chirurgicale en urgence.
+
 - **31 mai 2026** : Correspond correctement à la date de rédaction du compte-rendu opératoire.
+
 - **1er juin / 2 juin 2026** : Correspond correctement à la date des premiers certificats médicaux et de la première plainte pénale.
+
 - **29 juin 2026** : Correspond correctement à la date d'envoi des premières lettres de mise en demeure (LRAR).
 
 ## 🛠️ Actions recommandées

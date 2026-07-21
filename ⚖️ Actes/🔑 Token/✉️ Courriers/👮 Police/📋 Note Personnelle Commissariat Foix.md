@@ -13,7 +13,7 @@ reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/📋 Note Personnelle
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](./📜%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](./📜%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -154,25 +154,25 @@ J'envoie plusieurs lettres recommandées avec accusé de réception :
 Le salon reste **fermé** pendant plusieurs semaines après l'accident. Aucune information sur l'assurance n'est obtenue.
 <hr><hr>
 
-## 3. DÉCOUVERTE DE [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) — ÉLÉMENTS NOUVEAUX
+## 3. DÉCOUVERTE DE [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — ÉLÉMENTS NOUVEAUX
 
 ### Mi-juillet 2026 — Recherche par adresse
 
 En effectuant des recherches par l'adresse exacte **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** sur les registres publics (DATA INPI / RNE), je découvre l'existence d'une société que je ne connaissais pas lors de ma première plainte :
 
-### Identité de [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) (SAS)
+### Identité de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SAS)
 
 | Champ | Valeur |
 |-------|--------|
-| **Dénomination** | [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) |
+| **Dénomination** | [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) |
 | **Forme juridique** | SAS |
-| **SIREN** | [**[SIREN du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md) |
+| **SIREN** | [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) |
 | **Date d'immatriculation RNE** | 19 mai 2026 |
 | **Début d'activité** | **22 avril 2026** |
 | **Adresse** | 22 GRANDE RUE LA FAURIE, 09000 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** |
 | **Activité** | Coiffure / barbier (APE 9602A) |
-| **Capital** | [**[Capital du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-capital-social.md) |
-| **Président** | [**[Le Président du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) (né 07/1998, Saint-Girons) |
+| **Capital** | [**[Capital Social de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) |
+| **Président** | [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) (né 07/1998, Saint-Girons) |
 | **Directrice générale** | **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** (née 04/1970, Baillargues) |
 | **Publication légale** | La Dépêche, 23 avril 2026 |
 
@@ -183,10 +183,10 @@ En effectuant des recherches par l'adresse exacte **[L'Adresse de l'Exploitation
 | Date | Événement |
 |------|-----------|
 | **10 mars 2026** | Cessation d'activité annoncée de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (état des lieux de sortie signé par son représentant — source : bailleur) |
-| **22 avril 2026** | Début d'activité de [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) au 22 Grande Rue La Faurie, **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** |
-| **19 mai 2026** | Immatriculation RNE de [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) |
+| **22 avril 2026** | Début d'activité de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) au 22 Grande Rue La Faurie, **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** |
+| **19 mai 2026** | Immatriculation RNE de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) |
 | **29 mai 2026** | **Mon accident** dans ce même local |
-| **2 juin 2026** | Ma plainte initiale (visant **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, faute d'information sur [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)) |
+| **2 juin 2026** | Ma plainte initiale (visant **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, faute d'information sur [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)) |
 
 ### 16 juillet 2026 — Courriel du bailleur **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)**
 
@@ -229,7 +229,7 @@ Le **16 juillet 2026**, je me rends physiquement au **22 rue Lafaurie, 09000 [La
 
 ### Constatations visuelles
 
-1. **Enseigne :** Une pancarte / encart sur la **vitrine** indique désormais l'enseigne **« [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) »**
+1. **Enseigne :** Une pancarte / encart sur la **vitrine** indique désormais l'enseigne **« [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) »**
 
 2. **À l'intérieur :**
 
@@ -241,7 +241,7 @@ Le **16 juillet 2026**, je me rends physiquement au **22 rue Lafaurie, 09000 [La
 
 ### Échange avec la personne sur place
 
-Une personne se présentant comme l'exploitant est présente. D'après les informations publiques (DATA INPI), il s'agit très probablement de [**[Le Président du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md), président de la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md).
+Une personne se présentant comme l'exploitant est présente. D'après les informations publiques (DATA INPI), il s'agit très probablement de [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md), président de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 
 Cette personne a :
 - **Refusé** de me coiffer
@@ -268,16 +268,16 @@ La fermeture prolongée du salon après l'accident, combinée au remplacement co
 
 ### A. Correction de l'identité de la société exploitante
 
-Je demande que la société **[Le Nouvel Exploitant (HB BARBER)] (SAS)** — SIREN [**[SIREN du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md) — soit formellement reconnue dans la procédure comme la **société exploitant effectivement les lieux au 29 mai 2026**, en remplacement de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** que j'avais initialement désignée par erreur, faute d'information disponible.
+Je demande que la société **[L'Exploitant du Commerce (La SAS)] (SAS)** — SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md) — soit formellement reconnue dans la procédure comme la **société exploitant effectivement les lieux au 29 mai 2026**, en remplacement de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** que j'avais initialement désignée par erreur, faute d'information disponible.
 
-Je verse au dossier un **erratum formel** (pièce n°4) qui détaille les circonstances de cette erreur, la chronologie de la découverte de [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), et la liste complète des actes concernés par cette correction.
+Je verse au dossier un **erratum formel** (pièce n°4) qui détaille les circonstances de cette erreur, la chronologie de la découverte de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), et la liste complète des actes concernés par cette correction.
 
 ### B. Exploitation des nouvelles pièces
 
 Je verse au dossier :
 1. **Pièce n°1 :** Courriel du bailleur **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** du 16 juillet 2026 (avec ses 3 pièces jointes)
 
-2. **Pièce n°2 :** Attestation RNE [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) (DATA INPI — SIREN [**[SIREN du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md))
+2. **Pièce n°2 :** Attestation RNE [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (DATA INPI — SIREN [**[SIREN de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md))
 
 3. **Pièce n°3 :** Note de constatations du 16 juillet 2026 (visite des lieux)
 
@@ -285,26 +285,26 @@ Je verse au dossier :
 
 ### C. Demandes d'actes d'enquête
 
-Je concentre mes demandes sur la seule société [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) .
+Je concentre mes demandes sur la seule société [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) .
 
 Je sollicite respectueusement :
 
 1. **L'audition des personnes suivantes :**
 
   - **[Le Préposé de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** — coiffeur présent le jour des faits, identifié par le virement Wero
-  - [**[Le Président du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) — président de la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
-  - **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** — directrice générale de la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
+  - [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) — président de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
+  - **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** — directrice générale de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
   - **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** — bailleur, sur les baux et les assurances
 
 2. **Des réquisitions pour obtenir :**
 
-  - Le **bail commercial** du 22 rue Lafaurie pour [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
+  - Le **bail commercial** du 22 rue Lafaurie pour [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
   - Les **attestations d'assurance** responsabilité civile professionnelle
   - Les **enregistrements de vidéosurveillance** éventuellement encore disponibles
 
 3. **La vérification :**
 
-  - De la **réalité de l'exploitation** par [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) au 29 mai 2026
+  - De la **réalité de l'exploitation** par [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) au 29 mai 2026
   - De l'existence d'une **assurance RC pro** pour la période
 <hr><hr>
 

@@ -1,6 +1,6 @@
 ---
-title: "Mémoire en défense adverse — SAS SAS LES MAUVAIS GARCONS"
-description: "Pour :** SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER et Catherine SORROCHE, dite ANDISSAC (Partie Défenderesse)"
+title: "Mémoire en défense adverse — SAS SAS HB BARBER"
+description: "Pour :** SAS HB BARBER, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC (Partie Défenderesse)"
 type: analyse_juridique
 date: 2026-07-09
 tags:
@@ -18,7 +18,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/99 🛡️ Memoire en defens
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 

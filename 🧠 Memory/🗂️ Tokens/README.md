@@ -1,6 +1,6 @@
 ---
 title: "🗂️ Tokens — Fiches individuelles des tokens d'anonymisation"
-description: "88 fiches enrichies (66 identité + 17 financiers + 5 HB BARBER), une par token. Chaque fiche détaille l'identité, le contexte, la chronologie et les documents liés au token."
+description: "83 fiches enrichies (66 identité + 17 financiers), une par token. Chaque fiche détaille l'identité, le contexte, la chronologie et les documents liés au token."
 type: readme
 ---
 <!-- Breadcrumb -->
@@ -10,7 +10,7 @@ type: readme
 
 # 🗂️ Tokens<br>Fiches individuelles
 
-Ce dossier contient **88 fiches individuelles** (66 identité + 17 financiers + 5 HB BARBER). Les fiches identité sont listées dans la `[TOKEN MAP.md](../TOKEN%20MAP.md)` ; les fiches financières sont documentées ci-dessous.
+Ce dossier contient **83 fiches individuelles** (66 identité + 17 financiers). Les fiches identité sont listées dans la `[TOKEN MAP.md](../TOKEN%20MAP.md)` ; les fiches financières sont documentées ci-dessous.
 
 Chaque fiche regroupe :
 - **Identité** : le token et la valeur réelle substituée
@@ -29,7 +29,6 @@ Chaque fiche regroupe :
 |---|---|---|
 | `**[La Victime]**` | [token-victime-nom-complet.md](token-victime-nom-complet.md) |
 | `**[Le Président de l'Exploitation]**` | [token-exploitation-president-nom.md](token-exploitation-president-nom.md) |
-| `**[Le Président du Nouvel Exploitant]**` | [token-exploitation-hb-president-nom.md](token-exploitation-hb-president-nom.md) |
 | `**[La Directrice Générale de l'Exploitation]**` | [token-exploitation-dg-nom.md](token-exploitation-dg-nom.md) |
 | `**[Le Préposé de l'Exploitation]**` | [token-exploitation-prepose-nom.md](token-exploitation-prepose-nom.md) |
 | `**[Le Propriétaire des Murs]**` | [token-exploitation-bailleur-nom.md](token-exploitation-bailleur-nom.md) |
@@ -47,7 +46,6 @@ Chaque fiche regroupe :
 | Token | Fichier |
 |---|---|---|
 | `**[L'Exploitant du Commerce (La SAS)]**` | [token-exploitation-raison-sociale.md](token-exploitation-raison-sociale.md) |
-| `**[Le Nouvel Exploitant (HB BARBER)]**` | [token-exploitation-hb-raison-sociale.md](token-exploitation-hb-raison-sociale.md) |
 | `**[Assureur RC]**` | [token-assureur-rc.md](token-assureur-rc.md) |
 | `**[L'Établissement SOS Main]**` | [token-hopital-sosmain-nom.md](token-hopital-sosmain-nom.md) |
 
@@ -70,8 +68,6 @@ Chaque fiche regroupe :
 | `**[L'Identifiant Professionnel de la Victime]**` | [token-victime-id-professionnel.md](token-victime-id-professionnel.md) |
 | `**[L'Identifiant de l'Exploitation]**` | [token-exploitation-id.md](token-exploitation-id.md) |
 | `**[SIREN de l'Exploitation]**` | [token-exploitation-siren.md](token-exploitation-siren.md) |
-| `**[SIREN du Nouvel Exploitant]**` | [token-exploitation-hb-siren.md](token-exploitation-hb-siren.md) |
-| `**[Identifiant du Nouvel Exploitant]**` | [token-exploitation-hb-id.md](token-exploitation-hb-id.md) |
 | `**[SIRET de l'Exploitation]**` | [token-exploitation-siret.md](token-exploitation-siret.md) |
 | `**[Nom commercial de l'exploitation]**` | [token-exploitation-nom-commercial.md](token-exploitation-nom-commercial.md) |
 | `N° Dossier CPAM` | [token-cpam-dossier-numero.md](token-cpam-dossier-numero.md) |
@@ -147,8 +143,7 @@ Chaque fiche regroupe :
 | `**[Finance Prestation Salon]**` | [token-finance-prestation-salon.md](token-finance-prestation-salon.md) | 15,00 € |
 | `**[N° Transaction Wero]**` | [token-finance-transaction-wero.md](token-finance-transaction-wero.md) | IPR000297029234 |
 | `**[Finance Evaluation Initiale]**` | [token-finance-evaluation-initiale.md](token-finance-evaluation-initiale.md) | 59 600 € |
-| `**[Capital du Nouvel Exploitant]**` | [token-exploitation-hb-capital-social.md](token-exploitation-hb-capital-social.md) | 1 000 € |
-| `**[Capital Social de l'Exploitation]**` | [token-exploitation-capital-social.md](token-exploitation-capital-social.md) | 200 € |
+| `**[Capital Social de l'Exploitation]**` | [token-exploitation-capital-social.md](token-exploitation-capital-social.md) | 1 000 € |
 
 ---
 

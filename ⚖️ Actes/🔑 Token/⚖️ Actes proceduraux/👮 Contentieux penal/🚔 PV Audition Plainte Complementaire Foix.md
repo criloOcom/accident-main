@@ -1,7 +1,7 @@
 ---
 title: PV Audition Plainte Complémentaire — Blessures Involontaires et Entrave
 description: Procès-verbal d'audition de **[La Victime]** au Commissariat de **[La Ville de l'Accident]** pour le dépôt de sa plainte complémentaire, signalant des
-  faits d'obstruction à la justice et de dissimulation de preuves par **Le Nouvel Exploitant (HB BARBER)**.
+  faits d'obstruction à la justice et de dissimulation de preuves par **[L'Exploitant du Commerce (La SAS)]**.
 type: document
 date: 2026-07-15
 tags:
@@ -53,12 +53,12 @@ Demeurant au **[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9
 Profession : Informaticien indépendant (SIREN : **[L'Identifiant Professionnel de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md)**).
 Contact : **[Le Téléphone de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)** / **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**.
 
-Lequel, après avoir été informé de ses droits conformément à l'article 10-2 du Code de procédure pénale, nous déclare vouloir déposer une plainte complémentaire à sa plainte initiale déposée le 02/06/2026 (référence [PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) à l'encontre de la société [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) et de ses dirigeants.
+Lequel, après avoir été informé de ses droits conformément à l'article 10-2 du Code de procédure pénale, nous déclare vouloir déposer une plainte complémentaire à sa plainte initiale déposée le 02/06/2026 (référence [PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) à l'encontre de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants.
 <hr><hr>
 
 ## II — DÉCLARATIONS DU PLAIGNANT
 
-« Je me présente aujourd'hui devant vous pour compléter ma plainte initiale du 2 juin dernier. Pour rappel, j'ai été victime d'un accident grave le 29 mai 2026 au sein du salon de coiffure exploité par la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) sis au **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**. Un équipement lourd, un bac à shampoing défectueux avec une vasque cassée, m'est tombé dessus, causant une plaie profonde à ma main droite.
+« Je me présente aujourd'hui devant vous pour compléter ma plainte initiale du 2 juin dernier. Pour rappel, j'ai été victime d'un accident grave le 29 mai 2026 au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) sis au **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**. Un équipement lourd, un bac à shampoing défectueux avec une vasque cassée, m'est tombé dessus, causant une plaie profonde à ma main droite.
 
 Depuis ce dépôt de plainte, j'ai entrepris plusieurs démarches amiables qui se sont heurtées à ce qui me semble être une obstruction délibérée de la part des dirigeants de la société, et c'est la raison de ma présence aujourd'hui. Je souhaite dénoncer des faits qui s'apparentent, selon moi, à une entrave à la manifestation de la vérité et à une dissimulation de preuves.
 
@@ -78,7 +78,7 @@ Je vous demande solennellement d'acter ma plainte complémentaire et, dans la me
 Sur ce, le déclarant nous remet les documents suivants, qui sont cotés, paraphés et annexés à la présente procédure :
 1. Une plainte rédigée de [X] pages, signée par le déclarant.
 
-2. Copie des LRAR adressées à [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) et retournées NPAI.
+2. Copie des LRAR adressées à [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et retournées NPAI.
 
 3. Copie de la demande de conservation des vidéos.
 

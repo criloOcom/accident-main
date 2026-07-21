@@ -19,7 +19,7 @@ jx: J+60
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -115,7 +115,7 @@ En l'espèce, plusieurs éléments laissent présumer une telle faute détachabl
 
 - le refus persistant de produire un justificatif d'assurance ou, à tout le moins, de confirmer l'existence d'une police couvrant l'activité, alors même que la société reçoit du public pour des prestations comportant un risque corporel évident ;
 
-- la sous-capitalisation manifeste de la SAS ([200 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) de capital social), structurellement inapte à indemniser un dommage corporel grave sans assurance effective, combinée au jeu de sociétés successives sur le même fonds.
+- la sous-capitalisation manifeste de la SAS ([1 000 €](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md) de capital social), structurellement inapte à indemniser un dommage corporel grave sans assurance effective, combinée au jeu de sociétés successives sur le même fonds.
 
 Le défaut délibéré de souscription d'une assurance légalement obligatoire, ou la dissimulation volontaire de cette assurance, entravant l'action directe de la victime, constitue typiquement une faute intentionnelle d'une particulière gravité et peut être regardé comme une application du principe jurisprudentiel de faute détachable.
 

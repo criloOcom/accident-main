@@ -1481,13 +1481,17 @@ Auditer et corriger l'ensemble des fichiers token du dossier `👮 Police/` dans
 
 #### OP5 — Correction dates FIXME
 - `Guide Orale.md` : `FIXME` → `2026-07-20`
+
 - `token-pv-police-numero.md` : `FIXME` → `2026-07-11`
 
 #### OP6 — Renommage miroir Token↔Reel
 - Token : `Police Plainte Complementaire ⚖️Contentieux` → `Commissariat Foix Plainte Complementaire ⚖️Contentieux` (aligné sur le nom Reel)
+
 - Reel : doublon défectueux (`Police Plainte Complementaire` avec tokens résiduels) supprimé
+
 - Breadcrumbs + READMEs mis à jour
 
 ### Post-traitement
 - `generate_real_versions.py` : 128 fichiers Reel regénérés ✅
+
 - `check_consistency.py` : tout cohérent, 0 erreur ✅

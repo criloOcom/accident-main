@@ -11,7 +11,7 @@ REPLACEMENTS = [
     ("31700 Blagnac", "[L'Adresse de la Victime]"),
     ("22 Rue Lafaurie, 09000 Foix", "[L'Adresse de l'Exploitation]"),
     ("22 Rue Lafaurie", "[L'Adresse de l'Exploitation]"),
-    ("108 Avenue Paul Bert, 09000 Foix", "[L'Adresse du Président]"),
+    ("115 avenue Fernand Loubet, 09200 Saint-Girons", "[L'Adresse du Président]"),
     ("14 Boulevard du Sud \u2014 BP 50078", ""),  # court address
     ("09008 Foix Cedex", ""),
     ("Foix Cedex", ""),
@@ -31,27 +31,16 @@ REPLACEMENTS = [
     ("SIREN 500 474 457", "[L'Identifiant Professionnel de la Victime]"),
     ("500 474 457", "[L'Identifiant Professionnel de la Victime]"),
 
-    # --- Salon / Company (LMG — ancien exploitant) ---
-    ("La SAS LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
-    ("SAS LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
-    ("SAS LES MAUVAIS GARÇONS", "[L'Exploitant du Commerce (La SAS)]"),
-    ("LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
-    ("LES MAUVAIS GARÇONS", "[L'Exploitant du Commerce (La SAS)]"),
-    ("la SAS LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
+    # --- Admin / Civil status (LMG — ancien exploitant, conservé en clair pour narration historique, Cas A) ---
 
-    # --- Salon / Company (HB BARBER — nouvel exploitant) ---
-    # NOTE: "HB BARBER" AVANT "SAS HB BARBER" pour éviter le double-wrap
-    # (le token contient "HB BARBER" en sous-chaîne)
-    ("HB BARBER", "[Le Nouvel Exploitant (HB BARBER)]"),
-    ("SAS HB BARBER", "[Le Nouvel Exploitant (HB BARBER)]"),
-
-    # --- Company identifier (LMG) ---
-    ("938 033 222 00010", "[L'Identifiant de l'Exploitation]"),
+    # --- Salon / Company (HB BARBER — exploitant réel au 29/05/2026) ---
+    ("HB BARBER", "[L'Exploitant du Commerce (La SAS)]"),
+    ("SAS HB BARBER", "[L'Exploitant du Commerce (La SAS)]"),
 
     # --- Company identifier (HB BARBER) ---
-    ("104 103 262 00010", "[Identifiant du Nouvel Exploitant]"),
+    ("104 103 262 00010", "[L'Identifiant de l'Exploitation]"),
 
-    # --- Directors / Officers (LMG) ---
+    # --- Directors / Officers (HB BARBER) ---
     ("Madame Catherine ANDISSAC (née SORROCHE)", "[La Directrice Générale de l'Exploitation]"),
     ("Catherine ANDISSAC", "[La Directrice Générale de l'Exploitation]"),
     ("Catherine Andissac", "[La Directrice Générale de l'Exploitation]"),
@@ -60,17 +49,8 @@ REPLACEMENTS = [
     ("ANDISSAC", "[La Directrice Générale de l'Exploitation]"),
     ("Andissac", "[La Directrice Générale de l'Exploitation]"),
     ("SORROCHE", "[La Directrice Générale de l'Exploitation]"),
-    ("Monsieur Mountasser SABIR", "[Le Président de l'Exploitation]"),
-    ("Mountasser SABIR", "[Le Président de l'Exploitation]"),
-    ("Mountasser Sabir", "[Le Président de l'Exploitation]"),
-    ("Monsieur SABIR", "[Le Président de l'Exploitation]"),
-    ("SABIR", "[Le Président de l'Exploitation]"),
-    ("Sabir", "[Le Président de l'Exploitation]"),
-    ("Sabir MOUNTASSER", "[Le Président de l'Exploitation]"),
-    ("Sabir Mountasser", "[Le Président de l'Exploitation]"),
-    ("Monsieur Sabir MOUNTASSER", "[Le Président de l'Exploitation]"),
-    ("MOUNTASSER", "[Le Président de l'Exploitation]"),
-    ("Mountasser", "[Le Président de l'Exploitation]"),
+    ("Hamza El Hachemi BERGUIGA", "[Le Président de l'Exploitation]"),
+    ("BERGUIGA", "[Le Président de l'Exploitation]"),
 
     # --- Mairie contacts ---
     ("Bernard TAVELLA", "[L'Adjoint au Maire de la Commune]"),
@@ -137,11 +117,9 @@ REPLACEMENTS = [
     ("Romain DELRIEU", "[Le Propriétaire des Murs]"),
     ("Romain Delrieu", "[Le Propriétaire des Murs]"),
 
-    # --- Directors / Officers (HB BARBER — nouvel exploitant) ---
-    ("Hamza El Hachemi BERGUIGA", "[Le Président du Nouvel Exploitant]"),
-    ("BERGUIGA", "[Le Président du Nouvel Exploitant]"),
-    ("104 103 262", "[SIREN du Nouvel Exploitant]"),
-    ("1 000 €", "[Capital du Nouvel Exploitant]"),
+    # --- Directors / Officers (HB BARBER — exploitant réel) ---
+    ("104 103 262", "[SIREN de l'Exploitation]"),
+    ("1 000 €", "[Capital Social de l'Exploitation]"),
 
     # --- Cities ---
     ("FOIX", "[La Ville de l'Accident]"),
@@ -162,7 +140,7 @@ REPLACEMENTS = [
     # --- Identity tokens (Prénom, Âge, Date naissance) ---
     ("18 janvier 1982", "**[Date de naissance de la victime]**"),
     ("44 ans", "**[Âge de la Victime]**"),
-    ("200 €", "**[Capital Social de l'Exploitation]**"),
+    # "200 €" conservé en clair (capital ancien exploitant LMG — Cas A narration historique)
     ("09000", "**[Code Postal de l'Accident]**"),
     ("Sébastien", "**[Prénom de la Victime]**"),  # NB: risque faux positif si autre Sébastien dans un doc
 
@@ -201,9 +179,8 @@ def anonymize_text(text):
     # Skip si déjà entouré de ** (évite le double-wrap).
     text = re.sub(r'(?<!\*)(?<!\[)(\[[^\]\s][^\]]*\])(?!\])(?!\*)', r'**\1**', text)
 
-    # Fix nested token replacements (HB BARBER inside its own token name)
-    text = text.replace('[Le Nouvel Exploitant ([Le Nouvel Exploitant (HB BARBER)])]', '[Le Nouvel Exploitant (HB BARBER)]')
-    text = text.replace('[Le Nouvel Exploitant ([Le Nouvel Exploitant (HB BARBER)]]', '[Le Nouvel Exploitant (HB BARBER)]')
+    # Fix nested token replacement (HB BARBER" inside its own token name)
+    text = text.replace('[L\'Exploitant du Commerce (La SAS) ([L\'Exploitant du Commerce (La SAS)])]', "[L'Exploitant du Commerce (La SAS)]")
 
     return text
 
