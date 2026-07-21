@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `📊 Rapports/RAPPORT_AUDIT_HB_BARBER_2026-07-18.md` analysant la **cohérence de l'ensemble du dossier avec les découvertes du 16 juillet 2026** (visite des lieux, découverte enseigne HB BARBER, échange avec un individu se présentant comme dirigeant qui n'a pas coopéré et n'a donné aucune info assurance).
+Produis un rapport `Rapports/RAPPORT_AUDIT_HB_BARBER_2026-07-18.md` analysant la **cohérence de l'ensemble du dossier avec les découvertes du 16 juillet 2026** (visite des lieux, découverte enseigne HB BARBER, échange avec un individu se présentant comme dirigeant qui n'a pas coopéré et n'a donné aucune info assurance).
 
 ## MÉTHODE
 

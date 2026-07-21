@@ -23,7 +23,7 @@ import re
 import sys
 from pathlib import Path
 
-TOKEN_DIR = Path.home() / "accident-main" / "⚖️ Actes" / "🔑 Token"
+TOKEN_DIR = Path.home() / "accident-main" / "Actes" / "Token"
 
 
 def is_yaml_section(lines, idx):

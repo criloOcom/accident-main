@@ -35,4 +35,4 @@ Vérifier le respect des délais légaux de procédure (assignation, conclusions
 
 ## LIVRABLE
 
-`📊 Rapports/85_Coherence_2026-07-15/M11_AUDIT_PROCEDURE.md`
+`Rapports/85_Coherence_2026-07-15/M11_AUDIT_PROCEDURE.md`

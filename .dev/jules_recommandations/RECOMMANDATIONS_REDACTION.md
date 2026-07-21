@@ -1,6 +1,6 @@
 ---
 title: "Recommandations pour la Rédaction des Actes Juridiques"
-description: "Ce document compile les recommandations issues de recherches web et de l'analyse du dossier [⚖️ Actes](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) afin d'améliorer la qualité, le professionnalisme et la clarté des actes juridiques produits (assignations, constitutions de partie civile, etc.)."
+description: "Ce document compile les recommandations issues de recherches web et de l'analyse du dossier [Actes](../../Actes/Token/README.md) afin d'améliorer la qualité, le professionnalisme et la clarté des actes juridiques produits (assignations, constitutions de partie civile, etc.)."
 type: readme
 ---
 <!-- Breadcrumb -->
@@ -11,7 +11,7 @@ type: readme
 # Recommandations pour la Rédaction des Actes Juridiques
 
 ## Introduction
-Ce document compile les recommandations issues de recherches web et de l'analyse du dossier [⚖️ Actes](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) afin d'améliorer la qualité, le professionnalisme et la clarté des actes juridiques produits (assignations, constitutions de partie civile, etc.).
+Ce document compile les recommandations issues de recherches web et de l'analyse du dossier [Actes](../../Actes/Token/README.md) afin d'améliorer la qualité, le professionnalisme et la clarté des actes juridiques produits (assignations, constitutions de partie civile, etc.).
 
 ## 1. Principes Fondamentaux de la Rédaction Juridique
 - **Clarté, Précision et Rigueur :** Les actes doivent être rédigés dans un langage clair, sans ambiguïté. Chaque terme juridique doit être utilisé à bon escient.
@@ -31,12 +31,12 @@ Ce document compile les recommandations issues de recherches web et de l'analyse
 - **Chiffrage des demandes :** Prévoir une évaluation (même provisionnelle) des préjudices en s'appuyant sur des nomenclatures reconnues (ex: nomenclature Dintilhac).
 - **Demande d'expertise :** Si l'évaluation finale n'est pas possible, formuler explicitement une demande d'expertise médicale judiciaire.
 
-## 3. Amélioration Formelle des Documents du Dossier [⚖️ Actes](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
+## 3. Amélioration Formelle des Documents du Dossier [Actes](../../Actes/Token/README.md)
 - **Uniformisation :** S'assurer que tous les actes (civils et pénaux) respectent la même charte de présentation (polices, marges, alignement justifié).
 - **Gestion des Pièces :** S'assurer que les références aux pièces (ex: `🔒 PIÈCE ORIGINALE`) sont correctement insérées et listées dans les actes.
 - **Anonymisation / Tokens :** Continuer d'appliquer rigoureusement la logique de tokens (`[La Victime]`, `[L'Exploitant du Commerce (La SAS)]`) et vérifier systématiquement qu'aucune donnée personnelle n'est laissée en clair, conformément au `TOKEN MAP.md`.
 - **Sauts de page :** Respecter strictement la consigne d'utiliser `<hr><hr>` avant les sections majeures pour un rendu professionnel sous Google Docs.
 
 ## 4. Prochaines Étapes pour l'Agent de Demain
-- Réviser les fichiers dans `⚖️ Actes/contentieux-civil/` et `⚖️ Actes/contentieux-penal/` pour vérifier l'alignement avec ces recommandations (notamment la présence du dispositif clair et le bordereau de pièces).
+- Réviser les fichiers dans `Actes/contentieux-civil/` et `Actes/contentieux-penal/` pour vérifier l'alignement avec ces recommandations (notamment la présence du dispositif clair et le bordereau de pièces).
 - Appliquer ces standards de présentation lors de la prochaine étape d'injection dans Google Docs.

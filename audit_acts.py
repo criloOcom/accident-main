@@ -4,8 +4,8 @@ import yaml
 from datetime import date, datetime
 
 dirs_to_scan = [
-    "/home/crilocom/accident-main/⚖️ Actes/🔑 Token/⚖️ Actes proceduraux",
-    "/home/crilocom/accident-main/⚖️ Actes/🔑 Token/✉️ Courriers"
+    "/home/crilocom/accident-main/Actes/Token/Actes_proceduraux",
+    "/home/crilocom/accident-main/Actes/Token/Courriers"
 ]
 
 all_md_files = []

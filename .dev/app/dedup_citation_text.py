@@ -16,7 +16,7 @@ import os
 import re
 import sys
 
-TOKEN = "/home/crilocom/accident-main/⚖️ Actes/🔑 Token"
+TOKEN = "/home/crilocom/accident-main/Actes/Token"
 TEXT = re.compile(r"^>\s*« .+ »\s*<br>\s*$")
 
 

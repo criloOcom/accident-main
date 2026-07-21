@@ -3,9 +3,9 @@
 Sync documentation markdown files to Google Drive for NotebookLM.
 
 Syncs these local folders:
-  - ⚖️ Actes/👤 Reel/   → Accident Main - NotebookLM/Actes Reel/
-  - 🧠 Memory/       → Accident Main - NotebookLM/Memory/
-  - 📜 Lois/         → Accident Main - NotebookLM/Lois/
+  - Actes/Reel/   → Accident Main - NotebookLM/Actes Reel/
+  - Memory/       → Accident Main - NotebookLM/Memory/
+  - Lois/         → Accident Main - NotebookLM/Lois/
 
 Usage:
   python3 .dev/app/sync_notebooklm.py          # real sync
@@ -25,9 +25,9 @@ from googleapiclient.http import MediaFileUpload
 ROOT_FOLDER_NAME = "Accident Main - NotebookLM"
 
 SOURCE_DIRS = {
-    "Actes Reel": "⚖️ Actes/👤 Reel",
-    "Memory": "🧠 Memory",
-    "Lois": "📜 Lois",
+    "Actes Reel": "Actes/Reel",
+    "Memory": "Memory",
+    "Lois": "Lois",
 }
 
 

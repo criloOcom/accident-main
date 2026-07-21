@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `📊 Rapports/RAPPORT_STRATEGIE_PENALE_2026-07-14.md` analysant la **dimension pénale** du dossier et la stratégie de saisine du Parquet, dans le respect strict du Code de procédure pénale.
+Produis un rapport `Rapports/RAPPORT_STRATEGIE_PENALE_2026-07-14.md` analysant la **dimension pénale** du dossier et la stratégie de saisine du Parquet, dans le respect strict du Code de procédure pénale.
 
 ## ANGLES
 

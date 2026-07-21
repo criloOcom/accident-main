@@ -10,7 +10,7 @@ import os, sys
 from collections import OrderedDict
 
 BASE = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
-JETONS_DIR = os.path.join(BASE, "🧠 Memory", "🗂️ Tokens")
+JETONS_DIR = os.path.join(BASE, "Memory", "Tokens")
 DRY_RUN = "--dry-run" in sys.argv
 
 # ─── Mapping old base → new base (without .md) ───────────────────

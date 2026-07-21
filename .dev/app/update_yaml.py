@@ -92,7 +92,7 @@ REVERSE_MAP = {
     "Capital Social de l'Exploitation": "1 000 €",
 }
 
-for root, _, files in os.walk('🧠 Memory/🗂️ Tokens'):
+for root, _, files in os.walk('Memory/Tokens'):
     for f in files:
         if not f.endswith('.md') or f in ('README.md', 'INDEX.md'):
             continue

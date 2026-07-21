@@ -169,8 +169,8 @@ def extract_strict_variables(path):
 
 def build_reverse_map():
     map_dict = FALLBACK_MAP.copy()
-    map_dict.update(extract_tokens_from_yaml('🧠 Memory/🗂️ Tokens'))
-    map_dict.update(extract_strict_variables('🧠 Memory/STRICT VARIABLES.md'))
+    map_dict.update(extract_tokens_from_yaml('Memory/Tokens'))
+    map_dict.update(extract_strict_variables('Memory/STRICT VARIABLES.md'))
     return map_dict
 
 
@@ -233,8 +233,8 @@ def preprocess_nested_bracket_tokens(content):
 
 
 def main():
-    input_base = '⚖️ Actes/🔑 Token'
-    output_base = '⚖️ Actes/👤 Reel'
+    input_base = 'Actes/Token'
+    output_base = 'Actes/Reel'
 
     token_map = build_reverse_map()
     sorted_keys = sorted(token_map.keys(), key=len, reverse=True)

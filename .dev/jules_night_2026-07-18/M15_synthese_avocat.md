@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `📊 Rapports/RAPPORT_SYNTHESE_AVOCAT_2026-07-18.md` — un **document de synthèse prêt à être remis à l'avocat** une fois désigné (via AJ ou autre). Ce document doit permettre à un avocat de comprendre le dossier en 15 minutes de lecture.
+Produis un rapport `Rapports/RAPPORT_SYNTHESE_AVOCAT_2026-07-18.md` — un **document de synthèse prêt à être remis à l'avocat** une fois désigné (via AJ ou autre). Ce document doit permettre à un avocat de comprendre le dossier en 15 minutes de lecture.
 
 ## CONTENU ATTENDU
 

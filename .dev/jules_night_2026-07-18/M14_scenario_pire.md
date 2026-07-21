@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `📊 Rapports/RAPPORT_SCENARIO_PIRE_2026-07-18.md` analysant les **recours disponibles** dans le pire scénario :
+Produis un rapport `Rapports/RAPPORT_SCENARIO_PIRE_2026-07-18.md` analysant les **recours disponibles** dans le pire scénario :
 - HB BARBER n'a pas d'assurance RC (confirmé ou fortement suspecté)
 
 - La société est insolvable (capital 200 €)

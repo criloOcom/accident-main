@@ -11,7 +11,7 @@ import sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent.parent
-EXCLUDE_DIRS = {"/👤 Reel/", ".git", ".dev/jules_"}
+EXCLUDE_DIRS = {"/Reel/", ".git", ".dev/jules_"}
 
 YAML_BLOCK_RE = re.compile(r'^---\s*\n(.*?)\n---', re.DOTALL)
 YAML_LINK_RE = re.compile(r'\[(.+?)\]\([^)]+\)')

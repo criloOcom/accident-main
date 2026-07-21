@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-encode_jeton_links.py — URL-encode les chemins des liens vers 🗂️ Tokens/
+encode_jeton_links.py — URL-encode les chemins des liens vers Tokens/
 qui ont été écrits avec des caractères littéraux (espaces, emojis).
 
 Les liens passent de :
-  ../../../🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md
+  ../../../Memory/Tokens/token-victime-nom-complet.md
 à :
-  ../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md
+  ../../../Memory/Tokens/token-victime-nom-complet.md
 
 Usage: python3 .dev/app/encode_jeton_links.py [--dry-run]
 """
@@ -51,10 +51,10 @@ def main():
         with open(fp) as f:
             content = f.read()
         
-        if '🗂️ Tokens' not in content and '🧠 Memory/🗂' not in content:
+        if 'Tokens' not in content and 'Memory/🗂' not in content:
             continue
         
-        # Look for patterns like ](../../../🧠 Memory/🗂️ Tokens/token-xxx.md)
+        # Look for patterns like ](../../../Memory/Tokens/token-xxx.md)
         # These have literal emoji and/or spaces in the URL
         fix_pattern = re.compile(
             r'(]\('
@@ -69,7 +69,7 @@ def main():
         for m in fix_pattern.finditer(content):
             url = m.group(2)
             # Only touch links that point to Tokens with literal chars
-            if 'Tokens' not in url and '🗂️ Tokens' not in url:
+            if 'Tokens' not in url and 'Tokens' not in url:
                 continue
             # Skip already-encoded links
             if '%' in url:
@@ -99,7 +99,7 @@ def main():
         for m in link_pattern.finditer(content):
             url = m.group(1)
             # Only process Tokens links with literal chars
-            if 'Tokens' not in url and '🗂️ Tokens' not in url:
+            if 'Tokens' not in url and 'Tokens' not in url:
                 continue
             if '%' in url:
                 continue

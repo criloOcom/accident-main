@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Scanne tous les fichiers .md dans ⚖️ Actes/🔑 Token/ et ajoute
+Scanne tous les fichiers .md dans Actes/Token/ et ajoute
 des marqueurs de footnote [^N] sur la ligne **chemin** (blockquote),
 puis crée/remplace la section ## Sources Législation en bas de document.
 
@@ -15,7 +15,7 @@ vers la ligne **chemin**.
 import re
 from pathlib import Path
 
-TOKEN_DIR = Path("⚖️ Actes/🔑 Token")
+TOKEN_DIR = Path("Actes/Token")
 LEGIFRANCE_PATTERN = re.compile(r'\[([^\]]+)\]\((https?://[^)]*legifrance\.gouv\.fr[^)]*)\)')
 YAML_DELIM = "---"
 FOOTNOTE_DEF = re.compile(r'^\[\^\d+\]:')

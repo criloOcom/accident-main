@@ -17,7 +17,7 @@ import sys
 
 TOKEN_DIR = os.path.join(
     os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))),
-    "⚖️ Actes", "🔑 Token",
+    "Actes", "Token",
 )
 
 DRY_RUN = "--apply" not in sys.argv
@@ -124,19 +124,19 @@ def lot_a_regex(content: str) -> str:
 # Format: (relative_path, [(old_full_heading, new_full_heading), ...])
 LOT_B_MAP = [
     # --- Analyse juridique ---
-    ("📚 Analyses juridiques/Note - Qualification Pénale Disparition SAS.md", [
+    ("Analyses_juridiques/Note - Qualification Pénale Disparition SAS.md", [
         ("## 1. ORGANISATION FRAUDULEUSE", "## I — ORGANISATION FRAUDULEUSE"),
         ("## 2. ESCROQUERIE", "## II — ESCROQUERIE"),
         ("## 3. BANQUEROUTE", "## III — BANQUEROUTE"),
     ]),
-    ("📚 Analyses juridiques/J+47 Note - Mémo Stratégie Admin Pénal.md", [
+    ("Analyses_juridiques/J+47 Note - Mémo Stratégie Admin Pénal.md", [
         ("## 1. SCHÉMA RÉCAPITULATIF", "## I — SCHÉMA RÉCAPITULATIF"),
         ("## 2. VOIE ADMINISTRATIVE", "## II — VOIE ADMINISTRATIVE"),
         ("## 3. VOIE PÉNALE", "## III — VOIE PÉNALE"),
         ("## 4. ARTICULATION STRATÉGIQUE", "## IV — ARTICULATION STRATÉGIQUE"),
         ("## 5. RAPPEL DES TEXTES", "## V — RAPPEL DES TEXTES"),
     ]),
-    ("📚 Analyses juridiques/J+60 Note - Dossier Plaidoirie Référé.md", [
+    ("Analyses_juridiques/J+60 Note - Dossier Plaidoirie Référé.md", [
         ("## 1. FICHE SYNTHÉTIQUE", "## I — FICHE SYNTHÉTIQUE"),
         ("## 2. CHRONOLOGIE DES FAITS", "## II — CHRONOLOGIE DES FAITS"),
         ("## 3. DISCUSSION JURIDIQUE STRUCTURÉE", "## III — DISCUSSION JURIDIQUE STRUCTURÉE"),
@@ -146,7 +146,7 @@ LOT_B_MAP = [
         ("## 7. QUESTIONS PROBABLES DU JUGE ET RÉPONSES PRÉPARÉES", "## VII — QUESTIONS PROBABLES DU JUGE ET RÉPONSES PRÉPARÉES"),
     ]),
     # --- Actes ---
-    ("⚖️ Actes proceduraux/J+38 📸 Constat Huissier - Requête.md", [
+    ("Actes_proceduraux/J+38 📸 Constat Huissier - Requête.md", [
         ("## 1. IDENTIFICATION", "## I — IDENTIFICATION"),
         ("## 2. EXPOSÉ", "## II — EXPOSÉ"),
         ("## 3. FONDEMENTS", "## III — FONDEMENTS"),
@@ -154,34 +154,34 @@ LOT_B_MAP = [
         ("## 5. DISPOSITIF", "## V — DISPOSITIF"),
     ]),
     # --- Organisation ---
-    ("🗂️ Organisation/J+40 Note - Dossier Spécial CERFA.md", [
+    ("Organisation/J+40 Note - Dossier Spécial CERFA.md", [
         ("## 1. SYNTHÈSE DES FORMULAIRES CERFA", "## I — SYNTHÈSE DES FORMULAIRES CERFA"),
         ("## 2. DÉTAIL DU CERFA N° 11527*03 (ATTESTATION DE TÉMOIN)", "## II — DÉTAIL DU CERFA N° 11527*03 (ATTESTATION DE TÉMOIN)"),
         ("## 3. DÉTAIL DU CERFA N° 16160*01 (SAISINE DE LA CIVI)", "## III — DÉTAIL DU CERFA N° 16160*01 (SAISINE DE LA CIVI)"),
         ("## 4. DÉTAIL DU CERFA N° 16146*03 (DEMANDE D'AIDE JURIDICTIONNELLE)", "## IV — DÉTAIL DU CERFA N° 16146*03 (DEMANDE D'AIDE JURIDICTIONNELLE)"),
     ]),
-    ("🗂️ Organisation/Note - Plan Constat Police Foix.md", [
+    ("Organisation/Note - Plan Constat Police Foix.md", [
         ("## 1. Analyse de Faisabilité Juridique", "## I — Analyse de Faisabilité Juridique"),
         ("## 2. Plan d'Action Proposé", "## II — Plan d'Action Proposé"),
         ("## 3. Modèle de Mail", "## III — Modèle de Mail"),
     ]),
-    ("🗂️ Organisation/J+43 Archive - Checklist Envoi 11-07.md", [
+    ("Organisation/J+43 Archive - Checklist Envoi 11-07.md", [
         ("## 1. AVANT DEPART", "## I — AVANT DEPART"),
         ("## 2. A LA POSTE", "## II — A LA POSTE"),
         ("## 3. EMAILS", "## III — EMAILS"),
         ("## 4. ARCHIVAGE", "## IV — ARCHIVAGE"),
         ("## 5. RAPPELS", "## V — RAPPELS"),
     ]),
-    ("🗂️ Organisation/Synthèse - Actions et Audits.md", [
+    ("Organisation/Synthèse - Actions et Audits.md", [
         ("## 1. 🟥 CE QU'IL RESTE À FAIRE", "## I — 🟥 CE QU'IL RESTE À FAIRE"),
         ("## 2. 🟩 CE QUI A ÉTÉ CORRIGÉ", "## II — 🟩 CE QUI A ÉTÉ CORRIGÉ"),
     ]),
-    ("🗂️ Organisation/Note - Modification Email Maire Foix.md", [
+    ("Organisation/Note - Modification Email Maire Foix.md", [
         ("## 1. Objectifs de la réécriture", "## I — Objectifs de la réécriture"),
         ("## 2. Nouveau modèle d'e-mail", "## II — Nouveau modèle d'e-mail"),
     ]),
     # --- Courriers ---
-    ("✉️ Courriers/J+47 📋 Guide Demande AJ.md", [
+    ("Courriers/J+47 📋 Guide Demande AJ.md", [
         ("## 1. SUIS-JE ÉLIGIBLE ?", "## I — SUIS-JE ÉLIGIBLE ?"),
         ("## 2. CE QUE COUVRE L'AJ TOTALE", "## II — CE QUE COUVRE L'AJ TOTALE"),
         ("## 3. PIÈCES À FOURNIR", "## III — PIÈCES À FOURNIR"),
@@ -190,7 +190,7 @@ LOT_B_MAP = [
         ("## 6. APRÈS L'AJ", "## VI — APRÈS L'AJ"),
         ("## 7. CONSEILS POUR LE 15 JUILLET", "## VII — CONSEILS POUR LE 15 JUILLET"),
     ]),
-    ("✉️ Courriers/J+47 ✉️ Modele Saisine CADA.md", [
+    ("Courriers/J+47 ✉️ Modele Saisine CADA.md", [
         ("## 1. Identité du demandeur", "## I — Identité du demandeur"),
         ("## 2. Administration(s) concernée(s)", "## II — Administration(s) concernée(s)"),
         ("## 3. Rappel des demandes initiales", "## III — Rappel des demandes initiales"),
@@ -199,7 +199,7 @@ LOT_B_MAP = [
         ("## 6. Pièces jointes", "## VI — Pièces jointes"),
     ]),
     # --- Études indemnisation ---
-    ("💰 Etudes indemnisation/J+40 Note - Stratégique FGTI CIVI.md", [
+    ("Etudes_indemnisation/J+40 Note - Stratégique FGTI CIVI.md", [
         ("## 1. CONDITIONS D'ACCÈS AU FGTI (Art. 706-3 CPP)", "## I — CONDITIONS D'ACCÈS AU FGTI (Art. 706-3 CPP)"),
         ("## 2. ARTICULATION AVEC LES AUTRES PROCÉDURES ET ASSURANCES", "## II — ARTICULATION AVEC LES AUTRES PROCÉDURES ET ASSURANCES"),
         ("## 3. PROCÉDURE DÉTAILLÉE DEVANT LA CIVI", "## III — PROCÉDURE DÉTAILLÉE DEVANT LA CIVI"),
@@ -209,14 +209,14 @@ LOT_B_MAP = [
         ("## 7. RECOMMANDATION FINALE : Y ALLER OU PAS ?", "## VII — RECOMMANDATION FINALE : Y ALLER OU PAS ?"),
     ]),
     # --- Archives ---
-    ("🗄️ Archives/Archive - Stratégie Contentieux Pénal.md", [
+    ("Archives/Archive - Stratégie Contentieux Pénal.md", [
         ("## 1. PRÉSENTATION", "## I — PRÉSENTATION"),
         ("## 2. INFRACTIONS CONSTITUÉES", "## II — INFRACTIONS CONSTITUÉES"),
         ("## 3. PROCÉDURE PÉNALE", "## III — PROCÉDURE PÉNALE"),
         ("## 4. CALENDRIER", "## IV — CALENDRIER"),
         ("## 5. RÉCAPITULATIF", "## V — RÉCAPITULATIF"),
     ]),
-    ("🗄️ Archives/Archive - Stratégie Contentieux Civil.md", [
+    ("Archives/Archive - Stratégie Contentieux Civil.md", [
         ("## 1. PRÉSENTATION", "## I — PRÉSENTATION"),
         ("## 2. FONDEMENTS JURIDIQUES", "## II — FONDEMENTS JURIDIQUES"),
         ("## 3. VOIES DE PROCÉDURE ENGAGÉES", "## III — VOIES DE PROCÉDURE ENGAGÉES"),
@@ -232,7 +232,7 @@ LOT_B_MAP = [
 # ===================================================================
 
 DINTILHAC_PATH = resolve_path(
-    "💰 Etudes indemnisation/J+39 Note - Évaluation Dintilhac Consolidée.md"
+    "Etudes_indemnisation/J+39 Note - Évaluation Dintilhac Consolidée.md"
 )
 DINTILHAC_MAIN = re.compile(r"^(## )(\d+)\.(\d+) (.+)$", re.MULTILINE)
 
@@ -251,42 +251,42 @@ def lot_dintilhac(content: str) -> str:
 
 LOT_C_MAP = [
     # --- Courriers ---
-    ("✉️ Courriers/J+37 ✉️ Signalement Inspection Travail.md", [
+    ("Courriers/J+37 ✉️ Signalement Inspection Travail.md", [
         ("## PROCEDURES EN COURS", "## I — PROCÉDURES EN COURS"),
         ("## CONTEXTE DE LA SAISINE DE VOS SERVICES", "## II — CONTEXTE DE LA SAISINE DE VOS SERVICES"),
     ]),
-    ("✉️ Courriers/J+37 ✉️ Signalement SDIS.md", [
+    ("Courriers/J+37 ✉️ Signalement SDIS.md", [
         ("## OBJET DU SIGNALEMENT", "## I — OBJET DU SIGNALEMENT"),
     ]),
-    ("✉️ Courriers/J+37 🔄 Relance Police Videos.md", [
+    ("Courriers/J+37 🔄 Relance Police Videos.md", [
         ("## OBJET DE LA RELANCE", "## I — OBJET DE LA RELANCE"),
     ]),
-    ("✉️ Courriers/J+40 ✉️ Relance Dirigeants.md", [
+    ("Courriers/J+40 ✉️ Relance Dirigeants.md", [
         ("## PRÉAMBULE — ABSENCE DE RÉPONSE", "## I — PRÉAMBULE — ABSENCE DE RÉPONSE"),
         ("## RAPPEL DE LA DEMANDE D'ASSURANCE", "## II — RAPPEL DE LA DEMANDE D'ASSURANCE"),
         ("## DEMANDE D'ADRESSE DE CORRESPONDANCE", "## III — DEMANDE D'ADRESSE DE CORRESPONDANCE"),
         ("## ANNEXE JURIDIQUE", "## IV — ANNEXE JURIDIQUE"),
     ]),
-    ("✉️ Courriers/J+31 ✉️ Mise en demeure President.md", [
+    ("Courriers/J+31 ✉️ Mise en demeure President.md", [
         ("## RAPPEL DES OBLIGATIONS LÉGALES", "## I — RAPPEL DES OBLIGATIONS LÉGALES"),
     ]),
-    ("✉️ Courriers/J+31 ✉️ Mise en demeure Proprietaire.md", [
+    ("Courriers/J+31 ✉️ Mise en demeure Proprietaire.md", [
         ("### Rappel des obligations légales", "## I — RAPPEL DES OBLIGATIONS LÉGALES"),
         ("### Transparence sur la suite donnée au dossier", "## II — TRANSPARENCE SUR LA SUITE DONNÉE AU DOSSIER"),
     ]),
-    ("✉️ Courriers/J+47 ✉️ Consultation Avocat Jimini.md", [
+    ("Courriers/J+47 ✉️ Consultation Avocat Jimini.md", [
         ("## Faits et situation actuelle", "## I — Faits et situation actuelle"),
         ("## Démarches déjà faites", "## II — Démarches déjà faites"),
         ("## Questions à l'avocat", "## III — Questions à l'avocat"),
     ]),
     # --- Analyses ---
-    ("📚 Analyses juridiques/Note - Conservation Preuves Numériques.md", [
+    ("Analyses_juridiques/Note - Conservation Preuves Numériques.md", [
         ("## PROBLÉMATIQUE", "## I — PROBLÉMATIQUE"),
         ("## FONDEMENT JURIDIQUE", "## II — FONDEMENT JURIDIQUE"),
         ("## ARGUMENTATION ET STRATÉGIE DE COLLECTE", "## III — ARGUMENTATION ET STRATÉGIE DE COLLECTE"),
         ("## CONCLUSION ET RECOMMANDATIONS", "## IV — CONCLUSION ET RECOMMANDATIONS"),
     ]),
-    ("📚 Analyses juridiques/J+39 Note - Stratégie Jurisprudentielle.md", [
+    ("Analyses_juridiques/J+39 Note - Stratégie Jurisprudentielle.md", [
         ("## LES 3 PILIERS DE LA DÉMONSTRATION", "## I — LES 3 PILIERS DE LA DÉMONSTRATION"),
         ("## HIÉRARCHIE ARGUMENTATIVE", "## II — HIÉRARCHIE ARGUMENTATIVE"),
         ("## TABLEAU DE CORRESPONDANCE", "## III — TABLEAU DE CORRESPONDANCE"),
@@ -296,18 +296,18 @@ LOT_C_MAP = [
         ("## RÉFÉRENCES CROISÉES", "## VII — RÉFÉRENCES CROISÉES"),
     ]),
     # --- Organisation ---
-    ("🗂️ Organisation/Note - Fiche Réflexe 48h Disparition SAS.md", [
+    ("Organisation/Note - Fiche Réflexe 48h Disparition SAS.md", [
         ("## PROBLÉMATIQUE", "## I — PROBLÉMATIQUE"),
         ("## FONDEMENT ET DÉPENDANCES CRITIQUES", "## II — FONDEMENT ET DÉPENDANCES CRITIQUES"),
         ("## ARGUMENTATION ET PLAN D'ACTION SÉQUENTIEL", "## III — ARGUMENTATION ET PLAN D'ACTION SÉQUENTIEL"),
         ("## CONCLUSION", "## IV — CONCLUSION"),
     ]),
-    ("🗂️ Organisation/J+43 Note - Suivi Envois LRAR.md", [
+    ("Organisation/J+43 Note - Suivi Envois LRAR.md", [
         ("## TABLEAU DE BORD", "## I — TABLEAU DE BORD"),
         ("## SYNTHESE FINANCIERE", "## II — SYNTHESE FINANCIERE"),
         ("## LEGENDE", "## III — LEGENDE"),
     ]),
-    ("🗂️ Organisation/J+38 Note - Bon Envoi Physique.md", [
+    ("Organisation/J+38 Note - Bon Envoi Physique.md", [
         ("## DOCUMENTS À IMPRIMER", "## I — DOCUMENTS À IMPRIMER"),
         ("## DESTINATAIRE UNIQUE", "## II — DESTINATAIRE UNIQUE"),
         ("## PIÈCES JUSTIFICATIVES", "## III — PIÈCES JUSTIFICATIVES"),

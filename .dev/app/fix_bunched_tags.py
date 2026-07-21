@@ -18,10 +18,10 @@ import argparse
 ROOT = '/home/crilocom/accident-main'
 
 DIRS = [
-    '⚖️ Actes/🔑 Token/✉️ Courriers',
-    '⚖️ Actes/🔑 Token/⚖️ Actes proceduraux',
-    '⚖️ Actes/👤 Reel/✉️ Courriers',
-    '⚖️ Actes/👤 Reel/⚖️ Actes proceduraux',
+    'Actes/Token/Courriers',
+    'Actes/Token/Actes_proceduraux',
+    'Actes/Reel/Courriers',
+    'Actes/Reel/Actes_proceduraux',
 ]
 
 # Tags that were incorrectly bunched together

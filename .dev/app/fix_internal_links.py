@@ -27,22 +27,22 @@ AUDIT_SCRIPT = os.path.join(os.path.dirname(__file__), "audit_internal_links.py"
 
 HTML_LINK_RE = re.compile(r'<a\s+(?:[^>]*?\s+)?href="([^"]+)"')
 
-# Sous-dossiers de ✉️ Courriers/ : mapping basename → subdirectory
+# Sous-dossiers de Courriers/ : mapping basename → subdirectory
 # (connu statiquement depuis la structuration actuelle du projet)
 _COURIER_SUBDIRS = {
     "📜 Mises en demeure": {"mise en demeure"},
     "🔄 Relances": {"relance", "suivi", "relancer"},
     "⚖️ Contentieux": {"saisine", "transmission", "opposition", "plainte"},
     "🚨 Signalements": {"signalement", "inpi", "urssaf", "codaf", "sdis", "sie", "inspection"},
-    "📋 Attestations": {"attestation"},
+    "Attestations": {"attestation"},
     "📝 Procédure": {"mutualisation", "email", "guide", "demande aj"},
     "📋 Personnel": {"antiseche", "personnel"},
-    "🗄️ Archivé": {"requete constat", "archiv"},
+    "Archivé": {"requete constat", "archiv"},
 }
 
 
 def _courrier_subdir(filename: str) -> str | None:
-    """Devine le sous-dossier de ✉️ Courriers/ d'après le nom du fichier."""
+    """Devine le sous-dossier de Courriers/ d'après le nom du fichier."""
     name = filename.lower().replace(".md", "")
     for subdir, keywords in _COURIER_SUBDIRS.items():
         for kw in keywords:
@@ -198,10 +198,10 @@ def main():
                 introuvables.append((src, decoded))
                 continue
 
-            # Disambiguation : préférer 🔑 Token, puis 👤 Reel, puis premier
+            # Disambiguation : préférer Token, puis Reel, puis premier
             if len(candidates) > 1:
-                token = [c for c in candidates if "🔑 Token" in c]
-                reel = [c for c in candidates if "👤 Reel" in c]
+                token = [c for c in candidates if "Token" in c]
+                reel = [c for c in candidates if "Reel" in c]
                 if token:
                     candidates = token[:1]
                 elif reel:

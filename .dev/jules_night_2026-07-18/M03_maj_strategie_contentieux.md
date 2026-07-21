@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `📊 Rapports/RAPPORT_MAJ_STRATEGIE_CONTENTIEUX_2026-07-18.md` proposant une **stratégie contentieuse révisée** intégrant toutes les découvertes du 16 juillet : enseigne HB BARBER, dirigeant non-coopératif, absence d'info assurance, exploitation douteuse.
+Produis un rapport `Rapports/RAPPORT_MAJ_STRATEGIE_CONTENTIEUX_2026-07-18.md` proposant une **stratégie contentieuse révisée** intégrant toutes les découvertes du 16 juillet : enseigne HB BARBER, dirigeant non-coopératif, absence d'info assurance, exploitation douteuse.
 
 ## CONTEXTE
 

@@ -26,14 +26,14 @@ Pour cette journée, tu as trois démarches physiques majeures à réaliser à F
 #### 1️⃣ Au Tribunal Judiciaire (Greffe Civil)
 * **Action** : Déposer la requête de mesures d'instruction unilatérales pour sauvegarder les vidéos de surveillance du salon.
 
-* **Document à imprimer & signer** : [TJ Foix - TJ Foix - TJ Foix - TJ Foix - CPC 145 - Requête.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md)
+* **Document à imprimer & signer** : [TJ Foix - TJ Foix - TJ Foix - TJ Foix - CPC 145 - Requête.md](./Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md)
 
 * **Pièces à joindre** : Prépare le dossier comprenant les 17 pièces listées dans le bordereau de la requête.
 
 #### 2️⃣ Au Tribunal Judiciaire (Bureau d'Aide Juridictionnelle)
 * **Action** : Déposer ton dossier complet de demande d'Aide Juridictionnelle (AJ) totale.
 
-* **Document d'accompagnement** : [BAJ - Demande AJ - Guide.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Interne/BAJ%20-%20Demande%20AJ%20-%20Guide.md)
+* **Document d'accompagnement** : [BAJ - Demande AJ - Guide.md](Actes/Reel/Courriers/Interne/BAJ%20-%20Demande%20AJ%20-%20Guide.md)
 
 * **Pièces à joindre** : Tes justificatifs de ressources (déclarations URSSAF, avis d'imposition, etc.).
 
@@ -42,8 +42,8 @@ Pour cette journée, tu as trois démarches physiques majeures à réaliser à F
 
 * **Documents à imprimer & signer** :
 
-   * [Police - Plainte Complémentaire.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/Police%20-%20Plainte%20Compl%C3%A9mentaire.md)
-  * [Police - Note Erratum Identité.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md) (à annexer en tant que pièce justificative)
+   * [Police - Plainte Complémentaire.md](Actes/Token/Courriers/Police/Police%20-%20Plainte%20Compl%C3%A9mentaire.md)
+  * [Police - Note Erratum Identité.md](./Actes/Token/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md) (à annexer en tant que pièce justificative)
 * **Pièces à joindre** : Les 8 pièces justificatives listées à la fin de ta plainte complémentaire (comprenant le mail du bailleur et ta note de constatations).
 
 ---
@@ -55,13 +55,13 @@ Durant la même semaine, expédie par Lettre Recommandée avec Avis de Réceptio
 * **Signalement CODAF (Comité Opérationnel Départemental Anti-Fraude)** :
 
   * *Objet* : Dénonciation de suspicion de travail dissimulé, fraude et transfert frauduleux d'actifs vers la nouvelle structure.
-  * *Document à envoyer* : [CODAF - Signalement.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/CODAF%20-%20Signalement.md)
+  * *Document à envoyer* : [CODAF - Signalement.md](Actes/Reel/Courriers/Administrations/CODAF%20-%20Signalement.md)
   * *Destinataire* : Monsieur le Procureur de la République (Tribunal Judiciaire de Foix, 14 Boulevard François Mitterrand, 09000 Foix).
 
 * **Signalement Inspection du Travail** :
 
   * *Objet* : Dénonciation du défaut de déclaration d'accident du travail grave concernant un préposé.
-  * *Document à envoyer* : [DDETS - Signalement.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/DDETS%20-%20Signalement.md)
+  * *Document à envoyer* : [DDETS - Signalement.md](Actes/Reel/Courriers/Administrations/DDETS%20-%20Signalement.md)
   * *Destinataire* : Inspecteur du Travail (DDETSPP de l'Ariège, 9 Rue Lieutenant Paul Delpech, 09000 Foix).
 
 ---
@@ -72,7 +72,7 @@ Voici les prochaines étapes clés de ton dossier à moyen et long termes :
 
 * **Fin juillet / Début août 2026** : Décision du Bureau d'Aide Juridictionnelle et désignation d'office de ton avocat.
 
-* **Courant août 2026** : Prise de contact avec ton avocat pour lancer la signification par huissier de l'[TJ Foix - TJ Foix - TJ Foix - TJ Foix - Référé Provision - Assignation.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md) à la SAS HB BARBER.
+* **Courant août 2026** : Prise de contact avec ton avocat pour lancer la signification par huissier de l'[TJ Foix - TJ Foix - TJ Foix - TJ Foix - Référé Provision - Assignation.md](./Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md) à la SAS HB BARBER.
 
 * **📅 Jeudi 12 novembre 2026 à 13h45** : Rendez-vous obligatoire pour ton expertise médicale à l'**Unité de Médecine Judiciaire (UMJ) de l'Hôpital Purpan** à Toulouse (sur réquisition de police pour fixer l'ITT médico-légale).
 
@@ -83,25 +83,25 @@ Voici les prochaines étapes clés de ton dossier à moyen et long termes :
 Explore les différents répertoires du dossier grâce aux liens ci-dessous :
 
 ### 🧠 Mémoire & Suivi
-* [🧠 Memory/](./%F0%9F%A7%A0%20Memory/README.md) : Espace de travail de la mémoire du projet.
+* [Memory/](./Memory/README.md) : Espace de travail de la mémoire du projet.
 
-  * [TODO.md](./%F0%9F%A7%A0%20Memory/TODO.md) : Plan d'action détaillé et tableau de bord.
-  * [STATUS.md](./%F0%9F%A7%A0%20Memory/STATUS.md) : Historique d'avancement des phases du projet.
-  * [STRICT VARIABLES.md](./%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md) : Base de données unique de référence (dates, montants, faits).
-  * [TOKEN MAP.md](./%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md) : Correspondances des jetons d'anonymisation.
+  * [TODO.md](./Memory/TODO.md) : Plan d'action détaillé et tableau de bord.
+  * [STATUS.md](./Memory/STATUS.md) : Historique d'avancement des phases du projet.
+  * [STRICT VARIABLES.md](./Memory/STRICT%20VARIABLES.md) : Base de données unique de référence (dates, montants, faits).
+  * [TOKEN MAP.md](./Memory/TOKEN%20MAP.md) : Correspondances des jetons d'anonymisation.
 
-### ⚖️ Actes & Courriers
-* [⚖️ Actes/](./%E2%9A%96%EF%B8%8F%20Actes/README.md) : Base des documents juridiques et administratifs.
+### Actes & Courriers
+* [Actes/](./Actes/README.md) : Base des documents juridiques et administratifs.
 
-  * [⚖️ Actes/👤 Reel/](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/README.md) : Les documents réels complétés, prêts à imprimer pour tes démarches.
-  * [⚖️ Actes/🔑 Token/](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) : Les versions de travail anonymisées sous forme de jetons.
+  * [Actes/Reel/](./Actes/Reel/README.md) : Les documents réels complétés, prêts à imprimer pour tes démarches.
+  * [Actes/Token/](./Actes/Token/README.md) : Les versions de travail anonymisées sous forme de jetons.
 
 ### 📊 Analyses & Législation
-* [📊 Rapports/](./%F0%9F%93%8A%20Rapports/README.md) : Rapports d'audits, de constatations et études d'indemnisation.
+* [Rapports/](./Rapports/README.md) : Rapports d'audits, de constatations et études d'indemnisation.
 
-* [📜 Lois/](./%F0%9F%93%9C%20Lois/README.md) : Textes de lois, codes et arrêts de jurisprudence applicables.
+* [Lois/](./Lois/README.md) : Textes de lois, codes et arrêts de jurisprudence applicables.
 
 ---
 
 _Dernière mise à jour : 21 juillet 2026._  
-*Les agents IA travaillant sur ce dossier doivent se conformer au protocole défini dans [AGENTS.md](AGENTS.md) et prendre connaissance des règles spécifiques dans [🧠 Memory/GEMINI.md](./%F0%9F%A7%A0%20Memory/GEMINI.md).*
+*Les agents IA travaillant sur ce dossier doivent se conformer au protocole défini dans [AGENTS.md](AGENTS.md) et prendre connaissance des règles spécifiques dans [Memory/GEMINI.md](./Memory/GEMINI.md).*

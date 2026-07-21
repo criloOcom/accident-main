@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `📊 Rapports/RAPPORT_EVALUATION_DINTILHAC_2026-07-14.md` auditant la **rigueur de l'évaluation du préjudice corporel** (méthode Dintilhac) au regard de la doctrine et de la jurisprudence française, et recommandant la posture chiffrée optimale pour le référé et le fond.
+Produis un rapport `Rapports/RAPPORT_EVALUATION_DINTILHAC_2026-07-14.md` auditant la **rigueur de l'évaluation du préjudice corporel** (méthode Dintilhac) au regard de la doctrine et de la jurisprudence française, et recommandant la posture chiffrée optimale pour le référé et le fond.
 
 ## ANGLES
 

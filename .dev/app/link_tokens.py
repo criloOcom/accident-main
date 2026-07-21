@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Link all unlinked **[Token]** occurrences in ⚖️ Actes/🔑 Token/ files
-to their corresponding definition files in 🧠 Memory/🗂️ Tokens/.
+Link all unlinked **[Token]** occurrences in Actes/Token/ files
+to their corresponding definition files in Memory/Tokens/.
 
 Usage: python3 .dev/app/link_tokens.py
        python3 .dev/app/link_tokens.py --apply  (write changes — default dry-run)
@@ -14,9 +14,9 @@ import argparse
 import urllib.parse
 
 REPO = "/home/crilocom/accident-main"
-TOKEN_MAP_FILE = os.path.join(REPO, "🧠 Memory/TOKEN MAP.md")
-TOKENS_DIR = os.path.join(REPO, "🧠 Memory/🗂️ Tokens")
-TARGET_DIR = os.path.join(REPO, "⚖️ Actes/🔑 Token")
+TOKEN_MAP_FILE = os.path.join(REPO, "Memory/TOKEN MAP.md")
+TOKENS_DIR = os.path.join(REPO, "Memory/Tokens")
+TARGET_DIR = os.path.join(REPO, "Actes/Token")
 
 
 def extract_map():
@@ -84,7 +84,7 @@ def build_synonyms(mapping):
 
 
 def get_relative_path(file_path):
-    """Calculate relative path from Token file to 🧠 Memory/🗂️ Tokens/."""
+    """Calculate relative path from Token file to Memory/Tokens/."""
     file_dir = os.path.dirname(file_path)
     # Calculate depth
     rel = os.path.relpath(file_dir, TARGET_DIR)
@@ -92,9 +92,9 @@ def get_relative_path(file_path):
     # From the file location, go up to repo root, then down to Tokens
     # file_path is under TARGET_DIR
     # Count levels from file to repo root
-    # E.g., ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/file.md
+    # E.g., Actes/Token/Actes_proceduraux/Contentieux_penal/file.md
     # → depth = 4 levels from TARGET_DIR
-    # → ../../../../ to root → then 🧠 Memory/🗂️ Tokens/
+    # → ../../../../ to root → then Memory/Tokens/
     ups = os.path.relpath(TOKENS_DIR, file_dir)
     # Encode each component for URL
     parts = ups.split(os.sep)

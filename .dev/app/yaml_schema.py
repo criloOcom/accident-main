@@ -85,22 +85,22 @@ STATUT_NORMALIZE: dict[str, str] = {
 }
 
 DIR_TYPE_MAP: dict[str, str] = {
-    "📜 Lois": "loi",
-    "📜 Jurisprudence": "jurisprudence",
-    "📊 Index": "readme",
-    "🔑 Token": "readme",
-    "👤 Reel": "readme",
-    "📂 Preuves officielles": "preuve",
-    "01_⚖️ Actes_proceduraux": "assignation",
-    "✉️ Courriers": "courrier",
-    "📚 Analyses juridiques": "analyse_juridique",
-    "💰 Etudes indemnisation": "etude_indemnisation",
-    "🗂️ Organisation": "readme",
-    "06_🗄️ Archives": "archive",
+    "Lois": "loi",
+    "Jurisprudence": "jurisprudence",
+    "Index": "readme",
+    "Token": "readme",
+    "Reel": "readme",
+    "Preuves_officielles": "preuve",
+    "01_Actes_proceduraux": "assignation",
+    "Courriers": "courrier",
+    "Analyses_juridiques": "analyse_juridique",
+    "Etudes_indemnisation": "etude_indemnisation",
+    "Organisation": "readme",
+    "06_Archives": "archive",
     "📎 Annexes": "archive",
-    "🧠 Memory": "memory",
-    "🚦 Status": "status",
-    "📊 Rapports": "rapport",
+    "Memory": "memory",
+    "Status": "status",
+    "Rapports": "rapport",
     ".dev": "readme",
 }
 
@@ -121,7 +121,7 @@ def detect_type(filepath: str) -> str:
     parts = filepath.replace("\\", "/").split("/")
     loisdir_idx = -1
     for i, part in enumerate(parts):
-        if "📜 Lois" in part or "📜 Lois" in part.replace("%20", " "):
+        if "Lois" in part or "Lois" in part.replace("%20", " "):
             loisdir_idx = i
     if loisdir_idx >= 0:
         for j in range(loisdir_idx, len(parts)):

@@ -77,10 +77,10 @@ def build_reverse_map():
     map = FALLBACK_MAP.copy()
     
     # 1. Extract from yaml
-    map.update(extract_tokens_from_yaml('🧠 Memory/🗂️ Tokens'))
+    map.update(extract_tokens_from_yaml('Memory/Tokens'))
     
     # 2. Extract from STRICT VARIABLES
-    map.update(extract_strict_variables('🧠 Memory/STRICT VARIABLES.md'))
+    map.update(extract_strict_variables('Memory/STRICT VARIABLES.md'))
     
     # Make sure we add bracket-less keys for all
     return map
@@ -99,8 +99,8 @@ def update_yaml_frontmatter(content):
     return re.sub(r'^titre:\s*.*$', replacer, content, flags=re.MULTILINE)
 
 def main():
-    input_base = '⚖️ Actes/🔑 Token'
-    output_base = '⚖️ Actes/👤 Reel'
+    input_base = 'Actes/Token'
+    output_base = 'Actes/Reel'
 
     token_map = build_reverse_map()
     # Sort keys by length descending to prevent partial replacements (e.g. Finance DFP vs Finance DFP initial)

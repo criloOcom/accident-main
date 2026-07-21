@@ -26,9 +26,9 @@ from collections import defaultdict
 
 # ─── Base paths ──────────────────────────────────────────────────────────
 BASE = Path("/home/crilocom/accident-main")
-TOKEN_MAP_PATH = "🧠 Memory/TOKEN MAP.md"
-TOKEN_DIR = "⚖️ Actes/🔑 Token"
-REEL_DIR = "⚖️ Actes/👤 Reel"
+TOKEN_MAP_PATH = "Memory/TOKEN MAP.md"
+TOKEN_DIR = "Actes/Token"
+REEL_DIR = "Actes/Reel"
 
 # ══════════════════════════════════════════════════════════════════════════
 # CONFIGURATION — Document mentions → target .md file
@@ -41,114 +41,114 @@ REEL_DIR = "⚖️ Actes/👤 Reel"
 DOC_MENTIONS = [
     # ── Police PV n°2026/015967 ──────────────────────────────────────────
     (re.compile(r'PV n°2026/015967'),
-     "⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md",
+     "Actes/Preuves officielles/20260602_Police_PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md",
      "PV police n°2026/015967"),
 
     (re.compile(r'PV n° \[N° PV Police\]'),
-     "⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md",
+     "Actes/Preuves officielles/20260602_Police_PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md",
      "PV police (tokenisé)"),
 
     (re.compile(r'procès-verbal(?: de constat)? n°2026/015967', re.IGNORECASE),
-     "⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md",
+     "Actes/Preuves officielles/20260602_Police_PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md",
      "Procès-verbal n°2026/015967"),
 
     (re.compile(r'PV n°2026-015967'),
-     "⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md",
+     "Actes/Preuves officielles/20260602_Police_PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md",
      "PV n°2026-015967"),
 
     # ── Extrait Kbis ─────────────────────────────────────────────────────
     (re.compile(r'Extrait Kbis(?:(?: de la SAS)?(?: \[.*?\]|\s*\*\*\[.*?\]\*\*))?', re.IGNORECASE),
-     "⚖️ Actes/Preuves officielles/20260601 🏢 Kbis/20260601-xxxx Extrait Kbis SAS MauvaisGarcons.md",
+     "Actes/Preuves officielles/20260601_Kbis/20260601-xxxx Extrait Kbis SAS MauvaisGarcons.md",
      "Extrait Kbis"),
 
     (re.compile(r'extrait Kbis', re.IGNORECASE),
-     "⚖️ Actes/Preuves officielles/20260601 🏢 Kbis/20260601-xxxx Extrait Kbis SAS MauvaisGarcons.md",
+     "Actes/Preuves officielles/20260601_Kbis/20260601-xxxx Extrait Kbis SAS MauvaisGarcons.md",
      "extrait Kbis"),
 
     # ── CR opératoire / compte-rendu opératoire / rapport intervention ───
     (re.compile(r'CR opératoire', re.IGNORECASE),
-     "⚖️ Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire RapportInterventionMainDroite.md",
+     "Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire RapportInterventionMainDroite.md",
      "CR opératoire SOS Main"),
 
     (re.compile(r'compte-rendu opératoire', re.IGNORECASE),
-     "⚖️ Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire RapportInterventionMainDroite.md",
+     "Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire RapportInterventionMainDroite.md",
      "compte-rendu opératoire"),
 
     (re.compile(r'rapport intervention', re.IGNORECASE),
-     "⚖️ Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire RapportInterventionMainDroite.md",
+     "Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire RapportInterventionMainDroite.md",
      "rapport intervention"),
 
     # ── Certificat médical initial (Dr JARDON) ──────────────────────────
     (re.compile(r'(?:Certificat médical initial|premiers soins)(?: d\'urgence| urgence)?', re.IGNORECASE),
-     "⚖️ Actes/Preuves officielles/20260529 🩹 DrJARDON/20260529-1630 SITUATION DrJulieJARDON.md",
+     "Actes/Preuves officielles/20260529_DrJARDON/20260529-1630 SITUATION DrJulieJARDON.md",
      "Certificat médical initial Dr JARDON"),
 
     # ── Ordonnance de sortie ─────────────────────────────────────────────
     (re.compile(r'Ordonnance de sortie', re.IGNORECASE),
-     "⚖️ Actes/Preuves officielles/20260530 🆘 SOSMain/20260530-1700 Ordonnance Sortie DrDJERBI.md",
+     "Actes/Preuves officielles/20260530 🆘 SOSMain/20260530-1700 Ordonnance Sortie DrDJERBI.md",
      "Ordonnance de sortie"),
 
     # ── Arrêt de travail ─────────────────────────────────────────────────
     (re.compile(r'Arrêt de travail', re.IGNORECASE),
-     "⚖️ Actes/Preuves officielles/20260601 🩺 DrOXYBEL/20260601-1115 ARRET Travail Volet1 DrOXYBEL.md",
+     "Actes/Preuves officielles/20260601_DrOXYBEL/20260601-1115 ARRET Travail Volet1 DrOXYBEL.md",
      "Arrêt de travail (volet 1)"),
 
     (re.compile(r'arrêts de travail', re.IGNORECASE),
-     "⚖️ Actes/Preuves officielles/20260601 🩺 DrOXYBEL/20260601-1115 ARRET Travail Volet1 DrOXYBEL.md",
+     "Actes/Preuves officielles/20260601_DrOXYBEL/20260601-1115 ARRET Travail Volet1 DrOXYBEL.md",
      "arrêts de travail"),
 
     # ── Dossier CPAM / RCT ───────────────────────────────────────────────
     (re.compile(r'Dossier CPAM(?: n° \[N° Dossier CPAM\])?', re.IGNORECASE),
-     "⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md",
+     "Actes/Preuves officielles/20260603_Attestation_DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md",
      "Dossier CPAM"),
 
     (re.compile(r'dossier RCT(?: n° 31727387)?', re.IGNORECASE),
-     "⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md",
+     "Actes/Preuves officielles/20260603_Attestation_DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md",
      "Dossier RCT"),
 
     # ── Constitution de partie civile ────────────────────────────────────
     # NOTE: double strate — le script choisit token/reel selon le contexte
     (re.compile(r'Constitution de partie civile', re.IGNORECASE),
-     "⚖️ Actes/STRATE/⚖️ Actes proceduraux/J+38 Archive - Partie Civile - Constitution.md",
+     "Actes/STRATE/Actes_proceduraux/J+38 Archive - Partie Civile - Constitution.md",
      "Constitution de partie civile"),
 
     # ── Mise en demeure SAS ──────────────────────────────────────────────
     # NOTE: double strate — le script choisit token/reel selon le contexte
     (re.compile(r'Mise en demeure SAS(?:(?: LES MAUVAIS GARCONS?)?)', re.IGNORECASE),
-     "⚖️ Actes/STRATE/✉️ Courriers/J+31 ✉️ Mise en demeure SAS.md",
+     "Actes/STRATE/Courriers/J+31 ✉️ Mise en demeure SAS.md",
      "Mise en demeure SAS"),
 
     # ── Facture médicaments ──────────────────────────────────────────────
     (re.compile(r'Facture médicaments', re.IGNORECASE),
-     "⚖️ Actes/Preuves officielles/20260529 💊 Pharmacie Foix/20260529-1800 Facture Medicaments PharmacieFoix.md",
+     "Actes/Preuves officielles/20260529_Pharmacie_Foix/20260529-1800 Facture Medicaments PharmacieFoix.md",
      "Facture médicaments"),
 
     # ── Facture chirurgie ─────────────────────────────────────────────────
     (re.compile(r'[Ff]acture chirurgie'),
-     "⚖️ Actes/Preuves officielles/20260610 💰 SOSMain Facture/20260610-xxxx Facture Chirurgie SOSMain 790euros.md",
+     "Actes/Preuves officielles/20260610_SOSMain_Facture/20260610-xxxx Facture Chirurgie SOSMain 790euros.md",
      "Facture chirurgie"),
 
     # ── Attestation de vigilance URSSAF ──────────────────────────────────
     (re.compile(r'Attestation(?:s)? de vigilance(?: URSSAF)?', re.IGNORECASE),
-     "⚖️ Actes/Preuves officielles/20260604 🛡️ URSSAF Attestations/20260604-xxxx Attestation Vigilance URSSAF 1.md",
+     "Actes/Preuves officielles/20260604_URSSAF_Attestations/20260604-xxxx Attestation Vigilance URSSAF 1.md",
      "Attestation de vigilance URSSAF"),
 
     # ── Avis de situation INSEE / SAS ────────────────────────────────────
     (re.compile(r'Avis de situation SAS', re.IGNORECASE),
-     "⚖️ Actes/Preuves officielles/20260601 🇫🇷 INSEE INPI/20260601-xxxx Avis Situation SAS INSEE.md",
+     "Actes/Preuves officielles/20260601 🇫🇷 INSEE INPI/20260601-xxxx Avis Situation SAS INSEE.md",
      "Avis de situation INSEE"),
 
     (re.compile(r'Avis de situation INSEE', re.IGNORECASE),
-     "⚖️ Actes/Preuves officielles/20260601 🇫🇷 INSEE INPI/20260601-xxxx Avis Situation SAS INSEE.md",
+     "Actes/Preuves officielles/20260601 🇫🇷 INSEE INPI/20260601-xxxx Avis Situation SAS INSEE.md",
      "Avis de situation INSEE"),
 
     # ── Fiche identité SAS / INPI ────────────────────────────────────────
     (re.compile(r'Fiche identité SAS', re.IGNORECASE),
-     "⚖️ Actes/Preuves officielles/20260601 🇫🇷 INSEE INPI/20260601-xxxx Fiche Identite SAS INPI.md",
+     "Actes/Preuves officielles/20260601 🇫🇷 INSEE INPI/20260601-xxxx Fiche Identite SAS INPI.md",
      "Fiche identité INPI"),
 
     (re.compile(r'Fiche identité INPI', re.IGNORECASE),
-     "⚖️ Actes/Preuves officielles/20260601 🇫🇷 INSEE INPI/20260601-xxxx Fiche Identite SAS INPI.md",
+     "Actes/Preuves officielles/20260601 🇫🇷 INSEE INPI/20260601-xxxx Fiche Identite SAS INPI.md",
      "Fiche identité INPI"),
 ]
 
@@ -312,7 +312,7 @@ def build_doc_replacement(match: re.Match, target_relpath: str) -> str:
 def resolve_target(target_relpath: str, strate: str) -> str:
     """Replace the STRATE placeholder with the actual strate directory name."""
     if "STRATE" in target_relpath:
-        strate_name = "🔑 Token" if strate == "token" else "👤 Reel"
+        strate_name = "Token" if strate == "token" else "Reel"
         return target_relpath.replace("STRATE", strate_name)
     return target_relpath
 
@@ -405,10 +405,10 @@ def process_strate(strate_dir: str, dry_run: bool, verbose: bool) -> dict:
         if fp.name == "README.md":
             continue
         # Skip files in Archives/
-        if "🗄️ Archives" in fp.parts:
+        if "Archives" in fp.parts:
             continue
 
-        strate_name = "token" if "🔑 Token" in fp.parts else "reel"
+        strate_name = "token" if "Token" in fp.parts else "reel"
         total["files_checked"] += 1
         stats = process_file(fp, dry_run, verbose, strate_name)
         if stats["modified"]:

@@ -10,7 +10,7 @@ Usage :
     python3 .dev/app/dependency_graph.py --target dossier/   # ciblé
     python3 .dev/app/dependency_graph.py --cycles-only       # seulement les cycles
 
-Génère : 🧠 Memory/DEPENDENCIES.md
+Génère : Memory/DEPENDENCIES.md
 """
 
 import argparse
@@ -29,7 +29,7 @@ ROOT_DIRS = ('Actes', 'Lois', 'Memory', 'Rapports', 'Annexes', '.dev')
 MD_LINK_RE = re.compile(r'\]\(([^)]+)\)')
 HTML_LINK_RE = re.compile(r'<a\s+(?:[^>]*?\s+)?href="([^"]+)"')
 
-OUTPUT_FILE = os.path.join(ROOT, "🧠 Memory", "DEPENDENCIES.md")
+OUTPUT_FILE = os.path.join(ROOT, "Memory", "DEPENDENCIES.md")
 
 
 def is_internal(link: str) -> bool:

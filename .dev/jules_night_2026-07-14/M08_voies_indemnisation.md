@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `📊 Rapports/RAPPORT_VOIES_INDEMNISATION_2026-07-14.md` cartographiant **toutes les voies d'indemnisation** possibles pour la victime, leurs conditions, et la stratégie de recouvrement optimale face au risque d'insolvabilité de la SAS.
+Produis un rapport `Rapports/RAPPORT_VOIES_INDEMNISATION_2026-07-14.md` cartographiant **toutes les voies d'indemnisation** possibles pour la victime, leurs conditions, et la stratégie de recouvrement optimale face au risque d'insolvabilité de la SAS.
 
 ## ANGLES
 

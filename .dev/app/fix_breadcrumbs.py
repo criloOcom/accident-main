@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Script pour corriger les fils d'Ariane dans les fichiers 📜 Lois/
+Script pour corriger les fils d'Ariane dans les fichiers Lois/
 Selon le protocole : fil d'Ariane doit être en première ligne, suivi du titre, puis du contenu.
 """
 
@@ -9,7 +9,7 @@ import re
 
 def analyze_breadcrumb_problems():
     """Analyser les problèmes de fils d'Ariane"""
-    lois_dir = Path("📜 Lois")
+    lois_dir = Path("Lois")
     problems = {
         'fil_not_first_line': [],
         'title_before_fil': [],
@@ -232,14 +232,14 @@ def validate_file(file_path):
     return True, "Valide"
 
 def main():
-    print("🔧 Correction des fils d'Ariane dans 📜 Lois/")
+    print("🔧 Correction des fils d'Ariane dans Lois/")
     print("=" * 60)
     
     # Étape 1: Analyser les problèmes
     problems = analyze_breadcrumb_problems()
     
     # Étape 2: Corriger les fichiers
-    lois_dir = Path("📜 Lois")
+    lois_dir = Path("Lois")
     total_files = 0
     fixed_files = 0
     validation_issues = []
@@ -285,7 +285,7 @@ def main():
     report_content = f"""# 📊 Rapport de Correction des Fils d'Ariane
 
 **Date :** 11 juillet 2026
-**Dossier :** 📜 Lois/
+**Dossier :** Lois/
 **Fichiers traités :** {total_files}
 **Fichiers corrigés :** {fixed_files}
 **Taux de succès :** {valid_files}/{total_files} ({valid_files/total_files*100:.1f}%)
@@ -324,7 +324,7 @@ def main():
     
     report_content += "\n---\n\n> **Statut** : ✅ Correction terminée\n> **Date** : 11 juillet 2026\n> **Responsable** : Mistral Vibe\n"
     
-    report_path = Path("📊 Rapports/RAPPORT_CORRECTION_BREADCRUMBS_20260711.md")
+    report_path = Path("Rapports/RAPPORT_CORRECTION_BREADCRUMBS_20260711.md")
     with open(report_path, 'w', encoding='utf-8') as f:
         f.write(report_content)
     

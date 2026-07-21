@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `📊 Rapports/RAPPORT_NOTE_ETAPE_J16_2026-07-18.md` qui est une **synthèse chronologique complète et sourcée** de ce qui s'est passé les 15-16 juillet 2026. Ce document servira de référence pour l'avocat et pour toutes les actions futures.
+Produis un rapport `Rapports/RAPPORT_NOTE_ETAPE_J16_2026-07-18.md` qui est une **synthèse chronologique complète et sourcée** de ce qui s'est passé les 15-16 juillet 2026. Ce document servira de référence pour l'avocat et pour toutes les actions futures.
 
 ## MÉTHODE
 

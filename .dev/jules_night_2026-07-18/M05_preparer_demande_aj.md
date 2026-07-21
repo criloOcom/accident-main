@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `📊 Rapports/RAPPORT_PREPARATION_AJ_2026-07-18.md` préparant le **dossier complet de demande d'Aide Juridictionnelle totale** à déposer au BAJ du TJ de Foix.
+Produis un rapport `Rapports/RAPPORT_PREPARATION_AJ_2026-07-18.md` préparant le **dossier complet de demande d'Aide Juridictionnelle totale** à déposer au BAJ du TJ de Foix.
 
 ## CONTEXTE IMPORTANT
 

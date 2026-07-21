@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Audit factuel ciblé du dépôt ⚖️ Actes/🔑 Token.
+Audit factuel ciblé du dépôt Actes/Token.
 
 But : détecter les ÉCARTS FACTUELS par rapport à la Source Unique de Vérité
-(🧠 Memory/STRICT VARIABLES.md). PAS de faux positifs (contrairement à
+(Memory/STRICT VARIABLES.md). PAS de faux positifs (contrairement à
 l'audit bruité précédent qui traitait les liens [🏠] et les vrais LRAR
 de « hallucinations »).
 
@@ -13,8 +13,8 @@ import os, re, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent.parent
-TOKEN = ROOT / "⚖️ Actes/🔑 Token"
-STRICT = ROOT / "🧠 Memory/STRICT VARIABLES.md"
+TOKEN = ROOT / "Actes/Token"
+STRICT = ROOT / "Memory/STRICT VARIABLES.md"
 
 # --- Patterns d'écarts factuels INTERDITS (valeurs fausses connues) ---
 # Chaque règle : (regex, explication, fichiers à exclure si nécessaire)
@@ -80,11 +80,11 @@ def main():
             continue
         all_hits.extend(scan_file(p))
     # Rapport
-    out = ROOT / "📊 Rapports/audit" / "20260713_audit_faits_canoniques.md"
+    out = ROOT / "Rapports/audit" / "20260713_audit_faits_canoniques.md"
     out.parent.mkdir(parents=True, exist_ok=True)
     lines = ["---",
              'title: "AUDIT FAITS CANONIQUES — Écarts vs STRICT VARIABLES.md"',
-             'description: "Audit ciblé des écarts factuels (dates, doigts, CPAM, LRAR) dans ⚖️ Actes/🔑 Token."',
+             'description: "Audit ciblé des écarts factuels (dates, doigts, CPAM, LRAR) dans Actes/Token."',
              "type: rapport", "date: 2026-07-13", "---", "", "# Audit faits canoniques", "",
              f"Fichiers scannés : {len(list(TOKEN.rglob('*.md')))}",
              f"Écarts détectés : {len(all_hits)}", ""]

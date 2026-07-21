@@ -51,7 +51,7 @@ def main():
     print("🔍 Validation des URLs Légifrance")
     print("=" * 60)
     
-    lois_dir = Path("📜 Lois")
+    lois_dir = Path("Lois")
     total_files = 0
     valid_files = 0
     invalid_files = []
@@ -88,7 +88,7 @@ def main():
     # Générer un rapport
     report_content = f"""# 📊 Rapport de Validation des URLs Légifrance
 
-**Date :** {Path("📊 Rapports/RAPPORT_VALIDATION_URLS_20260711.md").stat().st_mtime if Path("📊 Rapports/RAPPORT_VALIDATION_URLS_20260711.md").exists() else "11 juillet 2026"}
+**Date :** {Path("Rapports/RAPPORT_VALIDATION_URLS_20260711.md").stat().st_mtime if Path("Rapports/RAPPORT_VALIDATION_URLS_20260711.md").exists() else "11 juillet 2026"}
 **Total des fichiers :** {total_files}
 **Fichiers valides :** {valid_files}
 **Taux de succès :** {valid_files/total_files*100:.1f}%
@@ -150,7 +150,7 @@ url: [URL officielle Légifrance]
     report_content += "\n---\n\n> **Statut** : ✅ Validé et prêt pour utilisation\n> **Date** : 11 juillet 2026\n> **Responsable** : Mistral Vibe\n"
     
     # Écrire le rapport
-    report_path = Path("📊 Rapports/RAPPORT_VALIDATION_URLS_20260711.md")
+    report_path = Path("Rapports/RAPPORT_VALIDATION_URLS_20260711.md")
     with open(report_path, 'w', encoding='utf-8') as f:
         f.write(report_content)
     

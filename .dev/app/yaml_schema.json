@@ -54,7 +54,7 @@
             "reel_path": {
               "type": "string",
               "pattern": "^\\.\\./|\\.\\./.*\\.md$",
-              "description": "Chemin relatif vers la version réelle (strate 👤 Reel)"
+              "description": "Chemin relatif vers la version réelle (strate Reel)"
             },
             "source": { "type": "string", "enum": ["drive", "local", "email"] },
             "drive_id": { "type": "string" },

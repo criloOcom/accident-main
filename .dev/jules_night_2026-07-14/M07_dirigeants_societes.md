@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `📊 Rapports/RAPPORT_RESPONSABILITE_DIRIGEANTS_2026-07-14.md` analysant la **responsabilité des dirigeants de la SAS** (Président, DG) et les leviers du droit des sociétés pour sécuriser le recouvrement, dans le contexte d'un capital de 200 € (risque d'insolvabilité).
+Produis un rapport `Rapports/RAPPORT_RESPONSABILITE_DIRIGEANTS_2026-07-14.md` analysant la **responsabilité des dirigeants de la SAS** (Président, DG) et les leviers du droit des sociétés pour sécuriser le recouvrement, dans le contexte d'un capital de 200 € (risque d'insolvabilité).
 
 ## ANGLES
 

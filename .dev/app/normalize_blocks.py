@@ -21,7 +21,7 @@ import os
 import re
 import sys
 
-TOKEN = "/home/crilocom/accident-main/⚖️ Actes/🔑 Token"
+TOKEN = "/home/crilocom/accident-main/Actes/Token"
 LINK = re.compile(r">\s*\[Article[^\n]*\]\(https?://www\.legifrance\.gouv\.fr/codes/article_lc/([^\s)]+)\)\s*(<br>)?\s*$", re.M)
 FIL = re.compile(r">\s*\*\*([^*].*?)\*\*\s*(<br>)?\s*$")
 

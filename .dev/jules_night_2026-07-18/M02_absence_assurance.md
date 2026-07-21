@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `📊 Rapports/RAPPORT_ABSENCE_ASSURANCE_HB_BARBER_2026-07-18.md` analysant les **conséquences juridiques de l'absence d'assurance de la société exploitant le salon HB BARBER** (découverte du 16/07 : le dirigeant n'a fourni aucune information sur l'assurance, suspicion forte d'absence de couverture RC).
+Produis un rapport `Rapports/RAPPORT_ABSENCE_ASSURANCE_HB_BARBER_2026-07-18.md` analysant les **conséquences juridiques de l'absence d'assurance de la société exploitant le salon HB BARBER** (découverte du 16/07 : le dirigeant n'a fourni aucune information sur l'assurance, suspicion forte d'absence de couverture RC).
 
 ## ANGLES
 

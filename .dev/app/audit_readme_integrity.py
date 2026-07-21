@@ -121,8 +121,8 @@ def has_envoi_evidence(content):
 def check_statut_declared_sent(content, readme_path, results):
     """Parcourt les tableaux de statuts et vérifie les ✅ Envoyé sans preuve."""
     rel_dir = os.path.relpath(readme_path, BASE_DIR)
-    # 🚦 Status/README.md est un index de catégories, pas un tracker de documents
-    if rel_dir == os.path.join("🚦 Status", "README.md"):
+    # Status/README.md est un index de catégories, pas un tracker de documents
+    if rel_dir == os.path.join("Status", "README.md"):
         return
     # cherche lignes avec "✅ Envoyé" ou "Envoyé" et vérifie si une preuve LRAR existe
     lines = content.split("\n")

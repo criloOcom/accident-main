@@ -13,7 +13,7 @@ Vérifier la cohérence des mémoires (conclusions récapitulatives, note en dé
 
 ## MÉTHODE
 
-1. **Lire** tous les fichiers de conclusions et mémoires dans `⚖️ Actes/🔑 Token/`.
+1. **Lire** tous les fichiers de conclusions et mémoires dans `Actes/Token/`.
 
 2. **Pour chaque mémoire** :
    - Vérifier que TOUS les postes de préjudice sont traités (pas d'oubli)
@@ -26,4 +26,4 @@ Vérifier la cohérence des mémoires (conclusions récapitulatives, note en dé
 
 ## LIVRABLE
 
-`📊 Rapports/85_Coherence_2026-07-15/M14_AUDIT_MEMOIRES.md`
+`Rapports/85_Coherence_2026-07-15/M14_AUDIT_MEMOIRES.md`

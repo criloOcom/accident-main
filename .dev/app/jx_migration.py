@@ -29,138 +29,138 @@ from pathlib import Path
 from typing import Optional
 
 BASE = Path("/home/crilocom/accident-main").resolve()
-TOKEN = BASE / "⚖️ Actes/🔑 Token"
-REEL = BASE / "⚖️ Actes/👤 Reel"
+TOKEN = BASE / "Actes/Token"
+REEL = BASE / "Actes/Reel"
 
 # ─── Fichiers exclus du renommage (brouillons, 99, archives, etc.) ───
 EXCLUSIONS_TOKEN = {
     # Brouillons sans date
-    "🗂️ Organisation/Synthèse - Actions et Audits.md",
-    "🗂️ Organisation/Note - Plan Constat Police Foix.md",
-    "🗂️ Organisation/Note - Modification Email Maire Foix.md",
-    "📂 Preuves officielles/01 📁 Dossier UMJ Preparation.md",
-    "⚖️ Actes proceduraux/16 ⚠️ Parquet - Signalement Fraude.md",
-    "⚖️ Actes proceduraux/17 ⚖️ Mandataire Ad Hoc - Requête.md",
+    "Organisation/Synthèse - Actions et Audits.md",
+    "Organisation/Note - Plan Constat Police Foix.md",
+    "Organisation/Note - Modification Email Maire Foix.md",
+    "Preuves_officielles/01 📁 Dossier UMJ Preparation.md",
+    "Actes_proceduraux/16 ⚠️ Parquet - Signalement Fraude.md",
+    "Actes_proceduraux/17 ⚖️ Mandataire Ad Hoc - Requête.md",
     # Exception 99 — pièce adverse
-    "📚 Analyses juridiques/Mémoire - En défense adverse.md",
+    "Analyses_juridiques/Mémoire - En défense adverse.md",
     # Sans numéro (jamais dans la numérotation)
-    "🗂️ Organisation/Note - Fiche Réflexe 48h Disparition SAS.md",
+    "Organisation/Note - Fiche Réflexe 48h Disparition SAS.md",
 }
 
 # Les Archives sont exclues intégralement
-ARCHIVES_TOKEN = TOKEN / "🗄️ Archives"
-ARCHIVES_REEL = REEL / "🗄️ Archives"
+ARCHIVES_TOKEN = TOKEN / "Archives"
+ARCHIVES_REEL = REEL / "Archives"
 
 # Dossiers à scanner pour les liens (tous les .md sauf .git, __pycache__)
 SCAN_DIRS = [
-    BASE / "⚖️ Actes",
-    BASE / "🧠 Memory",
-    BASE / "📜 Lois",
-    BASE / "📊 Rapports",
-    BASE / "🚦 Status",
+    BASE / "Actes",
+    BASE / "Memory",
+    BASE / "Lois",
+    BASE / "Rapports",
+    BASE / "Status",
     BASE,  # README.md racine
 ]
 
 # Sous-dossiers exclus du scan des liens (archives frozen)
 SCAN_EXCLUDE_SUBDIRS = [
-    "📊 Rapports/🗄️ Archives",
+    "Rapports/Archives",
 ]
 
 # ─── TABLE DE CORRESPONDANCE ───
 # Chaque entrée : (sous-dossier, ancien_basename, nouvelle_basename, date_iso)
 
 MAPPING_RAW = [
-    # ═══ 📂 Preuves officielles ═══
-    ("📂 Preuves officielles", "01 📁 Dossier UMJ Preparation.md", "J+167 📁 Preparation Expertise UMJ.md", "2026-11-12"),
+    # ═══ Preuves_officielles ═══
+    ("Preuves_officielles", "01 📁 Dossier UMJ Preparation.md", "J+167 📁 Preparation Expertise UMJ.md", "2026-11-12"),
 
-    # ═══ ⚖️ Actes proceduraux ═══
-    ("⚖️ Actes proceduraux", "01 ⚖️ Assignation.md", "J+32 ⚖️ Assignation Refere Provision.md", "2026-06-30"),
-    ("⚖️ Actes proceduraux", "02 🚔 Plainte.md", "J+32 🚔 Assurance RC - Plainte Défaut.md", "2026-06-30"),
-    ("⚖️ Actes proceduraux", "02b Archive - Partie Civile - Constitution.md", "J+38 Archive - Partie Civile - Constitution.md", "2026-07-06"),
-    ("⚖️ Actes proceduraux", "03 🔍 Assignation Article 145.md", "J+47 🔍 CPC 145 - Requête.md", "2026-07-15"),
-    ("⚖️ Actes proceduraux", "04 📑 Bordereau.md", "J+39 📑 TJ Foix - TJ Foix - Bordereau Unifié.md", "2026-07-07"),
-    ("⚖️ Actes proceduraux", "05 🎯 Conclusions Refere.md", "J+39 🎯 Conclusions Refere Provision.md", "2026-07-07"),
-    ("⚖️ Actes proceduraux", "06 📸 Constat Huissier - Requête.md", "J+38 📸 Constat Huissier - Requête.md", "2026-07-06"),
-    ("⚖️ Actes proceduraux", "07 ⚖️ Projet Ordonnance Refere.md", "J+63 ⚖️ Projet Ordonnance Refere.md", "2026-07-31"),
-    ("⚖️ Actes proceduraux", "15 ⚖️ Réquisitoire introductif.md", "J+47 ⚖️ Requisitoire introductif.md", "2026-07-15"),
+    # ═══ Actes_proceduraux ═══
+    ("Actes_proceduraux", "01 ⚖️ Assignation.md", "J+32 ⚖️ Assignation Refere Provision.md", "2026-06-30"),
+    ("Actes_proceduraux", "02 🚔 Plainte.md", "J+32 🚔 Assurance RC - Plainte Défaut.md", "2026-06-30"),
+    ("Actes_proceduraux", "02b Archive - Partie Civile - Constitution.md", "J+38 Archive - Partie Civile - Constitution.md", "2026-07-06"),
+    ("Actes_proceduraux", "03 🔍 Assignation Article 145.md", "J+47 🔍 CPC 145 - Requête.md", "2026-07-15"),
+    ("Actes_proceduraux", "04 📑 Bordereau.md", "J+39 📑 TJ Foix - TJ Foix - Bordereau Unifié.md", "2026-07-07"),
+    ("Actes_proceduraux", "05 🎯 Conclusions Refere.md", "J+39 🎯 Conclusions Refere Provision.md", "2026-07-07"),
+    ("Actes_proceduraux", "06 📸 Constat Huissier - Requête.md", "J+38 📸 Constat Huissier - Requête.md", "2026-07-06"),
+    ("Actes_proceduraux", "07 ⚖️ Projet Ordonnance Refere.md", "J+63 ⚖️ Projet Ordonnance Refere.md", "2026-07-31"),
+    ("Actes_proceduraux", "15 ⚖️ Réquisitoire introductif.md", "J+47 ⚖️ Requisitoire introductif.md", "2026-07-15"),
 
-    # ═══ ✉️ Courriers ═══
-    ("✉️ Courriers", "03 ✉️ Courrier SAS.md", "J+31 ✉️ Mise en demeure SAS.md", "2026-06-29"),
-    ("✉️ Courriers", "04 ✉️ Courrier Assureur.md", "J+31 ✉️ Mise en demeure Assureur.md", "2026-06-29"),
-    ("✉️ Courriers", "05 ✉️ Courrier Proprietaire.md", "J+31 ✉️ Mise en demeure Proprietaire.md", "2026-06-29"),
-    ("✉️ Courriers", "06 ✉️ Courrier President DG.md", "J+31 ✉️ Mise en demeure President.md", "2026-06-29"),
-    ("✉️ Courriers", "06 V2 ✉️ Relance Dirigeants.md", "J+40 ✉️ Relance Dirigeants.md", "2026-07-08"),
-    ("✉️ Courriers", "07 ✉️ Courrier Consolidation.md", "J+37 ✉️ Relance Consolidation.md", "2026-07-05"),
-    ("✉️ Courriers", "08 ✉️ Courrier Suivi Adjoint Maire.md", "J+37 ✉️ Suivi Adjoint Maire Tavella.md", "2026-07-05"),
-    ("✉️ Courriers", "09 ✉️ Courrier Inspection Travail.md", "J+37 ✉️ Signalement Inspection Travail.md", "2026-07-05"),
-    ("✉️ Courriers", "10 ✉️ Courrier Doyen Juges Instruction.md", "J+38 ✉️ Saisine Doyen Juges Instruction.md", "2026-07-06"),
-    ("✉️ Courriers", "11 ✉️ Courrier INPI.md", "J+37 ✉️ Signalement INPI.md", "2026-07-05"),
-    ("✉️ Courriers", "12 ✉️ Courrier URSSAF.md", "J+37 ✉️ Signalement URSSAF.md", "2026-07-05"),
-    ("✉️ Courriers", "13 ✉️ Courrier Prefecture.md", "J+37 ✉️ Signalement Prefecture.md", "2026-07-05"),
-    ("✉️ Courriers", "14 ✉️ Courrier CODAF.md", "J+37 ✉️ Signalement CODAF.md", "2026-07-05"),
-    ("✉️ Courriers", "15 ✉️ Courrier SIE.md", "J+37 ✉️ Signalement SIE.md", "2026-07-05"),
-    ("✉️ Courriers", "16 ✉️ Courrier Conseil Departemental.md", "J+37 ✉️ Signalement Conseil Departemental.md", "2026-07-05"),
-    ("✉️ Courriers", "17 ✉️ Courrier CPAM.md", "J+38 ✉️ Transmission Recours Tiers CPAM.md", "2026-07-06"),
-    ("✉️ Courriers", "18 ✉️ Courrier SDIS.md", "J+37 ✉️ Signalement SDIS.md", "2026-07-05"),
-    ("✉️ Courriers", "19 ✉️ Courrier FGTI.md", "J+38 ✉️ Saisine FGTI.md", "2026-07-06"),
-    ("✉️ Courriers", "20 🔄 Relance Police.md", "J+37 🔄 Relance Police Videos.md", "2026-07-05"),
-    ("✉️ Courriers", "21 🔄 Relance CPAM.md", "J+37 🔄 Relance CPAM.md", "2026-07-05"),
-    ("✉️ Courriers", "22 📋 Attestation Temoin Client.md", "J+32 📋 Attestation Temoin Client.md", "2026-06-30"),
-    ("✉️ Courriers", "23 📋 Attestation Pompier SAMU.md", "J+32 📋 Attestation Pompier SAMU.md", "2026-06-30"),
-    ("✉️ Courriers", "24 📋 Attestation Employe.md", "J+32 📋 Attestation Employe.md", "2026-06-30"),
-    ("✉️ Courriers", "25 📧 Relance Dr DJERBI.md", "J+38 📧 Relance Dr DJERBI Consolidation.md", "2026-07-06"),
-    ("✉️ Courriers", "26 📧 Attestation Temoin Client.md", "J+38 📧 Attestation Temoin Client.md", "2026-07-06"),
-    ("✉️ Courriers", "27 📧 Attestation Pompier SAMU.md", "J+38 📧 Attestation Pompier SAMU.md", "2026-07-06"),
-    ("✉️ Courriers", "28 📧 Attestation Employe.md", "J+38 📧 Attestation Employe.md", "2026-07-06"),
-    ("✉️ Courriers", "29 ✉️ Courrier Maire Foix.md", "J+41 ✉️ Mise en demeure Maire Foix.md", "2026-07-09"),
-    ("✉️ Courriers", "30 ✉️ Courrier President TC.md", "J+41 ✉️ Opposition Radiation TC.md", "2026-07-09"),
-    ("✉️ Courriers", "31 ✉️ Courrier INPI Opposition.md", "J+41 ✉️ Opposition Immatriculation INPI.md", "2026-07-09"),
-    ("✉️ Courriers", "32 ✉️ Courrier SIE URSSAF Mutualisation.md", "J+41 ✉️ Mutualisation Fiscale Sociale.md", "2026-07-09"),
-    ("✉️ Courriers", "33 ✉️ Constat Huissier - Requête 145 CPC.md", "J+41 ✉️ Constat Huissier - Requête.md", "2026-07-09"),
-    ("✉️ Courriers", "34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md", "J+42 ✉️ Email Maire Tavella ERP.md", "2026-07-10"),
-    ("✉️ Courriers", "35 ✉️ Courrier President TJ Foix.md", "J+44 ✉️ Preuves Complementaires TJ Foix.md", "2026-07-12"),
-    ("✉️ Courriers", "36 📋 Antiseche Orale Plainte Complementaire.md", "J+47 📋 Antiseche Orale Plainte.md", "2026-07-15"),
-    ("✉️ Courriers", "36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md", "J+47 📜 Plainte Complementaire.md", "2026-07-15"),
-    ("✉️ Courriers", "37 📋 GUIDE_DIALOGUE_POLICE_FOIX.md", "J+47 📋 Guide Dialogue Police.md", "2026-07-15"),
-    ("✉️ Courriers", "38 ✅ CHECKLIST_DEPLACEMENT_POLICE_FOIX.md", "J+47 ✅ Checklist Deplacement Foix.md", "2026-07-15"),
-    ("✉️ Courriers", "39 📋 GUIDE_DEMANDE_AJ.md", "J+47 📋 Guide Demande AJ.md", "2026-07-15"),
-    ("✉️ Courriers", "40 ✉️ EMAIL AVOCAT - Consultation Proactivite.md", "J+47 ✉️ Consultation Avocat Jimini.md", "2026-07-15"),
-    ("✉️ Courriers", "41 ✉️ Relance Prefecture CODAF - Suite Signalement Maire.md", "J+47 ✉️ Relance Prefecture CODAF.md", "2026-07-15"),
-    ("✉️ Courriers", "42 ✉️ Relance Inspection Travail - Suite Signalement Maire.md", "J+47 ✉️ Relance Inspection Travail.md", "2026-07-15"),
-    ("✉️ Courriers", "43 ✉️ Modele Saisine CADA.md", "J+47 ✉️ Modele Saisine CADA.md", "2026-07-15"),
-    ("✉️ Courriers", "44 ✉️ Saisine CADA Version Courte.md", "J+47 ✉️ Saisine CADA Formulaire.md", "2026-07-15"),
+    # ═══ Courriers ═══
+    ("Courriers", "03 ✉️ Courrier SAS.md", "J+31 ✉️ Mise en demeure SAS.md", "2026-06-29"),
+    ("Courriers", "04 ✉️ Courrier Assureur.md", "J+31 ✉️ Mise en demeure Assureur.md", "2026-06-29"),
+    ("Courriers", "05 ✉️ Courrier Proprietaire.md", "J+31 ✉️ Mise en demeure Proprietaire.md", "2026-06-29"),
+    ("Courriers", "06 ✉️ Courrier President DG.md", "J+31 ✉️ Mise en demeure President.md", "2026-06-29"),
+    ("Courriers", "06 V2 ✉️ Relance Dirigeants.md", "J+40 ✉️ Relance Dirigeants.md", "2026-07-08"),
+    ("Courriers", "07 ✉️ Courrier Consolidation.md", "J+37 ✉️ Relance Consolidation.md", "2026-07-05"),
+    ("Courriers", "08 ✉️ Courrier Suivi Adjoint Maire.md", "J+37 ✉️ Suivi Adjoint Maire Tavella.md", "2026-07-05"),
+    ("Courriers", "09 ✉️ Courrier Inspection Travail.md", "J+37 ✉️ Signalement Inspection Travail.md", "2026-07-05"),
+    ("Courriers", "10 ✉️ Courrier Doyen Juges Instruction.md", "J+38 ✉️ Saisine Doyen Juges Instruction.md", "2026-07-06"),
+    ("Courriers", "11 ✉️ Courrier INPI.md", "J+37 ✉️ Signalement INPI.md", "2026-07-05"),
+    ("Courriers", "12 ✉️ Courrier URSSAF.md", "J+37 ✉️ Signalement URSSAF.md", "2026-07-05"),
+    ("Courriers", "13 ✉️ Courrier Prefecture.md", "J+37 ✉️ Signalement Prefecture.md", "2026-07-05"),
+    ("Courriers", "14 ✉️ Courrier CODAF.md", "J+37 ✉️ Signalement CODAF.md", "2026-07-05"),
+    ("Courriers", "15 ✉️ Courrier SIE.md", "J+37 ✉️ Signalement SIE.md", "2026-07-05"),
+    ("Courriers", "16 ✉️ Courrier Conseil Departemental.md", "J+37 ✉️ Signalement Conseil Departemental.md", "2026-07-05"),
+    ("Courriers", "17 ✉️ Courrier CPAM.md", "J+38 ✉️ Transmission Recours Tiers CPAM.md", "2026-07-06"),
+    ("Courriers", "18 ✉️ Courrier SDIS.md", "J+37 ✉️ Signalement SDIS.md", "2026-07-05"),
+    ("Courriers", "19 ✉️ Courrier FGTI.md", "J+38 ✉️ Saisine FGTI.md", "2026-07-06"),
+    ("Courriers", "20 🔄 Relance Police.md", "J+37 🔄 Relance Police Videos.md", "2026-07-05"),
+    ("Courriers", "21 🔄 Relance CPAM.md", "J+37 🔄 Relance CPAM.md", "2026-07-05"),
+    ("Courriers", "22 📋 Attestation Temoin Client.md", "J+32 📋 Attestation Temoin Client.md", "2026-06-30"),
+    ("Courriers", "23 📋 Attestation Pompier SAMU.md", "J+32 📋 Attestation Pompier SAMU.md", "2026-06-30"),
+    ("Courriers", "24 📋 Attestation Employe.md", "J+32 📋 Attestation Employe.md", "2026-06-30"),
+    ("Courriers", "25 📧 Relance Dr DJERBI.md", "J+38 📧 Relance Dr DJERBI Consolidation.md", "2026-07-06"),
+    ("Courriers", "26 📧 Attestation Temoin Client.md", "J+38 📧 Attestation Temoin Client.md", "2026-07-06"),
+    ("Courriers", "27 📧 Attestation Pompier SAMU.md", "J+38 📧 Attestation Pompier SAMU.md", "2026-07-06"),
+    ("Courriers", "28 📧 Attestation Employe.md", "J+38 📧 Attestation Employe.md", "2026-07-06"),
+    ("Courriers", "29 ✉️ Courrier Maire Foix.md", "J+41 ✉️ Mise en demeure Maire Foix.md", "2026-07-09"),
+    ("Courriers", "30 ✉️ Courrier President TC.md", "J+41 ✉️ Opposition Radiation TC.md", "2026-07-09"),
+    ("Courriers", "31 ✉️ Courrier INPI Opposition.md", "J+41 ✉️ Opposition Immatriculation INPI.md", "2026-07-09"),
+    ("Courriers", "32 ✉️ Courrier SIE URSSAF Mutualisation.md", "J+41 ✉️ Mutualisation Fiscale Sociale.md", "2026-07-09"),
+    ("Courriers", "33 ✉️ Constat Huissier - Requête 145 CPC.md", "J+41 ✉️ Constat Huissier - Requête.md", "2026-07-09"),
+    ("Courriers", "34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md", "J+42 ✉️ Email Maire Tavella ERP.md", "2026-07-10"),
+    ("Courriers", "35 ✉️ Courrier President TJ Foix.md", "J+44 ✉️ Preuves Complementaires TJ Foix.md", "2026-07-12"),
+    ("Courriers", "36 📋 Antiseche Orale Plainte Complementaire.md", "J+47 📋 Antiseche Orale Plainte.md", "2026-07-15"),
+    ("Courriers", "36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md", "J+47 📜 Plainte Complementaire.md", "2026-07-15"),
+    ("Courriers", "37 📋 GUIDE_DIALOGUE_POLICE_FOIX.md", "J+47 📋 Guide Dialogue Police.md", "2026-07-15"),
+    ("Courriers", "38 ✅ CHECKLIST_DEPLACEMENT_POLICE_FOIX.md", "J+47 ✅ Checklist Deplacement Foix.md", "2026-07-15"),
+    ("Courriers", "39 📋 GUIDE_DEMANDE_AJ.md", "J+47 📋 Guide Demande AJ.md", "2026-07-15"),
+    ("Courriers", "40 ✉️ EMAIL AVOCAT - Consultation Proactivite.md", "J+47 ✉️ Consultation Avocat Jimini.md", "2026-07-15"),
+    ("Courriers", "41 ✉️ Relance Prefecture CODAF - Suite Signalement Maire.md", "J+47 ✉️ Relance Prefecture CODAF.md", "2026-07-15"),
+    ("Courriers", "42 ✉️ Relance Inspection Travail - Suite Signalement Maire.md", "J+47 ✉️ Relance Inspection Travail.md", "2026-07-15"),
+    ("Courriers", "43 ✉️ Modele Saisine CADA.md", "J+47 ✉️ Modele Saisine CADA.md", "2026-07-15"),
+    ("Courriers", "44 ✉️ Saisine CADA Version Courte.md", "J+47 ✉️ Saisine CADA Formulaire.md", "2026-07-15"),
 
-    # ═══ 📚 Analyses juridiques ═══
-    ("📚 Analyses juridiques", "07 🎤 Plaidoirie dirigeants.md", "J+32 Note - Plaidoirie Responsabilité Dirigeants.md", "2026-06-30"),
-    ("📚 Analyses juridiques", "09 ❓ FAQ.md", "J+32 Note - FAQ Juridique.md", "2026-06-30"),
-    ("📚 Analyses juridiques", "12 📁 Dossier Plaidoirie.md", "J+60 Note - Dossier Plaidoirie Référé.md", "2026-07-28"),
-    ("📚 Analyses juridiques", "13 📜 Responsabilites legales.md", "J+32 Note - Analyse Responsabilités Légales.md", "2026-06-30"),
-    ("📚 Analyses juridiques", "14 Strategie jurisprudentielle.md", "J+39 Note - Stratégie Jurisprudentielle.md", "2026-07-07"),
-    ("📚 Analyses juridiques", "15 Note Droit Assurances.md", "J+40 Note - Droit des Assurances.md", "2026-07-08"),
-    ("📚 Analyses juridiques", "16 Note - Responsabilité des Dirigeants Dissolution.md", "J+41 Note - Responsabilité des Dirigeants.md", "2026-07-09"),
-    ("📚 Analyses juridiques", "18 Note Audit RNE NPAI SAS.md", "J+42 Note - Audit RNE NPAI SAS.md", "2026-07-10"),
-    ("📚 Analyses juridiques", "20 Note - Tableau Défense Réponse.md", "J+47 Note - Tableau Défense Réponse.md", "2026-07-15"),
-    ("📚 Analyses juridiques", "21 🛡️ Memo Strategie Administrative Penale.md", "J+47 Note - Mémo Stratégie Admin Pénal.md", "2026-07-15"),
+    # ═══ Analyses_juridiques ═══
+    ("Analyses_juridiques", "07 🎤 Plaidoirie dirigeants.md", "J+32 Note - Plaidoirie Responsabilité Dirigeants.md", "2026-06-30"),
+    ("Analyses_juridiques", "09 ❓ FAQ.md", "J+32 Note - FAQ Juridique.md", "2026-06-30"),
+    ("Analyses_juridiques", "12 📁 Dossier Plaidoirie.md", "J+60 Note - Dossier Plaidoirie Référé.md", "2026-07-28"),
+    ("Analyses_juridiques", "13 📜 Responsabilites legales.md", "J+32 Note - Analyse Responsabilités Légales.md", "2026-06-30"),
+    ("Analyses_juridiques", "14 Strategie jurisprudentielle.md", "J+39 Note - Stratégie Jurisprudentielle.md", "2026-07-07"),
+    ("Analyses_juridiques", "15 Note Droit Assurances.md", "J+40 Note - Droit des Assurances.md", "2026-07-08"),
+    ("Analyses_juridiques", "16 Note - Responsabilité des Dirigeants Dissolution.md", "J+41 Note - Responsabilité des Dirigeants.md", "2026-07-09"),
+    ("Analyses_juridiques", "18 Note Audit RNE NPAI SAS.md", "J+42 Note - Audit RNE NPAI SAS.md", "2026-07-10"),
+    ("Analyses_juridiques", "20 Note - Tableau Défense Réponse.md", "J+47 Note - Tableau Défense Réponse.md", "2026-07-15"),
+    ("Analyses_juridiques", "21 🛡️ Memo Strategie Administrative Penale.md", "J+47 Note - Mémo Stratégie Admin Pénal.md", "2026-07-15"),
 
-    # ═══ 💰 Etudes indemnisation ═══
-    ("💰 Etudes indemnisation", "11+12 📊 Evaluation Dintilhac consolidee.md", "J+39 Note - Évaluation Dintilhac Consolidée.md", "2026-07-07"),
-    ("💰 Etudes indemnisation", "13 Note strategique FGTI CIVI.md", "J+40 Note - Stratégique FGTI CIVI.md", "2026-07-08"),
+    # ═══ Etudes_indemnisation ═══
+    ("Etudes_indemnisation", "11+12 📊 Evaluation Dintilhac consolidee.md", "J+39 Note - Évaluation Dintilhac Consolidée.md", "2026-07-07"),
+    ("Etudes_indemnisation", "13 Note strategique FGTI CIVI.md", "J+40 Note - Stratégique FGTI CIVI.md", "2026-07-08"),
 
-    # ═══ 🗂️ Organisation ═══
-    ("🗂️ Organisation", "00 📇 Index.md", "J+39 Note - Index Général.md", "2026-07-07"),
-    ("🗂️ Organisation", "05 Note - Dossier Spécial CERFA.md", "J+40 Note - Dossier Spécial CERFA.md", "2026-07-08"),
-    ("🗂️ Organisation", "10 🗂️ Plan action.md", "J+32 Note - Plan d'Action.md", "2026-06-30"),
-    ("🗂️ Organisation", "11 📅 Calendrier procedural.md", "J+32 Note - Calendrier Procédure.md", "2026-06-30"),
-    ("🗂️ Organisation", "20 📦 Bon envoi physique.md", "J+38 Note - Bon Envoi Physique.md", "2026-07-06"),
-    ("🗂️ Organisation", "23 Note - Suivi Envois LRAR.md", "J+43 Note - Suivi Envois LRAR.md", "2026-07-11"),
-    ("🗂️ Organisation", "24 Archive - Bordereau Pièces 15 Juillet.md", "J+47 Archive - Bordereau Pièces 15 Juillet.md", "2026-07-15"),
-    ("🗂️ Organisation", "24 Archive - Checklist Envoi 11-07-2026.md", "J+43 Archive - Checklist Envoi 11-07.md", "2026-07-11"),
+    # ═══ Organisation ═══
+    ("Organisation", "00 📇 Index.md", "J+39 Note - Index Général.md", "2026-07-07"),
+    ("Organisation", "05 Note - Dossier Spécial CERFA.md", "J+40 Note - Dossier Spécial CERFA.md", "2026-07-08"),
+    ("Organisation", "10 🗂️ Plan action.md", "J+32 Note - Plan d'Action.md", "2026-06-30"),
+    ("Organisation", "11 📅 Calendrier procedural.md", "J+32 Note - Calendrier Procédure.md", "2026-06-30"),
+    ("Organisation", "20 📦 Bon envoi physique.md", "J+38 Note - Bon Envoi Physique.md", "2026-07-06"),
+    ("Organisation", "23 Note - Suivi Envois LRAR.md", "J+43 Note - Suivi Envois LRAR.md", "2026-07-11"),
+    ("Organisation", "24 Archive - Bordereau Pièces 15 Juillet.md", "J+47 Archive - Bordereau Pièces 15 Juillet.md", "2026-07-15"),
+    ("Organisation", "24 Archive - Checklist Envoi 11-07-2026.md", "J+43 Archive - Checklist Envoi 11-07.md", "2026-07-11"),
 ]
 
 # Entrées supplémentaires Reel-only (les doublons de bordereau)
 REEL_EXTRA = [
-    ("⚖️ Actes proceduraux", "04 📑 Bordereau Audience.md", "J+38 📑 Bordereau Audience.md", "2026-07-06"),
-    ("⚖️ Actes proceduraux", "04 📑 Bordereau de pieces.md", "J+47 📑 Bordereau de pieces.md", "2026-07-15"),
+    ("Actes_proceduraux", "04 📑 Bordereau Audience.md", "J+38 📑 Bordereau Audience.md", "2026-07-06"),
+    ("Actes_proceduraux", "04 📑 Bordereau de pieces.md", "J+47 📑 Bordereau de pieces.md", "2026-07-15"),
 ]
 
 
@@ -515,7 +515,7 @@ def main():
     print(report)
 
     # Sauvegarder le rapport
-    rapport_path = BASE / "📊 Rapports" / f"RAPPORT_MIGRATION_JX_{datetime.now().strftime('%Y%m%d_%H%M%S')}.md"
+    rapport_path = BASE / "Rapports" / f"RAPPORT_MIGRATION_JX_{datetime.now().strftime('%Y%m%d_%H%M%S')}.md"
     rapport_path.parent.mkdir(parents=True, exist_ok=True)
     rapport_path.write_text(report, encoding="utf-8")
     print(f"\n📄 Rapport sauvegardé : {rapport_path.relative_to(BASE)}")
@@ -558,7 +558,7 @@ def main():
     log.append("")
 
     # 5. Sauvegarder le log
-    log_path = BASE / "📊 Rapports" / f"LOG_MIGRATION_JX_{datetime.now().strftime('%Y%m%d_%H%M%S')}.md"
+    log_path = BASE / "Rapports" / f"LOG_MIGRATION_JX_{datetime.now().strftime('%Y%m%d_%H%M%S')}.md"
     log_path.parent.mkdir(parents=True, exist_ok=True)
     log_path.write_text("\n".join(log), encoding="utf-8")
     print(f"📄 Log sauvegardé : {log_path.relative_to(BASE)}")

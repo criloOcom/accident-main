@@ -6,7 +6,7 @@ d'article non encore suivie de son bloc (comble les « trous »).
 
 Entrée : /tmp/glossaire.json (produit via legifrance_citation) mappant
          "<num>||<Code>" -> {"block": "...", "etat": "..."}.
-Cible  : fichiers .md sous ⚖️ Actes/🔑 Token.
+Cible  : fichiers .md sous Actes/Token.
 
 Règles :
 - On ne touche jamais le YAML (entre les deux premiers '---'), ni les lignes de
@@ -25,7 +25,7 @@ import re
 import sys
 
 ROOT = "/home/crilocom/accident-main"
-TOKEN = os.path.join(ROOT, "⚖️ Actes/🔑 Token")
+TOKEN = os.path.join(ROOT, "Actes/Token")
 GLOSS = "/tmp/glossaire.json"
 
 ALIASES = [

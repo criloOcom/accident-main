@@ -13,9 +13,9 @@ import glob
 from collections import defaultdict
 
 BASE = '/home/crilocom/accident-main'
-TOKEN_BASE = os.path.join(BASE, '⚖️ Actes', '🔑 Token')
-REAL_BASE = os.path.join(BASE, '⚖️ Actes', '👤 Reel')
-STATUS_DIR = os.path.join(BASE, '🚦 Status')
+TOKEN_BASE = os.path.join(BASE, 'Actes', 'Token')
+REAL_BASE = os.path.join(BASE, 'Actes', 'Reel')
+STATUS_DIR = os.path.join(BASE, 'Status')
 
 STATUT_NORMALIZE = {
     'draft': 'brouillon',
@@ -305,7 +305,7 @@ def main():
     # Create a README for the status dir
     readme_path = os.path.join(STATUS_DIR, 'README.md')
     with open(readme_path, 'w', encoding='utf-8') as fh:
-        fh.write("""# 📊 Index des statuts
+        fh.write("""# Index des statuts
 
 Ce dossier contient un fichier par statut, listant tous les documents concernés avec leurs liens croisés.
 

@@ -1,6 +1,6 @@
 import os
 
-ACTES_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), '⚖️ Actes')
+ACTES_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'Actes')
 
 YAML_MAP = {
     '01_Assignation_REFERE_PROVISION_FINAL.md': {

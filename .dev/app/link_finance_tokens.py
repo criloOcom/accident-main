@@ -7,7 +7,7 @@ from pathlib import Path
 
 BASE = Path("/home/crilocom/accident-main")
 
-# Mapping: token text -> relative filename in 🗂️ Tokens/
+# Mapping: token text -> relative filename in Tokens/
 TOKEN_MAP = {
     "Finance Provision Référé": "token-finance-provision-refere.md",
     "Finance Article 700": "token-finance-article-700.md",
@@ -27,7 +27,7 @@ TOKEN_MAP = {
     "Finance Prejudice Esthetique": "token-finance-prejudice-esthetique.md",
 }
 
-TOKENS_DIR = "🧠 Memory/🗂️ Tokens"
+TOKENS_DIR = "Memory/Tokens"
 
 # URL-encode the tokens dir the way existing links are done
 def url_encode_path(s: str) -> str:
@@ -57,8 +57,8 @@ def get_relative_path(file_path: Path, token_filename: str) -> str:
     return "/".join(parts)
 
 def find_affected_files() -> list[Path]:
-    """Find all .md files under ⚖️ Actes/🔑 Token/ that contain Finance tokens."""
-    actes_dir = BASE / "⚖️ Actes" / "🔑 Token"
+    """Find all .md files under Actes/Token/ that contain Finance tokens."""
+    actes_dir = BASE / "Actes" / "Token"
     affected = []
     for root, _dirs, files in os.walk(actes_dir):
         for f in files:

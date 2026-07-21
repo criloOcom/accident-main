@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `📊 Rapports/RAPPORT_CONFORMITE_PROCEDURALE_2026-07-14.md` vérifiant la **conformité procédurale** de la stratégie déployée (et à venir) au droit processuel français, et propose un **calendrier juridique réaliste et opposable**.
+Produis un rapport `Rapports/RAPPORT_CONFORMITE_PROCEDURALE_2026-07-14.md` vérifiant la **conformité procédurale** de la stratégie déployée (et à venir) au droit processuel français, et propose un **calendrier juridique réaliste et opposable**.
 
 ## ANGLES
 

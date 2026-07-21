@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `📊 Rapports/RAPPORT_AUDIT_FAUX_DEPOSE_2026-07-18.md` qui **parcourt l'intégralité du dossier** pour traquer les mentions d'actes présentés comme accomplis (déposés, envoyés, transmis, signifiés, notifiés) mais qui n'ont **pas été réellement effectués**.
+Produis un rapport `Rapports/RAPPORT_AUDIT_FAUX_DEPOSE_2026-07-18.md` qui **parcourt l'intégralité du dossier** pour traquer les mentions d'actes présentés comme accomplis (déposés, envoyés, transmis, signifiés, notifiés) mais qui n'ont **pas été réellement effectués**.
 
 ## CONTEXTE CRITIQUE
 

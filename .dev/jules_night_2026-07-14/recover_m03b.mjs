@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-/** Récupère M03b : si PR présente et contient un rapport 📊 Rapports/, merge + clôture + sync + push. */
+/** Récupère M03b : si PR présente et contient un rapport Rapports/, merge + clôture + sync + push. */
 import { spawn } from 'child_process';
 import readline from 'readline';
 import fs from 'fs';
@@ -47,11 +47,11 @@ async function main() {
   if (st === 'stable' && pr) {
     const num = (pr.url.match(/pull\/(\d+)/) || [])[1];
     if (!num) { console.log('Numéro PR introuvable.'); return; }
-    // Vérifie que la PR contient un rapport dans 📊 Rapports/
+    // Vérifie que la PR contient un rapport dans Rapports/
     const files = sh(`gh pr view ${num} --repo criloOcom/accident-main --json files`).trim();
     let hasReport = false;
-    try { hasReport = JSON.parse(files).files.some(f => f.path.startsWith('📊 Rapports/') && f.path.endsWith('.md')); } catch {}
-    if (!hasReport) { console.log('PR #' + num + ' ne contient PAS de rapport 📊 Rapports/ — déviation, on n merge pas. À investiguer.'); return; }
+    try { hasReport = JSON.parse(files).files.some(f => f.path.startsWith('Rapports/') && f.path.endsWith('.md')); } catch {}
+    if (!hasReport) { console.log('PR #' + num + ' ne contient PAS de rapport Rapports/ — déviation, on n merge pas. À investiguer.'); return; }
     console.log('Merge PR #' + num + ' (rapport détecté)...');
     sh(`gh pr merge ${num} --repo criloOcom/accident-main --rebase --delete-branch`);
     sh('git pull origin main --quiet');

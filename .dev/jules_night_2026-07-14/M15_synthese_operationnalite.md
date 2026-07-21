@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport de synthèse `📊 Rapports/RAPPORT_SYNTHESE_OPERATIONNALITE_2026-07-14.md` qui **fait le point global** sur l'état du dossier accident-main au 14/07/2026 et sa capacité à tenir devant la justice française (civil + pénal), en croisant tous les angles des missions 1 à 14 (sans les répéter, mais en synthétisant).
+Produis un rapport de synthèse `Rapports/RAPPORT_SYNTHESE_OPERATIONNALITE_2026-07-14.md` qui **fait le point global** sur l'état du dossier accident-main au 14/07/2026 et sa capacité à tenir devant la justice française (civil + pénal), en croisant tous les angles des missions 1 à 14 (sans les répéter, mais en synthétisant).
 
 ## ANGLES
 

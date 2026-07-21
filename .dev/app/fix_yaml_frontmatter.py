@@ -77,7 +77,7 @@ def parse_details(details: list[str]) -> dict:
 # ── Opérations de correction ─────────────────────────────────────────
 
 def fix_reel_path_in_reel(fp: str, content: str, dry_run: bool) -> list[str]:
-    """Supprime reel_path dans 👤 Reel (ces fichiers SONT la version réelle)."""
+    """Supprime reel_path dans Reel (ces fichiers SONT la version réelle)."""
     log = []
     m = re.search(r'^reel_path:\s*.+$', content, re.MULTILINE)
     if not m:
@@ -96,7 +96,7 @@ def fix_reel_path_in_reel(fp: str, content: str, dry_run: bool) -> list[str]:
 
 
 def fix_reel_path_in_token(fp: str, content: str, dry_run: bool) -> list[str]:
-    """Corrige la profondeur relative du reel_path dans 🔑 Token."""
+    """Corrige la profondeur relative du reel_path dans Token."""
     log = []
     m = re.search(r'^reel_path:\s*(.+)$', content, re.MULTILINE)
     if not m:
@@ -105,23 +105,23 @@ def fix_reel_path_in_token(fp: str, content: str, dry_run: bool) -> list[str]:
     current_path = m.group(1).strip()
     abs_fp = os.path.normpath(os.path.join(ROOT, fp))
     abs_dir = os.path.dirname(abs_fp)
-    token_dir = os.path.join(ROOT, "⚖️ Actes", "🔑 Token")
+    token_dir = os.path.join(ROOT, "Actes", "Token")
 
     if not abs_dir.startswith(token_dir + os.sep) and abs_dir != token_dir:
-        log.append(f"  ⚠️  fichier pas sous 🔑 Token, ignoré")
+        log.append(f"  ⚠️  fichier pas sous Token, ignoré")
         return log
 
-    # Déduire la cible 👤 Reel depuis le chemin actuel
-    # current_path = ../../👤 Reel/rest/of/path.md
+    # Déduire la cible Reel depuis le chemin actuel
+    # current_path = ../../Reel/rest/of/path.md
     # On extrait rest/of/path.md et on recalcule le relatif correct
-    reel_m = re.search(r'👤 Reel/(.+)', current_path)
+    reel_m = re.search(r'Reel/(.+)', current_path)
     if not reel_m:
         return log
 
     rest = reel_m.group(1)
 
     # Cible absolue
-    target = os.path.normpath(os.path.join(ROOT, "⚖️ Actes", "👤 Reel", rest))
+    target = os.path.normpath(os.path.join(ROOT, "Actes", "Reel", rest))
     new_path = os.path.relpath(target, abs_dir)
 
     if current_path == new_path:
@@ -169,9 +169,9 @@ def add_missing_date(fp: str, content: str, yaml_dict: dict, violations: list[di
     # Essayer depuis le calendrier Google si non trouvé dans le nom
     # (trop lourd pour batch — on met un placeholder)
     
-    # Pour 👤 Reel, essayer de trouver le Token correspondant
-    if "👤 Reel" in fp:
-        token_fp = fp.replace("👤 Reel", "🔑 Token")
+    # Pour Reel, essayer de trouver le Token correspondant
+    if "Reel" in fp:
+        token_fp = fp.replace("Reel", "Token")
         token_abs = os.path.join(ROOT, token_fp)
         if os.path.exists(token_abs):
             try:
@@ -325,13 +325,13 @@ def process_file(fp: str, violations: list[dict], args) -> list[str]:
                 meta = read_frontmatter(abs_fp) or meta
 
     if args.reel_path or args.all:
-        if "👤 Reel" in fp and meta.get("reel_path"):
+        if "Reel" in fp and meta.get("reel_path"):
             log.extend(fix_reel_path_in_reel(abs_fp, content, args.dry_run))
             # Re-read content after modification
             if not args.dry_run:
                 with open(abs_fp, "r", encoding="utf-8") as f:
                     content = f.read()
-        elif "🔑 Token" in fp and meta.get("reel_path"):
+        elif "Token" in fp and meta.get("reel_path"):
             log.extend(fix_reel_path_in_token(fp, content, args.dry_run))
             if not args.dry_run:
                 with open(abs_fp, "r", encoding="utf-8") as f:

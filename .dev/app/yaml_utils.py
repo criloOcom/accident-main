@@ -41,11 +41,11 @@ STATUT_VALUES: set[str] = {
 
 # Dossiers soumis à validation YAML stricte
 PERIMETER_DIRS: list[str] = [
-    "⚖️ Actes/🔑 Token",
-    "⚖️ Actes/👤 Reel",
-    "📜 Lois",
-    "🧠 Memory",
-    "📊 Rapports",
+    "Actes/Token",
+    "Actes/Reel",
+    "Lois",
+    "Memory",
+    "Rapports",
 ]
 
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")

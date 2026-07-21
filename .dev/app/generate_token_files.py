@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 generate_token_files.py — Génère les fiches individuelles pour chaque token
-dans 🧠 Memory/🗂️ Tokens/ avec contenu enrichi (identité, chronologie, documents liés).
+dans Memory/Tokens/ avec contenu enrichi (identité, chronologie, documents liés).
 
 Usage: python3 .dev/app/generate_token_files.py [--dry-run]
 """
@@ -9,9 +9,9 @@ Usage: python3 .dev/app/generate_token_files.py [--dry-run]
 import os, re, unicodedata, sys
 
 BASE = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
-JETONS_DIR = os.path.join(BASE, "🧠 Memory", "🗂️ Tokens")
-TOKENMAP = os.path.join(BASE, "🧠 Memory", "TOKEN MAP.md")
-STRICT = os.path.join(BASE, "🧠 Memory", "STRICT VARIABLES.md")
+JETONS_DIR = os.path.join(BASE, "Memory", "Tokens")
+TOKENMAP = os.path.join(BASE, "Memory", "TOKEN MAP.md")
+STRICT = os.path.join(BASE, "Memory", "STRICT VARIABLES.md")
 
 DRY_RUN = "--dry-run" in sys.argv
 
@@ -136,7 +136,7 @@ def add_enrichment(entries, strict_content):
 
 def scan_jplus_docs():
     docs = {}
-    base = os.path.join(BASE, "⚖️ Actes", "🔑 Token")
+    base = os.path.join(BASE, "Actes", "Token")
     for root, dirs, filenames in os.walk(base):
         for fn in filenames:
             if fn.endswith(".md") and fn != "README.md":

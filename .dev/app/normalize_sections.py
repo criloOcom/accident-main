@@ -27,11 +27,11 @@ import sys
 from collections import defaultdict
 
 BASE = "/home/crilocom/accident-main"
-TOKEN = os.path.join(BASE, "⚖️ Actes", "🔑 Token")
-REEL = os.path.join(BASE, "⚖️ Actes", "👤 Reel")
+TOKEN = os.path.join(BASE, "Actes", "Token")
+REEL = os.path.join(BASE, "Actes", "Reel")
 
 # Dossiers à ignorer (pièces brutes sans YAML)
-SKIP_PARENTS = {"📂 Preuves officielles"}
+SKIP_PARENTS = {"Preuves_officielles"}
 
 # Mots-clés de sections de premier niveau (pour les ### sans chiffre romain)
 KW = {

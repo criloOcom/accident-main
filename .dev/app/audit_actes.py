@@ -3,9 +3,9 @@ import re
 import yaml
 import urllib.parse
 
-actes_dir = "⚖️ Actes"
-token_dir = os.path.join(actes_dir, "🔑 Token")
-reel_dir = os.path.join(actes_dir, "👤 Reel")
+actes_dir = "Actes"
+token_dir = os.path.join(actes_dir, "Token")
+reel_dir = os.path.join(actes_dir, "Reel")
 
 report = []
 
@@ -20,7 +20,7 @@ def check_naming(filename):
 # Read token map to get list of tokens
 tokens = []
 try:
-    with open("🧠 Memory/TOKEN MAP.md", "r", encoding="utf-8") as f:
+    with open("Memory/TOKEN MAP.md", "r", encoding="utf-8") as f:
         content = f.read()
         # extract all tokens in backticks
         raw_tokens = re.findall(r'`([^`]+)`', content)
@@ -114,8 +114,8 @@ for rel_path in all_rel_paths:
         # handle file:/// links gracefully if they are local
         if unquoted_link.startswith("file:///"):
             # try to extract relative part, but it's hard to know what the root is here
-            if "⚖️ Actes" in unquoted_link:
-                unquoted_link = unquoted_link.split("⚖️ Actes")[1].lstrip("/")
+            if "Actes" in unquoted_link:
+                unquoted_link = unquoted_link.split("Actes")[1].lstrip("/")
                 link_path = os.path.join(actes_dir, unquoted_link)
                 if not os.path.exists(link_path):
                     add_issue(rel_path, f"Lien mort trouvé: {link}", "🔴", "Corriger ou supprimer le lien")

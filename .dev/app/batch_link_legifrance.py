@@ -23,7 +23,7 @@ from mcp_judilibre.server import JudilibreClient
 judilibre = JudilibreClient()
 result = judilibre.search('accident travail', chamber='soc', solution='cassation')
 
-Voir 📜 Lois/EXEMPLES_REQUETES_MCP.md pour plus d'exemples détaillés.
+Voir Lois/EXEMPLES_REQUETES_MCP.md pour plus d'exemples détaillés.
 """
 
 import re
@@ -290,19 +290,19 @@ def main():
 
     files = {
         # (filepath, use_annexe_b, fix_wrong_ids)
-        os.path.join(base, "token", "06_🗄️ Archives", "annexes", "ANNEXE B Lois Jurisprudence.md"): (True, True),
-        os.path.join(base, "token", "06_🗄️ Archives", "ANALYSE_correction_juridique.md"): (False, False),
-        os.path.join(base, "token", "06_🗄️ Archives", "ANALYSE_Jurisprudence.md"): (False, False),
-        os.path.join(base, "token", "06_🗄️ Archives", "STRATEGIE_Contentieux_Civil.md"): (False, False),
-        os.path.join(base, "token", "06_🗄️ Archives", "STRATEGIE_Contentieux_Penal.md"): (False, False),
-        os.path.join(base, "token", "06_🗄️ Archives", "Constitution_Partie_Civile.md"): (False, False),
-        os.path.join(base, "token", "💰 Etudes indemnisation", "11_Etude indemnisation.md"): (False, False),
-        os.path.join(base, "token", "📚 Analyses juridiques", "13_Responsabilites legales.md"): (False, False),
+        os.path.join(base, "token", "06_Archives", "annexes", "ANNEXE B Lois Jurisprudence.md"): (True, True),
+        os.path.join(base, "token", "06_Archives", "ANALYSE_correction_juridique.md"): (False, False),
+        os.path.join(base, "token", "06_Archives", "ANALYSE_Jurisprudence.md"): (False, False),
+        os.path.join(base, "token", "06_Archives", "STRATEGIE_Contentieux_Civil.md"): (False, False),
+        os.path.join(base, "token", "06_Archives", "STRATEGIE_Contentieux_Penal.md"): (False, False),
+        os.path.join(base, "token", "06_Archives", "Constitution_Partie_Civile.md"): (False, False),
+        os.path.join(base, "token", "Etudes_indemnisation", "11_Etude indemnisation.md"): (False, False),
+        os.path.join(base, "token", "Analyses_juridiques", "13_Responsabilites legales.md"): (False, False),
         # 4 nouveaux courriers 03-06
-        os.path.join(base, "token", "✉️ Courriers", "03_Courrier SAS.md"): (False, False),
-        os.path.join(base, "token", "✉️ Courriers", "04_Courrier Assureur.md"): (False, False),
-        os.path.join(base, "token", "✉️ Courriers", "05_Courrier Proprietaire.md"): (False, False),
-        os.path.join(base, "token", "✉️ Courriers", "06_Courrier President DG.md"): (False, False),
+        os.path.join(base, "token", "Courriers", "03_Courrier SAS.md"): (False, False),
+        os.path.join(base, "token", "Courriers", "04_Courrier Assureur.md"): (False, False),
+        os.path.join(base, "token", "Courriers", "05_Courrier Proprietaire.md"): (False, False),
+        os.path.join(base, "token", "Courriers", "06_Courrier President DG.md"): (False, False),
     }
 
     print("=== Batch linking legal references to Légifrance ===")

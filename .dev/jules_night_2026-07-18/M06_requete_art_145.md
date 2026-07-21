@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `📊 Rapports/RAPPORT_FINALISATION_REQUETE_145_2026-07-18.md` analysant l'état de la requête Art. 145 CPC et proposant les **corrections nécessaires** à la lumière des découvertes du 16 juillet.
+Produis un rapport `Rapports/RAPPORT_FINALISATION_REQUETE_145_2026-07-18.md` analysant l'état de la requête Art. 145 CPC et proposant les **corrections nécessaires** à la lumière des découvertes du 16 juillet.
 
 ## CONTEXTE
 
@@ -23,7 +23,7 @@ Produis un rapport `📊 Rapports/RAPPORT_FINALISATION_REQUETE_145_2026-07-18.md
 
 ## ANGLES
 
-1. **Identifier la requête existante** : lis les fichiers dans `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/` pour trouver la requête Art. 145 CPC.
+1. **Identifier la requête existante** : lis les fichiers dans `Actes/Token/Actes_proceduraux/Contentieux_civil/` pour trouver la requête Art. 145 CPC.
 
 2. **Vérifier la cible** : le défendeur est-il correctement nommé ? Si c'est LMG, proposer les corrections pour viser HB BARBER.
 

@@ -9,7 +9,7 @@
 
 ## OBJECTIF
 
-Vérifier que TOUTES les dates mentionnées dans l'ensemble du dépôt sont conformes à la Source Unique de Vérité (`🧠 Memory/STRICT VARIABLES.md`) et cohérentes entre elles.
+Vérifier que TOUTES les dates mentionnées dans l'ensemble du dépôt sont conformes à la Source Unique de Vérité (`Memory/STRICT VARIABLES.md`) et cohérentes entre elles.
 
 ## MÉTHODE
 
@@ -21,7 +21,7 @@ Vérifier que TOUTES les dates mentionnées dans l'ensemble du dépôt sont conf
    - Consolidation médicale : 01 mars 2027
    - Toutes les dates de procédure (J+X)
 
-2. **Parcourir** TOUS les fichiers dans `⚖️ Actes/🔑 Token/`, `📊 Rapports/`, `🧠 Memory/` et `📜 Lois/`.
+2. **Parcourir** TOUS les fichiers dans `Actes/Token/`, `Rapports/`, `Memory/` et `Lois/`.
 
 3. **Signaler** TOUTE occurrence de date qui dévie des valeurs canoniques, avec :
    - Le fichier exact et le numéro de ligne
@@ -32,6 +32,6 @@ Vérifier que TOUTES les dates mentionnées dans l'ensemble du dépôt sont conf
 
 ## LIVRABLE
 
-`📊 Rapports/85_Coherence_2026-07-15/M01_AUDIT_DATES.md`
+`Rapports/85_Coherence_2026-07-15/M01_AUDIT_DATES.md`
 
 Format : checklist avec cases à cocher. Chaque ligne = une date à corriger.

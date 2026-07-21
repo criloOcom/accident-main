@@ -26,4 +26,4 @@ Vérifier que le récit des faits est IDENTIQUE dans tous les documents du dossi
 
 ## LIVRABLE
 
-`📊 Rapports/85_Coherence_2026-07-15/M09_AUDIT_NARRATIF.md`
+`Rapports/85_Coherence_2026-07-15/M09_AUDIT_NARRATIF.md`

@@ -36,16 +36,16 @@ SKIP_LINKS = {
 }
 # Fichiers sources auto-générés dont les liens ne sont pas à vérifier
 SKIP_SOURCES = {
-    '🧠 Memory/DEPENDENCIES.md',
-    '📊 Rapports/audit/20260713_audit_faits_canoniques.md',
-    '📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_FINAL_INTEGRATION_20260710.md',
-    '📊 Rapports/60_Audits_Qualite/RAPPORT_AUDIT_HERMES_20260711.md',
-    '📊 Rapports/60_Audits_Qualite/RAPPORT_AUDIT_REORGANISATION_PREUVES_20260711.md',
-    '📊 Rapports/60_Audits_Qualite/RAPPORT_DOCUMENTATION_NOUVEAU_DOSSIER_20260711.md',
+    'Memory/DEPENDENCIES.md',
+    'Rapports/audit/20260713_audit_faits_canoniques.md',
+    'Rapports/30_Analyses_Multi_Angle/RAPPORT_FINAL_INTEGRATION_20260710.md',
+    'Rapports/60_Audits_Qualite/RAPPORT_AUDIT_HERMES_20260711.md',
+    'Rapports/60_Audits_Qualite/RAPPORT_AUDIT_REORGANISATION_PREUVES_20260711.md',
+    'Rapports/60_Audits_Qualite/RAPPORT_DOCUMENTATION_NOUVEAU_DOSSIER_20260711.md',
 }
 # Fichiers sources contenant des exemples techniques (placeholders)
 SKIP_SOURCE_PREFIXES = {
-    '📊 Rapports/70_Technique_Repo/',
+    'Rapports/70_Technique_Repo/',
 }
 ROOT_DIRS = ('Actes', 'Lois', 'Memory', 'Rapports', 'Annexes', '.dev')
 

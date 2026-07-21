@@ -20,7 +20,7 @@ def audit_directory(directory="."):
     report = f"# Rapport d'Audit Cohérence Juridique\nDate: {datetime.date.today().isoformat()}\n\n"
     issues_dintilhac, issues_dates = [], []
     for root, _, files in os.walk(directory):
-        if "Actes/🔑 Token" not in root and "Actes/Token" not in root: continue
+        if "Actes/Token" not in root and "Actes/Token" not in root: continue
         for file in files:
             if not file.endswith(".md") or "INDEX" in file or "README" in file or "Rapport Expertise Médicale.md" in file or "Preparation Expertise UMJ.md" in file: continue
             filepath = os.path.join(root, file)
@@ -53,7 +53,7 @@ def audit_directory(directory="."):
 
 if __name__ == "__main__":
     content = audit_directory()
-    out_dir = Path("📊 Rapports")
+    out_dir = Path("Rapports")
     out_dir.mkdir(parents=True, exist_ok=True)
     out_file = out_dir / f"NW_M2_COHERENCE_{datetime.date.today().isoformat()}.md"
     with open(out_file, 'w', encoding='utf-8') as f: f.write(content)

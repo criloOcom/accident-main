@@ -25,12 +25,12 @@ ROOT = '/home/crilocom/accident-main'
 
 DIRS = {
     'token': [
-        '⚖️ Actes/🔑 Token/✉️ Courriers',
-        '⚖️ Actes/🔑 Token/⚖️ Actes proceduraux',
+        'Actes/Token/Courriers',
+        'Actes/Token/Actes_proceduraux',
     ],
     'reel': [
-        '⚖️ Actes/👤 Reel/✉️ Courriers',
-        '⚖️ Actes/👤 Reel/⚖️ Actes proceduraux',
+        'Actes/Reel/Courriers',
+        'Actes/Reel/Actes_proceduraux',
     ],
 }
 

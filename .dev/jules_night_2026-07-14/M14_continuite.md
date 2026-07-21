@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `📊 Rapports/RAPPORT_CONTINUITE_2026-07-14.md` sur la **résilience du dossier** face aux aléas : dépendances entre actes, points de défaillance unique, et plan de secours.
+Produis un rapport `Rapports/RAPPORT_CONTINUITE_2026-07-14.md` sur la **résilience du dossier** face aux aléas : dépendances entre actes, points de défaillance unique, et plan de secours.
 
 ## ANGLES
 

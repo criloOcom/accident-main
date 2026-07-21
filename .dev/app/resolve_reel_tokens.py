@@ -15,7 +15,7 @@ import re
 import sys
 
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-REEL_DIR = os.path.join(PROJECT_ROOT, '⚖️ Actes', '👤 Reel')
+REEL_DIR = os.path.join(PROJECT_ROOT, 'Actes', 'Reel')
 REPORT_PATH = os.path.join(PROJECT_ROOT, '.dev', 'app', 'resolve_reel_tokens_report.md')
 
 SIMPLE_TOKENS = {
@@ -177,7 +177,7 @@ def main():
                 all_lines.append((rel_path, file_replacements, len(file_unresolved)))
 
     print(f"{'='*60}")
-    print(f"Résolution des tokens dans 👤 Reel")
+    print(f"Résolution des tokens dans Reel")
     print(f"{'='*60}")
     print(f"Fichiers parcourus : {total_files}")
     print(f"Fichiers modifiés  : {modified_files}")

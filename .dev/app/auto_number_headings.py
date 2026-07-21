@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Unify heading numbering across ⚖️ Actes/🔑 Token/ and 📊 Rapports/.
+Unify heading numbering across Actes/Token/ and Rapports/.
 
 Hierarchical format:
   H2  →  ## I — TITRE         (Roman numerals)
@@ -28,11 +28,11 @@ DRY_RUN = "--apply" not in sys.argv
 # ---------------------------------------------------------------------------
 
 TARGET_DIRS = [
-    ROOT / "⚖️ Actes/🔑 Token",
-    ROOT / "📊 Rapports",
+    ROOT / "Actes/Token",
+    ROOT / "Rapports",
 ]
 
-EXCLUDE_DIR_PARTS = ("🗄️ Archives", "/Archives")
+EXCLUDE_DIR_PARTS = ("Archives", "/Archives")
 
 # ---------------------------------------------------------------------------
 # Prefix patterns — ONLY match if followed by a clear separator

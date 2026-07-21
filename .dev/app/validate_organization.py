@@ -8,7 +8,7 @@ import re
 
 def validate_breadcrumbs():
     """Valider que tous les fichiers ont des breadcrumbs conformes"""
-    lois_dir = Path("/home/crilocom/accident-main/📜 Lois")
+    lois_dir = Path("/home/crilocom/accident-main/Lois")
     errors = []
     
     for md_file in lois_dir.rglob("Article*.md"):
@@ -22,7 +22,7 @@ def validate_breadcrumbs():
 
 def validate_yaml_urls():
     """Valider que tous les fichiers ont des URLs"""
-    lois_dir = Path("/home/crilocom/accident-main/📜 Lois")
+    lois_dir = Path("/home/crilocom/accident-main/Lois")
     missing_urls = []
     
     for md_file in lois_dir.rglob("Article*.md"):
@@ -37,10 +37,10 @@ def validate_yaml_urls():
 def validate_readme_files():
     """Valider la présence des README requis"""
     required_readmes = [
-        "/home/crilocom/accident-main/🧠 Memory/README.md",
-        "/home/crilocom/accident-main/📊 Rapports/README.md",
+        "/home/crilocom/accident-main/Memory/README.md",
+        "/home/crilocom/accident-main/Rapports/README.md",
         "/home/crilocom/accident-main/.dev/README.md",
-        "/home/crilocom/accident-main/📜 Lois/📒 Code general des collectivites territoriales/README.md"
+        "/home/crilocom/accident-main/Lois/Code general des collectivites territoriales/README.md"
     ]
     
     missing = []

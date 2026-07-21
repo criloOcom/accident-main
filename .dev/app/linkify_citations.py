@@ -2,8 +2,8 @@
 """
 linkify_citations.py — Rend cliquables toutes les citations internes de dossiers/fichiers.
 
-Règle #17 (🧠 Memory/RULES.md) : toute citation interne (`⚖️ Actes/...`, `📜 Lois/...`,
-`🧠 Memory/...`, `📊 Rapports/...`, `📎 Annexes/...`, `.dev/...`) écrite entre backticks
+Règle #17 (Memory/RULES.md) : toute citation interne (`Actes/...`, `Lois/...`,
+`Memory/...`, `Rapports/...`, `📎 Annexes/...`, `.dev/...`) écrite entre backticks
 sans lien doit devenir un lien relatif Markdown :
   - dossier cité  -> lien vers son README.md
   - fichier cité  -> lien vers le fichier
@@ -40,7 +40,7 @@ def resolve_target(cand):
         return cand  # lien vers le dossier (valide sur GitHub)
     # 3. tentative resolution convention historique {token,reel}
     if '{token,reel}' in cand:
-        for subst in ('🔑 Token', '👤 Reel'):
+        for subst in ('Token', 'Reel'):
             c2 = cand.replace('{token,reel}', subst)
             t2 = os.path.join(ROOT, c2)
             if os.path.isfile(t2):

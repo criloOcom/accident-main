@@ -17,8 +17,8 @@ BASE = Path("/home/crilocom/accident-main")
 
 # Regex pour détecter [[**[Token]**](TOKEN_MAP.md#anchor)](token-file.md)
 # Groupe 1: Token Name (ex: "La Victime")
-# Groupe 2: TOKEN MAP URL (ex: "%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques")
-# Groupe 3: Token file URL (ex: "../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom.md")
+# Groupe 2: TOKEN MAP URL (ex: "Memory/TOKEN%20MAP.md#personnes-physiques")
+# Groupe 3: Token file URL (ex: "../../../../Memory/Tokens/token-victime-nom.md")
 NESTED_PATTERN = re.compile(
     r'\[\[\*\*\[([^\]]+)\]\*\*\]\(([^)]+)\)\]\(([^)]+)\)'
 )
@@ -75,7 +75,7 @@ def main():
         # Skip hidden dirs, Archives, node_modules
         if any(p.startswith('.') for p in parts):
             continue
-        if "🗄️ Archives" in parts:
+        if "Archives" in parts:
             continue
         if "node_modules" in parts:
             continue

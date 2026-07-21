@@ -2,7 +2,7 @@
 import os
 import re
 
-LOIS_DIR = "/home/crilocom/accident-main/📜 Lois"
+LOIS_DIR = "/home/crilocom/accident-main/Lois"
 
 # Law articles: filename -> (title, code, article, legiarti, status)
 LAW_ARTICLES = {

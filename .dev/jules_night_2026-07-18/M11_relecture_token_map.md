@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `📊 Rapports/RAPPORT_AUDIT_TOKENS_2026-07-18.md` vérifiant la **cohérence de l'ensemble des tokens d'anonymisation**, avec un focus particulier sur le nouveau token `**[Le Téléphone du Préposé]**` récemment créé.
+Produis un rapport `Rapports/RAPPORT_AUDIT_TOKENS_2026-07-18.md` vérifiant la **cohérence de l'ensemble des tokens d'anonymisation**, avec un focus particulier sur le nouveau token `**[Le Téléphone du Préposé]**` récemment créé.
 
 ## MÉTHODE
 
@@ -20,7 +20,7 @@ Produis un rapport `📊 Rapports/RAPPORT_AUDIT_TOKENS_2026-07-18.md` vérifiant
    - La correspondance réelle (ou « à déterminer »)
    - Pas de doublon ni d'absence
 
-2. **Lire les fichiers token individuels** dans `🧠 Memory/🗂️ Tokens/` — vérifier la complétude de chacun, en particulier `token-exploitation-prepose-telephone.md` (nouveau token) et `token-exploitation-prepose-nom.md` (mis à jour avec coordonnées).
+2. **Lire les fichiers token individuels** dans `Memory/Tokens/` — vérifier la complétude de chacun, en particulier `token-exploitation-prepose-telephone.md` (nouveau token) et `token-exploitation-prepose-nom.md` (mis à jour avec coordonnées).
 
 3. **Vérifier la double strate** :
 

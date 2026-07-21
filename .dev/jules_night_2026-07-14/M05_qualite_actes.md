@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `📊 Rapports/RAPPORT_QUALITE_ACTES_2026-07-14.md` évaluant la **qualité juridique et la tenue rédactionnelle** des actes de procédure (assignations, constitution de partie civile, réquisitoire, mémoire, plaintes, requête Art. 145 CPC) au regard des standards de la procédure civile et pénale française.
+Produis un rapport `Rapports/RAPPORT_QUALITE_ACTES_2026-07-14.md` évaluant la **qualité juridique et la tenue rédactionnelle** des actes de procédure (assignations, constitution de partie civile, réquisitoire, mémoire, plaintes, requête Art. 145 CPC) au regard des standards de la procédure civile et pénale française.
 
 ## ANGLES
 

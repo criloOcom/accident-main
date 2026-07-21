@@ -12,10 +12,10 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent.parent
 TOKEN_DIRS = [
-    "⚖️ Actes/🔑 Token",
+    "Actes/Token",
 ]
 
-EXCLUDE_DIRS = {"/👤 Reel/", ".git", ".dev/jules_"}
+EXCLUDE_DIRS = {"/Reel/", ".git", ".dev/jules_"}
 
 YAML_LINK_RE = re.compile(r'\[(.*?)\]\([^)]+\)')
 

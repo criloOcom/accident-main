@@ -33,10 +33,10 @@ Vérifier que TOUS les montants d'indemnisation mentionnés dans le dépôt corr
    - Montant qui utilise encore les valeurs SUPERSEDED (§2 de STRICT VARIABLES)
    - Montant qui n'a pas de source vérifiable
 
-4. **Attention spéciale** : les montants dans les fichiers `👤 Reel/` doivent être identiques à ceux de `🔑 Token/` (mêmes valeurs, seuls les noms changent).
+4. **Attention spéciale** : les montants dans les fichiers `Reel/` doivent être identiques à ceux de `Token/` (mêmes valeurs, seuls les noms changent).
 
 ## LIVRABLE
 
-`📊 Rapports/85_Coherence_2026-07-15/M02_AUDIT_MONTANTS.md`
+`Rapports/85_Coherence_2026-07-15/M02_AUDIT_MONTANTS.md`
 
 Format : TODO list avec cases. Chaque item = un montant à corriger ou un fichier à mettre à jour.

@@ -8,7 +8,7 @@ Usage :
     python3 .dev/app/health_report.py --json                   # sortie JSON
     python3 .dev/app/health_report.py --no-write               # pas de fichier rapport
 
-Génère : 📊 Rapports/HEALTH_REPORT_YYYY-MM-DD.md
+Génère : Rapports/HEALTH_REPORT_YYYY-MM-DD.md
 """
 
 import argparse
@@ -28,8 +28,8 @@ from yaml_utils import (
     validate_date_format,
 )
 
-REPORTS_DIR = os.path.join(REPO_ROOT, "📊 Rapports")
-CALENDAR_MAP = os.path.join(REPO_ROOT, "🧠 Memory", "CALENDAR_MAP.md")
+REPORTS_DIR = os.path.join(REPO_ROOT, "Rapports")
+CALENDAR_MAP = os.path.join(REPO_ROOT, "Memory", "CALENDAR_MAP.md")
 
 
 def run_script(script_name: str, *args: str) -> tuple[int, str]:
@@ -83,7 +83,7 @@ def check_reel_paths(path: str | None = None) -> list[str]:
     """Check 3 : reel_path pointant vers fichier inexistant."""
     issues: list[str] = []
     from yaml_validator import walk_md_files, read_frontmatter
-    files = walk_md_files(path) if path else walk_md_files("⚖️ Actes/🔑 Token")
+    files = walk_md_files(path) if path else walk_md_files("Actes/Token")
     for fp in files:
         fm = read_frontmatter(fp)
         if not fm:

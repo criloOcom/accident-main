@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 update_token_links.py — Remplace les liens TOKEN MAP.md#section par
-des liens vers les fiches individuelles dans 🧠 Memory/🗂️ Tokens/.
+des liens vers les fiches individuelles dans Memory/Tokens/.
 
 Seules les liaisons de type [**[Token]**](...TOKEN MAP...) sont remplacées.
 Les non-tokens (N°..., Adresse..., Téléphone...) restent vers la section.
@@ -13,7 +13,7 @@ import os, re, sys, unicodedata
 from urllib.parse import quote
 
 BASE = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
-JETONS_DIR = os.path.join(BASE, "🧠 Memory", "🗂️ Tokens")
+JETONS_DIR = os.path.join(BASE, "Memory", "Tokens")
 DRY_RUN = "--dry-run" in sys.argv
 
 # ─── build token mapping ───────────────────────────────────
@@ -169,9 +169,9 @@ def replace_links(content, from_file):
 def link_plain_tokens_in_tokenmap():
     """
     Traite TOKEN MAP.md : transforme les `**[...]**` en texte brut
-    en liens cliquables vers 🗂️ Tokens/*.md.
+    en liens cliquables vers Tokens/*.md.
     """
-    tokenmap_path = os.path.join(BASE, "🧠 Memory", "TOKEN MAP.md")
+    tokenmap_path = os.path.join(BASE, "Memory", "TOKEN MAP.md")
     if not os.path.isfile(tokenmap_path):
         print("  ❌ TOKEN MAP.md introuvable")
         return 0, 0
@@ -222,13 +222,13 @@ def link_plain_tokens_in_tokenmap():
 
     if replaced > 0:
         if DRY_RUN:
-            print(f"  ~ 🧠 Memory/TOKEN MAP.md: {replaced} lien(s) (dry-run)")
+            print(f"  ~ Memory/TOKEN MAP.md: {replaced} lien(s) (dry-run)")
         else:
             with open(tokenmap_path, 'w') as f:
                 f.write(new_content)
-            print(f"  ✅ 🧠 Memory/TOKEN MAP.md: {replaced} lien(s)")
+            print(f"  ✅ Memory/TOKEN MAP.md: {replaced} lien(s)")
     else:
-        print("  ℹ️  🧠 Memory/TOKEN MAP.md: aucun changement")
+        print("  ℹ️  Memory/TOKEN MAP.md: aucun changement")
     return 1 if replaced > 0 else 0, replaced
 
 
@@ -239,7 +239,7 @@ def main():
     # ── Step 2: process all other .md files that reference TOKEN MAP.md ──
     all_files = []
     for root, dirs, filenames in os.walk(BASE):
-        skip_dirs = {'.git', '__pycache__', '.pytest_cache', '🗂️ Tokens'}
+        skip_dirs = {'.git', '__pycache__', '.pytest_cache', 'Tokens'}
         dirs[:] = [d for d in dirs if d not in skip_dirs]
         for fn in filenames:
             if not fn.endswith('.md'):

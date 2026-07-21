@@ -1,8 +1,8 @@
 import os
 import re
 
-directories_to_scan = ["⚖️ Actes/🔑 Token", "📊 Rapports"]
-output_file = "📊 Rapports/AUDIT_VARIABLES_TOKEN.md"
+directories_to_scan = ["Actes/Token", "Rapports"]
+output_file = "Rapports/AUDIT_VARIABLES_TOKEN.md"
 
 def find_inconsistencies(filepath):
     if filepath == output_file:
@@ -23,7 +23,7 @@ def find_inconsistencies(filepath):
                      inconsistencies.append((i+1, "Profession erronée ('développeur salarié' au lieu d'informaticien indépendant)", line.strip(), "Remplacer par 'informaticien indépendant'."))
 
                 # Check DFP (25 200 €)
-                if "DFP" in line and "€" in line and filepath.startswith("📊 Rapports"):
+                if "DFP" in line and "€" in line and filepath.startswith("Rapports"):
                     if "25 200" not in line and "SUPERSEDED" not in line and "25 000" not in line:
                          # Ensure it's a DFP amount line for the final amount
                          if "20 000" in line or "30 000" in line or "15 000" in line or "31 200" in line:
@@ -31,10 +31,10 @@ def find_inconsistencies(filepath):
                                  inconsistencies.append((i+1, "Montant DFP erroné (25 200 € attendu)", line.strip(), "Mettre à jour à 25 200 €."))
 
                 # Check SE (14 000 €)
-                if "Souffrances" in line and ("15 000" in line or "12 000" in line or "24 000" in line or "3/7" in line or "3,5/7" in line) and filepath.startswith("📊 Rapports"):
+                if "Souffrances" in line and ("15 000" in line or "12 000" in line or "24 000" in line or "3/7" in line or "3,5/7" in line) and filepath.startswith("Rapports"):
                     if "14 000" not in line and "4/7" not in line and "SUPERSEDED" not in line and "obsolète" not in line.lower() and "initialement" not in line.lower():
                         inconsistencies.append((i+1, "Montant/Cotation SE erroné (14 000 € ou 4/7 attendu)", line.strip(), "Mettre à jour avec 14 000 € (cotation 4/7)."))
-                elif "Souffrances endurées" in line and "4/7" in line and "14 000" not in line and filepath.startswith("📊 Rapports"):
+                elif "Souffrances endurées" in line and "4/7" in line and "14 000" not in line and filepath.startswith("Rapports"):
                     pass # could be just 4/7
 
                 # Date accident (29 mai 2026)
@@ -85,7 +85,7 @@ with open(output_file, "w", encoding="utf-8") as f:
     f.write("<!-- /Breadcrumb -->\n\n")
     f.write("<hr>\n\n")
     f.write("# Audit des variables STRICT_VARIABLES et Tokens\n\n")
-    f.write("Ce rapport liste les incohérences détectées dans les fichiers sous `⚖️ Actes/🔑 Token/` et `📊 Rapports/` par rapport aux règles définies dans `🧠 Memory/STRICT_VARIABLES.md`.\n\n")
+    f.write("Ce rapport liste les incohérences détectées dans les fichiers sous `Actes/Token/` et `Rapports/` par rapport aux règles définies dans `Memory/STRICT_VARIABLES.md`.\n\n")
 
     f.write("<hr><hr>\n\n")
     f.write("## I — INCOHÉRENCES DÉTECTÉES\n\n")

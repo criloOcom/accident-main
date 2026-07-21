@@ -6,7 +6,7 @@ __pycache__/
 .dev/.venv/
 node_modules/
 *.pdf
-!📜_Lois/pdfs/*.pdf
+!Lois/pdfs/*.pdf
 /tmp/
 .drive-token.json
 .piste-credentials.json

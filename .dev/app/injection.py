@@ -12,7 +12,7 @@ Usage (via un agent ayant les MCP Google Docs) :
 
 Prérequis :
     - Les fichiers .md dans markdown_normalized/ avec marqueurs <hr><hr>
-    - Mapping fichier ↔ doc_id dans 🧠 Memory/PIECES_MAP.md
+    - Mapping fichier ↔ doc_id dans Memory/PIECES_MAP.md
     - MCP Google Docs disponible (outils : replaceDocumentWithMarkdown,
       appendMarkdown, insertPageBreak, readDocument)
 """
@@ -23,7 +23,7 @@ MARKDOWN_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'markdow
 BREAK = '<hr><hr>'
 
 # Mapping fichier → Google Doc ID
-# Source : 🧠 Memory/PIECES_MAP.md
+# Source : Memory/PIECES_MAP.md
 DOC_MAP = {
     '01_Assignation_REFERE_PROVISION_FINAL.md': '1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg',
     '02_ActionDirecte_AssureurRC.md': '1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY',
