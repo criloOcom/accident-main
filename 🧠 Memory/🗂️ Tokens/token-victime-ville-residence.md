@@ -42,4 +42,4 @@ Blagnac est le domicile réel de la victime, dans la métropole [La Métropole R
 
 ## Source
 
-[TOKEN MAP → Données localisantes / identifiantes](../TOKEN%20MAP.md#token-la-ville-de-residence-de-la-victime)
+TOKEN MAP → Données localisantes / identifiantes

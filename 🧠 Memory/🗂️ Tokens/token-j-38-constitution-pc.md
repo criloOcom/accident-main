@@ -85,4 +85,4 @@ Actes associés :
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-38-constitution-pc)
+TOKEN MAP → Tokens événementiels (J+)

@@ -57,4 +57,4 @@ La fréquence des séances est de 2 à 3 fois par semaine.
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-25-premiere-kine)
+TOKEN MAP → Tokens événementiels (J+)

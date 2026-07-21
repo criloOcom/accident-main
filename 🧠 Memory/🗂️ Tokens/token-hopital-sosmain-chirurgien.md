@@ -51,4 +51,4 @@ Il assure ensuite le **suivi chirurgical** : contrôle J+21 le 19 juin 2026 ([J+
 
 ## Source
 
-[TOKEN MAP → Personnes physiques](../TOKEN%20MAP.md#token-le-chirurgien-sos-main)
+TOKEN MAP → Personnes physiques

@@ -16,7 +16,9 @@ type: readme
 
 - [L123-2](Article_L123-2_Code_Legifrance.md) — Immatriculation des commerçants au RCS (Art. L.123-2)
 
-- [L123-3](Article_L123-2_Code_Legifrance.md) — Personnes tenues à l'immatriculation (Art. L.123-3)
+- [L123-3](Article_L123-3_Codecommerce.md) — Injonction d'immatriculation, mentions et radiation au RCS (Art. L.123-3)
+
+- [L123-5-1](Article_L123-5-1_Codecommerce.md) — Injonction de dépôt des pièces et actes au RCS (Art. L.123-5-1)
 
 - [L210-6](Article_L210-6_Codecommerce_Legifrance.md) — Responsabilité des dirigeants (Art. L.210-6)
 

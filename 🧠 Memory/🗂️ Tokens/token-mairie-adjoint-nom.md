@@ -50,4 +50,4 @@ Il a répondu à une première sollicitation le 1er juin 2026 et constitue le **
 
 ## Source
 
-[TOKEN MAP → Personnes physiques](../TOKEN%20MAP.md#token-l-adjoint-au-maire-de-la-commune)
+TOKEN MAP → Personnes physiques

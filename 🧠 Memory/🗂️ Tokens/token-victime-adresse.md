@@ -46,4 +46,4 @@ Adresse personnelle de la victime, située à [La Ville de Résidence de la Vict
 
 ## Source
 
-[TOKEN MAP → Données localisantes / identifiantes](../TOKEN%20MAP.md#token-l-adresse-de-la-victime)
+TOKEN MAP → Données localisantes / identifiantes

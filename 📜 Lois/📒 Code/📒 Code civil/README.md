@@ -28,6 +28,16 @@ type: readme
 
 - [2226](Article_2226_Code_Legifrance.md) — Prescription décennale (Art. 2226)
 
+- [1359](Article_1359_CodeCivil.md) — Preuve par écrit des actes juridiques (Art. 1359)
+
+- [1382](Article_1382_CodeCivil.md) — Preuve par présomption judiciaire (Art. 1382)
+
+- [1383](Article_1383_CodeCivil.md) — L'aveu (Art. 1383)
+
+- [2044](Article_2044_CodeCivil.md) — Définition de la transaction (Art. 2044)
+
+- [2224](Article_2224_CodeCivil.md) — Prescription de droit commun 5 ans (Art. 2224)
+
 ---
 
-> **Dernière mise à jour :** 19 juillet 2026
+> **Dernière mise à jour :** 20 juillet 2026

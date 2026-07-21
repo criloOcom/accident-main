@@ -6,7 +6,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/CHANGELOG_JURIDIQUE.md
 statut: brouillon
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [👤 Actes / reel — Version réelle](../README.md) › [📚 Analyses juridiques](./README.md) › CHANGELOG JURIDIQUE*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › CHANGELOG JURIDIQUE*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -14,7 +14,7 @@ statut: brouillon
 
 Enregistrement des corrections et mises à jour **juridiques** apportées aux actes et notes du dossier, avec date, type de correction et outils de vérification utilisés (Légifrance, OpenLegi).
 
-> Dernière mise à jour : 2026-07-13
+> Dernière mise à jour : 2026-07-21
 ## I — Corrections sur les articles de codes
 
 ### I.1 — 1.1 Code de commerce — procédures collectives
@@ -167,6 +167,42 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Date :** 2026-07-13
 <hr><hr>
+
+## III — Enrichissement bibliothèque jurisprudence (2026-07-21)
+
+### III.1 — Nouveaux arrêts Cour de cassation (4)
+
+- **80-16.679** — Civ. 1re, 10 mars 1982 — Prescription action directe (5 ans, pas 2 ans)
+- **20-23.462** — Civ. 2e, 24 nov. 2022 — Action directe subrogatoire CPAM
+- **20-22.100** — Civ. 2e, 24 nov. 2022 — Champ FGAO
+- **20-19.288** — Civ. 2e, 24 nov. 2022 — Exclusion FGAO accidents corporels
+
+**Source** : Légifrance (MCP legifrance-prod) — textes intégraux extraits et structurés
+**Dossier** : `🏛️ Action directe et obligation d'assurance/`
+
+### III.2 — Nouvelles décisions CA/TJ (7)
+
+- CA Toulouse 11/03512 (18 juin 2013) — Lien causal ERP
+- CA Chambéry 15/01748 (3 mai 2016) — Obligation de sécurité
+- TJ Nanterre 19/08999 (7 janv. 2025) — Transaction sans aggravation
+- TJ Rennes 20/05541 (20 janv. 2026) — Incidence professionnelle
+- TJ Versailles 21/04988 (23 mai 2024) — Réserve d'aggravation
+- TJ Nanterre 22/02447 (18 sept. 2024) — Devoir d'information
+- CA Versailles 22/01019 (14 mai 2025) — Prescription action directe
+
+**Source** : Doctrine.fr — textes intégraux non trouvés via MCP Légifrance
+**Dossier** : `🏛️ Jurisprudence du fond (CA-TJ)/`
+
+### III.3 — Nouveaux documents stratégiques (2)
+
+- **📜 Mémoire de synthèse — Recours assurances ERP** (277 lignes, 6 sections) — Synthèse transversale de toutes les jurisprudences
+- **📜 Note — Procédure Action Directe Assureur L124-3** (358 lignes, 9 sections) — Feuille de route procédurale action directe
+
+### III.4 — Constats et limitations
+
+- Les RG des décisions CA/TJ ne sont pas indexés dans l'API Légifrance → impossible d'obtenir les textes intégraux via MCP
+- Les 4 arrêts Cass. sont vérifiés via legifrance-prod (textes intégraux obtenus)
+- La mention *« À VÉRIFIER »* est apposée dans les fichiers CA/TJ pour les citations non vérifiables
 
 ## IV — Méthodologie
 

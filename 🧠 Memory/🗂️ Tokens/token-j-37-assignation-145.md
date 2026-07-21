@@ -79,4 +79,4 @@ Parallèlement, envoi de **12 courriers** :
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-37-assignation-145)
+TOKEN MAP → Tokens événementiels (J+)

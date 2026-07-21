@@ -1,8 +1,3 @@
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [✉️ Courriers (Versions Réelles)](../README.md) › 🏥 CPAM*
-<hr>
-<!-- /Breadcrumb -->
-
 # Index — ✉️ Courriers/🏥 CPAM (Versions Réelles)
 
 - [✉️ CPAM Recours Tiers ⚖️Contentieux.md](%E2%9C%89%EF%B8%8F%20CPAM%20Recours%20Tiers%20%E2%9A%96%EF%B8%8FContentieux.md)
