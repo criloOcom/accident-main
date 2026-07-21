@@ -153,7 +153,7 @@ Cet audit croise les données de `🧠 Memory/RECADRAGE_NOMENCLATURE.md`, `🧠 
 
 - [ ] **INFO** : ⚖️ Actes/👤 Reel/✉️ Courriers/👮 Police/✉️ Police Plainte Complementaire Contentieux.md:83 — Numéros détectés : ['870014282662911'] — À vérifier contre RECADRAGE_NOMENCLATURE.md.
 
-- [ ] **INFO** : ⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - DG HB BARBER - Courrier.md:56 — Numéros détectés : ['87001424721856G'] — À vérifier contre RECADRAGE_NOMENCLATURE.md.
+- [ ] **INFO** : ⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Directrice Générale - Courrier.md:56 — Numéros détectés : ['87001424721856G'] — À vérifier contre RECADRAGE_NOMENCLATURE.md.
 
 - [ ] **INFO** : ⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Dirigeants - Courrier - Relance.md:53 — Numéros détectés : ['87001424863012T'] — À vérifier contre RECADRAGE_NOMENCLATURE.md.
 
@@ -319,9 +319,9 @@ Cet audit croise les données de `🧠 Memory/RECADRAGE_NOMENCLATURE.md`, `🧠 
 
 - [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Propriétaire - Courrier - Relance 3.md:3 — Nom réel leak détecté : 'Romain' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - DG HB BARBER - Courrier.md:23 — Nom réel leak détecté : 'Catherine' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Directrice Générale - Courrier.md:23 — Nom réel leak détecté : 'Catherine' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - DG HB BARBER - Courrier.md:23 — Nom réel leak détecté : 'SORROCHE' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Directrice Générale - Courrier.md:23 — Nom réel leak détecté : 'SORROCHE' — Remplacer par le token.
 
 - [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/🗄️ Archives/Constitution - Partie Civile.md:69 — Nom réel leak détecté : 'Oxybel' — Remplacer par le token.
 

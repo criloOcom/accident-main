@@ -45,9 +45,9 @@ Ces fichiers mentionnent par erreur `29 juin 2026` (date d'envoi des LRAR) comme
 
 ### Confusion avec le 19 mai 2026
 Ces fichiers mentionnent par erreur `19 mai 2026` (date d'immatriculation) comme étant la date de l'accident :
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - DG HB BARBER - Courrier.md` : l. 54 — Date accident erronée : '19 mai 2026' (réel : 29 mai 2026).
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Directrice Générale - Courrier.md` : l. 54 — Date accident erronée : '19 mai 2026' (réel : 29 mai 2026).
 
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président HB BARBER - Courrier.md` : l. 54 — Date accident erronée : '19 mai 2026' (réel : 29 mai 2026).
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Président - Courrier.md` : l. 54 — Date accident erronée : '19 mai 2026' (réel : 29 mai 2026).
 
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - HB BARBER - Courrier.md` : l. 78 — Date accident erronée : '19 mai 2026' (réel : 29 mai 2026).
 

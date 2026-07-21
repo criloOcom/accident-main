@@ -1,18 +1,18 @@
 ---
 emoji: "📜"
-title: 📜 Lettre LRAR — Président SAS HB BARBER — Demande assurance RC
-description: Mise en demeure de communiquer les informations d'assurance RC pro, adressée personnellement au Président.
+title: 📜 Lettre LRAR — Directrice Générale SAS HB BARBER — Demande assurance RC
+description: Mise en demeure de communiquer les informations d'assurance RC pro, adressée personnellement à la Directrice Générale.
 type: courrier
 date: 2026-07-18
-calendar_event_id: "euj8kofakfdc2cib6btnqq2ae4"
+calendar_event_id: "1mbqfdhq594llbiqb3b1thjn60"
 statut: envoye
-lrar_number: "875001528942001"
-destinataire: Le Président de l'Exploitation
+lrar_number: "875001528942010"
+destinataire: La Directrice Générale de l'Exploitation
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Président HB BARBER - Courrier.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS HB BARBER - Directrice Générale - Courrier.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS - Président HB BARBER - Courrier*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS HB BARBER - Directrice Générale - Courrier*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -20,22 +20,22 @@ reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Président
 
 
 
-# LETTRE RECOMMANDÉE — M. LE PRÉSIDENT (DOMICILE PERSONNEL)
-> 🔗 Source Google Drive : [20260718 ✉️ LRAR Hamza El Hachemi BERGUIGA (President)](https://docs.google.com/document/d/1D5UTW7pYf5smzSC5NHE_hsHuya2B-b4UuwDpDe1_C8Y/edit?usp=sharing)
+# LETTRE RECOMMANDÉE — MME LA DIRECTRICE GÉNÉRALE (DOMICILE PERSONNEL)
+> 🔗 Source Google Drive : [20260718 ✉️ LRAR [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (DG)](https://docs.google.com/document/d/1g8I1hYbqsue4Q14iQBVkUsXM3uOgFOqRpg4Myp-frxE/edit?usp=sharing)
 
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
 
 Courriel : **[sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
 
-[Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)
+**[Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**
 
-Président de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
+Directrice Générale de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
-[115 avenue Fernand Loubet, 09200 Saint-Girons](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-adresse.md)
+[351 route Impériale, 34670 Baillargues](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-adresse.md)
 
 **[Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
 
-Objet : Demande de communication de l'assurance RC professionnelle de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — Notification au Président à titre personnel et de représentant légal
+Objet : Demande de communication de l'assurance RC professionnelle de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — Notification à la dirigeante à titre personnel et de représentant légal
 
 Mode d'envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 
@@ -43,16 +43,18 @@ Réf. : Dossier **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%
 
 <hr><hr>
 
-Monsieur le Président,
+Madame la Directrice Générale,
 ## I — CONTEXTE ET EXCUSES SUR LE DÉLAI
 
-Par la présente, je me permets de vous écrire en votre qualité de Président et représentant légal de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), ainsi qu'à votre adresse personnelle, en raison des responsabilités qui incombent aux dirigeants de droit de sociétés commerciales.
+Par la présente, je me permets de vous écrire en votre qualité de Directrice Générale de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), ainsi qu'à votre adresse personnelle, en raison des responsabilités qui incombent aux dirigeants de droit de sociétés commerciales.
 
 Le vendredi **[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** vers 15h20, j'ai subi un grave accident corporel au sein de l'établissement exploité au **[22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** : un bac à shampoing lourd a basculé et ma main droite a percuté une partie de la vasque en céramique déjà brisée et tranchante, provoquant une plaie palmaire profonde de la main droite, avec atteinte tendineuse et nerveuse. Informaticien indépendant de profession, cette blessure à ma main dominante me paralyse totalement dans mon activité ([arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) de 55 jours en cours).
 
 Le jour même, j'ai été pris en charge en urgence au centre de soins immédiats de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** par le **[Dr Julie JARDON](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md)**, qui a constaté la plaie palmaire droite profonde, réalisé les [premiers soins](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (lavage, désinfection, exploration sous anesthésie locale) et m'a réorienté en urgence vers le service spécialisé « SOS Main » de **[Clinique de l'Union](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)** pour une exploration chirurgicale le lendemain matin. Le **[30 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md)**, j'ai été opéré par le **[Dr Iskander DJERBI](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)** (suture tendineuse, suture microchirurgicale des nerfs et vaisseaux, neurolyse, sutures cutanées).
 
-Veuillez agréer mes excuses pour le délai avec lequel je reviens vers vous. La constitution de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) étant extrêmement récente au moment des faits (début d'activité au 22 avril 2026 et immatriculation au Registre national des entreprises le 19 mai 2026, soit quelques jours seulement avant l'accident), l'indexation de vos statuts et de vos mandats sociaux a connu les délais administratifs habituels avant de figurer publiquement sur les registres (INPI, RNE, SIRENE). Mes démarches initiales de juin ont donc été adressées, par erreur, à l'ancienne enseigne « LES MAUVAIS GARÇONS » et à ses dirigeants, faute d'avoir connaissance de l'existence de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). Ce n'est qu'à la suite des informations communiquées par le bailleur et de la consultation des registres officiels que j'ai pu identifier [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) comme véritable exploitant des locaux au **[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** et, par conséquent, vous écrire aujourd'hui en votre qualité de Président.
+Veuillez agréer mes excuses pour le délai avec lequel je reviens vers vous. La constitution de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) étant extrêmement récente au moment des faits (début d'activité au 22 avril 2026 et immatriculation au Registre national des entreprises le 19 mai 2026, soit quelques jours seulement avant l'accident), l'indexation de vos statuts et de vos mandats sociaux a connu les délais administratifs habituels avant de figurer publiquement sur les registres (INPI, RNE, SIRENE). Mes démarches initiales de juin, adressées par erreur à l'ancienne enseigne « LES MAUVAIS GARÇONS », n'avaient pu aboutir. Les informations officielles du bailleur et des registres d'immatriculation me permettent aujourd'hui d'adresser la présente demande aux dirigeants réels.
+
+Je précise par ailleurs qu'une mise en demeure en date du **[29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)** (LRAR n° **[87001424721856G](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**) vous avait déjà été adressée à une adresse antérieure, au titre de vos fonctions communes dans l'ancienne société. Cette lettre a fait l'objet d'un retour pour défaut d'adresse. Vous avez donc déjà eu connaissance de l'existence de ce litige, ce qui renforce l'urgence d'y apporter une solution amiable et conforme au droit.
 <hr><hr>
 
 ## II — LE RÔLE DE L'ASSURANCE DE LA SOCIÉTÉ
@@ -86,7 +88,7 @@ Je conteste formellement cette affirmation, qui est fausse. Mon état le **[29 m
 
 Je vous invite donc, dans l'intérêt de chacun, à renoncer à ce type d'explication qui ne correspond pas à la réalité et à vous en tenir strictement aux faits médicaux et matériels, qui pourront être vérifiés très simplement dans les dossiers des services de santé.
 
-Quelle que soit l'interprétation que vous faites aujourd'hui de l'accident, cela ne change rien à vos obligations légales : en tant que dirigeant de la société exploitant les lieux, il vous appartient, avec la Directrice Générale, de veiller à la déclaration du sinistre à votre assureur, de me communiquer ses coordonnées, et de laisser ensuite les assurances, la CPAM et, si nécessaire, la justice faire leur travail sur la base de faits exacts.
+Quelle que soit l'interprétation que vous faites aujourd'hui de l'accident, cela ne change rien à vos obligations légales : en tant que dirigeante de la société exploitant les lieux, il vous appartient, avec le Président, de veiller à la déclaration du sinistre à votre assureur, de me communiquer ses coordonnées, et de laisser ensuite les assurances, la CPAM et, si nécessaire, la justice faire leur travail sur la base de faits exacts.
 <hr><hr>
 
 ## IV — CE QUE JE VOUS DEMANDE CONCRÈTEMENT
@@ -108,7 +110,7 @@ Ces informations peuvent être envoyées à mon adresse ci-dessus ou par courrie
 
 Je préférerais toutefois que nous puissions rester sur un règlement strictement amiable en passant par votre assurance, sans devoir ajouter de nouvelles démarches contentieuses à une situation déjà lourde et éprouvante.
 
-Comptant sur votre diligence et votre sens des responsabilités pour débloquer cette situation, je vous prie d'agréer, Monsieur le Président, l'expression de mes salutations distinguées.
+Comptant sur votre diligence et votre sens des responsabilités pour débloquer cette situation, je vous prie d'agréer, Madame la Directrice Générale, l'expression de mes salutations distinguées.
 
 **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 

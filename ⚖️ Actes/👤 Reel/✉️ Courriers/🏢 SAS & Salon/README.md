@@ -6,8 +6,6 @@
 
 - [SAS - Courrier.md](SAS%20-%20Courrier.md)
 
-- [SAS - DG HB BARBER - Courrier.md](SAS%20-%20DG%20HB%20BARBER%20-%20Courrier.md)
-
 - [SAS - Directrice Générale - Courrier.md](SAS%20-%20Directrice%20G%C3%A9n%C3%A9rale%20-%20Courrier.md)
 
 - [SAS - Dirigeants - Courrier - Relance.md](SAS%20-%20Dirigeants%20-%20Courrier%20-%20Relance.md)
@@ -16,4 +14,6 @@
 
 - [SAS - Président - Courrier.md](SAS%20-%20Pr%C3%A9sident%20-%20Courrier.md)
 
-- [SAS - Président HB BARBER - Courrier.md](SAS%20-%20Pr%C3%A9sident%20HB%20BARBER%20-%20Courrier.md)
+- [SAS HB BARBER - Directrice Générale - Courrier.md](SAS%20HB%20BARBER%20-%20Directrice%20G%C3%A9n%C3%A9rale%20-%20Courrier.md)
+
+- [SAS HB BARBER - Président - Courrier.md](SAS%20HB%20BARBER%20-%20Pr%C3%A9sident%20-%20Courrier.md)

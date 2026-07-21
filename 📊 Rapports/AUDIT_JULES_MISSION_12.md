@@ -601,31 +601,31 @@ L'audit relève les fuites de données personnelles (identités, adresses, numé
 
 - [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Assureur RC - Courrier (copie Avocat).md:26 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - DG HB BARBER - Courrier.md:1 — Le nom du fichier ou le chemin contient une identité réelle (hb barber) — Remplacer par le token
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Directrice Générale - Courrier.md:1 — Le nom du fichier ou le chemin contient une identité réelle (hb barber) — Remplacer par le token
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - DG HB BARBER - Courrier.md:2 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Directrice Générale - Courrier.md:2 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - DG HB BARBER - Courrier.md:8 — Présence d'une donnée réelle : 875001528942010 — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Directrice Générale - Courrier.md:8 — Présence d'une donnée réelle : 875001528942010 — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - DG HB BARBER - Courrier.md:11 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Directrice Générale - Courrier.md:11 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - DG HB BARBER - Courrier.md:14 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Directrice Générale - Courrier.md:14 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - DG HB BARBER - Courrier.md:18 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Directrice Générale - Courrier.md:18 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - DG HB BARBER - Courrier.md:23 — Présence d'une donnée réelle : catherine, sorroche — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Directrice Générale - Courrier.md:23 — Présence d'une donnée réelle : catherine, sorroche — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - DG HB BARBER - Courrier.md:31 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Directrice Générale - Courrier.md:31 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - DG HB BARBER - Courrier.md:37 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Directrice Générale - Courrier.md:37 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - DG HB BARBER - Courrier.md:41 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Directrice Générale - Courrier.md:41 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - DG HB BARBER - Courrier.md:48 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Directrice Générale - Courrier.md:48 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - DG HB BARBER - Courrier.md:54 — Présence d'une donnée réelle : mauvais gar[cç]ons?, hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Directrice Générale - Courrier.md:54 — Présence d'une donnée réelle : mauvais gar[cç]ons?, hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - DG HB BARBER - Courrier.md:97 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Directrice Générale - Courrier.md:97 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
 - [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Directrice Générale - Courrier.md:27 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
@@ -635,31 +635,31 @@ L'audit relève les fuites de données personnelles (identités, adresses, numé
 
 - [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président - Courrier.md:184 — Présence d'une donnée réelle : 015967 — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président HB BARBER - Courrier.md:1 — Le nom du fichier ou le chemin contient une identité réelle (hb barber) — Remplacer par le token
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Président - Courrier.md:1 — Le nom du fichier ou le chemin contient une identité réelle (hb barber) — Remplacer par le token
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président HB BARBER - Courrier.md:2 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Président - Courrier.md:2 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président HB BARBER - Courrier.md:8 — Présence d'une donnée réelle : 875001528942001 — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Président - Courrier.md:8 — Présence d'une donnée réelle : 875001528942001 — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président HB BARBER - Courrier.md:11 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Président - Courrier.md:11 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président HB BARBER - Courrier.md:14 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Président - Courrier.md:14 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président HB BARBER - Courrier.md:18 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Président - Courrier.md:18 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président HB BARBER - Courrier.md:23 — Présence d'une donnée réelle : berguiga, hamza — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Président - Courrier.md:23 — Présence d'une donnée réelle : berguiga, hamza — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président HB BARBER - Courrier.md:31 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Président - Courrier.md:31 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président HB BARBER - Courrier.md:37 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Président - Courrier.md:37 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président HB BARBER - Courrier.md:41 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Président - Courrier.md:41 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président HB BARBER - Courrier.md:48 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Président - Courrier.md:48 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président HB BARBER - Courrier.md:54 — Présence d'une donnée réelle : mauvais gar[cç]ons?, hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Président - Courrier.md:54 — Présence d'une donnée réelle : mauvais gar[cç]ons?, hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président HB BARBER - Courrier.md:95 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER - Président - Courrier.md:95 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
 - [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Assureur RC - Courrier.md:25 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
