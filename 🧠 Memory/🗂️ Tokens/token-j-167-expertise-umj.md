@@ -1,6 +1,7 @@
 ---
 title: "📅 J+167 Expertise UMJ"
 description: "Token :** `**[J+167 Expertise UMJ]**`"
+real_value: "12 novembre 2026"
 type: memory
 ---
 <!-- Breadcrumb -->

@@ -1,6 +1,7 @@
 ---
 title: "📅 J+32 Assignation référé"
 description: "Token :** `**[J+32 Assignation référé]**`"
+real_value: "30 juin 2026"
 type: memory
 ---
 <!-- Breadcrumb -->

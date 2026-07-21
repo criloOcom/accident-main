@@ -1,6 +1,7 @@
 ---
 title: "👤 Le Médecin Généraliste"
 description: "Token :** `**[Le Médecin Généraliste]**`"
+real_value: "Dr Oxybel"
 type: memory
 ---
 <!-- Breadcrumb -->

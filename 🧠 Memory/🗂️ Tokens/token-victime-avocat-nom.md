@@ -1,6 +1,7 @@
 ---
 title: "👤 Nom de l'Avocat de la Victime"
 description: "Token :** `**[Nom de l'Avocat de la Victime]**`"
+real_value: "Nom Prénom de l'Avocat"
 type: memory
 ---
 <!-- Breadcrumb -->

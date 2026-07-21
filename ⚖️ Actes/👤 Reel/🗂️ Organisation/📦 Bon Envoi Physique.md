@@ -36,7 +36,7 @@ jx: J+38
 **[LA VILLE DE L'ACCIDENT] — Tribunal Judiciaire de [LA VILLE DE L'ACCIDENT]**
 
 > **À :** Monsieur le Doyen des Juges d'Instruction
-> **Adresse :** Tribunal Judiciaire de [La Ville de l'Accident], **Adresse Tribunal Judiciaire**, 09008 [La Ville de l'Accident] Cedex
+> **Adresse :** Tribunal Judiciaire de Foix, **Adresse Tribunal Judiciaire**, 09008 Foix Cedex
 > **Mode :** Lettre Recommandée avec Accusé de Réception (LRAR)
 <hr><hr>
 
@@ -63,7 +63,7 @@ jx: J+38
 
 3. **Faire** un jeu de photocopies complet pour vous (votre copie personnelle)
 
-4. **Envoyer** le tout en LRAR au Doyen des Juges d'Instruction de [La Ville de l'Accident]
+4. **Envoyer** le tout en LRAR au Doyen des Juges d'Instruction de Foix
 
 5. **Conserver** l'Accusé de Réception (AR) dans la chemise « Preuves d'envoi »
 <hr><hr>

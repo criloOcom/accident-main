@@ -1,6 +1,7 @@
 ---
 title: "📍 L'Adresse de la Victime"
 description: "Token :** `**[L'Adresse de la Victime]**`"
+real_value: "10 Avenue de Purpan, 31700 Blagnac"
 type: memory
 ---
 <!-- Breadcrumb -->

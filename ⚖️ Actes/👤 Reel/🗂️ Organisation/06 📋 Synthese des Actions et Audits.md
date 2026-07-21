@@ -33,7 +33,7 @@ Ces tâches ne peuvent pas être automatisées par un agent d'IA et nécessitent
 
 - [ ] **Relancer le chirurgien SOS Main** : Transmettre la relance pour le certificat de consolidation de votre main droite (Pièce n°25) afin de pouvoir chiffrer précisément les préjudices fonctionnels permanents selon le barème Dintilhac.
 
-- [ ] UMJ **[L'Hôpital de Purpan (CHU Toulouse)]** (12 Novembre 2026 à 13h45) : Assurer votre présence à la convocation judiciaire d'évaluation de l'ITT avec un dossier médical complet.
+- [ ] UMJ Hôpital de Purpan (CHU Toulouse) (12 Novembre 2026 à 13h45) : Assurer votre présence à la convocation judiciaire d'évaluation de l'ITT avec un dossier médical complet.
 
 ### I.4 — Assistance Juridique & Aide Juridictionnelle
 

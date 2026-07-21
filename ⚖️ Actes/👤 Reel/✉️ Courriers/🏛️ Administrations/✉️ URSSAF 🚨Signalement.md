@@ -25,22 +25,22 @@ jx: J+37
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
 
 # SIGNALEMENT DE TRAVAIL DISSIMULE PRESUME
 > 🔗 Source Google Drive : [1LdLfCnWLiD2…](https://drive.google.com/open?id=1LdLfCnWLiD2v1N1SMF3FAeh681znM0kXOrAlBXeOe8w)
-**[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
+10 Avenue de Purpan, 31700 Blagnac
 
-Courriel : **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
+Courriel : sebastien.grazide@gmail.com
 
 **URSSAF Midi-Pyrenees**
 TSA 90002
 93517 MONTREUIL CEDEX
 
-**[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le 11 juillet 2026
+Foix, le 11 juillet 2026
 
 Objet : Signalement de travail dissimule presume — SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
@@ -51,7 +51,7 @@ Madame, Monsieur le Directeur,
 
 Je vous signale par la presente des elements laissant presumer l'exercice d'un travail dissimule au sein de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (SIREN [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)), conformement aux articles L.8221-1 et suivants du Code du travail.
 
-Le **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**, alors que je me trouvais dans l'etablissement exploite par cette societe, j'ai ete temoin de la presence d'une personne physique (Ayoub BENNOURINE) exercant une activite de coiffeur.
+Le 29 mai 2026, alors que je me trouvais dans l'etablissement exploite par cette societe, j'ai ete temoin de la presence d'une personne physique (Ayoub BENNOURINE) exercant une activite de coiffeur.
 
 Les informations publiques disponibles (INPI, INSEE) indiquent que cette societe, creee le 1er juin 2024 avec un capital de 200 €, ne declare aucun salarie.
 <hr><hr>
@@ -111,7 +111,7 @@ Conformement a l'Article L.8271-1-2 du Code du travail, les agents de l'URSSAF s
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Directeur, l'expression de ma consideration distinguee.
 
-**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE
 <hr><hr>
 
 ## PIECES JOINTES
@@ -120,7 +120,7 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Direc
 
 - **[📊 Suivi Envois LRAR.md](../../%F0%9F%97%82%EF%B8%8F%20Organisation/%F0%9F%93%8A%20Suivi%20Envois%20LRAR.md)** — Accusés de réception des courriers recommandés retournés (mentions NPAI)
 
-- **[[Extrait Kbis](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) SAS [L'Exploitant du Commerce (La SAS)]](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)
+- **[[Extrait Kbis](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) SAS SAS HB BARBER](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN [104 103 262](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)
 <hr><hr>
 
 ## Sources Législation

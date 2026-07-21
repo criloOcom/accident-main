@@ -17,7 +17,7 @@ auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏠 Propriétaire/✉️ Proprietaire Relance 3 📜Lettre.md
 source: local
 jx: J+51
-signataire: "[La Victime] (envoi sans signature manuscrite)"
+signataire: "Sébastien GRAZIDE (envoi sans signature manuscrite)"
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏠 Propriétaire › ✉️ Proprietaire Relance 3 📜Lettre*
@@ -30,11 +30,11 @@ signataire: "[La Victime] (envoi sans signature manuscrite)"
 [10 Avenue de Purpan, 31700 Blagnac](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)  
 Courriel : [sebastien.grazide@gmail.com](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)  
 [Blagnac](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le **19 juillet 2026**  
-**Monsieur [Le Propriétaire des Murs]**  
+**Monsieur Romain DELRIEU  
 **17 Rue de la Baïse, 31120 Roquettes**
 
 **Objet : Relance LRAR — Correction qualification accident + Demande informations assurances SAS HB BARBER — L.R.A.R.**  
-**Réf : Dossier [La Victime] / [L'Exploitant du Commerce (La SAS)] / SAS HB BARBER — LRAR n°3 [N° à compléter après dépôt La Poste]**
+**Réf : Dossier Sébastien GRAZIDE / SAS HB BARBER / SAS HB BARBER — LRAR n°3 [N° à compléter après dépôt La Poste]**
 
 Monsieur,
 
@@ -44,9 +44,9 @@ Cette lettre fait suite à :
 
 - Ma **première LRAR du 29 juin 2026** (demande communication assurance RC exploitant) ;
 
-- **Votre email du 16 juillet 2026** (réception LRAR, allégation cessation activité **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au 10/03/2026, qualification "accident du travail") ;
+- **Votre email du 16 juillet 2026** (réception LRAR, allégation cessation activité SAS HB BARBER au 10/03/2026, qualification "accident du travail") ;
 
-- **Ma réponse par la présente** (prise d'acte, identification **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, trois questions précises) ;
+- **Ma réponse par la présente** (prise d'acte, identification SAS HB BARBER, trois questions précises) ;
 
 - **L'absence de réponse à ce jour** (soit **deux jours** après mon dernier courriel).
 
@@ -56,7 +56,7 @@ Cette lettre fait suite à :
 
 ### 1 — Les faits matériels incontestables
 
-Le **vendredi 29 mai 2026 à 15h00**, je me suis rendu en tant que **client** dans le salon de coiffure exploité au **22 Rue Lafaurie à Foix**. Après la prestation, j'ai payé [Ayoub BENNOURINE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (tél. **[Le Téléphone du Préposé](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)**) par Wero (transaction [IPR000297029234](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), puis j'ai quitté les lieux. Moins de cinq minutes plus tard, je suis retourné au salon pour demander une retouche. À mon retour, **le préposé coiffeur [Le Préposé de l'Exploitation]** était monté sur la vasque en céramique du bac à shampoing pour régler **le** téléviseur. En voulant descendre, il a provoqué le basculement de la vasque — qui présentait une **cassure apparente préexistante non signalée** sur son flanc droit. Par réflexe, j'ai tendu la main gauche pour retenir le coiffeur et la main droite pour retenir la vasque. Ma paume droite a heurté l'arête tranchante de cette cassure, provoquant une **section large et très profonde des tissus cutanés et sous-cutanés (plaie de 8,5 cm)** avec **section partielle du tendon fléchisseur superficiel et section totale du paquet vasculo-nerveux collatéral (ulnaire et radial) de l'index droit**.
+Le **vendredi 29 mai 2026 à 15h00**, je me suis rendu en tant que **client** dans le salon de coiffure exploité au **22 Rue Lafaurie à Foix**. Après la prestation, j'ai payé [Ayoub BENNOURINE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (tél. 07 58 40 12 87) par Wero (transaction [IPR000297029234](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), puis j'ai quitté les lieux. Moins de cinq minutes plus tard, je suis retourné au salon pour demander une retouche. À mon retour, **le préposé coiffeur Ayoub BENNOURINE était monté sur la vasque en céramique du bac à shampoing pour régler **le** téléviseur. En voulant descendre, il a provoqué le basculement de la vasque — qui présentait une **cassure apparente préexistante non signalée** sur son flanc droit. Par réflexe, j'ai tendu la main gauche pour retenir le coiffeur et la main droite pour retenir la vasque. Ma paume droite a heurté l'arête tranchante de cette cassure, provoquant une **section large et très profonde des tissus cutanés et sous-cutanés (plaie de 8,5 cm)** avec **section partielle du tendon fléchisseur superficiel et section totale du paquet vasculo-nerveux collatéral (ulnaire et radial) de l'index droit**.
 
 J'ai été opéré en urgence le **30 mai 2026** (microchirurgie : suture tendineuse, suture microchirurgicale nerfs/vaisseaux, neurolyse). L'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total s'élève à **55 jours**. Le pronostic neurologique est réservé, avec récupération souvent partielle sur plusieurs mois.
 
@@ -94,11 +94,11 @@ Cette disparition constatée, si elle est établie comme intentionnelle, pourrai
 
 ## II — L'EXPLOITANT APPARENT AU 29 MAI 2026 : [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
-Les informations publiques (Registre National des Entreprises) indiquent que **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (SIREN **104 103 262**) a été créée le **22 avril 2026** et exerce une activité de coiffure/barbier au **22 Rue Lafaurie à Foix** — soit **plus d'un mois avant mon accident**.
+Les informations publiques (Registre National des Entreprises) indiquent que SAS HB BARBER (SIREN **104 103 262**) a été créée le **22 avril 2026** et exerce une activité de coiffure/barbier au **22 Rue Lafaurie à Foix** — soit **plus d'un mois avant mon accident**.
 
-**[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (SIREN 938 033 222) a, selon vos propres dires, cessé son activité le **10 mars 2026** (état des lieux de sortie à l'appui).
+SAS HB BARBER (SIREN 938 033 222) a, selon vos propres dires, cessé son activité le **10 mars 2026** (état des lieux de sortie à l'appui).
 
-**Au 29 mai 2026, l'exploitant apparent des lieux était donc [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, et non **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**.
+**Au 29 mai 2026, l'exploitant apparent des lieux était donc [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, et non SAS HB BARBER.
 
 <hr><hr>
 
@@ -106,10 +106,10 @@ Les informations publiques (Registre National des Entreprises) indiquent que **[
 
 Vous n'avez pas apporté de réponse aux trois questions suivantes, qui sont pourtant **déterminantes pour orienter correctement mon action** :
 
-1. **Occupant au 29 mai 2026** : Pouvez-vous confirmer que, à cette date, vos locaux du 22 Rue Lafaurie étaient bien occupés et exploités par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (SIREN 104 103 262), et m'indiquer la date exacte d'entrée dans les lieux de ce nouvel exploitant ?
+1. **Occupant au 29 mai 2026** : Pouvez-vous confirmer que, à cette date, vos locaux du 22 Rue Lafaurie étaient bien occupés et exploités par SAS HB BARBER (SIREN 104 103 262), et m'indiquer la date exacte d'entrée dans les lieux de ce nouvel exploitant ?
    → *Identifie le responsable civil (gardien de la chose / commettant) au jour de l'accident*
 
-2. **Contrat de bail et avenants** : Un nouveau bail commercial ou avenant a-t-il été conclu après le départ de **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** ? Si possible, pouvez-vous m'en communiquer une copie partielle (pages identité du preneur + clauses d'assurance) ?
+2. **Contrat de bail et avenants** : Un nouveau bail commercial ou avenant a-t-il été conclu après le départ de SAS HB BARBER ? Si possible, pouvez-vous m'en communiquer une copie partielle (pages identité du preneur + clauses d'assurance) ?
    → *Permet de vérifier les obligations d'assurance RC contractuelles*
 
 3. **Assurances RC** : Pouvez-vous m'indiquer, à votre connaissance, les coordonnées de l'assureur RC de l'exploitant en place au 29 mai 2026 ([SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)), ainsi que, le cas échéant, celles de **votre propre assureur PNO** (Propriétaire Non Occupant) pour cet immeuble, dans le cadre de vos obligations de bailleur au titre des articles 1719 et suivants du Code civil[^4] (délivrance, entretien et sécurité des locaux loués) ?
@@ -163,7 +163,7 @@ L'ensemble des pièces et de la procédure vous sera communiqué par transparenc
 
 Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 
-**[La Victime] (envoi sans signature manuscrite)**
+Sébastien GRAZIDE (envoi sans signature manuscrite)**
 
 > **NOTE ADMINISTRATIVE** : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la rédaction de la présente par un tiers et les délais d'acheminement de la présente mise en demeure.
 

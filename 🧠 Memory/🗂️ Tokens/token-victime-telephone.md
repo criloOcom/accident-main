@@ -1,6 +1,7 @@
 ---
 title: "📍 Le Téléphone de la Victime"
 description: "Token :** `**[Le Téléphone de la Victime]**`"
+real_value: "06 30 51 67 75"
 type: memory
 ---
 <!-- Breadcrumb -->

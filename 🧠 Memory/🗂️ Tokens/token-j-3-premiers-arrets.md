@@ -1,6 +1,7 @@
 ---
 title: "📅 J+3 Premiers arrêts"
 description: "Token :** `**[J+3 Premiers arrêts]**`"
+real_value: "1 juin 2026"
 type: memory
 ---
 <!-- Breadcrumb -->

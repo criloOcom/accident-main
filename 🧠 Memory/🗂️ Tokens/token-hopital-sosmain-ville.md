@@ -1,6 +1,7 @@
 ---
 title: "📍 La Ville de l'Établissement SOS Main"
 description: "Token :** `**[La Ville de l'Établissement SOS Main]**`"
+real_value: "Saint-Jean"
 type: memory
 ---
 <!-- Breadcrumb -->

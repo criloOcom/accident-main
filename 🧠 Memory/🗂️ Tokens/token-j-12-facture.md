@@ -1,6 +1,7 @@
 ---
 title: "📅 J+12 Facture"
 description: "Token :** `**[J+12 Facture]**`"
+real_value: "10 juin 2026"
 type: memory
 ---
 <!-- Breadcrumb -->

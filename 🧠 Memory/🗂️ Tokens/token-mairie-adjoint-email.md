@@ -1,6 +1,7 @@
 ---
 title: "📍 L'Email de l'Adjoint au Maire"
 description: "Token :** `**[L'Email de l'Adjoint au Maire]**`"
+real_value: "btavella@mairie-foix.fr"
 type: memory
 ---
 <!-- Breadcrumb -->

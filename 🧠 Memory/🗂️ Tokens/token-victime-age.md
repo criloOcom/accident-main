@@ -1,6 +1,7 @@
 ---
 title: "👤 Âge de la Victime"
 description: "Token :** `**[Âge de la Victime]**`"
+real_value: "44 ans"
 type: memory
 ---
 <!-- Breadcrumb -->

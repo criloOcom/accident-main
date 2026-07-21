@@ -1,6 +1,7 @@
 ---
 title: "📍 Date de naissance de la victime"
 description: "Token :** `**[Date de naissance de la victime]**`"
+real_value: "18 janvier 1982"
 type: memory
 ---
 <!-- Breadcrumb -->

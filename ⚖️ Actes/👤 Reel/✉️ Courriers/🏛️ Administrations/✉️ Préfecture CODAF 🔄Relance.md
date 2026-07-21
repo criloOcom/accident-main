@@ -21,7 +21,7 @@ jx: J+47
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -33,20 +33,20 @@ jx: J+47
 
 <hr><hr>
 
-**Expéditeur :** **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — **[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
+**Expéditeur :** Sébastien GRAZIDE — 10 Avenue de Purpan, 31700 Blagnac
 **Destinataire :** Monsieur le Préfet de l'Ariège — Référent CODAF — Préfecture de l'Ariège, 2 Rue de la Préfecture, 09000 Foix
 **Date :** [Date d'envoi — À compléter avant impression]
-**Objet :** Suivi du signalement transmis par la Mairie de Foix — Salon « **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** » (**[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**)
+**Objet :** Suivi du signalement transmis par la Mairie de Foix — Salon « SAS HB BARBER » (22 Rue Lafaurie, 09000 Foix)
 
 <hr><hr>
 
 Monsieur le Préfet,
 
-Par courriel du **1er juin 2026**, **[L'Adjoint au Maire de la Commune](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md)**, Adjoint au Maire de Foix chargé de l'Urbanisme et des Travaux, m'a informé avoir pris l'attache de vos services afin de diligenter **l'Inspection du travail** et le **CODAF (Comité Opérationnel Départemental Anti-Fraude)** au sujet de l'accident corporel grave dont j'ai été victime le **29 mai 2026** dans le salon « **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** », **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**.
+Par courriel du **1er juin 2026**, Monsieur TAVELLA, Adjoint au Maire de Foix chargé de l'Urbanisme et des Travaux, m'a informé avoir pris l'attache de vos services afin de diligenter **l'Inspection du travail** et le **CODAF (Comité Opérationnel Départemental Anti-Fraude)** au sujet de l'accident corporel grave dont j'ai été victime le **29 mai 2026** dans le salon « SAS HB BARBER », 22 Rue Lafaurie, 09000 Foix.
 
 Victime directe de cet accident — **plaie palmaire profonde de la main droite avec section du tendon fléchisseur, du nerf digital et de l'artère collatérale de l'index droit**, opéré en urgence le 30 mai 2026, **[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours** — je souhaiterais savoir :
 
-1. Si vos services ont **bien été saisis** à la suite du signalement de **[L'Adjoint au Maire de la Commune](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md)** ;
+1. Si vos services ont **bien été saisis** à la suite du signalement de Monsieur TAVELLA ;
 
 2. Si des **contrôles ont été ou sont envisagés** dans cet établissement ;
 
@@ -60,10 +60,10 @@ Le cas échéant, je me tiens à votre disposition pour vous transmettre toute p
 
 Je vous remercie de l'attention portée à la présente et vous prie d'agréer, Monsieur le Préfet, l'expression de ma considération distinguée.
 
-**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE
 ## PIECES JOINTES
 
-- **[✉️ Mairie Tavella ERP 📝Document.md](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20Tavella%20ERP%20%F0%9F%93%9DDocument.md)** — Courriel [L'Adjoint au Maire de la Commune] (1er juin 2026)
+- **[✉️ Mairie Tavella ERP 📝Document.md](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20Tavella%20ERP%20%F0%9F%93%9DDocument.md)** — Courriel Monsieur TAVELLA (1er juin 2026)
 
 - **[PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
 

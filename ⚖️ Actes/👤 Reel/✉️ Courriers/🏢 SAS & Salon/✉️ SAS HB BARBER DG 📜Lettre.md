@@ -15,30 +15,30 @@ reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BA
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
 # LETTRE RECOMMANDÉE — MME LA DIRECTRICE GÉNÉRALE (DOMICILE PERSONNEL)
 > 🔗 Source Google Drive : [20260718 ✉️ LRAR [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (DG)](https://docs.google.com/document/d/1g8I1hYbqsue4Q14iQBVkUsXM3uOgFOqRpg4Myp-frxE/edit?usp=sharing)
 
-**[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
+10 Avenue de Purpan, 31700 Blagnac
 
-Courriel : **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
+Courriel : sebastien.grazide@gmail.com
 
-**[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**
+Catherine SORROCHE, dite ANDISSAC
 
 Directrice Générale de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
 
 [351 route Impériale, 34670 Baillargues](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-adresse.md)
 
-**[La Ville de Résidence de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
+Blagnac, le 18 juillet 2026
 
 Objet : Demande de communication de l'assurance RC professionnelle de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — Notification à la dirigeante à titre personnel et de représentant légal
 
 Mode d'envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 
-Réf. : Dossier **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** / [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — Accident du **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**
+Réf. : Dossier Sébastien GRAZIDE / [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — Accident du 29 mai 2026
 
 <hr><hr>
 
@@ -47,13 +47,13 @@ Madame la Directrice Générale,
 
 Par la présente, je me permets de vous écrire en votre qualité de Directrice Générale de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), ainsi qu'à votre adresse personnelle, en raison des responsabilités qui incombent aux dirigeants de droit de sociétés commerciales.
 
-Le vendredi **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** vers 15h20, j'ai subi un grave accident corporel au sein de l'établissement exploité au **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** : un bac à shampoing lourd a basculé et ma main droite a percuté une partie de la vasque en céramique déjà brisée et tranchante, provoquant une plaie palmaire profonde de la main droite, avec atteinte tendineuse et nerveuse. Informaticien indépendant de profession, cette blessure à ma main dominante me paralyse totalement dans mon activité ([arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) de 55 jours en cours).
+Le vendredi 29 mai 2026 vers 15h20, j'ai subi un grave accident corporel au sein de l'établissement exploité au 22 Rue Lafaurie, 09000 Foix : un bac à shampoing lourd a basculé et ma main droite a percuté une partie de la vasque en céramique déjà brisée et tranchante, provoquant une plaie palmaire profonde de la main droite, avec atteinte tendineuse et nerveuse. Informaticien indépendant de profession, cette blessure à ma main dominante me paralyse totalement dans mon activité ([arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) de 55 jours en cours).
 
-Le jour même, j'ai été pris en charge en urgence au centre de soins immédiats de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** par le **[Le Médecin en Urgence](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md)**, qui a constaté la plaie palmaire droite profonde, réalisé les [premiers soins](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (lavage, désinfection, exploration sous anesthésie locale) et m'a réorienté en urgence vers le service spécialisé « SOS Main » de **[L'Établissement SOS Main](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)** pour une exploration chirurgicale le lendemain matin. Le **[J+1 Chirurgie](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md)**, j'ai été opéré par le **[Le Chirurgien SOS Main](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)** (suture tendineuse, suture microchirurgicale des nerfs et vaisseaux, neurolyse, sutures cutanées).
+Le jour même, j'ai été pris en charge en urgence au centre de soins immédiats de Foix par le Dr Julie JARDON, qui a constaté la plaie palmaire droite profonde, réalisé les [premiers soins](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (lavage, désinfection, exploration sous anesthésie locale) et m'a réorienté en urgence vers le service spécialisé « SOS Main » de Clinique de l'Union pour une exploration chirurgicale le lendemain matin. Le 30 mai 2026, j'ai été opéré par le Dr Iskander DJERBI (suture tendineuse, suture microchirurgicale des nerfs et vaisseaux, neurolyse, sutures cutanées).
 
 Veuillez agréer mes excuses pour le délai avec lequel je reviens vers vous. La constitution de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) étant extrêmement récente au moment des faits (début d'activité au 22 avril 2026 et immatriculation au Registre national des entreprises le 19 mai 2026, soit quelques jours seulement avant l'accident), l'indexation de vos statuts et de vos mandats sociaux a connu les délais administratifs habituels avant de figurer publiquement sur les registres (INPI, RNE, SIRENE). Mes démarches initiales de juin, adressées par erreur à l'ancienne enseigne « LES MAUVAIS GARÇONS », n'avaient pu aboutir. Les informations officielles du bailleur et des registres d'immatriculation me permettent aujourd'hui d'adresser la présente demande aux dirigeants réels.
 
-Je précise par ailleurs qu'une mise en demeure en date du **[J+31 Mises en demeure](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)** (LRAR n° **[N° LRAR Directrice](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**) vous avait déjà été adressée à une adresse antérieure, au titre de vos fonctions communes dans l'ancienne société. Cette lettre a fait l'objet d'un retour pour défaut d'adresse. Vous avez donc déjà eu connaissance de l'existence de ce litige, ce qui renforce l'urgence d'y apporter une solution amiable et conforme au droit.
+Je précise par ailleurs qu'une mise en demeure en date du 29 juin 2026 (LRAR n° 87001424721856G) vous avait déjà été adressée à une adresse antérieure, au titre de vos fonctions communes dans l'ancienne société. Cette lettre a fait l'objet d'un retour pour défaut d'adresse. Vous avez donc déjà eu connaissance de l'existence de ce litige, ce qui renforce l'urgence d'y apporter une solution amiable et conforme au droit.
 <hr><hr>
 
 ## II — LE RÔLE DE L'ASSURANCE DE LA SOCIÉTÉ
@@ -75,15 +75,15 @@ En France, lorsqu'un client est victime d'un accident dans un commerce, le rôle
 
 - coopérer de bonne foi avec ces organismes et, si nécessaire, avec la police ou la justice, en donnant des informations exactes sur les circonstances de l'accident.
 
-Dans mon cas, malgré la gravité des blessures, la prise en charge en urgence à **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** puis l'intervention chirurgicale spécialisée sur la main, je n'ai reçu à ce jour aucune information de votre part sur votre assureur ni sur les déclarations qui auraient été faites, ce qui bloque le travail des assurances et complique inutilement une situation déjà très difficile pour moi.
+Dans mon cas, malgré la gravité des blessures, la prise en charge en urgence à Foix puis l'intervention chirurgicale spécialisée sur la main, je n'ai reçu à ce jour aucune information de votre part sur votre assureur ni sur les déclarations qui auraient été faites, ce qui bloque le travail des assurances et complique inutilement une situation déjà très difficile pour moi.
 
-Lors de ma venue à **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** le 16 juillet 2026, pour essayer d'obtenir calmement ces informations directement sur place, j'ai été confronté à une situation très déroutante :
+Lors de ma venue à Foix le 16 juillet 2026, pour essayer d'obtenir calmement ces informations directement sur place, j'ai été confronté à une situation très déroutante :
 
 - la personne se présentant comme responsable du salon a refusé de répondre à mes questions sur l'assurance et les démarches effectuées ;
 
 - au lieu de m'exposer factuellement ce qui avait été fait, il m'a été affirmé que j'aurais été « ivre mort » le jour de l'accident.
 
-Je conteste formellement cette affirmation, qui est fausse. Mon état le **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** a été évalué par plusieurs professionnels de santé (le **[Le Médecin en Urgence](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md)** au centre de soins immédiats de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, puis le service SOS Main et les anesthésistes), dans un parcours d'urgence qui a conduit à une intervention chirurgicale en bloc opératoire le lendemain. Si j'avais été dans un état d'ivresse avancée, cela aurait été constaté, noté dans les dossiers médicaux, et vous ne seriez pas les seuls à en avoir connaissance.
+Je conteste formellement cette affirmation, qui est fausse. Mon état le 29 mai 2026 a été évalué par plusieurs professionnels de santé (le Dr Julie JARDON au centre de soins immédiats de Foix, puis le service SOS Main et les anesthésistes), dans un parcours d'urgence qui a conduit à une intervention chirurgicale en bloc opératoire le lendemain. Si j'avais été dans un état d'ivresse avancée, cela aurait été constaté, noté dans les dossiers médicaux, et vous ne seriez pas les seuls à en avoir connaissance.
 
 Je vous invite donc, dans l'intérêt de chacun, à renoncer à ce type d'explication qui ne correspond pas à la réalité et à vous en tenir strictement aux faits médicaux et matériels, qui pourront être vérifiés très simplement dans les dossiers des services de santé.
 
@@ -94,30 +94,30 @@ Quelle que soit l'interprétation que vous faites aujourd'hui de l'accident, cel
 
 Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours contre tiers n° [**[N° [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md)), je vous remercie de bien vouloir me communiquer, sous un délai de quinze (15) jours à compter de la réception de la présente :
 
-1. Le nom et les coordonnées complètes de l'assureur responsabilité civile de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) au **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** ;
+1. Le nom et les coordonnées complètes de l'assureur responsabilité civile de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) au 29 mai 2026 ;
 
 2. Le numéro de contrat ou de police associé ;
 
 3. Si possible, une copie de l'attestation correspondante.
 
-Ces informations peuvent être envoyées à mon adresse ci-dessus ou par courriel à **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**. Elles seront transmises à la CPAM et à mon conseil, afin que les échanges se poursuivent directement avec votre assureur.
+Ces informations peuvent être envoyées à mon adresse ci-dessus ou par courriel à sebastien.grazide@gmail.com. Elles seront transmises à la CPAM et à mon conseil, afin que les échanges se poursuivent directement avec votre assureur.
 <hr><hr>
 
 ## V — SUITE ENVISAGÉE À DÉFAUT DE RÉPONSE
 
-À défaut de réponse dans ce délai de 15 jours, je confierai l'affaire à mon conseil afin de saisir le juge des référés du Tribunal judiciaire de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** sur le fondement de l'article 145 du Code de procédure civile pour obtenir ces pièces, si nécessaire sous astreinte.
+À défaut de réponse dans ce délai de 15 jours, je confierai l'affaire à mon conseil afin de saisir le juge des référés du Tribunal judiciaire de Foix sur le fondement de l'article 145 du Code de procédure civile pour obtenir ces pièces, si nécessaire sous astreinte.
 
 Je préférerais toutefois que nous puissions rester sur un règlement strictement amiable en passant par votre assurance, sans devoir ajouter de nouvelles démarches contentieuses à une situation déjà lourde et éprouvante.
 
 Comptant sur votre diligence et votre sens des responsabilités pour débloquer cette situation, je vous prie d'agréer, Madame la Directrice Générale, l'expression de mes salutations distinguées.
 
-**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE
 
-**[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
+10 Avenue de Purpan, 31700 Blagnac
 
-Courriel : **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
+Courriel : sebastien.grazide@gmail.com
 
-Téléphone : **[Le Téléphone de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)**
+Téléphone : 06 30 51 67 75
 <hr><hr>
 
 ## Sources Législation

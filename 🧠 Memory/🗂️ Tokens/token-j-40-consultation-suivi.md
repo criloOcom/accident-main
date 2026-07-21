@@ -1,6 +1,7 @@
 ---
 title: "📅 J+40 Consultation suivi"
 description: "Token :** `**[J+40 Consultation suivi]**`"
+real_value: "8 juillet 2026"
 type: memory
 ---
 <!-- Breadcrumb -->

@@ -1,7 +1,7 @@
 ---
 title: Conclusions au Fond — TJ de Foix
 description: Conclusions récapitulatives au fond — Demande d'indemnisation du préjudice
-  corporel — Accident du 29 mai 2026 — SAS [L'Exploitant du Commerce]
+  corporel — Accident du 29 mai 2026 — SAS SAS HB BARBER
 type: document
 date: 2027-06-01
 tags:
@@ -27,7 +27,7 @@ jx: J+368
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -35,9 +35,9 @@ jx: J+368
 # CONCLUSIONS AU FOND
 ## I — POUR :
 
-**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE
 Née le [**[Date de Naissance de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md)
-**[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
+10 Avenue de Purpan, 31700 Blagnac
 Ayant droit à l'aide juridictionnelle
 
 **Partie demanderesse**
@@ -45,10 +45,10 @@ Ayant droit à l'aide juridictionnelle
 
 ## II — CONTRE :
 
-**SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)****
-**[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**
+**SAS SAS HB BARBER**
+22 Rue Lafaurie, 09000 Foix
 SIRET : [**[SIRET]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#siret)
-Assureur RC : [**[L'Assureur RC]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-assureur-rc.md)
+Assureur RC : [[Assurance RC Inconnue]](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-assureur-rc.md)
 
 **Partie défenderesse**
 <hr><hr>
@@ -58,7 +58,7 @@ Assureur RC : [**[L'Assureur RC]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%
 
 ### III.1 — 1.1 Les circonstances de l'accident
 
-Le **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**, la demanderesse était installée au bac à shampoing du salon de coiffure exploité par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, sise **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** à **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**.
+Le 29 mai 2026, la demanderesse était installée au bac à shampoing du salon de coiffure exploité par la SAS SAS HB BARBER, sise 22 Rue Lafaurie, 09000 Foix à Foix.
 
 Le préposé de l'exploitation est monté sur la vasque en céramique du bac à shampoing pour accéder au poste de télévision, en l'absence totale de tout équipement d'accès en hauteur (escabeau, marchepied) mis à disposition par l'employeur. Sous le poids du préposé, la vasque — déjà instable et fragilisée par une **cassure majeure préexistante non signalée** — a basculé violemment. **La vasque ne s'est pas effondrée** (aucun débris de céramique).
 
@@ -99,7 +99,7 @@ Par ordonnance de référé du [**[Date Ordonnance Référé]**](../../../../%F0
 
 ### IV.1 — 2.1 Rappel de l'instance
 
-Par exploit d'huissier en date du [**[J+63 Assignation 145]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-63-assignation-145.md), la demanderesse a fait assigner la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** devant le Tribunal Judiciaire de Foix sur le fondement de l'article 145 du Code de procédure civile aux fins de voir ordonner une expertise médicale et d'obtenir une provision à valoir sur l'indemnisation de son préjudice corporel.
+Par exploit d'huissier en date du [**[J+63 Assignation 145]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-63-assignation-145.md), la demanderesse a fait assigner la SAS SAS HB BARBER devant le Tribunal Judiciaire de Foix sur le fondement de l'article 145 du Code de procédure civile aux fins de voir ordonner une expertise médicale et d'obtenir une provision à valoir sur l'indemnisation de son préjudice corporel.
 
 Par ordonnance du [**[Date Ordonnance Référé]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles), le juge des référés a :
 - Ordonné une expertise médicale confiée à [**[Expert Désigné]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#expert-1)
@@ -118,7 +118,7 @@ L'action est recevable et non prescrite, le délai de droit commun de cinq ans (
 
 ### IV.3 — 2.3 Compétence du Tribunal Judiciaire de Foix
 
-Le Tribunal Judiciaire de Foix est territorialement compétent en application de l'article 42 du Code de procédure civile, le fait dommageable s'étant produit dans son ressort (**[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, [**[Code Postal Accident]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#accident)).
+Le Tribunal Judiciaire de Foix est territorialement compétent en application de l'article 42 du Code de procédure civile, le fait dommageable s'étant produit dans son ressort (Foix, [**[Code Postal Accident]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#accident)).
 
 ### IV.4 — 2.4 Absence de sursis à statuer
 
@@ -142,7 +142,7 @@ La responsabilité du fait des choses repose sur trois conditions cumulatives :
 
 3. **Un dommage** : la plaie palmaire profonde et ses séquelles
 
-**Sur la garde de la chose** : la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** avait la garde de la vasque — équipement fixe et permanent du salon, installé dans ses locaux, utilisé dans le cadre de son activité commerciale. La Cour de cassation rappelle que le propriétaire de l'équipement en conserve la garde dès lors qu'il en a l'usage, la direction et le contrôle (Civ. 2e, 8 décembre 2005, n° 04-13.298 ; Civ. 2e, 19 mars 1997, n° 94-22.061).
+**Sur la garde de la chose** : la SAS SAS HB BARBER avait la garde de la vasque — équipement fixe et permanent du salon, installé dans ses locaux, utilisé dans le cadre de son activité commerciale. La Cour de cassation rappelle que le propriétaire de l'équipement en conserve la garde dès lors qu'il en a l'usage, la direction et le contrôle (Civ. 2e, 8 décembre 2005, n° 04-13.298 ; Civ. 2e, 19 mars 1997, n° 94-22.061).
 
 **Sur le fait actif de la chose** : la vasque a basculé violemment sous le poids du préposé qui y avait pris appui. La Cour de cassation admet que le fait de la chose est établi dès lors que celle-ci a joué un rôle causal dans la réalisation du dommage, sans qu'il soit nécessaire de caractériser un « fait actif » spécifique (Civ. 2e, 5 mars 2015, n° 13-28.811). Le simple contact entre la chose et la victime, dès lors qu'il est à l'origine du dommage, suffit à engager la responsabilité du gardien.
 
@@ -152,7 +152,7 @@ La responsabilité du fait des choses repose sur trois conditions cumulatives :
 
 ### V.2 — 3.2 Manquements à l'obligation de sécurité du travail (subsidiaire)
 
-À titre subsidiaire, la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** a méconnu plusieurs obligations légales et réglementaires :
+À titre subsidiaire, la SAS SAS HB BARBER a méconnu plusieurs obligations légales et réglementaires :
 
 **Articles L.4121-1 à L.4121-5 du Code du travail** — obligation générale de sécurité et de protection de la santé :
 
@@ -176,7 +176,7 @@ La responsabilité du fait des choses repose sur trois conditions cumulatives :
 
 ### V.3 — 3.3 Faute de la SAS (article 1240 du Code civil — très subsidiaire)
 
-À titre infiniment subsidiaire, la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** a commis une faute civile engageant sa responsabilité délictuelle sur le fondement de l'article 1240 du Code civil.
+À titre infiniment subsidiaire, la SAS SAS HB BARBER a commis une faute civile engageant sa responsabilité délictuelle sur le fondement de l'article 1240 du Code civil.
 
 Cette faute résulte du cumul de négligences inexcusables :
 - Défaut de signalement et de réparation de la cassure préexistante de la vasque
@@ -197,7 +197,7 @@ Cette faute résulte du cumul de négligences inexcusables :
 
 **Sur l'absence de cause étrangère exonératoire** :
 
-La SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** ne peut invoquer aucune cause étrangère exonératoire :
+La SAS SAS HB BARBER ne peut invoquer aucune cause étrangère exonératoire :
 
 - **Force majeure** : l'accident résulte de l'absence d'escabeau et de l'état défectueux de la vasque, faits parfaitement prévisibles et évitables par l'exercice normal de ses obligations
 
@@ -369,9 +369,9 @@ Vu les pièces versées aux débats,
 
 **RECEVOIR** la demanderesse en ses demandes et les dire bien fondées ;
 
-**DIRE ET JUGER** que la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** est entièrement responsable du préjudice corporel subi par **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** sur le fondement de l'article 1242 alinéa 1er du Code civil, subsidiairement sur celui de l'article 1240 du même code ;
+**DIRE ET JUGER** que la SAS SAS HB BARBER est entièrement responsable du préjudice corporel subi par Sébastien GRAZIDE sur le fondement de l'article 1242 alinéa 1er du Code civil, subsidiairement sur celui de l'article 1240 du même code ;
 
-**CONDAMNER** en conséquence la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** les sommes suivantes :
+**CONDAMNER** en conséquence la SAS SAS HB BARBER les sommes suivantes :
 
 - Au titre du DFP (12 %) : **25 200 €**
 
@@ -397,7 +397,7 @@ Vu les pièces versées aux débats,
 
 **DÉDUIRE** de ces sommes la créance des tiers payeurs (CPAM) conformément aux articles 29 et 31 de la loi du 5 juillet 1985 (créance estimée à ~790,23 € au titre des DSA) ;
 
-**CONDAMNER** la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** à payer à **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** la somme de **3 000 €** au titre de l'article 700 du Code de procédure civile ;
+**CONDAMNER** la SAS SAS HB BARBER à payer à Sébastien GRAZIDE la somme de **3 000 €** au titre de l'article 700 du Code de procédure civile ;
 
 **CONDAMNER** la même aux entiers dépens, en ce compris les frais d'expertise judiciaire ;
 
@@ -411,9 +411,9 @@ Vu les pièces versées aux débats,
 
 <hr><hr>
 
-**FAIT À **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, LE [**[Date Dépôt Conclusions]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)**
+**FAIT À Foix, LE [**[Date Dépôt Conclusions]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)**
 
-**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE
 *(partie demanderesse, non assistée d'avocat — article 827 CPC)*
 <hr><hr>
 
@@ -431,7 +431,7 @@ Vu les pièces versées aux débats,
 
 6. Prescriptions, [arrêts de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et pièces de rééducation
 
-7. Mises en demeure LRAR des **[J+31 Mises en demeure](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)**
+7. Mises en demeure LRAR des 29 juin 2026
 
 8. Mise en demeure assureur RC du J+50
 

@@ -1,6 +1,7 @@
 ---
 title: "📅 J+35 AR propriétaire"
 description: "Token :** `**[J+35 AR propriétaire]**`"
+real_value: "3 juillet 2026"
 type: memory
 ---
 <!-- Breadcrumb -->

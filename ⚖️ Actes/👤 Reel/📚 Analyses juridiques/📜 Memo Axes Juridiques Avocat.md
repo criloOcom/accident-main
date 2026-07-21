@@ -13,7 +13,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Memo Axes Juridiques Av
 <!-- /Breadcrumb -->
 
 # MÉMO AXES JURIDIQUES
-## Pour l'avocat — Accident main 29 mai 2026 — Victime : **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+## Pour l'avocat — Accident main 29 mai 2026 — Victime : Sébastien GRAZIDE
 
 <hr><hr>
 
@@ -25,7 +25,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Memo Axes Juridiques Av
 | **C. pén. art. 121-3** | Principe de la responsabilité pénale — faute simple suffit (imprudence, négligence, manquement obligation sécurité) |
 | **C. pén. art. 223-1** | Mise en danger délibérée d'autrui — bac déjà brisé maintenu en service dans un ERP (condition : violation délibérée d'une obligation de sécurité) |
 
-**Cibles :** **[Le Préposé de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** (tél. [07 58 40 12 87](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)) (manœuvre dangereuse) + [SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (matériel dangereux maintenu en service)
+**Cibles :** Ayoub BENNOURINE (tél. [07 58 40 12 87](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)) (manœuvre dangereuse) + [SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (matériel dangereux maintenu en service)
 
 <hr><hr>
 
@@ -49,7 +49,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Memo Axes Juridiques Av
 | **Cass. Com. 20 mai 2003 n°99-17.092 (arrêt SATI)** | Principe : faute intentionnelle d'une particulière gravité = faute détachable. Peut constituer une application en cas d'assurance légalement obligatoire. |
 | **C. com. art. L.210-6, L.237-2** | Responsabilité en cas de manquement, dissolution |
 
-**Cibles :** **[La Directrice Générale de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** (DG commune aux 2 sociétés), [Hamza El Hachemi BERGUIGA](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) (président [SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md))
+**Cibles :** Catherine SORROCHE, dite ANDISSAC (DG commune aux 2 sociétés), [Hamza El Hachemi BERGUIGA](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) (président [SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md))
 
 <hr><hr>
 

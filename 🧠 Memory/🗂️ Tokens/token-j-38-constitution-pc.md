@@ -1,6 +1,7 @@
 ---
 title: "📅 J+38 Constitution PC"
 description: "Token :** `**[J+38 Constitution PC]**`"
+real_value: "6 juillet 2026"
 type: memory
 ---
 <!-- Breadcrumb -->

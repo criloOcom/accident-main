@@ -1,6 +1,7 @@
 ---
 title: "🏢 L'Établissement SOS Main"
 description: "Token :** `**[L'Établissement SOS Main]**`"
+real_value: "Clinique de l'Union"
 type: memory
 ---
 <!-- Breadcrumb -->

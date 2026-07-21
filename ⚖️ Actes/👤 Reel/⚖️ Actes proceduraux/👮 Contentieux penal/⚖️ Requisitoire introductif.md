@@ -28,23 +28,23 @@ jx: J+47
 # RÉQUISITOIRE INTRODUCTIF DU MINISTÈRE PUBLIC
 **Ouverture d'une information judiciaire — Blessures involontaires et infractions connexes**
 
-Tribunal Judiciaire de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
+Tribunal Judiciaire de Foix
 Le Procureur de la République
 
 RÉFÉRENCE PARQUET : [À compléter]
 RÉFÉRENCE PLAINTE : PV n°[2026/015967](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md)
 
 À l'attention de Monsieur le Doyen des Juges d'Instruction,
-Tribunal Judiciaire de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
+Tribunal Judiciaire de Foix
 ## I — PROBLÉMATIQUE ET EXPOSÉ DES FAITS
 
-Le Ministère Public a été saisi par la plainte, puis par la [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) en date du **[J+38 Constitution PC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)**, déposées par **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** à l'encontre de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), ainsi que de ses dirigeants, **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**.
+Le Ministère Public a été saisi par la plainte, puis par la [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) en date du 6 juillet 2026, déposées par Sébastien GRAZIDE à l'encontre de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), ainsi que de ses dirigeants, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC.
 
-Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sis **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**, a été victime d'un grave accident corporel.
+Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, Sébastien GRAZIDE, qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sis 22 Rue Lafaurie, 09000 Foix, a été victime d'un grave accident corporel.
 
-Alors que **[Le Préposé de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** (tel : [**[Le Telephone du Prepose]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)), faute d'equipement d'acces en hauteur (escabeau, marchepied) mis a sa disposition, etait monte sur la vasque en ceramique d'un bac a shampoing pour regler un poste de television situe en hauteur, cet equipement, deja fragilise par une cassure majeure preexistante et non signalee aux aretes tranchantes, a bascule sous son poids.
+Alors que Ayoub BENNOURINE (tel : [07 58 40 12 87](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)), faute d'equipement d'acces en hauteur (escabeau, marchepied) mis a sa disposition, etait monte sur la vasque en ceramique d'un bac a shampoing pour regler un poste de television situe en hauteur, cet equipement, deja fragilise par une cassure majeure preexistante et non signalee aux aretes tranchantes, a bascule sous son poids.
 
-En tentant par réflexe de retenir le préposé, **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** a heurté de la main droite — sa main dominante — la cassure tranchante.
+En tentant par réflexe de retenir le préposé, Sébastien GRAZIDE a heurté de la main droite — sa main dominante — la cassure tranchante.
 
 Ce choc a provoqué une section complète du tendon fléchisseur profond (FDP) de l'index droit en zone II de Verdan, associée à une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une microchirurgie d'urgence le 30 mai 2026, puis une neurolyse secondaire du nerf palmaire.
 
@@ -101,7 +101,7 @@ S'agissant des personnes physiques qui n'ont pas causé directement le dommage (
 > [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) <br>
 > **Code pénal > Partie législative > Livre Ier > Titre II > Chapitre Ier.[^5]**
 
-Le défaut de souscription d'assurance et le maintien en service d'un équipement gravement défectueux caractérisent l'absence de diligence normale et peuvent constituer une telle faute caractérisée incombant à **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**.
+Le défaut de souscription d'assurance et le maintien en service d'un équipement gravement défectueux caractérisent l'absence de diligence normale et peuvent constituer une telle faute caractérisée incombant à Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC.
 
 ### II.4 — SUR LA PRESCRIPTION
 
@@ -148,12 +148,12 @@ Par ces motifs,
 
 Vu les articles 222-19, 222-20, 223-1, 121-2 et 121-3 du Code pénal ;
 Vu les articles 80 et suivants du Code de procédure pénale ;
-Vu la plainte et la [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) de **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** ;
+Vu la plainte et la [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) de Sébastien GRAZIDE ;
 Vu le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 (consolidation 01/03/2027, DFP 12 %, SE 4/7) ;
 
 Nous requérons qu'il plaise à Monsieur le Doyen des Juges d'Instruction de :
 
-**OUVRIR UNE INFORMATION JUDICIAIRE** contre personne non dénommée et contre la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)**, et **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**, des chefs de :
+**OUVRIR UNE INFORMATION JUDICIAIRE** contre personne non dénommée et contre la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), Hamza El Hachemi BERGUIGA, et Catherine SORROCHE, dite ANDISSAC, des chefs de :
 
 - **Blessures involontaires** (Art. 222-19 ou subsidiairement 222-20 C. pénal) — ITT > 3 mois en considération de la consolidation à 12 mois et du DFP de 12 %, ou à tout le moins ITT ≤ 3 mois par violation manifestement délibérée ;
 
@@ -166,7 +166,7 @@ Et de tous autres chefs qui viendraient à être révélés par l'instruction.
 **ORDONNER** les actes d'instruction suivants :
 - Audition des dirigeants de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) sur les conditions d'entretien des locaux et l'existence d'une assurance RC ;
 
-- Audition de **[Le Préposé de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** en qualité de témoin ;
+- Audition de Ayoub BENNOURINE en qualité de témoin ;
 
 - Saisie des enregistrements vidéo de surveillance (sous séquestre par [ordonnance sur requête Art. 145 CPC](../%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md) du [**[J+54]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-54.md)) ;
 
@@ -176,7 +176,7 @@ Et de tous autres chefs qui viendraient à être révélés par l'instruction.
 
 **DÉCERNER** tous mandats qu'il appartiendra.
 
-Fait au Parquet de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le 15 juillet 2026.
+Fait au Parquet de Foix, le 15 juillet 2026.
 
 **Le Procureur de la République**
 <hr><hr>

@@ -1,6 +1,7 @@
 ---
 title: "📅 J+5 Ouverture CPAM"
 description: "Token :** `**[J+5 Ouverture CPAM]**`"
+real_value: "3 juin 2026"
 type: memory
 ---
 <!-- Breadcrumb -->

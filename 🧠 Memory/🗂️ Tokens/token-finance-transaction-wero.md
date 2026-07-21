@@ -1,6 +1,7 @@
 ---
 title: "💰 N° Transaction Wero"
 description: "Token :** `**[N° Transaction Wero]**`"
+real_value: "IPR000297029234"
 type: memory
 ---
 <!-- Breadcrumb -->

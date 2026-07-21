@@ -1,6 +1,7 @@
 ---
 title: "👤 L'Adjoint au Maire de la Commune"
 description: "Token :** `**[L'Adjoint au Maire de la Commune]**`"
+real_value: "Monsieur TAVELLA"
 type: memory
 ---
 <!-- Breadcrumb -->

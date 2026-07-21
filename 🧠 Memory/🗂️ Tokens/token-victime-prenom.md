@@ -1,6 +1,7 @@
 ---
 title: "👤 Prénom de la Victime"
 description: "Token :** `**[Prénom de la Victime]**`"
+real_value: "Sébastien"
 type: memory
 ---
 <!-- Breadcrumb -->

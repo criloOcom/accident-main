@@ -29,7 +29,7 @@ jx: J+53
 
 ## I — OBJET ET CHAMP DE LA NOTE
 
-La présente note a pour objet d'analyser les conditions, la prescription et la stratégie procédurale de l'action directe que **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** peut exercer contre l'assureur de responsabilité civile de la SAS exploitant le salon de coiffure, sur le fondement de l'article L.124-3 du Code des assurances.
+La présente note a pour objet d'analyser les conditions, la prescription et la stratégie procédurale de l'action directe que Sébastien GRAZIDE peut exercer contre l'assureur de responsabilité civile de la SAS exploitant le salon de coiffure, sur le fondement de l'article L.124-3 du Code des assurances.
 
 Elle s'inscrit dans le cadre d'une procédure en deux temps :
 

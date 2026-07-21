@@ -24,19 +24,19 @@ jx: J+37
 
 # SUIVI<br>DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF
 > 🔗 Source Google Drive : [1Xj4wf-v-ShC…](https://drive.google.com/open?id=1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw)
-**[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
+10 Avenue de Purpan, 31700 Blagnac
 
-Courriel : **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
+Courriel : sebastien.grazide@gmail.com
 
-**[L'Adjoint au Maire de la Commune](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md)**
+Monsieur TAVELLA
 
-Mairie de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
+Mairie de Foix
 
 **Adresse de la Mairie**
 
-**[Code Postal de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-code-postal.md)** **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
+09000 Foix
 
-**[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le **[J+37 Assignation 145](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)**
+Foix, le 5 juillet 2026
 
 Objet : Suite a votre message du 1er juin 2026 — Demande d'information sur les diligences Inspection du Travail et CODAF
 
@@ -45,11 +45,11 @@ Ref : Votre courriel du 1er juin 2026
 Monsieur l'Adjoint au Maire,
 ## I — INTRODUCTION
 
-La presente lettre fait suite a votre courriel du 1er juin 2026 par lequel vous m'informiez avoir pris l'attache des services de la prefecture afin de diligenter l'inspection du travail et le CODAF (Comite Operationnel Departemental Anti Fraude) a la suite de l'accident corporel grave dont j'ai ete victime le **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** au sein du salon de coiffure SAS HB BARBER.
+La presente lettre fait suite a votre courriel du 1er juin 2026 par lequel vous m'informiez avoir pris l'attache des services de la prefecture afin de diligenter l'inspection du travail et le CODAF (Comite Operationnel Departemental Anti Fraude) a la suite de l'accident corporel grave dont j'ai ete victime le 29 mai 2026 au sein du salon de coiffure SAS HB BARBER.
 
 Je vous remercie chaleureusement pour votre diligence et votre soutien.
 
-Dans le cadre de la procedure judiciaire que j'ai engagee a l'encontre de l'exploitant (plainte deposee au commissariat de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** le 1er juin 2026, PV n° [2026/015967](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md)), je constitue un dossier d'indemnisation complet et permanent.
+Dans le cadre de la procedure judiciaire que j'ai engagee a l'encontre de l'exploitant (plainte deposee au commissariat de Foix le 1er juin 2026, PV n° [2026/015967](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md)), je constitue un dossier d'indemnisation complet et permanent.
 
 A ce titre, les elements suivants me seraient d'une grande utilite pour etayer mon dossier civil et penal :
 
@@ -71,4 +71,4 @@ Je vous rappelle que l'Article L. 311-1 du Code des relations entre le public et
 
 Dans l'attente de votre retour, je vous prie de croire, Monsieur l'Adjoint au Maire, a l'expression de ma consideration distinguee.
 
-**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE

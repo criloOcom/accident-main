@@ -1,6 +1,7 @@
 ---
 title: "📅 J+2 Sortie"
 description: "Token :** `**[J+2 Sortie]**`"
+real_value: "31 mai 2026"
 type: memory
 ---
 <!-- Breadcrumb -->

@@ -1,6 +1,7 @@
 ---
 title: "📍 Code Postal de l'Accident"
 description: "Token :** `**[Code Postal de l'Accident]**`"
+real_value: "09000"
 type: memory
 ---
 <!-- Breadcrumb -->

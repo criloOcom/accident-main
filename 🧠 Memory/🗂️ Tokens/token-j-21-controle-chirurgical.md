@@ -1,6 +1,7 @@
 ---
 title: "📅 J+21 Contrôle chirurgical"
 description: "Token :** `**[J+21 Contrôle chirurgical]**`"
+real_value: "19 juin 2026"
 type: memory
 ---
 <!-- Breadcrumb -->

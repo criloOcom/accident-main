@@ -1,6 +1,7 @@
 ---
 title: "📍 L'Identifiant Professionnel de la Victime"
 description: "Token :** `**[L'Identifiant Professionnel de la Victime]**`"
+real_value: "500 474 457"
 type: memory
 ---
 <!-- Breadcrumb -->

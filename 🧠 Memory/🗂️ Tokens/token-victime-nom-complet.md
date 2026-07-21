@@ -1,6 +1,7 @@
 ---
 title: "👤 La Victime"
 description: "Token :** `**[La Victime]**`"
+real_value: "Sébastien GRAZIDE"
 type: memory
 ---
 <!-- Breadcrumb -->
