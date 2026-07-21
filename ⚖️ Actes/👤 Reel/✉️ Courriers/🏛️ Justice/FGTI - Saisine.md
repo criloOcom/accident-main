@@ -15,10 +15,11 @@ tags:
 statut: archive
 destinataire: FGTI
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/FGTI - Saisine.md
 source: drive
 drive_id: 13jocmpqETy64lldco9LGCKLJZp_ml_9u53NB7OySmrs
 jx: J+38
+token_path: ../../../🔑 Token/✉️ Courriers/🏛️ Justice/FGTI - Saisine.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Justice › ✉️ FGTI - Saisine*

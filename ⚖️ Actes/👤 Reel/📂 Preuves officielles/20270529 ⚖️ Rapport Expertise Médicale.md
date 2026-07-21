@@ -13,8 +13,9 @@ tags:
   - consolidation
 statut: projet
 auteur: Simulation — Expert Judiciaire désigné
-reel_path: ../../👤 Reel/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md
 jx: J+365
+token_path: ../../🔑 Token/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📄 Preuves Officielles](./README.md) › 20270529 ⚖️ Rapport Expertise Médicale*

@@ -9,8 +9,9 @@ tags:
   - cour de cassation
 statut: final
 auteur: La Victime
-reel_path: ../../👤 Reel/📚 Analyses juridiques/Note - Stratégie Jurisprudentielle.md
 source: local
+token_path: ../../🔑 Token/📚 Analyses juridiques/Note - Stratégie Jurisprudentielle.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › Note - Stratégie Jurisprudentielle*

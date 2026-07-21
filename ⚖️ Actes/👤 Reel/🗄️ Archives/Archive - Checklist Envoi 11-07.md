@@ -8,7 +8,9 @@ date_archive: 2026-07-19
 raison_archive: "Exécutée le 11/07/2026. Courriers envoyés : URSSAF, CODAF, FGTI, Président TJ Foix."
 auteur: La Victime
 jx: J+43
-reel_path: ../../👤 Reel/🗄️ Archives/Archive - Checklist Envoi 11-07.md
+
+token_path: ../../🔑 Token/🗄️ Archives/Archive - Checklist Envoi 11-07.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › Archive - Checklist Envoi 11-07*

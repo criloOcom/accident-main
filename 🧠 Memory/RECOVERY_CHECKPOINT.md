@@ -47,7 +47,7 @@ type: memory
 - **50 liens historiques restants** (non bloquants)
 
 ### Phase 2 — Urgences 31 juillet
-- Demande AJ Totale créée (`📝 Procédure/✉️ AJ - Demande Totale.md`)
+- Demande AJ Totale créée (`📝 Procédure/✉️ BAJ - Demande AJ Totale.md`)
 
 - Assignation Référé-Provision finalisée (audience 31 juillet)
 
@@ -83,7 +83,7 @@ type: memory
 
 - `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
 
-- `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ AJ - Demande Totale.md`
+- `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BAJ - Demande AJ Totale.md`
 
 ### Infra token
 - `🧠 Memory/TOKEN MAP.md`
@@ -162,7 +162,7 @@ Chaque session : `{repo: "criloOcom/accident-main", branch: "main", autoPr: true
 | V02 | M02 Abs assurance | Actes procéduraux, Courriers |
 | V03 | M03 Stratégie | Mémo stratégie, Note synthèse avocat |
 | V04 | M04 Note étape | Notes d'étape, Frise |
-| V05 | M05 Demande AJ | ✉️ AJ - Demande Totale.md |
+| V05 | M05 Demande AJ | ✉️ BAJ - Demande AJ Totale.md |
 | V06 | M06 Requête 145 | Référé Provision - Assignation.md |
 | V07 | M07 Plainte + Erratum | Plainte complémentaire, Erratum |
 | V08 | M08 Plan déplacement | TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md |

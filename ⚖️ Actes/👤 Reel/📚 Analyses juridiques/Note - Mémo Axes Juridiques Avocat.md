@@ -5,7 +5,9 @@ type: analyse_juridique
 date: 2026-07-17
 statut: final
 auteur: La Victime
-reel_path: ../../👤 Reel/📚 Analyses juridiques/Note - Mémo Axes Juridiques Avocat.md
+
+token_path: ../../🔑 Token/📚 Analyses juridiques/Note - Mémo Axes Juridiques Avocat.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › Note - Mémo Axes Juridiques Avocat*

@@ -11,9 +11,10 @@ tags:
 statut: final
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md
 source: drive
 jx: J+39
+
+token_path: ../../../🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md
 
 ---
 <!-- Breadcrumb -->

@@ -5,7 +5,9 @@ type: analyse_juridique
 date: 2026-07-17
 statut: preparation
 auteur: Conseil externe (Jimini) + Sébastien GRAZIDE
-reel_path: ../../👤 Reel/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md
+
+token_path: ../../🔑 Token/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › Note - Synthèse Avocat Bascule HB BARBER*

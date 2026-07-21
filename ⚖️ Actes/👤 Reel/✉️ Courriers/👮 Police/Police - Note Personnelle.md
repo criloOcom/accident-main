@@ -7,7 +7,9 @@ date: 2026-07-17
 statut: preparation
 destinataire: Commissariat de Police de Foix
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/Police - Note Personnelle.md
+
+token_path: ../../../🔑 Token/✉️ Courriers/👮 Police/Police - Note Personnelle.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers](../README.md) › [👮 Police](./README.md) › 📋 Police - Note Personnelle*

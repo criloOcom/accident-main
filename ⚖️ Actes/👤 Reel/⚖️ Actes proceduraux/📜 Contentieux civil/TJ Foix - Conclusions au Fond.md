@@ -20,8 +20,9 @@ tags:
 statut: projet
 destinataire: Tribunal Judiciaire de Foix
 auteur: La Victime
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md
 jx: J+368
+token_path: ../../../🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [📜 Contentieux civil](./README.md) › 📜 TJ Foix - Conclusions au Fond*

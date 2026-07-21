@@ -13,8 +13,9 @@ tags:
 statut: final
 destinataire: Tribunal de Commerce de Foix
 auteur: Nom de l'Avocat de la Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/Tribunal de Commerce - Opposition Radiation.md
 jx: J+41
+token_path: ../../../🔑 Token/✉️ Courriers/🏛️ Justice/Tribunal de Commerce - Opposition Radiation.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Justice › ✉️ Tribunal de Commerce - Opposition Radiation*

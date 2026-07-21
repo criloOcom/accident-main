@@ -8,7 +8,9 @@ date_archive: 2026-07-19
 raison_archive: "L'opération du 15/07 n'a jamais eu lieu. Visite faite le 16/07. Remplacé par checklist unifiée 20/07 incluant HB BARBER, attestation Mathieu, erratum correction société."
 auteur: La Victime
 jx: J+47
-reel_path: ../../👤 Reel/🗄️ Archives/Archive - Bordereau Pièces 15 Juillet.md
+
+token_path: ../../🔑 Token/🗄️ Archives/Archive - Bordereau Pièces 15 Juillet.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › Archive - Bordereau Pièces 15 Juillet*

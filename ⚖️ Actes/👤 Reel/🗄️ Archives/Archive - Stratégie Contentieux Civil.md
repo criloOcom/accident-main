@@ -10,8 +10,9 @@ tags:
   - procédure
 statut: final
 auteur: La Victime
-reel_path: ../../👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md
 source: drive
+token_path: ../../🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › Archive - Stratégie Contentieux Civil*

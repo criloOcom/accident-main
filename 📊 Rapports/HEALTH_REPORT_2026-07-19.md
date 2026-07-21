@@ -65,8 +65,8 @@ Détail :
   • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md: date=2026-07-10 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ AJ - Demande Totale.md: date=2026-07-18 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ AJ - Guide Demande.md: date=2026-07-12 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ BAJ - Demande AJ Totale.md: date=2026-07-18 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ BBAJ - Guide Demande AJ AJ.md: date=2026-07-12 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md: date=2026-07-18 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md: date=2026-07-05 type=courrier mais calendar_event_id manquant

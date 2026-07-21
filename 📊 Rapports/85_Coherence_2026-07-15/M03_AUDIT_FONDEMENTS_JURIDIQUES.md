@@ -829,13 +829,13 @@ type: rapport
 
 - [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md:51 — citation incomplète (Code manquant pour l'article 145 dans `Art. 145`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ AJ - Guide Demande.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ AJ - Guide Demande.md:108 — citation incomplète (Code manquant pour l'article 145 dans `Art. 145`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BBAJ - Guide Demande AJ AJ.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BBAJ - Guide Demande AJ AJ.md:108 — citation incomplète (Code manquant pour l'article 145 dans `Art. 145`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ AJ - Guide Demande.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ AJ - Guide Demande.md:162 — citation incomplète (Code manquant pour l'article 145 dans `Art. 145`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BBAJ - Guide Demande AJ AJ.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BBAJ - Guide Demande AJ AJ.md:162 — citation incomplète (Code manquant pour l'article 145 dans `Art. 145`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ AJ - Guide Demande.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ AJ - Guide Demande.md:183 — citation incomplète (Code manquant pour l'article 145 dans `Art. 145`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BBAJ - Guide Demande AJ AJ.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BBAJ - Guide Demande AJ AJ.md:183 — citation incomplète (Code manquant pour l'article 145 dans `Art. 145`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ AJ - Guide Demande.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ AJ - Guide Demande.md:69 — citation incomplète (Code manquant pour l'article 145 dans `Art. 145`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BBAJ - Guide Demande AJ AJ.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BBAJ - Guide Demande AJ AJ.md:69 — citation incomplète (Code manquant pour l'article 145 dans `Art. 145`) — préciser le code applicable.
 
 - [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md:62 — citation incomplète (Code manquant pour l'article L376-1 dans `Article L376-1 du Code de la s`) — préciser le code applicable.
 

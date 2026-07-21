@@ -12,8 +12,9 @@ tags:
 statut: final
 destinataire: President du Tribunal Judiciaire de Foix
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/TJ Foix - Courrier - Preuves Complémentaires.md
 jx: J+44
+token_path: ../../../🔑 Token/✉️ Courriers/🏛️ Justice/TJ Foix - Courrier - Preuves Complémentaires.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Justice › ✉️ TJ Foix - Courrier - Preuves Complémentaires*

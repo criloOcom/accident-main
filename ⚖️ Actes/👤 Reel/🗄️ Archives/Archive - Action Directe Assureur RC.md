@@ -11,9 +11,10 @@ tags:
 statut: projet
 destinataire: Compagnie d'Assurance de l'Exploitant du Commerce
 auteur: La Victime
-reel_path: ../../👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md
 source: drive
 drive_id: 1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY
+token_path: ../../🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › Archive - Action Directe Assureur RC*

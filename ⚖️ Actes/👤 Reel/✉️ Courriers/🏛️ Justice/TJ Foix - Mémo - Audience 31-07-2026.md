@@ -5,8 +5,9 @@ type: preuve
 date: 2026-07-18
 statut: final
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/TJ Foix - Mémo - Audience 31-07-2026.md
 jx: J+63
+
+token_path: ../../../🔑 Token/✉️ Courriers/🏛️ Justice/TJ Foix - Mémo - Audience 31-07-2026.md
 
 ---
 <!-- Breadcrumb -->

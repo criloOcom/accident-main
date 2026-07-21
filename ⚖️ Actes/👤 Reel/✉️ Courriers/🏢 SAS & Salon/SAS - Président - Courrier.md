@@ -17,11 +17,12 @@ tags:
 statut: envoye
 destinataire: Dirigeants de l'Exploitant du Commerce
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Président - Courrier.md
 source: drive
 drive_id: 1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I
 calendar_event_id: "dd8qkuvg1t3jquofh93ccnl0lg"
 jx: J+31
+token_path: ../../../🔑 Token/✉️ Courriers/🏢 SAS & Salon/SAS - Président - Courrier.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS - Président - Courrier*

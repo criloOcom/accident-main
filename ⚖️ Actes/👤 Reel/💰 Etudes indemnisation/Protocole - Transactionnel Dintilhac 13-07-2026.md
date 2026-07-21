@@ -4,9 +4,10 @@ date: 2026-07-13
 description: Accord transactionnel aux fins de règlement amiable et d'indemnisation
   provisionnelle ou définitive.
 type: preuve
-reel_path: ../../👤 Reel/💰 Etudes indemnisation/Protocole - Transactionnel Dintilhac 13-07-2026.md
 auteur: La Victime
 statut: brouillon
+token_path: ../../🔑 Token/💰 Etudes indemnisation/Protocole - Transactionnel Dintilhac 13-07-2026.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [💰 Études d'Indemnisation](./README.md) › Protocole Transactionnel Dintilhac 20260713*

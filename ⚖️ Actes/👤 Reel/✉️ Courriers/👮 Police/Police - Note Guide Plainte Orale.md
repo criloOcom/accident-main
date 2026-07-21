@@ -7,8 +7,9 @@ description: DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER. Aide-mémoire pour
 type: courrier
 destinataire: "La Victime"
 statut: archive
-reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/Police - Note Guide Plainte Orale.md
 auteur: La Victime
+token_path: ../../../🔑 Token/✉️ Courriers/👮 Police/Police - Note Guide Plainte Orale.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👮 Police › ✉️ Police - Note Guide Plainte Orale*

@@ -99,11 +99,11 @@ Ce rapport liste les incohérences ou erreurs liées aux adresses et sièges soc
 
 - [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🏥 CPAM/✉️ CPAM - Rectification Identité - Relance.md:57 — Adresse réelle trouvée dans un fichier Token (`22 Grande Rue La Faurie`) — remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/📋 Interne/✉️ AJ - Demande Totale.md:85 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/📋 Interne/✉️ BAJ - Demande AJ Totale.md:85 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/📋 Interne/✉️ AJ - Demande Totale.md:98 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/📋 Interne/✉️ BAJ - Demande AJ Totale.md:98 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/📋 Interne/✉️ AJ - Demande Totale.md:136 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/📋 Interne/✉️ BAJ - Demande AJ Totale.md:136 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
 
 - [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/📋 Attestations/Attestation - Témoin Mathieu Frédéric.md:80 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
 

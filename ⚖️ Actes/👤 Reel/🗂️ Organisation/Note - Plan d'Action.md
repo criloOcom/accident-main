@@ -10,10 +10,11 @@ tags:
   - stratégie
 statut: final
 auteur: La Victime
-reel_path: ../../👤 Reel/🗂️ Organisation/Note - Plan d'Action.md
 source: drive
 drive_id: 153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s
 jx: J+32
+token_path: ../../🔑 Token/🗂️ Organisation/Note - Plan d'Action.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › Note - Plan d'Action*

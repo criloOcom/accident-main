@@ -11,9 +11,10 @@ tags:
 statut: brouillon
 destinataire: Employé(e) du salon présent(e) le 29 mai 2026
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/👥 Témoins/Employé - Email Attestation.md
 source: local
 jx: J+38
+token_path: ../../../🔑 Token/✉️ Courriers/👥 Témoins/Employé - Email Attestation.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👥 Témoins › ✉️ Employé - Email Attestation*

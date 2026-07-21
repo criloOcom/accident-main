@@ -4,7 +4,8 @@ title: "✉️⚖️ Procureur — Signalement Mairie — Suites Administratives
 description: "Courrier au Procureur de la République près le TJ de la Ville de l'Accident — Demande de vérification des suites du signalement à la mairie (adjoint au maire — saisine préfecture / IT / CODAF)"
 type: document
 status: brouillon
-reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/Signalement - Procureur de Foix.md
+
+token_path: ../../../🔑 Token/✉️ Courriers/🏛️ Justice/Signalement - Procureur de Foix.md
 
 ---
 <!-- Breadcrumb -->

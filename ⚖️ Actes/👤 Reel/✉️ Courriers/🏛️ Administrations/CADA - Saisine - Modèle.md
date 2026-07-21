@@ -14,8 +14,9 @@ tags:
 statut: brouillon
 destinataire: Commission d'accès aux documents administratifs (CADA)
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/CADA - Saisine - Modèle.md
 jx: J+47
+token_path: ../../../🔑 Token/✉️ Courriers/🏛️ Administrations/CADA - Saisine - Modèle.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ CADA - Saisine - Modèle*

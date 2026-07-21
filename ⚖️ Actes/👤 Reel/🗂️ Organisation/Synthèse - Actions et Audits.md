@@ -3,7 +3,9 @@ title: "Note de Synthèse — Avancement des Audits & Recommandations"
 description: "Cette note récapitule l'analyse systématique de tous les rapports d'audit dans 📊 Rapports et catégorise l'état d'avancement des tâches en suspens."
 type: readme
 statut: brouillon
-reel_path: ../../👤 Reel/🗂️ Organisation/Synthèse - Actions et Audits.md
+
+token_path: ../../🔑 Token/🗂️ Organisation/Synthèse - Actions et Audits.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › Synthèse - Actions et Audits*

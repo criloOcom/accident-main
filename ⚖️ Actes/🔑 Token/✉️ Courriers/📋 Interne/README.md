@@ -1,5 +1,5 @@
 # Index — 📋 Interne (Token)
 
-- [AJ - Demande Totale.md](AJ%20-%20Demande%20Totale.md)
+- [BAJ - Demande AJ Totale.md](BAJ%20-%20Demande%20AJ%20Totale.md)
 
-- [AJ - Guide Demande.md](AJ%20-%20Guide%20Demande.md)
+- [BBAJ - Guide Demande AJ AJ.md](BBAJ%20-%20Guide%20Demande%20AJ%20AJ.md)

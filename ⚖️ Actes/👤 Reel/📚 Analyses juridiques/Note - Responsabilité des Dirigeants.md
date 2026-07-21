@@ -12,8 +12,9 @@ tags:
 statut: final
 destinataire: La Victime
 auteur: L'Avocat de la Victime
-reel_path: ../../👤 Reel/📚 Analyses juridiques/Note - Responsabilité des Dirigeants.md
 jx: J+41
+token_path: ../../🔑 Token/📚 Analyses juridiques/Note - Responsabilité des Dirigeants.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › Note - Responsabilité des Dirigeants*

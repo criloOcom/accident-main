@@ -11,8 +11,9 @@ tags:
 statut: brouillon
 destinataire: La Victime
 auteur: Expert FGTI/CIVI
-reel_path: ../../👤 Reel/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md
 jx: J+40
+token_path: ../../🔑 Token/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [💰 Études d'Indemnisation](./README.md) › Note - Stratégique FGTI CIVI*

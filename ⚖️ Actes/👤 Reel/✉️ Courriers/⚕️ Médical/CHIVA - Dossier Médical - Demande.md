@@ -14,8 +14,9 @@ statut: envoye
 lrar_number: "87500152888336B"
 destinataire: GHT des Pyrénées Ariégeoises CHIVA
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/⚕️ Médical/CHIVA - Dossier Médical - Demande.md
 jx: J+50
+token_path: ../../../🔑 Token/✉️ Courriers/⚕️ Médical/CHIVA - Dossier Médical - Demande.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › ⚕️ Médical › ✉️ CHIVA - Dossier Médical - Demande*
