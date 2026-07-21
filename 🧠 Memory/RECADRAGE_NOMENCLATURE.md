@@ -55,7 +55,7 @@ Un document ne peut être qualifié de **« ENVOYÉ »** que si une **preuve mat
 | 03 | [Mise en demeure SAS](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20SAS.md) | LRAR 87001424863012T |
 | 05 | [Mise en demeure bailleur](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A0%20Propri%C3%A9taire/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Propri%C3%A9taire.md) | AR signé M. Delrieu |
 | 06 | [Mise en demeure dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Pr%C3%A9sident%20SAS.md) | LRAR 87001424721856G + 87001424862879J |
-| 06 V2 | [Relance dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Relance%20-%20Dirigeants%20SAS.md) | Dépôt 870014282662911 + facture Z0132713629 |
+| 06 V2 | [Relance dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Dirigeants%20SAS%20-%20Relance.md) | Dépôt 870014282662911 + facture Z0132713629 |
 | 10 | [CPC Doyen TJ Foix](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requete%20Art.145%20CPC.md) | Dépôt greffe |
 
 ### 🟠 PRÊTS POUR ENVOI
@@ -77,11 +77,11 @@ Un document ne peut être qualifié de **« ENVOYÉ »** que si une **preuve mat
 | 14 | [CODAF signalement](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20CODAF.md) | Aucune preuve d'expédition |
 | 15 | [SIE information litige](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20SIE.md) | Aucune preuve d'expédition |
 | 16 | [Conseil Départemental ERP](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Conseil%20D%C3%A9partemental.md) | Aucune preuve d'expédition |
-| 17 | [CPAM recours tiers](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A5%20CPAM/%E2%9C%89%EF%B8%8F%20Saisine%20-%20Recours%20Tiers%20CPAM.md) | Aucune preuve d'expédition |
+| 17 | [CPAM recours tiers](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A5%20CPAM/%E2%9C%89%EF%B8%8F%20CPAM%20-%20Recours%20Tiers%20-%20Saisine.md) | Aucune preuve d'expédition |
 | 18 | [SDIS sécurité ERP](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20SDIS.md) | Aucune preuve d'expédition |
 | 19 | [FGTI saisine conservatoire](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/%E2%9C%89%EF%B8%8F%20Saisine%20-%20FGTI.md) | Aucune preuve d'expédition |
-| 20 | [Relance Police](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Relance%20-%20Vid%C3%A9os%20Police.md) | Aucune preuve d'expédition |
-| 21 | [Relance CPAM](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A5%20CPAM/%E2%9C%89%EF%B8%8F%20Relance%20-%20CPAM.md) | Aucune preuve d'expédition |
+| 20 | [Relance Police](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Police%20-%20Vid%C3%A9os%20-%20Relance.md) | Aucune preuve d'expédition |
+| 21 | [Relance CPAM](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A5%20CPAM/%E2%9C%89%EF%B8%8F%20CPAM%20-%20Relance.md) | Aucune preuve d'expédition |
 
 ### 🔴 GABARITS NON TRANSMIS
 

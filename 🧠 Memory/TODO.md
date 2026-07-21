@@ -128,7 +128,7 @@ ni contacter des personnes à ta place.
 |---|--------|--------|
 | 🎯 | **OP1** — Création 3 tokens LRAR manquants (président, directrice, propriétaire) | ✅ FAIT |
 | 🎯 | **OP2** — LRAR texte brut (`N° LRAR Exploitant/Président/...`) → liens dans Plainte Complementaire | ✅ FAIT |
-| 🎯 | **OP3** — `N° PV Police` + `[Adresse du Commerce]` texte brut → liens (Relance - Vidéos Police) | ✅ FAIT |
+| 🎯 | **OP3** — `N° PV Police` + `[Adresse du Commerce]` texte brut → liens (Police - Vidéos - Relance) | ✅ FAIT |
 | 🎯 | **OP4** — 40+ `**[...]**` sans lien ajoutés dans 7 fichiers Police | ✅ FAIT |
 | 🎯 | **OP5** — 2 dates FIXME corrigées (Guide Orale → 2026-07-20, token-pv-police → 2026-07-11) | ✅ FAIT |
 | 🎯 | **OP6** — Renommage miroir Token↔Reel (Police Plainte → Commissariat Foix Plainte) + purge doublon Reel défectueux | ✅ FAIT |

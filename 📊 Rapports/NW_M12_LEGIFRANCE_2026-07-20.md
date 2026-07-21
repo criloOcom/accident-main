@@ -230,7 +230,7 @@ date: "2026-07-20"
 - **Action recommandée** : Remplacer `JURITEXT000054167506` par `JURITEXT000054167506` dans les fichiers concernés.
 
 #### ID Cassé : `JURITEXT000045349845` (JURITEXT)
-- **Fichiers impactés** : ./⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Relance - Propriétaire (Relance 3).md, ./⚖️ Actes/👤 Reel/✉️ Courriers/🏠 Propriétaire/✉️ Relance - Propriétaire (Relance 3).md
+- **Fichiers impactés** : ./⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Courrier - Propriétaire - Relance 3.md, ./⚖️ Actes/👤 Reel/✉️ Courriers/🏠 Propriétaire/✉️ Courrier - Propriétaire - Relance 3.md
 
 - **URLs concernées** :
 
@@ -242,7 +242,7 @@ date: "2026-07-20"
 - **Action recommandée** : Remplacer `JURITEXT000045349845` par `JURITEXT000045349845` dans les fichiers concernés.
 
 #### ID Cassé : `JURITEXT000051464849` (JURITEXT)
-- **Fichiers impactés** : ./⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Relance - Propriétaire (Relance 3).md, ./⚖️ Actes/👤 Reel/✉️ Courriers/🏠 Propriétaire/✉️ Relance - Propriétaire (Relance 3).md
+- **Fichiers impactés** : ./⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Courrier - Propriétaire - Relance 3.md, ./⚖️ Actes/👤 Reel/✉️ Courriers/🏠 Propriétaire/✉️ Courrier - Propriétaire - Relance 3.md
 
 - **URLs concernées** :
 

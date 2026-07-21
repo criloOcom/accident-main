@@ -51,7 +51,7 @@ Voici le détail de la checklist d'audit :
 
 - [ ] **./🧠 Memory/CARNET_RDV_UTILISATEUR.md** : [MINEUR] l. 1918 — Numéro de PV erroné ('2026/15967' au lieu de '2026/015967') — Remplacer par 2026/015967
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/✉️ Relance - Vidéos Police.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/✉️ Police - Vidéos - Relance.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
 - [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/Guide Orale.md** : [CRITIQUE] l. 42 — Date de dépôt de plainte erronée (29 mai au lieu de 2 juin) — Remplacer par 2 juin 2026
 
@@ -67,7 +67,7 @@ Voici le détail de la checklist d'audit :
 
 - [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Inspection du Travail.md** : [MAJEUR] l. 175 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏥 CPAM/✉️ Relance - CPAM.md** : [MAJEUR] l. 84 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏥 CPAM/✉️ CPAM - Relance.md** : [MAJEUR] l. 84 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
 - [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/✉️ Opposition - Radiation Tribunal de Commerce.md** : [MAJEUR] l. 97 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
@@ -79,7 +79,7 @@ Voici le détail de la checklist d'audit :
 
 - [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - SAS.md** : [MAJEUR] l. 131 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/👮 Police/✉️ Relance - Vidéos Police.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/👮 Police/✉️ Police - Vidéos - Relance.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
 - [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/👮 Police/Guide Orale.md** : [CRITIQUE] l. 42 — Date de dépôt de plainte erronée (29 mai au lieu de 2 juin) — Remplacer par 2 juin 2026
 
@@ -95,7 +95,7 @@ Voici le détail de la checklist d'audit :
 
 - [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Inspection du Travail.md** : [MAJEUR] l. 175 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏥 CPAM/✉️ Relance - CPAM.md** : [MAJEUR] l. 84 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏥 CPAM/✉️ CPAM - Relance.md** : [MAJEUR] l. 84 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
 - [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Justice/✉️ Opposition - Radiation Tribunal de Commerce.md** : [MAJEUR] l. 97 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 

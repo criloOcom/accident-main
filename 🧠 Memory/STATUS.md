@@ -1476,7 +1476,7 @@ Auditer et corriger l'ensemble des fichiers token du dossier `👮 Police/` dans
 - Dans `Police Plainte Complementaire` : `N° LRAR Exploitant/Président/Directrice/Propriétaire` — cf. [🗂️ Tokens/](🗂️ Tokens/README.md)
 
 #### OP3 — N° PV Police + Adresse Commerce → liens
-- Dans `Relance - Vidéos Police.md` : `N° PV Police` + `[Adresse du Commerce]` → tokens liés
+- Dans `Police - Vidéos - Relance.md` : `N° PV Police` + `[Adresse du Commerce]` → tokens liés
 
 #### OP4 — 40+ `**[...]**` sans lien corrigés
 - Fichiers concernés : `Note - Projet Déclaration PV Foix.md`, `Note - Personnelle Commissariat Foix.md`, `Bordereau - Pièces Commissariat Foix.md`, `Note - Frise Chronologique Foix.md`, `Note - Erratum Correction Identité Société.md`, `Guide Note.md`, `Guide Orale.md`

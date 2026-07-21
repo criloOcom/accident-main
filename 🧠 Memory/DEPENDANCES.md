@@ -50,7 +50,7 @@ graph TD
     %% Phase J+39 / J+40 (Conclusions et Relances)
     CONC_REF["🎯 Conclusions Référé (J+39)<br>(Réponse pièces adverses)"]:::contentieux
     REL_DIR["🔄 Relance Dirigeants (J+40)<br>(Délai MD SAS expiré)"]:::relance
-    REL_CPAM["✉️ Relance - CPAM (J+37)<br>(Suivi ouverture dossier)"]:::relance
+    REL_CPAM["✉️ CPAM - Relance (J+37)<br>(Suivi ouverture dossier)"]:::relance
 
     %% ──────────────────────────────────────────────────────────
     %% Dépendances logiques (Liens)

@@ -14,7 +14,7 @@
 
 - [Note - Guide Plainte Orale Police.md](Note%20-%20Guide%20Plainte%20Orale%20Police.md)
 
-- [Relance - Vidéos Police.md](Relance%20-%20Vid%C3%A9os%20Police.md)
+- [Police - Vidéos - Relance.md](Police%20-%20Vid%C3%A9os%20-%20Relance.md)
 
 - [Note - Projet Déclaration PV Foix.md](Note%20-%20Projet%20D%C3%A9claration%20PV%20Foix.md)
 

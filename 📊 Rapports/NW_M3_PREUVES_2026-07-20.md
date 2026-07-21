@@ -35,7 +35,7 @@ Toutes les pièces listées dans `🧠 Memory/PIECES MAP.md` doivent exister phy
 
 - [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 10 — LRAR [mise en demeure SAS](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20SAS.md) (J+31) — Introuvable dans `⚖️ Actes/🔑 Token/📂 Preuves officielles/`.
 
-- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 10b — LRAR [relance V2 dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Relance%20-%20Dirigeants%20SAS.md) (08/07/2026) — Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf) — Introuvable dans `⚖️ Actes/🔑 Token/📂 Preuves officielles/`.
+- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 10b — LRAR [relance V2 dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Dirigeants%20SAS%20-%20Relance.md) (08/07/2026) — Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf) — Introuvable dans `⚖️ Actes/🔑 Token/📂 Preuves officielles/`.
 
 - [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 11 — LRAR mise en demeure **[Le Président de l'Exploitation]** (J+31) — Introuvable dans `⚖️ Actes/🔑 Token/📂 Preuves officielles/`.
 

@@ -37,7 +37,7 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 ### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/✉️ Saisine - Doyen des Juges d'Instruction.md`
 - [x] `l.40` — Mention correcte de la profession : *[**[L'Identifiant Professionnel de la Victime]**]*
 
-### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Relance - Propriétaire (Relance 3).md`
+### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Courrier - Propriétaire - Relance 3.md`
 - [x] `l.71` — Mention correcte de la profession : *- J'exerce la profession d'**informaticien indépendant** (SIREN **[L'Identifiant Professionnel de la Victime]**).*
 
 ### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - Président SAS.md`

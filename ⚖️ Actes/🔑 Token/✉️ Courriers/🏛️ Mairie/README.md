@@ -1,6 +1,6 @@
 # Index — 🏛️ Mairie (Token)
 
-- [Relance - Adjoint au Maire Tavella.md](Relance%20-%20Adjoint%20au%20Maire%20Tavella.md)
+- [Courrier - Mairie Tavella - Relance.md](Courrier%20-%20Mairie%20Tavella%20-%20Relance.md)
 
 - [Courrier - Maire de Foix.md](Courrier%20-%20Maire%20de%20Foix.md)
 

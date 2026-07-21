@@ -1,6 +1,6 @@
 ---
 emoji: "🔄"
-title: "✉️✉️ Relance - CPAM Haute-Garonne — Rectification d'Identité de la Société Responsable"
+title: "✉️✉️ CPAM - Relance Haute-Garonne — Rectification d'Identité de la Société Responsable"
 description: "Courrier formel à la CPAM Haute-Garonne demandant la substitution de l'identité de l'employeur responsable (SAS HB BARBER au lieu de SAS HB BARBER) suite à la découverte de l'exploitation réelle au jour du sinistre."
 type: courrier
 date: 2026-07-18
@@ -13,10 +13,10 @@ tags:
 statut: projet
 destinataire: CPAM Haute-Garonne — Pôle Recours Contre Tiers
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏥 CPAM/Relance - Rectification Identité CPAM.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏥 CPAM/CPAM - Rectification Identité - Relance.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏥 CPAM › ✉️ Relance - Rectification Identité CPAM*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏥 CPAM › ✉️ CPAM - Rectification Identité - Relance*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -13,11 +13,11 @@ Ce rapport identifie les placeholders résiduels, les problèmes de cohérence d
 
 Les fichiers suivants contiennent des placeholders non résolus (ex: [À compléter], [TODO], [Nom], XXX, etc.).
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/✉️ Relance - Vidéos Police.md:64` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/✉️ Police - Vidéos - Relance.md:64` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/✉️ Relance - Vidéos Police.md:64` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/✉️ Police - Vidéos - Relance.md:64` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/✉️ Relance - Vidéos Police.md:64` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/✉️ Police - Vidéos - Relance.md:64` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
 - [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Formulaire - Saisine CADA.md:44` — Placeholder trouvé: `[date]` — Remplacer par la valeur réelle ou le token approprié
 

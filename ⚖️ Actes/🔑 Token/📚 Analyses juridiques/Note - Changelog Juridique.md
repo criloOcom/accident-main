@@ -51,7 +51,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Fichiers concernés :**
 
-  - [`✉️ Relance - Vidéos Police.md`](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Relance%20-%20Vid%C3%A9os%20Police.md) (corps du courrier + blockquote)
+  - [`✉️ Police - Vidéos - Relance.md`](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Police%20-%20Vid%C3%A9os%20-%20Relance.md) (corps du courrier + blockquote)
 
 - **Raison :**
 

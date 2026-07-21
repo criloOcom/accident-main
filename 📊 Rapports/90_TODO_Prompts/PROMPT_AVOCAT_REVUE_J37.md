@@ -95,7 +95,7 @@ Le courrier rappelle le parcours médical complet : chirurgie d'urgence le J+1 (
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️ Relance - Adjoint au Maire Tavella.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Relance%20-%20Adjoint%20au%20Maire%20Tavella.md) (08) |
+| **Fichier** | [`✉️ Courrier - Mairie Tavella - Relance.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Mairie%20Tavella%20-%20Relance.md) (08) |
 | **Destinataire** | [L'Adjoint au Maire de la Commune] |
 | **Mode** | LRAR + email complémentaire |
 | **Ton** | Chaleureux, reconnaissant, courtois |
@@ -373,7 +373,7 @@ Courrier très court (1 page) qui informe le SIE de l'existence du litige (monta
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️ Relance - Vidéos Police.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Relance%20-%20Vid%C3%A9os%20Police.md) (20) |
+| **Fichier** | [`✉️ Police - Vidéos - Relance.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Police%20-%20Vid%C3%A9os%20-%20Relance.md) (20) |
 | **Destinataire** | Police Nationale — Commissariat de [La Ville de l'Accident] |
 | **Mode** | Email (simple) |
 | **Ton** | Formel, procédural |
@@ -400,7 +400,7 @@ Relance suite au dépôt de plainte du 01/06 et à la constitution de partie civ
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️ Relance - CPAM.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A5%20CPAM/%E2%9C%89%EF%B8%8F%20Relance%20-%20CPAM.md) (21) |
+| **Fichier** | [`✉️ CPAM - Relance.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A5%20CPAM/%E2%9C%89%EF%B8%8F%20CPAM%20-%20Relance.md) (21) |
 | **Destinataire** | CPAM Haute-Garonne |
 | **Mode** | Email (simple) |
 | **Ton** | Formel, procédural |

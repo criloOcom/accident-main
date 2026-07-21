@@ -76,7 +76,7 @@ type: rapport
   * Priorité : Moyenne
   * Statut : Relance possible
   * Note : Suivi à la suite de la réponse du 1er juin.
-  * Fichier : [Suivi Maire](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Relance%20-%20Adjoint%20au%20Maire%20Tavella.md)
+  * Fichier : [Suivi Maire](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Mairie%20Tavella%20-%20Relance.md)
 
 * **Oppositions TC & INPI** (J+60)
 
@@ -120,7 +120,7 @@ type: rapport
   * Priorité : Moyenne
   * Statut : Relance possible
   * Note : Suivi du recours subrogatoire et créance.
-  * Fichier : [Relance CPAM](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A5%20CPAM/%E2%9C%89%EF%B8%8F%20Relance%20-%20CPAM.md)
+  * Fichier : [Relance CPAM](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A5%20CPAM/%E2%9C%89%EF%B8%8F%20CPAM%20-%20Relance.md)
 
 * **Saisine CADA** (J+110)
 

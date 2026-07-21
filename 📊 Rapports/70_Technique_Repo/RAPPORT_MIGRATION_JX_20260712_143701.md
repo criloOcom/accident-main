@@ -48,14 +48,14 @@ Date: 2026-07-12 14:37
        → ✉️ Courriers/✉️ Courrier - Assureur RC SAS.md
   ✓  ✉️ Courriers/05 ✉️ Courrier Proprietaire.md
        → ✉️ Courriers/✉️ Courrier - Propriétaire.md
-  ✓  ✉️ Courriers/06 V2 ✉️ Relance - Dirigeants SAS.md
-       → ✉️ Courriers/✉️ Relance - Dirigeants SAS.md
+  ✓  ✉️ Courriers/06 V2 ✉️ Courrier - Dirigeants SAS - Relance.md
+       → ✉️ Courriers/✉️ Courrier - Dirigeants SAS - Relance.md
   ✓  ✉️ Courriers/06 ✉️ Courrier President DG.md
        → ✉️ Courriers/✉️ Courrier - Président SAS.md
   ✓  ✉️ Courriers/07 ✉️ Courrier Consolidation.md
        → ✉️ Courriers/✉️🔄 Consolidation.md
   ✓  ✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
-       → ✉️ Courriers/✉️ Relance - Adjoint au Maire Tavella.md
+       → ✉️ Courriers/✉️ Courrier - Mairie Tavella - Relance.md
   ✓  ✉️ Courriers/09 ✉️ Courrier Inspection Travail.md
        → ✉️ Courriers/✉️ Signalement - Inspection du Travail.md
   ✓  ✉️ Courriers/10 ✉️ Courrier Doyen Juges Instruction.md
@@ -73,15 +73,15 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/16 ✉️ Courrier Conseil Departemental.md
        → ✉️ Courriers/✉️ Signalement - Conseil Départemental.md
   ✓  ✉️ Courriers/17 ✉️ Courrier CPAM.md
-       → ✉️ Courriers/✉️ Saisine - Recours Tiers CPAM.md
+       → ✉️ Courriers/✉️ CPAM - Recours Tiers - Saisine.md
   ✓  ✉️ Courriers/18 ✉️ Courrier SDIS.md
        → ✉️ Courriers/✉️ Signalement - SDIS.md
   ✓  ✉️ Courriers/19 ✉️ Courrier FGTI.md
        → ✉️ Courriers/✉️ Saisine - FGTI.md
   ✓  ✉️ Courriers/20 🔄 Relance Police.md
-       → ✉️ Courriers/✉️ Relance - Vidéos Police.md
-  ✓  ✉️ Courriers/21 ✉️ Relance - CPAM.md
-       → ✉️ Courriers/✉️ Relance - CPAM.md
+       → ✉️ Courriers/✉️ Police - Vidéos - Relance.md
+  ✓  ✉️ Courriers/21 ✉️ CPAM - Relance.md
+       → ✉️ Courriers/✉️ CPAM - Relance.md
   ✓  ✉️ Courriers/23 ✉️ Attestation - Pompier SAMU.md
        → ✉️ Courriers/✉️ Attestation - Pompier SAMU.md
   ✓  ✉️ Courriers/25 📧 Relance Dr DJERBI.md
@@ -192,14 +192,14 @@ Date: 2026-07-12 14:37
        → ✉️ Courriers/✉️ Courrier - Assureur RC SAS.md
   ✓  ✉️ Courriers/05 ✉️ Courrier Proprietaire.md
        → ✉️ Courriers/✉️ Courrier - Propriétaire.md
-  ✓  ✉️ Courriers/06 V2 ✉️ Relance - Dirigeants SAS.md
-       → ✉️ Courriers/✉️ Relance - Dirigeants SAS.md
+  ✓  ✉️ Courriers/06 V2 ✉️ Courrier - Dirigeants SAS - Relance.md
+       → ✉️ Courriers/✉️ Courrier - Dirigeants SAS - Relance.md
   ✓  ✉️ Courriers/06 ✉️ Courrier President DG.md
        → ✉️ Courriers/✉️ Courrier - Président SAS.md
   ✓  ✉️ Courriers/07 ✉️ Courrier Consolidation.md
        → ✉️ Courriers/✉️🔄 Consolidation.md
   ✓  ✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
-       → ✉️ Courriers/✉️ Relance - Adjoint au Maire Tavella.md
+       → ✉️ Courriers/✉️ Courrier - Mairie Tavella - Relance.md
   ✓  ✉️ Courriers/09 ✉️ Courrier Inspection Travail.md
        → ✉️ Courriers/✉️ Signalement - Inspection du Travail.md
   ✓  ✉️ Courriers/10 ✉️ Courrier Doyen Juges Instruction.md
@@ -217,15 +217,15 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/16 ✉️ Courrier Conseil Departemental.md
        → ✉️ Courriers/✉️ Signalement - Conseil Départemental.md
   ✓  ✉️ Courriers/17 ✉️ Courrier CPAM.md
-       → ✉️ Courriers/✉️ Saisine - Recours Tiers CPAM.md
+       → ✉️ Courriers/✉️ CPAM - Recours Tiers - Saisine.md
   ✓  ✉️ Courriers/18 ✉️ Courrier SDIS.md
        → ✉️ Courriers/✉️ Signalement - SDIS.md
   ✓  ✉️ Courriers/19 ✉️ Courrier FGTI.md
        → ✉️ Courriers/✉️ Saisine - FGTI.md
   ✓  ✉️ Courriers/20 🔄 Relance Police.md
-       → ✉️ Courriers/✉️ Relance - Vidéos Police.md
-  ✓  ✉️ Courriers/21 ✉️ Relance - CPAM.md
-       → ✉️ Courriers/✉️ Relance - CPAM.md
+       → ✉️ Courriers/✉️ Police - Vidéos - Relance.md
+  ✓  ✉️ Courriers/21 ✉️ CPAM - Relance.md
+       → ✉️ Courriers/✉️ CPAM - Relance.md
   ✓  ✉️ Courriers/23 ✉️ Attestation - Pompier SAMU.md
        → ✉️ Courriers/✉️ Attestation - Pompier SAMU.md
   ✓  ✉️ Courriers/25 📧 Relance Dr DJERBI.md
@@ -351,7 +351,7 @@ Date: 2026-07-12 14:37
        [breadcrumb] › 04 ✉️ Courrier Assureur (breadcrumb)
        [breadcrumb] › 05 ✉️ Courrier Proprietaire (breadcrumb)
        [breadcrumb] › 06 ✉️ Courrier President DG (breadcrumb)
-       [breadcrumb] › 06 V2 ✉️ Relance - Dirigeants SAS (breadcrumb)
+       [breadcrumb] › 06 V2 ✉️ Courrier - Dirigeants SAS - Relance (breadcrumb)
        [breadcrumb] › 07 ✉️ Courrier Consolidation (breadcrumb)
        [breadcrumb] › 08 ✉️ Courrier Suivi Adjoint Maire (breadcrumb)
        [breadcrumb] › 09 ✉️ Courrier Inspection Travail (breadcrumb)
@@ -366,7 +366,7 @@ Date: 2026-07-12 14:37
        [breadcrumb] › 18 ✉️ Courrier SDIS (breadcrumb)
        [breadcrumb] › 19 ✉️ Courrier FGTI (breadcrumb)
        [breadcrumb] › 20 🔄 Relance Police (breadcrumb)
-       [breadcrumb] › 21 ✉️ Relance - CPAM (breadcrumb)
+       [breadcrumb] › 21 ✉️ CPAM - Relance (breadcrumb)
        [breadcrumb] › 23 ✉️ Attestation - Pompier SAMU (breadcrumb)
        [breadcrumb] › 25 📧 Relance Dr DJERBI (breadcrumb)
        [breadcrumb] › 26 📧✉️ Attestation - Témoin Client (breadcrumb)
