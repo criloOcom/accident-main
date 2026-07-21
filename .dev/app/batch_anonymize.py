@@ -27,6 +27,10 @@ REPLACEMENTS = [
     # --- Victim (name variants, longest first) ---
     ("Monsieur Sébastien GRAZIDE", "[La Victime]"),
     ("Sébastien GRAZIDE", "[La Victime]"),
+    ("LES MAUVAIS GARCONS", "**[L'Ancien Exploitant]**"),
+    ("MAUVAIS GARCONS", "**[L'Ancien Exploitant]**"),
+    ("SABIR", "**[L'Ancien Président de l'Exploitation]**"),
+    ("Sabir", "**[L'Ancien Président de l'Exploitation]**"),
     ("Sébastien Grazide", "[La Victime]"),
     ("Monsieur GRAZIDE", "[La Victime]"),
     ("Monsieur Grazide", "[La Victime]"),
