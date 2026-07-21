@@ -5,6 +5,15 @@ import re, sys
 # MASTER REPLACEMENT TABLE
 # ============================================================
 REPLACEMENTS = [
+    ("Sabir MOUNTASSER", "[L'Ancien Président de l'Exploitation]"),
+    ("SABIR", "[Prénom de l'Ancien Président de l'Exploitation]"),
+    ("Sabir", "[Prénom de l'Ancien Président de l'Exploitation]"),
+    ("MOUNTASSER", "[Nom de l'Ancien Président de l'Exploitation]"),
+    ("Mountasser", "[Nom de l'Ancien Président de l'Exploitation]"),
+    ("SAS LES MAUVAIS GARÇONS", "[L'Ancien Exploitant du Commerce]"),
+    ("SAS LES MAUVAIS GARCONS", "[L'Ancien Exploitant du Commerce]"),
+    ("LES MAUVAIS GARÇONS", "[L'Ancien Exploitant du Commerce]"),
+    ("LES MAUVAIS GARCONS", "[L'Ancien Exploitant du Commerce]"),
     # --- Addresses (full address FIRST to avoid partial match) ---
     # Geographic reference: complaint deposit location (must be BEFORE generic Toulouse)
     ("Service Local de Sécurité Publique de Toulouse Rive Droite (Hôtel de Police, 23 Boulevard de l'Embouchure, 31300 Toulouse)", "[Le Lieu du Dépôt de Plainte Initiale]"),
