@@ -30,13 +30,17 @@ jx: J+47
 > **Fondement :** CRPA Art. L. 300-1, L. 311-1, L. 342-1
 > **Délai de réponse CADA :** 1 à 2 mois (avis consultatif mais très suivi)
 
-<hr><hr>
-
 <!-- Auteur -->
 **Expéditeur :** **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — **[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
-**Destinataire :** Commission d'accès aux documents administratifs (CADA), 35 rue Saint-Dominique, 75700 Paris 07 SP
-**Date :** [Date d'envoi — À compléter]
 <!-- /Auteur -->
+
+<!-- Destinataire -->
+**Destinataire :** Commission d'accès aux documents administratifs (CADA), 35 rue Saint-Dominique, 75700 Paris 07 SP
+<!-- /Destinataire -->
+
+<!-- Date -->
+**Date :** [Date d'envoi — À compléter]
+<!-- /Date -->
 
 ---
 
@@ -46,9 +50,7 @@ jx: J+47
 
 ---
 
-<!-- Destinataire -->
 <hr><hr>
-<!-- /Destinataire -->
 
 Madame, Monsieur,
 
