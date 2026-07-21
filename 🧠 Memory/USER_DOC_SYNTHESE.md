@@ -36,7 +36,7 @@ Monsieur le Commandant,
 
 Je me permets de vous adresser la présente plainte complémentaire afin de compléter et rectifier les éléments que j'ai portés à la connaissance de vos services à la suite de l'accident corporel dont j'ai été victime le vendredi 29 mai 2026 dans un salon de coiffure situé 22 Rue Lafaurie, 09000 Foix.
 
-Dans ma première plainte déposée le 2 juin 2026 au commissariat de Foix, j'indiquais de bonne foi que le salon était exploité sous l'enseigne « LES MAUVAIS GARÇONS », et je visais la société SAS LES MAUVAIS GARCONS comme responsable potentielle. Des éléments nouveaux, recueillis depuis, montrent que cette information était inexacte au jour de l'accident, et que le salon était alors exploité par une autre société, la SAS HB BARBER. La présente plainte a donc pour objet de corriger formellement l'identité de la société exploitante et de demander que l'enquête prenne en compte ces éléments.
+Dans ma première plainte initiale déposée auprès du Service Local de Sécurité Publique de Toulouse Rive Droite (23 Boulevard de l'Embouchure, 31300 Toulouse), puis transmise pour compétence au Commissariat de Foix, j'indiquais de bonne foi que le salon était exploité sous l'enseigne « LES MAUVAIS GARÇONS », et je visais la société SAS LES MAUVAIS GARCONS comme responsable potentielle. Des éléments nouveaux, recueillis depuis, montrent que cette information était inexacte au jour de l'accident, et que le salon était alors exploité par une autre société, la SAS HB BARBER. La présente plainte a donc pour objet de corriger formellement l'identité de la société exploitante et de demander que l'enquête prenne en compte ces éléments.
 
 ## 1 — Rappel des faits — Accident du 29 mai 2026
 
@@ -120,9 +120,9 @@ Ces éléments sont de nature à caractériser un risque de disparition ou d'alt
 
 - Mme Catherine SORROCHE, dite ANDISSAC (Directrice Générale, domicile personnel) : LRAR n° 875001528942010 (875001528942010).
 
-De même, j'ai relancé le propriétaire bailleur Romain DELRIEU par une 3e LRAR le 19 juillet 2026 (LRAR n° 87500152910287Q — 87500152910287Q) afin d'obtenir des explications sur les assurances de l'immeuble et la situation d'HB BARBER.
+De même, j'ai relancé le propriétaire bailleur Romain DELRIEU par une 3e LRAR le 19 juillet 2026 (LRAR n° 87500152910287Q) afin d'obtenir des explications sur les assurances de l'immeuble et la situation d'HB BARBER.
 
-Enfin, une demande de dossier médical a été envoyée au GHT des Pyrénées Ariégeoises CHIVA le 18 juillet 2026 (LRAR n° 87500152888336B — 87500152888336B).
+Enfin, une demande de dossier médical a été envoyée au GHT des Pyrénées Ariégeoises CHIVA le 18 juillet 2026 (LRAR n° 87500152888336B).
 
 Tous ces plis ont été pris en charge par La Poste les 18 et 19 juillet 2026. Copies de ces lettres et des bordereaux d'envoi sont versées aux pièces de la présente plainte.
 

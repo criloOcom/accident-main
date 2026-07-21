@@ -31,7 +31,7 @@ Produis un rapport `📊 Rapports/RAPPORT_SYNTHESE_AVOCAT_2026-07-18.md` — un 
 
 3. **État de la procédure** :
 
-   - Plainte initiale : déposée au Commissariat de Foix (n°2026/015967)
+   - Plainte initiale : initiale déposée le 2 juin 2026 auprès du Service Local de Sécurité Publique de Toulouse Rive Droite (23 Boulevard de l'Embouchure, 31300 Toulouse), puis transmise pour compétence au Commissariat de Foix (PV n°2026/015967)
    - Erratum : préparé, pas encore déposé
    - AJ : demande à déposer
    - Requête Art. 145 CPC : préparée, pas encore déposée
