@@ -129,8 +129,8 @@ type: rapport
 | `DJI Foix - DJI Foix - Partie Civile - Constitution.md` | ✅ Présent | OK |
 | `Archive - Stratégie Contentieux Civil.md` | ✅ Présent | OK |
 | `Archive - Stratégie Contentieux Pénal.md` | ✅ Présent | OK |
-| `annexes/⚖️ ANNEXE B Lois Jurisprudence.md` | ❌ Absent | **MANQUANT** |
-| `annexes/📑 ANNEXE C Pieces.md` | ❌ Absent | **MANQUANT** |
+| `annexes/ANNEXE_B_Lois_Jurisprudence.md` | ❌ Absent | **MANQUANT** |
+| `annexes/ANNEXE_C_Pieces.md` | ❌ Absent | **MANQUANT** |
 | `README.md` | ✅ Présent | OK |
 
 ---

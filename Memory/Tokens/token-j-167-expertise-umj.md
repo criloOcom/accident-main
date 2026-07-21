@@ -66,7 +66,7 @@ L'expertise évalue :
 
 ## Documents liés
 
-- [J+167 📁 Préparation Expertise UMJ](../../Actes/Token/Preuves_officielles/%F0%9F%93%81%20Preparation%20Expertise%20UMJ.md)
+- [J+167 📁 Préparation Expertise UMJ](../../Actes/Token/Preuves_officielles/Preparation_Expertise_UMJ.md)
 
 ## Source
 

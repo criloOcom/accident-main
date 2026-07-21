@@ -11,7 +11,7 @@ type: rapport
 
 | Fichier | Problème | Gravité (🔴/🟡/🟢) | Correction |
 |---|---|---|---|
-| Preuves_officielles/📁 Preparation Expertise UMJ.md | Frontmatter YAML manquant | 🔴 | Ajouter le bloc YAML |
+| Preuves_officielles/Preparation_Expertise_UMJ.md | Frontmatter YAML manquant | 🔴 | Ajouter le bloc YAML |
 | Actes_proceduraux/TJ Foix - TJ Foix - Référé Provision - Assignation.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
 | Actes_proceduraux/02 🚔 Plainte.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
 | Actes_proceduraux/04 📑 Bordereau Audience.md | Fichier orphelin: présent dans Reel/ mais absent de Token/ | 🔴 | Supprimer de Reel/ ou créer dans Token/ |
@@ -74,10 +74,10 @@ type: rapport
 | Organisation/Note - Modification Email Maire Foix.md | Frontmatter YAML manquant | 🔴 | Ajouter le bloc YAML |
 | Organisation/Note - Modification Email Maire Foix.md | Fichiers Token/ et Reel/ identiques (pas d'anonymisation / génération effectuée ?) | 🟡 | Vérifier la nécessité des tokens ou regénérer |
 | Archives/Archive - Fiche Réflexe 48h Victime.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
-| Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md | Non-respect de la convention de nommage [NUMÉRO] [TYPE] [DESCRIPTION].md | 🟡 | Renommer selon la convention |
-| Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md | Fichier orphelin: présent dans Token/ mais absent de Reel/ | 🔴 | Générer la version Reel/ |
-| Archives/annexes/📑 ANNEXE C Pieces.md | Non-respect de la convention de nommage [NUMÉRO] [TYPE] [DESCRIPTION].md | 🟡 | Renommer selon la convention |
-| Archives/annexes/📑 ANNEXE C Pieces.md | Fichier orphelin: présent dans Token/ mais absent de Reel/ | 🔴 | Générer la version Reel/ |
+| Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md | Non-respect de la convention de nommage [NUMÉRO] [TYPE] [DESCRIPTION].md | 🟡 | Renommer selon la convention |
+| Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md | Fichier orphelin: présent dans Token/ mais absent de Reel/ | 🔴 | Générer la version Reel/ |
+| Archives/annexes/ANNEXE_C_Pieces.md | Non-respect de la convention de nommage [NUMÉRO] [TYPE] [DESCRIPTION].md | 🟡 | Renommer selon la convention |
+| Archives/annexes/ANNEXE_C_Pieces.md | Fichier orphelin: présent dans Token/ mais absent de Reel/ | 🔴 | Générer la version Reel/ |
 | Archives/Archive - Action Directe Assureur RC.md | Non-respect de la convention de nommage [NUMÉRO] [TYPE] [DESCRIPTION].md | 🟡 | Renommer selon la convention |
 | Archives/Archive - Dossier Présentation.md | Non-respect de la convention de nommage [NUMÉRO] [TYPE] [DESCRIPTION].md | 🟡 | Renommer selon la convention |
 | Archives/Archive - Dossier Présentation.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |

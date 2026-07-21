@@ -66,7 +66,7 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 ### 📄 `Actes/Token/Archives/Archive - Stratégie Contentieux Civil.md`
 - [x] `l.176` — Mention correcte de la profession : *L'évaluation des préjudices subis par [**[La Victime]**], informaticien indépendant (SIREN [**[L'Identifiant Professionnel de la Victime]**], chiffre d'affaires annuel 9 000 € net selon URSSAF), est établie comme suit :*
 
-### 📄 `Actes/Token/Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
+### 📄 `Actes/Token/Archives/33_Requête_-_Constat_Huissier_145_CPC.md`
 - [x] `l.55` — Mention correcte de la profession : *[**[La Victime]**] (ne le 18 janvier 1982, informaticien independant) a ete victime d'un accident corporel grave le [**[J+0 Accident]**] a 15h00 au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**] (SIREN [**[SIREN de l'Exploitation]**]), sise [**[L'Adresse de l'Exploitation]**].*
 
 ### 📄 `Actes/Token/Archives/Archive - Stratégie Contentieux Pénal.md`
@@ -97,7 +97,7 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 ### 📄 `Actes/Token/Etudes_indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
 - [x] `l.40` — Mention correcte de la profession : *M. [La Victime] a subi l'effondrement brutal d'une vasque suspendue en céramique défectueuse, lui occasionnant des lésions cutanées, tendineuses et nerveuses majeures à la **main droite (sa main dominante)**, ayant nécessité une intervention chirurgicale lourde en urgence (micro-chirurgie nerveuse et chirurgie orthopédique de reconstruction des tendons). Cet accident a entraîné un arrêt de travail total de **55 jours**, ainsi que des séquelles neuropathiques douloureuses persistantes empêchant l'exercice normal de sa profession d'informaticien indépendant (développeur/codeur).*
 
-### 📄 `Actes/Token/Preuves_officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
+### 📄 `Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md`
 - [x] `l.75` — Mention correcte de la profession : *Le **29 mai 2026**, vers 15 heures, [**[La Victime]**], alors âgé de 44 ans et exerçant la profession d'informaticien indépendant, se trouvait en qualité de client dans le salon de coiffure exploité par [**[L'Exploitant du Commerce (La SAS)]**] au [**[L'Adresse de l'Exploitation]**].*
 
 ### 📄 `Actes/Token/Organisation/Note - Plan d'Action.md`
@@ -190,7 +190,7 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 
 - [x] `l.176` — Mention correcte du SIREN : *L'évaluation des préjudices subis par [Sébastien GRAZIDE], informaticien indépendant (SIREN [500 474 457], chiffre d'affaires annuel 9 000 € net selon URSSAF), est établie comme suit :*
 
-### 📄 `Actes/Reel/Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
+### 📄 `Actes/Reel/Archives/33_Requête_-_Constat_Huissier_145_CPC.md`
 - [x] `l.55` — Mention correcte de la profession : *[Sébastien GRAZIDE] (ne le 18 janvier 1982, informaticien independant) a ete victime d'un accident corporel grave le [29 mai 2026] a 15h00 au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS] (SIREN [938 033 222]), sise [22 Rue Lafaurie, 09000 Foix].*
 
 ### 📄 `Actes/Reel/Archives/Archive - Stratégie Contentieux Pénal.md`
@@ -225,7 +225,7 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 ### 📄 `Actes/Reel/Etudes_indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
 - [x] `l.40` — Mention correcte de la profession : *M. [La Victime] a subi l'effondrement brutal d'une vasque suspendue en céramique défectueuse, lui occasionnant des lésions cutanées, tendineuses et nerveuses majeures à la **main droite (sa main dominante)**, ayant nécessité une intervention chirurgicale lourde en urgence (micro-chirurgie nerveuse et chirurgie orthopédique de reconstruction des tendons). Cet accident a entraîné un arrêt de travail total de **55 jours**, ainsi que des séquelles neuropathiques douloureuses persistantes empêchant l'exercice normal de sa profession d'informaticien indépendant (développeur/codeur).*
 
-### 📄 `Actes/Reel/Preuves_officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
+### 📄 `Actes/Reel/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md`
 - [x] `l.75` — Mention correcte de la profession : *Le **29 mai 2026**, vers 15 heures, [Sébastien GRAZIDE], alors âgé de 44 ans et exerçant la profession d'informaticien indépendant, se trouvait en qualité de client dans le salon de coiffure exploité par [SAS LES MAUVAIS GARCONS] au [22 Rue Lafaurie, 09000 Foix].*
 
 ### 📄 `Actes/Reel/Organisation/Note - Plan d'Action.md`

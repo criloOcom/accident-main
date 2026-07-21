@@ -27,7 +27,7 @@ type: rapport
 
 - **Statut :** **MINEUR**
 
-- **Constat :** Dans `Memory/Tokens/token-j-167-expertise-umj.md`, il est indiqué qu'une contre-expertise "peut être sollicitée si les conclusions sont contestées". Cependant, l'expertise UMJ n'a lieu que le 12 novembre 2026, et l'expertise judiciaire civile n'a lieu que le 29 mai 2027 (`Actes/Token/Preuves_officielles/20270529 ⚖️ Rapport Expertise Médicale.md`). Aucune contestation n'est formellement documentée dans les actes actuels puisque les expertises sont soit futures (par rapport à la date de référence juillet 2026), soit simulées comme favorables (le rapport de mai 2027 conclut à 12% DFP et une IP majeure, ce qui correspond aux attentes prudentes/médianes de la victime).
+- **Constat :** Dans `Memory/Tokens/token-j-167-expertise-umj.md`, il est indiqué qu'une contre-expertise "peut être sollicitée si les conclusions sont contestées". Cependant, l'expertise UMJ n'a lieu que le 12 novembre 2026, et l'expertise judiciaire civile n'a lieu que le 29 mai 2027 (`Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md`). Aucune contestation n'est formellement documentée dans les actes actuels puisque les expertises sont soit futures (par rapport à la date de référence juillet 2026), soit simulées comme favorables (le rapport de mai 2027 conclut à 12% DFP et une IP majeure, ce qui correspond aux attentes prudentes/médianes de la victime).
 
 <hr><hr>
 
@@ -46,7 +46,7 @@ type: rapport
 - **Statut :** **MAJEUR**
 
 - **Constat :** L'entité "CHUM TOULOUSE" **N'EXISTE PAS** dans la documentation. Toulouse possède un CHU (Centre Hospitalier Universitaire), pas un CHUM (Centre Hospitalier de l'Université de Montréal). De plus, aucune recherche dans l'ensemble des fichiers ne retourne de mention de "CHUM TOULOUSE" ou "CHUM".
-Cependant, l'expertise UMJ est bien prévue à **Toulouse** (`Actes/Token/Preuves_officielles/📁 Preparation Expertise UMJ.md`), ce qui est cohérent avec la localisation de la victime (`Actes/Token/Actes_proceduraux/Contentieux_penal/Plainte Complémentaire - PV Audition Foix.md`). L'expert judiciaire désigné (Dr X) est inscrit près la Cour d'appel de Toulouse (`20270529 ⚖️ Rapport Expertise Médicale.md`), également cohérent. L'acronyme "CHUM TOULOUSE" fourni dans la demande est une hallucination.
+Cependant, l'expertise UMJ est bien prévue à **Toulouse** (`Actes/Token/Preuves_officielles/Preparation_Expertise_UMJ.md`), ce qui est cohérent avec la localisation de la victime (`Actes/Token/Actes_proceduraux/Contentieux_penal/Plainte Complémentaire - PV Audition Foix.md`). L'expert judiciaire désigné (Dr X) est inscrit près la Cour d'appel de Toulouse (`20270529_Rapport_Expertise_Médicale.md`), également cohérent. L'acronyme "CHUM TOULOUSE" fourni dans la demande est une hallucination.
 
 <hr><hr>
 

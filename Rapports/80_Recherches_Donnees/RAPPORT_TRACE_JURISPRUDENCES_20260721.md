@@ -96,8 +96,8 @@ Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/
 └── TJ_Versailles_21-04988_2024.md
 
 Actes/Token/Analyses_juridiques/
-├── 📜 Mémoire de synthèse — Recours assurances ERP.md  (277 lignes)
-└── 📜 Note — Procédure Action Directe Assureur L124-3.md (358 lignes)
+├── Mémoire_de_synthèse_—_Recours_assurances_ERP.md  (277 lignes)
+└── Note_—_Procédure_Action_Directe_Assureur_L124-3.md (358 lignes)
 ```
 
 ### Modifications

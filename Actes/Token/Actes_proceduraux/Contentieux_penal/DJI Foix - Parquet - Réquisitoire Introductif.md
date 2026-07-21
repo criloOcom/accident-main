@@ -209,7 +209,7 @@ Les chances d'aboutissement de la présente procédure d'information sont jugée
 <hr><hr>
 ### NOTE MÉTHODOLOGIQUE
 
-Ce réquisitoire introductif est une **simulation** à vocation pédagogique et stratégique, s'inscrivant dans la continuité de la [Constitution de Partie Civile](DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (J+38) et du [Rapport d'Expertise Médicale](../../Preuves_officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) (déposé le 12 juin 2027).
+Ce réquisitoire introductif est une **simulation** à vocation pédagogique et stratégique, s'inscrivant dans la continuité de la [Constitution de Partie Civile](DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (J+38) et du [Rapport d'Expertise Médicale](../../Preuves_officielles/20270529_Rapport_Expertise_Médicale.md) (déposé le 12 juin 2027).
 
 **Scénarios de qualification :**
 - *Scénario A (prudent)* — ITT pénale limitée au certificat initial (1 jour ≤ 3 mois) → Art. 222-20 CP (délit)
@@ -221,7 +221,7 @@ Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19
 **Documents liés :**
 - [Constitution de Partie Civile](DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) consolidée : [`DJI Foix - DJI Foix - Partie Civile - Constitution.md`](DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
 
-- Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../Preuves_officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
+- Rapport d'expertise médicale : [`20270529_Rapport_Expertise_Médicale.md`](../../Preuves_officielles/20270529_Rapport_Expertise_Médicale.md)
 
 - Ordonnance Art. 145 CPC (vidéos) : [`TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`](../Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Ordonnance%20sur%20Requ%C3%AAte.md)
 

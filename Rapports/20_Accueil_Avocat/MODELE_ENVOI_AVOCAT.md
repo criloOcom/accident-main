@@ -13,8 +13,8 @@ statut: final
 > **Pièces jointes** (communes aux deux options) :
 > 1. [Mémo de présentation 1 page](./MEMO_AVOCAT_1PAGE.md)
 > 2. [Note de présentation stratégique](../30_Analyses_Multi_Angle/RAPPORT_PRESENTATION_STRATEGIQUE_DOSSIER.md)
-> 3. [Mémoire de synthèse — Recours assurances ERP](../../Actes/Token/Analyses_juridiques/%F0%9F%93%9C%20M%C3%A9moire%20de%20synth%C3%A8se%20%E2%80%94%20Recours%20assurances%20ERP.md)
-> 4. [Note — Procédure Action Directe Assureur L124-3](../../Actes/Token/Analyses_juridiques/%F0%9F%93%9C%20Note%20%E2%80%94%20Proc%C3%A9dure%20Action%20Directe%20Assureur%20L124-3.md)
+> 3. [Mémoire de synthèse — Recours assurances ERP](../../Actes/Token/Analyses_juridiques/Mémoire_de_synthèse_—_Recours_assurances_ERP.md)
+> 4. [Note — Procédure Action Directe Assureur L124-3](../../Actes/Token/Analyses_juridiques/Note_—_Procédure_Action_Directe_Assureur_L124-3.md)
 > 5. [Projet de conclusions au fond TJ Foix](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Conclusions%20au%20Fond.md)
 > 6. [STRICT VARIABLES (référentiel chiffré)](../../Memory/STRICT%20VARIABLES.md)
 <hr><hr>

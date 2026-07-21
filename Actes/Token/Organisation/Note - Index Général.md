@@ -197,7 +197,7 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 
 Documents non indexés conservés dans `archives/` :
 
-- [archives/annexes/](../README.md) — ~~📚 ANNEXE A Lexique Tokens (supprimé — RGPD)~~, [⚖️ ANNEXE B Lois Jurisprudence](../Archives/annexes/%E2%9A%96%EF%B8%8F%20ANNEXE%20B%20Lois%20Jurisprudence.md), [📑 ANNEXE C Pièces](../Archives/annexes/%F0%9F%93%91%20ANNEXE%20C%20Pieces.md)
+- [archives/annexes/](../README.md) — ~~📚 ANNEXE A Lexique Tokens (supprimé — RGPD)~~, [⚖️ ANNEXE B Lois Jurisprudence](../Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md), [📑 ANNEXE C Pièces](../Archives/annexes/ANNEXE_C_Pieces.md)
 
 - [archives/../Actes_proceduraux/Contentieux_penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md](../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
 

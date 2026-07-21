@@ -131,11 +131,11 @@ Cet audit croise les données de `Memory/RECADRAGE_NOMENCLATURE.md`, `Memory/STA
 - [ ] **CRITIQUE** : Actes/Reel/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:112 — Statut non validé trouvé — Supprimer le statut ou vérifier la trace.
 
 ### Numéros LRAR vérifiés :
-- [ ] **INFO** : Actes/Preuves officielles/20260708_LR_Relance_ASSURANCE/06 V2 ✉️ Relance Dirigeants - Réel.md:40 — Numéros détectés : ['87001424863012T'] — À vérifier contre RECADRAGE_NOMENCLATURE.md.
+- [ ] **INFO** : Actes/Preuves officielles/20260708_LR_Relance_ASSURANCE/06_V2_Relance_Dirigeants_-_Réel.md:40 — Numéros détectés : ['87001424863012T'] — À vérifier contre RECADRAGE_NOMENCLATURE.md.
 
-- [ ] **INFO** : Actes/Preuves officielles/20260708_LR_Relance_ASSURANCE/06 V2 ✉️ Relance Dirigeants - Réel.md:42 — Numéros détectés : ['87001424721856G'] — À vérifier contre RECADRAGE_NOMENCLATURE.md.
+- [ ] **INFO** : Actes/Preuves officielles/20260708_LR_Relance_ASSURANCE/06_V2_Relance_Dirigeants_-_Réel.md:42 — Numéros détectés : ['87001424721856G'] — À vérifier contre RECADRAGE_NOMENCLATURE.md.
 
-- [ ] **INFO** : Actes/Preuves officielles/20260708_LR_Relance_ASSURANCE/06 V2 ✉️ Relance Dirigeants - Réel.md:44 — Numéros détectés : ['87001424862879J'] — À vérifier contre RECADRAGE_NOMENCLATURE.md.
+- [ ] **INFO** : Actes/Preuves officielles/20260708_LR_Relance_ASSURANCE/06_V2_Relance_Dirigeants_-_Réel.md:44 — Numéros détectés : ['87001424862879J'] — À vérifier contre RECADRAGE_NOMENCLATURE.md.
 
 - [ ] **INFO** : Actes/Token/Courriers/Police/Guide Orale.md:47 — Numéros détectés : ['87001424863012T'] — À vérifier contre RECADRAGE_NOMENCLATURE.md.
 
@@ -198,7 +198,7 @@ Cet audit croise les données de `Memory/RECADRAGE_NOMENCLATURE.md`, `Memory/STA
 
 - [ ] **CRITIQUE** : Actes/Reel/Archives/Archive - Stratégie Contentieux Civil.md:54 — Token leak détecté : ['[**[J+36 Lettre consolidation]**]'] — Remplacer par les valeurs réelles.
 
-- [ ] **CRITIQUE** : Actes/Reel/Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md:46 — Token leak détecté : ['[**[J+41 Requete Constat 145]**]'] — Remplacer par les valeurs réelles.
+- [ ] **CRITIQUE** : Actes/Reel/Archives/33_Requête_-_Constat_Huissier_145_CPC.md:46 — Token leak détecté : ['[**[J+41 Requete Constat 145]**]'] — Remplacer par les valeurs réelles.
 
 - [ ] **CRITIQUE** : Actes/Reel/Archives/Archive - Stratégie Contentieux Pénal.md:54 — Token leak détecté : ['[**[J+36 Lettre consolidation]**]'] — Remplacer par les valeurs réelles.
 

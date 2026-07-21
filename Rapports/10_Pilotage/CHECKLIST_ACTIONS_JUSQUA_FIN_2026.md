@@ -152,14 +152,14 @@ type: rapport
   * Priorité : Haute
   * Statut : À faire
   * Note : Présence à 13h45, amener le dossier médical complet.
-  * Fichier : [Préparation UMJ](../../Actes/Token/Preuves_officielles/%F0%9F%93%81%20Preparation%20Expertise%20UMJ.md)
+  * Fichier : [Préparation UMJ](../../Actes/Token/Preuves_officielles/Preparation_Expertise_UMJ.md)
 
 * **Doléances UMJ** (J+160)
 
   * Priorité : Haute
   * Statut : À faire
   * Note : Rédiger les doléances (DFP, esthétique, agrément).
-  * Fichier : [Préparation UMJ](../../Actes/Token/Preuves_officielles/%F0%9F%93%81%20Preparation%20Expertise%20UMJ.md)
+  * Fichier : [Préparation UMJ](../../Actes/Token/Preuves_officielles/Preparation_Expertise_UMJ.md)
 
 ### III.5 — Décembre 2026
 

@@ -62,9 +62,9 @@ Conformément au dossier (`Memory/STRICT VARIABLES.md` et `Memory/TOKEN MAP.md`)
 
 - [ ] **FICHIER** : [MAJEUR] Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - Bordereau Unifié.md:172 — Mention potentielle de chirurgie à Toulouse. La clinique SOS Main est à Saint-Jean : - **Sans date** — Pansements post-chirurgicaux lourds toutes les 48 heures (Cabinet infirmier [Toulouse](../Memory/Tokens/token-accident-metropole.md)).
 
-- [ ] **FICHIER** : [MAJEUR] Actes/Reel/Preuves_officielles/20270529 ⚖️ Rapport Expertise Médicale.md:37 — Mention potentielle de chirurgie à Toulouse. La clinique SOS Main est à Saint-Jean : **EXPERT :** [Docteur X], inscrit sur la liste des experts près la Cour d'appel de Toulouse, spécialité : chirurgie de la main et du membre supérieur
+- [ ] **FICHIER** : [MAJEUR] Actes/Reel/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md:37 — Mention potentielle de chirurgie à Toulouse. La clinique SOS Main est à Saint-Jean : **EXPERT :** [Docteur X], inscrit sur la liste des experts près la Cour d'appel de Toulouse, spécialité : chirurgie de la main et du membre supérieur
 
-- [ ] **FICHIER** : [MAJEUR] Actes/Token/Preuves_officielles/20270529 ⚖️ Rapport Expertise Médicale.md:37 — Mention potentielle de chirurgie à Toulouse. La clinique SOS Main est à Saint-Jean : **EXPERT :** [Docteur X], inscrit sur la liste des experts près la Cour d'appel de Toulouse, spécialité : chirurgie de la main et du membre supérieur
+- [ ] **FICHIER** : [MAJEUR] Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md:37 — Mention potentielle de chirurgie à Toulouse. La clinique SOS Main est à Saint-Jean : **EXPERT :** [Docteur X], inscrit sur la liste des experts près la Cour d'appel de Toulouse, spécialité : chirurgie de la main et du membre supérieur
 
 ## 4. Conclusion de l'Audit
 

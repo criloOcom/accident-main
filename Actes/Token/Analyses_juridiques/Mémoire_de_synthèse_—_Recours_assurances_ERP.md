@@ -14,7 +14,7 @@ tags:
   - préjudice corporel
 statut: brouillon
 auteur: La Victime
-reel_path: ../../Reel/Analyses_juridiques/📜 Mémoire de synthèse — Recours assurances ERP.md
+reel_path: ../../Reel/Analyses_juridiques/Mémoire_de_synthèse_—_Recours_assurances_ERP.md
 source: local
 jx: J+53
 ---

@@ -32,7 +32,7 @@ type: memory
 ## §1. Rapport d'expertise 2027-05-29 (référence canonique)
 
 ⚠ **Cette section est la Source Unique de Vérité pour toutes les valeurs Dintilhac.**
-Le rapport d'expertise médicale du 29 mai 2027 ([20270529 ⚖️ Rapport Expertise Médicale.md](../Actes/Token/Preuves_officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)) a été déposé et consolidé dans la CPC J+38.
+Le rapport d'expertise médicale du 29 mai 2027 ([20270529_Rapport_Expertise_Médicale.md](../Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md)) a été déposé et consolidé dans la CPC J+38.
 **Toute valeur divergente dans les sections historiques ci-dessous est SUPERSEDED.**
 
 ### Postes extra-patrimoniaux (nomenclature Dintilhac stricte)

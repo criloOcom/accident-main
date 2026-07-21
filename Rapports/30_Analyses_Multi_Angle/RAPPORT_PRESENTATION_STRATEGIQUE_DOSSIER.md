@@ -48,7 +48,7 @@ Le [**[J+0 Accident]**](../../Memory/Tokens/token-j-0-accident.md), la victime �
 
 - **Préjudice d'agrément** : perte des activités manuelles et de loisir
 
-> **Pièce clé** : [Rapport d'expertise médico-légale (UMJ)](../../Actes/Token/Preuves_officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) du 12 novembre 2026
+> **Pièce clé** : [Rapport d'expertise médico-légale (UMJ)](../../Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md) du 12 novembre 2026
 <hr><hr>
 
 ## II — VOLETS DE PROCÉDURE EN COURS
@@ -60,7 +60,7 @@ Le [**[J+0 Accident]**](../../Memory/Tokens/token-j-0-accident.md), la victime �
 | Dépôt de plainte (PV n° [**[N° PV Police]**](../../Memory/TOKEN%20MAP.md%23donnees-localisantes)) | J+4 | Transmis au Parquet |
 | [Constitution de partie civile](../../Actes/Token/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) | J+38 | Transmise au TJ de [**[La Ville de l'Accident]**](../../Memory/Tokens/token-accident-ville.md) |
 | [Réquisitoire introductif](../../Actes/Token/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md) | J+47 | Parquet de Foix — double qualification 222-19/222-20 CP, transmission au doyen des juges d'instruction |
-| [Rapport d'expertise médico-légale (UMJ)](../../Actes/Token/Preuves_officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) | 12 novembre 2026 | Déposé |
+| [Rapport d'expertise médico-légale (UMJ)](../../Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md) | 12 novembre 2026 | Déposé |
 | Information judiciaire ouverte | En cours | Blessures involontaires (+mise en danger d'autrui) |
 
 **Qualifications pénales retenues** :
@@ -143,7 +143,7 @@ Le [**[J+0 Accident]**](../../Memory/Tokens/token-j-0-accident.md), la victime �
 | **Fourchette globale d'indemnisation** | **120 000 – 160 000 €** |
 | Provision déjà sollicitée (référé J+63) | **15 000 €** |
 
-> **Sources** : [Rapport d'expertise](../../Actes/Token/Preuves_officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) — [STRICT VARIABLES §1 canonique](../../Memory/STRICT%20VARIABLES.md%231-valeurs-canoniques-de-lexpertise) — [Étude Dintilhac complète](../../Actes/Token/README.md)
+> **Sources** : [Rapport d'expertise](../../Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md) — [STRICT VARIABLES §1 canonique](../../Memory/STRICT%20VARIABLES.md%231-valeurs-canoniques-de-lexpertise) — [Étude Dintilhac complète](../../Actes/Token/README.md)
 <hr><hr>
 
 ## IV — STRATÉGIE GLOBALE ET PROCHAINES ÉTAPES
@@ -187,7 +187,7 @@ Le [**[J+0 Accident]**](../../Memory/Tokens/token-j-0-accident.md), la victime �
 | N° | Pièce | Emplacement |
 |----|-------|-------------|
 | 1 | [PV de police n°2026/015967](../../Actes/Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) | Dépôt de plainte J+4 |
-| 2 | [Rapport d'expertise médicale](../../Actes/Token/Preuves_officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) | Consolidation J+10 mois |
+| 2 | [Rapport d'expertise médicale](../../Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md) | Consolidation J+10 mois |
 | 3 | [Constitution de partie civile](../../Actes/Token/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) | J+38 — TJ |
 | 4 | [Réquisitoire introductif](../../Actes/Token/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md) | J+47 — Parquet de Foix |
 | 5 | [Ordonnance de référé provision](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md) | J+63 — 15 000 € |

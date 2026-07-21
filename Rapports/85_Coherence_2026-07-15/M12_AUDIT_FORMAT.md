@@ -255,13 +255,13 @@ type: rapport
 
 - [ ] `./Simulations/14_Juge_Enfants.md` : Nom de fichier non conforme au pattern MAJUSCULES_UNDERSCORE (Gravité: MINEUR)
 
-- [ ] `./Memory/📋 Fiche Suivi Démarches Administratives.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./Memory/Fiche_Suivi_Démarches_Administratives.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./Memory/PIECES MAP.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./Memory/TOKEN MAP.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./Memory/📆 Mini Calendrier Procedure.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./Memory/Mini_Calendrier_Procedure.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./Memory/STRICT VARIABLES.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -451,13 +451,13 @@ type: rapport
 
 - [ ] `./Actes/Preuves officielles/20260529_DrJARDON/20260529-1630 SITUATION DrJulieJARDON.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./Actes/Preuves officielles/20260629_LR_Demande_ASSURANCE/20260629 ✉️ LR MiseEnDemeure SAS President MrSABIR.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./Actes/Preuves officielles/20260629_LR_Demande_ASSURANCE/20260629_LR_MiseEnDemeure_SAS_President_MrSABIR.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./Actes/Preuves officielles/20260629_LR_Demande_ASSURANCE/20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./Actes/Preuves officielles/20260629_LR_Demande_ASSURANCE/20260629_LR_MiseEnDemeure_SAS_LesMauvaisGarcons.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./Actes/Preuves officielles/20260629_LR_Demande_ASSURANCE/20260629 ✉️ LR MiseEnDemeure SAS MmeANDISSAC.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./Actes/Preuves officielles/20260629_LR_Demande_ASSURANCE/20260629_LR_MiseEnDemeure_SAS_MmeANDISSAC.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./Actes/Preuves officielles/20260629_LR_Demande_ASSURANCE/20260629 ✉️ LR MiseEnDemeure Bailleur MrDELRIEU.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./Actes/Preuves officielles/20260629_LR_Demande_ASSURANCE/20260629_LR_MiseEnDemeure_Bailleur_MrDELRIEU.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./Actes/Preuves officielles/20260604_URSSAF_Attestations/20260604-xxxx Attestation Vigilance URSSAF 1.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -595,9 +595,9 @@ type: rapport
 
 - [ ] `./Actes/Token/Archives/Archive - Analyse Jurisprudence.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./Actes/Token/Archives/annexes/📑 ANNEXE C Pieces.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./Actes/Token/Archives/annexes/ANNEXE_C_Pieces.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./Actes/Token/Analyses_juridiques/Note - FAQ Juridique.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -633,9 +633,9 @@ type: rapport
 
 - [ ] `./Actes/Token/Etudes_indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md` : Nom de fichier non conforme au pattern MAJUSCULES_UNDERSCORE (Gravité: MINEUR)
 
-- [ ] `./Actes/Token/Preuves_officielles/20270529 ⚖️ Rapport Expertise Médicale.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./Actes/Token/Preuves_officielles/📁 Preparation Expertise UMJ.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./Actes/Token/Preuves_officielles/Preparation_Expertise_UMJ.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./Actes/Token/Preuves_officielles/20260715_Police_PV_Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -839,9 +839,9 @@ type: rapport
 
 - [ ] `./Actes/Reel/Archives/Archive - Analyse Jurisprudence.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./Actes/Reel/Archives/annexes/📑 ANNEXE C Pieces.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./Actes/Reel/Archives/annexes/ANNEXE_C_Pieces.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./Actes/Reel/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./Actes/Reel/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./Actes/Reel/Archives/annexes/README.md` : YAML front matter manquant ou mal formaté (Gravité: MAJEUR)
 
@@ -889,13 +889,13 @@ type: rapport
 
 - [ ] `./Actes/Reel/Etudes_indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md` : Nom de fichier non conforme au pattern MAJUSCULES_UNDERSCORE (Gravité: MINEUR)
 
-- [ ] `./Actes/Reel/Preuves_officielles/20270529 ⚖️ Rapport Expertise Médicale.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./Actes/Reel/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./Actes/Reel/Preuves_officielles/README.md` : YAML front matter manquant ou mal formaté (Gravité: MAJEUR)
 
 - [ ] `./Actes/Reel/Preuves_officielles/README.md` : Breadcrumb HTML manquant (Gravité: MAJEUR)
 
-- [ ] `./Actes/Reel/Preuves_officielles/📁 Preparation Expertise UMJ.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./Actes/Reel/Preuves_officielles/Preparation_Expertise_UMJ.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./Actes/Reel/Preuves_officielles/20260715_Police_PV_Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 

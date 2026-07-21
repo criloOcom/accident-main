@@ -30,7 +30,7 @@ Ce jugement confirme que les ERP (dont les salons de coiffure) sont soumis à un
 
 ## Traçabilité
 
-Décision citée dans le ](../../../Actes/Token/Analyses_juridiques/%F0%9F%93%9C%20M%C3%A9moire%20de%20synth%C3%A8se%20%E2%80%94%20Recours%20assurances%20ERP.md).
+Décision citée dans le ](../../../Actes/Token/Analyses_juridiques/Mémoire_de_synthèse_—_Recours_assurances_ERP.md).
 
 ## Lien vers la décision
 

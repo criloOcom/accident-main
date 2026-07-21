@@ -51,7 +51,7 @@ Total des anomalies : 99
 
 - [ ] `Actes/Token/Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md` : Fuite de nom réel (Djerbi) dans un fichier Token (ligne 13)
 
-- [ ] `Actes/Token/Preuves_officielles/📁 Preparation Expertise UMJ.md` : Fuite de nom réel (Djerbi) dans un fichier Token (ligne 33)
+- [ ] `Actes/Token/Preuves_officielles/Preparation_Expertise_UMJ.md` : Fuite de nom réel (Djerbi) dans un fichier Token (ligne 33)
 
 - [ ] `Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 52)
 

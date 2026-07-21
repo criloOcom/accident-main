@@ -1009,7 +1009,7 @@ type: rapport
 
 - [ ] **Actes/Token/Preuves_officielles/20260715_Police_PV_Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md** : [MINEUR] Actes/Token/Preuves_officielles/20260715_Police_PV_Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md:70 — citation incomplète (Code manquant pour l'article 434-4 dans `Articles 434-4`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Preuves_officielles/📁 Preparation Expertise UMJ.md** : [MINEUR] Actes/Token/Preuves_officielles/📁 Preparation Expertise UMJ.md:16 — citation incomplète (Code manquant pour l'article 41 dans `Art. 41`) — préciser le code applicable.
+- [ ] **Actes/Token/Preuves_officielles/Preparation_Expertise_UMJ.md** : [MINEUR] Actes/Token/Preuves_officielles/Preparation_Expertise_UMJ.md:16 — citation incomplète (Code manquant pour l'article 41 dans `Art. 41`) — préciser le code applicable.
 
 - [ ] **Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md** : [MAJEUR] Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md:124 — article inexistant sur Légifrance : 1241 du Code civil (`Article 1241 du Code civil`) — vérifier le numéro ou le code.
 
@@ -1329,79 +1329,79 @@ type: rapport
 
 - [ ] **Actes/Token/Archives/33 ✉️ Constat Huissier - Requête Archive 145 CPC.md** : [MINEUR] Actes/Token/Archives/33 ✉️ Constat Huissier - Requête Archive 145 CPC.md:97 — citation incomplète (Code manquant pour l'article 835 dans `Art. 835`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [INFO] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:114 — vérifier format de l'article 1844-5 du Code civil (`article 1844-5 du code civil`) — s'il s'agit d'un alinéa, utiliser 'al. X' plutôt qu'un tiret.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [INFO] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:114 — vérifier format de l'article 1844-5 du Code civil (`article 1844-5 du code civil`) — s'il s'agit d'un alinéa, utiliser 'al. X' plutôt qu'un tiret.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [INFO] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:185 — vérifier format de l'article 1844-8 du Code civil (`Article 1844-8 du Code civil`) — s'il s'agit d'un alinéa, utiliser 'al. X' plutôt qu'un tiret.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [INFO] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:185 — vérifier format de l'article 1844-8 du Code civil (`Article 1844-8 du Code civil`) — s'il s'agit d'un alinéa, utiliser 'al. X' plutôt qu'un tiret.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [INFO] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:41 — vérifier format de l'article 1844-8 du Code civil (`Article 1844-8 du Code civil`) — s'il s'agit d'un alinéa, utiliser 'al. X' plutôt qu'un tiret.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [INFO] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:41 — vérifier format de l'article 1844-8 du Code civil (`Article 1844-8 du Code civil`) — s'il s'agit d'un alinéa, utiliser 'al. X' plutôt qu'un tiret.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [INFO] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:43 — vérifier format de l'article 1844-8 du Code civil (`Article 1844-8 du Code civil`) — s'il s'agit d'un alinéa, utiliser 'al. X' plutôt qu'un tiret.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [INFO] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:43 — vérifier format de l'article 1844-8 du Code civil (`Article 1844-8 du Code civil`) — s'il s'agit d'un alinéa, utiliser 'al. X' plutôt qu'un tiret.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MAJEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:137 — article inexistant sur Légifrance : L217-1 du Code de la consommation (`Article L217-1 du Code de la consommation`) — vérifier le numéro ou le code.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MAJEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:137 — article inexistant sur Légifrance : L217-1 du Code de la consommation (`Article L217-1 du Code de la consommation`) — vérifier le numéro ou le code.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MAJEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:139 — article inexistant sur Légifrance : L217-1 du Code de la consommation (`Article L217-1 du Code de la consommation`) — vérifier le numéro ou le code.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MAJEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:139 — article inexistant sur Légifrance : L217-1 du Code de la consommation (`Article L217-1 du Code de la consommation`) — vérifier le numéro ou le code.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MAJEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:201 — article inexistant sur Légifrance : L217-1 du Code de la consommation (`Article L217-1 du Code de la consommation`) — vérifier le numéro ou le code.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MAJEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:201 — article inexistant sur Légifrance : L217-1 du Code de la consommation (`Article L217-1 du Code de la consommation`) — vérifier le numéro ou le code.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:126 — citation incomplète (Code manquant pour l'article 1 dans `article 1`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:126 — citation incomplète (Code manquant pour l'article 1 dans `article 1`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:126 — citation incomplète (Code manquant pour l'article 57 dans `article 57`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:126 — citation incomplète (Code manquant pour l'article 57 dans `article 57`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:17 — citation incomplète (Code manquant pour l'article 1240 dans `art. 1240`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:17 — citation incomplète (Code manquant pour l'article 1240 dans `art. 1240`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:187 — citation incomplète (Code manquant pour l'article 121-3 dans `Article 121-3 du Code p`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:187 — citation incomplète (Code manquant pour l'article 121-3 dans `Article 121-3 du Code p`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:188 — citation incomplète (Code manquant pour l'article 222-19 dans `Article 222-19 du Code p`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:188 — citation incomplète (Code manquant pour l'article 222-19 dans `Article 222-19 du Code p`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:189 — citation incomplète (Code manquant pour l'article 222-20 dans `Article 222-20 du Code p`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:189 — citation incomplète (Code manquant pour l'article 222-20 dans `Article 222-20 du Code p`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:190 — citation incomplète (Code manquant pour l'article 475-1 dans `Article 475-1 du Code de proc`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:190 — citation incomplète (Code manquant pour l'article 475-1 dans `Article 475-1 du Code de proc`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:191 — citation incomplète (Code manquant pour l'article 835 dans `Article 835 du Code de proc`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:191 — citation incomplète (Code manquant pour l'article 835 dans `Article 835 du Code de proc`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:192 — citation incomplète (Code manquant pour l'article 145 dans `Article 145 du Code de proc`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:192 — citation incomplète (Code manquant pour l'article 145 dans `Article 145 du Code de proc`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:193 — citation incomplète (Code manquant pour l'article 700 dans `Article 700 du Code de proc`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:193 — citation incomplète (Code manquant pour l'article 700 dans `Article 700 du Code de proc`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:24 — citation incomplète (Code manquant pour l'article 1733 dans `articles 1733`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:24 — citation incomplète (Code manquant pour l'article 1733 dans `articles 1733`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:42 — citation incomplète (Code manquant pour l'article 1844-4 dans `article 1844-4`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:42 — citation incomplète (Code manquant pour l'article 1844-4 dans `article 1844-4`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:42 — citation incomplète (Code manquant pour l'article 1844-5 dans `article 1844-5`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:42 — citation incomplète (Code manquant pour l'article 1844-5 dans `article 1844-5`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:53 — citation incomplète (Code manquant pour l'article 121-3 dans `Article 121-3 du Code p`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:53 — citation incomplète (Code manquant pour l'article 121-3 dans `Article 121-3 du Code p`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:55 — citation incomplète (Code manquant pour l'article 121-3 dans `Article 121-3 du Code p`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:55 — citation incomplète (Code manquant pour l'article 121-3 dans `Article 121-3 du Code p`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:59 — citation incomplète (Code manquant pour l'article 222-19 dans `Article 222-19 du Code p`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:59 — citation incomplète (Code manquant pour l'article 222-19 dans `Article 222-19 du Code p`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:60 — citation incomplète (Code manquant pour l'article 121-3 dans `article 121-3`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:60 — citation incomplète (Code manquant pour l'article 121-3 dans `article 121-3`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:61 — citation incomplète (Code manquant pour l'article 222-19 dans `Article 222-19 du Code p`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:61 — citation incomplète (Code manquant pour l'article 222-19 dans `Article 222-19 du Code p`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:65 — citation incomplète (Code manquant pour l'article 222-20 dans `Article 222-20 du Code p`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:65 — citation incomplète (Code manquant pour l'article 222-20 dans `Article 222-20 du Code p`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:67 — citation incomplète (Code manquant pour l'article 222-20 dans `Article 222-20 du Code p`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:67 — citation incomplète (Code manquant pour l'article 222-20 dans `Article 222-20 du Code p`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:71 — citation incomplète (Code manquant pour l'article 475-1 dans `Article 475-1 du Code de proc`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:71 — citation incomplète (Code manquant pour l'article 475-1 dans `Article 475-1 du Code de proc`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:72 — citation incomplète (Code manquant pour l'article 470-1 dans `article 470-1`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:72 — citation incomplète (Code manquant pour l'article 470-1 dans `article 470-1`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:73 — citation incomplète (Code manquant pour l'article 475-1 dans `Article 475-1 du Code de proc`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:73 — citation incomplète (Code manquant pour l'article 475-1 dans `Article 475-1 du Code de proc`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:77 — citation incomplète (Code manquant pour l'article 835 dans `Article 835 du Code de proc`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:77 — citation incomplète (Code manquant pour l'article 835 dans `Article 835 du Code de proc`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:79 — citation incomplète (Code manquant pour l'article 835 dans `Article 835 du Code de proc`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:79 — citation incomplète (Code manquant pour l'article 835 dans `Article 835 du Code de proc`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:83 — citation incomplète (Code manquant pour l'article 145 dans `Article 145 du Code de proc`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:83 — citation incomplète (Code manquant pour l'article 145 dans `Article 145 du Code de proc`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:85 — citation incomplète (Code manquant pour l'article 145 dans `Article 145 du Code de proc`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:85 — citation incomplète (Code manquant pour l'article 145 dans `Article 145 du Code de proc`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:89 — citation incomplète (Code manquant pour l'article 700 dans `Article 700 du Code de proc`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:89 — citation incomplète (Code manquant pour l'article 700 dans `Article 700 du Code de proc`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:90 — citation incomplète (Code manquant pour l'article 37 dans `article 37 de la loi n`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:90 — citation incomplète (Code manquant pour l'article 37 dans `article 37 de la loi n`) — préciser le code applicable.
 
-- [ ] **Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md:91 — citation incomplète (Code manquant pour l'article 700 dans `Article 700 du Code de proc`) — préciser le code applicable.
+- [ ] **Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md** : [MINEUR] Actes/Token/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md:91 — citation incomplète (Code manquant pour l'article 700 dans `Article 700 du Code de proc`) — préciser le code applicable.
 
 - [ ] **Actes/Token/Archives/Archive - Action Directe Assureur RC.md** : [MINEUR] Actes/Token/Archives/Archive - Action Directe Assureur RC.md:134 — citation incomplète (Code manquant pour l'article 145 dans `Article 145 du Code de proc`) — préciser le code applicable.
 

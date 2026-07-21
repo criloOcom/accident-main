@@ -90,7 +90,7 @@ LINK_FIXES = [
     ('Mandataire Ad Hoc - Requête.md', 'TC Foix - Mandataire Ad Hoc - Requête.md'),
     
     # Archives renames
-    ('33 ✉️ Constat Huissier - Requête 145 CPC.md', '33 ✉️ Requête - Constat Huissier 145 CPC.md'),
+    ('33 ✉️ Constat Huissier - Requête 145 CPC.md', '33_Requête_-_Constat_Huissier_145_CPC.md'),
     ('Constat Huissier - Requête Archive.md', 'Requête - Constat Huissier Archive.md'),
     
     # Mail Attestation → correct name

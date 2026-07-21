@@ -44,9 +44,9 @@ Ces documents constituent le socle argumentaire de la procédure.
 
 - [Note - Stratégie Jurisprudentielle](Note%20-%20Strat%C3%A9gie%20Jurisprudentielle.md)
 
-- [📜 Mémoire de synthèse — Recours assurances ERP](%F0%9F%93%9C%20M%C3%A9moire%20de%20synth%C3%A8se%20%E2%80%94%20Recours%20assurances%20ERP.md)
+- [📜 Mémoire de synthèse — Recours assurances ERP](Mémoire_de_synthèse_—_Recours_assurances_ERP.md)
 
-- [📜 Note — Procédure Action Directe Assureur L124-3](%F0%9F%93%9C%20Note%20%E2%80%94%20Proc%C3%A9dure%20Action%20Directe%20Assureur%20L124-3.md)
+- [📜 Note — Procédure Action Directe Assureur L124-3](Note_—_Procédure_Action_Directe_Assureur_L124-3.md)
 
 - [Note - Conservation Preuves Numériques](Note%20-%20Conservation%20Preuves%20Num%C3%A9riques.md)
 

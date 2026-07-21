@@ -51,7 +51,7 @@ Ces liens pointent vers des fichiers ou tokens qui n'existent pas ou plus à l'e
 
   - `token-metropole-regionale.md` manque dans `20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`.
 
-  - `token-victime-nom-complet.md` manque dans `20270529 ⚖️ Rapport Expertise Médicale.md` et `SAS - Assureur RC - Courrier (copie Avocat).md`.
+  - `token-victime-nom-complet.md` manque dans `20270529_Rapport_Expertise_Médicale.md` et `SAS - Assureur RC - Courrier (copie Avocat).md`.
 
   - `token-exploitation-nom-commercial.md` et `token-exploitation-prepose-nom.md` sont appelés mais introuvables.
 
@@ -91,7 +91,7 @@ L'audit d'intégrité des fichiers README montre des désynchronisations mineure
 
 - **`Actes/Token/Analyses_juridiques/`** : `Note - Mémo Axes Juridiques Avocat.md` et `Note - Synthèse Avocat Bascule HB BARBER.md` ne sont pas listés.
 
-- **`Actes/Token/Preuves_officielles/`** : `20270529 ⚖️ Rapport Expertise Médicale.md` n'est pas listé.
+- **`Actes/Token/Preuves_officielles/`** : `20270529_Rapport_Expertise_Médicale.md` n'est pas listé.
 
 - **`Actes/Token/Actes_proceduraux/📋 Preparation Foix/`** : `Police - Note Erratum Identité.md` n'est pas listé.
 

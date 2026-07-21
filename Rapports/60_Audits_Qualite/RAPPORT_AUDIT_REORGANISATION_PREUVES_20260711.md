@@ -61,10 +61,10 @@ Preuves_officielles/
 │   ├── 20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ1.md
 │   └── 20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ2.md
 └── 20260629_LR_Demande_ASSURANCE/
-    ├── 20260629 ✉️ LR MiseEnDemeure Bailleur MrDELRIEU.md
-    ├── 20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons.md
-    ├── 20260629 ✉️ LR MiseEnDemeure SAS MmeANDISSAC.md
-    └── 20260629 ✉️ LR MiseEnDemeure SAS President MrSABIR.md
+    ├── 20260629_LR_MiseEnDemeure_Bailleur_MrDELRIEU.md
+    ├── 20260629_LR_MiseEnDemeure_SAS_LesMauvaisGarcons.md
+    ├── 20260629_LR_MiseEnDemeure_SAS_MmeANDISSAC.md
+    └── 20260629_LR_MiseEnDemeure_SAS_President_MrSABIR.md
 ```
 
 ### I.2 — Caractéristiques de la Nouvelle Structure
@@ -178,7 +178,7 @@ grep -r "SITUATION DrJulieJARDON\|CR Opératoire\|NOTE DrOXYBEL\|PV Police\|Atte
 - [Actes/Token/Organisation/Note - Index Général.md](Actes/Token/Organisation/00%20%F0%9F%93%87%20Index.md) : Référence générique
 
 **Fichiers avec références aux documents (via Google Drive) :**
-- [Actes/Token/Preuves_officielles/📁 Preparation Expertise UMJ.md](Actes/Token/Preuves_officielles/01%20%F0%9F%93%81%20Dossier%20UMJ%20Preparation.md) : Liens Google Drive
+- [Actes/Token/Preuves_officielles/Preparation_Expertise_UMJ.md](Actes/Token/Preuves_officielles/01%20%F0%9F%93%81%20Dossier%20UMJ%20Preparation.md) : Liens Google Drive
 
 ### III.3 — Conclusion sur les Références
 

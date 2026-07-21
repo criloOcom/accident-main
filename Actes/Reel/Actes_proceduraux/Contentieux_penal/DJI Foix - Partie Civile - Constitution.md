@@ -311,7 +311,7 @@ Les fondements juridiques (Section II) restent inchangés — le rapport d'exper
 - Article 475-1 CPP : montant à définir via le token [3 000 €](../../../../Memory/Tokens/token-finance-article-700.md) (remplacé par [3 000 €](../../../../Memory/Tokens/token-finance-article-475-1.md) dans la nomenclature pénale)
 
 **Documents liés :**
-- Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../Preuves_officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
+- Rapport d'expertise médicale : [`20270529_Rapport_Expertise_Médicale.md`](../../Preuves_officielles/20270529_Rapport_Expertise_Médicale.md)
 
 - Ordonnance de référé (mission expertise) : [`TJ Foix - Référé Provision - Ordonnance Projet.md`](../Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)
 

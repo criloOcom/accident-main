@@ -769,9 +769,9 @@ L'audit relève les fuites de données personnelles (identités, adresses, numé
 
 - [ ] **FILE** : [CRITIQUE] Actes/Token/Archives/Archive - Stratégie Contentieux Civil.md:21 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] Actes/Token/Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md:22 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Archives/33_Requête_-_Constat_Huissier_145_CPC.md:22 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] Actes/Token/Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md:55 — Présence d'une donnée réelle : 18 janvier 1982 — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Archives/33_Requête_-_Constat_Huissier_145_CPC.md:55 — Présence d'une donnée réelle : 18 janvier 1982 — Remplacer par le token approprié
 
 - [ ] **FILE** : [CRITIQUE] Actes/Token/Archives/Archive - Stratégie Contentieux Pénal.md:21 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
@@ -791,7 +791,7 @@ L'audit relève les fuites de données personnelles (identités, adresses, numé
 
 - [ ] **FILE** : [CRITIQUE] Actes/Token/Archives/Archive - Analyse Jurisprudence.md:22 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] Actes/Token/Archives/annexes/📑 ANNEXE C Pieces.md:14 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Archives/annexes/ANNEXE_C_Pieces.md:14 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
 - [ ] **FILE** : [CRITIQUE] Actes/Token/Attestations/Attestation - Témoin Mathieu Frédéric.md:16 — Présence d'une donnée réelle : foix — Remplacer par le token approprié
 
@@ -929,17 +929,17 @@ L'audit relève les fuites de données personnelles (identités, adresses, numé
 
 - [ ] **FILE** : [CRITIQUE] Actes/Token/Etudes_indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md:82 — Présence d'une donnée réelle : foix — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] Actes/Token/Preuves_officielles/20270529 ⚖️ Rapport Expertise Médicale.md:2 — Présence d'une donnée réelle : foix — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md:2 — Présence d'une donnée réelle : foix — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] Actes/Token/Preuves_officielles/20270529 ⚖️ Rapport Expertise Médicale.md:3 — Présence d'une donnée réelle : foix — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md:3 — Présence d'une donnée réelle : foix — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] Actes/Token/Preuves_officielles/20270529 ⚖️ Rapport Expertise Médicale.md:5 — Présence d'une donnée réelle : foix — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md:5 — Présence d'une donnée réelle : foix — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] Actes/Token/Preuves_officielles/20270529 ⚖️ Rapport Expertise Médicale.md:24 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md:24 — Présence d'une donnée réelle : hb barber — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] Actes/Token/Preuves_officielles/20270529 ⚖️ Rapport Expertise Médicale.md:31 — Présence d'une donnée réelle : foix — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md:31 — Présence d'une donnée réelle : foix — Remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] Actes/Token/Preuves_officielles/20270529 ⚖️ Rapport Expertise Médicale.md:37 — Présence d'une donnée réelle : toulouse — Remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md:37 — Présence d'une donnée réelle : toulouse — Remplacer par le token approprié
 
 - [ ] **FILE** : [MAJEUR] Actes/Token/Preuves_officielles/README.md:23 — Statut documentaire non vérifié ou potentiellement halluciné : Transmis — Vérifier la réalité de l'envoi dans STATUS.md ou le registre
 

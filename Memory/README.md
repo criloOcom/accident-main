@@ -59,9 +59,9 @@ graph TD
 
 - **[GESTIONNAIRE_DOC](GESTIONNAIRE_DOC.md)**
 
-- **[📆 Mini Calendrier Procedure](%F0%9F%93%86%20Mini%20Calendrier%20Procedure.md)**
+- **[📆 Mini Calendrier Procedure](Mini_Calendrier_Procedure.md)**
 
-- **[📋 Fiche Suivi Démarches Administratives](%F0%9F%93%8B%20Fiche%20Suivi%20D%C3%A9marches%20Administratives.md)**
+- **[📋 Fiche Suivi Démarches Administratives](Fiche_Suivi_Démarches_Administratives.md)**
 ### Documentation Technique
 
 <!-- RAPPORT_JURISPRUDENCES supprimé — le dossier Archives n'existe plus dans Rapports, et ce rapport n'a pas été retrouvé. -->

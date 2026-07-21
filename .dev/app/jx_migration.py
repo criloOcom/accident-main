@@ -71,7 +71,7 @@ SCAN_EXCLUDE_SUBDIRS = [
 
 MAPPING_RAW = [
     # ═══ Preuves_officielles ═══
-    ("Preuves_officielles", "01 📁 Dossier UMJ Preparation.md", "J+167 📁 Preparation Expertise UMJ.md", "2026-11-12"),
+    ("Preuves_officielles", "01 📁 Dossier UMJ Preparation.md", "J+167 Preparation_Expertise_UMJ.md", "2026-11-12"),
 
     # ═══ Actes_proceduraux ═══
     ("Actes_proceduraux", "01 ⚖️ Assignation.md", "J+32 ⚖️ Assignation Refere Provision.md", "2026-06-30"),

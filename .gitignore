@@ -19,3 +19,6 @@ venv/
 .dev/.readme_backups/
 GEMINI.md
 
+
+# Backups automatiques (README generation)
+.dev/.readme_backups/

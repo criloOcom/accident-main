@@ -126,8 +126,8 @@ Date: 2026-07-12 14:37
        → Etudes_indemnisation/Note - Évaluation Dintilhac Consolidée.md
   ✓  Etudes_indemnisation/13 Note strategique FGTI CIVI.md
        → Etudes_indemnisation/Note - Stratégique FGTI CIVI.md
-  ✓  Preuves_officielles/📁 Preparation Expertise UMJ.md
-       → Preuves_officielles/📁 Preparation Expertise UMJ.md
+  ✓  Preuves_officielles/Preparation_Expertise_UMJ.md
+       → Preuves_officielles/Preparation_Expertise_UMJ.md
   ✓  Analyses_juridiques/07 🎤 Plaidoirie dirigeants.md
        → Analyses_juridiques/Note - Plaidoirie Responsabilité Dirigeants.md
   ✓  Analyses_juridiques/09 ❓ FAQ.md
@@ -270,8 +270,8 @@ Date: 2026-07-12 14:37
        → Etudes_indemnisation/Note - Évaluation Dintilhac Consolidée.md
   ✓  Etudes_indemnisation/13 Note strategique FGTI CIVI.md
        → Etudes_indemnisation/Note - Stratégique FGTI CIVI.md
-  ✓  Preuves_officielles/📁 Preparation Expertise UMJ.md
-       → Preuves_officielles/📁 Preparation Expertise UMJ.md
+  ✓  Preuves_officielles/Preparation_Expertise_UMJ.md
+       → Preuves_officielles/Preparation_Expertise_UMJ.md
   ✓  Analyses_juridiques/07 🎤 Plaidoirie dirigeants.md
        → Analyses_juridiques/Note - Plaidoirie Responsabilité Dirigeants.md
   ✓  Analyses_juridiques/09 ❓ FAQ.md
@@ -310,7 +310,7 @@ Date: 2026-07-12 14:37
 ── Fichiers exclus (brouillons / 99) ──
   ⊘ Actes_proceduraux/Contentieux_penal/Parquet Foix - Signalement Fraude.md
   ⊘ Actes_proceduraux/Contentieux_civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md
-  ⊘ Preuves_officielles/📁 Preparation Expertise UMJ.md
+  ⊘ Preuves_officielles/Preparation_Expertise_UMJ.md
   ⊘ Analyses_juridiques/Mémoire - En défense adverse.md
   ⊘ Organisation/Synthèse - Actions et Audits.md
   ⊘ Organisation/Note - Plan Constat Police Foix.md

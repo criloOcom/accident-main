@@ -888,11 +888,11 @@ code Python lit ensuite en fallback.
 ## Phase 5b — Création et anonymisation des courriers 03-06 (5 juillet 2026) ✅
 
 ### Ce qui a été fait
-- **03_Courrier SAS.md** : créé et anonymisé depuis `pieces/20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons.md`
+- **03_Courrier SAS.md** : créé et anonymisé depuis `pieces/20260629_LR_MiseEnDemeure_SAS_LesMauvaisGarcons.md`
 
 - **04_Courrier Assureur.md** : créé depuis `archives/ActionDirecte_AssureurRC.md` + alignement montant global 59 600€
 
-- **05_Courrier Proprietaire.md** : créé et anonymisé depuis `pieces/20260629 ✉️ LR MiseEnDemeure Bailleur MrDELRIEU.md`
+- **05_Courrier Proprietaire.md** : créé et anonymisé depuis `pieces/20260629_LR_MiseEnDemeure_Bailleur_MrDELRIEU.md`
 
 - **06_Courrier President DG.md** : créé par fusion des pièces MOUNTASSER et ANDISSAC en courrier unique double destinataire
 
@@ -1454,7 +1454,7 @@ Préparer et synchroniser la documentation pour le déplacement physique à Foix
 #### 3. Documentation mise à jour
 - **Calendrier Google** : événement "DÉPÔT FOIX" déplacé du 22/07 → 27/07/2026
 
-- **📆 Mini Calendrier Procedure.md** : jalons 27/07 ajoutés (AJ + PV), statuts mis à jour
+- **Mini_Calendrier_Procedure.md** : jalons 27/07 ajoutés (AJ + PV), statuts mis à jour
 
 - **Note - Calendrier Procédure.md** (Token) : EVT-16 mise à jour "Dépôt AJ + Complément PV"
 
