@@ -187,6 +187,6 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 
 [^8]: [Article 56 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
-[^9]: [Arrêt Cour de cassation, 2e chambre civile, 10 mars 2022, n° 20-16.331 — www.legifrance.gouv.fr/juri/id/JURITEXT000068312987](https://www.legifrance.gouv.fr/juri/id/JURITEXT000068312987)
+[^9]: [Arrêt Cour de cassation, 2e chambre civile, 10 mars 2022, n° 20-16.331 — www.legifrance.gouv.fr/juri/id/JURITEXT000045349845](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045349845)
 
-[^10]: [Arrêt Cour de cassation, 2e chambre civile, 3 avril 2025, n° 23-18.568 — www.legifrance.gouv.fr/juri/id/JURITEXT000083214567](https://www.legifrance.gouv.fr/juri/id/JURITEXT000083214567)
+[^10]: [Arrêt Cour de cassation, 2e chambre civile, 3 avril 2025, n° 23-18.568 — www.legifrance.gouv.fr/juri/id/JURITEXT000051464849](https://www.legifrance.gouv.fr/juri/id/JURITEXT000051464849)

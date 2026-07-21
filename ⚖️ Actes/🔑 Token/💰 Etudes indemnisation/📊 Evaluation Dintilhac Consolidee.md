@@ -336,7 +336,7 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 > **Cour de cassation, 2e chambre civile, 29 mars 2018, n° 17-14.499[^8]**
 
 > *« La Cour de cassation confirme que la limitation de la pratique d'une activité de loisir suffit à caractériser le préjudice d'agrément. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049857400) <br>
+> [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044105739) <br>
 > **Cour de cassation, 1re chambre civile, 26 juin 2024, n° 23-15.345[^9]**
 <hr><hr>
 
@@ -679,7 +679,7 @@ La provision de [**[Finance Provision Référé]**](../../../%F0%9F%A7%A0%20Memo
 [^6]: [Arrêt — www.legifrance.gouv.fr/ceta/id/CETATEXT000049375170](https://www.legifrance.gouv.fr/ceta/id/CETATEXT000049375170) ↩
 [^7]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000007047223](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047223) ↩
 [^8]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000036780068](https://www.legifrance.gouv.fr/juri/id/JURITEXT000036780068) ↩
-[^9]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000049857400](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049857400) ↩
+[^9]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000044105739](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044105739) ↩
 [^10]: [Article 700 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
 [^11]: [Article L.124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
 [^12]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000045822770](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770) ↩
