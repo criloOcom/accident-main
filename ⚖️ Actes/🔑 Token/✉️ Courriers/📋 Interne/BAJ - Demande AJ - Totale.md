@@ -1,24 +1,30 @@
 ---
-emoji: "📝"
-title: "Demande d'Aide Juridictionnelle Totale — Formulaire Rempli"
-description: "Cerfa n°16146*03 — Demande d'AJ totale pour procédure en référé-provision et expertise médicale au TJ de Foix"
+emoji: 📝
+title: Demande d'Aide Juridictionnelle Totale — Formulaire Rempli
+description: Cerfa n°16146*03 — Demande d'AJ totale pour procédure en référé-provision
+  et expertise médicale au TJ de Foix
 type: courrier
 date: 2026-07-18
 tags:
-  - AJ
-  - aide juridictionnelle
-  - formulaire
-  - urgence
-  - baJ
-  - foix
-calendar_event_id: "ipivj4ul5rls1hrk1kqh9b0c6c"
+- AJ
+- aide juridictionnelle
+- formulaire
+- urgence
+- baJ
+- foix
+calendar_event_id: ipivj4ul5rls1hrk1kqh9b0c6c
 statut: final
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/📋 Interne/BAJ - Demande AJ - Totale.md
 jx: J+50
 destinataire: Bureau d'Aide Juridictionnelle (BAJ)
-
 ---
+<!-- Source -->
+<!-- PJ -->
+<!-- LRAR -->
+<!-- Objet -->
+<!-- Date -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 📋 Interne › ✉️ BAJ - Demande AJ - Totale*
 <hr>

@@ -1,16 +1,22 @@
 ---
-emoji: "📜"
+emoji: 📜
 title: 📜 Lettre LRAR — Directrice Générale SAS HB BARBER — Demande assurance RC
-description: Mise en demeure de communiquer les informations d'assurance RC pro, adressée personnellement à la Directrice Générale.
+description: Mise en demeure de communiquer les informations d'assurance RC pro, adressée
+  personnellement à la Directrice Générale.
 type: courrier
 date: 2026-07-18
-calendar_event_id: "1mbqfdhq594llbiqb3b1thjn60"
+calendar_event_id: 1mbqfdhq594llbiqb3b1thjn60
 statut: envoye
-lrar_number: "875001528942010"
+lrar_number: '875001528942010'
 destinataire: La Directrice Générale de l'Exploitation
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS HB BARBER - Directrice Générale - Courrier.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS HB BARBER - Directrice Générale
+  - Courrier.md
 ---
+<!-- PJ -->
+<!-- LRAR -->
+<!-- Objet -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS HB BARBER - Directrice Générale - Courrier*
 <hr>

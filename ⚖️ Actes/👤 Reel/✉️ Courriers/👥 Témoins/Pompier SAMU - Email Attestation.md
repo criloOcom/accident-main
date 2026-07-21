@@ -1,13 +1,14 @@
 ---
-emoji: "📋"
-title: "📧📋 Email Transmission Attestation Pompier SAMU"
-description: "Objet : Attestation de témoin — Intervention du 29 mai 2026 au 22 Rue Lafaurie, 09000 Foix"
+emoji: 📋
+title: 📧📋 Email Transmission Attestation Pompier SAMU
+description: 'Objet : Attestation de témoin — Intervention du 29 mai 2026 au
+  **[L''Adresse de l''Exploitation]'
 type: courrier
 date: 2026-07-06
 tags:
-  - email
-  - attestation
-  - temoin
+- email
+- attestation
+- temoin
 statut: brouillon
 destinataire: Services de secours intervenus le 29 mai 2026
 auteur: La Victime
@@ -15,6 +16,12 @@ reel_path: ../../../👤 Reel/✉️ Courriers/👥 Témoins/Pompier SAMU - Emai
 source: local
 jx: J+38
 ---
+<!-- Source -->
+<!-- PJ -->
+<!-- LRAR -->
+<!-- Objet -->
+<!-- Auteur -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👥 Témoins › ✉️ Pompier SAMU - Email Attestation*
 <!-- Destinataire -->

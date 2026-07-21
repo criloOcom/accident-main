@@ -1,23 +1,34 @@
 ---
-emoji: "📜"
-title: "📜 Action Directe Assureur RC — Mise en demeure post-expertise (Art. L.124-3 C. assur.)"
-description: "Déclaration de sinistre et mise en demeure de l'assureur RC de l'Exploitant du Commerce — expertise médicale consolidée (DFP 12 %, SE 4/7) — fourchette Dintilhac 120-160 k€"
+emoji: 📜
+title: 📜 Action Directe Assureur RC — Mise en demeure post-expertise (Art. L.124-3
+  C. assur.)
+description: Déclaration de sinistre et mise en demeure de l'assureur RC de l'Exploitant
+  du Commerce — expertise médicale consolidée (DFP 12 %, SE 4/7) — fourchette Dintilhac
+  120-160 k€
 type: projet
 date: 2026-09-01
 tags:
-  - simulation
-  - action directe
-  - assurance
-  - mise en demeure
-  - L.124-3
-  - expertise
-  - provision
+- simulation
+- action directe
+- assurance
+- mise en demeure
+- L.124-3
+- expertise
+- provision
 statut: projet
 destinataire: Assureur RC de l'Exploitant du Commerce
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Assureur RC - Courrier.md
 jx: J+50
 ---
+<!-- PJ -->
+<!-- Signature -->
+<!-- LRAR -->
+<!-- Objet -->
+<!-- Date -->
+<!-- Destinataire -->
+<!-- Auteur -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS - Assureur RC - Courrier*
 <hr>

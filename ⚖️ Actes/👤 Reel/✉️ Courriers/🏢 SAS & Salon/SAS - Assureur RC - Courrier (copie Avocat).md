@@ -1,24 +1,34 @@
 ---
-emoji: "📜"
-title: "📜 Action Directe Assureur RC — Mise en demeure avocat (Art. L.124-3 C. assur.)"
-description: "Mise en demeure émise par le conseil de la Victime à l'encontre de l'assureur RC de l'Exploitant du Commerce — expertise consolidée — réserve pénale"
+emoji: 📜
+title: 📜 Action Directe Assureur RC — Mise en demeure avocat (Art. L.124-3 C. assur.)
+description: Mise en demeure émise par le conseil de la Victime à l'encontre de l'assureur
+  RC de l'Exploitant du Commerce — expertise consolidée — réserve pénale
 type: projet
 date: 2026-09-01
 tags:
-  - simulation
-  - action directe
-  - assurance
-  - mise en demeure
-  - avocat
-  - L.124-3
-  - expertise
-  - provision
+- simulation
+- action directe
+- assurance
+- mise en demeure
+- avocat
+- L.124-3
+- expertise
+- provision
 statut: projet
 destinataire: Assureur RC de l'Exploitant du Commerce
 auteur: Conseil de la Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Assureur RC - Courrier (copie Avocat).md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Assureur RC - Courrier
+  (copie Avocat).md
 jx: J+50-bis
 ---
+<!-- PJ -->
+<!-- Signature -->
+<!-- LRAR -->
+<!-- Objet -->
+<!-- Date -->
+<!-- Destinataire -->
+<!-- Auteur -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS - Assureur RC - Courrier (copie Avocat)*
 <hr>

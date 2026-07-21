@@ -1,7 +1,7 @@
 ---
-emoji: "📋"
-title: "Frise chronologique simplifiée — Dossier [La Victime]"
-description: "Mémento visuel pour l'OPJ — succession rapide des dates-clés et des sociétés"
+emoji: 📋
+title: Frise chronologique simplifiée — Dossier [La Victime]
+description: Mémento visuel pour l'OPJ — succession rapide des dates-clés et des sociétés
 type: document
 date: 2026-07-17
 statut: preparation
@@ -9,6 +9,15 @@ destinataire: Commissariat de Police de [La Ville de l'Accident]
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/Police - Note Frise Chronologique.md
 ---
+<!-- Source -->
+<!-- PJ -->
+<!-- Signature -->
+<!-- LRAR -->
+<!-- Objet -->
+<!-- Date -->
+<!-- Destinataire -->
+<!-- Auteur -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers](../README.md) › [👮 Police](./README.md) › 📋 Police - Note Frise Chronologique*
 <hr>

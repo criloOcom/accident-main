@@ -1,15 +1,16 @@
 ---
-emoji: "🔄"
-title: "Suivi Courrier Adjoint au Maire — Demande d'Information Inspection du Travail et CODAF"
-description: "L'Adresse de la Victime"
+emoji: 🔄
+title: Suivi Courrier Adjoint au Maire — Demande d'Information Inspection du Travail
+  et CODAF
+description: L'Adresse de la Victime
 type: courrier
 date: 2026-07-05
 tags:
-  - inspection du travail
-  - CODAF
-  - prefecture
-  - suivi
-calendar_event_id: "3cru4itc30uql1k7pr1k6327bs"
+- inspection du travail
+- CODAF
+- prefecture
+- suivi
+calendar_event_id: 3cru4itc30uql1k7pr1k6327bs
 statut: final
 destinataire: L'Adjoint au Maire de la Commune
 auteur: La Victime
@@ -18,6 +19,12 @@ source: drive
 drive_id: 1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw
 jx: J+37
 ---
+<!-- Source -->
+<!-- PJ -->
+<!-- LRAR -->
+<!-- Objet -->
+<!-- Auteur -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Mairie › ✉️ Mairie - Tavella - Courrier - Relance*
 <!-- Destinataire -->

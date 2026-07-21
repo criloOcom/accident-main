@@ -1,7 +1,8 @@
 ---
-emoji: "📋"
-title: "Bordereau de pièces — Dépôt Commissariat [La Ville de l'Accident]"
-description: "Liste des documents physiques à apporter au Commissariat de [La Ville de l'Accident] le lundi 20 juillet 2026"
+emoji: 📋
+title: Bordereau de pièces — Dépôt Commissariat [La Ville de l'Accident]
+description: Liste des documents physiques à apporter au Commissariat de [La Ville
+  de l'Accident] le lundi 20 juillet 2026
 type: document
 date: 2026-07-17
 statut: preparation
@@ -9,6 +10,15 @@ destinataire: Commissariat de Police de [La Ville de l'Accident]
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/Police - Bordereau Pièces.md
 ---
+<!-- Source -->
+<!-- PJ -->
+<!-- Signature -->
+<!-- LRAR -->
+<!-- Objet -->
+<!-- Date -->
+<!-- Destinataire -->
+<!-- Auteur -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers](../README.md) › [👮 Police](./README.md) › 📋 Police - Bordereau Pièces*
 <hr>

@@ -1,7 +1,9 @@
 ---
-emoji: "📋"
-title: "Note personnelle — Commissariat de Foix (complément de plainte)"
-description: "Note de contexte complète à imprimer et remettre à l'OPJ — Tous les faits, dates et pièces depuis le début"
+emoji: 📋
+title: Note personnelle — Commissariat de Foix (complément de
+  plainte)
+description: Note de contexte complète à imprimer et remettre à l'OPJ — Tous les faits,
+  dates et pièces depuis le début
 type: document
 date: 2026-07-17
 statut: preparation
@@ -9,6 +11,15 @@ destinataire: Commissariat de Police de Foix
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/Police - Note Personnelle.md
 ---
+<!-- Source -->
+<!-- PJ -->
+<!-- Signature -->
+<!-- LRAR -->
+<!-- Objet -->
+<!-- Date -->
+<!-- Destinataire -->
+<!-- Auteur -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers](../README.md) › [👮 Police](./README.md) › 📋 Police - Note Personnelle*
 <hr>

@@ -1,18 +1,14 @@
 ---
-emoji: "🚨"
+emoji: 🚨
 title: Information de Litige au Service des Impots des Entreprises
 description: L'Adresse de la Victime
 type: courrier
 date: 2026-07-05
 tags:
 - SIE
-
 - impot
-
 - information
-
 - litige
-
 - LRAR
 statut: projet
 destinataire: Service des Impôts des Entreprises de Foix
@@ -22,6 +18,10 @@ source: drive
 drive_id: 1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA
 jx: J+37
 ---
+<!-- Source -->
+<!-- LRAR -->
+<!-- Objet -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ SIE - Signalement*
 <hr>

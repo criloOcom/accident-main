@@ -1,22 +1,26 @@
 ---
-emoji: "📜"
-title: "✉️📜 CHIVA — Demande de Dossier Médical (LRAR)"
-description: "Demande de communication de l'intégralité du dossier médical de la victime suite à son admission aux urgences du CHIVA le 29 mai 2026."
+emoji: 📜
+title: ✉️📜 CHIVA — Demande de Dossier Médical (LRAR)
+description: Demande de communication de l'intégralité du dossier médical de la victime
+  suite à son admission aux urgences du CHIVA le 29 mai 2026.
 type: courrier
 date: 2026-07-18
 tags:
-  - medical
-  - dossier medical
-  - chiva
-  - urgences
-  - LRAR
+- medical
+- dossier medical
+- chiva
+- urgences
+- LRAR
 statut: envoye
-lrar_number: "87500152888336B"
+lrar_number: 87500152888336B
 destinataire: GHT des Pyrénées Ariégeoises CHIVA
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/⚕️ Médical/CHIVA - Dossier Médical - Demande.md
 jx: J+50
 ---
+<!-- Source -->
+<!-- PJ -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › ⚕️ Médical › ✉️ CHIVA - Dossier Médical - Demande*
 <hr>

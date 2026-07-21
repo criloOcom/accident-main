@@ -1,7 +1,9 @@
 ---
-emoji: "📋"
-title: "Projet de déclaration pour PV — Commissariat de La Ville de l'Accident (version courte)"
-description: "Version courte et conversationnelle à remettre à l'OPJ pour faciliter la rédaction du nouveau PV"
+emoji: 📋
+title: Projet de déclaration pour PV — Commissariat de La Ville de l'Accident (version
+  courte)
+description: Version courte et conversationnelle à remettre à l'OPJ pour faciliter
+  la rédaction du nouveau PV
 type: document
 date: 2026-07-17
 statut: preparation
@@ -9,6 +11,15 @@ destinataire: Commissariat de Police de La Ville de l'Accident
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/Police - Note Projet Déclaration.md
 ---
+<!-- Source -->
+<!-- PJ -->
+<!-- Signature -->
+<!-- LRAR -->
+<!-- Objet -->
+<!-- Date -->
+<!-- Destinataire -->
+<!-- Auteur -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers](../README.md) › [👮 Police](./README.md) › 📋 Police - Note Projet Déclaration*
 <hr>

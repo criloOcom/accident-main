@@ -1,14 +1,25 @@
 ---
-emoji: "📜"
-title: "Erratum — Correction de l'identité de la société exploitante"
-description: "Document d'erratum formel — Correction de la désignation de la société défenderesse : remplacement de SAS LES MAUVAIS GARÇONS par SAS HB BARBER dans l'ensemble des actes et démarches"
+emoji: 📜
+title: Erratum — Correction de l'identité de la société exploitante
+description: 'Document d''erratum formel — Correction de la désignation de la société
+  défenderesse : remplacement de [L''Ancien Exploitant du Commerce] par [L''Exploitant
+  du Commerce (La SAS)] dans l''ensemble des actes et démarches'
 type: document
 date: 2026-07-17
 statut: final
-destinataire: "Destinataires des actes et autorités judiciaires"
+destinataire: Destinataires des actes et autorités judiciaires
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/Police - Note Erratum Identité.md
 ---
+<!-- Source -->
+<!-- PJ -->
+<!-- Signature -->
+<!-- LRAR -->
+<!-- Objet -->
+<!-- Date -->
+<!-- Destinataire -->
+<!-- Auteur -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers](../README.md) › [👮 Police](./README.md) › 📜 Police - Note Erratum Identité*
 <hr>

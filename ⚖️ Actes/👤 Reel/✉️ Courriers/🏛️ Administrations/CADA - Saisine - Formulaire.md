@@ -1,20 +1,30 @@
 ---
-emoji: "📝"
-title: "Saisine CADA — Version courte pour formulaire en ligne"
-description: "Blocs de texte prêts à copier-coller dans le formulaire de saisine en ligne de la CADA"
+emoji: 📝
+title: Saisine CADA — Version courte pour formulaire en ligne
+description: Blocs de texte prêts à copier-coller dans le formulaire de saisine en
+  ligne de la CADA
 type: courrier
 date: 2026-07-15
 tags:
-  - CADA
-  - formulaire
-  - CRPA
-  - version_courte
+- CADA
+- formulaire
+- CRPA
+- version_courte
 statut: brouillon
 destinataire: CADA (formulaire en ligne)
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/CADA - Saisine - Formulaire.md
 jx: J+47
 ---
+<!-- Source -->
+<!-- PJ -->
+<!-- Signature -->
+<!-- LRAR -->
+<!-- Objet -->
+<!-- Date -->
+<!-- Destinataire -->
+<!-- Auteur -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ CADA - Saisine - Formulaire*
 <hr>

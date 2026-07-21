@@ -1,17 +1,17 @@
 ---
-emoji: "⚖️"
-title: "Saisine Conservatoire du Fonds de Garantie des Victimes"
-description: "L'Adresse de la Victime"
+emoji: ⚖️
+title: Saisine Conservatoire du Fonds de Garantie des Victimes
+description: L'Adresse de la Victime
 type: courrier
 date: 2026-07-06
 tags:
-  - FGTI
-  - garantie
-  - saisine
-  - conservatoire
-  - CPC
-  - LRAR
-  - email
+- FGTI
+- garantie
+- saisine
+- conservatoire
+- CPC
+- LRAR
+- email
 statut: archive
 destinataire: FGTI
 auteur: La Victime
@@ -20,6 +20,8 @@ source: drive
 drive_id: 13jocmpqETy64lldco9LGCKLJZp_ml_9u53NB7OySmrs
 jx: J+38
 ---
+<!-- LRAR -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Justice › ✉️ FGTI - Saisine*
 <hr>

@@ -1,25 +1,30 @@
 ---
-emoji: "📜"
-title: "✉️📜 Bailleur — Relance 3 LRAR (Correction AT + Demande Assurances)"
-description: "3ème LRAR au bailleur Romain DELRIEU — Correction qualification 'accident du travail' + rappel 3 questions + action directe + bienveillance"
+emoji: 📜
+title: ✉️📜 Bailleur — Relance 3 LRAR (Correction AT + Demande Assurances)
+description: 3ème LRAR au bailleur Romain DELRIEU — Correction qualification 'accident
+  du travail' + rappel 3 questions + action directe + bienveillance
 type: courrier
 date: 2026-07-19
 tags:
-  - mise en demeure
-  - bailleur
-  - LRAR
-  - accident corporel
-  - action directe
-  - SAS HB BARBER
+- mise en demeure
+- bailleur
+- LRAR
+- accident corporel
+- action directe
+- SAS HB BARBER
 statut: envoye
-lrar_number: "87500152910287Q"
+lrar_number: 87500152910287Q
 destinataire: Le Propriétaire des Murs
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏠 Propriétaire/Propriétaire - Courrier - Relance 3.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏠 Propriétaire/Propriétaire - Courrier - Relance
+  3.md
 source: local
 jx: J+51
-signataire: "[La Victime] (envoi sans signature manuscrite)"
+signataire: '[La Victime] (envoi sans signature manuscrite)'
 ---
+<!-- PJ -->
+<!-- LRAR -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏠 Propriétaire › ✉️ Propriétaire - Courrier - Relance 3*
 <hr>

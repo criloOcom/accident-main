@@ -1,18 +1,15 @@
 ---
-emoji: "🚨"
+emoji: 🚨
 title: Demande d'Information a l'Inspection du Travail
 description: L'Adresse de la Victime
 type: courrier
 date: 2026-07-05
 tags:
 - inspection du travail
-
 - enquete
-
 - securite
-
 - DUERP
-calendar_event_id: "ncdv7eqhn6njck42v7sdcuelak"
+calendar_event_id: ncdv7eqhn6njck42v7sdcuelak
 statut: final
 destinataire: DDETS de la Region
 auteur: La Victime
@@ -21,6 +18,9 @@ source: drive
 drive_id: 1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM
 jx: J+37
 ---
+<!-- Signature -->
+<!-- LRAR -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ DDETS - Signalement*
 <hr>

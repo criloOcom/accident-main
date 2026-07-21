@@ -1,15 +1,15 @@
 ---
-emoji: "🔄"
-title: "Relance CPAM — Suivi du Dossier de Recours Contre Tiers"
-description: "L'Adresse de la Victime"
+emoji: 🔄
+title: Relance CPAM — Suivi du Dossier de Recours Contre Tiers
+description: L'Adresse de la Victime
 type: courrier
 date: 2026-07-05
 tags:
-  - CPAM
-  - recours contre tiers
-  - suivi
-  - email
-calendar_event_id: "cp2dfopdtjnq1j3ggops9ihcog"
+- CPAM
+- recours contre tiers
+- suivi
+- email
+calendar_event_id: cp2dfopdtjnq1j3ggops9ihcog
 statut: projet
 destinataire: CPAM Haute-Garonne
 auteur: La Victime
@@ -18,6 +18,9 @@ source: drive
 drive_id: 1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k
 jx: J+37
 ---
+<!-- LRAR -->
+<!-- Objet -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏥 CPAM › ✉️ CPAM - Relance*
 <hr>

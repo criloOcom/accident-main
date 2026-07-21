@@ -1,15 +1,24 @@
 ---
 title: MÉMO D'AUDIENCE — Référé-Provision du 31/07/2026
-description: "Note d'audience complète : plaidoirie + logistique jour J + pièces à apporter au TJ de Foix"
+description: 'Note d''audience complète : plaidoirie + logistique jour J + pièces
+  à apporter au TJ de Foix'
 type: preuve
 date: 2026-07-18
 statut: final
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/TJ Foix - Mémo - Audience 31-07-2026.md
 jx: J+63
-
 destinataire: Avocat de la Victime
 ---
+<!-- Source -->
+<!-- PJ -->
+<!-- Signature -->
+<!-- LRAR -->
+<!-- Objet -->
+<!-- Date -->
+<!-- Destinataire -->
+<!-- Auteur -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers](../README.md) › [🏛️ Justice](./README.md) › MEMO AUDIENCE 31072026*
 <hr>

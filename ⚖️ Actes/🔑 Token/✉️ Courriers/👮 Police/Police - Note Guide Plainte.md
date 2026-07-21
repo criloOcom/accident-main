@@ -1,20 +1,28 @@
 ---
-emoji: "✉️"
-title: "Guide de Dialogue — Échanges avec la Police de Foix"
-description: "Objectif : Ce guide vous accompagne pas à pas lors de votre déplacement au commissariat de Foix."
+emoji: ✉️
+title: Guide de Dialogue — Échanges avec la Police de Foix
+description: 'Objectif : Ce guide vous accompagne pas à pas lors de votre déplacement
+  au commissariat de Foix.'
 type: courrier
 date: 2026-07-11
-destinataire: "La Victime"
+destinataire: La Victime
 tags:
-  - guide
-  - dialogue
-  - police
-  - personnel
+- guide
+- dialogue
+- police
+- personnel
 statut: archive
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/Police - Note Guide Plainte.md
 jx: J+47
 ---
+<!-- PJ -->
+<!-- Signature -->
+<!-- LRAR -->
+<!-- Objet -->
+<!-- Date -->
+<!-- Auteur -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👮 Police › ✉️ Police - Note Guide Plainte*
 <!-- Destinataire -->

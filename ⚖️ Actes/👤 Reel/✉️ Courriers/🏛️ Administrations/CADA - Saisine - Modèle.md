@@ -1,22 +1,27 @@
 ---
-emoji: "📝"
-title: "Modèle Saisine CADA — Refus communication documents administratifs"
-description: "Saisine de la Commission d'accès aux documents administratifs en cas de refus (exprès ou implicite) de la Préfecture ou de l'Inspection du travail de communiquer les rapports/enquêtes"
+emoji: 📝
+title: Modèle Saisine CADA — Refus communication documents administratifs
+description: Saisine de la Commission d'accès aux documents administratifs en cas
+  de refus (exprès ou implicite) de la Préfecture ou de l'Inspection du travail de
+  communiquer les rapports/enquêtes
 type: courrier
 date: 2026-07-15
 tags:
-  - CADA
-  - CRPA
-  - refus
-  - documents administratifs
-  - préfecture
-  - inspection du travail
+- CADA
+- CRPA
+- refus
+- documents administratifs
+- préfecture
+- inspection du travail
 statut: brouillon
 destinataire: Commission d'accès aux documents administratifs (CADA)
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/CADA - Saisine - Modèle.md
 jx: J+47
 ---
+<!-- Source -->
+<!-- LRAR -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ CADA - Saisine - Modèle*
 <hr>

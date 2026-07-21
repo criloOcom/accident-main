@@ -1,22 +1,26 @@
 ---
-emoji: "🔄"
-title: "Relance Préfecture / CODAF — Suite signalement Maire de Foix"
-description: "Suivi du signalement transmis par Monsieur TAVELLA (Adjoint au Maire) le 1er juin 2026 — demande d'état d'avancement"
+emoji: 🔄
+title: Relance Préfecture / CODAF — Suite signalement Maire de Foix
+description: Suivi du signalement transmis par Monsieur TAVELLA
+  (Adjoint au Maire) le 1er juin 2026 — demande d'état d'avancement
 type: courrier
 date: 2026-07-15
 tags:
-  - prefecture
-  - CODAF
-  - signalement
-  - maire
-  - suivi
-  - CRPA
+- prefecture
+- CODAF
+- signalement
+- maire
+- suivi
+- CRPA
 statut: final
 destinataire: Préfecture de l'Ariège — Référent CODAF
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/CODAF - Signalement - Relance.md
 jx: J+47
 ---
+<!-- Source -->
+<!-- LRAR -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ CODAF - Signalement - Relance*
 <hr>

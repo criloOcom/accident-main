@@ -1,18 +1,15 @@
 ---
-emoji: "🚨"
+emoji: 🚨
 title: Signalement Officiel au CODAF
 description: L'Adresse de la Victime
 type: courrier
 date: 2026-07-05
 tags:
 - CODAF
-
 - signalement
-
 - fraude
-
 - LRAR
-calendar_event_id: "ncdv7eqhn6njck42v7sdcuelak"
+calendar_event_id: ncdv7eqhn6njck42v7sdcuelak
 statut: final
 destinataire: CODAF de l'Ariege
 auteur: La Victime
@@ -21,6 +18,8 @@ source: drive
 drive_id: 1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY
 jx: J+37
 ---
+<!-- LRAR -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ CODAF - Signalement*
 <hr>

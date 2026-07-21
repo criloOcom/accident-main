@@ -1,21 +1,28 @@
 ---
-emoji: "📝"
-title: "Guide — Demande d'Aide Juridictionnelle Totale"
-description: "Guide pas à pas pour déposer une demande d'AJ totale au TJ de Foix"
+emoji: 📝
+title: Guide — Demande d'Aide Juridictionnelle Totale
+description: Guide pas à pas pour déposer une demande d'AJ totale au TJ de Foix
 type: courrier
 date: 2026-07-12
 tags:
-  - AJ
-  - aide juridictionnelle
-  - guide
-  - procedure
+- AJ
+- aide juridictionnelle
+- guide
+- procedure
 statut: final
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/📋 Interne/BAJ - Demande AJ - Guide.md
 jx: J+47
 destinataire: Bureau d'Aide Juridictionnelle (BAJ)
-
 ---
+<!-- Source -->
+<!-- PJ -->
+<!-- Signature -->
+<!-- LRAR -->
+<!-- Objet -->
+<!-- Date -->
+<!-- Auteur -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 📋 Interne › ✉️ BAJ - Demande AJ - Guide*
 <!-- Destinataire -->

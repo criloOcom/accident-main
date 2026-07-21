@@ -1,16 +1,22 @@
 ---
-emoji: "📜"
+emoji: 📜
 title: 📜 Lettre LRAR — Président SAS HB BARBER — Demande assurance RC
-description: Mise en demeure de communiquer les informations d'assurance RC pro, adressée personnellement au Président.
+description: Mise en demeure de communiquer les informations d'assurance RC pro, adressée
+  personnellement au Président.
 type: courrier
 date: 2026-07-18
-calendar_event_id: "euj8kofakfdc2cib6btnqq2ae4"
+calendar_event_id: euj8kofakfdc2cib6btnqq2ae4
 statut: envoye
-lrar_number: "875001528942001"
+lrar_number: '875001528942001'
 destinataire: Le Président de l'Exploitation
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS HB BARBER - Président - Courrier.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS HB BARBER - Président -
+  Courrier.md
 ---
+<!-- PJ -->
+<!-- LRAR -->
+<!-- Objet -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS HB BARBER - Président - Courrier*
 <hr>

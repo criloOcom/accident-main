@@ -1,21 +1,30 @@
 ---
-emoji: "📑"
-title: "Bordereau de pièces (unifié)"
-description: "Bordereau de pièces unifié — Procédure : Référé (Art. 835 CPC, Art. 145 CPC)"
+emoji: 📑
+title: Bordereau de pièces (unifié)
+description: 'Bordereau de pièces unifié — Procédure : Référé (Art. 835 CPC, Art.
+  145 CPC)'
 type: readme
 date: 2026-07-07
 tags:
-  - bordereau
-  - pieces
-  - référé
+- bordereau
+- pieces
+- référé
 statut: final
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau
+  Unifié.md
 source: drive
 jx: J+39
-
 ---
+<!-- PJ -->
+<!-- Signature -->
+<!-- LRAR -->
+<!-- Objet -->
+<!-- Date -->
+<!-- Destinataire -->
+<!-- Auteur -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [📜 Contentieux civil](./README.md) › 📑 TJ Foix - Bordereau Unifié*
 <hr>

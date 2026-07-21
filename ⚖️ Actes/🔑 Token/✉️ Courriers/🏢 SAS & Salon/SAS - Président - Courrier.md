@@ -1,18 +1,14 @@
 ---
-emoji: "📜"
+emoji: 📜
 title: 📜 Mise en Demeure aux Dirigeants — Demande d'Information Assurance RC
 description: '[L''Adresse de la Victime]** <br>'
 type: courrier
 date: 2026-06-29
 tags:
 - mise en demeure
-
 - dirigeants
-
 - assurance
-
 - faute détachable
-
 - LRAR
 statut: envoye
 destinataire: Dirigeants de l'Exploitant du Commerce
@@ -20,9 +16,13 @@ auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Président - Courrier.md
 source: drive
 drive_id: 1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I
-calendar_event_id: "dd8qkuvg1t3jquofh93ccnl0lg"
+calendar_event_id: dd8qkuvg1t3jquofh93ccnl0lg
 jx: J+31
 ---
+<!-- Signature -->
+<!-- LRAR -->
+<!-- Objet -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS - Président - Courrier*
 <hr>

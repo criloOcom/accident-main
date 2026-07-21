@@ -1,21 +1,30 @@
 ---
-emoji: "🔄"
-title: "Relance Dr Iskander DJERBI - Certificat de Consolidation"
-description: "Objet : Demande de certificat médical de consolidation — Suite courrier du 5 juillet 2026"
+emoji: 🔄
+title: Relance Dr Iskander DJERBI - Certificat de Consolidation
+description: 'Objet : Demande de certificat médical de consolidation — Suite courrier
+  du 5 juillet 2026'
 type: courrier
 date: 2026-07-06
 tags:
-  - relance
-  - consolidation
-  - certificat medical
-calendar_event_id: "mub8b2p6evslc099cbq9lobcas"
+- relance
+- consolidation
+- certificat medical
+calendar_event_id: mub8b2p6evslc099cbq9lobcas
 statut: brouillon
 destinataire: Le Chirurgien SOS Main
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/⚕️ Médical/Médecin Traitant - Consolidation - Relance.md
+reel_path: ../../../👤 Reel/✉️ Courriers/⚕️ Médical/Médecin Traitant - Consolidation
+  - Relance.md
 source: local
 jx: J+38
 ---
+<!-- Source -->
+<!-- PJ -->
+<!-- LRAR -->
+<!-- Objet -->
+<!-- Date -->
+<!-- Destinataire -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › ⚕️ Médical › ✉️ Médecin Traitant - Consolidation - Relance*
 <hr>

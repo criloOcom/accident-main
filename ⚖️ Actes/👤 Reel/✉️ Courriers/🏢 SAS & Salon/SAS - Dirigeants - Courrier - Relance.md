@@ -1,24 +1,29 @@
 ---
-emoji: "🔄"
-title: "Relance — Demande d'information Assurance RC et d'adresse de correspondance"
-description: "L'Adresse de la Victime"
+emoji: 🔄
+title: Relance — Demande d'information Assurance RC et d'adresse de correspondance
+description: L'Adresse de la Victime
 type: courrier
 date: 2026-07-08
 tags:
-  - relance
-  - dirigeants
-  - assurance
-  - LRAR
-  - fermeture boutique
-  - preuves
-calendar_event_id: "hj1d12jfdubeuoavj7sq548i2o"
+- relance
+- dirigeants
+- assurance
+- LRAR
+- fermeture boutique
+- preuves
+calendar_event_id: hj1d12jfdubeuoavj7sq548i2o
 statut: envoye
 destinataire: Dirigeants de l'Exploitant du Commerce
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Dirigeants - Courrier - Relance.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Dirigeants - Courrier
+  - Relance.md
 source: local
 jx: J+40
 ---
+<!-- Signature -->
+<!-- LRAR -->
+<!-- Objet -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS - Dirigeants - Courrier - Relance*
 <hr>

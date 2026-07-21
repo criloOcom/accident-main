@@ -1,14 +1,12 @@
 ---
-emoji: "📜"
+emoji: 📜
 title: 📜 Mise en demeure de la Mairie — Police Administrative
 description: La Victime
 type: courrier
 date: 2026-07-09
 tags:
 - mairie
-
 - police administrative
-
 - COMSUR
 statut: final
 destinataire: Le Maire
@@ -17,6 +15,8 @@ reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Mairie/Mairie - Maire de 
 jx: J+41
 calendar_event_id: gqu5r7mbuh6570913b2nisi7t8
 ---
+<!-- LRAR -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Mairie › ✉️ Mairie - Maire de Foix - Courrier*
 <hr>

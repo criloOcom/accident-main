@@ -1,15 +1,22 @@
 ---
-emoji: "✉️"
+emoji: ✉️
 title: 📋 ANTISÈCHE ORALE — Plainte Complémentaire (aide personnelle)
 date: 2026-07-20
 description: DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER. Aide-mémoire pour l'audition
   orale au Commissariat.
 type: courrier
-destinataire: "La Victime"
+destinataire: La Victime
 statut: archive
 reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/Police - Note Guide Plainte Orale.md
 auteur: La Victime
 ---
+<!-- PJ -->
+<!-- Signature -->
+<!-- LRAR -->
+<!-- Objet -->
+<!-- Date -->
+<!-- Auteur -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👮 Police › ✉️ Police - Note Guide Plainte Orale*
 <!-- Destinataire -->

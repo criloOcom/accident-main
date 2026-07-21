@@ -1,18 +1,14 @@
 ---
-emoji: "🚨"
+emoji: 🚨
 title: Signalement de Litige au Registre National des Entreprises
 description: L'Adresse de la Victime
 type: courrier
 date: 2026-07-05
 tags:
 - INPI
-
 - RNE
-
 - signalement
-
 - litige
-
 - LRAR
 statut: projet
 destinataire: INPI
@@ -22,6 +18,9 @@ source: drive
 drive_id: 1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E
 jx: J+37
 ---
+<!-- LRAR -->
+<!-- Objet -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ INPI - Signalement*
 <hr>

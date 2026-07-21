@@ -1,21 +1,25 @@
 ---
-emoji: "🔄"
-title: "Relance Inspection du Travail — Suite signalement Maire de Foix"
-description: "Demande d'information sur l'enquête suite à l'accident du 29 mai 2026 — fondement CRPA"
+emoji: 🔄
+title: Relance Inspection du Travail — Suite signalement Maire de Foix
+description: Demande d'information sur l'enquête suite à l'accident du 29 mai 2026
+  — fondement CRPA
 type: courrier
 date: 2026-07-15
 tags:
-  - inspection du travail
-  - DDETS
-  - enquete
-  - signalement
-  - CRPA
+- inspection du travail
+- DDETS
+- enquete
+- signalement
+- CRPA
 statut: final
 destinataire: DDETS de l'Ariège — Inspection du Travail
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/DDETS - Signalement - Relance.md
 jx: J+47
 ---
+<!-- Source -->
+<!-- LRAR -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ DDETS - Signalement - Relance*
 <hr>

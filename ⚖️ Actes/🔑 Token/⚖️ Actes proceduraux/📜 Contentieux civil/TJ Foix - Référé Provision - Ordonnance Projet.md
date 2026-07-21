@@ -1,5 +1,5 @@
 ---
-emoji: "⚖️"
+emoji: ⚖️
 title: Simulation d'Ordonnance de Référé — TJ Foix
 description: Simulation réaliste du jugement que rendrait le Juge des Référés du Tribunal
   Judiciaire de Foix sur une demande de provision Article 835 al. 2 CPC + expertise
@@ -10,20 +10,26 @@ juridiction: TJ Foix
 date: 2026-07-31
 tags:
 - simulation
-
 - référé
-
 - provision
-
 - article 835
-
 - article 145
 statut: projet
 auteur: Simulation — Juge des Référés
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé
+  Provision - Ordonnance Projet.md
 jx: J+63
 destinataire: Président du Tribunal Judiciaire de Foix
 ---
+<!-- Source -->
+<!-- PJ -->
+<!-- Signature -->
+<!-- LRAR -->
+<!-- Objet -->
+<!-- Date -->
+<!-- Destinataire -->
+<!-- Auteur -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [📜 Contentieux civil](./README.md) › ⚖️ Projet Ordonnance Refere*
 <hr>

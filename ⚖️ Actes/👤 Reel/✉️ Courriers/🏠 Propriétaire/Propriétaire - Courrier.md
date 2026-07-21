@@ -1,16 +1,13 @@
 ---
-emoji: "📜"
+emoji: 📜
 title: Demande de Communication d'Assurance RC au Propriétaire des Murs
 description: '10 Avenue de Purpan, 31700 Blagnac <br>'
 type: courrier
 date: 2026-06-29
 tags:
 - mise en demeure
-
 - bailleur
-
 - assurance
-
 - LRAR
 statut: envoye
 destinataire: Le Propriétaire des Murs
@@ -18,9 +15,13 @@ auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏠 Propriétaire/Propriétaire - Courrier.md
 source: drive
 drive_id: 1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4
-calendar_event_id: "qrvadub2s8gekuhgpn0knq8130"
+calendar_event_id: qrvadub2s8gekuhgpn0knq8130
 jx: J+31
 ---
+<!-- Signature -->
+<!-- LRAR -->
+<!-- Objet -->
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏠 Propriétaire › ✉️ Propriétaire - Courrier*
 <hr>
