@@ -22,8 +22,6 @@ auteur: La Victime
 reel_path: ../../../Reel/Courriers/Médical/CHIVA - Dossier Médical - Demande.md
 jx: J+50
 ---
-<!-- Source -->
-<!-- PJ -->
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [Courriers (Versions Token)](../README.md) › Médical › ✉️ CHIVA - Dossier Médical - Demande*
