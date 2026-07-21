@@ -30,6 +30,7 @@ Ce dépôt centralise l'intégralité du dossier : pièces médicales, procès-v
 Le dépôt est organisé en dossiers cliquables :
 
 - **[Actes](./Actes/)** — l'ensemble des pièces et actes du dossier, répartis en trois sous-ensemble :
+
   - [Preuves officielles](./Actes/Preuves%20officielles/) : pièces brutes (CR opératoire, PV police, pièces d'identité, constats)
   - [Token](./Actes/Token/) : versions de travail anonymisées (courriers, procédure, analyses juridiques, études indemnisation)
   - [Reel](./Actes/Reel/) : versions réelles générées (identités non anonymisées)
@@ -37,6 +38,7 @@ Le dépôt est organisé en dossiers cliquables :
 - **[Lois](./Lois/)** — textes de loi, codes, jurisprudence cités dans les actes
 
 - **[Memory](./Memory/)** — mémoire persistante partagée entre tous les agents, comprenant :
+
   - [VACCIN.md](./Memory/VACCIN.md) (à lire absolument avant toute action)
   - [STATUS.md](./Memory/STATUS.md) (état d'avancement détaillé)
   - [TODO.md](./Memory/TODO.md) (tâches restantes et priorités)
