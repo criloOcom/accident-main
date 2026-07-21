@@ -197,6 +197,7 @@ Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../%F0%9F%93%8A%20Rapports/RAPPORT_A
 - ⚠ ITT_INITIALE_ERREUR : **[Le Médecin Généraliste]** a noté 1 jour le 01/06 (erreur matérielle ; l'arrêt de travail total est de 55 jours)
 
 - PV_POLICE : 2026/015967 (⚠ info non confirmée par retour officiel — source : courriel Mairie de **[La Ville de l'Accident]** du 01/06/2026 + dossier de plainte déposé par **[La Victime]**)
+
 - ⚠ DEPOT_PLAINTE_LIEU : **Service Local de Sécurité Publique de Toulouse Rive Droite** (23 Boulevard de l'Embouchure, 31300 Toulouse) — dépôt initial le 2 juin 2026 à 01h08. **PAS au Commissariat de Foix.** Le dossier a ensuite été transmis pour compétence territoriale au Commissariat de Foix. Toute mention associant « commissariat de Foix » au dépôt INITIAL de plainte du 2 juin 2026 est une erreur factuelle. (⚠ info non confirmée par retour officiel — source : courriel Mairie de **[La Ville de l'Accident]** du 01/06/2026 + dossier de plainte déposé par **[La Victime]**)
 
 - DOSSIER_CPAM : **31727387** (⚠ jamais 31713398 — obsolète)

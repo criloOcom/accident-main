@@ -109,7 +109,7 @@ DOC_MENTIONS = [
     # ── Constitution de partie civile ────────────────────────────────────
     # NOTE: double strate — le script choisit token/reel selon le contexte
     (re.compile(r'Constitution de partie civile', re.IGNORECASE),
-     "⚖️ Actes/STRATE/⚖️ Actes proceduraux/J+38 🛡️ Constitution Partie Civile.md",
+     "⚖️ Actes/STRATE/⚖️ Actes proceduraux/J+38 Archive - Constitution - Partie Civile.md",
      "Constitution de partie civile"),
 
     # ── Mise en demeure SAS ──────────────────────────────────────────────

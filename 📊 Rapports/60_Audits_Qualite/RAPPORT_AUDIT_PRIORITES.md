@@ -191,7 +191,7 @@ VAGUE 2 — 13 juillet
   12       13   Préfecture     Confirmation signalement (après CODAF, sur la même base)
   13       29   Maire Foix     Demande police admin. + COMSUR
   14       33   Huissier 145   Requête constat (à faire signifier si ordonnance obtenue)
-  15       21   CPAM Relance   Suivi dossier RCT
+  15       21   Relance - CPAM   Suivi dossier RCT
 
 VAGUE 3 — 14 juillet
 ──────────────────────────────────────────────

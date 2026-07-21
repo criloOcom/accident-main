@@ -15,9 +15,9 @@ Ce rapport consigne les résultats de l'audit de cohérence des mémoires et con
 
 <hr><hr>
 
-## I — 📜 Conclusions au Fond TJ Foix
+## I — 📜 Conclusions au Fond - TJ Foix
 
-**Fichier audité :** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md`
+**Fichier audité :** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond - TJ Foix.md`
 
 - [x] **Tous les postes de préjudice sont traités :** Conforme. Les postes patrimoniaux et extra-patrimoniaux listés dans `STRICT VARIABLES.md` (§1. Rapport d'expertise 2027-05-29) sont tous présents.
 
@@ -35,7 +35,7 @@ Ce rapport consigne les résultats de l'audit de cohérence des mémoires et con
 
 ## II — 🎯 Conclusions Refere Provision
 
-**Fichier audité :** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Conclusion.md`
+**Fichier audité :** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Conclusions Provision.md`
 
 - [x] **Tous les postes de préjudice sont traités :** Conforme. Demande provisionnelle (PGPA, frais médicaux, SE, IP, article 700).
 
@@ -51,9 +51,9 @@ Ce rapport consigne les résultats de l'audit de cohérence des mémoires et con
 
 <hr><hr>
 
-## III — 99 🛡️ Memoire en defense adverse
+## III — Mémoire - En défense adverse
 
-**Fichier audité :** `⚖️ Actes/🔑 Token/📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md`
+**Fichier audité :** `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Mémoire - En défense adverse.md`
 
 - [ ] **Tous les postes de préjudice sont traités :** Non applicable au sens strict (mémoire en défense).
 
@@ -83,10 +83,10 @@ Ce rapport consigne les résultats de l'audit de cohérence des mémoires et con
 
 ## VI — PLAN D'ACTION (TODO)
 
-- [ ] Corriger les montants de l'IP et du DFP dans le fichier `99 🛡️ Memoire en defense adverse.md` pour qu'ils reflètent les véritables réclamations de la victime.
+- [ ] Corriger les montants de l'IP et du DFP dans le fichier `Mémoire - En défense adverse.md` pour qu'ils reflètent les véritables réclamations de la victime.
 
-- [ ] Remplacer la citation et l'URL de l'article 1241 du Code civil dans `99 🛡️ Memoire en defense adverse.md` par les bons identifiants ou l'attribuer à l'article 1240.
+- [ ] Remplacer la citation et l'URL de l'article 1241 du Code civil dans `Mémoire - En défense adverse.md` par les bons identifiants ou l'attribuer à l'article 1240.
 
-- [ ] Ajouter une section Dispositif formelle dans le mémoire en défense `99 🛡️ Memoire en defense adverse.md`.
+- [ ] Ajouter une section Dispositif formelle dans le mémoire en défense `Mémoire - En défense adverse.md`.
 
 - [ ] Si nécessaire, créer les notes en délibéré manquantes si elles doivent figurer au dossier.

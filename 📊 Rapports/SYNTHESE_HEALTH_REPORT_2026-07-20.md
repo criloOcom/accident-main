@@ -32,7 +32,7 @@ L'exécution du script d'audit `.dev/app/health_report.py` a relevé un total de
 - **Détails** : Le check remonte **11** écarts factuels vs `STRICT VARIABLES.md`.
 
   - Des erreurs de dates d'accident : '29 juin 2026' écrit au lieu de la vraie date '29 mai 2026' dans plusieurs documents (ex: Note Synthèse Avocat, Erratums, Plaintes).
-  - Le numéro de LRAR réel `87001424863012T` apparaît en clair dans un fichier anonymisé `Token/✉️ Courriers/👮 Police/✉️ Police Plainte 🛟Guide 📋Orale.md` au lieu du token approprié.
+  - Le numéro de LRAR réel `87001424863012T` apparaît en clair dans un fichier anonymisé `Token/✉️ Courriers/👮 Police/Guide Orale.md` au lieu du token approprié.
 
 ## 5. Attributs manquants (calendar_event_id)
 - **Statut** : ⚠️ Avertissement

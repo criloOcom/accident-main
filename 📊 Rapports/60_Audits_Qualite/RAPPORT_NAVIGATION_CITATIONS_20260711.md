@@ -29,7 +29,7 @@ Garantir que **toute citation d'un dossier ou d'un fichier interne au dépôt** 
 
 - **2 hubs de gouvernance corrigés** (lus par tous les agents) :
 
-  - `🧠 Memory/WORKFLOW.md` : citations `⚖️ Actes/archives/STRATEGIE_...` (dossier renommé) → `⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Civil.md` (+ Pénal), liées.
+  - `🧠 Memory/WORKFLOW.md` : citations `⚖️ Actes/archives/STRATEGIE_...` (dossier renommé) → `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md` (+ Pénal), liées.
   - `🧠 Memory/RULES.md` : même correction.
 - Aucune régression : `check_consistency.py` (« Rien à signaler »), `audit_readme_integrity.py` (0 erreur), audit YAML (0 invalide).
 

@@ -149,26 +149,26 @@ tags:
 
 | Fichier | Raison |
 |---------|--------|
-| `✉️ CPAM 🔄Relance.md` | `[Adresse à compléter]` |
-| `✉️ Police Videos 🔄Relance.md` | `[Adresse à compléter]` |
+| `✉️ Relance - CPAM.md` | `[Adresse à compléter]` |
+| `✉️ Relance - Vidéos Police.md` | `[Adresse à compléter]` |
 | `✉️🔄 Consolidation.md` | `[Adresse à compléter]` |
-| `✉️ Inspection Travail 🔄Relance.md` | `[Date d'envoi — À compléter]` |
-| `✉️ Préfecture CODAF 🔄Relance.md` | `[Date d'envoi — À compléter]` |
-| `✉️ INPI 🚨Signalement.md` | `[Adresse à compléter]` |
-| `✉️ Prefecture 🚨Signalement.md` | `[Adresse à compléter]` |
-| `✉️ SDIS 🚨Signalement.md` | `[Adresse à compléter]` |
-| `✉️ SIE 🚨Signalement.md` | `[Adresse à compléter]` |
-| `✉️ CPAM Recours Tiers ⚖️Contentieux.md` | `[Adresse à compléter]` |
-| `⚡ ActionDirecte AssureurRC.md` | `[Adresse à compléter]` |
+| `✉️ Relance - Inspection du Travail.md` | `[Date d'envoi — À compléter]` |
+| `✉️ Relance - Signalement Préfecture CODAF.md` | `[Date d'envoi — À compléter]` |
+| `✉️ Signalement - INPI.md` | `[Adresse à compléter]` |
+| `✉️ Signalement - Préfecture.md` | `[Adresse à compléter]` |
+| `✉️ Signalement - SDIS.md` | `[Adresse à compléter]` |
+| `✉️ Signalement - SIE.md` | `[Adresse à compléter]` |
+| `✉️ Saisine - Recours Tiers CPAM.md` | `[Adresse à compléter]` |
+| `Archive - Action Directe Assureur RC.md` | `[Adresse à compléter]` |
 
 ### III.4 — 3.4 `drive_id` manquants (4 fichiers avec `source: drive`)
 
 | Fichier |
 |---------|
-| `Bordereau Unifie.md` |
-| `📅 Calendrier Procedure.md` |
-| `🧠 STRATEGIE Contentieux Civil.md` |
-| `🧠 STRATEGIE Contentieux Penal.md` |
+| `Bordereau Unifié.md` |
+| `Note - Calendrier Procédure.md` |
+| `Archive - Stratégie Contentieux Civil.md` |
+| `Archive - Stratégie Contentieux Pénal.md` |
 
 ---
 

@@ -117,4 +117,4 @@ Dossier : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/`
 
 3. **README racine Lois** : mettre à jour le compteur de la section Jurisprudence
 
-4. **CHANGELOG_JURIDIQUE.md** : ajouter entrée pour cette session
+4. **Note%20-%20Changelog%20Juridique.md** : ajouter entrée pour cette session

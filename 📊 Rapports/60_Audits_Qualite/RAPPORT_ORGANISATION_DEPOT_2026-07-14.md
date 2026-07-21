@@ -55,13 +55,13 @@ L'audit des conventions de formatage (règles strictes de `CONVENTIONS.md`) a mi
 
   - La convention exige un double séparateur `<hr><hr>` avant chaque section de premier niveau (H2).
   - Des manquements ont été détectés dans les fichiers suivants (versions Token et Reel) :
-    - `⚖️ Actes/.../📚 Analyses juridiques/📜 Strategie Jurisprudentielle.md`
-    - `⚖️ Actes/.../🗂️ Organisation/06 📋 Synthese des Actions et Audits.md`
-    - `⚖️ Actes/.../🗂️ Organisation/📦 Bon Envoi Physique.md`
-    - `⚖️ Actes/.../🗂️ Organisation/📊 Suivi Envois LRAR.md`
-    - `⚖️ Actes/.../🗂️ Organisation/📅 Calendrier Procedure.md`
-    - `⚖️ Actes/.../🗂️ Organisation/✅ Checklist Envoi 11-07.md`
-    - `⚖️ Actes/.../🗂️ Organisation/22 📋 Modif Email Maire Foix.md`
+    - `⚖️ Actes/.../📚 Analyses juridiques/Note - Stratégie Jurisprudentielle.md`
+    - `⚖️ Actes/.../🗂️ Organisation/Synthèse - Actions et Audits.md`
+    - `⚖️ Actes/.../🗂️ Organisation/Note - Bon Envoi Physique.md`
+    - `⚖️ Actes/.../🗂️ Organisation/Note - Suivi Envois LRAR.md`
+    - `⚖️ Actes/.../🗂️ Organisation/Note - Calendrier Procédure.md`
+    - `⚖️ Actes/.../🗂️ Organisation/Archive - Checklist Envoi 11-07.md`
+    - `⚖️ Actes/.../🗂️ Organisation/Note - Modification Email Maire Foix.md`
 
 <hr><hr>
 

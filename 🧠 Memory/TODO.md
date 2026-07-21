@@ -128,7 +128,7 @@ ni contacter des personnes à ta place.
 |---|--------|--------|
 | 🎯 | **OP1** — Création 3 tokens LRAR manquants (président, directrice, propriétaire) | ✅ FAIT |
 | 🎯 | **OP2** — LRAR texte brut (`N° LRAR Exploitant/Président/...`) → liens dans Plainte Complementaire | ✅ FAIT |
-| 🎯 | **OP3** — `N° PV Police` + `[Adresse du Commerce]` texte brut → liens (Police Videos Relance) | ✅ FAIT |
+| 🎯 | **OP3** — `N° PV Police` + `[Adresse du Commerce]` texte brut → liens (Relance - Vidéos Police) | ✅ FAIT |
 | 🎯 | **OP4** — 40+ `**[...]**` sans lien ajoutés dans 7 fichiers Police | ✅ FAIT |
 | 🎯 | **OP5** — 2 dates FIXME corrigées (Guide Orale → 2026-07-20, token-pv-police → 2026-07-11) | ✅ FAIT |
 | 🎯 | **OP6** — Renommage miroir Token↔Reel (Police Plainte → Commissariat Foix Plainte) + purge doublon Reel défectueux | ✅ FAIT |
@@ -138,7 +138,7 @@ ni contacter des personnes à ta place.
 ### ✅ Phase 30 — Erratum Correction Société (17 juillet 2026)
 | # | Action | Statut |
 |---|--------|--------|
-| 📜 | **Erratum formel créé** (Token + Reel) dans `📋 Preparation Foix/📜 Erratum Correction Identite Societe.md` | ✅ FAIT |
+| 📜 | **Erratum formel créé** (Token + Reel) dans `📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md` | ✅ FAIT |
 | 📝 | Documents Foix mis à jour : Note Personnelle (recentrée HB BARBER), Projet PV (fin corrigée), Bordereau (pièce n°5), Frise (mention) | ✅ FAIT |
 | 🗑️ | Section « Maintien investigations LMG » supprimée — LMG laissée tranquille | ✅ FAIT |
 | 🔄 | 114 fichiers Reel régénérés | ✅ FAIT |
@@ -207,7 +207,7 @@ ni contacter des personnes à ta place.
 | 📜 | **Article L.123-5-1 C.com** — Injonction dépôt pièces/actes RCS | ✅ FAIT |
 | 📜 | **Article L.8221-1 C.trav** — Interdiction travail dissimulé | ✅ FAIT |
 | ✅ | **Vérification MCP OpenLegi** — 3 LEGIARTI VIGUEUR | ✅ FAIT |
-| 📚 | **READMEs + CHANGELOG_JURIDIQUE** mis à jour | ✅ FAIT |
+| 📚 | **READMEs + Note - Changelog Juridique** mis à jour | ✅ FAIT |
 
 ### 🏗️ Phase 34 — Déplacement Foix (semaine du 27/07/2026) 🏗️ [EN COURS]
 | # | Action | Statut |
@@ -219,7 +219,7 @@ ni contacter des personnes à ta place.
 | 📅 | **Calendrier Google** — Événement DÉPÔT FOIX déplacé au 27/07/2026 | ✅ FAIT |
 | 📆 | **Mini Calendrier Procedure.md** — Jalons 27/07 ajoutés | ✅ FAIT |
 | 📅 | **Calendrier Procedure.md (Token)** — EVT-16 mis à jour | ✅ FAIT |
-| 📄 | **Projet Declaration PV Foix.md** — Vérifié aligné (pas de confrontation demandée) | ✅ FAIT |
+| 📄 | **Note - Projet Déclaration PV Foix.md** — Vérifié aligné (pas de confrontation demandée) | ✅ FAIT |
 
 #### Préparation 12 novembre 2026 — UMJ Purpan
 - [ ] Rassembler tous les documents médicaux :
@@ -247,7 +247,7 @@ ni contacter des personnes à ta place.
 
 - [ ] Vérifier retour AR de la mise en demeure SAS
 
-- [ ] **Consulter le Dossier Spécial CERFA** ([05 📋 Dossier Special CERFA.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/%F0%9F%93%8B%20Dossier%20Special%20CERFA.md)) pour l'organisation des démarches administratives officieuses.
+- [ ] **Consulter le Dossier Spécial CERFA** ([05 Note - Dossier Spécial CERFA.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Dossier%20Sp%C3%A9cial%20CERFA.md)) pour l'organisation des démarches administratives officieuses.
 
 ### Processus général (vision d'ensemble)
 
@@ -299,8 +299,8 @@ PHASE 5 — INSTANCE AU FOND (2027)
 
 ### PLAN A — CORRECTION L.211-26 C. ASSURANCES ✅ TERMINÉ
 
-- L.211-26 supprimé de [`STRATEGIE Contentieux Penal.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Penal.md) (§2.2, §3.3),
-  [`PLAINTE Complement Defaut Assurance RC.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Plainte%20Defaut%20Assurance%20RC.md), scripts Python.
+- L.211-26 supprimé de [`STRATEGIE Contentieux Penal.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20P%C3%A9nal.md) (§2.2, §3.3),
+  [`PLAINTE Complement Defaut Assurance RC.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Plainte%20-%20D%C3%A9faut%20Assurance%20RC.md), scripts Python.
 - Remplacement par signalement de fait + Art. 706-3 CPP + Art. L.124-3 C. assur.
 
 - Règle absolue instaurée : vérification Légifrance avant toute citation.
@@ -321,9 +321,9 @@ PHASE 5 — INSTANCE AU FOND (2027)
 
 ### PLAN C — CIVI / FGTI ✅ TERMINÉ
 
-- [`STRATEGIE Contentieux Civil.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Civil.md) : nouveau §3.3 « Voie CIVI / FGTI (subsidiaire) »
+- [`STRATEGIE Contentieux Civil.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20Civil.md) : nouveau §3.3 « Voie CIVI / FGTI (subsidiaire) »
 
-- [`STRATEGIE Contentieux Penal.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Penal.md) : §3.5 « Indemnisation par le FGTI / CIVI »
+- [`STRATEGIE Contentieux Penal.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20P%C3%A9nal.md) : §3.5 « Indemnisation par le FGTI / CIVI »
 
 ---
 
@@ -377,7 +377,7 @@ PHASE 5 — INSTANCE AU FOND (2027)
 
 ### PHASE 7B — BORDEREAU + JUSTIFICATION PROVISION + EMAILS TÉMOINS ✅ TERMINÉ
 
-- [`04_Bordereau_Audience.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifie.md) créé (25 pièces séquentielles)
+- [`04_Bordereau_Audience.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifi%C3%A9.md) créé (25 pièces séquentielles)
 
 - Assignation 01 enrichie §D (justification provision 5 000 €)
 

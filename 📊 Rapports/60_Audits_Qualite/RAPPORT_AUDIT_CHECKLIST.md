@@ -1,6 +1,6 @@
 ---
 title: "RAPPORT D'AUDIT — Checklist Envoi LRAR 11-07-2026"
-description: "Contexte :** Vérification de la cohérence entre le fichier `23 📊 Suivi Envois LRAR.md`, le fichier `24 ✅ Checklist Envoi 11-07-2026.md`, et les courriers réels (12, 14, 19, 35)."
+description: "Contexte :** Vérification de la cohérence entre le fichier `23 Note - Suivi Envois LRAR.md`, le fichier `24 Archive - Checklist Envoi 11-07-2026.md`, et les courriers réels (12, 14, 19, 35)."
 type: rapport
 date: 2026-07-11
 tags:
@@ -19,7 +19,7 @@ auteur: Agent d'audit
 
 # RAPPORT D'AUDIT<br>CHECKLIST ENVOI LRAR 11 JUILLET 2026
 
-**Contexte :** Vérification de la cohérence entre le fichier `23 📊 Suivi Envois LRAR.md`, le fichier `24 ✅ Checklist Envoi 11-07-2026.md`, et les courriers réels (12, 14, 19, 35).
+**Contexte :** Vérification de la cohérence entre le fichier `23 Note - Suivi Envois LRAR.md`, le fichier `24 Archive - Checklist Envoi 11-07-2026.md`, et les courriers réels (12, 14, 19, 35).
 
 **Périmètre :** Versions 🔑 Token et 👤 Reel des 4 fichiers.
 

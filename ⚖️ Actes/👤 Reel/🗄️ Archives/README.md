@@ -1,14 +1,25 @@
 # Index — 🗄️ Archives (Versions Réelles)
 
-- [11 Fiche Reflexe 48h Victime.md](11%20Fiche%20Reflexe%2048h%20Victime.md)
-- [33 ✉️ Requete Constat Huissier 145 CPC.md](33%20%E2%9C%89%EF%B8%8F%20Requete%20Constat%20Huissier%20145%20CPC.md)
-- [⚡ ActionDirecte AssureurRC.md](%E2%9A%A1%20ActionDirecte%20AssureurRC.md)
-- [✅ Bordereau Pieces 15 Juillet.md](%E2%9C%85%20Bordereau%20Pieces%2015%20Juillet.md)
-- [✅ Checklist Envoi 11-07.md](%E2%9C%85%20Checklist%20Envoi%2011-07.md)
-- [📁 Dossier Presentation.md](%F0%9F%93%81%20Dossier%20Presentation.md)
-- [📋 Checklist Deplacement Foix.md](%F0%9F%93%8B%20Checklist%20Deplacement%20Foix.md)
-- [📚 ANALYSE Jurisprudence.md](%F0%9F%93%9A%20ANALYSE%20Jurisprudence.md)
-- [🔧 ANALYSE correction juridique.md](%F0%9F%94%A7%20ANALYSE%20correction%20juridique.md)
-- [🛡️ Constitution Partie Civile.md](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
-- [🧠 STRATEGIE Contentieux Civil.md](%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Civil.md)
-- [🧠 STRATEGIE Contentieux Penal.md](%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Penal.md)
+- [33 ✉️ Requête - Constat Huissier 145 CPC.md](33%20%E2%9C%89%EF%B8%8F%20Requ%C3%AAte%20-%20Constat%20Huissier%20145%20CPC.md)
+
+- [Archive - Action Directe Assureur RC.md](Archive%20-%20Action%20Directe%20Assureur%20RC.md)
+
+- [Archive - Analyse Correction Juridique.md](Archive%20-%20Analyse%20Correction%20Juridique.md)
+
+- [Archive - Analyse Jurisprudence.md](Archive%20-%20Analyse%20Jurisprudence.md)
+
+- [Archive - Bordereau Pièces 15 Juillet.md](Archive%20-%20Bordereau%20Pi%C3%A8ces%2015%20Juillet.md)
+
+- [Archive - Checklist Déplacement Foix.md](Archive%20-%20Checklist%20D%C3%A9placement%20Foix.md)
+
+- [Archive - Checklist Envoi 11-07.md](Archive%20-%20Checklist%20Envoi%2011-07.md)
+
+- [Archive - Constitution Partie Civile.md](Archive%20-%20Constitution%20Partie%20Civile.md)
+
+- [Archive - Dossier Présentation.md](Archive%20-%20Dossier%20Pr%C3%A9sentation.md)
+
+- [Archive - Fiche Réflexe 48h Victime.md](Archive%20-%20Fiche%20R%C3%A9flexe%2048h%20Victime.md)
+
+- [Archive - Stratégie Contentieux Civil.md](Archive%20-%20Strat%C3%A9gie%20Contentieux%20Civil.md)
+
+- [Archive - Stratégie Contentieux Pénal.md](Archive%20-%20Strat%C3%A9gie%20Contentieux%20P%C3%A9nal.md)

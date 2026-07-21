@@ -13,7 +13,7 @@ type: rapport
 
 **Date :** 10 juillet 2026  
 **Objet :** Audit de cohérence transverse entre le Plan d'action, le Calendrier procédural, les actions réalisées IA, les tâches humaines en suspens, et le suivi LRAR  
-**Périmètre :** `10 🗂️ Plan action.md`, `11 📅 Calendrier procedural.md`, `06 📋 Synthese des Actions et Audits.md`, `23 📊 Suivi Envois LRAR.md`, [🧠 Memory/TODO.md](../../%F0%9F%A7%A0%20Memory/TODO.md), [🧠 Memory/STATUS.md](../../%F0%9F%A7%A0%20Memory/STATUS.md)
+**Périmètre :** `10 🗂️ Plan action.md`, `11 📅 Calendrier procedural.md`, `Synthèse - Actions et Audits.md`, `23 Note - Suivi Envois LRAR.md`, [🧠 Memory/TODO.md](../../%F0%9F%A7%A0%20Memory/TODO.md), [🧠 Memory/STATUS.md](../../%F0%9F%A7%A0%20Memory/STATUS.md)
 
 ---
 
@@ -87,8 +87,8 @@ Le TODO.md est le **seul document qui reflète la réalité des blocages** :
 | 🔴 Haute | Fixer audience référé-provision (Art. 835 CPC) | ❌ NON FAIT | Assignation PRÊTE mais pas déposée |
 | 🔴 Haute | Fixer audience Art. 145 CPC (communication assurance) | ❌ NON FAIT | Assignation PRÊTE mais pas déposée |
 | 🔴 Haute | Contacter un huissier pour constat | ❌ NON FAIT | Vidéosurveillance probablement perdue |
-| 🔴 Haute | Envoyer attestations témoins (client, pompier, employé) | ❌ NON FAIT | Gabarits Cerfa prêts ([pièces 22-24](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifie.md)) |
-| 🔴 Haute | Relancer Dr DJERBI — certificat consolidation | ❌ NON FAIT | Gabarit prêt ([pièce 25](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifie.md), email 25) |
+| 🔴 Haute | Envoyer attestations témoins (client, pompier, employé) | ❌ NON FAIT | Gabarits Cerfa prêts ([pièces 22-24](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifi%C3%A9.md)) |
+| 🔴 Haute | Relancer Dr DJERBI — certificat consolidation | ❌ NON FAIT | Gabarit prêt ([pièce 25](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifi%C3%A9.md), email 25) |
 | 🔴 Haute | Prendre un avocat | ❌ NON FAIT | Nécessaire avant toute audience |
 | 🟡 Moyenne | Adresses emails des témoins | ❌ NON FAIT | Bloque l'envoi des attestations |
 | 🟡 Moyenne | Email/téléphone Dr DJERBI | ❌ NON FAIT | Bloque la relance |
@@ -243,8 +243,8 @@ Seule date réellement fixée et vérifiable. Le calendrier la mentionne à EVT-
 | B1 | **Transmettre les emails des 3 témoins + Dr DJERBI** pour débloquer les attestations et la relance consolidation | Information personnelle | 15 min | 🔴 **Haute** |
 | B2 | **Mandater un avocat** (même en attendant l'AJ) | A1 (AJ) | 1-2h | 🔴 **Haute** |
 | B3 | **Fixer les audiences de référé** avec l'avocat | B2 | Variable | 🔴 **Haute** |
-| B4 | **Envoyer attestations Cerfa aux témoins** ([pièces 22-24](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifie.md)) | B1 (emails) | 30 min | 🟡 **Haute** |
-| B5 | **Relancer Dr DJERBI** pour certificat consolidation ([pièce 25](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifie.md)) | B1 (coordonnées) | 15 min | 🟡 **Haute** |
+| B4 | **Envoyer attestations Cerfa aux témoins** ([pièces 22-24](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifi%C3%A9.md)) | B1 (emails) | 30 min | 🟡 **Haute** |
+| B5 | **Relancer Dr DJERBI** pour certificat consolidation ([pièce 25](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifi%C3%A9.md)) | B1 (coordonnées) | 15 min | 🟡 **Haute** |
 
 ### VII.3 — Avant novembre 2026
 
@@ -263,7 +263,7 @@ Seule date réellement fixée et vérifiable. Le calendrier la mentionne à EVT-
 | E4 | `11 📅 Calendrier.md` | Mettre à jour COR-09, COR-10 (toujours "À faire" après 35+ jours) |
 | E5 | `10 🗂️ Plan action.md` | Vérifier que la correction SATI a bien été propagée (JURITEXT000007047369 au lieu de la fausse) |
 | E6 | `10 🗂️ Plan action.md` | Aligner les échéances (J+37 → J+46 pour la fin de la phase amiable) |
-| E7 | `23 📊 Suivi Envois LRAR.md` | Renseigner les numéros LRAR des 4 envois du 11/07 dès réception des récépissés |
+| E7 | `23 Note - Suivi Envois LRAR.md` | Renseigner les numéros LRAR des 4 envois du 11/07 dès réception des récépissés |
 
 ---
 

@@ -56,7 +56,7 @@ Phase pré-contentieuse (préparée, non déposée)
 
 Phase judiciaire (Plan B)
 ├── Transmission preuves TJ Foix (35)
-├── Signalement Parquet Fraude (16)
+├── Signalement - Parquet Fraudee (16)
 ├── Requête Mandataire Ad Hoc (17)
 ├── FGTI/CIVI → Indemnisation de dernier recours
 └── Poursuite dirigeants à titre personnel

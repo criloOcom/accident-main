@@ -26,14 +26,14 @@ Pour cette journée, tu as trois démarches physiques majeures à réaliser à F
 #### 1️⃣ Au Tribunal Judiciaire (Greffe Civil)
 * **Action** : Déposer la requête de mesures d'instruction unilatérales pour sauvegarder les vidéos de surveillance du salon.
 
-* **Document à imprimer & signer** : [Requete Article 145 CPC.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requete%20Article%20145%20CPC.md)
+* **Document à imprimer & signer** : [Requête - Article 145 CPC.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requ%C3%AAte%20-%20Article%20145%20CPC.md)
 
 * **Pièces à joindre** : Prépare le dossier comprenant les 17 pièces listées dans le bordereau de la requête.
 
 #### 2️⃣ Au Tribunal Judiciaire (Bureau d'Aide Juridictionnelle)
 * **Action** : Déposer ton dossier complet de demande d'Aide Juridictionnelle (AJ) totale.
 
-* **Document d'accompagnement** : [✉️ Guide Demande AJ 📝Document.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Interne/%E2%9C%89%EF%B8%8F%20Guide%20Demande%20AJ%20%F0%9F%93%9DDocument.md)
+* **Document d'accompagnement** : [✉️ Note - Guide Demande Aide Juridictionnelle.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Interne/Note%20-%20Guide%20Demande%20Aide%20Juridictionnelle.md)
 
 * **Pièces à joindre** : Tes justificatifs de ressources (déclarations URSSAF, avis d'imposition, etc.).
 
@@ -42,8 +42,8 @@ Pour cette journée, tu as trois démarches physiques majeures à réaliser à F
 
 * **Documents à imprimer & signer** :
 
-   * [✉️ Commissariat Foix Plainte Complementaire ⚖️Contentieux.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Commissariat%20Foix%20Plainte%20Complementaire%20%E2%9A%96%EF%B8%8FContentieux.md)
-  * [📜 Erratum Correction Identite Societe.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md) (à annexer en tant que pièce justificative)
+   * [✉️ Plainte - Complémentaire Commissariat Foix.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/Plainte%20-%20Compl%C3%A9mentaire%20Commissariat%20Foix.md)
+  * [📜 Note - Erratum Correction Identité Société.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/Note%20-%20Erratum%20Correction%20Identit%C3%A9%20Soci%C3%A9t%C3%A9.md) (à annexer en tant que pièce justificative)
 * **Pièces à joindre** : Les 8 pièces justificatives listées à la fin de ta plainte complémentaire (comprenant le mail du bailleur et ta note de constatations).
 
 ---
@@ -55,13 +55,13 @@ Durant la même semaine, expédie par Lettre Recommandée avec Avis de Réceptio
 * **Signalement CODAF (Comité Opérationnel Départemental Anti-Fraude)** :
 
   * *Objet* : Dénonciation de suspicion de travail dissimulé, fraude et transfert frauduleux d'actifs vers la nouvelle structure.
-  * *Document à envoyer* : [✉️ CODAF 🚨Signalement.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20CODAF%20%F0%9F%9A%A8Signalement.md)
+  * *Document à envoyer* : [✉️ Signalement - CODAF.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/Signalement%20-%20CODAF.md)
   * *Destinataire* : Monsieur le Procureur de la République (Tribunal Judiciaire de Foix, 14 Boulevard François Mitterrand, 09000 Foix).
 
 * **Signalement Inspection du Travail** :
 
   * *Objet* : Dénonciation du défaut de déclaration d'accident du travail grave concernant un préposé.
-  * *Document à envoyer* : [✉️ Inspection Travail 🚨Signalement.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20Travail%20%F0%9F%9A%A8Signalement.md)
+  * *Document à envoyer* : [✉️ Signalement - Inspection du Travail.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/Signalement%20-%20Inspection%20du%20Travail.md)
   * *Destinataire* : Inspecteur du Travail (DDETSPP de l'Ariège, 9 Rue Lieutenant Paul Delpech, 09000 Foix).
 
 ---
@@ -72,7 +72,7 @@ Voici les prochaines étapes clés de ton dossier à moyen et long termes :
 
 * **Fin juillet / Début août 2026** : Décision du Bureau d'Aide Juridictionnelle et désignation d'office de ton avocat.
 
-* **Courant août 2026** : Prise de contact avec ton avocat pour lancer la signification par huissier de l'[Refere Provision Assignation.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Refere%20Provision%20Assignation.md) à la SAS HB BARBER.
+* **Courant août 2026** : Prise de contact avec ton avocat pour lancer la signification par huissier de l'[Référé - Assignation Provision.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20-%20Assignation%20Provision.md) à la SAS HB BARBER.
 
 * **📅 Jeudi 12 novembre 2026 à 13h45** : Rendez-vous obligatoire pour ton expertise médicale à l'**Unité de Médecine Judiciaire (UMJ) de l'Hôpital Purpan** à Toulouse (sur réquisition de police pour fixer l'ITT médico-légale).
 

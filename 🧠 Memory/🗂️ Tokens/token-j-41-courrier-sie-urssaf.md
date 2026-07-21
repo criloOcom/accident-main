@@ -60,17 +60,17 @@ Vague de courriers de **pression fiscale et administrative** contre **[L'Exploit
 
 ## Documents liés
 
-- [✉️ Maire Foix 📜Lettre](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Maire%20Foix%20%F0%9F%93%9CLettre.md)
+- [✉️ Courrier - Maire de Foix](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Maire%20de%20Foix.md)
 
-- [✉️ TC Opposition Radiation ⚖️Contentieux](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/%E2%9C%89%EF%B8%8F%20TC%20Opposition%20Radiation%20%E2%9A%96%EF%B8%8FContentieux.md)
+- [✉️ Opposition - Radiation Tribunal de Commerce](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/%E2%9C%89%EF%B8%8F%20Opposition%20-%20Radiation%20Tribunal%20de%20Commerce.md)
 
-- [✉️ INPI Opposition Immatriculation ⚖️Contentieux](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20INPI%20Opposition%20Immatriculation%20%E2%9A%96%EF%B8%8FContentieux.md)
+- [✉️ Opposition - Immatriculation INPI](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Opposition%20-%20Immatriculation%20INPI.md)
 
-- [✉️ SIE URSSAF Mutualisation 📝Document](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20SIE%20URSSAF%20Mutualisation%20%F0%9F%93%9DDocument.md)
+- [✉️ Courrier - Mutualisation SIE URSSAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Mutualisation%20SIE%20URSSAF.md)
 
-- [✉️ Requete Constat Huissier 🗄️Archive](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%97%84%EF%B8%8F%20Archiv%C3%A9/%E2%9C%89%EF%B8%8F%20Requete%20Constat%20Huissier%20%F0%9F%97%84%EF%B8%8FArchive.md)
+- [✉️ Requête - Constat Huissier Archive](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%97%84%EF%B8%8F%20Archiv%C3%A9/%E2%9C%89%EF%B8%8F%20Requ%C3%AAte%20-%20Constat%20Huissier%20Archive.md)
 
-- [📜 Note Responsabilite Dirigeants](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/%F0%9F%93%9C%20Note%20Responsabilite%20Dirigeants.md)
+- [Note - Responsabilité des Dirigeants](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/Note%20-%20Responsabilit%C3%A9%20des%20Dirigeants.md)
 
 ## Croisements
 

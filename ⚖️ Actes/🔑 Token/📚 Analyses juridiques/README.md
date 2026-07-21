@@ -22,42 +22,42 @@ Ces documents constituent le socle argumentaire de la procédure.
 
 - [📜 Lois](../../../%F0%9F%93%9C%20Lois/README.md) — Textes de loi et arrêts cités, classés par numéro
 
-- [❓ FAQ Juridique](%E2%9D%93%20FAQ%20Juridique.md)
+- [Note - FAQ Juridique](Note%20-%20FAQ%20Juridique.md)
 
-- [🎤 Plaidoirie Responsabilite Dirigeants](%F0%9F%8E%A4%20Plaidoirie%20Responsabilite%20Dirigeants.md)
+- [Note - Plaidoirie Responsabilité Dirigeants](Note%20-%20Plaidoirie%20Responsabilit%C3%A9%20Dirigeants.md)
 
-- [📜 Analyse Responsabilites Legales](%F0%9F%93%9C%20Analyse%20Responsabilites%20Legales.md)
+- [Note - Analyse Responsabilités Légales](Note%20-%20Analyse%20Responsabilit%C3%A9s%20L%C3%A9gales.md)
 
-- [📜 Note Droit Assurances](%F0%9F%93%9C%20Note%20Droit%20Assurances.md)
+- [Note - Droit des Assurances](Note%20-%20Droit%20des%20Assurances.md)
 
-- [📜 Note Responsabilite Dirigeants](%F0%9F%93%9C%20Note%20Responsabilite%20Dirigeants.md)
+- [Note - Responsabilité des Dirigeants](Note%20-%20Responsabilit%C3%A9%20des%20Dirigeants.md)
 
-- [📜 Audit RNE NPAI SAS](%F0%9F%93%9C%20Audit%20RNE%20NPAI%20SAS.md)
+- [Note - Audit RNE NPAI SAS](Note%20-%20Audit%20RNE%20NPAI%20SAS.md)
 
-- [🛡️ Memo Strategie Admin Penal](%F0%9F%9B%A1%EF%B8%8F%20Memo%20Strategie%20Admin%20Penal.md)
+- [Note - Mémo Stratégie Admin Pénal](Note%20-%20M%C3%A9mo%20Strat%C3%A9gie%20Admin%20P%C3%A9nal.md)
 
-- [🛡️ Tableau Defense Reponse](%F0%9F%9B%A1%EF%B8%8F%20Tableau%20Defense%20Reponse.md)
+- [Note - Tableau Défense Réponse](Note%20-%20Tableau%20D%C3%A9fense%20R%C3%A9ponse.md)
 
-- [📁 Dossier Plaidoirie Refere](%F0%9F%93%81%20Dossier%20Plaidoirie%20Refere.md)
+- [Note - Dossier Plaidoirie Référé](Note%20-%20Dossier%20Plaidoirie%20R%C3%A9f%C3%A9r%C3%A9.md)
 
-- [99 🛡️ Memoire en defense adverse](99%20%F0%9F%9B%A1%EF%B8%8F%20Memoire%20en%20defense%20adverse.md)
+- [Mémoire - En défense adverse](M%C3%A9moire%20-%20En%20d%C3%A9fense%20adverse.md)
 
-- [📜 Strategie Jurisprudentielle](%F0%9F%93%9C%20Strategie%20Jurisprudentielle.md)
+- [Note - Stratégie Jurisprudentielle](Note%20-%20Strat%C3%A9gie%20Jurisprudentielle.md)
 
 - [📜 Mémoire de synthèse — Recours assurances ERP](%F0%9F%93%9C%20M%C3%A9moire%20de%20synth%C3%A8se%20%E2%80%94%20Recours%20assurances%20ERP.md)
 
 - [📜 Note — Procédure Action Directe Assureur L124-3](%F0%9F%93%9C%20Note%20%E2%80%94%20Proc%C3%A9dure%20Action%20Directe%20Assureur%20L124-3.md)
 
-- [Note Conservation Preuves Numeriques](Note%20Conservation%20Preuves%20Numeriques.md)
+- [Note - Conservation Preuves Numériques](Note%20-%20Conservation%20Preuves%20Num%C3%A9riques.md)
 
-- [Note Mesures Conservatoires](Note%20Mesures%20Conservatoires.md)
+- [Note - Mesures Conservatoires](Note%20-%20Mesures%20Conservatoires.md)
 
-- [Note qualification penale disparition SAS](Note%20qualification%20penale%20disparition%20SAS.md)
+- [Note - Qualification Pénale Disparition SAS](Note%20-%20Qualification%20P%C3%A9nale%20Disparition%20SAS.md)
 
-- [CHANGELOG_JURIDIQUE](CHANGELOG_JURIDIQUE.md)
+- [Note - Changelog Juridique](Note%20-%20Changelog%20Juridique.md)
 
-- [📜 Memo Axes Juridiques Avocat](%F0%9F%93%9C%20Memo%20Axes%20Juridiques%20Avocat.md)
+- [Note - Mémo Axes Juridiques Avocat](Note%20-%20M%C3%A9mo%20Axes%20Juridiques%20Avocat.md)
 
-- [📜 Note Synthese Avocat Bascule HB BARBER](%F0%9F%93%9C%20Note%20Synthese%20Avocat%20Bascule%20HB%20BARBER.md)
+- [Note - Synthèse Avocat Bascule HB BARBER](Note%20-%20Synth%C3%A8se%20Avocat%20Bascule%20HB%20BARBER.md)
 <!-- RAPPORT_JURISPRUDENCES supprimé — ce rapport n'existe plus dans 📊 Rapports. -->
 - `🧠 Memory/RAPPORT_PLAN_H.md` — Uniformisation des assignations / bordereaux

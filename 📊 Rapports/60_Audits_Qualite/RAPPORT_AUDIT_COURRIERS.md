@@ -329,7 +329,7 @@ Tous les fichiers token (03 à 35) ont leur équivalent réel dans [⚖️ Actes
 ### IV.5 — Incohérence de format `[Token]` vs `**[Token]**`
 Observé dans : 12, 15, 20, 22, 25, 26, 27, 28, 30, 31, 33, 34 (plus de 12 fichiers)
 
-### IV.6 — Fautes dans YAML `personnes` — [fichier 32](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifie.md)
+### IV.6 — Fautes dans YAML `personnes` — [fichier 32](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifi%C3%A9.md)
 - `La Président de l'Exploitation` (faute d'accord)
 
 - `Le Directrice Generale de l'Exploitation` (faute d'accord)
@@ -337,7 +337,7 @@ Observé dans : 12, 15, 20, 22, 25, 26, 27, 28, 30, 31, 33, 34 (plus de 12 fichi
 ### IV.7 — 5 fichiers en `statut: projet` ou `brouillon` avec `source: local`
 - 06 V2 (projet), 25 (brouillon), 26 (brouillon), 27 (brouillon), 28 (brouillon), 32 (projet), 33 (projet), 34 (brouillon)
 
-### IV.8 — Adresse email réelle dans strate token — [fichier 34](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifie.md)
+### IV.8 — Adresse email réelle dans strate token — [fichier 34](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifi%C3%A9.md)
 
 ---
 

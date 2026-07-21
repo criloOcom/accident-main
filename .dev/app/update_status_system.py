@@ -15,7 +15,7 @@ from collections import defaultdict
 BASE = '/home/crilocom/accident-main'
 TOKEN_BASE = os.path.join(BASE, '⚖️ Actes', '🔑 Token')
 REAL_BASE = os.path.join(BASE, '⚖️ Actes', '👤 Reel')
-STATUS_DIR = os.path.join(BASE, 'status')
+STATUS_DIR = os.path.join(BASE, '🚦 Status')
 
 STATUT_NORMALIZE = {
     'draft': 'brouillon',

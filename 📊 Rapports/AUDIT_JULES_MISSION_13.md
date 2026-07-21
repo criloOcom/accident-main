@@ -22,27 +22,27 @@ L'audit recherche spécifiquement les inversions d'identité (attribuer la sorti
 
 ## II. Résultats de l'audit et Incohérences Détectées
 
-- [ ] **FICHIER** : [CRITIQUE] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md`:l. 73 — CRITIQUE : Mention de l'état des lieux de sortie du 10 mars 2026 attribuée à tort au nouvel exploitant (HB BARBER) au lieu de l'ancien (LMG). — **Correction recommandée** : Remplacer `[Le Nouvel Exploitant (HB BARBER)]` par `[L'Exploitant du Commerce (La SAS)]`.
+- [ ] **FICHIER** : [CRITIQUE] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte - Complémentaire Correction.md`:l. 73 — CRITIQUE : Mention de l'état des lieux de sortie du 10 mars 2026 attribuée à tort au nouvel exploitant (HB BARBER) au lieu de l'ancien (LMG). — **Correction recommandée** : Remplacer `[Le Nouvel Exploitant (HB BARBER)]` par `[L'Exploitant du Commerce (La SAS)]`.
 
   - *Extrait :* `- **10 mars 2026** : date de cessation d'activité de [**[Le Nouvel Exploitant (HB BARBER)]**] dans les locaux selon le bailleur (état des lieux de sortie)`
 
-- [ ] **FICHIER** : [CRITIQUE] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md`:l. 88 — CRITIQUE : Mention de l'état des lieux de sortie du 10 mars 2026 attribuée à tort au nouvel exploitant (HB BARBER) au lieu de l'ancien (LMG). — **Correction recommandée** : Remplacer `[Le Nouvel Exploitant (HB BARBER)]` par `[L'Exploitant du Commerce (La SAS)]`.
+- [ ] **FICHIER** : [CRITIQUE] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte - Complémentaire Correction.md`:l. 88 — CRITIQUE : Mention de l'état des lieux de sortie du 10 mars 2026 attribuée à tort au nouvel exploitant (HB BARBER) au lieu de l'ancien (LMG). — **Correction recommandée** : Remplacer `[Le Nouvel Exploitant (HB BARBER)]` par `[L'Exploitant du Commerce (La SAS)]`.
 
   - *Extrait :* `> « **[…]** je vous informe que je suis au regret de ne pouvoir vous renseigner sur l'assurance contractée par [**[Le Nouvel Exploitant (HB BARBER)]**] car cette société a cessé toute activité dans mes locaux depuis le 10/03/2026 comme en atteste l'état des lieux de sortie signé par son représentant à cette date. Or, votre accident du travail étant postérieur à cette date, [**[Le Nouvel Exploitant (HB BARBER)]**] ne peut donc pas voir sa responsabilité engagée. »`
 
-- [ ] **FICHIER** : [CRITIQUE] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md`:l. 90 — CRITIQUE : Mention de l'état des lieux de sortie du 10 mars 2026 attribuée à tort au nouvel exploitant (HB BARBER) au lieu de l'ancien (LMG). — **Correction recommandée** : Remplacer `[Le Nouvel Exploitant (HB BARBER)]` par `[L'Exploitant du Commerce (La SAS)]`.
+- [ ] **FICHIER** : [CRITIQUE] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte - Complémentaire Correction.md`:l. 90 — CRITIQUE : Mention de l'état des lieux de sortie du 10 mars 2026 attribuée à tort au nouvel exploitant (HB BARBER) au lieu de l'ancien (LMG). — **Correction recommandée** : Remplacer `[Le Nouvel Exploitant (HB BARBER)]` par `[L'Exploitant du Commerce (La SAS)]`.
 
   - *Extrait :* `Ce courriel comporte en pièces jointes **trois photographies** de l'état des lieux de sortie signé par le représentant de [**[Le Nouvel Exploitant (HB BARBER)]**] à la date du 10/03/2026.`
 
-- [ ] **FICHIER** : [CRITIQUE] `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md`:l. 73 — CRITIQUE : Mention de l'état des lieux de sortie du 10 mars 2026 attribuée à tort au nouvel exploitant (HB BARBER) au lieu de l'ancien (LMG). — **Correction recommandée** : Remplacer la SAS HB BARBER par la SAS LES MAUVAIS GARCONS.
+- [ ] **FICHIER** : [CRITIQUE] `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte - Complémentaire Correction.md`:l. 73 — CRITIQUE : Mention de l'état des lieux de sortie du 10 mars 2026 attribuée à tort au nouvel exploitant (HB BARBER) au lieu de l'ancien (LMG). — **Correction recommandée** : Remplacer la SAS HB BARBER par la SAS LES MAUVAIS GARCONS.
 
   - *Extrait :* `- **10 mars 2026** : date de cessation d'activité de [SAS HB BARBER] dans les locaux selon le bailleur (état des lieux de sortie)`
 
-- [ ] **FICHIER** : [CRITIQUE] `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md`:l. 88 — CRITIQUE : Mention de l'état des lieux de sortie du 10 mars 2026 attribuée à tort au nouvel exploitant (HB BARBER) au lieu de l'ancien (LMG). — **Correction recommandée** : Remplacer la SAS HB BARBER par la SAS LES MAUVAIS GARCONS.
+- [ ] **FICHIER** : [CRITIQUE] `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte - Complémentaire Correction.md`:l. 88 — CRITIQUE : Mention de l'état des lieux de sortie du 10 mars 2026 attribuée à tort au nouvel exploitant (HB BARBER) au lieu de l'ancien (LMG). — **Correction recommandée** : Remplacer la SAS HB BARBER par la SAS LES MAUVAIS GARCONS.
 
   - *Extrait :* `> « **[…]** je vous informe que je suis au regret de ne pouvoir vous renseigner sur l'assurance contractée par [SAS HB BARBER] car cette société a cessé toute activité dans mes locaux depuis le 10/03/2026 comme en atteste l'état des lieux de sortie signé par son représentant à cette date. Or, votre accident du travail étant postérieur à cette date, [SAS HB BARBER] ne peut donc pas voir sa responsabilité engagée. »`
 
-- [ ] **FICHIER** : [CRITIQUE] `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md`:l. 90 — CRITIQUE : Mention de l'état des lieux de sortie du 10 mars 2026 attribuée à tort au nouvel exploitant (HB BARBER) au lieu de l'ancien (LMG). — **Correction recommandée** : Remplacer la SAS HB BARBER par la SAS LES MAUVAIS GARCONS.
+- [ ] **FICHIER** : [CRITIQUE] `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte - Complémentaire Correction.md`:l. 90 — CRITIQUE : Mention de l'état des lieux de sortie du 10 mars 2026 attribuée à tort au nouvel exploitant (HB BARBER) au lieu de l'ancien (LMG). — **Correction recommandée** : Remplacer la SAS HB BARBER par la SAS LES MAUVAIS GARCONS.
 
   - *Extrait :* `Ce courriel comporte en pièces jointes **trois photographies** de l'état des lieux de sortie signé par le représentant de [SAS HB BARBER] à la date du 10/03/2026.`
 

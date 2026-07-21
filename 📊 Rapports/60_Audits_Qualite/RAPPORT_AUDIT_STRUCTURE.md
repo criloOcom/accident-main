@@ -92,17 +92,17 @@ type: rapport
 ### II.2 — ⚖️ Actes proceduraux
 | 🔑 Token | 👤 Reel | Statut |
 |----------|---------|--------|
-| `Refere Provision Assignation.md` | ✅ Présent | OK |
+| `Référé - Assignation Provision.md` | ✅ Présent | OK |
 | `02 🚔 Plainte.md` | ✅ Présent | OK |
-| `Constitution Partie Civile.md` | ✅ Présent | OK |
+| `Constitution - Partie Civile.md` | ✅ Présent | OK |
 | `03 🔍 Assignation Article 145.md` | ✅ Présent | OK |
 | `04 📑 Bordereau.md` | ✅ Présent | OK |
 | `05 🎯 Conclusions Refere.md` | ✅ Présent | OK |
-| `06 Requete Constat Huissier.md` | ✅ Présent | OK |
-| `07 Refere Ordonnance Projet.md` | ✅ Présent | OK |
+| `06 Requête - Constat Huissier.md` | ✅ Présent | OK |
+| `07 Référé - Ordonnance Projet.md` | ✅ Présent | OK |
 | `15 ⚖️ Réquisitoire introductif.md` | ✅ Présent | OK |
-| `Signalement Parquet Fraud.md` | ✅ Présent | OK |
-| `Requete Mandataire Ad Hoc.md` | ✅ Présent | OK |
+| `Signalement - Parquet Fraude.md` | ✅ Présent | OK |
+| `Requête - Mandataire Ad Hoc.md` | ✅ Présent | OK |
 | — | ❌ `04 📑 Bordereau Audience.md` | **EXCÉDENT** 👤 |
 | — | ❌ `04 📑 Bordereau de pieces.md` | **EXCÉDENT** 👤 |
 
@@ -121,14 +121,14 @@ type: rapport
 ### II.7 — 🗄️ Archives
 | 🔑 Token | 👤 Reel | Statut |
 |----------|---------|--------|
-| `11 Fiche Reflexe 48h Victime.md` | ✅ Présent | OK |
-| `⚡ ActionDirecte AssureurRC.md` | ✅ Présent | OK |
-| `📁 Dossier Presentation.md` | ✅ Présent | OK |
-| `📚 ANALYSE Jurisprudence.md` | ✅ Présent | OK |
-| `🔧 ANALYSE correction juridique.md` | ✅ Présent | OK |
-| `Constitution Partie Civile.md` | ✅ Présent | OK |
-| `🧠 STRATEGIE Contentieux Civil.md` | ✅ Présent | OK |
-| `🧠 STRATEGIE Contentieux Penal.md` | ✅ Présent | OK |
+| `Archive - Fiche Réflexe 48h Victime.md` | ✅ Présent | OK |
+| `Archive - Action Directe Assureur RC.md` | ✅ Présent | OK |
+| `Archive - Dossier Présentation.md` | ✅ Présent | OK |
+| `Archive - Analyse Jurisprudence.md` | ✅ Présent | OK |
+| `Archive - Analyse Correction Juridique.md` | ✅ Présent | OK |
+| `Constitution - Partie Civile.md` | ✅ Présent | OK |
+| `Archive - Stratégie Contentieux Civil.md` | ✅ Présent | OK |
+| `Archive - Stratégie Contentieux Pénal.md` | ✅ Présent | OK |
 | `annexes/⚖️ ANNEXE B Lois Jurisprudence.md` | ❌ Absent | **MANQUANT** |
 | `annexes/📑 ANNEXE C Pieces.md` | ❌ Absent | **MANQUANT** |
 | `README.md` | ✅ Présent | OK |

@@ -57,7 +57,7 @@ type: rapport
 
 - **Ligne** : 101
 
-- **Citation** : `| 📜 | **Erratum formel créé** (Token + Reel) dans `📋 Preparation Foix/📜 Erratum Correction Identite Societe.md` | ✅ FAIT |`
+- **Citation** : `| 📜 | **Erratum formel créé** (Token + Reel) dans `📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md` | ✅ FAIT |`
 
 - **Acte présenté comme fait** : Dépôt d'Erratum
 
@@ -425,7 +425,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Requete Constat Huissier 🗄️Archive.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Requête - Constat Huissier Archive.md`
 
 - **Ligne** : 32
 
@@ -437,7 +437,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Requete Constat Huissier 🗄️Archive.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Requête - Constat Huissier Archive.md`
 
 - **Ligne** : 34
 
@@ -449,11 +449,11 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI 🚨Signalement.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md`
 
 - **Ligne** : 69
 
-- **Citation** : `- [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20Partie%20Civile.md) transmise le [**[J+31 Mises en demeure]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)`
+- **Citation** : `- [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20-%20Partie%20Civile.md) transmise le [**[J+31 Mises en demeure]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)`
 
 - **Acte présenté comme fait** : Acte procédural ou démarche administrative
 
@@ -461,11 +461,11 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection Travail 🚨Signalement.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
 
 - **Ligne** : 62
 
-- **Citation** : `- [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20Partie%20Civile.md) transmise le [**[J+31 Mises en demeure]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)`
+- **Citation** : `- [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20-%20Partie%20Civile.md) transmise le [**[J+31 Mises en demeure]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)`
 
 - **Acte présenté comme fait** : Acte procédural ou démarche administrative
 
@@ -473,7 +473,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Guide Demande AJ 📝Document.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
 
 - **Ligne** : 69
 
@@ -485,7 +485,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Guide Demande AJ 📝Document.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
 
 - **Ligne** : 108
 
@@ -497,7 +497,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte 📋Note.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
 
 - **Ligne** : 38
 
@@ -509,7 +509,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
 
 - **Ligne** : 134
 
@@ -521,7 +521,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/❓ FAQ Juridique.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - FAQ Juridique.md`
 
 - **Ligne** : 140
 
@@ -533,7 +533,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/🎤 Plaidoirie Responsabilite Dirigeants.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Plaidoirie Responsabilité Dirigeants.md`
 
 - **Ligne** : 130
 
@@ -545,7 +545,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/🛡️ Memo Strategie Admin Penal.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Mémo Stratégie Admin Pénal.md`
 
 - **Ligne** : 114
 
@@ -557,7 +557,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/🛡️ Memo Strategie Admin Penal.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Mémo Stratégie Admin Pénal.md`
 
 - **Ligne** : 115
 
@@ -569,7 +569,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/🛡️ Memo Strategie Admin Penal.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Mémo Stratégie Admin Pénal.md`
 
 - **Ligne** : 116
 
@@ -581,7 +581,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/🛡️ Memo Strategie Admin Penal.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Mémo Stratégie Admin Pénal.md`
 
 - **Ligne** : 117
 
@@ -593,7 +593,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/🛡️ Memo Strategie Admin Penal.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Mémo Stratégie Admin Pénal.md`
 
 - **Ligne** : 160
 
@@ -617,7 +617,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Assignation.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`
 
 - **Ligne** : 70
 
@@ -629,7 +629,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Assignation.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`
 
 - **Ligne** : 76
 
@@ -641,7 +641,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requete Art. 145 CPC.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requête - Article 145 CPC.md`
 
 - **Ligne** : 86
 
@@ -653,7 +653,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requete Art. 145 CPC.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requête - Article 145 CPC.md`
 
 - **Ligne** : 99
 
@@ -665,7 +665,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Frise Chronologique Foix.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Note - Frise Chronologique Foix.md`
 
 - **Ligne** : 32
 
@@ -677,7 +677,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/✉️ Requete Constat Huissier 🗄️Archive.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/✉️ Requête - Constat Huissier Archive.md`
 
 - **Ligne** : 32
 
@@ -689,7 +689,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/✉️ Requete Constat Huissier 🗄️Archive.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/✉️ Requête - Constat Huissier Archive.md`
 
 - **Ligne** : 34
 
@@ -701,11 +701,11 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI 🚨Signalement.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md`
 
 - **Ligne** : 69
 
-- **Citation** : `- [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20Partie%20Civile.md) transmise le [29 juin 2026](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)`
+- **Citation** : `- [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20-%20Partie%20Civile.md) transmise le [29 juin 2026](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)`
 
 - **Acte présenté comme fait** : Acte procédural ou démarche administrative
 
@@ -713,11 +713,11 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Inspection Travail 🚨Signalement.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md`
 
 - **Ligne** : 62
 
-- **Citation** : `- [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20Partie%20Civile.md) transmise le [29 juin 2026](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)`
+- **Citation** : `- [Constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20-%20Partie%20Civile.md) transmise le [29 juin 2026](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)`
 
 - **Acte présenté comme fait** : Acte procédural ou démarche administrative
 
@@ -725,7 +725,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Guide Demande AJ 📝Document.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
 
 - **Ligne** : 69
 
@@ -737,7 +737,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Guide Demande AJ 📝Document.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Note - Guide Demande Aide Juridictionnelle.md`
 
 - **Ligne** : 108
 
@@ -749,7 +749,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte 📋Note.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
 
 - **Ligne** : 38
 
@@ -761,7 +761,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
 
 - **Ligne** : 134
 
@@ -773,7 +773,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/📚 Analyses juridiques/❓ FAQ Juridique.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - FAQ Juridique.md`
 
 - **Ligne** : 140
 
@@ -785,7 +785,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/📚 Analyses juridiques/🎤 Plaidoirie Responsabilite Dirigeants.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Plaidoirie Responsabilité Dirigeants.md`
 
 - **Ligne** : 130
 
@@ -797,7 +797,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/📚 Analyses juridiques/🛡️ Memo Strategie Admin Penal.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Mémo Stratégie Admin Pénal.md`
 
 - **Ligne** : 114
 
@@ -809,7 +809,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/📚 Analyses juridiques/🛡️ Memo Strategie Admin Penal.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Mémo Stratégie Admin Pénal.md`
 
 - **Ligne** : 115
 
@@ -821,7 +821,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/📚 Analyses juridiques/🛡️ Memo Strategie Admin Penal.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Mémo Stratégie Admin Pénal.md`
 
 - **Ligne** : 116
 
@@ -833,7 +833,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/📚 Analyses juridiques/🛡️ Memo Strategie Admin Penal.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Mémo Stratégie Admin Pénal.md`
 
 - **Ligne** : 117
 
@@ -845,7 +845,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/📚 Analyses juridiques/🛡️ Memo Strategie Admin Penal.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Mémo Stratégie Admin Pénal.md`
 
 - **Ligne** : 160
 
@@ -857,7 +857,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Assignation.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`
 
 - **Ligne** : 70
 
@@ -869,7 +869,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requete Art. 145 CPC.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requête - Article 145 CPC.md`
 
 - **Ligne** : 86
 
@@ -881,7 +881,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requete Art. 145 CPC.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requête - Article 145 CPC.md`
 
 - **Ligne** : 99
 
@@ -893,7 +893,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Frise Chronologique Foix.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Note - Frise Chronologique Foix.md`
 
 - **Ligne** : 32
 
@@ -933,7 +933,7 @@ type: rapport
 
 - **Ligne** : 36
 
-- **Citation** : `*   **Action immédiate :** Le projet de [Requête](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requete%20Article%20145%20CPC.md) (Pièce 06) doit être déposé le jour-même au Président du Tribunal Judiciaire pour obtenir l'Ordonnance.`
+- **Citation** : `*   **Action immédiate :** Le projet de [Requête](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requ%C3%AAte%20-%20Article%20145%20CPC.md) (Pièce 06) doit être déposé le jour-même au Président du Tribunal Judiciaire pour obtenir l'Ordonnance.`
 
 - **Acte présenté comme fait** : Requête Art. 145 CPC
 

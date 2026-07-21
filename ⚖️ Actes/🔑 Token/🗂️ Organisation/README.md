@@ -19,27 +19,27 @@ Pour visualiser l'ordre d'enchaînement logique et d'envoi de ces différents do
 ## 📋 Fichiers
 
  
-- **[📅 Calendrier Procedure](%F0%9F%93%85%20Calendrier%20Procedure.md)**
+- **[Note - Calendrier Procédure](Note%20-%20Calendrier%20Proc%C3%A9dure.md)**
 
-- **[🗂️ Plan Action](%F0%9F%97%82%EF%B8%8F%20Plan%20Action.md)**
+- **[Note - Plan d'Action](Note%20-%20Plan%20d%27Action.md)**
 
-- **[📦 Bon Envoi Physique](%F0%9F%93%A6%20Bon%20Envoi%20Physique.md)**
+- **[Note - Bon Envoi Physique](Note%20-%20Bon%20Envoi%20Physique.md)**
 
-- **[📇 Index General](%F0%9F%93%87%20Index%20General.md)**
+- **[Note - Index Général](Note%20-%20Index%20G%C3%A9n%C3%A9ral.md)**
 
-- **[📋 Dossier Special CERFA](%F0%9F%93%8B%20Dossier%20Special%20CERFA.md)**
+- **[Note - Dossier Spécial CERFA](Note%20-%20Dossier%20Sp%C3%A9cial%20CERFA.md)**
 
-- **[✅ Checklist Deplacement 20-07](%E2%9C%85%20Checklist%20Deplacement%2020-07.md)**
+- **[Checklist - Déplacement 20-07](Checklist%20-%20D%C3%A9placement%2020-07.md)**
 
-- **[📊 Suivi Envois LRAR](%F0%9F%93%8A%20Suivi%20Envois%20LRAR.md)**
+- **[Note - Suivi Envois LRAR](Note%20-%20Suivi%20Envois%20LRAR.md)**
 
-- **[06 📋 Synthese des Actions et Audits](06%20%F0%9F%93%8B%20Synthese%20des%20Actions%20et%20Audits.md)**
+- **[Synthèse - Actions et Audits](Synth%C3%A8se%20-%20Actions%20et%20Audits.md)**
 
-- **[21 📋 Plan Constat Police Foix](21%20%F0%9F%93%8B%20Plan%20Constat%20Police%20Foix.md)**
+- **[Note - Plan Constat Police Foix](Note%20-%20Plan%20Constat%20Police%20Foix.md)**
 
-- **[22 📋 Modif Email Maire Foix](22%20%F0%9F%93%8B%20Modif%20Email%20Maire%20Foix.md)**
+- **[Note - Modification Email Maire Foix](Note%20-%20Modification%20Email%20Maire%20Foix.md)**
 
-- **[Fiche Reflexe 48h Disparition SAS](Fiche%20Reflexe%2048h%20Disparition%20SAS.md)**
+- **[Note - Fiche Réflexe 48h Disparition SAS](Note%20-%20Fiche%20R%C3%A9flexe%2048h%20Disparition%20SAS.md)**
 
 ## 📅 Jalons
 

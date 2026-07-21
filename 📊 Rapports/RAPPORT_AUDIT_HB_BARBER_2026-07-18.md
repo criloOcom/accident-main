@@ -36,14 +36,14 @@ L'objectif de cet audit est de pointer les incohérences existantes dans la docu
 
 De nombreuses mentions de dépôt ou transmission ont été intégrées prématurément ou de façon erronée. Ces actes n'ont pas encore été accomplis.
 
-- **`⚖️ Actes/🔑 Token/📚 Analyses juridiques/🛡️ Memo Strategie Admin Penal.md`** :
+- **`⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Mémo Stratégie Admin Pénal.md`** :
 
   - L.114 : `| PV initial n°2026/015967 | ✅ Déposé (Toulouse, 02/06) |`
   - L.115 : `| Plainte complémentaire | ✅ Déposée (Foix, 15/07) |`
   - L.116 : `| Requête Art. 145 CPC | ✅ Déposée (TJ Foix, 15/07) |`
   - L.117 : `| Demande d'AJ totale | ✅ Déposée (BAJ Foix, 15/07) |`
 
-- **`⚖️ Actes/🔑 Token/🗂️ Organisation/📅 Calendrier Procedure.md`** :
+- **`⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Calendrier Procédure.md`** :
 
   - L.62 : `Transmission de pièces CPAM | Correspondance | Fait`
   - L.63 : `Démarche administrative / Email | Procédure | Envoyé`
@@ -64,7 +64,7 @@ De nombreuses mentions de dépôt ou transmission ont été intégrées prématu
 - **Action requise :** Intégrer formellement les constats matériels du 16 juillet 2026 dans les assignations (risque de dépérissement des preuves) et cibler explicitement **[Le Nouvel Exploitant (HB BARBER)]**.
 
 ### 3.2. Plaintes Pénales
-- **État actuel :** Un projet de plainte complémentaire (`Plainte Complementaire Correction.md`) existe et cite HB BARBER.
+- **État actuel :** Un projet de plainte complémentaire (`Plainte - Complémentaire Correction.md`) existe et cite HB BARBER.
 
 - **Cohérence :** **Partiellement cohérent**. Ce projet mentionne l'enseigne HB BARBER et l'échange avec le dirigeant le 16/07. Il est essentiel de s'assurer qu'il remplace ou complète adéquatement les plaintes antérieures qui visaient uniquement la SAS initiale.
 
@@ -78,14 +78,14 @@ De nombreuses mentions de dépôt ou transmission ont été intégrées prématu
 - **Action requise :** Rédiger de nouvelles correspondances (mises en demeure RC, Inspection du travail, CODAF) visant expressément **[Le Nouvel Exploitant (HB BARBER)]** (SIREN 938 033 222).
 
 ### 3.4. Pièces et Bordereaux
-- **État actuel :** Les photos (fichiers joints du bailleur) et la note de visite ne sont listées que dans des documents de préparation (ex: `📋 Bordereau de Pieces Foix.md`).
+- **État actuel :** Les photos (fichiers joints du bailleur) et la note de visite ne sont listées que dans des documents de préparation (ex: `📋 Bordereau - Pièces Commissariat Foix.md`).
 
 - **Cohérence :** **À intégrer**.
 
 - **Action requise :** Incorporer formellement la note de visite du 16/07 et le courriel du bailleur comme pièces fondamentales dans le bordereau de preuves principal de la procédure civile et pénale.
 
 ### 3.5. Erratum
-- **État actuel :** Le document d'erratum (`📜 Erratum Correction Identite Societe.md`) a été préparé pour corriger formellement l'identité de l'exploitant de la SAS initiale vers la nouvelle.
+- **État actuel :** Le document d'erratum (`📜 Note - Erratum Correction Identité Société.md`) a été préparé pour corriger formellement l'identité de l'exploitant de la SAS initiale vers la nouvelle.
 
 - **Cohérence :** **Incomplet**. Il doit s'assurer que toutes les plaintes, démarches administratives, et courriers erronés sont listés et annexés de manière à ce que l'erratum couvre toutes les correspondances visant l'ancienne entité.
 
@@ -103,6 +103,6 @@ Voici les actions à mener **AVANT le prochain déplacement**, tenant compte de 
 
 - [ ] **Vérification de l'Erratum :** S'assurer de la complétude du document couvrant bien l'ensemble des actes antérieurs concernés.
 
-- [ ] **Correction des Statuts de Dépôt :** Assainir le `📅 Calendrier Procedure.md` et le `🛡️ Memo Strategie Admin Penal.md` pour retirer les fausses mentions de dépôt.
+- [ ] **Correction des Statuts de Dépôt :** Assainir le `Note - Calendrier Procédure.md` et le `Note - Mémo Stratégie Admin Pénal.md` pour retirer les fausses mentions de dépôt.
 
 - [ ] **Vérification et Dépôt de l'AJ :** Constituer et transmettre sans délai le dossier de demande d'Aide Juridictionnelle, opération manquée le 15 juillet.

@@ -13,7 +13,7 @@ Produis un rapport `📊 Rapports/RAPPORT_PLAINTE_COMPLEMENTAIRE_ERRATUM_2026-07
 
 ## CONTEXTE
 
-- Un erratum formel existe déjà dans `📋 Preparation Foix/📜 Erratum Correction Identite Societe.md`
+- Un erratum formel existe déjà dans `📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md`
 
 - Un nouveau PV doit être fait au commissariat pour remplacer/corriger le premier
 

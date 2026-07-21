@@ -51,61 +51,61 @@ Voici le détail de la checklist d'audit :
 
 - [ ] **./🧠 Memory/CARNET_RDV_UTILISATEUR.md** : [MINEUR] l. 1918 — Numéro de PV erroné ('2026/15967' au lieu de '2026/015967') — Remplacer par 2026/015967
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/✉️ Police Videos 🔄Relance.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/✉️ Relance - Vidéos Police.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/✉️ Police Plainte 🛟Guide 📋Orale.md** : [CRITIQUE] l. 42 — Date de dépôt de plainte erronée (29 mai au lieu de 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/Guide Orale.md** : [CRITIQUE] l. 42 — Date de dépôt de plainte erronée (29 mai au lieu de 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ INPI 🚨Signalement.md** : [MAJEUR] l. 117 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - INPI.md** : [MAJEUR] l. 117 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Conseil Departemental 🚨Signalement.md** : [MAJEUR] l. 98 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Conseil Départemental.md** : [MAJEUR] l. 98 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ INPI Opposition Immatriculation ⚖️Contentieux.md** : [MAJEUR] l. 103 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Opposition - Immatriculation INPI.md** : [MAJEUR] l. 103 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Prefecture 🚨Signalement.md** : [MAJEUR] l. 144 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Préfecture.md** : [MAJEUR] l. 144 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ SDIS 🚨Signalement.md** : [MAJEUR] l. 82 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - SDIS.md** : [MAJEUR] l. 82 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Inspection Travail 🚨Signalement.md** : [MAJEUR] l. 175 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Inspection du Travail.md** : [MAJEUR] l. 175 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏥 CPAM/✉️ CPAM 🔄Relance.md** : [MAJEUR] l. 84 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏥 CPAM/✉️ Relance - CPAM.md** : [MAJEUR] l. 84 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/✉️ TC Opposition Radiation ⚖️Contentieux.md** : [MAJEUR] l. 97 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/✉️ Opposition - Radiation Tribunal de Commerce.md** : [MAJEUR] l. 97 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Mairie/✉️ Maire Foix 📜Lettre.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Mairie/✉️ Courrier - Maire de Foix.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Proprietaire 📜Lettre.md** : [MAJEUR] l. 129 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Courrier - Propriétaire.md** : [MAJEUR] l. 129 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS President 📜Lettre.md** : [MAJEUR] l. 184 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - Président SAS.md** : [MAJEUR] l. 184 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS 📜Lettre.md** : [MAJEUR] l. 131 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - SAS.md** : [MAJEUR] l. 131 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/👮 Police/✉️ Police Videos 🔄Relance.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/👮 Police/✉️ Relance - Vidéos Police.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/👮 Police/✉️ Police Plainte 🛟Guide 📋Orale.md** : [CRITIQUE] l. 42 — Date de dépôt de plainte erronée (29 mai au lieu de 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/👮 Police/Guide Orale.md** : [CRITIQUE] l. 42 — Date de dépôt de plainte erronée (29 mai au lieu de 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ INPI 🚨Signalement.md** : [MAJEUR] l. 117 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Signalement - INPI.md** : [MAJEUR] l. 117 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Conseil Departemental 🚨Signalement.md** : [MAJEUR] l. 98 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Conseil Départemental.md** : [MAJEUR] l. 98 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ INPI Opposition Immatriculation ⚖️Contentieux.md** : [MAJEUR] l. 103 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Opposition - Immatriculation INPI.md** : [MAJEUR] l. 103 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Prefecture 🚨Signalement.md** : [MAJEUR] l. 144 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Préfecture.md** : [MAJEUR] l. 144 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ SDIS 🚨Signalement.md** : [MAJEUR] l. 82 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Signalement - SDIS.md** : [MAJEUR] l. 82 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Inspection Travail 🚨Signalement.md** : [MAJEUR] l. 175 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Inspection du Travail.md** : [MAJEUR] l. 175 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏥 CPAM/✉️ CPAM 🔄Relance.md** : [MAJEUR] l. 84 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏥 CPAM/✉️ Relance - CPAM.md** : [MAJEUR] l. 84 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Justice/✉️ TC Opposition Radiation ⚖️Contentieux.md** : [MAJEUR] l. 97 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Justice/✉️ Opposition - Radiation Tribunal de Commerce.md** : [MAJEUR] l. 97 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Mairie/✉️ Maire Foix 📜Lettre.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Mairie/✉️ Courrier - Maire de Foix.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏠 Propriétaire/✉️ Proprietaire 📜Lettre.md** : [MAJEUR] l. 129 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏠 Propriétaire/✉️ Courrier - Propriétaire.md** : [MAJEUR] l. 129 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ SAS President 📜Lettre.md** : [MAJEUR] l. 184 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - Président SAS.md** : [MAJEUR] l. 184 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ SAS 📜Lettre.md** : [MAJEUR] l. 131 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - SAS.md** : [MAJEUR] l. 131 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
 - [ ] **./📊 Rapports/RAPPORT_AUDIT_FAUX_DEPOSE_2026-07-18.md** : [CRITIQUE] l. 504 — Date de dépôt de plainte erronée (29 mai au lieu de 2 juin) — Remplacer par 2 juin 2026
 

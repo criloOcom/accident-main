@@ -76,21 +76,21 @@ type: rapport
 
 ### III.1 — FUITE DE TOKENS DANS LA STRATE REEL
 Selon les règles, aucun token d'anonymisation ne doit se retrouver dans les fichiers de la strate `👤 Reel`.
-- [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/📚 Analyses juridiques/❓ FAQ Juridique.md`:ligne 3 (Token `**[La Victime]**` présent)
+- [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - FAQ Juridique.md`:ligne 3 (Token `**[La Victime]**` présent)
 
-- [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole_Transactionnel_Dintilhac_20260713.md`:ligne 16 (Token `[La Victime]` présent)
+- [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`:ligne 16 (Token `[La Victime]` présent)
 
-- [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole_Transactionnel_Dintilhac_20260713.md`:ligne 35 (Token `[La Victime]` présent)
+- [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`:ligne 35 (Token `[La Victime]` présent)
 
-- [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole_Transactionnel_Dintilhac_20260713.md`:ligne 37 (Token `[La Victime]` présent)
+- [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`:ligne 37 (Token `[La Victime]` présent)
 
-- [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole_Transactionnel_Dintilhac_20260713.md`:ligne 60 (Token `[La Victime]` présent)
+- [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`:ligne 60 (Token `[La Victime]` présent)
 
-- [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole_Transactionnel_Dintilhac_20260713.md`:ligne 87 (Token `[La Victime]` présent)
+- [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`:ligne 87 (Token `[La Victime]` présent)
 
-- [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/🗂️ Organisation/21 📋 Plan Constat Police Foix.md`:ligne 71 (Token `[La Victime]` présent)
+- [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Plan Constat Police Foix.md`:ligne 71 (Token `[La Victime]` présent)
 
-- [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/MEMO_AUDIENCE_31072026.md`:ligne 16 (Token `[La Victime]` présent)
+- [ ] **CRITIQUE** - `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Mémo - Audience 31-07-2026.md`:ligne 16 (Token `[La Victime]` présent)
 
 ### III.2 — RÉGLEMENTATION DU DOSSIER REEL (INTERDICTION #3)
 L'`INTERDICTION #3` dans `AGENTS.md` stipule formellement qu'aucun README d'index n'est maintenu dans `👤 Reel/`.

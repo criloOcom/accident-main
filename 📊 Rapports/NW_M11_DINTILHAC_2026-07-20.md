@@ -21,7 +21,7 @@ Conformément au §1 (Rapport d'expertise 2027-05-29), les valeurs de référenc
 
 ## 3. Audit des fichiers dans `💰 Etudes indemnisation/`
 
-### 3.1. `📊 Evaluation Dintilhac Consolidee.md`
+### 3.1. `Note - Évaluation Dintilhac Consolidée.md`
 - **Statut :** **INCOHÉRENCES MAJEURES DÉTECTÉES**
 
 - **DFP :** Le document mentionne de multiples scénarios historiques (31 200 € à 12%, 25 000 € à 8%, et un compromis retenu à 25 000 € pour 10%). Ces montants sont **SUPERSEDED** par le rapport d'expertise (25 200 €).
@@ -30,10 +30,10 @@ Conformément au §1 (Rapport d'expertise 2027-05-29), les valeurs de référenc
 
 - **IP :** Le document mentionne 30 000 € (méthode BIBAL 27.5) et d'autres scénarios (16 200 €), alors que le montant canonique est 28 000 €.
 
-### 3.2. `Protocole_Transactionnel_Dintilhac_20260713.md`
+### 3.2. `Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
 - Ce document cite le "Rapport d'Évaluation Indemnitaire du 13 juillet 2026", qui précède l'expertise. Il utilise des montants provisionnels et fait référence à des scénarios prudents/médians, ce qui est normal pour un document pré-expertise, mais doit être lu à l'aune des variables strictes si une mise à jour est requise.
 
-## 4. Audit des Conclusions au Fond (`Conclusions au Fond TJ Foix.md`)
+## 4. Audit des Conclusions au Fond (`Conclusions au Fond - TJ Foix.md`)
 - **Statut :** **COHÉRENT**
 
 - **DFP :** Mentionne correctement "25 200 €" (12 %).
@@ -44,7 +44,7 @@ Conformément au §1 (Rapport d'expertise 2027-05-29), les valeurs de référenc
 
 - Les conclusions sont alignées avec `STRICT VARIABLES.md`.
 
-## 5. Audit des Conclusions Référé Provision (`Refere Provision Conclusion.md`)
+## 5. Audit des Conclusions Référé Provision (`Référé - Conclusions Provision.md`)
 - **Statut :** **COHÉRENT (Phase provisoire)**
 
 - Le document demande une provision de 15 000 €, ce qui est justifié et cohérent avec `STRICT VARIABLES.md` (MONTANT_PROVISION_AMIABLE: 15 000 €).
@@ -55,6 +55,6 @@ Conformément au §1 (Rapport d'expertise 2027-05-29), les valeurs de référenc
 - Les documents dans `💰 Etudes indemnisation/` reflètent les évaluations *pré-expertise*. Bien que ces documents aient une valeur historique, il convient de s'assurer qu'aucun nouveau calcul ne se base sur ces scénarios "SUPERSEDED".
 
 ### Actions correctives recommandées
-- Mettre à jour l'en-tête de `📊 Evaluation Dintilhac Consolidee.md` (Token et Reel) pour indiquer clairement que les montants sont caducs et renvoyer vers le rapport d'expertise de 2027 et `STRICT VARIABLES.md` (§1).
+- Mettre à jour l'en-tête de `Note - Évaluation Dintilhac Consolidée.md` (Token et Reel) pour indiquer clairement que les montants sont caducs et renvoyer vers le rapport d'expertise de 2027 et `STRICT VARIABLES.md` (§1).
 
 - Maintenir la vigilance sur les copies de ces évaluations (rapports d'avocats, rapports internes) qui pourraient encore citer 31 200 € (DFP) ou 30 000 € (IP).

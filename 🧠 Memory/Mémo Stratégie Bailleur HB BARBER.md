@@ -40,7 +40,7 @@ statut: preparation
 
 **Idée clé :** Continuité d'activité et de personnes entre LMG (ancien exploitant) et HB BARBER (nouvel exploitant), même adresse, même activité, DG commune.
 
-**Correction apportée (17/07) :** Un **erratum formel** a été créé (📋 Preparation Foix/📜 Erratum Correction Identite Societe.md) pour rectifier l'erreur de désignation dans tous les actes antérieurs. LMG est laissée tranquille — toutes les demandes sont recentrées sur HB BARBER, seule exploitante au jour de l'accident. Erratum déposé lundi 20/07 au Commissariat + envoyé par LRAR séparée.
+**Correction apportée (17/07) :** Un **erratum formel** a été créé (📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md) pour rectifier l'erreur de désignation dans tous les actes antérieurs. LMG est laissée tranquille — toutes les demandes sont recentrées sur HB BARBER, seule exploitante au jour de l'accident. Erratum déposé lundi 20/07 au Commissariat + envoyé par LRAR séparée.
 
 ## 3. Certificat de dépôt de fonds Caisse d'Épargne
 

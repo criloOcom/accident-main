@@ -35,16 +35,16 @@ REEL = BASE / "⚖️ Actes/👤 Reel"
 # ─── Fichiers exclus du renommage (brouillons, 99, archives, etc.) ───
 EXCLUSIONS_TOKEN = {
     # Brouillons sans date
-    "🗂️ Organisation/06 📋 Synthese des Actions et Audits.md",
-    "🗂️ Organisation/21 📋 Plan Constat Police Foix.md",
-    "🗂️ Organisation/22 📋 Modif Email Maire Foix.md",
+    "🗂️ Organisation/Synthèse - Actions et Audits.md",
+    "🗂️ Organisation/Note - Plan Constat Police Foix.md",
+    "🗂️ Organisation/Note - Modification Email Maire Foix.md",
     "📂 Preuves officielles/01 📁 Dossier UMJ Preparation.md",
-    "⚖️ Actes proceduraux/16 ⚠️ Signalement Parquet Fraud.md",
-    "⚖️ Actes proceduraux/17 ⚖️ Requete Mandataire Ad Hoc.md",
+    "⚖️ Actes proceduraux/16 ⚠️ Signalement - Parquet Fraude.md",
+    "⚖️ Actes proceduraux/17 ⚖️ Requête - Mandataire Ad Hoc.md",
     # Exception 99 — pièce adverse
-    "📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md",
+    "📚 Analyses juridiques/Mémoire - En défense adverse.md",
     # Sans numéro (jamais dans la numérotation)
-    "🗂️ Organisation/Fiche Reflexe 48h Disparition SAS.md",
+    "🗂️ Organisation/Note - Fiche Réflexe 48h Disparition SAS.md",
 }
 
 # Les Archives sont exclues intégralement
@@ -75,12 +75,12 @@ MAPPING_RAW = [
 
     # ═══ ⚖️ Actes proceduraux ═══
     ("⚖️ Actes proceduraux", "01 ⚖️ Assignation.md", "J+32 ⚖️ Assignation Refere Provision.md", "2026-06-30"),
-    ("⚖️ Actes proceduraux", "02 🚔 Plainte.md", "J+32 🚔 Plainte Defaut Assurance RC.md", "2026-06-30"),
-    ("⚖️ Actes proceduraux", "02b 🛡️ Constitution Partie Civile.md", "J+38 🛡️ Constitution Partie Civile.md", "2026-07-06"),
-    ("⚖️ Actes proceduraux", "03 🔍 Assignation Article 145.md", "J+47 🔍 Requete Article 145 CPC.md", "2026-07-15"),
-    ("⚖️ Actes proceduraux", "04 📑 Bordereau.md", "J+39 📑 Bordereau Unifie.md", "2026-07-07"),
+    ("⚖️ Actes proceduraux", "02 🚔 Plainte.md", "J+32 🚔 Plainte - Défaut Assurance RC.md", "2026-06-30"),
+    ("⚖️ Actes proceduraux", "02b Archive - Constitution - Partie Civile.md", "J+38 Archive - Constitution - Partie Civile.md", "2026-07-06"),
+    ("⚖️ Actes proceduraux", "03 🔍 Assignation Article 145.md", "J+47 🔍 Requête - Article 145 CPC.md", "2026-07-15"),
+    ("⚖️ Actes proceduraux", "04 📑 Bordereau.md", "J+39 📑 Bordereau Unifié.md", "2026-07-07"),
     ("⚖️ Actes proceduraux", "05 🎯 Conclusions Refere.md", "J+39 🎯 Conclusions Refere Provision.md", "2026-07-07"),
-    ("⚖️ Actes proceduraux", "06 📸 Requete Constat Huissier.md", "J+38 📸 Requete Constat Huissier.md", "2026-07-06"),
+    ("⚖️ Actes proceduraux", "06 📸 Requête - Constat Huissier.md", "J+38 📸 Requête - Constat Huissier.md", "2026-07-06"),
     ("⚖️ Actes proceduraux", "07 ⚖️ Projet Ordonnance Refere.md", "J+63 ⚖️ Projet Ordonnance Refere.md", "2026-07-31"),
     ("⚖️ Actes proceduraux", "15 ⚖️ Réquisitoire introductif.md", "J+47 ⚖️ Requisitoire introductif.md", "2026-07-15"),
 
@@ -116,7 +116,7 @@ MAPPING_RAW = [
     ("✉️ Courriers", "30 ✉️ Courrier President TC.md", "J+41 ✉️ Opposition Radiation TC.md", "2026-07-09"),
     ("✉️ Courriers", "31 ✉️ Courrier INPI Opposition.md", "J+41 ✉️ Opposition Immatriculation INPI.md", "2026-07-09"),
     ("✉️ Courriers", "32 ✉️ Courrier SIE URSSAF Mutualisation.md", "J+41 ✉️ Mutualisation Fiscale Sociale.md", "2026-07-09"),
-    ("✉️ Courriers", "33 ✉️ Requete Constat Huissier 145 CPC.md", "J+41 ✉️ Requete Constat Huissier.md", "2026-07-09"),
+    ("✉️ Courriers", "33 ✉️ Requête - Constat Huissier 145 CPC.md", "J+41 ✉️ Requête - Constat Huissier.md", "2026-07-09"),
     ("✉️ Courriers", "34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md", "J+42 ✉️ Email Maire Tavella ERP.md", "2026-07-10"),
     ("✉️ Courriers", "35 ✉️ Courrier President TJ Foix.md", "J+44 ✉️ Preuves Complementaires TJ Foix.md", "2026-07-12"),
     ("✉️ Courriers", "36 📋 Antiseche Orale Plainte Complementaire.md", "J+47 📋 Antiseche Orale Plainte.md", "2026-07-15"),
@@ -131,30 +131,30 @@ MAPPING_RAW = [
     ("✉️ Courriers", "44 ✉️ Saisine CADA Version Courte.md", "J+47 ✉️ Saisine CADA Formulaire.md", "2026-07-15"),
 
     # ═══ 📚 Analyses juridiques ═══
-    ("📚 Analyses juridiques", "07 🎤 Plaidoirie dirigeants.md", "J+32 🎤 Plaidoirie Responsabilite Dirigeants.md", "2026-06-30"),
-    ("📚 Analyses juridiques", "09 ❓ FAQ.md", "J+32 ❓ FAQ Juridique.md", "2026-06-30"),
-    ("📚 Analyses juridiques", "12 📁 Dossier Plaidoirie.md", "J+60 📁 Dossier Plaidoirie Refere.md", "2026-07-28"),
-    ("📚 Analyses juridiques", "13 📜 Responsabilites legales.md", "J+32 📜 Analyse Responsabilites Legales.md", "2026-06-30"),
-    ("📚 Analyses juridiques", "14 Strategie jurisprudentielle.md", "J+39 📜 Strategie Jurisprudentielle.md", "2026-07-07"),
-    ("📚 Analyses juridiques", "15 Note Droit Assurances.md", "J+40 📜 Note Droit Assurances.md", "2026-07-08"),
-    ("📚 Analyses juridiques", "16 📜 Note Responsabilite Dirigeants Dissolution.md", "J+41 📜 Note Responsabilite Dirigeants.md", "2026-07-09"),
-    ("📚 Analyses juridiques", "18 Note Audit RNE NPAI SAS.md", "J+42 📜 Audit RNE NPAI SAS.md", "2026-07-10"),
-    ("📚 Analyses juridiques", "20 🛡️ Tableau Defense Reponse.md", "J+47 🛡️ Tableau Defense Reponse.md", "2026-07-15"),
-    ("📚 Analyses juridiques", "21 🛡️ Memo Strategie Administrative Penale.md", "J+47 🛡️ Memo Strategie Admin Penal.md", "2026-07-15"),
+    ("📚 Analyses juridiques", "07 🎤 Plaidoirie dirigeants.md", "J+32 Note - Plaidoirie Responsabilité Dirigeants.md", "2026-06-30"),
+    ("📚 Analyses juridiques", "09 ❓ FAQ.md", "J+32 Note - FAQ Juridique.md", "2026-06-30"),
+    ("📚 Analyses juridiques", "12 📁 Dossier Plaidoirie.md", "J+60 Note - Dossier Plaidoirie Référé.md", "2026-07-28"),
+    ("📚 Analyses juridiques", "13 📜 Responsabilites legales.md", "J+32 Note - Analyse Responsabilités Légales.md", "2026-06-30"),
+    ("📚 Analyses juridiques", "14 Strategie jurisprudentielle.md", "J+39 Note - Stratégie Jurisprudentielle.md", "2026-07-07"),
+    ("📚 Analyses juridiques", "15 Note Droit Assurances.md", "J+40 Note - Droit des Assurances.md", "2026-07-08"),
+    ("📚 Analyses juridiques", "16 Note - Responsabilité des Dirigeants Dissolution.md", "J+41 Note - Responsabilité des Dirigeants.md", "2026-07-09"),
+    ("📚 Analyses juridiques", "18 Note Audit RNE NPAI SAS.md", "J+42 Note - Audit RNE NPAI SAS.md", "2026-07-10"),
+    ("📚 Analyses juridiques", "20 Note - Tableau Défense Réponse.md", "J+47 Note - Tableau Défense Réponse.md", "2026-07-15"),
+    ("📚 Analyses juridiques", "21 🛡️ Memo Strategie Administrative Penale.md", "J+47 Note - Mémo Stratégie Admin Pénal.md", "2026-07-15"),
 
     # ═══ 💰 Etudes indemnisation ═══
-    ("💰 Etudes indemnisation", "11+12 📊 Evaluation Dintilhac consolidee.md", "J+39 📊 Evaluation Dintilhac Consolidee.md", "2026-07-07"),
-    ("💰 Etudes indemnisation", "13 Note strategique FGTI CIVI.md", "J+40 📊 Note Strategique FGTI CIVI.md", "2026-07-08"),
+    ("💰 Etudes indemnisation", "11+12 📊 Evaluation Dintilhac consolidee.md", "J+39 Note - Évaluation Dintilhac Consolidée.md", "2026-07-07"),
+    ("💰 Etudes indemnisation", "13 Note strategique FGTI CIVI.md", "J+40 Note - Stratégique FGTI CIVI.md", "2026-07-08"),
 
     # ═══ 🗂️ Organisation ═══
-    ("🗂️ Organisation", "00 📇 Index.md", "J+39 📇 Index General.md", "2026-07-07"),
-    ("🗂️ Organisation", "05 📋 Dossier Special CERFA.md", "J+40 📋 Dossier Special CERFA.md", "2026-07-08"),
-    ("🗂️ Organisation", "10 🗂️ Plan action.md", "J+32 🗂️ Plan Action.md", "2026-06-30"),
-    ("🗂️ Organisation", "11 📅 Calendrier procedural.md", "J+32 📅 Calendrier Procedure.md", "2026-06-30"),
-    ("🗂️ Organisation", "20 📦 Bon envoi physique.md", "J+38 📦 Bon Envoi Physique.md", "2026-07-06"),
-    ("🗂️ Organisation", "23 📊 Suivi Envois LRAR.md", "J+43 📊 Suivi Envois LRAR.md", "2026-07-11"),
-    ("🗂️ Organisation", "24 ✅ Bordereau Pieces 15 Juillet.md", "J+47 ✅ Bordereau Pieces 15 Juillet.md", "2026-07-15"),
-    ("🗂️ Organisation", "24 ✅ Checklist Envoi 11-07-2026.md", "J+43 ✅ Checklist Envoi 11-07.md", "2026-07-11"),
+    ("🗂️ Organisation", "00 📇 Index.md", "J+39 Note - Index Général.md", "2026-07-07"),
+    ("🗂️ Organisation", "05 Note - Dossier Spécial CERFA.md", "J+40 Note - Dossier Spécial CERFA.md", "2026-07-08"),
+    ("🗂️ Organisation", "10 🗂️ Plan action.md", "J+32 Note - Plan d'Action.md", "2026-06-30"),
+    ("🗂️ Organisation", "11 📅 Calendrier procedural.md", "J+32 Note - Calendrier Procédure.md", "2026-06-30"),
+    ("🗂️ Organisation", "20 📦 Bon envoi physique.md", "J+38 Note - Bon Envoi Physique.md", "2026-07-06"),
+    ("🗂️ Organisation", "23 Note - Suivi Envois LRAR.md", "J+43 Note - Suivi Envois LRAR.md", "2026-07-11"),
+    ("🗂️ Organisation", "24 Archive - Bordereau Pièces 15 Juillet.md", "J+47 Archive - Bordereau Pièces 15 Juillet.md", "2026-07-15"),
+    ("🗂️ Organisation", "24 Archive - Checklist Envoi 11-07-2026.md", "J+43 Archive - Checklist Envoi 11-07.md", "2026-07-11"),
 ]
 
 # Entrées supplémentaires Reel-only (les doublons de bordereau)

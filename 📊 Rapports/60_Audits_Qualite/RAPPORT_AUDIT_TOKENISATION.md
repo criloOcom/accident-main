@@ -29,11 +29,11 @@ type: rapport
 
 | Fichier | Ligne | Extrait |
 |---|---|---|
-| `🗂️ Organisation/22 📋 Modif Email Maire Foix.md` | 44 | `Sébastien GRAZIDE` |
-| `🗂️ Organisation/22 📋 Modif Email Maire Foix.md` | 45 | `10 Avenue de Purpan, 31700 Blagnac` |
-| `🗂️ Organisation/22 📋 Modif Email Maire Foix.md` | 46 | `sebastien.grazide@gmail.com` |
-| `🗂️ Organisation/24 ✅ Checklist Envoi 11-07-2026.md` | 62 | `Sebastien GRAZIDE` |
-| `🗂️ Organisation/24 ✅ Checklist Envoi 11-07-2026.md` | 69 | `Sebastien GRAZIDE` |
+| `🗂️ Organisation/Note - Modification Email Maire Foix.md` | 44 | `Sébastien GRAZIDE` |
+| `🗂️ Organisation/Note - Modification Email Maire Foix.md` | 45 | `10 Avenue de Purpan, 31700 Blagnac` |
+| `🗂️ Organisation/Note - Modification Email Maire Foix.md` | 46 | `sebastien.grazide@gmail.com` |
+| `🗂️ Organisation/24 Archive - Checklist Envoi 11-07-2026.md` | 62 | `Sebastien GRAZIDE` |
+| `🗂️ Organisation/24 Archive - Checklist Envoi 11-07-2026.md` | 69 | `Sebastien GRAZIDE` |
 
 **Risque :** Le token `**[La Victime]**` est contourné — l'identité réelle apparaît en clair dans deux fichiers du dossier tokenisé.
 
@@ -50,9 +50,9 @@ type: rapport
 
 | Fichier | Ligne | Extrait |
 |---|---|---|
-| `✉️ Courriers/✉️ Prefecture 🚨Signalement.md` | 7 | `M. Bernard TAVELLA` |
-| `✉️ Courriers/✉️ Prefecture 🚨Signalement.md` | 13 | `btavella@mairie-foix.fr` |
-| `✉️ Courriers/✉️ Prefecture 🚨Signalement.md` | 14 | `secretariat@mairie-foix.fr` |
+| `✉️ Courriers/✉️ Signalement - Préfecture.md` | 7 | `M. Bernard TAVELLA` |
+| `✉️ Courriers/✉️ Signalement - Préfecture.md` | 13 | `btavella@mairie-foix.fr` |
+| `✉️ Courriers/✉️ Signalement - Préfecture.md` | 14 | `secretariat@mairie-foix.fr` |
 
 **Risque :** Les emails réels d'un tiers (agent public) sont en clair dans un fichier tokenisé. Le token `**[L'Adjoint au Maire de la Commune]**` existe dans le script mais n'a pas été appliqué ici (le nom `Bernard TAVELLA` apparaît en clair en ligne 7).
 
@@ -60,7 +60,7 @@ type: rapport
 
 | Fichier | Ligne | Extrait |
 |---|---|---|
-| `🗂️ Organisation/21 📋 Plan Constat Police Foix.md` | 37 | `mairie@mairie-foix.fr` |
+| `🗂️ Organisation/Note - Plan Constat Police Foix.md` | 37 | `mairie@mairie-foix.fr` |
 
 ### II.5 — 🔴 FUITE 5 — SIREN en clair (identifiant société)
 
@@ -80,22 +80,22 @@ type: rapport
 |---|---|---|
 | `📚 Analyses juridiques/18 Note Audit RNE NPAI SAS.md` | 25 | `22 Rue Lafaurie, 09000 Foix` |
 | `📚 Analyses juridiques/18 Note Audit RNE NPAI SAS.md` | 30 | `22 Rue Lafaurie` |
-| `🗂️ Organisation/21 📋 Plan Constat Police Foix.md` | 40, 46 | `22 rue Lafaurie`, `22 Rue Lafaurie à Foix` |
-| `🗂️ Organisation/22 📋 Modif Email Maire Foix.md` | 21, 25, 29 | `22 Rue Lafaurie` (3 occurrences) |
+| `🗂️ Organisation/Note - Plan Constat Police Foix.md` | 40, 46 | `22 rue Lafaurie`, `22 Rue Lafaurie à Foix` |
+| `🗂️ Organisation/Note - Modification Email Maire Foix.md` | 21, 25, 29 | `22 Rue Lafaurie` (3 occurrences) |
 
 ### II.7 — 🔴 FUITE 7 — Nom de la SAS en clair
 
 | Fichier | Ligne | Extrait |
 |---|---|---|
-| `🗂️ Organisation/21 📋 Plan Constat Police Foix.md` | 48 | `SAS LES MAUVAIS GARCONS` |
-| `🗂️ Organisation/22 📋 Modif Email Maire Foix.md` | 29 | `SAS LES MAUVAIS GARCONS` |
-| `🗂️ Organisation/24 ✅ Checklist Envoi 11-07-2026.md` | 31, 37 | `SAS LES MAUVAIS GARCONS` |
+| `🗂️ Organisation/Note - Plan Constat Police Foix.md` | 48 | `SAS LES MAUVAIS GARCONS` |
+| `🗂️ Organisation/Note - Modification Email Maire Foix.md` | 29 | `SAS LES MAUVAIS GARCONS` |
+| `🗂️ Organisation/24 Archive - Checklist Envoi 11-07-2026.md` | 31, 37 | `SAS LES MAUVAIS GARCONS` |
 
 ### II.8 — 🟡 FUITE 8 — Nom médical en clair
 
 | Fichier | Ligne | Extrait |
 |---|---|---|
-| `🗂️ Organisation/06 📋 Synthese des Actions et Audits.md` | 20 | `Dr DJERBI` |
+| `🗂️ Organisation/Synthèse - Actions et Audits.md` | 20 | `Dr DJERBI` |
 
 ### II.9 — 🟡 FUITE 9 — Dates brutes non tokenisées
 
@@ -103,12 +103,12 @@ type: rapport
 |---|---|---|
 | `⚖️ Actes proceduraux/05 🎯 Conclusions Refere.md` | 42 | `29 mai 2026` |
 | `⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md` | 40, 42 | `29 mai 2026`, `30 mai 2026` |
-| `✉️ Courriers/✉️ INPI 🚨Signalement.md` | 37 | `29 mai 2026` |
-| `✉️ Courriers/33 ✉️ Requete Constat Huissier 🗄️Archive 145 CPC.md` | 55 | `30 mai 2026` |
-| `✉️ Courriers/✉️ Prefecture 🚨Signalement.md` | 22, 24 | `29 mai 2026`, `1er juin 2026` |
+| `✉️ Courriers/✉️ Signalement - INPI.md` | 37 | `29 mai 2026` |
+| `✉️ Courriers/33 ✉️ Requête - Constat Huissier Archive 145 CPC.md` | 55 | `30 mai 2026` |
+| `✉️ Courriers/✉️ Signalement - Préfecture.md` | 22, 24 | `29 mai 2026`, `1er juin 2026` |
 | `✉️ Courriers/35 ✉️ Courrier President TJ Foix.md` | 35 | `29 mai 2026` |
-| `🗂️ Organisation/21 📋 Plan Constat Police Foix.md` | 46 | `29 mai 2026` |
-| `🗂️ Organisation/22 📋 Modif Email Maire Foix.md` | 25 | `29 mai 2026` |
+| `🗂️ Organisation/Note - Plan Constat Police Foix.md` | 46 | `29 mai 2026` |
+| `🗂️ Organisation/Note - Modification Email Maire Foix.md` | 25 | `29 mai 2026` |
 
 **Risque :** Les dates clés de l'accident sont en clair. Les tokens `**[J+0 Accident]**`, `**[J+1 Chirurgie]**` etc. existent mais n'ont pas été utilisés dans ces fichiers.
 
@@ -130,7 +130,7 @@ type: rapport
 | Token | Valeur réelle (script) | Utilisé dans |
 |---|---|---|
 | `**[L'Adjoint au Maire de la Commune]**` | Monsieur TAVELLA | `✉️ Courriers/09`, `✉️ Courriers/08` |
-| `**[L'Email de l'Adjoint au Maire]**` | *manquant* | `🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md` |
+| `**[L'Email de l'Adjoint au Maire]**` | *manquant* | `🗄️ Archives/Archive - Stratégie Contentieux Pénal.md` |
 | `**[Agent PJ, dépôt de plainte]**` | Jordy RODRIGUEZ CAPARROS | `⚖️ Actes proceduraux/04`, `📂 Preuves officielles/01` |
 | `**[SMUR local]**` | SMUR 09 | `⚖️ Actes proceduraux/01`, `⚖️ Actes proceduraux/03`, `🗄️ Archives/📚 ANALYSE` |
 | `**[Le Téléphone de la Victime]**` | 06 30 51 67 75 | *(défini dans script, non vérifié dans fichiers)* |
@@ -185,9 +185,9 @@ type: rapport
 
 2. **Régénérer ou corriger manuellement** les 3 fichiers les plus critiques :
 
-   - `🗂️ Organisation/22 📋 Modif Email Maire Foix.md` — Remplacer `Sébastien GRAZIDE` par `**[La Victime]**`, l'adresse par `**[L'Adresse de la Victime]**`, l'email par `**[L'Email de la Victime]**`
+   - `🗂️ Organisation/Note - Modification Email Maire Foix.md` — Remplacer `Sébastien GRAZIDE` par `**[La Victime]**`, l'adresse par `**[L'Adresse de la Victime]**`, l'email par `**[L'Email de la Victime]**`
    - `📚 Analyses juridiques/18 Note Audit RNE NPAI SAS.md` — Tokeniser les noms complets, adresses personnelles, SIREN, dates de naissance des dirigeants
-   - `✉️ Courriers/✉️ Prefecture 🚨Signalement.md` — Remplacer `M. Bernard TAVELLA` par `**[L'Adjoint au Maire de la Commune]**`, les emails par `**[L'Email de l'Adjoint au Maire]**`
+   - `✉️ Courriers/✉️ Signalement - Préfecture.md` — Remplacer `M. Bernard TAVELLA` par `**[L'Adjoint au Maire de la Commune]**`, les emails par `**[L'Email de l'Adjoint au Maire]**`
 
 3. **Mettre à jour `batch_anonymize.py`** avec les nouveaux tokens manquants (TAVELLA, emails mairie, adresses dirigeants, SIREN).
 
@@ -199,9 +199,9 @@ type: rapport
 
 6. **Remplacer les SIREN en clair** (938 033 222) dans 5 fichiers par `**[SIREN de l'Exploitation]**`.
 
-7. **Nettoyer `🗂️ Organisation/24 ✅ Checklist Envoi 11-07-2026.md`** — les lignes 62 et 69 contiennent `Sebastien GRAZIDE` en objet d'email.
+7. **Nettoyer `🗂️ Organisation/24 Archive - Checklist Envoi 11-07-2026.md`** — les lignes 62 et 69 contiennent `Sebastien GRAZIDE` en objet d'email.
 
-8. **Nettoyer `🗂️ Organisation/21 📋 Plan Constat Police Foix.md`** — tokeniser le modèle d'email (adresse, nom SAS, date).
+8. **Nettoyer `🗂️ Organisation/Note - Plan Constat Police Foix.md`** — tokeniser le modèle d'email (adresse, nom SAS, date).
 
 ### VI.3 — Maintenance
 

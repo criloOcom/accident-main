@@ -1,8 +1,3 @@
-<!-- Breadcrumb -->
-*[🏠](../README.md) › 🚦 Status*
-<hr>
-<!-- /Breadcrumb -->
-
 # 📊 Index des statuts
 
 Ce dossier contient un fichier par statut, listant tous les documents concernés avec leurs liens croisés.
@@ -11,21 +6,16 @@ Ce dossier contient un fichier par statut, listant tous les documents concernés
 
 - [archive (8)](archive.md)
 
-- [brouillon (30)](brouillon.md)
+- [brouillon (26)](brouillon.md)
 
-- [envoye (5)](envoye.md)
+- [final (52)](final.md)
 
-- [final (78)](final.md)
+- [preparation (6)](preparation.md)
 
-- [preparation (9)](preparation.md)
+- [projet (6)](projet.md)
 
-- [projet (16)](projet.md)
+- [recueillie (2)](recueillie.md)
 
-- [01_PREPARATION](01_PREPARATION.md)
-
-- [02_PRET_POUR_ENVOI](02_PRET_POUR_ENVOI.md)
-
-- [03_ENVOYE](03_ENVOYE.md)
 ## Convention des statuts
 
 | Statut | Signification |

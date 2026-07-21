@@ -94,8 +94,11 @@ type: memory
 
 ## #28 — INTERDICTION D'ASSOCIER FOIX AU DÉPÔT INITIAL DE PLAINTE
 - La plainte initiale du 2 juin 2026 a été déposée auprès du **Service Local de Sécurité Publique de Toulouse Rive Droite** (23 Boulevard de l'Embouchure, 31300 Toulouse), **PAS** au Commissariat de Foix.
+
 - Le dossier a ensuite été transmis pour compétence territoriale au Commissariat de Foix (PV n° 2026/015967).
+
 - Toute mention associant « Commissariat de Foix » au **dépôt initial** de plainte du 2 juin 2026 est une erreur factuelle.
+
 - Cette règle est permanente et non négociable. Voir `STRICT VARIABLES.md` § DEPOT_PLAINTE_LIEU.
 
 
@@ -171,7 +174,7 @@ type: memory
 
 - Ne JAMAIS commit/push sans vérification préalable — une régression (lien mort, token inconnu, donnée contradictoire) invalide tout le dossier
 
-- Les fichiers [⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Civil.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Civil.md) et [⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Penal.md) sont les portes d'entrée — leur mise à jour est prioritaire
+- Les fichiers [⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20Civil.md) et [⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20P%C3%A9nal.md) sont les portes d'entrée — leur mise à jour est prioritaire
 
 ## STRUCTURE DES DOCUMENTS UNIFIE_ANONYME (voir aussi DESIGN.md)
 - Titre du document en TITLE (20pt, CENTER, BOLD — PAS le 36pt par défaut)
@@ -226,20 +229,20 @@ Il est formellement interdit de qualifier un document de « Envoyé » sur le se
 
 | N° Document | Statut réel | Raison |
 |:-----------:|:-----------:|--------|
-| **04** ([Action directe assureur](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%20SAS%20%F0%9F%93%9CLettre%20Assureur.md)) | 🟡 PROJET | `[A compléter]` dans l'adresse — assureur non identifié. Statut YAML `final` erroné. |
-| **05** ([Mise en demeure propriétaire](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%20Proprietaire%20%F0%9F%93%9CLettre.md)) | 🟡 PROJET | `[A compléter]` dans l'adresse. Statut YAML `final` erroné. |
-| **06** ([Mise en demeure dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%20SAS%20President%20%F0%9F%93%9CLettre.md)) | 🟡 PROJET | Adresses complètes mais pas de numéro LRAR ni preuve d'envoi. Statut YAML `final` erroné. |
-| **06 V2** ([Relance dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%20SAS%20Dirigeants%20%F0%9F%94%84Relance.md)) | 🟢 ENVOYÉS (échec PND) | 3 LRAR : 87001424863012T (SAS PND), 87001424721856G (retour), 87001424862879J (attente). **Seul fichier avec preuve matérielle.** |
+| **04** ([Action directe assureur](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%20Courrier%20-%20SAS%20Assureur.md)) | 🟡 PROJET | `[A compléter]` dans l'adresse — assureur non identifié. Statut YAML `final` erroné. |
+| **05** ([Mise en demeure propriétaire](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Propri%C3%A9taire.md)) | 🟡 PROJET | `[A compléter]` dans l'adresse. Statut YAML `final` erroné. |
+| **06** ([Mise en demeure dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Pr%C3%A9sident%20SAS.md)) | 🟡 PROJET | Adresses complètes mais pas de numéro LRAR ni preuve d'envoi. Statut YAML `final` erroné. |
+| **06 V2** ([Relance dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%20Relance%20-%20Dirigeants%20SAS.md)) | 🟢 ENVOYÉS (échec PND) | 3 LRAR : 87001424863012T (SAS PND), 87001424721856G (retour), 87001424862879J (attente). **Seul fichier avec preuve matérielle.** |
 | **07** ([Demande consolidation](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%F0%9F%94%84%20Consolidation.md)) | 🟡 BROUILLON | `[A compléter]` adresse Dr DJERBI. Accident 29/05, état non consolidé (suivi ~1 an). |
-| **08** ([Suivi Mairie TAVELLA](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%20Adjoint%20Maire%20Tavella%20%F0%9F%94%84Relance.md)) | 🟡 BROUILLON | `[Adresse de la Mairie]` non renseigné. |
-| **09** ([Inspection Travail](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%20Inspection%20Travail%20%F0%9F%9A%A8Signalement.md)) | 🟡 PROJET | `[A compléter]` adresse DDETS. Texte au conditionnel : « Je me réserve le droit... » |
-| **10** ([CPC Doyen TJ](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requete%20Article%20145%20CPC.md))  | 🟡 PROJET | `[Adresse Tribunal Judiciaire]` non renseigné. |
+| **08** ([Suivi Mairie TAVELLA](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%94%84%20Relances/%E2%9C%89%EF%B8%8F%20Relance%20-%20Adjoint%20au%20Maire%20Tavella.md)) | 🟡 BROUILLON | `[Adresse de la Mairie]` non renseigné. |
+| **09** ([Inspection Travail](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%9A%A8%20Signalements/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Inspection%20du%20Travail.md)) | 🟡 PROJET | `[A compléter]` adresse DDETS. Texte au conditionnel : « Je me réserve le droit... » |
+| **10** ([CPC Doyen TJ](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requ%C3%AAte%20-%20Article%20145%20CPC.md))  | 🟡 PROJET | `[Adresse Tribunal Judiciaire]` non renseigné. |
 | **11 à 21** (INPI, URSSAF, Préf., CODAF, SIE, CD09, CPAM, SDIS, FGTI, Police, CPAM) | 🟡 PROJETS | Tous les 11 fichiers ont des `[A compléter]` dans les adresses. Statut YAML `final` erroné. Aucune preuve LRAR ou email dans aucun fichier. |
 | **22-24** (Attestations témoins) | 🔴 GABARITS | Modèles Cerfa vierges, à compléter avant transmission. |
 | **25-28** (Emails relances) | 🟡 BROUILLONS | Statut YAML `brouillon`, emails des destinataires inconnus. |
-| **32** ([Mutualisation SIE/URSSAF](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%20SIE%20URSSAF%20Mutualisation%20%F0%9F%93%9DDocument.md)) | 🟡 PROJET | Statut YAML `projet`, pas sur Drive. |
-| **33** ([Constat huissier 145 CPC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%97%84%EF%B8%8F%20Archiv%C3%A9/%E2%9C%89%EF%B8%8F%20Requete%20Constat%20Huissier%20%F0%9F%97%84%EF%B8%8FArchive.md)) | 🟡 PROJET | Statut YAML `projet`, aucun huissier contacté. |
-| **34** ([Email Maire Foix Police](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%20Mairie%20Tavella%20ERP%20%F0%9F%93%9DDocument.md)) | 🟠 PRÊT POUR ENVOI | Fichier finalisé, envoi prévu le 11/07/2026 8h00. |
+| **32** ([Mutualisation SIE/URSSAF](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Mutualisation%20SIE%20URSSAF.md)) | 🟡 PROJET | Statut YAML `projet`, pas sur Drive. |
+| **33** ([Constat huissier 145 CPC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%97%84%EF%B8%8F%20Archiv%C3%A9/%E2%9C%89%EF%B8%8F%20Requ%C3%AAte%20-%20Constat%20Huissier%20Archive.md)) | 🟡 PROJET | Statut YAML `projet`, aucun huissier contacté. |
+| **34** ([Email Maire Foix Police](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9D%20Proc%C3%A9dure/%E2%9C%89%EF%B8%8F%20Courrier%20-%20ERP%20Mairie%20Tavella.md)) | 🟠 PRÊT POUR ENVOI | Fichier finalisé, envoi prévu le 11/07/2026 8h00. |
 
 ### CONSIGNES D'AUDIT POUR LES AGENTS
 

@@ -14,11 +14,11 @@ Produis un rapport `📊 Rapports/RAPPORT_PLAN_DEPLACEMENT_2026-07-18.md` propos
 ## MÉTHODE
 
 Relis les existants :
-- `📋 Checklist Deplacement Foix.md`
+- `Archive - Checklist Déplacement Foix.md`
 
-- `📋 Bordereau de Pieces Foix.md`
+- `📋 Bordereau - Pièces Commissariat Foix.md`
 
-- `📋 Note Personnelle Commissariat Foix.md`
+- `📋 Note - Personnelle Commissariat Foix.md`
 
 - Le guide AJ
 

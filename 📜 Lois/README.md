@@ -328,4 +328,6 @@ Décisions de cours d'appel et tribunaux judiciaires sur les thèmes ERP, action
 
 - **[RAPPORT_ORGANISATION_20260711](RAPPORT_ORGANISATION_20260711.md)** — Rapport d'organisation et d'audit (11 juillet 2026).
 
-- **[CHANGELOG_JURIDIQUE](CHANGELOG_JURIDIQUE.md)** — Historique des modifications.
+- **[Note - Changelog Juridique](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/Note%20-%20Changelog%20Juridique.md)** — Historique des modifications.
+
+- **[CHANGELOG_JURIDIQUE](CHANGELOG_JURIDIQUE.md)**

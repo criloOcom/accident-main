@@ -14,4 +14,4 @@ status: placeholder
 **Valeur réelle :** À déterminer (compagnie d'assurance RC professionnelle de l'exploitation)
 
 **Références :**
-- Mentionné dans [[📜 Conclusions au Fond TJ Foix]]
+- Mentionné dans [[📜 Conclusions au Fond - TJ Foix]]

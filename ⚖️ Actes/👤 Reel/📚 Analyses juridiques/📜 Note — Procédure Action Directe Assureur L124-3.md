@@ -14,9 +14,10 @@ tags:
   - article 145 CPC
 statut: brouillon
 auteur: La Victime
-reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note — Procédure Action Directe Assureur L124-3.md
 source: local
 jx: J+53
+token_path: ../../🔑 Token/📚 Analyses juridiques/📜 Note — Procédure Action Directe Assureur L124-3.md
+
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › 📜 Note — Procédure Action Directe Assureur L124-3*
@@ -26,7 +27,6 @@ jx: J+53
 > **Contexte** : Accident de la main survenu le 29 mai 2026 dans un salon de coiffure (vasque céramique défectueuse ayant basculé). La SAS exploitante ([SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), capital ~5 000 €) est assurée, mais [Hamza El Hachemi BERGUIGA](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) dissimule l'identité de l'assureur. Procédure en référé sur l'article 145 CPC en cours pour lever cette information. Objectif : action directe contre l'assureur RC pour obtenir une provision.
 
 # NOTE — PROCÉDURE ACTION DIRECTE<br>ASSURANCE — ART. L.124-3 C. ASSUR.
-
 ## I — OBJET ET CHAMP DE LA NOTE
 
 La présente note a pour objet d'analyser les conditions, la prescription et la stratégie procédurale de l'action directe que **[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** peut exercer contre l'assureur de responsabilité civile de la SAS exploitant le salon de coiffure, sur le fondement de l'article L.124-3 du Code des assurances.
@@ -38,7 +38,6 @@ Elle s'inscrit dans le cadre d'une procédure en deux temps :
 - **Phase 2** : Action directe en référé-provision (article 835 CPC) et/ou au fond contre l'assureur une fois identifié, pour obtenir l'indemnisation du préjudice corporel.
 
 Sont examinés : le fondement textuel, le régime de prescription, les conditions de mise en œuvre, le contentieux sur l'identité de l'assureur, l'articulation avec les mécanismes subsidiaires (FGAO, CIVI), les risques et limites, et la feuille de route procédurale.
-
 <hr><hr>
 
 ## II — FONDEMENT TEXTUEL<br>ART. L.124-3 DU CODE DES ASSURANCES
@@ -77,7 +76,6 @@ Ce caractère autonome emporte des conséquences fondamentales :
 - **[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006438827)** — Responsabilité du fait des choses (fondement de la responsabilité de l'ERP).
 
 - **[Article 835 CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)** — Référé-provision (voie procédurale pour obtenir une provision).
-
 <hr><hr>
 
 ## III — PRESCRIPTION DE L'ACTION DIRECTE<br>5 ANS, PAS 2 ANS (ARRÊT 80-16.679)
@@ -115,7 +113,6 @@ Il est impératif de ne pas confondre :
 > **Cour d'appel de Versailles**
 
 **Dans notre dossier :** L'accident étant survenu le 29 mai 2026, et [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) n'étant pas encore consolidée, la prescription court à compter de la date de consolidation. L'assignation en référé sur l'article 145 CPC interrompt la prescription (art. 2241 C. civ.). Le délai pour agir est donc très large, mais il convient d'agir sans délai pour éviter tout débat dilatoire.
-
 <hr><hr>
 
 ## IV — CONDITIONS DE MISE EN ŒUVRE DE L'ACTION DIRECTE
@@ -161,7 +158,6 @@ L'action directe suppose que la responsabilité de l'assuré soit engagée. Dans
 ### IV.4 — Caractère non sérieusement contestable de l'obligation
 
 Pour obtenir une **provision en référé** sur le fondement de l'article 835 CPC, il faut démontrer que l'obligation d'indemniser n'est « pas sérieusement contestable ». Dans notre dossier, la matérialité des faits, le lien de causalité direct, et l'absence d'exclusion de garantie (voir section VII) rendent l'obligation de l'assureur non sérieusement contestable au sens de la jurisprudence constante.
-
 <hr><hr>
 
 ## V — CONTENTIEUX SUR L'IDENTITÉ DE L'ASSUREUR<br>RÉFÉRÉ ART. 145 CPC
@@ -202,7 +198,6 @@ L'assignation en référé demande :
 - **Opposition à la communication** : le dirigeant pourrait prétendre ne pas connaître l'assureur (défense peu crédible pour une société commerciale).
 
 - **Inexistence d'assurance** : si la SAS n'est pas assurée (ce qui constituerait une infraction pénale en soi — art. L.243-1 C. assur. pour certaines activités professionnelles), la procédure devra se rediriger vers le FGAO (voir section VI).
-
 <hr><hr>
 
 ## VI — CHAMP FGAO / CIVI<br>ARRÊTS 20-22.100 ET 20-19.288
@@ -244,7 +239,6 @@ Cependant, la Cour de cassation a posé un principe d'exclusivité des régimes 
 - La CIVI pourrait alors être compétente pour les blessures involontaires (infraction pénale), sous réserve de remplir les conditions de l'article 706-3 CPP (préjudice corporel grave).
 
 - Par ailleurs, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) pourrait se constituer partie civile dans le cadre d'une éventuelle procédure pénale.
-
 <hr><hr>
 
 ## VII — RISQUES ET LIMITES
@@ -303,7 +297,6 @@ Le comportement de [Hamza El Hachemi BERGUIGA](../../../%F0%9F%A7%A0%20Memory/%F
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions — faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
 > [Arrêt SATI — Com., 20 mai 2003, n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale**
-
 <hr><hr>
 
 ## VIII — FEUILLE DE ROUTE PROCÉDURALE
@@ -369,7 +362,6 @@ Le comportement de [Hamza El Hachemi BERGUIGA](../../../%F0%9F%A7%A0%20Memory/%F
 6. Présenter le préjudice : ITT de 55 jours, souffrances endurées, préjudice esthétique temporaire, incidence professionnelle (informaticien indépendant — cf. [**TJ Rennes 2026, n°20/05541**](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Jurisprudence%20du%20fond%20%28CA-TJ%29/TJ%20Rennes%2020-05541.md)), et post-consolidation à évaluer.
 
 7. Justifier le quantum de la provision (15 000 €) par référence aux barèmes et à la jurisprudence (cf. [**TJ Nanterre 2024, n°22/02447**](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Jurisprudence%20du%20fond%20%28CA-TJ%29/TJ%20Nanterre%2022-02447.md) — souffrances 5/7).
-
 <hr><hr>
 
 ## IX — SYNTHÈSE ET RECOMMANDATIONS
@@ -398,7 +390,7 @@ L'action directe contre l'assureur de [SAS HB BARBER](../../../%F0%9F%A7%A0%20Me
 
 2. En parallèle, consulter l'ORIAS pour identifier l'assureur déclaré ;
 
-3. Une fois l'assureur identifié, lui adresser une mise en demeure formelle (modèle disponible dans la [**Note Droit Assurances**](%F0%9F%93%9C%20Note%20Droit%20Assurances.md)) ;
+3. Une fois l'assureur identifié, lui adresser une mise en demeure formelle (modèle disponible dans la [**Note Droit Assurances**](Note%20-%20Droit%20des%20Assurances.md)) ;
 
 4. En cas de silence ou refus, saisir le juge des référés pour obtenir une provision et une expertise médicale ;
 

@@ -1,34 +1,23 @@
----
-title: "✉️ Courriers (Versions Réelles)"
-description: "Vue d'ensemble des courriers réels classés par catégorie et par J+."
-type: readme
----
-<!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [👤 Actes / reel — Version réelle](../README.md) › ✉️ Courriers*
-<hr>
-<!-- /Breadcrumb -->
+# Index — ✉️ Courriers (Réel)
 
-# ✉️ Courriers — Index (👤 Reel)
+- [⚕️ Médical/](%E2%9A%95%EF%B8%8F%20M%C3%A9dical/)
 
-Ce dossier rassemble **tous les courriers** du projet Accident Main, en version **Réelle** (nominative).  
-Généré automatiquement par [`generate_real_versions.py`](..%2F..%2F..%2F.dev%2Fapp%2Fgenerate_real_versions.py) à partir des fichiers dans [`🔑 Token/✉️ Courriers/`](..%2F..%2F%F0%9F%94%91%20Token%2F%E2%9C%89%EF%B8%8F%20Courriers%2FREADME.md).
+- [🏛️ Administrations/](%F0%9F%8F%9B%EF%B8%8F%20Administrations/)
 
----
+- [🏛️ Justice/](%F0%9F%8F%9B%EF%B8%8F%20Justice/)
 
-## 📂 Sous-dossiers
+- [🏛️ Mairie/](%F0%9F%8F%9B%EF%B8%8F%20Mairie/)
 
-- **[📜 Mises en demeure](../../%F0%9F%94%91%20Token/README.md)**
+- [🏠 Propriétaire/](%F0%9F%8F%A0%20Propri%C3%A9taire/)
 
-- **[⚖️ Contentieux](../../%F0%9F%94%91%20Token/README.md)**
+- [🏢 SAS & Salon/](%F0%9F%8F%A2%20SAS%20%26%20Salon/)
 
-- **[📝 Procédure](../../%F0%9F%94%91%20Token/README.md)**
+- [🏥 CPAM/](%F0%9F%8F%A5%20CPAM/)
 
-- **[🔄 Relances](../../%F0%9F%94%91%20Token/README.md)**
+- [👥 Témoins/](%F0%9F%91%A5%20T%C3%A9moins/)
 
-- **[🚨 Signalements](../../%F0%9F%94%91%20Token/README.md)**
+- [👮 Police/](%F0%9F%91%AE%20Police/)
 
-- **[📋 Attestations](../../%F0%9F%94%91%20Token/README.md)**
+- [📋 Interne/](%F0%9F%93%8B%20Interne/)
 
-- **[📋 Personnel](../../%F0%9F%94%91%20Token/README.md)**
-
-- **[🗄️ Archivé](%F0%9F%97%84%EF%B8%8F%20Archiv%C3%A9%2FREADME.md)**
+- [🗄️ Archivé/](%F0%9F%97%84%EF%B8%8F%20Archiv%C3%A9/)

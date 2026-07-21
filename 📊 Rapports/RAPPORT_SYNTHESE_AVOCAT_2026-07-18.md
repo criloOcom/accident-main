@@ -71,7 +71,7 @@ Attention : Le dossier comporte de nombreuses mentions erronées indiquant « D�
   [Lien vers la note (Token)](../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260716%20%F0%9F%8F%AA%20Visite%20Lieux%20Foix/20260716%20Note%20Constatations%20Visite%20Lieux.md)
 
 - **Erratum identité société** :
-  [Lien vers l'erratum (Token)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md)
+  [Lien vers l'erratum (Token)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Note%20-%20Erratum%20Correction%20Identit%C3%A9%20Soci%C3%A9t%C3%A9.md)
 
 <hr><hr>
 

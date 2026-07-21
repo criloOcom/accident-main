@@ -62,7 +62,7 @@ type: memory
   1. `cd /home/crilocom/accident-main && python3 app/check_consistency.py`
   2. Le script signale les liens morts, tokens inconnus, LEGIARTI invalides, dates incohérentes
   3. Corriger les erreurs signalées avant de commit
-  4. Vérifier que [⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Civil.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Civil.md) et [⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Penal.md) listent bien le nouvel acte
+  4. Vérifier que [⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20Civil.md) et [⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20P%C3%A9nal.md) listent bien le nouvel acte
 
 ## Gestion des sessions Jules — CYCLE DE VIE
 - Une session Jules est créée avec `jules_create_session` pour exécuter une tâche de code.

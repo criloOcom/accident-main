@@ -25,31 +25,31 @@ Suite à l'audit, plusieurs erreurs matérielles (mentionnant une date erronée 
 
 ### Confusion avec le 29 juin 2026
 Ces fichiers mentionnent par erreur `29 juin 2026` (date d'envoi des LRAR) comme étant la date de l'accident :
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/📚 Analyses juridiques/📜 Note Synthese Avocat Bascule HB BARBER.md` : l. 72 — Date accident erronée : '29 juin 2026' (réel : 29 mai 2026).
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md` : l. 72 — Date accident erronée : '29 juin 2026' (réel : 29 mai 2026).
 
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Commissariat Foix Plainte Complementaire ⚖️Contentieux.md` : l. 72, 209 — Date accident erronée : '29 juin 2026'.
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md` : l. 72, 209 — Date accident erronée : '29 juin 2026'.
 
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Proprietaire 📜Lettre Relance 3.md` : l. 44 — Date accident erronée : '29 juin 2026'.
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Propriétaire Relance 3.md` : l. 44 — Date accident erronée : '29 juin 2026'.
 
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md` : l. 84 — Date accident erronée : '29 juin 2026'.
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte - Complémentaire Correction.md` : l. 84 — Date accident erronée : '29 juin 2026'.
 
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire Foix.md` : l. 66 — Date accident erronée : '29 juin 2026'.
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV - Audition Plainte Complémentaire Foix.md` : l. 66 — Date accident erronée : '29 juin 2026'.
 
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Note Personnelle Commissariat Foix.md` : l. 126 — Date accident erronée : '29 juin 2026'.
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Note - Personnelle Commissariat Foix.md` : l. 126 — Date accident erronée : '29 juin 2026'.
 
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Erratum Correction Identite Societe.md` : l. 51, 99 — Date accident erronée : '29 juin 2026'.
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md` : l. 51, 99 — Date accident erronée : '29 juin 2026'.
 
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/MEMO_AUDIENCE_31072026.md` : l. 79 — Date accident erronée : '29 juin 2026'.
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Mémo - Audience 31-07-2026.md` : l. 79 — Date accident erronée : '29 juin 2026'.
 
 *(Note : Ces mêmes erreurs se répercutent logiquement dans les versions `👤 Reel` générées correspondantes.)*
 
 ### Confusion avec le 19 mai 2026
 Ces fichiers mentionnent par erreur `19 mai 2026` (date d'immatriculation) comme étant la date de l'accident :
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER DG 📜Lettre.md` : l. 54 — Date accident erronée : '19 mai 2026' (réel : 29 mai 2026).
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - DG SAS HB BARBER.md` : l. 54 — Date accident erronée : '19 mai 2026' (réel : 29 mai 2026).
 
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER President 📜Lettre.md` : l. 54 — Date accident erronée : '19 mai 2026' (réel : 29 mai 2026).
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - Président SAS HB BARBER.md` : l. 54 — Date accident erronée : '19 mai 2026' (réel : 29 mai 2026).
 
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER Societe 📜Lettre.md` : l. 78 — Date accident erronée : '19 mai 2026' (réel : 29 mai 2026).
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ Courrier - SAS HB BARBER.md` : l. 78 — Date accident erronée : '19 mai 2026' (réel : 29 mai 2026).
 
 ---
 

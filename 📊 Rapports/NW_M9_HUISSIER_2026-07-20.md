@@ -9,13 +9,13 @@ date: "2026-07-20"
 
 ## 1. Demande de constat d'huissier dans les actes
 L'analyse des fichiers procéduraux révèle qu'une requête aux fins de constat d'huissier a bien été rédigée :
-- **Fichier :** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Constat Huissier.md` (statut : brouillon).
+- **Fichier :** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Constat Huissier.md` (statut : brouillon).
 
 - **Fondement juridique :** Article 145 et 873 du Code de procédure civile.
 
 - **Objet :** Constater l'état de la vasque défectueuse avant sa disparition.
 
-Cette requête figure également dans les archives sous le nom `33 ✉️ Requete Constat Huissier 145 CPC.md`, marquée comme obsolète et remplacée par la requête ci-dessus et/ou `03 🔍 Assignation Article 145.md`.
+Cette requête figure également dans les archives sous le nom `33 ✉️ Requête - Constat Huissier 145 CPC.md`, marquée comme obsolète et remplacée par la requête ci-dessus et/ou `03 🔍 Assignation Article 145.md`.
 
 ## 2. Preuve du constat dans le dossier officiel
 Aucun rapport officiel ou procès-verbal de constat d'huissier (Commissaire de justice) n'a été trouvé dans le répertoire `⚖️ Actes/Preuves officielles/`.
@@ -26,7 +26,7 @@ Cependant, un constat matériel a été effectué **par la victime elle-même** 
 **Conclusion :** L'intervention d'un huissier pour constater l'état de la vasque défectueuse (la "chose" visée par l'art. 1242 du Code civil) est désormais **inutile et impossible**, puisque l'objet du litige a déjà été retiré et remplacé, comme constaté le 16 juillet 2026.
 
 **Marche à suivre recommandée :**
-- **Abandonner la requête d'huissier :** Le constat d'huissier sur l'état de la vasque n'ayant plus d'objet matériel à constater, la requête `Requete Constat Huissier.md` doit être classée sans suite ou archivée de manière définitive.
+- **Abandonner la requête d'huissier :** Le constat d'huissier sur l'état de la vasque n'ayant plus d'objet matériel à constater, la requête `Requête - Constat Huissier.md` doit être classée sans suite ou archivée de manière définitive.
 
 - **S'appuyer sur les preuves existantes :** L'action en responsabilité du fait des choses devra s'appuyer sur les autres éléments de preuve recueillis **avant** la disparition de la vasque, notamment le **PV de police n°2026/015967** (établi le 2 juin 2026, documentant les circonstances et le basculement) et les témoignages éventuels, ainsi que l'attitude de l'exploitant (fermeture prolongée, remplacement précipité sans expertise contradictoire, refus de coopérer).
 

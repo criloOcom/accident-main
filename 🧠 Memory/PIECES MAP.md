@@ -49,7 +49,7 @@ L'identifiant d'une pièce est le triplet (date, émetteur, objet) — pas un nu
 | Date | Auteur | Objet | Drive |
 |------|--------|-------|-------|
 | 01/06/2026 16:01 | Police **[La Ville de l'Accident]** | Dépôt plainte officiel | [🔗 Voir](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view) |
-| 02/06/2026 | Police **[La Ville de l'Accident]** | Constitution Partie Civile | [🔗 Voir](https://drive.google.com/file/d/1zKC1OYRHYvz9Fy669yX_IcmLXiCOVOYu/view) |
+| 02/06/2026 | Police **[La Ville de l'Accident]** | Constitution - Partie Civile | [🔗 Voir](https://drive.google.com/file/d/1zKC1OYRHYvz9Fy669yX_IcmLXiCOVOYu/view) |
 | 02/06/2026 | Police Nationale | Récépissé déclaration | [🔗 Voir](https://drive.google.com/file/d/1ikEfXSFTlVefhevXDRguBhSWh2Gvkama/view) |
 | 29/06/2026 | **[La Victime]** | Mise en demeure SAS | [🔗 Voir](https://drive.google.com/file/d/1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn/view) |
 | 29/06/2026 | **[Le Président de l'Exploitation]** | Mise en demeure Président | [🔗 Voir](https://drive.google.com/file/d/117sFmGu7yFbYzd0VrKYNSCK_tDYHugrL/view) |
@@ -68,7 +68,7 @@ L'identifiant d'une pièce est le triplet (date, émetteur, objet) — pas un nu
 | 29/05/2026 18:00 | Pharmacie Foix | Facture médicaments | [🔗 Voir](https://drive.google.com/file/d/17O_oFwJhrsQBsmEjaw8xjDlgVSYY8Iu9/view) |
 | 30/05/2026 | Dr Iskander DJERBI | CR opératoire | [🔗 Voir](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |
 
-### Doc 05 — Constitution Partie Civile
+### Doc 05 — Constitution - Partie Civile
 [🔗 Voir](https://drive.google.com/file/d/1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc/view)
 | Date | Auteur | Objet | Drive |
 |------|--------|-------|-------|
@@ -199,12 +199,12 @@ Ce tableau remplace toute version antérieure. La référence d'une pièce est s
 
 | Pièce | Intitulé | Citée dans | Valeur probatoire |
 |-------|----------|-----------|-------------------|
-| 10 | LRAR [mise en demeure SAS](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20%F0%9F%93%9CLettre.md) (J+31) | Assignation 01, Assignation 145 03 | Preuve de la carence amiable |
-| 10b | LRAR [relance V2 dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20Dirigeants%20%F0%9F%94%84Relance.md) (08/07/2026) — Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf) | Relance Dirigeants | Preuve du renouvellement des demandes et de l'obstruction |
+| 10 | LRAR [mise en demeure SAS](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20SAS.md) (J+31) | Assignation 01, Assignation 145 03 | Preuve de la carence amiable |
+| 10b | LRAR [relance V2 dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Relance%20-%20Dirigeants%20SAS.md) (08/07/2026) — Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf) | Relance Dirigeants | Preuve du renouvellement des demandes et de l'obstruction |
 | 11 | LRAR mise en demeure **[Le Président de l'Exploitation]** (J+31) | Assignation 01, Assignation 145 03 | Mise en cause personnelle du dirigeant |
 | 12 | LRAR mise en demeure **[La Directrice Générale de l'Exploitation]** (J+31) | Assignation 01, Assignation 145 03 | Mise en cause personnelle de la dirigeante |
 | 13 | LRAR mise en demeure **[Le Propriétaire des Murs]** (J+31) + AR signé | Assignation 01, Assignation 145 03 | Preuve de la carence du propriétaire |
-| 14 | [Action directe assureur RC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20Assureur%20RC%20%F0%9F%93%9CLettre.md) (Art. L.124-3 C. assur.) | — | Exercice de l'action directe |
+| 14 | [Action directe assureur RC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Assureur%20RC%20SAS.md) (Art. L.124-3 C. assur.) | — | Exercice de l'action directe |
 | 15 | Transmission plainte au Procureur (LRAR) | — | Déclenchement voie pénale |
 
 ### Groupe D — Actes de procédure (pièces 16-18)

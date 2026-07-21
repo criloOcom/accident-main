@@ -51,13 +51,13 @@ Consultation juridique externe et suivi stratégique du dossier après le dépô
 
 ## Documents liés
 
-- [✉️ SAS Dirigeants 🔄Relance](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20Dirigeants%20%F0%9F%94%84Relance.md)
+- [✉️ Relance - Dirigeants SAS](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20Relance%20-%20Dirigeants%20SAS.md)
 
-- [📜 Note Droit Assurances](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/%F0%9F%93%9C%20Note%20Droit%20Assurances.md)
+- [Note - Droit des Assurances](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/Note%20-%20Droit%20des%20Assurances.md)
 
-- [📊 Note Strategique FGTI CIVI](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/%F0%9F%93%8A%20Note%20Strategique%20FGTI%20CIVI.md)
+- [Note - Stratégique FGTI CIVI](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/Note%20-%20Strat%C3%A9gique%20FGTI%20CIVI.md)
 
-- [📋 Dossier Special CERFA](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/%F0%9F%93%8B%20Dossier%20Special%20CERFA.md)
+- [Note - Dossier Spécial CERFA](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Dossier%20Sp%C3%A9cial%20CERFA.md)
 
 ## Croisements
 

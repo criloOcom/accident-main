@@ -39,41 +39,41 @@ Aucune fuite de PII (identités réelles du `TOKEN MAP.md`) n'a été détectée
 
 L'expression "suite à" est une faute de français (calque administratif). Elle doit être remplacée par "à la suite de".
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Inspection Travail 🔄Relance.md` — ligne 3
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md` — ligne 3
 
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md` — ligne 32
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection Travail 🚨Signalement.md` — ligne 144
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md` — ligne 144
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Departemental 🚨Signalement.md` — ligne 50
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Conseil Départemental.md` — ligne 50
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF 🚨Signalement.md` — ligne 125
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - CODAF.md` — ligne 125
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Commissariat Foix Plainte Complementaire ⚖️Contentieux.md` — ligne 224
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md` — ligne 224
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie Tavella ERP 📝Document.md` — lignes 23, 43
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - ERP Mairie Tavella.md` — lignes 23, 43
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Maire Foix 📜Lettre.md` — ligne 67
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md` — ligne 67
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/📋 Checklist Deplacement Foix.md` — lignes 402, 565
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/Archive - Checklist Déplacement Foix.md` — lignes 402, 565
 
-- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/❓ FAQ Juridique.md` — lignes 59, 104
+- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - FAQ Juridique.md` — lignes 59, 104
 
-- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note qualification penale disparition SAS.md` — ligne 76
+- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Qualification Pénale Disparition SAS.md` — ligne 76
 
-- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md` — ligne 26
+- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Mémoire - En défense adverse.md` — ligne 26
 
-- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/📜 Note Droit Assurances.md` — lignes 3, 25, 105
+- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Droit des Assurances.md` — lignes 3, 25, 105
 
 - [ ] `⚖️ Actes/🔑 Token/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md` — ligne 60
 
-- [ ] `⚖️ Actes/🔑 Token/🗂️ Organisation/Fiche Reflexe 48h Disparition SAS.md` — lignes 39, 58
+- [ ] `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Fiche Réflexe 48h Disparition SAS.md` — lignes 39, 58
 
-- [ ] `⚖️ Actes/🔑 Token/🗂️ Organisation/22 📋 Modif Email Maire Foix.md` — lignes 31, 37
+- [ ] `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Modification Email Maire Foix.md` — lignes 31, 37
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Signalement Parquet Fraud.md` — lignes 29, 37
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Signalement - Parquet Fraude.md` — lignes 29, 37
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire.md` — ligne 66
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV - Audition Plainte Complémentaire.md` — ligne 66
 
 ### II.3 — MINEUR (Ponctuation)
 

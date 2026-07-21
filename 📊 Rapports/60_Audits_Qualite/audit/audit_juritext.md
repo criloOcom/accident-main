@@ -41,7 +41,7 @@ type: rapport
 | 5 | 0007037753 | 96-16.128 | Civ. 2e | 19/11/1998 | 96-16.128 | `01 Assignation.md` | ✅ |
 | 6 | 0007030228 | 91-11.285 | Com. | 26/01/1993 | 91-11.285 | `04 Bordereau pieces.md` | ✅ |
 | 7 | 0007047223 | 02-14.783 | Ass. Plén. | 19/12/2003 | 02-14.783 | `12 Évaluation Dintilhac.md`, `11+12 Éval consolidee.md` | ✅ |
-| 8 | 0029014493 | 13-80.849 | Crim. | 27/05/2014 | 13-80.849 | `📚 ANALYSE Jurisprudence.md`, `00 Index.md` | ✅ |
+| 8 | 0029014493 | 13-80.849 | Crim. | 27/05/2014 | 13-80.849 | `Archive - Analyse Jurisprudence.md`, `00 Index.md` | ✅ |
 | 9 | 0044482848 | 20-16.463 | Civ. 1re | 08/12/2021 | 20-16.463 | 8 fichiers | ✅ |
 | 10 | 0043782126 | 20-15.106 | Civ. 2e | 08/07/2021 | 20-15.106 | 7 fichiers | ✅ |
 | 11 | 0049418278 | 22-19.307 | Civ. 2e | 04/04/2024 | 22-19.307 | 8 fichiers | ✅ |
@@ -56,7 +56,7 @@ type: rapport
 | 20 | 0039122827 | 18-13.791 | Civ. 2e | 12/09/2019 | 18-13.791 | `11+12 Éval consolidee.md` | ✅ |
 | 21 | 0053859671 | 24-20.972 | Civ. 2e | 02/04/2026 | 24-20.972 | `12 Évaluation Dintilhac.md`, `11+12 Éval consolidee.md` | ✅ |
 | 22 | 0021271786 | 08-17.959 | Civ. 2e | 10/11/2009 | 08-17.959 | `12 Évaluation Dintilhac.md`, `11+12 Éval consolidee.md` | ✅ |
-| 23 | 0043302280 | 19-25.198 | Com. | 17/03/2021 | 19-25.198 | `Note Conservation Preuves Numeriques.md` | ✅ |
+| 23 | 0043302280 | 19-25.198 | Com. | 17/03/2021 | 19-25.198 | `Note - Conservation Preuves Numériques.md` | ✅ |
 | 24 | 0031988483 | 10-23.378 | Civ. 2e | 04/02/2016 | 10-23.378 | (audit Dintilhac) | ✅ |
 | **25** | **0007012425** | **82-13.234** | **Civ. 1re** | **12/07/1983** | **89-18.422** | **`05 Conclusions Refere.md`** | **❌** |
 | **26** | **0007006621** | **78-12.440** | **Civ. 1re** | **02/10/1980** | **74-10.466** | **`05 Conclusions Refere.md`** | **❌** |

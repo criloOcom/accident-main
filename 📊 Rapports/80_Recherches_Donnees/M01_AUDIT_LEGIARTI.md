@@ -37,23 +37,23 @@ Audit réalisé sur les liens LEGIARTI et JURITEXT dans le dossier `📜 Lois/`.
 
 - `LEGIARTI000006742902` dans `📜 Lois/code_secu_sociale_artL321-1.md` (Ligne 6) : `Article L321-1`
 
-- `LEGIARTI000006219291` dans `📜 Lois/CHANGELOG_JURIDIQUE.md` (Ligne 60) : `Article L123-5-1`
+- `LEGIARTI000006219291` dans `📜 Lois/Note%20-%20Changelog%20Juridique.md` (Ligne 60) : `Article L123-5-1`
 
-- `LEGIARTI000025559422` dans `📜 Lois/CHANGELOG_JURIDIQUE.md` (Ligne 61) : `Article L123-3`
+- `LEGIARTI000025559422` dans `📜 Lois/Note%20-%20Changelog%20Juridique.md` (Ligne 61) : `Article L123-3`
 
-- `LEGIARTI000006904815` dans `📜 Lois/CHANGELOG_JURIDIQUE.md` (Ligne 62) : `Article L8221-1`
+- `LEGIARTI000006904815` dans `📜 Lois/Note%20-%20Changelog%20Juridique.md` (Ligne 62) : `Article L8221-1`
 
-- `LEGIARTI000048442345` dans `📜 Lois/CHANGELOG_JURIDIQUE.md` (Ligne 89) : `Article 706-3`
+- `LEGIARTI000048442345` dans `📜 Lois/Note%20-%20Changelog%20Juridique.md` (Ligne 89) : `Article 706-3`
 
-- `LEGIARTI000047591332` dans `📜 Lois/CHANGELOG_JURIDIQUE.md` (Ligne 90) : `Article L227-1`
+- `LEGIARTI000047591332` dans `📜 Lois/Note%20-%20Changelog%20Juridique.md` (Ligne 90) : `Article L227-1`
 
-- `LEGIARTI000048535177` dans `📜 Lois/CHANGELOG_JURIDIQUE.md` (Ligne 90) : `Article L227-1`
+- `LEGIARTI000048535177` dans `📜 Lois/Note%20-%20Changelog%20Juridique.md` (Ligne 90) : `Article L227-1`
 
-- `LEGIARTI000024042637` dans `📜 Lois/CHANGELOG_JURIDIQUE.md` (Ligne 91) : `Article 223-1`
+- `LEGIARTI000024042637` dans `📜 Lois/Note%20-%20Changelog%20Juridique.md` (Ligne 91) : `Article 223-1`
 
-- `LEGIARTI000044052542` dans `📜 Lois/CHANGELOG_JURIDIQUE.md` (Ligne 92) : `Article L611-3`
+- `LEGIARTI000044052542` dans `📜 Lois/Note%20-%20Changelog%20Juridique.md` (Ligne 92) : `Article L611-3`
 
-- `LEGIARTI000051752672` dans `📜 Lois/CHANGELOG_JURIDIQUE.md` (Ligne 93) : `Article L123-2`
+- `LEGIARTI000051752672` dans `📜 Lois/Note%20-%20Changelog%20Juridique.md` (Ligne 93) : `Article L123-2`
 
 - `LEGIARTI000006437058` dans `📜 Lois/code_civil_art1242.md` (Ligne 6) : `Article 1242`
 
@@ -533,9 +533,9 @@ Audit réalisé sur les liens LEGIARTI et JURITEXT dans le dossier `📜 Lois/`.
 
 - `LEGIARTI000020459127` dans `📜 Lois/EXEMPLES_REQUETES_MCP.md` (Ligne 72) : Contenu différent: obtenu = Article 1719
 
-- `LEGIARTI000006417900` dans `📜 Lois/CHANGELOG_JURIDIQUE.md` (Ligne 87) : Contenu différent: obtenu = Article 225-16
+- `LEGIARTI000006417900` dans `📜 Lois/Note%20-%20Changelog%20Juridique.md` (Ligne 87) : Contenu différent: obtenu = Article 225-16
 
-- `LEGIARTI000006577625` dans `📜 Lois/CHANGELOG_JURIDIQUE.md` (Ligne 89) : Contenu différent: obtenu = Article 9
+- `LEGIARTI000006577625` dans `📜 Lois/Note%20-%20Changelog%20Juridique.md` (Ligne 89) : Contenu différent: obtenu = Article 9
 
 - `LEGIARTI000019019256` dans `📜 Lois/README.md` (Ligne 92) : Résultat API = `None`
 

@@ -27,17 +27,17 @@ Il s'agit de liens dont le chemin est incorrect mais pour lesquels un fichier du
 
 - **`AGENTS.md`** : le lien `/home/crilocom/accident-main/🧠 Memory/README.md` pointe vers un chemin absolu (interdit par les conventions) et de nombreux candidats existent.
 
-- **`📊 Rapports/20_Accueil_Avocat/PACK_ACCUEIL_AVOCAT_AJ.md`** : lien vers `Refere Provision Assignation.md` introuvable, 2 candidats.
+- **`📊 Rapports/20_Accueil_Avocat/PACK_ACCUEIL_AVOCAT_AJ.md`** : lien vers `Référé - Assignation Provision.md` introuvable, 2 candidats.
 
-- **`🚦 Status/01_PREPARATION.md`** : lien vers `Bordereau Unifie.md` introuvable, 2 candidats.
+- **`🚦 Status/01_PREPARATION.md`** : lien vers `Bordereau Unifié.md` introuvable, 2 candidats.
 
-- **`🚦 Status/02_PRET_POUR_ENVOI.md`** : lien vers `Bordereau Unifie.md` introuvable, 2 candidats.
+- **`🚦 Status/02_PRET_POUR_ENVOI.md`** : lien vers `Bordereau Unifié.md` introuvable, 2 candidats.
 
-- **`🚦 Status/brouillon.md`** : lien vers `Bordereau Unifie.md` introuvable, 2 candidats.
+- **`🚦 Status/brouillon.md`** : lien vers `Bordereau Unifié.md` introuvable, 2 candidats.
 
-- **`🚦 Status/final.md`** : lien vers `Bordereau Unifie.md` introuvable, 2 candidats.
+- **`🚦 Status/final.md`** : lien vers `Bordereau Unifié.md` introuvable, 2 candidats.
 
-- **`🧠 Memory/TODO.md`** : lien vers `Bordereau Unifie.md` introuvable, 2 candidats.
+- **`🧠 Memory/TODO.md`** : lien vers `Bordereau Unifié.md` introuvable, 2 candidats.
 
 ### B. Liens critiques cassés (introuvables)
 
@@ -45,13 +45,13 @@ Ces liens pointent vers des fichiers ou tokens qui n'existent pas ou plus à l'e
 
 - **Tokens manquants dans `⚖️ Actes/🔑 Token/` et `👤 Reel/`** :
 
-  - `token-dr-jardon.md` est appelé dans de multiples courriers de mises en demeure et relances (`✉️ Proprietaire 📜Lettre.md`, `✉️ SAS 📜Lettre.md`, `✉️🔄 Consolidation.md`, `✉️ Inspection Travail 🚨Signalement.md`, etc.).
+  - `token-dr-jardon.md` est appelé dans de multiples courriers de mises en demeure et relances (`✉️ Courrier - Propriétaire.md`, `✉️ Courrier - SAS.md`, `✉️🔄 Consolidation.md`, `✉️ Signalement - Inspection du Travail.md`, etc.).
 
-  - `token-assureur-rc.md` manque dans `Conclusions au Fond TJ Foix.md` et plusieurs rapports.
+  - `token-assureur-rc.md` manque dans `Conclusions au Fond - TJ Foix.md` et plusieurs rapports.
 
   - `token-metropole-regionale.md` manque dans `20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`.
 
-  - `token-victime-nom-complet.md` manque dans `20270529 ⚖️ Rapport Expertise Médicale.md` et `✉️ SAS Assureur RC — Avocat 📜Lettre.md`.
+  - `token-victime-nom-complet.md` manque dans `20270529 ⚖️ Rapport Expertise Médicale.md` et `✉️ Courrier - Assureur RC SAS (copie Avocat).md`.
 
   - `token-exploitation-nom-commercial.md` et `token-exploitation-prepose-nom.md` sont appelés mais introuvables.
 
@@ -67,7 +67,7 @@ Ces liens pointent vers des fichiers ou tokens qui n'existent pas ou plus à l'e
 
 - Les liens `mailto:` (ex: `mailto:sebastien.grazide@gmail.com`) sont considérés comme introuvables par le script actuel car il s'agit d'un protocole mail et non d'un fichier.
 
-- Des liens du type `...` (points de suspension) sont identifiés comme cassés dans `Plainte Complementaire Correction.md`.
+- Des liens du type `...` (points de suspension) sont identifiés comme cassés dans `Plainte - Complémentaire Correction.md`.
 
 <hr><hr>
 
@@ -89,11 +89,11 @@ L'audit d'intégrité des fichiers README montre des désynchronisations mineure
 
 - **`🧠 Memory/🗂️ Tokens/`** : nombreux tokens manquants dans l'index (ex: `token-cpam-dossier-numero.md`, `token-exploitation-hb-capital-social.md`, `token-pv-police-numero.md`, etc.).
 
-- **`⚖️ Actes/🔑 Token/📚 Analyses juridiques/`** : `📜 Memo Axes Juridiques Avocat.md` et `📜 Note Synthese Avocat Bascule HB BARBER.md` ne sont pas listés.
+- **`⚖️ Actes/🔑 Token/📚 Analyses juridiques/`** : `Note - Mémo Axes Juridiques Avocat.md` et `Note - Synthèse Avocat Bascule HB BARBER.md` ne sont pas listés.
 
 - **`⚖️ Actes/🔑 Token/📂 Preuves officielles/`** : `20270529 ⚖️ Rapport Expertise Médicale.md` n'est pas listé.
 
-- **`⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/`** : `📜 Erratum Correction Identite Societe.md` n'est pas listé.
+- **`⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/`** : `📜 Note - Erratum Correction Identité Société.md` n'est pas listé.
 
 - **`📊 Rapports/` et sous-dossiers** :
 

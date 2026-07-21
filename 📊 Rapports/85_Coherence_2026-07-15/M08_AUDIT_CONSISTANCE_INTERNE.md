@@ -24,7 +24,7 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 ### II.1 — TODO List des incohérences détectées
 
-#### II.1.a — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Assignation.md`
+#### II.1.a — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 389.
 
@@ -34,7 +34,7 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 319.
 
-#### II.1.b — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution Partie Civile.md`
+#### II.1.b — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 116.
 
@@ -44,15 +44,15 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 119.
 
-#### II.1.c — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Article 145 CPC.md`
+#### II.1.c — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Article 145 CPC.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 154.
 
-#### II.1.d — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md`
+#### II.1.d — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond - TJ Foix.md`
 
 - [ ] **MINEUR** : L'Article L.4121-2 est cité dans la motivation mais n'est pas repris explicitement dans les visas du dispositif à la ligne 144.
 
-#### II.1.e — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS President 📜Lettre.md`
+#### II.1.e — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Président SAS.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 193.
 
@@ -60,27 +60,27 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 77.
 
-#### II.1.f — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Avocat Consultation Jimini 📝Document.md`
+#### II.1.f — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 47.
 
-#### II.1.g — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA Saisine Modele 📝Document.md`
+#### II.1.g — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 105.
 
-#### II.1.h — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA Saisine Formulaire 📝Document.md`
+#### II.1.h — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 49.
 
-#### II.1.i — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS Dirigeants 🔄Relance.md`
+#### II.1.i — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Dirigeants SAS.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 146.
 
-#### II.1.j — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Inspection Travail 🔄Relance.md`
+#### II.1.j — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 61.
 
-#### II.1.k — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Préfecture CODAF 🔄Relance.md`
+#### II.1.k — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Signalement Préfecture CODAF.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 3.
 
@@ -88,7 +88,7 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 45.
 
-#### II.1.l — Fichier : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/🎤 Plaidoirie Responsabilite Dirigeants.md`
+#### II.1.l — Fichier : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Plaidoirie Responsabilité Dirigeants.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 40.
 
@@ -96,15 +96,15 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 138.
 
-#### II.1.m — Fichier : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/📜 Note Responsabilite Dirigeants.md`
+#### II.1.m — Fichier : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Responsabilité des Dirigeants.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 40.
 
-#### II.1.n — Fichier : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/🛡️ Memo Strategie Admin Penal.md`
+#### II.1.n — Fichier : `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Mémo Stratégie Admin Pénal.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 127.
 
-#### II.1.o — Fichier : `⚖️ Actes/🔑 Token/🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md`
+#### II.1.o — Fichier : `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 144.
 

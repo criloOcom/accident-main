@@ -43,6 +43,8 @@ graph TD
 
 - **WORKFLOW.md** - Processus et workflows du projet
 
+- **[GEMINI](GEMINI.md)**
+
 - **[USER_DOC_SYNTHESE](USER_DOC_SYNTHESE.md)**
 
 - **[CALENDAR_MAP](CALENDAR_MAP.md)**

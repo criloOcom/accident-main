@@ -14,48 +14,48 @@ type: readme
 
 ### [📜 Contentieux civil](%F0%9F%93%9C%20Contentieux%20civil%2FREADME.md)
 
-- [Refere Provision Assignation.md](%F0%9F%93%9C%20Contentieux%20civil%2FRefere%20Provision%20Assignation.md)
+- [Référé - Assignation Provision.md](%F0%9F%93%9C%20Contentieux%20civil%2FR%C3%A9f%C3%A9r%C3%A9%20-%20Assignation%20Provision.md)
 
-- [Ordonnance sur Requete Art. 145 CPC.md](%F0%9F%93%9C%20Contentieux%20civil%2FOrdonnance%20sur%20Requete%20Art.%20145%20CPC.md)
+- [Ordonnance sur Requête - Article 145 CPC.md](%F0%9F%93%9C%20Contentieux%20civil%2FOrdonnance%20sur%20Requ%C3%AAte%20-%20Article%20145%20CPC.md)
 
-- [Refere Ordonnance Projet.md](%F0%9F%93%9C%20Contentieux%20civil%2FRefere%20Ordonnance%20Projet.md)
+- [Référé - Ordonnance Projet.md](%F0%9F%93%9C%20Contentieux%20civil%2FR%C3%A9f%C3%A9r%C3%A9%20-%20Ordonnance%20Projet.md)
 
-- [Refere Provision Conclusion.md](%F0%9F%93%9C%20Contentieux%20civil%2FRefere%20Provision%20Conclusion.md)
+- [Référé - Conclusions Provision.md](%F0%9F%93%9C%20Contentieux%20civil%2FR%C3%A9f%C3%A9r%C3%A9%20-%20Conclusions%20Provision.md)
 
-- [Bordereau Unifie.md](%F0%9F%93%9C%20Contentieux%20civil%2FBordereau%20Unifie.md)
+- [Bordereau Unifié.md](%F0%9F%93%9C%20Contentieux%20civil%2FBordereau%20Unifi%C3%A9.md)
 
-- [Conclusions au Fond TJ Foix.md](%F0%9F%93%9C%20Contentieux%20civil%2FConclusions%20au%20Fond%20TJ%20Foix.md)
+- [Conclusions au Fond - TJ Foix.md](%F0%9F%93%9C%20Contentieux%20civil%2FConclusions%20au%20Fond%20-%20TJ%20Foix.md)
 
-- [Requete Constat Huissier.md](%F0%9F%93%9C%20Contentieux%20civil%2FRequete%20Constat%20Huissier.md)
+- [Requête - Constat Huissier.md](%F0%9F%93%9C%20Contentieux%20civil%2FRequ%C3%AAte%20-%20Constat%20Huissier.md)
 
-- [Requete Article 145 CPC.md](%F0%9F%93%9C%20Contentieux%20civil%2FRequete%20Article%20145%20CPC.md)
+- [Requête - Article 145 CPC.md](%F0%9F%93%9C%20Contentieux%20civil%2FRequ%C3%AAte%20-%20Article%20145%20CPC.md)
 
-- [Requete Mandataire Ad Hoc.md](%F0%9F%93%9C%20Contentieux%20civil%2FRequete%20Mandataire%20Ad%20Hoc.md)
+- [Requête - Mandataire Ad Hoc.md](%F0%9F%93%9C%20Contentieux%20civil%2FRequ%C3%AAte%20-%20Mandataire%20Ad%20Hoc.md)
 
 ### [👮 Contentieux penal](%F0%9F%91%AE%20Contentieux%20penal%2FREADME.md)
 
-- [Requisitoire Introductif.md](%F0%9F%91%AE%20Contentieux%20penal%2FRequisitoire%20Introductif.md)
+- [Réquisitoire - Introductif.md](%F0%9F%91%AE%20Contentieux%20penal%2FR%C3%A9quisitoire%20-%20Introductif.md)
 
-- [Plainte Complementaire Correction.md](%F0%9F%91%AE%20Contentieux%20penal%2FPlainte%20Complementaire%20Correction.md)
+- [Plainte - Complémentaire Correction.md](%F0%9F%91%AE%20Contentieux%20penal%2FPlainte%20-%20Compl%C3%A9mentaire%20Correction.md)
 
-- [PV Audition Plainte Complementaire.md](%F0%9F%91%AE%20Contentieux%20penal%2FPV%20Audition%20Plainte%20Complementaire.md)
+- [PV - Audition Plainte Complémentaire.md](%F0%9F%91%AE%20Contentieux%20penal%2FPV%20-%20Audition%20Plainte%20Compl%C3%A9mentaire.md)
 
-- [Plainte Defaut Assurance RC.md](%F0%9F%91%AE%20Contentieux%20penal%2FPlainte%20Defaut%20Assurance%20RC.md)
+- [Plainte - Défaut Assurance RC.md](%F0%9F%91%AE%20Contentieux%20penal%2FPlainte%20-%20D%C3%A9faut%20Assurance%20RC.md)
 
-- [PV Audition Plainte Complementaire Foix.md](%F0%9F%91%AE%20Contentieux%20penal%2FPV%20Audition%20Plainte%20Complementaire%20Foix.md)
+- [PV - Audition Plainte Complémentaire Foix.md](%F0%9F%91%AE%20Contentieux%20penal%2FPV%20-%20Audition%20Plainte%20Compl%C3%A9mentaire%20Foix.md)
 
-- [Constitution Partie Civile.md](%F0%9F%91%AE%20Contentieux%20penal%2FConstitution%20Partie%20Civile.md)
+- [Constitution - Partie Civile.md](%F0%9F%91%AE%20Contentieux%20penal%2FConstitution%20-%20Partie%20Civile.md)
 
-- [Signalement Parquet Fraud.md](%F0%9F%91%AE%20Contentieux%20penal%2FSignalement%20Parquet%20Fraud.md)
+- [Signalement - Parquet Fraude.md](%F0%9F%91%AE%20Contentieux%20penal%2FSignalement%20-%20Parquet%20Fraude.md)
 
 ### [📋 Preparation Foix](../../%F0%9F%94%91%20Token/README.md)
 
-- [📋 Bordereau de Pieces Foix.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Bordereau%20de%20Pieces%20Foix.md)
+- [📋 Bordereau - Pièces Commissariat Foix.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Bordereau%20-%20Pi%C3%A8ces%20Commissariat%20Foix.md)
 
-- [📋 Frise Chronologique Foix.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Frise%20Chronologique%20Foix.md)
+- [📋 Note - Frise Chronologique Foix.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Note%20-%20Note%20-%20Note%20-%20Note%20-%20Frise%20Chronologique%20Foix.md)
 
-- [📋 Note Personnelle Commissariat Foix.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Note%20Personnelle%20Commissariat%20Foix.md)
+- [📋 Note - Personnelle Commissariat Foix.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Note%20-%20Personnelle%20Commissariat%20Foix.md)
 
-- [📋 Projet Declaration PV Foix.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Projet%20Declaration%20PV%20Foix.md)
+- [📋 Note - Projet Déclaration PV Foix.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Note%20-%20Projet%20D%C3%A9claration%20PV%20Foix.md)
 
-- [MEMO_AUDIENCE_31072026.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/MEMO_AUDIENCE_31072026.md)
+- [M%C3%A9mo%20-%20Audience%2031-07-2026.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/M%C3%A9mo%20-%20Audience%2031-07-2026.md)

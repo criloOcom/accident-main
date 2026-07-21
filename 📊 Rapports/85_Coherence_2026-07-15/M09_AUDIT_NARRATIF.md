@@ -43,17 +43,17 @@ Total des anomalies : 99
 
 ### II.1 — CRITIQUE
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire Foix.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 58)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV - Audition Plainte Complémentaire Foix.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 58)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Commissariat Foix Plainte Complementaire ⚖️Contentieux.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 293)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 293)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte 📋Note.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 39)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 39)
 
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md` : Fuite de nom réel (Djerbi) dans un fichier Token (ligne 13)
 
 - [ ] `⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md` : Fuite de nom réel (Djerbi) dans un fichier Token (ligne 33)
 
-- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 52)
+- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Mémoire - En défense adverse.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 52)
 
 - [ ] `📊 Rapports/10_Pilotage/RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 61)
 
@@ -83,43 +83,43 @@ Total des anomalies : 99
 
 ### II.2 — MAJEUR
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 44)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV - Audition Plainte Complémentaire.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 44)
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 53)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond - TJ Foix.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 53)
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md` : mention de « débris » (faux : il n'y a pas eu de débris, seulement une cassure préexistante) (ligne 53)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond - TJ Foix.md` : mention de « débris » (faux : il n'y a pas eu de débris, seulement une cassure préexistante) (ligne 53)
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/MEMO_AUDIENCE_31072026.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 24)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Mémo - Audience 31-07-2026.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 24)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Commissariat Foix Plainte Complementaire ⚖️Contentieux.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 190)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 190)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/📋 Checklist Deplacement Foix.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 404)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/Archive - Checklist Déplacement Foix.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 404)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte 📋Note.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 224)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 224)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Avocat Consultation Jimini 📝Document.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 36)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 36)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Inspection Travail 🔄Relance.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 40)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Relance - Inspection du Travail.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 40)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection Travail 🚨Signalement.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 50)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 50)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection Travail 🚨Signalement.md` : mention de « débris » (faux : il n'y a pas eu de débris, seulement une cassure préexistante) (ligne 50)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md` : mention de « débris » (faux : il n'y a pas eu de débris, seulement une cassure préexistante) (ligne 50)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Prefecture 🚨Signalement.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 48)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Préfecture.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 48)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Prefecture 🚨Signalement.md` : mention de « débris » (faux : il n'y a pas eu de débris, seulement une cassure préexistante) (ligne 48)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Préfecture.md` : mention de « débris » (faux : il n'y a pas eu de débris, seulement une cassure préexistante) (ligne 48)
 
-- [ ] `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Protocole_Transactionnel_Dintilhac_20260713.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 37)
+- [ ] `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 37)
 
-- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/📜 Note Droit Assurances.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 57)
+- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Droit des Assurances.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 57)
 
-- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/📜 Audit RNE NPAI SAS.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 55)
+- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Audit RNE NPAI SAS.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 55)
 
-- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/🛡️ Memo Strategie Admin Penal.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 114)
+- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Mémo Stratégie Admin Pénal.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 114)
 
-- [ ] `⚖️ Actes/🔑 Token/🗂️ Organisation/22 📋 Modif Email Maire Foix.md` : mention de « lumière » (faux : le coiffeur réglait le téléviseur, pas la lumière) (ligne 46)
+- [ ] `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Modification Email Maire Foix.md` : mention de « lumière » (faux : le coiffeur réglait le téléviseur, pas la lumière) (ligne 46)
 
-- [ ] `⚖️ Actes/🔑 Token/🗂️ Organisation/✅ Bordereau Pieces 15 Juillet.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 25)
+- [ ] `⚖️ Actes/🔑 Token/🗂️ Organisation/Archive - Bordereau Pièces 15 Juillet.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 25)
 
 - [ ] `📊 Rapports/10_Pilotage/CARTOGRAPHIE_RISQUES.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 143)
 
@@ -161,49 +161,49 @@ Total des anomalies : 99
 
 ### II.3 — MINEUR
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution Partie Civile.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 82)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 82)
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire Foix.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 54)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV - Audition Plainte Complémentaire Foix.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 54)
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requete Art. 145 CPC.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 44)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requête - Article 145 CPC.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 44)
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/MEMO_AUDIENCE_31072026.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 24)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Mémo - Audience 31-07-2026.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 24)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI Saisine ⚖️Contentieux.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 51)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - FGTI.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 51)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM Recours Tiers ⚖️Contentieux.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 53)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - Recours Tiers CPAM.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 53)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix Preuves Complementaires ⚖️Contentieux.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 52)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Courrier - Preuves Complémentaires TJ Foix.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 52)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/✉️ Employe 📋Attestation.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 40)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/✉️ Attestation - Employé.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 40)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/✉️ Temoin Client 📋Attestation.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 39)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/✉️ Attestation - Témoin Client.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 39)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/✉️ Temoin Client 📋Attestation.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 39)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/✉️ Attestation - Témoin Client.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 39)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/✉️ Pompier SAMU 📧Mail 📋Attestation.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 32)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/Mail Attestation.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 32)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Maire Foix 📜Lettre.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 43)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Courrier - Maire de Foix.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 43)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI 🚨Signalement.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 48)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 48)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS 🚨Signalement.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 54)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - SDIS.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 54)
 
-- [ ] `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Protocole_Transactionnel_Dintilhac_20260713.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 37)
+- [ ] `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 37)
 
-- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/📜 Analyse Responsabilites Legales.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 61)
+- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Analyse Responsabilités Légales.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 61)
 
-- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/📜 Note Droit Assurances.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 57)
+- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Droit des Assurances.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 57)
 
-- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/🛡️ Tableau Defense Reponse.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 20)
+- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Tableau Défense Réponse.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 20)
 
-- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/📁 Dossier Plaidoirie Refere.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 63)
+- [ ] `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 63)
 
-- [ ] `⚖️ Actes/🔑 Token/🗂️ Organisation/06 📋 Synthese des Actions et Audits.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 22)
+- [ ] `⚖️ Actes/🔑 Token/🗂️ Organisation/Synthèse - Actions et Audits.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 22)
 
-- [ ] `⚖️ Actes/🔑 Token/🗂️ Organisation/📋 Dossier Special CERFA.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 30)
+- [ ] `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Dossier Spécial CERFA.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 30)
 
-- [ ] `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requete Constat Huissier 🗄️Archive 145 CPC.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 50)
+- [ ] `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier Archive 145 CPC.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 50)
 
 - [ ] `📊 Rapports/10_Pilotage/RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 74)
 

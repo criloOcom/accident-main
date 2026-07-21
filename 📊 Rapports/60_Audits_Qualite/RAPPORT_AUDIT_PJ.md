@@ -209,9 +209,9 @@ Citée au courrier 35, absente physiquement et non référencée dans PIECES MAP
 | Doc 01-14 (analyses juridiques) | ✅ Mapping correct |
 | Bordereau V2 (43 pièces, groupes A-G) | ✅ Cadre théorique cohérent |
 | Pièces Drive listées | Liens accessibles (non vérifiés dans ce rapport) |
-| **AR NPAI ([pièce 10-15](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifie.md))** | ❌ Absent physiquement → **à créer** |
-| **Extrait Kbis ([pièce 13](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifie.md))** | ❌ Absent physiquement → **à commander** |
-| **Note RNE/INPI ([pièce 35](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifie.md))** | ❌ Absente physiquement → **à créer** |
+| **AR NPAI ([pièce 10-15](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifi%C3%A9.md))** | ❌ Absent physiquement → **à créer** |
+| **Extrait Kbis ([pièce 13](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifi%C3%A9.md))** | ❌ Absent physiquement → **à commander** |
+| **Note RNE/INPI ([pièce 35](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifi%C3%A9.md))** | ❌ Absente physiquement → **à créer** |
 
 ---
 

@@ -13,4 +13,4 @@ status: placeholder
 
 **Valeur réelle :** À déterminer
 
-**Contexte :** Référencé dans [[📜 Conclusions au Fond TJ Foix]]
+**Contexte :** Référencé dans [[📜 Conclusions au Fond - TJ Foix]]

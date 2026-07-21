@@ -1,5 +1,7 @@
 # Index — 💰 Etudes indemnisation (Versions Réelles)
 
-- [Protocole_Transactionnel_Dintilhac_20260713.md](Protocole_Transactionnel_Dintilhac_20260713.md)
-- [📊 Evaluation Dintilhac Consolidee.md](%F0%9F%93%8A%20Evaluation%20Dintilhac%20Consolidee.md)
-- [📊 Note Strategique FGTI CIVI.md](%F0%9F%93%8A%20Note%20Strategique%20FGTI%20CIVI.md)
+- [Note - Stratégique FGTI CIVI.md](Note%20-%20Strat%C3%A9gique%20FGTI%20CIVI.md)
+
+- [Note - Évaluation Dintilhac Consolidée.md](Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md)
+
+- [Protocole - Transactionnel Dintilhac 13-07-2026.md](Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md)

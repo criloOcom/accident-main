@@ -28,7 +28,7 @@ type: memory
 > > **Phase 35 ✅** Night Watch 20/07 — 15 missions (Token→Reel, listes tight, santé, scratch, HB BARBER, STRICT VARIABLES, Légifrance, RGPD, bordereau, arborescence, jurisprudence, rapports) — rapport dans `📊 Rapports/NIGHTWATCH_2026-07-20.md` (✅ 20/07)
 > > **Phase 36 ✅** Enrichissement bibliothèque jurisprudence — 11 décisions (4 Cass. + 7 CA/TJ), 2 documents stratégiques (Mémoire synthèse ERP + Note Action Directe L124-3), versions Reel, READMEs et CHANGELOG mis à jour (✅ 21/07)
 > > **Phase 37 ✅** Police Token Audit — 9 fichiers Police audités + corrigés : tokens texte brut→liens, date FIXME corrigée, 4 nouveaux tokens LRAR créés, renommage Plainte Complementaire Token↔Reel, Reel regénéré (128 fichiers), check cohérence ✅ (✅ 21/07)
-> **Phase 39 ✅** Nettoyage projet + correction liens cassés : 4 scripts déplacés racine→.dev/app, __pycache__ supprimé, GEMINI.md→Memory, 30 liens cassés corrigés (angle brackets, parentheses, Constitution Partie Civile, jurisprudence back-references), 7 token_path ajoutés Reel, 28 violations YAML corrigées, audit_internal_links.py angle-bracket support ✅ 21/07
+> **Phase 39 ✅** Nettoyage projet + correction liens cassés : 4 scripts déplacés racine→.dev/app, __pycache__ supprimé, GEMINI.md→Memory, 30 liens cassés corrigés (angle brackets, parentheses, Constitution - Partie Civile, jurisprudence back-references), 7 token_path ajoutés Reel, 28 violations YAML corrigées, audit_internal_links.py angle-bracket support ✅ 21/07
 > **Phase 40 ✅** Correction géographique plainte + déduplication LRAR + sync Reel : plainte initiale corrigée (Toulouse Rive Droite ≠ Foix), DEPOT_PLAINTE_LIEU ajouté à STRICT VARIABLES, LRAR 87500152888336B dupliqué corrigé, 128 fichiers Reel régénérés, pre-commit hook passe sans --no-verify ✅ 21/07
 > ## Phase 21 — Navigation Interactive Cross-Document (13 juillet 2026) ✅ [TERMINÉ]
 
@@ -126,7 +126,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 
 ## Phase 20 — Corrections projet plainte complémentaire suite avocat + antisèche orale (13 juillet 2026) ✅
 
-### Corrections appliquées au [fichier 36 📜](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Commissariat%20Foix%20Plainte%20Complementaire%20%E2%9A%96%EF%B8%8FContentieux.md) (version officielle)
+### Corrections appliquées au [fichier 36 📜](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Plainte%20-%20Compl%C3%A9mentaire%20Commissariat%20Foix.md) (version officielle)
 | Correction | Avant | Après |
 |------------|-------|-------|
 | **Infraction principale** | Obstruction à la justice (434-15 CP) | Blessures involontaires (222-20 + 121-3 CP) |
@@ -140,7 +140,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 | **Annexe juridique** | 434-15, 434-15-1, 222-19 | 222-20, 121-3, 434-4 |
 
 ### Version A ✉️ reclassée en antisèche orale personnelle
-- **Renommage** : `36 ✉️ Plainte Complémentaire Police Foix.md` → [`✉️ Antiseche Orale Plainte 📋Note.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Police%20Plainte%20%F0%9F%9B%9FGuide%20%F0%9F%93%8BNote.md)
+- **Renommage** : `36 ✉️ Plainte Complémentaire Police Foix.md` → [`✉️ Antiseche Orale Plainte Note.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/Guide%20Note.md)
 
 - **Statut** : `DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER`
 
@@ -149,11 +149,11 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 - **Références corrigées** : 434-15→434-4, 222-19→222-20, ajout 121-3
 
 ### Documents à déposer le 15 juillet Foix
-1. **Matin — Greffe TJ Foix** : [Requête Art. 145 CPC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requete%20Article%20145%20CPC.md) (fichier 03) + [demande AJ](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Interne/%E2%9C%89%EF%B8%8F%20Guide%20Demande%20AJ%20%F0%9F%93%9DDocument.md) (fichier 39)
+1. **Matin — Greffe TJ Foix** : [Requête Art. 145 CPC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requ%C3%AAte%20-%20Article%20145%20CPC.md) (fichier 03) + [demande AJ](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Interne/%E2%9C%89%EF%B8%8F%20Note%20-%20Guide%20Demande%20Aide%20Juridictionnelle.md) (fichier 39)
 
 2. **Midi — 22 Rue Lafaurie** : Photos + constat personnel état vasque
 
-3. **Après-midi — Commissariat** : [Plainte complémentaire](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Commissariat%20Foix%20Plainte%20Complementaire%20%E2%9A%96%EF%B8%8FContentieux.md) (fichier 36 📜 imprimé + signé)
+3. **Après-midi — Commissariat** : [Plainte complémentaire](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Plainte%20-%20Compl%C3%A9mentaire%20Commissariat%20Foix.md) (fichier 36 📜 imprimé + signé)
 
 ---
 
@@ -198,7 +198,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 ### Actions réalisées
 
 #### 🔴 Priorité 1 : Email Maire Foix — Demande intervention Police Municipale
-- **Fichier créé** : [⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Prefecture 🚨Signalement.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Prefecture%20%F0%9F%9A%A8Signalement.md)
+- **Fichier créé** : [⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Préfecture.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Pr%C3%A9fecture.md)
 
 - **Destinataire** : Mme Marine BORDES, Maire de Foix (`secretariat@mairie-foix.fr`)
 
@@ -206,7 +206,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 
 - **Statut** : ✅ Brouillon prêt — envoi prévu à 8h00 (draft Gmail bloqué par OAuth `invalid_grant`, fichier local disponible pour copier-coller)
 
-- **Base** : `21 📋 Plan Constat Police Foix.md` (créé par l'utilisateur)
+- **Base** : `Note - Plan Constat Police Foix.md` (créé par l'utilisateur)
 
 #### 🟡 Priorité 2 : Audit RNE/INPI — Non-distribution LRAR
 - **Recherches effectuées** : Annuaire-entreprises.data.gouv.fr, Societe.com (RNE), INPI
@@ -217,7 +217,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 
 - **Cause probable NPAI** : Salon fermé, 0 salarié, personne pour réceptionner le courrier
 
-- **Fichier créé** : [⚖️ Actes/🔑 Token/📚 Analyses juridiques/18 Note Audit RNE NPAI SAS.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/%F0%9F%93%9C%20Audit%20RNE%20NPAI%20SAS.md)
+- **Fichier créé** : [⚖️ Actes/🔑 Token/📚 Analyses juridiques/18 Note Audit RNE NPAI SAS.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/Note%20-%20Audit%20RNE%20NPAI%20SAS.md)
 
 - **Version réelle générée** : ✅ via `generate_real_versions.py` (76 fichiers)
 
@@ -251,15 +251,15 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 | #73 | Rapport audit avocat | ✅ Mergée (rebase) | — |
 | #74 | Audit RGPD | ✅ Mergée (rebase) | — |
 | #75 | Expertise barémique | ✅ Mergée (rebase) | [📊 Rapports/40_Indemnisation_Dintilhac/20260708_Rapport_Baremique_Dintilhac.md](../%F0%9F%93%8A%20Rapports/40_Indemnisation_Dintilhac/20260708_Rapport_Baremique_Dintilhac.md) |
-| #76 | Note stratégique FGTI/CIVI | ✅ Mergée (1er) | [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/📊 Note Strategique FGTI CIVI.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/%F0%9F%93%8A%20Note%20Strategique%20FGTI%20CIVI.md) |
+| #76 | Note stratégique FGTI/CIVI | ✅ Mergée (1er) | [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/Note%20-%20Strat%C3%A9gique%20FGTI%20CIVI.md) |
 | #77 | Audit organisation | ✅ Mergée (rebase) | — |
 | #78 | Audit dirigeants | ✅ Mergée (rebase) | — |
 | #79 | Rapport conformité ERP | ✅ Mergée (rebase) | — |
-| #80 | Note Droit Assurances (token+reel) | ✅ Mergée (rebase) | [⚖️ Actes/{token,reel}/📚 Analyses juridiques/15 Note Droit Assurances.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/%F0%9F%93%9C%20Note%20Droit%20Assurances.md) |
+| #80 | Note Droit Assurances (token+reel) | ✅ Mergée (rebase) | [⚖️ Actes/{token,reel}/📚 Analyses juridiques/15 Note Droit Assurances.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/Note%20-%20Droit%20des%20Assurances.md) |
 | #81 | Rapport assurance | ✅ Mergée (rebase) | `📊 Rapports/expertise/analyse_strategie_assurance.md` |
-| #82 | Ordonnance référé | ✅ Déjà mergée | [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/07 Refere Ordonnance Projet.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Refere%20Ordonnance%20Projet.md) |
-| #83 | Réquisitoire introductif (token) | ✅ Mergée (rebase + force push) | [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Requisitoire%20Introductif.md) |
-| #84 | Mémoire défense adverse (token) | ✅ Mergée (rebase) | [⚖️ Actes/🔑 Token/📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/99%20%F0%9F%9B%A1%EF%B8%8F%20Memoire%20en%20defense%20adverse.md) |
+| #82 | Ordonnance référé | ✅ Déjà mergée | [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/07 Référé - Ordonnance Projet.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20-%20Ordonnance%20Projet.md) |
+| #83 | Réquisitoire introductif (token) | ✅ Mergée (rebase + force push) | [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/R%C3%A9quisitoire%20-%20Introductif.md) |
+| #84 | Mémoire défense adverse (token) | ✅ Mergée (rebase) | [⚖️ Actes/🔑 Token/📚 Analyses juridiques/Mémoire - En défense adverse.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/M%C3%A9moire%20-%20En%20d%C3%A9fense%20adverse.md) |
 
 ### Génération reel (#83, #84)
 - `generate_real_versions.py` : 57 fichiers générés dans [⚖️ Actes/👤 Reel](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
@@ -269,7 +269,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 ### RGPD — Fuites critiques nettoyées
 - **Supprimé** : `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📚 ANNEXE A Lexique Tokens.md` (contenait toutes les correspondances identités réelles)
 
-- **DJERBI** → `[Le Chirurgien SOS Main]` dans `📇 Index General.md`
+- **DJERBI** → `[Le Chirurgien SOS Main]` dans `Note - Index Général.md`
 
 - **PV police 2026/015967** → `[N° PV Police]` dans 5 fichiers token (Réquisitoire, Mémoire défense, Stratégie, FGTI, Conclusions)
 
@@ -321,11 +321,11 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 - M01, M15 déjà sur `main` (pas besoin de PR)
 
 ### Nouveaux fichiers créés
-- [⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF Mutualisation 📝Document.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20SIE%20URSSAF%20Mutualisation%20%F0%9F%93%9DDocument.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Mutualisation%20SIE%20URSSAF.md)
 
 - `⚖️ Actes/🔑 Token/✉️ Courriers/33 ✉️ Requête Constat Huissier 145 CPC.md`
 
-- [⚖️ Actes/🔑 Token/🗄️ Archives/11 Fiche Reflexe 48h Victime.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/11%20Fiche%20Reflexe%2048h%20Victime.md)
+- [⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Fiche%20R%C3%A9flexe%2048h%20Victime.md)
 
 - `⚖️ Actes/🔑 Token/📚 Analyses juridiques/17 Note Contentieux Administratif.md`
 
@@ -498,9 +498,9 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 
 - `05 🎯 Conclusions Refere.md` — MIS À JOUR (provision, R.4323-58, tableau)
 
-- `Constitution Partie Civile.md` — MIS À JOUR (R.4323-58, 706-14, PEP, DEP)
+- `Constitution - Partie Civile.md` — MIS À JOUR (R.4323-58, 706-14, PEP, DEP)
 
-- `12 Évaluation Dintilhac détaillée.md` — FUSIONNÉ dans `📊 Evaluation Dintilhac Consolidee.md` (supprimé le 11/07/2026)
+- `12 Évaluation Dintilhac détaillée.md` — FUSIONNÉ dans `Note - Évaluation Dintilhac Consolidée.md` (supprimé le 11/07/2026)
 
 - `STRICT VARIABLES.md` — MIS À JOUR (DEP ajouté)
 
@@ -521,9 +521,9 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 - **Fichiers mis à jour** :
 
   - `05 🎯 Conclusions Refere.md` — remplacé par la version Glose (provision 8 000 €, astreinte 100 €/jour, art. 145 communication assurance)
-  - `12 Évaluation Dintilhac détaillée.md` — FUSIONNÉ dans `📊 Evaluation Dintilhac Consolidee.md` (supprimé le 11/07/2026)
+  - `12 Évaluation Dintilhac détaillée.md` — FUSIONNÉ dans `Note - Évaluation Dintilhac Consolidée.md` (supprimé le 11/07/2026)
   - `STRICT VARIABLES.md` — trois niveaux de montants (optimiste, conservative, compromis) + plafonds FGTI (3 000 €) et SARVI
-  - `Constitution Partie Civile.md` — note de référence ajoutée
+  - `Constitution - Partie Civile.md` — note de référence ajoutée
 
 ### Écarts clés entre les deux évaluations
 
@@ -661,7 +661,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 | 02 | 02 Action Directe Assureur RC (Art. L.124-3) - UNIFIE_ANONYME |
 | 03 | 03 Plainte Complément Défaut Assurance RC - UNIFIE_ANONYME |
 | 04 | 04 Assignation Référé Provision V1 - UNIFIE_ANONYME |
-| 05 | 05 Constitution Partie Civile - UNIFIE_ANONYME |
+| 05 | 05 Constitution - Partie Civile - UNIFIE_ANONYME |
 | 06 | 06 Dossier de Présentation - UNIFIE_ANONYME |
 | 07 | 07 ETUDE Indemnisation MAX - UNIFIE_ANONYME |
 | 08 | 08 Index Etat Final Dossier - UNIFIE_ANONYME |
@@ -782,7 +782,7 @@ Les 13 documents UNIFIE_ANONYME (hors Doc 14 modèle déjà fait) n'avaient pas 
 | 2 | ActionDirecteAssureurRC | ✅ Prose | ✅ | ✅ |
 | 3 | Plainte Complément Défaut Assurance RC | ✅ Prose | ✅ | ✅ |
 | 4 | Assignation Référé Provision 5000€ V1 | ✅ Prose | ✅ | ✅ |
-| 5 | Pièce 11 Constitution Partie Civile | ✅ Prose | ✅ | ✅ |
+| 5 | Pièce 11 Constitution - Partie Civile | ✅ Prose | ✅ | ✅ |
 | 6 | Dossier de Presentation | ✅ Prose | ✅ | ✅ |
 | 7 | ETUDE Indemnisation MAX | ✅ Prose | ✅ | ✅ |
 | 8 | Index EtatFinalDuDossier | ✅ Prose | ✅ | ✅ |
@@ -810,7 +810,7 @@ Tous les 14 documents ont été anonymisés, injectés et **corrigés factuellem
 | 2 | 02 Action Directe Assureur RC (Art. L.124-3) | `1-5wPPbmfrpP4UzFCysGMYgaThI4wZfkZOQ7Gg1IQ7Bg` | `1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY` |
 | 3 | 03 Plainte Complément Défaut Assurance RC | `1KXeatBLQ1WvtKdU4APU5PyAdRSVmogApSMNteEybUqc` | `1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc` |
 | 4 | 04 Assignation Référé Provision V1 | `1J1bmCek8imtkgJnXniJg-9RXNapGjzTvnxJPgF_HFh4` | `1L3lJuFQ3CmswKlBg8P5YF6whQQ1AV7QTCLQ_arWo39A` |
-| 5 | 05 Constitution Partie Civile | `19X-lkkBYiri7DXP5nMgHkKuxgI8DB4M1LQFf6fDDgLQ` | `1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc` |
+| 5 | 05 Constitution - Partie Civile | `19X-lkkBYiri7DXP5nMgHkKuxgI8DB4M1LQFf6fDDgLQ` | `1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc` |
 | 6 | 06 Dossier de Présentation | `1CPMOR23awztNxiJYVoEZkRkKMxuXDfJzFrVB4ioxbGw` | `1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU` |
 | 7 | 07 ETUDE Indemnisation MAX | `1FKb_mrP_JwMd49KRU74LCuHmOtnsYkzxKA1vNxXuCi8` | `1PiBFn1oA1DtkT61N-zvdPmsCYsmR0au9V4BA9IZzrH4` |
 | 8 | 08 Index Etat Final Dossier | `1810cAMY1636YPs99QCBojuy9RZzDVAbYTg8qHCf06ps` | `1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU` |
@@ -1363,7 +1363,7 @@ Prendre acte de la fermeture de la SAS LMG au 10/03/2026 et du démarrage d'acti
 Mettre en place un erratum formel visant à corriger l'erreur de désignation initiale (visant à tort la SAS LMG), afin de la déposer aux autorités et de la notifier.
 
 ### Actions réalisées
-1. Rédaction de l'acte unifié `📜 Erratum Correction Identite Societe.md`.
+1. Rédaction de l'acte unifié `📜 Note - Erratum Correction Identité Société.md`.
 
 2. Mise à jour de l'ensemble des courriers et pièces associées à Foix.
 
@@ -1422,7 +1422,7 @@ Créer les 3 derniers articles manquants identifiés par l'audit de complétude 
 
 4. Création `Article_L8221-1_CodeTravail.md` — Interdiction du travail dissimulé (principe général).
 
-5. READMEs mis à jour (commerce, travail, principal Lois) + CHANGELOG_JURIDIQUE.md + fix lien L.123-3.
+5. READMEs mis à jour (commerce, travail, principal Lois) + Note%20-%20Changelog%20Juridique.md + fix lien L.123-3.
 
 ### Résultat
 ✅ Les 15 articles manquants de l'audit complet sont désormais TOUS créés.
@@ -1456,7 +1456,7 @@ Préparer et synchroniser la documentation pour le déplacement physique à Foix
 
 - **📆 Mini Calendrier Procedure.md** : jalons 27/07 ajoutés (AJ + PV), statuts mis à jour
 
-- **📅 Calendrier Procedure.md** (Token) : EVT-16 mise à jour "Dépôt AJ + Complément PV"
+- **Note - Calendrier Procédure.md** (Token) : EVT-16 mise à jour "Dépôt AJ + Complément PV"
 
 - **TODO.md** : bascule des tâches, bloc 27/07 marqué 🏗️ [EN COURS]
 
@@ -1476,10 +1476,10 @@ Auditer et corriger l'ensemble des fichiers token du dossier `👮 Police/` dans
 - Dans `Police Plainte Complementaire` : `N° LRAR Exploitant/Président/Directrice/Propriétaire` — cf. [🗂️ Tokens/](🗂️ Tokens/README.md)
 
 #### OP3 — N° PV Police + Adresse Commerce → liens
-- Dans `Police Videos Relance.md` : `N° PV Police` + `[Adresse du Commerce]` → tokens liés
+- Dans `Relance - Vidéos Police.md` : `N° PV Police` + `[Adresse du Commerce]` → tokens liés
 
 #### OP4 — 40+ `**[...]**` sans lien corrigés
-- Fichiers concernés : `Projet Declaration PV Foix.md`, `Note Personnelle Commissariat Foix.md`, `Bordereau de Pieces Foix.md`, `Frise Chronologique Foix.md`, `Erratum Correction Identite Societe.md`, `Guide Note.md`, `Guide Orale.md`
+- Fichiers concernés : `Note - Projet Déclaration PV Foix.md`, `Note - Personnelle Commissariat Foix.md`, `Bordereau - Pièces Commissariat Foix.md`, `Note - Frise Chronologique Foix.md`, `Note - Erratum Correction Identité Société.md`, `Guide Note.md`, `Guide Orale.md`
 
 #### OP5 — Correction dates FIXME
 - `Guide Orale.md` : `FIXME` → `2026-07-20`
@@ -1487,7 +1487,7 @@ Auditer et corriger l'ensemble des fichiers token du dossier `👮 Police/` dans
 - `token-pv-police-numero.md` : `FIXME` → `2026-07-11`
 
 #### OP6 — Renommage miroir Token↔Reel
-- Token : `Police Plainte Complementaire ⚖️Contentieux` → `Commissariat Foix Plainte Complementaire ⚖️Contentieux` (aligné sur le nom Reel)
+- Token : `Police Plainte Complementaire Contentieux` → `Plainte - Complémentaire Commissariat Foix` (aligné sur le nom Reel)
 
 - Reel : doublon défectueux (`Police Plainte Complementaire` avec tokens résiduels) supprimé
 
