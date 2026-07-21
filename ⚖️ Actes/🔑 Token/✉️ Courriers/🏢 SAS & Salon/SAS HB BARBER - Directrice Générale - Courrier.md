@@ -12,10 +12,6 @@ destinataire: La Directrice Générale de l'Exploitation
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS HB BARBER - Directrice Générale - Courrier.md
 ---
-<!-- PJ -->
-<!-- LRAR -->
-<!-- Objet -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS HB BARBER - Directrice Générale - Courrier*
 <hr>

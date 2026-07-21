@@ -18,17 +18,6 @@ reel_path: ../../../👤 Reel/✉️ Courriers/📋 Interne/BAJ - Demande AJ - G
 jx: J+47
 destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 ---
-<!-- Source -->
-<!-- PJ -->
-<!-- Signature -->
-<!-- LRAR -->
-<!-- Objet -->
-<!-- Date -->
-<!-- Auteur -->
-<!-- /Source -->
-<!-- /PJ -->
-<!-- /Auteur -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 📋 Interne › ✉️ BAJ - Demande AJ - Guide*
 <!-- Destinataire -->

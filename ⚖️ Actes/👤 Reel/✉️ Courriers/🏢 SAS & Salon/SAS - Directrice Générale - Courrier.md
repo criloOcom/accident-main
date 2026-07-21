@@ -25,10 +25,6 @@ drive_id: 1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93
 calendar_event_id: eicgcrnb2ir9bf072kennpm1ls
 jx: J+31
 ---
-<!-- Signature -->
-<!-- LRAR -->
-<!-- Objet -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS - Directrice Générale - Courrier*
 <hr>

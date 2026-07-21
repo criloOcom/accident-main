@@ -8,14 +8,6 @@ reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Pa
 destinataire: Procureur de la République
 auteur: Antoine
 ---
-<!-- LRAR -->
-<!-- Objet -->
-<!-- Date -->
-<!-- Destinataire -->
-<!-- /Destinataire -->
-<!-- Auteur -->
-<!-- /Auteur -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [👮 Contentieux penal](./README.md) › 16 ⚠️ Parquet - Signalement Fraude*
 <hr>

@@ -18,15 +18,6 @@ reel_path: ../../../👤 Reel/✉️ Courriers/👥 Témoins/Pompier SAMU - Emai
 source: local
 jx: J+38
 ---
-<!-- Source -->
-<!-- PJ -->
-<!-- LRAR -->
-<!-- Objet -->
-<!-- Auteur -->
-<!-- /Source -->
-<!-- /PJ -->
-<!-- /Auteur -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👥 Témoins › ✉️ Pompier SAMU - Email Attestation*
 <!-- Destinataire -->

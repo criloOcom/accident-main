@@ -25,19 +25,6 @@ personnes:
 jx: J+47
 reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Plainte Complémentaire - PV Audition.md
 ---
-<!-- Source -->
-<!-- PJ -->
-<!-- Signature -->
-<!-- LRAR -->
-<!-- Objet -->
-<!-- Date -->
-<!-- Destinataire -->
-<!-- /Source -->
-<!-- /PJ -->
-<!-- /Destinataire -->
-<!-- Auteur -->
-<!-- /Auteur -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [👮 Contentieux penal](./README.md) › 👮‍♂️ Plainte Complémentaire - PV Audition*
 <hr>

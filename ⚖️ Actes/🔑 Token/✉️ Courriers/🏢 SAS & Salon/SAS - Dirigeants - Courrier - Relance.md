@@ -24,10 +24,6 @@ reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Dirigeants
 source: local
 jx: J+40
 ---
-<!-- Signature -->
-<!-- LRAR -->
-<!-- Objet -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS - Dirigeants - Courrier - Relance*
 <hr>

@@ -19,15 +19,6 @@ source: drive
 drive_id: 1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc
 jx: J+32
 ---
-<!-- Signature -->
-<!-- LRAR -->
-<!-- Objet -->
-<!-- Date -->
-<!-- Destinataire -->
-<!-- /Destinataire -->
-<!-- Auteur -->
-<!-- /Auteur -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [👮 Contentieux penal](./README.md) › 🚔 Assurance RC - Plainte Défaut*
 <hr>

@@ -18,17 +18,6 @@ reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ
 source: drive
 jx: J+39
 ---
-<!-- PJ -->
-<!-- Signature -->
-<!-- LRAR -->
-<!-- Objet -->
-<!-- Date -->
-<!-- Destinataire -->
-<!-- /PJ -->
-<!-- /Destinataire -->
-<!-- Auteur -->
-<!-- /Auteur -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [📜 Contentieux civil](./README.md) › 📑 TJ Foix - Bordereau Unifié*
 <hr>

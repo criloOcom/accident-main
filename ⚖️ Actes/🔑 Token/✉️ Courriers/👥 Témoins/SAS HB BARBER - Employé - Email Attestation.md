@@ -18,16 +18,6 @@ reel_path: ../../../👤 Reel/✉️ Courriers/👥 Témoins/SAS HB BARBER - Emp
 source: local
 jx: J+38
 ---
-<!-- Source -->
-<!-- PJ -->
-<!-- LRAR -->
-<!-- Objet -->
-<!-- Date -->
-<!-- Auteur -->
-<!-- /Source -->
-<!-- /PJ -->
-<!-- /Auteur -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👥 Témoins › ✉️ Employé - Email Attestation*
 <!-- Destinataire -->

@@ -30,17 +30,6 @@ source: drive
 drive_id: À compléter
 jx: J+47
 ---
-<!-- PJ -->
-<!-- Signature -->
-<!-- LRAR -->
-<!-- Objet -->
-<!-- Date -->
-<!-- Destinataire -->
-<!-- /PJ -->
-<!-- /Destinataire -->
-<!-- Auteur -->
-<!-- /Auteur -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [👮 Contentieux penal](./README.md) › ⚖️ Requisitoire introductif*
 <hr>

@@ -18,13 +18,6 @@ reel_path: ../../../👤 Reel/✉️ Courriers/👥 Témoins/Témoin Client - Em
 source: local
 jx: J+38
 ---
-<!-- PJ -->
-<!-- LRAR -->
-<!-- Objet -->
-<!-- Auteur -->
-<!-- /PJ -->
-<!-- /Auteur -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👥 Témoins › ✉️ Témoin Client - Email Attestation*
 <!-- Destinataire -->

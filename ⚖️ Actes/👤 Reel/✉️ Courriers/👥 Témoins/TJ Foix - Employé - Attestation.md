@@ -14,11 +14,6 @@ source: drive
 drive_id: 1Icvl9wM3-XrrgSkLUAObecWiEvjkvk9Lj6AvWCakv2o
 destinataire: Tribunal Judiciaire de Foix / Commissariat de Foix
 ---
-<!-- Source -->
-<!-- PJ -->
-<!-- LRAR -->
-<!-- Objet -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👥 Témoins › ✉️ Employé - Attestation*
 <hr>

@@ -25,10 +25,6 @@ source: local
 jx: J+41
 calendar_event_id: 9ortbnkvp8it8hnebif5fr4bec
 ---
-<!-- Source -->
-<!-- LRAR -->
-<!-- Objet -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ SIE URSSAF - Mutualisation - Courrier*
 <hr>

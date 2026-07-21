@@ -12,10 +12,6 @@ destinataire: L'Exploitant du Commerce (La SAS)
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS HB BARBER - SAS - HB BARBER - Courrier.md
 ---
-<!-- Signature -->
-<!-- LRAR -->
-<!-- Objet -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS - HB BARBER - Courrier*
 <hr>

@@ -19,16 +19,6 @@ reel_path: ../../../👤 Reel/✉️ Courriers/⚕️ Médical/Médecin Traitant
 source: local
 jx: J+38
 ---
-<!-- Source -->
-<!-- PJ -->
-<!-- LRAR -->
-<!-- Objet -->
-<!-- Date -->
-<!-- Destinataire -->
-<!-- /Source -->
-<!-- /PJ -->
-<!-- /Destinataire -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › ⚕️ Médical › ✉️ Médecin Traitant - Consolidation - Relance*
 <hr>

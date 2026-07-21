@@ -11,19 +11,6 @@ depose: false
 auteur: La Victime
 reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Plainte Complémentaire - Correction.md
 ---
-<!-- Source -->
-<!-- PJ -->
-<!-- Signature -->
-<!-- LRAR -->
-<!-- Objet -->
-<!-- Date -->
-<!-- Destinataire -->
-<!-- /Source -->
-<!-- /PJ -->
-<!-- /Destinataire -->
-<!-- Auteur -->
-<!-- /Auteur -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [👮 Contentieux penal](./README.md) › 👮‍♂️ Plainte Complémentaire - Correction HB BARBER*
 <hr>

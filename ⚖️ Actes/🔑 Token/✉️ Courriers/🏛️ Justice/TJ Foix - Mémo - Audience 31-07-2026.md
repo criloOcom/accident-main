@@ -10,19 +10,6 @@ reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/TJ Foix - Mémo -
 jx: J+63
 destinataire: Avocat de la Victime
 ---
-<!-- Source -->
-<!-- PJ -->
-<!-- Signature -->
-<!-- LRAR -->
-<!-- Objet -->
-<!-- Date -->
-<!-- Destinataire -->
-<!-- /Source -->
-<!-- /PJ -->
-<!-- /Destinataire -->
-<!-- Auteur -->
-<!-- /Auteur -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers](../README.md) › [🏛️ Justice](./README.md) › MEMO AUDIENCE 31072026*
 <hr>

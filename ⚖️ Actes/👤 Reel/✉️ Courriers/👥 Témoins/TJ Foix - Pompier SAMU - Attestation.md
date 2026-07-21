@@ -15,11 +15,6 @@ drive_id: 1U2TD8Ftkjmtx2f6THDKNC3-1KXFH07KolM9nAN1TJXw
 jx: J+32
 destinataire: Tribunal Judiciaire de Foix / Commissariat de Foix
 ---
-<!-- Source -->
-<!-- PJ -->
-<!-- LRAR -->
-<!-- Objet -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👥 Témoins › ✉️ Pompier SAMU - Attestation*
 <hr>

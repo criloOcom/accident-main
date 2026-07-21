@@ -22,11 +22,6 @@ destinataire: Avocat
 auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/Consultation - Avocat Jimini.md
 ---
-<!-- Source -->
-<!-- PJ -->
-<!-- Signature -->
-<!-- LRAR -->
-
 <!-- Breadcrumb -->
 <!-- Auteur -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Justice › ✉️ Consultation - Avocat Jimini*

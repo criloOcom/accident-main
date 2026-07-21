@@ -25,14 +25,6 @@ reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Co
 jx: J+38
 calendar_event_id: 9pkmrn8fadbta67drfub7dssec
 ---
-<!-- LRAR -->
-<!-- Objet -->
-<!-- Date -->
-<!-- Destinataire -->
-<!-- /Destinataire -->
-<!-- Auteur -->
-<!-- /Auteur -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [📜 Contentieux civil](./README.md) › 📸 Constat Huissier - Requête*
 <hr>

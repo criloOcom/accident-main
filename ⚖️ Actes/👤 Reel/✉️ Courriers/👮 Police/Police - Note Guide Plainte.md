@@ -19,15 +19,6 @@ auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/Police - Note Guide Plainte.md
 jx: J+47
 ---
-<!-- PJ -->
-<!-- Signature -->
-<!-- LRAR -->
-<!-- Objet -->
-<!-- Date -->
-<!-- Auteur -->
-<!-- /PJ -->
-<!-- /Auteur -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👮 Police › ✉️ Police - Note Guide Plainte*
 <!-- Destinataire -->

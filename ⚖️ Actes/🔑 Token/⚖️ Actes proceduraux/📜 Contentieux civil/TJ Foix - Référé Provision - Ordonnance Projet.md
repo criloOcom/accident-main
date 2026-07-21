@@ -24,19 +24,6 @@ reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ
 jx: J+63
 destinataire: Président du Tribunal Judiciaire de Foix
 ---
-<!-- Source -->
-<!-- PJ -->
-<!-- Signature -->
-<!-- LRAR -->
-<!-- Objet -->
-<!-- Date -->
-<!-- Destinataire -->
-<!-- /Source -->
-<!-- /PJ -->
-<!-- /Destinataire -->
-<!-- Auteur -->
-<!-- /Auteur -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [📜 Contentieux civil](./README.md) › ⚖️ Projet Ordonnance Refere*
 <hr>

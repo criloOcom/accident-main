@@ -12,13 +12,6 @@ auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Mairie/Mairie - ERP Tavella - Courrier.md
 jx: J+42
 ---
-<!-- Source -->
-<!-- Signature -->
-<!-- LRAR -->
-<!-- Auteur -->
-<!-- /Source -->
-<!-- /Auteur -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Mairie › ✉️ Mairie - ERP Tavella - Courrier*
 <!-- Destinataire -->
