@@ -268,17 +268,17 @@ Cet audit croise les données de `🧠 Memory/RECADRAGE_NOMENCLATURE.md`, `🧠 
 
 - [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Note Personnelle Commissariat Foix.md:193 — Token leak détecté : ["[**[L'Email du Propriétaire des Murs]**]"] — Remplacer par les valeurs réelles.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md:51 — Token leak détecté : ['[**[Le Telephone du Prepose]**]'] — Remplacer par les valeurs réelles.
+- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution Partie Civile.md:51 — Token leak détecté : ['[**[Le Telephone du Prepose]**]'] — Remplacer par les valeurs réelles.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 Plainte Defaut Assurance RC.md:40 — Token leak détecté : ['[**[Adresse Tribunal Judiciaire]**]'] — Remplacer par les valeurs réelles.
+- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Defaut Assurance RC.md:40 — Token leak détecté : ['[**[Adresse Tribunal Judiciaire]**]'] — Remplacer par les valeurs réelles.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 Plainte Defaut Assurance RC.md:76 — Token leak détecté : ['[**[Le Telephone du Prepose]**]'] — Remplacer par les valeurs réelles.
+- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Defaut Assurance RC.md:76 — Token leak détecté : ['[**[Le Telephone du Prepose]**]'] — Remplacer par les valeurs réelles.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/⚖️ Requisitoire introductif.md:45 — Token leak détecté : ['[**[Le Telephone du Prepose]**]'] — Remplacer par les valeurs réelles.
+- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Requisitoire Introductif.md:45 — Token leak détecté : ['[**[Le Telephone du Prepose]**]'] — Remplacer par les valeurs réelles.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/⚖️ Requisitoire introductif.md:171 — Token leak détecté : ['[**[J+54]**]'] — Remplacer par les valeurs réelles.
+- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Requisitoire Introductif.md:171 — Token leak détecté : ['[**[J+54]**]'] — Remplacer par les valeurs réelles.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md:140 — Token leak détecté : ['[**[Le Telephone du Prepose]**]'] — Remplacer par les valeurs réelles.
+- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md:140 — Token leak détecté : ['[**[Le Telephone du Prepose]**]'] — Remplacer par les valeurs réelles.
 
 ## 3. Fuite de noms réels dans `⚖️ Actes/🔑 Token/`
 - [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/README.md:99 — Nom réel leak détecté : 'TAVELLA' — Remplacer par le token.
@@ -323,7 +323,7 @@ Cet audit croise les données de `🧠 Memory/RECADRAGE_NOMENCLATURE.md`, `🧠 
 
 - [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER DG 📜Lettre.md:23 — Nom réel leak détecté : 'SORROCHE' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/🗄️ Archives/🛡️ Constitution Partie Civile.md:69 — Nom réel leak détecté : 'Oxybel' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/🗄️ Archives/Constitution Partie Civile.md:69 — Nom réel leak détecté : 'Oxybel' — Remplacer par le token.
 
 - [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/📋 Attestations/📋 Témoin Mathieu Frédéric.md:56 — Nom réel leak détecté : 'GRAZIDE' — Remplacer par le token.
 
@@ -365,22 +365,22 @@ Cet audit croise les données de `🧠 Memory/RECADRAGE_NOMENCLATURE.md`, `🧠 
 
 - [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Projet Declaration PV Foix.md:42 — Nom réel leak détecté : 'Oxybel' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md:61 — Nom réel leak détecté : 'Oxybel' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution Partie Civile.md:61 — Nom réel leak détecté : 'Oxybel' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md:91 — Nom réel leak détecté : 'Oxybel' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution Partie Civile.md:91 — Nom réel leak détecté : 'Oxybel' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/⚖️ Requisitoire introductif.md:51 — Nom réel leak détecté : 'Oxybel' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Requisitoire Introductif.md:51 — Nom réel leak détecté : 'Oxybel' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md:38 — Nom réel leak détecté : 'BENNOURINE' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md:38 — Nom réel leak détecté : 'BENNOURINE' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md:38 — Nom réel leak détecté : 'Ayoub' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md:38 — Nom réel leak détecté : 'Ayoub' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md:48 — Nom réel leak détecté : 'BENNOURINE' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md:48 — Nom réel leak détecté : 'BENNOURINE' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md:48 — Nom réel leak détecté : 'Ayoub' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md:48 — Nom réel leak détecté : 'Ayoub' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md:50 — Nom réel leak détecté : 'Oxybel' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md:50 — Nom réel leak détecté : 'Oxybel' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md:151 — Nom réel leak détecté : 'BENNOURINE' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md:151 — Nom réel leak détecté : 'BENNOURINE' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md:151 — Nom réel leak détecté : 'Ayoub' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md:151 — Nom réel leak détecté : 'Ayoub' — Remplacer par le token.

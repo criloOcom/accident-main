@@ -258,7 +258,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 | #80 | Note Droit Assurances (token+reel) | ✅ Mergée (rebase) | [⚖️ Actes/{token,reel}/📚 Analyses juridiques/15 Note Droit Assurances.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/%F0%9F%93%9C%20Note%20Droit%20Assurances.md) |
 | #81 | Rapport assurance | ✅ Mergée (rebase) | `📊 Rapports/expertise/analyse_strategie_assurance.md` |
 | #82 | Ordonnance référé | ✅ Déjà mergée | [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/07 Refere Ordonnance Projet.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Refere%20Ordonnance%20Projet.md) |
-| #83 | Réquisitoire introductif (token) | ✅ Mergée (rebase + force push) | [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md) |
+| #83 | Réquisitoire introductif (token) | ✅ Mergée (rebase + force push) | [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Requisitoire%20Introductif.md) |
 | #84 | Mémoire défense adverse (token) | ✅ Mergée (rebase) | [⚖️ Actes/🔑 Token/📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/99%20%F0%9F%9B%A1%EF%B8%8F%20Memoire%20en%20defense%20adverse.md) |
 
 ### Génération reel (#83, #84)
@@ -498,7 +498,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 
 - `05 🎯 Conclusions Refere.md` — MIS À JOUR (provision, R.4323-58, tableau)
 
-- `🛡️ Constitution Partie Civile.md` — MIS À JOUR (R.4323-58, 706-14, PEP, DEP)
+- `Constitution Partie Civile.md` — MIS À JOUR (R.4323-58, 706-14, PEP, DEP)
 
 - `12 Évaluation Dintilhac détaillée.md` — FUSIONNÉ dans `📊 Evaluation Dintilhac Consolidee.md` (supprimé le 11/07/2026)
 
@@ -523,7 +523,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
   - `05 🎯 Conclusions Refere.md` — remplacé par la version Glose (provision 8 000 €, astreinte 100 €/jour, art. 145 communication assurance)
   - `12 Évaluation Dintilhac détaillée.md` — FUSIONNÉ dans `📊 Evaluation Dintilhac Consolidee.md` (supprimé le 11/07/2026)
   - `STRICT VARIABLES.md` — trois niveaux de montants (optimiste, conservative, compromis) + plafonds FGTI (3 000 €) et SARVI
-  - `🛡️ Constitution Partie Civile.md` — note de référence ajoutée
+  - `Constitution Partie Civile.md` — note de référence ajoutée
 
 ### Écarts clés entre les deux évaluations
 

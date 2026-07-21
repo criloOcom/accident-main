@@ -10,7 +10,7 @@ tags:
 statut: final
 destinataire: Tribunal Correctionnel
 auteur: La Victime
-reel_path: ../../👤 Reel/🗄️ Archives/🛡️ Constitution Partie Civile.md
+reel_path: ../../👤 Reel/🗄️ Archives/Constitution Partie Civile.md
 source: drive
 drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 ---

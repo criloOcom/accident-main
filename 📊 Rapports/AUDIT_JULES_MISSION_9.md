@@ -54,7 +54,7 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 ### 📄 `⚖️ Actes/🔑 Token/🗄️ Archives/📁 Dossier Presentation.md`
 - [x] `l.58` — Mention correcte de la profession : *Afin de lever tout obstacle financier pour [**[La Victime]**], travailleur indépendant ([**[L'Identifiant Professionnel de la Victime]**]) actuellement privé de revenus professionnels, plusieurs mécanismes juridiques de subrogation et de remboursement des honoraires sont mobilisés :*
 
-### 📄 `⚖️ Actes/🔑 Token/🗄️ Archives/🛡️ Constitution Partie Civile.md`
+### 📄 `⚖️ Actes/🔑 Token/🗄️ Archives/Constitution Partie Civile.md`
 - [x] `l.55` — Mention correcte de la profession : *Profession : Informaticien indépendant ([**[L'Identifiant Professionnel de la Victime]**])*
 
 ### 📄 `⚖️ Actes/🔑 Token/🗄️ Archives/🔧 ANALYSE correction juridique.md`
@@ -124,16 +124,16 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 ### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifie.md`
 - [x] `l.44` — Mention correcte de la profession : *- [**[J+3 Premiers arrêts]**] au [**[J+55 Fin d'ITT]**] — [Arrêts de travail] et prolongations ([**[Le Médecin Généraliste]**], [**[Le Médecin Généraliste]**]) : arrêt de travail total de 55 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 29 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.*
 
-### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ PV Audition Plainte Complementaire.md`
+### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire.md`
 - [x] `l.64` — Mention correcte de la profession : *> « Je me nomme [**[La Victime]**], né(e) le [**[Date de naissance de la victime]**] à [**[La Métropole Régionale]**], de nationalité française, exerçant la profession d'informaticien indépendant.*
 
-### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 Plainte Defaut Assurance RC.md`
+### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Defaut Assurance RC.md`
 - [x] `l.34` — Mention correcte de la profession : *[**[L'Identifiant Professionnel de la Victime]**]*
 
-### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire Foix.md`
+### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire Foix.md`
 - [x] `l.53` — Mention correcte de la profession : *Profession : Informaticien indépendant (SIREN : [**[L'Identifiant Professionnel de la Victime]**]).*
 
-### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/⚖️ Requisitoire introductif.md`
+### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Requisitoire Introductif.md`
 - [x] `l.72` — Mention correcte de la profession : ***Scénario B (offensif)** : l'expertise fait état d'une consolidation à 12 mois et d'une impossibilité pour la victime, informaticienne, d'utiliser sa main dominante pour le travail pendant la quasi-totalité de cette période. Si l'ITT pénale est étendue à la période d'incapacité fonctionnelle totale constatée par l'expert (au-delà de 3 mois), la qualification de l'article **222-19** du Code pénal (ITT > 3 mois) devient encourue, avec des peines portées à 3 ans d'emprisonnement et 45 000 € d'amende en cas de violation manifestement délibérée — ce qui est le cas en présence d'un défaut d'entretien d'un ERP.*
 
 - [x] `l.117` — Mention correcte de la profession : *Les faits dénoncés revêtent une indéniable gravité, les conséquences pour la victime, informaticien de profession, étant majeures (atteinte nerveuse de la main dominante). Le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 confirme objectivement ces constatations : section complète du tendon FDP et du paquet vasculo-nerveux collatéral radial de l'index droit, DFP de 12 % avec incidence professionnelle majeure, SE de 4/7, et consolidation à 12 mois. L'expert évalue le préjudice extra-patrimonial global à environ 49 231 €.*
@@ -172,7 +172,7 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 
 - [x] `l.58` — Mention correcte de la profession : *Afin de lever tout obstacle financier pour [Sébastien GRAZIDE], travailleur indépendant ([500 474 457]) actuellement privé de revenus professionnels, plusieurs mécanismes juridiques de subrogation et de remboursement des honoraires sont mobilisés :*
 
-### 📄 `⚖️ Actes/👤 Reel/🗄️ Archives/🛡️ Constitution Partie Civile.md`
+### 📄 `⚖️ Actes/👤 Reel/🗄️ Archives/Constitution Partie Civile.md`
 - [x] `l.55` — Mention correcte du SIREN : *Profession : Informaticien indépendant ([500 474 457])*
 
 - [x] `l.55` — Mention correcte de la profession : *Profession : Informaticien indépendant ([500 474 457])*
@@ -256,20 +256,20 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 ### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifie.md`
 - [x] `l.44` — Mention correcte de la profession : *- [1 juin 2026] au [23 juillet 2026] — [Arrêts de travail] et prolongations ([Dr Oxybel], [Dr Oxybel]) : arrêt de travail total de 55 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 29 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.*
 
-### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ PV Audition Plainte Complementaire.md`
+### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire.md`
 - [x] `l.64` — Mention correcte de la profession : *> « Je me nomme [Sébastien GRAZIDE], né(e) le [18 janvier 1982] à [Toulouse], de nationalité française, exerçant la profession d'informaticien indépendant.*
 
-### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 Plainte Defaut Assurance RC.md`
+### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Defaut Assurance RC.md`
 - [x] `l.34` — Mention correcte du SIREN : *[500 474 457]*
 
 - [x] `l.34` — Mention correcte de la profession : *[500 474 457]*
 
-### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire Foix.md`
+### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire Foix.md`
 - [x] `l.53` — Mention correcte de la profession : *Profession : Informaticien indépendant (SIREN : [500 474 457]).*
 
 - [x] `l.53` — Mention correcte du SIREN : *Profession : Informaticien indépendant (SIREN : [500 474 457]).*
 
-### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/⚖️ Requisitoire introductif.md`
+### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Requisitoire Introductif.md`
 - [x] `l.72` — Mention correcte de la profession : ***Scénario B (offensif)** : l'expertise fait état d'une consolidation à 12 mois et d'une impossibilité pour la victime, informaticienne, d'utiliser sa main dominante pour le travail pendant la quasi-totalité de cette période. Si l'ITT pénale est étendue à la période d'incapacité fonctionnelle totale constatée par l'expert (au-delà de 3 mois), la qualification de l'article **222-19** du Code pénal (ITT > 3 mois) devient encourue, avec des peines portées à 3 ans d'emprisonnement et 45 000 € d'amende en cas de violation manifestement délibérée — ce qui est le cas en présence d'un défaut d'entretien d'un ERP.*
 
 - [x] `l.117` — Mention correcte de la profession : *Les faits dénoncés revêtent une indéniable gravité, les conséquences pour la victime, informaticien de profession, étant majeures (atteinte nerveuse de la main dominante). Le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 confirme objectivement ces constatations : section complète du tendon FDP et du paquet vasculo-nerveux collatéral radial de l'index droit, DFP de 12 % avec incidence professionnelle majeure, SE de 4/7, et consolidation à 12 mois. L'expert évalue le préjudice extra-patrimonial global à environ 49 231 €.*

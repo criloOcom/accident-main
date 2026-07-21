@@ -41,7 +41,7 @@ SIREN d'immatriculation de l'activité professionnelle de la victime, informatic
 
 - [Assignation Référé J+32](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Refere%20Assignation%20Provision.md) (qualité d'auto-entrepreneur)
 
-- [Constitution Partie Civile J+38](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (profession)
+- [Constitution Partie Civile J+38](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20Partie%20Civile.md) (profession)
 
 ## Source
 

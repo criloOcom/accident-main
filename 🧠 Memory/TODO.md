@@ -300,7 +300,7 @@ PHASE 5 — INSTANCE AU FOND (2027)
 ### PLAN A — CORRECTION L.211-26 C. ASSURANCES ✅ TERMINÉ
 
 - L.211-26 supprimé de [`STRATEGIE Contentieux Penal.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Penal.md) (§2.2, §3.3),
-  [`PLAINTE Complement Defaut Assurance RC.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9A%94%20Plainte%20Defaut%20Assurance%20RC.md), scripts Python.
+  [`PLAINTE Complement Defaut Assurance RC.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Plainte%20Defaut%20Assurance%20RC.md), scripts Python.
 - Remplacement par signalement de fait + Art. 706-3 CPP + Art. L.124-3 C. assur.
 
 - Règle absolue instaurée : vérification Légifrance avant toute citation.

@@ -579,7 +579,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/🔑 Token/🗄️ Archives/📁 Dossier Presentation.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/🗄️ Archives/🛡️ Constitution Partie Civile.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/🗄️ Archives/Constitution Partie Civile.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/🗄️ Archives/🔧 ANALYSE correction juridique.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -665,21 +665,21 @@ type: rapport
 
 - [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Constat Huissier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution Partie Civile.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 Plainte Defaut Assurance RC.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Defaut Assurance RC.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Article 145 CPC.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/16 ⚠️ Signalement Parquet Fraud.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Signalement Parquet Fraud.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/⚖️ Requisitoire introductif.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Requisitoire Introductif.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifie.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire Foix.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire Foix.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Ordonnance Projet.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -691,7 +691,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ PV Audition Plainte Complementaire.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/✉️ Requete Constat Huissier 🗄️Archive.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -819,7 +819,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/👤 Reel/🗄️ Archives/📁 Dossier Presentation.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/🗄️ Archives/🛡️ Constitution Partie Civile.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/🗄️ Archives/Constitution Partie Civile.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/🗄️ Archives/🔧 ANALYSE correction juridique.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -933,21 +933,21 @@ type: rapport
 
 - [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Constat Huissier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution Partie Civile.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 Plainte Defaut Assurance RC.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Defaut Assurance RC.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Requete Article 145 CPC.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/16 ⚠️ Signalement Parquet Fraud.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Signalement Parquet Fraud.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/⚖️ Requisitoire introductif.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Requisitoire Introductif.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifie.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire Foix.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire Foix.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Ordonnance Projet.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -959,7 +959,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ PV Audition Plainte Complementaire.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md` : YAML front matter manquant ou mal formaté (Gravité: MAJEUR)
 

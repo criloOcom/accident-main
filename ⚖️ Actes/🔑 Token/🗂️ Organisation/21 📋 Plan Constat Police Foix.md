@@ -63,7 +63,7 @@ Face au péril grave et imminent de réitération d'un tel accident sur d'autres
 1. Mandater les agents de police municipale ou les services techniques de la mairie pour procéder à un contrôle sur place de la conformité des équipements de ce salon.
 2. Faire constater par vos agents l'identité de l'exploitant réel actuellement en exercice dans ces locaux (vérification de l'affichage obligatoire des mentions légales et du registre public d'accessibilité).
 
-Je me déplace personnellement à Foix la semaine prochaine pour rencontrer les services de police et déposer ma [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md). Un constat officiel de la situation actuelle de ce commerce par vos services en amont est indispensable pour prévenir tout trouble à la sécurité publique.
+Je me déplace personnellement à Foix la semaine prochaine pour rencontrer les services de police et déposer ma [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20Partie%20Civile.md). Un constat officiel de la situation actuelle de ce commerce par vos services en amont est indispensable pour prévenir tout trouble à la sécurité publique.
 
 Je vous remercie de votre proactivité pour la sécurité de vos administrés.
 

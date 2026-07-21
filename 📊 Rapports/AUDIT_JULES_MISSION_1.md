@@ -31,9 +31,9 @@ Ces fichiers mentionnent par erreur `29 juin 2026` (date d'envoi des LRAR) comme
 
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Proprietaire 📜Lettre Relance 3.md` : l. 44 — Date accident erronée : '29 juin 2026'.
 
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md` : l. 84 — Date accident erronée : '29 juin 2026'.
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md` : l. 84 — Date accident erronée : '29 juin 2026'.
 
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire Foix.md` : l. 66 — Date accident erronée : '29 juin 2026'.
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire Foix.md` : l. 66 — Date accident erronée : '29 juin 2026'.
 
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Note Personnelle Commissariat Foix.md` : l. 126 — Date accident erronée : '29 juin 2026'.
 

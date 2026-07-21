@@ -56,12 +56,12 @@ Fichiers scannés : 141
 
 - Extrait : `**B. Mises en demeure LRAR du 29 juin 2026 :**`
 
-## ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md (ligne 84) — ÉCART DATE/DOIGT/CPAM
+## ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md (ligne 84) — ÉCART DATE/DOIGT/CPAM
 - Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains certificats ont cette erreur matérielle.
 
 - Extrait : `Le **16 juillet 2026**, j'ai reçu un courriel de **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitatio`
 
-## ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire Foix.md (ligne 65) — ÉCART DATE/DOIGT/CPAM
+## ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire Foix.md (ligne 65) — ÉCART DATE/DOIGT/CPAM
 - Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains certificats ont cette erreur matérielle.
 
 - Extrait : `Premièrement, face au silence de l'exploitant le jour de l'accident, j'ai envoyé des lettres recommandées avec accusé de réception (LRAR) le 29 juin 2026 aux di`

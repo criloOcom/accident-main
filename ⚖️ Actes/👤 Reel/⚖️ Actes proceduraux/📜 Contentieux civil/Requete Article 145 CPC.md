@@ -30,22 +30,14 @@ jx: J+52
 # REQUÊTE<br>Communication d'assurances, conservation de vidéos et mesures d'instruction
 
 **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
-
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
-
 **[sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
-
 **[06 30 51 67 75](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)**
-
----
 
 **A l'attention de Monsieur le Président du Tribunal Judiciaire de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)****
 Cabinet du Juge des Référés
 
 **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le 20 juillet 2026
-
----
-
 ## I — INTRODUCTION
 
 La présente requête est introduite par **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** sur le fondement de l'article 145 du Code de procédure civile.

@@ -9,19 +9,19 @@ Ce rapport liste les incohérences ou erreurs liées aux adresses et sièges soc
 
 ## 🛑 Incohérences Critiques (Fuites d'Anonymisation / Tokens non remplacés)
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md:28 — Adresse réelle trouvée dans un fichier Token (`10 avenue de Purpan`) — remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md:28 — Adresse réelle trouvée dans un fichier Token (`10 avenue de Purpan`) — remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md:33 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md:33 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md:38 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md:38 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md:55 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md:55 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md:66 — Adresse réelle trouvée dans un fichier Token (`22 GRANDE RUE LA FAURIE`) — remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md:66 — Adresse réelle trouvée dans un fichier Token (`22 GRANDE RUE LA FAURIE`) — remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md:84 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md:84 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
 
-- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md:102 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+- [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md:102 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
 
 - [ ] **FILE** : [CRITIQUE] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Bordereau de Pieces Foix.md:46 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
 
@@ -135,7 +135,7 @@ Ce rapport liste les incohérences ou erreurs liées aux adresses et sièges soc
 
 - [ ] **FILE** : [MINEUR] ⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md:75 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
 
-- [ ] **FILE** : [MINEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md:66 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+- [ ] **FILE** : [MINEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md:66 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
 
 - [ ] **FILE** : [MINEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Frise Chronologique Foix.md:27 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
 
@@ -159,7 +159,7 @@ Ce rapport liste les incohérences ou erreurs liées aux adresses et sièges soc
 
 - [ ] **FILE** : [MINEUR] ⚖️ Actes/👤 Reel/📚 Analyses juridiques/📜 Note Synthese Avocat Bascule HB BARBER.md:118 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
 
-- [ ] **FILE** : [MINEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md:66 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+- [ ] **FILE** : [MINEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md:66 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
 
 - [ ] **FILE** : [MINEUR] ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Frise Chronologique Foix.md:27 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
 

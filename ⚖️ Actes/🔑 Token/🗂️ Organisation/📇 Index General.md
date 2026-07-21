@@ -201,7 +201,7 @@ Documents non indexés conservés dans `archives/` :
 
 - [archives/annexes/](../README.md) — ~~📚 ANNEXE A Lexique Tokens (supprimé — RGPD)~~, [⚖️ ANNEXE B Lois Jurisprudence](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%E2%9A%96%EF%B8%8F%20ANNEXE%20B%20Lois%20Jurisprudence.md), [📑 ANNEXE C Pièces](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%F0%9F%93%91%20ANNEXE%20C%20Pieces.md)
 
-- [archives/🛡️ Constitution Partie Civile.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
+- [archives/../⚖️ Actes proceduraux/👮 Contentieux penal/Constitution Partie Civile.md](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20Partie%20Civile.md)
 
 - [archives/⚡ ActionDirecte AssureurRC.md](../%F0%9F%97%84%EF%B8%8F%20Archives/%E2%9A%A1%20ActionDirecte%20AssureurRC.md)
 

@@ -27,9 +27,9 @@ Date: 2026-07-12 14:37
   ✓  ⚖️ Actes proceduraux/Refere Assignation Provision.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md
   ✓  ⚖️ Actes proceduraux/02 🚔 Plainte.md
-       → ⚖️ Actes proceduraux/👮 Contentieux penal/🚔 Plainte Defaut Assurance RC.md
-  ✓  ⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md
-       → ⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md
+       → ⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Defaut Assurance RC.md
+  ✓  ⚖️ Actes proceduraux/Constitution Partie Civile.md
+       → ⚖️ Actes proceduraux/👮 Contentieux penal/Constitution Partie Civile.md
   ✓  ⚖️ Actes proceduraux/03 🔍 Assignation Article 145.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/Requete Article 145 CPC.md
   ✓  ⚖️ Actes proceduraux/04 📑 Bordereau.md
@@ -41,7 +41,7 @@ Date: 2026-07-12 14:37
   ✓  ⚖️ Actes proceduraux/07 Refere Ordonnance Projet.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/Refere Ordonnance Projet.md
   ✓  ⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md
-       → ⚖️ Actes proceduraux/👮 Contentieux penal/⚖️ Requisitoire introductif.md
+       → ⚖️ Actes proceduraux/👮 Contentieux penal/Requisitoire Introductif.md
   ✓  ✉️ Courriers/03 ✉️ Courrier SAS.md
        → ✉️ Courriers/✉️ SAS 📜Lettre.md
   ✓  ✉️ Courriers/✉️ SAS Assureur RC 📜Lettre.md
@@ -167,9 +167,9 @@ Date: 2026-07-12 14:37
   ✓  ⚖️ Actes proceduraux/Refere Assignation Provision.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md
   ✓  ⚖️ Actes proceduraux/02 🚔 Plainte.md
-       → ⚖️ Actes proceduraux/👮 Contentieux penal/🚔 Plainte Defaut Assurance RC.md
-  ✓  ⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md
-       → ⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md
+       → ⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Defaut Assurance RC.md
+  ✓  ⚖️ Actes proceduraux/Constitution Partie Civile.md
+       → ⚖️ Actes proceduraux/👮 Contentieux penal/Constitution Partie Civile.md
   ✓  ⚖️ Actes proceduraux/03 🔍 Assignation Article 145.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/Requete Article 145 CPC.md
   ✓  ⚖️ Actes proceduraux/04 📑 Bordereau Audience.md
@@ -185,7 +185,7 @@ Date: 2026-07-12 14:37
   ✓  ⚖️ Actes proceduraux/07 Refere Ordonnance Projet.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/Refere Ordonnance Projet.md
   ✓  ⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md
-       → ⚖️ Actes proceduraux/👮 Contentieux penal/⚖️ Requisitoire introductif.md
+       → ⚖️ Actes proceduraux/👮 Contentieux penal/Requisitoire Introductif.md
   ✓  ✉️ Courriers/03 ✉️ Courrier SAS.md
        → ✉️ Courriers/✉️ SAS 📜Lettre.md
   ✓  ✉️ Courriers/✉️ SAS Assureur RC 📜Lettre.md
@@ -308,7 +308,7 @@ Date: 2026-07-12 14:37
        → 🗂️ Organisation/✅ Checklist Envoi 11-07.md
 
 ── Fichiers exclus (brouillons / 99) ──
-  ⊘ ⚖️ Actes proceduraux/👮 Contentieux penal/16 ⚠️ Signalement Parquet Fraud.md
+  ⊘ ⚖️ Actes proceduraux/👮 Contentieux penal/Signalement Parquet Fraud.md
   ⊘ ⚖️ Actes proceduraux/📜 Contentieux civil/Requete Mandataire Ad Hoc.md
   ⊘ 📂 Preuves officielles/📁 Preparation Expertise UMJ.md
   ⊘ 📚 Analyses juridiques/99 🛡️ Memoire en defense adverse.md

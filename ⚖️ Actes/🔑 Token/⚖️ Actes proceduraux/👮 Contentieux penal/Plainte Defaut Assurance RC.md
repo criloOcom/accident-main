@@ -1,6 +1,7 @@
 ---
+emoji: "🚔"
 title: "Plainte Complément — Défaut d'Assurance RC"
-description: "Rédigé le 30 juin 2026"
+description: "Rédigé le **[J+32 Assignation référé]"
 type: readme
 date: 2026-06-30
 tags:
@@ -11,7 +12,7 @@ calendar_event_id: "pj485q1bbc1oq8h9olnschnt4k"
 statut: final
 destinataire: Procureur de la République
 auteur: La Victime
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 Plainte Defaut Assurance RC.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Defaut Assurance RC.md
 source: drive
 drive_id: 1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc
 jx: J+32
@@ -23,25 +24,25 @@ jx: J+32
 
 # COMPLÉMENT DE PLAINTE PÉNALE<br>DÉFAUT D'ASSURANCE RC
 > 🔗 Source Google Drive : [1TVN7SyAWgTL…](https://drive.google.com/open?id=1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc)
-Rédigé le **[30 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)**
+Rédigé le **[J+32 Assignation référé](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)**
 
-**[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
+**[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
 
-**[Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**
+**[La Ville de Résidence de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**
 
-Courriel : **[sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
+Courriel : **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
 
-**[500 474 457](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md)**
+**[L'Identifiant Professionnel de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md)**
 
 À l'attention de Monsieur le Procureur de la République
 
-Tribunal Judiciaire de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
+Tribunal Judiciaire de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
 
 **Adresse Tribunal Judiciaire**
 
-09008 **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** Cedex
+09008 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** Cedex
 
-**[Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**, le **[30 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)**
+**[La Ville de Résidence de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**, le **[J+32 Assignation référé](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)**
 
 OBJET : COMPLÉMENT DE PLAINTE PÉNALE
 
@@ -50,9 +51,9 @@ Dénonciation de défaut d'assurance de responsabilité civile professionnelle e
 RÉFÉRENCE : Dossier [ ... ]
 ## I — INTRODUCTION
 
-Le présent complément de plainte pénale est déposé par **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** auprès de Monsieur le Procureur de la République près le Tribunal Judiciaire de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** afin de signaler l'absence d'assurance de responsabilité civile professionnelle de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
+Le présent complément de plainte pénale est déposé par **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** auprès de Monsieur le Procureur de la République près le Tribunal Judiciaire de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** afin de signaler l'absence d'assurance de responsabilité civile professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 
-Malgré les demandes amiables répétées, [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) n'a jamais communiqué d'attestation d'assurance RC Pro, laissant présumer une absence de couverture assurantielle.
+Malgré les demandes amiables répétées, [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) n'a jamais communiqué d'attestation d'assurance RC Pro, laissant présumer une absence de couverture assurantielle.
 
 Cette carence constitue un obstacle majeur à l'exercice de l'action directe de la victime contre l'assureur ([Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1]) et entrave gravement ses droits à indemnisation.
 
@@ -71,9 +72,9 @@ En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en 
 
 ## II — EXPOSÉ DES FAITS
 
-Le **[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**, alors qu'il se trouvait dans le salon de coiffure exploité par [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) en qualité de client, **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** a été victime d'un accident corporel grave au sein de l'établissement, sise **[22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**. 
+Le **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**, alors qu'il se trouvait dans le salon de coiffure exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) en qualité de client, **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** a été victime d'un accident corporel grave au sein de l'établissement, sise **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**. 
 
-Alors que **[Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** (tel : [07 58 40 12 87](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)) etait monte sur la vasque en ceramique d'un bac a shampoing instable, l'equipement a brutalement bascule. Par reflexe, **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** a tendu la main droite pour proteger [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
+Alors que **[Le Préposé de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** (tel : [**[Le Telephone du Prepose]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)) etait monte sur la vasque en ceramique d'un bac a shampoing instable, l'equipement a brutalement bascule. Par reflexe, **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** a tendu la main droite pour proteger [**[Le Prepose de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
 Ces faits, constitutifs de blessures involontaires au sens de l'[Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)[^5], ont fait l'objet d'une plainte initiale enregistrée sous le numéro [ ... ].
 
@@ -81,21 +82,21 @@ Ces faits, constitutifs de blessures involontaires au sens de l'[Article 222-19 
 > [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) <br>
 > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^5]**
 
-Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
+Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md).
 
-Ni le Président de la SAS, **[Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)**, ni la co-dirigeante, **[Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**, n'ont déféré aux demandes amiables de **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, ni à celles adressées au propriétaire des murs, **[Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)**. 
+Ni le Président de la SAS, **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)**, ni la co-dirigeante, **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**, n'ont déféré aux demandes amiables de **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, ni à celles adressées au propriétaire des murs, **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)**. 
 
-Ce silence persistant, malgré l'envoi de courriers recommandés le **[29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)**, laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
+Ce silence persistant, malgré l'envoi de courriers recommandés le **[J+31 Mises en demeure](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)**, laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
 <hr><hr>
 
 ## III — DISCUSSION JURIDIQUE
 ### III.1 — SUR L'ABSENCE D'ASSURANCE DE RESPONSABILITÉ CIVILE
 
-Malgré les demandes amiables de **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) n'a jamais communiqué d'attestation d'assurance de responsabilité civile professionnelle.
+Malgré les demandes amiables de **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) n'a jamais communiqué d'attestation d'assurance de responsabilité civile professionnelle.
 
 Cette absence de réponse laisse présumer soit une absence de couverture assurantielle, soit une volonté de dissimulation.
 
-En l'absence d'assurance, l'indemnisation de la victime au titre de l'action directe prévue à l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1] est gravement compromise. Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418[^2]734), sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI00000[^3]6577625), pourrait alors être saisi pour assurer l'indemnisation de **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**.
+En l'absence d'assurance, l'indemnisation de la victime au titre de l'action directe prévue à l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1] est gravement compromise. Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418[^2]734), sur le fondement de l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI00000[^3]6577625), pourrait alors être saisi pour assurer l'indemnisation de **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**.
 
 > *« Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : 1° Ces atteintes n'entrent pas dans le champ d'application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ni de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux susceptibles d'occasionner des dégâts ; 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois ; -soit sont prévus et réprimés par les articles 222-22 à 222-30 , 224-1 A à 224-1 C, 225-4-1 à 225-4-5,225-5 à 225-10, 225-14-1 et 225-14-2 et 227-25 à 227-27 du code pénal ; -soit ont été commis sur un mineur ou par le conjoint ou le concubin de la victime, par le partenaire lié à la victime par un pacte civil de solidarité, par un ancien conjoint ou concubin de la victime ou par un ancien partenaire lié à la victime par un pacte civil de solidarité et sont prévus et réprimés par l'article 222-12 du code pénal ou par le 3° et l'avant-dernier alinéa de l'article 222-14 du même code, y compris lorsque ces faits ont été commis avec d'autres circonstances aggravantes. Par exception au premier alinéa du présent article, le montant maximal de la réparation des dommages subis en raison de ces faits, lorsqu'ils ont entraîné une incapacité totale de travail inférieure à un mois, est défini par voie réglementaire. 3° La personne lésée est de nationalité française ou les faits ont été commis sur le territoire national. La réparation peut être refusée ou son montant réduit à raison de la faute de la victime. »* <br>
 > [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) <br>
@@ -136,13 +137,13 @@ Par ailleurs, ce défaut de souscription ou d'information peut constituer une fa
 
 ## IV — CONSÉQUENCES ET PRÉJUDICES
 
-Le préjudice subi par **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** est d'une particulière gravité.
+Le préjudice subi par **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** est d'une particulière gravité.
 
 En sa qualité d'informaticien indépendant, l'usage de sa main dominante est indispensable à son activité professionnelle.
 
 La section complète du nerf collatéral radial et du tendon fléchisseur a entraîné un blocage mécanique de la flexion et une insensibilité thermique totale de l'index droit.
 
-Le pronostic de récupération est réservé, avec un délai minimal d'un an évalué par **[Dr Iskander DJERBI](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)**.
+Le pronostic de récupération est réservé, avec un délai minimal d'un an évalué par **[Le Chirurgien SOS Main](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)**.
 
 Sur le plan financier, le plaignant est privé de revenus depuis l'accident.
 
@@ -153,19 +154,19 @@ L'absence de communication de l'assurance bloque toute offre d'indemnisation ami
 
 ## V — DEMANDES
 
-Par ces motifs, **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** sollicite qu'il plaise à Monsieur le Procureur de la République d'ordonner une enquête complémentaire visant à :
+Par ces motifs, **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** sollicite qu'il plaise à Monsieur le Procureur de la République d'ordonner une enquête complémentaire visant à :
 
-1. **VÉRIFIER** l'existence et la validité du contrat d'assurance de responsabilité civile de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) au jour du sinistre ;
+1. **VÉRIFIER** l'existence et la validité du contrat d'assurance de responsabilité civile de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) au jour du sinistre ;
 
 2. **IDENTIFIER** la compagnie d'assurance concernée par tout moyen d'investigation (Fichier Central des Assurances, ORIAS) ;
 
 3. **RECUEILLIR** les explications des mis en cause sur la dissimulation des informations d'assurance ;
 
-4. **ORDONNER** la préservation urgente et la saisie des enregistrements de vidéosurveillance du salon pour la journée du **[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**, afin de prévenir toute destruction de preuve.
+4. **ORDONNER** la préservation urgente et la saisie des enregistrements de vidéosurveillance du salon pour la journée du **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**, afin de prévenir toute destruction de preuve.
 
 Le plaignant se constitue partie civile et se tient à la disposition de la justice pour toute mesure d'expertise ou audition nécessaire à la manifestation de la vérité.
 
-**[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 <hr><hr>
 
 ## PIECES JOINTES
@@ -180,18 +181,18 @@ Le plaignant se constitue partie civile et se tient à la disposition de la just
 
 - **[Mises en demeure J+31](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20%F0%9F%93%9CLettre.md)** — LRAR restees sans reponse
 
-> **Note administrative :** Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+> **Note administrative :** Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 > 
 > Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement du présent document.
 <hr><hr>
 
 ## Sources Législation
 
-[^1]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^2]: [Fonds de Garantie (FGTI) — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)
-[^3]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)
-[^4]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)
-[^5]: [Article 222-19 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
-[^6]: [Arrêt n°20-16.463 — www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
-[^7]: [Article 121-3 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
-[^8]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
+[^1]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^2]: [Fonds de Garantie (FGTI) — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) ↩
+[^3]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625) ↩
+[^4]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) ↩
+[^5]: [Article 222-19 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
+[^6]: [Arrêt n°20-16.463 — www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) ↩
+[^7]: [Article 121-3 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) ↩
+[^8]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩

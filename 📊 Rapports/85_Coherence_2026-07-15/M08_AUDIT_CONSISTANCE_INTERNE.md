@@ -34,7 +34,7 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 319.
 
-#### II.1.b — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md`
+#### II.1.b — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution Partie Civile.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 116.
 

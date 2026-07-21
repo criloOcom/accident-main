@@ -101,7 +101,7 @@ Je joins à la présente, pour bonne information :
 
 - copie du rapport d'expertise médicale du 12 juin 2027 ;
 
-- copie de ma [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) et des actes de procédure déjà engagés ([référé provision](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Refere%20Ordonnance%20Projet.md), [ordonnance sur requête art. 145 CPC](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md)).
+- copie de ma [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20Partie%20Civile.md) et des actes de procédure déjà engagés ([référé provision](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Refere%20Ordonnance%20Projet.md), [ordonnance sur requête art. 145 CPC](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md)).
 
 À défaut de réponse écrite et motivée de votre part dans le délai de 30 jours, ou en cas de refus injustifié de garantie, je me verrai contraint de faire valoir l'ensemble de mes droits devant les juridictions compétentes, tant civiles que pénales, en sollicitant notamment l'extension des investigations aux conditions d'assurance de la société **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et la mise en cause de votre responsabilité d'assureur au titre de l'action directe.
 
@@ -129,7 +129,7 @@ Ce courrier est une **simulation** reprenant la structure du draft fourni par l'
 **Document remplacé :** ce document (J+50) se substitue à la précédente mise en demeure assureur (J+31, pré-expertise, désormais archivée).
 
 **Documents liés :**
-- [Constitution de Partie Civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) consolidée : [`🛡️ Constitution Partie Civile.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
+- [Constitution de Partie Civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20Partie%20Civile.md) consolidée : [`Constitution Partie Civile.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20Partie%20Civile.md)
 
 - Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
 

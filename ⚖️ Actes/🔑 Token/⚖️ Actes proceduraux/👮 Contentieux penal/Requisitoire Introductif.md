@@ -1,4 +1,5 @@
 ---
+emoji: "⚖️"
 title: "Réquisitoire Introductif"
 description: "Ouverture d'une information judiciaire — Blessures involontaires, mise en danger d'autrui et infractions connexes — expertise médicale concluant à une consolidation à 12 mois (DFP 12 %, SE 4/7)"
 type: projet
@@ -15,7 +16,7 @@ tags:
 statut: projet
 destinataire: Doyen des Juges d'Instruction
 auteur: Procureur de la République
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/⚖️ Requisitoire introductif.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Requisitoire Introductif.md
 source: drive
 drive_id: À compléter
 jx: J+47
@@ -28,23 +29,23 @@ jx: J+47
 # RÉQUISITOIRE INTRODUCTIF DU MINISTÈRE PUBLIC
 **Ouverture d'une information judiciaire — Blessures involontaires et infractions connexes**
 
-Tribunal Judiciaire de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
+Tribunal Judiciaire de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
 Le Procureur de la République
 
 RÉFÉRENCE PARQUET : [À compléter]
-RÉFÉRENCE PLAINTE : PV n°[2026/015967](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md)
+RÉFÉRENCE PLAINTE : PV n°[**[N° PV Police]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md)
 
 À l'attention de Monsieur le Doyen des Juges d'Instruction,
-Tribunal Judiciaire de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
+Tribunal Judiciaire de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
 ## I — PROBLÉMATIQUE ET EXPOSÉ DES FAITS
 
-Le Ministère Public a été saisi par la plainte, puis par la [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) en date du **[6 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)**, déposées par **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** à l'encontre de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), ainsi que de ses dirigeants, **[Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**.
+Le Ministère Public a été saisi par la plainte, puis par la [constitution de partie civile](Constitution%20Partie%20Civile.md) en date du **[J+38 Constitution PC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)**, déposées par **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** à l'encontre de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), ainsi que de ses dirigeants, **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**.
 
-Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sis **[22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**, a été victime d'un grave accident corporel.
+Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sis **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**, a été victime d'un grave accident corporel.
 
-Alors que **[Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** (tel : [07 58 40 12 87](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)), faute d'equipement d'acces en hauteur (escabeau, marchepied) mis a sa disposition, etait monte sur la vasque en ceramique d'un bac a shampoing pour regler un poste de television situe en hauteur, cet equipement, deja fragilise par une cassure majeure preexistante et non signalee aux aretes tranchantes, a bascule sous son poids.
+Alors que **[Le Préposé de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** (tel : [**[Le Telephone du Prepose]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)), faute d'equipement d'acces en hauteur (escabeau, marchepied) mis a sa disposition, etait monte sur la vasque en ceramique d'un bac a shampoing pour regler un poste de television situe en hauteur, cet equipement, deja fragilise par une cassure majeure preexistante et non signalee aux aretes tranchantes, a bascule sous son poids.
 
-En tentant par réflexe de retenir le préposé, **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** a heurté de la main droite — sa main dominante — la cassure tranchante.
+En tentant par réflexe de retenir le préposé, **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** a heurté de la main droite — sa main dominante — la cassure tranchante.
 
 Ce choc a provoqué une section complète du tendon fléchisseur profond (FDP) de l'index droit en zone II de Verdan, associée à une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une microchirurgie d'urgence le 30 mai 2026, puis une neurolyse secondaire du nerf palmaire.
 
@@ -101,7 +102,7 @@ S'agissant des personnes physiques qui n'ont pas causé directement le dommage (
 > [Article 121-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) <br>
 > **Code pénal > Partie législative > Livre Ier > Titre II > Chapitre Ier.[^5]**
 
-Le défaut de souscription d'assurance et le maintien en service d'un équipement gravement défectueux caractérisent l'absence de diligence normale et peuvent constituer une telle faute caractérisée incombant à **[Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**.
+Le défaut de souscription d'assurance et le maintien en service d'un équipement gravement défectueux caractérisent l'absence de diligence normale et peuvent constituer une telle faute caractérisée incombant à **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**.
 
 ### II.4 — SUR LA PRESCRIPTION
 
@@ -118,7 +119,7 @@ Les faits dénoncés revêtent une indéniable gravité, les conséquences pour 
 
 Considérant qu'il appartiendra à l'expert commis dans le cadre de l'information judiciaire, ou à l'Unité Médico-Judiciaire (UMJ), de fixer l'ITT pénale au sens du Code pénal ; que le rapport d'expertise médicale déposé le 12 juin 2027 constitue un indice sérieux quant à la durée de l'incapacité fonctionnelle réelle et à la gravité des séquelles, sans pour autant lier le juge pénal sur le quantum de l'ITT au sens des articles 222-19 et suivants.
 
-L'enquête préliminaire se heurte actuellement à l'obstruction manifeste de la société [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, qui refusent de communiquer les attestations d'assurance de responsabilité civile professionnelle de l'établissement, paralysant l'indemnisation de la victime via l'action directe prévue par l'article L. 124-3 du Code des assurances.
+L'enquête préliminaire se heurte actuellement à l'obstruction manifeste de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, qui refusent de communiquer les attestations d'assurance de responsabilité civile professionnelle de l'établissement, paralysant l'indemnisation de la victime via l'action directe prévue par l'article L. 124-3 du Code des assurances.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
@@ -148,12 +149,12 @@ Par ces motifs,
 
 Vu les articles 222-19, 222-20, 223-1, 121-2 et 121-3 du Code pénal ;
 Vu les articles 80 et suivants du Code de procédure pénale ;
-Vu la plainte et la [constitution de partie civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) de **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** ;
+Vu la plainte et la [constitution de partie civile](Constitution%20Partie%20Civile.md) de **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** ;
 Vu le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 (consolidation 01/03/2027, DFP 12 %, SE 4/7) ;
 
 Nous requérons qu'il plaise à Monsieur le Doyen des Juges d'Instruction de :
 
-**OUVRIR UNE INFORMATION JUDICIAIRE** contre personne non dénommée et contre la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), **[Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)**, et **[Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**, des chefs de :
+**OUVRIR UNE INFORMATION JUDICIAIRE** contre personne non dénommée et contre la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)**, et **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**, des chefs de :
 
 - **Blessures involontaires** (Art. 222-19 ou subsidiairement 222-20 C. pénal) — ITT > 3 mois en considération de la consolidation à 12 mois et du DFP de 12 %, ou à tout le moins ITT ≤ 3 mois par violation manifestement délibérée ;
 
@@ -164,9 +165,9 @@ Nous requérons qu'il plaise à Monsieur le Doyen des Juges d'Instruction de :
 Et de tous autres chefs qui viendraient à être révélés par l'instruction.
 
 **ORDONNER** les actes d'instruction suivants :
-- Audition des dirigeants de la SAS [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) sur les conditions d'entretien des locaux et l'existence d'une assurance RC ;
+- Audition des dirigeants de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) sur les conditions d'entretien des locaux et l'existence d'une assurance RC ;
 
-- Audition de **[Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** en qualité de témoin ;
+- Audition de **[Le Préposé de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** en qualité de témoin ;
 
 - Saisie des enregistrements vidéo de surveillance (sous séquestre par [ordonnance sur requête Art. 145 CPC](../%F0%9F%93%9C%20Contentieux%20civil/Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md) du [**[J+54]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-54.md)) ;
 
@@ -176,7 +177,7 @@ Et de tous autres chefs qui viendraient à être révélés par l'instruction.
 
 **DÉCERNER** tous mandats qu'il appartiendra.
 
-Fait au Parquet de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le 15 juillet 2026.
+Fait au Parquet de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le 15 juillet 2026.
 
 **Le Procureur de la République**
 <hr><hr>
@@ -202,7 +203,7 @@ Les chances d'aboutissement de la présente procédure d'information sont jugée
 
 ### NOTE MÉTHODOLOGIQUE
 
-Ce réquisitoire introductif est une **simulation** à vocation pédagogique et stratégique, s'inscrivant dans la continuité de la [Constitution de Partie Civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) (J+38) et du [Rapport d'Expertise Médicale](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) (déposé le 12 juin 2027).
+Ce réquisitoire introductif est une **simulation** à vocation pédagogique et stratégique, s'inscrivant dans la continuité de la [Constitution de Partie Civile](Constitution%20Partie%20Civile.md) (J+38) et du [Rapport d'Expertise Médicale](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) (déposé le 12 juin 2027).
 
 **Scénarios de qualification :**
 - *Scénario A (prudent)* — ITT pénale limitée au certificat initial (1 jour ≤ 3 mois) → Art. 222-20 CP (délit)
@@ -212,7 +213,7 @@ Ce réquisitoire introductif est une **simulation** à vocation pédagogique et 
 Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19 comme qualification alternative à vérifier par l'instruction. L'articulation avec la jurisprudence SATI (Cass. com. 20 mai 2003) est maintenue pour la responsabilité personnelle des dirigeants in solidum.
 
 **Documents liés :**
-- [Constitution de Partie Civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) consolidée : [`🛡️ Constitution Partie Civile.md`](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
+- [Constitution de Partie Civile](Constitution%20Partie%20Civile.md) consolidée : [`Constitution Partie Civile.md`](Constitution%20Partie%20Civile.md)
 
 - Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
 
@@ -223,11 +224,11 @@ Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19
 
 ## Sources Législation
 
-[^1]: [Article 222-19 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
-[^2]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
-[^3]: [Article 223-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417759](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417759)
-[^4]: [Article 121-2 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204)
-[^5]: [Article 121-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
-[^6]: [Article 8 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911)
-[^7]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^8]: [Article 131-27 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887)
+[^1]: [Article 222-19 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
+[^2]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+[^3]: [Article 223-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417759](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417759) ↩
+[^4]: [Article 121-2 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204) ↩
+[^5]: [Article 121-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) ↩
+[^6]: [Article 8 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911) ↩
+[^7]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^8]: [Article 131-27 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887) ↩

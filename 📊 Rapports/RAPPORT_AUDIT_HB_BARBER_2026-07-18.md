@@ -64,7 +64,7 @@ De nombreuses mentions de dépôt ou transmission ont été intégrées prématu
 - **Action requise :** Intégrer formellement les constats matériels du 16 juillet 2026 dans les assignations (risque de dépérissement des preuves) et cibler explicitement **[Le Nouvel Exploitant (HB BARBER)]**.
 
 ### 3.2. Plaintes Pénales
-- **État actuel :** Un projet de plainte complémentaire (`👮‍♂️ Plainte Complementaire Correction HB BARBER.md`) existe et cite HB BARBER.
+- **État actuel :** Un projet de plainte complémentaire (`Plainte Complementaire Correction.md`) existe et cite HB BARBER.
 
 - **Cohérence :** **Partiellement cohérent**. Ce projet mentionne l'enseigne HB BARBER et l'échange avec le dirigeant le 16/07. Il est essentiel de s'assurer qu'il remplace ou complète adéquatement les plaintes antérieures qui visaient uniquement la SAS initiale.
 

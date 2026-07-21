@@ -43,7 +43,7 @@ Total des anomalies : 99
 
 ### II.1 — CRITIQUE
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire Foix.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 58)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire Foix.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 58)
 
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Commissariat Foix Plainte Complementaire ⚖️Contentieux.md` : Date erronée : 29 juin 2026 au lieu du 29 mai 2026 (ligne 293)
 
@@ -83,7 +83,7 @@ Total des anomalies : 99
 
 ### II.2 — MAJEUR
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ PV Audition Plainte Complementaire.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 44)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 44)
 
 - [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond TJ Foix.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 53)
 
@@ -161,9 +161,9 @@ Total des anomalies : 99
 
 ### II.3 — MINEUR
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 82)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution Partie Civile.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 82)
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire Foix.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 54)
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire Foix.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 54)
 
 - [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Ordonnance sur Requete Art. 145 CPC.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 44)
 

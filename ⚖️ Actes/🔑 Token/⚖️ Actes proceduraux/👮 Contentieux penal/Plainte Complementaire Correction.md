@@ -1,4 +1,5 @@
 ---
+emoji: "👮‍♂️"
 title: "Plainte complémentaire — Correction cible [L'Exploitant du Commerce (La SAS)]"
 description: "Complément à la plainte initiale — Correction de l'identité de la société exploitante"
 type: document
@@ -7,7 +8,7 @@ statut: projet
 destinataire: Procureur de la République près le TJ de [La Ville de l'Accident]
 depose: false
 auteur: La Victime
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ Plainte Complementaire Correction HB BARBER.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complementaire Correction.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [👮 Contentieux penal](./README.md) › 👮‍♂️ Plainte Complementaire Correction HB BARBER*

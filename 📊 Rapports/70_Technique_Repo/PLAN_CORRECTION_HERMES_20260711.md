@@ -70,7 +70,7 @@ statut: projet
 - **Cibles** :
 
   - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/Refere Assignation Provision.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Refere%20Assignation%20Provision.md)
-  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/02b%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
+  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/Constitution Partie Civile.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/02b%20Constitution%20Partie%20Civile.md)
   - [⚖️ Actes/🔑 Token/✉️ Courriers/✉️ INPI 🚨Signalement.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/31%20%E2%9C%89%EF%B8%8F%20Courrier%20INPI%20Opposition.md)
   - [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/11%2B12%20%F0%9F%93%8A%20Evaluation%20Dintilhac%20consolidee.md)
   - (et les 4 versions `👤 Reel/`)

@@ -1,4 +1,5 @@
 ---
+emoji: "👮‍♂️"
 title: Procès-Verbal d'Audition — Plainte Complémentaire n°2026/015967-B
 description: PV d'audition de la victime pour plainte complémentaire (obstruction,
   destruction de preuves)
@@ -22,7 +23,7 @@ destinataire: Procureur de la République
 personnes:
 - '**[La Victime]**'
 jx: J+47
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/👮‍♂️ PV Audition Plainte Complementaire.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [👮 Contentieux penal](./README.md) › 👮‍♂️ PV Audition Plainte Complementaire*

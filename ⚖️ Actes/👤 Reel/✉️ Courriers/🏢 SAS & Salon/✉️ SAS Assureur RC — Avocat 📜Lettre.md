@@ -91,7 +91,7 @@ Ce texte institue un droit propre de la victime à l'encontre de l'assureur, ind
 
 Je dois porter à votre connaissance que, malgré des démarches amiables et judiciaires répétées, la SAS **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et ses dirigeants se refusent à communiquer la moindre attestation d'assurance responsabilité civile professionnelle. Ce silence fait obstacle à l'exercice de l'action directe et constitue une entrave caractérisée aux droits de ma cliente.
 
-Une **information judiciaire** a été ouverte par réquisitoire introductif du Parquet de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** en date du 15 juillet 2026 ([**J+47**](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md)), des chefs de blessures involontaires et mise en danger d'autrui, avec mission expresse d'investigation sur les conditions d'assurance de la société. Les réquisitions auprès des organismes d'assurance sont en cours.
+Une **information judiciaire** a été ouverte par réquisitoire introductif du Parquet de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** en date du 15 juillet 2026 ([**J+47**](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Requisitoire%20Introductif.md)), des chefs de blessures involontaires et mise en danger d'autrui, avec mission expresse d'investigation sur les conditions d'assurance de la société. Les réquisitions auprès des organismes d'assurance sont en cours.
 
 L'obstruction persistante de l'assurée, conjuguée à l'absence de réponse de votre part, justifierait le cas échéant des réquisitions pénales complémentaires visant directement votre compagnie.
 <hr><hr>
@@ -134,9 +134,9 @@ Je joins à la présente l'intégralité des pièces déjà communiquées dans l
 
 - Rapport d'expertise médicale judiciaire du 12 juin 2027 ;
 
-- [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) ;
+- [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20Partie%20Civile.md) ;
 
-- [Réquisitoire introductif du Parquet](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md) ;
+- [Réquisitoire introductif du Parquet](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Requisitoire%20Introductif.md) ;
 
 - [Ordonnance de référé provision](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Refere%20Ordonnance%20Projet.md) et [ordonnance sur requête art. 145 CPC](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md).
 
@@ -171,7 +171,7 @@ Variante « avocat » de la mise en demeure adressée à l'assureur RC, destiné
 **Documents liés :**
 - Version victime : [`✉️ SAS Assureur RC 📜Lettre.md`](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20Assureur%20RC%20%F0%9F%93%9CLettre.md)
 
-- Réquisitoire introductif : [`⚖️ Requisitoire introductif.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md)
+- Réquisitoire introductif : [`Requisitoire Introductif.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Requisitoire%20Introductif.md)
 <hr><hr>
 
 ## Sources Législation

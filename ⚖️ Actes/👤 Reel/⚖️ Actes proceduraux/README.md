@@ -34,19 +34,19 @@ type: readme
 
 ### [👮 Contentieux penal](%F0%9F%91%AE%20Contentieux%20penal%2FREADME.md)
 
-- [⚖️ Requisitoire introductif.md](%F0%9F%91%AE%20Contentieux%20penal%2F%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md)
+- [Requisitoire Introductif.md](%F0%9F%91%AE%20Contentieux%20penal%2FRequisitoire%20Introductif.md)
 
-- [👮‍♂️ Plainte Complementaire Correction HB BARBER.md](%F0%9F%91%AE%20Contentieux%20penal%2F%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Plainte%20Complementaire%20Correction%20HB%20BARBER.md)
+- [Plainte Complementaire Correction.md](%F0%9F%91%AE%20Contentieux%20penal%2FPlainte%20Complementaire%20Correction.md)
 
-- [👮‍♂️ PV Audition Plainte Complementaire.md](%F0%9F%91%AE%20Contentieux%20penal%2F%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20PV%20Audition%20Plainte%20Complementaire.md)
+- [PV Audition Plainte Complementaire.md](%F0%9F%91%AE%20Contentieux%20penal%2FPV%20Audition%20Plainte%20Complementaire.md)
 
-- [🚔 Plainte Defaut Assurance RC.md](%F0%9F%91%AE%20Contentieux%20penal%2F%F0%9F%9A%94%20Plainte%20Defaut%20Assurance%20RC.md)
+- [Plainte Defaut Assurance RC.md](%F0%9F%91%AE%20Contentieux%20penal%2FPlainte%20Defaut%20Assurance%20RC.md)
 
-- [🚔 PV Audition Plainte Complementaire Foix.md](%F0%9F%91%AE%20Contentieux%20penal%2F%F0%9F%9A%94%20PV%20Audition%20Plainte%20Complementaire%20Foix.md)
+- [PV Audition Plainte Complementaire Foix.md](%F0%9F%91%AE%20Contentieux%20penal%2FPV%20Audition%20Plainte%20Complementaire%20Foix.md)
 
-- [🛡️ Constitution Partie Civile.md](%F0%9F%91%AE%20Contentieux%20penal%2F%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
+- [Constitution Partie Civile.md](%F0%9F%91%AE%20Contentieux%20penal%2FConstitution%20Partie%20Civile.md)
 
-- [16 ⚠️ Signalement Parquet Fraud.md](%F0%9F%91%AE%20Contentieux%20penal%2F16%20%E2%9A%A0%EF%B8%8F%20Signalement%20Parquet%20Fraud.md)
+- [Signalement Parquet Fraud.md](%F0%9F%91%AE%20Contentieux%20penal%2FSignalement%20Parquet%20Fraud.md)
 
 ### [📋 Preparation Foix](../../%F0%9F%94%91%20Token/README.md)
 

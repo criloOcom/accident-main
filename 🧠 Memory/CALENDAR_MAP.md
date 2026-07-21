@@ -26,8 +26,8 @@ type: memory
 | 2026-05-30 | — | 🆘 Chirurgie SOS Main — Dr DJERBI | `oitqtiem67dnn3srjdlgpocss4` |
 | 2026-06-01 | — | 📦 Phase 3 (méta) — Arrêt OXYBEL + Plainte Police | `rpo0ttjcjmn5nca373cekjim58` |
 | 2026-06-01 | — | 📄 Arrêt de travail Dr OXYBEL (ITT 56j) | `80v1n6cncli7jmmdphdmufptg4` |
-| 2026-06-01 | 🚔 Plainte Defaut Assurance RC.md | 👮 Dépôt plainte initiale — Commissariat Foix | `pj485q1bbc1oq8h9olnschnt4k` |
-| 2026-06-02 | 🛡️ Constitution Partie Civile.md, ✉️ Doyen Juges Instruction Saisine ⚖️Contentieux.md | 👮 PV Police + Constitution PC + Réquisition | `smthlv0a5arakof0m4rv80qgkc` |
+| 2026-06-01 | Plainte Defaut Assurance RC.md | 👮 Dépôt plainte initiale — Commissariat Foix | `pj485q1bbc1oq8h9olnschnt4k` |
+| 2026-06-02 | Constitution Partie Civile.md, ✉️ Doyen Juges Instruction Saisine ⚖️Contentieux.md | 👮 PV Police + Constitution PC + Réquisition | `smthlv0a5arakof0m4rv80qgkc` |
 | 2026-06-03 | ✉️ CPAM Recours Tiers ⚖️Contentieux.md | 🏥 Ouverture dossier CPAM RCT | `sb31r6e24kpkbfngc7prgq6em8` |
 | 2026-06-10 | — | 📦 Phase 5 (méta) — Facture SOS Main + Prolongation | `717k7gfv0uonk4vaecl964njus` |
 | 2026-06-10 | — | 🏥 Facture SOS Main 790,23€ | `joe9h29vdia2q2lgaq8cevo05g` |
@@ -130,7 +130,7 @@ Ces événements n'ont pas de fichier `.md` correspondant (faits historiques, ph
 | Événements sans fichier | **33** (faits historiques, phases processuelles, rappels, TODO) |
 | Événements avec fichier | **20** (courriers/actes/attestations avec fichier .md) |
 
-> Note: 4 nouvelles méta-phases créées (Phases 3, 5, 6, 8) + 8 événements individuels splittés (4 avec fichier, 5 sans fichier). Les fichiers `✉️ CPAM 🔄Relance.md`, `🚔 Plainte Defaut Assurance RC.md` et `✉️ URSSAF 🚨Signalement.md` pointent désormais vers l'événement individuel correspondant.
+> Note: 4 nouvelles méta-phases créées (Phases 3, 5, 6, 8) + 8 événements individuels splittés (4 avec fichier, 5 sans fichier). Les fichiers `✉️ CPAM 🔄Relance.md`, `Plainte Defaut Assurance RC.md` et `✉️ URSSAF 🚨Signalement.md` pointent désormais vers l'événement individuel correspondant.
 
 <hr><hr>
 

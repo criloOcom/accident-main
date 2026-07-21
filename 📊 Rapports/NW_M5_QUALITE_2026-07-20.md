@@ -113,11 +113,11 @@ Les fichiers suivants contiennent des placeholders non résolus (ex: [À complé
 
 - [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Ordonnance Projet.md:62` — Placeholder trouvé: `[date]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md:115` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution Partie Civile.md:115` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/16 ⚠️ Signalement Parquet Fraud.md:50` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Signalement Parquet Fraud.md:50` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/⚖️ Requisitoire introductif.md:34` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Requisitoire Introductif.md:34` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
 ## 2. Cohérence des Tokens (Oublis de tokens de base)
 

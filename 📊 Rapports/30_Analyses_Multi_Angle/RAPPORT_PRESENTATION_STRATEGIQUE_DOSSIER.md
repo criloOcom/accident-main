@@ -58,8 +58,8 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 | Acte | Date | Statut |
 |------|------|--------|
 | Dépôt de plainte (PV n° [**[N° PV Police]**](../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) | J+4 | Transmis au Parquet |
-| [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) | J+38 | Transmise au TJ de [**[La Ville de l'Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) |
-| [Réquisitoire introductif](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md) | J+47 | Parquet de Foix — double qualification 222-19/222-20 CP, transmission au doyen des juges d'instruction |
+| [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20Partie%20Civile.md) | J+38 | Transmise au TJ de [**[La Ville de l'Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) |
+| [Réquisitoire introductif](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Requisitoire%20Introductif.md) | J+47 | Parquet de Foix — double qualification 222-19/222-20 CP, transmission au doyen des juges d'instruction |
 | [Rapport d'expertise médico-légale (UMJ)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) | 12 novembre 2026 | Déposé |
 | Information judiciaire ouverte | En cours | Blessures involontaires (+mise en danger d'autrui) |
 
@@ -188,8 +188,8 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 |----|-------|-------------|
 | 1 | [PV de police n°2026/015967](../../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) | Dépôt de plainte J+4 |
 | 2 | [Rapport d'expertise médicale](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md) | Consolidation J+10 mois |
-| 3 | [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) | J+38 — TJ |
-| 4 | [Réquisitoire introductif](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%E2%9A%96%EF%B8%8F%20Requisitoire%20introductif.md) | J+47 — Parquet de Foix |
+| 3 | [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20Partie%20Civile.md) | J+38 — TJ |
+| 4 | [Réquisitoire introductif](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Requisitoire%20Introductif.md) | J+47 — Parquet de Foix |
 | 5 | [Ordonnance de référé provision](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Refere%20Ordonnance%20Projet.md) | J+63 — 15 000 € |
 | 6 | [MED Assureur RC](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20Assureur%20RC%20%F0%9F%93%9CLettre.md) | J+50 + version avocat J+50-bis |
 | 7 | [Signalement Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20Travail%20%F0%9F%9A%A8Signalement.md) | J+37 — DDETS 09 |

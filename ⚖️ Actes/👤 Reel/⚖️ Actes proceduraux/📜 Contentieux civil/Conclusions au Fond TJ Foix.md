@@ -426,7 +426,7 @@ Vu les pièces versées aux débats,
 
 3. Ordonnance de référé du [**[Date Ordonnance Référé]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) (provision 15 000 €)
 
-4. [Constitution de partie civile](../%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) du [**[J+38 Date CPC]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)
+4. [Constitution de partie civile](../%F0%9F%91%AE%20Contentieux%20penal/Constitution%20Partie%20Civile.md) du [**[J+38 Date CPC]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)
 
 5. Certificats médicaux et comptes rendus opératoires (SOS Main)
 

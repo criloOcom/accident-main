@@ -22,14 +22,14 @@ type: rapport
 - [ ] **Refere Assignation Provision.md** : [MAJEUR] ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md:292 — Total Estimatif utilise valeur historique/obsolète: 30000.0 € (canonique: 120000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## II — 🚔 Plainte Defaut Assurance RC.md
+## II — Plainte Defaut Assurance RC.md
 
-- [ ] **🚔 Plainte Defaut Assurance RC.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 Plainte Defaut Assurance RC.md:148 — Total Estimatif différent de la valeur canonique: 90000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **Plainte Defaut Assurance RC.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Defaut Assurance RC.md:148 — Total Estimatif différent de la valeur canonique: 90000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## III — 🛡️ Constitution Partie Civile.md
+## III — Constitution Partie Civile.md
 
-- [ ] **🛡️ Constitution Partie Civile.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md:175 — SE utilise valeur historique/obsolète: 3000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
+- [ ] **Constitution Partie Civile.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution Partie Civile.md:175 — SE utilise valeur historique/obsolète: 3000.0 € (canonique: 14000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
 ## IV — Bordereau Unifie.md

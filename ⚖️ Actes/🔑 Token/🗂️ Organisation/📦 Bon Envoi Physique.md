@@ -24,7 +24,7 @@ jx: J+38
 
 - **Courrier au Doyen des Juges d'Instruction** — *`reel/✉️ Courriers/10 ✉️ Courrier Doyen Juges Instruction.md`* — 2 (1 envoi + 1 copie)
 
-- **[Constitution de Partie Civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)** — *`reel/⚖️ Actes proceduraux/🛡️ Constitution Partie Civile.md`* — 2 (1 envoi + 1 copie)
+- **[Constitution de Partie Civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20Partie%20Civile.md)** — *`reel/⚖️ Actes proceduraux/Constitution Partie Civile.md`* — 2 (1 envoi + 1 copie)
 
 - **Bordereau de pièces CPC** — *(inclus dans le document #2)*
 

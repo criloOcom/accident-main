@@ -46,7 +46,7 @@ type: rapport
 - **Statut :** **MAJEUR**
 
 - **Constat :** L'entité "CHUM TOULOUSE" **N'EXISTE PAS** dans la documentation. Toulouse possède un CHU (Centre Hospitalier Universitaire), pas un CHUM (Centre Hospitalier de l'Université de Montréal). De plus, aucune recherche dans l'ensemble des fichiers ne retourne de mention de "CHUM TOULOUSE" ou "CHUM".
-Cependant, l'expertise UMJ est bien prévue à **Toulouse** (`⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`), ce qui est cohérent avec la localisation de la victime (`⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/🚔 PV Audition Plainte Complementaire Foix.md`). L'expert judiciaire désigné (Dr X) est inscrit près la Cour d'appel de Toulouse (`20270529 ⚖️ Rapport Expertise Médicale.md`), également cohérent. L'acronyme "CHUM TOULOUSE" fourni dans la demande est une hallucination.
+Cependant, l'expertise UMJ est bien prévue à **Toulouse** (`⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`), ce qui est cohérent avec la localisation de la victime (`⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV Audition Plainte Complementaire Foix.md`). L'expert judiciaire désigné (Dr X) est inscrit près la Cour d'appel de Toulouse (`20270529 ⚖️ Rapport Expertise Médicale.md`), également cohérent. L'acronyme "CHUM TOULOUSE" fourni dans la demande est une hallucination.
 
 <hr><hr>
 

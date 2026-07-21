@@ -245,8 +245,8 @@ Le dossier [📜 Lois](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/REA
 | Priorité | Article | Code | LEGIARTI | Utilisation | Fichiers concernés |
 |----------|---------|------|----------|-------------|-------------------|
 | **Haute** | Art. 706-3 | CPP | LEGIARTI000006577625 | FGTI - Indemnisation victimes | 02 🚔 Plainte.md |
-| **Haute** | Art. 434-4 | CP | LEGIARTI000006418608 | Fraude - Dissimulation | 16 ⚠️ Signalement Parquet Fraud.md |
-| **Haute** | Art. 314-7 | CP | LEGIARTI000006418226 | Fraude fiscale | 16 ⚠️ Signalement Parquet Fraud.md |
+| **Haute** | Art. 434-4 | CP | LEGIARTI000006418608 | Fraude - Dissimulation | Signalement Parquet Fraud.md |
+| **Haute** | Art. 314-7 | CP | LEGIARTI000006418226 | Fraude fiscale | Signalement Parquet Fraud.md |
 | **Moyenne** | Art. L.2212-2 | CGCT | LEGIARTI000029946370 | Pouvoirs du maire | 29 ✉️ Courrier Maire Foix.md |
 | **Moyenne** | Art. L.2212-4 | CGCT | LEGIARTI000006390155 | Pouvoirs du maire | 29 ✉️ Courrier Maire Foix.md |
 | **Moyenne** | Art. 434-15 | CP | LEGIARTI000006418060 | Obstruction à la justice | 36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md |

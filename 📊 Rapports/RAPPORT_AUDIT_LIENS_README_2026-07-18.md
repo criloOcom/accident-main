@@ -67,7 +67,7 @@ Ces liens pointent vers des fichiers ou tokens qui n'existent pas ou plus à l'e
 
 - Les liens `mailto:` (ex: `mailto:sebastien.grazide@gmail.com`) sont considérés comme introuvables par le script actuel car il s'agit d'un protocole mail et non d'un fichier.
 
-- Des liens du type `...` (points de suspension) sont identifiés comme cassés dans `👮‍♂️ Plainte Complementaire Correction HB BARBER.md`.
+- Des liens du type `...` (points de suspension) sont identifiés comme cassés dans `Plainte Complementaire Correction.md`.
 
 <hr><hr>
 

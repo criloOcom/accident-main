@@ -39,7 +39,7 @@ type: readme
 
 - [🔧 ANALYSE correction juridique](%F0%9F%94%A7%20ANALYSE%20correction%20juridique.md)
 
-- [🛡️ Constitution Partie Civile](%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
+- [🛡️ Constitution Partie Civile](../⚖️ Actes proceduraux/👮 Contentieux penal/Constitution%20Partie%20Civile.md)
 
 - [🧠 STRATEGIE Contentieux Civil](%F0%9F%A7%A0%20STRATEGIE%20Contentieux%20Civil.md)
 
