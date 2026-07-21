@@ -173,6 +173,19 @@ def build_reverse_map():
     return map_dict
 
 
+def deduplicate_lrar_numbers(content):
+    """Remove duplicate LRAR tracking numbers (e.g. LRAR n° [NUM](link) — NUM → LRAR n° [NUM](link))"""
+    # Pattern A: LRAR n° [NUMBER](link) — NUMBER (with optional backticks) → LRAR n° [NUMBER](link)
+    content = re.sub(r'(LRAR\s+n°\s+\[[^\]]+\]\([^)]+\))\s*[—–-]\s*`?(\d{13,15}[A-Z]?)`?', r'\1', content)
+    # Pattern B: (LRAR n° NUMBER — NUMBER) → (LRAR n° NUMBER)
+    content = re.sub(r'\(LRAR\s+n°\s+(\d{13,15}[A-Z]?)\s*[—–-]\s*\1\)', r'(LRAR n° \1)', content)
+    # Pattern C: LRAR n° NUMBER — NUMBER (without parens, standalone)
+    content = re.sub(r'(LRAR\s+n°\s+)(\d{13,15}[A-Z]?)\s*[—–-]\s*\2', r'\1\2', content)
+    # Pattern D: LRAR n° <NUMBER> — NUMBER → LRAR n° <NUMBER>
+    content = re.sub(r'(LRAR\s+n°\s+<\d{13,15}[A-Z]?>)\s*[—–-]\s*(\d{13,15}[A-Z]?)', r'\1', content)
+    return content
+
+
 def replace_header_block(content):
     pattern = r"\*\*\[L'Adresse de la Victime\]\*\*\n\nCourriel : \*\*\[L'Email de la Victime\]\*\*"
     replacement = "Sébastien GRAZIDE\n10 Avenue de Purpan, 31700 Blagnac\nCourriel : sebastien.grazide@gmail.com"
@@ -271,6 +284,9 @@ def main():
 
             # Post-processing: fix double SAS from "la SAS [**[Exploitant SAS]**]" → "la SAS HB BARBER"
             content = re.sub(r'SAS\s+SAS\s+(HB\s+BARBER|LES\s+MAUVAIS\s+GARÇONS)', r'SAS \1', content)
+
+            # Post-processing: deduplicate LRAR tracking numbers
+            content = deduplicate_lrar_numbers(content)
 
             content = content.replace("**[Adresse à compléter]**", "[À compléter]")
             content = content.replace("**[À compléter]**", "[À compléter]")
