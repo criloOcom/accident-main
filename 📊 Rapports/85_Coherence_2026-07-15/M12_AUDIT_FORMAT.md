@@ -505,31 +505,31 @@ type: rapport
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Inspection du Travail - Signalement - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Préfecture.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - URSSAF.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - SDIS.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - SIE.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Conseil Départemental.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - CODAF.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -537,7 +537,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Radiation Tribunal de Commerce.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Immatriculation INPI.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - FGTI.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -551,11 +551,11 @@ type: rapport
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -721,11 +721,11 @@ type: rapport
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Inspection du Travail - Signalement - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -735,25 +735,25 @@ type: rapport
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/README.md` : Breadcrumb HTML manquant (Gravité: MAJEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Préfecture.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - URSSAF.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - SDIS.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - SIE.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - Conseil Départemental.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/README.md` : YAML front matter manquant ou mal formaté (Gravité: MAJEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/README.md` : Breadcrumb HTML manquant (Gravité: MAJEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - CODAF.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -761,7 +761,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Radiation Tribunal de Commerce.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Opposition - Immatriculation INPI.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Saisine - FGTI.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -779,15 +779,15 @@ type: rapport
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/README.md` : YAML front matter manquant ou mal formaté (Gravité: MAJEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/README.md` : Breadcrumb HTML manquant (Gravité: MAJEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 

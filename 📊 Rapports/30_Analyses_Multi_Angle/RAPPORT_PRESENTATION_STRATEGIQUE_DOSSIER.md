@@ -100,10 +100,10 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 
 | Acte | Date | Statut |
 |------|------|--------|
-| [Signalement Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Inspection%20du%20Travail.md) | J+37 | DDETS 09 — manquements sécurité, absence DUERP, défaut présumé assurance |
-| [Signalement Préfecture/CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Pr%C3%A9fecture.md) | J+37 | CODAF — signalement ERP + travail dissimulé présumé |
-| [Relance Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Inspection%20du%20Travail%20-%20Relance.md) | J+47 | Mise à jour récit + expertise |
-| [Relance Préfecture CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20CODAF%20-%20Relance.md) | J+47 | Cohérente |
+| [Signalement Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20du%20Travail%20-%20Signalement.md) | J+37 | DDETS 09 — manquements sécurité, absence DUERP, défaut présumé assurance |
+| [Signalement Préfecture/CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Pr%C3%A9fecture%20-%20Signalement.md) | J+37 | CODAF — signalement ERP + travail dissimulé présumé |
+| [Relance Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20du%20Travail%20-%20Signalement%20-%20Relance.md) | J+47 | Mise à jour récit + expertise |
+| [Relance Préfecture CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20CODAF%20-%20Signalement%20-%20Relance.md) | J+47 | Cohérente |
 
 **Manquements signalés** : absence d'escabeau (R.4323-58 C. trav.), équipement défectueux (vasque avec cassure préexistante), défaut de DUERP, défaut présumé d'assurance RC, travail dissimulé présumé.
 <hr><hr>
@@ -192,8 +192,8 @@ Le [**[J+0 Accident]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Toke
 | 4 | [Réquisitoire introductif](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/R%C3%A9quisitoire%20-%20Introductif.md) | J+47 — Parquet de Foix |
 | 5 | [Ordonnance de référé provision](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20-%20Ordonnance%20Projet.md) | J+63 — 15 000 € |
 | 6 | [MED Assureur RC](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Assureur%20RC%20-%20Courrier.md) | J+50 + version avocat J+50-bis |
-| 7 | [Signalement Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Inspection%20du%20Travail.md) | J+37 — DDETS 09 |
-| 8 | [Signalement Préfecture/CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Pr%C3%A9fecture.md) | J+37 — Préfecture / CODAF |
+| 7 | [Signalement Inspection Travail](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20du%20Travail%20-%20Signalement.md) | J+37 — DDETS 09 |
+| 8 | [Signalement Préfecture/CODAF](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Pr%C3%A9fecture%20-%20Signalement.md) | J+37 — Préfecture / CODAF |
 | 9 | [STRICT VARIABLES canoniques](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md) | §1 expertise — §2 historique SUPERSEDED |
 
 <hr>

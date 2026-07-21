@@ -152,12 +152,12 @@ tags:
 | `✉️ CPAM - Relance.md` | `[Adresse à compléter]` |
 | `✉️ Police - Vidéos - Relance.md` | `[Adresse à compléter]` |
 | `✉️🔄 Consolidation.md` | `[Adresse à compléter]` |
-| `✉️ Signalement - Inspection du Travail - Relance.md` | `[Date d'envoi — À compléter]` |
-| `✉️ Signalement - CODAF - Relance.md` | `[Date d'envoi — À compléter]` |
-| `✉️ Signalement - INPI.md` | `[Adresse à compléter]` |
-| `✉️ Signalement - Préfecture.md` | `[Adresse à compléter]` |
-| `✉️ Signalement - SDIS.md` | `[Adresse à compléter]` |
-| `✉️ Signalement - SIE.md` | `[Adresse à compléter]` |
+| `✉️ Inspection du Travail - Signalement - Relance.md` | `[Date d'envoi — À compléter]` |
+| `✉️ CODAF - Signalement - Relance.md` | `[Date d'envoi — À compléter]` |
+| `✉️ INPI - Signalement.md` | `[Adresse à compléter]` |
+| `✉️ Préfecture - Signalement.md` | `[Adresse à compléter]` |
+| `✉️ SDIS - Signalement.md` | `[Adresse à compléter]` |
+| `✉️ SIE - Signalement.md` | `[Adresse à compléter]` |
 | `✉️ CPAM - Recours Tiers - Saisine.md` | `[Adresse à compléter]` |
 | `Archive - Action Directe Assureur RC.md` | `[Adresse à compléter]` |
 

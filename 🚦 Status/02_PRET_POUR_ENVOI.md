@@ -36,23 +36,23 @@ Documents finalisés mais sans preuve matérielle de délivrance — statuts fin
 
 - [⚖️ Actes/🔑 Token/✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Tavella%20-%20Courrier%20-%20Relance.md)
 
-- [⚖️ Actes/🔑 Token/✉️ Courriers/09 ✉️ Courrier Inspection Travail.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Inspection%20du%20Travail.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/09 ✉️ Courrier Inspection Travail.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20du%20Travail%20-%20Signalement.md)
 
-- [⚖️ Actes/🔑 Token/✉️ Courriers/11 ✉️ Courrier INPI.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20INPI.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/11 ✉️ Courrier INPI.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20INPI%20-%20Signalement.md)
 
-- [⚖️ Actes/🔑 Token/✉️ Courriers/12 ✉️ Courrier URSSAF.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20URSSAF.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/12 ✉️ Courrier URSSAF.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20URSSAF%20-%20Signalement.md)
 
-- [⚖️ Actes/🔑 Token/✉️ Courriers/13 ✉️ Courrier Prefecture.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Pr%C3%A9fecture.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/13 ✉️ Courrier Prefecture.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Pr%C3%A9fecture%20-%20Signalement.md)
 
-- [⚖️ Actes/🔑 Token/✉️ Courriers/14 ✉️ Courrier CODAF.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20CODAF.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/14 ✉️ Courrier CODAF.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20CODAF%20-%20Signalement.md)
 
-- [⚖️ Actes/🔑 Token/✉️ Courriers/15 ✉️ Courrier SIE.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20SIE.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/15 ✉️ Courrier SIE.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20SIE%20-%20Signalement.md)
 
-- [⚖️ Actes/🔑 Token/✉️ Courriers/16 ✉️ Courrier Conseil Departemental.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Conseil%20D%C3%A9partemental.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/16 ✉️ Courrier Conseil Departemental.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Conseil%20D%C3%A9partemental%20-%20Signalement.md)
 
 - [⚖️ Actes/🔑 Token/✉️ Courriers/17 ✉️ Courrier CPAM.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A5%20CPAM/%E2%9C%89%EF%B8%8F%20CPAM%20-%20Recours%20Tiers%20-%20Saisine.md)
 
-- [⚖️ Actes/🔑 Token/✉️ Courriers/18 ✉️ Courrier SDIS.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20SDIS.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/18 ✉️ Courrier SDIS.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20SDIS%20-%20Signalement.md)
 
 - [⚖️ Actes/🔑 Token/✉️ Courriers/19 ✉️ Courrier FGTI.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/%E2%9C%89%EF%B8%8F%20Saisine%20-%20FGTI.md)
 
@@ -70,7 +70,7 @@ Documents finalisés mais sans preuve matérielle de délivrance — statuts fin
 
 - [⚖️ Actes/🔑 Token/✉️ Courriers/30 ✉️ Courrier President TC.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Pr%C3%A9sident%20-%20Courrier.md)
 
-- [⚖️ Actes/🔑 Token/✉️ Courriers/✉️ Signalement - INPI.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Opposition%20-%20Immatriculation%20INPI.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/✉️ INPI - Signalement.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20INPI%20-%20Immatriculation%20-%20Opposition.md)
 
 - [⚖️ Actes/🔑 Token/✉️ Courriers/35 ✉️ Courrier President TJ Foix.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Preuves%20Compl%C3%A9mentaires%20TJ%20Foix.md)
 
@@ -150,23 +150,23 @@ Documents finalisés mais sans preuve matérielle de délivrance — statuts fin
 
 - [⚖️ Actes/👤 Reel/✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Tavella%20-%20Courrier%20-%20Relance.md)
 
-- [⚖️ Actes/👤 Reel/✉️ Courriers/09 ✉️ Courrier Inspection Travail.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Inspection%20du%20Travail.md)
+- [⚖️ Actes/👤 Reel/✉️ Courriers/09 ✉️ Courrier Inspection Travail.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20du%20Travail%20-%20Signalement.md)
 
-- [⚖️ Actes/👤 Reel/✉️ Courriers/11 ✉️ Courrier INPI.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20INPI.md)
+- [⚖️ Actes/👤 Reel/✉️ Courriers/11 ✉️ Courrier INPI.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20INPI%20-%20Signalement.md)
 
-- [⚖️ Actes/👤 Reel/✉️ Courriers/12 ✉️ Courrier URSSAF.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20URSSAF.md)
+- [⚖️ Actes/👤 Reel/✉️ Courriers/12 ✉️ Courrier URSSAF.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20URSSAF%20-%20Signalement.md)
 
-- [⚖️ Actes/👤 Reel/✉️ Courriers/13 ✉️ Courrier Prefecture.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Pr%C3%A9fecture.md)
+- [⚖️ Actes/👤 Reel/✉️ Courriers/13 ✉️ Courrier Prefecture.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Pr%C3%A9fecture%20-%20Signalement.md)
 
-- [⚖️ Actes/👤 Reel/✉️ Courriers/14 ✉️ Courrier CODAF.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20CODAF.md)
+- [⚖️ Actes/👤 Reel/✉️ Courriers/14 ✉️ Courrier CODAF.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20CODAF%20-%20Signalement.md)
 
-- [⚖️ Actes/👤 Reel/✉️ Courriers/15 ✉️ Courrier SIE.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20SIE.md)
+- [⚖️ Actes/👤 Reel/✉️ Courriers/15 ✉️ Courrier SIE.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20SIE%20-%20Signalement.md)
 
-- [⚖️ Actes/👤 Reel/✉️ Courriers/16 ✉️ Courrier Conseil Departemental.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Conseil%20D%C3%A9partemental.md)
+- [⚖️ Actes/👤 Reel/✉️ Courriers/16 ✉️ Courrier Conseil Departemental.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Conseil%20D%C3%A9partemental%20-%20Signalement.md)
 
 - [⚖️ Actes/👤 Reel/✉️ Courriers/17 ✉️ Courrier CPAM.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A5%20CPAM/%E2%9C%89%EF%B8%8F%20CPAM%20-%20Recours%20Tiers%20-%20Saisine.md)
 
-- [⚖️ Actes/👤 Reel/✉️ Courriers/18 ✉️ Courrier SDIS.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20SDIS.md)
+- [⚖️ Actes/👤 Reel/✉️ Courriers/18 ✉️ Courrier SDIS.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20SDIS%20-%20Signalement.md)
 
 - [⚖️ Actes/👤 Reel/✉️ Courriers/19 ✉️ Courrier FGTI.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/%E2%9C%89%EF%B8%8F%20Saisine%20-%20FGTI.md)
 
@@ -184,7 +184,7 @@ Documents finalisés mais sans preuve matérielle de délivrance — statuts fin
 
 - [⚖️ Actes/👤 Reel/✉️ Courriers/30 ✉️ Courrier President TC.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Pr%C3%A9sident%20-%20Courrier.md)
 
-- [⚖️ Actes/👤 Reel/✉️ Courriers/✉️ Signalement - INPI.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Opposition%20-%20Immatriculation%20INPI.md)
+- [⚖️ Actes/👤 Reel/✉️ Courriers/✉️ INPI - Signalement.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20INPI%20-%20Immatriculation%20-%20Opposition.md)
 
 - [⚖️ Actes/👤 Reel/✉️ Courriers/35 ✉️ Courrier President TJ Foix.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Preuves%20Compl%C3%A9mentaires%20TJ%20Foix.md)
 

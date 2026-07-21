@@ -99,15 +99,15 @@ Total des anomalies : 99
 
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 36)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 40)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Inspection du Travail - Signalement - Relance.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 40)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 50)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 50)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Inspection du Travail.md` : mention de « débris » (faux : il n'y a pas eu de débris, seulement une cassure préexistante) (ligne 50)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md` : mention de « débris » (faux : il n'y a pas eu de débris, seulement une cassure préexistante) (ligne 50)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Préfecture.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 48)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 48)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Préfecture.md` : mention de « débris » (faux : il n'y a pas eu de débris, seulement une cassure préexistante) (ligne 48)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md` : mention de « débris » (faux : il n'y a pas eu de débris, seulement une cassure préexistante) (ligne 48)
 
 - [ ] `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 37)
 
@@ -185,9 +185,9 @@ Total des anomalies : 99
 
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 43)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 48)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 48)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - SDIS.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 54)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md` : omission du téléviseur dans le mécanisme (la cause du basculement) (ligne 54)
 
 - [ ] `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md` : omission de la cassure préexistante (qui a causé la blessure) (ligne 37)
 

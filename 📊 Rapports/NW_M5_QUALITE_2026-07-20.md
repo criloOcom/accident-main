@@ -19,11 +19,11 @@ Les fichiers suivants contiennent des placeholders non résolus (ex: [À complé
 
 - [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/✉️ Police - Vidéos - Relance.md:64` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Formulaire - Saisine CADA.md:44` — Placeholder trouvé: `[date]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ CADA - Saisine - Formulaire.md:44` — Placeholder trouvé: `[date]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Opposition - Immatriculation INPI.md:64` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ INPI - Immatriculation - Opposition.md:64` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Opposition - Immatriculation INPI.md:64` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ INPI - Immatriculation - Opposition.md:64` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
 - [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Employé.md:3` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 

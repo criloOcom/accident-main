@@ -80,7 +80,7 @@ Dans notre cas, cet article permet au maire de Foix :
 Cet article est cité dans :
 - **Document 29 ✉️ Courrier Maire Foix.md** : Demande d'intervention pour contrôle ERP
 
-- **Document ✉️ Signalement - Préfecture.md** : Demande de contrôle de sécurité
+- **Document ✉️ Préfecture - Signalement.md** : Demande de contrôle de sécurité
 
 ---
 

@@ -47,15 +47,15 @@ Détail :
 Détail :
 
   • ⚖️ Actes/👤 Reel/✉️ Courriers/⚕️ Médical/✉️ Courrier - Demande Dossier Médical CHIVA.md: date=2026-07-18 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Formulaire - Saisine CADA.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Modèle - Saisine CADA.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Conseil Départemental.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Opposition - Immatriculation INPI.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Signalement - INPI.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Inspection du Travail - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Signalement - CODAF - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Signalement - SDIS.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Signalement - SIE.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ CADA - Saisine - Formulaire.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ CADA - Saisine - Modèle.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Conseil Départemental - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ INPI - Immatriculation - Opposition.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ INPI - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Inspection du Travail - Signalement - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ CODAF - Signalement - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ SDIS - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ SIE - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Justice/Mémo - Audience 31-07-2026.md: date=2026-07-18 type=preuve mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Justice/✉️ Consultation - Avocat Jimini.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Justice/✉️ Saisine - FGTI.md: date=2026-07-06 type=courrier mais calendar_event_id manquant
@@ -75,15 +75,15 @@ Détail :
   • ⚖️ Actes/👤 Reel/📋 Attestations/Attestation - Témoin Mathieu Frédéric.md: date=2026-07-18 type=attestation mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Checklist Déplacement Foix.md: date=2026-07-11 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/⚕️ Médical/✉️ Courrier - Demande Dossier Médical CHIVA.md: date=2026-07-18 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Formulaire - Saisine CADA.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Modèle - Saisine CADA.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Conseil Départemental.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Opposition - Immatriculation INPI.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - INPI.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Inspection du Travail - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - CODAF - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - SDIS.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - SIE.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ CADA - Saisine - Formulaire.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ CADA - Saisine - Modèle.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Conseil Départemental - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ INPI - Immatriculation - Opposition.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ INPI - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Inspection du Travail - Signalement - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ CODAF - Signalement - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ SDIS - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ SIE - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/Mémo - Audience 31-07-2026.md: date=2026-07-18 type=preuve mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/✉️ Consultation - Avocat Jimini.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/✉️ Saisine - FGTI.md: date=2026-07-06 type=courrier mais calendar_event_id manquant

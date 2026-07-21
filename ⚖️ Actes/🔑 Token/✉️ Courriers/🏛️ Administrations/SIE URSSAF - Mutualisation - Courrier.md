@@ -14,13 +14,13 @@ tags:
 statut: projet
 destinataire: Service des Impôts des Entreprises de **[La Ville de l'Accident]** et URSSAF Midi-Pyrenees
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/Courrier - Mutualisation SIE URSSAF.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/SIE URSSAF - Mutualisation - Courrier.md
 source: local
 jx: J+41
 calendar_event_id: 9ortbnkvp8it8hnebif5fr4bec
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ Courrier - Mutualisation SIE URSSAF*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ SIE URSSAF - Mutualisation - Courrier*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -113,6 +113,6 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 
 - **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — [arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours
 
-- **[Signalement SIE](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20SIE.md)** — Signalement fiscal adresse au SIE
+- **[Signalement SIE](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20SIE%20-%20Signalement.md)** — Signalement fiscal adresse au SIE
 
-- **[Signalement Inspection du Travail](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Inspection%20du%20Travail.md)** — Signalement social adresse a la DREETS
+- **[Signalement Inspection du Travail](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20du%20Travail%20-%20Signalement.md)** — Signalement social adresse a la DREETS

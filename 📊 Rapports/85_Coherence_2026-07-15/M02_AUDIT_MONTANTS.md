@@ -110,14 +110,14 @@ type: rapport
 - [ ] **✉️ SAS - Assureur RC - Courrier.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md:115 — Agrément utilise valeur historique/obsolète: 5000.0 € (canonique: 4500 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## X — ✉️ Courrier - Mutualisation SIE URSSAF.md
+## X — ✉️ SIE URSSAF - Mutualisation - Courrier.md
 
-- [ ] **✉️ Courrier - Mutualisation SIE URSSAF.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md:65 — Total Estimatif différent de la valeur canonique: 105000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
+- [ ] **✉️ SIE URSSAF - Mutualisation - Courrier.md** : [MAJEUR] ⚖️ Actes/{Token/Reel}/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md:65 — Total Estimatif différent de la valeur canonique: 105000.0 € (attendu: 120000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
-## XI — ✉️ Signalement - SIE.md
+## XI — ✉️ SIE - Signalement.md
 
-- [ ] **✉️ Signalement - SIE.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Signalement - SIE.md:50 — Total Estimatif utilise valeur historique/obsolète: 59600.0 € (canonique: 120000 €) — aligner sur la valeur canonique.
+- [ ] **✉️ SIE - Signalement.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md:50 — Total Estimatif utilise valeur historique/obsolète: 59600.0 € (canonique: 120000 €) — aligner sur la valeur canonique.
 <hr><hr>
 
 ## XII — Note - Évaluation Dintilhac Consolidée.md

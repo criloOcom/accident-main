@@ -33,7 +33,7 @@ type: memory
 | 2026-06-10 | — | 🏥 Facture SOS Main 790,23€ | `joe9h29vdia2q2lgaq8cevo05g` |
 | 2026-06-12 | — | 📄 Prolongation arrêt Dr OXYBEL | `ae8mgm72b05e2dvohae2nge44k` |
 | 2026-06-17 | — | 📦 Phase 6 (méta) — URSSAF + CR J+20 DJERBI | `lb4e0vqi82u3u0hvqc5r28ogt0` |
-| 2026-06-17 | ✉️ Signalement - URSSAF.md | 📄 URSSAF — Mémo droits TJ + IJ | `4f9gidbi91fo4nh13pnanr1guc` |
+| 2026-06-17 | ✉️ URSSAF - Signalement.md | 📄 URSSAF — Mémo droits TJ + IJ | `4f9gidbi91fo4nh13pnanr1guc` |
 | 2026-06-19 | — | 🏥 CR contrôle J+20 Dr DJERBI | `9bta7osg68e21j3f30tfp847eg` |
 | 2026-06-24 | — | 📦 Phase 8 (méta) — LRAR CPAM + Contrôle J+25 | `0d0f5u1n9qlhp4gla4dg4m9ia4` |
 | 2026-06-24 | — | 🏥 Contrôle J+25 Dr DJERBI (SOS Main) | `ds1joi1u3pgt0g7fd18b0merhk` |
@@ -52,7 +52,7 @@ type: memory
 | 2026-07-06 | — | 🔧 Phases 6-10 (correction audit + scellement) | `7urbuje8nfvaq9cci6lddshj9s` |
 | 2026-07-08 | ✉️ SAS - Dirigeants - Courrier - Relance.md | ✉️ LRAR Relance V2 SAS | `hj1d12jfdubeuoavj7sq548i2o` |
 | 2026-07-09 | ✉️ Mairie - Maire de Foix - Courrier.md | ✉️📦 LRAR Mise en demeure Maire de Foix | `gqu5r7mbuh6570913b2nisi7t8` |
-| 2026-07-09 | ✉️ Courrier - Mutualisation SIE URSSAF.md | ✉️📦 LRAR Demande SIE/URSSAF Mutualisation | `9ortbnkvp8it8hnebif5fr4bec` |
+| 2026-07-09 | ✉️ SIE URSSAF - Mutualisation - Courrier.md | ✉️📦 LRAR Demande SIE/URSSAF Mutualisation | `9ortbnkvp8it8hnebif5fr4bec` |
 | 2026-07-09 | — (Phase 16, splitté) | 📦 Phase 16 — M10-M15 (méta-événement) | `3rmbvcm7amfb62d62cahp9bl10` |
 | 2026-07-10 | — | 🎯 Pivot Foix + Audit RNE/INPI | `9i8acginjrasg824grtigqva8k` |
 | 2026-07-12 | — | 🤖 Consultation juridique IA | `o02jqarhebetartu1ur17jb7is` |
@@ -66,7 +66,7 @@ type: memory
 | 2026-07-18 | ✉️ SAS - HB BARBER - Courrier President.md | ✉️📦 LRAR Mise en demeure Président HB BARBER | `euj8kofakfdc2cib6btnqq2ae4` |
 | 2026-07-18 | — | 📦 LOT 2 (méta) — 3 LRAR HB BARBER splittées | `guv07tt1rpkkqba1g6c0m8eap4` |
 | 2026-07-18 | — | 🚧 Phase 32 — Wero & Témoin Ayoub | `mjfern74uv6kvbimfu1og4d3s0` |
-| 2026-07-20 | ✉️ Signalement - Préfecture.md, ✉️ Signalement - Inspection du Travail.md, ✉️ Signalement - CODAF.md, ✉️ Plainte - Complémentaire Commissariat Foix.md, Requete Art.145 CPC.md, Requete Art.145 CPC Ordonnance.md | ✉️📋 Courriers 41-44 + 🔴🔴 DÉPÔT FOIX | `tqegc9g9t96hp2td1oo3iqtqd8` / `ncdv7eqhn6njck42v7sdcuelak` |
+| 2026-07-20 | ✉️ Préfecture - Signalement.md, ✉️ Inspection du Travail - Signalement.md, ✉️ CODAF - Signalement.md, ✉️ Plainte - Complémentaire Commissariat Foix.md, Requete Art.145 CPC.md, Requete Art.145 CPC Ordonnance.md | ✉️📋 Courriers 41-44 + 🔴🔴 DÉPÔT FOIX | `tqegc9g9t96hp2td1oo3iqtqd8` / `ncdv7eqhn6njck42v7sdcuelak` |
 | 2026-07-22 | — | 📋 Pièces 22-24 attestations témoins | `gaitgj8isroeqorobg9j9ghf4c` |
 | 2026-07-22 | — | 💳 Preuves Wero (PSP) | `jncdk9j4r2022bj9hentqe36oc` |
 | 2026-07-22 | — | 📱 Adresses emails témoins + Dr DJERBI | `ri26kq27dah4q9o5qtm11qfo08` |
@@ -130,7 +130,7 @@ Ces événements n'ont pas de fichier `.md` correspondant (faits historiques, ph
 | Événements sans fichier | **33** (faits historiques, phases processuelles, rappels, TODO) |
 | Événements avec fichier | **20** (courriers/actes/attestations avec fichier .md) |
 
-> Note: 4 nouvelles méta-phases créées (Phases 3, 5, 6, 8) + 8 événements individuels splittés (4 avec fichier, 5 sans fichier). Les fichiers `✉️ CPAM - Relance.md`, `Plainte - Défaut Assurance RC.md` et `✉️ Signalement - URSSAF.md` pointent désormais vers l'événement individuel correspondant.
+> Note: 4 nouvelles méta-phases créées (Phases 3, 5, 6, 8) + 8 événements individuels splittés (4 avec fichier, 5 sans fichier). Les fichiers `✉️ CPAM - Relance.md`, `Plainte - Défaut Assurance RC.md` et `✉️ URSSAF - Signalement.md` pointent désormais vers l'événement individuel correspondant.
 
 <hr><hr>
 

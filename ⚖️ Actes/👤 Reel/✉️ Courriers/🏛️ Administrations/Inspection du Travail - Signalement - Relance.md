@@ -13,11 +13,11 @@ tags:
 statut: final
 destinataire: DDETS de l'Ariège — Inspection du Travail
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/Signalement - Inspection du Travail - Relance.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/Inspection du Travail - Signalement - Relance.md
 jx: J+47
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ Signalement - Inspection du Travail - Relance*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ Inspection du Travail - Signalement - Relance*
 <hr>
 <!-- /Breadcrumb -->
 

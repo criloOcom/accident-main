@@ -1,29 +1,29 @@
 # Index — 🏛️ Administrations (Token)
 
-- [Formulaire - Saisine CADA.md](Formulaire%20-%20Saisine%20CADA.md)
+- [CADA - Saisine - Formulaire.md](CADA%20-%20Saisine%20-%20Formulaire.md)
 
-- [Modèle - Saisine CADA.md](Mod%C3%A8le%20-%20Saisine%20CADA.md)
+- [CADA - Saisine - Modèle.md](CADA%20-%20Saisine%20-%20Mod%C3%A8le.md)
 
-- [Signalement - CODAF.md](Signalement%20-%20CODAF.md)
+- [CODAF - Signalement.md](CODAF%20-%20Signalement.md)
 
-- [Signalement - Conseil Départemental.md](Signalement%20-%20Conseil%20D%C3%A9partemental.md)
+- [Conseil Départemental - Signalement.md](Conseil%20D%C3%A9partemental%20-%20Signalement.md)
 
-- [Opposition - Immatriculation INPI.md](Opposition%20-%20Immatriculation%20INPI.md)
+- [INPI - Immatriculation - Opposition.md](INPI%20-%20Immatriculation%20-%20Opposition.md)
 
-- [Signalement - INPI.md](Signalement%20-%20INPI.md)
+- [INPI - Signalement.md](INPI%20-%20Signalement.md)
 
-- [Signalement - Inspection du Travail - Relance.md](Signalement%20-%20Inspection%20du%20Travail%20-%20Relance.md)
+- [Inspection du Travail - Signalement - Relance.md](Inspection%20du%20Travail%20-%20Signalement%20-%20Relance.md)
 
-- [Signalement - Inspection du Travail.md](Signalement%20-%20Inspection%20du%20Travail.md)
+- [Inspection du Travail - Signalement.md](Inspection%20du%20Travail%20-%20Signalement.md)
 
-- [Signalement - Préfecture.md](Signalement%20-%20Pr%C3%A9fecture.md)
+- [Préfecture - Signalement.md](Pr%C3%A9fecture%20-%20Signalement.md)
 
-- [Signalement - CODAF - Relance.md](Signalement%20-%20CODAF%20-%20Relance.md)
+- [CODAF - Signalement - Relance.md](CODAF%20-%20Signalement%20-%20Relance.md)
 
-- [Signalement - SDIS.md](Signalement%20-%20SDIS.md)
+- [SDIS - Signalement.md](SDIS%20-%20Signalement.md)
 
-- [Signalement - SIE.md](Signalement%20-%20SIE.md)
+- [SIE - Signalement.md](SIE%20-%20Signalement.md)
 
-- [Courrier - Mutualisation SIE URSSAF.md](Courrier%20-%20Mutualisation%20SIE%20URSSAF.md)
+- [SIE URSSAF - Mutualisation - Courrier.md](SIE%20URSSAF%20-%20Mutualisation%20-%20Courrier.md)
 
-- [Signalement - URSSAF.md](Signalement%20-%20URSSAF.md)
+- [URSSAF - Signalement.md](URSSAF%20-%20Signalement.md)

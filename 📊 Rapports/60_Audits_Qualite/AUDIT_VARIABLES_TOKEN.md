@@ -40,7 +40,7 @@ Ce rapport liste les incohérences détectées dans les fichiers sous `⚖️ Ac
   - **Valeur erronée** : `J'ai alors vu un autre client, [**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), tendre la main droite par un réflexe immédiat pour tenter de rattraper le coiffeur et le protéger de la chute. Sa paume a heurté le flanc de la vasque.`
   - **Correction suggérée** : Remplacer par 'informaticien indépendant'.
 
-### I.4 — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - URSSAF.md`
+### I.4 — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
 
 - **Ligne 60** : Profession erronée (victime qualifiée de 'coiffeur')
 

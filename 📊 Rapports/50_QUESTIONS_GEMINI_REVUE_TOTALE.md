@@ -72,7 +72,7 @@ type: rapport
 **Q15.** Les 2 liens vers d'anciens fichiers numérotés dans STATUS.md :
    - `34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md`
    - `32 ✉️ Courrier SIE URSSAF Mutualisation.md`
-   Pointent-ils désormais vers les fichiers réels (🚨 Signalements/✉️ Signalement - Préfecture.md et 📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md) ?
+   Pointent-ils désormais vers les fichiers réels (🚨 Signalements/✉️ Préfecture - Signalement.md et 📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md) ?
 
 **Q16.** Le lien vers `RAPPORT_AUDIT_RISQUES.md` dans `TODO.md` a-t-il été corrigé ?
 

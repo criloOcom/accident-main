@@ -25,7 +25,7 @@ L'évaluation des préjudices a évolué à plusieurs reprises, entraînant des 
 
 * **La Vérité Factuelle** : `🧠 Memory/STRICT VARIABLES.md` (lignes 51 et 226) fixe `TOTAL_ESTIMATIF_GLOBAL_CANONIQUE` à **120 000 – 160 000 €**.
 
-* **Contradiction 1 (Évaluation Initiale 59 600 €)** : L'ancienne évaluation est explicitement déclarée comme obsolète dans `STRICT VARIABLES.md` et dans `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md` (ligne 98). Cependant, elle est encore présentée comme l'évaluation de référence ("estimés à 59 600 €") dans :
+* **Contradiction 1 (Évaluation Initiale 59 600 €)** : L'ancienne évaluation est explicitement déclarée comme obsolète dans `STRICT VARIABLES.md` et dans `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md` (ligne 98). Cependant, elle est encore présentée comme l'évaluation de référence ("estimés à 59 600 €") dans :
 
   * `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   * `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`

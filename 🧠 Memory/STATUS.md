@@ -198,7 +198,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 ### Actions réalisées
 
 #### 🔴 Priorité 1 : Email Maire Foix — Demande intervention Police Municipale
-- **Fichier créé** : [⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - Préfecture.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Pr%C3%A9fecture.md)
+- **Fichier créé** : [⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Pr%C3%A9fecture%20-%20Signalement.md)
 
 - **Destinataire** : Mme Marine BORDES, Maire de Foix (`secretariat@mairie-foix.fr`)
 
@@ -321,7 +321,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 - M01, M15 déjà sur `main` (pas besoin de PR)
 
 ### Nouveaux fichiers créés
-- [⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Courrier - Mutualisation SIE URSSAF.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Mutualisation%20SIE%20URSSAF.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20SIE%20URSSAF%20-%20Mutualisation%20-%20Courrier.md)
 
 - `⚖️ Actes/🔑 Token/✉️ Courriers/33 ✉️ Requête Constat Huissier 145 CPC.md`
 

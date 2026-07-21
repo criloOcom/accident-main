@@ -55,7 +55,7 @@ type: rapport
 
 ### II.2 — Incohérences détectées
 
-- **Moyenne** : Évaluation initiale obsolète (59 600 €) utilisée dans `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Signalement - INPI.md` (Action: mettre à jour avec les montants consolidés/compromis)
+- **Moyenne** : Évaluation initiale obsolète (59 600 €) utilisée dans `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md` (Action: mettre à jour avec les montants consolidés/compromis)
 
 <hr><hr>
 

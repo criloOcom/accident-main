@@ -64,11 +64,11 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 47.
 
-#### II.1.g — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Modèle - Saisine CADA.md`
+#### II.1.g — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 105.
 
-#### II.1.h — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Formulaire - Saisine CADA.md`
+#### II.1.h — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 49.
 
@@ -76,11 +76,11 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 146.
 
-#### II.1.j — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - Inspection du Travail - Relance.md`
+#### II.1.j — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Inspection du Travail - Signalement - Relance.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 61.
 
-#### II.1.k — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Signalement - CODAF - Relance.md`
+#### II.1.k — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 3.
 

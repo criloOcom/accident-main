@@ -57,25 +57,25 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
        → ✉️ Courriers/✉️ Mairie - Tavella - Courrier - Relance.md
   ✓  ✉️ Courriers/09 ✉️ Courrier Inspection Travail.md
-       → ✉️ Courriers/✉️ Signalement - Inspection du Travail.md
+       → ✉️ Courriers/✉️ Inspection du Travail - Signalement.md
   ✓  ✉️ Courriers/10 ✉️ Courrier Doyen Juges Instruction.md
        → ✉️ Courriers/✉️ Saisine - Doyen des Juges d'Instruction.md
   ✓  ✉️ Courriers/11 ✉️ Courrier INPI.md
-       → ✉️ Courriers/✉️ Signalement - INPI.md
+       → ✉️ Courriers/✉️ INPI - Signalement.md
   ✓  ✉️ Courriers/12 ✉️ Courrier URSSAF.md
-       → ✉️ Courriers/✉️ Signalement - URSSAF.md
+       → ✉️ Courriers/✉️ URSSAF - Signalement.md
   ✓  ✉️ Courriers/13 ✉️ Courrier Prefecture.md
-       → ✉️ Courriers/✉️ Signalement - Préfecture.md
+       → ✉️ Courriers/✉️ Préfecture - Signalement.md
   ✓  ✉️ Courriers/14 ✉️ Courrier CODAF.md
-       → ✉️ Courriers/✉️ Signalement - CODAF.md
+       → ✉️ Courriers/✉️ CODAF - Signalement.md
   ✓  ✉️ Courriers/15 ✉️ Courrier SIE.md
-       → ✉️ Courriers/✉️ Signalement - SIE.md
+       → ✉️ Courriers/✉️ SIE - Signalement.md
   ✓  ✉️ Courriers/16 ✉️ Courrier Conseil Departemental.md
-       → ✉️ Courriers/✉️ Signalement - Conseil Départemental.md
+       → ✉️ Courriers/✉️ Conseil Départemental - Signalement.md
   ✓  ✉️ Courriers/17 ✉️ Courrier CPAM.md
        → ✉️ Courriers/✉️ CPAM - Recours Tiers - Saisine.md
   ✓  ✉️ Courriers/18 ✉️ Courrier SDIS.md
-       → ✉️ Courriers/✉️ Signalement - SDIS.md
+       → ✉️ Courriers/✉️ SDIS - Signalement.md
   ✓  ✉️ Courriers/19 ✉️ Courrier FGTI.md
        → ✉️ Courriers/✉️ Saisine - FGTI.md
   ✓  ✉️ Courriers/20 🔄 Relance Police.md
@@ -96,13 +96,13 @@ Date: 2026-07-12 14:37
        → ✉️ Courriers/✉️ Mairie - Maire de Foix - Courrier.md
   ✓  ✉️ Courriers/30 ✉️ Courrier President TC.md
        → ✉️ Courriers/✉️ Opposition - Radiation Tribunal de Commerce.md
-  ✓  ✉️ Courriers/✉️ Signalement - INPI.md
-       → ✉️ Courriers/✉️ Opposition - Immatriculation INPI.md
-  ✓  ✉️ Courriers/✉️ Signalement - SIE.md
-       → ✉️ Courriers/✉️ Courrier - Mutualisation SIE URSSAF.md
+  ✓  ✉️ Courriers/✉️ INPI - Signalement.md
+       → ✉️ Courriers/✉️ INPI - Immatriculation - Opposition.md
+  ✓  ✉️ Courriers/✉️ SIE - Signalement.md
+       → ✉️ Courriers/✉️ SIE URSSAF - Mutualisation - Courrier.md
   ✓  ✉️ Courriers/33 ✉️ Requête - Constat Huissier Archive 145 CPC.md
        → ✉️ Courriers/✉️ Requête - Constat Huissier Archive.md
-  ✓  ✉️ Courriers/✉️ Signalement - Préfecture.md
+  ✓  ✉️ Courriers/✉️ Préfecture - Signalement.md
        → ✉️ Courriers/✉️ Mairie - ERP Tavella - Courrier.md
   ✓  ✉️ Courriers/35 ✉️ Courrier President TJ Foix.md
        → ✉️ Courriers/✉️ Courrier - Preuves Complémentaires TJ Foix.md
@@ -114,14 +114,14 @@ Date: 2026-07-12 14:37
        → ✉️ Courriers/Archive - Checklist Déplacement Foix.md
   ✓  ✉️ Courriers/39 📋 GUIDE_DEMANDE_AJ.md
        → ✉️ Courriers/✉️ Note - Guide Demande Aide Juridictionnelle.md
-  ✓  ✉️ Courriers/41 ✉️ Signalement - CODAF - Relance - Suite Signalement Maire.md
-       → ✉️ Courriers/✉️ Signalement - CODAF - Relance.md
-  ✓  ✉️ Courriers/42 ✉️ Signalement - Inspection du Travail - Relance - Suite Signalement Maire.md
-       → ✉️ Courriers/✉️ Signalement - Inspection du Travail - Relance.md
-  ✓  ✉️ Courriers/43 ✉️ Modèle - Saisine CADA.md
-       → ✉️ Courriers/✉️ Modèle - Saisine CADA.md
+  ✓  ✉️ Courriers/41 ✉️ CODAF - Signalement - Relance - Suite Signalement Maire.md
+       → ✉️ Courriers/✉️ CODAF - Signalement - Relance.md
+  ✓  ✉️ Courriers/42 ✉️ Inspection du Travail - Signalement - Relance - Suite Signalement Maire.md
+       → ✉️ Courriers/✉️ Inspection du Travail - Signalement - Relance.md
+  ✓  ✉️ Courriers/43 ✉️ CADA - Saisine - Modèle.md
+       → ✉️ Courriers/✉️ CADA - Saisine - Modèle.md
   ✓  ✉️ Courriers/44 ✉️ Saisine CADA Version Courte.md
-       → ✉️ Courriers/✉️ Formulaire - Saisine CADA.md
+       → ✉️ Courriers/✉️ CADA - Saisine - Formulaire.md
   ✓  💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md
        → 💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md
   ✓  💰 Etudes indemnisation/13 Note strategique FGTI CIVI.md
@@ -201,25 +201,25 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
        → ✉️ Courriers/✉️ Mairie - Tavella - Courrier - Relance.md
   ✓  ✉️ Courriers/09 ✉️ Courrier Inspection Travail.md
-       → ✉️ Courriers/✉️ Signalement - Inspection du Travail.md
+       → ✉️ Courriers/✉️ Inspection du Travail - Signalement.md
   ✓  ✉️ Courriers/10 ✉️ Courrier Doyen Juges Instruction.md
        → ✉️ Courriers/✉️ Saisine - Doyen des Juges d'Instruction.md
   ✓  ✉️ Courriers/11 ✉️ Courrier INPI.md
-       → ✉️ Courriers/✉️ Signalement - INPI.md
+       → ✉️ Courriers/✉️ INPI - Signalement.md
   ✓  ✉️ Courriers/12 ✉️ Courrier URSSAF.md
-       → ✉️ Courriers/✉️ Signalement - URSSAF.md
+       → ✉️ Courriers/✉️ URSSAF - Signalement.md
   ✓  ✉️ Courriers/13 ✉️ Courrier Prefecture.md
-       → ✉️ Courriers/✉️ Signalement - Préfecture.md
+       → ✉️ Courriers/✉️ Préfecture - Signalement.md
   ✓  ✉️ Courriers/14 ✉️ Courrier CODAF.md
-       → ✉️ Courriers/✉️ Signalement - CODAF.md
+       → ✉️ Courriers/✉️ CODAF - Signalement.md
   ✓  ✉️ Courriers/15 ✉️ Courrier SIE.md
-       → ✉️ Courriers/✉️ Signalement - SIE.md
+       → ✉️ Courriers/✉️ SIE - Signalement.md
   ✓  ✉️ Courriers/16 ✉️ Courrier Conseil Departemental.md
-       → ✉️ Courriers/✉️ Signalement - Conseil Départemental.md
+       → ✉️ Courriers/✉️ Conseil Départemental - Signalement.md
   ✓  ✉️ Courriers/17 ✉️ Courrier CPAM.md
        → ✉️ Courriers/✉️ CPAM - Recours Tiers - Saisine.md
   ✓  ✉️ Courriers/18 ✉️ Courrier SDIS.md
-       → ✉️ Courriers/✉️ Signalement - SDIS.md
+       → ✉️ Courriers/✉️ SDIS - Signalement.md
   ✓  ✉️ Courriers/19 ✉️ Courrier FGTI.md
        → ✉️ Courriers/✉️ Saisine - FGTI.md
   ✓  ✉️ Courriers/20 🔄 Relance Police.md
@@ -240,13 +240,13 @@ Date: 2026-07-12 14:37
        → ✉️ Courriers/✉️ Mairie - Maire de Foix - Courrier.md
   ✓  ✉️ Courriers/30 ✉️ Courrier President TC.md
        → ✉️ Courriers/✉️ Opposition - Radiation Tribunal de Commerce.md
-  ✓  ✉️ Courriers/✉️ Signalement - INPI.md
-       → ✉️ Courriers/✉️ Opposition - Immatriculation INPI.md
-  ✓  ✉️ Courriers/✉️ Signalement - SIE.md
-       → ✉️ Courriers/✉️ Courrier - Mutualisation SIE URSSAF.md
+  ✓  ✉️ Courriers/✉️ INPI - Signalement.md
+       → ✉️ Courriers/✉️ INPI - Immatriculation - Opposition.md
+  ✓  ✉️ Courriers/✉️ SIE - Signalement.md
+       → ✉️ Courriers/✉️ SIE URSSAF - Mutualisation - Courrier.md
   ✓  ✉️ Courriers/33 ✉️ Requête - Constat Huissier Archive 145 CPC.md
        → ✉️ Courriers/✉️ Requête - Constat Huissier Archive.md
-  ✓  ✉️ Courriers/✉️ Signalement - Préfecture.md
+  ✓  ✉️ Courriers/✉️ Préfecture - Signalement.md
        → ✉️ Courriers/✉️ Mairie - ERP Tavella - Courrier.md
   ✓  ✉️ Courriers/35 ✉️ Courrier President TJ Foix.md
        → ✉️ Courriers/✉️ Courrier - Preuves Complémentaires TJ Foix.md
@@ -258,14 +258,14 @@ Date: 2026-07-12 14:37
        → ✉️ Courriers/Archive - Checklist Déplacement Foix.md
   ✓  ✉️ Courriers/39 📋 GUIDE_DEMANDE_AJ.md
        → ✉️ Courriers/✉️ Note - Guide Demande Aide Juridictionnelle.md
-  ✓  ✉️ Courriers/41 ✉️ Signalement - CODAF - Relance - Suite Signalement Maire.md
-       → ✉️ Courriers/✉️ Signalement - CODAF - Relance.md
-  ✓  ✉️ Courriers/42 ✉️ Signalement - Inspection du Travail - Relance - Suite Signalement Maire.md
-       → ✉️ Courriers/✉️ Signalement - Inspection du Travail - Relance.md
-  ✓  ✉️ Courriers/43 ✉️ Modèle - Saisine CADA.md
-       → ✉️ Courriers/✉️ Modèle - Saisine CADA.md
+  ✓  ✉️ Courriers/41 ✉️ CODAF - Signalement - Relance - Suite Signalement Maire.md
+       → ✉️ Courriers/✉️ CODAF - Signalement - Relance.md
+  ✓  ✉️ Courriers/42 ✉️ Inspection du Travail - Signalement - Relance - Suite Signalement Maire.md
+       → ✉️ Courriers/✉️ Inspection du Travail - Signalement - Relance.md
+  ✓  ✉️ Courriers/43 ✉️ CADA - Saisine - Modèle.md
+       → ✉️ Courriers/✉️ CADA - Saisine - Modèle.md
   ✓  ✉️ Courriers/44 ✉️ Saisine CADA Version Courte.md
-       → ✉️ Courriers/✉️ Formulaire - Saisine CADA.md
+       → ✉️ Courriers/✉️ CADA - Saisine - Formulaire.md
   ✓  💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md
        → 💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md
   ✓  💰 Etudes indemnisation/13 Note strategique FGTI CIVI.md
@@ -329,11 +329,11 @@ Date: 2026-07-12 14:37
   📄 📊 Rapports/RAPPORT_AUDIT_REDACTION.md
        [parenthesized_url] 03 ✉️ Courrier SAS.md → ✉️ SAS - Courrier.md (1x)
        [parenthesized_url] 10 ✉️ Courrier Doyen Juges Instruction.md → ✉️ Saisine - Doyen des Juges d'Instruction.md (1x)
-       [parenthesized_url] 12 ✉️ Courrier URSSAF.md → ✉️ Signalement - URSSAF.md (1x)
-       [parenthesized_url] 14 ✉️ Courrier CODAF.md → ✉️ Signalement - CODAF.md (1x)
+       [parenthesized_url] 12 ✉️ Courrier URSSAF.md → ✉️ URSSAF - Signalement.md (1x)
+       [parenthesized_url] 14 ✉️ Courrier CODAF.md → ✉️ CODAF - Signalement.md (1x)
        [parenthesized_url] 19 ✉️ Courrier FGTI.md → ✉️ Saisine - FGTI.md (1x)
        [parenthesized_url] 33 ✉️ Requête - Constat Huissier Archive 145 CPC.md → ✉️ Requête - Constat Huissier Archive.md (1x)
-       [parenthesized_url] ✉️ Signalement - Préfecture.md → ✉️ Mairie - ERP Tavella - Courrier.md (1x)
+       [parenthesized_url] ✉️ Préfecture - Signalement.md → ✉️ Mairie - ERP Tavella - Courrier.md (1x)
        [parenthesized_url] 35 ✉️ Courrier President TJ Foix.md → ✉️ Courrier - Preuves Complémentaires TJ Foix.md (1x)
        [parenthesized_url] 07 🎤 Plaidoirie dirigeants.md → Note - Plaidoirie Responsabilité Dirigeants.md (1x)
        [parenthesized_url] Note - Analyse Responsabilités Légales.md → Note - Analyse Responsabilités Légales.md (1x)

@@ -128,7 +128,7 @@ Ce courrier fait suite au message de l'adjoint au maire du 1er juin 2026, par le
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️ Signalement - Inspection du Travail.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Inspection%20du%20Travail.md) (09) |
+| **Fichier** | [`✉️ Inspection du Travail - Signalement.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20du%20Travail%20-%20Signalement.md) (09) |
 | **Destinataire** | DDETS de l'Ariège / DREETS Occitanie |
 | **Mode** | LRAR |
 | **Ton** | Formel, technique, juridique |
@@ -174,7 +174,7 @@ Courrier le plus technique du batch. Après un rappel des faits et du contexte (
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️ Signalement - URSSAF.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20URSSAF.md) (12) |
+| **Fichier** | [`✉️ URSSAF - Signalement.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20URSSAF%20-%20Signalement.md) (12) |
 | **Destinataire** | URSSAF Midi-Pyrénées |
 | **Mode** | LRAR |
 | **Ton** | Accusatoire, factuel, technique |
@@ -211,7 +211,7 @@ Ce signalement dénonce un travail dissimulé présumé. Il s'appuie sur des él
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️ Signalement - CODAF.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20CODAF.md) (14) |
+| **Fichier** | [`✉️ CODAF - Signalement.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20CODAF%20-%20Signalement.md) (14) |
 | **Destinataire** | CODAF de l'Ariège (Préfecture) |
 | **Mode** | LRAR |
 | **Ton** | Technique, très structuré, exhaustif |
@@ -244,7 +244,7 @@ Le CODAF est la structure interdépartementale de coordination anti-fraude réun
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️ Signalement - Préfecture.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Pr%C3%A9fecture.md) (13) |
+| **Fichier** | [`✉️ Préfecture - Signalement.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Pr%C3%A9fecture%20-%20Signalement.md) (13) |
 | **Destinataire** | Préfecture de l'Ariège |
 | **Mode** | LRAR |
 | **Ton** | Solennel, exhaustif, complet |
@@ -273,7 +273,7 @@ Ce courrier agit comme une « pièce maîtresse » qui confirme officiellement l
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️ Signalement - Conseil Départemental.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20Conseil%20D%C3%A9partemental.md) (16) |
+| **Fichier** | [`✉️ Conseil Départemental - Signalement.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Conseil%20D%C3%A9partemental%20-%20Signalement.md) (16) |
 | **Destinataire** | Conseil Départemental de l'Ariège |
 | **Mode** | LRAR |
 | **Ton** | Formel, réglementaire |
@@ -300,7 +300,7 @@ Ce signalement cible spécifiquement les non-conformités ERP. Il qualifie le sa
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️ Signalement - SDIS.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20SDIS.md) (18) |
+| **Fichier** | [`✉️ SDIS - Signalement.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20SDIS%20-%20Signalement.md) (18) |
 | **Destinataire** | SDIS de l'Ariège |
 | **Mode** | Email (simple) |
 | **Ton** | Court, factuel |
@@ -326,7 +326,7 @@ Le plus court du batch (1 page). Il signale 2 dangers : l'équipement défectueu
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️ Signalement - INPI.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20INPI.md) (11) |
+| **Fichier** | [`✉️ INPI - Signalement.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20INPI%20-%20Signalement.md) (11) |
 | **Destinataire** | INPI — Registre National des Entreprises |
 | **Mode** | LRAR |
 | **Ton** | Neutre, informatif |
@@ -349,7 +349,7 @@ Ce courrier demande un « flag » sur le RNE pour informer les tiers et l'admini
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️ Signalement - SIE.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Signalement%20-%20SIE.md) (15) |
+| **Fichier** | [`✉️ SIE - Signalement.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20SIE%20-%20Signalement.md) (15) |
 | **Destinataire** | Service des Impôts des Entreprises de [La Ville de l'Accident] |
 | **Mode** | LRAR |
 | **Ton** | Court, informatif, neutre |

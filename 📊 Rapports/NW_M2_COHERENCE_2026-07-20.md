@@ -108,7 +108,7 @@ Date: 2026-07-20
 
 - [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md:141` — IP : Montant incohérent. Attendu 28000 €, trouvé 20000.0 €. Extrait: `| Incidence Professionnelle | 20 000 € | 40 000 € | 30 000 € |`
 
-- [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Préfecture.md:97` — SE : Montant incohérent. Attendu 14000 €, trouvé 49231.0 €. Extrait: `9. **Expertise médicale judiciaire** : rapport déposé le 29 mai 2027 (consolidation au 1er mars 2027, DFP 12 %, SE 4/7, IP majeure, total extra-patrimonial 49 231 €, fourchette globale 120 000 – 160 000 €)`
+- [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Préfecture - Signalement.md:97` — SE : Montant incohérent. Attendu 14000 €, trouvé 49231.0 €. Extrait: `9. **Expertise médicale judiciaire** : rapport déposé le 29 mai 2027 (consolidation au 1er mars 2027, DFP 12 %, SE 4/7, IP majeure, total extra-patrimonial 49 231 €, fourchette globale 120 000 – 160 000 €)`
 
 - [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/✉️ Consultation - Avocat Jimini.md:48` — SE : Montant incohérent. Attendu 14000 €, trouvé 9000.0 €. Extrait: `Le **29 mai 2026**, je suis victime d'un accident dans un salon de coiffure « [**[Le Nouvel Exploitant (HB BARBER)]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) » (**[L'Adresse de l'Exploitation](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**). Un bac à shampooing s'est détaché du mur et m'a sectionné le tendon, le nerf et l'artère de l'index droit. Opéré en urgence le 30 mai à la Clinique SOS Main de Toulouse. [Arrêt de travail](../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) : **55 jours**. Je suis informaticien indépendant (~9 000 €/an).`
 
@@ -154,7 +154,7 @@ Date: 2026-07-20
 
 - [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Stratégie Jurisprudentielle.md:117` — DFP : Montant incohérent. Attendu 25200 €, trouvé 31200.0 €. Extrait: `| DFP (12 %) | 31 200 € | 12 × 2 600 € (Mornet 2024 médian) |`
 
-- [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Préfecture.md:97` — DFP : Montant incohérent. Attendu 25200 €, trouvé 49231.0 €. Extrait: `9. **Expertise médicale judiciaire** : rapport déposé le 29 mai 2027 (consolidation au 1er mars 2027, DFP 12 %, SE 4/7, IP majeure, total extra-patrimonial 49 231 €, fourchette globale 120 000 – 160 000 €)`
+- [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Préfecture - Signalement.md:97` — DFP : Montant incohérent. Attendu 25200 €, trouvé 49231.0 €. Extrait: `9. **Expertise médicale judiciaire** : rapport déposé le 29 mai 2027 (consolidation au 1er mars 2027, DFP 12 %, SE 4/7, IP majeure, total extra-patrimonial 49 231 €, fourchette globale 120 000 – 160 000 €)`
 
 - [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md:75` — SE : Montant incohérent. Attendu 14000 €, trouvé 105000.0 €. Extrait: `- **Montant estimé** : L'évaluation détaillée (Dintilhac) fait état d'un préjudice global de **~105 000 €** (évaluation haute) à **~45 000 €** (évaluation Glose, conservative). Le compromis retenu s'établit autour de **~85 000 €**.`
 
@@ -186,7 +186,7 @@ Date: 2026-07-20
 
 - [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md:183` — SE : Montant incohérent. Attendu 14000 €, trouvé 12000.0 €. Extrait: `| Souffrances Endurées — 4/7 (microchirurgie, rééducation) | 12 000 € |`
 
-- [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Inspection du Travail.md:93` — DFP : Montant incohérent. Attendu 25200 €, trouvé 2100.0 €. Extrait: `- DFP 12 % (point Mornet médian 2 100 € → 25 200 €)`
+- [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Inspection du Travail - Signalement.md:93` — DFP : Montant incohérent. Attendu 25200 €, trouvé 2100.0 €. Extrait: `- DFP 12 % (point Mornet médian 2 100 € → 25 200 €)`
 
 - [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md:324` — SE : Montant incohérent. Attendu 14000 €, trouvé 8000.0 €. Extrait: `**Analyse des écarts :** Notre estimation initiale (8 000 €) était élevée. Glose propose 3 500 € (fourchette 2 000-5 000 €). La jurisprudence admet la limitation suffisante (Cass. 2e civ., 29 mars 2018, n° 17-14.499).`
 
@@ -284,7 +284,7 @@ Date: 2026-07-20
 
 - [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md:661` — IP : Montant incohérent. Attendu 28000 €, trouvé 30000.0 €. Extrait: `| Incidence Professionnelle | 30 000 € |`
 
-- [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Signalement - Préfecture.md:97` — IP : Montant incohérent. Attendu 28000 €, trouvé 49231.0 €. Extrait: `9. **Expertise médicale judiciaire** : rapport déposé le 29 mai 2027 (consolidation au 1er mars 2027, DFP 12 %, SE 4/7, IP majeure, total extra-patrimonial 49 231 €, fourchette globale 120 000 – 160 000 €)`
+- [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Préfecture - Signalement.md:97` — IP : Montant incohérent. Attendu 28000 €, trouvé 49231.0 €. Extrait: `9. **Expertise médicale judiciaire** : rapport déposé le 29 mai 2027 (consolidation au 1er mars 2027, DFP 12 %, SE 4/7, IP majeure, total extra-patrimonial 49 231 €, fourchette globale 120 000 – 160 000 €)`
 
 - [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Conclusions Provision.md:157` — DFP : Montant incohérent. Attendu 25200 €, trouvé 9000.0 €. Extrait: `S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'évaluation indemnitaire barémique Dintilhac du 13 juillet 2026 (pièce n° 44). Ce rapport, établi sur la base de la situation réelle de **[La Victime](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** (informaticien indépendant, 9 000 € de revenus annuels, atteinte de la main droite dominante, 55 jours d'interruption d'activité), retient deux hypothèses de déficit fonctionnel permanent (10 % et 15 %) et chiffre le préjudice global en droit commun, avant imputation du recours de la CPAM, à environ 126 000 € dans le scénario prudent et 161 500 € dans le scénario médian. La provision sollicitée à hauteur de **15 000 €** s'inscrit ainsi très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.`
 

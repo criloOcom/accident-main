@@ -55,13 +55,13 @@ Durant la même semaine, expédie par Lettre Recommandée avec Avis de Réceptio
 * **Signalement CODAF (Comité Opérationnel Départemental Anti-Fraude)** :
 
   * *Objet* : Dénonciation de suspicion de travail dissimulé, fraude et transfert frauduleux d'actifs vers la nouvelle structure.
-  * *Document à envoyer* : [✉️ Signalement - CODAF.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/Signalement%20-%20CODAF.md)
+  * *Document à envoyer* : [✉️ CODAF - Signalement.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/CODAF%20-%20Signalement.md)
   * *Destinataire* : Monsieur le Procureur de la République (Tribunal Judiciaire de Foix, 14 Boulevard François Mitterrand, 09000 Foix).
 
 * **Signalement Inspection du Travail** :
 
   * *Objet* : Dénonciation du défaut de déclaration d'accident du travail grave concernant un préposé.
-  * *Document à envoyer* : [✉️ Signalement - Inspection du Travail.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/Signalement%20-%20Inspection%20du%20Travail.md)
+  * *Document à envoyer* : [✉️ Inspection du Travail - Signalement.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/Inspection%20du%20Travail%20-%20Signalement.md)
   * *Destinataire* : Inspecteur du Travail (DDETSPP de l'Ariège, 9 Rue Lieutenant Paul Delpech, 09000 Foix).
 
 ---
