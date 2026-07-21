@@ -24,6 +24,20 @@ jx: J+47
 <hr>
 <!-- /Breadcrumb -->
 
+<!-- Auteur -->
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** (document personnel — aide-mémoire)
+<!-- /Destinataire -->
+
+<!-- Date -->
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 11 juillet 2026
+<!-- /Date -->
+
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 > ⚠️ **DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER**

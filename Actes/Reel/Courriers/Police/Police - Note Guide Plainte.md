@@ -24,6 +24,20 @@ jx: J+47
 <hr>
 <!-- /Breadcrumb -->
 
+<!-- Auteur -->
+**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** (document personnel — aide-mémoire)
+<!-- /Destinataire -->
+
+<!-- Date -->
+**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 11 juillet 2026
+<!-- /Date -->
+
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 > ⚠️ **DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER**

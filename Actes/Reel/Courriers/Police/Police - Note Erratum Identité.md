@@ -16,6 +16,20 @@ reel_path: ../../../Reel/Courriers/Police/Police - Note Erratum Identité.md
 <hr>
 <!-- /Breadcrumb -->
 
+<!-- Auteur -->
+**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+Destinataires des actes et autorités judiciaires
+<!-- /Destinataire -->
+
+<!-- Date -->
+**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 17 juillet 2026
+<!-- /Date -->
+
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](./Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # ERRATUM
@@ -36,7 +50,7 @@ reel_path: ../../../Reel/Courriers/Police/Police - Note Erratum Identité.md
 
 ## 1. Exposé de l'erreur
 
-Dans l'ensemble des actes, courriers et démarches engagés entre le 2 juin 2026 et le 17 juillet 2026, j'ai désigné comme société exploitante du fonds de commerce situé au 22 rue Lafaurie, 09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, la société **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)**.
+Dans l'ensemble des actes, courriers et démarches engagés entre le 2 juin 2026 et le 17 juillet 2026, j'ai désigné comme société exploitante du fonds de commerce situé au 22 Rue Lafaurie, 09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, la société **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)**.
 
 Cette désignation était fondée sur les seules informations disponibles au moment de mes premières recherches (bases INPI, societe.com, annuaires en ligne). Lesdites bases ne mentionnaient alors que la société **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** à l'adresse précitée.
 
@@ -47,7 +61,7 @@ Cette désignation était fondée sur les seules informations disponibles au mom
 
 ### Juin 2026 — Premières recherches infructueuses
 
-Immédiatement après l'accident du 29 mai 2026, j'ai entrepris des recherches en ligne pour identifier la société exploitant le salon de coiffure au 22 rue Lafaurie, **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**. Les bases de données publiques consultées (INPI, societe.com, etc.) ne référençaient que **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** à cette adresse, sous le SIRET **[104 103 262 00010](../../../../Memory/Tokens/token-exploitation-id.md)**.
+Immédiatement après l'accident du 29 mai 2026, j'ai entrepris des recherches en ligne pour identifier la société exploitant le salon de coiffure au 22 Rue Lafaurie, **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**. Les bases de données publiques consultées (INPI, societe.com, etc.) ne référençaient que **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** à cette adresse, sous le SIRET **[938 033 222 00010](../../../../Memory/Tokens/token-ancien-exploitation-id.md)**.
 
 J'ai donc, de bonne foi, établi l'ensemble de mes démarches en désignant cette société comme responsable.
 
@@ -58,9 +72,9 @@ J'ai donc, de bonne foi, établi l'ensemble de mes démarches en désignant cett
 À cette date, j'ai envoyé plusieurs lettres recommandées avec accusé de réception, toutes désignant **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** comme destinataire ou société visée :
 - LRAR à **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)**
 
-- LRAR à **[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)**
+- LRAR à **[Sabir MOUNTASSER](../../../../Memory/Tokens/token-ancien-president-exploitation.md)** (Sabir MOUNTASSER, président de la SAS LES MAUVAIS GARÇONS)
 
-- LRAR à **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**
+- LRAR à **[Catherine ANDISSAC](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)** (Catherine ANDISSAC, directrice générale de la SAS LES MAUVAIS GARÇONS)
 
 - LRAR à **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**
 
@@ -74,7 +88,7 @@ Deux événements concomitants ont révélé l'erreur :
 
 **2. Visite des lieux :** Je me suis rendu physiquement au 22 rue Lafaurie, **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le 16 juillet 2026. J'ai alors constaté que l'enseigne sur la vitrine indiquait désormais **« [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) »**. Le commerce était exploité par une société que je ne connaissais pas : [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md) , même adresse).
 
-Des recherches web complémentaires effectuées à mon retour ont confirmé que [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) avait été créée le **22 avril 2026** — soit **37 jours avant l'accident** — à la même adresse (22 Grande Rue La Faurie, 09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**), pour la même activité (coiffure/barbier, code APE 9602A), avec un capital de [1 000 €](../../../../Memory/Tokens/token-exploitation-capital-social.md).
+Des recherches web complémentaires effectuées à mon retour ont confirmé que [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) avait été créée le **22 avril 2026** — soit **37 jours avant l'accident** — à la même adresse (22 Rue Lafaurie, 09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**)[^1], pour la même activité (coiffure/barbier, code APE 9602A), avec un capital de [1 000 €](../../../../Memory/Tokens/token-exploitation-capital-social.md).
 
 **Élément capital :** La directrice générale de [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), **Mme **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** **, est la **même personne** que la directrice générale de **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)**. Il existe donc un lien organique direct entre les deux entités.
 <hr><hr>
@@ -84,7 +98,7 @@ Des recherches web complémentaires effectuées à mon retour ont confirmé que 
 | Date | Événement |
 |------|-----------|
 | **10 mars 2026** | Cessation d'activité de **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** (état des lieux de sortie — source : bailleur) |
-| **22 avril 2026** | Début d'activité de [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) au 22 Grande Rue La Faurie |
+| **22 avril 2026** | Début d'activité de [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) au 22 Rue Lafaurie |
 | **29 mai 2026** | Accident corporel de **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** dans ce local |
 | **2 juin 2026** | Plainte initiale (visant à tort **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)**) |
 | **16 juillet 2026** | Découverte de l'exploitation réelle par [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) |
@@ -101,12 +115,12 @@ La présente rectification s'applique à l'ensemble des actes, courriers et dém
 
 - Dossier de plainte écrit remis le 1er juin 2026
 
-**B. Mises en demeure LRAR du 29 juin 2026 :**
-- LRAR à **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** — 22 rue Lafaurie, 09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
+**B. Mises en demeure LRAR du 29 juin 2026 (adressées par erreur à l'ancien exploitant) :**
+- LRAR à **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** — 22 Rue Lafaurie, 09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
 
-- LRAR à **[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)** — **[115 avenue Fernand Loubet, 09200 Saint-Girons](../../../../Memory/Tokens/token-exploitation-president-adresse.md)**
+- LRAR à **[Sabir MOUNTASSER](../../../../Memory/Tokens/token-ancien-president-exploitation.md)** (Sabir MOUNTASSER, ancien président de la SAS LES MAUVAIS GARÇONS)
 
-- LRAR à **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**
+- LRAR à **[Catherine ANDISSAC](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)** (Catherine ANDISSAC, ancienne directrice générale de la SAS LES MAUVAIS GARÇONS)
 
 - LRAR à **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**
 
@@ -133,25 +147,32 @@ La présente rectification s'applique à l'ensemble des actes, courriers et dém
 - Dossier Recours contre Tiers CPAM (n° 31727387)
 
 - Saisine du Tribunal Judiciaire de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
+
+**E. Nouvelles LRAR du 18 juillet 2026 (adressées à l'exploitant réel après découverte) :**
+- LRAR à **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SAS HB BARBER) — 22 Rue Lafaurie, 09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
+
+- LRAR à **[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)** (Hamza El Hachemi BERGUIGA, président de la SAS HB BARBER)
+
+- LRAR à **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** (Catherine SORROCHE, directrice générale de la SAS HB BARBER)
 <hr><hr>
 
 ## 4. Correction formelle
 
 En conséquence de ce qui précède, je soussigné **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** déclare formellement :
 
-1. **L'ensemble de mes demandes, déclarations et démarches mentionnées ci-dessus visaient et visent en réalité l'exploitant du fonds de commerce situé au 22 rue Lafaurie / 22 Grande Rue La Faurie, 09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, au jour de l'accident du 29 mai 2026.**
+1. **L'ensemble de mes demandes, déclarations et démarches mentionnées ci-dessus visaient et visent en réalité l'exploitant du fonds de commerce situé au 22 Rue Lafaurie, 09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, au jour de l'accident du 29 mai 2026.**
 
 2. **Cet exploitant est la société :**
 
    > [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
    > SAS au capital de [1 000 €](../../../../Memory/Tokens/token-exploitation-capital-social.md)
    > SIREN : [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)
-   > Siège social : 22 Grande Rue La Faurie, 09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
+   > Siège social : 22 Rue Lafaurie, 09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**[^1]
    > Président : [Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)
    > Directrice générale : **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**
    > Date de création : 22 avril 2026
 
-3. **La mention de « **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** » dans mes actes antérieurs doit être comprise comme une erreur matérielle de désignation, la cible réelle de mes demandes ayant toujours été l'exploitant de fait du commerce au 22 rue Lafaurie, sans que j'aie eu les moyens de l'identifier correctement avant le 16 juillet 2026.**
+3. **La mention de « **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** » dans mes actes antérieurs doit être comprise comme une erreur matérielle de désignation, la cible réelle de mes demandes ayant toujours été l'exploitant de fait du commerce au 22 Rue Lafaurie, sans que j'aie eu les moyens de l'identifier correctement avant le 16 juillet 2026.**
 
 4. **Je prie les destinataires des actes listés à la section 3 de bien vouloir annexer le présent erratum aux dossiers et procédures concernés, et de considérer que les diligences engagées visent la SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) en qualité d'exploitant réel au jour de l'accident.**
 <hr><hr>
@@ -179,5 +200,9 @@ Fait à **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-v
 **Signature :** **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**
 
 <hr><hr>
+
+[^1]: **Variantes administratives de l'adresse** : Le procès-verbal de police n°2026/015967 mentionne « 22, RUE DE LA FAURIE » — il s'agit d'une erreur de saisie des services de police. Le Registre National des Entreprises (INPI) enregistre le siège social sous « 22 Grande Rue La Faurie » — variante cadastrale. L'adresse postale et géographique exacte, seule à retenir dans le présent erratum, est **22 Rue Lafaurie, 09000 Foix**.
+
+[^1]: **Variantes administratives de l'adresse** : Le procès-verbal de police n°2026/015967 mentionne « 22, RUE DE LA FAURIE » — il s'agit d'une erreur de saisie des services de police. Le Registre National des Entreprises (INPI) enregistre le siège social sous « 22 Grande Rue La Faurie » — variante cadastrale. L'adresse postale et géographique exacte, seule à retenir dans le présent erratum, est **22 Rue Lafaurie, 09000 Foix**.
 
 *Document à annexer à tout acte et courrier mentionnant **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** comme société défenderesse. À distribuer par dépôt physique (Commissariat de Foix) et par lettre recommandée avec accusé de réception (autorités administratives et judiciaires).*

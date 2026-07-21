@@ -15,6 +15,22 @@ reel_path: ../../../Reel/Courriers/Police/Police - Bordereau Pièces.md
 <hr>
 <!-- /Breadcrumb -->
 
+<!-- Auteur -->
+**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+Commissariat de Police de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**  
+Place de la Préfecture  
+09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
+<!-- /Destinataire -->
+
+<!-- Date -->
+**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 17 juillet 2026
+<!-- /Date -->
+
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](./Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # BORDEREAU DE PIÈCES
@@ -66,7 +82,7 @@ reel_path: ../../../Reel/Courriers/Police/Police - Bordereau Pièces.md
 
 18. ☐ **Échanges de courriels avec Mairie de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)** (Mme MAGALHAES / **[Monsieur TAVELLA](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**)** — 4 pages
 
-19. ☐ **Accusés de réception LRAR (29/06/2026) : **[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)**, **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**** — 3 pages
+19. ☐ **Accusés de réception LRAR (29/06/2026 — adressés à l'ancien exploitant LMG) : **[Sabir MOUNTASSER](../../../../Memory/Tokens/token-ancien-president-exploitation.md)**, **[Catherine ANDISSAC](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)**, **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**** — 3 pages
 
 20. ☐ **Copies LRAR adressées au salon le 29/06/2026** — 4 pages
 

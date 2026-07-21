@@ -31,17 +31,19 @@ jx: J+31
 # DEMANDE DE COMMUNICATION <br> D'ASSURANCE RC
 > 🔗 Source Google Drive : [1W-C6nM5G_GU…](https://drive.google.com/open?id=1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4)
 <!-- Auteur -->
-**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)** <br>
+**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** <br>
-[À compléter]
+Monsieur **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**  
+17 rue de la Baïse  
+31120 Roquettes
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
+**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 29 juin 2026
 <!-- /Date -->
 
 ---

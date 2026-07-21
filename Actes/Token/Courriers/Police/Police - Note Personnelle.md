@@ -16,6 +16,22 @@ reel_path: ../../../Reel/Courriers/Police/Police - Note Personnelle.md
 <hr>
 <!-- /Breadcrumb -->
 
+<!-- Auteur -->
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+Commissariat de Police de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**  
+Place de la Préfecture  
+09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
+<!-- /Destinataire -->
+
+<!-- Date -->
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 17 juillet 2026
+<!-- /Date -->
+
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](./Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # NOTE PERSONNELLE
@@ -132,11 +148,11 @@ _Séances de kiné : 30 juin, 1er, 3, 4, 7, 8, 10, 11, 14, 15, 17 juillet 2026 (
 
 J'envoie plusieurs lettres recommandées avec accusé de réception :
 
-1. **LRAR à [L'Exploitant du Commerce (La SAS)]** (22 rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**) : déclaration d'accident, demande des coordonnées de l'assurance responsabilité civile professionnelle, sur le fondement de l'article L.124-3 du Code des assurances (action directe de la victime).
+1. **LRAR à [L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** (22 Rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**) : déclaration d'accident, demande des coordonnées de l'assurance responsabilité civile professionnelle, sur le fondement de l'article L.124-3 du Code des assurances (action directe de la victime).
 
-2. **LRAR à **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** [Le Président de l'Exploitation]**, président de la SAS : mise en demeure de communiquer les informations d'assurance, rappel du principe de la faute détachable (arrêt SATI, Cass. Com., 20 mai 2003) et de l'application de ce principe au défaut d'assurance obligatoire.
+2. **LRAR à **[L'Ancien Président de l'Exploitation](../../../../Memory/Tokens/token-ancien-president-exploitation.md)****, ancien président de la SAS LES MAUVAIS GARÇONS : mise en demeure de communiquer les informations d'assurance, rappel du principe de la faute détachable (arrêt SATI, Cass. Com., 20 mai 2003) et de l'application de ce principe au défaut d'assurance obligatoire.
 
-3. **LRAR à **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** (née **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**)**, directrice générale : même objet, même fondement juridique.
+3. **LRAR à **[L'Ancienne Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)** **, ancienne directrice générale de la SAS LES MAUVAIS GARÇONS : même objet, même fondement juridique.
 
 4. **LRAR à [Le Propriétaire des Murs]**, propriétaire bailleur (17 Rue de la Baïse, 31120 ROQUETTES) : demande de communication des coordonnées de l'assurance de l'exploitant, sur le fondement des articles 1719 et 1720 du Code civil (obligations du bailleur) et de l'article L.124-3 du Code des assurances.
 
@@ -144,9 +160,9 @@ J'envoie plusieurs lettres recommandées avec accusé de réception :
 
 | Date | Destinataire | Suivi | Statut |
 |:----:|-------------|:-----:|:------:|
-| 29/06 | **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, 22 rue Lafaurie, **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** | 1A 123 456 7890 1 | **Non réclamé** — revenu à l'envoyeur |
-| 29/06 | **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)**, 4 place de la Libération, **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** | 1A 123 456 7891 8 | **Non réclamé** — revenu à l'envoyeur |
-| 29/06 | **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** (**[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**), 25 chemin Bel Air, Verniolle | 1A 123 456 7892 5 | **Non réclamé** — revenu à l'envoyeur |
+| 29/06 | **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)**, 22 Rue Lafaurie, **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** | 1A 123 456 7890 1 | **Non réclamé** — revenu à l'envoyeur |
+| 29/06 | **[L'Ancien Président de l'Exploitation](../../../../Memory/Tokens/token-ancien-president-exploitation.md)**, 108 Avenue Paul Bert, **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** | 1A 123 456 7891 8 | **Non réclamé** — revenu à l'envoyeur |
+| 29/06 | **[L'Ancienne Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)**, 25 chemin Bel Air, Verniolle | 1A 123 456 7892 5 | **Non réclamé** — revenu à l'envoyeur |
 | 29/06 | **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**, 17 Rue de la Baïse, Roquettes | 1A 123 456 7893 2 | **Distribué** le 03/07/2026 — réponse reçue le 16/07/2026 |
 
 **Je remets aux enquêteurs les originaux de ces AR et copies des courriers.**

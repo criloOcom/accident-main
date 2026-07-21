@@ -15,6 +15,22 @@ reel_path: ../../../Reel/Courriers/Police/Police - Bordereau Pièces.md
 <hr>
 <!-- /Breadcrumb -->
 
+<!-- Auteur -->
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+Commissariat de Police de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**  
+Place de la Préfecture  
+09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
+<!-- /Destinataire -->
+
+<!-- Date -->
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 17 juillet 2026
+<!-- /Date -->
+
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](./Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # BORDEREAU DE PIÈCES
@@ -66,7 +82,7 @@ reel_path: ../../../Reel/Courriers/Police/Police - Bordereau Pièces.md
 
 18. ☐ **Échanges de courriels avec Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** (Mme MAGALHAES / **[L'Adjoint au Maire de la Commune](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**)** — 4 pages
 
-19. ☐ **Accusés de réception LRAR (29/06/2026) : **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)**, **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**** — 3 pages
+19. ☐ **Accusés de réception LRAR (29/06/2026 — adressés à l'ancien exploitant LMG) : **[L'Ancien Président de l'Exploitation](../../../../Memory/Tokens/token-ancien-president-exploitation.md)**, **[L'Ancienne Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)**, **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**** — 3 pages
 
 20. ☐ **Copies LRAR adressées au salon le 29/06/2026** — 4 pages
 

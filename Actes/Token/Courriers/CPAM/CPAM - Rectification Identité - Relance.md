@@ -87,7 +87,7 @@ Service Recours Contre Tiers
 
 Madame, Monsieur le gestionnaire,
 
-Je me permets de vous contacter dans le cadre du dossier de recours contre tiers référencé sous le numéro **[**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)**, ouvert par vos services à la suite de mon accident corporel grave survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au 22 rue Lafaurie, 09000 Foix.
+Je me permets de vous contacter dans le cadre du dossier de recours contre tiers référencé sous le numéro **[**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)**, ouvert par vos services à la suite de mon accident corporel grave survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au 22 Rue Lafaurie, 09000 Foix.
 
 Lors de ma déclaration initiale de sinistre enregistrée le **[J+5 Ouverture CPAM](../../../../Memory/Tokens/token-j-5-ouverture-cpam.md)**, je déclarais de bonne foi la société **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** (SIREN 938 033 222) comme exploitante des locaux et tiers responsable de mon accident. Cette information découlait de mes premières recherches publiques sur internet.
 

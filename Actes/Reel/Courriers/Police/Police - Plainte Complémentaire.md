@@ -112,9 +112,9 @@ Au moment de cette première plainte, je croyais sincèrement que la société e
 
 - la direction de la **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** (LRAR n° [87001424863012T](../../../../Memory/Tokens/token-lrar-exploitant.md)), revenue NPAI avec la mention « En cours de retour à l'expéditeur » le 20 juillet ;
 
-- au président de cette société, **[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)** (LRAR n° [87001424862879J](../../../../Memory/Tokens/token-lrar-president.md)), mise en attente de retrait à Toulouse RP jusqu'au 21 juillet ;
+- au président de cette société, **[Sabir MOUNTASSER](../../../../Memory/Tokens/token-ancien-president-exploitation.md)** (LRAR n° [**[N° LRAR Ancien Président]**](../../../../Memory/Tokens/token-lrar-ancien-president.md)), mise en attente de retrait à Toulouse RP jusqu'au 21 juillet ;
 
-- à la directrice générale de cette société, **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** (LRAR n° [87001424721856G](../../../../Memory/Tokens/token-lrar-directrice.md)), revenue NPAI le 2 juillet ;
+- à la directrice générale de cette société, **[Catherine ANDISSAC](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)** (LRAR n° [**[N° LRAR Ancienne Directrice]**](../../../../Memory/Tokens/token-lrar-ancienne-directrice.md)), revenue NPAI le 2 juillet ;
 
 - ainsi qu'au propriétaire bailleur des locaux, **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** (LRAR n° [87001424862462Y](../../../../Memory/Tokens/token-lrar-proprietaire.md)), dont l'avis de réception numérique a été signé le 2 juillet, pour lui demander les coordonnées de l'assurance de responsabilité civile de l'exploitant.
 
@@ -125,7 +125,7 @@ Parallèlement, dès le 1er juin 2026, j'ai également signalé les faits à la 
 
 ## 3 — Éléments nouveaux : réponse du bailleur et extraits officiels (INPI / RNE / SIRENE)
 
-À la suite de ces courriers, j'ai reçu, le 16 juillet 2026, un courriel de **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**, propriétaire des locaux du 22 rue / Grande Rue La Faurie à Foix. Dans ce message, M. **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** m'indique notamment que :
+À la suite de ces courriers, j'ai reçu, le 16 juillet 2026, un courriel de **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**, propriétaire des locaux du 22 Rue Lafaurie à Foix. Dans ce message, M. **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** m'indique notamment que :
 
 - la **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** a quitté les lieux et a procédé à un état des lieux de sortie le 10 mars 2026 ;
 
@@ -144,7 +144,7 @@ Suite à cette réponse, j'ai consulté les registres officiels (Registre nation
 | Début d'activité de l'établissement | 22 avril 2026 |
 | Activité principale | Coiffure / barbier |
 
-Il ressort donc de ces documents que depuis le 22 avril 2026, soit bien avant mon accident du 29 mai 2026, le salon de coiffure situé 22 rue / Grande Rue La Faurie à Foix est exploité par la **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et non plus par la **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)**, qui avait quitté les lieux le 10 mars 2026.
+Il ressort donc de ces documents que depuis le 22 avril 2026, soit bien avant mon accident du 29 mai 2026, le salon de coiffure situé 22 Rue Lafaurie à Foix est exploité par la **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et non plus par la **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)**, qui avait quitté les lieux le 10 mars 2026.
 
 En parallèle, j'ai obtenu la liste des souscripteurs et un certificat de dépôt de fonds établis lors de la constitution de la **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, confirmant l'identité de ses dirigeants et de ses associés.
 
@@ -227,7 +227,7 @@ Au vu de ces éléments nouveaux, je sollicite respectueusement de vos services 
 
 ### 5.1 — Prise en compte officielle de la correction d'identité de la société exploitante
 
-Que la procédure en cours soit complétée pour viser la **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)) comme société exploitant le salon de coiffure au 22 rue / Grande Rue La Faurie à Foix au jour de l'accident du 29 mai 2026, en lieu et place de la **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)**, qui avait quitté les lieux le 10 mars 2026.
+Que la procédure en cours soit complétée pour viser la **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)) comme société exploitant le salon de coiffure au 22 Rue Lafaurie à Foix au jour de l'accident du 29 mai 2026, en lieu et place de la **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)**, qui avait quitté les lieux le 10 mars 2026.
 
 ### 5.2 — Poursuite de l'enquête pour blessures involontaires et manquements à l'obligation de sécurité
 

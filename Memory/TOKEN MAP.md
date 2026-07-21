@@ -10,6 +10,7 @@ type: memory
 
 # TABLE DE SUBSTITUTION<br>Anonymisation (tokens V2)
 
+<a id="personnes-physiques"></a>
 ## Personnes physiques {#personnes-physiques}
 | Texte original | Token |
 |---|---|
@@ -17,8 +18,12 @@ type: memory
 | Sébastien GRAZIDE / Grazide / GRAZIDE | [**[La Victime]**](Tokens/token-victime-nom-complet.md) |
 <a id="token-le-president-de-l-exploitation"></a>
 | Hamza El Hachemi BERGUIGA / BERGUIGA | [**[Le Président de l'Exploitation]**](Tokens/token-exploitation-president-nom.md) |
+<a id="token-l-ancien-president-de-l-exploitation"></a>
+| Sabir MOUNTASSER / MOUNTASSER / Mountasser Sabir | [**[L'Ancien Président de l'Exploitation]**](Tokens/token-ancien-president-exploitation.md) |
 <a id="token-la-directrice-generale-de-l-exploitation"></a>
-| Catherine ANDISSAC / SORROCHE / Catherine Andissac / Catherine Sorroche | [**[La Directrice Générale de l'Exploitation]**](Tokens/token-exploitation-dg-nom.md) |
+| Catherine SORROCHE (née ANDISSAC) | [**[La Directrice Générale de l'Exploitation]**](Tokens/token-exploitation-dg-nom.md) | ⚠ DG de HB BARBER (exploitant au jour de l'accident) |
+<a id="token-l-ancienne-directrice-generale-de-l-exploitation"></a>
+| Catherine ANDISSAC | [**[L'Ancienne Directrice Générale de l'Exploitation]**](Tokens/token-ancienne-directrice-generale-exploitation.md) | Ancienne DG de LMG (jusqu'au 10/03/2026) |
 <a id="token-le-prepose-de-l-exploitation"></a>
 | Ayoub Bennourine / BENNOURINE | [**[Le Préposé de l'Exploitation]**](Tokens/token-exploitation-prepose-nom.md) |
 <a id="token-le-prenom-du-prepose"></a>
@@ -50,6 +55,7 @@ type: memory
 <a id="token-l-etablissement-sos-main"></a>
 | Clinique de l'Union | [**[L'Établissement SOS Main]**](Tokens/token-hopital-sosmain-nom.md) | |
 
+<a id="donnees-localisantes"></a>
 ## Données localisantes / identifiantes {#donnees-localisantes}
 | Texte original | Token |
 |---|---|
@@ -84,7 +90,9 @@ type: memory
 <a id="token-l-identifiant-professionnel-de-la-victime"></a>
 | 500 474 457 | [**[L'Identifiant Professionnel de la Victime]**](Tokens/token-victime-id-professionnel.md) |
 <a id="token-l-identifiant-de-l-exploitation"></a>
-| 104 103 262 00010 | [**[L'Identifiant de l'Exploitation]**](Tokens/token-exploitation-id.md) |
+| 104 103 262 00010 | [**[L'Identifiant de l'Exploitation]**](Tokens/token-exploitation-id.md) | ⚠ SIRET de HB BARBER (exploitant réel au 29/05/2026) |
+<a id="token-l-ancien-identifiant-de-l-exploitation"></a>
+| 938 033 222 00010 | [**[L'Ancien Identifiant de l'Exploitation]**](Tokens/token-ancien-exploitation-id.md) | Ancien SIRET de LMG (jusqu'au 10/03/2026) |
 <a id="token-siren-de-l-exploitation"></a>
 | 104 103 262 | [**[SIREN de l'Exploitation]**](Tokens/token-exploitation-siren.md) |
 <a id="token-capital-social-de-l-exploitation"></a>
@@ -97,8 +105,9 @@ type: memory
 <a id="token-siret-de-l-exploitation"></a>
 | 104 103 262 00010 | [**[SIRET de l'Exploitation]**](Tokens/token-exploitation-siret.md) |
 | 87001424863012T | [**[N° LRAR Exploitant]**](Tokens/token-lrar-exploitant.md) |
-| 87001424862879J | [**[N° LRAR Président]**](Tokens/token-lrar-president.md) |
-| 87001424721856G | [**[N° LRAR Directrice]**](Tokens/token-lrar-directrice.md) |
+| 87001424862879J | [**[N° LRAR Ancien Président]**](Tokens/token-lrar-ancien-president.md) | ⚠ LRAR du 29/06/2026 adressée à Sabir MOUNTASSER (ancien président LMG) |
+| 875001528942001 | [**[N° LRAR Président]**](Tokens/token-lrar-president.md) | LRAR du 18/07/2026 adressée à Hamza BERGUIGA (président HB BARBER) |
+| 87001424721856G | [**[N° LRAR Ancienne Directrice]**](Tokens/token-lrar-ancienne-directrice.md) | ⚠ LRAR du 29/06/2026 adressée à Catherine ANDISSAC (ancienne DG LMG) |
 | 87001424862462Y | [**[N° LRAR Propriétaire]**](Tokens/token-lrar-proprietaire.md) |
 | 87001424923505I | [**[N° LRAR Parquet]**](Tokens/token-lrar-parquet.md) |
 | 87500152771696F | [**[N° LRAR Exploitant (HB)]**] |

@@ -17,8 +17,6 @@ reel_path: ../../../Reel/Courriers/Mairie/Mairie - Maire de Foix - Courrier.md
 jx: J+41
 calendar_event_id: gqu5r7mbuh6570913b2nisi7t8
 ---
-<!-- LRAR -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Mairie](./README.md)*
 <hr>
@@ -42,7 +40,7 @@ Mairie de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le 9 juillet 2026
+**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 9 juillet 2026
 <!-- /Date -->
 
 ---

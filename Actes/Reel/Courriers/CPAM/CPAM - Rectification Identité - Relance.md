@@ -87,7 +87,7 @@ Service Recours Contre Tiers
 
 Madame, Monsieur le gestionnaire,
 
-Je me permets de vous contacter dans le cadre du dossier de recours contre tiers référencé sous le numéro **31727387**, ouvert par vos services à la suite de mon accident corporel grave survenu le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au 22 rue Lafaurie, 09000 Foix.
+Je me permets de vous contacter dans le cadre du dossier de recours contre tiers référencé sous le numéro **31727387**, ouvert par vos services à la suite de mon accident corporel grave survenu le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au 22 Rue Lafaurie, 09000 Foix.
 
 Lors de ma déclaration initiale de sinistre enregistrée le **[3 juin 2026](../../../../Memory/Tokens/token-j-5-ouverture-cpam.md)**, je déclarais de bonne foi la société **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** (SIREN 938 033 222) comme exploitante des locaux et tiers responsable de mon accident. Cette information découlait de mes premières recherches publiques sur internet.
 

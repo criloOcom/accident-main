@@ -234,7 +234,7 @@ Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../Rapports/RAPPORT_AVOCAT_DINTILHAC
 |---------|--------------|-----------|----------------------|
 | `87001424863012T` | **[L'Exploitant du Commerce (La SAS)]** (mise en demeure J+31) | 29/06/2026 | En cours de retour à l'expéditeur |
 | `87001424721856G` | **[La Directrice Générale de l'Exploitation]** (mise en demeure J+31) | 29/06/2026 | En cours de retour à l'expéditeur |
-| `87001424862879J` | **[Le Président de l'Exploitation]** (mise en demeure J+31) | 29/06/2026 | En attente de retrait (FOIX R P, jusqu'au 21/07) |
+| `87001424862879J` | **[L'Ancien Président de l'Exploitation]** — Sabir MOUNTASSER (mise en demeure J+31, adressée par erreur à l'ancien président LMG) | 29/06/2026 | En attente de retrait (FOIX R P, jusqu'au 21/07) |
 | `87001424862462Y` | **[Le Propriétaire des Murs]** (M. Romain DELRIEU) | 29/06/2026 | Avis de réception numérique disponible (AR signé) |
 | `87001424923505I` | Tribunal Judiciaire de Foix (constitution de partie civile) | 29/06/2026 | Avis de réception numérique disponible |
 | `87001421903907I` | CPAM de Toulouse (dossier RCT) | 24/06/2026 | Avis de réception numérique disponible |

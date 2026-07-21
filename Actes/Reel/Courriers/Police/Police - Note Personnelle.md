@@ -16,6 +16,22 @@ reel_path: ../../../Reel/Courriers/Police/Police - Note Personnelle.md
 <hr>
 <!-- /Breadcrumb -->
 
+<!-- Auteur -->
+**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+Commissariat de Police de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**  
+Place de la Préfecture  
+09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
+<!-- /Destinataire -->
+
+<!-- Date -->
+**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 17 juillet 2026
+<!-- /Date -->
+
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](./Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # NOTE PERSONNELLE
@@ -132,11 +148,11 @@ _Séances de kiné : 30 juin, 1er, 3, 4, 7, 8, 10, 11, 14, 15, 17 juillet 2026 (
 
 J'envoie plusieurs lettres recommandées avec accusé de réception :
 
-1. **LRAR à SAS HB BARBER (22 rue Lafaurie, 09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**) : déclaration d'accident, demande des coordonnées de l'assurance responsabilité civile professionnelle, sur le fondement de l'article L.124-3 du Code des assurances (action directe de la victime).
+1. **LRAR à [SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** (22 Rue Lafaurie, 09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**) : déclaration d'accident, demande des coordonnées de l'assurance responsabilité civile professionnelle, sur le fondement de l'article L.124-3 du Code des assurances (action directe de la victime).
 
-2. **LRAR à **[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)** Hamza El Hachemi BERGUIGA, président de la SAS : mise en demeure de communiquer les informations d'assurance, rappel du principe de la faute détachable (arrêt SATI, Cass. Com., 20 mai 2003) et de l'application de ce principe au défaut d'assurance obligatoire.
+2. **LRAR à **[Sabir MOUNTASSER](../../../../Memory/Tokens/token-ancien-president-exploitation.md)****, ancien président de la SAS LES MAUVAIS GARÇONS : mise en demeure de communiquer les informations d'assurance, rappel du principe de la faute détachable (arrêt SATI, Cass. Com., 20 mai 2003) et de l'application de ce principe au défaut d'assurance obligatoire.
 
-3. **LRAR à **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** (née **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**)**, directrice générale : même objet, même fondement juridique.
+3. **LRAR à **[Catherine ANDISSAC](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)** **, ancienne directrice générale de la SAS LES MAUVAIS GARÇONS : même objet, même fondement juridique.
 
 4. **LRAR à Romain DELRIEU, propriétaire bailleur (17 Rue de la Baïse, 31120 ROQUETTES) : demande de communication des coordonnées de l'assurance de l'exploitant, sur le fondement des articles 1719 et 1720 du Code civil (obligations du bailleur) et de l'article L.124-3 du Code des assurances.
 
@@ -144,9 +160,9 @@ J'envoie plusieurs lettres recommandées avec accusé de réception :
 
 | Date | Destinataire | Suivi | Statut |
 |:----:|-------------|:-----:|:------:|
-| 29/06 | **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, 22 rue Lafaurie, **[Foix](../../../../Memory/Tokens/token-accident-ville.md)** | 1A 123 456 7890 1 | **Non réclamé** — revenu à l'envoyeur |
-| 29/06 | **[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)** **[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)**, 4 place de la Libération, **[Foix](../../../../Memory/Tokens/token-accident-ville.md)** | 1A 123 456 7891 8 | **Non réclamé** — revenu à l'envoyeur |
-| 29/06 | **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** (**[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**), 25 chemin Bel Air, Verniolle | 1A 123 456 7892 5 | **Non réclamé** — revenu à l'envoyeur |
+| 29/06 | **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)**, 22 Rue Lafaurie, **[Foix](../../../../Memory/Tokens/token-accident-ville.md)** | 1A 123 456 7890 1 | **Non réclamé** — revenu à l'envoyeur |
+| 29/06 | **[Sabir MOUNTASSER](../../../../Memory/Tokens/token-ancien-president-exploitation.md)**, 108 Avenue Paul Bert, **[Foix](../../../../Memory/Tokens/token-accident-ville.md)** | 1A 123 456 7891 8 | **Non réclamé** — revenu à l'envoyeur |
+| 29/06 | **[Catherine ANDISSAC](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)**, 25 chemin Bel Air, Verniolle | 1A 123 456 7892 5 | **Non réclamé** — revenu à l'envoyeur |
 | 29/06 | **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**, 17 Rue de la Baïse, Roquettes | 1A 123 456 7893 2 | **Distribué** le 03/07/2026 — réponse reçue le 16/07/2026 |
 
 **Je remets aux enquêteurs les originaux de ces AR et copies des courriers.**
