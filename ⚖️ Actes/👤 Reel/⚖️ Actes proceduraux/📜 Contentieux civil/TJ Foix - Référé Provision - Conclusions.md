@@ -6,16 +6,20 @@ type: readme
 date: 2026-07-07
 tags:
 - conclusions
+
 - référé
+
 - provision
+
 - art.835 CPC
+
 - art.145 CPC
+
 - version Glose
 statut: final
 destinataire: Juge des Référés du Tribunal Judiciaire
 auteur: La Victime
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision
-  - Conclusions.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Conclusions.md
 jx: J+39
 ---
 <!-- Signature -->

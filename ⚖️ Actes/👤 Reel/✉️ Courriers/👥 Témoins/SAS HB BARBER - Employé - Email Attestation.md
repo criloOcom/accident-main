@@ -7,12 +7,14 @@ type: courrier
 date: 2026-07-06
 tags:
 - email
+
 - attestation
+
 - temoin
 statut: brouillon
 destinataire: Employé(e) du salon présent(e) le 29 mai 2026
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/👥 Témoins/Employé - Email Attestation.md
+reel_path: ../../../👤 Reel/✉️ Courriers/👥 Témoins/SAS HB BARBER - Employé - Email Attestation.md
 source: local
 jx: J+38
 ---

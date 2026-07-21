@@ -10,8 +10,7 @@ statut: envoye
 lrar_number: '875001528942001'
 destinataire: Le Président de l'Exploitation
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS HB BARBER - Président -
-  Courrier.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS HB BARBER - Président - Courrier.md
 ---
 <!-- PJ -->
 <!-- LRAR -->

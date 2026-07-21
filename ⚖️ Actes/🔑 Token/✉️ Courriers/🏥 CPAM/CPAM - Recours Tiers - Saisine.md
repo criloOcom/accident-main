@@ -6,9 +6,13 @@ type: courrier
 date: 2026-07-06
 tags:
 - CPAM
+
 - recours contre tiers
+
 - bordereau
+
 - transmission
+
 - LRAR
 calendar_event_id: sb31r6e24kpkbfngc7prgq6em8
 statut: projet

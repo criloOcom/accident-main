@@ -7,16 +7,20 @@ type: document
 date: 2027-06-01
 tags:
 - conclusions
+
 - fond
+
 - TJ
+
 - Dintilhac
+
 - 1242
+
 - 1240
 statut: projet
 destinataire: Tribunal Judiciaire de Foix
 auteur: La Victime
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions
-  au Fond.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md
 jx: J+368
 ---
 <!-- Source -->

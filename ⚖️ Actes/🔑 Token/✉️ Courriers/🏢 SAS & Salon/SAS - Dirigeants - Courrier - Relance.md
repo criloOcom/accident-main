@@ -6,17 +6,21 @@ type: courrier
 date: 2026-07-08
 tags:
 - relance
+
 - dirigeants
+
 - assurance
+
 - LRAR
+
 - fermeture boutique
+
 - preuves
 calendar_event_id: hj1d12jfdubeuoavj7sq548i2o
 statut: envoye
 destinataire: Dirigeants de l'Exploitant du Commerce
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Dirigeants - Courrier
-  - Relance.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Dirigeants - Courrier - Relance.md
 source: local
 jx: J+40
 ---

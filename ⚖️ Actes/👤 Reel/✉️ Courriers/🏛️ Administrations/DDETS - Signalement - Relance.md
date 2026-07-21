@@ -7,9 +7,13 @@ type: courrier
 date: 2026-07-15
 tags:
 - inspection du travail
+
 - DDETS
+
 - enquete
+
 - signalement
+
 - CRPA
 statut: final
 destinataire: DDETS de l'Ariège — Inspection du Travail

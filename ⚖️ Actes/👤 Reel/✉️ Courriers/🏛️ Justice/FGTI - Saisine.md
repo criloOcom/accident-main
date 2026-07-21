@@ -6,11 +6,17 @@ type: courrier
 date: 2026-07-06
 tags:
 - FGTI
+
 - garantie
+
 - saisine
+
 - conservatoire
+
 - CPC
+
 - LRAR
+
 - email
 statut: archive
 destinataire: FGTI

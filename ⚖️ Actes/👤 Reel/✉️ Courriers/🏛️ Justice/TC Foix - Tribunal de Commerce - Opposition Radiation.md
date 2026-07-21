@@ -6,15 +6,18 @@ type: courrier
 date: 2026-07-09
 tags:
 - Tribunal de Commerce
+
 - opposition
+
 - radiation
+
 - SAS
+
 - LRAR
 statut: final
 destinataire: Tribunal de Commerce de Foix
 auteur: Nom de l'Avocat de la Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/Tribunal de Commerce - Opposition
-  Radiation.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/TC Foix - Tribunal de Commerce - Opposition Radiation.md
 jx: J+41
 ---
 <!-- Signature -->

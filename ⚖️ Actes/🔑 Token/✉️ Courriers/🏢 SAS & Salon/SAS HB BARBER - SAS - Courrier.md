@@ -6,13 +6,16 @@ type: courrier
 date: 2026-06-29
 tags:
 - mise en demeure
+
 - SAS
+
 - assurance
+
 - LRAR
 statut: envoye
 destinataire: L'Exploitant du Commerce (La SAS)
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Courrier.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS HB BARBER - SAS - Courrier.md
 source: drive
 drive_id: 1s5_z0l9yti3Ir6yBGH5xlZE-2LMs8uMJGlVcQA_sHKc
 calendar_event_id: 5eptrv07lh40rmvir7mttd88s0

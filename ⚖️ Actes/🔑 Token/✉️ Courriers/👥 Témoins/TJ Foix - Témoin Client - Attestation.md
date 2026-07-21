@@ -9,7 +9,7 @@ tags:
 calendar_event_id: gaitgj8isroeqorobg9j9ghf4c
 statut: projet
 auteur: La Victime
-reel_path: ../../../👤 Reel/📋 Attestations/Témoin Client - Attestation.md
+reel_path: ../../../👤 Reel/✉️ Courriers/👥 Témoins/TJ Foix - Témoin Client - Attestation.md
 source: drive
 drive_id: 1mLVji0_j8CTh2TjPr7bXAkoBaR2NmWEH89KXTk7Xbk4
 destinataire: Tribunal Judiciaire de Foix / Commissariat de Foix

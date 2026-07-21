@@ -7,17 +7,21 @@ type: courrier
 date: 2026-07-19
 tags:
 - mise en demeure
+
 - bailleur
+
 - LRAR
+
 - accident corporel
+
 - action directe
+
 - SAS HB BARBER
 statut: envoye
 lrar_number: 87500152910287Q
 destinataire: Le Propriétaire des Murs
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏠 Propriétaire/Propriétaire - Courrier - Relance
-  3.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏠 Propriétaire/Propriétaire - Courrier - Relance 3.md
 source: local
 jx: J+51
 signataire: '[La Victime] (envoi sans signature manuscrite)'

@@ -6,10 +6,15 @@ type: courrier
 date: 2026-07-20
 tags:
 - plainte
+
 - complémentaire
+
 - correction
+
 - hb-barber
+
 - blessures-involontaires
+
 - police
 calendar_event_id: tqegc9g9t96hp2td1oo3iqtqd8
 statut: preparation

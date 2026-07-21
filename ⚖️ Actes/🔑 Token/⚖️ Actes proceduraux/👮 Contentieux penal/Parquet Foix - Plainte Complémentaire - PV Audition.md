@@ -7,10 +7,15 @@ type: document
 date: 2026-07-15
 tags:
 - pv
+
 - audition
+
 - plainte
+
 - complémentaire
+
 - obstruction
+
 - police
 statut: final
 auteur: Commissariat de Foix
@@ -18,8 +23,7 @@ destinataire: Procureur de la République
 personnes:
 - '**[La Victime]**'
 jx: J+47
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire
-  - PV Audition.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Plainte Complémentaire - PV Audition.md
 ---
 <!-- Source -->
 <!-- PJ -->

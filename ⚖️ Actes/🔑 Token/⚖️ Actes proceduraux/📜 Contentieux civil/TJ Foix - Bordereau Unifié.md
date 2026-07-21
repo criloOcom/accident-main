@@ -7,13 +7,14 @@ type: readme
 date: 2026-07-07
 tags:
 - bordereau
+
 - pieces
+
 - référé
 statut: final
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau
-  Unifié.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md
 source: drive
 jx: J+39
 ---

@@ -6,16 +6,20 @@ type: courrier
 date: 2026-06-29
 tags:
 - mise en demeure
+
 - dirigeante
+
 - directrice générale
+
 - assurance
+
 - faute détachable
+
 - LRAR
 statut: envoye
 destinataire: Directrice Générale de l'Exploitant du Commerce
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Directrice Générale -
-  Courrier.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Directrice Générale - Courrier.md
 source: drive
 drive_id: 1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93
 calendar_event_id: eicgcrnb2ir9bf072kennpm1ls

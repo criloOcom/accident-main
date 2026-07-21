@@ -6,14 +6,17 @@ type: courrier
 date: 2026-07-06
 tags:
 - constitution
+
 - partie civile
+
 - juge instruction
+
 - envoi
 calendar_event_id: smthlv0a5arakof0m4rv80qgkc
 statut: envoye
 destinataire: Doyen des Juges d'Instruction de **[La Ville de l'Accident]**
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/Doyen des Juges - Saisine.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/DJI Foix - Doyen des Juges - Saisine.md
 source: drive
 drive_id: 1nFSf3EDB_bVudz5Xhf0NvXlibTesCL8M5hepEZqxd5w
 jx: J+38

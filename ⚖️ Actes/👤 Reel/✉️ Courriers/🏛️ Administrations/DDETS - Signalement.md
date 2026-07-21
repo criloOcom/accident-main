@@ -6,8 +6,11 @@ type: courrier
 date: 2026-07-05
 tags:
 - inspection du travail
+
 - enquete
+
 - securite
+
 - DUERP
 calendar_event_id: ncdv7eqhn6njck42v7sdcuelak
 statut: final

@@ -7,8 +7,11 @@ type: courrier
 date: 2026-07-15
 tags:
 - CADA
+
 - formulaire
+
 - CRPA
+
 - version_courte
 statut: brouillon
 destinataire: CADA (formulaire en ligne)

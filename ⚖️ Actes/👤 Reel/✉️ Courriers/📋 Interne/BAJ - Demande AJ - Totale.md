@@ -7,10 +7,15 @@ type: courrier
 date: 2026-07-18
 tags:
 - AJ
+
 - aide juridictionnelle
+
 - formulaire
+
 - urgence
+
 - baJ
+
 - foix
 calendar_event_id: ipivj4ul5rls1hrk1kqh9b0c6c
 statut: final

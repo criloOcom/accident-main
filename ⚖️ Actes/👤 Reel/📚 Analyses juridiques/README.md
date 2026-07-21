@@ -1,21 +1,39 @@
 # Index — 📚 Analyses juridiques (Versions Réelles)
 
 - [Mémoire - En défense adverse.md](M%C3%A9moire%20-%20En%20d%C3%A9fense%20adverse.md)
+
 - [Note - Analyse Responsabilités Légales.md](Note%20-%20Analyse%20Responsabilit%C3%A9s%20L%C3%A9gales.md)
+
 - [Note - Audit RNE NPAI SAS.md](Note%20-%20Audit%20RNE%20NPAI%20SAS.md)
+
 - [Note - Changelog Juridique.md](Note%20-%20Changelog%20Juridique.md)
+
 - [Note - Conservation Preuves Numériques.md](Note%20-%20Conservation%20Preuves%20Num%C3%A9riques.md)
+
 - [Note - Dossier Plaidoirie Référé.md](Note%20-%20Dossier%20Plaidoirie%20R%C3%A9f%C3%A9r%C3%A9.md)
+
 - [Note - Droit des Assurances.md](Note%20-%20Droit%20des%20Assurances.md)
+
 - [Note - FAQ Juridique.md](Note%20-%20FAQ%20Juridique.md)
+
 - [Note - Mesures Conservatoires.md](Note%20-%20Mesures%20Conservatoires.md)
+
 - [Note - Mémo Axes Juridiques Avocat.md](Note%20-%20M%C3%A9mo%20Axes%20Juridiques%20Avocat.md)
+
 - [Note - Mémo Stratégie Admin Pénal.md](Note%20-%20M%C3%A9mo%20Strat%C3%A9gie%20Admin%20P%C3%A9nal.md)
+
 - [Note - Plaidoirie Responsabilité Dirigeants.md](Note%20-%20Plaidoirie%20Responsabilit%C3%A9%20Dirigeants.md)
+
 - [Note - Qualification Pénale Disparition SAS.md](Note%20-%20Qualification%20P%C3%A9nale%20Disparition%20SAS.md)
+
 - [Note - Responsabilité des Dirigeants.md](Note%20-%20Responsabilit%C3%A9%20des%20Dirigeants.md)
+
 - [Note - Stratégie Jurisprudentielle.md](Note%20-%20Strat%C3%A9gie%20Jurisprudentielle.md)
+
 - [Note - Synthèse Avocat Bascule HB BARBER.md](Note%20-%20Synth%C3%A8se%20Avocat%20Bascule%20HB%20BARBER.md)
+
 - [Note - Tableau Défense Réponse.md](Note%20-%20Tableau%20D%C3%A9fense%20R%C3%A9ponse.md)
+
 - [📜 Mémoire de synthèse — Recours assurances ERP.md](%F0%9F%93%9C%20M%C3%A9moire%20de%20synth%C3%A8se%20%E2%80%94%20Recours%20assurances%20ERP.md)
+
 - [📜 Note — Procédure Action Directe Assureur L124-3.md](%F0%9F%93%9C%20Note%20%E2%80%94%20Proc%C3%A9dure%20Action%20Directe%20Assureur%20L124-3.md)

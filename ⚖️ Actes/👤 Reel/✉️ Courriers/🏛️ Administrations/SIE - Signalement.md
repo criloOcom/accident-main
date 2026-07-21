@@ -6,9 +6,13 @@ type: courrier
 date: 2026-07-05
 tags:
 - SIE
+
 - impot
+
 - information
+
 - litige
+
 - LRAR
 statut: projet
 destinataire: Service des Impôts des Entreprises de Foix

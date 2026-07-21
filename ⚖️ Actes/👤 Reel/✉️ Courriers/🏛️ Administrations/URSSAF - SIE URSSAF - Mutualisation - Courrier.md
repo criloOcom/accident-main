@@ -6,17 +6,21 @@ type: courrier
 date: 2026-07-09
 tags:
 - SIE
+
 - URSSAF
+
 - mutualisation
+
 - fraude
+
 - LPF
+
 - LRAR
 statut: projet
 destinataire: Service des Impôts des Entreprises de Foix et
   URSSAF Midi-Pyrenees
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/SIE URSSAF - Mutualisation
-  - Courrier.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/URSSAF - SIE URSSAF - Mutualisation - Courrier.md
 source: local
 jx: J+41
 calendar_event_id: 9ortbnkvp8it8hnebif5fr4bec

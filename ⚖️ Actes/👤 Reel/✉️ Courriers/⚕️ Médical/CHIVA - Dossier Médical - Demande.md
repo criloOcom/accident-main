@@ -7,9 +7,13 @@ type: courrier
 date: 2026-07-18
 tags:
 - medical
+
 - dossier medical
+
 - chiva
+
 - urgences
+
 - LRAR
 statut: envoye
 lrar_number: 87500152888336B

@@ -27,6 +27,10 @@ type: readme
 - [Témoin Client - Attestation](Attestation%20-%20Témoin%20Client.md)
 
 - [Attestation - Témoin Mathieu Frédéric](Attestation%20-%20Témoin%20Mathieu%20Frédéric.md)
+
+- [Employé - Attestation](Employé%20-%20Attestation.md)
+
+- [Témoin Client - Attestation](Témoin%20Client%20-%20Attestation.md)
 ---
 
 > **Dernière mise à jour :** 19 juillet 2026

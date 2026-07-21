@@ -8,18 +8,24 @@ type: projet
 date: 2026-07-15
 tags:
 - pénal
+
 - réquisitoire
+
 - simulation
+
 - blessures involontaires
+
 - mise en danger
+
 - information
+
 - expertise
+
 - consolidation
 statut: projet
 destinataire: Doyen des Juges d'Instruction
 auteur: Procureur de la République
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire
-  Introductif.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - Parquet - Réquisitoire Introductif.md
 source: drive
 drive_id: À compléter
 jx: J+47

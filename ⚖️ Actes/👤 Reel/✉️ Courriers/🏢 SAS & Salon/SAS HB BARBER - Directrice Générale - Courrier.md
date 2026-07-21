@@ -10,8 +10,7 @@ statut: envoye
 lrar_number: '875001528942010'
 destinataire: La Directrice Générale de l'Exploitation
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS HB BARBER - Directrice Générale
-  - Courrier.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS HB BARBER - Directrice Générale - Courrier.md
 ---
 <!-- PJ -->
 <!-- LRAR -->

@@ -7,10 +7,15 @@ type: courrier
 date: 2026-07-15
 tags:
 - prefecture
+
 - CODAF
+
 - signalement
+
 - maire
+
 - suivi
+
 - CRPA
 statut: final
 destinataire: Préfecture de l'Ariège — Référent CODAF

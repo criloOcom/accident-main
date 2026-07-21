@@ -8,16 +8,20 @@ juridiction: TJ Foix
 date: 2026-07-20
 tags:
 - projet
+
 - ordonnance sur requête
+
 - article 145
+
 - hb-barber
+
 - mesures instruction
+
 - astreinte
 calendar_event_id: tqegc9g9t96hp2td1oo3iqtqd8
 statut: projet
 auteur: Projet — Juge des requêtes du TJ Foix
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance
-  sur Requête.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - CPC 145 - Ordonnance sur Requête.md
 jx: J+52
 destinataire: Tribunal Judiciaire de Foix
 ---

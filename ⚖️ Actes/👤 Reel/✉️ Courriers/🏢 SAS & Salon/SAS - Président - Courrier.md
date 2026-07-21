@@ -6,9 +6,13 @@ type: courrier
 date: 2026-06-29
 tags:
 - mise en demeure
+
 - dirigeants
+
 - assurance
+
 - faute détachable
+
 - LRAR
 statut: envoye
 destinataire: Dirigeants de l'Exploitant du Commerce

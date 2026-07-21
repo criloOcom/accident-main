@@ -6,16 +6,19 @@ type: readme
 date: 2026-06-30
 tags:
 - assignation
+
 - référé
+
 - provision
+
 - expertise médicale
+
 - article 145
 statut: final
 destinataire: Tribunal Judiciaire de Foix
 audience: 2026-07-31
 auteur: La Victime
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision
-  - Assignation.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Assignation.md
 source: drive
 drive_id: 1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg
 calendar_event_id: sr9bmf225pfn9fjfn6r4d740a8

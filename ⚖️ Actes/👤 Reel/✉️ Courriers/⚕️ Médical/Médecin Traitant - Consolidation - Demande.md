@@ -6,15 +6,17 @@ type: courrier
 date: 2026-07-05
 tags:
 - certificat de consolidation
+
 - medical
+
 - expertise
+
 - DFP
 calendar_event_id: mub8b2p6evslc099cbq9lobcas
 statut: projet
 destinataire: Le Chirurgien SOS Main
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/⚕️ Médical/Médecin Traitant - Consolidation
-  - Demande.md
+reel_path: ../../../👤 Reel/✉️ Courriers/⚕️ Médical/Médecin Traitant - Consolidation - Demande.md
 source: drive
 drive_id: 1PSv6c0YFvLa0WDEbwc3AVxL14z7ARi5ne50ctJgCvWI
 jx: J+37

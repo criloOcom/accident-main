@@ -7,18 +7,24 @@ type: projet
 date: 2026-09-01
 tags:
 - simulation
+
 - action directe
+
 - assurance
+
 - mise en demeure
+
 - avocat
+
 - L.124-3
+
 - expertise
+
 - provision
 statut: projet
 destinataire: Assureur RC de l'Exploitant du Commerce
 auteur: Conseil de la Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Assureur RC - Courrier
-  (copie Avocat).md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Assureur RC - Courrier (copie Avocat).md
 jx: J+50-bis
 ---
 <!-- PJ -->

@@ -6,15 +6,18 @@ type: courrier
 date: 2026-07-09
 tags:
 - INPI
+
 - opposition
+
 - immatriculation
+
 - fraude
+
 - RNE
 statut: projet
 destinataire: INPI
 auteur: Nom de l'Avocat de la Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/INPI - Immatriculation
-  - Opposition.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/INPI - Immatriculation - Opposition.md
 jx: J+41
 ---
 <!-- Signature -->

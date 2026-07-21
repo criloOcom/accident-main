@@ -6,8 +6,11 @@ type: courrier
 date: 2026-07-05
 tags:
 - CODAF
+
 - signalement
+
 - fraude
+
 - LRAR
 calendar_event_id: ncdv7eqhn6njck42v7sdcuelak
 statut: final

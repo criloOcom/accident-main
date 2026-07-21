@@ -8,10 +8,15 @@ type: courrier
 date: 2026-07-15
 tags:
 - CADA
+
 - CRPA
+
 - refus
+
 - documents administratifs
+
 - préfecture
+
 - inspection du travail
 statut: brouillon
 destinataire: Commission d'accès aux documents administratifs (CADA)

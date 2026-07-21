@@ -6,8 +6,11 @@ type: courrier
 date: 2026-07-12
 tags:
 - AJ
+
 - aide juridictionnelle
+
 - guide
+
 - procedure
 statut: final
 auteur: La Victime

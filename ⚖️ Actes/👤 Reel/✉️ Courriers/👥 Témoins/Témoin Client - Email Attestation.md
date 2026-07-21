@@ -7,7 +7,9 @@ type: courrier
 date: 2026-07-06
 tags:
 - email
+
 - attestation
+
 - temoin
 statut: brouillon
 destinataire: Témoin client présent le 29 mai 2026

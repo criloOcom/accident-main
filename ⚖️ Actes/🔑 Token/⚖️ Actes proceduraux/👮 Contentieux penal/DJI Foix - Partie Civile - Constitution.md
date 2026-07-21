@@ -8,17 +8,21 @@ type: readme
 date: 2026-07-06
 tags:
 - constitution
+
 - partie civile
+
 - penal
+
 - blessures involontaires
+
 - L.227-8
+
 - expertise
 calendar_event_id: smthlv0a5arakof0m4rv80qgkc
 statut: final
 destinataire: Doyen des Juges d'Instruction
 auteur: La Victime
-reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile
-  - Constitution.md
+reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - Partie Civile - Constitution.md
 source: drive
 drive_id: 1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg
 jx: J+38

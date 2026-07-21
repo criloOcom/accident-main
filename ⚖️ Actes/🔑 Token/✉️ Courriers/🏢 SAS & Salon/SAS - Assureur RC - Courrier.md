@@ -9,11 +9,17 @@ type: projet
 date: 2026-09-01
 tags:
 - simulation
+
 - action directe
+
 - assurance
+
 - mise en demeure
+
 - L.124-3
+
 - expertise
+
 - provision
 statut: projet
 destinataire: Assureur RC de l'Exploitant du Commerce

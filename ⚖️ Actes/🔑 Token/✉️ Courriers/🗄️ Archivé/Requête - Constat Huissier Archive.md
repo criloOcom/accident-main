@@ -7,6 +7,7 @@ type: courrier
 date: 2026-07-09
 tags:
 - obsolet
+
 - remplace_par_03
 statut: archive
 auteur: La Victime
@@ -29,7 +30,7 @@ destinataire: Inconnu
 <!-- /Breadcrumb -->
 <!-- /Destinataire -->
 
-reel_path: ../../../👤 Reel/✉️ Courriers/🗄️ Archivé/Constat Huissier - Requête Archive.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md
 
 # ⚠️ FICHIER OBSOLÈTE<br>NE PLUS UTILISER
 

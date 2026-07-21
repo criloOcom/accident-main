@@ -16,6 +16,13 @@ Ce dossier contient un fichier par statut, listant tous les documents concernés
 
 - [recueillie (2)](recueillie.md)
 
+- [01_PREPARATION](01_PREPARATION.md)
+
+- [02_PRET_POUR_ENVOI](02_PRET_POUR_ENVOI.md)
+
+- [03_ENVOYE](03_ENVOYE.md)
+
+- [envoye](envoye.md)
 ## Convention des statuts
 
 | Statut | Signification |

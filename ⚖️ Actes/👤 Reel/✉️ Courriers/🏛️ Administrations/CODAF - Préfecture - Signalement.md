@@ -7,16 +7,21 @@ type: courrier
 date: 2026-07-05
 tags:
 - préfecture
+
 - signalement
+
 - sécurité
+
 - ERP
+
 - CODAF
+
 - LRAR
 calendar_event_id: ncdv7eqhn6njck42v7sdcuelak
 statut: final
 destinataire: Préfecture de l'Ariège — Référent CODAF
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/Préfecture - Signalement.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/CODAF - Préfecture - Signalement.md
 source: drive
 drive_id: 1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM
 jx: J+37
