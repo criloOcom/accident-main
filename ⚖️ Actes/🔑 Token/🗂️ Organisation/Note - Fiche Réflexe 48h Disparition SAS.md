@@ -69,9 +69,9 @@ Ce n'est qu'une fois les éléments de preuve sécurisés (Constat) et les véri
 ## IV — CONCLUSION
 
 La présente fiche réflexe impose un séquencement strict : **Constat → Vérifications → Signalement → Mise en demeure**. Le non-respect de cet ordre, et particulièrement l'envoi prématuré d'une LRAR, compromettrait irrémédiablement l'effet de surprise et, *in fine*, les intérêts de **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**.
+<!-- Source -->
 <hr><hr>
 
-<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 40 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) ↩

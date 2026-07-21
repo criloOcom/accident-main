@@ -221,9 +221,9 @@ Pièces administratives :
 - [1 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md) — INSEE — Avis de situation SAS
 
 - [1 juin 2026](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md) — INPI — Fiche identité SAS
+<!-- Source -->
 <hr><hr>
 
-<!-- Source -->
 ## Sources Législation
 
 [^1]: [Fonds de Garantie (FGTI) — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)

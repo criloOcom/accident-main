@@ -168,8 +168,6 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.[^4]** <br>
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
-<hr><hr>
-
 <!-- PJ -->
 <hr><hr>
 
@@ -188,10 +186,11 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
 - **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de [La Ville de l'Accident]
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]
-<hr><hr>
 <!-- /PJ -->
 
 <!-- Source -->
+<hr><hr>
+
 ## Sources Législation
 
 [^1]: [Article 434-4 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) ↩

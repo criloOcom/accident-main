@@ -263,9 +263,9 @@ Fait a [**[La Ville de Residence de la Victime]**](../../../../%F0%9F%A7%A0%20Me
 13. LRAR adressée à **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** et son AR signé (**[J+35 AR propriétaire](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-35-ar-proprietaire.md)**)
 
 14. Rapport d'expertise médicale judiciaire du 12 juin 2027 — consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure
+<!-- Source -->
 <hr><hr>
 
-<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 222-19 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩

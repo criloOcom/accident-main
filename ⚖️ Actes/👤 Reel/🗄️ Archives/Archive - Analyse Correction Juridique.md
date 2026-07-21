@@ -128,9 +128,9 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 1. Conclusion de partie civile : Déposer des conclusions motivées devant le Tribunal correctionnel.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
+<!-- Source -->
 <hr><hr>
 
-<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)

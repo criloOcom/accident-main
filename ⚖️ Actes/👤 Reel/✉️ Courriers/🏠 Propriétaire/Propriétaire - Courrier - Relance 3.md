@@ -180,9 +180,9 @@ Sébastien GRAZIDE (envoi sans signature manuscrite)**
 <!-- /Signature -->
 
 > **NOTE ADMINISTRATIVE** : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la rédaction de la présente par un tiers et les délais d'acheminement de la présente mise en demeure.
+<!-- Source -->
 <hr><hr>
 
-<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article L.411-1 du Code de la sécurité sociale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)

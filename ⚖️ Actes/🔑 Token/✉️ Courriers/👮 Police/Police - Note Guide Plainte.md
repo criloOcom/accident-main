@@ -363,9 +363,9 @@ jx: J+47
 <hr><hr>
 
 **BONNE CHANCE !** Ce guide est conçu pour vous donner confiance et structure lors de votre entretien. Vous avez préparé un dossier solide avec des preuves tangibles. Présentez-le avec calme et professionnalisme. Les policiers sont là pour vous aider - donnez-leur les éléments pour le faire efficacement.
+<!-- Source -->
 <hr><hr>
 
-<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩

@@ -168,9 +168,9 @@ Variante « avocat » de la mise en demeure adressée à l'assureur RC, destiné
 - Version victime : [`✉️ SAS - Assureur RC - Courrier.md`](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Assureur%20RC%20-%20Courrier.md)
 
 - Réquisitoire introductif : [`Parquet - Réquisitoire Introductif.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Parquet%20-%20R%C3%A9quisitoire%20Introductif.md)
+<!-- Source -->
 <hr><hr>
 
-<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)

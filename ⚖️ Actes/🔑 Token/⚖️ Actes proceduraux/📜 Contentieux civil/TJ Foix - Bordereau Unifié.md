@@ -246,9 +246,9 @@ jx: J+39
 ### PIÈCE N° 43
 
 - **05/06/2026** — Preuve de dépôt LRAR [arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (La Poste, **[La Ville de Résidence de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**) : Décalage de date constaté (vignette 03/06, flash postal 05/06).
+<!-- Source -->
 <hr><hr>
 
-<!-- Source -->
 ## Sources Législation
 
 [^1]: [Arrêt n° 91-11.285 — www.legifrance.gouv.fr/juri/id/JURITEXT000007030228](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007030228) ↩

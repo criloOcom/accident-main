@@ -73,9 +73,9 @@ Restant à votre entière disposition,
 [L'Adresse de la Victime]
 [L'Email de la Victime]
 ```
+<!-- Source -->
 <hr><hr>
 
-<!-- Source -->
 ## Sources Législation
 
 [^1]: [art. L. 2212-2 du CGCT — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370) ↩

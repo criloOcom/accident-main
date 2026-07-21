@@ -109,9 +109,9 @@ Si [Sébastien](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/to
 4. Copie de la pièce d'identité.
 
 5. L'attestation de non-prise en charge par l'assureur (complétée par l'assureur confirmant l'absence de garantie Protection Juridique).
+<!-- Source -->
 <hr><hr>
 
-<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 202 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330)

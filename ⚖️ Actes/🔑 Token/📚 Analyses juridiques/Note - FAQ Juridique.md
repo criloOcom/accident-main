@@ -190,9 +190,9 @@ De plus, l'action directe contre l'assureur (Art. L. 124-3 du Code des assurance
 > *« La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la clôture de celle-ci. »* <br>
 > [Article L. 237-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063) <br>
 > **Code de commerce > Partie législative > Livre V > Titre IV > Chapitre IV > Section 3.[^11]**
+<!-- Source -->
 <hr><hr>
 
-<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 1641 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924) ↩

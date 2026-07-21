@@ -73,9 +73,9 @@ Sébastien GRAZIDE
 10 Avenue de Purpan, 31700 Blagnac
 sebastien.grazide@gmail.com
 ```
+<!-- Source -->
 <hr><hr>
 
-<!-- Source -->
 ## Sources Législation
 
 [^1]: [art. L. 2212-2 du CGCT — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370)

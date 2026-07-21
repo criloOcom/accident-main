@@ -279,9 +279,9 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 <hr><hr>
 
 > **Note :** ⚠️ DOCUMENT PERSONNEL — antisèche pour usage oral uniquement. Ne pas imprimer ni déposer. La version officielle à déposer est le fichier `36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md`.
+<!-- Source -->
 <hr><hr>
 
-<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)

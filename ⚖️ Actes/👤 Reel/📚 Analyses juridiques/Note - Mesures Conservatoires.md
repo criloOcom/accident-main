@@ -79,9 +79,9 @@ Afin de préserver les droits de **[Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20
 - Une saisie conservatoire des meubles corporels garnissant les locaux d'exploitation.
 
 La constitution sans délai d'un dossier probant démontrant la menace pesant sur le recouvrement est l'étape préalable et indispensable à la réussite de cette démarche.
+<!-- Source -->
 <hr><hr>
 
-<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article L.511-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026104](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026104)

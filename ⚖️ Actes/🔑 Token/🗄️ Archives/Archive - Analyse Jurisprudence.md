@@ -195,9 +195,9 @@ Les seules références doctrinales spécifiques aux salons de coiffure sont :
 
 - **Sylvie Personnic** (Village Justice) : responsabilité des salons de coiffure pour brûlures et réactions allergiques.
 Ces sources sont citées à titre de doctrine, non de jurisprudence.
+<!-- Source -->
 <hr><hr>
 
-<!-- Source -->
 ## Sources Législation
 
 [^1]: [articles 1240 et 1231-1 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩

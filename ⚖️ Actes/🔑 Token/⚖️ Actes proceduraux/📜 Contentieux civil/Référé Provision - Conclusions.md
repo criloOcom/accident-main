@@ -192,8 +192,6 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 **[Ville]**, le **[date]**
 
 **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
-<hr><hr>
-
 <!-- PJ -->
 <hr><hr>
 
@@ -210,10 +208,11 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 - **[Constat d'huissier](Constat%20Huissier%20-%20Requ%C3%AAte.md)** — Etat des lieux de la vasque litigieuse
 
 - **[Mises en demeure J+31](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Courrier.md)** — LRAR restees sans reponse
-<hr><hr>
 <!-- /PJ -->
 
 <!-- Source -->
+<hr><hr>
+
 ## Sources Législation
 
 [^1]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩

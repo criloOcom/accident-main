@@ -101,9 +101,9 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
   1. Continuer la pression pour forcer la communication d'une assurance RC. Si une assurance est trouvée, l'action directe est prioritaire.
   2. Maintenir l'expertise (12 novembre 2026).
   3. Si aucune assurance RC n'est confirmée, ou si la SAS se déclare en liquidation, **saisir immédiatement la CIVI** sans attendre l'issue du procès pénal (la CIVI peut accorder une provision sur la base de l'ITT avérée).
+<!-- Source -->
 <hr><hr>
 
-<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)

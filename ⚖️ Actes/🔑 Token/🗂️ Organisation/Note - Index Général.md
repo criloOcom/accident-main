@@ -318,9 +318,9 @@ Documents non indexés conservés dans `archives/` :
 5. **Relance SAS/dirigeants** — Seconde mise en demeure si pas de réponse au 14 juillet.
 
 6. **Preuves officielles** — Insérer les documents physiques dans `📂 Preuves officielles/`.
+<!-- Source -->
 <hr><hr>
 
-<!-- Source -->
 ## Sources Législation
 
 [^1]: [Article 835 du CPC — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) ↩

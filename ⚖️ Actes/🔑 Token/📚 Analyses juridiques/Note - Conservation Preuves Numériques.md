@@ -105,9 +105,9 @@ Il est impératif d'agir de manière proactive, avant même l'introduction de la
 2. **Conserver les URL** d'archivage dans un fichier sécurisé.
 
 3. Si la société tente de modifier ses informations publiques ou de fermer ses comptes, solliciter en urgence un **Commissaire de Justice** pour réaliser un constat d'internet, afin de garantir la force probante des éléments recueillis.
+<!-- Source -->
 <hr><hr>
 
-<!-- Source -->
 ## Sources Législation
 
 [^1]: [article 1358 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/) ↩
