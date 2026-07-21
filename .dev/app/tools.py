@@ -17,23 +17,37 @@ except ImportError:
     def get_secret(key):
         raise Exception(f"Secret {key} not found (souverain not installed)")
 
-try:
-    piste_creds = get_secret("PISTE_CREDENTIALS")
-    os.environ["PISTE_CREDENTIALS"] = piste_creds
-    os.environ["PISTE_ENV"] = "sandbox"
-except Exception as e:
-    print("Warning: Failed to setup PISTE credentials in tools initialization:", e)
+_initialized = False
+ServerLegifranceClient = None
+ServerJudilibreClient = None
 
-try:
-    from server import LegifranceClient as ServerLegifranceClient
-except ImportError:
-    ServerLegifranceClient = None
+def init():
+    global _initialized, ServerLegifranceClient, ServerJudilibreClient
+    if _initialized:
+        return
 
-try:
-    import server as judilibre_server
-    ServerJudilibreClient = judilibre_server.JudilibreClient
-except Exception:
-    ServerJudilibreClient = None
+    try:
+        piste_creds = get_secret("PISTE_CREDENTIALS")
+        os.environ["PISTE_CREDENTIALS"] = piste_creds
+        os.environ["PISTE_ENV"] = "sandbox"
+    except Exception as e:
+        print("Warning: Failed to setup PISTE credentials in tools initialization:", e)
+
+    if ServerLegifranceClient is None:
+        try:
+            from server import LegifranceClient
+            ServerLegifranceClient = LegifranceClient
+        except ImportError:
+            pass
+
+    if ServerJudilibreClient is None:
+        try:
+            import server as judilibre_server
+            ServerJudilibreClient = judilibre_server.JudilibreClient
+        except Exception:
+            pass
+
+    _initialized = True
 
 CREDS_PATH = os.path.expanduser("~/.opencode/.gdrive-server-credentials.json")
 
@@ -76,6 +90,7 @@ def _gdrive_api_request(path: str, params: Optional[dict] = None, data: Optional
 
 
 def search_jurisprudence(query: str) -> str:
+    init()
     if not ServerJudilibreClient:
         return "Erreur : Client Judilibre non disponible."
     try:
@@ -99,6 +114,7 @@ def search_jurisprudence(query: str) -> str:
 
 
 def search_law_code(query: str) -> str:
+    init()
     if not ServerLegifranceClient:
         return "Erreur : Client Légifrance non disponible."
     try:
@@ -120,6 +136,7 @@ def search_law_code(query: str) -> str:
 
 
 def get_law_article(article_id: str) -> str:
+    init()
     if not ServerLegifranceClient:
         return "Erreur : Client Légifrance non disponible."
     try:
