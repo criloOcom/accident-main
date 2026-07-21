@@ -41,7 +41,6 @@ jx: J+37
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
-**DDETS de l'Ariège**  
 <!-- Destinataire -->
 Inspection du Travail  
 Cité Administrative  
@@ -50,7 +49,7 @@ Cité Administrative
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le **[J+37 Assignation 145](../../../../Memory/Tokens/token-j-37-assignation-145.md)**  
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
 ---

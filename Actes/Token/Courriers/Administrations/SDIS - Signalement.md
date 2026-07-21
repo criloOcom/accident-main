@@ -38,19 +38,19 @@ jx: J+37
 # SIGNALEMENT DE SECURITE ERP <br> AU SDIS DE L'ARIEGE
 > 🔗 Source Google Drive : [1CCl3bFp_jkY…](https://drive.google.com/open?id=1CCl3bFp_jkYtAF8yEDNtJn5Tic8miKsxLOSGNP2peoE)
 <!-- Auteur -->
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
-
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**SDIS de l'Ariege**
-
-**[Adresse à compléter]**
+SDIS de l'Ariège  
+7 Avenue de l'Ariège  
+09000 Foix
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le **[J+37 Assignation 145](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
 ---

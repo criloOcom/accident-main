@@ -28,6 +28,22 @@ jx: J+52
 <hr>
 <!-- /Breadcrumb -->
 
+<!-- Auteur -->
+**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+Commissariat de Police de Foix  
+Place de la Préfecture  
+09000 Foix
+<!-- /Destinataire -->
+
+<!-- Date -->
+**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 20 juillet 2026
+<!-- /Date -->
+
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident. La présente plainte corrige formellement l'identité de la société exploitante.
 
 # PLAINTE COMPLÉMENTAIRE

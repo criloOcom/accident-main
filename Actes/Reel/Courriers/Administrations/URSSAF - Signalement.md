@@ -31,19 +31,19 @@ jx: J+37
 # SIGNALEMENT DE TRAVAIL DISSIMULE PRESUME
 > 🔗 Source Google Drive : [1LdLfCnWLiD2…](https://drive.google.com/open?id=1LdLfCnWLiD2v1N1SMF3FAeh681znM0kXOrAlBXeOe8w)
 <!-- Auteur -->
-**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
-
+**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**URSSAF Midi-Pyrenees**
-TSA 90002
+**URSSAF Midi-Pyrenees**  
+TSA 90002  
 93517 MONTREUIL CEDEX
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le 11 juillet 2026
+**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
 ---

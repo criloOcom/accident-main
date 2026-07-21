@@ -29,6 +29,23 @@ reel_path: ../../../Reel/Courriers/CPAM/CPAM - Rectification Identité - Relance
 <hr>
 <!-- /Breadcrumb -->
 
+<!-- Auteur -->
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+CPAM de la Haute-Garonne  
+Service Recours Contre Tiers  
+3 Boulevard de la Méditerranée  
+31093 Toulouse Cedex 9
+<!-- /Destinataire -->
+
+<!-- Date -->
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
+<!-- /Date -->
+
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # COURRIER DE RECTIFICATION D'IDENTITÉ DE LA SOCIÉTÉ RESPONSABLE
@@ -87,7 +104,7 @@ La société **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token
 
 Cette société a commencé son activité le 22 avril 2026, soit 37 jours avant l'accident. **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, DG commune de **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** et de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, en assure la continuité de direction.
 
-Je vous demande donc de bien vouloir **procéder à la rectification de l'identité du tiers responsable** au sein de votre dossier de recours contre tiers, en substituant la **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** à **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)**.
+Je vous demande donc de bien vouloir **procéder à la rectification de l'identité du tiers responsable** au sein de votre dossier de recours contre tiers, en remplaçant **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
 
 Cette modification est indispensable afin de permettre à vos services de diriger vos recours subrogatoires contre le véritable exploitant et, le cas échéant, son assureur de responsabilité civile professionnelle.
 

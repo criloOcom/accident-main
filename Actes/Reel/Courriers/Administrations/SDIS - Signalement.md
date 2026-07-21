@@ -38,19 +38,19 @@ jx: J+37
 # SIGNALEMENT DE SECURITE ERP <br> AU SDIS DE L'ARIEGE
 > 🔗 Source Google Drive : [1CCl3bFp_jkY…](https://drive.google.com/open?id=1CCl3bFp_jkYtAF8yEDNtJn5Tic8miKsxLOSGNP2peoE)
 <!-- Auteur -->
-**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
-
+**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**SDIS de l'Ariege**
-
-[À compléter]
+SDIS de l'Ariège  
+7 Avenue de l'Ariège  
+09000 Foix
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[5 juillet 2026](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
+**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
 ---

@@ -37,15 +37,20 @@ jx: J+47
 <hr><hr>
 
 <!-- Auteur -->
-**Expéditeur :** **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** — **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
+**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**Destinataire :** Madame, Monsieur l'Inspecteur du Travail — DDETS de l'Ariège, Cité Administrative, 2 Rue de la Préfecture, 09000 Foix
+Madame, Monsieur l'Inspecteur du Travail — DDETS de l'Ariège  
+Cité Administrative  
+2 Rue de la Préfecture  
+09000 Foix
 <!-- /Destinataire -->
 
 <!-- Date -->
-**Date :** [Date d'envoi — À compléter avant impression]
+**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 15 juillet 2026
 <!-- /Date -->
 
 ---

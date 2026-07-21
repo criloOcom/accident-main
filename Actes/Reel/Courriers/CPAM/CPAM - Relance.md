@@ -21,33 +21,32 @@ source: drive
 drive_id: 1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k
 jx: J+37
 ---
-<!-- LRAR -->
-<!-- Objet -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [CPAM](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# RELANCE CPAM<br>SUIVI DU DOSSIER DE RECOURS CONTRE TIERS
-> 🔗 Source Google Drive : [1MHhZf_KN4b3…](https://drive.google.com/open?id=1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k)
 <!-- Auteur -->
-**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
-
+**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**CPAM de la Haute-Garonne**
-
-[À compléter]
+CPAM de la Haute-Garonne  
+Service Recours Contre Tiers  
+3 Boulevard de la Méditerranée  
+31093 Toulouse Cedex 9
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[5 juillet 2026](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
+**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
+
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+
+# RELANCE CPAM<br>SUIVI DU DOSSIER DE RECOURS CONTRE TIERS
+> 🔗 Source Google Drive : [1MHhZf_KN4b3…](https://drive.google.com/open?id=1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k)
 
 ---
 Objet : Relance et demande d'etat d'avancement — Recours contre tiers n° 31727387

@@ -39,15 +39,19 @@ jx: J+47
 > **Délai de réponse CADA :** 1 à 2 mois (avis consultatif mais très suivi)
 
 <!-- Auteur -->
-**Expéditeur :** **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** — **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**Destinataire :** Commission d'accès aux documents administratifs (CADA), 35 rue Saint-Dominique, 75700 Paris 07 SP
+Commission d'accès aux documents administratifs (CADA)  
+35 rue Saint-Dominique  
+75700 Paris 07 SP
 <!-- /Destinataire -->
 
 <!-- Date -->
-**Date :** [Date d'envoi — À compléter]
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 15 juillet 2026
 <!-- /Date -->
 
 ---

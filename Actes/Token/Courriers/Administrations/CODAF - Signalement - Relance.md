@@ -39,15 +39,20 @@ jx: J+47
 <hr><hr>
 
 <!-- Auteur -->
-**Expéditeur :** **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** — **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**Destinataire :** Monsieur le Préfet de l'Ariège — Référent CODAF — Préfecture de l'Ariège, 2 Rue de la Préfecture, 09000 Foix
+Monsieur le Préfet de l'Ariège — Référent CODAF  
+Préfecture de l'Ariège  
+2 Rue de la Préfecture  
+09007 Foix Cedex
 <!-- /Destinataire -->
 
 <!-- Date -->
-**Date :** [Date d'envoi — À compléter avant impression]
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 15 juillet 2026
 <!-- /Date -->
 
 ---

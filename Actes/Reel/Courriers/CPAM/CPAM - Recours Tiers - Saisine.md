@@ -28,26 +28,27 @@ jx: J+38
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# TRANSMISSION ET BORDEREAU RECAPITULATIF<br>RECOURS CONTRE TIERS
-> 🔗 Source Google Drive : [1_cHcprI9XKo…](https://drive.google.com/open?id=1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY)
 <!-- Auteur -->
-**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
-
+**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**CPAM de la Haute-Garonne**
-Direction des Recours Contre Tiers
-
-[À compléter]
+CPAM de la Haute-Garonne  
+Direction des Recours Contre Tiers  
+3 Boulevard de la Méditerranée  
+31093 Toulouse Cedex 9
 <!-- /Destinataire -->
 
 <!-- Date -->
-[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md), le **[6 juillet 2026](../../../../Memory/Tokens/token-j-38-constitution-pc.md)**
+**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 6 juillet 2026
 <!-- /Date -->
+
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+
+# TRANSMISSION ET BORDEREAU RECAPITULATIF<br>RECOURS CONTRE TIERS
+> 🔗 Source Google Drive : [1_cHcprI9XKo…](https://drive.google.com/open?id=1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY)
 
 ---
 Objet : Transmission d'elements et bordereau recapitulatif — Recours contre tiers n° 31727387

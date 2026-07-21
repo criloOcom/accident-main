@@ -26,30 +26,32 @@ source: local
 jx: J+51
 signataire: 'Sébastien GRAZIDE (envoi sans signature manuscrite)'
 ---
-<!-- PJ -->
-<!-- LRAR -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Propriétaire](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
-# MISE EN DEMEURE AMIABLE<br>RELANCE COMMUNICATION ASSURANCE RC & CORRECTION QUALIFICATIVE "ACCIDENT DU TRAVAIL"
-> 🔗 Source Google Drive : [À COMPLÉTER APRÈS ENVOI]
+<!-- PJ -->
+<!-- LRAR -->
 
 <!-- Auteur -->
-[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)  
-[sebastien.grazide@gmail.com](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)  
+**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**Monsieur Romain DELRIEU  
-**17 Rue de la Baïse, 31120 Roquettes**
+Monsieur **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**  
+17 rue de la Baïse, 31120 Roquettes
 <!-- /Destinataire -->
 
 <!-- Date -->
-[Blagnac](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes), le **19 juillet 2026**  
+**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 19 juillet 2026
 <!-- /Date -->
+
+# MISE EN DEMEURE AMIABLE<br>RELANCE COMMUNICATION ASSURANCE RC & CORRECTION QUALIFICATIVE "ACCIDENT DU TRAVAIL"
+
+> 🔗 Source Google Drive : [À COMPLÉTER APRÈS ENVOI]
 
 ---
 

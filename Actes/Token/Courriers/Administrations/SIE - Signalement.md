@@ -32,19 +32,18 @@ jx: J+37
 # INFORMATION DE LITIGE <br> SERVICE DES IMPOTS DES ENTREPRISES
 > 🔗 Source Google Drive : [1yl55r__e8V0…](https://drive.google.com/open?id=1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA)
 <!-- Auteur -->
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
-
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**Service des Impôts des Entreprises de [La Ville de l'Accident]**
-
-**[Adresse à compléter]**
+Service des Impôts des Entreprises de Foix  
+**[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le **[J+37 Assignation 145](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
 ---

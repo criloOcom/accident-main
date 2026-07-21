@@ -22,34 +22,32 @@ source: drive
 drive_id: 1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E
 jx: J+37
 ---
-<!-- LRAR -->
-<!-- Objet -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
+
+<!-- Auteur -->
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+INPI — Registre National des Entreprises  
+15 Rue des Minimes  
+75116 Paris
+<!-- /Destinataire -->
+
+<!-- Date -->
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
+<!-- /Date -->
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # SIGNALEMENT DE LITIGE <br> INPI
 
 > 🔗 Source Google Drive : [1gFhTi6GhD6u…](https://drive.google.com/open?id=1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E)
-<!-- Auteur -->
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
-
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-**INPI — Registre National des Entreprises**
-
-**[Adresse à compléter]**
-<!-- /Destinataire -->
-
-<!-- Date -->
-**[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le **[J+37 Assignation 145](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
-<!-- /Date -->
 
 ---
 Objet : Demande de signalement de litige en cours au RNE — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)

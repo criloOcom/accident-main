@@ -26,30 +26,32 @@ source: local
 jx: J+51
 signataire: '[La Victime] (envoi sans signature manuscrite)'
 ---
-<!-- PJ -->
-<!-- LRAR -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Propriétaire](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
-# MISE EN DEMEURE AMIABLE<br>RELANCE COMMUNICATION ASSURANCE RC & CORRECTION QUALIFICATIVE "ACCIDENT DU TRAVAIL"
-> 🔗 Source Google Drive : [À COMPLÉTER APRÈS ENVOI]
+<!-- PJ -->
+<!-- LRAR -->
 
 <!-- Auteur -->
-[**[L'Adresse de la Victime]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)  
-[**[L'Email de la Victime]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)  
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**Monsieur [Le Propriétaire des Murs]**  
-**17 Rue de la Baïse, 31120 Roquettes**
+Monsieur **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**  
+17 rue de la Baïse, 31120 Roquettes
 <!-- /Destinataire -->
 
 <!-- Date -->
-[**[La Ville de Résidence de la Victime]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes), le **19 juillet 2026**  
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 19 juillet 2026
 <!-- /Date -->
+
+# MISE EN DEMEURE AMIABLE<br>RELANCE COMMUNICATION ASSURANCE RC & CORRECTION QUALIFICATIVE "ACCIDENT DU TRAVAIL"
+
+> 🔗 Source Google Drive : [À COMPLÉTER APRÈS ENVOI]
 
 ---
 

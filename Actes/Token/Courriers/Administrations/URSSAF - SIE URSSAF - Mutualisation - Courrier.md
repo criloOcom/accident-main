@@ -35,20 +35,19 @@ calendar_event_id: 9ortbnkvp8it8hnebif5fr4bec
 # DEMANDE DE MUTUALISATION <br> FISCALE ET SOCIALE URGENTE
 
 <!-- Auteur -->
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
-
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**Service des Impots des Entreprises de [La Ville de l'Accident]**
-**URSSAF Midi-Pyrenees**
-
-**[Adresse à compléter]**
+Service des Impôts des Entreprises de Foix  
+**[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**  
+URSSAF Midi-Pyrénées
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le **[J+41 Courrier SIE URSSAF](../../../../Memory/Tokens/token-j-41-courrier-sie-urssaf.md)**
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 9 juillet 2026
 <!-- /Date -->
 
 ---

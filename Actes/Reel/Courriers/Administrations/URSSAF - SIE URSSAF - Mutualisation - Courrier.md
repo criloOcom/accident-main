@@ -35,20 +35,19 @@ calendar_event_id: 9ortbnkvp8it8hnebif5fr4bec
 # DEMANDE DE MUTUALISATION <br> FISCALE ET SOCIALE URGENTE
 
 <!-- Auteur -->
-**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
-
+**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**Service des Impots des Entreprises de Foix
-**URSSAF Midi-Pyrenees**
-
-[À compléter]
+Service des Impôts des Entreprises de Foix  
+**[Foix](../../../../Memory/Tokens/token-accident-ville.md)**  
+URSSAF Midi-Pyrénées
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[J+41 Courrier SIE URSSAF](../../../../Memory/Tokens/token-j-41-courrier-sie-urssaf.md)**
+**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 9 juillet 2026
 <!-- /Date -->
 
 ---

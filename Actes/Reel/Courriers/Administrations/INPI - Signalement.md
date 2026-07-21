@@ -22,34 +22,32 @@ source: drive
 drive_id: 1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E
 jx: J+37
 ---
-<!-- LRAR -->
-<!-- Objet -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
+
+<!-- Auteur -->
+**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+INPI — Registre National des Entreprises  
+15 Rue des Minimes  
+75116 Paris
+<!-- /Destinataire -->
+
+<!-- Date -->
+**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
+<!-- /Date -->
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # SIGNALEMENT DE LITIGE <br> INPI
 
 > 🔗 Source Google Drive : [1gFhTi6GhD6u…](https://drive.google.com/open?id=1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E)
-<!-- Auteur -->
-**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
-
-**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-**INPI — Registre National des Entreprises**
-
-[À compléter]
-<!-- /Destinataire -->
-
-<!-- Date -->
-**[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[5 juillet 2026](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
-<!-- /Date -->
 
 ---
 Objet : Demande de signalement de litige en cours au RNE — SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)

@@ -26,33 +26,31 @@ source: drive
 drive_id: 1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM
 jx: J+37
 ---
-<!-- LRAR -->
-<!-- Objet -->
-
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# CONFIRMATION OFFICIELLE DE SIGNALEMENT <br> A LA PREFECTURE DE L'ARIEGE
-> 🔗 Source Google Drive : [1sIkiScOSFZy…](https://drive.google.com/open?id=1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM)
 <!-- Auteur -->
-**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
-
+**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**Prefecture de l'Ariege**
-
-[À compléter]
+Préfecture de l'Ariège — Référent CODAF  
+2 Rue de la Préfecture  
+09007 Foix Cedex
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[5 juillet 2026](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
+**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
+
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+
+# CONFIRMATION OFFICIELLE DE SIGNALEMENT <br> A LA PREFECTURE DE L'ARIEGE
+> 🔗 Source Google Drive : [1sIkiScOSFZy…](https://drive.google.com/open?id=1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM)
 
 ---
 Objet : Confirmation officielle de signalement — Accident du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au salon [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)

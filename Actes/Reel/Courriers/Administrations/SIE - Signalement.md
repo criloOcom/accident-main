@@ -32,19 +32,18 @@ jx: J+37
 # INFORMATION DE LITIGE <br> SERVICE DES IMPOTS DES ENTREPRISES
 > 🔗 Source Google Drive : [1yl55r__e8V0…](https://drive.google.com/open?id=1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA)
 <!-- Auteur -->
-**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
-
+**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**Service des Impôts des Entreprises de Foix
-
-[À compléter]
+Service des Impôts des Entreprises de Foix  
+**[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[5 juillet 2026](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
+**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
 ---
