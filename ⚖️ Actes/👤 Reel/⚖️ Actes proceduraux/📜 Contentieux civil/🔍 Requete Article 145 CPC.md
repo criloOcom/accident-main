@@ -54,13 +54,13 @@ La présente requête est introduite par **[Sébastien GRAZIDE](../../../../%F0%
 
 Elle a pour objet d'obtenir, sous astreinte, la communication par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et ses dirigeants des pièces nécessaires à l'exercice de l'action indemnitaire du requérant, et notamment :
 
-I.1. La communication du bail commercial, des états des lieux d'entrée et de sortie et des attestations d'assurance de responsabilité civile professionnelle de **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** en vigueur au **[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** ;
+1. La communication du bail commercial, des états des lieux d'entrée et de sortie et des attestations d'assurance de responsabilité civile professionnelle de **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** en vigueur au **[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** ;
 
-I.2. La communication du lien contractuel existant entre **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et **[Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)**, coiffeur présent lors de l'accident ;
+2. La communication du lien contractuel existant entre **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et **[Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)**, coiffeur présent lors de l'accident ;
 
-I.3. La conservation et la communication des enregistrements de vidéosurveillance du salon pour la période du 25 mai au 5 juin 2026 ;
+3. La conservation et la communication des enregistrements de vidéosurveillance du salon pour la période du 25 mai au 5 juin 2026 ;
 
-I.4. La conservation du bac à shampoing défectueux et la communication de tout document relatif à sa maintenance.
+4. La conservation du bac à shampoing défectueux et la communication de tout document relatif à sa maintenance.
 <hr><hr>
 
 ## II — EXPOSÉ DES FAITS
