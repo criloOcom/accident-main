@@ -29,6 +29,8 @@ Pour visualiser l'ordre d'enchaînement logique et d'envoi de ces différents do
 
 - **[Checklist - Déplacement 20-07](Checklist%20-%20D%C3%A9placement%2020-07.md)**
 
+- **[Note - Kit Foix 27-07-2026](Note%20-%20Kit%20Foix%2027-07-2026.md)**
+
 - **[Note - Suivi Envois LRAR](Note%20-%20Suivi%20Envois%20LRAR.md)**
 
 - **[Synthèse - Actions et Audits](Synth%C3%A8se%20-%20Actions%20et%20Audits.md)**

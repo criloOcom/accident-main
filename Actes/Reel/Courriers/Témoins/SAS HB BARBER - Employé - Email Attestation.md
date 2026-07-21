@@ -1,7 +1,7 @@
 ---
 emoji: 📋
 title: 📧📋 Email Transmission Attestation Employé
-description: 'Objet : Attestation de témoin — Accident du 29 mai 2026 au **[L''Adresse
+description: 'Objet : Attestation de témoin — Accident du [29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md) au **[L''Adresse
   de l''Exploitation]'
 type: courrier
 date: 2026-07-06
@@ -12,7 +12,7 @@ tags:
 
 - temoin
 statut: brouillon
-destinataire: Employé(e) du salon présent(e) le 29 mai 2026
+destinataire: Employé(e) du salon présent(e) le [29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Témoins/SAS HB BARBER - Employé - Email Attestation.md
 source: local

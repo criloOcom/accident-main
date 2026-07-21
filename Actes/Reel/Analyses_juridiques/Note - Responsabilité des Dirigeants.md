@@ -1,6 +1,6 @@
 ---
 title: "Note Responsabilité Dirigeants Dissolution"
-description: "Dans l'hypothèse où Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC procèderaient à la dissolution ou à la radiation de SAS HB BARBER afin d'échapper aux poursuites et à l'indemnisation"
+description: "Dans l'hypothèse où [Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) procèderaient à la dissolution ou à la radiation de [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) afin d'échapper aux poursuites et à l'indemnisation"
 type: analyse_juridique
 date: 2026-07-09
 tags:
