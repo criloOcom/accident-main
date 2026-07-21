@@ -152,6 +152,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Dire
 
 <!-- PJ -->
 <hr><hr>
+
 ## PIÈCES JOINTES
 
 - Copie du [PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (procédure pénale)

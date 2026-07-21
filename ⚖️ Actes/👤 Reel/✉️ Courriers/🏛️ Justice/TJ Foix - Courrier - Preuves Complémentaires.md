@@ -118,6 +118,7 @@ Dans l'attente de votre retour, je vous prie d'agreer, Monsieur le President, l'
 
 <!-- PJ -->
 <hr><hr>
+
 ## PIECES JOINTES
 
 - **[Note - Suivi Envois LRAR.md](../../%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Suivi%20Envois%20LRAR.md)** — Accusés de réception des courriers recommandés retournés
