@@ -2,7 +2,7 @@
 emoji: 🚨
 title: Confirmation Officielle de Signalement à la Préfecture
 description: Signalement à la Préfecture de l'Ariège / CODAF — Accident du 29 mai
-  2026 au salon **[L'Exploitant du Commerce (La SAS)]**
+  2026 au salon [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 type: courrier
 date: 2026-07-05
 tags:

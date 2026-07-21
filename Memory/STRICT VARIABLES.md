@@ -13,21 +13,21 @@ type: memory
 **NE JAMAIS MODIFIER NI INVENTER.** Ces valeurs prévalent sur tout autre contenu.
 
 ## Identité de la victime
-- NOM : **[La Victime]**
+- NOM : [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)
 
 - DATE_NAISSANCE : **18 janvier 1982** (⚠ jamais 12 mars)
 
-- VILLE_NAISSANCE : **[La Métropole Régionale]**
+- VILLE_NAISSANCE : [**[La Métropole Régionale]**](../Memory/Tokens/token-accident-metropole.md)
 
 - NATIONALITÉ : française
 
 - PROFESSION : informaticien indépendant
 
-- ADRESSE : **[L'Adresse de la Victime]**
+- ADRESSE : [**[L'Adresse de la Victime]**](../Memory/Tokens/token-victime-adresse.md)
 
-- EMAIL : **[L'Email de la Victime]**
+- EMAIL : [**[L'Email de la Victime]**](../Memory/Tokens/token-victime-email.md)
 
-- SIREN : **[L'Identifiant Professionnel de la Victime]**
+- SIREN : [**[L'Identifiant Professionnel de la Victime]**](../Memory/Tokens/token-victime-id-professionnel.md)
 
 ## §1. Rapport d'expertise 2027-05-29 (référence canonique)
 
@@ -186,19 +186,19 @@ Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../Rapports/RAPPORT_AVOCAT_DINTILHAC
 
 - DATE_CHIRURGIE_SOS_MAIN : **30 mai 2026** (samedi — ⚠ JAMAIS 31 ; le 31/05 est la date du COMPTE-RENDU, pas de la chirurgie)
 
-- LIEU_ACCIDENT : **[L'Adresse de l'Exploitation]**
+- LIEU_ACCIDENT : [**[L'Adresse de l'Exploitation]**](../Memory/Tokens/token-exploitation-adresse.md)
 
-- ETABLISSEMENT : **[L'Exploitant du Commerce (La SAS)]**
+- ETABLISSEMENT : [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md)
 
 - SERVICES_URGENCE : SMUR 09 (Centre Ariégeois de Soins Immédiats)
 
 - ITT_TOTAL : 55 jours (29/05/2026 → 23/07/2026)
 
-- ⚠ ITT_INITIALE_ERREUR : **[Le Médecin Généraliste]** a noté 1 jour le 01/06 (erreur matérielle ; l'arrêt de travail total est de 55 jours)
+- ⚠ ITT_INITIALE_ERREUR : [**[Le Médecin Généraliste]**](../Memory/Tokens/token-victime-medecin-generaliste.md) a noté 1 jour le 01/06 (erreur matérielle ; l'arrêt de travail total est de 55 jours)
 
-- PV_POLICE : 2026/015967 (⚠ info non confirmée par retour officiel — source : courriel Mairie de **[La Ville de l'Accident]** du 01/06/2026 + dossier de plainte déposé par **[La Victime]**)
+- PV_POLICE : 2026/015967 (⚠ info non confirmée par retour officiel — source : courriel Mairie de [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md) du 01/06/2026 + dossier de plainte déposé par [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md))
 
-- ⚠ DEPOT_PLAINTE_LIEU : **Service Local de Sécurité Publique de Toulouse Rive Droite** (23 Boulevard de l'Embouchure, 31300 Toulouse) — dépôt initial le 2 juin 2026 à 01h08. **PAS au Commissariat de Foix.** Le dossier a ensuite été transmis pour compétence territoriale au Commissariat de Foix. Toute mention associant « commissariat de Foix » au dépôt INITIAL de plainte du 2 juin 2026 est une erreur factuelle. (⚠ info non confirmée par retour officiel — source : courriel Mairie de **[La Ville de l'Accident]** du 01/06/2026 + dossier de plainte déposé par **[La Victime]**)
+- ⚠ DEPOT_PLAINTE_LIEU : **Service Local de Sécurité Publique de Toulouse Rive Droite** (23 Boulevard de l'Embouchure, 31300 Toulouse) — dépôt initial le 2 juin 2026 à 01h08. **PAS au Commissariat de Foix.** Le dossier a ensuite été transmis pour compétence territoriale au Commissariat de Foix. Toute mention associant « commissariat de Foix » au dépôt INITIAL de plainte du 2 juin 2026 est une erreur factuelle. (⚠ info non confirmée par retour officiel — source : courriel Mairie de [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md) du 01/06/2026 + dossier de plainte déposé par [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md))
 
 - DOSSIER_CPAM : **31727387** (⚠ jamais 31713398 — obsolète)
 
@@ -215,7 +215,7 @@ Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../Rapports/RAPPORT_AVOCAT_DINTILHAC
 - ADRESSE_PV_POLICE_ERREUR : PV police n°2026/015967 écrit "22, RUE DE LA FAURIE" (orthographe police). Tous les documents utilisent "22 Rue Lafaurie" (orthographe correcte). Variance mineure sans incidence.
 
 ## Mécanisme de l'accident (VÉRITÉ FACTUELLE)
-1. Le coiffeur (**[Le Préposé de l'Exploitation]**) est monté physiquement sur la vasque en céramique du bac à shampoing **pour régler le téléviseur**
+1. Le coiffeur ([**[Le Préposé de l'Exploitation]**](../Memory/Tokens/token-exploitation-prepose-nom.md)) est monté physiquement sur la vasque en céramique du bac à shampoing **pour régler le téléviseur**
 
 2. En descendant, son poids a provoqué le **basculement** de l'équipement
 
@@ -232,33 +232,33 @@ Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../Rapports/RAPPORT_AVOCAT_DINTILHAC
 
 | N° LRAR | Destinataire | Acheté le | Statut La Poste réel |
 |---------|--------------|-----------|----------------------|
-| `87001424863012T` | **[L'Exploitant du Commerce (La SAS)]** (mise en demeure J+31) | 29/06/2026 | En cours de retour à l'expéditeur |
-| `87001424721856G` | **[La Directrice Générale de l'Exploitation]** (mise en demeure J+31) | 29/06/2026 | En cours de retour à l'expéditeur |
-| `87001424862879J` | **[L'Ancien Président de l'Exploitation]** — Sabir MOUNTASSER (mise en demeure J+31, adressée par erreur à l'ancien président LMG) | 29/06/2026 | En attente de retrait (FOIX R P, jusqu'au 21/07) |
-| `87001424862462Y` | **[Le Propriétaire des Murs]** (M. Romain DELRIEU) | 29/06/2026 | Avis de réception numérique disponible (AR signé) |
+| `87001424863012T` | [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) (mise en demeure J+31) | 29/06/2026 | En cours de retour à l'expéditeur |
+| `87001424721856G` | [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md) (mise en demeure J+31) | 29/06/2026 | En cours de retour à l'expéditeur |
+| `87001424862879J` | [**[L'Ancien Président de l'Exploitation]**](../Memory/Tokens/token-ancien-president-exploitation.md) — Sabir MOUNTASSER (mise en demeure J+31, adressée par erreur à l'ancien président LMG) | 29/06/2026 | En attente de retrait (FOIX R P, jusqu'au 21/07) |
+| `87001424862462Y` | [**[Le Propriétaire des Murs]**](../Memory/Tokens/token-exploitation-bailleur-nom.md) (M. Romain DELRIEU) | 29/06/2026 | Avis de réception numérique disponible (AR signé) |
 | `87001424923505I` | Tribunal Judiciaire de Foix (constitution de partie civile) | 29/06/2026 | Avis de réception numérique disponible |
 | `87001421903907I` | CPAM de Toulouse (dossier RCT) | 24/06/2026 | Avis de réception numérique disponible |
-| `870014282662911` | **[L'Exploitant du Commerce (La SAS)]** (Relance Dirigeants J+40, V2) | 08/07/2026 | En attente de retrait (FOIX R P, jusqu'au 28/07) |
-| `87500152771696F` | **[L'Exploitant du Commerce (La SAS)]** (mise en demeure J+51) | 18/07/2026 | Pris en charge par La Poste |
-| `875001528942001` | **[Le Président de l'Exploitation]** (Hamza BERGUIGA, J+51) | 18/07/2026 | Pris en charge par La Poste |
-| `875001528942010` | **[La Directrice Générale de l'Exploitation]** (Catherine SORROCHE, J+51) | 18/07/2026 | Pris en charge par La Poste |
+| `870014282662911` | [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) (Relance Dirigeants J+40, V2) | 08/07/2026 | En attente de retrait (FOIX R P, jusqu'au 28/07) |
+| `87500152771696F` | [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) (mise en demeure J+51) | 18/07/2026 | Pris en charge par La Poste |
+| `875001528942001` | [**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md) (Hamza BERGUIGA, J+51) | 18/07/2026 | Pris en charge par La Poste |
+| `875001528942010` | [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md) (Catherine SORROCHE, J+51) | 18/07/2026 | Pris en charge par La Poste |
 | `87500152888336B` | GHT des Pyrénées Ariégeoises CHIVA (Hôpital de Foix) | 18/07/2026 | Pris en charge par La Poste |
-| `87500152910287Q` | **[Le Propriétaire des Murs]** (Relance 3, J+52) | 19/07/2026 | Pris en charge par La Poste |
+| `87500152910287Q` | [**[Le Propriétaire des Murs]**](../Memory/Tokens/token-exploitation-bailleur-nom.md) (Relance 3, J+52) | 19/07/2026 | Pris en charge par La Poste |
 
 Les tokens `[N° LRAR Exploitant]`, `[N° LRAR Directrice]`, `[N° LRAR Président]` (et équivalents) dans les courriers Token résolvent vers ces valeurs réelles via la strate Reel.
 
 ## Personnes physiques (tokens)
 | Rôle | Token |
 |------|-------|
-| Victime | `**[La Victime]**` |
-| Président de l'exploitation | `**[Le Président de l'Exploitation]**` |
-| Directrice Générale | `**[La Directrice Générale de l'Exploitation]**` |
-| Préposé (coiffeur) | `**[Le Préposé de l'Exploitation]**` |
-| Propriétaire des murs | `**[Le Propriétaire des Murs]**` |
-| Chirurgien SOS Main | `**[Le Chirurgien SOS Main]**` |
-| Médecin Urgence | `**[Le Médecin en Urgence]**` |
-| Médecin Généraliste | `**[Le Médecin Généraliste]**` |
-| Gestionnaire CPAM | `**[La Gestionnaire CPAM]**` |
+| Victime | `[**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)` |
+| Président de l'exploitation | `[**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md)` |
+| Directrice Générale | `[**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md)` |
+| Préposé (coiffeur) | `[**[Le Préposé de l'Exploitation]**](../Memory/Tokens/token-exploitation-prepose-nom.md)` |
+| Propriétaire des murs | `[**[Le Propriétaire des Murs]**](../Memory/Tokens/token-exploitation-bailleur-nom.md)` |
+| Chirurgien SOS Main | `[**[Le Chirurgien SOS Main]**](../Memory/Tokens/token-hopital-sosmain-chirurgien.md)` |
+| Médecin Urgence | `[**[Le Médecin en Urgence]**](../Memory/Tokens/token-hopital-urgence-medecin.md)` |
+| Médecin Généraliste | `[**[Le Médecin Généraliste]**](../Memory/Tokens/token-victime-medecin-generaliste.md)` |
+| Gestionnaire CPAM | `[**[La Gestionnaire CPAM]**](../Memory/Tokens/token-cpam-gestionnaire-nom.md)` |
 
 ⚠ **Statut de l'exploitant au jour de l'accident vérifié (2026-07-17)** :
 
@@ -269,20 +269,20 @@ Les tokens `[N° LRAR Exploitant]`, `[N° LRAR Directrice]`, `[N° LRAR Préside
 ## Personnes morales (tokens)
 | Rôle | Token | Note |
 |------|-------|------|
-| Exploitant du commerce (la SAS) | `**[L'Exploitant du Commerce (La SAS)]**` | ⚠ Désigne la PERSONNE MORALE SAS, pas ses dirigeants. L'ajout `(La SAS)` prévient toute confusion. Le singulier est correct car une SAS = une entité unique. |
-| Établissement SOS Main | `**[L'Établissement SOS Main]**` | |
+| Exploitant du commerce (la SAS) | `[**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md)` | ⚠ Désigne la PERSONNE MORALE SAS, pas ses dirigeants. L'ajout `(La SAS)` prévient toute confusion. Le singulier est correct car une SAS = une entité unique. |
+| Établissement SOS Main | `[**[L'Établissement SOS Main]**](../Memory/Tokens/token-hopital-sosmain-nom.md)` | |
 
 ## Codéfendeurs — Stratégie de mise en cause plurielle
 ⚠ **Capital 200 € — risque majeur d'insolvabilité.** La SAS seule ne pourra probablement pas indemniser. **Les dirigeants (Président + DG) doivent être assignés PERSONNELLEMENT** comme codéfendeurs, in solidum avec la SAS.
 
 | Défendeur | Qualité | Fondement |
 |-----------|---------|-----------|
-| `**[L'Exploitant du Commerce (La SAS)]**` | Personne morale (gardienne de la chose + commettant) | Art. 1240, 1242 C.civ. + L.4121-1 C.trav. |
-| `**[Le Président de l'Exploitation]**` | Dirigeant de droit (L.227-6 C.com.) | L.227-8 + L.225-251 C.com. + 1240 C.civ. (faute séparable) |
-| `**[La Directrice Générale de l'Exploitation]**` | Dirigeante de droit (L.227-6 C.com.) | L.227-8 + L.225-251 C.com. + 1240 C.civ. (faute séparable) |
+| `[**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md)` | Personne morale (gardienne de la chose + commettant) | Art. 1240, 1242 C.civ. + L.4121-1 C.trav. |
+| `[**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md)` | Dirigeant de droit (L.227-6 C.com.) | L.227-8 + L.225-251 C.com. + 1240 C.civ. (faute séparable) |
+| `[**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md)` | Dirigeante de droit (L.227-6 C.com.) | L.227-8 + L.225-251 C.com. + 1240 C.civ. (faute séparable) |
 
 **Formulation standard à employer partout :**
-> *à l'encontre de **[L'Exploitant du Commerce (La SAS)]**, pris en la personne de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, et personnellement contre ces derniers*
+> *à l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md), pris en la personne de ses dirigeants, [**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md), et personnellement contre ces derniers*
 
 ## Correspondance tokens financiers alternatifs `[Finance ...]`
 

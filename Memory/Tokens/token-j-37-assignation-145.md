@@ -1,6 +1,7 @@
 ---
 title: "📅 J+37 Assignation 145"
 description: "Token :** `**[J+37 Assignation 145]**`"
+token: "J+37 Assignation 145"
 real_value: "5 juillet 2026"
 type: memory
 ---

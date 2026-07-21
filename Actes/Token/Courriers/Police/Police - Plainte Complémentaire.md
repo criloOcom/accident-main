@@ -248,7 +248,7 @@ Que les faits déjà décrits dans ma plainte initiale (accident provoqué par u
   - attestations d'assurance de responsabilité civile professionnelle de la **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** en vigueur au 29 mai 2026,
   - le cas échéant, attestations d'assurance du bailleur pour l'immeuble concerné.
 
-### 5.4 — Audition de [[**[Le Préposé de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques)] (coiffeur présent au moment des faits)
+### 5.4 — Audition de [**[Le Préposé de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques) (coiffeur présent au moment des faits)
 
 Je sollicite en particulier l'audition de **[Le Préposé de l'Exploitation](../../../../Memory/Tokens/token-exploitation-prepose-nom.md)**, coiffeur ayant reçu le paiement Wero de 15 € le 29 mai 2026 à 15h20 (message « coif »), afin qu'il puisse décrire précisément les circonstances de l'accident, l'état du bac à shampoing au moment des faits, ainsi que la nature de ses liens avec le salon (salarié, loueur de fauteuil, prestataire indépendant, etc.).
 

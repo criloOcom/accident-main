@@ -1,6 +1,7 @@
 ---
 title: "👤 La Gestionnaire CPAM"
 description: "Token :** `**[La Gestionnaire CPAM]**`"
+token: "La Gestionnaire CPAM"
 real_value: "Sigrid DESBOIS"
 type: memory
 ---

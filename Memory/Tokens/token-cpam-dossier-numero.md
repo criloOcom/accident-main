@@ -2,6 +2,7 @@
 title: "Token — N° Dossier CPAM"
 date: FIXME
 description: "Définition du token N° Dossier CPAM pour le dossier Accident de la Main"
+token: "N° Dossier CPAM"
 type: preuve
 ---
 <!-- Breadcrumb -->

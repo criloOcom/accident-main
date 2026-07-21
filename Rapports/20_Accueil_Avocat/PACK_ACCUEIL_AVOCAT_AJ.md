@@ -16,13 +16,13 @@ statut: final
 
 ## I — RÉSUMÉ DE L'AFFAIRE
 
-**Accident du 29 mai 2026** au sein du salon **[L'Exploitant du Commerce (La SAS)]** à **[La Ville de l'Accident]**.
-- **Victime** : **[La Victime]**, 44 ans, informaticien indépendant.
+**Accident du 29 mai 2026** au sein du salon [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) à [**[La Ville de l'Accident]**](../../Memory/Tokens/token-accident-ville.md).
+- **Victime** : [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md), 44 ans, informaticien indépendant.
 
-- **Mise en cause** : **[L'Exploitant du Commerce (La SAS)]** (capital de 200 €) et ses dirigeants à titre personnel (faute détachable). Assureur présumé : **[L'Assureur RC]** (silencieux).
+- **Mise en cause** : [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) (capital de 200 €) et ses dirigeants à titre personnel (faute détachable). Assureur présumé : **[L'Assureur RC]** (silencieux).
 
 ### I.1 — Mécanisme de l'accident
-Le préposé du salon est monté sur la vasque en céramique du bac à shampoing pour régler un téléviseur. En redescendant, son poids a provoqué le basculement de l'équipement (fragilisé par une cassure majeure préexistante, non signalée). Par réflexe, **[La Victime]** a tendu la main droite pour protéger le préposé et a heurté cette cassure. Aucune chute de débris (la vasque ne s'est pas effondrée, elle a basculé). Le récit est acté dans le PV de plainte complémentaire (J+47) et le réquisitoire introductif.
+Le préposé du salon est monté sur la vasque en céramique du bac à shampoing pour régler un téléviseur. En redescendant, son poids a provoqué le basculement de l'équipement (fragilisé par une cassure majeure préexistante, non signalée). Par réflexe, [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) a tendu la main droite pour protéger le préposé et a heurté cette cassure. Aucune chute de débris (la vasque ne s'est pas effondrée, elle a basculé). Le récit est acté dans le PV de plainte complémentaire (J+47) et le réquisitoire introductif.
 
 ### I.2 — Conséquences médicales et financières
 - **Lésions** : Section partielle du tendon fléchisseur profond, section du paquet collatéral et nécessité d'une neurolyse du nerf palmaire de l'index droit. Chirurgie d'urgence réalisée le 30 mai 2026.
@@ -31,7 +31,7 @@ Le préposé du salon est monté sur la vasque en céramique du bac à shampoing
 
 - **Évaluation financière (estimative post-expertise Dintilhac)** : Entre 120 000 € et 160 000 € au global (DFP estimé à 12 %, Incidence Professionnelle majeure). Provision déjà demandée : 15 000 €.
 
-- **Particularité** : Risque d'insolvabilité de la SAS (capital 200 €), nécessitant une action *in solidum* contre **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, ainsi qu'une action directe contre **[L'Assureur RC]**.
+- **Particularité** : Risque d'insolvabilité de la SAS (capital 200 €), nécessitant une action *in solidum* contre [**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../Memory/Tokens/token-exploitation-dg-nom.md), ainsi qu'une action directe contre **[L'Assureur RC]**.
 
 <hr><hr>
 
@@ -44,7 +44,7 @@ Le préposé du salon est monté sur la vasque en céramique du bac à shampoing
 
 - **29/06/2026** : Mises en demeure (LRAR) aux dirigeants, SAS et propriétaire (carence amiable constatée).
 
-- **15/07/2026** : Dépôt de la requête article 145 CPC (TJ de **[La Ville de l'Accident]**) et de la demande d'Aide Juridictionnelle. Dépôt de la plainte complémentaire (délit d'obstacle à la vérité).
+- **15/07/2026** : Dépôt de la requête article 145 CPC (TJ de [**[La Ville de l'Accident]**](../../Memory/Tokens/token-accident-ville.md)) et de la demande d'Aide Juridictionnelle. Dépôt de la plainte complémentaire (délit d'obstacle à la vérité).
 
 ### II.2 — Échéances à venir
 - **Dès réception** : Analyse des pièces et validation de l'assignation en référé-provision.
@@ -83,9 +83,9 @@ Le préposé du salon est monté sur la vasque en céramique du bac à shampoing
 ### IV.1 — Groupe A — Preuves de l'accident
 - **Pièce 1** : [PV de police n°2026/015967 (Dépôt de plainte initiale)](../../Actes/Token/Actes_proceduraux/Contentieux_penal/Plainte%20Compl%C3%A9mentaire%20-%20PV%20Audition.md)
 
-- **Pièce 2** : Certificat médical initial — **[Le Médecin en Urgence]** (J+0)
+- **Pièce 2** : Certificat médical initial — [**[Le Médecin en Urgence]**](../../Memory/Tokens/token-hopital-urgence-medecin.md) (J+0)
 
-- **Pièce 3** : Compte-rendu opératoire — **[Le Chirurgien SOS Main]** (J+1)
+- **Pièce 3** : Compte-rendu opératoire — [**[Le Chirurgien SOS Main]**](../../Memory/Tokens/token-hopital-sosmain-chirurgien.md) (J+1)
 
 - **Pièce 4** : Arrêts de travail (ITT 55 jours, jusqu'au 23/07/2026)
 
@@ -99,7 +99,7 @@ Le préposé du salon est monté sur la vasque en céramique du bac à shampoing
 ### IV.3 — Groupe C — Correspondances et Actes
 - **Pièce 10** : [Mise en demeure SAS (LRAR J+31)](../../Actes/Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)
 
-- **Pièce 11/12** : Mises en demeure aux dirigeants **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**
+- **Pièce 11/12** : Mises en demeure aux dirigeants [**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../Memory/Tokens/token-exploitation-dg-nom.md)
 
 - **Pièce 16** : [Projet d'assignation en référé-provision et expertise (Art. 835 et 145 CPC)](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md)
 
@@ -113,17 +113,17 @@ Le préposé du salon est monté sur la vasque en céramique du bac à shampoing
 
 ## V — CONTACTS UTILES
 
-- **Victime** : **[La Victime]** (Client)
+- **Victime** : [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) (Client)
 
-- **Mise en cause (Exploitant)** : **[L'Exploitant du Commerce (La SAS)]** — 22 Rue Lafaurie, 09000 **[La Ville de l'Accident]**
+- **Mise en cause (Exploitant)** : [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) — 22 Rue Lafaurie, 09000 [**[La Ville de l'Accident]**](../../Memory/Tokens/token-accident-ville.md)
 
-- **Dirigeants** : **[Le Président de l'Exploitation]** (Président), **[La Directrice Générale de l'Exploitation]** (Directrice Générale)
+- **Dirigeants** : [**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md) (Président), [**[La Directrice Générale de l'Exploitation]**](../../Memory/Tokens/token-exploitation-dg-nom.md) (Directrice Générale)
 
 - **Médecine Légale / Expertise UMJ** : Tribunal Judiciaire (RDV fixé au 12/11/2026 à 13h45)
 
-- **Assurance CPAM** : **[La Gestionnaire CPAM]** (Dossier n°31727387)
+- **Assurance CPAM** : [**[La Gestionnaire CPAM]**](../../Memory/Tokens/token-cpam-gestionnaire-nom.md) (Dossier n°31727387)
 
-- **Police / Commissariat** : Commissariat de **[La Ville de l'Accident]** (Réf. plainte : 2026/015967)
+- **Police / Commissariat** : Commissariat de [**[La Ville de l'Accident]**](../../Memory/Tokens/token-accident-ville.md) (Réf. plainte : 2026/015967)
 
 <hr><hr>
 
@@ -135,7 +135,7 @@ Le préposé du salon est monté sur la vasque en céramique du bac à shampoing
 
 3. **Saisine CIVI** : Le dossier pénal est ouvert pour blessures involontaires. Faut-il à ce stade envisager une saisine de la CIVI (Article 706-3 CPP), ou l'écarter d'emblée au motif que les conditions d'accès (atteinte à l'intégrité physique résultant d'une infraction, ressources) ne sont en l'espèce pas réunies (victime exerçant une activité professionnelle, préjudice patrimonial avéré) ?
 
-4. **Administration** : Les courriers à l'Inspection du Travail et à la Préfecture nécessitent-ils un appui par voie d'avocat ou le suivi direct par **[La Victime]** est-il suffisant à ce stade ?
+4. **Administration** : Les courriers à l'Inspection du Travail et à la Préfecture nécessitent-ils un appui par voie d'avocat ou le suivi direct par [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) est-il suffisant à ce stade ?
 
 ---
 

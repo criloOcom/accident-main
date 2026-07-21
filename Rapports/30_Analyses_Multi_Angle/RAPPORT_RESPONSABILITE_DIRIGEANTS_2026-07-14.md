@@ -16,9 +16,9 @@ type: rapport
 
 ## I — EXPOSÉ DU CONTEXTE
 
-La présente analyse porte sur la responsabilité des dirigeants de la **[L'Exploitant du Commerce (La SAS)]**, dans le contexte d'un accident survenu le 29 mai 2026. L'entreprise est constituée sous la forme d'une Société par Actions Simplifiée (SAS) avec un capital social très faible de 200 €, ce qui soulève un risque majeur d'insolvabilité face à l'importance prévisible de l'indemnisation du dommage corporel de **[La Victime]**.
+La présente analyse porte sur la responsabilité des dirigeants de la [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md), dans le contexte d'un accident survenu le 29 mai 2026. L'entreprise est constituée sous la forme d'une Société par Actions Simplifiée (SAS) avec un capital social très faible de 200 €, ce qui soulève un risque majeur d'insolvabilité face à l'importance prévisible de l'indemnisation du dommage corporel de [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md).
 
-L'objectif est d'examiner les fondements juridiques permettant d'engager la responsabilité personnelle du Président (**[Le Président de l'Exploitation]**) et du Directeur Général (**[La Directrice Générale de l'Exploitation]**), ainsi que les mesures conservatoires et leviers du droit des sociétés à mobiliser pour sécuriser le recouvrement.
+L'objectif est d'examiner les fondements juridiques permettant d'engager la responsabilité personnelle du Président ([**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md)) et du Directeur Général ([**[La Directrice Générale de l'Exploitation]**](../../Memory/Tokens/token-exploitation-dg-nom.md)), ainsi que les mesures conservatoires et leviers du droit des sociétés à mobiliser pour sécuriser le recouvrement.
 
 <hr><hr>
 
@@ -26,7 +26,7 @@ L'objectif est d'examiner les fondements juridiques permettant d'engager la resp
 
 ### II.1 — Obligation de sécurité et responsabilité de l'employeur
 
-- **Obligation de sécurité (Art. L.4121-1 C. trav.)** : L'employeur est tenu d'une obligation légale de sécurité et de protection de la santé physique et mentale des travailleurs. Le manquement à cette obligation, ayant conduit à l'accident grave de **[La Victime]**, engage la responsabilité de la SAS.
+- **Obligation de sécurité (Art. L.4121-1 C. trav.)** : L'employeur est tenu d'une obligation légale de sécurité et de protection de la santé physique et mentale des travailleurs. Le manquement à cette obligation, ayant conduit à l'accident grave de [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md), engage la responsabilité de la SAS.
 
 - **Travail dissimulé (Art. L.8221-5 C. trav.)** : Si les conditions d'emploi révèlent une dissimulation (non-déclaration, absence de contrat formel), la SAS s'expose à de lourdes sanctions pénales et civiles, facilitant la mise en cause de ses dirigeants pour fraude.
 
@@ -48,7 +48,7 @@ L'objectif est d'examiner les fondements juridiques permettant d'engager la resp
 
 - **Faute séparable des fonctions (Arrêt SATI, Cass. com., 20 mai 2003, n° 99-17.092, JURITEXT000007047369)** : La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute détachable de ses fonctions. Il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales.
 
-  - *Application au cas d'espèce* : Le maintien d'une activité dangereuse sans assurance RC Pro valide, couplé à une sous-capitalisation manifeste et d'éventuelles infractions au Code du travail (travail dissimulé), caractérise une faute d'une particulière gravité, intentionnelle, et incompatible avec l'exercice normal de leurs fonctions. Cette faute justifie la mise en cause personnelle et solidaire de **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** sur leur patrimoine propre.
+  - *Application au cas d'espèce* : Le maintien d'une activité dangereuse sans assurance RC Pro valide, couplé à une sous-capitalisation manifeste et d'éventuelles infractions au Code du travail (travail dissimulé), caractérise une faute d'une particulière gravité, intentionnelle, et incompatible avec l'exercice normal de leurs fonctions. Cette faute justifie la mise en cause personnelle et solidaire de [**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../Memory/Tokens/token-exploitation-dg-nom.md) sur leur patrimoine propre.
 
 ### III.2 — Insuffisance d'actif et Banqueroute
 
@@ -67,7 +67,7 @@ Face au risque avéré d'insolvabilité de la SAS et de disparition des actifs, 
 1. **Saisies-conservatoires (Art. L.511-1 CPCE)**
 
    - *Fondement* : "Toute personne dont la créance paraît fondée en son principe peut solliciter du juge l'autorisation de pratiquer une mesure conservatoire sur les biens de son débiteur, sans commandement préalable, si elle justifie de circonstances susceptibles d'en menacer le recouvrement."
-   - *Action* : Dépôt immédiat de requêtes sur requête (Art. 850 CPC) pour geler les comptes bancaires de la SAS, mais surtout les comptes personnels, biens immobiliers et parts sociales de **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, sur le fondement de leur faute séparable (Arrêt SATI).
+   - *Action* : Dépôt immédiat de requêtes sur requête (Art. 850 CPC) pour geler les comptes bancaires de la SAS, mais surtout les comptes personnels, biens immobiliers et parts sociales de [**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../Memory/Tokens/token-exploitation-dg-nom.md), sur le fondement de leur faute séparable (Arrêt SATI).
 
 2. **Mandataire ad hoc (Art. L.611-3 C. com.)**
 

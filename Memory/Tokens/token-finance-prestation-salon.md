@@ -1,6 +1,7 @@
 ---
 title: "💰 Finance<br>Prestation Salon"
 description: "Token :** `**[Finance Prestation Salon]**`"
+token: "Finance Prestation Salon"
 type: memory
 ---
 <!-- Breadcrumb -->

@@ -26,7 +26,7 @@ drive_id: 1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU
 
 - [INTRODUCTION](#introduction)
 
-- [Synthèse des faits, pièces administratives et stratégie de recouvrement - Affaire **[La Victime]**](#synthse-des-faits-pices-administratives-et-stratgie-de-recouvrement---affaire-la-victime)
+- [Synthèse des faits, pièces administratives et stratégie de recouvrement - Affaire [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md)](#synthse-des-faits-pices-administratives-et-stratgie-de-recouvrement---affaire-la-victime)
 
 - [I. STRATÉGIE DE RECOUVREMENT DES HONORAIRES PAR SUBROGATION ET PROTECTION FINANCIÈRE DE LA VICTIME](#i-stratgie-de-recouvrement-des-honoraires-par-subrogation-et-protection-financire-de-la-victime)
 

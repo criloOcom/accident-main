@@ -16,13 +16,13 @@ type: rapport
 # RAPPORT PRÉPARATION DÉPÔT PLAINTE COMPLÉMENTAIRE ET ERRATUM
 ## Mission d'Assistance Juridique — 18 juillet 2026
 
-Ce rapport a pour objet de préparer le dépôt de la plainte complémentaire et de l'erratum de désignation au Commissariat de **[La Ville de l'Accident]** la semaine prochaine. Il synthétise l'analyse des pièces existantes et formule les recommandations nécessaires pour sécuriser cette démarche.
+Ce rapport a pour objet de préparer le dépôt de la plainte complémentaire et de l'erratum de désignation au Commissariat de [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md) la semaine prochaine. Il synthétise l'analyse des pièces existantes et formule les recommandations nécessaires pour sécuriser cette démarche.
 
 <hr><hr>
 
 ## 1. Analyse de l'Erratum (Police - Note Erratum Identité.md)
 
-L'erratum actuel est structurellement solide et explique de manière satisfaisante la substitution de **[L'Exploitant du Commerce (La SAS)]** par **[Le Nouvel Exploitant (HB BARBER)]** (HB BARBER). Toutefois, une correction critique doit y être apportée.
+L'erratum actuel est structurellement solide et explique de manière satisfaisante la substitution de [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) par **[Le Nouvel Exploitant (HB BARBER)]** (HB BARBER). Toutefois, une correction critique doit y être apportée.
 
 ### MENTIONS "DÉPOSÉ / ENVOYÉ" HALLUCINÉES
 L'erratum actuel mentionne dans sa section 3 ("Actes déjà déposés/envoyés") des signalements administratifs (Inspection du Travail, URSSAF, Mairie, etc.).
@@ -47,7 +47,7 @@ Il mentionne correctement :
 
 - Le refus de coopération de M. Hamza El Hachemi BERGUIGA (président de HB BARBER).
 
-- La demande expresse de rectification pour viser HB BARBER au lieu de **[L'Exploitant du Commerce (La SAS)]**.
+- La demande expresse de rectification pour viser HB BARBER au lieu de [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md).
 
 **Recommandation :** Le texte est prêt à être dicté à l'OPJ sans modification majeure.
 
@@ -74,13 +74,13 @@ Ce mémo est destiné à être remis à l'OPJ pour fluidifier le dépôt et clar
 ### MÉMO EXPLICATIF POUR LE SERVICE DE TRAITEMENT DES PLAINTES
 
 **Objet :** Dépôt d'une déclaration complémentaire et d'un erratum formel
-**Référence :** PV initial n° **[N° PV Police]** du 02/06/2026
+**Référence :** PV initial n° [**[N° PV Police]**](../Memory/Tokens/token-pv-police-numero.md) du 02/06/2026
 
 **Pourquoi une nouvelle procédure / un complément ?**
-La plainte initiale a été déposée avec incertitude sur l'identité de l'exploitant, sur la base d'informations erronées issues d'internet (désignant la société **[L'Exploitant du Commerce (La SAS)]**). De nouveaux éléments matériels justifient aujourd'hui de rediriger la procédure vers la société ayant réellement exploité le local au jour de l'accident (29 mai 2026).
+La plainte initiale a été déposée avec incertitude sur l'identité de l'exploitant, sur la base d'informations erronées issues d'internet (désignant la société [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md)). De nouveaux éléments matériels justifient aujourd'hui de rediriger la procédure vers la société ayant réellement exploité le local au jour de l'accident (29 mai 2026).
 
 **Ce qui change :**
-La procédure ne doit plus viser la SAS **[L'Exploitant du Commerce (La SAS)]** (qui avait cessé son activité depuis le 10 mars 2026 selon le bailleur), mais la SAS **[Le Nouvel Exploitant (HB BARBER)]** (HB BARBER, SIREN **[SIREN du Nouvel Exploitant]**), créée le 22 avril 2026, seule responsable de la garde de l'équipement au jour du sinistre.
+La procédure ne doit plus viser la SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) (qui avait cessé son activité depuis le 10 mars 2026 selon le bailleur), mais la SAS **[Le Nouvel Exploitant (HB BARBER)]** (HB BARBER, SIREN **[SIREN du Nouvel Exploitant]**), créée le 22 avril 2026, seule responsable de la garde de l'équipement au jour du sinistre.
 
 **Éléments nouveaux rapportés :**
 - Visite des lieux du 16 juillet 2026 confirmant l'exploitation sous enseigne "HB BARBER".

@@ -2,6 +2,7 @@
 type: preuve
 title: "[N° LRAR Directrice] placeholder"
 description: "Placeholder for missing LRAR directrice token file."
+token: "N° LRAR Directrice"
 date: 2026-07-20
 ---
 

@@ -25,17 +25,17 @@ type: memory
 
 | Rôle | Token d'anonymisation |
 | :--- | :--- |
-| Victime | **[La Victime]** |
-| Président de l'exploitation | **[Le Président de l'Exploitation]** |
-| Directrice Générale | **[La Directrice Générale de l'Exploitation]** |
-| Préposé (coiffeur) | **[Le Préposé de l'Exploitation]** |
-| Propriétaire des murs | **[Le Propriétaire des Murs]** |
-| Chirurgien SOS Main | **[Le Chirurgien SOS Main]** |
-| Médecin en Urgence | **[Le Médecin en Urgence]** |
-| Médecin Généraliste | **[Le Médecin Généraliste]** |
-| Gestionnaire CPAM | **[La Gestionnaire CPAM]** |
-| Exploitant du commerce | **[L'Exploitant du Commerce (La SAS)]** |
-| Établissement SOS Main | **[L'Établissement SOS Main]** |
+| Victime | [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) |
+| Président de l'exploitation | [**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md) |
+| Directrice Générale | [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md) |
+| Préposé (coiffeur) | [**[Le Préposé de l'Exploitation]**](../Memory/Tokens/token-exploitation-prepose-nom.md) |
+| Propriétaire des murs | [**[Le Propriétaire des Murs]**](../Memory/Tokens/token-exploitation-bailleur-nom.md) |
+| Chirurgien SOS Main | [**[Le Chirurgien SOS Main]**](../Memory/Tokens/token-hopital-sosmain-chirurgien.md) |
+| Médecin en Urgence | [**[Le Médecin en Urgence]**](../Memory/Tokens/token-hopital-urgence-medecin.md) |
+| Médecin Généraliste | [**[Le Médecin Généraliste]**](../Memory/Tokens/token-victime-medecin-generaliste.md) |
+| Gestionnaire CPAM | [**[La Gestionnaire CPAM]**](../Memory/Tokens/token-cpam-gestionnaire-nom.md) |
+| Exploitant du commerce | [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) |
+| Établissement SOS Main | [**[L'Établissement SOS Main]**](../Memory/Tokens/token-hopital-sosmain-nom.md) |
 
 <hr><hr>
 
@@ -43,14 +43,14 @@ type: memory
 
 | Date | Événement | Détails |
 | :--- | :--- | :--- |
-| 29/05/2026 | Accident corporel | Basculement de la vasque du bac à shampoing ; soins d'urgence par **[Le Médecin en Urgence]**. Remboursement Wero actant la présence de la victime. |
-| 30/05/2026 | Intervention chirurgicale | Microchirurgie par **[Le Chirurgien SOS Main]** au sein de **[L'Établissement SOS Main]**. |
+| 29/05/2026 | Accident corporel | Basculement de la vasque du bac à shampoing ; soins d'urgence par [**[Le Médecin en Urgence]**](../Memory/Tokens/token-hopital-urgence-medecin.md). Remboursement Wero actant la présence de la victime. |
+| 30/05/2026 | Intervention chirurgicale | Microchirurgie par [**[Le Chirurgien SOS Main]**](../Memory/Tokens/token-hopital-sosmain-chirurgien.md) au sein de [**[L'Établissement SOS Main]**](../Memory/Tokens/token-hopital-sosmain-nom.md). |
 | 01/06/2026 | Arrêt de travail et Signalements | Arrêt de travail total de 55 jours. Signalement à l'Inspection du Travail et dépôt de plainte initiale. |
 | 02/06/2026 | Dépôt de plainte officiel | PV de police et constitution de partie civile. |
 | 03/06/2026 | Dossier CPAM | Ouverture du dossier Recours contre Tiers (RCT 31727387). |
 | 10/06/2026 | Facturation soins | Facture de chirurgie (790,23 €). |
 | 12/06/2026 | Prolongation ITT | Prolongation de l'arrêt de travail. |
-| 29/06/2026 | Mises en demeure (LRAR) | Envoi aux destinataires : SAS, **[Le Président de l'Exploitation]**, **[La Directrice Générale de l'Exploitation]** et **[Le Propriétaire des Murs]**. Action directe assureur. Transmission plainte au Procureur. |
+| 29/06/2026 | Mises en demeure (LRAR) | Envoi aux destinataires : SAS, [**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md), [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md) et [**[Le Propriétaire des Murs]**](../Memory/Tokens/token-exploitation-bailleur-nom.md). Action directe assureur. Transmission plainte au Procureur. |
 | 14/07/2026 | Échéance de mise en demeure | Fin de la phase amiable (aucune réponse). |
 | 15/07/2026 | Lancement référé | Assignation en référé-communication. |
 | 31/07/2026 | Audience de référé | Date fixée pour l'audience. |
@@ -84,7 +84,7 @@ D'après la Matrice des Preuves, le dossier médical et procédural est solide (
 ## 5. Analyse Juridique Détaillée
 
 ### A. Responsabilité civile (Art. 1242 C. civ.)
-- **Garde de la chose :** La SAS **[L'Exploitant du Commerce (La SAS)]** est gardienne de ses équipements (vasque en céramique). Le basculement de la vasque et son état défectueux (cassure préexistante non signalée) engagent la responsabilité de plein droit de l'exploitant (Art. 1242 al. 1).
+- **Garde de la chose :** La SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) est gardienne de ses équipements (vasque en céramique). Le basculement de la vasque et son état défectueux (cassure préexistante non signalée) engagent la responsabilité de plein droit de l'exploitant (Art. 1242 al. 1).
 
 - **Obligation de sécurité :** Manquement de l'exploitant à son obligation de sécurité de résultat envers ses clients.
 
@@ -96,7 +96,7 @@ D'après la Matrice des Preuves, le dossier médical et procédural est solide (
 ### C. Faute détachable des dirigeants (Jurisprudence SATI)
 - L'inaction face à un danger connu (vasque pré-cassée, comportement du préposé montant sur la vasque) constitue une faute séparable des fonctions de dirigeant (Cass. Com. 2003, Jurisprudence SATI/SATA).
 
-- Permet de poursuivre **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** sur leurs patrimoines personnels.
+- Permet de poursuivre [**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md) sur leurs patrimoines personnels.
 
 ### D. Voie pénale
 - Plainte déposée pour blessures involontaires ayant entraîné une ITT de moins de 3 mois (Art. 222-20 du Code pénal).
@@ -139,7 +139,7 @@ Le montant total estimé des préjudices est de **~90 000 €**, réparti comme 
 
 - **[J+32 — assignation référé] :** Audience de référé (demande de provision de 15 000 € et communication sous astreinte de l'assurance RC Pro).
 
-- **12 novembre 2026 :** Expertise médicale judiciaire (évaluation des taux de DFP et de l'état de consolidation de **[La Victime]**).
+- **12 novembre 2026 :** Expertise médicale judiciaire (évaluation des taux de DFP et de l'état de consolidation de [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)).
 
 <hr><hr>
 
@@ -150,10 +150,10 @@ Le montant total estimé des préjudices est de **~90 000 €**, réparti comme 
 
 - Tenter d'obtenir des témoignages de clients (Attestations Cerfa).
 
-- Forcer la communication de la police d'assurance RC Pro de **[L'Exploitant du Commerce (La SAS)]** lors de l'audience de référé.
+- Forcer la communication de la police d'assurance RC Pro de [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) lors de l'audience de référé.
 
 ### Moyen terme (Post-expertise du 12 novembre)
-- Obtenir le certificat médical de consolidation auprès de **[Le Chirurgien SOS Main]**.
+- Obtenir le certificat médical de consolidation auprès de [**[Le Chirurgien SOS Main]**](../Memory/Tokens/token-hopital-sosmain-chirurgien.md).
 
 - Sur la base de l'expertise, réévaluer précisément le DFP et les souffrances endurées.
 
@@ -167,4 +167,4 @@ Le montant total estimé des préjudices est de **~90 000 €**, réparti comme 
 
 2. **Prescription :** Bien que l'accident soit récent (29/05/2026), le suivi rigoureux des délais pénaux et civils est impératif.
 
-3. **Preuves matérielles manquantes :** L'absence d'attestations ou de vidéos pourrait permettre à la défense d'alléguer une faute de **[La Victime]**. Il est urgent de cristalliser la preuve de la défectuosité du bac à shampoing (cassure préexistante non signalée) et de l'imprudence de **[Le Préposé de l'Exploitation]**.
+3. **Preuves matérielles manquantes :** L'absence d'attestations ou de vidéos pourrait permettre à la défense d'alléguer une faute de [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md). Il est urgent de cristalliser la preuve de la défectuosité du bac à shampoing (cassure préexistante non signalée) et de l'imprudence de [**[Le Préposé de l'Exploitation]**](../Memory/Tokens/token-exploitation-prepose-nom.md).

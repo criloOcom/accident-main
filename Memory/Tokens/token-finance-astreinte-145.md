@@ -1,6 +1,7 @@
 ---
 title: "💰 Finance<br>Astreinte 145"
 description: "Token :** `**[Finance Astreinte 145]**`"
+token: "Finance Astreinte 145"
 type: memory
 ---
 <!-- Breadcrumb -->

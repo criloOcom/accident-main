@@ -71,10 +71,10 @@ statut: preparation
 ## 4. Paiement Wero – Témoin Ayoub
 
 ### 4.1 Fait de base
-Le 29/05/2026, Sébastien a effectué un paiement de 15 € via l'application Wero au bénéfice d'un compte identifié au nom d'**[Le Préposé de l'Exploitation]** (Ayoub BENNOURINE), correspondant à la prestation de coiffure reçue immédiatement avant l'accident. 
+Le 29/05/2026, Sébastien a effectué un paiement de 15 € via l'application Wero au bénéfice d'un compte identifié au nom d'[**[Le Préposé de l'Exploitation]**](../Memory/Tokens/token-exploitation-prepose-nom.md) (Ayoub BENNOURINE), correspondant à la prestation de coiffure reçue immédiatement avant l'accident. 
 * **Preuve** : Relevé de transaction Wero mentionnant le débit et le nom du bénéficiaire.
 
-* **Téléphone du bénéficiaire** : **[Le Téléphone du Préposé]** (+33 7 58 40 12 87).
+* **Téléphone du bénéficiaire** : [**[Le Téléphone du Préposé]**](../Memory/Tokens/token-exploitation-prepose-telephone.md) (+33 7 58 40 12 87).
 
 ### 4.2 Rôle d'Ayoub dans le dossier
 Ayoub Bennourine est formellement qualifié comme **préposé coiffeur / encaisseur Wero présent au moment des faits**. Son identification a une double importance :

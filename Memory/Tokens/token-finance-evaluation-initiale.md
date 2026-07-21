@@ -1,6 +1,7 @@
 ---
 title: "💰 Finance<br>Évaluation Globale Dintilhac"
 description: "Token :** `**[Finance Evaluation Globale]**`"
+token: "Finance Evaluation Globale"
 type: memory
 ---
 <!-- Breadcrumb -->

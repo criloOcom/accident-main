@@ -1,6 +1,7 @@
 ---
 title: "**[L'adresse du centre de soins immédiats]** — Adresse du centre de soins à Foix"
 description: ""
+token: "L'adresse du centre de soins immédiats"
 type: fiche
 date: FIXME
 status: brouillon

@@ -26,13 +26,13 @@ Ce document contient 50 questions d'audit précises destinées à l'agent **open
 
 4. L'adresse email personnelle du bailleur (`romain.delrieu@live.fr`) a-t-elle été anonymisée dans `Police - Note Personnelle.md` ?
 
-5. Quelle est l'adresse exacte de la fiche individuelle de token correspondant à `**[Le Prénom du Préposé]**` ?
+5. Quelle est l'adresse exacte de la fiche individuelle de token correspondant à `[**[Le Prénom du Préposé]**](../Memory/Tokens/token-prepose-prenom.md)` ?
 
 6. La fiche `token-prepose-prenom.md` possède-t-elle des liens croisés et bidirectionnels vers `token-exploitation-prepose-nom.md` et `token-exploitation-prepose-telephone.md` ?
 
-7. Le token `[**[Le Prénom du Préposé]**]` est-il correctement répertorié dans la `TOKEN MAP.md` à la ligne 25 ?
+7. Le token `[**[Le Prénom du Préposé]**](../Memory/Tokens/token-prepose-prenom.md)` est-il correctement répertorié dans la `TOKEN MAP.md` à la ligne 25 ?
 
-8. Le token `[**[Le Prénom du Préposé]**]` est-il listé dans le `README.md` du dossier `Memory/Tokens/` ?
+8. Le token `[**[Le Prénom du Préposé]**](../Memory/Tokens/token-prepose-prenom.md)` est-il listé dans le `README.md` du dossier `Memory/Tokens/` ?
 
 9. Le script `batch_anonymize.py` contient-il les règles de substitution pour `"« Ayoub »"` et `"Ayoub"` ?
 

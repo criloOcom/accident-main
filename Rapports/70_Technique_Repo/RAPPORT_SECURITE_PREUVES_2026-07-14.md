@@ -11,7 +11,7 @@ type: rapport
 
 # STRATÉGIE DE SÉCURISATION PROBATOIRE ET CONSERVATION DES PREUVES
 
-Le présent rapport dresse un état des lieux de la stratégie probatoire mise en œuvre dans le dossier de **[La Victime]** à l'encontre de **[L'Exploitant du Commerce (La SAS)]** et de ses dirigeants. L'enjeu est de consolider l'établissement matériel des faits ayant conduit à l'accident du 29 mai 2026, au regard de l'exigence imposée par l'[Article 9 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410102) (il incombe à chaque partie de prouver les faits nécessaires au succès de sa prétention).
+Le présent rapport dresse un état des lieux de la stratégie probatoire mise en œuvre dans le dossier de [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) à l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants. L'enjeu est de consolider l'établissement matériel des faits ayant conduit à l'accident du 29 mai 2026, au regard de l'exigence imposée par l'[Article 9 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410102) (il incombe à chaque partie de prouver les faits nécessaires au succès de sa prétention).
 
 <hr><hr>
 
@@ -25,11 +25,11 @@ La validité de cette démarche tient au "motif légitime" de conserver ou d'ét
 
 L'urgence est caractérisée par le délai de conservation des images de vidéosurveillance (généralement 30 jours, avec risque accru d'effacement automatique ou volontaire avant le 15 août 2026). La jurisprudence sanctionne la perte de preuves essentielles au principe de l'égalité des armes (Article 6 de la CEDH).
 
-Il est rappelé aux dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, que la destruction ou l'altération volontaire d'un objet ou document de nature à faciliter la recherche des preuves d'un délit (comme des blessures involontaires) est un délit réprimé par l'[Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608), puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
+Il est rappelé aux dirigeants, [**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../Memory/Tokens/token-exploitation-dg-nom.md), que la destruction ou l'altération volontaire d'un objet ou document de nature à faciliter la recherche des preuves d'un délit (comme des blessures involontaires) est un délit réprimé par l'[Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608), puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 
 ### I.2 — Mesures pénales complémentaires
 
-En complément de la procédure civile, le Procureur de la République pourrait, dans le cadre de l'enquête préliminaire diligentée suite à la plainte de **[La Victime]**, prescrire tout acte utile (au titre de l'[Article 41 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311420)).
+En complément de la procédure civile, le Procureur de la République pourrait, dans le cadre de l'enquête préliminaire diligentée suite à la plainte de [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md), prescrire tout acte utile (au titre de l'[Article 41 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311420)).
 
 En outre, l'Officier de Police Judiciaire (OPJ) a le pouvoir de réquisitionner des informations ou des enregistrements auprès de la SAS, y compris des éléments informatiques, par application de l'[Article 60-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575048).
 
@@ -63,7 +63,7 @@ Le paiement de 15,00 € effectué via l'application "Wero" le jour de l'acciden
 
 D'une part, conformément au principe général de la charge de la preuve affirmé à l'[Article 1353 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341), ce paiement prouve la relation contractuelle (prestation de coiffure).
 
-D'autre part, en tant qu'enregistrement électronique généré par un tiers de confiance (établissement bancaire), il est irréfutable et certifie la présence temporelle de **[La Victime]** dans le salon **[L'Exploitant du Commerce (La SAS)]** au moment des faits. Par extension, s'agissant de transactions électroniques, il est lié aux dispositions sur la fourniture de services dématérialisés de l'[Article 1369-1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006438545).
+D'autre part, en tant qu'enregistrement électronique généré par un tiers de confiance (établissement bancaire), il est irréfutable et certifie la présence temporelle de [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) dans le salon [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) au moment des faits. Par extension, s'agissant de transactions électroniques, il est lié aux dispositions sur la fourniture de services dématérialisés de l'[Article 1369-1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006438545).
 
 <hr><hr>
 
@@ -74,8 +74,8 @@ Le tableau suivant lie les prétentions aux pièces actuellement conservées :
 *   **Existence de l'accident et des blessures**
 
     *   Pièce 1 : PV de police (Preuve de la plainte et de l'enquête)
-    *   Pièce 2 : Certificat médical initial par **[Le Médecin en Urgence]** (Constat des blessures immédiates)
-    *   Pièce 3 : Compte-rendu opératoire par **[Le Chirurgien SOS Main]** (Description lésionnelle et imputation)
+    *   Pièce 2 : Certificat médical initial par [**[Le Médecin en Urgence]**](../../Memory/Tokens/token-hopital-urgence-medecin.md) (Constat des blessures immédiates)
+    *   Pièce 3 : Compte-rendu opératoire par [**[Le Chirurgien SOS Main]**](../../Memory/Tokens/token-hopital-sosmain-chirurgien.md) (Description lésionnelle et imputation)
 *   **Présence sur les lieux et relation contractuelle**
 
     *   Pièce 6 : Paiement Wero (Preuve irréfutable de la relation et présence)
@@ -86,4 +86,4 @@ Le tableau suivant lie les prétentions aux pièces actuellement conservées :
     *   Pièce 9 : Dossier de la CPAM (Confirmation du sinistre et prise en charge)
 *   **Démarches amiables et obstruction des dirigeants**
 
-    *   Pièces 10, 11, 12, 13 : Mises en demeure LRAR (Preuve de la carence de **[L'Exploitant du Commerce (La SAS)]**, de **[Le Président de l'Exploitation]** et de **[La Directrice Générale de l'Exploitation]**)
+    *   Pièces 10, 11, 12, 13 : Mises en demeure LRAR (Preuve de la carence de [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md), de [**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md) et de [**[La Directrice Générale de l'Exploitation]**](../../Memory/Tokens/token-exploitation-dg-nom.md))

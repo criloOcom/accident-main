@@ -2,6 +2,7 @@
 type: preuve
 title: "[N° LRAR Ancien Président]"
 description: "LRAR n° 87001424862879J — Mise en demeure du 29/06/2026 adressée à Sabir MOUNTASSER (ancien président de la SAS LES MAUVAIS GARÇONS)"
+token: "N° LRAR Ancien Président"
 date: 2026-07-20
 ---
 

@@ -16,7 +16,7 @@ type: rapport
 ## I — DOUBLE STRATE 🔑 TOKEN / 👤 REEL : MINIMISATION ET PRIVACY BY DESIGN
 
 ### I.1 — Mécanisme actuel
-Le dépôt Git utilise une architecture en double strate. Les documents de travail (assignations, plaintes, analyses) sont stockés dans un sous-répertoire `Token/` et sont anonymisés via un système de tokens (ex. **[La Victime]**, **[L'Exploitant du Commerce (La SAS)]**). Les versions contenant les données réelles sont générées dans un sous-répertoire `Reel/` par le script `generate_real_versions.py`.
+Le dépôt Git utilise une architecture en double strate. Les documents de travail (assignations, plaintes, analyses) sont stockés dans un sous-répertoire `Token/` et sont anonymisés via un système de tokens (ex. [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md), [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md)). Les versions contenant les données réelles sont générées dans un sous-répertoire `Reel/` par le script `generate_real_versions.py`.
 
 ### I.2 — Analyse de conformité
 - Ce mécanisme est conforme au principe de « minimisation des données » énoncé à l'[article 5, paragraphe 1, point c), du règlement (UE) 2016/679 (RGPD)](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032961803/). En effet, les données à caractère personnel (noms, adresses, coordonnées) ne sont affichées en clair que lorsque cela est strictement nécessaire pour l'édition des actes définitifs.
@@ -69,7 +69,7 @@ D'après l'analyse du fonctionnement du dépôt, des données personnelles en cl
 ## IV — EXERCICE DES DROITS DES PERSONNES
 
 ### IV.1 — Droits applicables
-- Toute personne concernée (la victime, le dirigeant **[Le Président de l'Exploitation]**, l'employé **[Le Préposé de l'Exploitation]**) dispose des droits d'accès, de rectification et d'effacement sur ses données personnelles ([articles 15, 16 et 17 du RGPD](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032961803/)).
+- Toute personne concernée (la victime, le dirigeant [**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md), l'employé [**[Le Préposé de l'Exploitation]**](../../Memory/Tokens/token-exploitation-prepose-nom.md)) dispose des droits d'accès, de rectification et d'effacement sur ses données personnelles ([articles 15, 16 et 17 du RGPD](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032961803/)).
 
 ### IV.2 — Limites dans le cadre contentieux
 - **Le droit à l'effacement** ne s'applique pas lorsque le traitement est nécessaire à « la constatation, à l'exercice ou à la défense de droits en justice », conformément à l'[article 17, paragraphe 3, point e), du RGPD](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032961803/).
@@ -98,7 +98,7 @@ D'après l'analyse du fonctionnement du dépôt, des données personnelles en cl
 - Le traitement des données d'identité et de contact des différentes parties (victime, auteurs présumés, témoins) est licite puisqu'il est nécessaire aux fins des **intérêts légitimes** poursuivis par la victime pour préparer sa défense et faire valoir ses droits ([article 6, paragraphe 1, point f), du RGPD](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032961803/)).
 
 ### VI.2 — Cas des données de santé
-- Le dossier comporte d'importantes données médicales concernant **[La Victime]** (certificats de **[Le Médecin Généraliste]** et de **[Le Chirurgien SOS Main]**, séquelles).
+- Le dossier comporte d'importantes données médicales concernant [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) (certificats de [**[Le Médecin Généraliste]**](../../Memory/Tokens/token-victime-medecin-generaliste.md) et de [**[Le Chirurgien SOS Main]**](../../Memory/Tokens/token-hopital-sosmain-chirurgien.md), séquelles).
 
 - Ce traitement est autorisé par l'exception prévue à l'[article 9, paragraphe 2, point f), du RGPD](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032961803/), qui dispose que l'interdiction de traiter des données sensibles est levée si « le traitement est nécessaire à la constatation, à l'exercice ou à la défense d'un droit en justice ».
 

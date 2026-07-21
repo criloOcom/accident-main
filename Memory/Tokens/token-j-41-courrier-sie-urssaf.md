@@ -1,6 +1,7 @@
 ---
 title: "📅 J+41 Courrier SIE URSSAF"
 description: "Token :** `**[J+41 Courrier SIE URSSAF]**`"
+token: "J+41 Courrier SIE URSSAF"
 type: memory
 ---
 <!-- Breadcrumb -->

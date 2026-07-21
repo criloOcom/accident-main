@@ -15,8 +15,8 @@ type: rapport
 
 **Date d'analyse :** 14 Juillet 2026
 **Objet :** Examen conjoint de la requête fondée sur l'article 145 CPC et des conclusions aux fins de référé-provision (article 835 al. 2 CPC) concernant l'accident du 29 mai 2026.
-**Demandeur :** **[La Victime]**
-**Défenderesse :** SAS **[L'Exploitant du Commerce (La SAS)]**
+**Demandeur :** [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md)
+**Défenderesse :** SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
 <hr><hr>
 
@@ -71,7 +71,7 @@ La provision sera allouée dans son intégralité.
 
 ## IV — SUR L'ASTREINTE
 
-Afin de garantir l'effectivité de l'injonction de communiquer la police d'assurance et les extraits vidéos, la demande d'astreinte chiffrée à **[Finance Astreinte 145]** par jour de retard est une mesure de contrainte adaptée.
+Afin de garantir l'effectivité de l'injonction de communiquer la police d'assurance et les extraits vidéos, la demande d'astreinte chiffrée à [**[Finance Astreinte 145]**](../../../Memory/Tokens/token-finance-astreinte-145.md) par jour de retard est une mesure de contrainte adaptée.
 
 L'attitude manifestement dilatoire de la SAS, illustrée par le silence radio face aux lettres recommandées, commande l'application d'une sanction financière dissuasive dès le 8ème jour suivant la signification de l'ordonnance.
 

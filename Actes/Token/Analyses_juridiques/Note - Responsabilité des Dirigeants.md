@@ -1,6 +1,6 @@
 ---
 title: "Note Responsabilité Dirigeants Dissolution"
-description: "Dans l'hypothèse où **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** procèderaient à la dissolution ou à la radiation de **[L'Exploitant du Commerce (La SAS)]** afin d'échapper aux poursuites et à l'indemnisation"
+description: "Dans l'hypothèse où [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-dg-nom.md) procèderaient à la dissolution ou à la radiation de [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) afin d'échapper aux poursuites et à l'indemnisation"
 type: analyse_juridique
 date: 2026-07-09
 tags:

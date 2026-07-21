@@ -1,6 +1,7 @@
 ---
 title: "⏱ DATE RELANCE V2"
 description: "Token :** `**[DATE RELANCE V2]**`"
+token: "DATE RELANCE V2"
 real_value: "8 juillet 2026"
 type: memory
 ---

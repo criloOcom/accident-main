@@ -531,4 +531,4 @@ Relance à la suite de l'ouverture du dossier RCT à J+5. Quatre demandes struct
 
 - **Suites** : plan de relance/archivage validé (9 archivés, 1 consolidation, 2 surveillance)
 
-**[La Victime]**
+[**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md)

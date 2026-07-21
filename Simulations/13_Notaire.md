@@ -22,7 +22,7 @@ date: 2026-07-14
 
 ### A. Identité de la société
 
-La SAS **[L'Exploitant du Commerce (La SAS)]** est une société par actions simplifiée immatriculée au Registre du Commerce et des Sociétés (RCS) de Foix.
+La SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) est une société par actions simplifiée immatriculée au Registre du Commerce et des Sociétés (RCS) de Foix.
 
 **Capital social déclaré :** 200 € (deux cents euros)
 
@@ -31,9 +31,9 @@ Cette information publique, consultable via le registre des bénéficiaires effe
 ### B. Dirigeants
 
 La société est dirigée par :
-- **[Le Président de l'Exploitation]** — Président
+- [**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md) — Président
 
-- **[La Directrice Générale de l'Exploitation]** — Directrice Générale
+- [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md) — Directrice Générale
 
 Les statuts types d'une SAS de cette taille confèrent généralement au président les pouvoirs les plus étendus pour engager la société, ce qui inclut la gestion des obligations de sécurité.
 
@@ -67,7 +67,7 @@ L'absence de délégation de pouvoirs écrite et effective rend la responsabilit
 
 ### A. Capacité financière de la société
 
-Avec un capital social de 200 €, la SAS **[L'Exploitant du Commerce (La SAS)]** ne dispose pas de fonds propres suffisants pour faire face à une condamnation indemnitaire significative (plusieurs dizaines de milliers d'euros au vu des préjudices allégués).
+Avec un capital social de 200 €, la SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) ne dispose pas de fonds propres suffisants pour faire face à une condamnation indemnitaire significative (plusieurs dizaines de milliers d'euros au vu des préjudices allégués).
 
 ### B. Assurance RC Professionnelle
 
@@ -85,9 +85,9 @@ DG (personne physique) | Patrimoine personnel | → Action en responsabilité pe
 
 ## IV — RECOMMANDATIONS
 
-À l'attention du conseil de **[La Victime]** :
+À l'attention du conseil de [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) :
 
-1. **Vérification urgente** de l'existence et des plafonds de l'assurance RC professionnelle de la SAS **[L'Exploitant du Commerce (La SAS)]**
+1. **Vérification urgente** de l'existence et des plafonds de l'assurance RC professionnelle de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md)
 
 2. **Recherche de la responsabilité personnelle** des dirigeants devant la juridiction répressive (constitution de partie civile) et devant la juridiction civile (faute détachable)
 

@@ -71,7 +71,7 @@ Les dates suivantes, bien que proches, sont **correctement** utilisées dans leu
 - **29 juin 2026** : Correspond correctement à la date d'envoi des premières lettres de mise en demeure (LRAR).
 
 ## 🛠️ Actions recommandées
-Il est impératif de corriger les occurrences de `29 juin 2026` listées ci-dessus dans les fichiers `Token` en les remplaçant par la date exacte du sinistre : `29 mai 2026` (ou via l'utilisation stricte du token `[**[J+0 Accident]**]`). Une fois les fichiers Token corrigés, le script de génération des versions réelles devra être exécuté pour propager les corrections.
+Il est impératif de corriger les occurrences de `29 juin 2026` listées ci-dessus dans les fichiers `Token` en les remplaçant par la date exacte du sinistre : `29 mai 2026` (ou via l'utilisation stricte du token `[**[J+0 Accident]**](../Memory/Tokens/token-j-0-accident.md)`). Une fois les fichiers Token corrigés, le script de génération des versions réelles devra être exécuté pour propager les corrections.
 
 ---
 *Fin du rapport d'audit.*

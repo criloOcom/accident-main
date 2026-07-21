@@ -67,7 +67,7 @@ type: rapport
   - `Purpan` dans « Hôpital de Purpan (CHU Toulouse) » = ambigu (hôpital, pas adresse victime) → laissé.
 - **Conclusion : M05 ne nécessite AUCUNE correction de texte.** Les « fuites » listées par l'audit sont des faux positifs (comptage naïf incluant URLs/liens/chemins). Zéro régression.
 
-- **Reste à traiter (strate `Reel`) :** tokens non résolus (`**[La Victime]**`, `**[Capital Social de l'Exploitation]**`, dates/J+…) → gérés par `generate_real_versions.py` (ré-générer la strate Reel), PAS par édition manuelle.
+- **Reste à traiter (strate `Reel`) :** tokens non résolus (`[**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)`, `[**[Capital Social de l'Exploitation]**](../Memory/Tokens/token-exploitation-capital-social.md)`, dates/J+…) → gérés par `generate_real_versions.py` (ré-générer la strate Reel), PAS par édition manuelle.
 
 - Détail : `85_Coherence_2026-07-15/M05_AUDIT_TOKEN_REEL.md`.
 

@@ -1,6 +1,6 @@
 ---
 title: "Index de l'État Final du Dossier"
-description: "Rédigé le 30 juin 2026 — Mis à jour le **[J+38 Mise à jour]** (unification bordereau 43 pièces)"
+description: "Rédigé le 30 juin 2026 — Mis à jour le [**[J+38 Mise à jour]**](../../../Memory/Tokens/token-j-38-mise-a-jour.md) (unification bordereau 43 pièces)"
 type: readme
 date: 2026-07-07
 tags:

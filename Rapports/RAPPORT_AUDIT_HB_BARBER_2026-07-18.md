@@ -57,7 +57,7 @@ De nombreuses mentions de dépôt ou transmission ont été intégrées prématu
 ## 3. Analyse de la Cohérence des Actes avec HB BARBER
 
 ### 3.1. Actes de Procédure Civile (Requête Art. 145 CPC, Référé)
-- **État actuel :** La plupart des documents visent historiquement **[L'Exploitant du Commerce (La SAS)]** et ne sont pas à jour des constats du 16/07.
+- **État actuel :** La plupart des documents visent historiquement [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) et ne sont pas à jour des constats du 16/07.
 
 - **Cohérence :** **Obsolète / Incomplet**. La disparition des meubles et le remplacement du bac (potentielle destruction de preuves) justifient d'autant plus une intervention judiciaire rapide (art. 145 CPC). De plus, l'absence d'information sur l'assurance par le dirigeant de HB BARBER rend cette procédure impérative contre cette nouvelle entité.
 
@@ -71,7 +71,7 @@ De nombreuses mentions de dépôt ou transmission ont été intégrées prématu
 - **Action requise :** Finaliser et valider formellement la plainte contre HB BARBER et **[Le Président du Nouvel Exploitant]**, en insistant sur le délit de destruction de preuves potentielles et le défaut d'assurance suspecté.
 
 ### 3.3. Correspondances et Mises en demeure
-- **État actuel :** Les courriers existants s'adressent à **[L'Exploitant du Commerce (La SAS)]**, au bailleur et à la mairie (ex: `20260629_LR_Transmission_TribunalFOIX ProcureurDeLaRépublique.md`).
+- **État actuel :** Les courriers existants s'adressent à [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md), au bailleur et à la mairie (ex: `20260629_LR_Transmission_TribunalFOIX ProcureurDeLaRépublique.md`).
 
 - **Cohérence :** **Obsolète**. La SAS initiale est inactive sur ce site depuis le 10 mars 2026 selon le bailleur. L'absence de réponse de HB BARBER sur place confirme la nécessité de nouvelles mises en demeure ciblées.
 

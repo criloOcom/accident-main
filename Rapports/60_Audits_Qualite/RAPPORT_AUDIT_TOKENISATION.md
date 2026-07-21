@@ -35,7 +35,7 @@ type: rapport
 | `Organisation/24 Archive - Checklist Envoi 11-07-2026.md` | 62 | `Sebastien GRAZIDE` |
 | `Organisation/24 Archive - Checklist Envoi 11-07-2026.md` | 69 | `Sebastien GRAZIDE` |
 
-**Risque :** Le token `**[La Victime]**` est contourné — l'identité réelle apparaît en clair dans deux fichiers du dossier tokenisé.
+**Risque :** Le token `[**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md)` est contourné — l'identité réelle apparaît en clair dans deux fichiers du dossier tokenisé.
 
 ### II.2 — 🔴 FUITE 2 — Identité complète des dirigeants de la SAS
 
@@ -54,7 +54,7 @@ type: rapport
 | `Courriers/CODAF - Préfecture - Signalement.md` | 13 | `btavella@mairie-foix.fr` |
 | `Courriers/CODAF - Préfecture - Signalement.md` | 14 | `secretariat@mairie-foix.fr` |
 
-**Risque :** Les emails réels d'un tiers (agent public) sont en clair dans un fichier tokenisé. Le token `**[L'Adjoint au Maire de la Commune]**` existe dans le script mais n'a pas été appliqué ici (le nom `Bernard TAVELLA` apparaît en clair en ligne 7).
+**Risque :** Les emails réels d'un tiers (agent public) sont en clair dans un fichier tokenisé. Le token `[**[L'Adjoint au Maire de la Commune]**](../../Memory/Tokens/token-mairie-adjoint-nom.md)` existe dans le script mais n'a pas été appliqué ici (le nom `Bernard TAVELLA` apparaît en clair en ligne 7).
 
 ### II.4 — 🔴 FUITE 4 — Adresse email Mairie de Foix (suggestion)
 
@@ -72,7 +72,7 @@ type: rapport
 | `Courriers/14 ✉️ Courrier CODAF.md` | 102 | `(938 033 222)` |
 | `Courriers/12 ✉️ Courrier URSSAF.md` | 99 | `(938 033 222)` |
 
-**Risque :** Le SIREN `938 033 222` apparaît en clair dans 5 fichiers différents, bien qu'un token `**[SIREN de l'Exploitation]**` existe dans le script. L'anonymisation par lots n'a pas traité ces fichiers, ou le token n'a pas été utilisé lors de la rédaction.
+**Risque :** Le SIREN `938 033 222` apparaît en clair dans 5 fichiers différents, bien qu'un token `[**[SIREN de l'Exploitation]**](../../Memory/Tokens/token-exploitation-siren.md)` existe dans le script. L'anonymisation par lots n'a pas traité ces fichiers, ou le token n'a pas été utilisé lors de la rédaction.
 
 ### II.6 — 🔴 FUITE 6 — Adresses en clair dans plusieurs fichiers
 
@@ -110,7 +110,7 @@ type: rapport
 | `Organisation/Note - Plan Constat Police Foix.md` | 46 | `29 mai 2026` |
 | `Organisation/Note - Modification Email Maire Foix.md` | 25 | `29 mai 2026` |
 
-**Risque :** Les dates clés de l'accident sont en clair. Les tokens `**[J+0 Accident]**`, `**[J+1 Chirurgie]**` etc. existent mais n'ont pas été utilisés dans ces fichiers.
+**Risque :** Les dates clés de l'accident sont en clair. Les tokens `[**[J+0 Accident]**](../../Memory/Tokens/token-j-0-accident.md)`, `[**[J+1 Chirurgie]**](../../Memory/Tokens/token-j-1-chirurgie.md)` etc. existent mais n'ont pas été utilisés dans ces fichiers.
 
 ---
 
@@ -120,24 +120,24 @@ type: rapport
 
 | Catégorie | Nombre | Exemples |
 |---|---|---|
-| Personnes physiques | 8 | `**[La Victime]**`, `**[Le Président...]**`, etc. |
-| Personnes morales | 2 | `**[L'Exploitant du Commerce (La SAS)]**`, `**[L'Établissement SOS Main]**` |
-| Adresses/villes | 8 | `**[L'Adresse de la Victime]**`, `**[La Ville de l'Accident]**`, etc. |
-| Identifiants | 5 | `**[L'Email de la Victime]**`, `**[L'Identifiant Professionnel...]**`, etc. |
+| Personnes physiques | 8 | `[**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md)`, `**[Le Président...]**`, etc. |
+| Personnes morales | 2 | `[**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md)`, `[**[L'Établissement SOS Main]**](../../Memory/Tokens/token-hopital-sosmain-nom.md)` |
+| Adresses/villes | 8 | `[**[L'Adresse de la Victime]**](../../Memory/Tokens/token-victime-adresse.md)`, `[**[La Ville de l'Accident]**](../../Memory/Tokens/token-accident-ville.md)`, etc. |
+| Identifiants | 5 | `[**[L'Email de la Victime]**](../../Memory/Tokens/token-victime-email.md)`, `**[L'Identifiant Professionnel...]**`, etc. |
 
 ### III.2 — ❌ Tokens MANQUANTS dans la TOKEN MAP (présents dans le script ou les fichiers)
 
 | Token | Valeur réelle (script) | Utilisé dans |
 |---|---|---|
-| `**[L'Adjoint au Maire de la Commune]**` | Monsieur TAVELLA | `Courriers/09`, `Courriers/08` |
-| `**[L'Email de l'Adjoint au Maire]**` | *manquant* | `Archives/Archive - Stratégie Contentieux Pénal.md` |
+| `[**[L'Adjoint au Maire de la Commune]**](../../Memory/Tokens/token-mairie-adjoint-nom.md)` | Monsieur TAVELLA | `Courriers/09`, `Courriers/08` |
+| `[**[L'Email de l'Adjoint au Maire]**](../../Memory/Tokens/token-mairie-adjoint-email.md)` | *manquant* | `Archives/Archive - Stratégie Contentieux Pénal.md` |
 | `**[Agent PJ, dépôt de plainte]**` | Jordy RODRIGUEZ CAPARROS | `Actes_proceduraux/04`, `Preuves_officielles/01` |
 | `**[SMUR local]**` | SMUR 09 | `Actes_proceduraux/01`, `Actes_proceduraux/03`, `Archives/📚 ANALYSE` |
-| `**[Le Téléphone de la Victime]**` | 06 30 51 67 75 | *(défini dans script, non vérifié dans fichiers)* |
-| `**[SIREN de l'Exploitation]**` | 938 033 222 | `Courriers/14, 12, 19, 35`, `01_Actes/33` |
-| `**[SIRET de l'Exploitation]**` | 938 033 222 00010 | *(défini dans script)* |
-| `**[N° LRAR Exploitant]**` + 4 variantes | 87001424863012T etc. | *(défini dans script)* |
-| `**[N° Transaction Wero]**` | IPR000297029234 | *(défini dans script)* |
+| `[**[Le Téléphone de la Victime]**](../../Memory/Tokens/token-victime-telephone.md)` | 06 30 51 67 75 | *(défini dans script, non vérifié dans fichiers)* |
+| `[**[SIREN de l'Exploitation]**](../../Memory/Tokens/token-exploitation-siren.md)` | 938 033 222 | `Courriers/14, 12, 19, 35`, `01_Actes/33` |
+| `[**[SIRET de l'Exploitation]**](../../Memory/Tokens/token-exploitation-siret.md)` | 938 033 222 00010 | *(défini dans script)* |
+| `[**[N° LRAR Exploitant]**](../../Memory/Tokens/token-lrar-exploitant.md)` + 4 variantes | 87001424863012T etc. | *(défini dans script)* |
+| `[**[N° Transaction Wero]**](../../Memory/Tokens/token-finance-transaction-wero.md)` | IPR000297029234 | *(défini dans script)* |
 | `**[Adresse du Commerce]**` | 22 Rue Lafaurie, 09000 Foix | `Courriers/08` |
 | `**[Centre de soins immédiats]**` | Centre Ariégeois de Soins Immédiats | *(défini dans script)* |
 
@@ -149,13 +149,13 @@ type: rapport
 
 1. **TOKEN MAP ≠ REVERSE_MAP** — La REVERSE_MAP contient 60+ entrées, la TOKEN MAP en contient ~20. Toute entrée dans la REVERSE_MAP devrait avoir sa contrepartie dans la TOKEN MAP.
 
-2. **Tokens en double dans REVERSE_MAP** — Lignes 6-7 et 17-18 dupliquées : `**[La Victime]**`, `**[Le Président...]**`, `**[La Directrice...]**`, `**[Le Préposé...]**`. Idem lignes 9-11 et 23-25 pour `**[Le Propriétaire...]**`.
+2. **Tokens en double dans REVERSE_MAP** — Lignes 6-7 et 17-18 dupliquées : `[**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md)`, `**[Le Président...]**`, `**[La Directrice...]**`, `**[Le Préposé...]**`. Idem lignes 9-11 et 23-25 pour `**[Le Propriétaire...]**`.
 
 3. **Variantes accentuées/non accentuées** incomplètes : `**[Le President de l'Exploitation]**` (sans accent) est présent, mais `**[Le Chirurgien...]**` n'a pas sa variante sans accent.
 
 4. **Fallback `[N° PV Police]`** (sans gras) présent ligne 96 mais TOKEN MAP n'a que la version avec `**`.
 
-5. **Ordre des remplacements** : Le remplacement des tokens longs (ex: `**[L'Adresse de la Victime]**`) se fait ligne 118 avant les tokens plus courts. Mais `replace_header_block()` (ligne 117-120) fait un regex qui pourrait échouer si le format exact du bloc n'est pas respecté.
+5. **Ordre des remplacements** : Le remplacement des tokens longs (ex: `[**[L'Adresse de la Victime]**](../../Memory/Tokens/token-victime-adresse.md)`) se fait ligne 118 avant les tokens plus courts. Mais `replace_header_block()` (ligne 117-120) fait un regex qui pourrait échouer si le format exact du bloc n'est pas respecté.
 
 6. **Adresses personnelles des dirigeants manquantes** : `108 Cité Aimé Surre, 09000 Foix` et `7 Rue Camille Mussat, 31100 Toulouse` ne sont ni dans la TOKEN MAP ni dans la REVERSE_MAP.
 
@@ -171,7 +171,7 @@ type: rapport
 
 4. **`Dr DJERBI`** est tokenisé ligne 88, mais la forme exacte utilisée dans `06 Synthese` (`Dr DJERBI` sans le prénom Iskander) n'est pas listée — seulement `Dr DJERBI` avec la ligne 88 `("DJERBI", "[Le Chirurgien SOS Main]")` qui devrait attraper.
 
-5. **Le `reverse_header_block`** dans `generate_real_versions.py` ne fonctionnera pas correctement — il cherche `**[L'Adresse de la Victime]**\n\nCourriel : **[L'Email de la Victime]**` qui est un format très spécifique pouvant ne pas correspondre à la réalité du document.
+5. **Le `reverse_header_block`** dans `generate_real_versions.py` ne fonctionnera pas correctement — il cherche `[**[L'Adresse de la Victime]**](../../Memory/Tokens/token-victime-adresse.md)\n\nCourriel : [**[L'Email de la Victime]**](../../Memory/Tokens/token-victime-email.md)` qui est un format très spécifique pouvant ne pas correspondre à la réalité du document.
 
 6. **`generate_real_versions.py` remplace les tokens `**[...]**`** par des valeurs réelles, mais il ignore les fichiers `INDEX.md` et `README.md` (ligne 147). Les fichiers dans `Preuves_officielles/01` seront traités car ils ne s'appellent ni INDEX ni README, mais `batch_anonymize.py` ne pourrait pas retokenizer les fichiers 00.
 
@@ -185,9 +185,9 @@ type: rapport
 
 2. **Régénérer ou corriger manuellement** les 3 fichiers les plus critiques :
 
-   - `Organisation/Note - Modification Email Maire Foix.md` — Remplacer `Sébastien GRAZIDE` par `**[La Victime]**`, l'adresse par `**[L'Adresse de la Victime]**`, l'email par `**[L'Email de la Victime]**`
+   - `Organisation/Note - Modification Email Maire Foix.md` — Remplacer `Sébastien GRAZIDE` par `[**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md)`, l'adresse par `[**[L'Adresse de la Victime]**](../../Memory/Tokens/token-victime-adresse.md)`, l'email par `[**[L'Email de la Victime]**](../../Memory/Tokens/token-victime-email.md)`
    - `Analyses_juridiques/18 Note Audit RNE NPAI SAS.md` — Tokeniser les noms complets, adresses personnelles, SIREN, dates de naissance des dirigeants
-   - `Courriers/CODAF - Préfecture - Signalement.md` — Remplacer `M. Bernard TAVELLA` par `**[L'Adjoint au Maire de la Commune]**`, les emails par `**[L'Email de l'Adjoint au Maire]**`
+   - `Courriers/CODAF - Préfecture - Signalement.md` — Remplacer `M. Bernard TAVELLA` par `[**[L'Adjoint au Maire de la Commune]**](../../Memory/Tokens/token-mairie-adjoint-nom.md)`, les emails par `[**[L'Email de l'Adjoint au Maire]**](../../Memory/Tokens/token-mairie-adjoint-email.md)`
 
 3. **Mettre à jour `batch_anonymize.py`** avec les nouveaux tokens manquants (TAVELLA, emails mairie, adresses dirigeants, SIREN).
 
@@ -195,9 +195,9 @@ type: rapport
 
 ### VI.2 — Important (prochaine itération)
 
-5. **Auditer les dates brutes** dans tous les fichiers tokenisés. Remplacer `29 mai 2026` par `**[J+0 Accident]**` systématiquement.
+5. **Auditer les dates brutes** dans tous les fichiers tokenisés. Remplacer `29 mai 2026` par `[**[J+0 Accident]**](../../Memory/Tokens/token-j-0-accident.md)` systématiquement.
 
-6. **Remplacer les SIREN en clair** (938 033 222) dans 5 fichiers par `**[SIREN de l'Exploitation]**`.
+6. **Remplacer les SIREN en clair** (938 033 222) dans 5 fichiers par `[**[SIREN de l'Exploitation]**](../../Memory/Tokens/token-exploitation-siren.md)`.
 
 7. **Nettoyer `Organisation/24 Archive - Checklist Envoi 11-07-2026.md`** — les lignes 62 et 69 contiennent `Sebastien GRAZIDE` en objet d'email.
 

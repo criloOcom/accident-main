@@ -53,7 +53,7 @@ L'audit recherche spécifiquement les inversions d'identité (attribuer la sorti
 
 - [ ] **FICHIER** : [CRITIQUE] `Rapports/RAPPORT_PLAINTE_COMPLEMENTAIRE_ERRATUM_2026-07-18.md`:l. 83 — CRITIQUE : Mention de l'état des lieux de sortie du 10 mars 2026 attribuée à tort au nouvel exploitant (HB BARBER) au lieu de l'ancien (LMG). — **Correction recommandée** : Remplacer `[Le Nouvel Exploitant (HB BARBER)]` par `[L'Exploitant du Commerce (La SAS)]`.
 
-  - *Extrait :* `La procédure ne doit plus viser la SAS **[L'Exploitant du Commerce (La SAS)]** (qui avait cessé son activité depuis le 10 mars 2026 selon le bailleur), mais la SAS **[Le Nouvel Exploitant (HB BARBER)]** (HB BARBER, SIREN **[SIREN du Nouvel Exploitant]**), créée le 22 avril 2026, seule responsable de la garde de l'équipement au jour du sinistre.`
+  - *Extrait :* `La procédure ne doit plus viser la SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) (qui avait cessé son activité depuis le 10 mars 2026 selon le bailleur), mais la SAS **[Le Nouvel Exploitant (HB BARBER)]** (HB BARBER, SIREN **[SIREN du Nouvel Exploitant]**), créée le 22 avril 2026, seule responsable de la garde de l'équipement au jour du sinistre.`
 
 ## III. Conclusion
 

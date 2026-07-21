@@ -18,8 +18,8 @@ type: fiche
 
 ### I.1 — Présentation ultra-courte (30 secondes)
 
-> « Je m'appelle **[La Victime]**, je suis **informaticien indépendant**.
-> Le **29 mai 2026**, dans un salon exploité par **[L'Exploitant du Commerce (La SAS)]** à **[La Ville de l'Accident]**, j'ai eu un **accident de vasque** qui m'a grièvement blessé la main droite (main de travail). »
+> « Je m'appelle [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md), je suis **informaticien indépendant**.
+> Le **29 mai 2026**, dans un salon exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) à [**[La Ville de l'Accident]**](../../Memory/Tokens/token-accident-ville.md), j'ai eu un **accident de vasque** qui m'a grièvement blessé la main droite (main de travail). »
 
 Points à mentionner très vite :
 - Vasque en céramique du bac à shampoing qui **bascule**,

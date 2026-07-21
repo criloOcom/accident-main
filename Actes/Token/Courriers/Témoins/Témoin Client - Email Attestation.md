@@ -1,7 +1,7 @@
 ---
 emoji: 📋
 title: 📧📋 Email Transmission Attestation Témoin Client
-description: 'Objet : Attestation de témoin — Accident du **[J+0 Accident]** au salon
+description: 'Objet : Attestation de témoin — Accident du [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) au salon
   **[L''Adresse de l''Exploitation]'
 type: courrier
 date: 2026-07-06
@@ -12,7 +12,7 @@ tags:
 
 - temoin
 statut: brouillon
-destinataire: Témoin client présent le **[J+0 Accident]**
+destinataire: Témoin client présent le [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md)
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Témoins/Témoin Client - Email Attestation.md
 source: local

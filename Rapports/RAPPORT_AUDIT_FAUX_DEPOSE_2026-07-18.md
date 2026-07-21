@@ -393,7 +393,7 @@ type: rapport
 
 - **Ligne** : 28
 
-- **Citation** : `Le même jour, **[L'Adjoint au Maire de la Commune]** adresse un courriel à **[La Victime]** pour l'informer que le PV a été transmis.`
+- **Citation** : `Le même jour, [**[L'Adjoint au Maire de la Commune]**](../Memory/Tokens/token-mairie-adjoint-nom.md) adresse un courriel à [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) pour l'informer que le PV a été transmis.`
 
 - **Acte présenté comme fait** : Envoi de mail
 
@@ -981,7 +981,7 @@ type: rapport
 
 - **Ligne** : 77
 
-- **Citation** : `L'accident datant du **[J+0 Accident]** (29 mai 2026), l'action publique se prescrira en mai 2032. La présente instruction, ainsi que les plaintes (notamment la plainte initiale enregistrée sous le PV n° **[N° PV Police]** déposée le **[J+4 Dépôt de plainte]**), interrompent valablement ce délai.`
+- **Citation** : `L'accident datant du [**[J+0 Accident]**](../Memory/Tokens/token-j-0-accident.md) (29 mai 2026), l'action publique se prescrira en mai 2032. La présente instruction, ainsi que les plaintes (notamment la plainte initiale enregistrée sous le PV n° [**[N° PV Police]**](../Memory/Tokens/token-pv-police-numero.md) déposée le [**[J+4 Dépôt de plainte]**](../Memory/Tokens/token-j-4-depot-de-plainte.md)), interrompent valablement ce délai.`
 
 - **Acte présenté comme fait** : Acte procédural ou démarche administrative
 

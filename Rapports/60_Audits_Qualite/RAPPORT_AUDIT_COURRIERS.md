@@ -65,7 +65,7 @@ type: rapport
 
 - **Structure :** Objet, introduction, rappel des obligations légales, faits, transparence, formule de politesse. Présent.
 
-- **Token non résolu :** `**[Finance Provision Référé]**` (l. 99) — montant de provision non défini.
+- **Token non résolu :** `[**[Finance Provision Référé]**](../../Memory/Tokens/token-finance-provision-refere.md)` (l. 99) — montant de provision non défini.
 
 - **Observation :** Très bon document de référence.
 
@@ -90,7 +90,7 @@ type: rapport
 
 - **Structure :** Complète mais **titre de section manquant** (l. 135) : `Transparence sur la suite donnée au dossier` — pas de préfixe `##` contrairement aux autres sections.
 
-- **Token non résolu :** `**[Finance Provision Référé]**` (l. 151).
+- **Token non résolu :** `[**[Finance Provision Référé]**](../../Memory/Tokens/token-finance-provision-refere.md)` (l. 151).
 
 - **Observation :** Même token non résolu que 03 — devrait être harmonisé.
 
@@ -101,11 +101,11 @@ type: rapport
 
 - **Tokens non résolus (5) :**
 
-  - `**[DATE RELANCE V2]**` (l. 37)
-  - `**[N° LRAR Exploitant]**` (l. 50)
-  - `**[N° LRAR Directrice]**` (l. 51)
-  - `**[N° LRAR Président]**` (l. 52)
-  - `**[DATE REOUVERTURE BOUTIQUE]**` (l. 60)
+  - `[**[DATE RELANCE V2]**](../../Memory/Tokens/token-accident-date-relance-v2.md)` (l. 37)
+  - `[**[N° LRAR Exploitant]**](../../Memory/Tokens/token-lrar-exploitant.md)` (l. 50)
+  - `[**[N° LRAR Directrice]**](../../Memory/Tokens/token-lrar-directrice.md)` (l. 51)
+  - `[**[N° LRAR Président]**](../../Memory/Tokens/token-lrar-president.md)` (l. 52)
+  - `[**[DATE REOUVERTURE BOUTIQUE]**](../../Memory/Tokens/token-exploitation-date-reouverture.md)` (l. 60)
 - **Observation :** Nécessite finalisation et passage en `statut: final`.
 
 ### II.6 — Courrier Consolidation
@@ -138,7 +138,7 @@ type: rapport
 
 - **Token non résolu :** `**[Adresse Tribunal Judiciaire]**` (l. 38).
 
-- **Observation :** Contient `[ ... ]` (l. 47 et 56) comme placeholders pour numéro de PV — à remplacer par `**[N° PV Police]**`.
+- **Observation :** Contient `[ ... ]` (l. 47 et 56) comme placeholders pour numéro de PV — à remplacer par `[**[N° PV Police]**](../../Memory/Tokens/token-pv-police-numero.md)`.
 
 ### II.10 — INPI
 - **YAML :** Doublon dans `personnes` : `La Directrice Generale` (sans accent) ET `La Directrice Générale` (avec accent). Idem pour `Le President` / `Le Président`.
@@ -226,7 +226,7 @@ type: rapport
 
 - **Tokens `[À compléter]` :** Intentionnels — le document est un gabarit CERFA.
 
-- **Observation :** Les tokens `**[L'Exploitant du Commerce (La SAS)]**` apparaissent en simple crochet dans les textes d'exemple (l. 36-38).
+- **Observation :** Les tokens `[**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md)` apparaissent en simple crochet dans les textes d'exemple (l. 36-38).
 
 ### II.22 — Relance Dr DJERBI
 - **YAML :** `statut: brouillon`, `source: local`.
@@ -317,7 +317,7 @@ Tous les fichiers token (03 à 35) ont leur équivalent réel dans [Actes/Reel/C
 | 21 | 29 |
 | 32 | 36 |
 
-### IV.2 — `**[Finance Provision Référé]**` — 2 occurrences
+### IV.2 — `[**[Finance Provision Référé]**](../../Memory/Tokens/token-finance-provision-refere.md)` — 2 occurrences
 - 03 (l. 99) et 06 (l. 151)
 
 ### IV.3 — Tokens date/LRAR non résolus dans 06 V2
@@ -361,7 +361,7 @@ Observé dans : 12, 15, 20, 22, 25, 26, 27, 28, 30, 31, 33, 34 (plus de 12 fichi
 
 8. **Ajouter le `#` manquant** dans 06 (l. 135) pour la section "Transparence".
 
-9. **Remplacer les placeholders `[ ... ]`** dans 10 par `**[N° PV Police]**`.
+9. **Remplacer les placeholders `[ ... ]`** dans 10 par `[**[N° PV Police]**](../../Memory/Tokens/token-pv-police-numero.md)`.
 
 10. **Finaliser les 6 fichiers en statut projet/brouillon** et les pousser vers le Drive.
 

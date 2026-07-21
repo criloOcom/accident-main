@@ -17,21 +17,21 @@ type: rapport
 
 ## I — Remplissage du CERFA n°16146*03
 
-- **Identité du demandeur** : **[La Victime]**, né le **18 janvier 1982** à **[La Métropole Régionale]**, de nationalité française.
+- **Identité du demandeur** : [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md), né le **18 janvier 1982** à [**[La Métropole Régionale]**](../Memory/Tokens/token-accident-metropole.md), de nationalité française.
 
-- **Adresse** : **[L'Adresse de la Victime]**.
+- **Adresse** : [**[L'Adresse de la Victime]**](../Memory/Tokens/token-victime-adresse.md).
 
-- **Contact** : **[Le Téléphone de la Victime]**, email : **[L'Email de la Victime]**.
+- **Contact** : [**[Le Téléphone de la Victime]**](../Memory/Tokens/token-victime-telephone.md), email : [**[L'Email de la Victime]**](../Memory/Tokens/token-victime-email.md).
 
-- **Situation professionnelle** : Indépendant / Micro-entrepreneur (SIREN **[L'Identifiant Professionnel de la Victime]**).
+- **Situation professionnelle** : Indépendant / Micro-entrepreneur (SIREN [**[L'Identifiant Professionnel de la Victime]**](../Memory/Tokens/token-victime-id-professionnel.md)).
 
-- **Ressources** : Déclarer le chiffre d'affaires (environ 9 000 €/an), rendant **[La Victime]** éligible à l'AJ totale (seuil d'environ 12 000 €).
+- **Ressources** : Déclarer le chiffre d'affaires (environ 9 000 €/an), rendant [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) éligible à l'AJ totale (seuil d'environ 12 000 €).
 
 - **Objet de la demande** : Procédure civile en référé (provision et expertise) et action pénale suite à des blessures involontaires.
 
-- **Juridiction** : Tribunal Judiciaire de **[La Ville de l'Accident]**.
+- **Juridiction** : Tribunal Judiciaire de [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md).
 
-- **Adversaires** : **[L'Exploitant du Commerce (La SAS)]** et **[Le Nouvel Exploitant (HB BARBER)]** (dirigé par **[Le Président du Nouvel Exploitant]**).
+- **Adversaires** : [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) et **[Le Nouvel Exploitant (HB BARBER)]** (dirigé par **[Le Président du Nouvel Exploitant]**).
 
 <hr><hr>
 
@@ -57,18 +57,18 @@ type: rapport
 
 ### A. Déclaration explicative (500 caractères maximum)
 
-« Je sollicite l'aide juridictionnelle suite à un accident survenu le 29 mai 2026 dans un salon de coiffure situé à **[La Ville de l'Accident]**. J'ai subi des blessures graves (ITT de 55 jours) à cause d'une chute provoquée par le préposé. L'exploitant des lieux, **[L'Exploitant du Commerce (La SAS)]**, ainsi que la nouvelle entité **[Le Nouvel Exploitant (HB BARBER)]**, refusent de coopérer et ne communiquent aucune information sur leur assurance. Le concours d'un avocat est indispensable pour m'assister dans les procédures civile (référé) et pénale en cours. »
+« Je sollicite l'aide juridictionnelle suite à un accident survenu le 29 mai 2026 dans un salon de coiffure situé à [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md). J'ai subi des blessures graves (ITT de 55 jours) à cause d'une chute provoquée par le préposé. L'exploitant des lieux, [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md), ainsi que la nouvelle entité **[Le Nouvel Exploitant (HB BARBER)]**, refusent de coopérer et ne communiquent aucune information sur leur assurance. Le concours d'un avocat est indispensable pour m'assister dans les procédures civile (référé) et pénale en cours. »
 
 ### B. Déclaration sur l'honneur (Assurance Protection Juridique)
 
-« Je soussigné(e), **[La Victime]**, certifie sur l'honneur ne pas bénéficier d'un contrat d'assurance de protection juridique couvrant les frais liés au présent litige, ni d'aucune autre prise en charge par un tiers.
+« Je soussigné(e), [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md), certifie sur l'honneur ne pas bénéficier d'un contrat d'assurance de protection juridique couvrant les frais liés au présent litige, ni d'aucune autre prise en charge par un tiers.
 Fait pour servir et valoir ce que de droit. »
 
 <hr><hr>
 
 ## IV — Marche à suivre pour le dépôt au BAJ
 
-- **Lieu de dépôt** : Bureau d'Aide Juridictionnelle (BAJ) du Tribunal Judiciaire de **[La Ville de l'Accident]** (adresse exacte à confirmer, horaires à vérifier avant de s'y rendre).
+- **Lieu de dépôt** : Bureau d'Aide Juridictionnelle (BAJ) du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md) (adresse exacte à confirmer, horaires à vérifier avant de s'y rendre).
 
 - **Se présenter au greffe** : Demander la file d'attente dédiée aux dépôts de dossiers d'AJ ou au Service d'Accueil Unique du Justiciable (SAUJ).
 

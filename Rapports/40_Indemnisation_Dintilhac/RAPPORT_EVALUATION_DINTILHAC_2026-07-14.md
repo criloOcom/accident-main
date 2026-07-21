@@ -24,13 +24,13 @@ auteur: Avocat spécialiste en réparation du préjudice corporel
 
 # RAPPORT D'AUDIT BARÉMIQUE<br>ÉVALUATION DINTILHAC
 
-**Contexte :** Audit de la robustesse de l'évaluation des préjudices corporels de **[La Victime]** selon la nomenclature Dintilhac. Analyse poste par poste au regard de la jurisprudence française (notamment les arrêts de la Cour de cassation) et du Barème Mornet 2024, en vue d'établir la position chiffrée optimale pour le référé et l'action au fond.
+**Contexte :** Audit de la robustesse de l'évaluation des préjudices corporels de [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) selon la nomenclature Dintilhac. Analyse poste par poste au regard de la jurisprudence française (notamment les arrêts de la Cour de cassation) et du Barème Mornet 2024, en vue d'établir la position chiffrée optimale pour le référé et l'action au fond.
 
 <hr><hr>
 
 ## I — CONFORMITÉ DINTILHAC ET BARÈME MORNET 2024
 
-L'évaluation des préjudices corporels subis par **[La Victime]** repose sur la nomenclature Dintilhac. La présence des postes suivants a été analysée au regard du Barème Mornet 2024 et de la jurisprudence.
+L'évaluation des préjudices corporels subis par [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) repose sur la nomenclature Dintilhac. La présence des postes suivants a été analysée au regard du Barème Mornet 2024 et de la jurisprudence.
 
 ### I.1 — Préjudices Patrimoniaux
 
@@ -83,7 +83,7 @@ La demande de provision de **15 000 €** en référé-provision est fondée sur
 > **[Code de procédure civile > Article 873]** <br>
 > [Article 873](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463)
 
-**Justification :** La responsabilité de **[L'Exploitant du Commerce (La SAS)]** (chute de la vasque) est incontestable. La provision de 15 000 € correspond à peine à 11% du montant plancher (130 000 €) attendu. Elle couvrira a minima les dépenses de santé actuelles (DSA), les pertes de gains actuels (PGPA) et une partie du déficit fonctionnel temporaire (DFT) et des souffrances endurées (SE). La demande est par conséquent parfaitement proportionnée et juridiquement imparable.
+**Justification :** La responsabilité de [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) (chute de la vasque) est incontestable. La provision de 15 000 € correspond à peine à 11% du montant plancher (130 000 €) attendu. Elle couvrira a minima les dépenses de santé actuelles (DSA), les pertes de gains actuels (PGPA) et une partie du déficit fonctionnel temporaire (DFT) et des souffrances endurées (SE). La demande est par conséquent parfaitement proportionnée et juridiquement imparable.
 
 <hr><hr>
 
@@ -96,7 +96,7 @@ Au civil (art. 232 CPC) ou au pénal si les UMJ sont saisies (art. 263 C. pr. p�
 
 **Argumentaire contre une expertise adverse basse :**
 Si le médecin d'assurance ou l'expert tend à minimiser le DFP (par ex. <5%) ou nier l'incidence professionnelle, la défense s'appuiera sur :
-- **L'incapacité préhensile fine :** La dextérité est l'outil exclusif de travail (clavier/souris) de **[La Victime]**.
+- **L'incapacité préhensile fine :** La dextérité est l'outil exclusif de travail (clavier/souris) de [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md).
 
 - **La jurisprudence :** Rappeler la consécration par la Cour de cassation de l'Incidence Professionnelle pour perte de chance et pénibilité accrue indépendamment de la simple perte de revenus (Cass. 2e civ., 2 avril 2026, n° 24-20.972) — À VÉRIFIER.
 

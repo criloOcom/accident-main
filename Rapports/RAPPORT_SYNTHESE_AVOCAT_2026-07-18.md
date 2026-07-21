@@ -17,29 +17,29 @@ Ce document de synthèse a pour but de fournir une vue d'ensemble rapide et exha
 
 ## 1. Fiche signalétique du dossier
 
-- **Victime** : **[La Victime]**
+- **Victime** : [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)
 
 - **Date de l'accident** : 29 mai 2026
 
-- **Lieu** : Salon de coiffure situé au 22 rue Lafaurie, 09000 **[La Ville de l'Accident]**
+- **Lieu** : Salon de coiffure situé au 22 rue Lafaurie, 09000 [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md)
 
-- **Défendeur** : Enseigne HB BARBER, exploitée par la société **[Le Nouvel Exploitant (HB BARBER)]** (en lieu et place de la société initialement visée **[L'Exploitant du Commerce (La SAS)]**)
+- **Défendeur** : Enseigne HB BARBER, exploitée par la société **[Le Nouvel Exploitant (HB BARBER)]** (en lieu et place de la société initialement visée [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md))
 
-- **Préjudice** : Blessure grave à la main droite (section partielle du tendon fléchisseur, paquet collatéral et neurolyse nerf palmaire de l'index droit) traitée par microchirurgie au sein de **[L'Établissement SOS Main]**.
+- **Préjudice** : Blessure grave à la main droite (section partielle du tendon fléchisseur, paquet collatéral et neurolyse nerf palmaire de l'index droit) traitée par microchirurgie au sein de [**[L'Établissement SOS Main]**](../Memory/Tokens/token-hopital-sosmain-nom.md).
 
-- **Audience** : Référé prévu le 31 juillet 2026 devant le Tribunal Judiciaire de **[La Ville de l'Accident]**.
+- **Audience** : Référé prévu le 31 juillet 2026 devant le Tribunal Judiciaire de [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md).
 
 <hr><hr>
 
 ## 2. Résumé des faits
 
-- **Mai-Juin 2026** : Le 29 mai 2026, **[La Victime]** a été grièvement blessée à la main droite dans le salon de coiffure situé au 22 rue Lafaurie suite au basculement d'une vasque en céramique. **[Le Préposé de l'Exploitation]** est monté sur le bac pour régler un téléviseur, provoquant le basculement que la victime a tenté d'amortir par réflexe. Les premières correspondances et mises en demeure ont été adressées à **[L'Exploitant du Commerce (La SAS)]**, qui semblait être l'exploitant des lieux.
+- **Mai-Juin 2026** : Le 29 mai 2026, [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) a été grièvement blessée à la main droite dans le salon de coiffure situé au 22 rue Lafaurie suite au basculement d'une vasque en céramique. [**[Le Préposé de l'Exploitation]**](../Memory/Tokens/token-exploitation-prepose-nom.md) est monté sur le bac pour régler un téléviseur, provoquant le basculement que la victime a tenté d'amortir par réflexe. Les premières correspondances et mises en demeure ont été adressées à [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md), qui semblait être l'exploitant des lieux.
 
 - **Découvertes du 16 juillet 2026** : Lors d'une visite sur place, il a été constaté que le salon est désormais exploité sous l'enseigne « HB BARBER » (société **[Le Nouvel Exploitant (HB BARBER)]**). Un individu se présentant comme le dirigeant (identifié publiquement comme **[Le Président du Nouvel Exploitant]**) a refusé de coopérer, n'a fourni aucune information sur son assurance, et a exigé que la victime quitte les lieux.
 
 - **Situation de l'assurance** : Actuellement inconnue. Il existe une forte suspicion de non-déclaration de sinistre, voire d'une absence totale d'assurance Responsabilité Civile Professionnelle.
 
-- **Situation de la société** : La société **[Le Nouvel Exploitant (HB BARBER)]** a été constituée le 22 avril 2026 avec un capital social très faible (200 €). Le risque d'insolvabilité de la personne morale est par conséquent très élevé. À noter que **[La Directrice Générale de l'Exploitation]** occupe des fonctions de direction tant dans **[L'Exploitant du Commerce (La SAS)]** que dans **[Le Nouvel Exploitant (HB BARBER)]**.
+- **Situation de la société** : La société **[Le Nouvel Exploitant (HB BARBER)]** a été constituée le 22 avril 2026 avec un capital social très faible (200 €). Le risque d'insolvabilité de la personne morale est par conséquent très élevé. À noter que [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md) occupe des fonctions de direction tant dans [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) que dans **[Le Nouvel Exploitant (HB BARBER)]**.
 
 <hr><hr>
 
@@ -47,7 +47,7 @@ Ce document de synthèse a pour but de fournir une vue d'ensemble rapide et exha
 
 Attention : Le dossier comporte de nombreuses mentions erronées indiquant « Déposé », « Transmis » ou « Envoyé » concernant certaines pièces qui n'ont en réalité pas été formalisées. Les éléments suivants font foi :
 
-- **Plainte initiale** : Déposée le 2 juin 2026 au Commissariat de **[La Métropole Régionale]** Rive Droite et transférée (PV n° **[N° PV Police]**).
+- **Plainte initiale** : Déposée le 2 juin 2026 au Commissariat de [**[La Métropole Régionale]**](../Memory/Tokens/token-accident-metropole.md) Rive Droite et transférée (PV n° [**[N° PV Police]**](../Memory/Tokens/token-pv-police-numero.md)).
 
 - **Erratum / Plainte complémentaire** : Un document d'erratum modifiant l'identité de l'exploitant cible a été préparé suite aux découvertes du 16 juillet, mais il n'a **pas encore été déposé**.
 
@@ -77,7 +77,7 @@ Attention : Le dossier comporte de nombreuses mentions erronées indiquant « D�
 
 ## 5. Questions stratégiques pour l'avocat
 
-- Faut-il assigner **[Le Nouvel Exploitant (HB BARBER)]** (la société) et/ou **[Le Président du Nouvel Exploitant]** ainsi que **[La Directrice Générale de l'Exploitation]** à titre personnel compte tenu du très faible capital social (200 €) de la SAS ?
+- Faut-il assigner **[Le Nouvel Exploitant (HB BARBER)]** (la société) et/ou **[Le Président du Nouvel Exploitant]** ainsi que [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md) à titre personnel compte tenu du très faible capital social (200 €) de la SAS ?
 
 - Doit-on maintenir la demande de référé-provision pour l'audience du 31 juillet, ou privilégier d'abord une requête d'expertise médicale (et informatique) avant de statuer sur le fond ?
 
@@ -91,8 +91,8 @@ Attention : Le dossier comporte de nombreuses mentions erronées indiquant « D�
 
 *Note : Dans la version anonymisée, ces champs utilisent des tokens. Les informations réelles seront générées automatiquement par le système lors de la création de la version destinée à l'impression.*
 
-- **Téléphone** : **[Le Téléphone de la Victime]**
+- **Téléphone** : [**[Le Téléphone de la Victime]**](../Memory/Tokens/token-victime-telephone.md)
 
-- **Email** : **[L'Email de la Victime]**
+- **Email** : [**[L'Email de la Victime]**](../Memory/Tokens/token-victime-email.md)
 
-- **Adresse** : **[L'Adresse de la Victime]**
+- **Adresse** : [**[L'Adresse de la Victime]**](../Memory/Tokens/token-victime-adresse.md)

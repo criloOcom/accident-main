@@ -13067,7 +13067,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 ### `Memory/Tokens/token-exploitation-nom-commercial.md`
 
-**Token : **[Nom commercial de l'exploitation]****
+**Token : [**[Nom commercial de l'exploitation]**](../Memory/Tokens/token-exploitation-nom-commercial.md)**
 
 **Cité par :**
 
@@ -21325,7 +21325,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 ### `Memory/Tokens/token-assureur-rc.md`
 
-**Token : **[Assureur RC]****
+**Token : [**[Assureur RC]**](../Memory/Tokens/token-assureur-rc.md)**
 
 **Cité par :**
 
@@ -21354,7 +21354,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 ### `Memory/Tokens/token-j-63-assignation-145.md`
 
-**Token : **[J+63 Assignation 145]****
+**Token : [**[J+63 Assignation 145]**](../Memory/Tokens/token-j-63-assignation-145.md)**
 
 **Cité par :**
 

@@ -83,7 +83,7 @@ Dès le départ, j'ai donc signalé aux policiers que je **n'avais pas la certit
 
 **Prise en charge médicale :** Je me transporte en urgence au **Centre Ariégeois de Soins Immédiats de [La Ville de l'Accident]** (**[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**, RPPS 10005156871). Actes : lavage, désinfection, exploration sous anesthésie locale. Diagnostic : plaie palmaire droite profonde et compliquée. Orientation : transfert vers SOS Main – **[L'Établissement SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)** pour le lendemain à jeun.
 
-**Retour au salon :** Après les soins, je retourne au salon, main bandée, pour informer du pronostic chirurgical. Le coiffeur procède alors au **remboursement de 15 €** via Wero (réf. crédit [[**[N° Transaction Wero]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)] , depuis le compte « [**[Le Préposé de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques) »). Ce remboursement spontané matérialise la **reconnaissance de la matérialité de l'accident** par l'exploitant.
+**Retour au salon :** Après les soins, je retourne au salon, main bandée, pour informer du pronostic chirurgical. Le coiffeur procède alors au **remboursement de 15 €** via Wero (réf. crédit [**[N° Transaction Wero]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) , depuis le compte « [**[Le Préposé de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques) »). Ce remboursement spontané matérialise la **reconnaissance de la matérialité de l'accident** par l'exploitant.
 
 ### 30 mai 2026 — Intervention chirurgicale (J+1)
 

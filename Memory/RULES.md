@@ -126,7 +126,7 @@ type: memory
 6. `applyParagraphStyle` → JUSTIFIED sur tout le document
 
 ## RÈGLES D'ANONYMIZATION
-- Personnes physiques/morales → tokens en bon français avec articles (`**[La Victime]**`, `**[L'Exploitant du Commerce (La SAS)]**`)
+- Personnes physiques/morales → tokens en bon français avec articles (`[**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)`, `[**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md)`)
 
 - Toute donnée localisante (adresse, ville, email, SIREN, CPAM, PV police) → token descriptif en bon français
 
@@ -146,7 +146,7 @@ type: memory
 - Ne pas extrapoler l'absence de réponse à un courrier comme une preuve de liquidation
 
 ## SÉPARATION STRICTE TOKENS ↔ CORRESPONDANCE RÉELLE
-- **Tout document de travail** (Actes/, analyses, courriers en rédaction) est rédigé exclusivement en tokens anonymes (`**[La Victime]**`, `**[L'Exploitant du Commerce (La SAS)]**`, etc.)
+- **Tout document de travail** (Actes/, analyses, courriers en rédaction) est rédigé exclusivement en tokens anonymes (`[**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)`, `[**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md)`, etc.)
 
 - **Un dossier de correspondance réelle séparé** est créé au moment de l'envoi uniquement, par substitution des tokens → identités réelles
 
@@ -692,8 +692,8 @@ Si une profession ou activité erronée est découverte dans un fichier :
   ```markdown
   <!-- Auteur -->
   [**[La Victime]**](...)  
-  **[L'Adresse de la Victime]**  
-  **[L'Email de la Victime]**
+  [**[L'Adresse de la Victime]**](../Memory/Tokens/token-victime-adresse.md)  
+  [**[L'Email de la Victime]**](../Memory/Tokens/token-victime-email.md)
   <!-- /Auteur -->
 
   <!-- Destinataire -->

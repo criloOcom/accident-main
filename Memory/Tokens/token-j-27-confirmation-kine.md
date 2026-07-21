@@ -1,6 +1,7 @@
 ---
 title: "📅 J+27 Confirmation kiné"
 description: "Token :** `**[J+27 Confirmation kiné]**`"
+token: "J+27 Confirmation kiné"
 type: memory
 ---
 <!-- Breadcrumb -->

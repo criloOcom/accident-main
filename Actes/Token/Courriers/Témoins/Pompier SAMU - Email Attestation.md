@@ -1,7 +1,7 @@
 ---
 emoji: 📋
 title: 📧📋 Email Transmission Attestation Pompier SAMU
-description: 'Objet : Attestation de témoin — Intervention du **[J+0 Accident]** au
+description: 'Objet : Attestation de témoin — Intervention du [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) au
   **[L''Adresse de l''Exploitation]'
 type: courrier
 date: 2026-07-06
@@ -12,7 +12,7 @@ tags:
 
 - temoin
 statut: brouillon
-destinataire: Services de secours intervenus le **[J+0 Accident]**
+destinataire: Services de secours intervenus le [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md)
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Témoins/Pompier SAMU - Email Attestation.md
 source: local

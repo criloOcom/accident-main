@@ -12,7 +12,7 @@ type: rapport
 # MÉMO PRATIQUE<br>Préparation à l'Expertise Médicale UMJ
 
 > **Rendez-vous :** 12 novembre 2026 à 13h45<br>
-> **Lieu :** UMJ de **[La Métropole Régionale]**<br>
+> **Lieu :** UMJ de [**[La Métropole Régionale]**](../../Memory/Tokens/token-accident-metropole.md)<br>
 > **Cadre :** Réquisition judiciaire (Art. 41 et 77-1 CPP)
 
 Ce mémo a pour but de vous aider à préparer votre expertise médicale du 12 novembre prochain. L'expert médical a pour mission d'évaluer objectivement vos blessures, vos séquelles et leur retentissement sur votre vie professionnelle et personnelle. **Il est essentiel d'être précis, honnête et factuel.**
@@ -35,13 +35,13 @@ L'expert basera son évaluation sur les documents médicaux que vous lui fournir
 - Copie de votre dépôt de plainte et du PV de police.
 
 ### I.2 — Pièces médicales (depuis le jour de l'accident)
-- **Le certificat médical initial** rédigé aux urgences par le Dr **[Le Médecin en Urgence]** (29/05/2026).
+- **Le certificat médical initial** rédigé aux urgences par le Dr [**[Le Médecin en Urgence]**](../../Memory/Tokens/token-hopital-urgence-medecin.md) (29/05/2026).
 
-- **Le compte-rendu opératoire** de microchirurgie (tendons/nerfs) du **[Le Chirurgien SOS Main]** (30/05/2026).
+- **Le compte-rendu opératoire** de microchirurgie (tendons/nerfs) du [**[Le Chirurgien SOS Main]**](../../Memory/Tokens/token-hopital-sosmain-chirurgien.md) (30/05/2026).
 
 - L'ordonnance de sortie de SOS Main avec les antalgiques prescrits (30/05/2026).
 
-- **L'intégralité de vos arrêts de travail** (certificats d'ITT prescrits par le Dr **[Le Médecin Généraliste]** totalisant 55 jours).
+- **L'intégralité de vos arrêts de travail** (certificats d'ITT prescrits par le Dr [**[Le Médecin Généraliste]**](../../Memory/Tokens/token-victime-medecin-generaliste.md) totalisant 55 jours).
 
 - Les comptes-rendus de consultations de suivi chirurgical (J+24, etc.).
 

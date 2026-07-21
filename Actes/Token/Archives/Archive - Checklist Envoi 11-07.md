@@ -38,7 +38,7 @@ reel_path: ../../Reel/Archives/Archive - Checklist Envoi 11-07.md
 
 - [x] Accuses de reception NPAI 29/06 (x3)
 
-- [x] [Extrait Kbis de la SAS **[L'Exploitant du Commerce (La SAS)]**](../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) (x3)
+- [x] [Extrait Kbis de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md)](../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) (x3)
 
 - [x] Dossier medical complet 11 pieces (x3)
 
@@ -48,7 +48,7 @@ reel_path: ../../Reel/Archives/Archive - Checklist Envoi 11-07.md
 
 - [x] Accuses de reception NPAI 29/06
 
-- [x] [Extrait Kbis de la SAS **[L'Exploitant du Commerce (La SAS)]**](../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)
+- [x] [Extrait Kbis de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md)](../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)
 
 - [x] Note audit INPI 10/07
 

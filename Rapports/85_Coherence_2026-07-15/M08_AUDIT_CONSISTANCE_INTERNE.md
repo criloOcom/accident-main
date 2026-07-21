@@ -111,4 +111,4 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 233.
 
 #### II.1.p — Vérification des montants de l'Assignation Référé-Provision
-- [x] **INFO** : L'assignation demande bien la provision de 15 000 € (via le token `[**[Finance Provision Référé]**]`), justifiée dans le corps du texte avant le dispositif.
+- [x] **INFO** : L'assignation demande bien la provision de 15 000 € (via le token `[**[Finance Provision Référé]**](../../Memory/Tokens/token-finance-provision-refere.md)`), justifiée dans le corps du texte avant le dispositif.

@@ -43,7 +43,7 @@ type: memory
 
   1. `applyParagraphStyle` → JUSTIFIED sur tout le document
   2. `applyTextStyle` → liens Légifrance/Judilibre sur les refs légales
-  3. `applyTextStyle` → bold sur les tokens `**[La Victime]**`, `**[L'Exploitant]**`, etc.
+  3. `applyTextStyle` → bold sur les tokens `[**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)`, `**[L'Exploitant]**`, etc.
   4. Vérifier TITLE = 20pt CENTER (pas le 36pt par défaut)
 
 ## Scripts disponibles :

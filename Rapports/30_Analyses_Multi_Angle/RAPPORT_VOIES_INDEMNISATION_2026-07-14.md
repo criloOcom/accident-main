@@ -17,7 +17,7 @@ type: rapport
 
 Le recours devant la Commission d'Indemnisation des Victimes d'Infractions (CIVI), qui sollicite le FGTI, constitue une voie d'indemnisation subsidiaire ou principale selon la gravité des blessures et la nature de l'infraction, encadrée par le Code de procédure pénale.
 
-Dans le cas présent, **[La Victime]** a subi un préjudice corporel évalué à ~109 500 € (évaluation Dintilhac principale) avec une Incapacité Totale de Travail (ITT) de 55 jours et un Déficit Fonctionnel Permanent (DFP) évalué à 12 %.
+Dans le cas présent, [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) a subi un préjudice corporel évalué à ~109 500 € (évaluation Dintilhac principale) avec une Incapacité Totale de Travail (ITT) de 55 jours et un Déficit Fonctionnel Permanent (DFP) évalué à 12 %.
 
 Les conditions d'ouverture du droit à l'indemnisation intégrale par la CIVI sont définies par l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312693). Toute personne ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages si les faits ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail d'au moins un mois. Les seuils sont donc franchis en l'espèce (ITT > 1 mois, DFP prévisible).
 
@@ -90,7 +90,7 @@ Comme le prévoit l'[Article 700 du Code de procédure civile](https://www.legif
 
 ## V — STRATÉGIE DE RECOUVREMENT ET CALENDRIER DE SAISINE
 
-Face à une SAS au capital social manifestement sous-dimensionné (200 €) pour assumer une indemnisation potentielle de ~109 500 €, la stratégie de recouvrement doit être organisée en cascade pour sécuriser la créance de **[La Victime]**.
+Face à une SAS au capital social manifestement sous-dimensionné (200 €) pour assumer une indemnisation potentielle de ~109 500 €, la stratégie de recouvrement doit être organisée en cascade pour sécuriser la créance de [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md).
 
 ### V.1 — Cascade de poursuite
 

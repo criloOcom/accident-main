@@ -17,7 +17,7 @@ type: rapport
 
 ### I.1 — Blessures Involontaires
 
-La plainte initiale déposée le 2 juin 2026 ([PV n°2026/015967](../../Actes/Token/Actes_proceduraux/Contentieux_penal/Plainte%20Compl%C3%A9mentaire%20-%20PV%20Audition.md)) visait les blessures involontaires ayant entraîné une Incapacité Totale de Travail (ITT) suite au basculement d'une vasque défectueuse sur la main droite de **[La Victime]** le 29 mai 2026. L'ITT pénale retenue est de 55 jours, avec des répercussions fonctionnelles importantes.
+La plainte initiale déposée le 2 juin 2026 ([PV n°2026/015967](../../Actes/Token/Actes_proceduraux/Contentieux_penal/Plainte%20Compl%C3%A9mentaire%20-%20PV%20Audition.md)) visait les blessures involontaires ayant entraîné une Incapacité Totale de Travail (ITT) suite au basculement d'une vasque défectueuse sur la main droite de [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) le 29 mai 2026. L'ITT pénale retenue est de 55 jours, avec des répercussions fonctionnelles importantes.
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
 > **[Code pénal > Article 222-20]** <br>
@@ -27,7 +27,7 @@ Le [réquisitoire introductif (J+47)](../../Actes/Token/Actes_proceduraux/Conten
 
 ### I.2 — Obstruction à la Justice et Dissimulation de Preuves
 
-La [plainte complémentaire (J+47)](../../Actes/Token/Actes_proceduraux/Contentieux_penal/Plainte%20Compl%C3%A9mentaire%20-%20PV%20Audition.md) introduit de nouvelles infractions graves, caractérisées par le comportement des dirigeants de la SAS **[L'Exploitant du Commerce (La SAS)]**. **[La Victime]** y dénonce l'absence de réponse à de multiples LRAR et la possible destruction ou altération du matériel vidéo et du bac à shampoing défectueux, suite à la réouverture suspecte du salon le 6 juillet 2026.
+La [plainte complémentaire (J+47)](../../Actes/Token/Actes_proceduraux/Contentieux_penal/Plainte%20Compl%C3%A9mentaire%20-%20PV%20Audition.md) introduit de nouvelles infractions graves, caractérisées par le comportement des dirigeants de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md). [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) y dénonce l'absence de réponse à de multiples LRAR et la possible destruction ou altération du matériel vidéo et du bac à shampoing défectueux, suite à la réouverture suspecte du salon le 6 juillet 2026.
 
 > « Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité :
 > 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ;
@@ -41,11 +41,11 @@ Le délit de mise en danger de la vie d'autrui (article 223-1 du Code pénal) es
 
 ## II — RESPONSABILITÉ PÉNALE POTENTIELLE DU DIRIGEANT / SAS
 
-La responsabilité pénale peut être recherchée tant à l'encontre de la personne morale, la SAS **[L'Exploitant du Commerce (La SAS)]**, qu'à l'encontre de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, pour les fautes commises personnellement ou en tant qu'organes de la société.
+La responsabilité pénale peut être recherchée tant à l'encontre de la personne morale, la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md), qu'à l'encontre de ses dirigeants, [**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../Memory/Tokens/token-exploitation-dg-nom.md), pour les fautes commises personnellement ou en tant qu'organes de la société.
 
 ### II.1 — La Responsabilité de la SAS
 
-En application de l'article 121-2 du Code pénal, la SAS **[L'Exploitant du Commerce (La SAS)]** engage sa responsabilité pénale pour les infractions commises pour son compte par ses organes ou représentants.
+En application de l'article 121-2 du Code pénal, la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) engage sa responsabilité pénale pour les infractions commises pour son compte par ses organes ou représentants.
 
 ### II.2 — La Responsabilité Personnelle des Dirigeants
 
@@ -71,7 +71,7 @@ La plainte complémentaire déposée à J+47 est décisive pour l'orientation de
 
 La [constitution de partie civile (J+38)](../../Actes/Token/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md), couplée au réquisitoire introductif demandant l'ouverture d'une information judiciaire, poursuit plusieurs objectifs :
 
-- **Accès au dossier :** Elle permet à **[La Victime]** d'avoir accès au dossier pénal et de solliciter des actes d'instruction.
+- **Accès au dossier :** Elle permet à [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) d'avoir accès au dossier pénal et de solliciter des actes d'instruction.
 
 - **Sécurisation des preuves :** Face à l'inertie et aux probables manœuvres d'effacement, l'intervention d'un juge d'instruction avec ses pouvoirs coercitifs (saisies, perquisitions, auditions sous contrainte) devient indispensable pour figer l'état des lieux et conserver ce qu'il reste des preuves (notamment l'exécution de l'ordonnance sur requête Article 145 CPC).
 
@@ -85,7 +85,7 @@ L'action pénale initiée a un impact direct sur le volet civil de l'affaire, no
 
 ### IV.1 — L'Impact sur la Solvabilité et l'Indemnisation
 
-L'attitude de la SAS **[L'Exploitant du Commerce (La SAS)]** et de ses dirigeants soulève des doutes majeurs quant à leur intention et leur capacité à indemniser **[La Victime]**. Le risque d'organisation frauduleuse d'insolvabilité est élevé, le capital social de la SAS n'étant que de 200 €.
+L'attitude de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants soulève des doutes majeurs quant à leur intention et leur capacité à indemniser [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md). Le risque d'organisation frauduleuse d'insolvabilité est élevé, le capital social de la SAS n'étant que de 200 €.
 
 > « Le fait, par un débiteur, même avant la décision judiciaire constatant sa dette, d'organiser ou d'aggraver son insolvabilité soit en augmentant le passif ou en diminuant l'actif de son patrimoine, soit en diminuant ou en dissimulant tout ou partie de ses revenus, soit en dissimulant certains de ses biens, en vue de se soustraire à l'exécution d'une condamnation de nature patrimoniale prononcée par une juridiction répressive ou, en matière délictuelle, quasi délictuelle ou d'aliments, prononcée par une juridiction civile, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. » <br>
 > **[Code pénal > Article 314-7]** <br>

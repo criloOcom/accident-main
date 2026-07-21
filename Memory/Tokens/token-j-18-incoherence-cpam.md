@@ -1,6 +1,7 @@
 ---
 title: "📅 J+18 Incohérence CPAM"
 description: "Token :** `**[J+18 Incohérence CPAM]**`"
+token: "J+18 Incohérence CPAM"
 real_value: "16 juin 2026"
 type: memory
 ---

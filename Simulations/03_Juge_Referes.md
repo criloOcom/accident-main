@@ -14,8 +14,8 @@ date: 2026-07-14
 
 **Date d'analyse :** 14 juillet 2026
 **Objet :** Examen conjoint de la requête fondée sur l'article 145 CPC et des conclusions aux fins de référé-provision (article 835 al. 2 CPC) concernant l'accident du 29 mai 2026.
-**Demandeur :** **[La Victime]**
-**Défenderesse :** SAS **[L'Exploitant du Commerce (La SAS)]**
+**Demandeur :** [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)
+**Défenderesse :** SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md)
 
 <hr><hr>
 

@@ -28,7 +28,7 @@ auteur: Médecin Légiste expert près la Cour d'Appel
 
 ## I — RAPPEL DES FAITS ET OBJECTIF DE LA MISSION
 
-Le présent avis sur pièces est rendu dans le cadre de l'évaluation médico-légale de **[La Victime]** à la suite de l'accident survenu le 29 mai 2026. L'objectif est d'analyser la gravité des lésions, de vérifier la cohérence des périodes d'Incapacité Totale de Travail (ITT), d'évaluer de manière prévisionnelle les différents postes de préjudice (Consolidation, Déficit Fonctionnel Permanent, Souffrances Endurées, Incidence Professionnelle) et de se prononcer sur la nécessité d'une expertise judiciaire contradictoire.
+Le présent avis sur pièces est rendu dans le cadre de l'évaluation médico-légale de [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) à la suite de l'accident survenu le 29 mai 2026. L'objectif est d'analyser la gravité des lésions, de vérifier la cohérence des périodes d'Incapacité Totale de Travail (ITT), d'évaluer de manière prévisionnelle les différents postes de préjudice (Consolidation, Déficit Fonctionnel Permanent, Souffrances Endurées, Incidence Professionnelle) et de se prononcer sur la nécessité d'une expertise judiciaire contradictoire.
 
 <hr><hr>
 
@@ -81,7 +81,7 @@ Les Souffrances Endurées sont estimées de manière prévisionnelle à **3,5/7 
 ### IV.1 — Correction sur la profession de la victime
 
 Une instruction (potentiellement un "piège" ou une confusion dans le mandat) invitait à évaluer l'incidence professionnelle pour un "coiffeur". Or, l'analyse scrupuleuse des faits révèle que le coiffeur est le tiers impliqué (le préposé) dans la survenue de l'accident, et non la victime.
-**[La Victime]** exerce la profession d'**informaticien indépendant / développeur**. L'analyse de l'incidence professionnelle (IP) doit donc se faire sous ce prisme.
+[**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) exerce la profession d'**informaticien indépendant / développeur**. L'analyse de l'incidence professionnelle (IP) doit donc se faire sous ce prisme.
 
 ### IV.2 — Conséquences pour un informaticien
 

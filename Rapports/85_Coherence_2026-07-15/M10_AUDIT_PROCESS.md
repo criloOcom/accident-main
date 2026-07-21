@@ -76,7 +76,7 @@ type: rapport
 
 ### III.1 — FUITE DE TOKENS DANS LA STRATE REEL
 Selon les règles, aucun token d'anonymisation ne doit se retrouver dans les fichiers de la strate `Reel`.
-- [ ] **CRITIQUE** - `Actes/Reel/Analyses_juridiques/Note - FAQ Juridique.md`:ligne 3 (Token `**[La Victime]**` présent)
+- [ ] **CRITIQUE** - `Actes/Reel/Analyses_juridiques/Note - FAQ Juridique.md`:ligne 3 (Token `[**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md)` présent)
 
 - [ ] **CRITIQUE** - `Actes/Reel/Etudes_indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`:ligne 16 (Token `[La Victime]` présent)
 

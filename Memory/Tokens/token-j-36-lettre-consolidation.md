@@ -1,6 +1,7 @@
 ---
 title: "📅 J+36 Lettre consolidation"
 description: "Token :** `**[J+36 Lettre consolidation]**`"
+token: "J+36 Lettre consolidation"
 type: memory
 ---
 <!-- Breadcrumb -->

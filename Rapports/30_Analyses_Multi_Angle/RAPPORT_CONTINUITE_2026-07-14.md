@@ -15,9 +15,9 @@ type: rapport
 
 ## I — INTRODUCTION
 
-Le présent rapport a pour objet d'évaluer la résilience du dossier contentieux relatif à l'accident corporel survenu le 29 mai 2026 au sein des locaux de la société **[L'Exploitant du Commerce (La SAS)]**.
+Le présent rapport a pour objet d'évaluer la résilience du dossier contentieux relatif à l'accident corporel survenu le 29 mai 2026 au sein des locaux de la société [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md).
 
-L'objectif est d'identifier de manière proactive les dépendances procédurales critiques, les points de défaillance unique (Single Points of Failure), et de structurer un plan de secours pour chaque scénario défavorable, tout en rappelant les délais légaux impératifs et les actions ne pouvant être déléguées par **[La Victime]**.
+L'objectif est d'identifier de manière proactive les dépendances procédurales critiques, les points de défaillance unique (Single Points of Failure), et de structurer un plan de secours pour chaque scénario défavorable, tout en rappelant les délais légaux impératifs et les actions ne pouvant être déléguées par [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md).
 
 <hr><hr>
 
@@ -51,7 +51,7 @@ Les dispositions du Code de procédure civile imposent la représentation par av
 > **[Code de procédure civile > Article 761]** <br>
 > [Article 761](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869371)
 
-En l'absence de ressources financières suffisantes de la part de **[La Victime]**, l'octroi de l'Aide Juridictionnelle (totale ou partielle) est donc une dépendance critique absolue pour pouvoir engager l'action en référé-provision.
+En l'absence de ressources financières suffisantes de la part de [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md), l'octroi de l'Aide Juridictionnelle (totale ou partielle) est donc une dépendance critique absolue pour pouvoir engager l'action en référé-provision.
 
 ### II.3 — Diagramme des dépendances
 
@@ -77,7 +77,7 @@ Le dossier s'expose à plusieurs points de défaillance unique. Pour chacun, un 
 **Défaillance :** La SAS refuse de communiquer son assurance, même sous astreinte, ou bien il s'avère qu'elle n'était pas assurée.
 
 **Plan de secours :**
-1. Maintien de l'action directe contre **[L'Exploitant du Commerce (La SAS)]** sur ses fonds propres.
+1. Maintien de l'action directe contre [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) sur ses fonds propres.
 
 2. Si la SAS est insolvable (dépôt de bilan), saisine de la CIVI (Commission d'Indemnisation des Victimes d'Infractions) ou du SARVI, avec prise en charge par le FGTI, car les faits (blessures involontaires par manquement délibéré) constituent une infraction pénale réparable sous les conditions de l'article 706-3 du Code de procédure pénale.
 
@@ -87,14 +87,14 @@ Le dossier s'expose à plusieurs points de défaillance unique. Pour chacun, un 
 
 ### III.2 — L'Aide Juridictionnelle est refusée
 
-**Défaillance :** Les revenus de **[La Victime]** dépassent les plafonds, rendant la prise en charge des frais d'avocat impossible pour agir au civil.
+**Défaillance :** Les revenus de [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) dépassent les plafonds, rendant la prise en charge des frais d'avocat impossible pour agir au civil.
 
 **Plan de secours :**
 Privilégier exclusivement la **voie pénale** en se constituant partie civile. La constitution de partie civile devant la juridiction répressive permet de demander des dommages-intérêts (action civile greffée sur l'action publique) sans que l'assistance d'un avocat ne soit strictement obligatoire sous peine d'irrecevabilité, bien qu'elle reste vivement recommandée.
 
 ### III.3 — La SAS est dissoute ou liquidée
 
-**Défaillance :** Les dirigeants de **[L'Exploitant du Commerce (La SAS)]** procèdent à une dissolution anticipée pour organiser leur insolvabilité.
+**Défaillance :** Les dirigeants de [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) procèdent à une dissolution anticipée pour organiser leur insolvabilité.
 
 **Plan de secours :**
 La dissolution d'une société ne fait pas disparaître le droit d'action directe contre son assureur pour un sinistre survenu *pendant* la période de validité du contrat. L'action directe (L. 124-3 C. assur.) sera engagée directement contre la compagnie d'assurance de l'ex-SAS. À défaut d'assurance, recours au FGTI.
@@ -147,7 +147,7 @@ L'infraction pénale pertinente en l'espèce est le délit de blessures involont
 
 ## V — GOULOTS D'ÉTRANGLEMENT HUMAINS (À NE JAMAIS OUBLIER)
 
-Les actions suivantes reposent **exclusivement** sur des démarches que **[La Victime]** doit accomplir personnellement. Aucune automatisation ne peut s'y substituer.
+Les actions suivantes reposent **exclusivement** sur des démarches que [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) doit accomplir personnellement. Aucune automatisation ne peut s'y substituer.
 
 - **Rendez-vous UMJ :** Se présenter impérativement au CHU Purpan (Toulouse) le **12 novembre 2026 à 13h45** muni du dossier médical complet.
 

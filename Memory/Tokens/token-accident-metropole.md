@@ -1,6 +1,7 @@
 ---
 title: "📍 La Métropole Régionale"
 description: "Token :** `**[La Métropole Régionale]**`"
+token: "La Métropole Régionale"
 real_value: "Toulouse"
 type: memory
 ---

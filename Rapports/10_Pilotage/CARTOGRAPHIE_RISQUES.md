@@ -13,8 +13,8 @@ type: rapport
 
 **Date :** 10 juillet 2026
 **Objet :** Analyse exhaustive des risques pesant sur l'issue du dossier Accident Main
-**Victime :** `**[La Victime]**`
-**Mis en cause :** `**[L'Exploitant du Commerce (La SAS)]**` / `**[Le Président de l'Exploitation]**` / `**[La Directrice Générale de l'Exploitation]**`
+**Victime :** `[**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md)`
+**Mis en cause :** `[**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md)` / `[**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md)` / `[**[La Directrice Générale de l'Exploitation]**](../../Memory/Tokens/token-exploitation-dg-nom.md)`
 **Montant estimé :** ~120 000 – 160 000 € (fourchette Dintilhac actuelle)
 
 ---
@@ -137,7 +137,7 @@ Chaque risque est évalué selon trois axes :
 
 | Champ | Valeur |
 |-------|--------|
-| **Description** | Aucun avocat n'est constitué. `**[Nom de l'Avocat de la Victime]**` reste un token non attribué. La victime agit seule. Impossible de déposer les assignations, fixer les audiences, ou engager la phase judiciaire sans avocat. |
+| **Description** | Aucun avocat n'est constitué. `[**[Nom de l'Avocat de la Victime]**](../../Memory/Tokens/token-victime-avocat-nom.md)` reste un token non attribué. La victime agit seule. Impossible de déposer les assignations, fixer les audiences, ou engager la phase judiciaire sans avocat. |
 | **Probabilité** | Très élevée (100 % à date) — aucune démarche engagée |
 | **Impact** | Critique — paralysie totale de la phase judiciaire ; les assignations rédigées restent dans les tiroirs |
 | **Sévérité** | **5 🔴** |

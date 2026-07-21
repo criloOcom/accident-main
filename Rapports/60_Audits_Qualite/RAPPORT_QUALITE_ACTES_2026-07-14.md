@@ -15,7 +15,7 @@ type: rapport
 
 # Audit des actes de procédure
 
-Ce rapport évalue la qualité juridique et rédactionnelle des actes de procédure du dossier (assignations, constitution de partie civile, réquisitoire, mémoire, plaintes, requête Art. 145 CPC) impliquant **[La Victime]** et la SAS **[L'Exploitant du Commerce (La SAS)]**, ainsi que **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**.
+Ce rapport évalue la qualité juridique et rédactionnelle des actes de procédure du dossier (assignations, constitution de partie civile, réquisitoire, mémoire, plaintes, requête Art. 145 CPC) impliquant [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) et la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md), ainsi que [**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../Memory/Tokens/token-exploitation-dg-nom.md).
 
 L'audit porte sur la structure, la motivation des demandes, la qualification juridique, les citations et références, ainsi que la lisibilité et le formatage.
 
@@ -29,14 +29,14 @@ L'audit porte sur la structure, la motivation des demandes, la qualification jur
   - Évaluation provisoire des préjudices solidement appuyée sur la nomenclature Dintilhac avec des montants conformes à la documentation.
 - **Points faibles**
 
-  - La motivation de la responsabilité in solidum de **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** n'est pas immédiatement lisible dans le dispositif principal.
+  - La motivation de la responsabilité in solidum de [**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../Memory/Tokens/token-exploitation-dg-nom.md) n'est pas immédiatement lisible dans le dispositif principal.
 - **Risques de nullité / irrecevabilité**
 
   - Aucun risque majeur identifié ; la compétence du juge des référés est bien fondée sur l'article 835 alinéa 2 du CPC (obligation non sérieusement contestable).
 - **Recommandations prioritaires d'amélioration**
 
-  - Lier de manière univoque chaque poste de préjudice à la pièce médicale correspondante figurant dans le bordereau de **[La Victime]**.
-  - Clarifier la distinction entre la faute de **[L'Exploitant du Commerce (La SAS)]** et la faute personnelle séparable des dirigeants selon l'article L.227-8 du Code de commerce.
+  - Lier de manière univoque chaque poste de préjudice à la pièce médicale correspondante figurant dans le bordereau de [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md).
+  - Clarifier la distinction entre la faute de [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) et la faute personnelle séparable des dirigeants selon l'article L.227-8 du Code de commerce.
   - S'assurer que les citations jurisprudentielles sont correctement formatées.
 
 <hr><hr>
@@ -46,7 +46,7 @@ L'audit porte sur la structure, la motivation des demandes, la qualification jur
 - **Points forts**
 
   - Fondement pénal bien explicité et conforme aux dispositions (Art. 2 et suivants du CPP).
-  - Qualifications pénales très bien articulées (blessures involontaires, Art. 222-20 et 121-3 du Code pénal, ITT < 3 mois pour **[La Victime]**).
+  - Qualifications pénales très bien articulées (blessures involontaires, Art. 222-20 et 121-3 du Code pénal, ITT < 3 mois pour [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md)).
 - **Points faibles**
 
   - L'articulation entre l'action civile en juridiction pénale et la demande de provision n'est pas toujours très claire sur le sort de l'expertise médicale.
@@ -56,7 +56,7 @@ L'audit porte sur la structure, la motivation des demandes, la qualification jur
 - **Recommandations prioritaires d'amélioration**
 
   - Harmoniser le formatage des titres de sections conformément aux conventions du dossier.
-  - Insister davantage sur la causalité directe et la violation manifestement délibérée d'une obligation de prudence de **[L'Exploitant du Commerce (La SAS)]**.
+  - Insister davantage sur la causalité directe et la violation manifestement délibérée d'une obligation de prudence de [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md).
   - Intégrer de façon plus structurée la mention du Fonds de Garantie des Victimes (FGTI) (Art. 706-3 CPP).
 
 <hr><hr>
@@ -66,7 +66,7 @@ L'audit porte sur la structure, la motivation des demandes, la qualification jur
 - **Points forts**
 
   - Le motif légitime pour l'article 145 CPC est parfaitement démontré (blocage pour l'action directe).
-  - L'argumentation autour du refus persistant de **[L'Exploitant du Commerce (La SAS)]** est percutante.
+  - L'argumentation autour du refus persistant de [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) est percutante.
 - **Points faibles**
 
   - La durée et le périmètre des vidéos à conserver pourraient être encore plus détaillés techniquement pour éviter les échappatoires.
@@ -85,19 +85,19 @@ L'audit porte sur la structure, la motivation des demandes, la qualification jur
 
 - **Points forts**
 
-  - L'exposé des faits est circonstancié, et dénonce clairement l'entrave à l'action directe de **[La Victime]**.
+  - L'exposé des faits est circonstancié, et dénonce clairement l'entrave à l'action directe de [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md).
   - Mention explicite du FGTI et des voies d'indemnisation subsidiaires.
 - **Points faibles**
 
   - La qualification pénale pure du "défaut d'assurance RC Pro" est complexe à établir pour un salon de coiffure ; le fondement repose plutôt sur la mise en danger.
 - **Risques de nullité / irrecevabilité**
 
-  - Si aucune obligation pénale spécifique d'assurance ne pèse sur **[L'Exploitant du Commerce (La SAS)]**, la plainte pourrait être classée sans suite sur ce seul chef.
+  - Si aucune obligation pénale spécifique d'assurance ne pèse sur [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md), la plainte pourrait être classée sans suite sur ce seul chef.
 - **Recommandations prioritaires d'amélioration**
 
   - Axer prioritairement la qualification sur la mise en danger délibérée de la vie d'autrui plutôt que le défaut d'assurance en soi.
-  - Assortir la plainte des preuves des mises en demeure restées vaines adressées à **[L'Exploitant du Commerce (La SAS)]**.
-  - Clarifier la mise en cause personnelle de **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**.
+  - Assortir la plainte des preuves des mises en demeure restées vaines adressées à [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md).
+  - Clarifier la mise en cause personnelle de [**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../Memory/Tokens/token-exploitation-dg-nom.md).
 
 <hr><hr>
 
@@ -105,7 +105,7 @@ L'audit porte sur la structure, la motivation des demandes, la qualification jur
 
 - **Points forts**
 
-  - Le document pose clairement la problématique et synthétise efficacement l'historique de la plainte de **[La Victime]**.
+  - Le document pose clairement la problématique et synthétise efficacement l'historique de la plainte de [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md).
   - Les qualifications pénales envisagées sont cohérentes (blessures involontaires, manquement délibéré).
 - **Points faibles**
 
@@ -135,6 +135,6 @@ L'audit porte sur la structure, la motivation des demandes, la qualification jur
   - Aucun risque identifié, les mentions obligatoires et les règles de postulation semblent respectées.
 - **Recommandations prioritaires d'amélioration**
 
-  - Renforcer encore le paragraphe démontrant l'absence de contestation sérieuse de la responsabilité de **[L'Exploitant du Commerce (La SAS)]**.
+  - Renforcer encore le paragraphe démontrant l'absence de contestation sérieuse de la responsabilité de [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md).
   - S'assurer que les demandes fondées sur l'article 700 CPC sont dûment étayées par des factures.
   - Supprimer les tableaux hors de l'acte officiel pour maintenir la pureté procédurale.

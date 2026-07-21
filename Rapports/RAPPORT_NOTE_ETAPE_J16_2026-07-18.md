@@ -15,11 +15,11 @@ date: 2026-07-18
 
 ## I — CHRONOLOGIE DE LA VISITE DES LIEUX (16 JUILLET 2026)
 
-Contrairement à ce qui était initialement envisagé (déplacement au tribunal le 15 juillet pour la demande d'Aide Juridictionnelle, qui n'a pas eu lieu), le déplacement à **[La Ville de l'Accident]** s'est concentré sur la visite des lieux de l'accident au 22 rue Lafaurie, le 16 juillet 2026.
+Contrairement à ce qui était initialement envisagé (déplacement au tribunal le 15 juillet pour la demande d'Aide Juridictionnelle, qui n'a pas eu lieu), le déplacement à [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md) s'est concentré sur la visite des lieux de l'accident au 22 rue Lafaurie, le 16 juillet 2026.
 
 ### A. Arrivée sur les lieux et constatations extérieures
 
-- Arrivée au 22 rue Lafaurie, **[La Ville de l'Accident]**.
+- Arrivée au 22 rue Lafaurie, [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md).
 
 - Découverte sur la vitrine d'un encart ou pancarte indiquant la dénomination « **[Le Nouvel Exploitant (HB BARBER)]** ».
 
@@ -35,7 +35,7 @@ Contrairement à ce qui était initialement envisagé (déplacement au tribunal 
 
 - Cette personne a refusé de fournir toute facture ou de communiquer les coordonnées de son assurance responsabilité civile.
 
-- Elle n'a présenté aucun justificatif d'identité et a demandé à **[La Victime]** de quitter les lieux.
+- Elle n'a présenté aucun justificatif d'identité et a demandé à [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) de quitter les lieux.
 
 - Le salon étant resté fermé plusieurs semaines depuis l'accident, il est fort probable que les enregistrements de vidéosurveillance de la période de l'accident aient été écrasés ou non conservés.
 
@@ -47,9 +47,9 @@ Les preuves documentant cette visite et ses conséquences comprennent :
 
 - **Photographies** : Plusieurs photographies ont été prises, montrant la nouvelle enseigne, l'absence du bac cassé, et les traces du meuble retiré (référencées dans le bordereau des pièces).
 
-- **Note de constatations** : Une note personnelle datée du 16 juillet 2026, rédigée par **[La Victime]**, relatant en détail la visite, la disparition du matériel et l'échange avec l'exploitant.
+- **Note de constatations** : Une note personnelle datée du 16 juillet 2026, rédigée par [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md), relatant en détail la visite, la disparition du matériel et l'échange avec l'exploitant.
 
-- **Courriel du bailleur** : Le même jour, réception d'un courriel de **[Le Propriétaire des Murs]**, propriétaire des murs, affirmant que **[L'Exploitant du Commerce (La SAS)]** a quitté les lieux le 10 mars 2026 (avec un état des lieux de sortie joint) et refusant de transmettre des informations d'assurance.
+- **Courriel du bailleur** : Le même jour, réception d'un courriel de [**[Le Propriétaire des Murs]**](../Memory/Tokens/token-exploitation-bailleur-nom.md), propriétaire des murs, affirmant que [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) a quitté les lieux le 10 mars 2026 (avec un état des lieux de sortie joint) et refusant de transmettre des informations d'assurance.
 
 <hr><hr>
 
@@ -71,7 +71,7 @@ La découverte de la SAS **[Le Nouvel Exploitant (HB BARBER)]** (créée le 22 a
 
 ### A. Impact sur les actes existants
 
-- L'intégralité des plaintes, LRAR, courriers CPAM et mises en demeure visaient à tort la SAS **[L'Exploitant du Commerce (La SAS)]**.
+- L'intégralité des plaintes, LRAR, courriers CPAM et mises en demeure visaient à tort la SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md).
 
 ### B. Actions à mener urgemment
 
@@ -83,11 +83,11 @@ La découverte de la SAS **[Le Nouvel Exploitant (HB BARBER)]** (créée le 22 a
 
 ### C. Questions à poser à l'avocat
 
-- Comment gérer la transition procédurale de **[L'Exploitant du Commerce (La SAS)]** vers **[Le Nouvel Exploitant (HB BARBER)]** devant le Tribunal Judiciaire pour l'audience de référé fixée au 31 juillet 2026 ?
+- Comment gérer la transition procédurale de [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) vers **[Le Nouvel Exploitant (HB BARBER)]** devant le Tribunal Judiciaire pour l'audience de référé fixée au 31 juillet 2026 ?
 
 - Est-il opportun de solliciter une mesure d'instruction in futurum (article 145 CPC) en urgence contre le bailleur pour obtenir le bail et l'attestation d'assurance de **[Le Nouvel Exploitant (HB BARBER)]** ?
 
-- Faut-il mettre en cause les deux sociétés solidairement compte tenu de la continuité de la Direction Générale (**[La Directrice Générale de l'Exploitation]**) ?
+- Faut-il mettre en cause les deux sociétés solidairement compte tenu de la continuité de la Direction Générale ([**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md)) ?
 
 <hr><hr>
 

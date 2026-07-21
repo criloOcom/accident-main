@@ -20,11 +20,11 @@ Toutes les pièces listées dans `Memory/PIECES MAP.md` doivent exister physique
 - Fichiers physiques trouvés dans `Actes/Token/Preuves_officielles/` : 3
 
 ### Pièces signalées comme manquantes dans le dossier cible :
-- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 1 — PV de police n° **[N° PV Police]** — dépôt de plainte — Introuvable dans `Actes/Token/Preuves_officielles/`.
+- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 1 — PV de police n° [**[N° PV Police]**](../Memory/Tokens/token-pv-police-numero.md) — dépôt de plainte — Introuvable dans `Actes/Token/Preuves_officielles/`.
 
-- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 2 — Certificat médical initial — **[Le Médecin en Urgence]** (J+0) — Introuvable dans `Actes/Token/Preuves_officielles/`.
+- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 2 — Certificat médical initial — [**[Le Médecin en Urgence]**](../Memory/Tokens/token-hopital-urgence-medecin.md) (J+0) — Introuvable dans `Actes/Token/Preuves_officielles/`.
 
-- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 3 — CR opératoire — **[Le Chirurgien SOS Main]** (J+1) — Introuvable dans `Actes/Token/Preuves_officielles/`.
+- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 3 — CR opératoire — [**[Le Chirurgien SOS Main]**](../Memory/Tokens/token-hopital-sosmain-chirurgien.md) (J+1) — Introuvable dans `Actes/Token/Preuves_officielles/`.
 
 - [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 4 — Arrêts de travail (55 jours, J+3 à J+55) — Introuvable dans `Actes/Token/Preuves_officielles/`.
 
@@ -36,17 +36,17 @@ Toutes les pièces listées dans `Memory/PIECES MAP.md` doivent exister physique
 
 - [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 8 — Facture chirurgie SOS Main (790,23 €, J+12) — Introuvable dans `Actes/Token/Preuves_officielles/`.
 
-- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 9 — Dossier RCT CPAM n° **[N° Dossier CPAM]** — Introuvable dans `Actes/Token/Preuves_officielles/`.
+- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 9 — Dossier RCT CPAM n° [**[N° Dossier CPAM]**](../Memory/Tokens/token-cpam-dossier-numero.md) — Introuvable dans `Actes/Token/Preuves_officielles/`.
 
 - [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 10 — LRAR [mise en demeure SAS](../Actes/Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md) (J+31) — Introuvable dans `Actes/Token/Preuves_officielles/`.
 
 - [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 10b — LRAR [relance V2 dirigeants](../Actes/Reel/Courriers/SAS_&_Salon/SAS%20-%20Dirigeants%20-%20Courrier%20-%20Relance.md) (08/07/2026) — Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf) — Introuvable dans `Actes/Token/Preuves_officielles/`.
 
-- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 11 — LRAR mise en demeure **[Le Président de l'Exploitation]** (J+31) — Introuvable dans `Actes/Token/Preuves_officielles/`.
+- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 11 — LRAR mise en demeure [**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md) (J+31) — Introuvable dans `Actes/Token/Preuves_officielles/`.
 
-- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 12 — LRAR mise en demeure **[La Directrice Générale de l'Exploitation]** (J+31) — Introuvable dans `Actes/Token/Preuves_officielles/`.
+- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 12 — LRAR mise en demeure [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md) (J+31) — Introuvable dans `Actes/Token/Preuves_officielles/`.
 
-- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 13 — LRAR mise en demeure **[Le Propriétaire des Murs]** (J+31) + AR signé — Introuvable dans `Actes/Token/Preuves_officielles/`.
+- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 13 — LRAR mise en demeure [**[Le Propriétaire des Murs]**](../Memory/Tokens/token-exploitation-bailleur-nom.md) (J+31) + AR signé — Introuvable dans `Actes/Token/Preuves_officielles/`.
 
 - [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 14 — [Action directe assureur RC](../Actes/Reel/Courriers/SAS_&_Salon/SAS%20-%20Assureur%20RC%20-%20Courrier.md) (Art. L.124-3 C. assur.) — Introuvable dans `Actes/Token/Preuves_officielles/`.
 

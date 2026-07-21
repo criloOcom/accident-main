@@ -1,6 +1,7 @@
 ---
 title: "👤 Le Chirurgien SOS Main"
 description: "Token :** `**[Le Chirurgien SOS Main]**`"
+token: "Le Chirurgien SOS Main"
 real_value: "Dr Iskander DJERBI"
 type: memory
 ---

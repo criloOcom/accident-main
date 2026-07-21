@@ -1,6 +1,6 @@
 ---
 title: "Fiche Réflexe 48h - Disparition SAS"
-description: "La disparition soudaine de **[L'Exploitant du Commerce (La SAS)]** et le silence de ses dirigeants nécessitent une action immédiate, coordonnée et séquentielle pour préserver les droits de **[La Victime]** et geler la situation factuelle et juridique"
+description: "La disparition soudaine de [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) et le silence de ses dirigeants nécessitent une action immédiate, coordonnée et séquentielle pour préserver les droits de [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) et geler la situation factuelle et juridique"
 type: readme
 date: 2026-07-09
 tags:

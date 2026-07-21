@@ -1,6 +1,7 @@
 ---
 title: "💰 Finance<br>Déficit Fonctionnel Permanent (DFP)"
 description: "Token :** `**[Finance DFP]**`"
+token: "Finance DFP"
 type: memory
 ---
 <!-- Breadcrumb -->

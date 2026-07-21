@@ -37,7 +37,7 @@ Lorsque vous consultez un document de la strate Token, il diffère légèrement 
     Tout en haut du document, entre des lignes de tirets `---`, se trouve le bloc de métadonnées (le *Frontmatter*). Il indique le titre, la date, le type d'acte, et les parties concernées. Ce bloc sert au système informatique pour trier et générer les documents finaux, il n'apparaîtra pas dans la version imprimée.
 
 *   **Les Identifiants (Tokens) :**
-    Pour préserver la confidentialité et garantir l'exactitude des informations, les identités, montants ou dates clés sont remplacés par des balises spécifiques, souvent encadrées par des doubles crochets `[[ ]]` ou mises en gras sous la forme `**[Nom du Token]**` (par exemple : `**[La Victime]**`). Le système informatique se charge de les remplacer par les vrais noms lors de la génération.
+    Pour préserver la confidentialité et garantir l'exactitude des informations, les identités, montants ou dates clés sont remplacés par des balises spécifiques, souvent encadrées par des doubles crochets `[[ ]]` ou mises en gras sous la forme `**[Nom du Token]**` (par exemple : `[**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md)`). Le système informatique se charge de les remplacer par les vrais noms lors de la génération.
 
 *   **Les Liens Relatifs :**
     Vous croiserez parfois des textes bleus soulignés qui renvoient vers d'autres fichiers du projet (par exemple, vers une pièce ou une preuve). Ce sont des "liens relatifs". Ils vous permettent de naviguer facilement de l'argumentaire à la pièce justificative correspondante d'un simple clic.

@@ -23,7 +23,7 @@ type: rapport
 
 - **29 mai 2026** : Accident au salon de coiffure
 
-- **30 mai 2026** : Chirurgie réparatrice (**[Le Chirurgien SOS Main]**)
+- **30 mai 2026** : Chirurgie réparatrice ([**[Le Chirurgien SOS Main]**](../../Memory/Tokens/token-hopital-sosmain-chirurgien.md))
 
 - **01 juin 2026** : Certificat initial erroné (1 jour ITT, rectifié à 55 jours)
 
@@ -95,6 +95,6 @@ Les JURITEXT cités (ex: JURITEXT000049418278, JURITEXT000043782126, JURITEXT000
 
 4. **Expertise médicale** : Étape incontournable pour la consolidation des préjudices (Dintilhac).
 
-5. **Fond** : Assignation in solidum **[L'Exploitant du Commerce (La SAS)]** + Dirigeants en raison du risque d'insolvabilité de la SAS (Capital 200 €).
+5. **Fond** : Assignation in solidum [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) + Dirigeants en raison du risque d'insolvabilité de la SAS (Capital 200 €).
 
 **Conclusion Stratégique** : La stratégie est juridiquement tenable et adaptée au risque d'insolvabilité. L'articulation entre l'action civile, l'action pénale (constitution de partie civile) et la préparation d'un éventuel recours FGTI/CIVI est cohérente.

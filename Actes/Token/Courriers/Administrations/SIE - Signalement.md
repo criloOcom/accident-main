@@ -15,7 +15,7 @@ tags:
 
 - LRAR
 statut: projet
-destinataire: Service des Impôts des Entreprises de **[La Ville de l'Accident]**
+destinataire: Service des Impôts des Entreprises de [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md)
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Administrations/SIE - Signalement.md
 source: drive

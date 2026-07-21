@@ -1,5 +1,5 @@
 ---
-title: "Plan d'action chronologique pour le déplacement à [**[La Ville de l'Accident]**]"
+title: "Plan d'action chronologique pour le déplacement à [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md)"
 date: 2026-07-18
 description: "Rapport détaillant le plan d'action heure par heure pour le déplacement de la semaine du 20 juillet 2026."
 type: rapport
@@ -11,7 +11,7 @@ type: rapport
 
 <hr>
 
-# PLAN D'ACTION CHRONOLOGIQUE<br>DÉPLACEMENT À [**[La Ville de l'Accident]**]
+# PLAN D'ACTION CHRONOLOGIQUE<br>DÉPLACEMENT À [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md)
 
 > Déplacement prévu la semaine du 20 juillet 2026 (suite au repérage du 16 juillet 2026).
 
@@ -24,7 +24,7 @@ En explorant le dossier, plusieurs fausses mentions « ✅ Déposé », « Trans
 
 - La requête Art. 145 CPC.
 
-Ces démarches, initialement prévues dans la checklist du 11 juillet pour un déplacement le 15 juillet, n'ont **pas** été effectuées. Le déplacement à [**[La Ville de l'Accident]**] n'a eu lieu que le 16 juillet 2026 et s'est limité à la découverte de l'enseigne [**[Le Nouvel Exploitant (HB BARBER)]**]. Ces documents doivent donc être impérativement traités comme des tâches restant à accomplir lors de ce nouveau déplacement.
+Ces démarches, initialement prévues dans la checklist du 11 juillet pour un déplacement le 15 juillet, n'ont **pas** été effectuées. Le déplacement à [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md) n'a eu lieu que le 16 juillet 2026 et s'est limité à la découverte de l'enseigne [**[Le Nouvel Exploitant (HB BARBER)]**]. Ces documents doivent donc être impérativement traités comme des tâches restant à accomplir lors de ce nouveau déplacement.
 
 <hr><hr>
 
@@ -32,14 +32,14 @@ Ces démarches, initialement prévues dans la checklist du 11 juillet pour un d�
 
 ### 1. Tribunal Judiciaire (Greffe Civil)
 
-- **Lieu** : Tribunal Judiciaire de [**[La Ville de l'Accident]**] (adresse précise : inconnue en l'état).
+- **Lieu** : Tribunal Judiciaire de [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md) (adresse précise : inconnue en l'état).
 
 - **Heure estimée** : 09h00 - 09h30.
 
 - **Documents à apporter** :
 
   - Requête Art. 145 CPC (en 2 exemplaires).
-  - Copie du PV initial [**[N° PV Police]**].
+  - Copie du PV initial [**[N° PV Police]**](../Memory/Tokens/token-pv-police-numero.md).
 - **Ce qu'il faut demander** : Un récépissé de dépôt daté et portant le cachet du greffe.
 
 - **Ce qu'il faut dire** : « Bonjour, je souhaite déposer une requête sur le fondement de l'article 145 du Code de procédure civile, afin de préserver des éléments de preuve. »
@@ -48,7 +48,7 @@ Ces démarches, initialement prévues dans la checklist du 11 juillet pour un d�
 
 ### 2. Tribunal Judiciaire (Bureau d'Aide Juridictionnelle)
 
-- **Lieu** : BAJ du Tribunal Judiciaire de [**[La Ville de l'Accident]**] (même bâtiment).
+- **Lieu** : BAJ du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md) (même bâtiment).
 
 - **Heure estimée** : 09h30 - 10h30.
 
@@ -65,7 +65,7 @@ Ces démarches, initialement prévues dans la checklist du 11 juillet pour un d�
 
 ### 3. Lieu de l'accident (Second constat visuel si utile)
 
-- **Lieu** : [**[L'Adresse de l'Exploitation]**] (actuellement [**[Le Nouvel Exploitant (HB BARBER)]**]).
+- **Lieu** : [**[L'Adresse de l'Exploitation]**](../Memory/Tokens/token-exploitation-adresse.md) (actuellement [**[Le Nouvel Exploitant (HB BARBER)]**]).
 
 - **Heure estimée** : 11h00 - 12h00 (ou pause de midi).
 
@@ -79,7 +79,7 @@ Ces démarches, initialement prévues dans la checklist du 11 juillet pour un d�
 
 ### 4. Commissariat de Police
 
-- **Lieu** : Commissariat de Police de [**[La Ville de l'Accident]**] (adresse précise : inconnue en l'état).
+- **Lieu** : Commissariat de Police de [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md) (adresse précise : inconnue en l'état).
 
 - **Heure estimée** : 14h00 - 16h00.
 
@@ -88,20 +88,20 @@ Ces démarches, initialement prévues dans la checklist du 11 juillet pour un d�
   - 3 jeux complets du dossier (~58 pages par jeu), incluant le bordereau de pièces.
   - Note personnelle détaillée.
   - Erratum formel.
-  - Courriel du bailleur [**[Le Propriétaire des Murs]**].
+  - Courriel du bailleur [**[Le Propriétaire des Murs]**](../Memory/Tokens/token-exploitation-bailleur-nom.md).
   - Fiche RNE de [**[Le Nouvel Exploitant (HB BARBER)]**].
 - **Ce qu'il faut demander** :
 
-  - Le numéro du **nouveau PV** avec référence explicite au PV initial [**[N° PV Police]**].
+  - Le numéro du **nouveau PV** avec référence explicite au PV initial [**[N° PV Police]**](../Memory/Tokens/token-pv-police-numero.md).
   - Les coordonnées de l'OPJ référent pour le suivi.
   - La saisie et conservation des vidéosurveillances (art. 56 CPP).
-- **Ce qu'il faut dire** : « Je viens déposer une plainte complémentaire suite à mon accident du 29 mai 2026 (référence au PV [**[N° PV Police]**]). Voici les éléments nouveaux sur l'identité de l'exploitant, l'obstruction à la remise de l'assurance RC, et l'abandon potentiel du fonds de commerce. »
+- **Ce qu'il faut dire** : « Je viens déposer une plainte complémentaire suite à mon accident du 29 mai 2026 (référence au PV [**[N° PV Police]**](../Memory/Tokens/token-pv-police-numero.md)). Voici les éléments nouveaux sur l'identité de l'exploitant, l'obstruction à la remise de l'assurance RC, et l'abandon potentiel du fonds de commerce. »
 
 - **Ce qu'il faut éviter** : S'énerver si l'officier qualifie les faits de "civils". Lui rappeler fermement que la mise en danger délibérée (art. 223-1 CP) et l'entrave (art. 434-15 CP) sont des infractions pénales autonomes. Partir sans récépissé ou copie du PV.
 
 ### 5. Bureau de Poste
 
-- **Lieu** : Bureau de poste de [**[La Ville de l'Accident]**] (adresse précise : inconnue en l'état).
+- **Lieu** : Bureau de poste de [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md) (adresse précise : inconnue en l'état).
 
 - **Heure estimée** : 16h30 - 17h00.
 
@@ -113,13 +113,13 @@ Ces démarches, initialement prévues dans la checklist du 11 juillet pour un d�
 
 - **Ce qu'il faut éviter** : Égarer les bordereaux d'envoi.
 
-### 6. Mairie de [**[La Ville de l'Accident]**] (Relance éventuelle)
+### 6. Mairie de [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md) (Relance éventuelle)
 
-- **Lieu** : Mairie de [**[La Ville de l'Accident]**] (Service urbanisme/sécurité).
+- **Lieu** : Mairie de [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md) (Service urbanisme/sécurité).
 
 - **Heure estimée** : 17h00 - 17h30.
 
-- **Documents à apporter** : Copie des échanges courriels avec [**[L'Adjoint au Maire de la Commune]**].
+- **Documents à apporter** : Copie des échanges courriels avec [**[L'Adjoint au Maire de la Commune]**](../Memory/Tokens/token-mairie-adjoint-nom.md).
 
 - **Ce qu'il faut demander** : Un point d'étape sur les vérifications de sécurité ERP.
 

@@ -10,25 +10,25 @@ type: rapport
 <!-- /Breadcrumb -->
 
 # Rapport de Stratégie Pénale et Saisine du Parquet
-**Dossier :** Accident Corporel du 29 mai 2026 – **[La Victime]**
+**Dossier :** Accident Corporel du 29 mai 2026 – [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md)
 **Date du rapport :** 14 juillet 2026
 
-L'objet de ce rapport est d'analyser la dimension pénale de l'accident dont a été victime **[La Victime]** le 29 mai 2026 au sein de l'établissement exploité par **[L'Exploitant du Commerce (La SAS)]** à Foix. L'objectif est de structurer la saisine du Parquet (Art. 40 CPP), d'identifier les qualifications pénales applicables, et de s'assurer d'une stratégie processuelle cohérente avec l'action civile, tout en respectant scrupuleusement la prescription.
+L'objet de ce rapport est d'analyser la dimension pénale de l'accident dont a été victime [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) le 29 mai 2026 au sein de l'établissement exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) à Foix. L'objectif est de structurer la saisine du Parquet (Art. 40 CPP), d'identifier les qualifications pénales applicables, et de s'assurer d'une stratégie processuelle cohérente avec l'action civile, tout en respectant scrupuleusement la prescription.
 
 <hr><hr>
 
 ## I — Qualification des infractions et fondements légaux
 
-L'analyse des faits permet de dégager plusieurs qualifications pénales potentielles, tant à l'encontre de la personne morale **[L'Exploitant du Commerce (La SAS)]** que de ses dirigeants et préposés.
+L'analyse des faits permet de dégager plusieurs qualifications pénales potentielles, tant à l'encontre de la personne morale [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) que de ses dirigeants et préposés.
 
 ### I.1 — 1.1 Blessures involontaires (ITT ≤ 3 mois)
-L'accident a entraîné une ITT de 55 jours pour **[La Victime]**.
+L'accident a entraîné une ITT de 55 jours pour [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md).
 * **Fondement juridique :** Article 222-20 du Code pénal.
 
 * **Incrimination :** Le fait de causer à autrui, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois.
 
 ### I.2 — 1.2 Complicité et participation (Faute caractérisée)
-La mise en cause des dirigeants de **[L'Exploitant du Commerce (La SAS)]** (**[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**) nécessite de démontrer une faute dans la direction ou l'organisation ayant contribué à la réalisation du dommage.
+La mise en cause des dirigeants de [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) ([**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../Memory/Tokens/token-exploitation-dg-nom.md)) nécessite de démontrer une faute dans la direction ou l'organisation ayant contribué à la réalisation du dommage.
 * **Fondement juridique :** Article 121-3 du Code pénal (alinéa 4).
 
 * **Incrimination :** En cas de causalité indirecte (ce qui est le cas pour les dirigeants non présents matériellement ou n'ayant pas directement causé la chute de la vasque), il faut démontrer qu'ils ont "violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement" ou commis une "faute caractérisée et qui exposait autrui à un risque d'une particulière gravité qu'ils ne pouvaient ignorer". L'absence de fixation d'une vasque endommagée au public constitue un risque évident.
@@ -51,7 +51,7 @@ Le signalement ou la plainte simple sera adressé au Procureur de la République
 * **Formalisme et Contenu :**
 
   * La plainte doit être exhaustive, chronologique et factuelle.
-  * Elle doit lister l'identité complète de la victime (**[La Victime]**), de la personne morale mise en cause (**[L'Exploitant du Commerce (La SAS)]**), ainsi que des dirigeants.
+  * Elle doit lister l'identité complète de la victime ([**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md)), de la personne morale mise en cause ([**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md)), ainsi que des dirigeants.
   * Elle détaillera le mécanisme de l'accident du 29 mai 2026 (le basculement de la vasque endommagée).
   * Les pièces médicales (certificat du chirurgien SOS Main du 30 mai 2026, arrêt de travail justifiant 55 jours d'ITT) doivent être jointes.
 * **Suites attendues (Art. 40 CPP) :**
@@ -63,7 +63,7 @@ Le signalement ou la plainte simple sera adressé au Procureur de la République
 
 ## III — Constitution de Partie Civile
 
-La constitution de partie civile est essentielle pour associer **[La Victime]** à l'action publique et réclamer l'indemnisation de ses préjudices.
+La constitution de partie civile est essentielle pour associer [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) à l'action publique et réclamer l'indemnisation de ses préjudices.
 
 * **Fondements juridiques :**
 
@@ -82,7 +82,7 @@ Pour éviter la dépérition des preuves, notamment les vidéos de vidéosurveil
 
 * **Article 77-1-1 CPP :** "Le procureur de la République ou, sur autorisation de celui-ci, l'officier de police judiciaire, peut, par tout moyen, requérir de toute personne, de tout établissement ou organisme privé ou public ou de toute administration publique qui sont susceptibles de détenir des informations intéressant l'enquête, y compris celles issues d'un système informatique ou d'un traitement de données nominatives, de lui remettre ces informations."
 
-* **Action :** Solliciter d'urgence le Parquet ou les OPJ en charge (mention du PV police n°2026/015967) pour qu'une réquisition soit faite à l'encontre de **[L'Exploitant du Commerce (La SAS)]** afin de saisir et préserver les bandes vidéo du 29 mai 2026 avant écrasement.
+* **Action :** Solliciter d'urgence le Parquet ou les OPJ en charge (mention du PV police n°2026/015967) pour qu'une réquisition soit faite à l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) afin de saisir et préserver les bandes vidéo du 29 mai 2026 avant écrasement.
 
 <hr><hr>
 

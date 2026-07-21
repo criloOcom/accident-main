@@ -16,7 +16,7 @@ date: 2026-07-14
 
 ## I — RAPPEL DES FAITS ET PROCÉDURE
 
-Le 29 mai 2026, **[La Victime]** a subi un accident corporel au sein de l'établissement exploité par **[L'Exploitant du Commerce (La SAS)]**. Une vasque fixée au mur a basculé et écrasé la main du client.
+Le 29 mai 2026, [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) a subi un accident corporel au sein de l'établissement exploité par [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md). Une vasque fixée au mur a basculé et écrasé la main du client.
 
 L'enjeu principal du litige consiste à déterminer le fondement juridique de la responsabilité de la SAS et l'étendue de l'indemnisation des préjudices corporels.
 
@@ -29,7 +29,7 @@ L'enjeu principal du litige consiste à déterminer le fondement juridique de la
 Le demandeur pourrait être tenté d'invoquer une faute ou une négligence dans l'entretien de la vasque. L'[Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) dispose :
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »
 
-Toutefois, prouver une faute positive ou une négligence de la part de **[L'Exploitant du Commerce (La SAS)]** imposerait une charge probatoire lourde au demandeur.
+Toutefois, prouver une faute positive ou une négligence de la part de [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) imposerait une charge probatoire lourde au demandeur.
 
 ### B. Application de la responsabilité du fait des choses (Article 1242, alinéa 1)
 
@@ -39,21 +39,21 @@ Le fondement le plus pertinent en l'espèce est la responsabilité de plein droi
 Pour retenir cette responsabilité, trois conditions sont requises :
 1. **La chose** : La vasque est indéniablement une chose, bien que fixée au mur.
 
-2. **La garde** : **[L'Exploitant du Commerce (La SAS)]** avait les pouvoirs d'usage, de direction et de contrôle sur les équipements de son établissement au moment de l'accident.
+2. **La garde** : [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) avait les pouvoirs d'usage, de direction et de contrôle sur les équipements de son établissement au moment de l'accident.
 
-3. **Le rôle causal** : La vasque, qui est intervenue dans la réalisation du dommage, a eu un rôle actif. S'agissant d'une chose inerte, il appartient à **[La Victime]** de prouver son caractère anormal. En l'espèce, le seul fait qu'une vasque bascule et se détache de son support démontre un état anormal ou un positionnement défectueux, suffisant pour caractériser le rôle actif de la chose.
+3. **Le rôle causal** : La vasque, qui est intervenue dans la réalisation du dommage, a eu un rôle actif. S'agissant d'une chose inerte, il appartient à [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) de prouver son caractère anormal. En l'espèce, le seul fait qu'une vasque bascule et se détache de son support démontre un état anormal ou un positionnement défectueux, suffisant pour caractériser le rôle actif de la chose.
 
-La responsabilité de **[L'Exploitant du Commerce (La SAS)]** est donc pleinement engagée sur ce fondement.
+La responsabilité de [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) est donc pleinement engagée sur ce fondement.
 
 <hr><hr>
 
 ## III — EXAMEN DES CAUSES D'EXONÉRATION
 
-**[L'Exploitant du Commerce (La SAS)]** pourrait tenter de s'exonérer, totalement ou partiellement, de sa responsabilité.
+[**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) pourrait tenter de s'exonérer, totalement ou partiellement, de sa responsabilité.
 
 1. **La force majeure** : Il n'existe aucun élément extérieur, imprévisible et irrésistible. Un défaut de fixation ou d'usure ne constitue pas une force majeure.
 
-2. **La faute de la victime** : Il n'est pas démontré que **[La Victime]** ait eu un comportement anormal ou fautif lors de l'utilisation de la vasque. Sans preuve formelle d'un tel comportement, la SAS ne peut arguer d'aucune exonération.
+2. **La faute de la victime** : Il n'est pas démontré que [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) ait eu un comportement anormal ou fautif lors de l'utilisation de la vasque. Sans preuve formelle d'un tel comportement, la SAS ne peut arguer d'aucune exonération.
 
 La responsabilité est donc entière.
 
@@ -81,4 +81,4 @@ En l'espèce, si l'affaire venait au fond demain, le Tribunal allouerait ce mont
 
 ## V — CONCLUSION
 
-**[L'Exploitant du Commerce (La SAS)]** engage sa responsabilité civile délictuelle sur le fondement de l'article 1242 alinéa 1 du Code civil. L'anormalité de la chose (basculement d'une vasque fixe) et l'absence de faute de **[La Victime]** conduisent à une réparation intégrale. Le montant global de la réparation est évalué, de manière réaliste, à environ 85 000 €.
+[**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) engage sa responsabilité civile délictuelle sur le fondement de l'article 1242 alinéa 1 du Code civil. L'anormalité de la chose (basculement d'une vasque fixe) et l'absence de faute de [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) conduisent à une réparation intégrale. Le montant global de la réparation est évalué, de manière réaliste, à environ 85 000 €.

@@ -12,7 +12,7 @@ date: 2026-07-14
 
 # Rapport Préliminaire du Médecin Expert Judiciaire
 
-> **Avertissement :** Ce rapport est établi sur la base des pièces médicales préliminaires (certificat initial, compte-rendu opératoire de **[L'Établissement SOS Main]**) et des déclarations de **[La Victime]**. Il ne se substitue pas à une expertise médicale contradictoire post-consolidation.
+> **Avertissement :** Ce rapport est établi sur la base des pièces médicales préliminaires (certificat initial, compte-rendu opératoire de [**[L'Établissement SOS Main]**](../Memory/Tokens/token-hopital-sosmain-nom.md)) et des déclarations de [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md). Il ne se substitue pas à une expertise médicale contradictoire post-consolidation.
 
 <hr><hr>
 
@@ -23,7 +23,7 @@ L'examen du dossier médical révèle un traumatisme direct par section au nivea
 
 - Une atteinte du paquet collatéral.
 
-- Une lésion du nerf palmaire ayant nécessité une neurolyse chirurgicale en urgence le 30 mai 2026 par **[Le Chirurgien SOS Main]**.
+- Une lésion du nerf palmaire ayant nécessité une neurolyse chirurgicale en urgence le 30 mai 2026 par [**[Le Chirurgien SOS Main]**](../Memory/Tokens/token-hopital-sosmain-chirurgien.md).
 
 Ces lésions sont typiques d'une plaie par objet tranchant (bris de céramique de la vasque). Sur le plan biomécanique et fonctionnel, l'index est un doigt fondamental pour la pince polli-digitale (pouce-index). La section d'un tendon fléchisseur et d'un nerf palmaire entraîne un risque majeur de raideur articulaire, d'adhérences tendineuses et de séquelles sensitives (hypoesthésie, dysesthésie ou douleurs neuropathiques).
 
@@ -74,7 +74,7 @@ Sur l'échelle classique de 0 à 7, les souffrances endurées peuvent être rais
 
 ## V — INCIDENCE PROFESSIONNELLE
 
-**[La Victime]** exerce la profession d'**informaticien indépendant / développeur** — il ne s'agit pas d'un coiffeur (le coiffeur est le préposé, auteur de la manœuvre ayant causé l'accident).
+[**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) exerce la profession d'**informaticien indépendant / développeur** — il ne s'agit pas d'un coiffeur (le coiffeur est le préposé, auteur de la manœuvre ayant causé l'accident).
 
 L'incidence professionnelle est **majeure**. L'atteinte de l'index de la main droite (dominante) impacte directement les gestes fondamentaux de la profession :
 - Frappe au clavier (vitesse, précision, douleurs à la répétition).

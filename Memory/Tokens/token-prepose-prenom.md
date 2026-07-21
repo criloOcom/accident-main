@@ -1,6 +1,7 @@
 ---
 title: "👤 Le Prénom du Préposé"
 description: "Token :** `**[Le Prénom du Préposé]**`"
+token: "Le Prénom du Préposé"
 type: memory
 ---
 <!-- Breadcrumb -->

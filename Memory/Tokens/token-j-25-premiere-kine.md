@@ -1,6 +1,7 @@
 ---
 title: "📅 J+25 Première kiné"
 description: "Token :** `**[J+25 Première kiné]**`"
+token: "J+25 Première kiné"
 real_value: "23 juin 2026"
 type: memory
 ---

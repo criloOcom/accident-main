@@ -30,16 +30,16 @@ type: rapport
 **Q1.** Le prénom « Ayoub » a été signalé comme fuite RGPD dans 2 fichiers Token :
    - `Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
    - `Actes/Token/Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
-   Vérifie que « Ayoub » a bien été remplacé par `[**[Le Prénom du Préposé]**]` dans ces 2 fichiers. Si encore présent, signale comme NON RÉSOLU.
+   Vérifie que « Ayoub » a bien été remplacé par `[**[Le Prénom du Préposé]**](../Memory/Tokens/token-prepose-prenom.md)` dans ces 2 fichiers. Si encore présent, signale comme NON RÉSOLU.
 
 **Q2.** Le nouveau fichier token `Memory/Tokens/token-prepose-prenom.md` a-t-il été créé ? Son contenu est-il correct (valeur réelle : Ayoub, lien vers token-exploitation-prepose-nom.md) ?
 
-**Q3.** Le fichier `TOKEN MAP.md` contient-il la nouvelle entrée pour `**[Le Prénom du Préposé]**` → Ayoub (prénom seul) dans la section Personnes physiques ?
+**Q3.** Le fichier `TOKEN MAP.md` contient-il la nouvelle entrée pour `[**[Le Prénom du Préposé]**](../Memory/Tokens/token-prepose-prenom.md)` → Ayoub (prénom seul) dans la section Personnes physiques ?
 
-**Q4.** Le fichier `Memory/Tokens/README.md` liste-t-il `**[Le Prénom du Préposé]**` dans la table des Personnes physiques ?
+**Q4.** Le fichier `Memory/Tokens/README.md` liste-t-il `[**[Le Prénom du Préposé]**](../Memory/Tokens/token-prepose-prenom.md)` dans la table des Personnes physiques ?
 
 **Q5.** Le script `.dev/app/batch_anonymize.py` contient-il les 2 nouvelles entrées :
-   - `"« Ayoub »"` → `"[**[Le Prénom du Préposé]**]"`
+   - `"« Ayoub »"` → `"[**[Le Prénom du Préposé]**](../Memory/Tokens/token-prepose-prenom.md)"`
    - `"Ayoub"` → `"[Le Préposé de l'Exploitation]"`
    (Vérifie les lignes autour de l'entrée existante "Ayoub BENNOURINE")
 
@@ -57,7 +57,7 @@ type: rapport
 
 **Q10.** Les fichiers qui référençaient `token-finance-transaction-wero.md` (token-exploitation-prepose-nom.md, token-exploitation-prepose-telephone.md) pointent-ils désormais vers un fichier existant (plus de 404) ?
 
-**Q11.** Le token `**[N° Transaction Wero]**` est-il listé dans `TOKEN MAP.md` (section Tokens d'évaluation financière) et dans `Memory/Tokens/README.md` ?
+**Q11.** Le token `[**[N° Transaction Wero]**](../Memory/Tokens/token-finance-transaction-wero.md)` est-il listé dans `TOKEN MAP.md` (section Tokens d'évaluation financière) et dans `Memory/Tokens/README.md` ?
 
 ---
 

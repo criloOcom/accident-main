@@ -1,6 +1,7 @@
 ---
 title: "💰 Finance<br>Article 700"
 description: "Token :** `**[Finance Article 700]**`"
+token: "Finance Article 700"
 type: memory
 ---
 <!-- Breadcrumb -->

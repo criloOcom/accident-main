@@ -16,17 +16,17 @@ date: 2026-07-14
 
 ## I — PRÉSENTATION DU DOSSIER ET DES FAITS
 
-Le présent rapport est établi à la suite de la constitution de partie civile de **[La Victime]** pour les faits survenus le 29 mai 2026 au sein du salon de coiffure exploité par la SAS **[L'Exploitant du Commerce (La SAS)]**, sis au 22 Rue Lafaurie, 09000 Foix.
+Le présent rapport est établi à la suite de la constitution de partie civile de [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) pour les faits survenus le 29 mai 2026 au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md), sis au 22 Rue Lafaurie, 09000 Foix.
 
-Il ressort de l'examen de la plainte et des premières pièces produites que le préposé du salon, **[Le Préposé de l'Exploitation]**, a utilisé une vasque en céramique (présentant une cassure aux arêtes tranchantes non signalée) comme promontoire. Sous l'effet du poids, l'équipement a basculé. Par réflexe de protection, **[La Victime]** a tendu la main droite, heurtant la section tranchante, ce qui a causé une grave blessure (section nerveuse et tendineuse).
+Il ressort de l'examen de la plainte et des premières pièces produites que le préposé du salon, [**[Le Préposé de l'Exploitation]**](../Memory/Tokens/token-exploitation-prepose-nom.md), a utilisé une vasque en céramique (présentant une cassure aux arêtes tranchantes non signalée) comme promontoire. Sous l'effet du poids, l'équipement a basculé. Par réflexe de protection, [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) a tendu la main droite, heurtant la section tranchante, ce qui a causé une grave blessure (section nerveuse et tendineuse).
 
-Les certificats médicaux, notamment celui de **[Le Chirurgien SOS Main]** après la microchirurgie d'urgence à **[L'Établissement SOS Main]**, font état d'une incapacité totale de travail (ITT) de 55 jours.
+Les certificats médicaux, notamment celui de [**[Le Chirurgien SOS Main]**](../Memory/Tokens/token-hopital-sosmain-chirurgien.md) après la microchirurgie d'urgence à [**[L'Établissement SOS Main]**](../Memory/Tokens/token-hopital-sosmain-nom.md), font état d'une incapacité totale de travail (ITT) de 55 jours.
 
 <hr><hr>
 
 ## II — CHARGES SUFFISANTES ET QUALIFICATIONS PÉNALES
 
-L'instruction permet à ce stade de retenir des charges sérieuses tant contre la personne morale (SAS **[L'Exploitant du Commerce (La SAS)]**) que contre ses dirigeants.
+L'instruction permet à ce stade de retenir des charges sérieuses tant contre la personne morale (SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md)) que contre ses dirigeants.
 
 ### A. INFRACTIONS RETENUES (BLESSURES INVOLONTAIRES)
 
@@ -44,7 +44,7 @@ Ou, à tout le moins, de blessures par imprudence :
 
 ### B. RESPONSABILITÉ DES DIRIGEANTS ET DÉFAUT D'ASSURANCE
 
-Il ressort par ailleurs que le Président, **[Le Président de l'Exploitation]**, et la Directrice Générale, **[La Directrice Générale de l'Exploitation]**, de la SAS constituée avec un capital social dérisoire (200 €), n'ont souscrit aucune assurance de responsabilité civile professionnelle, ce qui constitue une faute détachable de leurs fonctions et un manquement grave aux règles de sécurité d'un ERP.
+Il ressort par ailleurs que le Président, [**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md), et la Directrice Générale, [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md), de la SAS constituée avec un capital social dérisoire (200 €), n'ont souscrit aucune assurance de responsabilité civile professionnelle, ce qui constitue une faute détachable de leurs fonctions et un manquement grave aux règles de sécurité d'un ERP.
 
 Leur responsabilité civile personnelle peut dès lors être engagée sur le fondement des dispositions applicables aux SAS :
 
@@ -57,11 +57,11 @@ Leur responsabilité civile personnelle peut dès lors être engagée sur le fon
 
 Afin de faire la lumière sur les responsabilités de chacun et l'étendue du préjudice, les actes d'instruction suivants sont ordonnés ou requis :
 
-- **Expertise médicale judiciaire** : Désignation d'un expert, possiblement de l'Unité Médico-Judiciaire (UMJ), pour évaluer de manière contradictoire les préjudices corporels de **[La Victime]** après consolidation, sur la base de la nomenclature Dintilhac (et éventuellement du barème Mornet).
+- **Expertise médicale judiciaire** : Désignation d'un expert, possiblement de l'Unité Médico-Judiciaire (UMJ), pour évaluer de manière contradictoire les préjudices corporels de [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) après consolidation, sur la base de la nomenclature Dintilhac (et éventuellement du barème Mornet).
 
 - **Réquisitions judiciaires** :
 
-  - Aux services de police pour l'audition de **[Le Préposé de l'Exploitation]** et l'exploitation de la vidéosurveillance du salon, si elle existe.
+  - Aux services de police pour l'audition de [**[Le Préposé de l'Exploitation]**](../Memory/Tokens/token-exploitation-prepose-nom.md) et l'exploitation de la vidéosurveillance du salon, si elle existe.
   - À l'Inspection du Travail pour vérifier les manquements en matière d'équipements (articles R. 4323-58 et suivants du Code du travail).
   - À l'URSSAF et à la Préfecture concernant l'exploitation du salon et les obligations administratives et assurantielles.
 

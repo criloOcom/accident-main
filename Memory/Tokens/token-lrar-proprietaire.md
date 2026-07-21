@@ -2,6 +2,7 @@
 type: preuve
 title: "[N° LRAR Propriétaire] placeholder"
 description: "Placeholder for missing LRAR propriétaire token file."
+token: "N° LRAR Propriétaire"
 date: 2026-07-20
 ---
 

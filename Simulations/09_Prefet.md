@@ -19,9 +19,9 @@ date: 2026-07-14
 
 ## I — OBJET ET CADRE JURIDIQUE
 
-Par transmission du Parquet de Foix en date du 2 juin 2026, le présent service a été saisi aux fins d'examen de la conformité de l'établissement de coiffure exploité par la SAS **[L'Exploitant du Commerce (La SAS)]**, sis 22 Rue Lafaurie, 09000 Foix, au regard de la réglementation relative aux Établissements Recevant du Public (ERP).
+Par transmission du Parquet de Foix en date du 2 juin 2026, le présent service a été saisi aux fins d'examen de la conformité de l'établissement de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md), sis 22 Rue Lafaurie, 09000 Foix, au regard de la réglementation relative aux Établissements Recevant du Public (ERP).
 
-L'accident survenu le 29 mai 2026, dans lequel **[La Victime]** a subi une grave blessure à la main droite (section tendino-nerveuse, ITT 55 jours) du fait du basculement d'une vasque en céramique cassée, interroge directement les obligations de sécurité incombant à l'exploitant d'un ERP.
+L'accident survenu le 29 mai 2026, dans lequel [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) a subi une grave blessure à la main droite (section tendino-nerveuse, ITT 55 jours) du fait du basculement d'une vasque en céramique cassée, interroge directement les obligations de sécurité incombant à l'exploitant d'un ERP.
 
 <hr><hr>
 
@@ -65,7 +65,7 @@ Affichage des consignes | ❌ | Aucune consigne de sécurité visible
 
 ### B. Mise en demeure
 
-Par courrier du 20 juin 2026, une mise en demeure a été adressée à la SAS **[L'Exploitant du Commerce (La SAS)]** lui enjoignant de :
+Par courrier du 20 juin 2026, une mise en demeure a été adressée à la SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) lui enjoignant de :
 1. **Remplacer ou neutraliser immédiatement** la vasque endommagée
 
 2. **Se doter d'un registre de sécurité** conforme

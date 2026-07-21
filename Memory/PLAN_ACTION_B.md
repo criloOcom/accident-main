@@ -14,21 +14,21 @@ type: memory
 
 | Action | Détail | Documents nécessaires | Destinataire | Statut |
 | :--- | :--- | :--- | :--- | :--- |
-| **Relancer les autres clients présents** | Obtenir des attestations CERFA sur le déroulement des faits (basculement de la vasque, intervention de **[La Victime]**). | Modèle d'attestation CERFA (Cerfa n° 11527*03), pièce d'identité | Clients présents dans le salon de **[L'Exploitant du Commerce (La SAS)]** | En attente |
-| **Vérifier l'existence de la vidéosurveillance** | S'assurer que les enregistrements du 29 mai 2026 n'ont pas été écrasés et demander leur conservation immédiate. | Mise en demeure de conservation des preuves | **[Le Président de l'Exploitation]** ou **[La Directrice Générale de l'Exploitation]** | En attente |
+| **Relancer les autres clients présents** | Obtenir des attestations CERFA sur le déroulement des faits (basculement de la vasque, intervention de [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)). | Modèle d'attestation CERFA (Cerfa n° 11527*03), pièce d'identité | Clients présents dans le salon de [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) | En attente |
+| **Vérifier l'existence de la vidéosurveillance** | S'assurer que les enregistrements du 29 mai 2026 n'ont pas été écrasés et demander leur conservation immédiate. | Mise en demeure de conservation des preuves | [**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md) ou [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md) | En attente |
 
 ## Priorité 2 — Avant l'audience de référé
 
 | Action | Détail | Documents nécessaires | Destinataire | Statut |
 | :--- | :--- | :--- | :--- | :--- |
 | **Faire réaliser un constat d'huissier** | Si le salon est encore accessible, faire constater l'état de la vasque (cassure préexistante) et de l'installation. | Requête aux fins de constat (si nécessaire), provision pour frais d'huissier | Huissier de justice | À faire |
-| **Relancer l'Inspection du Travail / CODAF** | Obtenir un accusé de réception ou un suivi du signalement effectué, concernant l'accident et les conditions de travail de **[Le Préposé de l'Exploitation]**. | Copie du signalement initial | Inspection du Travail (DIRECCTE) / CODAF | À faire |
+| **Relancer l'Inspection du Travail / CODAF** | Obtenir un accusé de réception ou un suivi du signalement effectué, concernant l'accident et les conditions de travail de [**[Le Préposé de l'Exploitation]**](../Memory/Tokens/token-exploitation-prepose-nom.md). | Copie du signalement initial | Inspection du Travail (DIRECCTE) / CODAF | À faire |
 
 ## Priorité 3 — Avant l'expertise médicale (12 novembre 2026)
 
 | Action | Détail | Documents nécessaires | Destinataire | Statut |
 | :--- | :--- | :--- | :--- | :--- |
-| **Obtenir l'attestation RC Pro** | Obtenir les coordonnées de l'assureur RC Professionnelle de **[L'Exploitant du Commerce (La SAS)]** (actuellement manquantes à la suite de l'erreur véhicule). | Demande officielle, injonction de communication si référé gagné | **[Le Président de l'Exploitation]** / Assureur RC Pro | En attente |
+| **Obtenir l'attestation RC Pro** | Obtenir les coordonnées de l'assureur RC Professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) (actuellement manquantes à la suite de l'erreur véhicule). | Demande officielle, injonction de communication si référé gagné | [**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md) / Assureur RC Pro | En attente |
 
 ## Pièces critiques à obtenir
 
@@ -38,4 +38,4 @@ type: memory
 | **Vidéosurveillance (si existante)** | Preuve irréfutable de la dynamique de l'accident du 29 mai 2026. | En attente de sécurisation |
 | **Constat d'huissier sur les lieux** | Figer l'état matériel de l'installation (vasque cassée non signalée) avant modification ou fermeture. | À faire |
 | **Attestation d'Assurance RC Pro** | Identifier le payeur solvable final (l'assurance de la SAS). | Manquant |
-| **Rapport de l'Inspection du Travail** | Confirmer le manquement à l'obligation de sécurité de l'employeur envers **[Le Préposé de l'Exploitation]** et les tiers. | En attente |
+| **Rapport de l'Inspection du Travail** | Confirmer le manquement à l'obligation de sécurité de l'employeur envers [**[Le Préposé de l'Exploitation]**](../Memory/Tokens/token-exploitation-prepose-nom.md) et les tiers. | En attente |

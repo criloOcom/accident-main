@@ -1,6 +1,7 @@
 ---
 title: "👤 Le Médecin en Urgence"
 description: "Token :** `**[Le Médecin en Urgence]**`"
+token: "Le Médecin en Urgence"
 real_value: "Dr Julie JARDON"
 type: memory
 ---

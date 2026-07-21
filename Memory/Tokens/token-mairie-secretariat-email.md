@@ -1,6 +1,7 @@
 ---
 title: "📍 L'Email du Secrétariat de la Mairie"
 description: "Token :** `**[L'Email du Secrétariat de la Mairie]**`"
+token: "L'Email du Secrétariat de la Mairie"
 real_value: "secretariat@mairie-foix.fr"
 type: memory
 ---

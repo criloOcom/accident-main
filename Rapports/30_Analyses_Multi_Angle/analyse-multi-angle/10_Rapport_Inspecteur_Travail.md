@@ -17,13 +17,13 @@ type: rapport
 
 > **Inspecteur du Travail — Unité Départementale de l'Ariège**
 > **Dossier** : Signalement accident du travail / tiers
-> **Établissement concerné** : **[L'Exploitant du Commerce (La SAS)]**, 22 Rue Lafaurie, 09000 Foix
+> **Établissement concerné** : [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md), 22 Rue Lafaurie, 09000 Foix
 
 <hr><hr>
 
 ## I — ANALYSE DES INFRACTIONS (CODE DU TRAVAIL)
 
-L'enquête consécutive à l'accident survenu le 29 mai 2026 révèle plusieurs manquements graves aux obligations de sécurité incombant à l'employeur, **[L'Exploitant du Commerce (La SAS)]**, pris en la personne de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**.
+L'enquête consécutive à l'accident survenu le 29 mai 2026 révèle plusieurs manquements graves aux obligations de sécurité incombant à l'employeur, [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md), pris en la personne de ses dirigeants, [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-dg-nom.md).
 
 ### I.1 — Non-respect de l'obligation générale de sécurité
 
@@ -41,7 +41,7 @@ Cette obligation n'a manifestement pas été respectée, la défaillance matéri
 > **[Code du travail > Article L. 4121-2]** <br>
 > [Article L4121-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026268393)
 
-Le fait que **[Le Préposé de l'Exploitation]** ait dû monter physiquement sur une vasque en céramique instable pour régler un téléviseur démontre l'absence d'évaluation des risques liés aux interventions en hauteur dans le salon (Document Unique d'Évaluation des Risques Professionnels - DUERP manifestement lacunaire ou inexistant), et un défaut de mise à disposition d'équipements de travail adaptés (escabeau sécurisé).
+Le fait que [**[Le Préposé de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-prepose-nom.md) ait dû monter physiquement sur une vasque en céramique instable pour régler un téléviseur démontre l'absence d'évaluation des risques liés aux interventions en hauteur dans le salon (Document Unique d'Évaluation des Risques Professionnels - DUERP manifestement lacunaire ou inexistant), et un défaut de mise à disposition d'équipements de travail adaptés (escabeau sécurisé).
 
 ### I.3 — Travaux temporaires en hauteur
 
@@ -55,7 +55,7 @@ Le réglage d'un téléviseur en hauteur constitue une tâche professionnelle. L
 
 ## II — QUALIFICATION DE LA VICTIME ("TRAVAILLEUR" ?)
 
-L'accident implique directement le coiffeur salarié (**[Le Préposé de l'Exploitation]**), qui a perdu l'équilibre, mais la blessure physique (section partielle du tendon fléchisseur, paquet collatéral, nerf palmaire de l'index droit) a été subie par le client, **[La Victime]**.
+L'accident implique directement le coiffeur salarié ([**[Le Préposé de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-prepose-nom.md)), qui a perdu l'équilibre, mais la blessure physique (section partielle du tendon fléchisseur, paquet collatéral, nerf palmaire de l'index droit) a été subie par le client, [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md).
 
 La victime n'étant pas liée par un contrat de travail à l'entreprise, elle ne relève pas de la qualification de "travailleur" au sens du Code du travail. Par conséquent, les dispositions protectrices du livre Ier de la quatrième partie du Code du travail ne lui sont pas directement applicables à titre personnel pour la réparation de son préjudice (qui relèvera de la responsabilité civile extracontractuelle, articles 1240 et 1242 du Code civil).
 
@@ -85,7 +85,7 @@ L'autorité administrative peut intervenir directement pour empêcher la répét
 > **[Code du travail > Article L. 4721-1]** <br>
 > [Article L4721-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903390)
 
-Une mise en demeure de l'inspection du travail à l'encontre de **[L'Exploitant du Commerce (La SAS)]** s'impose afin d'exiger :
+Une mise en demeure de l'inspection du travail à l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) s'impose afin d'exiger :
 - La vérification immédiate de la solidité et de l'intégrité de l'ensemble du mobilier professionnel et des vasques.
 
 - La mise à disposition d'un escabeau normé pour toute intervention en hauteur.
@@ -96,10 +96,10 @@ Une mise en demeure de l'inspection du travail à l'encontre de **[L'Exploitant 
 
 ## IV — CONCLUSIONS ET RECOMMANDATIONS
 
-L'accident du 29 mai 2026 met en lumière de graves défaillances dans l'organisation du travail et le maintien en sécurité du matériel au sein du salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]**.
+L'accident du 29 mai 2026 met en lumière de graves défaillances dans l'organisation du travail et le maintien en sécurité du matériel au sein du salon de coiffure exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md).
 
 1. **Constatation des infractions** : Il convient de dresser un PV pour infraction aux règles de santé et de sécurité (L.4121-1 et R.4323-58) et de le transmettre au Parquet.
 
 2. **Mesures immédiates** : Procéder à une mise en demeure (L.4721-1) pour exiger la fourniture d'équipements adaptés et la sécurisation du mobilier.
 
-3. **Implications pour le tiers** : Bien que **[La Victime]** ne soit pas un salarié, les constats de l'Inspection du Travail constituent une preuve matérielle irréfutable de la faute de la société et des manquements personnels de ses dirigeants, **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, consolidant leur mise en cause sur le plan de la responsabilité civile et pénale de droit commun.
+3. **Implications pour le tiers** : Bien que [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) ne soit pas un salarié, les constats de l'Inspection du Travail constituent une preuve matérielle irréfutable de la faute de la société et des manquements personnels de ses dirigeants, [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-dg-nom.md), consolidant leur mise en cause sur le plan de la responsabilité civile et pénale de droit commun.

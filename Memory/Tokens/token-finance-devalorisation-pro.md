@@ -1,6 +1,7 @@
 ---
 title: "💰 Finance<br>Dévalorisation Pro"
 description: "Token :** `**[Finance Dévalorisation Pro]**`"
+token: "Finance Dévalorisation Pro"
 type: memory
 ---
 <!-- Breadcrumb -->

@@ -20,9 +20,9 @@ date: 2026-07-14
 
 ## I — CADRE DU CONTRÔLE
 
-Faisant suite aux faits survenus le 29 mai 2026 au sein de l'établissement de coiffure exploité par la SAS **[L'Exploitant du Commerce (La SAS)]**, et à la demande du Parquet de Foix, un contrôle inopiné a été diligenté le 12 juin 2026 aux fins de vérifier le respect par l'employeur de ses obligations en matière de santé et sécurité au travail.
+Faisant suite aux faits survenus le 29 mai 2026 au sein de l'établissement de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md), et à la demande du Parquet de Foix, un contrôle inopiné a été diligenté le 12 juin 2026 aux fins de vérifier le respect par l'employeur de ses obligations en matière de santé et sécurité au travail.
 
-**Effectif de l'établissement :** 2 salariés (dont **[Le Préposé de l'Exploitation]**)
+**Effectif de l'établissement :** 2 salariés (dont [**[Le Préposé de l'Exploitation]**](../Memory/Tokens/token-exploitation-prepose-nom.md))
 **Classement :** ERP type L (salon de coiffure) — 5e catégorie
 
 <hr><hr>

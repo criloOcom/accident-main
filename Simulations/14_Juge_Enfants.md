@@ -16,7 +16,7 @@ date: 2026-07-14
 
 ## I — INTRODUCTION ET SAISINE
 
-Le présent rapport est établi dans le cadre de l'examen de la situation familiale consécutive à l'accident survenu le 29 mai 2026 impliquant **[La Victime]**. L'analyse porte spécifiquement sur les répercussions potentielles de cet accident et de ses conséquences (ITT de 55 jours, préjudices professionnels et fonctionnels) sur le cadre de vie familial, sous le prisme du Juge des enfants et du Juge aux affaires familiales.
+Le présent rapport est établi dans le cadre de l'examen de la situation familiale consécutive à l'accident survenu le 29 mai 2026 impliquant [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md). L'analyse porte spécifiquement sur les répercussions potentielles de cet accident et de ses conséquences (ITT de 55 jours, préjudices professionnels et fonctionnels) sur le cadre de vie familial, sous le prisme du Juge des enfants et du Juge aux affaires familiales.
 
 <hr><hr>
 
@@ -24,7 +24,7 @@ Le présent rapport est établi dans le cadre de l'examen de la situation famili
 
 ### A. État civil et charges de famille
 
-L'examen approfondi du dossier et des variables strictes applicables à l'espèce révèle l'absence d'informations permettant d'établir l'existence d'enfants à charge. En l'état actuel des éléments fournis, la situation de **[La Victime]** (âgée de 44 ans) en matière d'obligations parentales ou de statut matrimonial (marié, pacsé, célibataire) est inconnue.
+L'examen approfondi du dossier et des variables strictes applicables à l'espèce révèle l'absence d'informations permettant d'établir l'existence d'enfants à charge. En l'état actuel des éléments fournis, la situation de [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) (âgée de 44 ans) en matière d'obligations parentales ou de statut matrimonial (marié, pacsé, célibataire) est inconnue.
 
 ### B. Conséquences sur l'évaluation
 
@@ -59,4 +59,4 @@ En l'espèce, les atteintes corporelles (main droite) n'induisent pas *per se* u
 
 ## IV — CONCLUSION
 
-En l'absence de données factuelles sur la situation familiale de **[La Victime]**, aucune implication directe n'est retenue à ce jour concernant la garde d'enfants, le versement de pensions alimentaires ou de prestations compensatoires. Aucune mesure d'assistance éducative (Juge des enfants) ou révision judiciaire (Juge aux affaires familiales) n'est actuellement fondée.
+En l'absence de données factuelles sur la situation familiale de [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md), aucune implication directe n'est retenue à ce jour concernant la garde d'enfants, le versement de pensions alimentaires ou de prestations compensatoires. Aucune mesure d'assistance éducative (Juge des enfants) ou révision judiciaire (Juge aux affaires familiales) n'est actuellement fondée.

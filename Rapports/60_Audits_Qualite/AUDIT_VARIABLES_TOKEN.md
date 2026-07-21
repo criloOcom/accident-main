@@ -30,7 +30,7 @@ Ce rapport liste les incohérences détectées dans les fichiers sous `Actes/Tok
 
 - **Ligne 58** : Date d'accident erronée (29 mai 2026 attendu)
 
-  - **Valeur erronée** : `Premièrement, face au silence de l'exploitant le jour de l'accident, j'ai envoyé des lettres recommandées avec accusé de réception (LRAR) le 29 juin 2026 aux dirigeants ainsi qu'au propriétaire des murs. Le but de ces courriers était d'obtenir les coordonnées de leur assurance Responsabilité Civile Professionnelle, une obligation légale, pour permettre la prise en charge de mes préjudices, qui sont lourds (j'ai 55 jours d'ITT). Or, ces courriers me sont revenus avec la mention "NPAI - Destinataire inconnu à l'adresse". Pourtant, j'ai vérifié sur le RNE/INPI le 10 juillet 2026, la société est toujours officiellement immatriculée à cette adresse au [**[L'Adresse de l'Exploitation]**]. Il y a donc une volonté manifeste de se soustraire à leurs obligations et de ne réceptionner aucune communication de ma part ou de celle de la justice.`
+  - **Valeur erronée** : `Premièrement, face au silence de l'exploitant le jour de l'accident, j'ai envoyé des lettres recommandées avec accusé de réception (LRAR) le 29 juin 2026 aux dirigeants ainsi qu'au propriétaire des murs. Le but de ces courriers était d'obtenir les coordonnées de leur assurance Responsabilité Civile Professionnelle, une obligation légale, pour permettre la prise en charge de mes préjudices, qui sont lourds (j'ai 55 jours d'ITT). Or, ces courriers me sont revenus avec la mention "NPAI - Destinataire inconnu à l'adresse". Pourtant, j'ai vérifié sur le RNE/INPI le 10 juillet 2026, la société est toujours officiellement immatriculée à cette adresse au [**[L'Adresse de l'Exploitation]**](../../Memory/Tokens/token-exploitation-adresse.md). Il y a donc une volonté manifeste de se soustraire à leurs obligations et de ne réceptionner aucune communication de ma part ou de celle de la justice.`
   - **Correction suggérée** : Corriger la date en '29 mai 2026'.
 
 ### I.3 — Fichier : `Actes/Token/Courriers/📋s/Témoin Client - Attestation.md`
@@ -59,17 +59,17 @@ Ce rapport liste les incohérences détectées dans les fichiers sous `Actes/Tok
 - **Ligne 11** : Nom SAS non tokenisé
 
   - **Valeur erronée** : `**Objet** : Dossier accident corporel — [NOM_VICTIME] c. SAS [NOM_SAS] — TJ Foix — Demande de prise en charge`
-  - **Correction suggérée** : Remplacer 'NOM_SAS' par '**[L'Exploitant du Commerce (La SAS)]**'.
+  - **Correction suggérée** : Remplacer 'NOM_SAS' par '[**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md)'.
 
 - **Ligne 17** : Nom SAS non tokenisé
 
   - **Valeur erronée** : `Vous avez été désigné au titre de l'aide juridictionnelle pour défendre mes intérêts dans le cadre de l'accident dont j'ai été victime le [DATE_ACCIDENT] au salon [NOM_SAS] à [VILLE].`
-  - **Correction suggérée** : Remplacer 'NOM_SAS' par '**[L'Exploitant du Commerce (La SAS)]**'.
+  - **Correction suggérée** : Remplacer 'NOM_SAS' par '[**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md)'.
 
 - **Ligne 47** : Nom SAS non tokenisé
 
   - **Valeur erronée** : `**Objet** : Demande de désignation d'avocat au titre de l'aide juridictionnelle — Dossier accident corporel — [NOM_VICTIME] c. SAS [NOM_SAS] — TJ Foix`
-  - **Correction suggérée** : Remplacer 'NOM_SAS' par '**[L'Exploitant du Commerce (La SAS)]**'.
+  - **Correction suggérée** : Remplacer 'NOM_SAS' par '[**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md)'.
 
 - **Ligne 56** : Montant DFP erroné (25 200 € attendu)
 
@@ -80,13 +80,13 @@ Ce rapport liste les incohérences détectées dans les fichiers sous `Actes/Tok
 - **Ligne 56** : Nom SAS non tokenisé
 
   - **Valeur erronée** : `Victime d'un accident corporel grave le [DATE_ACCIDENT] au salon [NOM_SAS] à [VILLE], j'ai subi une plaie palmaire profonde de la main droite dominante avec section partielle du tendon FDP et du paquet vasculo-nerveux collatéral radial de l'index, ayant nécessité une microchirurgie d'urgence en SOS Main. L'expertise judiciaire du 29 mai 2027 a fixé la consolidation au 1er mars 2027, retenu un DFP de 12 % et une incidence professionnelle majeure (informaticien indépendant — perte fonctionnelle de la main droite). La fourchette globale d'indemnisation est estimée entre 120 000 et 160 000 €.`
-  - **Correction suggérée** : Remplacer 'NOM_SAS' par '**[L'Exploitant du Commerce (La SAS)]**'.
+  - **Correction suggérée** : Remplacer 'NOM_SAS' par '[**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md)'.
   - **⚠️ CORRIGÉ (14/07/2026)** : `NOM_SAS` → `[L'Exploitant du Commerce (La SAS)]` appliqué. **AUSSI :** date expertise corrigée (cf. ci-dessus).
 
 - **Ligne 77** : Nom SAS non tokenisé
 
   - **Valeur erronée** : ``[NOM_SAS]` — Raison sociale de l'exploitation`
-  - **Correction suggérée** : Remplacer 'NOM_SAS' par '**[L'Exploitant du Commerce (La SAS)]**'.
+  - **Correction suggérée** : Remplacer 'NOM_SAS' par '[**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md)'.
 
 ### I.7 — Fichier : `Rapports/RAPPORT_AUDIT_FGTI_DINTILHAC.md`
 

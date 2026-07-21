@@ -1,6 +1,7 @@
 ---
 title: "📍 La Ville de l'Accident"
 description: "Token :** `**[La Ville de l'Accident]**`"
+token: "La Ville de l'Accident"
 real_value: "Foix"
 type: memory
 ---

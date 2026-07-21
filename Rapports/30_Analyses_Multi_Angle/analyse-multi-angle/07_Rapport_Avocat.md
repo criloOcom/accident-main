@@ -27,11 +27,11 @@ auteur: Avocat au Barreau de Foix
 
 ## I — CONTEXTE ET OBJECTIFS
 
-Le présent rapport est établi dans le cadre de la défense des intérêts de **[La Victime]**, informaticien indépendant, à la suite de l'accident dont il a été victime le 29 mai 2026 au sein du salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)]**.
+Le présent rapport est établi dans le cadre de la défense des intérêts de [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md), informaticien indépendant, à la suite de l'accident dont il a été victime le 29 mai 2026 au sein du salon de coiffure exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md).
 
-L'accident (chute d'une vasque en pierre sur la main droite dominante) a nécessité une intervention chirurgicale en urgence à **[L'Établissement SOS Main]** et a entraîné une incapacité de travail et des séquelles fonctionnelles importantes, impactant tant sa vie professionnelle que ses loisirs (codage).
+L'accident (chute d'une vasque en pierre sur la main droite dominante) a nécessité une intervention chirurgicale en urgence à [**[L'Établissement SOS Main]**](../../../Memory/Tokens/token-hopital-sosmain-nom.md) et a entraîné une incapacité de travail et des séquelles fonctionnelles importantes, impactant tant sa vie professionnelle que ses loisirs (codage).
 
-L'objectif de cette note est de définir la stratégie globale (actions au pénal, civil, et en référé) pour maximiser et sécuriser l'indemnisation de **[La Victime]**, en tenant compte du calendrier procédural et des coûts induits.
+L'objectif de cette note est de définir la stratégie globale (actions au pénal, civil, et en référé) pour maximiser et sécuriser l'indemnisation de [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md), en tenant compte du calendrier procédural et des coûts induits.
 
 <hr><hr>
 
@@ -39,7 +39,7 @@ L'objectif de cette note est de définir la stratégie globale (actions au péna
 
 ### II.1 — Action en responsabilité civile contre l'exploitant
 
-L'action principale vise à engager la responsabilité de **[L'Exploitant du Commerce (La SAS)]** sur le fondement de la responsabilité du fait des choses et de la responsabilité pour faute.
+L'action principale vise à engager la responsabilité de [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) sur le fondement de la responsabilité du fait des choses et de la responsabilité pour faute.
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
 > **[Code civil > Article 1240]** <br>
@@ -49,11 +49,11 @@ L'action principale vise à engager la responsabilité de **[L'Exploitant du Com
 > **[Code civil > Article 1242]** <br>
 > [Article 1242](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041559)
 
-La garde de la chose (la vasque) par **[L'Exploitant du Commerce (La SAS)]** au moment des faits est incontestable. Sa responsabilité de plein droit (art. 1242 al. 1) est acquise. En outre, le défaut d'entretien ou de sécurisation caractérise une faute (art. 1240).
+La garde de la chose (la vasque) par [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) au moment des faits est incontestable. Sa responsabilité de plein droit (art. 1242 al. 1) est acquise. En outre, le défaut d'entretien ou de sécurisation caractérise une faute (art. 1240).
 
 ### II.2 — Action civile contre le dirigeant (faute détachable)
 
-En cas d'insolvabilité de **[L'Exploitant du Commerce (La SAS)]** (capital social limité à 200 €), il convient d'envisager la responsabilité personnelle de **[Le Président de l'Exploitation]**.
+En cas d'insolvabilité de [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (capital social limité à 200 €), il convient d'envisager la responsabilité personnelle de [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md).
 
 > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
 > **[Code de commerce > Article L227-8]** <br>
@@ -77,9 +77,9 @@ Une constitution de partie civile est recommandée pour avoir accès au dossier 
 
 ## III — ACTION EN RÉFÉRÉ ET PROVISION
 
-Afin de pallier les difficultés financières immédiates de **[La Victime]** (arrêt de travail, pertes de revenus en tant qu'indépendant), une action en référé-provision est primordiale.
+Afin de pallier les difficultés financières immédiates de [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) (arrêt de travail, pertes de revenus en tant qu'indépendant), une action en référé-provision est primordiale.
 
-L'obligation de **[L'Exploitant du Commerce (La SAS)]** n'étant pas sérieusement contestable (garde de la chose avérée par les attestations et les circonstances de l'accident), le juge des référés peut accorder une provision à valoir sur l'indemnisation finale.
+L'obligation de [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) n'étant pas sérieusement contestable (garde de la chose avérée par les attestations et les circonstances de l'accident), le juge des référés peut accorder une provision à valoir sur l'indemnisation finale.
 
 **Montant de la provision sollicitée :** 15 000 €.
 
@@ -123,7 +123,7 @@ La question centrale sera la valorisation de l'**Incidence Professionnelle** (in
 
 - **Frais d'avocat :** Honoraires de diligence + honoraires de résultat (généralement 10 à 12 % HT des sommes obtenues).
 
-- **Frais de médecin-conseil :** Indispensable pour assister **[La Victime]** lors des expertises (estimé entre 800 € et 1 500 € selon la complexité).
+- **Frais de médecin-conseil :** Indispensable pour assister [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) lors des expertises (estimé entre 800 € et 1 500 € selon la complexité).
 
 - **Frais d'huissier/Commissaire de justice :** Pour les significations (environ 100-150 € par acte).
 
@@ -137,6 +137,6 @@ La question centrale sera la valorisation de l'**Incidence Professionnelle** (in
 
 2. **Maintenir la pression pénale** pour consolider le dossier probatoire, l'expertise UMJ du 12 novembre 2026 sera une première base solide.
 
-3. **Préparer la démonstration de la faute détachable** de **[Le Président de l'Exploitation]** en cas de défaillance de la SAS.
+3. **Préparer la démonstration de la faute détachable** de [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) en cas de défaillance de la SAS.
 
 4. **Documenter scrupuleusement l'incidence professionnelle et le préjudice d'agrément** (codage loisir) par des attestations, bilans comptables et preuves de réalisations personnelles.

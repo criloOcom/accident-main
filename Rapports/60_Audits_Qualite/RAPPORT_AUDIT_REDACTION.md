@@ -111,7 +111,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Structure | 🟢 Complète et concise |
 | Longueur | 🟢 71 lignes — parfait pour une lettre de transmission |
 | Clarté juridique | 🟢 Art. 85 CPP, 222-19 CP, 222-20 CP cités |
-| Tokens | 🟡 N° PV en `[ ... ]` (l.47) alors que d'autres docs utilisent `**[N° PV Police]**` — incohérence |
+| Tokens | 🟡 N° PV en `[ ... ]` (l.47) alors que d'autres docs utilisent `[**[N° PV Police]**](../../Memory/Tokens/token-pv-police-numero.md)` — incohérence |
 | Problèmes | Accents absents. Token PV non standardisé |
 
 ### III.3 — 2.3 12 — Courrier URSSAF (`Courriers/URSSAF - Signalement.md`)
@@ -167,7 +167,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Structure | 🟡 **Trop narrative** — le chronologique est correct mais l'objet de l'email (demande de copie courriers sous CRPA) arrive tard (l.29). En email, l'action demandée doit être dans les 5 premières lignes |
 | Longueur | 🔴 **53 lignes** — beaucoup trop long pour un email à un élu municipal. Devrait tenir en 15-20 lignes max. Le récapitulatif chronologique des échanges (l.24-27) peut être résumé en 1 phrase |
 | Clarté juridique | 🟢 Art. L.311-1 CRPA cité |
-| Tokens | 🔴 **Incohérent** — utilise "29 mai 2026" (date réelle, l.22) mais `**[J+0 Accident]**` ailleurs ; utilise "1er juin 2026" (l.24, l.25) au lieu de token |
+| Tokens | 🔴 **Incohérent** — utilise "29 mai 2026" (date réelle, l.22) mais `[**[J+0 Accident]**](../../Memory/Tokens/token-j-0-accident.md)` ailleurs ; utilise "1er juin 2026" (l.24, l.25) au lieu de token |
 | Problèmes | Trop long pour un email. Dates réelles mélangées aux tokens. La demande (CRPA l.29) est noyée dans le récit |
 
 ### III.8 — 2.8 35 — Courrier Président TJ Foix (`Courriers/TJ Foix - Courrier - Preuves Complémentaires.md`)
@@ -178,7 +178,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Structure | 🟢 Bonne (I, II, III, pièces jointes, formule) |
 | Longueur | 🟢 101 lignes — bon |
 | Clarté juridique | 🟢 Claire et concise |
-| Tokens | 🔴 **Incohérent** — utilise "29 mai 2026" et "12 juillet 2026" (dates réelles, l.35, l.57) au lieu de `**[J+0 Accident]**` |
+| Tokens | 🔴 **Incohérent** — utilise "29 mai 2026" et "12 juillet 2026" (dates réelles, l.35, l.57) au lieu de `[**[J+0 Accident]**](../../Memory/Tokens/token-j-0-accident.md)` |
 | Problèmes | Accents absents. Dates réelles au lieu de tokens |
 
 ### III.9 — 2.9 07 — Plaidoirie dirigeants (`Analyses_juridiques/Note - Plaidoirie Responsabilité Dirigeants.md`)
@@ -211,7 +211,7 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 | Structure | 🟢 Excellent : tableaux, hiérarchie argumentative, forces/faiblesses |
 | Longueur | 🟢 141 lignes — bien |
 | Clarté juridique | 🟢 Très bonne |
-| Tokens | 🟡 `**[N° PV Police]**` écrit en clair en bas (l.141) |
+| Tokens | 🟡 `[**[N° PV Police]**](../../Memory/Tokens/token-pv-police-numero.md)` écrit en clair en bas (l.141) |
 | Problèmes | 🔴 **6 liens relatifs brisés** (voir 1.3). Token PV en clair |
 
 ---
@@ -237,13 +237,13 @@ Le document **14 Stratégie jurisprudentielle** contient 6 liens relatifs `../..
 
 1. **Corriger les liens relatifs dans le document 14** (`../../Lois/` → `../../../Lois/`)
 
-2. **Uniformiser les tokens dates dans les documents 34 et 35** — remplacer "29 mai 2026" par `**[J+0 Accident]**`
+2. **Uniformiser les tokens dates dans les documents 34 et 35** — remplacer "29 mai 2026" par `[**[J+0 Accident]**](../../Memory/Tokens/token-j-0-accident.md)`
 
 3. **Corriger le token cassé dans le document 33** (l.35 : ajouter `**` autour du token `[La Ville de l'Accident]`)
 
 4. **Corriger les coquilles dans le document 13** ("délins" → "délits" ; "particularité gravité" → "particulière gravité")
 
-5. **Uniformiser le token PV** : choisir entre `**[N° PV Police]**` et `[ ... ]` et appliquer partout
+5. **Uniformiser le token PV** : choisir entre `[**[N° PV Police]**](../../Memory/Tokens/token-pv-police-numero.md)` et `[ ... ]` et appliquer partout
 
 ### V.2 — 🟡 Priorité 2 — Améliorations recommandées
 

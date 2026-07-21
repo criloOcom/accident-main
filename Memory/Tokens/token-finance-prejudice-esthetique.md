@@ -1,6 +1,7 @@
 ---
 title: "💰 Finance<br>Préjudice Esthétique"
 description: "Token :** `**[Finance Préjudice Esthétique]**`"
+token: "Finance Préjudice Esthétique"
 type: memory
 ---
 <!-- Breadcrumb -->

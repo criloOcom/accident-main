@@ -1,6 +1,7 @@
 ---
 title: "**[Le RPPS du médecin en urgence]** — RPPS du médecin des urgences au centre de soins immédiats"
 description: ""
+token: "Le RPPS du médecin en urgence"
 type: fiche
 date: FIXME
 status: brouillon

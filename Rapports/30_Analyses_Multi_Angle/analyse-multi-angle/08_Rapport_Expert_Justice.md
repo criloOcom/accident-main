@@ -10,7 +10,7 @@ type: analyse_juridique
 
 # Mission 08 — Rapport Préliminaire du Médecin Expert Judiciaire
 
-> **Avertissement :** Ce rapport est établi sur la base des pièces médicales préliminaires (certificat initial, compte-rendu opératoire de **[L'Établissement SOS Main]**) et des déclarations de **[La Victime]**. Il ne se substitue pas à une expertise médicale contradictoire post-consolidation.
+> **Avertissement :** Ce rapport est établi sur la base des pièces médicales préliminaires (certificat initial, compte-rendu opératoire de [**[L'Établissement SOS Main]**](../../../Memory/Tokens/token-hopital-sosmain-nom.md)) et des déclarations de [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md). Il ne se substitue pas à une expertise médicale contradictoire post-consolidation.
 
 <hr><hr>
 
@@ -21,7 +21,7 @@ L'examen du dossier médical révèle un traumatisme direct par section au nivea
 
 - Une atteinte du paquet collatéral.
 
-- Une lésion du nerf palmaire ayant nécessité une neurolyse chirurgicale en urgence le 30 mai 2026 par **[Le Chirurgien SOS Main]**.
+- Une lésion du nerf palmaire ayant nécessité une neurolyse chirurgicale en urgence le 30 mai 2026 par [**[Le Chirurgien SOS Main]**](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md).
 
 Ces lésions sont typiques d'une plaie par objet tranchant (ici, bris de céramique de la vasque). Sur le plan biomécanique et fonctionnel, l'index est un doigt fondamental pour la pince polli-digitale (pouce-index). La section d'un tendon fléchisseur et d'un nerf palmaire entraîne un risque majeur de raideur articulaire, d'adhérences tendineuses et de séquelles sensitives (hypoesthésie, dysesthésie ou douleurs neuropathiques).
 
@@ -31,7 +31,7 @@ Ces lésions sont typiques d'une plaie par objet tranchant (ici, bris de cérami
 
 La durée de l'Incapacité Totale de Travail (ITT) pénale au sens médico-légal a été fixée à 55 jours (du 29 mai 2026 au 23 juillet 2026).
 
-Cette durée de 55 jours est **totalement cohérente** et médicalement justifiée pour ce type de traumatisme. La prise en charge d'une section tendineuse et nerveuse à la main nécessite une immobilisation stricte suivie d'une rééducation longue (kinésithérapie spécialisée). Le délai de cicatrisation tendineuse primaire est d'environ 45 jours, auquel s'ajoute le temps de récupération de la mobilité. L'erreur matérielle initiale d'un jour notée par **[Le Médecin Généraliste]** n'était manifestement pas adaptée à la gravité d'une telle chirurgie réparatrice.
+Cette durée de 55 jours est **totalement cohérente** et médicalement justifiée pour ce type de traumatisme. La prise en charge d'une section tendineuse et nerveuse à la main nécessite une immobilisation stricte suivie d'une rééducation longue (kinésithérapie spécialisée). Le délai de cicatrisation tendineuse primaire est d'environ 45 jours, auquel s'ajoute le temps de récupération de la mobilité. L'erreur matérielle initiale d'un jour notée par [**[Le Médecin Généraliste]**](../../../Memory/Tokens/token-victime-medecin-generaliste.md) n'était manifestement pas adaptée à la gravité d'une telle chirurgie réparatrice.
 
 <hr><hr>
 
@@ -72,9 +72,9 @@ Sur l'échelle classique de 0 à 7, les souffrances endurées peuvent être rais
 
 > **Point d'attention majeur :** Il m'est demandé d'évaluer l'incidence professionnelle pour un "coiffeur main droite". Or, les pièces du dossier révèlent une confusion factuelle importante à rectifier.
 
-**[La Victime]** n'est pas coiffeur. Il exerce la profession d'**informaticien indépendant**. Le coiffeur est en réalité **[Le Préposé de l'Exploitation]**, l'employé de la SAS qui est à l'origine de l'accident en montant sur la vasque.
+[**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) n'est pas coiffeur. Il exerce la profession d'**informaticien indépendant**. Le coiffeur est en réalité [**[Le Préposé de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-prepose-nom.md), l'employé de la SAS qui est à l'origine de l'accident en montant sur la vasque.
 
-L'évaluation de l'Incidence Professionnelle (IP) pour **[La Victime]** doit donc se faire sous le prisme de sa véritable profession (informaticien).
+L'évaluation de l'Incidence Professionnelle (IP) pour [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) doit donc se faire sous le prisme de sa véritable profession (informaticien).
 - L'utilisation prolongée d'un clavier et d'une souris requiert une intégrité parfaite de la main droite et de l'index en particulier.
 
 - Une perte de dextérité, une raideur et une perte de sensibilité de l'index droit constituent une pénibilité accrue au travail, un risque de fatigabilité précoce et potentiellement une perte de productivité ou de chance sur le marché du travail.

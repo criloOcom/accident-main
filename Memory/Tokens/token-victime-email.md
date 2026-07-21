@@ -1,6 +1,7 @@
 ---
 title: "📍 L'Email de la Victime"
 description: "Token :** `**[L'Email de la Victime]**`"
+token: "L'Email de la Victime"
 real_value: "sebastien.grazide@gmail.com"
 type: memory
 ---

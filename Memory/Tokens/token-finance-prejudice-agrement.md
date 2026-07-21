@@ -1,6 +1,7 @@
 ---
 title: "💰 Finance<br>Préjudice d'Agrément"
 description: "Token :** `**[Finance Préjudice Agrément]**`"
+token: "Finance Préjudice Agrément"
 type: memory
 ---
 <!-- Breadcrumb -->

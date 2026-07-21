@@ -195,11 +195,11 @@ Contenu...
 ```
 
 ### Règles
-1. **Toujours en gras** : `**[La Victime]**`, pas `[La Victime]`
+1. **Toujours en gras** : `[**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)`, pas `[La Victime]`
 
-2. **Toujours avec article** : `**[La Victime]**`, pas `**[Victime]**`
+2. **Toujours avec article** : `[**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)`, pas `**[Victime]**`
 
-3. **Français correct** : `**[L'Exploitant du Commerce (La SAS)]**`, pas de franglais
+3. **Français correct** : `[**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md)`, pas de franglais
 
 4. **Pas de civilité** : supprimer "Monsieur/Madame/Dr" devant les tokens
 
@@ -371,8 +371,8 @@ Chaque fichier de type `courrier` DOIT avoir trois blocs séparés dans l'en-tê
 ```markdown
 <!-- Auteur -->
 [**[La Victime]**](...)  
-[**[L'Adresse de la Victime]**]  
-[**[L'Email de la Victime]**]
+[**[L'Adresse de la Victime]**](../Memory/Tokens/token-victime-adresse.md)  
+[**[L'Email de la Victime]**](../Memory/Tokens/token-victime-email.md)
 <!-- /Auteur -->
 
 <!-- Destinataire -->

@@ -30,7 +30,7 @@ L'architecture actuelle centralise la vérité des identités réelles au sein d
 
 L'analyse comparée des scripts d'anonymisation (`batch_anonymize.py`) et de restitution (`generate_real_versions.py`) révèle de graves failles de cohérence qui affectent la stabilité de la double strate.
 
-- **Désynchronisation des scripts** : `batch_anonymize.py` utilise par endroits des syntaxes obsolètes sans la protection par doubles astérisques (ex. `[Le Prepose de l'Exploitation]` au lieu de `**[Le Préposé de l'Exploitation]**`), tandis que `generate_real_versions.py` et `TOKEN MAP.md` privilégient la forme stricte.
+- **Désynchronisation des scripts** : `batch_anonymize.py` utilise par endroits des syntaxes obsolètes sans la protection par doubles astérisques (ex. `[Le Prepose de l'Exploitation]` au lieu de `[**[Le Préposé de l'Exploitation]**](../../Memory/Tokens/token-exploitation-prepose-nom.md)`), tandis que `generate_real_versions.py` et `TOKEN MAP.md` privilégient la forme stricte.
 
 - **Absence de frontières d'expressions régulières (Regex boundaries)** : Le script `batch_anonymize.py` repose principalement sur un remplacement basique via la méthode `.replace()`. Cela entraîne la non-capture de variantes nominales (casse mixte, erreurs de saisie) qui ne figurent pas strictement dans le dictionnaire.
 

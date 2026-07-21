@@ -20,9 +20,9 @@ date: 2026-07-14
 
 ## I — SAISINE ET CADRE JURIDIQUE
 
-Le 29 mai 2026, à 14h45, la brigade territoriale de Foix a été requise par le Centre Opérationnel pour une intervention au 22 Rue Lafaurie, 09000 Foix, au sein du salon de coiffure exploité par la SAS **[L'Exploitant du Commerce (La SAS)]**.
+Le 29 mai 2026, à 14h45, la brigade territoriale de Foix a été requise par le Centre Opérationnel pour une intervention au 22 Rue Lafaurie, 09000 Foix, au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md).
 
-Sur place, les militaires ont constaté la présence de **[La Victime]**, présentant une plaie profigne et hémorragique à la main droite. La victime a été prise en charge par les sapeurs-pompiers et évacuée vers le centre hospitalier avant transfert vers **[L'Établissement SOS Main]** pour une prise en charge microchirurgicale d'urgence.
+Sur place, les militaires ont constaté la présence de [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md), présentant une plaie profigne et hémorragique à la main droite. La victime a été prise en charge par les sapeurs-pompiers et évacuée vers le centre hospitalier avant transfert vers [**[L'Établissement SOS Main]**](../Memory/Tokens/token-hopital-sosmain-nom.md) pour une prise en charge microchirurgicale d'urgence.
 
 Conformément aux dispositions de l'article 75 du Code de procédure pénale, une enquête préliminaire a été ouverte sous le numéro de procédure **2026/05/29-FX-012**.
 
@@ -59,11 +59,11 @@ Saisie registre sécurité | Aucun registre tenu par l'établissement
 
 M. **[Témoin (Client présent le jour des faits)]** déclare avoir vu le préposé monter sur la vasque, puis celle-ci basculer brutalement. Il confirme que la victime n'a eu aucun geste malencontreux et s'est instinctivement protégée avec la main. Il précise que la cassure de la vasque était visible et que cela lui avait « frappé l'œil » dès son entrée dans le salon.
 
-### B. Préposé — **[Le Préposé de l'Exploitation]**
+### B. Préposé — [**[Le Préposé de l'Exploitation]**](../Memory/Tokens/token-exploitation-prepose-nom.md)
 
 Entendu en qualité de témoin assisté. Il confirme que la vasque était cassée depuis plusieurs mois et que « tout le monde le savait ». Il déclare avoir signalé l'état de la vasque à sa hiérarchie à deux reprises, verbalement, sans obtenir de réponse. Il indique que l'absence d'escabeau est chronique et qu'il devait régulièrement utiliser des supports de fortune pour accéder aux étagères hautes.
 
-### C. Dirigeants — **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**
+### C. Dirigeants — [**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md)
 
 Entendus en qualité de témoins. Ils reconnaissent avoir eu connaissance de l'état de la vasque mais estiment que « cela ne présentait pas un danger immédiat ». Ils indiquent avoir « priorisé d'autres dépenses ». Aucun écrit, courriel ou note de service relative à la sécurité n'a été produit.
 
@@ -73,7 +73,7 @@ Entendus en qualité de témoins. Ils reconnaissent avoir eu connaissance de l'�
 
 ### A. Violation des obligations de sécurité
 
-Les éléments recueillis établissent que la SAS **[L'Exploitant du Commerce (La SAS)]** a :
+Les éléments recueillis établissent que la SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) a :
 
 - Maintenu en service un équipement dégradé présentant des arêtes tranchantes dans un ERP
 

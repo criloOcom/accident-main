@@ -1,6 +1,6 @@
 ---
 emoji: 🔄
-title: Relance **[Le Chirurgien SOS Main]** - Certificat de Consolidation
+title: Relance [**[Le Chirurgien SOS Main]**](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md) - Certificat de Consolidation
 description: 'Objet : Demande de certificat médical de consolidation — Suite courrier
   du **[J+37 Assignation 145]'
 type: courrier

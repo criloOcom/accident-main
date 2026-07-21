@@ -13,7 +13,7 @@ type: rapport
 
 # Synthèse : opérationnalité du dossier face à la loi française
 
-Ce rapport exécutif dresse un état des lieux de la solidité du dossier « accident-main » de [**[La Victime]**] à l'encontre de [**[L'Exploitant du Commerce (La SAS)]**] à la date du 14 juillet 2026, à l'issue de la phase de mise en demeure amiable.
+Ce rapport exécutif dresse un état des lieux de la solidité du dossier « accident-main » de [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) à l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) à la date du 14 juillet 2026, à l'issue de la phase de mise en demeure amiable.
 
 Il synthétise l'ensemble des travaux préparatoires et mesure la capacité du dossier à prospérer devant les juridictions françaises (pénale, civile et subsidiairement administrative ou ordinale).
 
@@ -24,7 +24,7 @@ Il synthétise l'ensemble des travaux préparatoires et mesure la capacité du d
 L'évaluation de la solidité du dossier se décompose en 5 dimensions, notées sur 20.
 
 - **Conformité Juridique : 18/20**
-  Les fondements légaux (Articles 1240 et 1242 du Code civil pour la responsabilité civile, Articles 124-3 du Code des assurances pour l'action directe, L.225-251 et L.227-8 du Code de commerce pour la responsabilité des dirigeants [**[Le Président de l'Exploitation]**] et [**[La Directrice Générale de l'Exploitation]**]) sont parfaitement identifiés et pertinents. Les qualifications pénales (mise en danger, défaut d'assurance) sont solidement étayées.
+  Les fondements légaux (Articles 1240 et 1242 du Code civil pour la responsabilité civile, Articles 124-3 du Code des assurances pour l'action directe, L.225-251 et L.227-8 du Code de commerce pour la responsabilité des dirigeants [**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../Memory/Tokens/token-exploitation-dg-nom.md)) sont parfaitement identifiés et pertinents. Les qualifications pénales (mise en danger, défaut d'assurance) sont solidement étayées.
   *Marge de progression* : L'absence de réponse des administrations (Inspection du travail, Mairie) laisse encore quelques zones d'ombre sur la qualification pénale d'infractions aux règles d'urbanisme ou d'hygiène.
 
 - **Conformité Procédurale : 17/20**
@@ -36,11 +36,11 @@ L'évaluation de la solidité du dossier se décompose en 5 dimensions, notées 
   *Marge de progression* : L'intégration continue et la vérification des liens (notamment Légifrance) doivent rester systématiques.
 
 - **Conformité Technique / RGPD : 20/20**
-  L'anonymisation par Tokens (ex: [**[Le Préposé de l'Exploitation]**]) protège les données à caractère personnel dans l'espace de travail partagé. La politique de synchronisation stricte vers le Drive (uniquement les fichiers Tokens) annule le risque de violation du RGPD.
+  L'anonymisation par Tokens (ex: [**[Le Préposé de l'Exploitation]**](../../Memory/Tokens/token-exploitation-prepose-nom.md)) protège les données à caractère personnel dans l'espace de travail partagé. La politique de synchronisation stricte vers le Drive (uniquement les fichiers Tokens) annule le risque de violation du RGPD.
 
 - **Conformité Probatoire : 16/20**
   Le dossier médical initial (CR opératoire, arrêts de travail) et la preuve matérielle de la présence sur les lieux (paiement Wero de 15,00 €) sont solides.
-  *Marge de progression* : Les vidéos de surveillance, essentielles pour prouver la faute (le basculement de la vasque par [**[Le Préposé de l'Exploitation]**]), ne sont pas encore sécurisées (objet de la requête Art. 145 CPC). L'absence de constat d'huissier nécessite un constat personnel rigoureux (prévu le 15/07/2026).
+  *Marge de progression* : Les vidéos de surveillance, essentielles pour prouver la faute (le basculement de la vasque par [**[Le Préposé de l'Exploitation]**](../../Memory/Tokens/token-exploitation-prepose-nom.md)), ne sont pas encore sécurisées (objet de la requête Art. 145 CPC). L'absence de constat d'huissier nécessite un constat personnel rigoureux (prévu le 15/07/2026).
 
 <hr><hr>
 
@@ -53,10 +53,10 @@ Matrice de criticité des menaces pesant sur le succès du dossier.
   - Probabilité : Haute | Impact : Critique
   - Correctif : Dépôt urgent (le 15/07/2026) de la requête fondée sur l'Article 145 du Code de procédure civile au Tribunal Judiciaire de Foix.
 
-- **Risque 2 : Insolvabilité de [**[L'Exploitant du Commerce (La SAS)]**] (Capital 200 €)**
+- **Risque 2 : Insolvabilité de [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) (Capital 200 €)**
 
   - Probabilité : Très Haute | Impact : Critique
-  - Correctif : Action en responsabilité civile personnelle in solidum contre [**[Le Président de l'Exploitation]**] et [**[La Directrice Générale de l'Exploitation]**], et activation subsidiaire du volet pénal pour saisine de la CIVI / FGTI.
+  - Correctif : Action en responsabilité civile personnelle in solidum contre [**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../Memory/Tokens/token-exploitation-dg-nom.md), et activation subsidiaire du volet pénal pour saisine de la CIVI / FGTI.
 
 - **Risque 3 : Défaut d'assurance RC Professionnelle de la SAS**
 
@@ -76,7 +76,7 @@ Matrice de criticité des menaces pesant sur le succès du dossier.
 - **Risque 6 : Mauvaise évaluation de l'ITT par le médecin légiste (UMJ)**
 
   - Probabilité : Basse | Impact : Modéré (financier)
-  - Correctif : Préparation minutieuse du dossier médical complet pour le rdv du 12/11/2026, incluant les bilans du [**[Le Médecin Généraliste]**] et [**[Le Chirurgien SOS Main]**].
+  - Correctif : Préparation minutieuse du dossier médical complet pour le rdv du 12/11/2026, incluant les bilans du [**[Le Médecin Généraliste]**](../../Memory/Tokens/token-victime-medecin-generaliste.md) et [**[Le Chirurgien SOS Main]**](../../Memory/Tokens/token-hopital-sosmain-chirurgien.md).
 
 - **Risque 7 : Prescription de l'action civile ou pénale**
 
@@ -131,7 +131,7 @@ Le chemin critique vers l'indemnisation complète.
 
 - **J+25 (~10/08/2026) : Saisie des preuves vidéos (Commissaire de justice)**
 
-  - Exécution de l'ordonnance au siège de [**[L'Exploitant du Commerce (La SAS)]**].
+  - Exécution de l'ordonnance au siège de [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md).
 
 - **J+30 (~15/08/2026) : Rédaction Assignation Référé-Provision (IA / Avocat)**
 
@@ -159,7 +159,7 @@ Le chemin critique vers l'indemnisation complète.
 
 - **J+150 (~12/12/2026) : Consolidation médicale (Médecin)**
 
-  - Obtention du certificat de consolidation (via [**[Le Médecin Généraliste]**] ou expert).
+  - Obtention du certificat de consolidation (via [**[Le Médecin Généraliste]**](../../Memory/Tokens/token-victime-medecin-generaliste.md) ou expert).
 
 - **J+180 (~12/01/2027) : Assignation au Fond (IA / Avocat)**
 
@@ -229,7 +229,7 @@ Cinq principes fondamentaux pour pérenniser l'intégrité du dossier jusqu'au j
   Ne jamais insérer de données réelles d'identité dans les fichiers du dossier `Token/`. Toute fuite d'identité dans l'espace de travail compromettrait l'anonymat et exposerait à un risque de violation des données (RGPD). S'en remettre au script `generate_real_versions.py` pour la correspondance finale.
 
 - **Principe 3 : Maintien de l'Action In Solidum**
-  Toujours diriger les actions à la fois contre [**[L'Exploitant du Commerce (La SAS)]**] ET personnellement contre [**[Le Président de l'Exploitation]**] et [**[La Directrice Générale de l'Exploitation]**]. Le capital social dérisoire (200 €) rend indispensable la recherche de la responsabilité personnelle des dirigeants.
+  Toujours diriger les actions à la fois contre [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) ET personnellement contre [**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../Memory/Tokens/token-exploitation-dg-nom.md). Le capital social dérisoire (200 €) rend indispensable la recherche de la responsabilité personnelle des dirigeants.
 
 - **Principe 4 : Validation de la Cohérence (CI/CD)**
   Après toute modification substantielle des pièces du dossier, exécuter impérativement le script `.dev/app/check_consistency.py` pour garantir l'absence de rupture des liens, de l'arborescence, et des conventions de formatage Markdown (`<hr><hr>`).

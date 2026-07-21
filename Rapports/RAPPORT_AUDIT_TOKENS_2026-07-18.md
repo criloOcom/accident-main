@@ -1,7 +1,7 @@
 ---
 title: "Rapport d'Audit Tokens et Cohérence"
 date: 2026-07-18
-description: "Vérification de la cohérence de l'ensemble des tokens d'anonymisation, avec un focus sur le nouveau token **[Le Téléphone du Préposé]**."
+description: "Vérification de la cohérence de l'ensemble des tokens d'anonymisation, avec un focus sur le nouveau token [**[Le Téléphone du Préposé]**](../Memory/Tokens/token-exploitation-prepose-telephone.md)."
 type: rapport
 ---
 <!-- Breadcrumb -->
@@ -15,7 +15,7 @@ type: rapport
 
 # Rapport d'Audit Tokens et Cohérence
 
-Ce rapport présente l'audit du système de tokens d'anonymisation du dossier, réalisé le 18 juillet 2026, suite à l'introduction du nouveau token `**[Le Téléphone du Préposé]**`. Il évalue la complétude du mapping, l'implémentation de la double strate (Token/Réel), le déploiement du nouveau token et les éventuelles fuites de données réelles.
+Ce rapport présente l'audit du système de tokens d'anonymisation du dossier, réalisé le 18 juillet 2026, suite à l'introduction du nouveau token `[**[Le Téléphone du Préposé]**](../Memory/Tokens/token-exploitation-prepose-telephone.md)`. Il évalue la complétude du mapping, l'implémentation de la double strate (Token/Réel), le déploiement du nouveau token et les éventuelles fuites de données réelles.
 
 <hr><hr>
 
@@ -25,7 +25,7 @@ L'analyse comparative entre `Memory/TOKEN MAP.md` et les fiches individuelles du
 
 - **Tokens répertoriés dans la MAP :** 69 tokens (identifiés sous la forme `[**[Token]**]`).
 
-- **Nouveau token :** Le token `**[Le Téléphone du Préposé]**` est bien listé et correctement déclaré.
+- **Nouveau token :** Le token `[**[Le Téléphone du Préposé]**](../Memory/Tokens/token-exploitation-prepose-telephone.md)` est bien listé et correctement déclaré.
 
 - **Fiches existantes :** 85 fiches MD ont été trouvées, incluant `token-exploitation-prepose-telephone.md` et la mise à jour de `token-exploitation-prepose-nom.md`.
 
@@ -34,11 +34,11 @@ L'analyse comparative entre `Memory/TOKEN MAP.md` et les fiches individuelles du
   - `**[SIREN du Nouvel Exploitant]**`
   - `**[Le Nouvel Exploitant (HB BARBER)]**`
   - `**[Capital du Nouvel Exploitant]**`
-  - `**[N° Dossier CPAM]**`
-  - `**[SIRET de l'Exploitation]**`
+  - `[**[N° Dossier CPAM]**](../Memory/Tokens/token-cpam-dossier-numero.md)`
+  - `[**[SIRET de l'Exploitation]**](../Memory/Tokens/token-exploitation-siret.md)`
   - `**[Le Président du Nouvel Exploitant]**`
-  - `**[J+54]**`
-  - `**[N° PV Police]**`
+  - `[**[J+54]**](../Memory/Tokens/token-j-54.md)`
+  - `[**[N° PV Police]**](../Memory/Tokens/token-pv-police-numero.md)`
   - `**[Identifiant du Nouvel Exploitant]**`
 
 <hr><hr>
@@ -48,28 +48,28 @@ L'analyse comparative entre `Memory/TOKEN MAP.md` et les fiches individuelles du
 L'anonymisation et la génération des versions réelles reposent sur deux scripts clés. L'audit révèle que ces scripts ne prennent pas en charge l'ensemble des 69 tokens documentés.
 
 ### Script `generate_real_versions.py`
-Le script contient bien le nouveau token `**[Le Téléphone du Préposé]**`, mais **11 tokens documentés dans la MAP sont absents** de sa table de conversion :
-- `**[Capital Social de l'Exploitation]**`
+Le script contient bien le nouveau token `[**[Le Téléphone du Préposé]**](../Memory/Tokens/token-exploitation-prepose-telephone.md)`, mais **11 tokens documentés dans la MAP sont absents** de sa table de conversion :
+- `[**[Capital Social de l'Exploitation]**](../Memory/Tokens/token-exploitation-capital-social.md)`
 
-- `**[Code Postal de l'Accident]**`
+- `[**[Code Postal de l'Accident]**](../Memory/Tokens/token-accident-code-postal.md)`
 
-- `**[Date de naissance de la victime]**`
+- `[**[Date de naissance de la victime]**](../Memory/Tokens/token-victime-date-naissance.md)`
 
-- `**[J+27 Confirmation kiné]**`
+- `[**[J+27 Confirmation kiné]**](../Memory/Tokens/token-j-27-confirmation-kine.md)`
 
-- `**[J+36 Lettre consolidation]**`
+- `[**[J+36 Lettre consolidation]**](../Memory/Tokens/token-j-36-lettre-consolidation.md)`
 
-- `**[J+38 Mise à jour]**`
+- `[**[J+38 Mise à jour]**](../Memory/Tokens/token-j-38-mise-a-jour.md)`
 
-- `**[J+41 Courrier SIE URSSAF]**`
+- `[**[J+41 Courrier SIE URSSAF]**](../Memory/Tokens/token-j-41-courrier-sie-urssaf.md)`
 
-- `**[J+41 Requête Constat 145]**`
+- `[**[J+41 Requête Constat 145]**](../Memory/Tokens/token-j-41-requete-constat-145.md)`
 
-- `**[J+54]**`
+- `[**[J+54]**](../Memory/Tokens/token-j-54.md)`
 
-- `**[Prénom de la Victime]**`
+- `[**[Prénom de la Victime]**](../Memory/Tokens/token-victime-prenom.md)`
 
-- `**[Âge de la Victime]**`
+- `[**[Âge de la Victime]**](../Memory/Tokens/token-victime-age.md)`
 
 ### Script `batch_anonymize.py`
 Le script omet **38 tokens** présents dans la MAP. Parmi les absences notables, on retrouve la majorité des dates événementielles (ex: `J+0 Accident`, `J+31 Mises en demeure`) ainsi que des tokens structurels (`Code Postal de l'Accident`, `Le Téléphone de la Victime`, `SIREN de l'Exploitation`).
@@ -78,7 +78,7 @@ Le script omet **38 tokens** présents dans la MAP. Parmi les absences notables,
 
 ## 3. Déploiement du nouveau token
 
-Le nouveau token `**[Le Téléphone du Préposé]**` a été intégré dans le dossier de manière étendue.
+Le nouveau token `[**[Le Téléphone du Préposé]**](../Memory/Tokens/token-exploitation-prepose-telephone.md)` a été intégré dans le dossier de manière étendue.
 
 - **Nombre d'insertions :** Le token est présent dans **22 fichiers** distincts au sein du répertoire `Actes/Token/`.
 

@@ -1,6 +1,6 @@
 ---
 title: "Procès-Verbal de Constat Virtuel (Cahier des charges)"
-description: "Ce document décrit, en amont de la réalisation physique du constat, le déroulé précis et exhaustif des opérations de constatations matérielles requises au sein du salon de coiffure **[L'Exploitant du Commerce (La SAS)]** sis **[L'Adresse de l'Exploit"
+description: "Ce document décrit, en amont de la réalisation physique du constat, le déroulé précis et exhaustif des opérations de constatations matérielles requises au sein du salon de coiffure [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) sis **[L'Adresse de l'Exploit"
 type: rapport
 date: 2026-06-30
 tags:
@@ -18,7 +18,7 @@ auteur: Huissier de Justice
 
 # PROCÈS-VERBAL DE CONSTAT VIRTUEL<br>CAHIER DES CHARGES DES OPÉRATIONS À MENER
 
-Ce document décrit, en amont de la réalisation physique du constat, le déroulé précis et exhaustif des opérations de constatations matérielles requises au sein du salon de coiffure **[L'Exploitant du Commerce (La SAS)]** sis **[L'Adresse de l'Exploitation]**.
+Ce document décrit, en amont de la réalisation physique du constat, le déroulé précis et exhaustif des opérations de constatations matérielles requises au sein du salon de coiffure [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) sis [**[L'Adresse de l'Exploitation]**](../../Memory/Tokens/token-exploitation-adresse.md).
 
 Ces opérations seront menées soit de manière amiable, soit sur autorisation d'un magistrat dans le cadre d'une ordonnance sur requête (Article 145 du Code de procédure civile).
 
@@ -26,7 +26,7 @@ Ces opérations seront menées soit de manière amiable, soit sur autorisation d
 
 ## I — VÉRIFICATIONS PRÉALABLES ET CONTEXTE
 
-*   **Lieu des opérations :** Salon de coiffure sis **[L'Adresse de l'Exploitation]**.
+*   **Lieu des opérations :** Salon de coiffure sis [**[L'Adresse de l'Exploitation]**](../../Memory/Tokens/token-exploitation-adresse.md).
 
 *   **Alerte sur les modifications :** L'accident s'est produit le **29 mai 2026**. Plus de 30 jours se sont écoulés. Le risque de modification des lieux (remplacement du bac à shampoing, dissimulation de la vasque cassée) est élevé. Si la configuration a été modifiée, l'huissier devra impérativement consigner de manière circonstanciée les aménagements récents, la présence de matériel neuf ou les traces de travaux.
 
@@ -44,9 +44,9 @@ L'huissier instrumentaire procédera aux constatations suivantes :
 *   Établissement d'un croquis côté pour matérialiser les distances entre les postes de coiffure, les bacs de lavage et d'éventuels obstacles (comme un poste de télévision nécessitant d'être escaladé).
 
 ### II.2 — Examen approfondi de la vasque incriminée
-*   **Identification :** Localisation précise du bac à shampoing à l'origine du basculement (lequel a été escaladé par **[Le Préposé de l'Exploitation]**).
+*   **Identification :** Localisation précise du bac à shampoing à l'origine du basculement (lequel a été escaladé par [**[Le Préposé de l'Exploitation]**](../../Memory/Tokens/token-exploitation-prepose-nom.md)).
 
-*   **Défectuosité et casse préexistante :** Constater l'état de la céramique. Photographier et décrire de façon précise toute cassure, fêlure, ou réparation de fortune (scotch, colle) sur les arêtes ou le flanc de la vasque. L'objectif est d'objectiver que l'arête tranchante qui a sectionné la main droite de **[La Victime]** était préexistante.
+*   **Défectuosité et casse préexistante :** Constater l'état de la céramique. Photographier et décrire de façon précise toute cassure, fêlure, ou réparation de fortune (scotch, colle) sur les arêtes ou le flanc de la vasque. L'objectif est d'objectiver que l'arête tranchante qui a sectionné la main droite de [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) était préexistante.
 
 *   **Stabilité :** Constater la fixation du dispositif au sol et au mur. Le dispositif est-il mobile, instable, ou anormalement fragile ?
 
@@ -71,7 +71,7 @@ L'huissier instrumentaire procédera aux constatations suivantes :
 
 ## IV — TÉMOIGNAGES RECUEILLIS PAR L'HUISSIER (SOMMATION INTERPELLATIVE)
 
-*   **Force probante :** Une sommation interpellative (Art. 145) permettant de recueillir les déclarations du gérant, des employés (**[Le Préposé de l'Exploitation]**) ou de clients présents, formalisées par l'huissier dans son PV, a une force probante très supérieure à une simple attestation Cerfa Art. 202 CPC. L'huissier a la qualité d'officier public.
+*   **Force probante :** Une sommation interpellative (Art. 145) permettant de recueillir les déclarations du gérant, des employés ([**[Le Préposé de l'Exploitation]**](../../Memory/Tokens/token-exploitation-prepose-nom.md)) ou de clients présents, formalisées par l'huissier dans son PV, a une force probante très supérieure à une simple attestation Cerfa Art. 202 CPC. L'huissier a la qualité d'officier public.
 
 *   Il conviendra de poser des questions précises préparées par l'avocat sur : la connaissance de la cassure de la vasque avant l'accident, et l'habitude d'escalader ce matériel.
 

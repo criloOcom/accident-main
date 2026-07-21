@@ -14,7 +14,7 @@ type: rapport
 **Dossier :** Accident corporel – 29 mai 2026
 **Localisation :** Tribunal Judiciaire de Foix
 
-En ma qualité de Procureur de la République près le Tribunal Judiciaire de Foix, j'ai examiné la plainte pénale et les éléments factuels portés à ma connaissance concernant l'accident survenu le 29 mai 2026 impliquant **[La Victime]** au sein de l'établissement exploité par la SAS **[L'Exploitant du Commerce (La SAS)]** (capital : 200 €). L'accident résulte du basculement d'une vasque en céramique lourdement endommagée, provoquant la section partielle du tendon fléchisseur de l'index droit de la victime (ITT de 55 jours).
+En ma qualité de Procureur de la République près le Tribunal Judiciaire de Foix, j'ai examiné la plainte pénale et les éléments factuels portés à ma connaissance concernant l'accident survenu le 29 mai 2026 impliquant [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) au sein de l'établissement exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (capital : 200 €). L'accident résulte du basculement d'une vasque en céramique lourdement endommagée, provoquant la section partielle du tendon fléchisseur de l'index droit de la victime (ITT de 55 jours).
 
 L'analyse de ce dossier conduit à examiner les qualifications pénales applicables, la stratégie d'opportunité des poursuites, ainsi que l'articulation entre la constitution de partie civile (CITC) et l'action publique.
 
@@ -22,7 +22,7 @@ L'analyse de ce dossier conduit à examiner les qualifications pénales applicab
 
 ## I — Qualifications pénales envisageables
 
-L'enquête devra confirmer les responsabilités de la personne morale, **[L'Exploitant du Commerce (La SAS)]**, ainsi que celles de ses dirigeants personnes physiques, **[Le Président de l'Exploitation]** (Président) et **[La Directrice Générale de l'Exploitation]** (Directrice Générale), voire du préposé.
+L'enquête devra confirmer les responsabilités de la personne morale, [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md), ainsi que celles de ses dirigeants personnes physiques, [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) (Président) et [**[La Directrice Générale de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-dg-nom.md) (Directrice Générale), voire du préposé.
 
 ### I.1 — 1.1 Blessures involontaires (ITT inférieure ou égale à 3 mois)
 L'ITT initiale de 55 jours fixée médicalement qualifie l'infraction délictuelle.
@@ -77,7 +77,7 @@ La citation directe (ou la saisine suite à enquête préliminaire) devant le Tr
 
 ## III — Constitution de Partie Civile (CITC) et Intérêts Civils
 
-L'intervention de **[La Victime]** en tant que partie civile est centrale dans ce dossier pénal.
+L'intervention de [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) en tant que partie civile est centrale dans ce dossier pénal.
 
 ### III.1 — 3.1 Droit à se constituer partie civile
 - **Fondement juridique :** [Article 2 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024496925) - L'action civile en réparation du dommage appartient à tous ceux qui ont personnellement souffert du dommage directement causé par l'infraction.
@@ -89,7 +89,7 @@ Si le Parquet tarde ou classe sans suite, la victime peut utiliser la Citation D
 - **Avantages de la CITC :**
 
   - **Célérité :** Saisine immédiate du Tribunal Correctionnel sans passer par les délais d'une information judiciaire ou d'une longue enquête préliminaire.
-  - **Mise en cause personnelle :** Permet d'assigner formellement **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** sur le fondement de la faute caractérisée (Art. 121-3).
+  - **Mise en cause personnelle :** Permet d'assigner formellement [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-dg-nom.md) sur le fondement de la faute caractérisée (Art. 121-3).
   - **Déblocage des fonds FGTI/SARVI :** La fixation d'une provision pénale (ex. 15 000 €) par le juge répressif, couplée à une condamnation pénale, ouvre les portes de la Commission d'Indemnisation des Victimes d'Infractions (CIVI) ou du SARVI en cas d'insolvabilité avérée de la SAS (capital 200 €).
 - **Précautions :** La citation directe exige un dossier probatoire solide (témoignages, certificats médicaux, preuves du défaut d'entretien) puisque c'est à la partie civile de rapporter la preuve des infractions. Il convient donc de sécuriser le dossier avec l'enquête de police (PV de l'accident n°2026/015967) avant de lancer la CITC.
 
@@ -99,6 +99,6 @@ Si le Parquet tarde ou classe sans suite, la victime peut utiliser la Citation D
 
 1. **Ouverture d'Enquête :** Les faits dénoncés justifient l'ouverture immédiate d'une enquête préliminaire pour blessures involontaires par manquement délibéré à une obligation de sécurité.
 
-2. **Convocation des dirigeants :** Les services de police doivent être mandatés pour entendre d'urgence **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]** sous le régime de l'audition libre ou de la garde à vue, afin de s'expliquer sur l'état de la vasque et l'absence de réponse aux mises en demeure.
+2. **Convocation des dirigeants :** Les services de police doivent être mandatés pour entendre d'urgence [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-dg-nom.md) sous le régime de l'audition libre ou de la garde à vue, afin de s'expliquer sur l'état de la vasque et l'absence de réponse aux mises en demeure.
 
 3. **Synergie Civil/Pénal :** La constitution de partie civile est vivement encouragée pour la victime. La voie pénale (poursuites ou CITC) s'avère ici plus efficace que la simple voie civile (Référé 145) pour engager la responsabilité personnelle des dirigeants face à une structure "coquille vide" de 200 € et activer la garantie des fonds de solidarité nationaux.

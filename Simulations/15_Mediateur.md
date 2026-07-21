@@ -16,17 +16,17 @@ date: 2026-07-14
 
 ## I — PRÉSENTATION DU DOSSIER ET DE LA MISSION
 
-En ma qualité de Médiateur judiciaire près la Cour d'Appel, j'ai procédé à l'analyse du litige opposant **[La Victime]** à **[L'Exploitant du Commerce (La SAS)]**, prise en la personne de ses dirigeants **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**, à la suite de l'accident corporel survenu le 29 mai 2026 dans les locaux du salon.
+En ma qualité de Médiateur judiciaire près la Cour d'Appel, j'ai procédé à l'analyse du litige opposant [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) à [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md), prise en la personne de ses dirigeants [**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md), à la suite de l'accident corporel survenu le 29 mai 2026 dans les locaux du salon.
 
 L'objectif de cette note est d'évaluer le potentiel d'une résolution amiable, d'analyser la maturité du conflit et de proposer un cadre transactionnel réaliste au regard du droit de la responsabilité civile et de la réparation du préjudice corporel (Nomenclature Dintilhac).
 
 ### A. Rappel des faits non contestés
 
-1. **Date et lieu :** L'accident s'est produit le 29 mai 2026 à 15h00, au sein de l'établissement exploité par **[L'Exploitant du Commerce (La SAS)]**.
+1. **Date et lieu :** L'accident s'est produit le 29 mai 2026 à 15h00, au sein de l'établissement exploité par [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md).
 
-2. **Mécanisme :** Chute d'un équipement (vasque de shampoing) entraînant une blessure sévère à la main droite de **[La Victime]** (section tendineuse et nerveuse à l'index droit).
+2. **Mécanisme :** Chute d'un équipement (vasque de shampoing) entraînant une blessure sévère à la main droite de [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) (section tendineuse et nerveuse à l'index droit).
 
-3. **Conséquences médicales :** Chirurgie en urgence le 30 mai 2026 par **[Le Chirurgien SOS Main]**, suivie d'une Incapacité Totale de Travail (ITT) de 55 jours.
+3. **Conséquences médicales :** Chirurgie en urgence le 30 mai 2026 par [**[Le Chirurgien SOS Main]**](../Memory/Tokens/token-hopital-sosmain-chirurgien.md), suivie d'une Incapacité Totale de Travail (ITT) de 55 jours.
 
 4. **Preuve de présence :** Un paiement (15 €) validé puis remboursé atteste de la présence et de la relation contractuelle au moment des faits.
 
@@ -34,14 +34,14 @@ L'objectif de cette note est d'évaluer le potentiel d'une résolution amiable, 
 
 ## II — ANALYSE DE LA MATURITÉ DU CONFLIT ET POSITIONS DES PARTIES
 
-### A. Position de **[La Victime]**
+### A. Position de [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)
 
 La victime fait face à un préjudice corporel et professionnel lourd. Informaticien indépendant (revenu mensuel moyen de 750 €), l'atteinte à sa main dominante génère une perte de gains professionnels actuels (PGPA) et une incidence professionnelle majeure.
 Malgré de multiples tentatives de résolution amiable via l'envoi de lettres recommandées (notamment le 29 juin 2026 puis en juillet), la victime s'est heurtée à une absence de réponse constructive, menant au dépôt d'une plainte pénale et d'assignations en référé.
 
-### B. Position de **[L'Exploitant du Commerce (La SAS)]** et de ses dirigeants
+### B. Position de [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants
 
-La position de la partie défenderesse apparaît jusqu'à présent marquée par l'évitement. Les dirigeants n'ont pas donné suite aux mises en demeure. Le capital social de la SAS (200 €) soulève un risque majeur d'insolvabilité, justifiant la mise en cause personnelle de **[Le Président de l'Exploitation]** et de **[La Directrice Générale de l'Exploitation]** sur le fondement de la faute séparable de leurs fonctions.
+La position de la partie défenderesse apparaît jusqu'à présent marquée par l'évitement. Les dirigeants n'ont pas donné suite aux mises en demeure. Le capital social de la SAS (200 €) soulève un risque majeur d'insolvabilité, justifiant la mise en cause personnelle de [**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md) et de [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md) sur le fondement de la faute séparable de leurs fonctions.
 
 ### C. Maturité du conflit
 
@@ -83,7 +83,7 @@ Une indemnisation transactionnelle globale autour de **85 000 € à 100 000 €
 
 ## IV — RECOMMANDATIONS DU MÉDIATEUR
 
-1. **Reprise du dialogue immédiate :** Organiser une réunion plénière sous l'égide du Médiateur, avec la présence obligatoire des dirigeants (**[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**) afin qu'ils mesurent le risque de leur mise en cause personnelle (art. L. 227-8 du Code de commerce et 1240 du Code civil).
+1. **Reprise du dialogue immédiate :** Organiser une réunion plénière sous l'égide du Médiateur, avec la présence obligatoire des dirigeants ([**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md)) afin qu'ils mesurent le risque de leur mise en cause personnelle (art. L. 227-8 du Code de commerce et 1240 du Code civil).
 
 2. **Provision amiable :** Afin de restaurer la confiance, la SAS (ou son assureur RC) devrait verser une provision immédiate de **15 000 €**, correspondant au montant demandé en référé et en mise en demeure.
 

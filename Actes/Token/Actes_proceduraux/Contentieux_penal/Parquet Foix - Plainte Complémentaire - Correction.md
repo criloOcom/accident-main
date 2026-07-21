@@ -70,15 +70,15 @@ Depuis, de nouveaux éléments établissent qu'au **29 mai 2026**, date de l'acc
 | Président | [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) (né 07/1998, Saint-Girons) |
 | Directrice générale | **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** (née 04/1970, Baillargues) |
 
-Mme **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** était déjà mentionnée dans mon dossier comme directrice générale de **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)**. Elle occupe la fonction de **directrice générale dans les deux sociétés**, **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** puis **[L'Exploitant du Commerce (La SAS)]**, pour le même local et la même activité, avec une succession très rapprochée :
+Mme **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** était déjà mentionnée dans mon dossier comme directrice générale de **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)**. Elle occupe la fonction de **directrice générale dans les deux sociétés**, **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** puis [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), pour le même local et la même activité, avec une succession très rapprochée :
 
 - **10 mars 2026** : date de cessation d'activité de **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** dans les locaux selon le bailleur (état des lieux de sortie)
 
-- **22 avril 2026** : début d'activité déclarée de **[L'Exploitant du Commerce (La SAS)]** au 22 rue / grande rue Lafaurie
+- **22 avril 2026** : début d'activité déclarée de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) au 22 rue / grande rue Lafaurie
 
 - **29 mai 2026** : date de mon accident dans ce même local
 
-**Je demande** que la société **[L'Exploitant du Commerce (La SAS)]** et ses dirigeants soient formellement intégrés dans la procédure en qualité de société exploitante et responsables potentiels au jour des faits.
+**Je demande** que la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) et ses dirigeants soient formellement intégrés dans la procédure en qualité de société exploitante et responsables potentiels au jour des faits.
 <hr><hr>
 
 ## 3. Courriel du bailleur et état des lieux de sortie

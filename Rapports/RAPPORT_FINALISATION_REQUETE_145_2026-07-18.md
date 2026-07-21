@@ -17,7 +17,7 @@ date: 2026-07-18
 
 Une analyse du dossier confirme que la requête fondée sur l'article 145 du Code de procédure civile, initialement prévue pour le 15 juillet 2026, n'a **jamais été déposée** à cette date. Les mentions « déposé » ou « fait » présentes dans le dossier constituent des anomalies documentaires.
 
-La seule action réellement effectuée au cours de cette période est le déplacement sur les lieux de l'accident à Foix le **16 juillet 2026**. Cette visite a permis d'établir de manière décisive que l'exploitant du salon de coiffure n'était pas la SAS **[L'Exploitant du Commerce (La SAS)]** (LMG), mais la SAS **[Le Nouvel Exploitant (HB BARBER)]**.
+La seule action réellement effectuée au cours de cette période est le déplacement sur les lieux de l'accident à Foix le **16 juillet 2026**. Cette visite a permis d'établir de manière décisive que l'exploitant du salon de coiffure n'était pas la SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) (LMG), mais la SAS **[Le Nouvel Exploitant (HB BARBER)]**.
 
 Par conséquent, la requête actuelle (fichier `Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`) doit impérativement être mise à jour avant son dépôt effectif, qui est programmé pour la semaine à venir au Tribunal Judiciaire de Foix.
 
@@ -25,11 +25,11 @@ Par conséquent, la requête actuelle (fichier `Actes/Token/Actes_proceduraux/Co
 
 ## II — CORRECTIONS À APPORTER (IDENTITÉ DU DÉFENDEUR)
 
-La requête existante est dirigée à tort contre **[L'Exploitant du Commerce (La SAS)]**. Les corrections suivantes doivent être appliquées :
+La requête existante est dirigée à tort contre [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md). Les corrections suivantes doivent être appliquées :
 
-- **Remplacement de la cible :** Toutes les occurrences de la SAS **[L'Exploitant du Commerce (La SAS)]** doivent être remplacées par la SAS **[Le Nouvel Exploitant (HB BARBER)]**.
+- **Remplacement de la cible :** Toutes les occurrences de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) doivent être remplacées par la SAS **[Le Nouvel Exploitant (HB BARBER)]**.
 
-- **Dirigeants :** L'action doit être dirigée contre le président actuel, **[Le Président du Nouvel Exploitant]**, ainsi que la directrice générale, **[La Directrice Générale de l'Exploitation]** (qui assure la continuité de direction entre l'ancienne et la nouvelle structure).
+- **Dirigeants :** L'action doit être dirigée contre le président actuel, **[Le Président du Nouvel Exploitant]**, ainsi que la directrice générale, [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md) (qui assure la continuité de direction entre l'ancienne et la nouvelle structure).
 
 - **Exposé des faits :** L'exposé des faits doit intégrer la visite du 16 juillet 2026. Il convient de mentionner le refus de l'individu présent (se déclarant dirigeant) de communiquer toute information sur l'assurance RC professionnelle. Cela renforce la caractérisation de l'entrave.
 
@@ -59,7 +59,7 @@ Le Code de procédure civile dispose :
 > **[Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction]** <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
-L'obstruction avérée de la SAS **[Le Nouvel Exploitant (HB BARBER)]** et le silence gardé suite à la visite du 16 juillet caractérisent incontestablement ce motif légitime. Cette communication est le seul moyen pour **[La Victime]** d'exercer son droit propre contre l'assureur, prévu par le Code des assurances :
+L'obstruction avérée de la SAS **[Le Nouvel Exploitant (HB BARBER)]** et le silence gardé suite à la visite du 16 juillet caractérisent incontestablement ce motif légitime. Cette communication est le seul moyen pour [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) d'exercer son droit propre contre l'assureur, prévu par le Code des assurances :
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
 > **[Code des assurances > Chapitre IV : Les assurances de responsabilité]** <br>
@@ -70,7 +70,7 @@ La jurisprudence confirme que l'injonction de produire des documents adressée �
 > « [...] qu'il résulte de la combinaison des articles 10 du code civil, 11 et 145 du code de procédure civile qu'il peut être ordonné à des tiers, sur requête ou en référé, de produire tous documents qu'ils détiennent, s'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige. » <br>
 > **Cour de cassation, civile, Chambre civile 2, 26 mai 2011, 10-20.048** [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000024084457)
 
-L'absence présumée d'assurance de la nouvelle société (déduite de son mutisme lors de la confrontation du 16 juillet) justifie pleinement l'urgence de cette requête et l'application d'une astreinte de **[Finance Astreinte 145]**.
+L'absence présumée d'assurance de la nouvelle société (déduite de son mutisme lors de la confrontation du 16 juillet) justifie pleinement l'urgence de cette requête et l'application d'une astreinte de [**[Finance Astreinte 145]**](../Memory/Tokens/token-finance-astreinte-145.md).
 
 <hr><hr>
 

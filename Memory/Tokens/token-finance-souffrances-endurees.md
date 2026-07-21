@@ -1,6 +1,7 @@
 ---
 title: "💰 Finance<br>Souffrances Endurées"
 description: "Token :** `**[Finance Souffrances Endurées]**`"
+token: "Finance Souffrances Endurées"
 type: memory
 ---
 <!-- Breadcrumb -->

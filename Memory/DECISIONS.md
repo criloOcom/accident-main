@@ -1,6 +1,6 @@
 ---
 title: "DÉCISIONS CLÉS"
-description: "- Utiliser le bon français avec articles : `**[La Victime]**` PAS `**[Victime]**`"
+description: "- Utiliser le bon français avec articles : `[**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)` PAS `**[Victime]**`"
 type: memory
 ---
 <!-- Breadcrumb -->
@@ -11,11 +11,11 @@ type: memory
 # DÉCISIONS CLÉS
 
 ## Tokens
-- Utiliser le bon français avec articles : `**[La Victime]**` PAS `**[Victime]**`
+- Utiliser le bon français avec articles : `[**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)` PAS `**[Victime]**`
 
-- `**[L'Exploitant du Commerce (La SAS)]**` (pas "Salon" — on ne précise pas la nature du commerce)
+- `[**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md)` (pas "Salon" — on ne précise pas la nature du commerce)
 
-- `**[Le Préposé de l'Exploitation]**` (pas "Coiffeur" — on ne précise pas le métier)
+- `[**[Le Préposé de l'Exploitation]**](../Memory/Tokens/token-exploitation-prepose-nom.md)` (pas "Coiffeur" — on ne précise pas le métier)
 
 - Tous les tokens de la table sont corrects et validés
 

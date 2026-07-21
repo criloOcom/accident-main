@@ -19,9 +19,9 @@ date: 2026-07-14
 
 ## I — SAISINE ET CADRE D'INTERVENTION
 
-Le présent rapport est établi dans le cadre de l'enquête préliminaire consécutive à l'accident corporel survenu le 29 mai 2026 au sein de l'établissement de coiffure exploité par la SAS **[L'Exploitant du Commerce (La SAS)]**, sis 22 Rue Lafaurie, 09000 Foix.
+Le présent rapport est établi dans le cadre de l'enquête préliminaire consécutive à l'accident corporel survenu le 29 mai 2026 au sein de l'établissement de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md), sis 22 Rue Lafaurie, 09000 Foix.
 
-La victime, **[La Victime]**, a été blessée à la main droite à la suite du basculement d'une vasque en céramique dont un rebord cassé présentait des arêtes tranchantes. Les premiers secours ont été dépêchés sur les lieux à 14h30.
+La victime, [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md), a été blessée à la main droite à la suite du basculement d'une vasque en céramique dont un rebord cassé présentait des arêtes tranchantes. Les premiers secours ont été dépêchés sur les lieux à 14h30.
 
 L'enquête a été diligentée sous l'autorité du Parquet de Foix afin de :
 - Constater les faits et préserver les traces matérielles
@@ -65,21 +65,21 @@ Un reportage photographique a été réalisé (10 clichés cotés PV1 à PV10). 
 
 ## III — AUDITIONS
 
-### A. Audition de la victime — **[La Victime]**
+### A. Audition de la victime — [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)
 
 Déposant avoir été reçu comme client dans le salon de coiffure le 29 mai 2026. Alors qu'il se trouvait dans l'établissement, il a vu le préposé monter sur la vasque pour atteindre un équipement en hauteur. Sous le poids, la vasque a basculé ; par réflexe, la victime a tendu la main droite pour se protéger et a heurté la partie cassée, provoquant une plaie immédiate et abondamment hémorragique.
 
 La victime précise qu'elle n'avait pas été informée de l'état dangereux de l'équipement et qu'elle n'a eu aucun geste contributif à son propre dommage.
 
-### B. Audition du préposé — **[Le Préposé de l'Exploitation]**
+### B. Audition du préposé — [**[Le Préposé de l'Exploitation]**](../Memory/Tokens/token-exploitation-prepose-nom.md)
 
 Déposant reconnaît avoir utilisé la vasque comme promontoire, faute d'escabeau ou de marchepied mis à disposition par l'employeur. Il déclare que la cassure de la vasque était connue de la direction et des employés depuis « au moins deux mois » et que rien n'avait été entrepris pour la remplacer, la réparer ou en interdire l'accès.
 
 Il précise que la direction n'a jamais donné de consigne écrite ou orale relative à la sécurité d'utilisation de cet équipement dégradé.
 
-### C. Audition des dirigeants — **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**
+### C. Audition des dirigeants — [**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md)
 
-Convoqués, les dirigeants de la SAS **[L'Exploitant du Commerce (La SAS)]** ont été entendus séparément. Ils reconnaissent avoir eu connaissance de l'état de la vasque mais indiquent que son remplacement était « prévu » sans pouvoir fournir de calendrier précis.
+Convoqués, les dirigeants de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) ont été entendus séparément. Ils reconnaissent avoir eu connaissance de l'état de la vasque mais indiquent que son remplacement était « prévu » sans pouvoir fournir de calendrier précis.
 
 Ils admettent qu'aucune consigne de sécurité n'a été donnée au personnel et que la vasque n'a pas été neutralisée. Ils contestent toute responsabilité pénale individuelle, renvoyant vers la personne morale.
 
@@ -100,7 +100,7 @@ Les éléments suivants ont été saisis et placés sous scellés :
 
 ## V — QUALIFICATIONS PÉNALES ET TRANSMISSION
 
-Au vu des éléments recueillis, je propose de retenir les qualifications suivantes à l'encontre de la SAS **[L'Exploitant du Commerce (La SAS)]** et de ses dirigeants personnes physiques :
+Au vu des éléments recueillis, je propose de retenir les qualifications suivantes à l'encontre de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants personnes physiques :
 
 ### A. Blessures involontaires
 

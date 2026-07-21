@@ -1,6 +1,7 @@
 ---
 title: "💰 Finance<br>PGPA"
 description: "Token :** `**[Finance PGPA]**`"
+token: "Finance PGPA"
 type: memory
 ---
 <!-- Breadcrumb -->

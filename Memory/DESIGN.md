@@ -32,7 +32,7 @@ type: memory
 
 ## Règles de formatage du corps
 
-- **Tokens d'anonymisation** (`**[La Victime]**`, `**[L'Exploitant du Commerce (La SAS)]**`, `**[Le Président de l'Exploitation]**`…) : appliquer **Bold** (`textStyle.bold = true`) dans le corps du texte. Ne pas mettre en gras les guillemets, parenthèses ou texte autour.
+- **Tokens d'anonymisation** (`[**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)`, `[**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md)`, `[**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md)`…) : appliquer **Bold** (`textStyle.bold = true`) dans le corps du texte. Ne pas mettre en gras les guillemets, parenthèses ou texte autour.
 
 - **Références législatives et jurisprudentielles** (ex. `article 1240 du Code civil`, `Cass. Com., 20 mai 2003, [n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)`) : appliquer **souligné** + **couleur bleue `#1166CC`** + **`linkUrl`** pointant vers Légifrance ou Judilibre.
 
