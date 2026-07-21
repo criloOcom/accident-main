@@ -1,6 +1,6 @@
 ---
 title: "📒 Code de procédure pénale"
-description: "Dossier contenant les articles du Code de procédure pénale cités dans les actes du projet."
+description: "Dossier contenant les articles du Code de procédure pénale (10 articles)."
 type: readme
 ---
 <!-- Breadcrumb -->
@@ -28,11 +28,11 @@ type: readme
 
 - [86](Article_86_CodeProcedurePenale.md) — Constitution de partie civile et ses effets (Art. 86)
 
-- [475-1](../%F0%9F%93%92%20Code%20procedure%20penale/Article475-1_CodeProcedurePenale.md) — Frais de procédure, constitution de partie civile (Art. 475-1)
+- [475-1](Article475-1_CodeProcedurePenale.md) — Frais de procédure, constitution de partie civile
 
-- [706-3](../%F0%9F%93%92%20Code%20procedure%20penale/Article_706-3_CodeProcedurePenale_Legifrance.md) — FGTI, indemnisation victimes infractions (Art. 706-3)
+- [706-3](Article_706-3_CodeProcedurePenale_Legifrance.md) — FGTI, indemnisation victimes infractions
 
-- [706-5](Article_706-5_CodeProcedurePenale.md) — Délai de forclusion CIVI (3 ans) (Art. 706-5)
+- [706-5](Article_706-5_CodeProcedurePenale.md) — Délai de forclusion CIVI (3 ans)
 
 ---
 
