@@ -113,9 +113,13 @@
 ## Accès rapide
 
 - [Procès-verbal Police](./Actes/Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)
+
 - [Compte-rendu opératoire](./Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)
+
 - [État d'avancement](./Memory/STATUS.md)
+
 - [Tâches restantes](./Memory/TODO.md)
+
 - [Faits vérifiés](./Memory/STRICT%20VARIABLES.md)
 
 ---
