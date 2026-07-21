@@ -73,7 +73,7 @@ statut: projet
   - → 8 valeurs (`document`, `preuve`, `assignation`, `analyse_juridique`, `etude_indemnisation`, `archive`, `jurisprudence`, `status`) **ne sont pas dans la liste autorisée**. Soit la nomenclature doit être élargie, soit les types doivent être remappés (ex. `assignation`→`acte`, `preuve`→`annexe`/`loi`, `jurisprudence`→`loi`, `status`→`memory`).
 - 🔴 **8 fichiers `statut: final` contenant encore des placeholders** (non résolus par la rétrogradation) :
 
-  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/Refere Assignation Provision.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/01%20%E2%9A%96%EF%B8%8F%20Assignation.md) → `[...]`
+  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/Refere Provision Assignation.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/01%20%E2%9A%96%EF%B8%8F%20Assignation.md) → `[...]`
   - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/Constitution Partie Civile.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/02b%20Constitution%20Partie%20Civile.md) → `[...]`
   - [⚖️ Actes/🔑 Token/✉️ Courriers/✉️ INPI 🚨Signalement.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/31%20%E2%9C%89%EF%B8%8F%20Courrier%20INPI%20Opposition.md) → `[...]`
   - [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/📊 Evaluation Dintilhac Consolidee.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/11%2B12%20%F0%9F%93%8A%20Evaluation%20Dintilhac%20consolidee.md) → `[...]`
@@ -107,7 +107,7 @@ statut: projet
 | `01_PREPARATION.md` / `02_PRET_POUR_ENVOI.md` / `03_ENVOYE.md` | 164 | Chemins absolus `/⚖️ Actes/...` au lieu de `../⚖️ Actes/...` (dossier `🚦 Status/` existe bien) |
 | `README.md` (racine) | 52 | Liens vers fichiers déplacés/renommés |
 | `📜 Strategie Jurisprudentielle.md` | 22 | Liens jurisprudence omettant `📜 Jurisprudence/README.md` |
-| `Refere Assignation Provision.md` | 12 | Annexes référencées sans chemin correct (`ANNEXE_1_…md` au lieu de `📎 Annexes/ANNEXE_1_…md`) |
+| `Refere Provision Assignation.md` | 12 | Annexes référencées sans chemin correct (`ANNEXE_1_…md` au lieu de `📎 Annexes/ANNEXE_1_…md`) |
 | `📜 Lois/README_OLD.md` | 45 | Fichier obsolète |
 | `RAPPORT_NAVIGATION_INTERACTIVE_20260711.md` | 13 | Rapport |
 | `📜 Analyse Responsabilites Legales.md` | 8 | Liens jurisprudence omettant `📜 Jurisprudence/README.md` |
@@ -119,7 +119,7 @@ statut: projet
 
 - 🔴 `📜 Analyse Responsabilites Legales.md` L92-98 et `📜 Strategie Jurisprudentielle.md` : `../../../📜 Lois/89-18.422_CourCassation.md` → le fichier réel est [📜 Lois/📜 Jurisprudence/README.md89-18.422_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md) (sous-dossier omis).
 
-- ~~🔴 `Refere Assignation Provision.md` L106-126, 347-349 : `ANNEXE_1/2/3` → **CORRIGÉ** (déplacées dans [📜 Lois/📜 Jurisprudence/](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)).
+- ~~🔴 `Refere Provision Assignation.md` L106-126, 347-349 : `ANNEXE_1/2/3` → **CORRIGÉ** (déplacées dans [📜 Lois/📜 Jurisprudence/](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)).
 
 - 🔴 **6 liens `file://` cassés** (`📋 Dossier Special CERFA.md` L43-45, token + reel) : pointent vers `26 ✉️ Temoin Client 📋Attestation.md`, `27 ✉️ Pompier SAMU 📋Attestation.md`, `28 ✉️ Employe 📋Attestation.md` — or les fichiers réels sont `26 📧 …`, `27 📧 …`, `28 📧 …` (mismatch 📋/📧). Lien mort + nommage incohérent.
 
@@ -149,7 +149,7 @@ statut: projet
 
 3. Corriger les liens jurisprudence (`13 Responsabilites`, `14 Stratégie`) : ajouter le sous-dossier `📜 Jurisprudence/README.md` (≈30 liens).
 
-4. Corriger `Refere Assignation Provision.md` : préfixer `📎 Annexes/` aux liens d'annexe (L106-126, 347-349).
+4. Corriger `Refere Provision Assignation.md` : préfixer `📎 Annexes/` aux liens d'annexe (L106-126, 347-349).
 
 5. Corriger les 6 `file://` de `05 📋 Dossier Special CERFA.md` : `📋`→`📧` (ou renommer les fichiers cibles).
 

@@ -27,7 +27,7 @@ Il s'agit de liens dont le chemin est incorrect mais pour lesquels un fichier du
 
 - **`AGENTS.md`** : le lien `/home/crilocom/accident-main/🧠 Memory/README.md` pointe vers un chemin absolu (interdit par les conventions) et de nombreux candidats existent.
 
-- **`📊 Rapports/20_Accueil_Avocat/PACK_ACCUEIL_AVOCAT_AJ.md`** : lien vers `Refere Assignation Provision.md` introuvable, 2 candidats.
+- **`📊 Rapports/20_Accueil_Avocat/PACK_ACCUEIL_AVOCAT_AJ.md`** : lien vers `Refere Provision Assignation.md` introuvable, 2 candidats.
 
 - **`🚦 Status/01_PREPARATION.md`** : lien vers `Bordereau Unifie.md` introuvable, 2 candidats.
 

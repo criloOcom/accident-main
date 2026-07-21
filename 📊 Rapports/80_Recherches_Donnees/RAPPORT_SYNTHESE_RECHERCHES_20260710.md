@@ -73,7 +73,7 @@ type: rapport
 
 ### II.1 — Fichiers Analysés
 
-- [`Refere Assignation Provision.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Refere%20Assignation%20Provision.md) : 12 articles vérifiés
+- [`Refere Provision Assignation.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Refere%20Provision%20Assignation.md) : 12 articles vérifiés
 
 - [`02 🚔 Plainte.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Plainte%20Defaut%20Assurance%20RC.md) : 9 articles vérifiés
 
@@ -203,7 +203,7 @@ type: rapport
 
 - [ ] Sélectionner les 5-10 décisions les plus pertinentes
 
-- [ ] Mettre à jour `Refere Assignation Provision.md` avec les nouvelles références
+- [ ] Mettre à jour `Refere Provision Assignation.md` avec les nouvelles références
 
 - [ ] Enrichir `02 🚔 Plainte.md` avec la jurisprudence pertinente
 

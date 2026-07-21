@@ -91,8 +91,8 @@ type: rapport
 - **Vérif live + action du 15/07 (Vague 2) :**
 
   - ✅ **Visa corrigé en toute sûreté** (4 fichiers) : « Vu les articles L. 227-8 **et L. 225-251** du Code de commerce » → « Vu l'article L. 227-8 du Code de commerce ». Pour une **SAS** (Chapitre VII C. com.), le fondement de la responsabilité des dirigeants est **L.227-8**, pas L.225-251 (qui est le régime des SA). Zéro doublon, zéro lien cassé.
-    - Fichiers : `Refere Assignation Provision.md`, `Constitution Partie Civile.md`, `Requete Article 145 CPC.md`, `✉️ SAS Dirigeants 🔄Relance.md`.
-  - ⏸️ **Citations narrative/corps LAISSÉES + FLAGGÉES « À VÉRIFIER »** (5 fichiers, 14 occurrences) : `Refere Assignation Provision.md` (corps), `Constitution Partie Civile.md` (corps), `✉️ SAS President 📜Lettre.md` (corps), `🎤 Plaidoirie Responsabilite Dirigeants.md`, `🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md`.
+    - Fichiers : `Refere Provision Assignation.md`, `Constitution Partie Civile.md`, `Requete Article 145 CPC.md`, `✉️ SAS Dirigeants 🔄Relance.md`.
+  - ⏸️ **Citations narrative/corps LAISSÉES + FLAGGÉES « À VÉRIFIER »** (5 fichiers, 14 occurrences) : `Refere Provision Assignation.md` (corps), `Constitution Partie Civile.md` (corps), `✉️ SAS President 📜Lettre.md` (corps), `🎤 Plaidoirie Responsabilite Dirigeants.md`, `🗄️ Archives/🧠 STRATEGIE Contentieux Penal.md`.
     - **Raison (anti-régression + Règle #11)** : ces occurrences citent le *texte* de l'article ou font un renvoi narratif. Remplacer le numéro seul créerait un mismatch (le texte cité correspond à L.225-251, pas L.227-8). Il faut **vérifier sur Légifrance** que L.227-8 porte le même fondement avant toute modification. Non automatisable → reporté.
 - **Fuites Tavella** : voir M05 (vague 1) — aucune fuite visible confirmée, noms seulement dans URLs/noms de fichiers.
 

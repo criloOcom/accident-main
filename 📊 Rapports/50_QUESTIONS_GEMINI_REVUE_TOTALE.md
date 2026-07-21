@@ -76,7 +76,7 @@ type: rapport
 
 **Q16.** Le lien vers `RAPPORT_AUDIT_RISQUES.md` dans `TODO.md` a-t-il été corrigé ?
 
-**Q17.** Les liens brisés dans `📊 Rapports/70_Technique_Repo/RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md` vers d'anciens fichiers `01 ⚖️ Assignation.md` pointent-ils désormais vers les fichiers corrects `Refere Assignation Provision.md` dans 📜 Contentieux civil/ ?
+**Q17.** Les liens brisés dans `📊 Rapports/70_Technique_Repo/RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md` vers d'anciens fichiers `01 ⚖️ Assignation.md` pointent-ils désormais vers les fichiers corrects `Refere Provision Assignation.md` dans 📜 Contentieux civil/ ?
 
 ---
 
@@ -85,7 +85,7 @@ type: rapport
 **Q18.** Vérifie que la Requête 145 CPC (`Requete Article 145 CPC.md`) ne contient AUCUNE demande de provision. Cherche les mots-clés : « provision », « 15 000 », « 15000 », « 835 », « indemnisation ». Confirme qu'elle ne demande que des mesures d'instruction.
 
 **Q19.** Vérifie que les demandes de provision (15 000 €) sont bien dans des actes SÉPARÉS :
-   - `Refere Assignation Provision.md` (fondée sur art. 835 al. 2 CPC)
+   - `Refere Provision Assignation.md` (fondée sur art. 835 al. 2 CPC)
    - `Refere Ordonnance Projet.md` (fondée sur art. 835 al. 2 CPC)
    Confirme que ces 2 actes existent et sont correctement fondés.
 

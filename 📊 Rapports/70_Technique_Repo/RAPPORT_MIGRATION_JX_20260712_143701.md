@@ -24,8 +24,8 @@ Mode: EXÉCUTION
 Date: 2026-07-12 14:37
 
 ── Fichiers Token à renommer : 69 ──
-  ✓  ⚖️ Actes proceduraux/Refere Assignation Provision.md
-       → ⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md
+  ✓  ⚖️ Actes proceduraux/Refere Provision Assignation.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Assignation.md
   ✓  ⚖️ Actes proceduraux/02 🚔 Plainte.md
        → ⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Defaut Assurance RC.md
   ✓  ⚖️ Actes proceduraux/Constitution Partie Civile.md
@@ -35,7 +35,7 @@ Date: 2026-07-12 14:37
   ✓  ⚖️ Actes proceduraux/04 📑 Bordereau.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifie.md
   ✓  ⚖️ Actes proceduraux/05 🎯 Conclusions Refere.md
-       → ⚖️ Actes proceduraux/📜 Contentieux civil/Refere Conclusion Provision.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Conclusion.md
   ✓  ⚖️ Actes proceduraux/06 Requete Constat Huissier.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/Requete Constat Huissier.md
   ✓  ⚖️ Actes proceduraux/07 Refere Ordonnance Projet.md
@@ -164,8 +164,8 @@ Date: 2026-07-12 14:37
        → 🗂️ Organisation/✅ Checklist Envoi 11-07.md
 
 ── Fichiers Reel à renommer : 71 ──
-  ✓  ⚖️ Actes proceduraux/Refere Assignation Provision.md
-       → ⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md
+  ✓  ⚖️ Actes proceduraux/Refere Provision Assignation.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Assignation.md
   ✓  ⚖️ Actes proceduraux/02 🚔 Plainte.md
        → ⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Defaut Assurance RC.md
   ✓  ⚖️ Actes proceduraux/Constitution Partie Civile.md
@@ -179,7 +179,7 @@ Date: 2026-07-12 14:37
   ✓  ⚖️ Actes proceduraux/04 📑 Bordereau.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifie.md
   ✓  ⚖️ Actes proceduraux/05 🎯 Conclusions Refere.md
-       → ⚖️ Actes proceduraux/📜 Contentieux civil/Refere Conclusion Provision.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Conclusion.md
   ✓  ⚖️ Actes proceduraux/06 Requete Constat Huissier.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/Requete Constat Huissier.md
   ✓  ⚖️ Actes proceduraux/07 Refere Ordonnance Projet.md
@@ -321,9 +321,9 @@ Date: 2026-07-12 14:37
   📄 ⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requete Constat Huissier 🗄️Archive 145 CPC.md
        [breadcrumb] › 33 ✉️ Requete Constat Huissier 🗄️Archive 145 CPC (breadcrumb)
   📄 📊 Rapports/PLAN_CORRECTION_HERMES_20260711.md
-       [parenthesized_url] Refere Assignation Provision.md → Refere Assignation Provision.md (1x)
+       [parenthesized_url] Refere Provision Assignation.md → Refere Provision Assignation.md (1x)
   📄 📊 Rapports/RAPPORT_AUDIT_COMPLET_20260711.md
-       [parenthesized_url] Refere Assignation Provision.md → Refere Assignation Provision.md (1x)
+       [parenthesized_url] Refere Provision Assignation.md → Refere Provision Assignation.md (1x)
   📄 📊 Rapports/RAPPORT_AUDIT_HERMES_20260711.md
        [parenthesized_url] 05 📋 Dossier Special CERFA.md → 📋 Dossier Special CERFA.md (1x)
   📄 📊 Rapports/RAPPORT_AUDIT_REDACTION.md

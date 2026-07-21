@@ -44,7 +44,7 @@ Conformément au §1 (Rapport d'expertise 2027-05-29), les valeurs de référenc
 
 - Les conclusions sont alignées avec `STRICT VARIABLES.md`.
 
-## 5. Audit des Conclusions Référé Provision (`Refere Conclusion Provision.md`)
+## 5. Audit des Conclusions Référé Provision (`Refere Provision Conclusion.md`)
 - **Statut :** **COHÉRENT (Phase provisoire)**
 
 - Le document demande une provision de 15 000 €, ce qui est justifié et cohérent avec `STRICT VARIABLES.md` (MONTANT_PROVISION_AMIABLE: 15 000 €).

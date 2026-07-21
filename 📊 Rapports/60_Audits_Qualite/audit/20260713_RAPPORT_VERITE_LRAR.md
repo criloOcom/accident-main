@@ -52,7 +52,7 @@ Conséquence de l'erreur : divergence Token↔Réel (le Token disait « monté s
 
 - `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/✉️ Employe 📧Mail 📋Attestation.md` (l.36)
 
-- `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Conclusion Provision.md` (l.48) et version Token équivalente
+- `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Conclusion.md` (l.48) et version Token équivalente
 
 ---
 

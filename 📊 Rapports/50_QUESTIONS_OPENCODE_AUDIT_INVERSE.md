@@ -42,9 +42,9 @@ Ce document contient 50 questions d'audit précises destinées à l'agent **open
 
 ## 2. Cibles de Responsabilité — SAS HB BARBER (Q11–Q20)
 
-11. L'introduction de l'acte `Refere Assignation Provision.md` (ligne 32) vise-t-elle désormais la SAS HB BARBER au lieu de la SAS Les Mauvais Garçons (LMG) ?
+11. L'introduction de l'acte `Refere Provision Assignation.md` (ligne 32) vise-t-elle désormais la SAS HB BARBER au lieu de la SAS Les Mauvais Garçons (LMG) ?
 
-12. La liste des défendeurs (partie "CONTRE :") dans `Refere Assignation Provision.md` (lignes 52-56) désigne-t-elle la SAS HB BARBER en premier défendeur ?
+12. La liste des défendeurs (partie "CONTRE :") dans `Refere Provision Assignation.md` (lignes 52-56) désigne-t-elle la SAS HB BARBER en premier défendeur ?
 
 13. Le président de HB Barber (`[**[Le Président du Nouvel Exploitant]**]`) est-il correctement mentionné en défendeur 2 de l'assignation en référé ?
 
@@ -72,7 +72,7 @@ Ce document contient 50 questions d'audit précises destinées à l'agent **open
 
 23. La version Reel de `Plainte Complementaire Correction HB BARBER.md` contient-elle encore des tokens non résolus entre crochets ?
 
-24. Le document Reel `Refere Assignation Provision.md` a-t-il vu ses tokens résolus avec les identités réelles uniformisées ?
+24. Le document Reel `Refere Provision Assignation.md` a-t-il vu ses tokens résolus avec les identités réelles uniformisées ?
 
 25. La valeur réelle de `[N° Transaction Wero]` (`IPR000297029234`) est-elle correctement substituée dans les versions réelles ?
 

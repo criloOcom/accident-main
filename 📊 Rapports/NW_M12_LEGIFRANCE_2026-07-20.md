@@ -20,7 +20,7 @@ date: "2026-07-20"
 ### Liens et identifiants cassés détectés (22)
 
 #### ID Cassé : `JURITEXT000006927230` (JURITEXT)
-- **Fichiers impactés** : ./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md, ./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md
+- **Fichiers impactés** : ./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Assignation.md, ./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Assignation.md
 
 - **URLs concernées** :
 
@@ -50,7 +50,7 @@ date: "2026-07-20"
 - **Action recommandée** : Remplacer `JURITEXT000007030324` par `JURITEXT000007030324` dans les fichiers concernés.
 
 #### ID Cassé : `JURITEXT000007037753` (JURITEXT)
-- **Fichiers impactés** : ./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md, ./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md, ./📊 Rapports/RAPPORT_VERIFICATION_JURITEXT_2026-07-18.md, ./📊 Rapports/85_Coherence_2026-07-15/M04_AUDIT_JURITEXT.md
+- **Fichiers impactés** : ./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Assignation.md, ./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Assignation.md, ./📊 Rapports/RAPPORT_VERIFICATION_JURITEXT_2026-07-18.md, ./📊 Rapports/85_Coherence_2026-07-15/M04_AUDIT_JURITEXT.md
 
 - **URLs concernées** :
 
@@ -68,7 +68,7 @@ date: "2026-07-20"
 - ❌ **Numéro d'affaire indétectable** : Impossible de trouver le numéro d'affaire dans le contexte. À VÉRIFIER manuellement.
 
 #### ID Cassé : `JURITEXT000007044005` (JURITEXT)
-- **Fichiers impactés** : ./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md, ./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md
+- **Fichiers impactés** : ./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Assignation.md, ./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Assignation.md
 
 - **URLs concernées** :
 
@@ -76,7 +76,7 @@ date: "2026-07-20"
 - ❌ **Numéro d'affaire indétectable** : Impossible de trouver le numéro d'affaire dans le contexte. À VÉRIFIER manuellement.
 
 #### ID Cassé : `JURITEXT000026156720` (JURITEXT)
-- **Fichiers impactés** : ./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md, ./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md, ./📜 Lois/README.md
+- **Fichiers impactés** : ./⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Assignation.md, ./⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Assignation.md, ./📜 Lois/README.md
 
 - **URLs concernées** :
 

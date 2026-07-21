@@ -24,7 +24,7 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 ### II.1 — TODO List des incohérences détectées
 
-#### II.1.a — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Assignation Provision.md`
+#### II.1.a — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Refere Provision Assignation.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 389.
 
