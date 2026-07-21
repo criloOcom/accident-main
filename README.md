@@ -33,7 +33,7 @@ Pour cette journée, tu as trois démarches physiques majeures à réaliser à F
 #### 2️⃣ Au Tribunal Judiciaire (Bureau d'Aide Juridictionnelle)
 * **Action** : Déposer ton dossier complet de demande d'Aide Juridictionnelle (AJ) totale.
 
-* **Document d'accompagnement** : [✉️ BAJ - Guide Demande AJ.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Interne/BAJ%20-%20Guide%20Demande%20AJ.md)
+* **Document d'accompagnement** : [✉️ BAJ - Demande AJ - Guide.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Interne/BAJ%20-%20Demande%20AJ%20-%20Guide.md)
 
 * **Pièces à joindre** : Tes justificatifs de ressources (déclarations URSSAF, avis d'imposition, etc.).
 

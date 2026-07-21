@@ -17,11 +17,10 @@ tags:
 statut: projet
 destinataire: INPI
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/INPI - Signalement.md
 source: drive
 drive_id: 1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E
 jx: J+37
-token_path: ../../../🔑 Token/✉️ Courriers/🏛️ Administrations/INPI - Signalement.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ INPI - Signalement*

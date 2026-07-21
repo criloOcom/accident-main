@@ -10,11 +10,10 @@ tags:
   - dossier
 statut: final
 auteur: La Victime
+reel_path: ../../👤 Reel/🗂️ Organisation/Note - Index Général.md
 source: drive
 drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 jx: J+39
-token_path: ../../🔑 Token/🗂️ Organisation/Note - Index Général.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › Note - Index Général*

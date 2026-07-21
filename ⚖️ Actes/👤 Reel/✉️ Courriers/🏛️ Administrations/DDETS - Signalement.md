@@ -16,11 +16,10 @@ calendar_event_id: "ncdv7eqhn6njck42v7sdcuelak"
 statut: final
 destinataire: DDETS de la Region
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/DDETS - Signalement.md
 source: drive
 drive_id: 1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM
 jx: J+37
-token_path: ../../../🔑 Token/✉️ Courriers/🏛️ Administrations/DDETS - Signalement.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ DDETS - Signalement*

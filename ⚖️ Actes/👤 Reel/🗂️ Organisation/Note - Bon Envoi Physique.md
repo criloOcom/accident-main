@@ -11,9 +11,8 @@ tags:
   - check-list
 statut: preparation
 auteur: La Victime
+reel_path: ../../👤 Reel/🗂️ Organisation/Note - Bon Envoi Physique.md
 jx: J+38
-token_path: ../../🔑 Token/🗂️ Organisation/Note - Bon Envoi Physique.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › Note - Bon Envoi Physique*

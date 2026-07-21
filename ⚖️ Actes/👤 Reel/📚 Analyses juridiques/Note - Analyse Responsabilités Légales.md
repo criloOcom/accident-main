@@ -10,11 +10,10 @@ tags:
   - juridique
 statut: final
 auteur: La Victime
+reel_path: ../../👤 Reel/📚 Analyses juridiques/Note - Analyse Responsabilités Légales.md
 source: drive
 drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
 jx: J+32
-token_path: ../../🔑 Token/📚 Analyses juridiques/Note - Analyse Responsabilités Légales.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › Note - Analyse Responsabilités Légales*

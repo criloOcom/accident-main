@@ -14,12 +14,11 @@ tags:
 statut: envoye
 destinataire: Directrice Générale de l'Exploitant du Commerce
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Directrice Générale - Courrier.md
 source: drive
 drive_id: 1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93
 calendar_event_id: "eicgcrnb2ir9bf072kennpm1ls"
 jx: J+31
-token_path: ../../../🔑 Token/✉️ Courriers/🏢 SAS & Salon/SAS - Directrice Générale - Courrier.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS - Directrice Générale - Courrier*

@@ -20,9 +20,7 @@ tags:
 statut: final
 destinataire: Avocat
 auteur: La Victime
-
-token_path: ../../../🔑 Token/✉️ Courriers/🏛️ Justice/Consultation - Avocat Jimini.md
-
+reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/Consultation - Avocat Jimini.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Justice › ✉️ Consultation - Avocat Jimini*

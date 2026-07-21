@@ -15,9 +15,8 @@ tags:
 statut: projet
 destinataire: Assureur RC de l'Exploitant du Commerce
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Assureur RC - Courrier.md
 jx: J+50
-token_path: ../../../🔑 Token/✉️ Courriers/🏢 SAS & Salon/SAS - Assureur RC - Courrier.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS - Assureur RC - Courrier*

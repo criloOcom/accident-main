@@ -5,9 +5,8 @@ type: analyse_juridique
 date: 2026-07-10
 statut: final
 auteur: La Victime
+reel_path: ../../👤 Reel/📚 Analyses juridiques/Note - Audit RNE NPAI SAS.md
 jx: J+42
-token_path: ../../🔑 Token/📚 Analyses juridiques/Note - Audit RNE NPAI SAS.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › Note - Audit RNE NPAI SAS*

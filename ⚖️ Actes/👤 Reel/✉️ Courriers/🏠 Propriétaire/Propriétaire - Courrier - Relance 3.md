@@ -15,11 +15,10 @@ statut: envoye
 lrar_number: "87500152910287Q"
 destinataire: Le Propriétaire des Murs
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/🏠 Propriétaire/Propriétaire - Courrier - Relance 3.md
 source: local
 jx: J+51
 signataire: "Sébastien GRAZIDE (envoi sans signature manuscrite)"
-token_path: ../../../🔑 Token/✉️ Courriers/🏠 Propriétaire/Propriétaire - Courrier - Relance 3.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏠 Propriétaire › ✉️ Propriétaire - Courrier - Relance 3*

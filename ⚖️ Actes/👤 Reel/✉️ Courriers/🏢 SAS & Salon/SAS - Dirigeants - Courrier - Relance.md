@@ -15,10 +15,9 @@ calendar_event_id: "hj1d12jfdubeuoavj7sq548i2o"
 statut: envoye
 destinataire: Dirigeants de l'Exploitant du Commerce
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Dirigeants - Courrier - Relance.md
 source: local
 jx: J+40
-token_path: ../../../🔑 Token/✉️ Courriers/🏢 SAS & Salon/SAS - Dirigeants - Courrier - Relance.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS - Dirigeants - Courrier - Relance*

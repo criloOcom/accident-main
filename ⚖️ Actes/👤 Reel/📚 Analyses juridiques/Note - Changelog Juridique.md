@@ -2,9 +2,8 @@
 title: "Changelog juridique<br>Dossier « Accident de la main »"
 description: "Enregistrement des corrections et mises à jour **juridiques** apportées aux actes et notes du dossier, avec date, type de correction et outils de vérification utilisés (Légifrance, OpenLegi)."
 type: analyse_juridique
+reel_path: ../../👤 Reel/📚 Analyses juridiques/Note - Changelog Juridique.md
 statut: brouillon
-token_path: ../../🔑 Token/📚 Analyses juridiques/Note - Changelog Juridique.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📚 Analyses Juridiques](./README.md) › CHANGELOG JURIDIQUE*

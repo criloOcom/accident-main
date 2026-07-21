@@ -13,9 +13,8 @@ tags:
 statut: projet
 destinataire: INPI
 auteur: Nom de l'Avocat de la Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/INPI - Immatriculation - Opposition.md
 jx: J+41
-token_path: ../../../🔑 Token/✉️ Courriers/🏛️ Administrations/INPI - Immatriculation - Opposition.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ INPI - Immatriculation - Opposition*

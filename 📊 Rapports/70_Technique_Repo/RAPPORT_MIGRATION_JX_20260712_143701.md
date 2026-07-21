@@ -113,7 +113,7 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/38 ✅ CHECKLIST_DEPLACEMENT_POLICE_FOIX.md
        → ✉️ Courriers/Archive - Checklist Déplacement Foix.md
   ✓  ✉️ Courriers/39 📋 GUIDE_DEMANDE_AJ.md
-       → ✉️ Courriers/✉️ BBAJ - Guide Demande AJ AJ.md
+       → ✉️ Courriers/✉️ BBAJ - Demande AJ - Guide AJ.md
   ✓  ✉️ Courriers/41 ✉️ CODAF - Signalement - Relance - Suite Signalement Maire.md
        → ✉️ Courriers/✉️ CODAF - Signalement - Relance.md
   ✓  ✉️ Courriers/42 ✉️ DDETS - Signalement - Relance - Suite Signalement Maire.md
@@ -257,7 +257,7 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/38 ✅ CHECKLIST_DEPLACEMENT_POLICE_FOIX.md
        → ✉️ Courriers/Archive - Checklist Déplacement Foix.md
   ✓  ✉️ Courriers/39 📋 GUIDE_DEMANDE_AJ.md
-       → ✉️ Courriers/✉️ BBAJ - Guide Demande AJ AJ.md
+       → ✉️ Courriers/✉️ BBAJ - Demande AJ - Guide AJ.md
   ✓  ✉️ Courriers/41 ✉️ CODAF - Signalement - Relance - Suite Signalement Maire.md
        → ✉️ Courriers/✉️ CODAF - Signalement - Relance.md
   ✓  ✉️ Courriers/42 ✉️ DDETS - Signalement - Relance - Suite Signalement Maire.md

@@ -10,10 +10,9 @@ tags:
   - juridique
 statut: final
 auteur: La Victime
+reel_path: ../../👤 Reel/🗄️ Archives/Archive - Analyse Correction Juridique.md
 source: drive
 drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
-token_path: ../../🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › Archive - Analyse Correction Juridique*

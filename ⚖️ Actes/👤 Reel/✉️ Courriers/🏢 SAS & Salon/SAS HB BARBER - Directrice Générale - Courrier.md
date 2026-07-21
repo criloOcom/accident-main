@@ -9,9 +9,7 @@ statut: envoye
 lrar_number: "875001528942010"
 destinataire: La Directrice Générale de l'Exploitation
 auteur: La Victime
-
-token_path: ../../../🔑 Token/✉️ Courriers/🏢 SAS & Salon/SAS HB BARBER - Directrice Générale - Courrier.md
-
+reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS HB BARBER - Directrice Générale - Courrier.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS HB BARBER - Directrice Générale - Courrier*

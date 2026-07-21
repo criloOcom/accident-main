@@ -13,11 +13,10 @@ calendar_event_id: "mub8b2p6evslc099cbq9lobcas"
 statut: projet
 destinataire: Le Chirurgien SOS Main
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/⚕️ Médical/Médecin Traitant - Consolidation - Demande.md
 source: drive
 drive_id: 1PSv6c0YFvLa0WDEbwc3AVxL14z7ARi5ne50ctJgCvWI
 jx: J+37
-token_path: ../../../🔑 Token/✉️ Courriers/⚕️ Médical/Médecin Traitant - Consolidation - Demande.md
-
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › ⚕️ Médical › ✉️ Médecin Traitant - Consolidation - Demande*

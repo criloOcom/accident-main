@@ -11,14 +11,13 @@ tags:
   - procedure
 statut: final
 auteur: La Victime
+reel_path: ../../../👤 Reel/✉️ Courriers/📋 Interne/BAJ - Demande AJ - Guide.md
 jx: J+47
 destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 
-token_path: ../../../🔑 Token/✉️ Courriers/📋 Interne/BAJ - Guide Demande AJ.md
-
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 📋 Interne › ✉️ BAJ - Guide Demande AJ*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 📋 Interne › ✉️ BAJ - Demande AJ - Guide*
 <hr>
 <!-- /Breadcrumb -->
 
