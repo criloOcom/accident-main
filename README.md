@@ -5,7 +5,7 @@
 
 # Accident de la Main
 
-Le **29 mai 2026**, vers 14h30, **[Sébastien GRAZIDE](./Memory/Tokens/token-victime-prenom.md)** ([informaticien indépendant](./Memory/Tokens/token-victime-id-professionnel.md), SIREN [500 474 457](./Memory/Tokens/token-victime-id-professionnel.md), né le [27 janvier 1982](./Memory/Tokens/token-victime-date-naissance.md), droitier) a été victime d'un accident de travail au **[22 Rue Lafaurie, 09000 Foix](./Memory/Tokens/token-exploitation-adresse.md)**, dans un salon de coiffure exploité par la **[SAS HB BARBER](./Memory/Tokens/token-exploitation-raison-sociale.md)** (SIRET [104 103 262 00010](./Memory/Tokens/token-exploitation-siret.md)).
+Le **[29 mai 2026](./Memory/Tokens/token-j-0-accident.md)**, vers 14h30, **[Sébastien GRAZIDE](./Memory/Tokens/token-victime-nom-complet.md)** ([informaticien indépendant](./Memory/Tokens/token-victime-id-professionnel.md), [SIREN 500 474 457](./Memory/Tokens/token-victime-id-professionnel.md), né le [27 janvier 1982](./Memory/Tokens/token-victime-date-naissance.md), [44 ans](./Memory/Tokens/token-victime-age.md), droitier) a été victime d'un accident de travail au **[22 Rue Lafaurie, 09000 Foix](./Memory/Tokens/token-exploitation-adresse.md)**, dans un salon de coiffure exploité par la **[SAS HB BARBER](./Memory/Tokens/token-exploitation-raison-sociale.md)** (SIRET [104 103 262 00010](./Memory/Tokens/token-exploitation-siret.md)).
 
 La blessure — une plaie palmaire droite de 8,5 cm avec section complète des tendons fléchisseurs des 2e et 3e rayons et des 2 nerfs digitaux palmaires de l'index droit — a nécessité une intervention chirurgicale le **[30 mai 2026](./Memory/Tokens/token-j-1-chirurgie.md)** à la **[Clinique de l'Union](./Memory/Tokens/token-hopital-sosmain-nom.md)** (SOS Main), réalisée par le **[Dr Iskander DJERBI](./Memory/Tokens/token-hopital-sosmain-chirurgien.md)**. L'ITT initiale de 56 jours ([23 juillet 2026](./Memory/Tokens/token-j-55-fin-d-itt.md)) a été prolongée jusqu'à l'expertise médico-judiciaire fixée au **[29 mai 2027](./Memory/Tokens/token-j-167-expertise-umj.md)**.
 
@@ -15,9 +15,9 @@ Ce dépôt centralise l'intégralité du dossier : pièces médicales, procès-v
 
 ## Les faits
 
-**Victime.** [Sébastien GRAZIDE](./Memory/Tokens/token-victime-prenom.md), 44 ans, [informaticien indépendant](./Memory/Tokens/token-victime-id-professionnel.md), exerçant sous le SIREN [500 474 457](./Memory/Tokens/token-victime-id-professionnel.md).
+**Victime.** [Sébastien GRAZIDE](./Memory/Tokens/token-victime-nom-complet.md), [44 ans](./Memory/Tokens/token-victime-age.md), [informaticien indépendant](./Memory/Tokens/token-victime-id-professionnel.md), exerçant sous le [SIREN 500 474 457](./Memory/Tokens/token-victime-id-professionnel.md).
 
-**Accident.** Le 29 mai 2026, alors qu'il était assis dans un fauteuil du salon de coiffure du **[22 Rue Lafaurie à Foix](./Memory/Tokens/token-exploitation-adresse.md)**, la glace du plan de travail s'est effondrée sur sa main droite, provoquant une plaie profonde et des sections tendineuses et nerveuses.
+**Accident.** Le **[29 mai 2026](./Memory/Tokens/token-j-0-accident.md)**, alors qu'il était assis dans un fauteuil du salon de coiffure du **[22 Rue Lafaurie à Foix](./Memory/Tokens/token-exploitation-adresse.md)**, la glace du plan de travail s'est effondrée sur sa main droite, provoquant une plaie profonde et des sections tendineuses et nerveuses.
 
 **Prise en charge médicale.** Transporté au CHIVA (Dispensaire de Foix) puis orienté vers **[SOS Main](./Memory/Tokens/token-hopital-sosmain-nom.md)** à la **[Clinique de l'Union](./Memory/Tokens/token-hopital-sosmain-nom.md)**. Opéré le [30 mai 2026](./Memory/Tokens/token-j-1-chirurgie.md). Le pronostic vital n'a pas été engagé mais la fonction de la main droite (main dominante) reste atteinte.
 
@@ -115,4 +115,4 @@ Ce dépôt est conçu pour être exploité par des agents IA. Le point d'entrée
 
 ---
 
-*Dossier tenu par [Sébastien GRAZIDE](./Memory/Tokens/token-victime-prenom.md) — Mise à jour : 22 juillet 2026*
+*Dossier tenu par [Sébastien GRAZIDE](./Memory/Tokens/token-victime-nom-complet.md) — Mise à jour : 22 juillet 2026*
