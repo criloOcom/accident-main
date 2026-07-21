@@ -91,6 +91,14 @@ type: memory
 - **Ne JAMAIS** poser à l'utilisateur une question dont la réponse existe déjà dans les fichiers mémoire ou le Drive
 
 ## INTERDICTIONS ABSOLUES
+
+## #28 — INTERDICTION D'ASSOCIER FOIX AU DÉPÔT INITIAL DE PLAINTE
+- La plainte initiale du 2 juin 2026 a été déposée auprès du **Service Local de Sécurité Publique de Toulouse Rive Droite** (23 Boulevard de l'Embouchure, 31300 Toulouse), **PAS** au Commissariat de Foix.
+- Le dossier a ensuite été transmis pour compétence territoriale au Commissariat de Foix (PV n° 2026/015967).
+- Toute mention associant « Commissariat de Foix » au **dépôt initial** de plainte du 2 juin 2026 est une erreur factuelle.
+- Cette règle est permanente et non négociable. Voir `STRICT VARIABLES.md` § DEPOT_PLAINTE_LIEU.
+
+
 - **INTERDIT** toute automatisation par script sur les Google Docs (str.replace, re.sub, regex direct)
 
 - **INTERDIT** `deleteContentRange` + `insertText` pour réécrire un doc (détruit formatage)

@@ -159,7 +159,6 @@ def fix_link_in_content(content: str, old_link: str, new_rel: str) -> str:
     new_link = f'{new_encoded}#{anchor}' if anchor else new_encoded
 
     content = content.replace(f']({old_link})', f']({new_link})')
-    content = content.replace(f'](<{old_link}>)', f']({new_link})')
     content = content.replace(f'href="{old_link}"', f'href="{new_link}"')
 
     return content
