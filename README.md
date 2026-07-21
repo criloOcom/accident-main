@@ -5,23 +5,23 @@
 
 # Accident de la Main
 
-Le **29 mai 2026**, vers 14h30, **Sébastien GRAZIDE** (informaticien indépendant, SIREN 500 474 457, né le 27 janvier 1982, droitier) a été victime d'un accident de travail au [22 Rue Lafaurie, 09000 Foix](https://www.openstreetmap.org/query?lat=42.9653&lon=1.6074#map=18/42.9653/1.6074), dans un salon de coiffure exploité par la **SAS HB BARBER** (SIRET 104 103 262 00010).
+Le **29 mai 2026**, vers 14h30, **[Sébastien GRAZIDE](./Memory/Tokens/token-victime-prenom.md)** ([informaticien indépendant](./Memory/Tokens/token-victime-id-professionnel.md), SIREN [500 474 457](./Memory/Tokens/token-victime-id-professionnel.md), né le [27 janvier 1982](./Memory/Tokens/token-victime-date-naissance.md), droitier) a été victime d'un accident de travail au **[22 Rue Lafaurie, 09000 Foix](./Memory/Tokens/token-exploitation-adresse.md)**, dans un salon de coiffure exploité par la **[SAS HB BARBER](./Memory/Tokens/token-exploitation-raison-sociale.md)** (SIRET [104 103 262 00010](./Memory/Tokens/token-exploitation-siret.md)).
 
-La blessure — une plaie palmaire droite de 8,5 cm avec section complète des tendons fléchisseurs des 2e et 3e rayons et des 2 nerfs digitaux palmaires de l'index droit — a nécessité une intervention chirurgicale le 30 mai 2026 à la Clinique de l'Union (SOS Main), réalisée par le Dr Iskander DJERBI. L'ITT initiale de 56 jours (23 juillet 2026) a été prolongée jusqu'à l'expertise médico-judiciaire fixée au **29 mai 2027**.
+La blessure — une plaie palmaire droite de 8,5 cm avec section complète des tendons fléchisseurs des 2e et 3e rayons et des 2 nerfs digitaux palmaires de l'index droit — a nécessité une intervention chirurgicale le **[30 mai 2026](./Memory/Tokens/token-j-1-chirurgie.md)** à la **[Clinique de l'Union](./Memory/Tokens/token-hopital-sosmain-nom.md)** (SOS Main), réalisée par le **[Dr Iskander DJERBI](./Memory/Tokens/token-hopital-sosmain-chirurgien.md)**. L'ITT initiale de 56 jours ([23 juillet 2026](./Memory/Tokens/token-j-55-fin-d-itt.md)) a été prolongée jusqu'à l'expertise médico-judiciaire fixée au **[29 mai 2027](./Memory/Tokens/token-j-167-expertise-umj.md)**.
 
-Ce dépôt centralise l'intégralité du dossier : pièces médicales, procès-verbal de police (n° 2026/015967), dossier CPAM (n° 31727387), actes de procédure, analyses juridiques, évaluations Dintilhac, simulations contentieux, et mémoire persistante pour les agents IA.
+Ce dépôt centralise l'intégralité du dossier : pièces médicales, procès-verbal de police ([n° 2026/015967](./Memory/Tokens/token-pv-police-numero.md)), dossier CPAM ([n° 31727387](./Memory/Tokens/token-cpam-dossier-numero.md)), actes de procédure, analyses juridiques, évaluations Dintilhac, simulations contentieux, et mémoire persistante pour les agents IA.
 
 ---
 
 ## Les faits
 
-**Victime.** Sébastien GRAZIDE, 44 ans, informaticien indépendant, exerçant sous le SIREN 500 474 457.
+**Victime.** [Sébastien GRAZIDE](./Memory/Tokens/token-victime-prenom.md), 44 ans, [informaticien indépendant](./Memory/Tokens/token-victime-id-professionnel.md), exerçant sous le SIREN [500 474 457](./Memory/Tokens/token-victime-id-professionnel.md).
 
-**Accident.** Le 29 mai 2026, alors qu'il était assis dans un fauteuil du salon de coiffure du 22 Rue Lafaurie à Foix, la glace du plan de travail s'est effondrée sur sa main droite, provoquant une plaie profonde et des sections tendineuses et nerveuses.
+**Accident.** Le 29 mai 2026, alors qu'il était assis dans un fauteuil du salon de coiffure du **[22 Rue Lafaurie à Foix](./Memory/Tokens/token-exploitation-adresse.md)**, la glace du plan de travail s'est effondrée sur sa main droite, provoquant une plaie profonde et des sections tendineuses et nerveuses.
 
-**Prise en charge médicale.** Transporté au CHIVA (Dispensaire de Foix) puis orienté vers SOS Main à la Clinique de l'Union. Opéré le 30 mai 2026. Le pronostic vital n'a pas été engagé mais la fonction de la main droite (main dominante) reste atteinte.
+**Prise en charge médicale.** Transporté au CHIVA (Dispensaire de Foix) puis orienté vers **[SOS Main](./Memory/Tokens/token-hopital-sosmain-nom.md)** à la **[Clinique de l'Union](./Memory/Tokens/token-hopital-sosmain-nom.md)**. Opéré le [30 mai 2026](./Memory/Tokens/token-j-1-chirurgie.md). Le pronostic vital n'a pas été engagé mais la fonction de la main droite (main dominante) reste atteinte.
 
-**Exploitation.** Au moment de l'accident, l'activité était exploitée par la **SAS LES MAUVAIS GARÇONS** (938 033 222 00010), présidée par Sabir MOUNTASSER, ayant son siège au Lieudit Bourcheminet, 09320 Massat. Cette société a été remplacée post-accident par la **SAS HB BARBER** (104 103 262 00010), présidée par Hamza El Hachemi BERGUIGA, dirigée par Catherine SORROCHE, sise au 22 Rue Lafaurie, 09000 Foix.
+**Exploitation.** Au moment de l'accident, l'activité était exploitée par la **[SAS LES MAUVAIS GARÇONS](./Memory/Tokens/token-ancien-exploitant.md)** ([938 033 222 00010](./Memory/Tokens/token-ancien-exploitation-id.md)), présidée par **[Sabir MOUNTASSER](./Memory/Tokens/token-ancien-president-exploitation.md)**, ayant son siège au Lieudit Bourcheminet, 09320 Massat. Cette société a été remplacée post-accident par la **[SAS HB BARBER](./Memory/Tokens/token-exploitation-raison-sociale.md)** ([104 103 262 00010](./Memory/Tokens/token-exploitation-siret.md)), présidée par **[Hamza El Hachemi BERGUIGA](./Memory/Tokens/token-exploitation-president-nom.md)**, dirigée par **[Catherine SORROCHE](./Memory/Tokens/token-exploitation-dg-nom.md)**, sise au **[22 Rue Lafaurie, 09000 Foix](./Memory/Tokens/token-exploitation-adresse.md)**.
 
 ---
 
@@ -32,23 +32,35 @@ Le dépôt est organisé en dossiers cliquables :
 - **[Actes](./Actes/)** — l'ensemble des pièces et actes du dossier, répartis en trois sous-ensemble :
 
   - [Preuves officielles](./Actes/Preuves%20officielles/) : pièces brutes (CR opératoire, PV police, pièces d'identité, constats)
+
   - [Token](./Actes/Token/) : versions de travail anonymisées (courriers, procédure, analyses juridiques, études indemnisation)
+
   - [Reel](./Actes/Reel/) : versions réelles générées (identités non anonymisées)
 
 - **[Lois](./Lois/)** — textes de loi, codes, jurisprudence cités dans les actes
 
-- **[Memory](./Memory/)** — mémoire persistante partagée entre tous les agents, comprenant :
+- **[Memory](./Memory/)** — mémoire persistante partagée entre tous les agents :
 
   - [VACCIN.md](./Memory/VACCIN.md) (à lire absolument avant toute action)
+
   - [STATUS.md](./Memory/STATUS.md) (état d'avancement détaillé)
+
   - [TODO.md](./Memory/TODO.md) (tâches restantes et priorités)
+
   - [STRICT VARIABLES.md](./Memory/STRICT%20VARIABLES.md) (source unique de vérité — faits, montants, dates)
+
   - [TOKEN MAP.md](./Memory/TOKEN%20MAP.md) (correspondance token ↔ réel)
+
   - [RULES.md](./Memory/RULES.md) (règles permanentes)
+
   - [DECISIONS.md](./Memory/DECISIONS.md) (décisions d'architecture)
+
   - [CONVENTIONS.md](./Memory/CONVENTIONS.md) (conventions de formatage)
+
   - [JURITEXT PROTOCOL.md](./Memory/JURITEXT_PROTOCOL.md) (protocole de vérification des textes de loi)
+
   - [WORKFLOW.md](./Memory/WORKFLOW.md) (procédure d'anonymisation)
+
   - [Tokens](./Memory/Tokens/) (56 fiches individuelles par token)
 
 - **[Rapports](./Rapports/)** — audits, synthèses, évaluations, rapports d'analyse
@@ -103,4 +115,4 @@ Ce dépôt est conçu pour être exploité par des agents IA. Le point d'entrée
 
 ---
 
-*Dossier tenu par Sébastien GRAZIDE — Mise à jour : 22 juillet 2026*
+*Dossier tenu par [Sébastien GRAZIDE](./Memory/Tokens/token-victime-prenom.md) — Mise à jour : 22 juillet 2026*
