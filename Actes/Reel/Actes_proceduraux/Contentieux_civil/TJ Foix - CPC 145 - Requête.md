@@ -75,7 +75,7 @@ Le requérant a été opéré en urgence le **[30 mai 2026](../../../../Memory/T
 
 ### 2 — Démarches amiables et découverte du véritable exploitant
 
-Dans un premier temps, le requérant a cru, de bonne foi, que le salon était exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, enseigne apposée sur le lieu. Il a adressé plusieurs lettres recommandées avec accusé de réception le **[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)** à cette société, à son président et à sa directrice générale, pour solliciter la communication de l'assurance de responsabilité civile professionnelle. Aucune réponse n'est parvenue.
+Dans un premier temps, le requérant a cru, de bonne foi, que le salon était exploité par **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)**. Il a adressé plusieurs lettres recommandées avec accusé de réception le **[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)** à cette société, à son président et à sa directrice générale, pour solliciter la communication de l'assurance de responsabilité civile professionnelle. Aucune réponse n'est parvenue.
 
 Parallèlement, le requérant a écrit le **[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)** à **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**, propriétaire des locaux, lequel a répondu par courriel le 16 juillet 2026 en indiquant que **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** avait quitté les lieux le 10 mars 2026 à la suite d'un état des lieux de sortie, et qu'en conséquence elle n'exploitait plus le salon au moment de l'accident.
 

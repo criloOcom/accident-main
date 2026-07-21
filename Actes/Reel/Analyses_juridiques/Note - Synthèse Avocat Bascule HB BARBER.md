@@ -98,7 +98,7 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BAR
 → C'est cette société qui a été désignée partout (plainte, CPAM, courriers, mairie)
 
 ### Bailleur – **[Romain DELRIEU](../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**
-Propriétaire des locaux du **[22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md)**. Répond par mail le 16/07/2026 à la LRAR du 29 juin : affirme que **[SAS LES MAUVAIS GARÇONS](../../../Memory/Tokens/token-ancien-exploitant.md)** ont cessé au 10/03/2026 (état des lieux de sortie signé), refuse de donner l'assurance.
+Propriétaire des locaux du **[22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md)**. Répond par mail le 16/07/2026 à la LRAR du 29 juin : affirme que **[SAS LES MAUVAIS GARÇONS](../../../Memory/Tokens/token-ancien-exploitant.md)** a cessé au 10/03/2026 (état des lieux de sortie signé), refuse de donner l'assurance.
 
 ### Société réelle – [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SAS)
 **Attestation RNE du 17/07/2026 (DATA INPI) :**
@@ -128,7 +128,7 @@ Propriétaire des locaux du **[22 Rue Lafaurie, 09000 Foix](../../../Memory/Toke
 ### Le problème
 - La plainte et tout le dossier ont été construits contre **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
-- Le bailleur écrit le 16/07/2026 : **[SAS LES MAUVAIS GARÇONS](../../../Memory/Tokens/token-ancien-exploitant.md)** ont quitté les lieux le **10/03/2026** (état des lieux de sortie)
+- Le bailleur écrit le 16/07/2026 : **[SAS LES MAUVAIS GARÇONS](../../../Memory/Tokens/token-ancien-exploitant.md)** a quitté les lieux le **10/03/2026** (état des lieux de sortie)
 
 - [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) a été créée au **même endroit** (22 rue Lafaurie), **même activité** (coiffure/barbier), avec **même DG** (**[Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md)**), début d'activité le **22/04/2026**
 
