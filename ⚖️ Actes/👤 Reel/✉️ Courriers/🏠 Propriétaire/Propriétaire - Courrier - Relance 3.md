@@ -39,7 +39,13 @@ Courriel : [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/TOKEN
 ---
 
 <!-- Objet -->
+
+---
+
 **Objet : Relance LRAR — Correction qualification accident + Demande informations assurances SAS HB BARBER — L.R.A.R.**
+
+---
+
 <!-- /Objet -->
 
 ---
@@ -169,7 +175,9 @@ L'ensemble des pièces et de la procédure vous sera communiqué par transparenc
 
 Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 
+<!-- Signature -->
 Sébastien GRAZIDE (envoi sans signature manuscrite)**
+<!-- /Signature -->
 
 > **NOTE ADMINISTRATIVE** : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la rédaction de la présente par un tiers et les délais d'acheminement de la présente mise en demeure.
 <hr><hr>

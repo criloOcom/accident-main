@@ -53,7 +53,13 @@ BP 40087
 ---
 
 <!-- Objet -->
+
+---
+
 **Objet : Signalement officiel de manquements et demandes d'enquête (travail dissimulé présumé et manquements sociaux) — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
+
+---
+
 <!-- /Objet -->
 
 ---
@@ -148,8 +154,10 @@ Conformément à l'Article 40 du Code de procédure pénale, si les faits consta
 
 Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Président, l'expression de ma considération distinguée.
 
+<!-- Signature -->
 **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 <hr><hr>
+<!-- /Signature -->
 
 <!-- PJ -->
 ## PIÈCES JOINTES

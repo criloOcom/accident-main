@@ -45,7 +45,13 @@ jx: J+47
 ---
 
 <!-- Objet -->
+
+---
+
 **Objet : Saisine de la CADA — Refus de communication de documents administratifs concernant un accident corporel (salon « [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) », Foix)**
+
+---
+
 <!-- /Objet -->
 
 ---

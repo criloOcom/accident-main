@@ -44,7 +44,13 @@ Chemin de la Plaine
 ---
 
 <!-- Objet -->
-**Objet : Demande de communication de mon dossier médical personnel (Loi du 4 mars 2002 — article L. 1111-7 du Code de la santé publique)**  
+
+---
+
+**Objet : Demande de communication de mon dossier médical personnel (Loi du 4 mars 2002 — article L. 1111-7 du Code de la santé publique)**
+
+---
+
 <!-- /Objet -->
 <!-- LRAR -->
 **N° LRAR : [**[N° LRAR CHIVA]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)**

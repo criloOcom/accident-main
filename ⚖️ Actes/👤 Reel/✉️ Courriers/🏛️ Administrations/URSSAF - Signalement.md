@@ -113,8 +113,10 @@ Conformement a l'Article L.8271-1-2 du Code du travail, les agents de l'URSSAF s
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Directeur, l'expression de ma consideration distinguee.
 
+<!-- Signature -->
 **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 <hr><hr>
+<!-- /Signature -->
 
 <!-- PJ -->
 ## PIECES JOINTES

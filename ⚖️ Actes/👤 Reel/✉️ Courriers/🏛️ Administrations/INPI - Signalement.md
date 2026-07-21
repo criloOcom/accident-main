@@ -113,8 +113,10 @@ Mes coordonnees : **[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 
+<!-- Signature -->
 **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 <hr><hr>
+<!-- /Signature -->
 
 <!-- PJ -->
 ## PIECES JOINTES

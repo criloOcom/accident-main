@@ -44,7 +44,13 @@ reel_path: ../../../👤 Reel/✉️ Courriers/📝 Procédure/Consultation - Av
 ---
 
 <!-- Objet -->
+
+---
+
 **Objet : Consultation — Accident corporel 29/05/2026, salon [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (Foix)**
+
+---
+
 <!-- /Objet -->
 
 ---

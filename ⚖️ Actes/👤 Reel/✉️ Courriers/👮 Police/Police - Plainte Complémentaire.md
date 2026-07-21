@@ -46,7 +46,13 @@ jx: J+52
 ---
 
 <!-- Objet -->
+
+---
+
 **Objet : Plainte complémentaire — Accident corporel du 29 mai 2026 — Correction de l'identité de la société exploitante ([SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md))**
+
+---
+
 <!-- /Objet -->
 
 ---

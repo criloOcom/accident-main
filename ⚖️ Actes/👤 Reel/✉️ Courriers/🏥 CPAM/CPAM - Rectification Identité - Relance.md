@@ -45,7 +45,13 @@ Service Recours Contre Tiers
 ---
 
 <!-- Objet -->
+
+---
+
 **Objet : Déclaration rectificative d'accident causé par un tiers – Substitution de la société responsable**
+
+---
+
 <!-- /Objet -->
 
 ---
@@ -82,12 +88,12 @@ En vous remerciant de la prise en compte rapide de cette rectification, je vous 
 
 <!-- Signature -->
 **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+<!-- /Signature -->
 
 <!-- PJ -->
 ## PIÈCES JOINTES :
 
 - [**Erratum officiel de correction d'identité de la société exploitante**](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md) (17/07/2026)
-<!-- /Signature -->
 
 - Justificatif d'immatriculation au RNE de la SAS HB BARBER
 <!-- /PJ -->

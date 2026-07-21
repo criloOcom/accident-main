@@ -36,7 +36,13 @@ jx: J+41
 ---
 
 <!-- Objet -->
+
+---
+
 **Objet :** Opposition à l'immatriculation de toute nouvelle société à **[22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** présentant un lien avec les dirigeants de **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
+
+---
+
 <!-- /Objet -->
 
 ---

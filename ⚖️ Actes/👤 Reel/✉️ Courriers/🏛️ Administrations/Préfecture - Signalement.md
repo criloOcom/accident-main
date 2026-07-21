@@ -140,8 +140,10 @@ Mes coordonnées : **[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%
 
 Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Préfet, l'expression de ma considération distinguée.
 
+<!-- Signature -->
 **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 <hr><hr>
+<!-- /Signature -->
 
 <!-- PJ -->
 ## PIÈCES JOINTES

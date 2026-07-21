@@ -49,5 +49,5 @@ Dans l'attente, je vous prie d'agréer, Docteur, l'expression de mes salutations
 <!-- Auteur -->
 <!-- Signature -->
 **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
-<!-- /Auteur -->
 <!-- /Signature -->
+<!-- /Auteur -->
