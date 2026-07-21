@@ -5,6 +5,7 @@ description: "À L'ATTENTION DE MONSIEUR LE PROCUREUR DE LA RÉPUBLIQUE"
 type: readme
 statut: brouillon
 reel_path: ../../../👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md
+destinataire: Procureur de la République
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [👮 Contentieux penal](./README.md) › 16 ⚠️ Parquet - Signalement Fraude*

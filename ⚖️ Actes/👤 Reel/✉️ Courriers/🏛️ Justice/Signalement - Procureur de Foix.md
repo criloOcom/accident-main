@@ -6,6 +6,7 @@ type: document
 status: brouillon
 reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/Signalement - Procureur de Foix.md
 
+destinataire: Procureur de la République
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Justice › ✉️ Signalement - Procureur de Foix*

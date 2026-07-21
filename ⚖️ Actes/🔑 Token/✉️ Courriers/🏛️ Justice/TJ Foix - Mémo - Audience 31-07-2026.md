@@ -8,6 +8,7 @@ auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/TJ Foix - Mémo - Audience 31-07-2026.md
 jx: J+63
 
+destinataire: Avocat de la Victime
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers](../README.md) › [🏛️ Justice](./README.md) › MEMO AUDIENCE 31072026*
