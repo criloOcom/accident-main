@@ -27,7 +27,7 @@ jx: J+37
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Note%20-%20Erratum%20Correction%20Identit%C3%A9%20Soci%C3%A9t%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 
 
@@ -60,7 +60,7 @@ Je porte par la presente a votre connaissance l'existence d'un litige en cours e
 
 Les procedures suivantes ont ete engagees :
 
-- Depot de plainte et [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20-%20Partie%20Civile.md) (TJ de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**)
+- Depot de plainte et [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md) (TJ de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**)
 
 - Mises en demeure LRAR a la societe et a ses dirigeants (**[29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)**)
 
@@ -77,9 +77,9 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 ## PIECES JOINTES
 
-- **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20-%20Partie%20Civile.md)** — Procedure penale en cours devant le TJ de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
+- **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md)** — Procedure penale en cours devant le TJ de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
 
-- **[Mises en demeure LRAR](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20-%20Partie%20Civile.md)** — Mises en demeure du **[29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)** a la SAS et a ses dirigeants
+- **[Mises en demeure LRAR](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md)** — Mises en demeure du **[29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)** a la SAS et a ses dirigeants
 
 - **[Signalement Inspection du Travail](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20DDETS%20-%20Signalement.md)** — Demande d'enquete aupres de la DDETS 09
 

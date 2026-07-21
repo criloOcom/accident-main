@@ -26,8 +26,8 @@ type: memory
 | 2026-05-30 | — | 🆘 Chirurgie SOS Main — Dr DJERBI | `oitqtiem67dnn3srjdlgpocss4` |
 | 2026-06-01 | — | 📦 Phase 3 (méta) — Arrêt OXYBEL + Plainte Police | `rpo0ttjcjmn5nca373cekjim58` |
 | 2026-06-01 | — | 📄 Arrêt de travail Dr OXYBEL (ITT 56j) | `80v1n6cncli7jmmdphdmufptg4` |
-| 2026-06-01 | Plainte - Défaut Assurance RC.md | 👮 Dépôt plainte initiale — Commissariat Foix | `pj485q1bbc1oq8h9olnschnt4k` |
-| 2026-06-02 | Constitution - Partie Civile.md, ✉️ Saisine - Doyen des Juges d'Instruction.md | 👮 PV Police + Constitution PC + Réquisition | `smthlv0a5arakof0m4rv80qgkc` |
+| 2026-06-01 | Assurance RC - Plainte Défaut.md | 👮 Dépôt plainte initiale — Commissariat Foix | `pj485q1bbc1oq8h9olnschnt4k` |
+| 2026-06-02 | Partie Civile - Constitution.md, ✉️ Doyen des Juges - Saisine.md | 👮 PV Police + Constitution PC + Réquisition | `smthlv0a5arakof0m4rv80qgkc` |
 | 2026-06-03 | ✉️ CPAM - Recours Tiers - Saisine.md | 🏥 Ouverture dossier CPAM RCT | `sb31r6e24kpkbfngc7prgq6em8` |
 | 2026-06-10 | — | 📦 Phase 5 (méta) — Facture SOS Main + Prolongation | `717k7gfv0uonk4vaecl964njus` |
 | 2026-06-10 | — | 🏥 Facture SOS Main 790,23€ | `joe9h29vdia2q2lgaq8cevo05g` |
@@ -44,11 +44,11 @@ type: memory
 | 2026-06-29 | ✉️ SAS - Président - Courrier.md | ✉️📦 LRAR Mise en demeure Président SAS | `dd8qkuvg1t3jquofh93ccnl0lg` |
 | 2026-06-29 | ✉️ Propriétaire - Courrier.md | ✉️📦 LRAR Demande Assurance Bailleur | `qrvadub2s8gekuhgpn0knq8130` |
 | 2026-06-29 | — | 📦 LOT 1 (méta) — 4 LRAR splittées | `197psmj9ngh1amdrmsfaghh96o` |
-| 2026-06-30 | Référé - Assignation Provision.md | ✉️📦 Dépôt TJ Foix — Assignation Référé 835 CPC | `sr9bmf225pfn9fjfn6r4d740a8` |
-| 2026-06-30 | ✉️ Attestation - Témoin Client.md, ✉️ Attestation - Employé.md, ✉️ Attestation - Pompier SAMU.md | 📋 Pièces 22-24 attestations témoins | `gaitgj8isroeqorobg9j9ghf4c` |
+| 2026-06-30 | Référé Provision - Assignation.md | ✉️📦 Dépôt TJ Foix — Assignation Référé 835 CPC | `sr9bmf225pfn9fjfn6r4d740a8` |
+| 2026-06-30 | ✉️ Témoin Client - Attestation.md, ✉️ Employé - Attestation.md, ✉️ Pompier SAMU - Attestation.md | 📋 Pièces 22-24 attestations témoins | `gaitgj8isroeqorobg9j9ghf4c` |
 | 2026-07-03 | — | 🖊 AR signé Bailleur Romain DELRIEU | `k39tgv3sm2lkmi5jpj59b85bvg` |
 | 2026-07-04 | — | 💻 Phase 4 — Injection Drive + Renommage | `n3gm3s3mekv06opfvhmc34lt04` |
-| 2026-07-06 | Requête - Constat Huissier.md | 📸 Requête constat huissier (Art. 145 CPC) | `9pkmrn8fadbta67drfub7dssec` |
+| 2026-07-06 | Constat Huissier - Requête.md | 📸 Requête constat huissier (Art. 145 CPC) | `9pkmrn8fadbta67drfub7dssec` |
 | 2026-07-06 | — | 🔧 Phases 6-10 (correction audit + scellement) | `7urbuje8nfvaq9cci6lddshj9s` |
 | 2026-07-08 | ✉️ SAS - Dirigeants - Courrier - Relance.md | ✉️ LRAR Relance V2 SAS | `hj1d12jfdubeuoavj7sq548i2o` |
 | 2026-07-09 | ✉️ Mairie - Maire de Foix - Courrier.md | ✉️📦 LRAR Mise en demeure Maire de Foix | `gqu5r7mbuh6570913b2nisi7t8` |
@@ -66,14 +66,14 @@ type: memory
 | 2026-07-18 | ✉️ SAS - HB BARBER - Courrier President.md | ✉️📦 LRAR Mise en demeure Président HB BARBER | `euj8kofakfdc2cib6btnqq2ae4` |
 | 2026-07-18 | — | 📦 LOT 2 (méta) — 3 LRAR HB BARBER splittées | `guv07tt1rpkkqba1g6c0m8eap4` |
 | 2026-07-18 | — | 🚧 Phase 32 — Wero & Témoin Ayoub | `mjfern74uv6kvbimfu1og4d3s0` |
-| 2026-07-20 | ✉️ Préfecture - Signalement.md, ✉️ DDETS - Signalement.md, ✉️ CODAF - Signalement.md, ✉️ Plainte - Complémentaire Commissariat Foix.md, Requete Art.145 CPC.md, Requete Art.145 CPC Ordonnance.md | ✉️📋 Courriers 41-44 + 🔴🔴 DÉPÔT FOIX | `tqegc9g9t96hp2td1oo3iqtqd8` / `ncdv7eqhn6njck42v7sdcuelak` |
+| 2026-07-20 | ✉️ Préfecture - Signalement.md, ✉️ DDETS - Signalement.md, ✉️ CODAF - Signalement.md, ✉️ Police - Plainte Complémentaire.md, CPC 145 - Requête.md, CPC 145 - Ordonnance sur Requête.md | ✉️📋 Courriers 41-44 + 🔴🔴 DÉPÔT FOIX | `tqegc9g9t96hp2td1oo3iqtqd8` / `ncdv7eqhn6njck42v7sdcuelak` |
 | 2026-07-22 | — | 📋 Pièces 22-24 attestations témoins | `gaitgj8isroeqorobg9j9ghf4c` |
 | 2026-07-22 | — | 💳 Preuves Wero (PSP) | `jncdk9j4r2022bj9hentqe36oc` |
 | 2026-07-22 | — | 📱 Adresses emails témoins + Dr DJERBI | `ri26kq27dah4q9o5qtm11qfo08` |
 | 2026-07-25 | ✉️🔄 Consolidation.md, 🔄 DrDJERBI Consolidation ✉️Mail.md | 🔄 Relance Dr DJERBI certificat consolidation | `mub8b2p6evslc099cbq9lobcas` |
 | 2026-07-26 | — | 📂 Scanner/télécharger justificatifs | `68tpri9aef5dhtnep20jjdofh0` |
 | 2026-07-28 | ✉️ Mairie - Tavella - Courrier - Relance.md | 📧 Relance Maire Tavella — Suivi saisines | `3cru4itc30uql1k7pr1k6327bs` |
-| 2026-08-01 | ✉️ Demande - Aide Juridictionnelle Totale.md | ⚖️ Décision AJ + Désignation avocat BAJ | `ipivj4ul5rls1hrk1kqh9b0c6c` |
+| 2026-08-01 | ✉️ AJ - Demande Totale.md | ⚖️ Décision AJ + Désignation avocat BAJ | `ipivj4ul5rls1hrk1kqh9b0c6c` |
 | 2026-08-01 | — | 📑 Préparer pièces CIVI (CERFA 16160*01) | `5fi5nr1ugats4kag8ivgu58shs` |
 | 2026-08-15 | ✉️ Police - Vidéos - Relance.md | 🔴🔴 Conservation vidéos (Art. 145 + réquisition) | `shbeqvnj9pp504anq8h8uk6pdc` |
 | 2026-11-12 | — | 🏥 RDV UMJ Purpan — Expertise médico-légale | `suohciave37olojiq54vulo3mo` |
@@ -130,7 +130,7 @@ Ces événements n'ont pas de fichier `.md` correspondant (faits historiques, ph
 | Événements sans fichier | **33** (faits historiques, phases processuelles, rappels, TODO) |
 | Événements avec fichier | **20** (courriers/actes/attestations avec fichier .md) |
 
-> Note: 4 nouvelles méta-phases créées (Phases 3, 5, 6, 8) + 8 événements individuels splittés (4 avec fichier, 5 sans fichier). Les fichiers `✉️ CPAM - Relance.md`, `Plainte - Défaut Assurance RC.md` et `✉️ URSSAF - Signalement.md` pointent désormais vers l'événement individuel correspondant.
+> Note: 4 nouvelles méta-phases créées (Phases 3, 5, 6, 8) + 8 événements individuels splittés (4 avec fichier, 5 sans fichier). Les fichiers `✉️ CPAM - Relance.md`, `Assurance RC - Plainte Défaut.md` et `✉️ URSSAF - Signalement.md` pointent désormais vers l'événement individuel correspondant.
 
 <hr><hr>
 

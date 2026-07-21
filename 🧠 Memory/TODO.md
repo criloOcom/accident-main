@@ -138,7 +138,7 @@ ni contacter des personnes à ta place.
 ### ✅ Phase 30 — Erratum Correction Société (17 juillet 2026)
 | # | Action | Statut |
 |---|--------|--------|
-| 📜 | **Erratum formel créé** (Token + Reel) dans `📋 Preparation Foix/📜 Note - Erratum Correction Identité Société.md` | ✅ FAIT |
+| 📜 | **Erratum formel créé** (Token + Reel) dans `📋 Preparation Foix/📜 Police - Note Erratum Identité.md` | ✅ FAIT |
 | 📝 | Documents Foix mis à jour : Note Personnelle (recentrée HB BARBER), Projet PV (fin corrigée), Bordereau (pièce n°5), Frise (mention) | ✅ FAIT |
 | 🗑️ | Section « Maintien investigations LMG » supprimée — LMG laissée tranquille | ✅ FAIT |
 | 🔄 | 114 fichiers Reel régénérés | ✅ FAIT |
@@ -219,7 +219,7 @@ ni contacter des personnes à ta place.
 | 📅 | **Calendrier Google** — Événement DÉPÔT FOIX déplacé au 27/07/2026 | ✅ FAIT |
 | 📆 | **Mini Calendrier Procedure.md** — Jalons 27/07 ajoutés | ✅ FAIT |
 | 📅 | **Calendrier Procedure.md (Token)** — EVT-16 mis à jour | ✅ FAIT |
-| 📄 | **Note - Projet Déclaration PV Foix.md** — Vérifié aligné (pas de confrontation demandée) | ✅ FAIT |
+| 📄 | **Police - Note Projet Déclaration.md** — Vérifié aligné (pas de confrontation demandée) | ✅ FAIT |
 
 #### Préparation 12 novembre 2026 — UMJ Purpan
 - [ ] Rassembler tous les documents médicaux :
@@ -300,7 +300,7 @@ PHASE 5 — INSTANCE AU FOND (2027)
 ### PLAN A — CORRECTION L.211-26 C. ASSURANCES ✅ TERMINÉ
 
 - L.211-26 supprimé de [`STRATEGIE Contentieux Penal.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20P%C3%A9nal.md) (§2.2, §3.3),
-  [`PLAINTE Complement Defaut Assurance RC.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Plainte%20-%20D%C3%A9faut%20Assurance%20RC.md), scripts Python.
+  [`PLAINTE Complement Defaut Assurance RC.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Assurance%20RC%20-%20Plainte%20D%C3%A9faut.md), scripts Python.
 - Remplacement par signalement de fait + Art. 706-3 CPP + Art. L.124-3 C. assur.
 
 - Règle absolue instaurée : vérification Légifrance avant toute citation.
@@ -377,7 +377,7 @@ PHASE 5 — INSTANCE AU FOND (2027)
 
 ### PHASE 7B — BORDEREAU + JUSTIFICATION PROVISION + EMAILS TÉMOINS ✅ TERMINÉ
 
-- [`04_Bordereau_Audience.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Bordereau%20Unifi%C3%A9.md) créé (25 pièces séquentielles)
+- [`04_Bordereau_Audience.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md) créé (25 pièces séquentielles)
 
 - Assignation 01 enrichie §D (justification provision 5 000 €)
 

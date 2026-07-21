@@ -23,7 +23,7 @@ jx: J+50
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Note%20-%20Erratum%20Correction%20Identit%C3%A9%20Soci%C3%A9t%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 
 
@@ -102,7 +102,7 @@ Je joins à la présente, pour bonne information :
 
 - copie du rapport d'expertise médicale du 12 juin 2027 ;
 
-- copie de ma [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20-%20Partie%20Civile.md) et des actes de procédure déjà engagés ([référé provision](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20-%20Ordonnance%20Projet.md), [ordonnance sur requête art. 145 CPC](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requete%20Art.145%20CPC%20Ordonnance.md)).
+- copie de ma [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md) et des actes de procédure déjà engagés ([référé provision](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md), [ordonnance sur requête art. 145 CPC](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/CPC%20145%20-%20Ordonnance%20sur%20Requ%C3%AAte.md)).
 
 À défaut de réponse écrite et motivée de votre part dans le délai de 30 jours, ou en cas de refus injustifié de garantie, je me verrai contraint de faire valoir l'ensemble de mes droits devant les juridictions compétentes, tant civiles que pénales, en sollicitant notamment l'extension des investigations aux conditions d'assurance de la société **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et la mise en cause de votre responsabilité d'assureur au titre de l'action directe.
 
@@ -130,11 +130,11 @@ Ce courrier est une **simulation** reprenant la structure du draft fourni par l'
 **Document remplacé :** ce document (J+50) se substitue à la précédente mise en demeure assureur (J+31, pré-expertise, désormais archivée).
 
 **Documents liés :**
-- [Constitution de Partie Civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20-%20Partie%20Civile.md) consolidée : [`Constitution - Partie Civile.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20-%20Partie%20Civile.md)
+- [Constitution de Partie Civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md) consolidée : [`Partie Civile - Constitution.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md)
 
 - Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
 
-- Ordonnance de référé provision : [`Référé - Ordonnance Projet.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20-%20Ordonnance%20Projet.md)
+- Ordonnance de référé provision : [`Référé Provision - Ordonnance Projet.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)
 
 - Avis Dintilhac externe : [`📊 Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`](../../../../%F0%9F%93%8A%20Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md)
 ## Sources Législation

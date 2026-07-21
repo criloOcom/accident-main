@@ -25,7 +25,7 @@ statut: projet
 ### I.1 — P0-1 — Index `🚦 Status/` : chemins absolus → relatifs  [SCRIPT]
 - **Cible** : `🚦 Status/01_PREPARATION.md`, `🚦 Status/02_PRET_POUR_ENVOI.md`, `🚦 Status/03_ENVOYE.md`
 
-- **Défaut** : tous les liens internes utilisent des chemins absolus `/⚖️ Actes/...` (ex. `/⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`) → morts sur GitHub/HTML.
+- **Défaut** : tous les liens internes utilisent des chemins absolus `/⚖️ Actes/...` (ex. `/⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`) → morts sur GitHub/HTML.
 
 - **Correction** : remplacer `](/%E2%9A%96%EF%B8%8F%20Actes/%60%20par%20%60%5D%28../%E2%9A%96%EF%B8%8F%20Actes/%60%20%28et%20%60%5D%28/%F0%9F%93%8A%20Rapports/%60%20par%20%60%5D%28../%F0%9F%93%8A%20Rapports/%60%20si%20pr%C3%A9sent).
 
@@ -50,27 +50,27 @@ statut: projet
 
 - **Vérifier** cible existe : [📜 Lois/📜 Jurisprudence/README.md89-18.422_CourCassation.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md) ✅ présent.
 
-### I.4 — P0-4 — `Référé - Assignation Provision.md` : chemins d'annexe  [SCRIPT]
-- **Cibles** : `⚖️ Actes/{🔑 Token,👤 Reel}/⚖️ Actes proceduraux/Référé - Assignation Provision.md` (L106-126, 347-349)
+### I.4 — P0-4 — `Référé Provision - Assignation.md` : chemins d'annexe  [SCRIPT]
+- **Cibles** : `⚖️ Actes/{🔑 Token,👤 Reel}/⚖️ Actes proceduraux/Référé Provision - Assignation.md` (L106-126, 347-349)
 
 - **Correction appliquée (juil. 2026)** : les 3 ANNEXES ont été déplacées dans [📜 Lois/📜 Jurisprudence/](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md) — voir `63-13.613`, `90-14.591`, `11-13.384`.
 
 ### I.5 — P0-5 — `05 Note - Dossier Spécial CERFA.md` : 6 liens `file://` cassés  [MANUEL + SCRIPT]
 - **Cibles** : `⚖️ Actes/{🔑 Token,👤 Reel}/🗂️ Organisation/05 Note - Dossier Spécial CERFA.md` (L43-45)
 
-- **Défaut** : pointe vers `file:///.../✉️ Courriers/26 ✉️ Attestation - Témoin Client.md` etc. → le 📋 est faux (fichiers réels = `📧`) ET `file://` absolu interdit.
+- **Défaut** : pointe vers `file:///.../✉️ Courriers/26 ✉️ Témoin Client - Attestation.md` etc. → le 📋 est faux (fichiers réels = `📧`) ET `file://` absolu interdit.
 
 - **Deux options** :
 
   - (a) Renommer les fichiers cibles `26/27/28 📋 ...` → `26/27/28 📧 ...` (à valider avec l'utilisateur car touche nommage).
-  - (b) Corriger les liens en chemins relatifs `../✉️ Courriers/26 📧✉️ Attestation - Témoin Client.md` (sans `file://`).
-- **Recommandation** : option (b) (non destructif). Les fichiers réels sont `26 📧✉️ Attestation - Témoin Client.md`, `27 📧✉️ Attestation - Pompier SAMU.md`, `28 📧✉️ Attestation - Employé.md` ✅.
+  - (b) Corriger les liens en chemins relatifs `../✉️ Courriers/26 📧✉️ Témoin Client - Attestation.md` (sans `file://`).
+- **Recommandation** : option (b) (non destructif). Les fichiers réels sont `26 📧✉️ Témoin Client - Attestation.md`, `27 📧✉️ Pompier SAMU - Attestation.md`, `28 📧✉️ Employé - Attestation.md` ✅.
 
 ### I.6 — P0-6 — 8 fichiers `statut: final` contenant `[...]`  [MANUEL]
 - **Cibles** :
 
-  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/Référé - Assignation Provision.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20-%20Assignation%20Provision.md)
-  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/Constitution - Partie Civile.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/02b%20Constitution%20-%20Partie%20Civile.md)
+  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/Référé Provision - Assignation.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md)
+  - [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/Partie Civile - Constitution.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/02b%20Partie%20Civile%20-%20Constitution.md)
   - [⚖️ Actes/🔑 Token/✉️ Courriers/✉️ INPI - Signalement.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/31%20%E2%9C%89%EF%B8%8F%20Courrier%20INPI%20Opposition.md)
   - [⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/11%2B12%20%F0%9F%93%8A%20Evaluation%20Dintilhac%20consolidee.md)
   - (et les 4 versions `👤 Reel/`)

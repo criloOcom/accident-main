@@ -48,19 +48,19 @@ Les actes associés (courriers) sont les mêmes que ceux du J+41 Courrier SIE UR
 
 - [✉️ Mairie - Maire de Foix - Courrier](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Maire%20de%20Foix%20-%20Courrier.md)
 
-- [✉️ Opposition - Radiation Tribunal de Commerce](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/%E2%9C%89%EF%B8%8F%20Opposition%20-%20Radiation%20Tribunal%20de%20Commerce.md)
+- [✉️ Tribunal de Commerce - Opposition Radiation](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/%E2%9C%89%EF%B8%8F%20Tribunal%20de%20Commerce%20-%20Opposition%20Radiation.md)
 
 - [✉️ INPI - Immatriculation - Opposition](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20INPI%20-%20Immatriculation%20-%20Opposition.md)
 
 - [✉️ SIE URSSAF - Mutualisation - Courrier](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20SIE%20URSSAF%20-%20Mutualisation%20-%20Courrier.md)
 
-- [✉️ Requête - Constat Huissier Archive](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%97%84%EF%B8%8F%20Archiv%C3%A9/%E2%9C%89%EF%B8%8F%20Requ%C3%AAte%20-%20Constat%20Huissier%20Archive.md)
+- [✉️ Constat Huissier - Requête Archive](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%97%84%EF%B8%8F%20Archiv%C3%A9/%E2%9C%89%EF%B8%8F%20Constat%20Huissier%20-%20Requ%C3%AAte%20Archive.md)
 
 - [Note - Responsabilité des Dirigeants](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/Note%20-%20Responsabilit%C3%A9%20des%20Dirigeants.md)
 
 ## Croisements
 
-- [J+41 Requête Constat 145](token-j-41-requete-constat-145.md) complète la [Requête Art. 145 CPC J+37](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requete%20Art.145%20CPC.md) (même fondement, constat matériel).
+- [J+41 Requête Constat 145](token-j-41-requete-constat-145.md) complète la [Requête Art. 145 CPC J+37](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/CPC%20145%20-%20Requ%C3%AAte.md) (même fondement, constat matériel).
 
 - Liée à [J+0 Accident](token-j-0-accident.md) (vasque) et à [J+41 Courrier SIE URSSAF](token-j-41-courrier-sie-urssaf.md) (même jour).
 

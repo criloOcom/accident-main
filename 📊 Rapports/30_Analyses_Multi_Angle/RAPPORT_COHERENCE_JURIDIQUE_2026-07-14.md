@@ -31,7 +31,7 @@ type: rapport
 
 ### I.2 — Incohérences détectées
 
-- **Haute** : Date d'accident erronée (29/06 au lieu de 29/05) dans `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md` (Action: corriger en 29/05/2026)
+- **Haute** : Date d'accident erronée (29/06 au lieu de 29/05) dans `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md` (Action: corriger en 29/05/2026)
 
 - **Haute** : Date d'accident erronée (29/06 au lieu de 29/05) dans `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md` (Action: corriger en 29/05/2026)
 
@@ -69,7 +69,7 @@ type: rapport
 
 ### III.2 — Incohérences détectées
 
-- **Haute** : Numéro LRAR invalide/non reconnu (870014140507947) dans `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Bordereau Unifié.md` (Action: retirer/corriger ce numéro non reconnu)
+- **Haute** : Numéro LRAR invalide/non reconnu (870014140507947) dans `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md` (Action: retirer/corriger ce numéro non reconnu)
 
 <hr><hr>
 

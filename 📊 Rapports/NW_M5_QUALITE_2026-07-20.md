@@ -25,63 +25,63 @@ Les fichiers suivants contiennent des placeholders non résolus (ex: [À complé
 
 - [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ INPI - Immatriculation - Opposition.md:64` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Employé.md:3` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Employé - Attestation.md:3` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Employé.md:29` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Employé - Attestation.md:29` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Employé.md:33` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Employé - Attestation.md:33` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Employé.md:34` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Employé - Attestation.md:34` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Employé.md:34` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Employé - Attestation.md:34` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Employé.md:35` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Employé - Attestation.md:35` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Employé.md:36` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Employé - Attestation.md:36` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Employé.md:51` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Employé - Attestation.md:51` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Employé.md:51` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Employé - Attestation.md:51` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Témoin Client.md:3` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Témoin Client - Attestation.md:3` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Témoin Client.md:29` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Témoin Client - Attestation.md:29` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Témoin Client.md:33` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Témoin Client - Attestation.md:33` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Témoin Client.md:34` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Témoin Client - Attestation.md:34` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Témoin Client.md:34` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Témoin Client - Attestation.md:34` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Témoin Client.md:35` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Témoin Client - Attestation.md:35` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Témoin Client.md:36` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Témoin Client - Attestation.md:36` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Témoin Client.md:52` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Témoin Client - Attestation.md:52` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Témoin Client.md:52` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Témoin Client - Attestation.md:52` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Pompier SAMU.md:3` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Pompier SAMU - Attestation.md:3` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Pompier SAMU.md:30` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Pompier SAMU - Attestation.md:30` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Pompier SAMU.md:34` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Pompier SAMU - Attestation.md:34` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Pompier SAMU.md:35` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Pompier SAMU - Attestation.md:35` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Pompier SAMU.md:35` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Pompier SAMU - Attestation.md:35` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Pompier SAMU.md:36` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Pompier SAMU - Attestation.md:36` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Pompier SAMU.md:37` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Pompier SAMU - Attestation.md:37` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Pompier SAMU.md:51` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Pompier SAMU - Attestation.md:51` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Attestation - Pompier SAMU.md:51` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/✉️ Pompier SAMU - Attestation.md:51` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/Mémo - Audience 31-07-2026.md:75` — Placeholder trouvé: `[date]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md:75` — Placeholder trouvé: `[date]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/Mémo - Audience 31-07-2026.md:77` — Placeholder trouvé: `[date]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md:77` — Placeholder trouvé: `[date]` — Remplacer par la valeur réelle ou le token approprié
 
 - [ ] **MINEUR** `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/✉️ Signalement - Procureur de Foix.md:23` — Placeholder trouvé: `[Date]` — Remplacer par la valeur réelle ou le token approprié
 
@@ -99,25 +99,25 @@ Les fichiers suivants contiennent des placeholders non résolus (ex: [À complé
 
 - [ ] **MINEUR** `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md:653` — Placeholder trouvé: `XXX` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md:142` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md:142` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md:172` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md:172` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md:172` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md:172` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Conclusions Provision.md:193` — Placeholder trouvé: `[Ville]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md:193` — Placeholder trouvé: `[Ville]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Conclusions Provision.md:193` — Placeholder trouvé: `[date]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md:193` — Placeholder trouvé: `[date]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Requête - Constat Huissier.md:116` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md:116` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Ordonnance Projet.md:62` — Placeholder trouvé: `[date]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Ordonnance Projet.md:62` — Placeholder trouvé: `[date]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md:115` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md:115` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Signalement - Parquet Fraude.md:50` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md:50` — Placeholder trouvé: `[...]` — Remplacer par la valeur réelle ou le token approprié
 
-- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Réquisitoire - Introductif.md:34` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
+- [ ] **MINEUR** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md:34` — Placeholder trouvé: `[À compléter]` — Remplacer par la valeur réelle ou le token approprié
 
 ## 2. Cohérence des Tokens (Oublis de tokens de base)
 

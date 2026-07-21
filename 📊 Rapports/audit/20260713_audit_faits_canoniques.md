@@ -16,7 +16,7 @@ Fichiers scannés : 141
 
 - Extrait : `**29 juin 2026 – Vague de LRAR (J+31)**`
 
-## ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/Mémo - Audience 31-07-2026.md (ligne 78) — ÉCART DATE/DOIGT/CPAM
+## ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md (ligne 78) — ÉCART DATE/DOIGT/CPAM
 - Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains certificats ont cette erreur matérielle.
 
 - Extrait : `| **Mises en demeure LRAR** | ✅ Envoyées 29 juin 2026 (NPAI présumé) |`
@@ -41,27 +41,27 @@ Fichiers scannés : 141
 
 - Extrait : `2. Courriers recommandés du 29 juin 2026 (LMG, dirigeants et bailleur) et nouveaux courriers de mise en demeure du 18 juillet 2026 (SAS HB BARBER, Président et `
 
-## ⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/📋 Note - Personnelle Commissariat Foix.md (ligne 129) — ÉCART DATE/DOIGT/CPAM
+## ⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/📋 Police - Note Personnelle.md (ligne 129) — ÉCART DATE/DOIGT/CPAM
 - Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains certificats ont cette erreur matérielle.
 
 - Extrait : `### 29 juin 2026 — Vague de lettres recommandées (J+31)`
 
-## ⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/📜 Note - Erratum Correction Identité Société.md (ligne 54) — ÉCART DATE/DOIGT/CPAM
+## ⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/📜 Police - Note Erratum Identité.md (ligne 54) — ÉCART DATE/DOIGT/CPAM
 - Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains certificats ont cette erreur matérielle.
 
 - Extrait : `### 29 juin 2026 — Envoi des actes concernés`
 
-## ⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/📜 Note - Erratum Correction Identité Société.md (ligne 102) — ÉCART DATE/DOIGT/CPAM
+## ⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/📜 Police - Note Erratum Identité.md (ligne 102) — ÉCART DATE/DOIGT/CPAM
 - Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains certificats ont cette erreur matérielle.
 
 - Extrait : `**B. Mises en demeure LRAR du 29 juin 2026 :**`
 
-## ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte - Complémentaire Correction.md (ligne 84) — ÉCART DATE/DOIGT/CPAM
+## ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md (ligne 84) — ÉCART DATE/DOIGT/CPAM
 - Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains certificats ont cette erreur matérielle.
 
 - Extrait : `Le **16 juillet 2026**, j'ai reçu un courriel de **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitatio`
 
-## ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV - Audition Plainte Complémentaire Foix.md (ligne 65) — ÉCART DATE/DOIGT/CPAM
+## ⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md (ligne 65) — ÉCART DATE/DOIGT/CPAM
 - Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains certificats ont cette erreur matérielle.
 
 - Extrait : `Premièrement, face au silence de l'exploitant le jour de l'accident, j'ai envoyé des lettres recommandées avec accusé de réception (LRAR) le 29 juin 2026 aux di`

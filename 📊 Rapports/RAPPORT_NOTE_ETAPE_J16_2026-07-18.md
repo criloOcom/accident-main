@@ -95,9 +95,9 @@ La découverte de la SAS **[Le Nouvel Exploitant (HB BARBER)]** (créée le 22 a
 
 Lors de l'exploration du dossier, il a été constaté que plusieurs documents préparatoires comportent des mentions indiquant à tort qu'ils auraient été déposés ou transmis :
 
-- Le document `📋 Bordereau - Pièces Commissariat Foix.md` indique « RÉCIT DES FAITS DÉPOSÉ À L'OPJ » ainsi que « Erratum formel [...] (déposé ce jour + LRAR séparée) ».
+- Le document `📋 Police - Bordereau Pièces.md` indique « RÉCIT DES FAITS DÉPOSÉ À L'OPJ » ainsi que « Erratum formel [...] (déposé ce jour + LRAR séparée) ».
 
-- Le document `📋 Note - Frise Chronologique Foix.md` mentionne « Erratum déposé le même jour + envoyé par LRAR séparée ».
+- Le document `📋 Police - Note Frise Chronologique.md` mentionne « Erratum déposé le même jour + envoyé par LRAR séparée ».
 
 - La demande d'Aide Juridictionnelle (AJ) et le dépôt effectif au tribunal ou commissariat n'ont pas eu lieu comme anticipé mi-juillet.
 

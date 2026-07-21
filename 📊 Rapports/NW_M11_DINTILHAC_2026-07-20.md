@@ -33,7 +33,7 @@ Conformément au §1 (Rapport d'expertise 2027-05-29), les valeurs de référenc
 ### 3.2. `Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
 - Ce document cite le "Rapport d'Évaluation Indemnitaire du 13 juillet 2026", qui précède l'expertise. Il utilise des montants provisionnels et fait référence à des scénarios prudents/médians, ce qui est normal pour un document pré-expertise, mais doit être lu à l'aune des variables strictes si une mise à jour est requise.
 
-## 4. Audit des Conclusions au Fond (`Conclusions au Fond - TJ Foix.md`)
+## 4. Audit des Conclusions au Fond (`TJ Foix - Conclusions au Fond.md`)
 - **Statut :** **COHÉRENT**
 
 - **DFP :** Mentionne correctement "25 200 €" (12 %).
@@ -44,7 +44,7 @@ Conformément au §1 (Rapport d'expertise 2027-05-29), les valeurs de référenc
 
 - Les conclusions sont alignées avec `STRICT VARIABLES.md`.
 
-## 5. Audit des Conclusions Référé Provision (`Référé - Conclusions Provision.md`)
+## 5. Audit des Conclusions Référé Provision (`Référé Provision - Conclusions.md`)
 - **Statut :** **COHÉRENT (Phase provisoire)**
 
 - Le document demande une provision de 15 000 €, ce qui est justifié et cohérent avec `STRICT VARIABLES.md` (MONTANT_PROVISION_AMIABLE: 15 000 €).

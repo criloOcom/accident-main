@@ -54,7 +54,7 @@ Parallèlement, envoi de **12 courriers** :
 
 ## Documents liés
 
-- [✉️ Relance Consolidation](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%E2%9C%89%EF%B8%8F%20Courrier%20-%20Demande%20Consolidation.md)
+- [✉️ Relance Consolidation](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%E2%9C%89%EF%B8%8F%20M%C3%A9decin%20Traitant%20-%20Consolidation%20-%20Demande.md)
 
 - [✉️ Mairie - Tavella - Courrier - Relance](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Tavella%20-%20Courrier%20-%20Relance.md)
 

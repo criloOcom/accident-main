@@ -64,7 +64,7 @@ De nombreuses mentions de dépôt ou transmission ont été intégrées prématu
 - **Action requise :** Intégrer formellement les constats matériels du 16 juillet 2026 dans les assignations (risque de dépérissement des preuves) et cibler explicitement **[Le Nouvel Exploitant (HB BARBER)]**.
 
 ### 3.2. Plaintes Pénales
-- **État actuel :** Un projet de plainte complémentaire (`Plainte - Complémentaire Correction.md`) existe et cite HB BARBER.
+- **État actuel :** Un projet de plainte complémentaire (`Plainte Complémentaire - Correction.md`) existe et cite HB BARBER.
 
 - **Cohérence :** **Partiellement cohérent**. Ce projet mentionne l'enseigne HB BARBER et l'échange avec le dirigeant le 16/07. Il est essentiel de s'assurer qu'il remplace ou complète adéquatement les plaintes antérieures qui visaient uniquement la SAS initiale.
 
@@ -78,14 +78,14 @@ De nombreuses mentions de dépôt ou transmission ont été intégrées prématu
 - **Action requise :** Rédiger de nouvelles correspondances (mises en demeure RC, Inspection du travail, CODAF) visant expressément **[Le Nouvel Exploitant (HB BARBER)]** (SIREN 938 033 222).
 
 ### 3.4. Pièces et Bordereaux
-- **État actuel :** Les photos (fichiers joints du bailleur) et la note de visite ne sont listées que dans des documents de préparation (ex: `📋 Bordereau - Pièces Commissariat Foix.md`).
+- **État actuel :** Les photos (fichiers joints du bailleur) et la note de visite ne sont listées que dans des documents de préparation (ex: `📋 Police - Bordereau Pièces.md`).
 
 - **Cohérence :** **À intégrer**.
 
 - **Action requise :** Incorporer formellement la note de visite du 16/07 et le courriel du bailleur comme pièces fondamentales dans le bordereau de preuves principal de la procédure civile et pénale.
 
 ### 3.5. Erratum
-- **État actuel :** Le document d'erratum (`📜 Note - Erratum Correction Identité Société.md`) a été préparé pour corriger formellement l'identité de l'exploitant de la SAS initiale vers la nouvelle.
+- **État actuel :** Le document d'erratum (`📜 Police - Note Erratum Identité.md`) a été préparé pour corriger formellement l'identité de l'exploitant de la SAS initiale vers la nouvelle.
 
 - **Cohérence :** **Incomplet**. Il doit s'assurer que toutes les plaintes, démarches administratives, et courriers erronés sont listés et annexés de manière à ce que l'erratum couvre toutes les correspondances visant l'ancienne entité.
 

@@ -15,7 +15,7 @@ jx: J+42
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Note%20-%20Erratum%20Correction%20Identit%C3%A9%20Soci%C3%A9t%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 
 
@@ -49,7 +49,7 @@ Sur le plan médical, lors de ma consultation de contrôle du **[23 juin 2026](.
 
 Sur le plan administratif, résidant à **[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**, j'ai fait adresser des mises en demeure par courriers recommandés à [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) à l'adresse de son siège social (**[22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**) le 29 mai 2026. Or, ces courriers m'ont été retournés (mentions défaut d'adresse, distribution impossible).
 
-Par souci de complète transparence avec vos services, je vous informe qu'à cette même date du 29 mai 2026, j'ai également transmis l'intégralité de mon dossier médical (11 pièces — comptes rendus opératoires, certificats médicaux, [arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md), notes médico-légales) ainsi que ma [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20-%20Partie%20Civile.md) et mes conclusions au Procureur de la République près le Tribunal Judiciaire de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** (PV n° [2026/015967](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md)), afin de permettre à l'autorité judiciaire d'apprécier la réalité et l'étendue de mon préjudice corporel dans le cadre de l'enquête préliminaire ouverte.
+Par souci de complète transparence avec vos services, je vous informe qu'à cette même date du 29 mai 2026, j'ai également transmis l'intégralité de mon dossier médical (11 pièces — comptes rendus opératoires, certificats médicaux, [arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md), notes médico-légales) ainsi que ma [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md) et mes conclusions au Procureur de la République près le Tribunal Judiciaire de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** (PV n° [2026/015967](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md)), afin de permettre à l'autorité judiciaire d'apprécier la réalité et l'étendue de mon préjudice corporel dans le cadre de l'enquête préliminaire ouverte.
 
 Pourtant, le commerce a rouvert ses portes le 6 juillet 2026 et paraît en activité régulière, alors même que les registres du RNE (INPI) indiquent que cette SAS est toujours officiellement domiciliée à cette adresse.
 
@@ -60,7 +60,7 @@ Le dossier complet de ma procédure reste à la disposition de vos services. Bie
 Je vous remercie par avance de l'attention que vous voudrez bien porter à ces éléments.
 ## PIECES JOINTES
 
-- **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20-%20Partie%20Civile.md)** — Procedure penale transmise au TJ de Foix
+- **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de Foix
 
 - **[Mises en demeure J+31](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Courrier.md)** — LRAR retournees a l'expediteur (defaut d'adresse)
 

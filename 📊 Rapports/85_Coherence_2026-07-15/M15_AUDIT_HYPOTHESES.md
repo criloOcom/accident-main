@@ -38,7 +38,7 @@ type: rapport
 - [ ] **Vice du contradictoire dans l'expertise**
 
   - **Exposition : MINEUR**
-  - **Analyse :** L'assignation (`⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé - Assignation Provision.md`, l. 286) requiert précisément une « expertise judiciaire contradictoire » (art. 145 CPC). Le mémoire en défense ne relève pas de vice à ce stade, mais demande que l'éventuelle expertise soit aux frais avancés de la demanderesse (`Mémoire - En défense adverse.md`, l. 116).
+  - **Analyse :** L'assignation (`⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`, l. 286) requiert précisément une « expertise judiciaire contradictoire » (art. 145 CPC). Le mémoire en défense ne relève pas de vice à ce stade, mais demande que l'éventuelle expertise soit aux frais avancés de la demanderesse (`Mémoire - En défense adverse.md`, l. 116).
   - **Réponse juridique :** Maintien de la demande d'expertise judiciaire, seule garante du contradictoire.
 
 - [ ] **Limitation au 30 juin (évolution favorable)**

@@ -30,10 +30,10 @@ Cet audit recense les incohérences de dates détectées par rapport aux dates c
 - [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md** : ligne 108
 
   - [CRITIQUE] Date de l'accident erronée (29 juin) — Remplacer par 29 mai 2026.
-- [ ] **⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Conclusions au Fond - TJ Foix.md** : ligne 74
+- [ ] **⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md** : ligne 74
 
   - [MAJEUR] Incohérence relative/absolue (J+10 = 08/06/2026 mais texte dit 1er mars 2027) — Aligner sur J+0 = 29/05/2026.
-- [ ] **⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV - Audition Plainte Complémentaire Foix.md** : ligne 58
+- [ ] **⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md** : ligne 58
 
   - [CRITIQUE] Date de l'accident erronée (29 juin) — Remplacer par 29 mai 2026.
 - [ ] **📊 Rapports/60_Audits_Qualite/RAPPORT_AUDIT_PRIORITES.md** : ligne 154

@@ -39,8 +39,8 @@ EXCLUSIONS_TOKEN = {
     "🗂️ Organisation/Note - Plan Constat Police Foix.md",
     "🗂️ Organisation/Note - Modification Email Maire Foix.md",
     "📂 Preuves officielles/01 📁 Dossier UMJ Preparation.md",
-    "⚖️ Actes proceduraux/16 ⚠️ Signalement - Parquet Fraude.md",
-    "⚖️ Actes proceduraux/17 ⚖️ Requête - Mandataire Ad Hoc.md",
+    "⚖️ Actes proceduraux/16 ⚠️ Parquet - Signalement Fraude.md",
+    "⚖️ Actes proceduraux/17 ⚖️ Mandataire Ad Hoc - Requête.md",
     # Exception 99 — pièce adverse
     "📚 Analyses juridiques/Mémoire - En défense adverse.md",
     # Sans numéro (jamais dans la numérotation)
@@ -75,12 +75,12 @@ MAPPING_RAW = [
 
     # ═══ ⚖️ Actes proceduraux ═══
     ("⚖️ Actes proceduraux", "01 ⚖️ Assignation.md", "J+32 ⚖️ Assignation Refere Provision.md", "2026-06-30"),
-    ("⚖️ Actes proceduraux", "02 🚔 Plainte.md", "J+32 🚔 Plainte - Défaut Assurance RC.md", "2026-06-30"),
-    ("⚖️ Actes proceduraux", "02b Archive - Constitution - Partie Civile.md", "J+38 Archive - Constitution - Partie Civile.md", "2026-07-06"),
-    ("⚖️ Actes proceduraux", "03 🔍 Assignation Article 145.md", "J+47 🔍 Requete Art.145 CPC.md", "2026-07-15"),
-    ("⚖️ Actes proceduraux", "04 📑 Bordereau.md", "J+39 📑 Bordereau Unifié.md", "2026-07-07"),
+    ("⚖️ Actes proceduraux", "02 🚔 Plainte.md", "J+32 🚔 Assurance RC - Plainte Défaut.md", "2026-06-30"),
+    ("⚖️ Actes proceduraux", "02b Archive - Partie Civile - Constitution.md", "J+38 Archive - Partie Civile - Constitution.md", "2026-07-06"),
+    ("⚖️ Actes proceduraux", "03 🔍 Assignation Article 145.md", "J+47 🔍 CPC 145 - Requête.md", "2026-07-15"),
+    ("⚖️ Actes proceduraux", "04 📑 Bordereau.md", "J+39 📑 TJ Foix - TJ Foix - Bordereau Unifié.md", "2026-07-07"),
     ("⚖️ Actes proceduraux", "05 🎯 Conclusions Refere.md", "J+39 🎯 Conclusions Refere Provision.md", "2026-07-07"),
-    ("⚖️ Actes proceduraux", "06 📸 Requête - Constat Huissier.md", "J+38 📸 Requête - Constat Huissier.md", "2026-07-06"),
+    ("⚖️ Actes proceduraux", "06 📸 Constat Huissier - Requête.md", "J+38 📸 Constat Huissier - Requête.md", "2026-07-06"),
     ("⚖️ Actes proceduraux", "07 ⚖️ Projet Ordonnance Refere.md", "J+63 ⚖️ Projet Ordonnance Refere.md", "2026-07-31"),
     ("⚖️ Actes proceduraux", "15 ⚖️ Réquisitoire introductif.md", "J+47 ⚖️ Requisitoire introductif.md", "2026-07-15"),
 
@@ -116,7 +116,7 @@ MAPPING_RAW = [
     ("✉️ Courriers", "30 ✉️ Courrier President TC.md", "J+41 ✉️ Opposition Radiation TC.md", "2026-07-09"),
     ("✉️ Courriers", "31 ✉️ Courrier INPI Opposition.md", "J+41 ✉️ Opposition Immatriculation INPI.md", "2026-07-09"),
     ("✉️ Courriers", "32 ✉️ Courrier SIE URSSAF Mutualisation.md", "J+41 ✉️ Mutualisation Fiscale Sociale.md", "2026-07-09"),
-    ("✉️ Courriers", "33 ✉️ Requête - Constat Huissier 145 CPC.md", "J+41 ✉️ Requête - Constat Huissier.md", "2026-07-09"),
+    ("✉️ Courriers", "33 ✉️ Constat Huissier - Requête 145 CPC.md", "J+41 ✉️ Constat Huissier - Requête.md", "2026-07-09"),
     ("✉️ Courriers", "34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md", "J+42 ✉️ Email Maire Tavella ERP.md", "2026-07-10"),
     ("✉️ Courriers", "35 ✉️ Courrier President TJ Foix.md", "J+44 ✉️ Preuves Complementaires TJ Foix.md", "2026-07-12"),
     ("✉️ Courriers", "36 📋 Antiseche Orale Plainte Complementaire.md", "J+47 📋 Antiseche Orale Plainte.md", "2026-07-15"),

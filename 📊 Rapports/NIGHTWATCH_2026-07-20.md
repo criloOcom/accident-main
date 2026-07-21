@@ -45,9 +45,9 @@ date: 2026-07-20
 | B.4 | Symétrie Token/Reel | ✅ | Traité en A.4. Vérification croisée : tous les fichiers Token/ ont leur équivalent Reel/. |
 | B.5 | URLs Légifrance | ⚠️ | 90+ LEGIARTI/JURITEXT présents dans les URLs des actes. API Légifrance prod 500 — déjà couvert par JURITEXT_PROTOCOL phases 13b/13c. Pas de nouvelle anomalie. |
 | B.6 | Liens YAML | ❌ | **47 violations** — liens markdown dans YAML frontmatter (Règle #25). Script `audit_yaml_links.py` en read-only. Correctif non automatisé. Voir § infra. |
-| B.7 | Placeholders | ⚠️ | 5 fichiers avec `[À compléter]` : 3 attestations témoins (intentionnel, template), `Requête - Constat Huissier.md:116`, `Requisitoire introductif.md:34`. À compléter manuellement. |
+| B.7 | Placeholders | ⚠️ | 5 fichiers avec `[À compléter]` : 3 attestations témoins (intentionnel, template), `Constat Huissier - Requête.md:116`, `Requisitoire introductif.md:34`. À compléter manuellement. |
 | B.8 | TODO.md / STATUS.md | ✅ | Voir Phase C. |
-| B.9 | Bordereau unifié | ✅ | 7 groupes (A→G) présents et cohérents dans `Bordereau Unifié.md`. |
+| B.9 | Bordereau unifié | ✅ | 7 groupes (A→G) présents et cohérents dans `TJ Foix - TJ Foix - Bordereau Unifié.md`. |
 | B.10 | RGPD / Fuites | ✅ | 0 email, 0 téléphone, 0 SIREN réel, 0 nom réel hors pièces signées dans Token/. |
 | B.11 | Rapports | ✅ | 21 rapports dans `📊 Rapports/`. HEALTH_REPORT_2026-07-20.md ajouté. Aucune redondance manifeste. |
 | B.12 | Jurisprudence | ⚠️ | Arrêts cités (99-17.092, 90-14.261, etc.) déjà vérifiés en phases 13b/13c. Liens Légifrance fonctionnels. API légifrance-prod indisponible aujourd'hui (500). |
@@ -89,7 +89,7 @@ date: 2026-07-20
 
 1. **47 liens YAML** (B.6) — correctif manuel, outil `audit_yaml_links.py` disponible pour lister
 
-2. **`[À compléter]` dans Requête - Constat Huissier.md** — template civil à finaliser
+2. **`[À compléter]` dans Constat Huissier - Requête.md** — template civil à finaliser
 
 3. **`[À compléter]` dans Requisitoire introductif.md** — référence parquet à renseigner
 

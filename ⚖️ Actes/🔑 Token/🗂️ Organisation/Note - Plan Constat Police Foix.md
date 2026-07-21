@@ -39,7 +39,7 @@ Vous allez envoyer un courriel officiel et circonstancié au Maire de Foix (Cabi
 ### II.2 — Action 2 : Maintien de la Requête d'Huissier (Art. 145 CPC)
 
 Même si le Maire envoie la police, vous devez maintenir la démarche d'huissier car c'est la seule preuve opposable en droit civil pour votre indemnisation :
-*   **Fichier source** : **[33 ✉️ Requête - Constat Huissier Archive 145 CPC.md](../%F0%9F%97%84%EF%B8%8F%20Archives/33%20%E2%9C%89%EF%B8%8F%20Requ%C3%AAte%20-%20Constat%20Huissier%20145%20CPC.md)**.
+*   **Fichier source** : **[33 ✉️ Constat Huissier - Requête Archive 145 CPC.md](../%F0%9F%97%84%EF%B8%8F%20Archives/33%20%E2%9C%89%EF%B8%8F%20Constat%20Huissier%20-%20Requ%C3%AAte%20145%20CPC.md)**.
 
 *   **Action** : Soumettre la requête au Président du TJ de Foix la semaine prochaine lors de votre déplacement.
 <hr><hr>
@@ -63,7 +63,7 @@ Face au péril grave et imminent de réitération d'un tel accident sur d'autres
 1. Mandater les agents de police municipale ou les services techniques de la mairie pour procéder à un contrôle sur place de la conformité des équipements de ce salon.
 2. Faire constater par vos agents l'identité de l'exploitant réel actuellement en exercice dans ces locaux (vérification de l'affichage obligatoire des mentions légales et du registre public d'accessibilité).
 
-Je me déplace personnellement à Foix la semaine prochaine pour rencontrer les services de police et déposer ma [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20-%20Partie%20Civile.md). Un constat officiel de la situation actuelle de ce commerce par vos services en amont est indispensable pour prévenir tout trouble à la sécurité publique.
+Je me déplace personnellement à Foix la semaine prochaine pour rencontrer les services de police et déposer ma [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md). Un constat officiel de la situation actuelle de ce commerce par vos services en amont est indispensable pour prévenir tout trouble à la sécurité publique.
 
 Je vous remercie de votre proactivité pour la sécurité de vos administrés.
 

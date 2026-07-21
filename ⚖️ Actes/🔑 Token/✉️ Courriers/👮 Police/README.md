@@ -1,21 +1,21 @@
 # Index — 👮 Police (Token)
 
-- [Bordereau - Pièces Commissariat Foix.md](Bordereau%20-%20Pi%C3%A8ces%20Commissariat%20Foix.md)
+- [Police - Bordereau Pièces.md](Police%20-%20Bordereau%20Pi%C3%A8ces.md)
 
-- [Plainte - Complémentaire Commissariat Foix.md](Plainte%20-%20Compl%C3%A9mentaire%20Commissariat%20Foix.md)
+- [Police - Plainte Complémentaire.md](Police%20-%20Plainte%20Compl%C3%A9mentaire.md)
 
-- [Note - Erratum Correction Identité Société.md](Note%20-%20Erratum%20Correction%20Identit%C3%A9%20Soci%C3%A9t%C3%A9.md)
+- [Police - Note Erratum Identité.md](Police%20-%20Note%20Erratum%20Identit%C3%A9.md)
 
-- [Note - Frise Chronologique Foix.md](Note%20-%20Note%20-%20Note%20-%20Note%20-%20Frise%20Chronologique%20Foix.md)
+- [Police - Note Frise Chronologique.md](Note%20-%20Note%20-%20Note%20-%20Police%20-%20Note%20Frise%20Chronologique.md)
 
-- [Note - Personnelle Commissariat Foix.md](Note%20-%20Personnelle%20Commissariat%20Foix.md)
+- [Police - Note Personnelle.md](Police%20-%20Note%20Personnelle.md)
 
-- [Note - Guide Plainte Police.md](Note%20-%20Guide%20Plainte%20Police.md)
+- [Police - Note Guide Plainte.md](Police%20-%20Note%20Guide%20Plainte.md)
 
-- [Note - Guide Plainte Orale Police.md](Note%20-%20Guide%20Plainte%20Orale%20Police.md)
+- [Police - Note Guide Plainte Orale.md](Police%20-%20Note%20Guide%20Plainte%20Orale.md)
 
 - [Police - Vidéos - Relance.md](Police%20-%20Vid%C3%A9os%20-%20Relance.md)
 
-- [Note - Projet Déclaration PV Foix.md](Note%20-%20Projet%20D%C3%A9claration%20PV%20Foix.md)
+- [Police - Note Projet Déclaration.md](Police%20-%20Note%20Projet%20D%C3%A9claration.md)
 
-- [Note - Frise Chronologique Foix](Note%20-%20Frise%20Chronologique%20Foix.md)
+- [Police - Note Frise Chronologique](Police%20-%20Note%20Frise%20Chronologique.md)

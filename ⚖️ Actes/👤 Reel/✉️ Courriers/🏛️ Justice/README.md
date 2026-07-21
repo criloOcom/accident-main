@@ -2,14 +2,14 @@
 
 - [Consultation - Avocat Jimini.md](Consultation%20-%20Avocat%20Jimini.md)
 
-- [Courrier - Preuves Complémentaires TJ Foix.md](Courrier%20-%20Preuves%20Compl%C3%A9mentaires%20TJ%20Foix.md)
+- [Doyen des Juges - Saisine.md](Doyen%20des%20Juges%20-%20Saisine.md)
 
-- [Mémo - Audience 31-07-2026.md](M%C3%A9mo%20-%20Audience%2031-07-2026.md)
-
-- [Opposition - Radiation Tribunal de Commerce.md](Opposition%20-%20Radiation%20Tribunal%20de%20Commerce.md)
-
-- [Saisine - Doyen des Juges d'Instruction.md](Saisine%20-%20Doyen%20des%20Juges%20d%27Instruction.md)
-
-- [Saisine - FGTI.md](Saisine%20-%20FGTI.md)
+- [FGTI - Saisine.md](FGTI%20-%20Saisine.md)
 
 - [Signalement - Procureur de Foix.md](Signalement%20-%20Procureur%20de%20Foix.md)
+
+- [TJ Foix - Courrier - Preuves Complémentaires.md](TJ%20Foix%20-%20Courrier%20-%20Preuves%20Compl%C3%A9mentaires.md)
+
+- [TJ Foix - Mémo - Audience 31-07-2026.md](TJ%20Foix%20-%20M%C3%A9mo%20-%20Audience%2031-07-2026.md)
+
+- [Tribunal de Commerce - Opposition Radiation.md](Tribunal%20de%20Commerce%20-%20Opposition%20Radiation.md)

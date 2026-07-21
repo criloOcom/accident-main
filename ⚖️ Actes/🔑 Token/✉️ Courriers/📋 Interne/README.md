@@ -1,5 +1,5 @@
 # Index — 📋 Interne (Token)
 
-- [Demande - Aide Juridictionnelle Totale.md](Demande%20-%20Aide%20Juridictionnelle%20Totale.md)
+- [AJ - Demande Totale.md](AJ%20-%20Demande%20Totale.md)
 
-- [Note - Guide Demande Aide Juridictionnelle.md](Note%20-%20Guide%20Demande%20Aide%20Juridictionnelle.md)
+- [AJ - Guide Demande.md](AJ%20-%20Guide%20Demande.md)

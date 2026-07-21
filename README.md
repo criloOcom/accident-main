@@ -26,14 +26,14 @@ Pour cette journée, tu as trois démarches physiques majeures à réaliser à F
 #### 1️⃣ Au Tribunal Judiciaire (Greffe Civil)
 * **Action** : Déposer la requête de mesures d'instruction unilatérales pour sauvegarder les vidéos de surveillance du salon.
 
-* **Document à imprimer & signer** : [Requete Art.145 CPC.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requete%20Art.145%20CPC.md)
+* **Document à imprimer & signer** : [CPC 145 - Requête.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/CPC%20145%20-%20Requ%C3%AAte.md)
 
 * **Pièces à joindre** : Prépare le dossier comprenant les 17 pièces listées dans le bordereau de la requête.
 
 #### 2️⃣ Au Tribunal Judiciaire (Bureau d'Aide Juridictionnelle)
 * **Action** : Déposer ton dossier complet de demande d'Aide Juridictionnelle (AJ) totale.
 
-* **Document d'accompagnement** : [✉️ Note - Guide Demande Aide Juridictionnelle.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Interne/Note%20-%20Guide%20Demande%20Aide%20Juridictionnelle.md)
+* **Document d'accompagnement** : [✉️ AJ - Guide Demande.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Interne/AJ%20-%20Guide%20Demande.md)
 
 * **Pièces à joindre** : Tes justificatifs de ressources (déclarations URSSAF, avis d'imposition, etc.).
 
@@ -42,8 +42,8 @@ Pour cette journée, tu as trois démarches physiques majeures à réaliser à F
 
 * **Documents à imprimer & signer** :
 
-   * [✉️ Plainte - Complémentaire Commissariat Foix.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/Plainte%20-%20Compl%C3%A9mentaire%20Commissariat%20Foix.md)
-  * [📜 Note - Erratum Correction Identité Société.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/Note%20-%20Erratum%20Correction%20Identit%C3%A9%20Soci%C3%A9t%C3%A9.md) (à annexer en tant que pièce justificative)
+   * [✉️ Police - Plainte Complémentaire.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/Police%20-%20Plainte%20Compl%C3%A9mentaire.md)
+  * [📜 Police - Note Erratum Identité.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md) (à annexer en tant que pièce justificative)
 * **Pièces à joindre** : Les 8 pièces justificatives listées à la fin de ta plainte complémentaire (comprenant le mail du bailleur et ta note de constatations).
 
 ---
@@ -72,7 +72,7 @@ Voici les prochaines étapes clés de ton dossier à moyen et long termes :
 
 * **Fin juillet / Début août 2026** : Décision du Bureau d'Aide Juridictionnelle et désignation d'office de ton avocat.
 
-* **Courant août 2026** : Prise de contact avec ton avocat pour lancer la signification par huissier de l'[Référé - Assignation Provision.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20-%20Assignation%20Provision.md) à la SAS HB BARBER.
+* **Courant août 2026** : Prise de contact avec ton avocat pour lancer la signification par huissier de l'[Référé Provision - Assignation.md](./%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md) à la SAS HB BARBER.
 
 * **📅 Jeudi 12 novembre 2026 à 13h45** : Rendez-vous obligatoire pour ton expertise médicale à l'**Unité de Médecine Judiciaire (UMJ) de l'Hôpital Purpan** à Toulouse (sur réquisition de police pour fixer l'ITT médico-légale).
 

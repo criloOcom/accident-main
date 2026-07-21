@@ -100,5 +100,5 @@ graph TD
 
 3. **La Chaîne Pénale & Fraudes** :
 
-   - `Plainte Initiale (J+4)` ➔ `Plainte Défaut Assurance RC (J+32)` ➔ `Constitution - Partie Civile (J+38)`.
+   - `Plainte Initiale (J+4)` ➔ `Plainte Défaut Assurance RC (J+32)` ➔ `Partie Civile - Constitution (J+38)`.
    - *Règle* : La constitution de partie civile devant le doyen des juges d'instruction ou le tribunal nécessite d'avoir préalablement déposé une plainte de base.

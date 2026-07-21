@@ -29,7 +29,7 @@ type: readme
 | **`annexes/`** | **ANNEXE A** — Lexique des tokens • **ANNEXE B** — Lois et jurisprudence • **ANNEXE C** — Pièces |
 - [Archive - Fiche Réflexe 48h Victime](Archive%20-%20Fiche%20R%C3%A9flexe%2048h%20Victime.md)
 
-- [33 ✉️ Requête - Constat Huissier Archive 145 CPC](33%20%E2%9C%89%EF%B8%8F%20Requ%C3%AAte%20-%20Constat%20Huissier%20145%20CPC.md)
+- [33 ✉️ Constat Huissier - Requête Archive 145 CPC](33%20%E2%9C%89%EF%B8%8F%20Constat%20Huissier%20-%20Requ%C3%AAte%20145%20CPC.md)
 
 - [Archive - Action Directe Assureur RC](Archive%20-%20Action%20Directe%20Assureur%20RC.md)
 
@@ -39,7 +39,7 @@ type: readme
 
 - [Archive - Analyse Correction Juridique](Archive%20-%20Analyse%20Correction%20Juridique.md)
 
-- [Archive - Constitution - Partie Civile](../⚖️ Actes proceduraux/👮 Contentieux penal/Constitution%20-%20Partie%20Civile.md)
+- [Archive - Partie Civile - Constitution](../⚖️ Actes proceduraux/👮 Contentieux penal/Partie%20Civile%20-%20Constitution.md)
 
 - [Archive - Stratégie Contentieux Civil](Archive%20-%20Strat%C3%A9gie%20Contentieux%20Civil.md)
 

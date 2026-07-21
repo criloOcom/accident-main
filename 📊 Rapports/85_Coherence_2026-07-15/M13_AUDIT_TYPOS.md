@@ -49,7 +49,7 @@ L'expression "suite à" est une faute de français (calque administratif). Elle 
 
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md` — ligne 125
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md` — ligne 224
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md` — ligne 224
 
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md` — lignes 23, 43
 
@@ -71,9 +71,9 @@ L'expression "suite à" est une faute de français (calque administratif). Elle 
 
 - [ ] `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Modification Email Maire Foix.md` — lignes 31, 37
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Signalement - Parquet Fraude.md` — lignes 29, 37
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md` — lignes 29, 37
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/PV - Audition Plainte Complémentaire.md` — ligne 66
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md` — ligne 66
 
 ### II.3 — MINEUR (Ponctuation)
 

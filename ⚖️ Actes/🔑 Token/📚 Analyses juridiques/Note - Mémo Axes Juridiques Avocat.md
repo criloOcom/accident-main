@@ -80,7 +80,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/Note - Mémo Axes Juridiques
 |-------|-------|
 | **CPC art. 145** | Mesure d'instruction in futurum (obtenir bail, états des lieux, polices d'assurance) |
 | **CPC art. 835** | Référé-provision (acompte sur indemnisation) |
-| **CPP art. 475-1** | Frais d'avocat en cas de [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20-%20Partie%20Civile.md) |
+| **CPP art. 475-1** | Frais d'avocat en cas de [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md) |
 
 ### ⑦ TRACE DE PAIEMENT – WERO
 

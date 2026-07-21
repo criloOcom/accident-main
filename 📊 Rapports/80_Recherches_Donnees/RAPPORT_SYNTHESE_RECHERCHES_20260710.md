@@ -73,13 +73,13 @@ type: rapport
 
 ### II.1 — Fichiers Analysés
 
-- [`Référé - Assignation Provision.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20-%20Assignation%20Provision.md) : 12 articles vérifiés
+- [`Référé Provision - Assignation.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md) : 12 articles vérifiés
 
-- [`02 🚔 Plainte.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Plainte%20-%20D%C3%A9faut%20Assurance%20RC.md) : 9 articles vérifiés
+- [`02 🚔 Plainte.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Assurance%20RC%20-%20Plainte%20D%C3%A9faut.md) : 9 articles vérifiés
 
-- [`Constitution - Partie Civile.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20-%20Partie%20Civile.md) : 9 articles vérifiés
+- [`Partie Civile - Constitution.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md) : 9 articles vérifiés
 
-- [`03 🔍 Assignation Article 145.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requete%20Art.145%20CPC.md) : 1 article vérifié
+- [`03 🔍 Assignation Article 145.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/CPC%20145%20-%20Requ%C3%AAte.md) : 1 article vérifié
 
 ### II.2 — Résultats
 
@@ -203,7 +203,7 @@ type: rapport
 
 - [ ] Sélectionner les 5-10 décisions les plus pertinentes
 
-- [ ] Mettre à jour `Référé - Assignation Provision.md` avec les nouvelles références
+- [ ] Mettre à jour `Référé Provision - Assignation.md` avec les nouvelles références
 
 - [ ] Enrichir `02 🚔 Plainte.md` avec la jurisprudence pertinente
 

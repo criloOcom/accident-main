@@ -14,48 +14,48 @@ type: readme
 
 ### [📜 Contentieux civil](%F0%9F%93%9C%20Contentieux%20civil%2FREADME.md)
 
-- [Référé - Assignation Provision.md](%F0%9F%93%9C%20Contentieux%20civil%2FR%C3%A9f%C3%A9r%C3%A9%20-%20Assignation%20Provision.md)
+- [Référé Provision - Assignation.md](%F0%9F%93%9C%20Contentieux%20civil%2FR%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md)
 
-- [Requete Art.145 CPC Ordonnance.md](%F0%9F%93%9C%20Contentieux%20civil%2FRequete%20Art.145%20CPC%20Ordonnance.md)
+- [CPC 145 - Ordonnance sur Requête.md](%F0%9F%93%9C%20Contentieux%20civil%2FCPC%20145%20-%20Ordonnance%20sur%20Requ%C3%AAte.md)
 
-- [Référé - Ordonnance Projet.md](%F0%9F%93%9C%20Contentieux%20civil%2FR%C3%A9f%C3%A9r%C3%A9%20-%20Ordonnance%20Projet.md)
+- [Référé Provision - Ordonnance Projet.md](%F0%9F%93%9C%20Contentieux%20civil%2FR%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)
 
-- [Référé - Conclusions Provision.md](%F0%9F%93%9C%20Contentieux%20civil%2FR%C3%A9f%C3%A9r%C3%A9%20-%20Conclusions%20Provision.md)
+- [Référé Provision - Conclusions.md](%F0%9F%93%9C%20Contentieux%20civil%2FR%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Conclusions.md)
 
-- [Bordereau Unifié.md](%F0%9F%93%9C%20Contentieux%20civil%2FBordereau%20Unifi%C3%A9.md)
+- [TJ Foix - TJ Foix - Bordereau Unifié.md](%F0%9F%93%9C%20Contentieux%20civil%2FTJ%20Foix%20-%20TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md)
 
-- [Conclusions au Fond - TJ Foix.md](%F0%9F%93%9C%20Contentieux%20civil%2FConclusions%20au%20Fond%20-%20TJ%20Foix.md)
+- [TJ Foix - Conclusions au Fond.md](%F0%9F%93%9C%20Contentieux%20civil%2FTJ%20Foix%20-%20Conclusions%20au%20Fond.md)
 
-- [Requête - Constat Huissier.md](%F0%9F%93%9C%20Contentieux%20civil%2FRequ%C3%AAte%20-%20Constat%20Huissier.md)
+- [Constat Huissier - Requête.md](%F0%9F%93%9C%20Contentieux%20civil%2FConstat%20Huissier%20-%20Requ%C3%AAte.md)
 
-- [Requete Art.145 CPC.md](%F0%9F%93%9C%20Contentieux%20civil%2FRequete%20Art.145%20CPC.md)
+- [CPC 145 - Requête.md](%F0%9F%93%9C%20Contentieux%20civil%2FCPC%20145%20-%20Requ%C3%AAte.md)
 
-- [Requête - Mandataire Ad Hoc.md](%F0%9F%93%9C%20Contentieux%20civil%2FRequ%C3%AAte%20-%20Mandataire%20Ad%20Hoc.md)
+- [Mandataire Ad Hoc - Requête.md](%F0%9F%93%9C%20Contentieux%20civil%2FMandataire%20Ad%20Hoc%20-%20Requ%C3%AAte.md)
 
 ### [👮 Contentieux penal](%F0%9F%91%AE%20Contentieux%20penal%2FREADME.md)
 
-- [Réquisitoire - Introductif.md](%F0%9F%91%AE%20Contentieux%20penal%2FR%C3%A9quisitoire%20-%20Introductif.md)
+- [Parquet - Réquisitoire Introductif.md](%F0%9F%91%AE%20Contentieux%20penal%2FParquet%20-%20R%C3%A9quisitoire%20Introductif.md)
 
-- [Plainte - Complémentaire Correction.md](%F0%9F%91%AE%20Contentieux%20penal%2FPlainte%20-%20Compl%C3%A9mentaire%20Correction.md)
+- [Plainte Complémentaire - Correction.md](%F0%9F%91%AE%20Contentieux%20penal%2FPlainte%20Compl%C3%A9mentaire%20-%20Correction.md)
 
-- [PV - Audition Plainte Complémentaire.md](%F0%9F%91%AE%20Contentieux%20penal%2FPV%20-%20Audition%20Plainte%20Compl%C3%A9mentaire.md)
+- [Plainte Complémentaire - PV Audition.md](%F0%9F%91%AE%20Contentieux%20penal%2FPlainte%20Compl%C3%A9mentaire%20-%20PV%20Audition.md)
 
-- [Plainte - Défaut Assurance RC.md](%F0%9F%91%AE%20Contentieux%20penal%2FPlainte%20-%20D%C3%A9faut%20Assurance%20RC.md)
+- [Assurance RC - Plainte Défaut.md](%F0%9F%91%AE%20Contentieux%20penal%2FAssurance%20RC%20-%20Plainte%20D%C3%A9faut.md)
 
-- [PV - Audition Plainte Complémentaire Foix.md](%F0%9F%91%AE%20Contentieux%20penal%2FPV%20-%20Audition%20Plainte%20Compl%C3%A9mentaire%20Foix.md)
+- [Plainte Complémentaire - PV Audition Foix.md](%F0%9F%91%AE%20Contentieux%20penal%2FPlainte%20Compl%C3%A9mentaire%20-%20PV%20Audition%20Foix.md)
 
-- [Constitution - Partie Civile.md](%F0%9F%91%AE%20Contentieux%20penal%2FConstitution%20-%20Partie%20Civile.md)
+- [Partie Civile - Constitution.md](%F0%9F%91%AE%20Contentieux%20penal%2FPartie%20Civile%20-%20Constitution.md)
 
-- [Signalement - Parquet Fraude.md](%F0%9F%91%AE%20Contentieux%20penal%2FSignalement%20-%20Parquet%20Fraude.md)
+- [Parquet - Signalement Fraude.md](%F0%9F%91%AE%20Contentieux%20penal%2FParquet%20-%20Signalement%20Fraude.md)
 
 ### [📋 Preparation Foix](../../%F0%9F%94%91%20Token/README.md)
 
-- [📋 Bordereau - Pièces Commissariat Foix.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Bordereau%20-%20Pi%C3%A8ces%20Commissariat%20Foix.md)
+- [📋 Police - Bordereau Pièces.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Police%20-%20Bordereau%20Pi%C3%A8ces.md)
 
-- [📋 Note - Frise Chronologique Foix.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Note%20-%20Note%20-%20Note%20-%20Note%20-%20Frise%20Chronologique%20Foix.md)
+- [📋 Police - Note Frise Chronologique.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Note%20-%20Note%20-%20Note%20-%20Police%20-%20Note%20Frise%20Chronologique.md)
 
-- [📋 Note - Personnelle Commissariat Foix.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Note%20-%20Personnelle%20Commissariat%20Foix.md)
+- [📋 Police - Note Personnelle.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Police%20-%20Note%20Personnelle.md)
 
-- [📋 Note - Projet Déclaration PV Foix.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Note%20-%20Projet%20D%C3%A9claration%20PV%20Foix.md)
+- [📋 Police - Note Projet Déclaration.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Police%20-%20Note%20Projet%20D%C3%A9claration.md)
 
-- [M%C3%A9mo%20-%20Audience%2031-07-2026.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/M%C3%A9mo%20-%20Audience%2031-07-2026.md)
+- [TJ%20Foix%20-%20TJ%20Foix%20-%20M%C3%A9mo%20-%20Audience%2031-07-2026.md](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/TJ%20Foix%20-%20TJ%20Foix%20-%20M%C3%A9mo%20-%20Audience%2031-07-2026.md)

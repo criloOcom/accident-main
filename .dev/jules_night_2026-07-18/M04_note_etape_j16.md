@@ -14,11 +14,11 @@ Produis un rapport `📊 Rapports/RAPPORT_NOTE_ETAPE_J16_2026-07-18.md` qui est 
 ## MÉTHODE
 
 Relis dans le dossier TOUS les éléments qui documentent la visite à Foix :
-- `📋 Note - Personnelle Commissariat Foix.md`
+- `📋 Police - Note Personnelle.md`
 
-- `📋 Note - Projet Déclaration PV Foix.md`
+- `📋 Police - Note Projet Déclaration.md`
 
-- `📋 Note - Frise Chronologique Foix.md`
+- `📋 Police - Note Frise Chronologique.md`
 
 - Les photos prises sur place (référencées dans le bordereau)
 

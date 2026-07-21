@@ -13,21 +13,22 @@ statut: archive
 auteur: La Victime
 jx: J+41
 reel_path: ../../../👤 Reel/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md
+
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › [🗄️ Archivé](./README.md) › ✉️ Requête - Constat Huissier Archive*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › [🗄️ Archivé](./README.md) › ✉️ Constat Huissier - Requête Archive*
 <hr>
 <!-- /Breadcrumb -->
 
-reel_path: ../../../👤 Reel/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🗄️ Archivé/Constat Huissier - Requête Archive.md
 
 
 
 # ⚠️ FICHIER OBSOLÈTE<br>NE PLUS UTILISER
 
-> Ce fichier a été remplacé par **[Requete Art.145 CPC.md](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/Requete%20Art.145%20CPC.md)** dans `⚖️ Actes proceduraux/`.
+> Ce fichier a été remplacé par **[CPC 145 - Requête.md](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/CPC%20145%20-%20Requ%C3%AAte.md)** dans `⚖️ Actes proceduraux/`.
 >
-> La version archivée est conservée dans **[🗄️ Archives/33 ✉️ Requête - Constat Huissier Archive 145 CPC.md](../../%F0%9F%97%84%EF%B8%8F%20Archives/33%20%E2%9C%89%EF%B8%8F%20Requ%C3%AAte%20-%20Constat%20Huissier%20145%20CPC.md)**.
+> La version archivée est conservée dans **[🗄️ Archives/33 ✉️ Constat Huissier - Requête Archive 145 CPC.md](../../%F0%9F%97%84%EF%B8%8F%20Archives/33%20%E2%9C%89%EF%B8%8F%20Constat%20Huissier%20-%20Requ%C3%AAte%20145%20CPC.md)**.
 >
 > **Raison de l'obsolescence :** La stratégie a évolué — la requête 145 CPC est désormais déposée directement au greffe du TJ (sans huissier). Le fichier 03 🔍 dans Actes proceduraux est la version active à utiliser.
 ## I — Contenu original archivé

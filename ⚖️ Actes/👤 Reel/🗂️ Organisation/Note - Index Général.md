@@ -20,7 +20,7 @@ jx: J+39
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Note%20-%20Erratum%20Correction%20Identit%C3%A9%20Soci%C3%A9t%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 
 
@@ -67,7 +67,7 @@ Partage depuis : **[sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/
 
 - 2026-07-05 - 06 📸 Requête Constat Huissier - V1 ✓ Vérifié : Requête aux fins de constat d'huissier (Art. 145 CPC).
 
-- 2026-07-05 - 07 Archive - Constitution - Partie Civile - V1 ✓ Vérifié : Constitution PC complémentaire avec mises en cause personnelles dirigeants.
+- 2026-07-05 - 07 Archive - Partie Civile - Constitution - V1 ✓ Vérifié : Constitution PC complémentaire avec mises en cause personnelles dirigeants.
 
 > *« Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
 <hr><hr>
@@ -113,11 +113,11 @@ Partage depuis : **[sebastien.grazide@gmail.com](../../../%F0%9F%A7%A0%20Memory/
 
 - 2026-07-05 - 21 ✉️ CPAM - Relance - V1 ✓ Vérifié : Suivi [dossier RCT](../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) 31727387.
 
-- 2026-07-05 - ✉️ Attestation - Témoin Client - V1 ✓ Vérifié : Gabarit d'attestation de témoin.
+- 2026-07-05 - ✉️ Témoin Client - Attestation - V1 ✓ Vérifié : Gabarit d'attestation de témoin.
 
-- 2026-07-05 - 23 ✉️ Attestation - Pompier SAMU - V1 ✓ Vérifié : Gabarit d'attestation d'intervention.
+- 2026-07-05 - 23 ✉️ Pompier SAMU - Attestation - V1 ✓ Vérifié : Gabarit d'attestation d'intervention.
 
-- 2026-07-05 - ✉️ Attestation - Employé - V1 ✓ Vérifié : Gabarit d'attestation d'employé.
+- 2026-07-05 - ✉️ Employé - Attestation - V1 ✓ Vérifié : Gabarit d'attestation d'employé.
 
 - 2026-07-05 - 25 📧 Relance Dr Iskander DJERBI - V1 ✓ Vérifié : Relance demande certificat médical de consolidation.
 
@@ -201,7 +201,7 @@ Documents non indexés conservés dans `archives/` :
 
 - [archives/annexes/](../README.md) — ~~📚 ANNEXE A Lexique Tokens (supprimé — RGPD)~~, [⚖️ ANNEXE B Lois Jurisprudence](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%E2%9A%96%EF%B8%8F%20ANNEXE%20B%20Lois%20Jurisprudence.md), [📑 ANNEXE C Pièces](../%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%F0%9F%93%91%20ANNEXE%20C%20Pieces.md)
 
-- [archives/../⚖️ Actes proceduraux/👮 Contentieux penal/Constitution - Partie Civile.md](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20-%20Partie%20Civile.md)
+- [archives/../⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md)
 
 - [archives/Archive - Action Directe Assureur RC.md](../%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Action%20Directe%20Assureur%20RC.md)
 

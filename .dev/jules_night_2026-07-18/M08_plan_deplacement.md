@@ -16,9 +16,9 @@ Produis un rapport `📊 Rapports/RAPPORT_PLAN_DEPLACEMENT_2026-07-18.md` propos
 Relis les existants :
 - `Archive - Checklist Déplacement Foix.md`
 
-- `📋 Bordereau - Pièces Commissariat Foix.md`
+- `📋 Police - Bordereau Pièces.md`
 
-- `📋 Note - Personnelle Commissariat Foix.md`
+- `📋 Police - Note Personnelle.md`
 
 - Le guide AJ
 

@@ -69,7 +69,7 @@ Voici le détail de la checklist d'audit :
 
 - [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏥 CPAM/✉️ CPAM - Relance.md** : [MAJEUR] l. 84 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/✉️ Opposition - Radiation Tribunal de Commerce.md** : [MAJEUR] l. 97 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/✉️ Tribunal de Commerce - Opposition Radiation.md** : [MAJEUR] l. 97 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
 - [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Mairie/✉️ Mairie - Maire de Foix - Courrier.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
@@ -97,7 +97,7 @@ Voici le détail de la checklist d'audit :
 
 - [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏥 CPAM/✉️ CPAM - Relance.md** : [MAJEUR] l. 84 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Justice/✉️ Opposition - Radiation Tribunal de Commerce.md** : [MAJEUR] l. 97 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Justice/✉️ Tribunal de Commerce - Opposition Radiation.md** : [MAJEUR] l. 97 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
 - [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Mairie/✉️ Mairie - Maire de Foix - Courrier.md** : [MAJEUR] l. 83 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 

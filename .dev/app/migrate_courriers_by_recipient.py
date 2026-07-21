@@ -68,8 +68,8 @@ mv('🚨 Signalements/✉️🚨 SIE.md',                             '🏛️ A
 mv('🚨 Signalements/✉️🚨 URSSAF.md',                          '🏛️ Administrations/✉️🚨 URSSAF.md')
 
 # ── 👥 Témoins ──
-mv('📋 Attestations/Attestation - Témoin Client.md',         '👥 Témoins/Attestation - Témoin Client.md')
-mv('📋 Attestations/Attestation - Témoin Client 📧Mail.md',  '👥 Témoins/Attestation - Témoin Client 📧Mail.md')
+mv('📋 Attestations/Témoin Client - Attestation.md',         '👥 Témoins/Témoin Client - Attestation.md')
+mv('📋 Attestations/Témoin Client - Attestation 📧Mail.md',  '👥 Témoins/Témoin Client - Attestation 📧Mail.md')
 mv('📋 Attestations/📋 Employe.md',               '👥 Témoins/📋 Employe.md')
 mv('📋 Attestations/📋 Employe 📧Mail.md',        '👥 Témoins/📋 Employe 📧Mail.md')
 mv('📋 Attestations/📋 Pompier SAMU.md',           '👥 Témoins/📋 Pompier SAMU.md')
@@ -85,7 +85,7 @@ mv('📝 Procédure/📝 Demande AJ Totale.md',             '📋 Interne/📝 D
 mv('📝 Procédure/📝 Guide Demande AJ.md',              '📋 Interne/📝 Guide Demande AJ.md')
 
 # ── 🗄️ Archivé (inchangé mais déplacé sous Courriers) ──
-# Requête - Constat Huissier stays in 🗄️ Archivé
+# Constat Huissier - Requête stays in 🗄️ Archivé
 
 
 def repo_rel(sub):

@@ -22,7 +22,7 @@ jx: J+47
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Note%20-%20Erratum%20Correction%20Identit%C3%A9%20Soci%C3%A9t%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 
 
@@ -72,4 +72,4 @@ Je vous remercie de l'attention portée à la présente et vous prie d'agréer, 
 
 - **[Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du [J+1]
 
-- **[✉️ Attestation - Témoin Client.md](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/%E2%9C%89%EF%B8%8F%20Attestation%20-%20T%C3%A9moin%20Client.md)** — Attestation sur l'honneur temoin oculaire
+- **[✉️ Témoin Client - Attestation.md](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/%E2%9C%89%EF%B8%8F%20T%C3%A9moin%20Client%20-%20Attestation.md)** — Attestation sur l'honneur temoin oculaire

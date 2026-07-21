@@ -22,9 +22,9 @@ Ce document contient 50 questions d'audit précises destinées à l'agent **open
 
 2. Le prénom « Hamza » (associé au président de HB Barber) apparaît-il encore en clair dans le dossier `🔑 Token/` ?
 
-3. Le nom réel « Catherine SORROCHE » apparaît-il encore en clair dans un document tokenisé (comme `Mémo - Audience 31-07-2026.md` ou `Erratum`) ?
+3. Le nom réel « Catherine SORROCHE » apparaît-il encore en clair dans un document tokenisé (comme `TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md` ou `Erratum`) ?
 
-4. L'adresse email personnelle du bailleur (`romain.delrieu@live.fr`) a-t-elle été anonymisée dans `Note - Personnelle Commissariat Foix.md` ?
+4. L'adresse email personnelle du bailleur (`romain.delrieu@live.fr`) a-t-elle été anonymisée dans `Police - Note Personnelle.md` ?
 
 5. Quelle est l'adresse exacte de la fiche individuelle de token correspondant à `**[Le Prénom du Préposé]**` ?
 
@@ -36,21 +36,21 @@ Ce document contient 50 questions d'audit précises destinées à l'agent **open
 
 9. Le script `batch_anonymize.py` contient-il les règles de substitution pour `"« Ayoub »"` et `"Ayoub"` ?
 
-10. Reste-t-il des mentions de « Ayoub » en clair dans le corps du texte de `Requete Art.145 CPC.md` ?
+10. Reste-t-il des mentions de « Ayoub » en clair dans le corps du texte de `CPC 145 - Requête.md` ?
 
 ---
 
 ## 2. Cibles de Responsabilité — SAS HB BARBER (Q11–Q20)
 
-11. L'introduction de l'acte `Référé - Assignation Provision.md` (ligne 32) vise-t-elle désormais la SAS HB BARBER au lieu de la SAS Les Mauvais Garçons (LMG) ?
+11. L'introduction de l'acte `Référé Provision - Assignation.md` (ligne 32) vise-t-elle désormais la SAS HB BARBER au lieu de la SAS Les Mauvais Garçons (LMG) ?
 
-12. La liste des défendeurs (partie "CONTRE :") dans `Référé - Assignation Provision.md` (lignes 52-56) désigne-t-elle la SAS HB BARBER en premier défendeur ?
+12. La liste des défendeurs (partie "CONTRE :") dans `Référé Provision - Assignation.md` (lignes 52-56) désigne-t-elle la SAS HB BARBER en premier défendeur ?
 
 13. Le président de HB Barber (`[**[Le Président du Nouvel Exploitant]**]`) est-il correctement mentionné en défendeur 2 de l'assignation en référé ?
 
 14. Les adresses respectives de la SAS HB BARBER et de ses dirigeants sont-elles correctement tokenisées dans l'assignation ?
 
-15. La `Requête - Mandataire Ad Hoc.md` vise-t-elle la SAS HB BARBER ou la SAS Les Mauvais Garçons en partie adverse ?
+15. La `Mandataire Ad Hoc - Requête.md` vise-t-elle la SAS HB BARBER ou la SAS Les Mauvais Garçons en partie adverse ?
 
 16. Combien d'occurrences de l'ancienne SAS (LMG) ont été remplacées par la SAS HB Barber dans la Requête Mandataire Ad Hoc ?
 
@@ -60,7 +60,7 @@ Ce document contient 50 questions d'audit précises destinées à l'agent **open
 
 19. L'indemnité d'article 700 demandée dans la Requête Mandataire Ad Hoc condamne-t-elle in solidum la SAS HB BARBER et ses dirigeants ?
 
-20. Existe-t-il un erratum d'identité (`📜 Note - Erratum Correction Identité Société.md`) visant à corriger l'erreur de désignation initiale ?
+20. Existe-t-il un erratum d'identité (`📜 Police - Note Erratum Identité.md`) visant à corriger l'erreur de désignation initiale ?
 
 ---
 
@@ -70,9 +70,9 @@ Ce document contient 50 questions d'audit précises destinées à l'agent **open
 
 22. Combien de fichiers sont actuellement générés dans l'arborescence `⚖️ Actes/👤 Reel/` ?
 
-23. La version Reel de `Plainte - Complémentaire Correction HB BARBER.md` contient-elle encore des tokens non résolus entre crochets ?
+23. La version Reel de `Plainte Complémentaire - Correction HB BARBER.md` contient-elle encore des tokens non résolus entre crochets ?
 
-24. Le document Reel `Référé - Assignation Provision.md` a-t-il vu ses tokens résolus avec les identités réelles uniformisées ?
+24. Le document Reel `Référé Provision - Assignation.md` a-t-il vu ses tokens résolus avec les identités réelles uniformisées ?
 
 25. La valeur réelle de `[N° Transaction Wero]` (`IPR000297029234`) est-elle correctement substituée dans les versions réelles ?
 
