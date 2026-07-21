@@ -4,9 +4,12 @@ Script pour valider les URLs Légifrance dans les métadonnées YAML
 et générer un rapport de complétude.
 """
 
+import logging
 import re
 from pathlib import Path
 from urllib.parse import urlparse
+
+logging.basicConfig(level=logging.INFO, format='%(message)s')
 
 def validate_url_format(url):
     """Valider le format d'une URL Légifrance"""
@@ -48,8 +51,8 @@ def check_yaml_structure(content):
     return True, "YAML valide"
 
 def main():
-    print("🔍 Validation des URLs Légifrance")
-    print("=" * 60)
+    logging.info("🔍 Validation des URLs Légifrance")
+    logging.info("=" * 60)
     
     lois_dir = Path("Lois")
     total_files = 0
@@ -68,22 +71,22 @@ def main():
         
         if is_valid:
             valid_files += 1
-            print(f"✅ {md_file.name} → {message}")
+            logging.info(f"✅ {md_file.name} → {message}")
         else:
-            print(f"❌ {md_file.name} → {message}")
+            logging.info(f"❌ {md_file.name} → {message}")
             invalid_files.append((md_file.name, message))
     
-    print("\n" + "=" * 60)
-    print(f"📊 Résultats de la validation:")
-    print(f"  - Fichiers validés: {valid_files}/{total_files}")
-    print(f"  - Taux de succès: {valid_files/total_files*100:.1f}%")
+    logging.info("\n" + "=" * 60)
+    logging.info(f"📊 Résultats de la validation:")
+    logging.info(f"  - Fichiers validés: {valid_files}/{total_files}")
+    logging.info(f"  - Taux de succès: {valid_files/total_files*100:.1f}%")
     
     if invalid_files:
-        print(f"\n⚠️  Fichiers avec des problèmes:")
+        logging.info(f"\n⚠️  Fichiers avec des problèmes:")
         for filename, error in invalid_files:
-            print(f"  - {filename}: {error}")
+            logging.info(f"  - {filename}: {error}")
     else:
-        print(f"\n🎉 Tous les fichiers ont des métadonnées YAML valides avec des URLs Légifrance!")
+        logging.info(f"\n🎉 Tous les fichiers ont des métadonnées YAML valides avec des URLs Légifrance!")
     
     # Générer un rapport
     report_content = f"""# 📊 Rapport de Validation des URLs Légifrance
@@ -154,7 +157,7 @@ url: [URL officielle Légifrance]
     with open(report_path, 'w', encoding='utf-8') as f:
         f.write(report_content)
     
-    print(f"\n✅ Rapport généré: {report_path}")
+    logging.info(f"\n✅ Rapport généré: {report_path}")
     return len(invalid_files) == 0
 
 if __name__ == "__main__":
