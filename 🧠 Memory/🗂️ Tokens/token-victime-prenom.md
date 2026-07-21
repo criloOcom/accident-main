@@ -30,4 +30,4 @@ Prénom utilisé dans les documents internes (listes de tâches, notes personnel
 
 ## Source
 
-[TOKEN MAP → Personnes physiques](../TOKEN%20MAP.md#token-prenom-de-la-victime)
+TOKEN MAP → Personnes physiques

@@ -23,23 +23,23 @@ calendar_event_id: 9ortbnkvp8it8hnebif5fr4bec
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
 
 # DEMANDE DE MUTUALISATION <br> FISCALE ET SOCIALE URGENTE
 
-[**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
+**[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
 
-Courriel : [**[L'Email de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
+Courriel : **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
 
 **Service des Impots des Entreprises de [La Ville de l'Accident]**
 **URSSAF Midi-Pyrenees**
 
 **[Adresse à compléter]**
 
-[**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le [**[J+41 Courrier SIE URSSAF]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-41-courrier-sie-urssaf.md)
+**[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le **[J+41 Courrier SIE URSSAF](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-41-courrier-sie-urssaf.md)**
 
 Objet : Demande de mutualisation fiscale et sociale urgente — SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)
 
@@ -48,7 +48,7 @@ Ref : SIREN [**[SIREN du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory
 Madame, Monsieur le Responsable,
 ## I — OBJET DE LA DEMANDE
 
-La presente est adressee conjointement a vos deux services par [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), victime d'un accident corporel grave survenu le [**[J+0 Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) (SIREN [**[SIREN du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md), capital 200 €).
+La presente est adressee conjointement a vos deux services par **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) (SIREN [**[SIREN du Nouvel Exploitant]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-siren.md), capital 200 €).
 
 L'accident, cause par la chute du prepose depuis un bac a shampoing en ceramique instable et casse, a entraine des lesions graves de la main droite (section partielle du tendon flechisseur et du paquet vasculo-nerveux de l'index dominant) ayant necessite une microchirurgie d'urgence en SOS Main.
 
@@ -97,20 +97,20 @@ Conformement aux pouvoirs respectifs du SIE (recouvrement des creances fiscales,
 
 L'absence de reponse dans un delai de **quinze jours** a compter de la reception de la presente sera consideree comme un refus implicite et emportera le droit d'engager toute action conservatoire utile devant le juge des referes.
 
-Mes coordonnees : [**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md) — Courriel : [**[L'Email de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
+Mes coordonnees : **[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)** — Courriel : **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 
-[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 <hr><hr>
 
 ## PIECES JOINTES
 
-- **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° Dossier CPAM]
+- **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]
 
 - **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Blessure et intervention chirurgicale d'urgence
 
-- **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — arrêt de travail total de 55 jours
+- **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours
 
 - **[Signalement SIE](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20SIE%20%F0%9F%9A%A8Signalement.md)** — Signalement fiscal adresse au SIE
 

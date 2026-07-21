@@ -61,4 +61,4 @@ Transmission des pièces initiales par **[La Victime]** ([L'Email de la Victime]
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-5-ouverture-cpam)
+TOKEN MAP → Tokens événementiels (J+)

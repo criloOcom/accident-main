@@ -17,7 +17,7 @@ reel_path: ../../../👤 Reel/✉️ Courriers/📋 Interne/✉️ Demande AJ To
 jx: J+50
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [✉️ Courriers (Versions Réelles)](../README.md) › [📋 Interne](./README.md) › ✉️ Demande AJ Totale 📝Document*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 📋 Interne › ✉️ Demande AJ Totale 📝Document*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -30,16 +30,16 @@ jx: J+50
 
 | Champ | Renseignement |
 |-------|---------------|
-| **Nom de naissance** | Sébastien GRAZIDE |
-| **Prénom** | Sébastien |
+| **Nom de naissance** | [Sébastien GRAZIDE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) |
+| **Prénom** | **[Prénom de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-prenom.md)** |
 | **Date de naissance** | 18 janvier 1982 |
-| **Lieu de naissance** | Toulouse |
+| **Lieu de naissance** | [Toulouse](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) |
 | **Nationalité** | Française |
 | **Situation familiale** | Célibataire |
 | **Nombre d'enfants à charge** | 0 |
-| **Adresse** | 10 Avenue de Purpan, 31700 Blagnac |
+| **Adresse** | [10 Avenue de Purpan, 31700 Blagnac](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) |
 | **Téléphone** | **[Téléphone de la Victime]** |
-| **Email** | sebastien.grazide@gmail.com |
+| **Email** | [sebastien.grazide@gmail.com](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) |
 <hr><hr>
 
 ## II — SITUATION PROFESSIONNELLE ET RESSOURCES
@@ -49,7 +49,7 @@ jx: J+50
 
 - **Régime** : Micro-entrepreneur (régime fiscal micro-BNC)
 
-- **N° SIREN** : 500 474 457
+- **N° SIREN** : [500 474 457](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 ### Revenus
 | Type | Montant |
@@ -71,7 +71,7 @@ Demande d'indemnisation pour **accident corporel** — responsabilité civile du
 <hr><hr>
 
 ### Objet principal
-1. **Référé-provision** (Art. 835 C. pr. civ.) : Demande d'une provision de [15 000 €] à valoir sur la réparation des préjudices
+1. **Référé-provision** (Art. 835 C. pr. civ.) : Demande d'une provision de [**[Finance Provision Référé](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md)**] à valoir sur la réparation des préjudices
 
 2. **Expertise médicale judiciaire** (Art. 145 C. pr. civ.) : Désignation d'un expert judiciaire pour évaluer l'intégralité des postes de préjudice corporel
 
@@ -79,16 +79,16 @@ Demande d'indemnisation pour **accident corporel** — responsabilité civile du
 **Tribunal judiciaire de Foix** — Cabinet du Juge des Référés
 
 ### Qualité du demandeur
-Sébastien GRAZIDE, partie **demanderesse**
+[Sébastien GRAZIDE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), partie **demanderesse**
 
 ### Qualité du/des défendeur(s)
-1. SAS HB BARBER, exploitant du salon de coiffure au 22 Rue Lafaurie, 09000 Foix, représenté par ses dirigeants
+1. **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**, exploitant du salon de coiffure au 22 Rue Lafaurie, 09000 Foix, représenté par ses dirigeants
 
-2. SAS HB BARBER, exploitant effectif au jour de l'accident, intervenu volontairement
+2. **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**, exploitant effectif au jour de l'accident, intervenu volontairement
 
-3. Sabir MOUNTASSER, dirigeant
+3. [Sabir MOUNTASSER](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), dirigeant
 
-4. Catherine SORROCHE, dite ANDISSAC, dirigeante
+4. [Catherine SORROCHE, dite ANDISSAC](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), dirigeante
 <hr><hr>
 
 ## IV — URGENCE — DEMANDE DE TRAITEMENT ACCÉLÉRÉ
@@ -136,11 +136,11 @@ Le demandeur sollicite un **traitement accéléré** de sa demande d'AJ pour le 
 Le 29 mai 2026, alors que le demandeur se trouvait dans le salon de coiffure situé au 22 Rue Lafaurie à Foix, un employé de l'établissement est monté sur la vasque en céramique du salon pour régler un téléviseur, en l'absence de tout équipement adapté (escabeau ou marchepied). Sous son poids, la vasque a basculé et s'est brisée dans un mouvement de cisaillement, sectionnant les tendons extenseurs des doigts longs de la main droite de la victime (médicalement : **section complète des tendons extenseurs des doigts II à V**).
 
 ### Attestation sur l'honneur
-Je soussigné, Sébastien GRAZIDE, déclare sur l'honneur que l'ensemble des informations fournies dans le présent formulaire sont exactes et sincères.
+Je soussigné, [Sébastien GRAZIDE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), déclare sur l'honneur que l'ensemble des informations fournies dans le présent formulaire sont exactes et sincères.
 
 Fait pour valoir ce que de droit.
 
-Foix, le 18 juillet 2026
+[Foix](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le 18 juillet 2026
 
 **Signature :**
 <hr><hr>

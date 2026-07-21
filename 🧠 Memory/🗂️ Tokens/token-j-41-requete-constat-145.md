@@ -66,4 +66,4 @@ Les actes associés (courriers) sont les mêmes que ceux du J+41 Courrier SIE UR
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-41-requete-constat-145)
+TOKEN MAP → Tokens événementiels (J+)

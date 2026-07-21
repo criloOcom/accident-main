@@ -12,7 +12,7 @@ On ne remonte QUE des écarts factuels avérés vs les valeurs canoniques.
 import os, re, sys
 from pathlib import Path
 
-ROOT = Path("/home/crilocom/accident-main")
+ROOT = Path(__file__).resolve().parent.parent.parent
 TOKEN = ROOT / "⚖️ Actes/🔑 Token"
 STRICT = ROOT / "🧠 Memory/STRICT VARIABLES.md"
 
@@ -85,7 +85,7 @@ def main():
     lines = ["---",
              'title: "AUDIT FAITS CANONIQUES — Écarts vs STRICT VARIABLES.md"',
              'description: "Audit ciblé des écarts factuels (dates, doigts, CPAM, LRAR) dans ⚖️ Actes/🔑 Token."',
-             "---", "", "# Audit faits canoniques", "",
+             "type: rapport", "date: 2026-07-13", "---", "", "# Audit faits canoniques", "",
              f"Fichiers scannés : {len(list(TOKEN.rglob('*.md')))}",
              f"Écarts détectés : {len(all_hits)}", ""]
     if not all_hits:

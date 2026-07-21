@@ -13,8 +13,10 @@ statut: final
 > **Pièces jointes** (communes aux deux options) :
 > 1. [Mémo de présentation 1 page](./MEMO_AVOCAT_1PAGE.md)
 > 2. [Note de présentation stratégique](../30_Analyses_Multi_Angle/RAPPORT_PRESENTATION_STRATEGIQUE_DOSSIER.md)
-> 3. [Projet de conclusions au fond TJ Foix](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%93%9C%20Conclusions%20au%20Fond%20TJ%20Foix.md)
-> 4. [STRICT VARIABLES (référentiel chiffré)](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md)
+> 3. [Mémoire de synthèse — Recours assurances ERP](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/%F0%9F%93%9C%20M%C3%A9moire%20de%20synth%C3%A8se%20%E2%80%94%20Recours%20assurances%20ERP.md)
+> 4. [Note — Procédure Action Directe Assureur L124-3](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/%F0%9F%93%9C%20Note%20%E2%80%94%20Proc%C3%A9dure%20Action%20Directe%20Assureur%20L124-3.md)
+> 5. [Projet de conclusions au fond TJ Foix](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%F0%9F%93%9C%20Conclusions%20au%20Fond%20TJ%20Foix.md)
+> 6. [STRICT VARIABLES (référentiel chiffré)](../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md)
 <hr><hr>
 
 ## I — Option A — Avocat déjà désigné (AJ)

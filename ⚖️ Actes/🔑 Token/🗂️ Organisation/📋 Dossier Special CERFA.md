@@ -22,7 +22,7 @@ jx: J+40
 
 # DOSSIER SPÉCIAL : FORMULAIRES CERFA APPLICABLES
 
-Dans le cadre du dossier d'accident corporel de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditions de mise en œuvre et les pièces justificatives requises.
+Dans le cadre du dossier d'accident corporel de **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditions de mise en œuvre et les pièces justificatives requises.
 ## I — SYNTHÈSE DES FORMULAIRES CERFA
 
 | Type de Démarche | Formulaire CERFA | Utilité Principale | Destinataire | Statut dans le Dossier |
@@ -65,7 +65,7 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 
 - **Nature des faits** : Blessures involontaires par manquement délibéré ou négligence (caractère pénal de l'accident).
 
-- **Seuil d'ITT** : [**[Prénom de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-prenom.md) présente un arrêt de travail continu de **55 jours**, ce qui dépasse largement le critère légal de **30 jours** (1 mois) d'ITT requis pour la saisine.
+- **Seuil d'ITT** : [**[Prénom de la Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-prenom.md) présente un [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) continu de **55 jours**, ce qui dépasse largement le critère légal de **30 jours** (1 mois) d'ITT requis pour la saisine.
 
 - **Nationalité/Lieu** : Victime française, accident survenu en France.
 
@@ -73,15 +73,15 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 
 1. Le formulaire **CERFA n° 16160*01** dûment rempli, daté et signé.
 
-2. Une copie du dépôt de plainte et du Procès-Verbal de police n° [**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
+2. Une copie du dépôt de plainte et du Procès-Verbal de police n° **N° PV Police**.
 
-3. Le [certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (CMI) constatant les blessures de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md).
+3. Le [certificat médical initial](../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (CMI) constatant les blessures de **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**.
 
-4. Les certificats de prolongation et de reprise d'activité justifiant l'arrêt de travail.
+4. Les certificats de prolongation et de reprise d'activité justifiant l'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
 
-5. Le [compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie rédigé par [**[Le Chirurgien SOS Main]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md).
+5. Le [compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie rédigé par **[Le Chirurgien SOS Main](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)**.
 
-6. Les justificatifs de pertes de revenus (déclarations URSSAF / avis fiscaux de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) en tant qu'indépendant).
+6. Les justificatifs de pertes de revenus (déclarations URSSAF / avis fiscaux de **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** en tant qu'indépendant).
 
 7. Le justificatif de nationalité française (copie de la carte d'identité ou du passeport).
 <hr><hr>

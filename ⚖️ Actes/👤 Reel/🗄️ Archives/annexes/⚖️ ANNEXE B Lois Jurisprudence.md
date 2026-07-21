@@ -7,7 +7,7 @@ reel_path: ../../../👤 Reel/🗄️ Archives/annexes/⚖️ ANNEXE B Lois Juri
 auteur: La Victime
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [🗄️ Archives](../README.md) › [annexes](./README.md) › ⚖️ ANNEXE B Lois Jurisprudence*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [📦 Archives](../README.md) › [📁 annexes](./README.md) › ⚖️ ANNEXE B Lois Jurisprudence*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -15,7 +15,7 @@ reel_path: ../../👤 Reel/🗂️ Organisation/📦 Bon Envoi Physique.md
 jx: J+38
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [👤 Actes / reel — Version réelle](../README.md) › [🗂️ Organisation](./README.md) › 📦 Bon Envoi Physique*
+*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [🗂️ Organisation](./README.md) › 📦 Bon Envoi Physique*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -36,7 +36,7 @@ jx: J+38
 **[LA VILLE DE L'ACCIDENT] — Tribunal Judiciaire de [LA VILLE DE L'ACCIDENT]**
 
 > **À :** Monsieur le Doyen des Juges d'Instruction
-> **Adresse :** Tribunal Judiciaire de [La Ville de l'Accident], [**[Adresse Tribunal Judiciaire]**](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), 09008 [La Ville de l'Accident] Cedex
+> **Adresse :** Tribunal Judiciaire de [La Ville de l'Accident], **Adresse Tribunal Judiciaire**, 09008 [La Ville de l'Accident] Cedex
 > **Mode :** Lettre Recommandée avec Accusé de Réception (LRAR)
 <hr><hr>
 

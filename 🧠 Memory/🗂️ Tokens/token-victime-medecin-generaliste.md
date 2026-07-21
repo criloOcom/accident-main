@@ -38,4 +38,4 @@ Médecin traitant de [La Victime](token-victime-nom-complet.md). A prescrit les 
 
 ## Source
 
-[TOKEN MAP → Personnes physiques](../TOKEN%20MAP.md#token-le-medecin-generaliste)
+TOKEN MAP → Personnes physiques

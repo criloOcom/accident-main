@@ -27,9 +27,9 @@ signataire: "[La Victime] (envoi sans signature manuscrite)"
 # MISE EN DEMEURE AMIABLE<br>RELANCE COMMUNICATION ASSURANCE RC & CORRECTION QUALIFICATIVE "ACCIDENT DU TRAVAIL"
 > 🔗 Source Google Drive : [À COMPLÉTER APRÈS ENVOI]
 
-**[L'Adresse de la Victime]**  
-Courriel : **[L'Email de la Victime]**  
-**[La Ville de Résidence de la Victime]**, le **19 juillet 2026**  
+[**[L'Adresse de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)  
+Courriel : [**[L'Email de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)  
+[**[La Ville de Résidence de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le **19 juillet 2026**  
 **Monsieur [Le Propriétaire des Murs]**  
 **17 Rue de la Baïse, 31120 Roquettes**
 
@@ -56,9 +56,9 @@ Cette lettre fait suite à :
 
 ### 1 — Les faits matériels incontestables
 
-Le **vendredi 29 mai 2026 à 15h00**, je me suis rendu en tant que **client** dans le salon de coiffure exploité au **22 Rue Lafaurie à Foix**. Après la prestation, j'ai payé **[Le Préposé de l'Exploitation]** (tél. **[Le Téléphone du Préposé]**) par Wero (transaction **[N° Transaction Wero]**), puis j'ai quitté les lieux. Moins de cinq minutes plus tard, je suis retourné au salon pour demander une retouche. À mon retour, **le préposé coiffeur [Le Préposé de l'Exploitation]** était monté sur la vasque en céramique du bac à shampoing pour régler **le** téléviseur. En voulant descendre, il a provoqué le basculement de la vasque — qui présentait une **cassure apparente préexistante non signalée** sur son flanc droit. Par réflexe, j'ai tendu la main gauche pour retenir le coiffeur et la main droite pour retenir la vasque. Ma paume droite a heurté l'arête tranchante de cette cassure, provoquant une **section large et très profonde des tissus cutanés et sous-cutanés (plaie de 8,5 cm)** avec **section partielle du tendon fléchisseur superficiel et section totale du paquet vasculo-nerveux collatéral (ulnaire et radial) de l'index droit**.
+Le **vendredi 29 mai 2026 à 15h00**, je me suis rendu en tant que **client** dans le salon de coiffure exploité au **22 Rue Lafaurie à Foix**. Après la prestation, j'ai payé [**[Le Préposé de l'Exploitation]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (tél. **[Le Téléphone du Préposé](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)**) par Wero (transaction [**[N° Transaction Wero]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), puis j'ai quitté les lieux. Moins de cinq minutes plus tard, je suis retourné au salon pour demander une retouche. À mon retour, **le préposé coiffeur [Le Préposé de l'Exploitation]** était monté sur la vasque en céramique du bac à shampoing pour régler **le** téléviseur. En voulant descendre, il a provoqué le basculement de la vasque — qui présentait une **cassure apparente préexistante non signalée** sur son flanc droit. Par réflexe, j'ai tendu la main gauche pour retenir le coiffeur et la main droite pour retenir la vasque. Ma paume droite a heurté l'arête tranchante de cette cassure, provoquant une **section large et très profonde des tissus cutanés et sous-cutanés (plaie de 8,5 cm)** avec **section partielle du tendon fléchisseur superficiel et section totale du paquet vasculo-nerveux collatéral (ulnaire et radial) de l'index droit**.
 
-J'ai été opéré en urgence le **30 mai 2026** (microchirurgie : suture tendineuse, suture microchirurgicale nerfs/vaisseaux, neurolyse). L'arrêt de travail total s'élève à **55 jours**. Le pronostic neurologique est réservé, avec récupération souvent partielle sur plusieurs mois.
+J'ai été opéré en urgence le **30 mai 2026** (microchirurgie : suture tendineuse, suture microchirurgicale nerfs/vaisseaux, neurolyse). L'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total s'élève à **55 jours**. Le pronostic neurologique est réservé, avec récupération souvent partielle sur plusieurs mois.
 
 ### 2 — Correction formelle : je n'ai pas eu d'"accident du travail"
 
@@ -68,7 +68,7 @@ Dans votre email du **16 juillet 2026**, vous qualifiez cet événement d'**"acc
 
 - Je n'ai **aucun lien de subordination** avec l'exploitant du salon, ni avec vous-même.
 
-- J'exerce la profession d'**informaticien indépendant** (SIREN **[L'Identifiant Professionnel de la Victime]**).
+- J'exerce la profession d'**informaticien indépendant** (SIREN [**[L'Identifiant Professionnel de la Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)).
 
 - J'étais **client** de l'établissement, venu pour une prestation de coiffure.
 
@@ -165,7 +165,7 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 
 **[La Victime] (envoi sans signature manuscrite)**
 
-> **NOTE ADMINISTRATIVE** : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la rédaction de la présente par un tiers et les délais d'acheminement de la présente mise en demeure.
+> **NOTE ADMINISTRATIVE** : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la rédaction de la présente par un tiers et les délais d'acheminement de la présente mise en demeure.
 
 <hr><hr>
 
@@ -187,6 +187,6 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 
 [^8]: [Article 56 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
-[^9]: [Arrêt Cour de cassation, 2e chambre civile, 10 mars 2022, n° 20-16.331 — www.legifrance.gouv.fr/juri/id/JURITEXT000068312987](https://www.legifrance.gouv.fr/juri/id/JURITEXT000068312987)
+[^9]: [Arrêt Cour de cassation, 2e chambre civile, 10 mars 2022, n° 20-16.331 — www.legifrance.gouv.fr/juri/id/JURITEXT000045349845](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045349845)
 
-[^10]: [Arrêt Cour de cassation, 2e chambre civile, 3 avril 2025, n° 23-18.568 — www.legifrance.gouv.fr/juri/id/JURITEXT000083214567](https://www.legifrance.gouv.fr/juri/id/JURITEXT000083214567)
+[^10]: [Arrêt Cour de cassation, 2e chambre civile, 3 avril 2025, n° 23-18.568 — www.legifrance.gouv.fr/juri/id/JURITEXT000051464849](https://www.legifrance.gouv.fr/juri/id/JURITEXT000051464849)

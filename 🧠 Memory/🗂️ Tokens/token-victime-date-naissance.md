@@ -44,4 +44,4 @@ Date d'état civil de la victime, reprise dans tous les actes de procédure (ide
 
 ## Source
 
-[TOKEN MAP → Données localisantes / identifiantes](../TOKEN%20MAP.md#token-date-de-naissance-de-la-victime)
+TOKEN MAP → Données localisantes / identifiantes

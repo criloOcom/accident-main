@@ -51,4 +51,4 @@ La main droite reste immobilisée par une attelle palmaire. La victime est droit
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-2-sortie)
+TOKEN MAP → Tokens événementiels (J+)

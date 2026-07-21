@@ -66,4 +66,4 @@ Consultation juridique externe et suivi stratégique du dossier après le dépô
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-40-consultation-suivi)
+TOKEN MAP → Tokens événementiels (J+)

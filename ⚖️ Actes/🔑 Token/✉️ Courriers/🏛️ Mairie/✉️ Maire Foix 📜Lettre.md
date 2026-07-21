@@ -21,33 +21,33 @@ calendar_event_id: gqu5r7mbuh6570913b2nisi7t8
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
 
 # LETTRE RECOMMANDÉE <br> ACCUSÉ DE RÉCEPTION
 
-[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
-[**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
-Courriel : [**[L'Email de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+**[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
+Courriel : **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
 
 **Monsieur le Maire**
-Mairie de [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
+Mairie de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
 45 Cours Gabriel Fauré
-09000 [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
+09000 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
 
-[**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le 9 juillet 2026
+**[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le 9 juillet 2026
 
 **Objet : Demande d'intervention au titre de vos pouvoirs de police administrative – Mise en péril de la sécurité publique au sein de l'établissement [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)**
 
 Monsieur le Maire,
 
-Par la présente, je me permets d'attirer votre attention sur une situation constitutive d'un péril grave et imminent pour la sécurité de vos administrés, au sein de l'établissement exploité par la société [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), sis [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
+Par la présente, je me permets d'attirer votre attention sur une situation constitutive d'un péril grave et imminent pour la sécurité de vos administrés, au sein de l'établissement exploité par la société [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), sis **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** à **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**.
 
 Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein de cet établissement recevant du public (ERP).
 
-Une vasque en céramique lourdement endommagée, ne respectant pas les normes élémentaires de sécurité, a causé des blessures majeures ayant entraîné une intervention chirurgicale en urgence et un arrêt de travail total de 55 jours.
+Une vasque en céramique lourdement endommagée, ne respectant pas les normes élémentaires de sécurité, a causé des blessures majeures ayant entraîné une intervention chirurgicale en urgence et un [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours.
 
 En votre qualité de premier magistrat de la commune, il vous appartient d'assurer le bon ordre, la sûreté, la sécurité et la salubrité publiques. En vertu de l'[article L. 2212-2 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370)[^1], la police municipale a pour objet d'assurer la sécurité et la commodité du passage dans les rues, quais, places et voies publiques, mais également de prévenir les accidents et les fléaux calamiteux au sein des établissements ouverts au public.
 
@@ -71,22 +71,22 @@ Face à la gravité des faits et à la probabilité de réitération d'un tel ac
 
 Il est de la responsabilité de la commune de prévenir tout dommage prévisible découlant de l'exploitation d'un ERP dangereux sur son territoire.
 
-J'attire votre attention sur le fait qu'une procédure pénale est d'ores et déjà ouverte suite à un dépôt de plainte, et qu'une action visant à engager la responsabilité civile de [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) et de ses dirigeants, [**[Le Président de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md), est en cours.
+J'attire votre attention sur le fait qu'une procédure pénale est d'ores et déjà ouverte suite à un dépôt de plainte, et qu'une action visant à engager la responsabilité civile de [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) et de ses dirigeants, **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**, est en cours.
 
 Je vous remercie par avance des diligences que vous voudrez bien accomplir pour garantir la sécurité du public.
 
 Je vous prie de croire, Monsieur le Maire, à l'expression de ma considération distinguée.
 
-[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 ## PIECES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026
 
 - **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Blessures documentees par SOS Main
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr [[**[Le Médecin en Urgence]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md)]
+- **[Certificat medical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr [**[Le Médecin en Urgence](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md)**]
 
-- **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — arrêt de travail total de 55 jours
+- **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours
 <hr><hr>
 
 ## Sources Législation

@@ -70,4 +70,4 @@ type: memory
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-0-accident)
+TOKEN MAP → Tokens événementiels (J+)
