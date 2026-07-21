@@ -30,4 +30,4 @@ Plusieurs liens internes sont cassés (identifiés comme "INTROUVABLE").
 
 ## 5. Problèmes bloquants signalés
 
-- De nombreux liens internes sont cassés, notamment vers `🧠 Memory/TOKEN MAP.md` et `📜 Police - Note Erratum Identité.md`. Il est nécessaire d'exécuter `python3 .dev/app/fix_internal_links.py` pour corriger ces erreurs automatiquement.
+- De nombreux liens internes sont cassés, notamment vers `🧠 Memory/TOKEN MAP.md` et `Police - Note Erratum Identité.md`. Il est nécessaire d'exécuter `python3 .dev/app/fix_internal_links.py` pour corriger ces erreurs automatiquement.

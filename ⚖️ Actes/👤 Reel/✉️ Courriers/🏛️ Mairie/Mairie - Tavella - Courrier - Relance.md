@@ -27,6 +27,9 @@ jx: J+37
 <!-- LRAR -->
 <!-- Objet -->
 <!-- Auteur -->
+<!-- /Source -->
+<!-- /PJ -->
+<!-- /Auteur -->
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Mairie › ✉️ Mairie - Tavella - Courrier - Relance*
@@ -53,7 +56,9 @@ Mairie de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tok
 **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le **[5 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)**
 <!-- /Date -->
 
+---
 Objet : Suite a votre message du 1er juin 2026 — Demande d'information sur les diligences Inspection du Travail et CODAF
+---
 
 Ref : Votre courriel du 1er juin 2026
 

@@ -33,14 +33,17 @@ jx: J+50-bis
 <!-- Objet -->
 <!-- Date -->
 <!-- Destinataire -->
+<!-- /PJ -->
+<!-- /Destinataire -->
 <!-- Auteur -->
+<!-- /Auteur -->
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS - Assureur RC - Courrier (copie Avocat)*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MISE EN DEMEURE ASSUREUR RC
 **Action directe — Réserve de droits — Volet pénal expressément réservé**
@@ -65,7 +68,9 @@ Fait à **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Token
 
 **Lettre recommandée avec accusé de réception**
 
+---
 **Objet :** Mise en demeure — Action directe (art. L. 124-3 C. assur.) — Sinistre corporel du 29 mai 2026 — SAS **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** — Expertise médicale consolidée — Réserves expresses
+---
 
 **Réf. :** Dossier **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** / SAS **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
 
@@ -106,7 +111,7 @@ Ce texte institue un droit propre de la victime à l'encontre de l'assureur, ind
 
 Je dois porter à votre connaissance que, malgré des démarches amiables et judiciaires répétées, la SAS **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et ses dirigeants se refusent à communiquer la moindre attestation d'assurance responsabilité civile professionnelle. Ce silence fait obstacle à l'exercice de l'action directe et constitue une entrave caractérisée aux droits de ma cliente.
 
-Une **information judiciaire** a été ouverte par réquisitoire introductif du Parquet de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** en date du 15 juillet 2026 ([**J+47**](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Parquet%20-%20R%C3%A9quisitoire%20Introductif.md)), des chefs de blessures involontaires et mise en danger d'autrui, avec mission expresse d'investigation sur les conditions d'assurance de la société. Les réquisitions auprès des organismes d'assurance sont en cours.
+Une **information judiciaire** a été ouverte par réquisitoire introductif du Parquet de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** en date du 15 juillet 2026 ([**J+47**](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md)), des chefs de blessures involontaires et mise en danger d'autrui, avec mission expresse d'investigation sur les conditions d'assurance de la société. Les réquisitions auprès des organismes d'assurance sont en cours.
 
 L'obstruction persistante de l'assurée, conjuguée à l'absence de réponse de votre part, justifierait le cas échéant des réquisitions pénales complémentaires visant directement votre compagnie.
 <hr><hr>
@@ -149,11 +154,11 @@ Je joins à la présente l'intégralité des pièces déjà communiquées dans l
 
 - Rapport d'expertise médicale judiciaire du 12 juin 2027 ;
 
-- [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md) ;
+- [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) ;
 
-- [Réquisitoire introductif du Parquet](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Parquet%20-%20R%C3%A9quisitoire%20Introductif.md) ;
+- [Réquisitoire introductif du Parquet](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md) ;
 
-- [Ordonnance de référé provision](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md) et [ordonnance sur requête art. 145 CPC](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/CPC%20145%20-%20Ordonnance%20sur%20Requ%C3%AAte.md).
+- [Ordonnance de référé provision](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md) et [ordonnance sur requête art. 145 CPC](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20CPC%20145%20-%20Ordonnance%20sur%20Requ%C3%AAte.md).
 
 Dans l'attente de votre retour écrit et circonstancié dans le délai imparti, je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.
 
@@ -162,7 +167,7 @@ Dans l'attente de votre retour écrit et circonstancié dans le délai imparti, 
 <hr><hr>
 ### NOTE MÉTHODOLOGIQUE
 
-Variante « avocat » de la mise en demeure adressée à l'assureur RC, destinée à être émise dès la désignation d'un conseil. Principales différences avec la version victime ([J+50](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Assureur%20RC%20-%20Courrier.md)) :
+Variante « avocat » de la mise en demeure adressée à l'assureur RC, destinée à être émise dès la désignation d'un conseil. Principales différences avec la version victime ([J+50](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/SAS%20-%20Assureur%20RC%20-%20Courrier.md)) :
 
 | Élément | Version victime (J+50) | Version avocat (J+50-bis) |
 |---------|----------------------|--------------------------|
@@ -181,9 +186,9 @@ Variante « avocat » de la mise en demeure adressée à l'assureur RC, destiné
 - Référence explicite au réquisitoire J+47 et à l'information judiciaire en cours
 
 **Documents liés :**
-- Version victime : [`✉️ SAS - Assureur RC - Courrier.md`](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Assureur%20RC%20-%20Courrier.md)
+- Version victime : [`SAS - Assureur RC - Courrier.md`](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/SAS%20-%20Assureur%20RC%20-%20Courrier.md)
 
-- Réquisitoire introductif : [`Parquet - Réquisitoire Introductif.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Parquet%20-%20R%C3%A9quisitoire%20Introductif.md)
+- Réquisitoire introductif : [`DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md)
 <!-- Source -->
 <hr><hr>
 

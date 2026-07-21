@@ -28,8 +28,8 @@ type: rapport
 ## 1 — Vérification des fuites RGPD Token (Q1–Q8)
 
 **Q1.** Le prénom « Ayoub » a été signalé comme fuite RGPD dans 2 fichiers Token :
-   - `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-   - `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+   - `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+   - `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
    Vérifie que « Ayoub » a bien été remplacé par `[**[Le Prénom du Préposé]**]` dans ces 2 fichiers. Si encore présent, signale comme NON RÉSOLU.
 
 **Q2.** Le nouveau fichier token `🧠 Memory/🗂️ Tokens/token-prepose-prenom.md` a-t-il été créé ? Son contenu est-il correct (valeur réelle : Ayoub, lien vers token-exploitation-prepose-nom.md) ?
@@ -72,20 +72,20 @@ type: rapport
 **Q15.** Les 2 liens vers d'anciens fichiers numérotés dans STATUS.md :
    - `34 ✉️ EMAIL Maire Foix - Police Municipale ERP.md`
    - `32 ✉️ Courrier SIE URSSAF Mutualisation.md`
-   Pointent-ils désormais vers les fichiers réels (🚨 Signalements/✉️ Préfecture - Signalement.md et 📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md) ?
+   Pointent-ils désormais vers les fichiers réels (🚨 Signalements/CODAF - Préfecture - Signalement.md et 📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md) ?
 
 **Q16.** Le lien vers `RAPPORT_AUDIT_RISQUES.md` dans `TODO.md` a-t-il été corrigé ?
 
-**Q17.** Les liens brisés dans `📊 Rapports/70_Technique_Repo/RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md` vers d'anciens fichiers `01 ⚖️ Assignation.md` pointent-ils désormais vers les fichiers corrects `Référé Provision - Assignation.md` dans 📜 Contentieux civil/ ?
+**Q17.** Les liens brisés dans `📊 Rapports/70_Technique_Repo/RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md` vers d'anciens fichiers `01 ⚖️ Assignation.md` pointent-ils désormais vers les fichiers corrects `TJ Foix - TJ Foix - Référé Provision - Assignation.md` dans 📜 Contentieux civil/ ?
 
 ---
 
 ## 4 — Hérésie procédurale Article 145 (Q18–Q21)
 
-**Q18.** Vérifie que la Requête 145 CPC (`CPC 145 - Requête.md`) ne contient AUCUNE demande de provision. Cherche les mots-clés : « provision », « 15 000 », « 15000 », « 835 », « indemnisation ». Confirme qu'elle ne demande que des mesures d'instruction.
+**Q18.** Vérifie que la Requête 145 CPC (`TJ Foix - TJ Foix - CPC 145 - Requête.md`) ne contient AUCUNE demande de provision. Cherche les mots-clés : « provision », « 15 000 », « 15000 », « 835 », « indemnisation ». Confirme qu'elle ne demande que des mesures d'instruction.
 
 **Q19.** Vérifie que les demandes de provision (15 000 €) sont bien dans des actes SÉPARÉS :
-   - `Référé Provision - Assignation.md` (fondée sur art. 835 al. 2 CPC)
+   - `TJ Foix - TJ Foix - Référé Provision - Assignation.md` (fondée sur art. 835 al. 2 CPC)
    - `TJ Foix - Référé Provision - Ordonnance Projet.md` (fondée sur art. 835 al. 2 CPC)
    Confirme que ces 2 actes existent et sont correctement fondés.
 
@@ -125,7 +125,7 @@ type: rapport
 
 **Q33.** La lettre au Procureur (Reel) mentionne-t-elle explicitement HB BARBER comme exploitant au jour de l'accident ? Vérifie le document.
 
-**Q34.** L'ordonnance projetée 145 CPC mentionne-t-elle HB BARBER (au lieu de LMG) comme destinataire des mesures ? Vérifie le fichier `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`.
+**Q34.** L'ordonnance projetée 145 CPC mentionne-t-elle HB BARBER (au lieu de LMG) comme destinataire des mesures ? Vérifie le fichier `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`.
 
 **Q35.** Les 4 LRAR du 29 juin 2026 sont-elles correctement décrites (destinataires, dates, numéros) dans le bordereau de la requête 145 (pièces n°10→13) ?
 

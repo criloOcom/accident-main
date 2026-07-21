@@ -19,9 +19,10 @@ reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS HB BARBER - 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS HB BARBER - Président - Courrier*
 <hr>
+<!-- /PJ -->
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # LETTRE RECOMMANDÉE — M. LE PRÉSIDENT (DOMICILE PERSONNEL)
 > 🔗 Source Google Drive : [20260718 ✉️ LRAR Hamza El Hachemi BERGUIGA (President)](https://docs.google.com/document/d/1D5UTW7pYf5smzSC5NHE_hsHuya2B-b4UuwDpDe1_C8Y/edit?usp=sharing)
@@ -40,7 +41,9 @@ Président de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0
 **[La Ville de Résidence de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
 <!-- /Date -->
 
+---
 Objet : Demande de communication de l'assurance RC professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — Notification au Président à titre personnel et de représentant légal
+---
 
 Mode d'envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 

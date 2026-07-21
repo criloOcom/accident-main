@@ -24,7 +24,7 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 ### II.1 — TODO List des incohérences détectées
 
-#### II.1.a — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+#### II.1.a — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 389.
 
@@ -34,7 +34,7 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 319.
 
-#### II.1.b — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+#### II.1.b — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 116.
 
@@ -44,7 +44,7 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 119.
 
-#### II.1.c — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+#### II.1.c — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 154.
 
@@ -52,7 +52,7 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **MINEUR** : L'Article L.4121-2 est cité dans la motivation mais n'est pas repris explicitement dans les visas du dispositif à la ligne 144.
 
-#### II.1.e — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+#### II.1.e — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 193.
 
@@ -60,7 +60,7 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 77.
 
-#### II.1.f — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+#### II.1.f — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 47.
 
@@ -72,15 +72,15 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 49.
 
-#### II.1.i — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+#### II.1.i — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 146.
 
-#### II.1.j — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
+#### II.1.j — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 61.
 
-#### II.1.k — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
+#### II.1.k — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 3.
 

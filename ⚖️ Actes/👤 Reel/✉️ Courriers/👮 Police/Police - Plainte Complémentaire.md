@@ -30,6 +30,8 @@ jx: J+52
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👮 Police › ✉️ Police - Plainte Complémentaire*
 <hr>
+<!-- /Source -->
+<!-- /PJ -->
 <!-- /Breadcrumb -->
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident. La présente plainte corrige formellement l'identité de la société exploitante.
@@ -81,7 +83,7 @@ Alors que j'étais installé au niveau d'un bac à shampoing, celui-ci a bascul�
 
 J'ai été transféré et opéré en urgence le lendemain, 30 mai 2026, par le **[Dr Iskander DJERBI](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)**, au service SOS Main de la **[Clinique de l'Union](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)**. L'intervention a consisté notamment en une suture tendineuse (6 brins) et une suture microchirurgicale des nerfs et vaisseaux avec neurolyse d'urgence. Le chirurgien m'a indiqué un pronostic de récupération neurologique d'au moins un an, avec un résultat souvent partiel s'agissant d'une suture nerveuse.
 
-Le coiffeur qui m'a pris en charge ce jour-là s'est présenté sous le prénom **[Ayoub](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-prepose-prenom.md)**. Les relevés de l'application de paiement Wero font apparaître que le 29 mai 2026 à 15h20, j'ai adressé un paiement de 15,00 € à [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (tél. **[07 58 40 12 87](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)**), avec le message « coif » (référence transaction [IPR000297029234](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)). Ces éléments permettent de l'identifier formellement comme le coiffeur préposé / encaisseur présent au moment des faits, liant contractuellement la coupe à l'accident et attestant de ma présence au salon. Il est en outre le témoin direct clé sur le déroulement de l'accident (sa propre manœuvre sur le bac à shampoing, le basculement du meuble, la coupure profonde, la gravité immédiate de la plaie, l'appel du SAMU/pompiers, et l'état de la vasque).
+Le coiffeur qui m'a pris en charge ce jour-là s'est présenté sous le prénom **[Ayoub](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-prepose-prenom.md)**. Les relevés de l'application de paiement Wero font apparaître que le 29 mai 2026 à 15h20, j'ai adressé un paiement de 15,00 € à [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23personnes-physiques) (tél. **[07 58 40 12 87](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)**), avec le message « coif » (référence transaction [IPR000297029234](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23donnees-localisantes)). Ces éléments permettent de l'identifier formellement comme le coiffeur préposé / encaisseur présent au moment des faits, liant contractuellement la coupe à l'accident et attestant de ma présence au salon. Il est en outre le témoin direct clé sur le déroulement de l'accident (sa propre manœuvre sur le bac à shampoing, le basculement du meuble, la coupure profonde, la gravité immédiate de la plaie, l'appel du SAMU/pompiers, et l'état de la vasque).
 
 Je travaille à mon compte comme informaticien indépendant. Ma main droite étant ma main dominante, cette blessure me paralyse dans mon travail et a des conséquences importantes sur ma situation professionnelle et financière.
 <hr><hr>
@@ -154,15 +156,15 @@ Ces éléments sont de nature à caractériser un risque de disparition ou d'alt
 
 À la suite de la découverte de la SAS **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, j'ai adressé le 18 juillet 2026 de nouvelles lettres recommandées de mise en demeure afin d'obtenir la communication des coordonnées de leur assureur responsabilité civile professionnelle à :
 
-- La **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (Siège social) : LRAR n° [87500152771696F](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (`87500152771696F`) ;
+- La **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (Siège social) : LRAR n° [87500152771696F](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23donnees-localisantes) (`87500152771696F`) ;
 
-- M. [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) (Président, domicile personnel) : LRAR n° [875001528942001](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (`875001528942001`) ;
+- M. [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) (Président, domicile personnel) : LRAR n° [875001528942001](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23donnees-localisantes) (`875001528942001`) ;
 
-- Mme **[Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** (Directrice Générale, domicile personnel) : LRAR n° [875001528942010](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (`875001528942010`).
+- Mme **[Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** (Directrice Générale, domicile personnel) : LRAR n° [875001528942010](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23donnees-localisantes) (`875001528942010`).
 
-De même, j'ai relancé le propriétaire bailleur **[Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** par une 3e LRAR le 19 juillet 2026 (LRAR n° [87500152910287Q](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) afin d'obtenir des explications sur les assurances de l'immeuble et la situation de **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**.
+De même, j'ai relancé le propriétaire bailleur **[Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** par une 3e LRAR le 19 juillet 2026 (LRAR n° [87500152910287Q](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23donnees-localisantes)) afin d'obtenir des explications sur les assurances de l'immeuble et la situation de **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**.
 
-Enfin, une demande de dossier médical a été envoyée au GHT des Pyrénées Ariégeoises CHIVA le 18 juillet 2026 (LRAR n° [87500152888336B](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)).
+Enfin, une demande de dossier médical a été envoyée au GHT des Pyrénées Ariégeoises CHIVA le 18 juillet 2026 (LRAR n° [87500152888336B](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23donnees-localisantes)).
 
 Tous ces plis ont été pris en charge par La Poste les 18 et 19 juillet 2026. Copies de ces lettres et des bordereaux d'envoi sont versées aux pièces de la présente plainte.
 
@@ -236,7 +238,7 @@ Que les faits déjà décrits dans ma plainte initiale (accident provoqué par u
   - attestations d'assurance de responsabilité civile professionnelle de la **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** en vigueur au 29 mai 2026,
   - le cas échéant, attestations d'assurance du bailleur pour l'immeuble concerné.
 
-### 5.4 — Audition de [[Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)] (coiffeur présent au moment des faits)
+### 5.4 — Audition de [[Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23personnes-physiques)] (coiffeur présent au moment des faits)
 
 Je sollicite en particulier l'audition de **[Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)**, coiffeur ayant reçu le paiement Wero de 15 € le 29 mai 2026 à 15h20 (message « coif »), afin qu'il puisse décrire précisément les circonstances de l'accident, l'état du bac à shampoing au moment des faits, ainsi que la nature de ses liens avec le salon (salarié, loueur de fauteuil, prestataire indépendant, etc.).
 

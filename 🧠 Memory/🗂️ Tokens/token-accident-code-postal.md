@@ -42,13 +42,13 @@ Ce code postal n'est pas une simple coordonnée : il **fixe la compétence terri
 
 ## Documents liés
 
-- [Assignation Référé-Provision (compétence territoriale TJ Foix)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md)
+- [Assignation Référé-Provision (compétence territoriale TJ Foix)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md)
 
 - [Plainte Défaut Assurance RC (lieu de l'infraction)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Assurance%20RC%20-%20Plainte%20D%C3%A9faut.md)
 
-- [Requête Article 145 CPC (désignation TJ Foix)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/CPC%20145%20-%20Requ%C3%AAte.md)
+- [Requête Article 145 CPC (désignation TJ Foix)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md)
 
-- [Constitution de Partie Civile (compétence Doyen des juges d'instruction)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md)
+- [Constitution de Partie Civile (compétence Doyen des juges d'instruction)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
 
 ## Source
 

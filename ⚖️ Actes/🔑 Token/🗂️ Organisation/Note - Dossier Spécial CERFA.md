@@ -43,14 +43,14 @@ Conformément à l'Article 202 du Code de procédure civile, ce document permet 
 ### II.1 — Témoins identifiés et documents associés
 
 #### II.1.a — **Le Témoin Client (Présent le jour J)**
-[✉️ Témoin Client - Attestation.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/%E2%9C%89%EF%B8%8F%20T%C3%A9moin%20Client%20-%20Attestation.md)
-(Email de relance : [26 📧✉️ Témoin Client - Attestation.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/Mail%20Attestation.md))
+[Témoin Client - Attestation.md](../%F0%9F%93%8B%20Attestations/T%C3%A9moin%20Client%20-%20Attestation.md)
+(Email de relance : [26 📧Témoin Client - Attestation.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/Email%20Attestation.md))
 
 #### II.1.b — **Le Secouriste / Pompier (Intervenant d'urgence)**
-[23 ✉️ Pompier SAMU - Attestation.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/Mail%20Attestation.md) (Email de relance : [27 📧✉️ Pompier SAMU - Attestation.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/Mail%20Attestation.md))
+[23 Pompier SAMU - Attestation.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/Email%20Attestation.md) (Email de relance : [27 📧Pompier SAMU - Attestation.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/Email%20Attestation.md))
 
 #### II.1.c — **L'Employé du Salon (Témoin de la défectuosité préalable)**
-[✉️ Employé - Attestation.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/%E2%9C%89%EF%B8%8F%20Employ%C3%A9%20-%20Attestation.md) (Email de relance : [28 📧✉️ Employé - Attestation.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/Mail%20Attestation.md))
+[✉️ Employé - Attestation.md](../%F0%9F%93%8B%20Attestations/Employ%C3%A9%20-%20Attestation.md) (Email de relance : [28 📧✉️ Employé - Attestation.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/Email%20Attestation.md))
 
 ### II.2 — Pièce obligatoire à joindre
 

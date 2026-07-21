@@ -17,7 +17,11 @@ auteur: Antoine
 <!-- Objet -->
 <!-- Date -->
 <!-- Destinataire -->
+<!-- /Source -->
+<!-- /PJ -->
+<!-- /Destinataire -->
 <!-- Auteur -->
+<!-- /Auteur -->
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Justice › ✉️ Signalement - Procureur de Foix*
@@ -37,7 +41,9 @@ près le Tribunal judiciaire de **[La Ville de l'Accident](../../../../%F0%9F%A7
 
 [Date]
 
+---
 **Objet :** Signalement complémentaire — accident du 29 mai 2026 — **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** — Suites du signalement à la mairie de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
+---
 
 **Référence :** Plainte complémentaire déposée le [date] au commissariat de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
 

@@ -17,7 +17,11 @@ destinataire: Avocat de la Victime
 <!-- Objet -->
 <!-- Date -->
 <!-- Destinataire -->
+<!-- /Source -->
+<!-- /PJ -->
+<!-- /Destinataire -->
 <!-- Auteur -->
+<!-- /Auteur -->
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers](../README.md) › [🏛️ Justice](./README.md) › MEMO AUDIENCE 31072026*
@@ -26,7 +30,7 @@ destinataire: Avocat de la Victime
 
 # MÉMO D'AUDIENCE<br>Audience de Référé-Provision du 31 juillet 2026
 
-> **🔴 Version révisée 18/07/2026** — Correction exploitant : voir [erratum formel](../👮%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md)
+> **🔴 Version révisée 18/07/2026** — Correction exploitant : voir [erratum formel](../%F0%9F%91%AE%20Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md)
 ## 1 — LOGISTIQUE JOUR J
 
 ### 1.1 — Horaires et lieu

@@ -19,7 +19,7 @@ type: memory
 | **Montant** | 15 000 € |
 | **Usage** | Provision demandée en référé |
 | **Variable canonique** | `MONTANT_PROVISION_REFERE` |
-| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md#correspondance-tokens-financiers-alternatifs-finance) |
+| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md%23correspondance-tokens-financiers-alternatifs-finance) |
 
 ## Contexte
 

@@ -40,15 +40,15 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 ### Cycle contenu 2
 
-  → `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  → `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
   → `📊 Rapports/expertise/20260707 Analyse critique Glose.md`
-  → `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  → `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
 
 ### Cycle contenu 3
 
-  → `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  → `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
   → `📊 Rapports/expertise/20260707 Mémoire juridique Glose.md`
-  → `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  → `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
 
 ### Cycle contenu 4
 
@@ -134,81 +134,81 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Parquet Foix - Signalement - Procureur de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ BAJ - Demande AJ - Totale.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/BAJ - Demande AJ - Totale.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ BBAJ - Demande AJ - Guide AJ.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
@@ -243,7 +243,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Bon Envoi Physique.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Plan d'Action.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md`
@@ -252,94 +252,94 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Checklist Déplacement Foix.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Parquet Foix - Signalement - Procureur de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BAJ - Demande AJ - Totale.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/BAJ - Demande AJ - Totale.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BBAJ - Demande AJ - Guide AJ.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/README.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md`
@@ -379,7 +379,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Bon Envoi Physique.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Plan d'Action.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/README.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md`
@@ -390,7 +390,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Checklist Déplacement Foix.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `📂 Simulations/01_Commissaire_Police.md`
@@ -696,13 +696,13 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `GEMINI.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ BBAJ - Demande AJ - Guide AJ.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `📊 Rapports/README.md`
   • `📜 Lois/README.md`
@@ -776,81 +776,81 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Parquet Foix - Signalement - Procureur de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ BAJ - Demande AJ - Totale.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/BAJ - Demande AJ - Totale.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ BBAJ - Demande AJ - Guide AJ.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md`
@@ -886,7 +886,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Bon Envoi Physique.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Plan d'Action.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md`
@@ -896,94 +896,94 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Checklist Déplacement Foix.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Parquet Foix - Signalement - Procureur de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BAJ - Demande AJ - Totale.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/BAJ - Demande AJ - Totale.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BBAJ - Demande AJ - Guide AJ.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/README.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
@@ -1024,7 +1024,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Bon Envoi Physique.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Plan d'Action.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/README.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md`
@@ -1036,7 +1036,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Checklist Déplacement Foix.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `🧠 Memory/DECISIONS.md`
@@ -1064,70 +1064,70 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Parquet Foix - Signalement - Procureur de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
@@ -1149,80 +1149,80 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Index Général.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Dossier Spécial CERFA.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Plan d'Action.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Parquet Foix - Signalement - Procureur de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
@@ -1244,13 +1244,13 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Index Général.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Dossier Spécial CERFA.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Plan d'Action.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `📊 Rapports/20_Accueil_Avocat/MEMO_AVOCAT_1PAGE.md`
@@ -1315,88 +1315,88 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Parquet Foix - Signalement - Procureur de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BAJ - Demande AJ - Totale.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/BAJ - Demande AJ - Totale.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BBAJ - Demande AJ - Guide AJ.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/README.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
@@ -1436,7 +1436,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Bon Envoi Physique.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Plan d'Action.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/README.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md`
@@ -1448,7 +1448,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Checklist Déplacement Foix.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `📊 Rapports/10_Pilotage/RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md`
@@ -1511,58 +1511,58 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Parquet Foix - Signalement - Procureur de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
@@ -1572,65 +1572,65 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Plan Constat Police Foix.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Plan d'Action.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Dossier Présentation.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Parquet Foix - Signalement - Procureur de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
@@ -1640,11 +1640,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Plan Constat Police Foix.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Plan d'Action.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `📊 Rapports/20_Accueil_Avocat/MEMO_AVOCAT_1PAGE.md`
@@ -1668,9 +1668,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -1686,42 +1686,42 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
@@ -1741,52 +1741,52 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Fiche Réflexe 48h Disparition SAS.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Index Général.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Plan d'Action.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
@@ -1806,13 +1806,13 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Fiche Réflexe 48h Disparition SAS.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Index Général.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Plan d'Action.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `📊 Rapports/20_Accueil_Avocat/MEMO_AVOCAT_1PAGE.md`
@@ -1841,9 +1841,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -1857,47 +1857,47 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Mémoire - En défense adverse.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - FAQ Juridique.md`
@@ -1908,57 +1908,57 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Calendrier Procédure.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Index Général.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Plan d'Action.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Mémoire - En défense adverse.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - FAQ Juridique.md`
@@ -1969,14 +1969,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Calendrier Procédure.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Index Général.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Plan d'Action.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/README.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `📊 Rapports/20_Accueil_Avocat/MEMO_AVOCAT_1PAGE.md`
@@ -2023,50 +2023,50 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Parquet Foix - Signalement - Procureur de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
@@ -2076,55 +2076,55 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Plan Constat Police Foix.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Modification Email Maire Foix.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Parquet Foix - Signalement - Procureur de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
@@ -2134,7 +2134,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Plan Constat Police Foix.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Modification Email Maire Foix.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
@@ -2155,8 +2155,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -2174,81 +2174,81 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Parquet Foix - Signalement - Procureur de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ BAJ - Demande AJ - Totale.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/BAJ - Demande AJ - Totale.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ BBAJ - Demande AJ - Guide AJ.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md`
@@ -2284,7 +2284,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Bon Envoi Physique.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Plan d'Action.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md`
@@ -2294,7 +2294,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Checklist Déplacement Foix.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
 
@@ -2618,20 +2618,20 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Index Général.md`
@@ -2640,20 +2640,20 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Plan d'Action.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Index Général.md`
@@ -2841,112 +2841,112 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - FAQ Juridique.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Modification Email Maire Foix.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - FAQ Juridique.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Modification Email Maire Foix.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `📊 Rapports/20_Accueil_Avocat/MODELE_ENVOI_AVOCAT.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -2958,9 +2958,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -3116,35 +3116,35 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Mémoire - En défense adverse.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Conservation Preuves Numériques.md`
@@ -3163,38 +3163,38 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Mémoire - En défense adverse.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Conservation Preuves Numériques.md`
@@ -3213,7 +3213,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -3226,8 +3226,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Analyse Responsabilités Légales.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Responsabilité des Dirigeants.md`
   • `🧠 Memory/README.md`
@@ -3249,91 +3249,91 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Modification Email Maire Foix.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Index Général.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Modification Email Maire Foix.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Index Général.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `📊 Rapports/20_Accueil_Avocat/MODELE_ENVOI_AVOCAT.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -3346,8 +3346,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -3365,28 +3365,28 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Mémoire - En défense adverse.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Conservation Preuves Numériques.md`
@@ -3405,31 +3405,31 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Mémoire - En défense adverse.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Conservation Preuves Numériques.md`
@@ -3448,7 +3448,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -3460,9 +3460,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Analyse Responsabilités Légales.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Responsabilité des Dirigeants.md`
   • `🧠 Memory/README.md`
@@ -3671,63 +3671,63 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
 
 **ERRATUM**
 
 **Cité par :**
 
   • `README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Mémoire - En défense adverse.md`
@@ -3746,14 +3746,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Fiche Réflexe 48h Disparition SAS.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Index Général.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Plan d'Action.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Checklist Envoi 11-07.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
 
@@ -3782,62 +3782,62 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
 
-**📜 Police - Note Erratum Identité.md**
+**Police - Note Erratum Identité.md**
 
 **Cité par :**
 
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Mémoire - En défense adverse.md`
@@ -3856,14 +3856,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Fiche Réflexe 48h Disparition SAS.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Index Général.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Plan d'Action.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Checklist Envoi 11-07.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `📊 Rapports/RAPPORT_SYNTHESE_AVOCAT_2026-07-18.md`
@@ -3901,24 +3901,24 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
@@ -3936,24 +3936,24 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md`
@@ -4096,70 +4096,70 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Mémo Axes Juridiques Avocat.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Mémo Axes Juridiques Avocat.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md`
   • `📊 Rapports/RAPPORT_AUDIT_FAUX_DEPOSE_2026-07-18.md`
@@ -4194,71 +4194,71 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Checklist Envoi 11-07.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Checklist Envoi 11-07.md`
   • `📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_PRESENTATION_STRATEGIQUE_DOSSIER.md`
   • `📊 Rapports/RAPPORT_AUDIT_FAUX_DEPOSE_2026-07-18.md`
@@ -4285,29 +4285,29 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/Preuves officielles/20260530 🆘 SOSMain/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Tableau Défense Réponse.md`
@@ -4316,29 +4316,29 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Bon Envoi Physique.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Bordereau Pièces 15 Juillet.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Tableau Défense Réponse.md`
@@ -4368,21 +4368,21 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - FAQ Juridique.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
@@ -4393,24 +4393,24 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - FAQ Juridique.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
@@ -4421,7 +4421,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -4461,115 +4461,115 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Parquet Foix - Signalement - Procureur de Foix.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BAJ - Demande AJ - Totale.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/BAJ - Demande AJ - Totale.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BBAJ - Demande AJ - Guide AJ.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
 
 **Cite :**
 
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BBAJ - Demande AJ - Guide AJ.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `🧠 Memory/DEPENDANCES.md`
 
 <hr>
@@ -4580,20 +4580,20 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - FAQ Juridique.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
@@ -4605,20 +4605,20 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - FAQ Juridique.md`
@@ -4660,24 +4660,24 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - FAQ Juridique.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Calendrier Procédure.md`
@@ -4687,24 +4687,24 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Correction Juridique.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - FAQ Juridique.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
@@ -4724,10 +4724,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -4747,53 +4747,53 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - FAQ Juridique.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - FAQ Juridique.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -4829,19 +4829,19 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - FAQ Juridique.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
@@ -4851,22 +4851,22 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - FAQ Juridique.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
@@ -4876,7 +4876,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -4890,7 +4890,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -4909,58 +4909,58 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Parquet Foix - Signalement - Procureur de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ BAJ - Demande AJ - Totale.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/BAJ - Demande AJ - Totale.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ BBAJ - Demande AJ - Guide AJ.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
 
 **Cite :**
 
@@ -5053,21 +5053,21 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/Preuves officielles/20260601 🩺 DrOXYBEL/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Tableau Défense Réponse.md`
@@ -5076,21 +5076,21 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Plan d'Action.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Bordereau Pièces 15 Juillet.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Tableau Défense Réponse.md`
@@ -5119,46 +5119,46 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/Preuves officielles/20260529 🩹 DrJARDON/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Dossier Spécial CERFA.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Bon Envoi Physique.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Dossier Spécial CERFA.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Bon Envoi Physique.md`
@@ -5175,32 +5175,32 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
 
 **CONSTITUTION DE PARTIE CIVILE**
 
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Qualification Pénale Disparition SAS.md`
@@ -5299,26 +5299,26 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/Preuves officielles/20260601 🏢 Kbis/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Tableau Défense Réponse.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Modification Email Maire Foix.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Bordereau Pièces 15 Juillet.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Checklist Envoi 11-07.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Tableau Défense Réponse.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Modification Email Maire Foix.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Bordereau Pièces 15 Juillet.md`
@@ -5341,28 +5341,28 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `🧠 Memory/RULES.md`
 
 **Cite :**
@@ -5371,30 +5371,30 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `🧠 Memory/DEPENDANCES.md`
 
 <hr>
@@ -5406,58 +5406,58 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
 
 **Cite :**
 
   • `README.md`
   • `⚖️ Actes/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `⚖️ Actes/🔑 Token/README.md`
 
 <hr>
@@ -5468,20 +5468,20 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Calendrier Procédure.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Calendrier Procédure.md`
@@ -5512,24 +5512,24 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Audit RNE NPAI SAS.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Audit RNE NPAI SAS.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-capital-social.md`
@@ -5539,10 +5539,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -5558,18 +5558,18 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Calendrier Procédure.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Calendrier Procédure.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
@@ -5602,17 +5602,17 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Dossier Présentation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
@@ -5700,23 +5700,23 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
@@ -5736,16 +5736,16 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Modification Email Maire Foix.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Calendrier Procédure.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Dossier Plaidoirie Référé.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Modification Email Maire Foix.md`
@@ -5780,22 +5780,22 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -5804,9 +5804,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -5921,14 +5921,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
   • `🧠 Memory/🗂️ Tokens/token-cpam-gestionnaire-nom.md`
@@ -5944,14 +5944,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Bon Envoi Physique.md`
   • `🧠 Memory/README.md`
@@ -5968,16 +5968,16 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20260715 👮‍♂️ Police PV Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`
   • `📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_PRESENTATION_STRATEGIQUE_DOSSIER.md`
@@ -5989,9 +5989,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -6042,19 +6042,19 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Calendrier Procédure.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Calendrier Procédure.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
@@ -6119,15 +6119,15 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
 
-**CPC 145 - Requête.md**
+**TJ Foix - TJ Foix - CPC 145 - Requête.md**
 
 **Cité par :**
 
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
   • `📊 Rapports/10_Pilotage/CHECKLIST_ACTIONS_JUSQUA_FIN_2026.md`
   • `📊 Rapports/10_Pilotage/FRISE_CHRONOLOGIQUE_MULTI_VOLETS.md`
   • `📊 Rapports/10_Pilotage/recommandations_urgentes.md`
@@ -6187,16 +6187,16 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Mémoire - En défense adverse.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Jurisprudence.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Mémoire - En défense adverse.md`
@@ -6220,15 +6220,15 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
@@ -6260,7 +6260,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/README.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
@@ -6270,7 +6270,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
 
@@ -6280,12 +6280,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
 
@@ -6297,12 +6297,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - FAQ Juridique.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Calendrier Procédure.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Plan d'Action.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - FAQ Juridique.md`
@@ -6337,14 +6337,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Calendrier Procédure.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Calendrier Procédure.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
@@ -6375,18 +6375,18 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Qualification Pénale Disparition SAS.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Qualification Pénale Disparition SAS.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -6402,26 +6402,26 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
 
-**✉️ SAS - Courrier.md**
+**SAS - Courrier.md**
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Calendrier Procédure.md`
 
 **Cite :**
@@ -6434,7 +6434,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -6506,7 +6506,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md`
@@ -6515,14 +6515,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
 
 **Cite :**
 
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Action Directe Assureur RC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Bordereau Pièces 15 Juillet.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Checklist Envoi 11-07.md`
@@ -6530,13 +6530,13 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Checklist Déplacement Foix.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
 
 **BORDEREAU DE PIÈCES**
 
@@ -6567,7 +6567,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `📊 Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
@@ -6613,15 +6613,15 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -6641,12 +6641,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
   • `📊 Rapports/10_Pilotage/CHECKLIST_ACTIONS_JUSQUA_FIN_2026.md`
   • `📊 Rapports/10_Pilotage/FRISE_CHRONOLOGIQUE_MULTI_VOLETS.md`
   • `📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_PRESENTATION_STRATEGIQUE_DOSSIER.md`
@@ -6660,7 +6660,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -6673,18 +6673,18 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
 
-**✉️ DDETS - Signalement.md**
+**DDETS - Signalement.md**
 
 **Cité par :**
 
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
   • `📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_PRESENTATION_STRATEGIQUE_DOSSIER.md`
   • `📊 Rapports/90_TODO_Prompts/PROMPT_AVOCAT_REVUE_J37.md`
   • `🚦 Status/02_PRET_POUR_ENVOI.md`
@@ -6702,10 +6702,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -6772,15 +6772,15 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -6803,12 +6803,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Calendrier Procédure.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Calendrier Procédure.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -6836,31 +6836,31 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
 
 **Cite :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
 
 <hr>
 
@@ -6899,7 +6899,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
 
 **SUIVI<br>DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF**
 
@@ -6943,14 +6943,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-raison-sociale.md`
@@ -6995,7 +6995,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -7023,35 +7023,35 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier Societe.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
 
 **Cite :**
 
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
 
 **LETTRE RECOMMANDÉE <br> ACCUSÉ DE RÉCEPTION**
 
@@ -7078,7 +7078,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -7093,15 +7093,15 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
 
-**✉️ SAS - Assureur RC - Courrier.md**
+**SAS - Assureur RC - Courrier.md**
 
 **Cité par :**
 
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
   • `📊 Rapports/10_Pilotage/CHECKLIST_ACTIONS_JUSQUA_FIN_2026.md`
   • `📊 Rapports/10_Pilotage/FRISE_CHRONOLOGIQUE_MULTI_VOLETS.md`
   • `📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_PRESENTATION_STRATEGIQUE_DOSSIER.md`
@@ -7116,9 +7116,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
@@ -7133,15 +7133,15 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
 
-**✉️ SAS - Président - Courrier.md**
+**SAS - Président - Courrier.md**
 
 **Cité par :**
 
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
   • `🚦 Status/02_PRET_POUR_ENVOI.md`
   • `🚦 Status/03_ENVOYE.md`
   • `🚦 Status/envoye.md`
@@ -7161,10 +7161,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -7184,17 +7184,17 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
 
-**✉️ Mairie - ERP Tavella - Courrier.md**
+**Mairie - ERP Tavella - Courrier.md**
 
 **Cité par :**
 
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
   • `🚦 Status/01_PREPARATION.md`
   • `🚦 Status/brouillon.md`
   • `🧠 Memory/RECADRAGE_NOMENCLATURE.md`
@@ -7209,10 +7209,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -7229,16 +7229,16 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
 
-**✉️ Préfecture - Signalement.md**
+**CODAF - Préfecture - Signalement.md**
 
 **Cité par :**
 
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
   • `📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_PRESENTATION_STRATEGIQUE_DOSSIER.md`
   • `📊 Rapports/90_TODO_Prompts/PROMPT_AVOCAT_REVUE_J37.md`
   • `🚦 Status/02_PRET_POUR_ENVOI.md`
@@ -7254,13 +7254,13 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -7318,14 +7318,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
   • `🧠 Memory/FINANCIAL_VARIABLES_DEPRECATED.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -7346,31 +7346,31 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
 
 **Cite :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
 
 **ATTESTATION DE TÉMOIN (CERFA N° 11527*03)Article 202 du Code de procédure civile**
 
@@ -7378,7 +7378,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Dossier Spécial CERFA.md`
   • `📊 Rapports/10_Pilotage/CHECKLIST_ACTIONS_JUSQUA_FIN_2026.md`
   • `📊 Rapports/10_Pilotage/FRISE_CHRONOLOGIQUE_MULTI_VOLETS.md`
@@ -7392,7 +7392,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-nom.md`
@@ -7443,12 +7443,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
   • `📊 Rapports/40_Indemnisation_Dintilhac/README.md`
   • `🧠 Memory/🗂️ Tokens/token-finance-dfp.md`
   • `🧠 Memory/🗂️ Tokens/token-finance-evaluation-initiale.md`
@@ -7501,10 +7501,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `🧠 Memory/FINANCIAL_VARIABLES_DEPRECATED.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -7527,12 +7527,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-bailleur-nom.md`
@@ -7541,7 +7541,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -7558,29 +7558,29 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
 
 **Cite :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
 
 **RÉQUISITOIRE INTRODUCTIF DU MINISTÈRE PUBLIC**
 
@@ -7588,7 +7588,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
   • `📊 Rapports/10_Pilotage/FRISE_CHRONOLOGIQUE_MULTI_VOLETS.md`
   • `📊 Rapports/30_Analyses_Multi_Angle/NOTE_PENALE_STRATEGIQUE.md`
   • `📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_PRESENTATION_STRATEGIQUE_DOSSIER.md`
@@ -7602,8 +7602,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -7619,9 +7619,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
 
-**✉️ Propriétaire - Courrier.md**
+**Propriétaire - Courrier.md**
 
 **Cité par :**
 
@@ -7644,10 +7644,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-bailleur-nom.md`
@@ -7669,15 +7669,15 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
 
 **Cite :**
 
@@ -7685,14 +7685,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
 
 <hr>
 
@@ -7729,7 +7729,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
 
 **SIGNALEMENT OFFICIEL <br>**
 
@@ -7737,8 +7737,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
   • `📊 Rapports/90_TODO_Prompts/PROMPT_AVOCAT_REVUE_J37.md`
   • `🚦 Status/02_PRET_POUR_ENVOI.md`
   • `🚦 Status/final.md`
@@ -7752,7 +7752,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
@@ -7774,11 +7774,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md`
   • `📊 Rapports/10_Pilotage/FRISE_CHRONOLOGIQUE_MULTI_VOLETS.md`
   • `📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_PRESENTATION_STRATEGIQUE_DOSSIER.md`
@@ -7789,7 +7789,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
@@ -7874,11 +7874,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Dossier Présentation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
   • `🧠 Memory/FINANCIAL_VARIABLES_DEPRECATED.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -7899,12 +7899,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `🧠 Memory/FINANCIAL_VARIABLES_DEPRECATED.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -7924,9 +7924,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Calendrier Procédure.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Calendrier Procédure.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -7953,10 +7953,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -8013,24 +8013,24 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
 
 **Cite :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Parquet Foix - Signalement - Procureur de Foix.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
 
 <hr>
 
@@ -8041,27 +8041,27 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ BAJ - Demande AJ - Totale.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/BAJ - Demande AJ - Totale.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ BBAJ - Demande AJ - Guide AJ.md`
 
 **Cite :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ BAJ - Demande AJ - Totale.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/BAJ - Demande AJ - Totale.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ BBAJ - Demande AJ - Guide AJ.md`
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
 
 **AU JUGE DES RÉFÉRÉS DU TRIBUNAL JUDICIAI**
 
@@ -8086,9 +8086,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `📊 Rapports/expertise/20260707 Analyse critique Glose.md`
   • `📊 Rapports/expertise/20260707 Mémoire juridique Glose.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -8104,9 +8104,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
 
-**✉️ CPAM - Recours Tiers - Saisine.md**
+**CPAM - Recours Tiers - Saisine.md**
 
 **Cité par :**
 
@@ -8125,8 +8125,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/README.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -8160,7 +8160,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
 
 **TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (POMPIER / SAMU)**
 
@@ -8231,9 +8231,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
 
-**✉️ SAS - Dirigeants - Courrier - Relance.md**
+**SAS - Dirigeants - Courrier - Relance.md**
 
 **Cité par :**
 
@@ -8254,12 +8254,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-date-relance-v2.md`
@@ -8280,7 +8280,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
 
 **RELANCE CPA**
 
@@ -8304,7 +8304,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -8319,9 +8319,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
 
-**✉️ Police - Vidéos - Relance.md**
+**Police - Vidéos - Relance.md**
 
 **Cité par :**
 
@@ -8340,8 +8340,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -8362,14 +8362,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
 
 **Cite :**
 
@@ -8377,18 +8377,18 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
 
 **SIGNALEMENT DE LITIGE <br> INPI**
 
@@ -8410,13 +8410,13 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -8432,14 +8432,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
 
-**✉️ SIE - Signalement.md**
+**SIE - Signalement.md**
 
 **Cité par :**
 
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
   • `📊 Rapports/90_TODO_Prompts/PROMPT_AVOCAT_REVUE_J37.md`
   • `🚦 Status/02_PRET_POUR_ENVOI.md`
@@ -8453,12 +8453,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-raison-sociale.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-siren.md`
@@ -8472,9 +8472,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
 
-**✉️ URSSAF - Signalement.md**
+**URSSAF - Signalement.md**
 
 **Cité par :**
 
@@ -8494,7 +8494,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Suivi Envois LRAR.md`
@@ -8530,7 +8530,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
   • `📜 Lois/📜 Jurisprudence/🏛️ Responsabilité du fait des choses/74-10.466_CourCassation.md`
   • `📜 Lois/📜 Jurisprudence/🏛️ Responsabilité du fait des choses/89-18.422_CourCassation.md`
@@ -8571,7 +8571,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note%20-%20Changelog%20Juridique.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -8601,7 +8601,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-cpam-dossier-numero.md`
@@ -8651,7 +8651,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-cpam-dossier-numero.md`
@@ -8739,12 +8739,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
 
@@ -8752,9 +8752,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -8772,10 +8772,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
   • `🧠 Memory/🗂️ Tokens/token-j-18-incoherence-cpam.md`
@@ -8785,7 +8785,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `README.md`
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -8801,9 +8801,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -8813,9 +8813,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -8831,12 +8831,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
 
 **Cite :**
 
@@ -8844,7 +8844,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -8864,21 +8864,21 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
 
 **Cite :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
 
 <hr>
 
@@ -8890,7 +8890,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
   • `📊 Rapports/10_Pilotage/CHECKLIST_ACTIONS_JUSQUA_FIN_2026.md`
   • `🚦 Status/brouillon.md`
   • `🧠 Memory/🗂️ Tokens/token-j-38-constitution-pc.md`
@@ -8905,7 +8905,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
   • `🧠 Memory/🗂️ Tokens/token-j-0-accident.md`
   • `🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md`
@@ -8918,13 +8918,13 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
 
 **Cite :**
 
@@ -8932,18 +8932,18 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md`
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
 
 **DEMANDE D'INFORMA**
 
@@ -8965,8 +8965,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -8982,7 +8982,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
 
 **OPPOSITION À IMMATRICULATION <br> AU REGISTRE NATIONAL DES ENT**
 
@@ -9004,8 +9004,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -9019,7 +9019,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
 
 **OPPOSITION**
 
@@ -9041,11 +9041,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-id.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
@@ -9054,7 +9054,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
 
 **TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (EMPLOYÉ)**
 
@@ -9101,7 +9101,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-nom.md`
@@ -9112,7 +9112,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
 
 **TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (CLIENT)**
 
@@ -9146,12 +9146,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BAJ - Demande AJ - Totale.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/BAJ - Demande AJ - Totale.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BBAJ - Demande AJ - Guide AJ.md`
 
 **Cite :**
@@ -9160,19 +9160,19 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BAJ - Demande AJ - Totale.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/BAJ - Demande AJ - Totale.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BBAJ - Demande AJ - Guide AJ.md`
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
 
-**✉️ SIE URSSAF - Mutualisation - Courrier.md**
+**SIE URSSAF - Mutualisation - Courrier.md**
 
 **Cité par :**
 
@@ -9192,11 +9192,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-raison-sociale.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-siren.md`
@@ -9208,43 +9208,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
 
-**✉️ DDETS - Signalement - Relance.md**
-
-**Cité par :**
-
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
-  • `📊 Rapports/10_Pilotage/CHECKLIST_ACTIONS_JUSQUA_FIN_2026.md`
-  • `📊 Rapports/10_Pilotage/FRISE_CHRONOLOGIQUE_MULTI_VOLETS.md`
-  • `📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_PRESENTATION_STRATEGIQUE_DOSSIER.md`
-  • `🚦 Status/projet.md`
-
-**Cite :**
-
-  • `README.md`
-  • `⚖️ Actes/Preuves officielles/20260529 🩹 DrJARDON/20260529-1630 SITUATION DrJulieJARDON.md`
-  • `⚖️ Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire RapportInterventionMainDroite.md`
-  • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
-  • `⚖️ Actes/README.md`
-  • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
-  • `🧠 Memory/🗂️ Tokens/token-mairie-adjoint-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-adresse.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md`
-
-<hr>
-
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-
-**✉️ CODAF - Signalement - Relance.md**
+**DDETS - Signalement - Relance.md**
 
 **Cité par :**
 
@@ -9264,10 +9230,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
@@ -9277,7 +9242,42 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+
+**CODAF - Signalement - Relance.md**
+
+**Cité par :**
+
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
+  • `📊 Rapports/10_Pilotage/CHECKLIST_ACTIONS_JUSQUA_FIN_2026.md`
+  • `📊 Rapports/10_Pilotage/FRISE_CHRONOLOGIQUE_MULTI_VOLETS.md`
+  • `📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_PRESENTATION_STRATEGIQUE_DOSSIER.md`
+  • `🚦 Status/projet.md`
+
+**Cite :**
+
+  • `README.md`
+  • `⚖️ Actes/Preuves officielles/20260529 🩹 DrJARDON/20260529-1630 SITUATION DrJulieJARDON.md`
+  • `⚖️ Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire RapportInterventionMainDroite.md`
+  • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
+  • `⚖️ Actes/README.md`
+  • `⚖️ Actes/🔑 Token/README.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
+  • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
+  • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
+  • `🧠 Memory/🗂️ Tokens/token-mairie-adjoint-nom.md`
+  • `🧠 Memory/🗂️ Tokens/token-victime-adresse.md`
+  • `🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md`
+
+<hr>
+
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
 
 **⚠️ FICHIER OBSOLÈTE<br>NE PLUS UTILISER**
 
@@ -9296,16 +9296,16 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/README.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
 
-**✉️ Conseil Départemental - Signalement.md**
+**Conseil Départemental - Signalement.md**
 
 **Cité par :**
 
@@ -9323,10 +9323,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-raison-sociale.md`
@@ -9340,9 +9340,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
 
-**✉️ SDIS - Signalement.md**
+**SDIS - Signalement.md**
 
 **Cité par :**
 
@@ -9360,10 +9360,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-raison-sociale.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-siren.md`
@@ -9422,14 +9422,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BBAJ - Demande AJ - Guide AJ.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Mémoire - En défense adverse.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
@@ -9455,11 +9455,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier President.md`
   • `🧠 Memory/TOKEN MAP.md`
 
@@ -9480,10 +9480,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
   • `📊 Rapports/RAPPORT_AUDIT_FAUX_DEPOSE_2026-07-18.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -9507,9 +9507,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Calendrier Procédure.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Calendrier Procédure.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -9534,8 +9534,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-id.md`
@@ -9545,11 +9545,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Responsabilité des Dirigeants.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -9566,9 +9566,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Calendrier Procédure.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Calendrier Procédure.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -9577,7 +9577,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -9628,18 +9628,18 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
 
 **DEMANDE D'INFORMATION <br> INSPECTION D**
 
 **Cité par :**
 
   • `README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
 
 **Cite :**
 
@@ -9650,10 +9650,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/README.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -9680,11 +9680,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/README.md`
 
 **Cite :**
@@ -9692,7 +9692,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
@@ -9706,9 +9706,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
 
-**✉️ Doyen des Juges - Saisine.md**
+**DJI Foix - DJI Foix - Doyen des Juges - Saisine.md**
 
 **Cité par :**
 
@@ -9729,11 +9729,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-cpam-dossier-numero.md`
@@ -9758,12 +9758,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
 
 **Cite :**
 
@@ -9771,12 +9771,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
 
 <hr>
 
@@ -9829,7 +9829,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-capital-social.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -10027,9 +10027,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
   • `🧠 Memory/README.md`
 
 <hr>
@@ -10052,7 +10052,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Dossier Spécial CERFA.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
@@ -10067,8 +10067,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-president-nom.md`
@@ -10077,9 +10077,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -10115,9 +10115,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -10147,7 +10147,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Droit des Assurances.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Dossier Spécial CERFA.md`
@@ -10167,8 +10167,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
   • `🧠 Memory/🗂️ Tokens/token-j-40-consultation-suivi.md`
@@ -10177,12 +10177,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Responsabilité des Dirigeants.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -10198,8 +10198,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
   • `🧠 Memory/🗂️ Tokens/token-mairie-adjoint-email.md`
@@ -10208,8 +10208,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
   • `🧠 Memory/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -10242,7 +10242,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
 
 **ASSIGNATION EN RÉFÉRÉ-PROVISION <br> ET <br> DEM**
 
@@ -10263,7 +10263,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -10309,17 +10309,17 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
 
-**CPC 145 - Ordonnance sur Requête.md**
+**TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md**
 
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
 
 **Cite :**
 
@@ -10347,7 +10347,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
 
 **REQUÊTE<br>Communication d'assurances, conservation de vidéos et mesures d'instruction**
 
@@ -10356,7 +10356,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
   • `🚦 Status/01_PREPARATION.md`
 
 **Cite :**
@@ -10426,17 +10426,17 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
 
-**CPC 145 - Ordonnance sur Requête.md**
+**TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md**
 
 **Cité par :**
 
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
 
 **Cite :**
 
@@ -10482,7 +10482,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `🧠 Memory/STRICT VARIABLES.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -10495,7 +10495,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
 
 **ATTESTATION DE TÉMOIN (CERFA N° 11527*03)Article 202 du Code de procédure civile**
 
@@ -10512,7 +10512,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
@@ -10539,12 +10539,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-raison-sociale.md`
   • `🧠 Memory/🗂️ Tokens/token-victime-adresse.md`
@@ -10614,7 +10614,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -10650,7 +10650,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260601 🩺 DrOXYBEL/20260601-1115 ARRET Travail Volet1 DrOXYBEL.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -10693,7 +10693,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
   • `🚦 Status/02_PRET_POUR_ENVOI.md`
   • `🚦 Status/final.md`
@@ -10719,8 +10719,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/README.md`
   • `🚦 Status/02_PRET_POUR_ENVOI.md`
   • `🚦 Status/preparation.md`
@@ -10753,11 +10753,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire RapportInterventionMainDroite.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-hopital-sosmain-chirurgien.md`
@@ -10786,128 +10786,15 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260601 🩺 DrOXYBEL/20260601-1115 ARRET Travail Volet1 DrOXYBEL.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/README.md`
   • `🧠 Memory/TOKEN MAP.md`
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+### `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
 
-**REQUETE AU PRESIDENT DU TRIBUNAL JUDICIAIRE DE [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F**
-
-**Cité par :**
-
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
-  • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Plan Constat Police Foix.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
-  • `🚦 Status/01_PREPARATION.md`
-  • `🚦 Status/archive.md`
-
-**Cite :**
-
-  • `README.md`
-  • `⚖️ Actes/README.md`
-  • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
-  • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-siren.md`
-  • `🧠 Memory/🗂️ Tokens/token-hopital-sosmain-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-0-accident.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-41-requete-constat-145.md`
-  • `🧠 Memory/🗂️ Tokens/token-pv-police-numero.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-adresse.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-email.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md`
-
-<hr>
-
-### `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md`
-
-**Archive - Action Directe Assureur RC.md**
-
-**Cité par :**
-
-  • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Index Général.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
-  • `🚦 Status/02_PRET_POUR_ENVOI.md`
-  • `🚦 Status/final.md`
-  • `🚦 Status/projet.md`
-
-**Cite :**
-
-  • `README.md`
-  • `⚖️ Actes/README.md`
-  • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
-  • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-telephone.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
-  • `🧠 Memory/🗂️ Tokens/token-hopital-sosmain-chirurgien.md`
-  • `🧠 Memory/🗂️ Tokens/token-hopital-sosmain-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-0-accident.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-1-chirurgie.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-31-mises-en-demeure.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-adresse.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-email.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-id-professionnel.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md`
-
-<hr>
-
-### `📜 Lois/EXEMPLES_REQUETES_MCP.md`
-
-**Exemples de Requêtes MCP Valides**
-
-**Cité par :**
-
-  • `📊 Rapports/10_Pilotage/RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md`
-  • `📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_FINAL_INTEGRATION_20260710.md`
-  • `📊 Rapports/70_Technique_Repo/RAPPORT_PREPARATION_PLAINTE_COMPLEMENTAIRE_20260711.md`
-  • `📜 Lois/README.md`
-  • `🧠 Memory/TODO.md`
-
-**Cite :**
-
-  • `README.md`
-  • `📜 Lois/README.md`
-
-<hr>
-
-### `📜 Lois/📒 Code/📒 Code assurances/README.md`
-
-**📒 Code des assurances**
-
-**Cité par :**
-
-  • `📜 Lois/📒 Code/📒 Code assurances/Article_L113-1_Codesassurances.md`
-  • `📜 Lois/📒 Code/📒 Code assurances/Article_L113-2_Codesassurances_Legifrance.md`
-  • `📜 Lois/📒 Code/📒 Code assurances/Article_L114-1_Codesassurances.md`
-  • `📜 Lois/📒 Code/📒 Code assurances/Article_L121-1a121-7_Code_Legifrance.md`
-  • `📜 Lois/📒 Code/📒 Code assurances/Article_L124-3_Codesassurances_Legifrance.md`
-
-**Cite :**
-
-  • `README.md`
-  • `📜 Lois/README.md`
-  • `📜 Lois/📒 Code/README.md`
-  • `📜 Lois/📒 Code/📒 Code assurances/Article_L113-1_Codesassurances.md`
-  • `📜 Lois/📒 Code/📒 Code assurances/Article_L113-2_Codesassurances_Legifrance.md`
-  • `📜 Lois/📒 Code/📒 Code assurances/Article_L114-1_Codesassurances.md`
-  • `📜 Lois/📒 Code/📒 Code assurances/Article_L121-1a121-7_Code_Legifrance.md`
-  • `📜 Lois/📒 Code/📒 Code assurances/Article_L124-3_Codesassurances_Legifrance.md`
-
-<hr>
-
-### `📜 Lois/📜 Jurisprudence/🏛️ Action directe et obligation d'assurance/README.md`
-
-**🏛️ Action directe et obligation d'assurance (4 arrêts)**
+**REQUETE AU PRESIDENT DU TRIBUNAL JUDICIAIRE DE [**[La Ville de l'Accident]**](../../../%F0%9F%A7%A0%20Memory/%EF%BF%BD%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%97%84%EF%B8%8F%20Archiv%C3%A9/Requ%C3%AAte%20-%20Constat%20Huissier%20Archive.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Plan%20Constat%20Police%20Foix.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/01_PREPARATION.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/archive.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/Police%20-%20Note%20Erratum%20Identit%C3%A9.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-41-requete-constat-145.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Action%20Directe%20Assureur%20RC.md%60%0A%0A%2A%2AArchive%20-%20Action%20Directe%20Assureur%20RC.md%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Index%20G%C3%A9n%C3%A9ral.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/02_PRET_POUR_ENVOI.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/final.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/projet.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/Police%20-%20Note%20Erratum%20Identit%C3%A9.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%F0%9F%93%9C%20Lois/EXEMPLES_REQUETES_MCP.md%60%0A%0A%2A%2AExemples%20de%20Requ%C3%AAtes%20MCP%20Valides%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%F0%9F%93%8A%20Rapports/10_Pilotage/RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%8A%20Rapports/30_Analyses_Multi_Angle/RAPPORT_FINAL_INTEGRATION_20260710.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%8A%20Rapports/70_Technique_Repo/RAPPORT_PREPARATION_PLAINTE_COMPLEMENTAIRE_20260711.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/TODO.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/README.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/README.md%60%0A%0A%2A%2A%F0%9F%93%92%20Code%20des%20assurances%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/Article_L113-1_Codesassurances.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/Article_L113-2_Codesassurances_Legifrance.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/Article_L114-1_Codesassurances.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/Article_L121-1a121-7_Code_Legifrance.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/Article_L124-3_Codesassurances_Legifrance.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/Article_L113-1_Codesassurances.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/Article_L113-2_Codesassurances_Legifrance.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/Article_L114-1_Codesassurances.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/Article_L121-1a121-7_Code_Legifrance.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20assurances/Article_L124-3_Codesassurances_Legifrance.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance/README.md%60%0A%0A%2A%2A%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance%20%284%20arr%C3%AAts)**
 
 **Cité par :**
 
@@ -10998,9 +10885,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - HB BARBER - Courrier DG.md`
   • `🧠 Memory/TOKEN MAP.md`
 
@@ -11021,8 +10908,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `🧠 Memory/FINANCIAL_VARIABLES_DEPRECATED.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -11042,8 +10929,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `🧠 Memory/FINANCIAL_VARIABLES_DEPRECATED.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -11063,8 +10950,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `🧠 Memory/FINANCIAL_VARIABLES_DEPRECATED.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -11084,8 +10971,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `🧠 Memory/FINANCIAL_VARIABLES_DEPRECATED.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -11105,8 +10992,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `🧠 Memory/FINANCIAL_VARIABLES_DEPRECATED.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -11126,8 +11013,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `🧠 Memory/FINANCIAL_VARIABLES_DEPRECATED.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -11147,8 +11034,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `🧠 Memory/FINANCIAL_VARIABLES_DEPRECATED.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -11168,8 +11055,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `🧠 Memory/FINANCIAL_VARIABLES_DEPRECATED.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
@@ -11257,7 +11144,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
 
 **EMAIL<br>Éléments d'actualisation sur le dossier ERP (22 Rue Lafaurie, 09000 Foix**
 
@@ -11310,7 +11197,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-cpam-dossier-numero.md`
@@ -11356,7 +11243,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-cpam-dossier-numero.md`
@@ -11383,7 +11270,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
+### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
 
 **SIGNALEMENT AU PROCUREUR DE LA RÉPUBLIQUE**
 
@@ -11401,8 +11288,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -11413,7 +11300,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
+### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
 
 **REQUÊTE AUX FINS DE DÉSIGNATION D'UN MANDATAIRE AD HOC <br> ET MESURES CONSERVATOIRES**
 
@@ -11433,8 +11320,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-id.md`
@@ -11448,7 +11335,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
 
 **PLAINTE**
 
@@ -11491,7 +11378,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
 
 **TRANSMISSION DE PREUVES COMPLEMENTAIRES <br> A**
 
@@ -11510,8 +11397,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/README.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Audit RNE NPAI SAS.md`
@@ -11546,7 +11433,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -11571,7 +11458,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-president-nom.md`
@@ -11584,352 +11471,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 ### `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - FAQ Juridique.md`
 
-**SYNTHÈSE JURIDIQUE ET FAQ AFFAIRE [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-co**
-
-**Cité par :**
-
-  • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
-  • `🚦 Status/02_PRET_POUR_ENVOI.md`
-  • `🚦 Status/final.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-32-assignation-refere.md`
-
-**Cite :**
-
-  • `README.md`
-  • `⚖️ Actes/README.md`
-  • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
-  • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
-  • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-bailleur-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-telephone.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-president-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
-  • `🧠 Memory/🗂️ Tokens/token-hopital-sosmain-chirurgien.md`
-  • `🧠 Memory/🗂️ Tokens/token-hopital-sosmain-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-0-accident.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-1-chirurgie.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-167-expertise-umj.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-31-mises-en-demeure.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-32-assignation-refere.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-adresse.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-id-professionnel.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-ville-residence.md`
-
-<hr>
-
-### `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Plaidoirie Responsabilité Dirigeants.md`
-
-****MÉMORANDUM JURIDIQUE : RESPONSABILITÉ**
-
-**Cité par :**
-
-  • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
-  • `🚦 Status/02_PRET_POUR_ENVOI.md`
-  • `🚦 Status/final.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-32-assignation-refere.md`
-
-**Cite :**
-
-  • `README.md`
-  • `⚖️ Actes/README.md`
-  • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-capital-social.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-president-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-0-accident.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-32-assignation-refere.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md`
-
-<hr>
-
-### `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Stratégie Jurisprudentielle.md`
-
-**STRATÉGIE JURISPRUDENTIELLE<br>BASCULEMENT VASQUE SALON DE COIFFURE**
-
-**Cité par :**
-
-  • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note%20-%20Changelog%20Juridique.md`
-  • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
-  • `🚦 Status/02_PRET_POUR_ENVOI.md`
-  • `🚦 Status/final.md`
-
-**Cite :**
-
-  • `README.md`
-  • `⚖️ Actes/README.md`
-  • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
-  • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
-  • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Analyse Responsabilités Légales.md`
-  • `📜 Lois/📜 Jurisprudence/🏛️ Responsabilité du fait des choses/24-21.702_CourCassation.md`
-  • `📜 Lois/📜 Jurisprudence/🏛️ Responsabilité du fait des choses/70-12.124_CourCassation.md`
-  • `📜 Lois/📜 Jurisprudence/🏛️ Responsabilité du fait des choses/74-10.466_CourCassation.md`
-  • `📜 Lois/📜 Jurisprudence/🏛️ Responsabilité du fait des choses/89-18.422_CourCassation.md`
-  • `📜 Lois/📜 Jurisprudence/🏛️ Responsabilité du fait des choses/91-13.580_CourCassation.md`
-  • `📜 Lois/📜 Jurisprudence/🏛️ Responsabilité du fait des choses/91-15.035_CourCassation.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-capital-social.md`
-
-<hr>
-
-### `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Calendrier Procédure.md`
-
-**11 - CALENDRIER PROCÉDURAL**
-
-**Cité par :**
-
-  • `⚖️ Actes/🔑 Token/🗂️ Organisation/README.md`
-  • `🚦 Status/02_PRET_POUR_ENVOI.md`
-  • `🚦 Status/final.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-32-assignation-refere.md`
-
-**Cite :**
-
-  • `README.md`
-  • `⚖️ Actes/Preuves officielles/20260601 🩺 DrOXYBEL/20260601-1115 ARRET Travail Volet1 DrOXYBEL.md`
-  • `⚖️ Actes/README.md`
-  • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/🗂️ Organisation/README.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-president-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-0-accident.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-1-chirurgie.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-12-facture.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-167-expertise-umj.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-18-incoherence-cpam.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-21-controle-chirurgical.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-25-premiere-kine.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-27-confirmation-kine.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-3-premiers-arrets.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-31-mises-en-demeure.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-32-assignation-refere.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-4-depot-de-plainte.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-46-echeance-amiable.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-5-ouverture-cpam.md`
-
-<hr>
-
-### `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Plan d'Action.md`
-
-**PLAN D'ACTION ET CHRONOLOGIE DE LA PROCÉDURE**
-
-**Cité par :**
-
-  • `⚖️ Actes/🔑 Token/🗂️ Organisation/README.md`
-  • `🚦 Status/02_PRET_POUR_ENVOI.md`
-  • `🚦 Status/final.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-32-assignation-refere.md`
-
-**Cite :**
-
-  • `README.md`
-  • `⚖️ Actes/Preuves officielles/20260601 🩺 DrOXYBEL/20260601-1115 ARRET Travail Volet1 DrOXYBEL.md`
-  • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
-  • `⚖️ Actes/README.md`
-  • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/🗂️ Organisation/README.md`
-  • `🧠 Memory/TOKEN MAP.md`
-  • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
-  • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
-  • `🧠 Memory/🗂️ Tokens/token-hopital-sosmain-chirurgien.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-0-accident.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-167-expertise-umj.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-31-mises-en-demeure.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-32-assignation-refere.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-37-assignation-145.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md`
-
-<hr>
-
-### `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md`
-
-**FICHE REFLEXE 48H**
-
-**Cité par :**
-
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
-  • `🚦 Status/01_PREPARATION.md`
-  • `🚦 Status/projet.md`
-  • `🧠 Memory/STATUS.md`
-
-**Cite :**
-
-  • `README.md`
-  • `⚖️ Actes/README.md`
-  • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
-
-<hr>
-
-### `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
-
-**Archive - Dossier Présentation.md**
-
-**Cité par :**
-
-  • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Index Général.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
-  • `🚦 Status/02_PRET_POUR_ENVOI.md`
-  • `🚦 Status/final.md`
-
-**Cite :**
-
-  • `README.md`
-  • `⚖️ Actes/README.md`
-  • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
-  • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-bailleur-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-telephone.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-president-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
-  • `🧠 Memory/🗂️ Tokens/token-finance-article-700.md`
-  • `🧠 Memory/🗂️ Tokens/token-hopital-sosmain-chirurgien.md`
-  • `🧠 Memory/🗂️ Tokens/token-hopital-sosmain-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-0-accident.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-1-chirurgie.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-32-assignation-refere.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-55-fin-d-itt.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-id-professionnel.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md`
-
-<hr>
-
-### `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Jurisprudence.md`
-
-**Archive - Analyse Jurisprudence.md**
-
-**Cité par :**
-
-  • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Index Général.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
-  • `🚦 Status/02_PRET_POUR_ENVOI.md`
-  • `🚦 Status/final.md`
-
-**Cite :**
-
-  • `README.md`
-  • `⚖️ Actes/README.md`
-  • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-president-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
-  • `🧠 Memory/🗂️ Tokens/token-finance-provision-refere.md`
-  • `🧠 Memory/🗂️ Tokens/token-hopital-urgence-medecin.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-0-accident.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-1-chirurgie.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-32-assignation-refere.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md`
-
-<hr>
-
-### `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-
-**Archive - Analyse Correction Juridique.md**
-
-**Cité par :**
-
-  • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Index Général.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
-  • `🚦 Status/02_PRET_POUR_ENVOI.md`
-  • `🚦 Status/final.md`
-
-**Cite :**
-
-  • `README.md`
-  • `⚖️ Actes/README.md`
-  • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-telephone.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-president-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-0-accident.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-31-mises-en-demeure.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-32-assignation-refere.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md`
-
-<hr>
-
-### `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
-
-**CONSTITUTION DE PARTIE CIVILE**
-
-**Cité par :**
-
-  • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Index Général.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
-  • `🚦 Status/02_PRET_POUR_ENVOI.md`
-  • `🚦 Status/final.md`
-
-**Cite :**
-
-  • `README.md`
-  • `⚖️ Actes/README.md`
-  • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
-  • `🧠 Memory/🗂️ Tokens/token-accident-code-postal.md`
-  • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
-  • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-telephone.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-president-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-0-accident.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-32-assignation-refere.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-adresse.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-id-professionnel.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-ville-residence.md`
-
-<hr>
-
-### `📜 Lois/📒 Code/📒 Code procedure civile/README.md`
-
-**📒 Code procedure civile**
-
-**Cité par :**
-
-  • `📜 Lois/📒 Code/📒 Code procedure civile/Article835_CodeDeProcedureCivile_LegiFrance.md`
-  • `📜 Lois/📒 Code/📒 Code procedure civile/Article_145_CodeDeProcédureCivile_Legifrance.md`
-  • `📜 Lois/📒 Code/📒 Code procedure civile/Article_263_Codeproc_Legifrance.md`
-  • `📜 Lois/📒 Code/📒 Code procedure civile/Article_700_Codeproc_Legifrance.md`
-
-**Cite :**
-
-  • `README.md`
-  • `📜 Lois/README.md`
-  • `📜 Lois/📒 Code/README.md`
-  • `📜 Lois/📒 Code/📒 Code procedure civile/Article835_CodeDeProcedureCivile_LegiFrance.md`
-  • `📜 Lois/📒 Code/📒 Code procedure civile/Article_145_CodeDeProcédureCivile_Legifrance.md`
-  • `📜 Lois/📒 Code/📒 Code procedure civile/Article_263_Codeproc_Legifrance.md`
-  • `📜 Lois/📒 Code/📒 Code procedure civile/Article_700_Codeproc_Legifrance.md`
-
-<hr>
-
-### `📜 Lois/📜 Jurisprudence/🏛️ Responsabilité du fait des choses/24-21.702_CourCassation.md`
-
-**Civ. 2e, 28 mai 2026 (n° 24-21.702)**
+**SYNTHÈSE JURIDIQUE ET FAQ AFFAIRE [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-co%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/02_PRET_POUR_ENVOI.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/final.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/Police%20-%20Note%20Erratum%20Identit%C3%A9.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/Note%20-%20Plaidoirie%20Responsabilit%C3%A9%20Dirigeants.md%60%0A%0A%2A%2A%2A%2AM%C3%89MORANDUM%20JURIDIQUE%20%3A%20RESPONSABILIT%C3%89%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/02_PRET_POUR_ENVOI.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/final.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/Police%20-%20Note%20Erratum%20Identit%C3%A9.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/Note%20-%20Strat%C3%A9gie%20Jurisprudentielle.md%60%0A%0A%2A%2ASTRAT%C3%89GIE%20JURISPRUDENTIELLE%3Cbr%3EBASCULEMENT%20VASQUE%20SALON%20DE%20COIFFURE%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/Note%20-%20Changelog%20Juridique.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/02_PRET_POUR_ENVOI.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/final.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%92%B0%20Etudes%20indemnisation/Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/Note%20-%20Analyse%20Responsabilit%C3%A9s%20L%C3%A9gales.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/24-21.702_CourCassation.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/70-12.124_CourCassation.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/74-10.466_CourCassation.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/89-18.422_CourCassation.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/91-13.580_CourCassation.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/91-15.035_CourCassation.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-capital-social.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Calendrier%20Proc%C3%A9dure.md%60%0A%0A%2A%2A11%20-%20CALENDRIER%20PROC%C3%89DURAL%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/02_PRET_POUR_ENVOI.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/final.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%9C%20Mises%20en%20demeure/SAS%20-%20Courrier.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-12-facture.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-18-incoherence-cpam.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-21-controle-chirurgical.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-25-premiere-kine.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-27-confirmation-kine.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-3-premiers-arrets.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-46-echeance-amiable.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-5-ouverture-cpam.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Plan%20d%27Action.md%60%0A%0A%2A%2APLAN%20D%27ACTION%20ET%20CHRONOLOGIE%20DE%20LA%20PROC%C3%89DURE%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/02_PRET_POUR_ENVOI.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/final.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/Police%20-%20Note%20Erratum%20Identit%C3%A9.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Fiche%20R%C3%A9flexe%2048h%20Victime.md%60%0A%0A%2A%2AFICHE%20REFLEXE%2048H%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/01_PREPARATION.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/projet.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/STATUS.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/README.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Dossier%20Pr%C3%A9sentation.md%60%0A%0A%2A%2AArchive%20-%20Dossier%20Pr%C3%A9sentation.md%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Index%20G%C3%A9n%C3%A9ral.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/02_PRET_POUR_ENVOI.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/final.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/Police%20-%20Note%20Erratum%20Identit%C3%A9.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-article-700.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-55-fin-d-itt.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Analyse%20Jurisprudence.md%60%0A%0A%2A%2AArchive%20-%20Analyse%20Jurisprudence.md%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Index%20G%C3%A9n%C3%A9ral.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/02_PRET_POUR_ENVOI.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/final.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/Police%20-%20Note%20Erratum%20Identit%C3%A9.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-finance-provision-refere.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Analyse%20Correction%20Juridique.md%60%0A%0A%2A%2AArchive%20-%20Analyse%20Correction%20Juridique.md%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Index%20G%C3%A9n%C3%A9ral.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/02_PRET_POUR_ENVOI.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/final.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/Police%20-%20Note%20Erratum%20Identit%C3%A9.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/DJI%20Foix%20-%20DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md%60%0A%0A%2A%2ACONSTITUTION%20DE%20PARTIE%20CIVILE%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Index%20G%C3%A9n%C3%A9ral.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/02_PRET_POUR_ENVOI.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/final.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/Police%20-%20Note%20Erratum%20Identit%C3%A9.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-code-postal.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20civile/README.md%60%0A%0A%2A%2A%F0%9F%93%92%20Code%20procedure%20civile%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20civile/Article835_CodeDeProcedureCivile_LegiFrance.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20civile/Article_145_CodeDeProc%C3%A9dureCivile_Legifrance.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20civile/Article_263_Codeproc_Legifrance.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20civile/Article_700_Codeproc_Legifrance.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20civile/Article835_CodeDeProcedureCivile_LegiFrance.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20civile/Article_145_CodeDeProc%C3%A9dureCivile_Legifrance.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20civile/Article_263_Codeproc_Legifrance.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20procedure%20civile/Article_700_Codeproc_Legifrance.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/24-21.702_CourCassation.md%60%0A%0A%2A%2ACiv.%202e%2C%2028%20mai%202026%20%28n%C2%B0%2024-21.702)**
 
 **Cité par :**
 
@@ -12016,8 +11558,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
 
@@ -12036,8 +11578,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
 
@@ -12113,14 +11655,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Bon Envoi Physique.md`
   • `🧠 Memory/README.md`
@@ -12135,8 +11677,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
 
@@ -12174,8 +11716,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
 
@@ -12286,7 +11828,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
+### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
 
 **SIGNALEMENT AU PROCUREUR DE LA RÉPUBLIQUE**
 
@@ -12303,8 +11845,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -12315,7 +11857,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
 
 **RÉQUISITOIRE INTRODUCTIF DU MINISTÈRE PUBLIC**
 
@@ -12323,7 +11865,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
 
 **Cite :**
 
@@ -12331,8 +11873,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -12368,7 +11910,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -12390,7 +11932,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
+### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
 
 **REQUÊTE AUX FINS DE DÉSIGNATION D'UN MANDATAIRE AD HOC <br> ET MESURES CONSERVATOIRES**
 
@@ -12409,8 +11951,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-id.md`
@@ -12431,24 +11973,24 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
 
 **Cite :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
 
 **AU JUGE DES RÉFÉRÉS DU TRIBUNAL JUDICIAIRE**
 
@@ -12468,9 +12010,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `📊 Rapports/expertise/20260707 Analyse critique Glose.md`
   • `📊 Rapports/expertise/20260707 Mémoire juridique Glose.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -12494,7 +12036,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
 
 **Cite :**
 
@@ -12505,21 +12047,21 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
   • `🧠 Memory/🗂️ Tokens/token-j-0-accident.md`
   • `🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md`
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
 
 **ATTESTATION DE TÉMOIN (CERFA N° 11527*03)Article 202 du Code de procédure civile**
 
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Dossier Spécial CERFA.md`
 
 **Cite :**
@@ -12527,7 +12069,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-nom.md`
@@ -12555,15 +12097,15 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
 
 **CONFIRMATION OFFI**
 
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
 
 **Cite :**
 
@@ -12572,13 +12114,13 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -12608,7 +12150,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/README.md`
   • `📜 Lois/📜 Jurisprudence/🏛️ Responsabilité du fait des choses/74-10.466_CourCassation.md`
   • `📜 Lois/📜 Jurisprudence/🏛️ Responsabilité du fait des choses/89-18.422_CourCassation.md`
@@ -12644,7 +12186,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note%20-%20Changelog%20Juridique.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -12660,8 +12202,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/README.md`
 
 **Cite :**
@@ -12673,13 +12215,13 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+### `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
 
 **REQUETE AU PRESIDENT DU TRIBUNAL JUDICIAIRE DE [Foix](%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Plan Constat Police Foix.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/README.md`
 
@@ -12688,7 +12230,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -12719,7 +12261,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -12753,7 +12295,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -12789,7 +12331,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-president-nom.md`
@@ -12818,7 +12360,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-nom.md`
@@ -12832,7 +12374,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
+### `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
 
 **CONSTITUTION DE PARTIE CIVILE**
 
@@ -12847,7 +12389,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-code-postal.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
@@ -12909,20 +12451,20 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
 
 **Cite :**
 
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
 
 <hr>
 
@@ -12945,8 +12487,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -12955,9 +12497,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
 
-**✉️ SAS - Assureur RC - Courrier (copie Avocat).md**
+**SAS - Assureur RC - Courrier (copie Avocat).md**
 
 **Cité par :**
 
@@ -12970,14 +12512,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-nom.md`
@@ -12987,9 +12529,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
 
-**✉️ Consultation - Avocat Jimini.md**
+**Consultation - Avocat Jimini.md**
 
 **Cité par :**
 
@@ -13003,7 +12545,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -13027,7 +12569,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -13051,7 +12593,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Droit des Assurances.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Responsabilité des Dirigeants.md`
@@ -13076,7 +12618,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -13101,7 +12643,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
   • `🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md`
@@ -13123,8 +12665,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-capital-social.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -13151,7 +12693,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire RapportInterventionMainDroite.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-capital-social.md`
@@ -13206,10 +12748,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/README.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
 
@@ -13231,7 +12773,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260601 🏢 Kbis/20260601-xxxx Extrait Kbis SAS MauvaisGarcons.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
@@ -13259,7 +12801,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
   • `🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md`
@@ -13287,139 +12829,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 ### `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Index Général.md`
 
-**INDEX DU DOSSIER [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/**
-
-**Cité par :**
-
-  • `⚖️ Actes/🔑 Token/🗂️ Organisation/README.md`
-  • `🚦 Status/02_PRET_POUR_ENVOI.md`
-  • `🚦 Status/final.md`
-
-**Cite :**
-
-  • `README.md`
-  • `⚖️ Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire RapportInterventionMainDroite.md`
-  • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
-  • `⚖️ Actes/README.md`
-  • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/🔑 Token/🗂️ Organisation/README.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Jurisprudence.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
-  • `🧠 Memory/EVIDENCE_MATRIX.md`
-  • `🧠 Memory/PIECES MAP.md`
-  • `🧠 Memory/PLAN_ACTION_B.md`
-  • `🧠 Memory/STATS_DOSSIER.md`
-  • `🧠 Memory/STRICT VARIABLES.md`
-  • `🧠 Memory/TOKEN MAP.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-telephone.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-president-nom.md`
-  • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
-  • `🧠 Memory/🗂️ Tokens/token-hopital-sosmain-chirurgien.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-0-accident.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-1-chirurgie.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-32-assignation-refere.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-38-mise-a-jour.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-email.md`
-  • `🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md`
-
-<hr>
-
-### `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/README.md`
-
-**📁 annexes**
-
-**Cité par :**
-
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
-  • `🧠 Memory/STATUS.md`
-
-**Cite :**
-
-  • `README.md`
-  • `⚖️ Actes/README.md`
-  • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/⚖️ ANNEXE B Lois Jurisprudence.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/📑 ANNEXE C Pieces.md`
-  • `🧠 Memory/🗂️ Tokens/token-hopital-urgence-medecin.md`
-  • `🧠 Memory/🗂️ Tokens/token-j-0-accident.md`
-
-<hr>
-
-### `📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_FINAL_INTEGRATION_20260710.md`
-
-**RAPPORT FINAL - Intégration des Recherches MCP**
-
-**Cité par :**
-
-  • `📊 Rapports/30_Analyses_Multi_Angle/README.md`
-  • `📊 Rapports/70_Technique_Repo/RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md`
-  • `📊 Rapports/70_Technique_Repo/RAPPORT_PREPARATION_PLAINTE_COMPLEMENTAIRE_20260711.md`
-
-**Cite :**
-
-  • `⚖️ Actes/🔑 Token/README.md`
-  • `📊 Rapports/30_Analyses_Multi_Angle/README.md`
-  • `📊 Rapports/README.md`
-  • `📜 Lois/EXEMPLES_REQUETES_MCP.md`
-  • `📜 Lois/📜 Jurisprudence/🏛️ Action directe et obligation d'assurance/90-14.591_CourCassation.md`
-  • `📜 Lois/📜 Jurisprudence/🏛️ Responsabilité des dirigeants/11-13.384_CourCassation.md`
-  • `📜 Lois/📜 Jurisprudence/🏛️ Responsabilité du fait des choses/63-13.613_CourCassation.md`
-
-<hr>
-
-### `📜 Lois/📒 Code/📒 Code commerce/Article_L227-1_Code_Legifrance.md`
-
-**Article L227-1**
-
-**Cité par :**
-
-  • `📊 Rapports/90_TODO_Prompts/PROMPT_COMPLETION_FICHES_LOIS_20260711.md`
-  • `📜 Lois/📊 Index/README.md`
-  • `📜 Lois/📒 Code/📒 Code commerce/README.md`
-
-**Cite :**
-
-  • `README.md`
-  • `📜 Lois/README.md`
-  • `📜 Lois/📒 Code/README.md`
-  • `📜 Lois/📒 Code/📒 Code commerce/README.md`
-
-<hr>
-
-### `📜 Lois/📒 Code/📒 Code penal/Article_121-3_Code_Legifrance.md`
-
-**Article 121-3**
-
-**Cité par :**
-
-  • `📊 Rapports/90_TODO_Prompts/PROMPT_COMPLETION_FICHES_LOIS_20260711.md`
-  • `📜 Lois/📊 Index/README.md`
-  • `📜 Lois/📒 Code/📒 Code penal/README.md`
-
-**Cite :**
-
-  • `README.md`
-  • `📜 Lois/README.md`
-  • `📜 Lois/📒 Code/README.md`
-  • `📜 Lois/📒 Code/📒 Code penal/README.md`
-
-<hr>
-
-### `📜 Lois/📜 Jurisprudence/🏛️ Responsabilité du commettant/README.md`
-
-**🏛️ Responsabilité du commettant (2 arrêts)**
+**INDEX DU DOSSIER [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/02_PRET_POUR_ENVOI.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%9A%A6%20Status/final.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/Police%20-%20Note%20Erratum%20Identit%C3%A9.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%E2%9A%96%EF%B8%8F%20ANNEXE%20B%20Lois%20Jurisprudence.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%F0%9F%93%91%20ANNEXE%20C%20Pieces.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Action%20Directe%20Assureur%20RC.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Dossier%20Pr%C3%A9sentation.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Analyse%20Jurisprudence.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Analyse%20Correction%20Juridique.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/DJI%20Foix%20-%20DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20Civil.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20P%C3%A9nal.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/EVIDENCE_MATRIX.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/PIECES%20MAP.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/PLAN_ACTION_B.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/STATS_DOSSIER.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-mise-a-jour.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/annexes/README.md%60%0A%0A%2A%2A%F0%9F%93%81%20annexes%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%E2%9A%96%EF%B8%8F%20ANNEXE%20B%20Lois%20Jurisprudence.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%F0%9F%93%91%20ANNEXE%20C%20Pieces.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/STATUS.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/README.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%E2%9A%96%EF%B8%8F%20ANNEXE%20B%20Lois%20Jurisprudence.md%60%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%84%EF%B8%8F%20Archives/annexes/%F0%9F%93%91%20ANNEXE%20C%20Pieces.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%F0%9F%93%8A%20Rapports/30_Analyses_Multi_Angle/RAPPORT_FINAL_INTEGRATION_20260710.md%60%0A%0A%2A%2ARAPPORT%20FINAL%20-%20Int%C3%A9gration%20des%20Recherches%20MCP%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%F0%9F%93%8A%20Rapports/30_Analyses_Multi_Angle/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%8A%20Rapports/70_Technique_Repo/RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%8A%20Rapports/70_Technique_Repo/RAPPORT_PREPARATION_PLAINTE_COMPLEMENTAIRE_20260711.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%8A%20Rapports/30_Analyses_Multi_Angle/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%8A%20Rapports/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/EXEMPLES_REQUETES_MCP.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance/90-14.591_CourCassation.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20des%20dirigeants/11-13.384_CourCassation.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20fait%20des%20choses/63-13.613_CourCassation.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L227-1_Code_Legifrance.md%60%0A%0A%2A%2AArticle%20L227-1%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%F0%9F%93%8A%20Rapports/90_TODO_Prompts/PROMPT_COMPLETION_FICHES_LOIS_20260711.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%8A%20Index/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/README.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/README.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/Article_121-3_Code_Legifrance.md%60%0A%0A%2A%2AArticle%20121-3%2A%2A%0A%0A%2A%2ACit%C3%A9%20par%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60%F0%9F%93%8A%20Rapports/90_TODO_Prompts/PROMPT_COMPLETION_FICHES_LOIS_20260711.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%8A%20Index/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/README.md%60%0A%0A%2A%2ACite%20%3A%2A%2A%0A%0A%20%20%E2%80%A2%20%60README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/README.md%60%0A%20%20%E2%80%A2%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/README.md%60%0A%0A%3Chr%3E%0A%0A%23%23%23%20%60%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20commettant/README.md%60%0A%0A%2A%2A%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20commettant%20%282%20arr%C3%AAts)**
 
 **Cité par :**
 
@@ -13510,7 +12920,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `🧠 Memory/README.md`
 
 <hr>
@@ -13584,16 +12994,16 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `📊 Rapports/90_TODO_Prompts/PROMPT_AVOCAT_REVUE_J37.md`
@@ -13661,8 +13071,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/README.md`
 
 <hr>
@@ -13941,7 +13351,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
+### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
 
 **MÉMO D'AUDIENCE<br>Audience de Référé-Provision du 31 juillet 2026**
 
@@ -13956,12 +13366,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
 
 **BORDEREAU DE PIÈCES**
 
@@ -13976,7 +13386,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-bailleur-nom.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -14005,7 +13415,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-bailleur-nom.md`
@@ -14021,7 +13431,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
+### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
 
 **NOTE PERSONNELLE**
 
@@ -14036,7 +13446,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -14062,7 +13472,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
+### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
 
 **PROJET DE DÉCLARATION POUR PV**
 
@@ -14077,7 +13487,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-bailleur-nom.md`
@@ -14096,7 +13506,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+### `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
 
 **BORDEREAU DE PIÈCES**
 
@@ -14115,7 +13525,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `📊 Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
@@ -14169,7 +13579,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `🧠 Memory/STRICT VARIABLES.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -14182,7 +13592,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
 
 **PLAINTE COMPLÉMENTAIRE**
 
@@ -14223,7 +13633,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
 
 **TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (EMPLOYÉ)**
 
@@ -14260,7 +13670,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-nom.md`
@@ -14271,7 +13681,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
 
 **TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (POMPIER / SAMU)**
 
@@ -14294,7 +13704,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
 
 **TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (CLIENT)**
 
@@ -14317,7 +13727,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
 
 **LETTRE RECOMMANDÉE <br> ACCUSÉ DE RÉCEPTION**
 
@@ -14335,7 +13745,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -14350,23 +13760,23 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
 
-**✉️ SAS - Assureur RC - Courrier.md**
+**SAS - Assureur RC - Courrier.md**
 
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
 
 **Cite :**
 
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md`
@@ -14381,14 +13791,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
 
-**✉️ SAS - Directrice Générale - Courrier.md**
+**SAS - Directrice Générale - Courrier.md**
 
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
 
 **Cite :**
 
@@ -14399,7 +13809,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -14416,14 +13826,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
 
-**✉️ SAS - Président - Courrier.md**
+**SAS - Président - Courrier.md**
 
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
 
 **Cite :**
 
@@ -14435,10 +13845,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -14477,7 +13887,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
 
 **RELANCE<br>INSPECTION DU TRAVAIL**
 
@@ -14494,9 +13904,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
@@ -14506,7 +13916,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
 
 **RELANCE<br>PRÉFECTURE / CODAF**
 
@@ -14523,10 +13933,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
@@ -14536,7 +13946,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
 
 **RELANCE POLICE NATIONALE<br>SUIVI DE P**
 
@@ -14551,8 +13961,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/README.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -14574,21 +13984,21 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cité par :**
 
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
 
 **Cite :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
 
 **INFORMATION DE LITIGE <br> SERVICE DES I**
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/README.md`
 
 **Cite :**
@@ -14597,12 +14007,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-raison-sociale.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-siren.md`
@@ -14630,7 +14040,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -14689,7 +14099,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-president-nom.md`
@@ -14714,7 +14124,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/README.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Droit des Assurances.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Responsabilité des Dirigeants.md`
@@ -14738,7 +14148,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -14762,7 +14172,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
   • `🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md`
@@ -14783,8 +14193,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-capital-social.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -14809,7 +14219,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -14848,7 +14258,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-capital-social.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -14875,7 +14285,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire RapportInterventionMainDroite.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-capital-social.md`
@@ -14901,7 +14311,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/README.md`
 
 **Cite :**
@@ -14932,7 +14342,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-capital-social.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -15002,10 +14412,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/README.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
 
@@ -15026,7 +14436,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260601 🏢 Kbis/20260601-xxxx Extrait Kbis SAS MauvaisGarcons.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
@@ -15053,7 +14463,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
   • `🧠 Memory/🗂️ Tokens/token-victime-nom-complet.md`
@@ -15093,7 +14503,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260601 🩺 DrOXYBEL/20260601-1115 ARRET Travail Volet1 DrOXYBEL.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-president-nom.md`
@@ -15163,7 +14573,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/README.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/annexes/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -15218,7 +14628,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
+### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
 
 **MÉMO D'AUDIENCE<br>Audience de Référé-Provision du 31 juillet 2026**
 
@@ -15233,14 +14643,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
 
-**📋 Police - Bordereau Pièces.md**
+**Police - Bordereau Pièces.md**
 
 **Cité par :**
 
@@ -15253,7 +14663,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-bailleur-nom.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -15282,7 +14692,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-bailleur-nom.md`
@@ -15298,9 +14708,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
+### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
 
-**📋 Police - Note Personnelle.md**
+**Police - Note Personnelle.md**
 
 **Cité par :**
 
@@ -15313,7 +14723,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -15339,9 +14749,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
+### `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
 
-**📋 Police - Note Projet Déclaration.md**
+**Police - Note Projet Déclaration.md**
 
 **Cité par :**
 
@@ -15354,7 +14764,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-bailleur-nom.md`
@@ -15393,14 +14803,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
 
-**✉️ SAS - Directrice Générale - Courrier.md**
+**SAS - Directrice Générale - Courrier.md**
 
 **Cité par :**
 
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
 
 **Cite :**
 
@@ -15411,7 +14821,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -15466,8 +14876,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
   • `🧠 Memory/🗂️ Tokens/token-mairie-adjoint-nom.md`
@@ -15529,7 +14939,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/annexes/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -15568,7 +14978,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `📊 Rapports/10_Pilotage/README.md`
   • `📊 Rapports/README.md`
   • `📜 Lois/EXEMPLES_REQUETES_MCP.md`
@@ -15628,15 +15038,15 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `📊 Rapports/30_Analyses_Multi_Angle/README.md`
   • `📊 Rapports/README.md`
@@ -15738,18 +15148,18 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `📊 Rapports/90_TODO_Prompts/README.md`
   • `📊 Rapports/README.md`
 
@@ -15779,13 +15189,13 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
 
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
   • `📊 Rapports/README.md`
 
 <hr>
@@ -15796,13 +15206,13 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
 
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
   • `📊 Rapports/README.md`
 
 <hr>
@@ -16380,7 +15790,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `📜 Lois/README.md`
   • `📜 Lois/📜 Jurisprudence/README.md`
   • `📜 Lois/📜 Jurisprudence/🏛️ Action directe et obligation d'assurance/README.md`
@@ -16417,7 +15827,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `📜 Lois/README.md`
   • `📜 Lois/📜 Jurisprudence/README.md`
   • `📜 Lois/📜 Jurisprudence/🏛️ Responsabilité des dirigeants/README.md`
@@ -16436,7 +15846,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `📜 Lois/README.md`
   • `📜 Lois/📜 Jurisprudence/README.md`
   • `📜 Lois/📜 Jurisprudence/🏛️ Responsabilité du fait des choses/README.md`
@@ -16455,9 +15865,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Qualification Pénale Disparition SAS.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Synthèse - Actions et Audits.md`
@@ -16465,17 +15875,17 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Modification Email Maire Foix.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Fiche Réflexe 48h Disparition SAS.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Qualification Pénale Disparition SAS.md`
@@ -16484,7 +15894,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Modification Email Maire Foix.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Fiche Réflexe 48h Disparition SAS.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
   • `🚦 Status/README.md`
 
 <hr>
@@ -16502,9 +15912,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `README.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Mémoire - En défense adverse.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Conservation Preuves Numériques.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Mesures Conservatoires.md`
@@ -16520,38 +15930,38 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Mémoire - En défense adverse.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Conservation Preuves Numériques.md`
@@ -16575,7 +15985,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
   • `🚦 Status/README.md`
@@ -16594,11 +16004,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
   • `🚦 Status/README.md`
 
 <hr>
@@ -17180,13 +16590,13 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
 
 <hr>
 
@@ -17200,16 +16610,16 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
 
 **TRANSMISSION**
 
@@ -17223,8 +16633,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/README.md`
   • `🧠 Memory/TOKEN MAP.md`
@@ -17258,9 +16668,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
 
-**✉️ Doyen des Juges - Saisine.md**
+**DJI Foix - DJI Foix - Doyen des Juges - Saisine.md**
 
 **Cité par :**
 
@@ -17276,11 +16686,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-cpam-dossier-numero.md`
@@ -17299,7 +16709,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
 
 **DEMANDE D'INFORMATION ET DE PRÉ-ENREGISTRE**
 
@@ -17315,8 +16725,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -17332,7 +16742,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
 
 **OPPOSITION À IMMATRICULATION <br> AU REGISTRE NATIONAL DES ENTREPRISES**
 
@@ -17348,8 +16758,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -17363,7 +16773,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Parquet Foix - Signalement - Procureur de Foix.md`
 
 **✉️⚖️ Procureur — Signalement Mairie — Suites Administratives**
 
@@ -17384,7 +16794,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
 
 **OPPOSITION CONSERVATOIRE <br> RADIATION DE SOCIÉTÉ**
 
@@ -17400,11 +16810,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-id.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
@@ -17413,7 +16823,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
 
 **TRANSMISSION DE PREUVES COMPLEMENTAIRES <br> AU TRIBUNAL JUDICIAIRE DE**
 
@@ -17429,8 +16839,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/README.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Audit RNE NPAI SAS.md`
@@ -17447,7 +16857,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
 
 **ATTESTATION DE TÉMOIN (CERFA N° 11527*03)Article 202 du Code de procédure civile**
 
@@ -17460,7 +16870,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
@@ -17484,7 +16894,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -17510,8 +16920,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Personnel/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -17538,7 +16948,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
 
 **DEMANDE DE COMMUNICATION <br**
 
@@ -17555,10 +16965,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-bailleur-nom.md`
@@ -17574,9 +16984,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier (copie Avocat).md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier (copie Avocat).md`
 
-**✉️ SAS - Assureur RC - Courrier (copie Avocat).md**
+**SAS - Assureur RC - Courrier (copie Avocat).md**
 
 **Cité par :**
 
@@ -17587,14 +16997,14 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
   • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-prepose-nom.md`
@@ -17710,9 +17120,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
 
-**✉️ Consultation - Avocat Jimini.md**
+**Consultation - Avocat Jimini.md**
 
 **Cité par :**
 
@@ -17724,7 +17134,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -17746,7 +17156,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
@@ -17769,12 +17179,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-raison-sociale.md`
   • `🧠 Memory/🗂️ Tokens/token-victime-adresse.md`
@@ -17782,7 +17192,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
 
 **DEMANDE DE MUTUALISATION <br> FISCALE E**
 
@@ -17798,11 +17208,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-raison-sociale.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-siren.md`
@@ -17814,7 +17224,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/✉️ BAJ - Demande AJ - Totale.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/📝 Procédure/BAJ - Demande AJ - Totale.md`
 
 **DEMANDE D'AIDE JURIDICTIONNELLE TOTALE**
 
@@ -17832,7 +17242,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
 
 **SUIVI<br>DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF**
 
@@ -17859,9 +17269,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
 
-**✉️ CPAM - Rectification Identité - Relance.md**
+**CPAM - Rectification Identité - Relance.md**
 
 **Cité par :**
 
@@ -17872,7 +17282,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -17920,7 +17330,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
 
 **RELANCE<br>DEMANDE D'INFORMATION ASSURANCE R**
 
@@ -17936,12 +17346,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Directrice Générale - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Directrice Générale - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-date-relance-v2.md`
@@ -17962,7 +17372,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
 
 **RELANCE CPAM<br>SUIVI DU DOSSIER DE RECOURS CONTRE TIERS**
 
@@ -17979,7 +17389,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -18019,7 +17429,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
 
 **⚠️ FICHIER OBSOLÈTE<br>NE PLUS UTILISER**
 
@@ -18032,16 +17442,16 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🗄️ Archivé/README.md`
-  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
 
-**✉️ Conseil Départemental - Signalement.md**
+**Conseil Départemental - Signalement.md**
 
 **Cité par :**
 
@@ -18053,10 +17463,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-adresse.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-raison-sociale.md`
@@ -18070,7 +17480,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
 
 **SIGNALEMENT DE LITIGE <br> INPI**
 
@@ -18085,13 +17495,13 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-dg-nom.md`
@@ -18107,9 +17517,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
 
-**✉️ SDIS - Signalement.md**
+**SDIS - Signalement.md**
 
 **Cité par :**
 
@@ -18121,10 +17531,10 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-raison-sociale.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-siren.md`
@@ -18136,7 +17546,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+### `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
 
 **SIGNALEMENT DE TRAVAIL DISSIMULE PRESUME**
 
@@ -18151,7 +17561,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/README.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/README.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Suivi Envois LRAR.md`
@@ -18204,7 +17614,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260601 🩺 DrOXYBEL/20260601-1115 ARRET Travail Volet1 DrOXYBEL.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/💰 Etudes indemnisation/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -18224,7 +17634,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/📂 Preuves officielles/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
@@ -18288,7 +17698,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -18324,8 +17734,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-raison-sociale.md`
   • `🧠 Memory/🗂️ Tokens/token-mairie-adjoint-nom.md`
@@ -18368,11 +17778,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire RapportInterventionMainDroite.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/👤 Reel/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-hopital-sosmain-chirurgien.md`
@@ -18397,7 +17807,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260601 🩺 DrOXYBEL/20260601-1115 ARRET Travail Volet1 DrOXYBEL.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/README.md`
   • `🧠 Memory/TOKEN MAP.md`
 
@@ -18418,7 +17828,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260603 📥 Attestation DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/🗂️ Organisation/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
@@ -18468,7 +17878,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/👤 Reel/README.md`
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/👤 Reel/🗄️ Archives/README.md`
 
 <hr>
@@ -18499,13 +17909,13 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - Correction.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
 
 <hr>
 
@@ -18519,12 +17929,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Bordereau Pièces.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
 
 <hr>
 
@@ -18546,7 +17956,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BAJ - Demande AJ - Totale.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/BAJ - Demande AJ - Totale.md`
 
 **DEMANDE D'AIDE JURIDICTIONNELLE TOTALE**
 
@@ -18570,7 +17980,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cité par :**
 
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
 
 **Cite :**
 
@@ -18578,7 +17988,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
 
 <hr>
 
@@ -18630,7 +18040,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -18888,7 +18298,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `📊 Rapports/10_Pilotage/README.md`
   • `📊 Rapports/README.md`
 
@@ -18905,19 +18315,19 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BBAJ - Demande AJ - Guide AJ.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
   • `📊 Rapports/10_Pilotage/README.md`
@@ -18935,18 +18345,18 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Conclusions au Fond.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/20270529 ⚖️ Rapport Expertise Médicale.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
@@ -18990,7 +18400,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `📊 Rapports/10_Pilotage/README.md`
   • `📊 Rapports/README.md`
 
@@ -19066,8 +18476,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
   • `📊 Rapports/20_Accueil_Avocat/README.md`
   • `📊 Rapports/README.md`
 
@@ -19099,9 +18509,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `📊 Rapports/30_Analyses_Multi_Angle/README.md`
   • `📊 Rapports/README.md`
 
@@ -19219,7 +18629,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `📊 Rapports/30_Analyses_Multi_Angle/README.md`
   • `📊 Rapports/README.md`
 
@@ -19475,7 +18885,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `📊 Rapports/40_Indemnisation_Dintilhac/README.md`
   • `📊 Rapports/README.md`
 
@@ -19618,7 +19028,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `📊 Rapports/60_Audits_Qualite/README.md`
   • `📊 Rapports/README.md`
 
@@ -19667,7 +19077,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `📊 Rapports/60_Audits_Qualite/README.md`
   • `📊 Rapports/README.md`
   • `🧠 Memory/PIECES MAP.md`
@@ -19684,7 +19094,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `📊 Rapports/60_Audits_Qualite/README.md`
   • `📊 Rapports/README.md`
   • `🧠 Memory/STATUS.md`
@@ -19926,7 +19336,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `📊 Rapports/60_Audits_Qualite/RAPPORT_AUDIT_HERMES_20260711.md`
   • `📊 Rapports/70_Technique_Repo/README.md`
   • `📊 Rapports/README.md`
@@ -19944,9 +19354,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
   • `📊 Rapports/30_Analyses_Multi_Angle/RAPPORT_FINAL_INTEGRATION_20260710.md`
   • `📊 Rapports/70_Technique_Repo/README.md`
   • `📊 Rapports/README.md`
@@ -20057,7 +19467,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `📊 Rapports/70_Technique_Repo/README.md`
   • `📊 Rapports/README.md`
 
@@ -20074,9 +19484,9 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `📊 Rapports/80_Recherches_Donnees/README.md`
   • `📊 Rapports/README.md`
 
@@ -20375,8 +19785,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `README.md`
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
   • `📊 Rapports/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
   • `🧠 Memory/🗂️ Tokens/token-exploitation-hb-raison-sociale.md`
@@ -20545,7 +19955,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire RapportInterventionMainDroite.md`
   • `⚖️ Actes/Preuves officielles/20260716 🏪 Visite Lieux Foix/20260716 Note Constatations Visite Lieux.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `📊 Rapports/README.md`
 
 <hr>
@@ -21549,12 +20959,12 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Antiseche Orale Plainte Note.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/✉️ Guide Dialogue Police Note.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/✉️ Constat Huissier - Requête Archive.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🗄️ Archivé/Requête - Constat Huissier Archive.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
 
 <hr>
 
@@ -21568,16 +20978,16 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Mail Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Email Attestation.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Formulaire.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ CADA - Saisine - Modèle.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Stratégique FGTI CIVI.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/📁 Preparation Expertise UMJ.md`
@@ -21600,11 +21010,11 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Doyen des Juges - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
 
 <hr>
 
@@ -21620,26 +21030,26 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md`
   • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Tribunal de Commerce - Opposition Radiation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TJ Foix - Courrier - Preuves Complémentaires.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/TJ Foix - Courrier - Preuves Complémentaires.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BBAJ - Demande AJ - Guide AJ.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Mairie - Tavella - Courrier - Relance.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Mémoire - En défense adverse.md`
   • `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Conservation Preuves Numériques.md`
@@ -21662,7 +21072,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Jurisprudence.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`
-  • `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
 
@@ -21678,8 +21088,8 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Checklist - Déplacement 20-07.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Suivi Envois LRAR.md`
   • `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Bon Envoi Physique.md`
@@ -21696,16 +21106,16 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 **Cite :**
 
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ INPI - Immatriculation - Opposition.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/INPI - Immatriculation - Opposition.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CODAF - Signalement - Relance.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Fiche Réflexe 48h Victime.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Action Directe Assureur RC.md`
 
@@ -21826,29 +21236,29 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 **Cite :**
 
   • `README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ CPAM - Recours Tiers - Saisine.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ FGTI - Saisine.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/CPAM - Recours Tiers - Saisine.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/FGTI - Saisine.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Employé - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Pompier SAMU - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/✉️ Témoin Client - Attestation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Assureur RC - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Président - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Pompier SAMU - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Attestations/Témoin Client - Attestation.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Propriétaire - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Assureur RC - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Président - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md`
-  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/Police - Vidéos - Relance.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/INPI - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SDIS - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/SIE - Signalement.md`
+  • `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
   • `🧠 Memory/README.md`
 
 <hr>
@@ -22010,7 +21420,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Signalement - Procureur de Foix.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Parquet Foix - Signalement - Procureur de Foix.md`
 
 **✉️⚖️ Procureur — Signalement Mairie — Suites Administratives**
 
@@ -22121,16 +21531,16 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
 
 <hr>
 
-### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md`
+### `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/CPAM - Rectification Identité - Relance.md`
 
-**✉️ CPAM - Rectification Identité - Relance.md**
+**CPAM - Rectification Identité - Relance.md**
 
 **Cite :**
 
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/README.md`
   • `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/README.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-ville.md`
@@ -22152,7 +21562,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `README.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/📂 Preuves officielles/README.md`
   • `🧠 Memory/TOKEN MAP.md`
   • `🧠 Memory/🗂️ Tokens/token-accident-metropole.md`
@@ -22206,7 +21616,7 @@ Ces cycles n'impliquent **ni** README **ni** fichier token — ils peuvent indiq
   • `⚖️ Actes/Preuves officielles/20260602 👮‍♂️ Police PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md`
   • `⚖️ Actes/README.md`
   • `⚖️ Actes/🔑 Token/README.md`
-  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+  • `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
   • `⚖️ Actes/🔑 Token/🗄️ Archives/README.md`
 
 <hr>

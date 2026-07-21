@@ -30,9 +30,10 @@ jx: J+38
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏥 CPAM › ✉️ CPAM - Recours Tiers - Saisine*
 <hr>
+<!-- /PJ -->
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # TRANSMISSION ET BORDEREAU RECAPITULATIF<br>RECOURS CONTRE TIERS
 > 🔗 Source Google Drive : [1_cHcprI9XKo…](https://drive.google.com/open?id=1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY)
@@ -49,7 +50,9 @@ Direction des Recours Contre Tiers
 [**[La Ville de Residence de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md), le **[J+38 Constitution PC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)**
 <!-- /Date -->
 
+---
 Objet : Transmission d'elements et bordereau recapitulatif — Recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
+---
 
 Ref : Accident du **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** — SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** — SIREN **[SIREN de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)**
 
@@ -86,7 +89,7 @@ A ce jour, les procedures suivantes ont ete engagees :
 
 3. **Assignation Article 145 CPC** (5 juillet 2026) : Saisine du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** pour communication forcee de la police d'assurance RC professionnelle sous astreinte.
 
-4. **[Constitution de Partie Civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : Depot d'une plainte avec [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md) aupres du Doyen des Juges d'Instruction du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, fondee sur les articles 222-19 et 222-20 du Code penal (blessures involontaires), et engageant la responsabilite penale de la SAS et de ses dirigeants.
+4. **[Constitution de Partie Civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : Depot d'une plainte avec [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) aupres du Doyen des Juges d'Instruction du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, fondee sur les articles 222-19 et 222-20 du Code penal (blessures involontaires), et engageant la responsabilite penale de la SAS et de ses dirigeants.
 <hr><hr>
 
 ## IV — BORDEREAU RECAPITULATIF DES PIECES
@@ -157,7 +160,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 
 - **Pièce n°12 :** Assignation Article 145 CPC (communication assurance) — **[J+37 Assignation 145](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-37-assignation-145.md)**
 
-- **Pièce n°13 :** [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md) (Art. 222-19/222-20 CP) — **[J+38 Constitution PC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)**
+- **Pièce n°13 :** [Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (Art. 222-19/222-20 CP) — **[J+38 Constitution PC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)**
 
 **C. Pièces administratives CPAM**
 

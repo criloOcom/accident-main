@@ -21,15 +21,15 @@ type: rapport
 
 1. [Contexte et Objectifs](#1-contexte-et-objectifs)
 
-2. [Documents Créés](#2-documents-cr%C3%A9%C3%A9s)
+2. [Documents Créés](%232-documents-cr%C3%A9%C3%A9s)
 
 3. [Contenu des Documents](#3-contenu-des-documents)
 
-4. [Stratégie de Présentation](#4-strat%C3%A9gie-de-pr%C3%A9sentation)
+4. [Stratégie de Présentation](%234-strat%C3%A9gie-de-pr%C3%A9sentation)
 
-5. [Checklist Complète](#5-checklist-compl%C3%A8te)
+5. [Checklist Complète](%235-checklist-compl%C3%A8te)
 
-6. [Prochaines Étapes](#6-prochaines-%C3%A9tapes)
+6. [Prochaines Étapes](%236-prochaines-%C3%A9tapes)
 
 7. [Recommandations Finales](#7-recommandations-finales)
 

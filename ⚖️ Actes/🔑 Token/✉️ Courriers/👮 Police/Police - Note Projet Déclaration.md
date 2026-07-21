@@ -18,14 +18,18 @@ reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/Police - Note Projet 
 <!-- Objet -->
 <!-- Date -->
 <!-- Destinataire -->
+<!-- /Source -->
+<!-- /PJ -->
+<!-- /Destinataire -->
 <!-- Auteur -->
+<!-- /Auteur -->
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers](../README.md) › [👮 Police](./README.md) › 📋 Police - Note Projet Déclaration*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) au jour de l'accident [l'erratum](./📜%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) au jour de l'accident [l'erratum](./Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # PROJET DE DÉCLARATION POUR PV
 ## Bloc continu — prêt à recopier par l'OPJ
@@ -42,7 +46,7 @@ reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/Police - Note Projet 
 
 Je confirme aujourd'hui les faits décrits dans cette première plainte. Je viens uniquement apporter des précisions nouvelles sur l'identité réelle de l'exploitant des lieux et des sociétés concernées.
 
-Le 29 mai 2026, dans l'après-midi, je me rends dans ce salon de coiffure pour une coupe. À l'issue de la prestation, je règle la somme de 15 euros via l'application bancaire Wero au profit d'un compte intitulé "[**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)". Ce compte est associé au numéro de téléphone [**[Le Téléphone du Préposé]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md), ce qui m'a ensuite permis d'identifier le coiffeur comme pouvant être [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)). Je quitte l'établissement après ce paiement.
+Le 29 mai 2026, dans l'après-midi, je me rends dans ce salon de coiffure pour une coupe. À l'issue de la prestation, je règle la somme de 15 euros via l'application bancaire Wero au profit d'un compte intitulé "[**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23personnes-physiques)". Ce compte est associé au numéro de téléphone [**[Le Téléphone du Préposé]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md), ce qui m'a ensuite permis d'identifier le coiffeur comme pouvant être [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)). Je quitte l'établissement après ce paiement.
 
 Moins de cinq minutes plus tard, je reviens dans le salon pour demander une retouche. En entrant, je constate que le coiffeur, que j'identifie comme pouvant être [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md), est monté sur la structure d'un bac à shampoing muni d'une vasque en céramique. Au moment où il redescend, son poids provoque le déséquilibre et le basculement du meuble. Nous avons tous les deux le même réflexe : tendre les mains pour retenir la chute du bac afin d'éviter qu'il ne s'écrase au sol ou ne blesse le coiffeur.
 

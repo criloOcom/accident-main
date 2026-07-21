@@ -19,7 +19,7 @@ type: memory
 | **Montant** | 15,00 € |
 | **Nature** | Paiement Wero (preuve de présence) |
 | **Variable canonique** | `PREUVE_BANCAIRE` (Wero) |
-| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md#correspondance-tokens-financiers-alternatifs-finance) |
+| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md%23correspondance-tokens-financiers-alternatifs-finance) |
 
 ## Contexte
 

@@ -19,11 +19,11 @@ Ce rapport liste les incohérences détectées dans les fichiers sous `⚖️ Ac
 
 ## I — INCOHÉRENCES DÉTECTÉES
 
-### I.1 — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+### I.1 — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
 
 - **Ligne 28** : Profession erronée (victime qualifiée de 'coiffeur')
 
-  - **Valeur erronée** : `- [**[J+4 Dépôt de plainte]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Procès-verbal de police n° [**[N° PV Police]**](../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (Police Nationale [**[La Métropole Régionale]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)) : Dépôt de plainte de [**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) pour blessures involontaires. Description de l'accident : montée du coiffeur sur la vasque en céramique, basculement, cassure préexistante. PV complet 3 pages.`
+  - **Valeur erronée** : `- [**[J+4 Dépôt de plainte]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md) — Procès-verbal de police n° [**[N° PV Police]**](../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23donnees-localisantes) (Police Nationale [**[La Métropole Régionale]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)) : Dépôt de plainte de [**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) pour blessures involontaires. Description de l'accident : montée du coiffeur sur la vasque en céramique, basculement, cassure préexistante. PV complet 3 pages.`
   - **Correction suggérée** : Remplacer par 'informaticien indépendant'.
 
 ### I.2 — Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
@@ -33,14 +33,14 @@ Ce rapport liste les incohérences détectées dans les fichiers sous `⚖️ Ac
   - **Valeur erronée** : `Premièrement, face au silence de l'exploitant le jour de l'accident, j'ai envoyé des lettres recommandées avec accusé de réception (LRAR) le 29 juin 2026 aux dirigeants ainsi qu'au propriétaire des murs. Le but de ces courriers était d'obtenir les coordonnées de leur assurance Responsabilité Civile Professionnelle, une obligation légale, pour permettre la prise en charge de mes préjudices, qui sont lourds (j'ai 55 jours d'ITT). Or, ces courriers me sont revenus avec la mention "NPAI - Destinataire inconnu à l'adresse". Pourtant, j'ai vérifié sur le RNE/INPI le 10 juillet 2026, la société est toujours officiellement immatriculée à cette adresse au [**[L'Adresse de l'Exploitation]**]. Il y a donc une volonté manifeste de se soustraire à leurs obligations et de ne réceptionner aucune communication de ma part ou de celle de la justice.`
   - **Correction suggérée** : Corriger la date en '29 mai 2026'.
 
-### I.3 — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/✉️ Témoin Client - Attestation.md`
+### I.3 — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/Témoin Client - Attestation.md`
 
 - **Ligne 40** : Profession erronée (victime qualifiée de 'coiffeur')
 
   - **Valeur erronée** : `J'ai alors vu un autre client, [**[La Victime]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), tendre la main droite par un réflexe immédiat pour tenter de rattraper le coiffeur et le protéger de la chute. Sa paume a heurté le flanc de la vasque.`
   - **Correction suggérée** : Remplacer par 'informaticien indépendant'.
 
-### I.4 — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ URSSAF - Signalement.md`
+### I.4 — Fichier : `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/URSSAF - Signalement.md`
 
 - **Ligne 60** : Profession erronée (victime qualifiée de 'coiffeur')
 

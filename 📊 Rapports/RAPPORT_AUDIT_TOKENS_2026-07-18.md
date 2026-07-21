@@ -91,11 +91,11 @@ Le nouveau token `**[Le Téléphone du Préposé]**` a été intégré dans le d
 Une recherche ciblée sur les données réelles du préposé (Ayoub Bennourine, ainsi que ses numéros de téléphone) dans le sous-dossier sécurisé `⚖️ Actes/🔑 Token/` a révélé **3 fichiers non expurgés**, constituant un échec critique d'anonymisation.
 
 Les fuites d'identités réelles ont été détectées dans les fichiers suivants :
-- `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md` (Fuite du prénom "AYOUB")
+- `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md` (Fuite du prénom "AYOUB")
 
 - `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md` (Fuite du prénom/nom "Ayoub B.")
 
-- `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Projet Déclaration.md` (Fuite du prénom "AYOUB B" et du téléphone réel "+33 7 58 40 12 87")
+- `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md` (Fuite du prénom "AYOUB B" et du téléphone réel "+33 7 58 40 12 87")
 
 <hr><hr>
 

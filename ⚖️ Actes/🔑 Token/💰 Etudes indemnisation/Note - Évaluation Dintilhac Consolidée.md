@@ -36,27 +36,27 @@ Rédigé le **[J+32 Assignation référé](../../../%F0%9F%A7%A0%20Memory/%F0%9F
 
 # TABLE DES MATIÈRES
 
-- [1. INTRODUCTION ET PRINCIPES GÉNÉRAUX](#1-introduction-et-principes-g%C3%A9n%C3%A9raux)
+- [1. INTRODUCTION ET PRINCIPES GÉNÉRAUX](%231-introduction-et-principes-g%C3%A9n%C3%A9raux)
 
-- [2. SYNTHÈSE DES ÉVALUATIONS](#2-synth%C3%A8se-des-%C3%A9valuations)
+- [2. SYNTHÈSE DES ÉVALUATIONS](%232-synth%C3%A8se-des-%C3%A9valuations)
 
 - [3. ANALYSE POSTE PAR POSTE](#3-analyse-poste-par-poste)
 
   - [3.1 PGPA — Pertes de Gains Professionnels Actuels](#31-pgpa--pertes-de-gains-professionnels-actuels)
 
-  - [3.2 DFT — Déficit Fonctionnel Temporaire](#32-dft--d%C3%A9ficit-fonctionnel-temporaire)
+  - [3.2 DFT — Déficit Fonctionnel Temporaire](%2332-dft--d%C3%A9ficit-fonctionnel-temporaire)
 
-  - [3.3 DFP — Déficit Fonctionnel Permanent](#33-dfp--d%C3%A9ficit-fonctionnel-permanent)
+  - [3.3 DFP — Déficit Fonctionnel Permanent](%2333-dfp--d%C3%A9ficit-fonctionnel-permanent)
 
-  - [3.4 SE — Souffrances Endurées](#34-se--souffrances-endur%C3%A9es)
+  - [3.4 SE — Souffrances Endurées](%2334-se--souffrances-endur%C3%A9es)
 
   - [3.5 IP — Incidence Professionnelle](#35-ip--incidence-professionnelle)
 
-  - [3.6 Préjudice d'Agrément](#36-pr%C3%A9judice-dagr%C3%A9ment)
+  - [3.6 Préjudice d'Agrément](%2336-pr%C3%A9judice-dagr%C3%A9ment)
 
-  - [3.7 PEP — Préjudice Esthétique Permanent](#37-pep--pr%C3%A9judice-esth%C3%A9tique-permanent)
+  - [3.7 PEP — Préjudice Esthétique Permanent](%2337-pep--pr%C3%A9judice-esth%C3%A9tique-permanent)
 
-   - [3.8 DEP — Dévalorisation Professionnelle Future](#38-dep--d%C3%A9valorisation-professionnelle-future)
+   - [3.8 DEP — Dévalorisation Professionnelle Future](%2338-dep--d%C3%A9valorisation-professionnelle-future)
 
    - [3.9 ATP — Assistance par Tierce Personne](#39-atp--assistance-par-tierce-personne)
 
@@ -64,9 +64,9 @@ Rédigé le **[J+32 Assignation référé](../../../%F0%9F%A7%A0%20Memory/%F0%9F
 
    - [3.11 Article 700 CPC](#311-article-700-cpc)
 
-- [4. STRATÉGIE DE RECOUVREMENT](#4-strat%C3%A9gie-de-recouvrement)
+- [4. STRATÉGIE DE RECOUVREMENT](%234-strat%C3%A9gie-de-recouvrement)
 
-- [5. DEMANDE DE PROVISION EN RÉFÉRÉ](#5-demande-de-provision-en-r%C3%A9f%C3%A9r%C3%A9)
+- [5. DEMANDE DE PROVISION EN RÉFÉRÉ](%235-demande-de-provision-en-r%C3%A9f%C3%A9r%C3%A9)
 
 <hr><hr>
 
@@ -499,7 +499,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 **Avantage décisif :** Le FGTI verse l'indemnisation même si la SAS est insolvable, puis exerce son recours subrogatoire contre les responsables.
 <hr><hr>
 
-## XX — IV.4 — [CONSTITUTION DE PARTIE CIVILE](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md) (VOIE PÉNALE)
+## XX — IV.4 — [CONSTITUTION DE PARTIE CIVILE](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (VOIE PÉNALE)
 
 **Avantages :**
 - Déclenche l'action publique

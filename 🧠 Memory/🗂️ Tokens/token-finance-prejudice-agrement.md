@@ -21,7 +21,7 @@ type: memory
 | **Poste Dintilhac** | Préjudice d'agrément |
 | **Tier** | Médian |
 | **Variable canonique** | `AGREMENT_MEDIAN` |
-| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md#correspondance-tokens-financiers-alternatifs-finance) — Avis Dintilhac 2026-07-13 |
+| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md%23correspondance-tokens-financiers-alternatifs-finance) — Avis Dintilhac 2026-07-13 |
 
 ## Contexte
 

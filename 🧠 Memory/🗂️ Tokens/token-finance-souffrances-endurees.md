@@ -20,7 +20,7 @@ type: memory
 | **Poste Dintilhac** | Souffrances endurées |
 | **Tier** | Compromis |
 | **Variable canonique** | `SE_COMPROMIS` |
-| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md#correspondance-tokens-financiers-alternatifs-finance) |
+| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md%23correspondance-tokens-financiers-alternatifs-finance) |
 
 ## Contexte
 

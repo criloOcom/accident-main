@@ -23,6 +23,9 @@ jx: J+38
 <!-- LRAR -->
 <!-- Objet -->
 <!-- Auteur -->
+<!-- /Source -->
+<!-- /PJ -->
+<!-- /Auteur -->
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👥 Témoins › ✉️ Pompier SAMU - Email Attestation*
@@ -32,7 +35,9 @@ jx: J+38
 <!-- /Destinataire -->
 
 # TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (POMPIER / SAMU)
+---
 Objet : Attestation de témoin — Intervention du **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** au **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**
+---
 
 <hr><hr>
 

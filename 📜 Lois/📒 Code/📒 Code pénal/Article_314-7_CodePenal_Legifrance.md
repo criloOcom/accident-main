@@ -88,7 +88,7 @@ Cet article pourrait s'appliquer à la situation où :
 
 ---
 
-**Note :** Cet article est cité dans le signalement au Parquet pour fraude (document Parquet - Signalement Fraude.md). Il complète les dispositions sur la fraude et la dissimulation.
+**Note :** Cet article est cité dans le signalement au Parquet pour fraude (document Parquet Foix - Signalement Fraude.md). Il complète les dispositions sur la fraude et la dissimulation.
 
 **Dernière mise à jour :** 11 juillet 2026
 **Source :** Code pénal - Livre III - Titre III

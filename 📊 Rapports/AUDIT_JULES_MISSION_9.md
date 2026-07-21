@@ -31,19 +31,19 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 
 - [x] `l.35` — Mention correcte de la profession : *Patient : Sébastien GRAZIDE (Né le 18/01/1982) – Informaticien indépendant (SIREN : 500 474 457)*
 
-### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/✉️ Consultation - Avocat Jimini.md`
+### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/Consultation - Avocat Jimini.md`
 - [x] `l.48` — Mention correcte de la profession : *Le **29 mai 2026**, je suis victime d'un accident dans un salon de coiffure « [**[Le Nouvel Exploitant (HB BARBER)]**] ». Un bac à shampooing s'est détaché du mur et m'a sectionné le tendon, le nerf et l'artère de l'index droit. Opéré en urgence le 30 mai à la Clinique SOS Main de Toulouse. Arrêt de travail : **55 jours**. Je suis informaticien indépendant (~9 000 €/an).*
 
-### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/✉️ Doyen des Juges - Saisine.md`
+### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Justice/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
 - [x] `l.40` — Mention correcte de la profession : *[**[L'Identifiant Professionnel de la Victime]**]*
 
-### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/✉️ Propriétaire - Courrier - Relance 3.md`
+### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏠 Propriétaire/Propriétaire - Courrier - Relance 3.md`
 - [x] `l.71` — Mention correcte de la profession : *- J'exerce la profession d'**informaticien indépendant** (SIREN **[L'Identifiant Professionnel de la Victime]**).*
 
-### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président - Courrier.md`
+### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/SAS - Président - Courrier.md`
 - [x] `l.101` — Mention correcte de la profession : *Du fait de mon activité d'informaticien indépendant ([**[L'Identifiant Professionnel de la Victime]**]), l'incapacité d'utiliser mon index et ma main dominante me paralyse totalement dans mon travail quotidien.*
 
-### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Courrier.md`
+### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/SAS - Courrier.md`
 - [x] `l.84` — Mention correcte de la profession : *Travaillant à mon compte en tant qu'informaticien indépendant ([**[L'Identifiant Professionnel de la Victime]**]), cet accident me paralyse professionnellement et financièrement.*
 
 ### 📄 `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - HB BARBER - Courrier.md`
@@ -54,7 +54,7 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 ### 📄 `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Dossier Présentation.md`
 - [x] `l.58` — Mention correcte de la profession : *Afin de lever tout obstacle financier pour [**[La Victime]**], travailleur indépendant ([**[L'Identifiant Professionnel de la Victime]**]) actuellement privé de revenus professionnels, plusieurs mécanismes juridiques de subrogation et de remboursement des honoraires sont mobilisés :*
 
-### 📄 `⚖️ Actes/🔑 Token/🗄️ Archives/Partie Civile - Constitution.md`
+### 📄 `⚖️ Actes/🔑 Token/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
 - [x] `l.55` — Mention correcte de la profession : *Profession : Informaticien indépendant ([**[L'Identifiant Professionnel de la Victime]**])*
 
 ### 📄 `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Analyse Correction Juridique.md`
@@ -66,7 +66,7 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 ### 📄 `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md`
 - [x] `l.176` — Mention correcte de la profession : *L'évaluation des préjudices subis par [**[La Victime]**], informaticien indépendant (SIREN [**[L'Identifiant Professionnel de la Victime]**], chiffre d'affaires annuel 9 000 € net selon URSSAF), est établie comme suit :*
 
-### 📄 `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+### 📄 `⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
 - [x] `l.55` — Mention correcte de la profession : *[**[La Victime]**] (ne le 18 janvier 1982, informaticien independant) a ete victime d'un accident corporel grave le [**[J+0 Accident]**] a 15h00 au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**] (SIREN [**[SIREN de l'Exploitation]**]), sise [**[L'Adresse de l'Exploitation]**].*
 
 ### 📄 `⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
@@ -103,25 +103,25 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 ### 📄 `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Plan d'Action.md`
 - [x] `l.70` — Mention correcte de la profession : *Parallèlement, une action directe est engagée auprès de l'assureur pour solliciter l'ouverture d'un dossier de sinistre, la désignation d'un expert médical et le versement d'une provision financière de première urgence pour compenser les pertes d'exploitation de [**[La Victime]**], informaticien indépendant.*
 
-### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
 - [x] `l.52` — Mention correcte de la profession : *[**[La Victime]**], né le [**[Date de naissance de la Victime]**], de nationalité française, demeurant au [**[L'Adresse de la Victime]**], exerçant la profession d'informaticien indépendant, ayant pour avocat constitué [**[Nom de l'Avocat de la Victime]**], avocat au barreau de [**[La Ville de l'Accident]**].*
 
 - [x] `l.268` — Mention correcte de la profession : *[**[La Victime]**] est informaticien indépendant. L'atteinte physique sévère à sa main droite (dominante) limite gravement son activité professionnelle d'informaticien.*
 
-### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
 - [x] `l.157` — Mention correcte de la profession : *S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'évaluation indemnitaire barémique Dintilhac du 13 juillet 2026 (pièce n° 44). Ce rapport, établi sur la base de la situation réelle de [**[La Victime]**] (informaticien indépendant, 9 000 € de revenus annuels, atteinte de la main droite dominante, 55 jours d'interruption d'activité), retient deux hypothèses de déficit fonctionnel permanent (10 % et 15 %) et chiffre le préjudice global en droit commun, avant imputation du recours de la CPAM, à environ 126 000 € dans le scénario prudent et 161 500 € dans le scénario médian. La provision sollicitée à hauteur de **15 000 €** s'inscrit ainsi très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.*
 
 - [x] `l.48` — Mention correcte de la profession : *Le **29 mai 2026**, aux environs de 15 heures, [**[La Victime]**], informaticien indépendant âgé de [**[Âge de la Victime]**], se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.*
 
 - [x] `l.36` — Mention correcte de la profession : *[**[La Victime]**], né le [**[Date de naissance de la Victime]**], de nationalité française, demeurant au [**[L'Adresse de la Victime]**], exerçant la profession d'informaticien indépendant.*
 
-### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
 - [x] `l.42` — Mention correcte de la profession : *[**[La Victime]**], demeurant [**[L'Adresse de la Victime]**], informaticien indépendant,*
 
-### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
+### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
 - [x] `l.24` — Mention correcte de la profession : *Né le [Date de naissance à compléter], de nationalité [Nationalité à compléter], profession : [**[L'Identifiant Professionnel de la Victime]**],*
 
-### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
 - [x] `l.44` — Mention correcte de la profession : *- [**[J+3 Premiers arrêts]**] au [**[J+55 Fin d'ITT]**] — [Arrêts de travail] et prolongations ([**[Le Médecin Généraliste]**], [**[Le Médecin Généraliste]**]) : arrêt de travail total de 55 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 29 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.*
 
 ### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
@@ -133,27 +133,27 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 ### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md`
 - [x] `l.53` — Mention correcte de la profession : *Profession : Informaticien indépendant (SIREN : [**[L'Identifiant Professionnel de la Victime]**]).*
 
-### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+### 📄 `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
 - [x] `l.72` — Mention correcte de la profession : ***Scénario B (offensif)** : l'expertise fait état d'une consolidation à 12 mois et d'une impossibilité pour la victime, informaticienne, d'utiliser sa main dominante pour le travail pendant la quasi-totalité de cette période. Si l'ITT pénale est étendue à la période d'incapacité fonctionnelle totale constatée par l'expert (au-delà de 3 mois), la qualification de l'article **222-19** du Code pénal (ITT > 3 mois) devient encourue, avec des peines portées à 3 ans d'emprisonnement et 45 000 € d'amende en cas de violation manifestement délibérée — ce qui est le cas en présence d'un défaut d'entretien d'un ERP.*
 
 - [x] `l.117` — Mention correcte de la profession : *Les faits dénoncés revêtent une indéniable gravité, les conséquences pour la victime, informaticien de profession, étant majeures (atteinte nerveuse de la main dominante). Le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 confirme objectivement ces constatations : section complète du tendon FDP et du paquet vasculo-nerveux collatéral radial de l'index droit, DFP de 12 % avec incidence professionnelle majeure, SE de 4/7, et consolidation à 12 mois. L'expert évalue le préjudice extra-patrimonial global à environ 49 231 €.*
 
 - [x] `l.51` — Mention correcte de la profession : *L'ITT pénale a été fixée à **1 jour** par le certificat médical initial du Dr OXYBEL du 1er juin 2026, sous réserve de la réévaluation globale programmée à l'UMJ de Purpan le 12 novembre 2026. L'arrêt de travail total est de **55 jours** (du 29/05/2026 au 23/07/2026). Une expertise médicale judiciaire ultérieure a conclu à une consolidation au 1er mars 2027 (12 mois), avec un Déficit Fonctionnel Permanent (DFP) de 12 % et des Souffrances Endurées (SE) de 4/7. La main droite dominante de la victime, informaticienne de profession, conserve une séquelle sensitive et fonctionnelle définitive dans le territoire du nerf collatéral radial de l'index, limitant sa dextérité fine et sa capacité de travail.*
 
-### 📄 `⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Justice/✉️ Consultation - Avocat Jimini.md`
+### 📄 `⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Justice/Consultation - Avocat Jimini.md`
 - [x] `l.48` — Mention correcte de la profession : *Le **29 mai 2026**, je suis victime d'un accident dans un salon de coiffure « [SAS HB BARBER] ». Un bac à shampooing s'est détaché du mur et m'a sectionné le tendon, le nerf et l'artère de l'index droit. Opéré en urgence le 30 mai à la Clinique SOS Main de Toulouse. Arrêt de travail : **55 jours**. Je suis informaticien indépendant (~9 000 €/an).*
 
-### 📄 `⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Justice/✉️ Doyen des Juges - Saisine.md`
+### 📄 `⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Justice/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md`
 - [x] `l.40` — Mention correcte de la profession : *[500 474 457]*
 
 - [x] `l.40` — Mention correcte du SIREN : *[500 474 457]*
 
-### 📄 `⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Président - Courrier.md`
+### 📄 `⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Président - Courrier.md`
 - [x] `l.101` — Mention correcte de la profession : *Du fait de mon activité d'informaticien indépendant ([500 474 457]), l'incapacité d'utiliser mon index et ma main dominante me paralyse totalement dans mon travail quotidien.*
 
 - [x] `l.101` — Mention correcte du SIREN : *Du fait de mon activité d'informaticien indépendant ([500 474 457]), l'incapacité d'utiliser mon index et ma main dominante me paralyse totalement dans mon travail quotidien.*
 
-### 📄 `⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/✉️ SAS - Courrier.md`
+### 📄 `⚖️ Actes/👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - Courrier.md`
 - [x] `l.84` — Mention correcte de la profession : *Travaillant à mon compte en tant qu'informaticien indépendant ([500 474 457]), cet accident me paralyse professionnellement et financièrement.*
 
 - [x] `l.84` — Mention correcte du SIREN : *Travaillant à mon compte en tant qu'informaticien indépendant ([500 474 457]), cet accident me paralyse professionnellement et financièrement.*
@@ -172,7 +172,7 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 
 - [x] `l.58` — Mention correcte de la profession : *Afin de lever tout obstacle financier pour [Sébastien GRAZIDE], travailleur indépendant ([500 474 457]) actuellement privé de revenus professionnels, plusieurs mécanismes juridiques de subrogation et de remboursement des honoraires sont mobilisés :*
 
-### 📄 `⚖️ Actes/👤 Reel/🗄️ Archives/Partie Civile - Constitution.md`
+### 📄 `⚖️ Actes/👤 Reel/🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md`
 - [x] `l.55` — Mention correcte du SIREN : *Profession : Informaticien indépendant ([500 474 457])*
 
 - [x] `l.55` — Mention correcte de la profession : *Profession : Informaticien indépendant ([500 474 457])*
@@ -190,7 +190,7 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 
 - [x] `l.176` — Mention correcte du SIREN : *L'évaluation des préjudices subis par [Sébastien GRAZIDE], informaticien indépendant (SIREN [500 474 457], chiffre d'affaires annuel 9 000 € net selon URSSAF), est établie comme suit :*
 
-### 📄 `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Constat Huissier - Requête 145 CPC.md`
+### 📄 `⚖️ Actes/👤 Reel/🗄️ Archives/33 ✉️ Requête - Constat Huissier 145 CPC.md`
 - [x] `l.55` — Mention correcte de la profession : *[Sébastien GRAZIDE] (ne le 18 janvier 1982, informaticien independant) a ete victime d'un accident corporel grave le [29 mai 2026] a 15h00 au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS] (SIREN [938 033 222]), sise [22 Rue Lafaurie, 09000 Foix].*
 
 ### 📄 `⚖️ Actes/👤 Reel/🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`
@@ -231,29 +231,29 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 ### 📄 `⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Plan d'Action.md`
 - [x] `l.70` — Mention correcte de la profession : *Parallèlement, une action directe est engagée auprès de l'assureur pour solliciter l'ouverture d'un dossier de sinistre, la désignation d'un expert médical et le versement d'une provision financière de première urgence pour compenser les pertes d'exploitation de [Sébastien GRAZIDE], informaticien indépendant.*
 
-### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
 - [x] `l.52` — Mention correcte de la profession : *[Sébastien GRAZIDE], né le [**[Date de naissance de la Victime]**], de nationalité française, demeurant au [10 Avenue de Purpan, 31700 Blagnac], exerçant la profession d'informaticien indépendant, ayant pour avocat constitué [Nom Prénom de l'Avocat], avocat au barreau de [Foix].*
 
 - [x] `l.217` — Mention correcte de la profession : *S'agissant de l'évaluation des préjudices corporels de [Sébastien GRAZIDE], il sera renvoyé au rapport d'évaluation indemnitaire barémique établi le 13 juillet 2026 selon la méthode Dintilhac (pièce n° 44), lequel reprend de manière structurée l'ensemble des postes patrimoniaux et extra-patrimoniaux, temporaires et permanents. Ce rapport, fondé sur la situation réelle de la victime (informaticien indépendant percevant un revenu annuel net d'environ 9 000 €, atteinte de la main droite dominante, 55 jours d'interruption totale d'activité, séquelles fonctionnelles persistantes), retient deux hypothèses de déficit fonctionnel permanent, à savoir un scénario prudent à 10 % et un scénario médian à 15 %. Sur cette base, il aboutit à un montant global d'indemnisation avant recours de la CPAM d'environ 126 000 € (scénario prudent, formant le plancher de négociation, arrondi à 130 000 €) et 161 500 € (scénario médian, correspondant au point d'équilibre d'une indemnisation intégrale, dans une fourchette de 160 000 à 165 000 €). La provision de [15 000 €] sollicitée à titre provisoire s'inscrit très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.*
 
 - [x] `l.268` — Mention correcte de la profession : *[Sébastien GRAZIDE] est informaticien indépendant. L'atteinte physique sévère à sa main droite (dominante) limite gravement son activité professionnelle d'informaticien.*
 
-### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md`
+### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md`
 - [x] `l.48` — Mention correcte de la profession : *Le **29 mai 2026**, aux environs de 15 heures, [Sébastien GRAZIDE], informaticien indépendant âgé de [44 ans], se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.*
 
 - [x] `l.36` — Mention correcte de la profession : *[Sébastien GRAZIDE], né le [**[Date de naissance de la Victime]**], de nationalité française, demeurant au [10 Avenue de Purpan, 31700 Blagnac], exerçant la profession d'informaticien indépendant.*
 
 - [x] `l.157` — Mention correcte de la profession : *S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'évaluation indemnitaire barémique Dintilhac du 13 juillet 2026 (pièce n° 44). Ce rapport, établi sur la base de la situation réelle de [Sébastien GRAZIDE] (informaticien indépendant, 9 000 € de revenus annuels, atteinte de la main droite dominante, 55 jours d'interruption d'activité), retient deux hypothèses de déficit fonctionnel permanent (10 % et 15 %) et chiffre le préjudice global en droit commun, avant imputation du recours de la CPAM, à environ 126 000 € dans le scénario prudent et 161 500 € dans le scénario médian. La provision sollicitée à hauteur de **15 000 €** s'inscrit ainsi très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.*
 
-### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Ordonnance sur Requête.md`
+### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`
 - [x] `l.42` — Mention correcte de la profession : *[Sébastien GRAZIDE], demeurant [10 Avenue de Purpan, 31700 Blagnac], informaticien indépendant,*
 
-### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md`
+### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md`
 - [x] `l.24` — Mention correcte de la profession : *Né le [Date de naissance à compléter], de nationalité [Nationalité à compléter], profession : [500 474 457],*
 
 - [x] `l.24` — Mention correcte du SIREN : *Né le [Date de naissance à compléter], de nationalité [Nationalité à compléter], profession : [500 474 457],*
 
-### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md`
+### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md`
 - [x] `l.44` — Mention correcte de la profession : *- [1 juin 2026] au [23 juillet 2026] — [Arrêts de travail] et prolongations ([Dr Oxybel], [Dr Oxybel]) : arrêt de travail total de 55 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 29 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.*
 
 ### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md`
@@ -269,7 +269,7 @@ Les fichiers suivants contiennent des mentions de la profession et du SIREN de l
 
 - [x] `l.53` — Mention correcte du SIREN : *Profession : Informaticien indépendant (SIREN : [500 474 457]).*
 
-### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md`
+### 📄 `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`
 - [x] `l.72` — Mention correcte de la profession : ***Scénario B (offensif)** : l'expertise fait état d'une consolidation à 12 mois et d'une impossibilité pour la victime, informaticienne, d'utiliser sa main dominante pour le travail pendant la quasi-totalité de cette période. Si l'ITT pénale est étendue à la période d'incapacité fonctionnelle totale constatée par l'expert (au-delà de 3 mois), la qualification de l'article **222-19** du Code pénal (ITT > 3 mois) devient encourue, avec des peines portées à 3 ans d'emprisonnement et 45 000 € d'amende en cas de violation manifestement délibérée — ce qui est le cas en présence d'un défaut d'entretien d'un ERP.*
 
 - [x] `l.117` — Mention correcte de la profession : *Les faits dénoncés revêtent une indéniable gravité, les conséquences pour la victime, informaticien de profession, étant majeures (atteinte nerveuse de la main dominante). Le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 confirme objectivement ces constatations : section complète du tendon FDP et du paquet vasculo-nerveux collatéral radial de l'index droit, DFP de 12 % avec incidence professionnelle majeure, SE de 4/7, et consolidation à 12 mois. L'expert évalue le préjudice extra-patrimonial global à environ 49 231 €.*

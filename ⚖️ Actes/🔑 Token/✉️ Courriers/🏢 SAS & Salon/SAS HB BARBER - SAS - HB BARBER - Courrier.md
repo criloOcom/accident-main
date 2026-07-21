@@ -21,7 +21,7 @@ reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS HB BARBER - 
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # LETTRE RECOMMANDÉE — SAS HB BARBER (SIÈGE SOCIAL)
 > 🔗 Source Google Drive : [20260718 ✉️ LRAR SAS HB BARBER (Societe)](https://docs.google.com/document/d/1mcrXdWAJM2TPbyp03NnhJeTCaKDp4b2WfuTUPtdBk-I/edit?usp=sharing)
@@ -40,7 +40,9 @@ Direction de [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%
 **[La Ville de Résidence de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
 <!-- /Date -->
 
+---
 Objet : Déclaration d'accident corporel — Demande de communication des coordonnées de l’assurance RC professionnelle — Démarche amiable préalable
+---
 
 Mode d’envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 
@@ -74,7 +76,7 @@ Je vous informe officiellement de l’accident corporel grave dont j’ai été 
 
 Lors de ma venue pour une retouche de coupe de cheveux, le basculement accidentel d’un bac à shampoing défectueux a provoqué une coupure profonde de 8,5 cm au niveau de ma main droite dominante (index droit), avec section tendineuse et nerveuse. 
 
-Le jour même, j’ai été pris en charge en urgence au [**[Centre de soins immédiats]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-centre-soins-immédiats-nom.md), [**[L'Adresse du Centre de soins immédiats]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-centre-soins-immédiats-adresse.md), par le Dr **[Le Médecin en Urgence](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md)** (RPPS [**[Le RPPS du Médecin en Urgence]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin-rpps.md)), qui a constaté une plaie palmaire droite profonde, réalisé les [premiers soins](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (lavage, désinfection, exploration sous anesthésie locale) et m’a réorienté en urgence vers le service spécialisé « SOS Main » de **[L'Établissement SOS Main](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)** pour une exploration chirurgicale le lendemain matin.
+Le jour même, j’ai été pris en charge en urgence au [**[Centre de soins immédiats]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-centre-soins-imm%C3%A9diats-nom.md), [**[L'Adresse du Centre de soins immédiats]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-centre-soins-imm%C3%A9diats-adresse.md), par le Dr **[Le Médecin en Urgence](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md)** (RPPS [**[Le RPPS du Médecin en Urgence]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin-rpps.md)), qui a constaté une plaie palmaire droite profonde, réalisé les [premiers soins](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (lavage, désinfection, exploration sous anesthésie locale) et m’a réorienté en urgence vers le service spécialisé « SOS Main » de **[L'Établissement SOS Main](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)** pour une exploration chirurgicale le lendemain matin.
 
 Le **[J+1 Chirurgie](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md)**, j’ai été opéré par le Dr **[Le Chirurgien SOS Main](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)** dans ce service de chirurgie de la main (suture tendineuse, suture microchirurgicale des nerfs et vaisseaux, neurolyse, sutures cutanées), comme l’attestent les comptes-rendus opératoires.
 

@@ -97,11 +97,11 @@ Le préposé du salon est monté sur la vasque en céramique du bac à shampoing
 - **Pièce 9** : Dossier RCT CPAM n°31727387
 
 ### IV.3 — Groupe C — Correspondances et Actes
-- **Pièce 10** : [Mise en demeure SAS (LRAR J+31)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Courrier.md)
+- **Pièce 10** : [Mise en demeure SAS (LRAR J+31)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/SAS%20-%20Courrier.md)
 
 - **Pièce 11/12** : Mises en demeure aux dirigeants **[Le Président de l'Exploitation]** et **[La Directrice Générale de l'Exploitation]**
 
-- **Pièce 16** : [Projet d'assignation en référé-provision et expertise (Art. 835 et 145 CPC)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md)
+- **Pièce 16** : [Projet d'assignation en référé-provision et expertise (Art. 835 et 145 CPC)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md)
 
 - **Pièce 18** : [Plainte complémentaire pour obstruction (J+47)](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Plainte%20Compl%C3%A9mentaire%20-%20PV%20Audition.md)
 

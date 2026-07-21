@@ -20,7 +20,7 @@ type: memory
 | **Fondement** | Article 700 du Code de procédure civile |
 | **Tier** | Compromis |
 | **Variable canonique** | `MONTANT_ARTICLE_700` |
-| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md#correspondance-tokens-financiers-alternatifs-finance) |
+| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md%23correspondance-tokens-financiers-alternatifs-finance) |
 
 ## Contexte
 

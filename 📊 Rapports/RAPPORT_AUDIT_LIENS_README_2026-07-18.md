@@ -27,17 +27,17 @@ Il s'agit de liens dont le chemin est incorrect mais pour lesquels un fichier du
 
 - **`AGENTS.md`** : le lien `/home/crilocom/accident-main/🧠 Memory/README.md` pointe vers un chemin absolu (interdit par les conventions) et de nombreux candidats existent.
 
-- **`📊 Rapports/20_Accueil_Avocat/PACK_ACCUEIL_AVOCAT_AJ.md`** : lien vers `Référé Provision - Assignation.md` introuvable, 2 candidats.
+- **`📊 Rapports/20_Accueil_Avocat/PACK_ACCUEIL_AVOCAT_AJ.md`** : lien vers `TJ Foix - TJ Foix - Référé Provision - Assignation.md` introuvable, 2 candidats.
 
-- **`🚦 Status/01_PREPARATION.md`** : lien vers `TJ Foix - TJ Foix - Bordereau Unifié.md` introuvable, 2 candidats.
+- **`🚦 Status/01_PREPARATION.md`** : lien vers `TJ Foix - Bordereau Unifié.md` introuvable, 2 candidats.
 
-- **`🚦 Status/02_PRET_POUR_ENVOI.md`** : lien vers `TJ Foix - TJ Foix - Bordereau Unifié.md` introuvable, 2 candidats.
+- **`🚦 Status/02_PRET_POUR_ENVOI.md`** : lien vers `TJ Foix - Bordereau Unifié.md` introuvable, 2 candidats.
 
-- **`🚦 Status/brouillon.md`** : lien vers `TJ Foix - TJ Foix - Bordereau Unifié.md` introuvable, 2 candidats.
+- **`🚦 Status/brouillon.md`** : lien vers `TJ Foix - Bordereau Unifié.md` introuvable, 2 candidats.
 
-- **`🚦 Status/final.md`** : lien vers `TJ Foix - TJ Foix - Bordereau Unifié.md` introuvable, 2 candidats.
+- **`🚦 Status/final.md`** : lien vers `TJ Foix - Bordereau Unifié.md` introuvable, 2 candidats.
 
-- **`🧠 Memory/TODO.md`** : lien vers `TJ Foix - TJ Foix - Bordereau Unifié.md` introuvable, 2 candidats.
+- **`🧠 Memory/TODO.md`** : lien vers `TJ Foix - Bordereau Unifié.md` introuvable, 2 candidats.
 
 ### B. Liens critiques cassés (introuvables)
 
@@ -45,13 +45,13 @@ Ces liens pointent vers des fichiers ou tokens qui n'existent pas ou plus à l'e
 
 - **Tokens manquants dans `⚖️ Actes/🔑 Token/` et `👤 Reel/`** :
 
-  - `token-dr-jardon.md` est appelé dans de multiples courriers de mises en demeure et relances (`✉️ Propriétaire - Courrier.md`, `✉️ SAS - Courrier.md`, `✉️🔄 Consolidation.md`, `✉️ DDETS - Signalement.md`, etc.).
+  - `token-dr-jardon.md` est appelé dans de multiples courriers de mises en demeure et relances (`Propriétaire - Courrier.md`, `SAS - Courrier.md`, `✉️🔄 Consolidation.md`, `DDETS - Signalement.md`, etc.).
 
   - `token-assureur-rc.md` manque dans `TJ Foix - Conclusions au Fond.md` et plusieurs rapports.
 
   - `token-metropole-regionale.md` manque dans `20260715 PV Police PV Complementaire AccidentSalonCoiffure.md`.
 
-  - `token-victime-nom-complet.md` manque dans `20270529 ⚖️ Rapport Expertise Médicale.md` et `✉️ SAS - Assureur RC - Courrier (copie Avocat).md`.
+  - `token-victime-nom-complet.md` manque dans `20270529 ⚖️ Rapport Expertise Médicale.md` et `SAS - Assureur RC - Courrier (copie Avocat).md`.
 
   - `token-exploitation-nom-commercial.md` et `token-exploitation-prepose-nom.md` sont appelés mais introuvables.
 
@@ -93,7 +93,7 @@ L'audit d'intégrité des fichiers README montre des désynchronisations mineure
 
 - **`⚖️ Actes/🔑 Token/📂 Preuves officielles/`** : `20270529 ⚖️ Rapport Expertise Médicale.md` n'est pas listé.
 
-- **`⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/`** : `📜 Police - Note Erratum Identité.md` n'est pas listé.
+- **`⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/`** : `Police - Note Erratum Identité.md` n'est pas listé.
 
 - **`📊 Rapports/` et sous-dossiers** :
 

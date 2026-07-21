@@ -21,13 +21,13 @@ type: rapport
 
 1. [Description du Nouveau Dossier](#1-description-du-nouveau-dossier)
 
-2. [Contenu Détaillé](#2-contenu-d%C3%A9taill%C3%A9)
+2. [Contenu Détaillé](%232-contenu-d%C3%A9taill%C3%A9)
 
 3. [Liens avec le Projet](#3-liens-avec-le-projet)
 
-4. [Mises à Jour Effectuées](#4-mises-%C3%A0-jour-effectu%C3%A9es)
+4. [Mises à Jour Effectuées](%234-mises-%C3%A0-jour-effectu%C3%A9es)
 
-5. [Prochaines Étapes](#5-prochaines-%C3%A9tapes)
+5. [Prochaines Étapes](%235-prochaines-%C3%A9tapes)
 
 ---
 
@@ -128,7 +128,7 @@ Ce dossier contient la correspondance officielle envoyée le 10 juillet 2026 à 
 ### III.1 — Correspondance avec le Courrier n°34
 
 Ce dossier est directement lié au **courrier n°34** du projet :
-- **Document** : [⚖️ Actes/🔑 Token/✉️ Courriers/✉️ Préfecture - Signalement.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/34%20%E2%9C%89%EF%B8%8F%20EMAIL%20Maire%20Foix%20-%20Police%20Municipale%20ERP.md)
+- **Document** : [⚖️ Actes/🔑 Token/✉️ Courriers/CODAF - Préfecture - Signalement.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/34%20%E2%9C%89%EF%B8%8F%20EMAIL%20Maire%20Foix%20-%20Police%20Municipale%20ERP.md)
 
 - **Type** : Email de suivi administratif
 

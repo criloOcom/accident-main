@@ -91,8 +91,8 @@ type: rapport
 - **Vérif live + action du 15/07 (Vague 2) :**
 
   - ✅ **Visa corrigé en toute sûreté** (4 fichiers) : « Vu les articles L. 227-8 **et L. 225-251** du Code de commerce » → « Vu l'article L. 227-8 du Code de commerce ». Pour une **SAS** (Chapitre VII C. com.), le fondement de la responsabilité des dirigeants est **L.227-8**, pas L.225-251 (qui est le régime des SA). Zéro doublon, zéro lien cassé.
-    - Fichiers : `Référé Provision - Assignation.md`, `Partie Civile - Constitution.md`, `CPC 145 - Requête.md`, `✉️ SAS - Dirigeants - Courrier - Relance.md`.
-  - ⏸️ **Citations narrative/corps LAISSÉES + FLAGGÉES « À VÉRIFIER »** (5 fichiers, 14 occurrences) : `Référé Provision - Assignation.md` (corps), `Partie Civile - Constitution.md` (corps), `✉️ SAS - Président - Courrier.md` (corps), `Note - Plaidoirie Responsabilité Dirigeants.md`, `🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`.
+    - Fichiers : `TJ Foix - TJ Foix - Référé Provision - Assignation.md`, `DJI Foix - DJI Foix - Partie Civile - Constitution.md`, `TJ Foix - TJ Foix - CPC 145 - Requête.md`, `SAS - Dirigeants - Courrier - Relance.md`.
+  - ⏸️ **Citations narrative/corps LAISSÉES + FLAGGÉES « À VÉRIFIER »** (5 fichiers, 14 occurrences) : `TJ Foix - TJ Foix - Référé Provision - Assignation.md` (corps), `DJI Foix - DJI Foix - Partie Civile - Constitution.md` (corps), `SAS - Président - Courrier.md` (corps), `Note - Plaidoirie Responsabilité Dirigeants.md`, `🗄️ Archives/Archive - Stratégie Contentieux Pénal.md`.
     - **Raison (anti-régression + Règle #11)** : ces occurrences citent le *texte* de l'article ou font un renvoi narratif. Remplacer le numéro seul créerait un mismatch (le texte cité correspond à L.225-251, pas L.227-8). Il faut **vérifier sur Légifrance** que L.227-8 porte le même fondement avant toute modification. Non automatisable → reporté.
 - **Fuites Tavella** : voir M05 (vague 1) — aucune fuite visible confirmée, noms seulement dans URLs/noms de fichiers.
 

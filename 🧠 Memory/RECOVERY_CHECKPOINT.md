@@ -47,13 +47,13 @@ type: memory
 - **50 liens historiques restants** (non bloquants)
 
 ### Phase 2 — Urgences 31 juillet
-- Demande AJ Totale créée (`📝 Procédure/✉️ BAJ - Demande AJ - Totale.md`)
+- Demande AJ Totale créée (`📝 Procédure/BAJ - Demande AJ - Totale.md`)
 
 - Assignation Référé-Provision finalisée (audience 31 juillet)
 
 - Erratum Correction Société finalisé
 
-- TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md réécrit (logistique + plaidoirie 3 min + HB BARBER)
+- TJ Foix - Mémo - Audience 31-07-2026.md réécrit (logistique + plaidoirie 3 min + HB BARBER)
 
 - Versions Reel générées (115 fichiers)
 
@@ -77,13 +77,13 @@ type: memory
 ## Fichiers critiques
 
 ### Actes finalisés (audience 31 juillet)
-- `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md`
+- `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md`
 
-- `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md`
+- `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md`
 
-- `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+- `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
 
-- `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ BAJ - Demande AJ - Totale.md`
+- `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/BAJ - Demande AJ - Totale.md`
 
 ### Infra token
 - `🧠 Memory/TOKEN MAP.md`
@@ -162,10 +162,10 @@ Chaque session : `{repo: "criloOcom/accident-main", branch: "main", autoPr: true
 | V02 | M02 Abs assurance | Actes procéduraux, Courriers |
 | V03 | M03 Stratégie | Mémo stratégie, Note synthèse avocat |
 | V04 | M04 Note étape | Notes d'étape, Frise |
-| V05 | M05 Demande AJ | ✉️ BAJ - Demande AJ - Totale.md |
-| V06 | M06 Requête 145 | Référé Provision - Assignation.md |
+| V05 | M05 Demande AJ | BAJ - Demande AJ - Totale.md |
+| V06 | M06 Requête 145 | TJ Foix - TJ Foix - Référé Provision - Assignation.md |
 | V07 | M07 Plainte + Erratum | Plainte complémentaire, Erratum |
-| V08 | M08 Plan déplacement | TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md |
+| V08 | M08 Plan déplacement | TJ Foix - Mémo - Audience 31-07-2026.md |
 | V09 | M09 LRARs | Courriers LRAR (Mises en demeure) |
 | V10 | M10 Fausses mentions | Vérifier mentions "Déposé" |
 | V11 | M11 TOKEN MAP | TOKEN MAP, batch_anonymize, generate_real_versions |

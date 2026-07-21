@@ -68,7 +68,7 @@ jx: J+50
 
 ### 1. Corroboration exacte de la version de la victime
 
-| Élément | Version [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) | Attestation Mathieu | Convergence |
+| Élément | Version [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23personnes-physiques) | Attestation Mathieu | Convergence |
 |---------|--------------------------|---------------------|-------------|
 | **Date** | 29 mai 2026 | 29 mai 2026 | ✅ |
 | **Heure** | ~15h00 | 15h25 (enregistrement téléphone) | ✅ |

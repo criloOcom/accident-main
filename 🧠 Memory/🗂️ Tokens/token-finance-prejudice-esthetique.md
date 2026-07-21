@@ -20,7 +20,7 @@ type: memory
 | **Poste Dintilhac** | Préjudice esthétique permanent |
 | **Tier** | Optimiste |
 | **Variable canonique** | `PEP` |
-| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md#correspondance-tokens-financiers-alternatifs-finance) |
+| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md%23correspondance-tokens-financiers-alternatifs-finance) |
 
 ## Contexte
 

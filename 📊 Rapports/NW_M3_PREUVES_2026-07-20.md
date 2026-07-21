@@ -33,9 +33,9 @@ Toutes les pièces listées dans `🧠 Memory/PIECES MAP.md` doivent exister phy
 
 - [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 9 — Dossier RCT CPAM n° **[N° Dossier CPAM]** — Introuvable dans `⚖️ Actes/🔑 Token/📂 Preuves officielles/`.
 
-- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 10 — LRAR [mise en demeure SAS](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Courrier.md) (J+31) — Introuvable dans `⚖️ Actes/🔑 Token/📂 Preuves officielles/`.
+- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 10 — LRAR [mise en demeure SAS](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/SAS%20-%20Courrier.md) (J+31) — Introuvable dans `⚖️ Actes/🔑 Token/📂 Preuves officielles/`.
 
-- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 10b — LRAR [relance V2 dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Dirigeants%20-%20Courrier%20-%20Relance.md) (08/07/2026) — Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf) — Introuvable dans `⚖️ Actes/🔑 Token/📂 Preuves officielles/`.
+- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 10b — LRAR [relance V2 dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/SAS%20-%20Dirigeants%20-%20Courrier%20-%20Relance.md) (08/07/2026) — Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf) — Introuvable dans `⚖️ Actes/🔑 Token/📂 Preuves officielles/`.
 
 - [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 11 — LRAR mise en demeure **[Le Président de l'Exploitation]** (J+31) — Introuvable dans `⚖️ Actes/🔑 Token/📂 Preuves officielles/`.
 
@@ -43,7 +43,7 @@ Toutes les pièces listées dans `🧠 Memory/PIECES MAP.md` doivent exister phy
 
 - [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 13 — LRAR mise en demeure **[Le Propriétaire des Murs]** (J+31) + AR signé — Introuvable dans `⚖️ Actes/🔑 Token/📂 Preuves officielles/`.
 
-- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 14 — [Action directe assureur RC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Assureur%20RC%20-%20Courrier.md) (Art. L.124-3 C. assur.) — Introuvable dans `⚖️ Actes/🔑 Token/📂 Preuves officielles/`.
+- [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 14 — [Action directe assureur RC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/SAS%20-%20Assureur%20RC%20-%20Courrier.md) (Art. L.124-3 C. assur.) — Introuvable dans `⚖️ Actes/🔑 Token/📂 Preuves officielles/`.
 
 - [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 15 — Transmission plainte au Procureur (LRAR) — Introuvable dans `⚖️ Actes/🔑 Token/📂 Preuves officielles/`.
 
@@ -104,7 +104,7 @@ Toutes les pièces listées dans `🧠 Memory/PIECES MAP.md` doivent exister phy
 - [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 43 — Preuve de dépôt LRAR arrêt de travail — Introuvable dans `⚖️ Actes/🔑 Token/📂 Preuves officielles/`.
 
 ## 2. Cohérence du TJ Foix - Bordereau Unifié
-Vérification de `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md` par rapport à `PIECES MAP.md`.
+Vérification de `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md` par rapport à `PIECES MAP.md`.
 
 ### Pièces manquantes dans le bordereau :
 - [ ] **BORDEREAU INCOMPLET** : [MAJEUR] Pièce 10b manquante.

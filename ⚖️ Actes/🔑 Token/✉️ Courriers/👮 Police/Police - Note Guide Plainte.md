@@ -25,6 +25,8 @@ jx: J+47
 <!-- Objet -->
 <!-- Date -->
 <!-- Auteur -->
+<!-- /PJ -->
+<!-- /Auteur -->
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 👮 Police › ✉️ Police - Note Guide Plainte*
@@ -33,7 +35,7 @@ jx: J+47
 <!-- /Breadcrumb -->
 <!-- /Destinataire -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 > ⚠️ **DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER**
 > Aide-mémoire pour préparer l'audition. À lire avant, laisser chez soi.
@@ -179,7 +181,7 @@ jx: J+47
 **5. Accusé de réception :**
 "Pouvez-vous me remettre un accusé de réception de ma plainte complémentaire, avec mention des suites qui seront données, conformément à l'article 15-3 du Code de procédure pénale ?"
 
-> *« Les officiers et agents de police judiciaire sont tenus de recevoir les plaintes déposées par les victimes d'infractions à la loi pénale, y compris lorsque ces plaintes sont déposées dans un service ou une unité de police judiciaire territorialement incompétents. Dans ce cas, la plainte est, s'il y a lieu, transmise au service ou à l'unité territorialement compétents. Tout dépôt de plainte fait l'objet d'un procès-verbal et donne lieu à la délivrance immédiate d'un récépissé à la victime, qui mentionne les délais de prescription de l'action publique définis aux articles 7 à 9 ainsi que la possibilité d'interrompre le délai de prescription par le dépôt d'une plainte avec [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md), en application de l'article 85 . Si elle en fait la demande, une copie du procès-verbal lui est immédiatement remise. Les officiers ou agents de police judiciaire peuvent s'identifier dans ce procès-verbal par leur numéro d'immatriculation administrative. »* <br>
+> *« Les officiers et agents de police judiciaire sont tenus de recevoir les plaintes déposées par les victimes d'infractions à la loi pénale, y compris lorsque ces plaintes sont déposées dans un service ou une unité de police judiciaire territorialement incompétents. Dans ce cas, la plainte est, s'il y a lieu, transmise au service ou à l'unité territorialement compétents. Tout dépôt de plainte fait l'objet d'un procès-verbal et donne lieu à la délivrance immédiate d'un récépissé à la victime, qui mentionne les délais de prescription de l'action publique définis aux articles 7 à 9 ainsi que la possibilité d'interrompre le délai de prescription par le dépôt d'une plainte avec [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md), en application de l'article 85 . Si elle en fait la demande, une copie du procès-verbal lui est immédiatement remise. Les officiers ou agents de police judiciaire peuvent s'identifier dans ce procès-verbal par leur numéro d'immatriculation administrative. »* <br>
 > [Article 15-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) <br>
 > **Code de procédure pénale > Section 1 : Dispositions générales — abrogation différée.[^4]**
 <hr><hr>

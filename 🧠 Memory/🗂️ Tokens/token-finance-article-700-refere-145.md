@@ -19,7 +19,7 @@ type: memory
 | **Montant** | 1 500 € |
 | **Fondement** | Article 700 CPC + Référé 145 |
 | **Variable canonique** | `MONTANT_ARTICLE_700_145` |
-| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md#correspondance-tokens-financiers-alternatifs-finance) |
+| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md%23correspondance-tokens-financiers-alternatifs-finance) |
 
 ## Contexte
 

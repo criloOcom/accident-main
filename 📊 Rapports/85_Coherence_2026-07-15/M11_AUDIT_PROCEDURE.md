@@ -51,7 +51,7 @@ type: rapport
 
 - [ ] **[INFO] Délai Assignation Référé - Audience (J+32 à J+63) :**
   L'assignation en référé est datée du 30/06/2026 (J+32) pour une audience le 31/07/2026 (J+63). Ce délai d'un mois est cohérent avec les délais d'enrôlement devant le Tribunal Judiciaire et respecte le principe du contradictoire.
-  Fichiers : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md` et `Référé Provision - Assignation.md`
+  Fichiers : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md` et `TJ Foix - TJ Foix - Référé Provision - Assignation.md`
 
 - [ ] **[INFO] Prescription de l'action en responsabilité (10 ans) :**
   L'action au fond est introduite post-consolidation (01/06/2027). La prescription de 10 ans commence à courir à la consolidation (01/03/2027) selon l'article 2226 du Code civil. L'action est parfaitement dans les délais.
@@ -59,11 +59,11 @@ type: rapport
 
 - [ ] **[MINEUR] Chronologie des Mises en demeure (J+31) et Assignation (J+32) :**
   Les mises en demeure ont été envoyées le 29/06/2026 (J+31), et l'assignation en référé a été délivrée dès le lendemain, le 30/06/2026 (J+32). Délai particulièrement court pour une résolution amiable, bien que justifié par l'urgence en référé.
-  Fichiers : `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ SAS - Courrier.md` et `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md`
+  Fichiers : `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/SAS - Courrier.md` et `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md`
 
 - [ ] **[CRITIQUE] Obsolescence / Anachronisme : Mention d'actes futurs dans des documents passés :**
-  Dans `Partie Civile - Constitution.md` (daté du 06/07/2026), il est mentionné que l'état de la victime a été déclaré consolidé au 1er mars 2027 par un rapport d'expertise déposé en mai 2027. C'est une grave incohérence temporelle. Un acte daté de juillet 2026 ne peut faire mention d'une date de consolidation en 2027.
-  Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md` (lignes 62, 186, 218)
+  Dans `DJI Foix - DJI Foix - Partie Civile - Constitution.md` (daté du 06/07/2026), il est mentionné que l'état de la victime a été déclaré consolidé au 1er mars 2027 par un rapport d'expertise déposé en mai 2027. C'est une grave incohérence temporelle. Un acte daté de juillet 2026 ne peut faire mention d'une date de consolidation en 2027.
+  Fichier : `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md` (lignes 62, 186, 218)
 
 - [ ] **[INFO] Dépôt du rapport d'expertise et Conclusions au Fond :**
   Le rapport d'expertise est daté du 29/05/2027. Les conclusions au fond sont datées du 01/06/2027, soit un délai de réaction de 3 jours, ce qui est particulièrement réactif mais possible.

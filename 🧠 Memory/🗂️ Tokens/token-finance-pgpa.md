@@ -20,7 +20,7 @@ type: memory
 | **Poste Dintilhac** | Pertes de gains professionnels actuels |
 | **Tier** | Conservatif (Glose) |
 | **Variable canonique** | `PGPA_CONSERVATIF` |
-| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md#correspondance-tokens-financiers-alternatifs-finance) |
+| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md%23correspondance-tokens-financiers-alternatifs-finance) |
 
 ## Contexte
 

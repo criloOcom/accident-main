@@ -14,33 +14,33 @@ type: readme
 
 ## Sous-dossiers
 
-- [📒 Code civil](📒%20Code%20civil/README.md) — 12 articles
+- [📒 Code civil](%F0%9F%93%92%20Code%20civil/README.md) — 12 articles
 
-- [📒 Code pénal](📒%20Code%20pénal/README.md) — 9 articles
+- [📒 Code pénal](%F0%9F%93%92%20Code%20p%C3%A9nal/README.md) — 9 articles
 
-- [📒 Code de procédure civile](📒%20Code%20procédure%20civile/README.md) — 7 articles
+- [📒 Code de procédure civile](%F0%9F%93%92%20Code%20proc%C3%A9dure%20civile/README.md) — 7 articles
 
-- [📒 Code de procédure pénale](📒%20Code%20procédure%20pénale/README.md) — 10 articles
+- [📒 Code de procédure pénale](%F0%9F%93%92%20Code%20proc%C3%A9dure%20p%C3%A9nale/README.md) — 10 articles
 
-- [📒 Code des assurances](📒%20Code%20assurances/README.md) — 5 articles
+- [📒 Code des assurances](%F0%9F%93%92%20Code%20assurances/README.md) — 5 articles
 
-- [📒 Code de commerce](📒%20Code%20commerce/README.md) — 12 articles
+- [📒 Code de commerce](%F0%9F%93%92%20Code%20commerce/README.md) — 12 articles
 
-- [📒 Code du travail](📒%20Code%20du%20travail/README.md) — 7 articles
+- [📒 Code du travail](%F0%9F%93%92%20Code%20du%20travail/README.md) — 7 articles
 
-- [📒 Code général des collectivités territoriales](📒%20Code%20général%20des%20collectivités%20territoriales/README.md) — 2 articles
+- [📒 Code général des collectivités territoriales](%F0%9F%93%92%20Code%20g%C3%A9n%C3%A9ral%20des%20collectivit%C3%A9s%20territoriales/README.md) — 2 articles
 
-- [📒 Code de la consommation](📒%20Code%20consommation/README.md) — 1 article
+- [📒 Code de la consommation](%F0%9F%93%92%20Code%20consommation/README.md) — 1 article
 
-- [📒 Code de la construction et de l'habitation](📒%20Code%20construction%20habitation/README.md) — 1 article
+- [📒 Code de la construction et de l'habitation](%F0%9F%93%92%20Code%20construction%20habitation/README.md) — 1 article
 
-- [📒 Code des relations entre le public et l'administration](📒%20Code%20des%20relations%20entre%20le%20public%20et%20l%27administration/README.md) — 1 article
+- [📒 Code des relations entre le public et l'administration](%F0%9F%93%92%20Code%20des%20relations%20entre%20le%20public%20et%20l%27administration/README.md) — 1 article
 
-- [📒 Livre des procédures fiscales](📒%20Livre%20des%20procédures%20fiscales/README.md) — 2 articles
+- [📒 Livre des procédures fiscales](%F0%9F%93%92%20Livre%20des%20proc%C3%A9dures%20fiscales/README.md) — 2 articles
 
-- [📒 Code de la sécurité sociale](📒%20Code%20sécurite%20sociale/README.md) — 1 fiche synthèse AT/MP
+- [📒 Code de la sécurité sociale](%F0%9F%93%92%20Code%20s%C3%A9curite%20sociale/README.md) — 1 fiche synthèse AT/MP
 
-- [📒 Autres codes](📒%20Autres%20codes/README.md) — vide (articles déplacés)
+- [📒 Autres codes](%F0%9F%93%92%20Autres%20codes/README.md) — vide (articles déplacés)
 
 ---
 

@@ -19,9 +19,10 @@ reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS HB BARBER - 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏢 SAS & Salon › ✉️ SAS HB BARBER - Directrice Générale - Courrier*
 <hr>
+<!-- /PJ -->
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # LETTRE RECOMMANDÉE — MME LA DIRECTRICE GÉNÉRALE (DOMICILE PERSONNEL)
 > 🔗 Source Google Drive : [20260718 ✉️ LRAR [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (DG)](https://docs.google.com/document/d/1g8I1hYbqsue4Q14iQBVkUsXM3uOgFOqRpg4Myp-frxE/edit?usp=sharing)
@@ -40,7 +41,9 @@ Directrice Générale de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9
 **[Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
 <!-- /Date -->
 
+---
 Objet : Demande de communication de l'assurance RC professionnelle de [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — Notification à la dirigeante à titre personnel et de représentant légal
+---
 
 Mode d'envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 

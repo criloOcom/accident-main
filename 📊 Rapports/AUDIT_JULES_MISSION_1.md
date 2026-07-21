@@ -27,7 +27,7 @@ Suite à l'audit, plusieurs erreurs matérielles (mentionnant une date erronée 
 Ces fichiers mentionnent par erreur `29 juin 2026` (date d'envoi des LRAR) comme étant la date de l'accident :
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md` : l. 72 — Date accident erronée : '29 juin 2026' (réel : 29 mai 2026).
 
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md` : l. 72, 209 — Date accident erronée : '29 juin 2026'.
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md` : l. 72, 209 — Date accident erronée : '29 juin 2026'.
 
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Propriétaire - Courrier Relance 3.md` : l. 44 — Date accident erronée : '29 juin 2026'.
 
@@ -35,11 +35,11 @@ Ces fichiers mentionnent par erreur `29 juin 2026` (date d'envoi des LRAR) comme
 
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition Foix.md` : l. 66 — Date accident erronée : '29 juin 2026'.
 
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📋 Police - Note Personnelle.md` : l. 126 — Date accident erronée : '29 juin 2026'.
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Personnelle.md` : l. 126 — Date accident erronée : '29 juin 2026'.
 
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/📜 Police - Note Erratum Identité.md` : l. 51, 99 — Date accident erronée : '29 juin 2026'.
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md` : l. 51, 99 — Date accident erronée : '29 juin 2026'.
 
-- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - TJ Foix - Mémo - Audience 31-07-2026.md` : l. 79 — Date accident erronée : '29 juin 2026'.
+- [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📋 Preparation Foix/TJ Foix - Mémo - Audience 31-07-2026.md` : l. 79 — Date accident erronée : '29 juin 2026'.
 
 *(Note : Ces mêmes erreurs se répercutent logiquement dans les versions `👤 Reel` générées correspondantes.)*
 

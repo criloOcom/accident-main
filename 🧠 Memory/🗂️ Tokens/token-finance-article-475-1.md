@@ -19,7 +19,7 @@ type: memory
 | **Montant** | 3 000 € |
 | **Fondement** | Article 475-1 du Code de procédure pénale |
 | **Variable canonique** | `MONTANT_ARTICLE_475_1` |
-| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md#correspondance-tokens-financiers-alternatifs-finance) |
+| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md%23correspondance-tokens-financiers-alternatifs-finance) |
 
 ## Contexte
 

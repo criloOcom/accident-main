@@ -24,7 +24,9 @@ jx: J+32
 <!-- Objet -->
 <!-- Date -->
 <!-- Destinataire -->
+<!-- /Destinataire -->
 <!-- Auteur -->
+<!-- /Auteur -->
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [👮 Contentieux penal](./README.md) › 🚔 Assurance RC - Plainte Défaut*
@@ -189,7 +191,7 @@ Le plaignant se constitue partie civile et se tient à la disposition de la just
 
 - **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — [arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours
 
-- **[Mises en demeure J+31](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Courrier.md)** — LRAR restees sans reponse
+- **[Mises en demeure J+31](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/SAS%20-%20Courrier.md)** — LRAR restees sans reponse
 
 > **Note administrative :** Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 > 

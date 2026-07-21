@@ -28,9 +28,9 @@ jx: J+38
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-# ENVOI [CONSTITUTION DE PARTIE CIVILE](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md)
+# ENVOI [CONSTITUTION DE PARTIE CIVILE](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
 > 🔗 Source Google Drive : [1nFSf3EDB_bV…](https://drive.google.com/open?id=1nFSf3EDB_bVudz5Xhf0NvXlibTesCL8M5hepEZqxd5w)
 <!-- Auteur -->
 **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
@@ -61,7 +61,7 @@ Tribunal Judiciaire de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Mem
 
 ---
 
-**Objet : Dépôt d'une plainte avec [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md) pour blessures involontaires**
+**Objet : Dépôt d'une plainte avec [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) pour blessures involontaires**
 
 ---
 
@@ -79,7 +79,7 @@ Ces faits sont survenus le **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F
 
 À la suite du dépôt de ma plainte simple le **[J+4 Dépôt de plainte](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md)** auprès du Commissariat de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** (PV n° [ ... ]), et en l'absence de toute suite connue à ce jour et face au refus persistant des mis en cause de communiquer leurs informations d'assurance, je me vois contraint de saisir votre juridiction pour faire valoir mes droits.
 
-Vous trouverez ci-joint la plainte avec [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md) formelle détaillant les faits et les fondements juridiques, ainsi qu'un bordereau récapitulant les pièces justificatives que je verse au débat.
+Vous trouverez ci-joint la plainte avec [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) formelle détaillant les faits et les fondements juridiques, ainsi qu'un bordereau récapitulant les pièces justificatives que je verse au débat.
 
 Dans l'attente que vous fixiez, le cas échéant, le montant de la consignation prévue à l'article 88 du Code de procédure pénale (dont je sollicite toutefois l'exemption ou la modération compte tenu de ma situation financière actuelle liée à mon [arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) prolongé),
 
@@ -100,7 +100,7 @@ Je vous prie d'agréer, Monsieur le Doyen des Juges d'Instruction, l'expression 
 
 ## PIECES JOINTES
 
-- **[Plainte avec constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md)** — datée du **[J+38 Constitution PC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)**
+- **[Plainte avec constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — datée du **[J+38 Constitution PC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)**
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du [J+4]
 
@@ -110,7 +110,7 @@ Je vous prie d'agréer, Monsieur le Doyen des Juges d'Instruction, l'expression 
 
 - **[Arrets de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — [arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours
 
-- **[Mises en demeure J+31](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Courrier.md)** — LRAR restees sans reponse
+- **[Mises en demeure J+31](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/SAS%20-%20Courrier.md)** — LRAR restees sans reponse
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md)
 <!-- /PJ -->

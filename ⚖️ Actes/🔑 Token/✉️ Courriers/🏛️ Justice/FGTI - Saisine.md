@@ -33,7 +33,7 @@ jx: J+38
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # DEMANDE D'INFORMATION ET DE PRÉ-ENREGISTREMENT<br>ARTICLE 706-3 DU CPP
 > 🔗 Source Google Drive : [13jocmpqETy6…](https://drive.google.com/open?id=13jocmpqETy64lldco9LGCKLJZp_ml_9u53NB7OySmrs)
@@ -91,7 +91,7 @@ Sa chute a entraîné sur ma main droite une plaie palmaire profonde de 8,5 cm a
 
 3. **Assignation Article 145 CPC** : projet rédigé, dépôt prévu après obtention de l'AJ.
 
-4. **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : déposée auprès du Doyen des Juges d'Instruction de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** sur le fondement des articles 222-19 et 222-20 du Code pénal.
+4. **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : déposée auprès du Doyen des Juges d'Instruction de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** sur le fondement des articles 222-19 et 222-20 du Code pénal.
 
 Ces démarches visent à identifier les débiteurs civils et à faire reconnaître les infractions, en vue, le cas échéant, d'une demande d'indemnisation au titre de l'article 706-3 du Code de procédure pénale.
 
@@ -167,7 +167,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Dire
 
 - Accusés de réception des courriers recommandés retournés (29 mai 2026 — mentions NPAI)
 
-- [[[Extrait Kbis](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) (**[SIREN de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)**)
+- [[[Extrait Kbis](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23personnes-morales)](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) (**[SIREN de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)**)
 
 - Dossier médical complet (11 pièces)
 <!-- /PJ -->

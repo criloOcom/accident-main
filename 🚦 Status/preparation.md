@@ -4,16 +4,16 @@
 
 ## Documents tokenisés (🔑)
 
-- [`⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md`](/⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md) → [👤 reel](../../👤 Reel/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md)
+- [`⚖️ Actes/🔑 Token/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/Note%20-%20Synth%C3%A8se%20Avocat%20Bascule%20HB%20BARBER.md) → [👤 reel](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/Note%20-%20Synth%C3%A8se%20Avocat%20Bascule%20HB%20BARBER.md)
 
-- [`⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Bon Envoi Physique.md`](/⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Bon Envoi Physique.md) → [👤 reel](../../👤 Reel/🗂️ Organisation/Note - Bon Envoi Physique.md)
+- [`⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Bon Envoi Physique.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Bon%20Envoi%20Physique.md) → [👤 reel](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Bon%20Envoi%20Physique.md)
 
-- [`⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Suivi Envois LRAR.md`](/⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Suivi Envois LRAR.md) → [👤 reel](../../👤 Reel/🗂️ Organisation/Note - Suivi Envois LRAR.md)
+- [`⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Suivi Envois LRAR.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Suivi%20Envois%20LRAR.md) → [👤 reel](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Suivi%20Envois%20LRAR.md)
 
 ## Versions réelles (👤)
 
-- [`⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md`](/⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md) → [🔑 token](../../🔑 Token/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md)
+- [`⚖️ Actes/👤 Reel/📚 Analyses juridiques/Note - Synthèse Avocat Bascule HB BARBER.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/Note%20-%20Synth%C3%A8se%20Avocat%20Bascule%20HB%20BARBER.md) → [🔑 token](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/Note%20-%20Synth%C3%A8se%20Avocat%20Bascule%20HB%20BARBER.md)
 
-- [`⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Bon Envoi Physique.md`](/⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Bon Envoi Physique.md) → [🔑 token](../../🔑 Token/🗂️ Organisation/Note - Bon Envoi Physique.md)
+- [`⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Bon Envoi Physique.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Bon%20Envoi%20Physique.md) → [🔑 token](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Bon%20Envoi%20Physique.md)
 
-- [`⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Suivi Envois LRAR.md`](/⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Suivi Envois LRAR.md) → [🔑 token](../../🔑 Token/🗂️ Organisation/Note - Suivi Envois LRAR.md)
+- [`⚖️ Actes/👤 Reel/🗂️ Organisation/Note - Suivi Envois LRAR.md`](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Suivi%20Envois%20LRAR.md) → [🔑 token](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Suivi%20Envois%20LRAR.md)

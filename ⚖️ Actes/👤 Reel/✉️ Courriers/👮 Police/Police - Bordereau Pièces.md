@@ -17,14 +17,18 @@ reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/Police - Bordereau Pi
 <!-- Objet -->
 <!-- Date -->
 <!-- Destinataire -->
+<!-- /Source -->
+<!-- /PJ -->
+<!-- /Destinataire -->
 <!-- Auteur -->
+<!-- /Auteur -->
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers](../README.md) › [👮 Police](./README.md) › 📋 Police - Bordereau Pièces*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](./📜%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](./Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # BORDEREAU DE PIÈCES
 ## Dépôt au Commissariat de **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** — Lundi 20 juillet 2026

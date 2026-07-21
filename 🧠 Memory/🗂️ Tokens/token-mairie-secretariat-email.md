@@ -37,9 +37,9 @@ Adresse email de secrétariat de la mairie, canal de contact général pour les 
 
 ## Documents liés
 
-- [Suivi Adjoint Maire Tavella J+37](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Tavella%20-%20Courrier%20-%20Relance.md)
+- [Suivi Adjoint Maire Tavella J+37](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/Mairie%20-%20Tavella%20-%20Courrier%20-%20Relance.md)
 
-- [Mise en demeure Maire Foix J+41](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Maire%20de%20Foix%20-%20Courrier.md)
+- [Mise en demeure Maire Foix J+41](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/Mairie%20-%20Maire%20de%20Foix%20-%20Courrier.md)
 
 ## Source
 

@@ -40,19 +40,19 @@ Preuve (compte La Poste de la victime + Google Doc de synthèse du 08/07/2026) :
 
 ## II — Erreur introduite par l'agent précédent — fait « téléviseur » supprimé
 
-L'agent précédent a supprimé, dans `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md`, la mention « **pour régler le téléviseur** » en la qualifiant d'hallucination.
+L'agent précédent a supprimé, dans `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/SAS - Dirigeants - Courrier - Relance.md`, la mention « **pour régler le téléviseur** » en la qualifiant d'hallucination.
 
-**C'était une ERREUR** : le fait est attesté par la version réelle du document (`⚖️ Actes/👤 Reel/✉️ Courriers/✉️ SAS - Dirigeants - Courrier - Relance.md`, l.76) et par le Google Doc de synthèse (l.140) :
+**C'était une ERREUR** : le fait est attesté par la version réelle du document (`⚖️ Actes/👤 Reel/✉️ Courriers/SAS - Dirigeants - Courrier - Relance.md`, l.76) et par le Google Doc de synthèse (l.140) :
 > *« mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing pour régler le téléviseur »*
 
 Conséquence de l'erreur : divergence Token↔Réel (le Token disait « monté sur la vasque » sans motif, la version Réelle donnait le motif réel). Cette divergence a été corrigée : le fait « pour régler le téléviseur » est restauré dans le Token. Le fichier Réel a été régénéré → Token et Réel sont de nouveau alignés.
 
 **Autres occurrences du fait « téléviseur » (confirmées vraies, conservées)** :
-- `⚖️ Actes/👤 Reel/✉️ Courriers/Mail Attestation.md` (l.36)
+- `⚖️ Actes/👤 Reel/✉️ Courriers/Email Attestation.md` (l.36)
 
-- `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/Mail Attestation.md` (l.36)
+- `⚖️ Actes/🔑 Token/✉️ Courriers/📋s/Email Attestation.md` (l.36)
 
-- `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md` (l.48) et version Token équivalente
+- `⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md` (l.48) et version Token équivalente
 
 ---
 
@@ -65,7 +65,7 @@ L'agent précédent avait aussi remplacé « les tendons » par « le tendon » 
 
 ⚠ Note : le document narratif de la lettre (Google Doc l.141) écrit « sectionné les tendons et les nerfs » au pluriel. C'est une formulation de style ; la lésion médicale documentée est au singulier. Le Token suit la précision médicale (singulier). Aucune action requise.
 
-⚠ Élément connexe : `⚖️ Actes/Preuves officielles/20260612 🩺 DrOXIBEL/20260612-1207 SITUATION Main.md` (l.43) mentionne un « 5e doigt droit » — c'est une ERREUR RÉSIDUELLE dans une pièce médicale (le CR opératoire rectifié dit index droit). Ce point est déjà répertorié comme à corriger (`👤 Reel/⚖️ Actes proceduraux/TJ Foix - TJ Foix - Bordereau Unifié.md`, l.82 : « Rectification du compte-rendu opératoire : index droit au lieu du 5e doigt »). Non corrigé dans ce rapport (sort de la portée LRAR/téléviseur) — à traiter dans un audit médical dédié.
+⚠ Élément connexe : `⚖️ Actes/Preuves officielles/20260612 🩺 DrOXIBEL/20260612-1207 SITUATION Main.md` (l.43) mentionne un « 5e doigt droit » — c'est une ERREUR RÉSIDUELLE dans une pièce médicale (le CR opératoire rectifié dit index droit). Ce point est déjà répertorié comme à corriger (`👤 Reel/⚖️ Actes proceduraux/TJ Foix - Bordereau Unifié.md`, l.82 : « Rectification du compte-rendu opératoire : index droit au lieu du 5e doigt »). Non corrigé dans ce rapport (sort de la portée LRAR/téléviseur) — à traiter dans un audit médical dédié.
 
 ---
 

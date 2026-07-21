@@ -19,7 +19,7 @@ type: memory
 | **Montant** | 150 € / jour |
 | **Fondement** | Article 145 du Code de procédure civile |
 | **Variable canonique** | `MONTANT_ASTREINTE_145` |
-| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md#correspondance-tokens-financiers-alternatifs-finance) |
+| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md%23correspondance-tokens-financiers-alternatifs-finance) |
 
 ## Contexte
 

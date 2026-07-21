@@ -60,15 +60,15 @@ Vague de courriers de **pression fiscale et administrative** contre **[L'Exploit
 
 ## Documents liés
 
-- [✉️ Mairie - Maire de Foix - Courrier](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Maire%20de%20Foix%20-%20Courrier.md)
+- [✉️ Mairie - Maire de Foix - Courrier](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/Mairie%20-%20Maire%20de%20Foix%20-%20Courrier.md)
 
-- [✉️ Tribunal de Commerce - Opposition Radiation](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/%E2%9C%89%EF%B8%8F%20Tribunal%20de%20Commerce%20-%20Opposition%20Radiation.md)
+- [✉️ Tribunal de Commerce - Opposition Radiation](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/TC%20Foix%20-%20Tribunal%20de%20Commerce%20-%20Opposition%20Radiation.md)
 
-- [✉️ INPI - Immatriculation - Opposition](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20INPI%20-%20Immatriculation%20-%20Opposition.md)
+- [✉️ INPI - Immatriculation - Opposition](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/INPI%20-%20Immatriculation%20-%20Opposition.md)
 
-- [✉️ SIE URSSAF - Mutualisation - Courrier](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20SIE%20URSSAF%20-%20Mutualisation%20-%20Courrier.md)
+- [✉️ SIE URSSAF - Mutualisation - Courrier](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/SIE%20URSSAF%20-%20Mutualisation%20-%20Courrier.md)
 
-- [✉️ Constat Huissier - Requête Archive](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%97%84%EF%B8%8F%20Archiv%C3%A9/%E2%9C%89%EF%B8%8F%20Constat%20Huissier%20-%20Requ%C3%AAte%20Archive.md)
+- [✉️ Constat Huissier - Requête Archive](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%97%84%EF%B8%8F%20Archiv%C3%A9/Requ%C3%AAte%20-%20Constat%20Huissier%20Archive.md)
 
 - [Note - Responsabilité des Dirigeants](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/Note%20-%20Responsabilit%C3%A9%20des%20Dirigeants.md)
 

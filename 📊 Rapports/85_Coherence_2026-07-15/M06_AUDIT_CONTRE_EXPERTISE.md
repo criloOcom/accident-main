@@ -16,7 +16,7 @@ type: rapport
 
 - **Statut :** **CRITIQUE**
 
-- **Constat :** FICHIER `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md` (et autres fichiers de l'assignation) ne mentionne aucune demande de contre-expertise. L'assignation sollicite uniquement une **expertise médicale** judiciaire initiale (sur le fondement de l'article 145 du CPC) mais ne formule pas de demande de *contre-expertise*.
+- **Constat :** FICHIER `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md` (et autres fichiers de l'assignation) ne mentionne aucune demande de contre-expertise. L'assignation sollicite uniquement une **expertise médicale** judiciaire initiale (sur le fondement de l'article 145 du CPC) mais ne formule pas de demande de *contre-expertise*.
 
 - **Note :** La mention d'une éventuelle contre-expertise apparaît uniquement de manière anticipée dans l'évaluation des Frais Divers (`⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md`, ligne 114 et `📊 Rapports/40_Indemnisation_Dintilhac/20260708_Rapport_Baremique_Dintilhac.md`, ligne 44) pour un montant provisionné dans la demande globale, mais pas formellement sollicitée dans l'assignation.
 

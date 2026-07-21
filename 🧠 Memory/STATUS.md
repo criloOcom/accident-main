@@ -126,7 +126,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 
 ## Phase 20 — Corrections projet plainte complémentaire suite avocat + antisèche orale (13 juillet 2026) ✅
 
-### Corrections appliquées au [fichier 36 📜](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Police%20-%20Plainte%20Compl%C3%A9mentaire.md) (version officielle)
+### Corrections appliquées au [fichier 36 📜](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/Police%20-%20Plainte%20Compl%C3%A9mentaire.md) (version officielle)
 | Correction | Avant | Après |
 |------------|-------|-------|
 | **Infraction principale** | Obstruction à la justice (434-15 CP) | Blessures involontaires (222-20 + 121-3 CP) |
@@ -149,11 +149,11 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 - **Références corrigées** : 434-15→434-4, 222-19→222-20, ajout 121-3
 
 ### Documents à déposer le 15 juillet Foix
-1. **Matin — Greffe TJ Foix** : [Requête Art. 145 CPC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/CPC%20145%20-%20Requ%C3%AAte.md) (fichier 03) + [demande AJ](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Interne/%E2%9C%89%EF%B8%8F%20BBAJ%20-%20Demande%20AJ%20-%20Guide%20AJ.md) (fichier 39)
+1. **Matin — Greffe TJ Foix** : [Requête Art. 145 CPC](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md) (fichier 03) + [demande AJ](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%93%8B%20Interne/BBAJ%20-%20Demande%20AJ%20-%20Guide%20AJ.md) (fichier 39)
 
 2. **Midi — 22 Rue Lafaurie** : Photos + constat personnel état vasque
 
-3. **Après-midi — Commissariat** : [Plainte complémentaire](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Police%20-%20Plainte%20Compl%C3%A9mentaire.md) (fichier 36 📜 imprimé + signé)
+3. **Après-midi — Commissariat** : [Plainte complémentaire](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/Police%20-%20Plainte%20Compl%C3%A9mentaire.md) (fichier 36 📜 imprimé + signé)
 
 ---
 
@@ -198,7 +198,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 ### Actions réalisées
 
 #### 🔴 Priorité 1 : Email Maire Foix — Demande intervention Police Municipale
-- **Fichier créé** : [⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Pr%C3%A9fecture%20-%20Signalement.md)
+- **Fichier créé** : [⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Préfecture - Signalement.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/Pr%C3%A9fecture%20-%20Signalement.md)
 
 - **Destinataire** : Mme Marine BORDES, Maire de Foix (`secretariat@mairie-foix.fr`)
 
@@ -257,8 +257,8 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 | #79 | Rapport conformité ERP | ✅ Mergée (rebase) | — |
 | #80 | Note Droit Assurances (token+reel) | ✅ Mergée (rebase) | [⚖️ Actes/{token,reel}/📚 Analyses juridiques/15 Note Droit Assurances.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/Note%20-%20Droit%20des%20Assurances.md) |
 | #81 | Rapport assurance | ✅ Mergée (rebase) | `📊 Rapports/expertise/analyse_strategie_assurance.md` |
-| #82 | Ordonnance référé | ✅ Déjà mergée | [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/07 TJ Foix - Référé Provision - Ordonnance Projet.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md) |
-| #83 | Réquisitoire introductif (token) | ✅ Mergée (rebase + force push) | [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Parquet%20-%20R%C3%A9quisitoire%20Introductif.md) |
+| #82 | Ordonnance référé | ✅ Déjà mergée | [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/07 TJ Foix - Référé Provision - Ordonnance Projet.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md) |
+| #83 | Réquisitoire introductif (token) | ✅ Mergée (rebase + force push) | [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md) |
 | #84 | Mémoire défense adverse (token) | ✅ Mergée (rebase) | [⚖️ Actes/🔑 Token/📚 Analyses juridiques/Mémoire - En défense adverse.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/M%C3%A9moire%20-%20En%20d%C3%A9fense%20adverse.md) |
 
 ### Génération reel (#83, #84)
@@ -321,7 +321,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 - M01, M15 déjà sur `main` (pas besoin de PR)
 
 ### Nouveaux fichiers créés
-- [⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ SIE URSSAF - Mutualisation - Courrier.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20SIE%20URSSAF%20-%20Mutualisation%20-%20Courrier.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/SIE URSSAF - Mutualisation - Courrier.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/SIE%20URSSAF%20-%20Mutualisation%20-%20Courrier.md)
 
 - `⚖️ Actes/🔑 Token/✉️ Courriers/33 ✉️ Requête Constat Huissier 145 CPC.md`
 
@@ -498,7 +498,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 
 - `05 🎯 Conclusions Refere.md` — MIS À JOUR (provision, R.4323-58, tableau)
 
-- `Partie Civile - Constitution.md` — MIS À JOUR (R.4323-58, 706-14, PEP, DEP)
+- `DJI Foix - DJI Foix - Partie Civile - Constitution.md` — MIS À JOUR (R.4323-58, 706-14, PEP, DEP)
 
 - `12 Évaluation Dintilhac détaillée.md` — FUSIONNÉ dans `Note - Évaluation Dintilhac Consolidée.md` (supprimé le 11/07/2026)
 
@@ -523,7 +523,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
   - `05 🎯 Conclusions Refere.md` — remplacé par la version Glose (provision 8 000 €, astreinte 100 €/jour, art. 145 communication assurance)
   - `12 Évaluation Dintilhac détaillée.md` — FUSIONNÉ dans `Note - Évaluation Dintilhac Consolidée.md` (supprimé le 11/07/2026)
   - `STRICT VARIABLES.md` — trois niveaux de montants (optimiste, conservative, compromis) + plafonds FGTI (3 000 €) et SARVI
-  - `Partie Civile - Constitution.md` — note de référence ajoutée
+  - `DJI Foix - DJI Foix - Partie Civile - Constitution.md` — note de référence ajoutée
 
 ### Écarts clés entre les deux évaluations
 
@@ -1363,7 +1363,7 @@ Prendre acte de la fermeture de la SAS LMG au 10/03/2026 et du démarrage d'acti
 Mettre en place un erratum formel visant à corriger l'erreur de désignation initiale (visant à tort la SAS LMG), afin de la déposer aux autorités et de la notifier.
 
 ### Actions réalisées
-1. Rédaction de l'acte unifié `📜 Police - Note Erratum Identité.md`.
+1. Rédaction de l'acte unifié `Police - Note Erratum Identité.md`.
 
 2. Mise à jour de l'ensemble des courriers et pièces associées à Foix.
 

@@ -20,7 +20,7 @@ type: memory
 | **Poste Dintilhac** | Frais divers |
 | **Tier** | Compromis |
 | **Variable canonique** | `FRAIS_DIVERS_COMPROMIS` |
-| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md#correspondance-tokens-financiers-alternatifs-finance) |
+| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md%23correspondance-tokens-financiers-alternatifs-finance) |
 
 ## Contexte
 

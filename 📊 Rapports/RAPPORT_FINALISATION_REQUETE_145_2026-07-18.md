@@ -19,7 +19,7 @@ Une analyse du dossier confirme que la requête fondée sur l'article 145 du Cod
 
 La seule action réellement effectuée au cours de cette période est le déplacement sur les lieux de l'accident à Foix le **16 juillet 2026**. Cette visite a permis d'établir de manière décisive que l'exploitant du salon de coiffure n'était pas la SAS **[L'Exploitant du Commerce (La SAS)]** (LMG), mais la SAS **[Le Nouvel Exploitant (HB BARBER)]**.
 
-Par conséquent, la requête actuelle (fichier `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md`) doit impérativement être mise à jour avant son dépôt effectif, qui est programmé pour la semaine à venir au Tribunal Judiciaire de Foix.
+Par conséquent, la requête actuelle (fichier `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md`) doit impérativement être mise à jour avant son dépôt effectif, qui est programmé pour la semaine à venir au Tribunal Judiciaire de Foix.
 
 <hr><hr>
 
@@ -39,7 +39,7 @@ La requête existante est dirigée à tort contre **[L'Exploitant du Commerce (L
 
 Le bordereau de pièces annexé à la requête doit être complété avec les éléments recueillis lors de la visite du 16 juillet 2026 et les actes rectificatifs qui en découlent :
 
-- **Erratum officiel :** Ajout de l'acte `📜 Police - Note Erratum Identité.md` qui justifie le changement de défendeur par rapport aux précédentes mises en demeure.
+- **Erratum officiel :** Ajout de l'acte `Police - Note Erratum Identité.md` qui justifie le changement de défendeur par rapport aux précédentes mises en demeure.
 
 - **Preuves matérielles du 16/07 :** Intégration des photographies de l'enseigne HB BARBER prises sur place le 16 juillet 2026.
 

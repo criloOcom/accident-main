@@ -25,19 +25,19 @@ Les liens suivants sont considérés comme cassés :
        (110 candidat(s) : README.md, 🚦 Status/README.md, 📜 Lois/README.md...)
 
   📄 README.md
-     ⚖️ Actes/👤 Reel/✉️ Courriers/👮 Police/✉️ Police - Plainte Complémentaire.md → INTROUVABLE
+     ⚖️ Actes/👤 Reel/✉️ Courriers/👮 Police/Police - Plainte Complémentaire.md → INTROUVABLE
      GEMINI.md → INTROUVABLE
 
   📄 ⚖️ Actes/🔑 Token/✉️ Courriers/README.md
-     ../../👤 Reel/✉️ Courriers/👮 Police/✉️ Police - Plainte Complémentaire.md → INTROUVABLE
+     ../../👤 Reel/✉️ Courriers/👮 Police/Police - Plainte Complémentaire.md → INTROUVABLE
 
   📄 🚦 Status/preparation.md
-     ../⚖️ Actes/👤 Reel/✉️ Courriers/👮 Police/✉️ Police - Plainte Complémentaire.md → INTROUVABLE
+     ../⚖️ Actes/👤 Reel/✉️ Courriers/👮 Police/Police - Plainte Complémentaire.md → INTROUVABLE
 
   📄 🧠 Memory/STATUS.md
-     ../⚖️ Actes/👤 Reel/✉️ Courriers/👮 Police/✉️ Police - Plainte Complémentaire.md → INTROUVABLE
+     ../⚖️ Actes/👤 Reel/✉️ Courriers/👮 Police/Police - Plainte Complémentaire.md → INTROUVABLE
      ../⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/✉️ Antiseche Orale Plainte Note.md → INTROUVABLE
-     ../⚖️ Actes/👤 Reel/✉️ Courriers/👮 Police/✉️ Police - Plainte Complémentaire.md → INTROUVABLE
+     ../⚖️ Actes/👤 Reel/✉️ Courriers/👮 Police/Police - Plainte Complémentaire.md → INTROUVABLE
 
   📄 🧠 Memory/TOKEN MAP.md
      🗂️ Tokens/token-lrar-exploitant.md → INTROUVABLE
@@ -125,7 +125,7 @@ Les fichiers suivants nécessitent une normalisation des listes à puces (lancem
   ⚡ ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📋 Preparation Foix/README.md
   ⚡ ⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/📜 Contentieux civil/README.md
   ⚡ ⚖️ Actes/👤 Reel/✉️ Courriers/⚕️ Médical/README.md
-  ⚡ ⚖️ Actes/👤 Reel/✉️ Courriers/⚕️ Médical/✉️ CHIVA - Dossier Médical - Demande.md
+  ⚡ ⚖️ Actes/👤 Reel/✉️ Courriers/⚕️ Médical/CHIVA - Dossier Médical - Demande.md
   ⚡ ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/README.md
   ⚡ ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Justice/README.md
   ⚡ ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Mairie/README.md
@@ -142,7 +142,7 @@ Les fichiers suivants nécessitent une normalisation des listes à puces (lancem
   ⚡ ⚖️ Actes/👤 Reel/🗂️ Organisation/README.md
   ⚡ ⚖️ Actes/👤 Reel/🗄️ Archives/README.md
   ⚡ ⚖️ Actes/👤 Reel/🗄️ Archives/annexes/README.md
-  ⚡ ⚖️ Actes/🔑 Token/✉️ Courriers/⚕️ Médical/✉️ CHIVA - Dossier Médical - Demande.md
+  ⚡ ⚖️ Actes/🔑 Token/✉️ Courriers/⚕️ Médical/CHIVA - Dossier Médical - Demande.md
 
 ============================================================
   BILAN : 77/891 fichiers modifiés (34 exclus)

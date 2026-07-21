@@ -21,18 +21,18 @@ type: rapport
 
 ## SOMMAIRE
 
-1. [Méthodologie de la matrice](#1-m%C3%A9thodologie-de-la-matrice)
+1. [Méthodologie de la matrice](%231-m%C3%A9thodologie-de-la-matrice)
 
-2. [Matrice des risques — Synthèse visuelle](#2-matrice-des-risques--synth%C3%A8se-visuelle)
+2. [Matrice des risques — Synthèse visuelle](%232-matrice-des-risques--synth%C3%A8se-visuelle)
 
-3. [Fiches risques détaillées](#3-fiches-risques-d%C3%A9taill%C3%A9es)
+3. [Fiches risques détaillées](%233-fiches-risques-d%C3%A9taill%C3%A9es)
 
-   - [Risques stratégiques (R1–R5)](#31-risques-strat%C3%A9giques)
-   - [Risques procéduraux (R6–R10)](#32-risques-proc%C3%A9duraux)
+   - [Risques stratégiques (R1–R5)](%2331-risques-strat%C3%A9giques)
+   - [Risques procéduraux (R6–R10)](%2332-risques-proc%C3%A9duraux)
    - [Risques documentaires et preuves (R11–R15)](#33-risques-documentaires-et-preuves)
    - [Risques financiers (R16–R18)](#34-risques-financiers)
    - [Risques transverses (R19–R21)](#35-risques-transverses)
-4. [Plan d'atténuation global](#4-plan-datt%C3%A9nuation-global)
+4. [Plan d'atténuation global](%234-plan-datt%C3%A9nuation-global)
 
 5. [Vigilances permanentes](#5-vigilances-permanentes)
 
@@ -545,7 +545,7 @@ Chaque risque est évalué selon trois axes :
 |---|--------|---------------|--------|
 | T1 | **Mandater un avocat** (spécialisé dommage corporel, barreau Toulouse) | R3 (avocat), R7 (calendrier) | 1-2 h |
 | T2 | **Déposer les assignations** (référé-provision + Art. 145) via l'avocat | R1 (assureur), R7 (calendrier) | Variable |
-| T3 | **Envoyer attestations Cerfa aux témoins potentiels** ([pièces 22-24](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md)) — si identifiés et consentants | R4 (vidéo), R5 (preuves) | 30 min |
+| T3 | **Envoyer attestations Cerfa aux témoins potentiels** ([pièces 22-24](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md)) — si identifiés et consentants | R4 (vidéo), R5 (preuves) | 30 min |
 | T4 | **Relancer Dr DJERBI** pour certificat consolidation (email 25) | R14 (consolidation) | 15 min |
 | T5 | **Demander la désignation d'un expert judiciaire** dans le cadre du référé | R14 (consolidation) | Inclus T2 |
 

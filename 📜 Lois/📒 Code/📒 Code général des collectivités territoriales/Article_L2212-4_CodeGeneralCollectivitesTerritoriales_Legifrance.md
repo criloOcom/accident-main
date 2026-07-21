@@ -86,7 +86,7 @@ Cet article permet au maire de Foix :
 Cet article est cité dans :
 - **Document 29 ✉️ Courrier Maire Foix.md** : Fondement juridique pour intervention urgente
 
-- **Document ✉️ Préfecture - Signalement.md** : Demande de mesures de sûreté
+- **Document CODAF - Préfecture - Signalement.md** : Demande de mesures de sûreté
 
 ---
 

@@ -20,7 +20,7 @@ Ce rapport a pour objet de préparer le dépôt de la plainte complémentaire et
 
 <hr><hr>
 
-## 1. Analyse de l'Erratum (📜 Police - Note Erratum Identité.md)
+## 1. Analyse de l'Erratum (Police - Note Erratum Identité.md)
 
 L'erratum actuel est structurellement solide et explique de manière satisfaisante la substitution de **[L'Exploitant du Commerce (La SAS)]** par **[Le Nouvel Exploitant (HB BARBER)]** (HB BARBER). Toutefois, une correction critique doit y être apportée.
 
@@ -36,7 +36,7 @@ L'erratum actuel mentionne dans sa section 3 ("Actes déjà déposés/envoyés")
 
 <hr><hr>
 
-## 2. Analyse du Projet de Déclaration PV (📋 Police - Note Projet Déclaration.md)
+## 2. Analyse du Projet de Déclaration PV (Police - Note Projet Déclaration.md)
 
 Le projet de déclaration est à jour, précis, et intègre parfaitement les découvertes du 16 juillet 2026.
 
@@ -53,7 +53,7 @@ Il mentionne correctement :
 
 <hr><hr>
 
-## 3. Mise à jour du Bordereau de Pièces (📋 Police - Bordereau Pièces.md)
+## 3. Mise à jour du Bordereau de Pièces (Police - Bordereau Pièces.md)
 
 Le bordereau de pièces existant est bien construit mais nécessite l'ajout explicite des preuves liées à la visite du 16 juillet 2026.
 

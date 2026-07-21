@@ -50,9 +50,9 @@ type: rapport
 
 | Fichier | Ligne | Extrait |
 |---|---|---|
-| `✉️ Courriers/✉️ Préfecture - Signalement.md` | 7 | `M. Bernard TAVELLA` |
-| `✉️ Courriers/✉️ Préfecture - Signalement.md` | 13 | `btavella@mairie-foix.fr` |
-| `✉️ Courriers/✉️ Préfecture - Signalement.md` | 14 | `secretariat@mairie-foix.fr` |
+| `✉️ Courriers/CODAF - Préfecture - Signalement.md` | 7 | `M. Bernard TAVELLA` |
+| `✉️ Courriers/CODAF - Préfecture - Signalement.md` | 13 | `btavella@mairie-foix.fr` |
+| `✉️ Courriers/CODAF - Préfecture - Signalement.md` | 14 | `secretariat@mairie-foix.fr` |
 
 **Risque :** Les emails réels d'un tiers (agent public) sont en clair dans un fichier tokenisé. Le token `**[L'Adjoint au Maire de la Commune]**` existe dans le script mais n'a pas été appliqué ici (le nom `Bernard TAVELLA` apparaît en clair en ligne 7).
 
@@ -103,9 +103,9 @@ type: rapport
 |---|---|---|
 | `⚖️ Actes proceduraux/05 🎯 Conclusions Refere.md` | 42 | `29 mai 2026` |
 | `⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md` | 40, 42 | `29 mai 2026`, `30 mai 2026` |
-| `✉️ Courriers/✉️ INPI - Signalement.md` | 37 | `29 mai 2026` |
+| `✉️ Courriers/INPI - Signalement.md` | 37 | `29 mai 2026` |
 | `✉️ Courriers/33 ✉️ Constat Huissier - Requête Archive 145 CPC.md` | 55 | `30 mai 2026` |
-| `✉️ Courriers/✉️ Préfecture - Signalement.md` | 22, 24 | `29 mai 2026`, `1er juin 2026` |
+| `✉️ Courriers/CODAF - Préfecture - Signalement.md` | 22, 24 | `29 mai 2026`, `1er juin 2026` |
 | `✉️ Courriers/35 ✉️ Courrier President TJ Foix.md` | 35 | `29 mai 2026` |
 | `🗂️ Organisation/Note - Plan Constat Police Foix.md` | 46 | `29 mai 2026` |
 | `🗂️ Organisation/Note - Modification Email Maire Foix.md` | 25 | `29 mai 2026` |
@@ -187,7 +187,7 @@ type: rapport
 
    - `🗂️ Organisation/Note - Modification Email Maire Foix.md` — Remplacer `Sébastien GRAZIDE` par `**[La Victime]**`, l'adresse par `**[L'Adresse de la Victime]**`, l'email par `**[L'Email de la Victime]**`
    - `📚 Analyses juridiques/18 Note Audit RNE NPAI SAS.md` — Tokeniser les noms complets, adresses personnelles, SIREN, dates de naissance des dirigeants
-   - `✉️ Courriers/✉️ Préfecture - Signalement.md` — Remplacer `M. Bernard TAVELLA` par `**[L'Adjoint au Maire de la Commune]**`, les emails par `**[L'Email de l'Adjoint au Maire]**`
+   - `✉️ Courriers/CODAF - Préfecture - Signalement.md` — Remplacer `M. Bernard TAVELLA` par `**[L'Adjoint au Maire de la Commune]**`, les emails par `**[L'Email de l'Adjoint au Maire]**`
 
 3. **Mettre à jour `batch_anonymize.py`** avec les nouveaux tokens manquants (TAVELLA, emails mairie, adresses dirigeants, SIREN).
 

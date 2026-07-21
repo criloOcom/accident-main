@@ -18,25 +18,31 @@ reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/Police - Note Personn
 <!-- Objet -->
 <!-- Date -->
 <!-- Destinataire -->
+<!-- /Source -->
+<!-- /PJ -->
+<!-- /Destinataire -->
 <!-- Auteur -->
+<!-- /Auteur -->
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers](../README.md) › [👮 Police](./README.md) › 📋 Police - Note Personnelle*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](./📜%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](./Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # NOTE PERSONNELLE
 ## Complément de plainte — Commissariat de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**
 
 **Victime :** **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, né le 18/01/1982 à **[La Métropole Régionale](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)**
 **Domicilié :** 10 avenue de Purpan, **[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
-**Tél :** [**[Le Téléphone de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+**Tél :** [**[Le Téléphone de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23donnees-localisantes)
 **Email :** **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
 
+---
 **Objet :** Compléter et corriger ma plainte initiale ([ ... ] du 2 juin 2026, **[La Métropole Régionale](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)** Rive Droite) concernant l'accident du 29 mai 2026 survenu au salon de coiffure situé 22 rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**.
 <hr><hr>
+---
 
 ## 1. RAPPEL DE MA PREMIÈRE PLAINTE À TOULOUSE (2 juin 2026)
 
@@ -62,7 +68,7 @@ Dès le départ, j'ai donc signalé aux policiers que je **n'avais pas la certit
 
 ### 29 mai 2026 — L'accident (J+0)
 
-**Matin/après-midi :** Je me rends au salon de coiffure situé au **22 rue Lafaurie, 09000 [La Ville de l'Accident]**, pour une coupe de cheveux. Je paie **15 €** via l'application bancaire **Wero** au profit du compte « [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) » (réf. débit IPA000296968836). Je quitte les lieux.
+**Matin/après-midi :** Je me rends au salon de coiffure situé au **22 rue Lafaurie, 09000 [La Ville de l'Accident]**, pour une coupe de cheveux. Je paie **15 €** via l'application bancaire **Wero** au profit du compte « [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23personnes-physiques) » (réf. débit IPA000296968836). Je quitte les lieux.
 
 **Moins de 5 minutes après :** Je retourne au salon pour demander une retouche. En entrant, le coiffeur (identifié comme **[Le Préposé de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** (tél. [**[Le Téléphone du Préposé]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md))) est **monté physiquement sur la structure d'un bac à shampoing** (meuble lourd surmonté d'une vasque en céramique). En descendant, son poids provoque le **basculement complet** de la structure vers le sol.
 
@@ -74,7 +80,7 @@ Dès le départ, j'ai donc signalé aux policiers que je **n'avais pas la certit
 
 **Prise en charge médicale :** Je me transporte en urgence au **Centre Ariégeois de Soins Immédiats de [La Ville de l'Accident]** (**[Le Médecin en Urgence](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md)**, RPPS 10005156871). Actes : lavage, désinfection, exploration sous anesthésie locale. Diagnostic : plaie palmaire droite profonde et compliquée. Orientation : transfert vers SOS Main – **[L'Établissement SOS Main](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)** pour le lendemain à jeun.
 
-**Retour au salon :** Après les soins, je retourne au salon, main bandée, pour informer du pronostic chirurgical. Le coiffeur procède alors au **remboursement de 15 €** via Wero (réf. crédit [[**[N° Transaction Wero]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)] , depuis le compte « [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) »). Ce remboursement spontané matérialise la **reconnaissance de la matérialité de l'accident** par l'exploitant.
+**Retour au salon :** Après les soins, je retourne au salon, main bandée, pour informer du pronostic chirurgical. Le coiffeur procède alors au **remboursement de 15 €** via Wero (réf. crédit [[**[N° Transaction Wero]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23donnees-localisantes)] , depuis le compte « [**[Le Préposé de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23personnes-physiques) »). Ce remboursement spontané matérialise la **reconnaissance de la matérialité de l'accident** par l'exploitant.
 
 ### 30 mai 2026 — Intervention chirurgicale (J+1)
 
@@ -201,7 +207,9 @@ En effectuant des recherches par l'adresse exacte **[L'Adresse de l'Exploitation
 
 **À 18h28**, je reçois un courriel de **[Le Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** ([**[L'Email du Propriétaire des Murs](../../../../%F0%9F%A7%A0%20Memory/Tokens/token-exploitation-bailleur-email.md)**]) en réponse à ma LRAR du 29 juin.
 
+---
 **Objet :** « Demande de communication d'assurance »
+---
 
 **Texte intégral du message :**
 > *« Bonjour **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**,*

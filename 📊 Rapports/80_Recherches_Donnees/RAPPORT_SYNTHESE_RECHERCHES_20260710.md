@@ -21,11 +21,11 @@ type: rapport
 
 1. [Recherches Jurisprudence Pertinente](#1-recherches-jurisprudence-pertinente)
 
-2. [Vérification des Articles de Loi](#2-v%C3%A9rification-des-articles-de-loi)
+2. [Vérification des Articles de Loi](%232-v%C3%A9rification-des-articles-de-loi)
 
-3. [Recherche Spécifique Référé-Provision](#3-recherche-sp%C3%A9cifique-r%C3%A9f%C3%A9r%C3%A9-provision)
+3. [Recherche Spécifique Référé-Provision](%233-recherche-sp%C3%A9cifique-r%C3%A9f%C3%A9r%C3%A9-provision)
 
-4. [Recherche Responsabilité Dirigeants](#4-recherche-responsabilit%C3%A9-dirigeants)
+4. [Recherche Responsabilité Dirigeants](%234-recherche-responsabilit%C3%A9-dirigeants)
 
 5. [Recherche Accidents du Travail](#5-recherche-accidents-du-travail)
 
@@ -73,13 +73,13 @@ type: rapport
 
 ### II.1 — Fichiers Analysés
 
-- [`Référé Provision - Assignation.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md) : 12 articles vérifiés
+- [`TJ Foix - TJ Foix - Référé Provision - Assignation.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md) : 12 articles vérifiés
 
 - [`02 🚔 Plainte.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Assurance%20RC%20-%20Plainte%20D%C3%A9faut.md) : 9 articles vérifiés
 
-- [`Partie Civile - Constitution.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md) : 9 articles vérifiés
+- [`DJI Foix - DJI Foix - Partie Civile - Constitution.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) : 9 articles vérifiés
 
-- [`03 🔍 Assignation Article 145.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/CPC%20145%20-%20Requ%C3%AAte.md) : 1 article vérifié
+- [`03 🔍 Assignation Article 145.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md) : 1 article vérifié
 
 ### II.2 — Résultats
 
@@ -203,7 +203,7 @@ type: rapport
 
 - [ ] Sélectionner les 5-10 décisions les plus pertinentes
 
-- [ ] Mettre à jour `Référé Provision - Assignation.md` avec les nouvelles références
+- [ ] Mettre à jour `TJ Foix - TJ Foix - Référé Provision - Assignation.md` avec les nouvelles références
 
 - [ ] Enrichir `02 🚔 Plainte.md` avec la jurisprudence pertinente
 

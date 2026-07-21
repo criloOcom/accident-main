@@ -170,7 +170,7 @@ type: readme
 
 - **37 arrêts Cour de cassation** dans [📜 Jurisprudence/](../📜 Jurisprudence/)
 
-- **7 décisions CA/TJ** dans [📜 Jurisprudence/🏛️ Jurisprudence du fond (CA-TJ)/](../📜 Jurisprudence/🏛️%20Jurisprudence%20du%20fond%20%28CA-TJ%29/)
+- **7 décisions CA/TJ** dans [📜 Jurisprudence/🏛️ Jurisprudence du fond (CA-TJ)/](../%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Jurisprudence%20du%20fond%20%28CA-TJ%29/)
 
 ## 📋 Statistiques
 

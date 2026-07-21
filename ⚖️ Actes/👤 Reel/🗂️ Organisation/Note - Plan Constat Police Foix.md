@@ -32,7 +32,7 @@ Ce plan analyse la possibilité juridique de demander au Maire de **[Foix](../..
 ### II.1 — Action 1 : Envoi du mail au Maire de Foix (Demain matin, 8h00)
 
 Vous allez envoyer un courriel officiel et circonstancié au Maire de Foix (Cabinet du Maire / Secrétariat) en vous appuyant sur le projet déjà rédigé par DeepSeek/Jules :
-*   **Fichier source** : **[✉️ Mairie - Maire de Foix - Courrier.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Maire%20de%20Foix%20-%20Courrier.md)**.
+*   **Fichier source** : **[Mairie - Maire de Foix - Courrier.md](../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/Mairie%20-%20Maire%20de%20Foix%20-%20Courrier.md)**.
 
 *   **Objet** : Demande d'intervention de la police municipale / commission de sécurité pour contrôle de conformité ERP au **[22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**.
 
@@ -63,7 +63,7 @@ Face au péril grave et imminent de réitération d'un tel accident sur d'autres
 1. Mandater les agents de police municipale ou les services techniques de la mairie pour procéder à un contrôle sur place de la conformité des équipements de ce salon.
 2. Faire constater par vos agents l'identité de l'exploitant réel actuellement en exercice dans ces locaux (vérification de l'affichage obligatoire des mentions légales et du registre public d'accessibilité).
 
-Je me déplace personnellement à Foix la semaine prochaine pour rencontrer les services de police et déposer ma [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md). Un constat officiel de la situation actuelle de ce commerce par vos services en amont est indispensable pour prévenir tout trouble à la sécurité publique.
+Je me déplace personnellement à Foix la semaine prochaine pour rencontrer les services de police et déposer ma [constitution de partie civile](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md). Un constat officiel de la situation actuelle de ce commerce par vos services en amont est indispensable pour prévenir tout trouble à la sécurité publique.
 
 Je vous remercie de votre proactivité pour la sécurité de vos administrés.
 

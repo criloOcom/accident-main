@@ -28,12 +28,14 @@ jx: J+50
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › ⚕️ Médical › ✉️ CHIVA - Dossier Médical - Demande*
 <hr>
+<!-- /Source -->
+<!-- /PJ -->
 <!-- /Breadcrumb -->
 
 # DEMANDE DE DOSSIER MÉDICAL (LOI DU 4 MARS 2002)
 
 <!-- Auteur -->
-[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)  
+[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23personnes-physiques)  
 **[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**  
 **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
 <!-- /Auteur -->
@@ -61,7 +63,7 @@ Chemin de la Plaine
 
 <!-- /Objet -->
 <!-- LRAR -->
-**N° LRAR : [**[N° LRAR CHIVA]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)**
+**N° LRAR : [**[N° LRAR CHIVA]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23donnees-localisantes)**
 <!-- /LRAR -->
 
 ---
@@ -90,6 +92,6 @@ Conformément à la loi, je vous rappelle que ce dossier doit me parvenir dans u
 Je vous prie d'agréer, Monsieur le Directeur, l'expression de mes salutations distinguées.
 
 <!-- Signature -->
-[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)  
+[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md%23personnes-physiques)  
 *(Envoi électronique sans signature manuscrite)*
 <!-- /Signature -->

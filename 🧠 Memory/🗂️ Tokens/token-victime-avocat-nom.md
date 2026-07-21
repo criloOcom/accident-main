@@ -33,7 +33,7 @@ Token **réservé** pour l'avocat de la victime, **non encore désigné** à ce 
 
 ## À compléter
 
-Dès la désignation notifiée par le BAJ : renseigner nom, barreau, coordonnées, et lier son mandat. Mettre à jour la [TOKEN MAP](../TOKEN%20MAP.md#token-nom-de-l-avocat-de-la-victime).
+Dès la désignation notifiée par le BAJ : renseigner nom, barreau, coordonnées, et lier son mandat. Mettre à jour la [TOKEN MAP](../TOKEN%20MAP.md%23token-nom-de-l-avocat-de-la-victime).
 
 ## Source
 

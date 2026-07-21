@@ -19,7 +19,7 @@ type: memory
 | **Montant** | 790,23 € |
 | **Nature** | Frais médicaux (chirurgie SOS Main) |
 | **Variable canonique** | `FACTURE_CHIRURGIE` |
-| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md#correspondance-tokens-financiers-alternatifs-finance) |
+| **Source** | [STRICT VARIABLES.md](../STRICT%20VARIABLES.md%23correspondance-tokens-financiers-alternatifs-finance) |
 
 ## Contexte
 

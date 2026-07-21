@@ -48,7 +48,7 @@ Il assure ensuite le **suivi chirurgical** : contrôle J+21 le 19 juin 2026 ([J+
 
 - [Bilan Dr DJERBI (consolidation)](../../%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260623%20%F0%9F%A9%BA%20DrDJERBI%20RDV/20260623-1730%20DR%20DJERBI%20Bilan.md)
 
-- [Relance Dr DJERBI Consolidation J+38](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%E2%9C%89%EF%B8%8F%20M%C3%A9decin%20Traitant%20-%20Consolidation%20-%20Relance.md)
+- [Relance Dr DJERBI Consolidation J+38](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/M%C3%A9decin%20Traitant%20-%20Consolidation%20-%20Relance.md)
 
 ## Source
 

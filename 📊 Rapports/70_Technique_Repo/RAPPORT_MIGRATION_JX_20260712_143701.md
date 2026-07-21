@@ -24,90 +24,90 @@ Mode: EXÉCUTION
 Date: 2026-07-12 14:37
 
 ── Fichiers Token à renommer : 69 ──
-  ✓  ⚖️ Actes proceduraux/Référé Provision - Assignation.md
-       → ⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md
+  ✓  ⚖️ Actes proceduraux/TJ Foix - TJ Foix - Référé Provision - Assignation.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md
   ✓  ⚖️ Actes proceduraux/02 🚔 Plainte.md
        → ⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md
-  ✓  ⚖️ Actes proceduraux/Partie Civile - Constitution.md
-       → ⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md
+  ✓  ⚖️ Actes proceduraux/DJI Foix - DJI Foix - Partie Civile - Constitution.md
+       → ⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md
   ✓  ⚖️ Actes proceduraux/03 🔍 Assignation Article 145.md
-       → ⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md
   ✓  ⚖️ Actes proceduraux/04 📑 Bordereau.md
-       → ⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md
   ✓  ⚖️ Actes proceduraux/05 🎯 Conclusions Refere.md
-       → ⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md
   ✓  ⚖️ Actes proceduraux/06 Constat Huissier - Requête.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md
   ✓  ⚖️ Actes proceduraux/07 TJ Foix - Référé Provision - Ordonnance Projet.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md
   ✓  ⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md
-       → ⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md
+       → ⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md
   ✓  ✉️ Courriers/03 ✉️ Courrier SAS.md
-       → ✉️ Courriers/✉️ SAS - Courrier.md
-  ✓  ✉️ Courriers/✉️ SAS - Assureur RC - Courrier.md
-       → ✉️ Courriers/✉️ SAS - Assureur RC - Courrier.md
+       → ✉️ Courriers/SAS - Courrier.md
+  ✓  ✉️ Courriers/SAS - Assureur RC - Courrier.md
+       → ✉️ Courriers/SAS - Assureur RC - Courrier.md
   ✓  ✉️ Courriers/05 ✉️ Courrier Proprietaire.md
-       → ✉️ Courriers/✉️ Propriétaire - Courrier.md
-  ✓  ✉️ Courriers/06 V2 ✉️ SAS - Dirigeants - Courrier - Relance.md
-       → ✉️ Courriers/✉️ SAS - Dirigeants - Courrier - Relance.md
+       → ✉️ Courriers/Propriétaire - Courrier.md
+  ✓  ✉️ Courriers/06 V2 SAS - Dirigeants - Courrier - Relance.md
+       → ✉️ Courriers/SAS - Dirigeants - Courrier - Relance.md
   ✓  ✉️ Courriers/06 ✉️ Courrier President DG.md
-       → ✉️ Courriers/✉️ SAS - Président - Courrier.md
+       → ✉️ Courriers/SAS - Président - Courrier.md
   ✓  ✉️ Courriers/07 ✉️ Courrier Consolidation.md
        → ✉️ Courriers/✉️🔄 Consolidation.md
   ✓  ✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
-       → ✉️ Courriers/✉️ Mairie - Tavella - Courrier - Relance.md
+       → ✉️ Courriers/Mairie - Tavella - Courrier - Relance.md
   ✓  ✉️ Courriers/09 ✉️ Courrier Inspection Travail.md
-       → ✉️ Courriers/✉️ DDETS - Signalement.md
+       → ✉️ Courriers/DDETS - Signalement.md
   ✓  ✉️ Courriers/10 ✉️ Courrier Doyen Juges Instruction.md
-       → ✉️ Courriers/✉️ Doyen des Juges - Saisine.md
+       → ✉️ Courriers/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md
   ✓  ✉️ Courriers/11 ✉️ Courrier INPI.md
-       → ✉️ Courriers/✉️ INPI - Signalement.md
+       → ✉️ Courriers/INPI - Signalement.md
   ✓  ✉️ Courriers/12 ✉️ Courrier URSSAF.md
-       → ✉️ Courriers/✉️ URSSAF - Signalement.md
+       → ✉️ Courriers/URSSAF - Signalement.md
   ✓  ✉️ Courriers/13 ✉️ Courrier Prefecture.md
-       → ✉️ Courriers/✉️ Préfecture - Signalement.md
+       → ✉️ Courriers/CODAF - Préfecture - Signalement.md
   ✓  ✉️ Courriers/14 ✉️ Courrier CODAF.md
-       → ✉️ Courriers/✉️ CODAF - Signalement.md
+       → ✉️ Courriers/CODAF - Signalement.md
   ✓  ✉️ Courriers/15 ✉️ Courrier SIE.md
-       → ✉️ Courriers/✉️ SIE - Signalement.md
+       → ✉️ Courriers/SIE - Signalement.md
   ✓  ✉️ Courriers/16 ✉️ Courrier Conseil Departemental.md
-       → ✉️ Courriers/✉️ Conseil Départemental - Signalement.md
+       → ✉️ Courriers/Conseil Départemental - Signalement.md
   ✓  ✉️ Courriers/17 ✉️ Courrier CPAM.md
-       → ✉️ Courriers/✉️ CPAM - Recours Tiers - Saisine.md
+       → ✉️ Courriers/CPAM - Recours Tiers - Saisine.md
   ✓  ✉️ Courriers/18 ✉️ Courrier SDIS.md
-       → ✉️ Courriers/✉️ SDIS - Signalement.md
+       → ✉️ Courriers/SDIS - Signalement.md
   ✓  ✉️ Courriers/19 ✉️ Courrier FGTI.md
-       → ✉️ Courriers/✉️ FGTI - Saisine.md
+       → ✉️ Courriers/FGTI - Saisine.md
   ✓  ✉️ Courriers/20 🔄 Relance Police.md
-       → ✉️ Courriers/✉️ Police - Vidéos - Relance.md
-  ✓  ✉️ Courriers/21 ✉️ CPAM - Relance.md
-       → ✉️ Courriers/✉️ CPAM - Relance.md
-  ✓  ✉️ Courriers/23 ✉️ Pompier SAMU - Attestation.md
-       → ✉️ Courriers/✉️ Pompier SAMU - Attestation.md
+       → ✉️ Courriers/Police - Vidéos - Relance.md
+  ✓  ✉️ Courriers/21 CPAM - Relance.md
+       → ✉️ Courriers/CPAM - Relance.md
+  ✓  ✉️ Courriers/23 Pompier SAMU - Attestation.md
+       → ✉️ Courriers/Pompier SAMU - Attestation.md
   ✓  ✉️ Courriers/25 📧 Relance Dr DJERBI.md
        → ✉️ Courriers/🔄 DrDJERBI Consolidation ✉️Mail.md
-  ✓  ✉️ Courriers/26 📧✉️ Témoin Client - Attestation.md
-       → ✉️ Courriers/Mail Attestation.md
-  ✓  ✉️ Courriers/27 📧✉️ Pompier SAMU - Attestation.md
-       → ✉️ Courriers/Mail Attestation.md
+  ✓  ✉️ Courriers/26 📧Témoin Client - Attestation.md
+       → ✉️ Courriers/Email Attestation.md
+  ✓  ✉️ Courriers/27 📧Pompier SAMU - Attestation.md
+       → ✉️ Courriers/Email Attestation.md
   ✓  ✉️ Courriers/28 📧✉️ Employé - Attestation.md
-       → ✉️ Courriers/Mail Attestation.md
+       → ✉️ Courriers/Email Attestation.md
   ✓  ✉️ Courriers/29 ✉️ Courrier Maire Foix.md
-       → ✉️ Courriers/✉️ Mairie - Maire de Foix - Courrier.md
+       → ✉️ Courriers/Mairie - Maire de Foix - Courrier.md
   ✓  ✉️ Courriers/30 ✉️ Courrier President TC.md
-       → ✉️ Courriers/✉️ Tribunal de Commerce - Opposition Radiation.md
-  ✓  ✉️ Courriers/✉️ INPI - Signalement.md
-       → ✉️ Courriers/✉️ INPI - Immatriculation - Opposition.md
-  ✓  ✉️ Courriers/✉️ SIE - Signalement.md
-       → ✉️ Courriers/✉️ SIE URSSAF - Mutualisation - Courrier.md
+       → ✉️ Courriers/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md
+  ✓  ✉️ Courriers/INPI - Signalement.md
+       → ✉️ Courriers/INPI - Immatriculation - Opposition.md
+  ✓  ✉️ Courriers/SIE - Signalement.md
+       → ✉️ Courriers/SIE URSSAF - Mutualisation - Courrier.md
   ✓  ✉️ Courriers/33 ✉️ Constat Huissier - Requête Archive 145 CPC.md
-       → ✉️ Courriers/✉️ Constat Huissier - Requête Archive.md
-  ✓  ✉️ Courriers/✉️ Préfecture - Signalement.md
-       → ✉️ Courriers/✉️ Mairie - ERP Tavella - Courrier.md
+       → ✉️ Courriers/Requête - Constat Huissier Archive.md
+  ✓  ✉️ Courriers/CODAF - Préfecture - Signalement.md
+       → ✉️ Courriers/Mairie - ERP Tavella - Courrier.md
   ✓  ✉️ Courriers/35 ✉️ Courrier President TJ Foix.md
-       → ✉️ Courriers/✉️ TJ Foix - Courrier - Preuves Complémentaires.md
+       → ✉️ Courriers/TJ Foix - Courrier - Preuves Complémentaires.md
   ✓  ✉️ Courriers/36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md
-       → ✉️ Courriers/✉️ Police - Plainte Complémentaire.md
+       → ✉️ Courriers/Police - Plainte Complémentaire.md
   ✓  ✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.md
        → ✉️ Courriers/✉️ Guide Dialogue Police Note.md
   ✓  ✉️ Courriers/38 ✅ CHECKLIST_DEPLACEMENT_POLICE_FOIX.md
@@ -115,9 +115,9 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/39 📋 GUIDE_DEMANDE_AJ.md
        → ✉️ Courriers/✉️ BBAJ - Demande AJ - Guide AJ.md
   ✓  ✉️ Courriers/41 ✉️ CODAF - Signalement - Relance - Suite Signalement Maire.md
-       → ✉️ Courriers/✉️ CODAF - Signalement - Relance.md
+       → ✉️ Courriers/CODAF - Signalement - Relance.md
   ✓  ✉️ Courriers/42 ✉️ DDETS - Signalement - Relance - Suite Signalement Maire.md
-       → ✉️ Courriers/✉️ DDETS - Signalement - Relance.md
+       → ✉️ Courriers/DDETS - Signalement - Relance.md
   ✓  ✉️ Courriers/43 ✉️ CADA - Saisine - Modèle.md
        → ✉️ Courriers/✉️ CADA - Saisine - Modèle.md
   ✓  ✉️ Courriers/44 ✉️ Saisine CADA Version Courte.md
@@ -164,94 +164,94 @@ Date: 2026-07-12 14:37
        → 🗂️ Organisation/Archive - Checklist Envoi 11-07.md
 
 ── Fichiers Reel à renommer : 71 ──
-  ✓  ⚖️ Actes proceduraux/Référé Provision - Assignation.md
-       → ⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Assignation.md
+  ✓  ⚖️ Actes proceduraux/TJ Foix - TJ Foix - Référé Provision - Assignation.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md
   ✓  ⚖️ Actes proceduraux/02 🚔 Plainte.md
        → ⚖️ Actes proceduraux/👮 Contentieux penal/Assurance RC - Plainte Défaut.md
-  ✓  ⚖️ Actes proceduraux/Partie Civile - Constitution.md
-       → ⚖️ Actes proceduraux/👮 Contentieux penal/Partie Civile - Constitution.md
+  ✓  ⚖️ Actes proceduraux/DJI Foix - DJI Foix - Partie Civile - Constitution.md
+       → ⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md
   ✓  ⚖️ Actes proceduraux/03 🔍 Assignation Article 145.md
-       → ⚖️ Actes proceduraux/📜 Contentieux civil/CPC 145 - Requête.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - CPC 145 - Requête.md
   ✓  ⚖️ Actes proceduraux/04 📑 Bordereau Audience.md
-       → ⚖️ Actes proceduraux/TJ Foix - TJ Foix - Bordereau Unifié.md
+       → ⚖️ Actes proceduraux/TJ Foix - Bordereau Unifié.md
   ✓  ⚖️ Actes proceduraux/04 📑 Bordereau de pieces.md
-       → ⚖️ Actes proceduraux/TJ Foix - TJ Foix - Bordereau Unifié.md
+       → ⚖️ Actes proceduraux/TJ Foix - Bordereau Unifié.md
   ✓  ⚖️ Actes proceduraux/04 📑 Bordereau.md
-       → ⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Bordereau Unifié.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Bordereau Unifié.md
   ✓  ⚖️ Actes proceduraux/05 🎯 Conclusions Refere.md
-       → ⚖️ Actes proceduraux/📜 Contentieux civil/Référé Provision - Conclusions.md
+       → ⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md
   ✓  ⚖️ Actes proceduraux/06 Constat Huissier - Requête.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/Constat Huissier - Requête.md
   ✓  ⚖️ Actes proceduraux/07 TJ Foix - Référé Provision - Ordonnance Projet.md
        → ⚖️ Actes proceduraux/📜 Contentieux civil/TJ Foix - Référé Provision - Ordonnance Projet.md
   ✓  ⚖️ Actes proceduraux/15 ⚖️ Réquisitoire introductif.md
-       → ⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Réquisitoire Introductif.md
+       → ⚖️ Actes proceduraux/👮 Contentieux penal/DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md
   ✓  ✉️ Courriers/03 ✉️ Courrier SAS.md
-       → ✉️ Courriers/✉️ SAS - Courrier.md
-  ✓  ✉️ Courriers/✉️ SAS - Assureur RC - Courrier.md
-       → ✉️ Courriers/✉️ SAS - Assureur RC - Courrier.md
+       → ✉️ Courriers/SAS - Courrier.md
+  ✓  ✉️ Courriers/SAS - Assureur RC - Courrier.md
+       → ✉️ Courriers/SAS - Assureur RC - Courrier.md
   ✓  ✉️ Courriers/05 ✉️ Courrier Proprietaire.md
-       → ✉️ Courriers/✉️ Propriétaire - Courrier.md
-  ✓  ✉️ Courriers/06 V2 ✉️ SAS - Dirigeants - Courrier - Relance.md
-       → ✉️ Courriers/✉️ SAS - Dirigeants - Courrier - Relance.md
+       → ✉️ Courriers/Propriétaire - Courrier.md
+  ✓  ✉️ Courriers/06 V2 SAS - Dirigeants - Courrier - Relance.md
+       → ✉️ Courriers/SAS - Dirigeants - Courrier - Relance.md
   ✓  ✉️ Courriers/06 ✉️ Courrier President DG.md
-       → ✉️ Courriers/✉️ SAS - Président - Courrier.md
+       → ✉️ Courriers/SAS - Président - Courrier.md
   ✓  ✉️ Courriers/07 ✉️ Courrier Consolidation.md
        → ✉️ Courriers/✉️🔄 Consolidation.md
   ✓  ✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md
-       → ✉️ Courriers/✉️ Mairie - Tavella - Courrier - Relance.md
+       → ✉️ Courriers/Mairie - Tavella - Courrier - Relance.md
   ✓  ✉️ Courriers/09 ✉️ Courrier Inspection Travail.md
-       → ✉️ Courriers/✉️ DDETS - Signalement.md
+       → ✉️ Courriers/DDETS - Signalement.md
   ✓  ✉️ Courriers/10 ✉️ Courrier Doyen Juges Instruction.md
-       → ✉️ Courriers/✉️ Doyen des Juges - Saisine.md
+       → ✉️ Courriers/DJI Foix - DJI Foix - Doyen des Juges - Saisine.md
   ✓  ✉️ Courriers/11 ✉️ Courrier INPI.md
-       → ✉️ Courriers/✉️ INPI - Signalement.md
+       → ✉️ Courriers/INPI - Signalement.md
   ✓  ✉️ Courriers/12 ✉️ Courrier URSSAF.md
-       → ✉️ Courriers/✉️ URSSAF - Signalement.md
+       → ✉️ Courriers/URSSAF - Signalement.md
   ✓  ✉️ Courriers/13 ✉️ Courrier Prefecture.md
-       → ✉️ Courriers/✉️ Préfecture - Signalement.md
+       → ✉️ Courriers/CODAF - Préfecture - Signalement.md
   ✓  ✉️ Courriers/14 ✉️ Courrier CODAF.md
-       → ✉️ Courriers/✉️ CODAF - Signalement.md
+       → ✉️ Courriers/CODAF - Signalement.md
   ✓  ✉️ Courriers/15 ✉️ Courrier SIE.md
-       → ✉️ Courriers/✉️ SIE - Signalement.md
+       → ✉️ Courriers/SIE - Signalement.md
   ✓  ✉️ Courriers/16 ✉️ Courrier Conseil Departemental.md
-       → ✉️ Courriers/✉️ Conseil Départemental - Signalement.md
+       → ✉️ Courriers/Conseil Départemental - Signalement.md
   ✓  ✉️ Courriers/17 ✉️ Courrier CPAM.md
-       → ✉️ Courriers/✉️ CPAM - Recours Tiers - Saisine.md
+       → ✉️ Courriers/CPAM - Recours Tiers - Saisine.md
   ✓  ✉️ Courriers/18 ✉️ Courrier SDIS.md
-       → ✉️ Courriers/✉️ SDIS - Signalement.md
+       → ✉️ Courriers/SDIS - Signalement.md
   ✓  ✉️ Courriers/19 ✉️ Courrier FGTI.md
-       → ✉️ Courriers/✉️ FGTI - Saisine.md
+       → ✉️ Courriers/FGTI - Saisine.md
   ✓  ✉️ Courriers/20 🔄 Relance Police.md
-       → ✉️ Courriers/✉️ Police - Vidéos - Relance.md
-  ✓  ✉️ Courriers/21 ✉️ CPAM - Relance.md
-       → ✉️ Courriers/✉️ CPAM - Relance.md
-  ✓  ✉️ Courriers/23 ✉️ Pompier SAMU - Attestation.md
-       → ✉️ Courriers/✉️ Pompier SAMU - Attestation.md
+       → ✉️ Courriers/Police - Vidéos - Relance.md
+  ✓  ✉️ Courriers/21 CPAM - Relance.md
+       → ✉️ Courriers/CPAM - Relance.md
+  ✓  ✉️ Courriers/23 Pompier SAMU - Attestation.md
+       → ✉️ Courriers/Pompier SAMU - Attestation.md
   ✓  ✉️ Courriers/25 📧 Relance Dr DJERBI.md
        → ✉️ Courriers/🔄 DrDJERBI Consolidation ✉️Mail.md
-  ✓  ✉️ Courriers/26 📧✉️ Témoin Client - Attestation.md
-       → ✉️ Courriers/Mail Attestation.md
-  ✓  ✉️ Courriers/27 📧✉️ Pompier SAMU - Attestation.md
-       → ✉️ Courriers/Mail Attestation.md
+  ✓  ✉️ Courriers/26 📧Témoin Client - Attestation.md
+       → ✉️ Courriers/Email Attestation.md
+  ✓  ✉️ Courriers/27 📧Pompier SAMU - Attestation.md
+       → ✉️ Courriers/Email Attestation.md
   ✓  ✉️ Courriers/28 📧✉️ Employé - Attestation.md
-       → ✉️ Courriers/Mail Attestation.md
+       → ✉️ Courriers/Email Attestation.md
   ✓  ✉️ Courriers/29 ✉️ Courrier Maire Foix.md
-       → ✉️ Courriers/✉️ Mairie - Maire de Foix - Courrier.md
+       → ✉️ Courriers/Mairie - Maire de Foix - Courrier.md
   ✓  ✉️ Courriers/30 ✉️ Courrier President TC.md
-       → ✉️ Courriers/✉️ Tribunal de Commerce - Opposition Radiation.md
-  ✓  ✉️ Courriers/✉️ INPI - Signalement.md
-       → ✉️ Courriers/✉️ INPI - Immatriculation - Opposition.md
-  ✓  ✉️ Courriers/✉️ SIE - Signalement.md
-       → ✉️ Courriers/✉️ SIE URSSAF - Mutualisation - Courrier.md
+       → ✉️ Courriers/✉️ TC Foix - Tribunal de Commerce - Opposition Radiation.md
+  ✓  ✉️ Courriers/INPI - Signalement.md
+       → ✉️ Courriers/INPI - Immatriculation - Opposition.md
+  ✓  ✉️ Courriers/SIE - Signalement.md
+       → ✉️ Courriers/SIE URSSAF - Mutualisation - Courrier.md
   ✓  ✉️ Courriers/33 ✉️ Constat Huissier - Requête Archive 145 CPC.md
-       → ✉️ Courriers/✉️ Constat Huissier - Requête Archive.md
-  ✓  ✉️ Courriers/✉️ Préfecture - Signalement.md
-       → ✉️ Courriers/✉️ Mairie - ERP Tavella - Courrier.md
+       → ✉️ Courriers/Requête - Constat Huissier Archive.md
+  ✓  ✉️ Courriers/CODAF - Préfecture - Signalement.md
+       → ✉️ Courriers/Mairie - ERP Tavella - Courrier.md
   ✓  ✉️ Courriers/35 ✉️ Courrier President TJ Foix.md
-       → ✉️ Courriers/✉️ TJ Foix - Courrier - Preuves Complémentaires.md
+       → ✉️ Courriers/TJ Foix - Courrier - Preuves Complémentaires.md
   ✓  ✉️ Courriers/36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md
-       → ✉️ Courriers/✉️ Police - Plainte Complémentaire.md
+       → ✉️ Courriers/Police - Plainte Complémentaire.md
   ✓  ✉️ Courriers/37 📋 GUIDE_DIALOGUE_POLICE_FOIX.md
        → ✉️ Courriers/✉️ Guide Dialogue Police Note.md
   ✓  ✉️ Courriers/38 ✅ CHECKLIST_DEPLACEMENT_POLICE_FOIX.md
@@ -259,9 +259,9 @@ Date: 2026-07-12 14:37
   ✓  ✉️ Courriers/39 📋 GUIDE_DEMANDE_AJ.md
        → ✉️ Courriers/✉️ BBAJ - Demande AJ - Guide AJ.md
   ✓  ✉️ Courriers/41 ✉️ CODAF - Signalement - Relance - Suite Signalement Maire.md
-       → ✉️ Courriers/✉️ CODAF - Signalement - Relance.md
+       → ✉️ Courriers/CODAF - Signalement - Relance.md
   ✓  ✉️ Courriers/42 ✉️ DDETS - Signalement - Relance - Suite Signalement Maire.md
-       → ✉️ Courriers/✉️ DDETS - Signalement - Relance.md
+       → ✉️ Courriers/DDETS - Signalement - Relance.md
   ✓  ✉️ Courriers/43 ✉️ CADA - Saisine - Modèle.md
        → ✉️ Courriers/✉️ CADA - Saisine - Modèle.md
   ✓  ✉️ Courriers/44 ✉️ Saisine CADA Version Courte.md
@@ -308,8 +308,8 @@ Date: 2026-07-12 14:37
        → 🗂️ Organisation/Archive - Checklist Envoi 11-07.md
 
 ── Fichiers exclus (brouillons / 99) ──
-  ⊘ ⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md
-  ⊘ ⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md
+  ⊘ ⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md
+  ⊘ ⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md
   ⊘ 📂 Preuves officielles/📁 Preparation Expertise UMJ.md
   ⊘ 📚 Analyses juridiques/Mémoire - En défense adverse.md
   ⊘ 🗂️ Organisation/Synthèse - Actions et Audits.md
@@ -321,20 +321,20 @@ Date: 2026-07-12 14:37
   📄 ⚖️ Actes/🔑 Token/🗄️ Archives/33 ✉️ Constat Huissier - Requête Archive 145 CPC.md
        [breadcrumb] › 33 ✉️ Constat Huissier - Requête Archive 145 CPC (breadcrumb)
   📄 📊 Rapports/PLAN_CORRECTION_HERMES_20260711.md
-       [parenthesized_url] Référé Provision - Assignation.md → Référé Provision - Assignation.md (1x)
+       [parenthesized_url] TJ Foix - TJ Foix - Référé Provision - Assignation.md → TJ Foix - TJ Foix - Référé Provision - Assignation.md (1x)
   📄 📊 Rapports/RAPPORT_AUDIT_COMPLET_20260711.md
-       [parenthesized_url] Référé Provision - Assignation.md → Référé Provision - Assignation.md (1x)
+       [parenthesized_url] TJ Foix - TJ Foix - Référé Provision - Assignation.md → TJ Foix - TJ Foix - Référé Provision - Assignation.md (1x)
   📄 📊 Rapports/RAPPORT_AUDIT_HERMES_20260711.md
        [parenthesized_url] 05 Note - Dossier Spécial CERFA.md → Note - Dossier Spécial CERFA.md (1x)
   📄 📊 Rapports/RAPPORT_AUDIT_REDACTION.md
-       [parenthesized_url] 03 ✉️ Courrier SAS.md → ✉️ SAS - Courrier.md (1x)
-       [parenthesized_url] 10 ✉️ Courrier Doyen Juges Instruction.md → ✉️ Doyen des Juges - Saisine.md (1x)
-       [parenthesized_url] 12 ✉️ Courrier URSSAF.md → ✉️ URSSAF - Signalement.md (1x)
-       [parenthesized_url] 14 ✉️ Courrier CODAF.md → ✉️ CODAF - Signalement.md (1x)
-       [parenthesized_url] 19 ✉️ Courrier FGTI.md → ✉️ FGTI - Saisine.md (1x)
-       [parenthesized_url] 33 ✉️ Constat Huissier - Requête Archive 145 CPC.md → ✉️ Constat Huissier - Requête Archive.md (1x)
-       [parenthesized_url] ✉️ Préfecture - Signalement.md → ✉️ Mairie - ERP Tavella - Courrier.md (1x)
-       [parenthesized_url] 35 ✉️ Courrier President TJ Foix.md → ✉️ TJ Foix - Courrier - Preuves Complémentaires.md (1x)
+       [parenthesized_url] 03 ✉️ Courrier SAS.md → SAS - Courrier.md (1x)
+       [parenthesized_url] 10 ✉️ Courrier Doyen Juges Instruction.md → DJI Foix - DJI Foix - Doyen des Juges - Saisine.md (1x)
+       [parenthesized_url] 12 ✉️ Courrier URSSAF.md → URSSAF - Signalement.md (1x)
+       [parenthesized_url] 14 ✉️ Courrier CODAF.md → CODAF - Signalement.md (1x)
+       [parenthesized_url] 19 ✉️ Courrier FGTI.md → FGTI - Saisine.md (1x)
+       [parenthesized_url] 33 ✉️ Constat Huissier - Requête Archive 145 CPC.md → Requête - Constat Huissier Archive.md (1x)
+       [parenthesized_url] CODAF - Préfecture - Signalement.md → Mairie - ERP Tavella - Courrier.md (1x)
+       [parenthesized_url] 35 ✉️ Courrier President TJ Foix.md → TJ Foix - Courrier - Preuves Complémentaires.md (1x)
        [parenthesized_url] 07 🎤 Plaidoirie dirigeants.md → Note - Plaidoirie Responsabilité Dirigeants.md (1x)
        [parenthesized_url] Note - Analyse Responsabilités Légales.md → Note - Analyse Responsabilités Légales.md (1x)
   📄 📊 Rapports/RAPPORT_MIGRATION_JX_20260712_143516.md

@@ -12,7 +12,9 @@ auteur: Antoine
 <!-- Objet -->
 <!-- Date -->
 <!-- Destinataire -->
+<!-- /Destinataire -->
 <!-- Auteur -->
+<!-- /Auteur -->
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [👮 Contentieux penal](./README.md) › 16 ⚠️ Parquet - Signalement Fraude*
@@ -95,9 +97,9 @@ Avocat de **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
 
-- **[Constitution de partie civile](Partie%20Civile%20-%20Constitution.md)** — Procedure penale en cours
+- **[Constitution de partie civile](DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale en cours
 
-- **[Mises en demeure J+31](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Courrier.md)** — LRAR restees sans reponse
+- **[Mises en demeure J+31](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/SAS%20-%20Courrier.md)** — LRAR restees sans reponse
 <!-- /PJ -->
 
 <!-- Source -->

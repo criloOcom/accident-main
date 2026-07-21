@@ -25,6 +25,9 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 <!-- Objet -->
 <!-- Date -->
 <!-- Auteur -->
+<!-- /Source -->
+<!-- /PJ -->
+<!-- /Auteur -->
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 📋 Interne › ✉️ BAJ - Demande AJ - Guide*

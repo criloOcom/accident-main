@@ -17,17 +17,17 @@ type: rapport
 
 ## Sommaire
 
-1. [Bilan des Actions Réalisées](#1-bilan-des-actions-r%C3%A9alis%C3%A9es)
+1. [Bilan des Actions Réalisées](%231-bilan-des-actions-r%C3%A9alis%C3%A9es)
 
 2. [Situation Actuelle](#2-situation-actuelle)
 
-3. [Prochaines Étapes Critiques](#3-prochaines-%C3%A9tapes-critiques)
+3. [Prochaines Étapes Critiques](%233-prochaines-%C3%A9tapes-critiques)
 
-4. [Stratégie Juridique Renforcée](#4-strat%C3%A9gie-juridique-renforc%C3%A9e)
+4. [Stratégie Juridique Renforcée](%234-strat%C3%A9gie-juridique-renforc%C3%A9e)
 
 5. [Risques et Mitigations](#5-risques-et-mitigations)
 
-6. [Calendrier Prévisionnel](#6-calendrier-pr%C3%A9visionnel)
+6. [Calendrier Prévisionnel](%236-calendrier-pr%C3%A9visionnel)
 
 ## I — Bilan des Actions Réalisées
 
@@ -49,9 +49,9 @@ type: rapport
 
 - **Documents mis à jour:**
 
-- [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/Référé Provision - Assignation.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md)
+- [⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/TJ Foix - TJ Foix - Référé Provision - Assignation.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md)
 
-- [⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/Référé Provision - Assignation.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md)
+- [⚖️ Actes/👤 Reel/⚖️ Actes proceduraux/TJ Foix - TJ Foix - Référé Provision - Assignation.md](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md)
 
   - [📊 Rapports/RAPPORT_FINAL_INTEGRATION_20260710.md](../30_Analyses_Multi_Angle/RAPPORT_FINAL_INTEGRATION_20260710.md)
 

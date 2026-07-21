@@ -19,11 +19,11 @@ type: rapport
 
 ## Sommaire
 
-1. [Nouvelle Structure Identifiée](#1-nouvelle-structure-identifi%C3%A9e)
+1. [Nouvelle Structure Identifiée](%231-nouvelle-structure-identifi%C3%A9e)
 
 2. [Analyse des Impacts](#2-analyse-des-impacts)
 
-3. [Vérification des Références](#3-v%C3%A9rification-des-r%C3%A9f%C3%A9rences)
+3. [Vérification des Références](%233-v%C3%A9rification-des-r%C3%A9f%C3%A9rences)
 
 4. [Recommandations](#4-recommandations)
 

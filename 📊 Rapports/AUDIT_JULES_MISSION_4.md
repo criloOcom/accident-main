@@ -19,7 +19,7 @@ L'audit révèle que les nouveaux identifiants ont été correctement intégrés
 
 - **SIREN (104 103 262)** : Présent dans `.dev/app/generate_real_versions.py`, `.dev/app/batch_anonymize.py`, `🧠 Memory/TOKEN MAP.md`, et les fiches de tokens (`token-exploitation-hb-siren.md`, etc.).
 
-- **SIRET (104 103 262 00010)** : Présent dans les mêmes fichiers de configuration, ainsi que dans des actes clés comme `Référé Provision - Assignation.md`, `⚖️ Mandataire Ad Hoc - Requête.md` et `✉️ Police Plainte Complementaire Contentieux.md`.
+- **SIRET (104 103 262 00010)** : Présent dans les mêmes fichiers de configuration, ainsi que dans des actes clés comme `TJ Foix - TJ Foix - Référé Provision - Assignation.md`, `⚖️ TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md` et `✉️ Police Plainte Complementaire Contentieux.md`.
 
 - **Capital (1 000 €)** : Correctement paramétré et retrouvé dans les actes civils (référé) et la stratégie du bailleur (`🧠 Memory/Mémo Stratégie Bailleur HB BARBER.md`).
 

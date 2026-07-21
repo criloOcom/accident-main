@@ -19,13 +19,13 @@ type: rapport
 
 ## Sommaire
 
-1. [Inventaire du Dossier 📜 Lois](#1-inventaire-du-dossier-%F0%9F%93%9C_lois)
+1. [Inventaire du Dossier 📜 Lois](%231-inventaire-du-dossier-%F0%9F%93%9C_lois)
 
-2. [Références Juridiques Citées dans les Actes](#2-r%C3%A9f%C3%A9rences-juridiques-cit%C3%A9es-dans-les-actes)
+2. [Références Juridiques Citées dans les Actes](%232-r%C3%A9f%C3%A9rences-juridiques-cit%C3%A9es-dans-les-actes)
 
 3. [Analyse Comparative](#3-analyse-comparative)
 
-4. [Lois Manquantes Identifiées](#4-lois-manquantes-identifi%C3%A9es)
+4. [Lois Manquantes Identifiées](%234-lois-manquantes-identifi%C3%A9es)
 
 5. [Recommandations](#5-recommandations)
 
@@ -245,17 +245,17 @@ Le dossier [📜 Lois](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/REA
 | Priorité | Article | Code | LEGIARTI | Utilisation | Fichiers concernés |
 |----------|---------|------|----------|-------------|-------------------|
 | **Haute** | Art. 706-3 | CPP | LEGIARTI000006577625 | FGTI - Indemnisation victimes | 02 🚔 Plainte.md |
-| **Haute** | Art. 434-4 | CP | LEGIARTI000006418608 | Fraude - Dissimulation | Parquet - Signalement Fraude.md |
-| **Haute** | Art. 314-7 | CP | LEGIARTI000006418226 | Fraude fiscale | Parquet - Signalement Fraude.md |
+| **Haute** | Art. 434-4 | CP | LEGIARTI000006418608 | Fraude - Dissimulation | Parquet Foix - Signalement Fraude.md |
+| **Haute** | Art. 314-7 | CP | LEGIARTI000006418226 | Fraude fiscale | Parquet Foix - Signalement Fraude.md |
 | **Moyenne** | Art. L.2212-2 | CGCT | LEGIARTI000029946370 | Pouvoirs du maire | 29 ✉️ Courrier Maire Foix.md |
 | **Moyenne** | Art. L.2212-4 | CGCT | LEGIARTI000006390155 | Pouvoirs du maire | 29 ✉️ Courrier Maire Foix.md |
 | **Moyenne** | Art. 434-15 | CP | LEGIARTI000006418060 | Obstruction à la justice | 36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md |
 | **Moyenne** | Art. 434-15-1 | CP | LEGIARTI000038876031 | Obstruction à la justice | 36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md |
 | **Basse** | Art. R.123-128 | C.com | LEGIARTI000039278214 | Immatriculation | 30 ✉️ Courrier President TC.md |
-| **Basse** | Art. L.123-5-1 | C.com | LEGIARTI000006219291 | Immatriculation | ✉️ INPI - Signalement.md |
-| **Basse** | Art. L.123-3 | C.com | LEGIARTI000025559422 | Immatriculation | ✉️ INPI - Signalement.md |
-| **Basse** | Art. L.252 | LPF | LEGIARTI000006316012 | Procédures fiscales | ✉️ SIE - Signalement.md |
-| **Basse** | Art. L.274 | LPF | LEGIARTI000042914471 | Procédures fiscales | ✉️ SIE - Signalement.md |
+| **Basse** | Art. L.123-5-1 | C.com | LEGIARTI000006219291 | Immatriculation | INPI - Signalement.md |
+| **Basse** | Art. L.123-3 | C.com | LEGIARTI000025559422 | Immatriculation | INPI - Signalement.md |
+| **Basse** | Art. L.252 | LPF | LEGIARTI000006316012 | Procédures fiscales | SIE - Signalement.md |
+| **Basse** | Art. L.274 | LPF | LEGIARTI000042914471 | Procédures fiscales | SIE - Signalement.md |
 | **Basse** | Art. L.4121-1 | C.trav | LEGIARTI000006900156 | Sécurité au travail | 36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md |
 | **Basse** | Art. L.8221-1 | C.trav | LEGIARTI000006901135 | Travail dissimulé | 36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md |
 

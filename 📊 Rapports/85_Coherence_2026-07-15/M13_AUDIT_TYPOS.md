@@ -39,21 +39,21 @@ Aucune fuite de PII (identités réelles du `TOKEN MAP.md`) n'a été détectée
 
 L'expression "suite à" est une faute de français (calque administratif). Elle doit être remplacée par "à la suite de".
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md` — ligne 3
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/DDETS - Signalement - Relance.md` — ligne 3
 
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md` — ligne 32
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md` — ligne 144
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/DDETS - Signalement.md` — ligne 144
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md` — ligne 50
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/Conseil Départemental - Signalement.md` — ligne 50
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md` — ligne 125
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/CODAF - Signalement.md` — ligne 125
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/✉️ Police - Plainte Complémentaire.md` — ligne 224
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md` — ligne 224
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Mairie - ERP Tavella - Courrier.md` — lignes 23, 43
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/Mairie - ERP Tavella - Courrier.md` — lignes 23, 43
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/✉️ Mairie - Maire de Foix - Courrier.md` — ligne 67
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📜 Mises en demeure/Mairie - Maire de Foix - Courrier.md` — ligne 67
 
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📋 Personnel/Archive - Checklist Déplacement Foix.md` — lignes 402, 565
 
@@ -71,7 +71,7 @@ L'expression "suite à" est une faute de français (calque administratif). Elle 
 
 - [ ] `⚖️ Actes/🔑 Token/🗂️ Organisation/Note - Modification Email Maire Foix.md` — lignes 31, 37
 
-- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md` — lignes 29, 37
+- [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md` — lignes 29, 37
 
 - [ ] `⚖️ Actes/🔑 Token/⚖️ Actes proceduraux/👮 Contentieux penal/Plainte Complémentaire - PV Audition.md` — ligne 66
 

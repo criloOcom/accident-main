@@ -24,14 +24,17 @@ jx: J+39
 <!-- Objet -->
 <!-- Date -->
 <!-- Destinataire -->
+<!-- /PJ -->
+<!-- /Destinataire -->
 <!-- Auteur -->
+<!-- /Auteur -->
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [⚖️ Actes Procéduraux](../README.md) › [📜 Contentieux civil](./README.md) › 📑 TJ Foix - Bordereau Unifié*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # BORDEREAU DE PIÈCES
 
@@ -85,7 +88,7 @@ jx: J+39
 
 ### PIÈCE N° 10b
 
-- **08/07/2026** — LRAR [relance V2 dirigeants](../../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Dirigeants%20-%20Courrier%20-%20Relance.md) : Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf). Preuve du renouvellement des demandes et de l'obstruction.
+- **08/07/2026** — LRAR [relance V2 dirigeants](../../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/SAS%20-%20Dirigeants%20-%20Courrier%20-%20Relance.md) : Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf). Preuve du renouvellement des demandes et de l'obstruction.
 
 ### PIÈCE N° 11
 

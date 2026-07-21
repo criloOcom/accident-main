@@ -92,17 +92,17 @@ type: rapport
 ### II.2 — ⚖️ Actes proceduraux
 | 🔑 Token | 👤 Reel | Statut |
 |----------|---------|--------|
-| `Référé Provision - Assignation.md` | ✅ Présent | OK |
+| `TJ Foix - TJ Foix - Référé Provision - Assignation.md` | ✅ Présent | OK |
 | `02 🚔 Plainte.md` | ✅ Présent | OK |
-| `Partie Civile - Constitution.md` | ✅ Présent | OK |
+| `DJI Foix - DJI Foix - Partie Civile - Constitution.md` | ✅ Présent | OK |
 | `03 🔍 Assignation Article 145.md` | ✅ Présent | OK |
 | `04 📑 Bordereau.md` | ✅ Présent | OK |
 | `05 🎯 Conclusions Refere.md` | ✅ Présent | OK |
 | `06 Constat Huissier - Requête.md` | ✅ Présent | OK |
 | `07 TJ Foix - Référé Provision - Ordonnance Projet.md` | ✅ Présent | OK |
 | `15 ⚖️ Réquisitoire introductif.md` | ✅ Présent | OK |
-| `Parquet - Signalement Fraude.md` | ✅ Présent | OK |
-| `Mandataire Ad Hoc - Requête.md` | ✅ Présent | OK |
+| `Parquet Foix - Signalement Fraude.md` | ✅ Présent | OK |
+| `TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md` | ✅ Présent | OK |
 | — | ❌ `04 📑 Bordereau Audience.md` | **EXCÉDENT** 👤 |
 | — | ❌ `04 📑 Bordereau de pieces.md` | **EXCÉDENT** 👤 |
 
@@ -126,7 +126,7 @@ type: rapport
 | `Archive - Dossier Présentation.md` | ✅ Présent | OK |
 | `Archive - Analyse Jurisprudence.md` | ✅ Présent | OK |
 | `Archive - Analyse Correction Juridique.md` | ✅ Présent | OK |
-| `Partie Civile - Constitution.md` | ✅ Présent | OK |
+| `DJI Foix - DJI Foix - Partie Civile - Constitution.md` | ✅ Présent | OK |
 | `Archive - Stratégie Contentieux Civil.md` | ✅ Présent | OK |
 | `Archive - Stratégie Contentieux Pénal.md` | ✅ Présent | OK |
 | `annexes/⚖️ ANNEXE B Lois Jurisprudence.md` | ❌ Absent | **MANQUANT** |

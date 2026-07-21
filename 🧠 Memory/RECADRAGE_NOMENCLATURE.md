@@ -52,44 +52,44 @@ Un document ne peut être qualifié de **« ENVOYÉ »** que si une **preuve mat
 
 | N° | Document | Preuve |
 |:--:|----------|--------|
-| 03 | [Mise en demeure SAS](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Courrier.md) | LRAR 87001424863012T |
-| 05 | [Mise en demeure bailleur](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A0%20Propri%C3%A9taire/%E2%9C%89%EF%B8%8F%20Propri%C3%A9taire%20-%20Courrier.md) | AR signé M. Delrieu |
-| 06 | [Mise en demeure dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Pr%C3%A9sident%20-%20Courrier.md) | LRAR 87001424721856G + 87001424862879J |
-| 06 V2 | [Relance dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Dirigeants%20-%20Courrier%20-%20Relance.md) | Dépôt 870014282662911 + facture Z0132713629 |
-| 10 | [CPC Doyen TJ Foix](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/CPC%20145%20-%20Requ%C3%AAte.md) | Dépôt greffe |
+| 03 | [Mise en demeure SAS](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/SAS%20-%20Courrier.md) | LRAR 87001424863012T |
+| 05 | [Mise en demeure bailleur](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A0%20Propri%C3%A9taire/Propri%C3%A9taire%20-%20Courrier.md) | AR signé M. Delrieu |
+| 06 | [Mise en demeure dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/SAS%20-%20Pr%C3%A9sident%20-%20Courrier.md) | LRAR 87001424721856G + 87001424862879J |
+| 06 V2 | [Relance dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/SAS%20-%20Dirigeants%20-%20Courrier%20-%20Relance.md) | Dépôt 870014282662911 + facture Z0132713629 |
+| 10 | [CPC Doyen TJ Foix](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md) | Dépôt greffe |
 
 ### 🟠 PRÊTS POUR ENVOI
 
 | N° | Document | Blocage |
 |:--:|----------|---------|
-| 34 | [Email Maire Foix Police ERP](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20ERP%20Tavella%20-%20Courrier.md) | **🚀 ENVOI PRÉVU DEMAIN 11/07 8H00** |
+| 34 | [Email Maire Foix Police ERP](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md) | **🚀 ENVOI PRÉVU DEMAIN 11/07 8H00** |
 
 ### 🟡 PROJETS / BROUILLONS
 
 | N° | Document | Raison |
 |:--:|----------|--------|
-| 04 | [Action directe assureur](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Assureur%20RC%20-%20Courrier.md) | `[Adresse à compléter]` — assureur non identifié |
-| 07 | [Demande consolidation](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/%E2%9C%89%EF%B8%8F%20M%C3%A9decin%20Traitant%20-%20Consolidation%20-%20Demande.md) | État non consolidé, suivi ~1 an |
-| 09 | [Inspection Travail](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20DDETS%20-%20Signalement.md) | En réserve stratégique (conditionnel) |
-| 11 | [INPI signalement](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20INPI%20-%20Signalement.md) | Aucune preuve d'expédition |
-| 12 | [URSSAF travail dissimulé](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20URSSAF%20-%20Signalement.md) | Aucune preuve d'expédition |
-| 13 | [Préfecture confirmation](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Pr%C3%A9fecture%20-%20Signalement.md) | Aucune preuve d'expédition |
-| 14 | [CODAF signalement](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20CODAF%20-%20Signalement.md) | Aucune preuve d'expédition |
-| 15 | [SIE information litige](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20SIE%20-%20Signalement.md) | Aucune preuve d'expédition |
-| 16 | [Conseil Départemental ERP](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Conseil%20D%C3%A9partemental%20-%20Signalement.md) | Aucune preuve d'expédition |
-| 17 | [CPAM recours tiers](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A5%20CPAM/%E2%9C%89%EF%B8%8F%20CPAM%20-%20Recours%20Tiers%20-%20Saisine.md) | Aucune preuve d'expédition |
-| 18 | [SDIS sécurité ERP](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20SDIS%20-%20Signalement.md) | Aucune preuve d'expédition |
-| 19 | [FGTI saisine conservatoire](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/%E2%9C%89%EF%B8%8F%20FGTI%20-%20Saisine.md) | Aucune preuve d'expédition |
-| 20 | [Relance Police](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%E2%9C%89%EF%B8%8F%20Police%20-%20Vid%C3%A9os%20-%20Relance.md) | Aucune preuve d'expédition |
-| 21 | [Relance CPAM](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A5%20CPAM/%E2%9C%89%EF%B8%8F%20CPAM%20-%20Relance.md) | Aucune preuve d'expédition |
+| 04 | [Action directe assureur](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/SAS%20-%20Assureur%20RC%20-%20Courrier.md) | `[Adresse à compléter]` — assureur non identifié |
+| 07 | [Demande consolidation](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%E2%9A%95%EF%B8%8F%20M%C3%A9dical/M%C3%A9decin%20Traitant%20-%20Consolidation%20-%20Demande.md) | État non consolidé, suivi ~1 an |
+| 09 | [Inspection Travail](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/DDETS%20-%20Signalement.md) | En réserve stratégique (conditionnel) |
+| 11 | [INPI signalement](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/INPI%20-%20Signalement.md) | Aucune preuve d'expédition |
+| 12 | [URSSAF travail dissimulé](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/URSSAF%20-%20Signalement.md) | Aucune preuve d'expédition |
+| 13 | [Préfecture confirmation](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/Pr%C3%A9fecture%20-%20Signalement.md) | Aucune preuve d'expédition |
+| 14 | [CODAF signalement](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/CODAF%20-%20Signalement.md) | Aucune preuve d'expédition |
+| 15 | [SIE information litige](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/SIE%20-%20Signalement.md) | Aucune preuve d'expédition |
+| 16 | [Conseil Départemental ERP](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/Conseil%20D%C3%A9partemental%20-%20Signalement.md) | Aucune preuve d'expédition |
+| 17 | [CPAM recours tiers](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A5%20CPAM/CPAM%20-%20Recours%20Tiers%20-%20Saisine.md) | Aucune preuve d'expédition |
+| 18 | [SDIS sécurité ERP](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/SDIS%20-%20Signalement.md) | Aucune preuve d'expédition |
+| 19 | [FGTI saisine conservatoire](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/FGTI%20-%20Saisine.md) | Aucune preuve d'expédition |
+| 20 | [Relance Police](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/Police%20-%20Vid%C3%A9os%20-%20Relance.md) | Aucune preuve d'expédition |
+| 21 | [Relance CPAM](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A5%20CPAM/CPAM%20-%20Relance.md) | Aucune preuve d'expédition |
 
 ### 🔴 GABARITS NON TRANSMIS
 
 | N° | Document | Blocage |
 |:--:|----------|---------|
-| 22 | [Attestation témoin client](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/%E2%9C%89%EF%B8%8F%20T%C3%A9moin%20Client%20-%20Attestation.md) | Pas de témoin identifié |
-| 23 | [Attestation pompier SAMU](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/%E2%9C%89%EF%B8%8F%20Pompier%20SAMU%20-%20Attestation.md) | Coordonnées pompier inconnues |
-| 24 | [Attestation employé](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/%E2%9C%89%EF%B8%8F%20Employ%C3%A9%20-%20Attestation.md) | Pas d'employé SAS identifié |
+| 22 | [Attestation témoin client](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%8B%20Attestations/T%C3%A9moin%20Client%20-%20Attestation.md) | Pas de témoin identifié |
+| 23 | [Attestation pompier SAMU](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/Pompier%20SAMU%20-%20Attestation.md) | Coordonnées pompier inconnues |
+| 24 | [Attestation employé](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%8B%20Attestations/Employ%C3%A9%20-%20Attestation.md) | Pas d'employé SAS identifié |
 
 ## 5. Sanction
 

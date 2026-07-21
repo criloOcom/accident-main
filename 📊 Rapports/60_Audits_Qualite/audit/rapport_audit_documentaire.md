@@ -12,21 +12,21 @@ type: rapport
 | Fichier | Problème | Gravité (🔴/🟡/🟢) | Correction |
 |---|---|---|---|
 | 📂 Preuves officielles/📁 Preparation Expertise UMJ.md | Frontmatter YAML manquant | 🔴 | Ajouter le bloc YAML |
-| ⚖️ Actes proceduraux/Référé Provision - Assignation.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
+| ⚖️ Actes proceduraux/TJ Foix - TJ Foix - Référé Provision - Assignation.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
 | ⚖️ Actes proceduraux/02 🚔 Plainte.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
 | ⚖️ Actes proceduraux/04 📑 Bordereau Audience.md | Fichier orphelin: présent dans Reel/ mais absent de Token/ | 🔴 | Supprimer de Reel/ ou créer dans Token/ |
 | ⚖️ Actes proceduraux/04 📑 Bordereau de pieces.md | Fichier orphelin: présent dans Reel/ mais absent de Token/ | 🔴 | Supprimer de Reel/ ou créer dans Token/ |
 | ⚖️ Actes proceduraux/04 📑 Bordereau.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
 | ⚖️ Actes proceduraux/05 🎯 Conclusions Refere.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
-| ⚖️ Actes proceduraux/👮 Contentieux penal/Parquet - Signalement Fraude.md | Frontmatter YAML manquant | 🔴 | Ajouter le bloc YAML |
-| ⚖️ Actes proceduraux/📜 Contentieux civil/Mandataire Ad Hoc - Requête.md | Frontmatter YAML manquant | 🔴 | Ajouter le bloc YAML |
+| ⚖️ Actes proceduraux/👮 Contentieux penal/Parquet Foix - Signalement Fraude.md | Frontmatter YAML manquant | 🔴 | Ajouter le bloc YAML |
+| ⚖️ Actes proceduraux/📜 Contentieux civil/TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md | Frontmatter YAML manquant | 🔴 | Ajouter le bloc YAML |
 | ✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
 | ✉️ Courriers/10 ✉️ Courrier Doyen Juges Instruction.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
 | ✉️ Courriers/17 ✉️ Courrier CPAM.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
-| ✉️ Courriers/✉️ Témoin Client - Attestation.md | Frontmatter incomplet, champs manquants: destinataire | 🟡 | Compléter le YAML |
-| ✉️ Courriers/23 ✉️ Pompier SAMU - Attestation.md | Frontmatter incomplet, champs manquants: destinataire | 🟡 | Compléter le YAML |
+| ✉️ Courriers/Témoin Client - Attestation.md | Frontmatter incomplet, champs manquants: destinataire | 🟡 | Compléter le YAML |
+| ✉️ Courriers/23 Pompier SAMU - Attestation.md | Frontmatter incomplet, champs manquants: destinataire | 🟡 | Compléter le YAML |
 | ✉️ Courriers/✉️ Employé - Attestation.md | Frontmatter incomplet, champs manquants: destinataire | 🟡 | Compléter le YAML |
-| ✉️ Courriers/✉️ SIE - Signalement.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
+| ✉️ Courriers/SIE - Signalement.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
 | ✉️ Courriers/33 ✉️ Constat Huissier - Requête Archive 145 CPC.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
 | ✉️ Courriers/README.md | Lien mort trouvé: ../../reel/✉️ Courriers/README.md | 🔴 | Corriger ou supprimer le lien |
 | 📚 Analyses juridiques/07 🎤 Plaidoirie dirigeants.md | Frontmatter incomplet, champs manquants: destinataire | 🟡 | Compléter le YAML |
@@ -85,8 +85,8 @@ type: rapport
 | 🗄️ Archives/Archive - Analyse Jurisprudence.md | Frontmatter incomplet, champs manquants: destinataire | 🟡 | Compléter le YAML |
 | 🗄️ Archives/Archive - Analyse Correction Juridique.md | Non-respect de la convention de nommage [NUMÉRO] [TYPE] [DESCRIPTION].md | 🟡 | Renommer selon la convention |
 | 🗄️ Archives/Archive - Analyse Correction Juridique.md | Frontmatter incomplet, champs manquants: destinataire | 🟡 | Compléter le YAML |
-| 🗄️ Archives/Partie Civile - Constitution.md | Non-respect de la convention de nommage [NUMÉRO] [TYPE] [DESCRIPTION].md | 🟡 | Renommer selon la convention |
-| 🗄️ Archives/Partie Civile - Constitution.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
+| 🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md | Non-respect de la convention de nommage [NUMÉRO] [TYPE] [DESCRIPTION].md | 🟡 | Renommer selon la convention |
+| 🗄️ Archives/DJI Foix - DJI Foix - Partie Civile - Constitution.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
 | 🗄️ Archives/Archive - Stratégie Contentieux Civil.md | Non-respect de la convention de nommage [NUMÉRO] [TYPE] [DESCRIPTION].md | 🟡 | Renommer selon la convention |
 | 🗄️ Archives/Archive - Stratégie Contentieux Civil.md | Frontmatter incomplet, champs manquants: destinataire | 🟡 | Compléter le YAML |
 | 🗄️ Archives/Archive - Stratégie Contentieux Civil.md | Tokens restants dans Reel/ | 🔴 | Mettre à jour le script de génération pour remplacer les tokens |
