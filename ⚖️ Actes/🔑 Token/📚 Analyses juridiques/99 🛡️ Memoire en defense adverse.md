@@ -18,7 +18,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/99 🛡️ Memoire en defens
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -51,7 +51,7 @@ La demanderesse allègue que l'accident aurait été causé par le basculement d
 Les attestations Cerfa évoquées par la partie adverse ne sont, à ce stade, que de simples projets non signés (gabarits).
 
 #### II.1.c — Incohérences documentaires
-Le PV de police n°[**[N° PV Police]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md), sur lequel s'appuie la victime, comporte des erreurs factuelles (adresse erronée "22, RUE DE LA FAURIE").
+Le PV de police n°[**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md), sur lequel s'appuie la victime, comporte des erreurs factuelles (adresse erronée "22, RUE DE LA FAURIE").
 
 De plus, les certificats médicaux initiaux faisaient état d'une ITT de 1 jour, inexplicablement portée à 55 jours par la suite, avec des incohérences sur la date de l'accident (29/06/2026 au lieu de 29/05/2026 sur certains documents).
 

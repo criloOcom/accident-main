@@ -25,7 +25,7 @@ auteur: La Victime
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -63,7 +63,7 @@ Le quinze juillet, à dix heures.
 
 Nous, Officier de Police Judiciaire,
 
---- Constatons que se présente M. **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, qui souhaite déposer une plainte complémentaire suite aux faits dénoncés le 02/06/2026 ([PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)). ---
+--- Constatons que se présente M. **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, qui souhaite déposer une plainte complémentaire suite aux faits dénoncés le 02/06/2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)). ---
 
 --- Information reçue des droits mentionnés à l'article 10-2 du code de procédure pénale. ---
 
@@ -79,7 +79,7 @@ Troisièmement, j'ai pu constater visuellement que le salon a rouvert ses portes
 
 Enfin, il est fort probable que la vasque cassée sur laquelle je me suis blessé ait été remplacée pour faire disparaître l'élément matériel dangereux qui a causé ma blessure.
 
-Je vous remets ce jour mon dossier complet de plainte complémentaire comprenant 15 pages d'exposé des faits et de fondements juridiques (Articles 434-4 et 222-20 du Code pénal, L. 4121-1 et L. 8221-1 du Code du travail), ainsi que l'ensemble des pièces jointes justificatives (accusés de réception NPAI, [extrait Kbis](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md), note d'audit).
+Je vous remets ce jour mon dossier complet de plainte complémentaire comprenant 15 pages d'exposé des faits et de fondements juridiques (Articles 434-4 et 222-20 du Code pénal, L. 4121-1 et L. 8221-1 du Code du travail), ainsi que l'ensemble des pièces jointes justificatives (accusés de réception NPAI, [extrait Kbis](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md), note d'audit).
 
 Je sollicite qu'une enquête approfondie soit menée, avec si possible une vérification sur place rapide pour constater l'état actuel des lieux, saisir les éventuels enregistrements vidéos restants, et entendre le personnel présent.
 

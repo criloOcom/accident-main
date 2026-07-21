@@ -12,7 +12,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note Synthese Avocat Ba
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -32,7 +32,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note Synthese Avocat Ba
 **29 mai 2026 – Accident (J+0)**
 - Salon de coiffure à **[Foix](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, 22 rue Lafaurie, identifié ensuite comme « **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** »
 
-- Retour dans le salon pour une retouche. Le coiffeur ([Ayoub BENNOURINE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)) est monté sur le bac à shampoing. En redescendant, la structure bascule. Réflexe d'assistance : la victime tend la main pour retenir le meuble
+- Retour dans le salon pour une retouche. Le coiffeur ([Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)) est monté sur le bac à shampoing. En redescendant, la structure bascule. Réflexe d'assistance : la victime tend la main pour retenir le meuble
 
 - La vasque en céramique était déjà brisée / avec cassure majeure préexistante : la paume droite percute la partie tranchante → plaie palmaire profonde (8,5 cm)
 
@@ -50,7 +50,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note Synthese Avocat Ba
 - Pronostic : récupération nerveuse sur ≈ 1 an, souvent incomplète
 
 **1er juin 2026 – Généraliste et administratif (J+3)**
-- Consultation Dr Yogan OXYBEL : plaie suturée de 8,5 cm, paresthésies du pouce/index, [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 15 jours (AT), ITT pénale 1 jour "sous réserve de complications"
+- Consultation Dr Yogan OXYBEL : plaie suturée de 8,5 cm, paresthésies du pouce/index, [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 15 jours (AT), ITT pénale 1 jour "sous réserve de complications"
 
 - Dossier plainte pénale rédigé et remis à la police
 
@@ -123,7 +123,7 @@ Propriétaire des locaux du **[22 Rue Lafaurie, 09000 Foix](../../../%F0%9F%A7%A
 → Société découverte après coup par recherches sur l'adresse
 
 ### Auteur matériel présumé
-**[Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** (tel : **[07 58 40 12 87](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)**) (identifié comme "[Ayoub BENNOURINE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)" sur Wero). Coiffeur présent le jour des faits, a remboursé 15 € via Wero le 29/05/2026.
+**[Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** (tel : **[07 58 40 12 87](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)**) (identifié comme "[Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)" sur Wero). Coiffeur présent le jour des faits, a remboursé 15 € via Wero le 29/05/2026.
 <hr><hr>
 
 ## 3. Pivot du dossier : erreur de société + continuité économique

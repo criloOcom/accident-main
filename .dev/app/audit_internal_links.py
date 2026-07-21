@@ -49,7 +49,7 @@ SKIP_SOURCE_PREFIXES = {
 }
 ROOT_DIRS = ('Actes', 'Lois', 'Memory', 'Rapports', 'Annexes', '.dev')
 
-MD_LINK_RE = re.compile(r'\]\(([^)]+)\)')
+MD_LINK_RE = re.compile(r'\]\((?:<([^>]+)>|([^)]+))\)')
 HTML_LINK_RE = re.compile(r'<a\s+(?:[^>]*?\s+)?href="([^"]+)"')
 
 
@@ -132,7 +132,7 @@ def scan_file(filepath: str, basename_index: dict) -> list:
         return results
 
     for m in MD_LINK_RE.finditer(content):
-        link = m.group(1).strip()
+        link = (m.group(1) or m.group(2) or '').strip()
         if is_internal(link):
             r = check_link(link, filepath, basename_index)
             if r is not None and not r['exists']:

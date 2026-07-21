@@ -29,7 +29,7 @@ Cette décision est directement pertinente pour l'évaluation des souffrances en
 
 ## Traçabilité
 
-Décision citée dans le [Mémoire de synthèse - Recours assurances ERP](../../../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/Memoire%20de%20synthese%20-%20Recours%20assurances%20ERP.md).
+Décision citée dans le [Mémoire de synthèse - Recours assurances ERP](../../../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/📜%20M%C3%A9moire%20de%20synth%C3%A8se%20%E2%80%94%20Recours%20assurances%20ERP.md).
 
 ## Lien vers la décision
 

@@ -148,11 +148,11 @@ L'action directe suppose que la responsabilité de l'assuré soit engagée. Dans
 
 - **Responsabilité du fait des choses** (art. 1242 al.1er C. civ.) : la vasque en céramique, en tant que chose, a été l'instrument du dommage. La présomption de responsabilité pèse sur le gardien (la SAS exploitante).
 
-- **Obligation de sécurité de l'ERP** : l'établissement recevant du public est tenu d'une obligation de moyens renforcée en matière de sécurité ([**TJ Nanterre 2025, n°19/08999**](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Jurisprudence%20du%20fond%20(CA-TJ)/TJ%20Nanterre%2019-08999.md)).
+- **Obligation de sécurité de l'ERP** : l'établissement recevant du public est tenu d'une obligation de moyens renforcée en matière de sécurité ([**TJ Nanterre 2025, n°19/08999**](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Jurisprudence%20du%20fond%20%28CA-TJ%29/TJ%20Nanterre%2019-08999.md)).
 
 - **Défaut de surveillance et manquement du préposé** : le préposé qui a manipulé la vasque de manière imprégnante engage la responsabilité du commettant (art. 1242 al.5 C. civ.).
 
-- **Défaut d'entretien de l'équipement** ([**CA Toulouse 2013, n°11/03512**](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Jurisprudence%20du%20fond%20(CA-TJ)/CA%20Toulouse%2011-03512.md)).
+- **Défaut d'entretien de l'équipement** ([**CA Toulouse 2013, n°11/03512**](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Jurisprudence%20du%20fond%20%28CA-TJ%29/CA%20Toulouse%2011-03512.md)).
 
 > *« L'exploitant d'un ERP est tenu d'une obligation de sécurité envers ses clients. Le défaut de signalisation, le mauvais entretien des lieux ou l'absence de dispositifs de prévention constituent des manquements engageant sa responsabilité. »* <br>
 > [CA Toulouse, 5 décembre 2013, n°11/03512](https://www.doctrine.fr/) <br>
@@ -366,9 +366,9 @@ Le comportement de [Hamza El Hachemi BERGUIGA](../../../%F0%9F%A7%A0%20Memory/%F
 
 5. Écarter la déchéance pour déclaration tardive (inopposable à la victime).
 
-6. Présenter le préjudice : ITT de 55 jours, souffrances endurées, préjudice esthétique temporaire, incidence professionnelle (informaticien indépendant — cf. [**TJ Rennes 2026, n°20/05541**](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Jurisprudence%20du%20fond%20(CA-TJ)/TJ%20Rennes%2020-05541.md)), et post-consolidation à évaluer.
+6. Présenter le préjudice : ITT de 55 jours, souffrances endurées, préjudice esthétique temporaire, incidence professionnelle (informaticien indépendant — cf. [**TJ Rennes 2026, n°20/05541**](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Jurisprudence%20du%20fond%20%28CA-TJ%29/TJ%20Rennes%2020-05541.md)), et post-consolidation à évaluer.
 
-7. Justifier le quantum de la provision (15 000 €) par référence aux barèmes et à la jurisprudence (cf. [**TJ Nanterre 2024, n°22/02447**](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Jurisprudence%20du%20fond%20(CA-TJ)/TJ%20Nanterre%2022-02447.md) — souffrances 5/7).
+7. Justifier le quantum de la provision (15 000 €) par référence aux barèmes et à la jurisprudence (cf. [**TJ Nanterre 2024, n°22/02447**](../../../%F0%9F%93%9C%20Lois/%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Jurisprudence%20du%20fond%20%28CA-TJ%29/TJ%20Nanterre%2022-02447.md) — souffrances 5/7).
 
 <hr><hr>
 
@@ -398,7 +398,7 @@ L'action directe contre l'assureur de [SAS HB BARBER](../../../%F0%9F%A7%A0%20Me
 
 2. En parallèle, consulter l'ORIAS pour identifier l'assureur déclaré ;
 
-3. Une fois l'assureur identifié, lui adresser une mise en demeure formelle (modèle disponible dans la [**Note Droit Assurances**](../%F0%9F%93%9C%20Note%20Droit%20Assurances.md)) ;
+3. Une fois l'assureur identifié, lui adresser une mise en demeure formelle (modèle disponible dans la [**Note Droit Assurances**](../../%F0%9F%94%91%20Token/%F0%9F%93%9A%20Analyses%20juridiques/%F0%9F%93%9C%20Note%20Droit%20Assurances.md)) ;
 
 4. En cas de silence ou refus, saisir le juge des référés pour obtenir une provision et une expertise médicale ;
 

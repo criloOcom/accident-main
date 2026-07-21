@@ -50,17 +50,17 @@ type: readme
 
 - [16 ⚠️ Signalement Parquet Fraud.md](%F0%9F%91%AE%20Contentieux%20penal/16%20%E2%9A%A0%EF%B8%8F%20Signalement%20Parquet%20Fraud.md)
 
-### [📋 Preparation Foix](%F0%9F%93%8B%20Preparation%20Foix/README.md)
+### [📋 Preparation Foix](../README.md)
 
-- [📋 Bordereau de Pieces Foix.md](%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%8B%20Bordereau%20de%20Pieces%20Foix.md)
+- [📋 Bordereau de Pieces Foix.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Bordereau%20de%20Pieces%20Foix.md)
 
-- [📋 Frise Chronologique Foix.md](%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%8B%20Frise%20Chronologique%20Foix.md)
+- [📋 Frise Chronologique Foix.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Frise%20Chronologique%20Foix.md)
 
-- [📋 Note Personnelle Commissariat Foix.md](%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%8B%20Note%20Personnelle%20Commissariat%20Foix.md)
+- [📋 Note Personnelle Commissariat Foix.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Note%20Personnelle%20Commissariat%20Foix.md)
 
-- [📋 Projet Declaration PV Foix.md](%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%8B%20Projet%20Declaration%20PV%20Foix.md)
+- [📋 Projet Declaration PV Foix.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%8B%20Projet%20Declaration%20PV%20Foix.md)
 
-- [MEMO_AUDIENCE_31072026.md](%F0%9F%93%8B%20Preparation%20Foix/MEMO_AUDIENCE_31072026.md)
+- [MEMO_AUDIENCE_31072026.md](../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Justice/MEMO_AUDIENCE_31072026.md)
 
 ## 🔗 Liens vers les versions réelles
 

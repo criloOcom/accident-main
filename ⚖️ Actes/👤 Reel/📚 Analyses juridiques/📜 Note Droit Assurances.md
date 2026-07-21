@@ -19,7 +19,7 @@ jx: J+40
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%F0%9F%94%91%20Token/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -134,7 +134,7 @@ Je vous adresse la présente mise en demeure en votre qualité d'assureur garant
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^1]**
 
-Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein des locaux de votre assuré, lorsqu'une vasque en céramique défectueuse a basculé à la suite d'une manœuvre imprudente de son préposé, entraînant une lésion sévère de ma main droite (tendons et nerfs sectionnés, [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours).
+Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein des locaux de votre assuré, lorsqu'une vasque en céramique défectueuse a basculé à la suite d'une manœuvre imprudente de son préposé, entraînant une lésion sévère de ma main droite (tendons et nerfs sectionnés, [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours).
 
 L'entière responsabilité de votre assuré est acquise, ce dernier ayant manqué à son obligation de sécurité, le matériel utilisé étant incontestablement défectueux (art. 1242 du Code civil).
 

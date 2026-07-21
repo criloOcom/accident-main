@@ -25,7 +25,6 @@ from urllib.parse import quote, unquote
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 AUDIT_SCRIPT = os.path.join(os.path.dirname(__file__), "audit_internal_links.py")
 
-MD_LINK_RE = re.compile(r'\]\(([^)]+)\)')
 HTML_LINK_RE = re.compile(r'<a\s+(?:[^>]*?\s+)?href="([^"]+)"')
 
 # Sous-dossiers de ✉️ Courriers/ : mapping basename → subdirectory
@@ -160,6 +159,7 @@ def fix_link_in_content(content: str, old_link: str, new_rel: str) -> str:
     new_link = f'{new_encoded}#{anchor}' if anchor else new_encoded
 
     content = content.replace(f']({old_link})', f']({new_link})')
+    content = content.replace(f'](<{old_link}>)', f']({new_link})')
     content = content.replace(f'href="{old_link}"', f'href="{new_link}"')
 
     return content

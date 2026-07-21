@@ -319,7 +319,7 @@ Tous les arrêts sont disponibles dans le dossier [📜 Jurisprudence/README.md]
 ### [🏛️ Mise en danger d'autrui (1 arrêt)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
 - [🔗](https://www.legifrance.gouv.fr/juri/id/JURITEXT000029014493) [13-80.849](%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Mise%20en%20danger%20d%27autrui/13-80.849_CourCassation.md) — Crim., 27 mai 2014
 
-### [🏛️ Jurisprudence du fond (CA-TJ) — 7 décisions](📜 Jurisprudence/🏛️ Jurisprudence du fond (CA-TJ)/README.md)
+### [🏛️ Jurisprudence du fond (CA-TJ) — 7 décisions](📜 Jurisprudence/🏛️%20Jurisprudence%20du%20fond%20(CA-TJ%29)/README.md)
 Décisions de cours d'appel et tribunaux judiciaires sur les thèmes ERP, action directe, transaction et incidence professionnelle.
 
 ## 🔧 Documents techniques

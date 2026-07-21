@@ -669,7 +669,7 @@ type: rapport
 
 - **Ligne** : 32
 
-- **Citation** : `| **20/07/2026 (prévu)** | **Dépôt d'une plainte complémentaire + Erratum** au Commissariat de [**[La Ville de l'Accident]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) | Objet : corriger/compléter la plainte initiale en visant [**[Le Nouvel Exploitant (HB BARBER)]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) comme exploitant au 29/05/2026. **Erratum** déposé le même jour + envoyé par LRAR séparée. |`
+- **Citation** : `| **20/07/2026 (prévu)** | **Dépôt d'une plainte complémentaire + Erratum** au Commissariat de [**[La Ville de l'Accident]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) | Objet : corriger/compléter la plainte initiale en visant [**[Le Nouvel Exploitant (HB BARBER)]**](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) comme exploitant au 29/05/2026. **Erratum** déposé le même jour + envoyé par LRAR séparée. |`
 
 - **Acte présenté comme fait** : Plainte complémentaire
 
@@ -897,7 +897,7 @@ type: rapport
 
 - **Ligne** : 32
 
-- **Citation** : `| **20/07/2026 (prévu)** | **Dépôt d'une plainte complémentaire + Erratum** au Commissariat de [Foix](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) | Objet : corriger/compléter la plainte initiale en visant [SAS HB BARBER](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) comme exploitant au 29/05/2026. **Erratum** déposé le même jour + envoyé par LRAR séparée. |`
+- **Citation** : `| **20/07/2026 (prévu)** | **Dépôt d'une plainte complémentaire + Erratum** au Commissariat de [Foix](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md) | Objet : corriger/compléter la plainte initiale en visant [SAS HB BARBER](../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) comme exploitant au 29/05/2026. **Erratum** déposé le même jour + envoyé par LRAR séparée. |`
 
 - **Acte présenté comme fait** : Plainte complémentaire
 

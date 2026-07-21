@@ -79,7 +79,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 
 ## VI — PIÈCES NÉCESSAIRES POUR LA DEMANDE CIVI
 
-- Copie de la plainte et du procès-verbal de police (n°[2026/015967](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md)).
+- Copie de la plainte et du procès-verbal de police (n°[2026/015967](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md)).
 
 - Certificats médicaux (dont le CMI constatant les blessures) et [arrêts de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant de l'ITT de 55 jours.
 

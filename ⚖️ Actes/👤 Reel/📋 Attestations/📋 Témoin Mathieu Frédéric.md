@@ -53,19 +53,19 @@ jx: J+50
 
 ## II. FAITS ATTESTÉS (Transcription intégrale)
 
-> **Le 29 mai 2026, suite à un entretien concernant ma formation professionnelle avec [Sébastien GRAZIDE](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), dans mon magasin, situé 14 rue de lafaurie à Foix, celui-ci est parti se faire couper les cheveux chez le barber shop un peu plus loin que mon établissement.**
+> **Le 29 mai 2026, suite à un entretien concernant ma formation professionnelle avec [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), dans mon magasin, situé 14 rue de lafaurie à Foix, celui-ci est parti se faire couper les cheveux chez le barber shop un peu plus loin que mon établissement.**
 >
 > **Lorsqu'il est revenu, j'ai constaté un raté et lui ai suggéré d'aller demander une retouche, ce qu'il a fait.**
 >
 > **Il est revenu quelques minutes plus tard la main ensanglantée et j'ai pris la décision d'appeler le 15 pour demander assistance.**
 >
-> **Il était 15H25 (enregistrement sur mon téléphone), le médecin m'a demandé de faire une vidéo et à conseiller à [Sébastien GRAZIDE](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) d'aller rapidement voir les urgences.**
+> **Il était 15H25 (enregistrement sur mon téléphone), le médecin m'a demandé de faire une vidéo et à conseiller à [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) d'aller rapidement voir les urgences.**
 >
 > **Dans le même temps, puisque nous étions dehors, le coiffeur est venu prendre des nouvelles et a constaté également que le sang coulait beaucoup.**
 >
-> **Au retour de la consultation des médecins, [Sébastien GRAZIDE](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) m'a indiqué être allé se faire rembourser.**
+> **Au retour de la consultation des médecins, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) m'a indiqué être allé se faire rembourser.**
 >
-> **Il semble que l'accident se soit produit dans les locaux du coiffeur en raison d'une vasque instable que [Sébastien GRAZIDE](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a rattrapé par ce qu'elle tombait, ce que semble ne pas avoir nié le coiffeur.**
+> **Il semble que l'accident se soit produit dans les locaux du coiffeur en raison d'une vasque instable que [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) a rattrapé par ce qu'elle tombait, ce que semble ne pas avoir nié le coiffeur.**
 
 ---
 
@@ -73,12 +73,12 @@ jx: J+50
 
 ### 1. Corroboration exacte de la version de la victime
 
-| Élément | Version [Sébastien GRAZIDE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) | Attestation Mathieu | Convergence |
+| Élément | Version [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) | Attestation Mathieu | Convergence |
 |---------|--------------------------|---------------------|-------------|
 | **Date** | 29 mai 2026 | 29 mai 2026 | ✅ |
 | **Heure** | ~15h00 | 15h25 (enregistrement téléphone) | ✅ |
 | **Lieu** | 22 Rue Lafaurie, Foix | 14 Rue Lafaurie, Foix (magasin adjacent) | ✅ |
-| **Mécanisme** | Vasque instable, basculement, rattrapage | Vasque instable, [Sébastien GRAZIDE](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) l'a rattrapée car elle tombait | ✅ |
+| **Mécanisme** | Vasque instable, basculement, rattrapage | Vasque instable, [Sébastien GRAZIDE](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) l'a rattrapée car elle tombait | ✅ |
 | **Coiffeur** | Préposé monte sur vasque | Coiffeur présent, n'a pas nié | ✅ |
 | **Blessure** | Main droite, section tendineuse/nerfs, saignement | Main ensanglantée, sang qui coulait beaucoup | ✅ |
 | **Intervention** | SAMU 15, urgence, chirurgie | Appel 15, vidéo médecin, conseil urgence | ✅ |
@@ -90,7 +90,7 @@ jx: J+50
 | **Art. 1242 C. civ.** (garde de la chose) | Vasque instable = chose sous garde du salon ; basculement = fait de la chose |
 | **Art. 1242 al. 5 C. civ.** (commettant/préposé) | Coiffeur (préposé) monte sur vasque = faute dans fonctions |
 | **Art. 1240 C. civ.** (faute) | Absence de signalement vasque cassée + instabilité = faute |
-| **Art. 222-20 C. pén.** (blessures involontaires) | [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 55 jours → circonstances aggravantes (violation obligation sécurité) |
+| **Art. 222-20 C. pén.** (blessures involontaires) | [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 55 jours → circonstances aggravantes (violation obligation sécurité) |
 | **Art. 223-1 C. pén.** (mise en danger) | Vasque cassée non signalée + autorisation monte = exposition risque immédiat |
 
 ### 3. Valeur probante exceptionnelle

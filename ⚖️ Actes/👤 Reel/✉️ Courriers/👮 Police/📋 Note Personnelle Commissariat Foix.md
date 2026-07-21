@@ -23,7 +23,7 @@ reel_path: ../../../👤 Reel/✉️ Courriers/👮 Police/📋 Note Personnelle
 
 **Victime :** **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, né le 18/01/1982 à **[Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)**
 **Domicilié :** 10 avenue de Purpan, **[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
-**Tél :** [06 30 51 67 75](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+**Tél :** [06 30 51 67 75](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 **Email :** **[sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
 
 **Objet :** Compléter et corriger ma plainte initiale ([ ... ] du 2 juin 2026, **[Toulouse](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)** Rive Droite) concernant l'accident du 29 mai 2026 survenu au salon de coiffure situé 22 rue Lafaurie, 09000 **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**.
@@ -40,7 +40,7 @@ J'y ai raconté en détail :
 
 - Mon activité professionnelle (informaticien indépendant, droitier)
 
-J'ai remis un **dossier de plainte écrit de ma main** (le 1er juin 2026), avec un bordereau de 11 pièces justificatives (identité, Kbis, captures Wero, certificats médicaux, ordonnances, [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md), attestation droits, échanges Mairie).
+J'ai remis un **dossier de plainte écrit de ma main** (le 1er juin 2026), avec un bordereau de 11 pièces justificatives (identité, Kbis, captures Wero, certificats médicaux, ordonnances, [arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md), attestation droits, échanges Mairie).
 
 **Dans ce dossier, j'avais désigné **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** comme société responsable**, sur la base des informations que j'avais trouvées à l'époque (SIRET **[104 103 262 00010](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md)**, 22 rue Lafaurie).
 
@@ -53,7 +53,7 @@ Dès le départ, j'ai donc signalé aux policiers que je **n'avais pas la certit
 
 ### 29 mai 2026 — L'accident (J+0)
 
-**Matin/après-midi :** Je me rends au salon de coiffure situé au **22 rue Lafaurie, 09000 Foix, pour une coupe de cheveux. Je paie **15 €** via l'application bancaire **Wero** au profit du compte « [Ayoub BENNOURINE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) » (réf. débit IPA000296968836). Je quitte les lieux.
+**Matin/après-midi :** Je me rends au salon de coiffure situé au **22 rue Lafaurie, 09000 Foix, pour une coupe de cheveux. Je paie **15 €** via l'application bancaire **Wero** au profit du compte « [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) » (réf. débit IPA000296968836). Je quitte les lieux.
 
 **Moins de 5 minutes après :** Je retourne au salon pour demander une retouche. En entrant, le coiffeur (identifié comme **[Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** (tél. [07 58 40 12 87](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md))) est **monté physiquement sur la structure d'un bac à shampoing** (meuble lourd surmonté d'une vasque en céramique). En descendant, son poids provoque le **basculement complet** de la structure vers le sol.
 
@@ -65,7 +65,7 @@ Dès le départ, j'ai donc signalé aux policiers que je **n'avais pas la certit
 
 **Prise en charge médicale :** Je me transporte en urgence au **Centre Ariégeois de Soins Immédiats de Foix (**[Dr Julie JARDON](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md)**, RPPS 10005156871). Actes : lavage, désinfection, exploration sous anesthésie locale. Diagnostic : plaie palmaire droite profonde et compliquée. Orientation : transfert vers SOS Main – **[Clinique de l'Union](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)** pour le lendemain à jeun.
 
-**Retour au salon :** Après les soins, je retourne au salon, main bandée, pour informer du pronostic chirurgical. Le coiffeur procède alors au **remboursement de 15 €** via Wero (réf. crédit [[IPR000297029234](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)] , depuis le compte « [Ayoub BENNOURINE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) »). Ce remboursement spontané matérialise la **reconnaissance de la matérialité de l'accident** par l'exploitant.
+**Retour au salon :** Après les soins, je retourne au salon, main bandée, pour informer du pronostic chirurgical. Le coiffeur procède alors au **remboursement de 15 €** via Wero (réf. crédit [[IPR000297029234](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)] , depuis le compte « [Ayoub BENNOURINE](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) »). Ce remboursement spontané matérialise la **reconnaissance de la matérialité de l'accident** par l'exploitant.
 
 ### 30 mai 2026 — Intervention chirurgicale (J+1)
 
@@ -93,7 +93,7 @@ Pronostic : **Récupération nerveuse sur environ 1 an, souvent incomplète.**
 
 - **Paresthésies du premier rayon** (perte de sensibilité, fourmillements pouce/index)
 
-- [Arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total : **15 jours** (jusqu'au 12 juin 2026)
+- [Arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total : **15 jours** (jusqu'au 12 juin 2026)
 
 - ITT pénale initiale : **1 jour** « sous réserve de complications »
 
@@ -190,7 +190,7 @@ En effectuant des recherches par l'adresse exacte **[22 Rue Lafaurie, 09000 Foix
 
 ### 16 juillet 2026 — Courriel du bailleur **[Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)**
 
-**À 18h28**, je reçois un courriel de **[Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** ([**[[Email du Propriétaire]](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-email.md)**]) en réponse à ma LRAR du 29 juin.
+**À 18h28**, je reçois un courriel de **[Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** ([**[[Email du Propriétaire]](../../../../%F0%9F%A7%A0%20Memory/Tokens/token-exploitation-bailleur-email.md)**]) en réponse à ma LRAR du 29 juin.
 
 **Objet :** « Demande de communication d'assurance »
 

@@ -1471,7 +1471,7 @@ Auditer et corriger l'ensemble des fichiers token du dossier `👮 Police/` dans
 - `token-lrar-president.md`, `token-lrar-directrice.md`, `token-lrar-proprietaire.md` créés dans `🧠 Memory/🗂️ Tokens/` (modèle : `token-lrar-exploitant.md`)
 
 #### OP2 — LRAR texte brut → liens
-- Dans `Police Plainte Complementaire` : `N° LRAR Exploitant/Président/Directrice/Propriétaire` → `[**[...]**](token-*.md)`
+- Dans `Police Plainte Complementaire` : `N° LRAR Exploitant/Président/Directrice/Propriétaire` — cf. [🗂️ Tokens/](🗂️ Tokens/README.md)
 
 #### OP3 — N° PV Police + Adresse Commerce → liens
 - Dans `Police Videos Relance.md` : `N° PV Police` + `[Adresse du Commerce]` → tokens liés

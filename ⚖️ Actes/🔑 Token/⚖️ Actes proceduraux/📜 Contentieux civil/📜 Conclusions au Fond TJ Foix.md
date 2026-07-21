@@ -27,7 +27,7 @@ jx: J+368
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -76,7 +76,7 @@ La demanderesse a été immédiatement transportée aux urgences du [**[Centre H
 
 - Atteinte nerveuse nécessitant une neurolyse du nerf palmaire
 
-Une microchirurgie d'urgence a été réalisée le 30 mai 2026 en SOS Main, avec suture tendineuse et nerveuse et neurolyse. La demanderesse a ensuite bénéficié d'une rééducation fonctionnelle prolongée et d'un [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) de 55 jours (du 29 mai au 23 juillet 2026).
+Une microchirurgie d'urgence a été réalisée le 30 mai 2026 en SOS Main, avec suture tendineuse et nerveuse et neurolyse. La demanderesse a ensuite bénéficié d'une rééducation fonctionnelle prolongée et d'un [arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) de 55 jours (du 29 mai au 23 juillet 2026).
 
 ### III.3 — 1.3 L'expertise judiciaire
 
@@ -289,7 +289,7 @@ La demande est fondée sur les frais exposés par la victime et non couverts par
 
 #### VI.3.c — 4.3.3 Perte de Gains Professionnels Actuels (PGPA)
 
-[Arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) de 55 jours (29 mai — 23 juillet 2026). La demanderesse exerçait la profession d'informaticien indépendant. La perte de chiffre d'affaires pendant la période d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) s'élève à 1 355 €, sur justificatifs des déclarations URSSAF (CA mensuel moyen : 750 €).
+[Arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) de 55 jours (29 mai — 23 juillet 2026). La demanderesse exerçait la profession d'informaticien indépendant. La perte de chiffre d'affaires pendant la période d'[arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) s'élève à 1 355 €, sur justificatifs des déclarations URSSAF (CA mensuel moyen : 750 €).
 
 | Base d'évaluation | Montant |
 |-------------------|---------|
@@ -425,17 +425,17 @@ Vu les pièces versées aux débats,
 
 3. Ordonnance de référé du [**[Date Ordonnance Référé]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles) (provision 15 000 €)
 
-4. [Constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) du [**[J+38 Date CPC]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)
+4. [Constitution de partie civile](../%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) du [**[J+38 Date CPC]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#dates-cles)
 
 5. Certificats médicaux et comptes rendus opératoires (SOS Main)
 
-6. Prescriptions, [arrêts de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et pièces de rééducation
+6. Prescriptions, [arrêts de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et pièces de rééducation
 
 7. Mises en demeure LRAR des **[J+31 Mises en demeure](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)**
 
 8. Mise en demeure assureur RC du J+50
 
-9. Attestation de dépôt CPAM n° [**[N° [Dossier CPAM](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#cpam)
+9. Attestation de dépôt CPAM n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../%F0%9F%A7%A0%20Memory/STRICT%20VARIABLES.md#cpam)
 
 10. Réquisitoire introductif du Parquet de Foix (J+47)
 

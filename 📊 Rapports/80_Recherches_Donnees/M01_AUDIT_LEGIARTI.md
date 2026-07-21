@@ -1,3 +1,7 @@
+---
+title: "M01_AUDIT_LEGIARTI"
+type: preuve
+---
 # M01 - AUDIT TECHNIQUE LEGIARTI / JURITEXT
 
 ## 1. Vue d'ensemble

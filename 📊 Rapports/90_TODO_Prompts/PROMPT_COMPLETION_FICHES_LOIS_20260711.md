@@ -18,7 +18,7 @@ type: rapport
 **NE JAMAIS deviner un texte de loi.** Chaque article/arrêt doit être vérifié via le MCP Légifrance (ou Judilibre) AVANT écriture. Si introuvable, conserver le marqueur `À VÉRIFIER` et le signaler. Ne PAS publier de texte non sourcé.
 
 ## III — Fichiers à compléter (avec emplacement exact)
-1. [📜 Lois/📒 Autres codes/Article_223-1_Code_Legifrance.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/Article_223-1_Code_Legifrance.md)
+1. [📜 Lois/📒 Autres codes/Article_223-1_Code_Legifrance.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20p%C3%A9nal/Article_223-1_Code_Legifrance.md)
    → Art. 223-1 Code pénal — Mise en danger d'autrui.
 2. [📜 Lois/📒 Autres codes/Article_L123-2_Code_Legifrance.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20commerce/Article_L123-2_Code_Legifrance.md)
    → Art. L. 123-2 Code de commerce — Immatriculation des commerçants au RCS.
@@ -38,7 +38,7 @@ type: rapport
    ```
    ⚠️ **À VÉRIFIER** — ... (bloc entier jusqu'à la fin du fichier)
    ```
-   par la structure standard utilisée dans les fiches existantes (ex. [📜 Lois/📒 Autres codes/Article_121-3_Code_Legifrance.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20penal/Article_121-3_Code_Legifrance.md)) :
+   par la structure standard utilisée dans les fiches existantes (ex. [📜 Lois/📒 Autres codes/Article_121-3_Code_Legifrance.md](../../%F0%9F%93%9C%20Lois/%F0%9F%93%92%20Code/%F0%9F%93%92%20Code%20p%C3%A9nal/Article_121-3_Code_Legifrance.md)) :
    - `> **Nature** : Code` (ou `Jurisprudence`)
    - `---`
    - Pour un article : `CODE\nVERSION EN VIGUEUR AU <date>\n\nArticle <num>\n<texte officiel>`

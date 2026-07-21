@@ -30,16 +30,16 @@ jx: J+50
 
 | Champ | Renseignement |
 |-------|---------------|
-| **Nom de naissance** | [Sébastien GRAZIDE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) |
+| **Nom de naissance** | [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) |
 | **Prénom** | **[Sébastien](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-prenom.md)** |
 | **Date de naissance** | 18 janvier 1982 |
-| **Lieu de naissance** | [Toulouse](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) |
+| **Lieu de naissance** | [Toulouse](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) |
 | **Nationalité** | Française |
 | **Situation familiale** | Célibataire |
 | **Nombre d'enfants à charge** | 0 |
-| **Adresse** | [10 Avenue de Purpan, 31700 Blagnac](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) |
+| **Adresse** | [10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) |
 | **Téléphone** | **[Téléphone de la Victime]** |
-| **Email** | [sebastien.grazide@gmail.com](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) |
+| **Email** | [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) |
 <hr><hr>
 
 ## II — SITUATION PROFESSIONNELLE ET RESSOURCES
@@ -49,7 +49,7 @@ jx: J+50
 
 - **Régime** : Micro-entrepreneur (régime fiscal micro-BNC)
 
-- **N° SIREN** : [500 474 457](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+- **N° SIREN** : [500 474 457](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 ### Revenus
 | Type | Montant |
@@ -79,16 +79,16 @@ Demande d'indemnisation pour **accident corporel** — responsabilité civile du
 **Tribunal judiciaire de Foix** — Cabinet du Juge des Référés
 
 ### Qualité du demandeur
-[Sébastien GRAZIDE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), partie **demanderesse**
+[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), partie **demanderesse**
 
 ### Qualité du/des défendeur(s)
 1. **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, exploitant du salon de coiffure au 22 Rue Lafaurie, 09000 Foix, représenté par ses dirigeants
 
 2. **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, exploitant effectif au jour de l'accident, intervenu volontairement
 
-3. [Hamza El Hachemi BERGUIGA](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), dirigeant
+3. [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), dirigeant
 
-4. [Catherine SORROCHE, dite ANDISSAC](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), dirigeante
+4. [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), dirigeante
 <hr><hr>
 
 ## IV — URGENCE — DEMANDE DE TRAITEMENT ACCÉLÉRÉ
@@ -136,11 +136,11 @@ Le demandeur sollicite un **traitement accéléré** de sa demande d'AJ pour le 
 Le 29 mai 2026, alors que le demandeur se trouvait dans le salon de coiffure situé au 22 Rue Lafaurie à Foix, un employé de l'établissement est monté sur la vasque en céramique du salon pour régler un téléviseur, en l'absence de tout équipement adapté (escabeau ou marchepied). Sous son poids, la vasque a basculé et s'est brisée dans un mouvement de cisaillement, sectionnant les tendons extenseurs des doigts longs de la main droite de la victime (médicalement : **section complète des tendons extenseurs des doigts II à V**).
 
 ### Attestation sur l'honneur
-Je soussigné, [Sébastien GRAZIDE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), déclare sur l'honneur que l'ensemble des informations fournies dans le présent formulaire sont exactes et sincères.
+Je soussigné, [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), déclare sur l'honneur que l'ensemble des informations fournies dans le présent formulaire sont exactes et sincères.
 
 Fait pour valoir ce que de droit.
 
-[Foix](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le 18 juillet 2026
+[Foix](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le 18 juillet 2026
 
 **Signature :**
 <hr><hr>

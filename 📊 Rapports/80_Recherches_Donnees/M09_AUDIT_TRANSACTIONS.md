@@ -1,3 +1,7 @@
+---
+title: "M09_AUDIT_TRANSACTIONS"
+type: preuve
+---
 # M09 - AUDIT TRANSACTIONS ET RÉSERVE D'AGGRAVATION
 
 **Auteur :** Spécialiste du droit de la transaction et de l'indemnisation corporelle

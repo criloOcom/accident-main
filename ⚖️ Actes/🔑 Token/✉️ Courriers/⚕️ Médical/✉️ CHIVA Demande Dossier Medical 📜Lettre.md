@@ -23,7 +23,7 @@ jx: J+50
 
 # DEMANDE DE DOSSIER MÉDICAL (LOI DU 4 MARS 2002)
 
-[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)  
+[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)  
 **[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**  
 **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**  
 
@@ -52,7 +52,7 @@ Je souhaite recevoir une copie complète de toutes les pièces constituant ce do
 
 - Les prescriptions de médicaments et de soins dispensés.
 
-- L'original du [certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) descriptif des blessures (établi par le Dr Jardon).
+- L'original du [certificat médical initial](../../../Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) descriptif des blessures (établi par le Dr Jardon).
 
 Je vous remercie de bien vouloir me transmettre ces documents par voie électronique ou, à défaut, à mon adresse postale mentionnée ci-dessus. Je m'engage à régler les éventuels frais de reproduction et d'envoi.
 
@@ -60,5 +60,5 @@ Conformément à la loi, je vous rappelle que ce dossier doit me parvenir dans u
 
 Je vous prie d'agréer, Monsieur le Directeur, l'expression de mes salutations distinguées.
 
-[**[La Victime]**](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)  
+[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)  
 *(Envoi électronique sans signature manuscrite)*

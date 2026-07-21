@@ -10,7 +10,7 @@ type: memory
 
 # TODO<br>Plans d'action + Tableau de bord Sébastien
 
-> **Dernière mise à jour :** 21 juillet 2026 — Phase 38 (Correction N° PV Police) terminée. 21 fichiers Token/ actifs corrigés — tokens `N° PV Police` texte brut/gras sans lien transformés en `[**[N° PV Police]**](token-pv-police-numero.md)` uniforme.
+> **Dernière mise à jour :** 21 juillet 2026 — Phase 38 (Correction N° PV Police) terminée. 21 fichiers Token/ actifs corrigés — tokens `N° PV Police` texte brut/gras sans lien transformés en `[**[N° PV Police]**](%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md)` uniforme.
 >
 > **Règle absolue :** tout nouvel article de loi cité DOIT être lu via MCP
 > Légifrance (`consulter_article` ou `rechercher_code`) pour vérifier le contexte

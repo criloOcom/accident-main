@@ -161,4 +161,4 @@ Fondement : art. 835 al.2 CPC — obligation non sérieusement contestable.
 
 - Validation ordalie : ~~20260707 Validation juridique ordalie.md — supprimé (RGPD)~~
 
-- Preuves : PV police n°[**[N° PV Police]**](../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md) (basculement), constat huissier (cassure préexistante)
+- Preuves : PV police n°[**[N° PV Police]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-pv-police-numero.md) (basculement), constat huissier (cassure préexistante)

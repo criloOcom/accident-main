@@ -20,7 +20,7 @@ jx: J+47
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
@@ -45,7 +45,7 @@ Je me permets de vous écrire en ma qualité de **victime directe** d'un acciden
 
 Par courriel du **1er juin 2026**, **[L'Adjoint au Maire de la Commune](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md)**, Adjoint au Maire de Foix, m'a confirmé avoir saisi la Préfecture, laquelle devait **diligenter vos services** et le CODAF afin d'examiner la situation de cet établissement.
 
-L'accident a consisté en le **basculement** de la vasque en céramique du bac à shampoing sous le poids du préposé, monté physiquement sur l'équipement pour régler le téléviseur, alors que celle-ci était déjà fragilisée par une **cassure préexistante non signalée**. Ma main droite, tendue par réflexe, a heurté cette cassure, me sectionnant le tendon fléchisseur superficiel (FDP), le nerf digital et l'artère collatérale de l'index droit (neurolyse du nerf palmaire). J'ai été opéré en urgence le 30 mai 2026 à la Clinique SOS Main de Toulouse, avec un **[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours** (consolidation au 1er mars 2027, DFP 12 %).
+L'accident a consisté en le **basculement** de la vasque en céramique du bac à shampoing sous le poids du préposé, monté physiquement sur l'équipement pour régler le téléviseur, alors que celle-ci était déjà fragilisée par une **cassure préexistante non signalée**. Ma main droite, tendue par réflexe, a heurté cette cassure, me sectionnant le tendon fléchisseur superficiel (FDP), le nerf digital et l'artère collatérale de l'index droit (neurolyse du nerf palmaire). J'ai été opéré en urgence le 30 mai 2026 à la Clinique SOS Main de Toulouse, avec un **[arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours** (consolidation au 1er mars 2027, DFP 12 %).
 
 Dans ce contexte, je souhaiterais savoir :
 

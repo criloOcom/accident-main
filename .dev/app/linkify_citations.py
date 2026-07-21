@@ -56,21 +56,20 @@ def resolve_target(cand):
 def linkify_text(text, rel_path):
     """Transforme les citations non liées en liens. rel_path = chemin relatif du fichier courant."""
     changes = []
+    source_dir = os.path.dirname(os.path.join(ROOT, rel_path))
 
     def repl(m):
         cand = m.group(1).rstrip('/')
-        # deja dans un lien ? on skip (on ne touche pas)
-        # verifie si ce backtick est deja a l'interieur d'un [..](..)
         start = m.start()
-        # heuristique: si le caractere precedent est ']' ou '(' on skip
         if start > 0 and text[start - 1] in '])':
             return m.group(0)
         resolved = resolve_target(cand)
         if resolved is None:
-            return m.group(0)  # cible introuvable -> laisser (signale plus tard)
-        # texte du lien = le chemin d'origine (lisible)
+            return m.group(0)
+        target_abs = os.path.join(ROOT, resolved)
+        rel_link = os.path.relpath(target_abs, source_dir)
         changes.append((cand, resolved))
-        return f'[{cand}]({resolved})'
+        return f'[{cand}]({rel_link})'
 
     new_text = CITATION_RE.sub(repl, text)
     return new_text, changes

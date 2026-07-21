@@ -21,7 +21,7 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Memo Axes Juridiques Av
 
 | Article | Usage |
 |---------|-------|
-| **C. pén. art. 222-20** | Blessures involontaires avec ITT ≤ 3 mois (notre cas : 1 jour ITT pénale, 15 jours AT, 55 jours [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)) |
+| **C. pén. art. 222-20** | Blessures involontaires avec ITT ≤ 3 mois (notre cas : 1 jour ITT pénale, 15 jours AT, 55 jours [arrêt de travail](../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)) |
 | **C. pén. art. 121-3** | Principe de la responsabilité pénale — faute simple suffit (imprudence, négligence, manquement obligation sécurité) |
 | **C. pén. art. 223-1** | Mise en danger délibérée d'autrui — bac déjà brisé maintenu en service dans un ERP (condition : violation délibérée d'une obligation de sécurité) |
 
@@ -80,12 +80,12 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Memo Axes Juridiques Av
 |-------|-------|
 | **CPC art. 145** | Mesure d'instruction in futurum (obtenir bail, états des lieux, polices d'assurance) |
 | **CPC art. 835** | Référé-provision (acompte sur indemnisation) |
-| **CPP art. 475-1** | Frais d'avocat en cas de [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) |
+| **CPP art. 475-1** | Frais d'avocat en cas de [constitution de partie civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/👮 Contentieux penal/🛡️ Constitution Partie Civile.md) |
 
 ### ⑦ TRACE DE PAIEMENT – WERO
 
 | Point | Usage |
 |-------|-------|
-| **Lien de subordination** | Le paiement de 15 € via Wero effectué par [Sébastien](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) le 29/05/2026 à 15h20 au profit d'[Ayoub BENNOURINE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) atteste de la relation de préposition et de subordination entre le coiffeur (salarié encaisseur) et la société exploitante. |
-| **Preuve de présence** | La transaction Wero est une preuve matérielle, infalsifiable et horodatée de la présence physique de [Sébastien](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) au salon de coiffure immédiatement avant la survenue de l'accident. |
+| **Lien de subordination** | Le paiement de 15 € via Wero effectué par [Sébastien](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) le 29/05/2026 à 15h20 au profit d'[Ayoub BENNOURINE](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) atteste de la relation de préposition et de subordination entre le coiffeur (salarié encaisseur) et la société exploitante. |
+| **Preuve de présence** | La transaction Wero est une preuve matérielle, infalsifiable et horodatée de la présence physique de [Sébastien](../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) au salon de coiffure immédiatement avant la survenue de l'accident. |
 | **Tiers détenteur (Wero)** | Wero détient en tant que Prestataire de Services de Paiement (PSP) des données KYC de l'utilisateur bénéficiaire ainsi que des logs de connexion. Ces éléments pourront être sollicités par voie de réquisition pénale ou sur le fondement de l'art. 145 du CPC. |
