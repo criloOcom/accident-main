@@ -672,3 +672,40 @@ Si une profession ou activité erronée est découverte dans un fichier :
   description: Procès-verbal de La Victime  # ✅ texte seul
   ---
   ```
+
+## #29 — FORMATAGE VISUEL DES COURRIERS (LIGNES HORIZONTALES ET BALISES D'ACTEURS) (RÈGLE PERMANENTE)
+- **Principe** : Afin de rendre les previews Markdown plus structurées et visuellement confortables pour un lecteur humain, tous les fichiers de type `courrier` doivent suivre une structure stricte de démarcation.
+
+- **Lignes horizontales (`---`) autour de l'Objet** : Placer une ligne horizontale (`---`) immédiatement avant et immédiatement après le bloc contenant l'Objet et le N° LRAR.
+
+- **Balises de commentaires HTML pour l'Auteur et le Destinataire** :
+
+  - Entourer le bloc adresse de l'expéditeur avec `<!-- Auteur -->` au début et `<!-- /Auteur -->` à la fin.
+  - Entourer le bloc adresse du destinataire avec `<!-- Destinataire -->` au début et `<!-- /Destinataire -->` à la fin.
+
+- **Exemple de structure type** :
+  ```markdown
+  <!-- Auteur -->
+  [**[La Victime]**](...)  
+  **[L'Adresse de la Victime]**  
+  **[L'Email de la Victime]**
+  <!-- /Auteur -->
+
+  <!-- Destinataire -->
+  Monsieur le Directeur  
+  GHT des Pyrénées Ariégeoises CHIVA  
+  Chemin de la Plaine  
+  09000 Saint-Jean-de-Verges
+  <!-- /Destinataire -->
+
+  **[La Ville]**, le 18 juillet 2026
+
+  ---
+
+  **Objet : Demande de communication...**  
+  **N° LRAR : [**[N° LRAR CHIVA]**](...)**
+
+  ---
+
+  Monsieur le Directeur,
+  ```

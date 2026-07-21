@@ -25,14 +25,15 @@ jx: J+38
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
-
 # ENVOI [CONSTITUTION DE PARTIE CIVILE](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md)
 > 🔗 Source Google Drive : [1nFSf3EDB_bV…](https://drive.google.com/open?id=1nFSf3EDB_bVudz5Xhf0NvXlibTesCL8M5hepEZqxd5w)
+<!-- Auteur -->
 **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
+<!-- /Destinataire -->
 
 **[La Ville de Résidence de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**
 
@@ -47,7 +48,11 @@ Tribunal Judiciaire de **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Mem
 
 **[La Ville de Résidence de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**, le **[J+38 Constitution PC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)**
 
+---
+
 **Objet : Dépôt d'une plainte avec [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md) pour blessures involontaires**
+
+---
 
 **Réf. Parquet : Plainte initiale n° [ ... ] (dépôt du **[J+4 Dépôt de plainte](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-4-depot-de-plainte.md)**)**
 

@@ -43,10 +43,14 @@ Service SOS Main — **[L'Établissement SOS Main](../../../../%F0%9F%A7%A0%20Me
 
 Objet : Demande de certificat medical de consolidation — Accident du **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**
 
+<!-- Auteur -->
 Ref : Dossier **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** / **[Le Chirurgien SOS Main](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 Madame, Docteur,
 ## I — INTRODUCTION
+<!-- /Destinataire -->
 
 La presente lettre est adressee par **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** a **[Le Chirurgien SOS Main](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)** afin de solliciter la delivrance d'un certificat medical de consolidation dans le cadre de la procedure d'indemnisation de l'accident corporel dont il a ete victime le **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** et qui a necessite votre intervention de microchirurgie d'urgence le **[J+1 Chirurgie](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md)**.
 

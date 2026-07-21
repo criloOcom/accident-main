@@ -23,9 +23,6 @@ jx: J+47
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
-
 # RELANCE<br>INSPECTION DU TRAVAIL
 
 > Courrier recommandé avec accusé de réception
@@ -33,10 +30,17 @@ jx: J+47
 
 <hr><hr>
 
+<!-- Auteur -->
 **Expéditeur :** **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — **[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
 **Destinataire :** Madame, Monsieur l'Inspecteur du Travail — DDETS de l'Ariège, Cité Administrative, 2 Rue de la Préfecture, 09000 Foix
 **Date :** [Date d'envoi — À compléter avant impression]
+<!-- /Auteur -->
+
+---
+
 **Objet :** Demande d'information — Accident corporel du 29 mai 2026 — Salon « **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** » (**[22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**)
+
+---
 
 <hr><hr>
 

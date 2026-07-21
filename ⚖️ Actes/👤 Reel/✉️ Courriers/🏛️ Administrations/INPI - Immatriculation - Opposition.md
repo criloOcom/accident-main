@@ -23,9 +23,6 @@ jx: J+41
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
-
 # OPPOSITION À IMMATRICULATION <br> AU REGISTRE NATIONAL DES ENTREPRISES
 **[Nom Prénom de l'Avocat](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-avocat-nom.md)**
 
@@ -34,17 +31,26 @@ jx: J+41
 
 **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le 9 juillet 2026
 
+---
+
 **Objet :** Opposition à l'immatriculation de toute nouvelle société à **[22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** présentant un lien avec les dirigeants de **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
+
+---
+
 **Référence RCS :** **[104 103 262 00010](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-id.md)**
 **Lettre Recommandée avec Accusé de Réception**
 
 Monsieur le Greffier,
 
+<!-- Auteur -->
 J'interviens dans les intérêts de **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le 29 mai 2026 au sein des locaux exploités par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**.
 ## I — EXPOSÉ DES FAITS
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 Il existe de sérieuses raisons de penser que la société **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et ses dirigeants, **[Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**, s'apprêtent à dissoudre ou à abandonner la structure actuelle pour recréer une nouvelle société exerçant la même activité à la même adresse, dans le but manifeste de se soustraire aux obligations indemnitaires nées de l'accident.
 <hr><hr>
+<!-- /Destinataire -->
 
 ## II — FONDEMENTS JURIDIQUES
 

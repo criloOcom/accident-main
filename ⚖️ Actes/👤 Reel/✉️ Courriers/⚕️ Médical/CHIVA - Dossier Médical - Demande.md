@@ -24,19 +24,27 @@ jx: J+50
 
 # DEMANDE DE DOSSIER MÉDICAL (LOI DU 4 MARS 2002)
 
+<!-- Auteur -->
 [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)  
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**  
-**[sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**  
+**[sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 Monsieur le Directeur  
 GHT des Pyrénées Ariégeoises CHIVA  
 Chemin de la Plaine  
 09000 Saint-Jean-de-Verges  
+<!-- /Destinataire -->
 
 **[Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
 
+---
+
 **Objet : Demande de communication de mon dossier médical personnel (Loi du 4 mars 2002 — article L. 1111-7 du Code de la santé publique)**  
 **N° LRAR : [87500152888336B](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)**
+
+---
 
 Monsieur le Directeur,
 

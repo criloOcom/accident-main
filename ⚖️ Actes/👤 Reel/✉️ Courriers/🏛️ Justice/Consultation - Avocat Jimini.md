@@ -23,15 +23,17 @@ auteur: La Victime
 reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Justice/Consultation - Avocat Jimini.md
 ---
 <!-- Breadcrumb -->
+<!-- Auteur -->
 *[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Justice › ✉️ Consultation - Avocat Jimini*
 <hr>
 <!-- /Breadcrumb -->
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+<!-- /Destinataire -->
 
 reel_path: ../../../👤 Reel/✉️ Courriers/📝 Procédure/Consultation - Avocat Jimini.md
-
-
 
 # EMAIL<br>CONSULTATION PROACTIVITÉ VICTIME
 
@@ -39,7 +41,11 @@ reel_path: ../../../👤 Reel/✉️ Courriers/📝 Procédure/Consultation - Av
 
 <hr><hr>
 
+---
+
 **Objet : Consultation — Accident corporel 29/05/2026, salon [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (Foix)**
+
+---
 
 Bonjour Maître,
 

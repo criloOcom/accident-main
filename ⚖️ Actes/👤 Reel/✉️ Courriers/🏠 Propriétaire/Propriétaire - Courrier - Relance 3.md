@@ -34,10 +34,19 @@ Courriel : [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/TOKEN
 **Monsieur Romain DELRIEU  
 **17 Rue de la Baïse, 31120 Roquettes**
 
-**Objet : Relance LRAR — Correction qualification accident + Demande informations assurances SAS HB BARBER — L.R.A.R.**  
-**Réf : Dossier Sébastien GRAZIDE / SAS HB BARBER / SAS HB BARBER — LRAR n°3 [N° à compléter après dépôt La Poste]**
+---
 
+**Objet : Relance LRAR — Correction qualification accident + Demande informations assurances SAS HB BARBER — L.R.A.R.**
+
+---
+
+<!-- Auteur -->
+**Réf : Dossier Sébastien GRAZIDE / SAS HB BARBER / SAS HB BARBER — LRAR n°3 [N° à compléter après dépôt La Poste]**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
 Monsieur,
+<!-- /Destinataire -->
 
 Par la présente, je me permets de revenir vers vous pour la troisième fois concernant l'accident corporel dont j'ai été victime le **vendredi 29 mai 2026 à 15h00** dans vos locaux du **22 Rue Lafaurie à Foix (09000)**.
 

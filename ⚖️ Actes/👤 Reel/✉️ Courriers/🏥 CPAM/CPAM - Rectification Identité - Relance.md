@@ -22,23 +22,30 @@ reel_path: ../../../👤 Reel/✉️ Courriers/🏥 CPAM/CPAM - Rectification Id
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 # COURRIER DE RECTIFICATION D'IDENTITÉ DE LA SOCIÉTÉ RESPONSABLE
 ## [Dossier RCT](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° 31727387
 
+<!-- Auteur -->
 **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**  
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**  
-Courriel : **[sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**  
+Courriel : **[sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **CPAM de la Haute-Garonne**  
 Service Recours Contre Tiers  
 3 Boulevard de la Méditerranée  
-31093 Toulouse Cedex 9  
+31093 Toulouse Cedex 9
+<!-- /Destinataire -->
 
 **[Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le 18 juillet 2026
 
-**Objet : Déclaration rectificative d'accident causé par un tiers – Substitution de la société responsable**  
+---
+
+**Objet : Déclaration rectificative d'accident causé par un tiers – Substitution de la société responsable**
+
+---
+
 **Réf : Dossier de Recours Contre Tiers n° 31727387**  
 **Accident corporel du **[29 mai 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** (Foix)**  
 

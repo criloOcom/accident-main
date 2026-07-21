@@ -33,6 +33,7 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 
 | Champ | Renseignement |
 |-------|---------------|
+<!-- Auteur -->
 | **Nom de naissance** | [Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) |
 | **Prénom** | **[Sébastien](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-prenom.md)** |
 | **Date de naissance** | 18 janvier 1982 |
@@ -44,8 +45,11 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 | **Téléphone** | **[Téléphone de la Victime]** |
 | **Email** | [sebastien.grazide@gmail.com](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) |
 <hr><hr>
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 ## II — SITUATION PROFESSIONNELLE ET RESSOURCES
+<!-- /Destinataire -->
 
 ### Profession
 - **Activité** : Informaticien indépendant (micro-entrepreneur — développement web et applications)

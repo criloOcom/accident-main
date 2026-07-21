@@ -18,8 +18,6 @@ reel_path: ../../../👤 Reel/✉️ Courriers/🏢 SAS & Salon/SAS - HB BARBER 
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 # LETTRE RECOMMANDÉE — SAS HB BARBER (SIÈGE SOCIAL)
 > 🔗 Source Google Drive : [20260718 ✉️ LRAR SAS HB BARBER (Societe)](https://docs.google.com/document/d/1mcrXdWAJM2TPbyp03NnhJeTCaKDp4b2WfuTUPtdBk-I/edit?usp=sharing)
 
@@ -39,9 +37,13 @@ Objet : Déclaration d'accident corporel — Demande de communication des coordo
 
 Mode d’envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 
+<!-- Auteur -->
 Réf. : Dossier **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** / [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) — Sinistre du **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 N° Recours Tiers CPAM : [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md)
+<!-- /Destinataire -->
 
 <hr><hr>
 

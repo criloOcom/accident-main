@@ -24,9 +24,6 @@ jx: J+47
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
-
 # MODÈLE<br>SAISINE CADA
 
 > **Quand utiliser ce courrier :** Si la Préfecture ou l'Inspection du travail refuse (expressément ou par silence de 2 mois) de communiquer des documents suite aux courriers n°41 ou n°42.
@@ -35,11 +32,17 @@ jx: J+47
 
 <hr><hr>
 
+<!-- Auteur -->
 **Expéditeur :** **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — **[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
 **Destinataire :** Commission d'accès aux documents administratifs (CADA), 35 rue Saint-Dominique, 75700 Paris 07 SP
 **Date :** [Date d'envoi — À compléter]
+<!-- /Auteur -->
+
+---
 
 **Objet : Saisine de la CADA — Refus de communication de documents administratifs concernant un accident corporel (salon « [SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) », Foix)**
+
+---
 
 <hr><hr>
 
