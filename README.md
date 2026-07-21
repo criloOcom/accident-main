@@ -1,107 +1,123 @@
----
-title: "🏛️ Dossier Juridique « Accident Main » - Sébastien GRAZIDE"
-description: "Porte d'entrée opérationnelle du dossier — Plan d'action, échéances et navigation simplifiée."
-type: readme
----
 <!-- Breadcrumb -->
-*[🏠](README.md)*
+*[AGENTS](./AGENTS.md)*
 <hr>
 <!-- /Breadcrumb -->
 
-# 🏛️ Dossier Juridique « Accident Main »
-## Sébastien GRAZIDE
+# Accident de la Main
 
-Bienvenue dans l'espace de pilotage de ton dossier juridique. 
-
-Ce fichier est ta porte d'entrée opérationnelle. Conçu pour être clair et aéré, il te permet d'accéder en un coup d'œil à ton plan d'action immédiat, à ton calendrier de procédures et à l'ensemble des pièces réelles ou de travail.
+**Dossier complet** — accident de travail survenu le 29 mai 2026 à Foix.
 
 ---
 
-## 🚨 ACTIONS IMMÉDIATES : CE QUE TU DOIS FAIRE
+## Fiche synthétique
 
-### 📅 Semaine du 27 juillet 2026 : Déplacement physique à Foix
-
-Pour cette journée, tu as trois démarches physiques majeures à réaliser à Foix. Prépare les documents réels imprimés et signés ci-dessous :
-
-#### 1️⃣ Au Tribunal Judiciaire (Greffe Civil)
-* **Action** : Déposer la requête de mesures d'instruction unilatérales pour sauvegarder les vidéos de surveillance du salon.
-
-* **Document à imprimer & signer** : [TJ Foix - TJ Foix - TJ Foix - TJ Foix - CPC 145 - Requête.md](./Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md)
-
-* **Pièces à joindre** : Prépare le dossier comprenant les 17 pièces listées dans le bordereau de la requête.
-
-#### 2️⃣ Au Tribunal Judiciaire (Bureau d'Aide Juridictionnelle)
-* **Action** : Déposer ton dossier complet de demande d'Aide Juridictionnelle (AJ) totale.
-
-* **Document d'accompagnement** : [BAJ - Demande AJ - Guide.md](Actes/Reel/Courriers/Interne/BAJ%20-%20Demande%20AJ%20-%20Guide.md)
-
-* **Pièces à joindre** : Tes justificatifs de ressources (déclarations URSSAF, avis d'imposition, etc.).
-
-#### 3️⃣ Au Commissariat de Police de Foix
-* **Action** : Déposer ton complément de plainte pour acter la correction de l'identité de la société exploitante.
-
-* **Documents à imprimer & signer** :
-
-   * [Police - Plainte Complémentaire.md](Actes/Token/Courriers/Police/Police%20-%20Plainte%20Compl%C3%A9mentaire.md)
-  * [Police - Note Erratum Identité.md](./Actes/Token/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md) (à annexer en tant que pièce justificative)
-* **Pièces à joindre** : Les 8 pièces justificatives listées à la fin de ta plainte complémentaire (comprenant le mail du bailleur et ta note de constatations).
+| Champ | Valeur |
+|-------|--------|
+| **Victime** | **SÉBASTIEN GRAZIDE** — né le 27/01/1982 (44 ans), droitier |
+| **Profession** | Informaticien indépendant (SIREN 500 474 457) |
+| **Date accident** | 29 mai 2026, vers 14h30 |
+| **Lieu** | 22 Rue Lafaurie, 09000 Foix — salon de coiffure exploité par **SAS HB BARBER** |
+| **Blessure** | Plaie palmaire droite 8,5 cm — section complète tendons fléchisseurs 2e et 3e rayons + 2 nerfs digitaux palmaires de l'index droit |
+| **Chirurgie** | 30 mai 2026, Clinique de l'Union (SOS Main) — Dr Iskander DJERBI |
+| **ITT** | 56 jours (23 juillet 2026), prolongée jusqu'à l'expertise |
+| **Expertise** | 29 mai 2027 — Unité Médico-Judiciaire |
+| **PV Police** | n° 2026/015967 |
+| **CPAM** | Dossier n° 31727387 |
+| **Employeur à l'accident** | SAS LES MAUVAIS GARÇONS (938 033 222 00010) — Lieudit Bourcheminet, 09320 Massat |
+| **Repreneur (post-accident)** | SAS HB BARBER (104 103 262 00010) — 22 Rue Lafaurie, 09000 Foix |
+| **Président HB BARBER** | Hamza El Hachemi BERGUIGA |
+| **Directrice Générale HB BARBER** | Catherine SORROCHE |
 
 ---
 
-### 📮 Courriers recommandés (LRAR) à expédier
+## Navigation par public
 
-Durant la même semaine, expédie par Lettre Recommandée avec Avis de Réception (LRAR) les deux signalements administratifs suivants :
+### 🚨 Police et enquête
 
-* **Signalement CODAF (Comité Opérationnel Départemental Anti-Fraude)** :
+| Document | Emplacement |
+|----------|-------------|
+| Procès-verbal d'enquête | [PV n° 2026/015967](./Actes/Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) |
+| Dossier de plainte | [Dossier Plainte](./Actes/Preuves%20officielles/20260602_Police_PV/20260601%20DOSSIER%20Plainte%20PlainteOfficiellePV%20n%C2%B02026-015967.md) |
+| Note d'identité (erratum SIRET) | [Note Erratum Identité](./Actes/Token/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md) |
+| Lien pièces transmises | [Bordereau de pièces Police](./Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md) |
 
-  * *Objet* : Dénonciation de suspicion de travail dissimulé, fraude et transfert frauduleux d'actifs vers la nouvelle structure.
-  * *Document à envoyer* : [CODAF - Signalement.md](Actes/Reel/Courriers/Administrations/CODAF%20-%20Signalement.md)
-  * *Destinataire* : Monsieur le Procureur de la République (Tribunal Judiciaire de Foix, 14 Boulevard François Mitterrand, 09000 Foix).
+### ⚖️ Avocats et contentieux
 
-* **Signalement Inspection du Travail** :
+| Document | Emplacement |
+|----------|-------------|
+| Assignation en référé-provision (CPC 145) | [TJ Foix — Requête](./Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md) |
+| Bordereau de pièces unifié | [Bordereau Unifié](./Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md) |
+| Mises en demeure HB BARBER | [Mises en demeure](./Actes/Token/Courriers/) |
+| Signalements CPAM + Inspection | [Signalements](./Actes/Token/Courriers/) |
+| Analyses juridiques | [Analyses](./Actes/Token/Analyses_juridiques/) |
+| Études d'indemnisation Dintilhac | [Études indemnisation](./Actes/Token/Etudes_indemnisation/) |
+| Simulations contentieux par acteur | [Simulations](./Simulations/) (15 scénarios) |
 
-  * *Objet* : Dénonciation du défaut de déclaration d'accident du travail grave concernant un préposé.
-  * *Document à envoyer* : [DDETS - Signalement.md](Actes/Reel/Courriers/Administrations/DDETS%20-%20Signalement.md)
-  * *Destinataire* : Inspecteur du Travail (DDETSPP de l'Ariège, 9 Rue Lieutenant Paul Delpech, 09000 Foix).
+### 🏥 CPAM et médical
+
+| Document | Emplacement |
+|----------|-------------|
+| Compte-rendu opératoire (SOS Main) | [CR Opératoire](./Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) |
+| Ordonnance de sortie | [Ordonnance Sortie](./Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530-1700%20Ordonnance%20Sortie%20DrDJERBI.md) |
+| Rectification identité CPAM | [CPAM Rectification](./Actes/Token/Courriers/CPAM/) |
+| Expertise UMJ (29 mai 2027) | À verser dès réception |
+
+### 📋 Administrations (URSSAF, etc.)
+
+| Document | Emplacement |
+|----------|-------------|
+| Justificatif URSSAF (SIREN 500 474 457) | [Preuves officielles](./Actes/Preuves%20officielles/) |
+| Pièces d'identité, contrats, etc. | [Preuves officielles](./Actes/Preuves%20officielles/) |
+
+### 🤖 Agents IA et lecture automatique
+
+| Ressource | Emplacement |
+|-----------|-------------|
+| Point d'entrée obligatoire | [AGENTS.md](./AGENTS.md) |
+| ⚠️ À lire en premier | [VACCIN.md](./Memory/VACCIN.md) |
+| État d'avancement détaillé | [STATUS](./Memory/STATUS.md) |
+| Plans restants et priorités | [TODO](./Memory/TODO.md) |
+| Source unique de vérité (faits) | [STRICT VARIABLES](./Memory/STRICT%20VARIABLES.md) |
+| Correspondance token ↔ réel | [TOKEN MAP](./Memory/TOKEN%20MAP.md) |
+| Fiches individuelles par token | [Memory/Tokens](./Memory/Tokens/) |
+| Règles permanentes | [RULES](./Memory/RULES.md) |
+| Décisions d'architecture | [DECISIONS](./Memory/DECISIONS.md) |
+| Protocole JURITEXT | [JURITEXT PROTOCOL](./Memory/JURITEXT_PROTOCOL.md) |
+| Workflow d'anonymisation | [WORKFLOW](./Memory/WORKFLOW.md) |
+| Conventions de formatage | [CONVENTIONS](./Memory/CONVENTIONS.md) |
+| Rapports d'audit | [Rapports](./Rapports/) |
 
 ---
 
-## 📅 CALENDRIER DES ÉCHÉANCES PROCÉDURALES
+## Arborescence du dépôt
 
-Voici les prochaines étapes clés de ton dossier à moyen et long termes :
-
-* **Fin juillet / Début août 2026** : Décision du Bureau d'Aide Juridictionnelle et désignation d'office de ton avocat.
-
-* **Courant août 2026** : Prise de contact avec ton avocat pour lancer la signification par huissier de l'[TJ Foix - TJ Foix - TJ Foix - TJ Foix - Référé Provision - Assignation.md](./Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md) à la SAS HB BARBER.
-
-* **📅 Jeudi 12 novembre 2026 à 13h45** : Rendez-vous obligatoire pour ton expertise médicale à l'**Unité de Médecine Judiciaire (UMJ) de l'Hôpital Purpan** à Toulouse (sur réquisition de police pour fixer l'ITT médico-légale).
-
----
-
-## 📂 STRUCTURE DU PROJET & NAVIGATION
-
-Explore les différents répertoires du dossier grâce aux liens ci-dessous :
-
-### 🧠 Mémoire & Suivi
-* [Memory/](./Memory/README.md) : Espace de travail de la mémoire du projet.
-
-  * [TODO.md](./Memory/TODO.md) : Plan d'action détaillé et tableau de bord.
-  * [STATUS.md](./Memory/STATUS.md) : Historique d'avancement des phases du projet.
-  * [STRICT VARIABLES.md](./Memory/STRICT%20VARIABLES.md) : Base de données unique de référence (dates, montants, faits).
-  * [TOKEN MAP.md](./Memory/TOKEN%20MAP.md) : Correspondances des jetons d'anonymisation.
-
-### Actes & Courriers
-* [Actes/](./Actes/README.md) : Base des documents juridiques et administratifs.
-
-  * [Actes/Reel/](./Actes/Reel/README.md) : Les documents réels complétés, prêts à imprimer pour tes démarches.
-  * [Actes/Token/](./Actes/Token/README.md) : Les versions de travail anonymisées sous forme de jetons.
-
-### 📊 Analyses & Législation
-* [Rapports/](./Rapports/README.md) : Rapports d'audits, de constatations et études d'indemnisation.
-
-* [Lois/](./Lois/README.md) : Textes de lois, codes et arrêts de jurisprudence applicables.
+```
+/
+├── AGENTS.md              ← Point d'entrée des agents IA
+├── README.md              ← Ce fichier
+├── Actes/
+│   ├── Preuves officielles/  ← Pièces brutes (CR, PV, identité)
+│   ├── Token/                ← Versions anonymisées (travail courant)
+│   └── Reel/                 ← Versions réelles (générées)
+├── Lois/                  ← Textes de loi, jurisprudence
+├── Memory/                ← Mémoire persistante (agents)
+│   └── Tokens/            ← Fiches individuelles (56 tokens)
+├── Rapports/              ← Audits, synthèses, évaluations
+├── Simulations/           ← 15 scénarios contentieux par acteur
+├── Status/                ← Suivi d'avancement
+└── .dev/                  ← Scripts, tests, déploiement
+```
 
 ---
 
-_Dernière mise à jour : 21 juillet 2026._  
-*Les agents IA travaillant sur ce dossier doivent se conformer au protocole défini dans [AGENTS.md](AGENTS.md) et prendre connaissance des règles spécifiques dans [Memory/GEMINI.md](./Memory/GEMINI.md).*
+## Accès rapide
+
+- [Procès-verbal Police](./Actes/Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)
+- [Compte-rendu opératoire](./Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)
+- [État d'avancement](./Memory/STATUS.md)
+- [Tâches restantes](./Memory/TODO.md)
+- [Faits vérifiés](./Memory/STRICT%20VARIABLES.md)
+
+---
+
+**Dossier tenu par Sébastien GRAZIDE** — Mise à jour : juillet 2026
