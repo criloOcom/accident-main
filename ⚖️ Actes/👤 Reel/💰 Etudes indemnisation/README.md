@@ -1,8 +1,3 @@
-<!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [👤 Actes / reel — Version réelle](../README.md) › 💰 Etudes indemnisation*
-<hr>
-<!-- /Breadcrumb -->
-
 # Index — 💰 Etudes indemnisation (Versions Réelles)
 
 - [Protocole_Transactionnel_Dintilhac_20260713.md](Protocole_Transactionnel_Dintilhac_20260713.md)

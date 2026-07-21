@@ -1,8 +1,3 @@
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [✉️ Courriers (Versions Réelles)](../README.md) › 🏛️ Administrations*
-<hr>
-<!-- /Breadcrumb -->
-
 # Index — ✉️ Courriers/🏛️ Administrations (Versions Réelles)
 
 - [✉️ CADA Saisine Formulaire 📝Document.md](%E2%9C%89%EF%B8%8F%20CADA%20Saisine%20Formulaire%20%F0%9F%93%9DDocument.md)

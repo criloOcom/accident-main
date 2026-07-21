@@ -40,4 +40,4 @@ Saint-Jean est la commune où se trouve la clinique ayant pratiqué la microchir
 
 ## Source
 
-[TOKEN MAP → Données localisantes / identifiantes](../TOKEN%20MAP.md#token-la-ville-de-l-etablissement-sos-main)
+TOKEN MAP → Données localisantes / identifiantes

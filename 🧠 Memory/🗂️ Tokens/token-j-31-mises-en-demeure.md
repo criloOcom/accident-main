@@ -72,4 +72,4 @@ Chaque courrier impartit un délai de **15 jours** pour réponse, à l'issue duq
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-31-mises-en-demeure)
+TOKEN MAP → Tokens événementiels (J+)

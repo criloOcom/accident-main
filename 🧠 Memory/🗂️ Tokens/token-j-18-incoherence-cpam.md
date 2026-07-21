@@ -53,4 +53,4 @@ Détection par **[La Victime]** d'une incohérence dans le dossier CPAM :
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-18-incoherence-cpam)
+TOKEN MAP → Tokens événementiels (J+)

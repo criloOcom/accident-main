@@ -47,4 +47,4 @@ Toulouse est la métropole régionale de référence du dossier :
 
 ## Source
 
-[TOKEN MAP → Données localisantes / identifiantes](../TOKEN%20MAP.md#token-la-metropole-regionale)
+TOKEN MAP → Données localisantes / identifiantes

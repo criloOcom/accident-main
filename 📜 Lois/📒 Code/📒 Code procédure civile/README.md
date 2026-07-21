@@ -1,6 +1,6 @@
 ---
 title: "📒 Code de procédure civile"
-description: "Dossier contenant les articles du Code de procédure civile cités dans les actes du projet."
+description: "Dossier contenant les articles du Code de procédure civile (7 articles)."
 type: readme
 ---
 <!-- Breadcrumb -->
@@ -14,17 +14,19 @@ type: readme
 
 ## Liste des articles
 
-- [144](Article_144_CodeDeProcedureCivile.md) — Mesures d'instruction (Art. 144)
+- [144](Article_144_CodeDeProcedureCivile.md) — Mesures d'instruction
 
-- [145](../%F0%9F%93%92%20Code%20procedure%20civile/Article_145_CodeDeProc%C3%A9dureCivile_Legifrance.md) — Mesures d'instruction in futurum (Art. 145)
+- [145](Article_145_CodeDeProc%C3%A9dureCivile_Legifrance.md) — Mesures d'instruction in futurum
 
-- [202](Article_202_CodeDeProcedureCivile.md) — Attestations de témoins (Art. 202)
+- [202](Article_202_CodeDeProcedureCivile.md) — Attestations de témoins
 
-- [263](../%F0%9F%93%92%20Code%20procedure%20civile/Article_263_Codeproc_Legifrance.md) — Expertise judiciaire (Art. 263)
+- [263](Article_263_Codeproc_Legifrance.md) — Expertise judiciaire
 
-- [700](../%F0%9F%93%92%20Code%20procedure%20civile/Article_700_Codeproc_Legifrance.md) — Frais irrépétibles (Art. 700)
+- [655](Article_655_CodeProcedureCivile.md) — Signification à domicile ou à résidence
 
-- [835](../%F0%9F%93%92%20Code%20procedure%20civile/Article835_CodeDeProcedureCivile_LegiFrance.md) — Référé-provision (Art. 835)
+- [700](Article_700_Codeproc_Legifrance.md) — Frais irrépétibles
+
+- [835](Article835_CodeDeProcedureCivile_LegiFrance.md) — Référé-provision
 
 ---
 

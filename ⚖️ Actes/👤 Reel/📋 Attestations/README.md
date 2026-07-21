@@ -1,8 +1,3 @@
-<!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [👤 Actes / reel — Version réelle](../README.md) › 📋 Attestations*
-<hr>
-<!-- /Breadcrumb -->
-
 # Index — 📋 Attestations (Versions Réelles)
 
 - [📋 Employé.md](%F0%9F%93%8B%20Employ%C3%A9.md)

@@ -37,4 +37,4 @@ Médecin ayant assuré la **prise en charge d'urgence** de [La Victime](token-vi
 
 ## Source
 
-[TOKEN MAP → Personnes physiques](../TOKEN%20MAP.md#token-le-medecin-en-urgence)
+TOKEN MAP → Personnes physiques

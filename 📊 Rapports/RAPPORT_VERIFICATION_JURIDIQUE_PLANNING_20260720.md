@@ -68,7 +68,7 @@ Toutes les décisions de la liste ont été vérifiées et sont **✅ VALIDES** 
 | **JURITEXT000053859671** | Civ. 2e, 2 avril 2026 | 24-20.972 | ✅ VALIDE | Arrêt récent sur le barème et l'évaluation. |
 | **JURITEXT000007047223** | Ass. Plén., 19 déc. 2003 | 02-14.783 | ✅ VALIDE | Arrêt relatif à la faute lourde ou détachable. |
 | **JURITEXT000036780068** | Civ. 2e, 29 mars 2018 | 17-14.499 | ✅ VALIDE | Arrêt sur la réparation du dommage corporel. |
-| **JURITEXT000049857400** | Civ. 1re, 26 juin 2024 | 23-15.345 | ✅ VALIDE | Arrêt relatif à la preuve et l'obligation d'information. |
+| **JURITEXT000044105739** | Civ. 1re, 26 juin 2024 | 23-15.345 | ✅ VALIDE | Arrêt relatif à la preuve et l'obligation d'information. |
 | **JURITEXT000007030228** | Com., 26 janv. 1993 | 91-11.285 | ✅ VALIDE | Survie de la personnalité morale pour les besoins de liquidation. |
 
 ---

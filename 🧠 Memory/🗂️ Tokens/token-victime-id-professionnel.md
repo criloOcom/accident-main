@@ -44,4 +44,4 @@ SIREN d'immatriculation de l'activité professionnelle de la victime, informatic
 
 ## Source
 
-[TOKEN MAP → Données localisantes / identifiantes](../TOKEN%20MAP.md#token-l-identifiant-professionnel-de-la-victime)
+TOKEN MAP → Données localisantes / identifiantes

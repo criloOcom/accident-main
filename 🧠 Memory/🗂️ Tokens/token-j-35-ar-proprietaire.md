@@ -53,4 +53,4 @@ La mise en demeure invite le propriétaire à :
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-35-ar-proprietaire)
+TOKEN MAP → Tokens événementiels (J+)

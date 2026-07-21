@@ -17,14 +17,14 @@ reel_path: ../../👤 Reel/📚 Analyses juridiques/Note Mesures Conservatoires.
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
 # NOTE JURIDIQUE : MESURES CONSERVATOIRES AVANT DISPARITION
 ## I — PROBLÉMATIQUE
 
-Dans le cadre du dossier concernant [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) à l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et de ses représentants, il convient d'envisager la mise en œuvre de mesures conservatoires urgentes.
+Dans le cadre du dossier concernant **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** à l'encontre de **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et de ses représentants, il convient d'envisager la mise en œuvre de mesures conservatoires urgentes.
 
 Cette nécessité est motivée par le risque de dissipation des actifs par la partie adverse, compromettant ainsi le recouvrement futur des dommages et intérêts alloués en réparation du préjudice corporel subi.
 
@@ -49,7 +49,7 @@ L'opportunité de solliciter des mesures conservatoires repose sur les dispositi
 
 ### II.1 — Sur le principe de créance fondé
 
-Le dossier démontre de manière probante le dommage corporel subi par [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md) imputable à [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). Les éléments médicaux et factuels établissent indéniablement la responsabilité et, par voie de conséquence, l'existence d'une créance indemnitaire d'un montant significatif, permettant de qualifier le principe de créance.
+Le dossier démontre de manière probante le dommage corporel subi par **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** imputable à **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**. Les éléments médicaux et factuels établissent indéniablement la responsabilité et, par voie de conséquence, l'existence d'une créance indemnitaire d'un montant significatif, permettant de qualifier le principe de créance.
 
 ### II.2 — Sur les circonstances menaçant le recouvrement
 
@@ -58,7 +58,7 @@ Il conviendra d'apporter aux débats tout élément matériel permettant d'étay
 ### II.3 — Mesures envisagées
 
 #### II.3.a — Saisie conservatoire des comptes bancaires
-Cette mesure vise à geler les fonds disponibles sur les comptes de [**[L'Exploitant du Commerce (La SAS)]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md). Elle est particulièrement efficace et peut être pratiquée avec diligence par un Commissaire de Justice.
+Cette mesure vise à geler les fonds disponibles sur les comptes de **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**. Elle est particulièrement efficace et peut être pratiquée avec diligence par un Commissaire de Justice.
 
 #### II.3.b — Saisie conservatoire des meubles corporels
 Il est également possible de procéder à la saisie des biens meubles corporels (tels que le mobilier du salon, le matériel d'exploitation). Cette mesure, exécutée par un Commissaire de Justice, rend les biens indisponibles et empêche leur vente ou leur déplacement.
@@ -72,7 +72,7 @@ Il est donc impératif de déposer une requête motivée auprès du Juge de l'Ex
 
 ## III — CONCLUSION
 
-Afin de préserver les droits de [**[La Victime]**](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), il est fortement recommandé de diligenter au plus vite une procédure sur requête aux fins d'être autorisé par le Juge de l'Exécution à faire pratiquer par un Commissaire de Justice :
+Afin de préserver les droits de **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, il est fortement recommandé de diligenter au plus vite une procédure sur requête aux fins d'être autorisé par le Juge de l'Exécution à faire pratiquer par un Commissaire de Justice :
 
 - Une saisie conservatoire des comptes bancaires de la partie adverse ;
 

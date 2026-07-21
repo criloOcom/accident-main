@@ -26,7 +26,7 @@ Le dossier comporte **62 fichiers .md** répartis dans les sous-dossiers :
 
 - `🗄️ Archives` : 11
 
-## 2. Anonymisation ([🧠 Memory/TOKEN MAP.md](../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md))
+## 2. Anonymisation (🧠 Memory/TOKEN MAP.md)
 Le fichier de mappage compte **22 tokens** uniques recensant les personnes physiques, morales et données localisantes/identifiantes.
 
 ## 3. Chronologie des Événements

@@ -47,4 +47,4 @@ Interlocutrice CPAM pour le dossier **Recours Contre Tiers (RCT) n° 31727387**,
 
 ## Source
 
-[TOKEN MAP → Personnes physiques](../TOKEN%20MAP.md#token-la-gestionnaire-cpam)
+TOKEN MAP → Personnes physiques

@@ -80,4 +80,4 @@ Vague de courriers de **pression fiscale et administrative** contre **[L'Exploit
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-41-courrier-sie-urssaf)
+TOKEN MAP → Tokens événementiels (J+)

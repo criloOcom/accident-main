@@ -69,4 +69,4 @@ L'expertise évalue :
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-167-expertise-umj)
+TOKEN MAP → Tokens événementiels (J+)

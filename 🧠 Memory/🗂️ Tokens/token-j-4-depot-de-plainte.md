@@ -58,4 +58,4 @@ Le même jour, **[L'Adjoint au Maire de la Commune]** adresse un courriel à **[
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-4-depot-de-plainte)
+TOKEN MAP → Tokens événementiels (J+)

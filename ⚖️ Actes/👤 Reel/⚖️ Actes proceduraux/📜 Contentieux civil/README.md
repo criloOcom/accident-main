@@ -1,8 +1,3 @@
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [👤 Actes / reel — Version réelle](../../README.md) › [⚖️ Actes Procéduraux (Versions Réelles)](../README.md) › 📜 Contentieux civil*
-<hr>
-<!-- /Breadcrumb -->
-
 # Index — ⚖️ Actes proceduraux/📜 Contentieux civil (Versions Réelles)
 
 - [17 ⚖️ Requete Mandataire Ad Hoc.md](17%20%E2%9A%96%EF%B8%8F%20Requete%20Mandataire%20Ad%20Hoc.md)

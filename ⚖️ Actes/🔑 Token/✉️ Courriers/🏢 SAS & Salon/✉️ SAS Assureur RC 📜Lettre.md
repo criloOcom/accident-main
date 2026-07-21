@@ -22,23 +22,23 @@ jx: J+50
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)]** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[Le Nouvel Exploitant (HB BARBER)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%8B%20Preparation%20Foix/%F0%9F%93%9C%20Erratum%20Correction%20Identite%20Societe.md).
 
 
 
 # MISE EN DEMEURE ASSUREUR RC
 **Déclaration de sinistre — Action directe (Art. L. 124-3 C. assur.) — Expertise médicale consolidée**
 
-[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
-[**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+**[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
 
 À
 
 L'assureur responsabilité civile professionnelle de
-[**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)
+**[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
 [Adresse à compléter]
 
-Fait à [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md), le **[date à compléter]**
+Fait à **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**, le **[date à compléter]**
 
 **Lettre recommandée avec accusé de réception**
 
@@ -46,11 +46,11 @@ Fait à [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%
 
 Madame, Monsieur,
 
-Je soussigné [**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md), demeurant [**[L'Adresse de la Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md), ai été victime le 29 mai 2026 d'un accident corporel grave au sein du salon de coiffure exploité par la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), sis [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md) à [**[La Ville de l'Accident]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md).
+Je soussigné **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, demeurant **[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**, ai été victime le 29 mai 2026 d'un accident corporel grave au sein du salon de coiffure exploité par la société **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, sis **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** à **[La Ville de l'Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**.
 
 Alors que je me trouvais installé au bac à shampoing, un salarié du salon est monté sur la vasque en céramique pour régler un téléviseur, en l'absence de tout équipement adapté (escabeau, marchepied). En descendant, la vasque a basculé brutalement. En tentant de le protéger par réflexe, j'ai tendu ma main droite — ma main dominante — qui a heurté une cassure majeure préexistante, non signalée, sur le flanc de la vasque.
 
-Cet accident a entraîné une section complète du tendon fléchisseur profond (FDP) de l'index droit, ainsi qu'une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une intervention de microchirurgie d'urgence le 30 mai 2026. Mon arrêt de travail total a été initialement fixé à 55 jours, avant une longue phase de rééducation.
+Cet accident a entraîné une section complète du tendon fléchisseur profond (FDP) de l'index droit, ainsi qu'une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une intervention de microchirurgie d'urgence le 30 mai 2026. Mon [arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total a été initialement fixé à 55 jours, avant une longue phase de rééducation.
 
 Une expertise médicale judiciaire a depuis été réalisée. Par rapport en date du 12 juin 2027, l'expert retient notamment :
 
@@ -64,15 +64,15 @@ Une expertise médicale judiciaire a depuis été réalisée. Par rapport en dat
 
 Sur la base de ces éléments, mon préjudice corporel (préjudices patrimoniaux et extra-patrimoniaux) est évalué, selon la nomenclature Dintilhac, dans une fourchette globale de l'ordre de **120 000 € à 160 000 €**, dont environ **49 231 €** au titre des seuls préjudices extra-patrimoniaux (DFP, SE, IP, préjudice esthétique et d'agrément).
 
-À ce jour, malgré plusieurs démarches amiables et judiciaires auprès de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, aucune attestation d'assurance responsabilité civile professionnelle ne m'a été communiquée, ce qui m'empêche d'exercer sereinement l'action directe prévue à l'article L. 124-3 du Code des assurances à l'encontre de votre compagnie.
+À ce jour, malgré plusieurs démarches amiables et judiciaires auprès de la société **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et de ses dirigeants, aucune attestation d'assurance responsabilité civile professionnelle ne m'a été communiquée, ce qui m'empêche d'exercer sereinement l'action directe prévue à l'article L. 124-3 du Code des assurances à l'encontre de votre compagnie.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^1]**
 
-En application de ce texte, je vous mets donc formellement en demeure, en votre qualité potentielle d'assureur de la responsabilité civile de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), de :
+En application de ce texte, je vous mets donc formellement en demeure, en votre qualité potentielle d'assureur de la responsabilité civile de la société **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, de :
 
-1. **Confirmer par écrit**, dans un délai de 30 jours à compter de la réception de la présente, que vous garantissez la responsabilité civile de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) au titre de l'exploitation du salon situé [**[L'Adresse de l'Exploitation]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md), et ce pour la période incluant le 29 mai 2026 ;
+1. **Confirmer par écrit**, dans un délai de 30 jours à compter de la réception de la présente, que vous garantissez la responsabilité civile de la société **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au titre de l'exploitation du salon situé **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**, et ce pour la période incluant le 29 mai 2026 ;
 
 2. **Me communiquer copie intégrale** de la police d'assurance concernée (conditions générales et particulières), en précisant notamment :
 
@@ -86,8 +86,8 @@ En application de ce texte, je vous mets donc formellement en demeure, en votre 
 
 4. **Me verser, à titre de provision**, une somme de **15 000 € (quinze mille euros)** à valoir sur l'indemnisation définitive de mes préjudices, montant cohérent avec :
 
-   - la preuve de l'accident et des lésions (PV de police, certificat médical initial, compte-rendu opératoire),
-   - la durée d'arrêt de travail (55 jours) et la consolidation à 12 mois,
+   - la preuve de l'accident et des lésions (PV de police, [certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md), [compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)),
+   - la durée d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (55 jours) et la consolidation à 12 mois,
    - les conclusions de l'expertise médicale judiciaire (DFP 12 %, SE 4/7, incidence professionnelle majeure),
    - les évaluations Dintilhac déjà produites.
 
@@ -95,19 +95,19 @@ Je joins à la présente, pour bonne information :
 
 - copie du procès-verbal de police relatif à l'accident ;
 
-- copie du certificat médical initial du 29 mai 2026 ;
+- copie du [certificat médical initial](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260529%20%F0%9F%A9%B9%20DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du 29 mai 2026 ;
 
-- copie du compte-rendu opératoire du 30 mai 2026 ;
+- copie du [compte-rendu opératoire](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) du 30 mai 2026 ;
 
 - copie du rapport d'expertise médicale du 12 juin 2027 ;
 
 - copie de ma [constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) et des actes de procédure déjà engagés ([référé provision](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Projet%20Ordonnance%20Refere.md), [ordonnance sur requête art. 145 CPC](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%93%9C%20Contentieux%20civil/%E2%9A%96%EF%B8%8F%20Ordonnance%20sur%20Requete%20Art.%20145%20CPC.md)).
 
-À défaut de réponse écrite et motivée de votre part dans le délai de 30 jours, ou en cas de refus injustifié de garantie, je me verrai contraint de faire valoir l'ensemble de mes droits devant les juridictions compétentes, tant civiles que pénales, en sollicitant notamment l'extension des investigations aux conditions d'assurance de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) et la mise en cause de votre responsabilité d'assureur au titre de l'action directe.
+À défaut de réponse écrite et motivée de votre part dans le délai de 30 jours, ou en cas de refus injustifié de garantie, je me verrai contraint de faire valoir l'ensemble de mes droits devant les juridictions compétentes, tant civiles que pénales, en sollicitant notamment l'extension des investigations aux conditions d'assurance de la société **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** et la mise en cause de votre responsabilité d'assureur au titre de l'action directe.
 
 Je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.
 
-[**[La Victime]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 
 <hr><hr>
 
@@ -129,7 +129,7 @@ Ce courrier est une **simulation** reprenant la structure du draft fourni par l'
 **Document remplacé :** ce document (J+50) se substitue à la précédente mise en demeure assureur (J+31, pré-expertise, désormais archivée).
 
 **Documents liés :**
-- Constitution de Partie Civile consolidée : [`🛡️ Constitution Partie Civile.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
+- [Constitution de Partie Civile](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/J%2B38%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) consolidée : [`🛡️ Constitution Partie Civile.md`](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md)
 
 - Rapport d'expertise médicale : [`20270529 ⚖️ Rapport Expertise Médicale.md`](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)
 
