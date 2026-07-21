@@ -53,4 +53,4 @@ La rééducation est prolongée de 3 semaines supplémentaires.
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-27-confirmation-kine)
+TOKEN MAP → Tokens événementiels (J+)

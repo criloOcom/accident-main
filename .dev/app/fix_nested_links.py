@@ -3,7 +3,7 @@
 fix_nested_links.py  —  Corrige les liens markdown imbriqués invalides.
 
 Pattern détecté :  [[**[Token Name]**](TOKEN_MAP.md#anchor)](token-file.md)
-Pattern cible  :  **[Token Name](token-file.md)** — [↗](TOKEN_MAP.md#anchor)
+Pattern cible  :  **[Token Name](token-file.md)**
 
 Usage:
     python3 .dev/app/fix_nested_links.py [--dry-run] [--apply]
@@ -30,7 +30,7 @@ def fix_content(content: str) -> tuple[str, int]:
         token_name = m.group(1)
         map_url = m.group(2)
         token_url = m.group(3)
-        return f'**[{token_name}]({token_url})** — [↗]({map_url})'
+        return f'**[{token_name}]({token_url})**'
 
     new_content, count = NESTED_PATTERN.subn(replacement, content)
     return new_content, count

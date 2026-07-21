@@ -24,16 +24,16 @@ jx: J+32
 
 
 
-# SYNTHÈSE JURIDIQUE ET FAQ AFFAIRE **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) C/ **[L'EXPLOITANT DU COMMERCE (LA SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales)
+# SYNTHÈSE JURIDIQUE ET FAQ AFFAIRE **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** C/ **[L'EXPLOITANT DU COMMERCE (LA SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**
 > 🔗 Source Google Drive : [1eoOJ-bcHBNn…](https://drive.google.com/open?id=1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM)
-Rédigé par : **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
+Rédigé par : **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 
-**[L'Adresse de la Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+**[L'Adresse de la Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
 
-Rédigé le **[J+32 Assignation référé](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels)
+Rédigé le **[J+32 Assignation référé](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-32-assignation-refere.md)**
 ## I — INTRODUCTION
 
-La présente synthèse juridique et FAQ a été rédigée par **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) dans le cadre du contentieux l'opposant à **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) à la suite de l'accident corporel du **[J+0 Accident](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels).
+La présente synthèse juridique et FAQ a été rédigée par **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** dans le cadre du contentieux l'opposant à **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** à la suite de l'accident corporel du **[J+0 Accident](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**.
 
 Ce document examine les différents fondements juridiques sur lesquels la victime peut fonder son action en réparation, notamment la responsabilité contractuelle sur le fondement de l'article 1231-1 du Code civil, la responsabilité délictuelle sur le fondement de l'article 1240 du même code, ainsi que la garantie des vices cachés prévue à l'article 1641 du Code civil.
 
@@ -71,17 +71,17 @@ La présente synthèse répond en outre aux questions pratiques que la victime e
 
 ## II — PRÉSENTATION GÉNÉRALE DE L'AFFAIRE
 
-Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le **[J+0 Accident](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) à 15h00 au sein du salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales), situé au **[L'Adresse de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) à **[La Ville de l'Accident](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
+Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le **[J+0 Accident](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)** à 15h00 au sein du salon de coiffure exploité par **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**, situé au **[L'Adresse de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** à **[La Ville de l'Accident](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)**.
 
-La victime, **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), né le 18/01/1982, exerce la profession d'informaticien indépendant (**[L'Identifiant Professionnel de la Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) à **[La Ville de Résidence de la Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
+La victime, **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, né le 18/01/1982, exerce la profession d'informaticien indépendant (**[L'Identifiant Professionnel de la Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-id-professionnel.md)**) à **[La Ville de Résidence de la Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**.
 
-Les parties mises en cause incluent la SAS elle-même, ses dirigeants **[Le Président de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et **[La Directrice Générale de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), ainsi que **[Le Propriétaire des Murs](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), propriétaire des murs commerciaux.
+Les parties mises en cause incluent la SAS elle-même, ses dirigeants **[Le Président de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)**, ainsi que **[Le Propriétaire des Murs](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)**, propriétaire des murs commerciaux.
 <hr><hr>
 
 ## III — FOIRE AUX QUESTIONS (FAQ) DÉTAILLÉE
 ### III.1 — Q : DANS QUELLES CIRCONSTANCES L'ACCIDENT S'EST-IL PRODUIT ?
 
-Le jour de l'accident, **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) est revenu au salon pour une simple retouche. Un employé de l'établissement est alors monté sur un bac à shampoing en céramique qui s'est déséquilibré. Par réflexe, **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) a tendu la main droite pour protéger **[Le Préposé de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (tél. [07 58 40 12 87](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)) et stabiliser le meuble.
+Le jour de l'accident, **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** est revenu au salon pour une simple retouche. Un employé de l'établissement est alors monté sur un bac à shampoing en céramique qui s'est déséquilibré. Par réflexe, **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** a tendu la main droite pour protéger **[Le Préposé de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-nom.md)** (tél. [07 58 40 12 87](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-prepose-telephone.md)) et stabiliser le meuble.
 
 Sa paume a percuté une cassure préexistante et tranchante de la vasque, provoquant une section profonde de 8,5 cm.
 
@@ -89,7 +89,7 @@ Sa paume a percuté une cassure préexistante et tranchante de la vasque, provoq
 
 Le bilan médical est lourd : une section partielle du tendon fléchisseur de l'index droit et une section complète du paquet vasculo-nerveux.
 
-Malgré une intervention de microchirurgie réalisée le **[J+1 Chirurgie](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) à la **[L'Établissement SOS Main](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) par le **[Le Chirurgien SOS Main](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), la victime souffre à ce jour d'une insensibilité totale de l'index et d'un blocage mécanique de la flexion. Son activité d'informaticien est gravement compromise, justifiant une ITT initiale de 55 jours.
+Malgré une intervention de microchirurgie réalisée le **[J+1 Chirurgie](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-1-chirurgie.md)** à la **[L'Établissement SOS Main](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-nom.md)** par le **[Le Chirurgien SOS Main](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-sosmain-chirurgien.md)**, la victime souffre à ce jour d'une insensibilité totale de l'index et d'un blocage mécanique de la flexion. Son activité d'informaticien est gravement compromise, justifiant une ITT initiale de 55 jours.
 
 ### III.3 — Q : LE GÉRANT PEUT-IL REFUSER DE ME DONNER LE NOM DE SA COMPAGNIE D'ASSURANCE ?
 
@@ -120,13 +120,13 @@ Le fait de cacher l'accident à son assureur ou de refuser de communiquer les co
 
 ## IV — STRATÉGIE JURIDIQUE ET RESPONSABILITÉS
 
-La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) est engagée en tant que commettant du fait de son préposé, sur le fondement de l'article 1242 du Code civil, mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
+La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** est engagée en tant que commettant du fait de son préposé, sur le fondement de l'article 1242 du Code civil, mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
 
 > *« Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »* <br>
 > [Article 1242](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) <br>
 > **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II.[^6]**
 
-Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), **[Le Président de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) et **[La Directrice Générale de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
+Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), **[Le Président de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
 > [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
@@ -136,18 +136,18 @@ Par ailleurs, une attention particulière est portée à la faute détachable de
 > [Arrêt Sati — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^8]**
 
-Enfin, le propriétaire des murs, **[Le Propriétaire des Murs](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), a été sollicité par LRAR le **[J+31 Mises en demeure](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) non pas en tant que responsable de l'accident, mais comme source d'information : le bail commercial l'oblige à détenir l'attestation d'assurance RC Pro de son locataire (la SAS). À ce jour, l'AR a été retourné signé mais sans réponse sur le fond.
+Enfin, le propriétaire des murs, **[Le Propriétaire des Murs](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md)**, a été sollicité par LRAR le **[J+31 Mises en demeure](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)** non pas en tant que responsable de l'accident, mais comme source d'information : le bail commercial l'oblige à détenir l'attestation d'assurance RC Pro de son locataire (la SAS). À ce jour, l'AR a été retourné signé mais sans réponse sur le fond.
 <hr><hr>
 
 ## V — DÉMARCHES ET PROCÉDURES ENGAGÉES
 
 À ce jour, une plainte officielle a été déposée et un dossier de recours contre tiers a été ouvert auprès de la CPAM.
 
-Sur le plan civil, plusieurs mises en demeure ont été expédiées le **[J+31 Mises en demeure](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) pour identifier l'assureur et solliciter une provision :
+Sur le plan civil, plusieurs mises en demeure ont été expédiées le **[J+31 Mises en demeure](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)** pour identifier l'assureur et solliciter une provision :
 
-- Courrier à l'attention du Président **[Le Président de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) ;
+- Courrier à l'attention du Président **[Le Président de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** ;
 
-- Courrier à la Directrice Générale **[La Directrice Générale de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) ;
+- Courrier à la Directrice Générale **[La Directrice Générale de l'Exploitation](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md)** ;
 
 - Demande de communication d'assurance au **[propriétaire des murs]** ;
 
@@ -166,7 +166,7 @@ La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jour
 > [Article 835](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
 > **Code de procédure civile > Partie législative > Livre II > Titre III > Chapitre Ier.[^9]**
 
-Une étape cruciale est fixée au **[J+167 Expertise UMJ](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) pour l'expertise médicale à l'UMJ de **[La Métropole Régionale](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), qui permettra de chiffrer définitivement les préjudices (actuellement estimés à **~90 000 €**).
+Une étape cruciale est fixée au **[J+167 Expertise UMJ](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-167-expertise-umj.md)** pour l'expertise médicale à l'UMJ de **[La Métropole Régionale](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)**, qui permettra de chiffrer définitivement les préjudices (actuellement estimés à **~90 000 €**).
 
 À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation (Article 2226 du Code civil).
 
@@ -181,9 +181,9 @@ Bien que le dossier soit solide, certains points bloquants persistent, notamment
 
 Néanmoins, l'action directe et la responsabilité personnelle des dirigeants constituent des leviers puissants pour obtenir une indemnisation juste, estimée globalement à **~90 000 €** sous réserves d'aggravation.
 
-*Synthèse établie pour servir et valoir ce que de droit. © **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques).*
+*Synthèse établie pour servir et valoir ce que de droit. © **[La Victime](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**.*
 
-*Q15 : Que se passe-t-il si **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) est mise en liquidation ou radiée pendant la procédure ?*
+*Q15 : Que se passe-t-il si **[L'Exploitant du Commerce (La SAS)](../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** est mise en liquidation ou radiée pendant la procédure ?*
 
 *Réponse : La personnalité morale de la société survit pour les besoins de la liquidation (Art. L. 237-2 du Code de commerce).
 

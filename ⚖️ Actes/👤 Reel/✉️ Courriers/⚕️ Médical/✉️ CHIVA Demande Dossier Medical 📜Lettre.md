@@ -24,15 +24,15 @@ jx: J+50
 # DEMANDE DE DOSSIER MÉDICAL (LOI DU 4 MARS 2002)
 
 [Sébastien GRAZIDE](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)  
-**[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)  
-**[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)  
+**[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**  
+**[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**  
 
 Monsieur le Directeur  
 GHT des Pyrénées Ariégeoises CHIVA  
 Chemin de la Plaine  
 09000 Saint-Jean-de-Verges  
 
-**[La Ville de Résidence de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), le 18 juillet 2026
+**[La Ville de Résidence de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
 
 **Objet : Demande de communication de mon dossier médical personnel (Loi du 4 mars 2002 — article L. 1111-7 du Code de la santé publique)**  
 **N° LRAR : [87500152888336B](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)**
@@ -41,7 +41,7 @@ Monsieur le Directeur,
 
 En application des dispositions de l'article L. 1111-7 du Code de la santé publique (Loi Kouchner du 4 mars 2002), je sollicite par la présente la communication de l'intégralité de mon dossier médical relatif à mon admission aux urgences de votre établissement le **29 mai 2026**.
 
-J'ai été admis aux urgences le **29 mai 2026** suite à un accident corporel de la main droite survenu dans un commerce de Foix, nécessitant des soins d'urgence de la part du docteur **[Le Médecin en Urgence](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques).
+J'ai été admis aux urgences le **29 mai 2026** suite à un accident corporel de la main droite survenu dans un commerce de Foix, nécessitant des soins d'urgence de la part du docteur **[Le Médecin en Urgence](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-hopital-urgence-medecin.md)**.
 
 Je souhaite recevoir une copie complète de toutes les pièces constituant ce dossier, notamment :
 - Le bulletin d'admission et la fiche de liaison SAMU/Sapeurs-pompiers.

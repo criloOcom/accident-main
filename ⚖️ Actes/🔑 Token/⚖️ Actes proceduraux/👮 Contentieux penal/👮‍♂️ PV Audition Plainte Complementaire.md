@@ -50,26 +50,26 @@ Vu les articles 75 et suivants du Code de procédure pénale,
 Faisant suite au PV initial n°2026/015967 établi le 02/06/2026 au Commissariat de Toulouse Rive Droite,
 
 Constatons que se présente :
-**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (victime plaignante), qui nous informe vouloir déposer une plainte complémentaire suite aux faits dont il a été victime le 29/05/2026.
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** (victime plaignante), qui nous informe vouloir déposer une plainte complémentaire suite aux faits dont il a été victime le 29/05/2026.
 
 Information reçue des droits mentionnés à l'article 10-2 du Code de procédure pénale.
 
-**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) nous déclare :
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** nous déclare :
 
 > « J'ai pris connaissance de mes droits et me réserve la possibilité d'y recourir à tout moment. »
 <hr><hr>
 
 ## II — IDENTITÉ DU DÉCLARANT
 
-> « Je me nomme **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), né(e) le **[Date de naissance de la victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) à **[La Métropole Régionale](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), de nationalité française, exerçant la profession d'informaticien indépendant.
-> Je demeure au **[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
-> Mon numéro de téléphone est le **[Le Téléphone de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes).
-> Mon adresse électronique est : **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes). »
+> « Je me nomme **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, né(e) le **[Date de naissance de la victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-date-naissance.md)** à **[La Métropole Régionale](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-metropole.md)**, de nationalité française, exerçant la profession d'informaticien indépendant.
+> Je demeure au **[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**.
+> Mon numéro de téléphone est le **[Le Téléphone de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)**.
+> Mon adresse électronique est : **[L'Email de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-email.md)**. »
 <hr><hr>
 
 ## III — DÉCLARATION ET DÉPÔT DE PLAINTE COMPLÉMENTAIRE
 
-> « Je me présente à vous aujourd'hui pour déposer une plainte complémentaire faisant suite à ma plainte initiale du 2 juin 2026 ([PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)). Pour rappel, j'ai été gravement blessé à la main droite le 29 mai 2026 dans le salon de coiffure "[**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)", géré par la société [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), situé au **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes). Cette blessure a nécessité une intervention chirurgicale en urgence et a entraîné 55 jours d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
+> « Je me présente à vous aujourd'hui pour déposer une plainte complémentaire faisant suite à ma plainte initiale du 2 juin 2026 ([PV n°2026/015967](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)). Pour rappel, j'ai été gravement blessé à la main droite le 29 mai 2026 dans le salon de coiffure "[**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md)", géré par la société [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md), situé au **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**. Cette blessure a nécessité une intervention chirurgicale en urgence et a entraîné 55 jours d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
 >
 > Depuis mon premier dépôt de plainte, j'ai tenté à de multiples reprises de contacter les gérants de la société [**[Le Nouvel Exploitant (HB BARBER)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-raison-sociale.md) et le propriétaire des murs, afin d'obtenir amiablement les coordonnées de leur assurance responsabilité civile, indispensable pour la prise en charge de mes préjudices.
 >
@@ -87,13 +87,13 @@ Information reçue des droits mentionnés à l'article 10-2 du Code de procédur
 ## IV — CLÔTURE DU PROCÈS-VERBAL
 
 **Mention de l'OPJ :**
-Annexons au présent les documents remis par **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques), soit un courrier de plainte complémentaire et ses annexes justificatives.
+Annexons au présent les documents remis par **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, soit un courrier de plainte complémentaire et ses annexes justificatives.
 
 > « Je souhaite obtenir une copie de mon procès-verbal de dépôt de plainte complémentaire. Je n'ai rien d'autre à ajouter. »
 
 Après lecture faite par lui-même, le déclarant persiste et signe avec nous le présent procès-verbal à quinze heures quinze.
 
 **Le déclarant**
-**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques)
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 
 **L'Officier de Police Judiciaire**

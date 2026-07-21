@@ -35,7 +35,7 @@ jx: J+52
 [06 30 51 67 75](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-telephone.md)
 
 **Commissariat de Police de Foix**
-**[Adresse du Commissariat](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)
+**Adresse du Commissariat**
 [09000](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-code-postal.md) [Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-accident-ville.md)
 
 [Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-ville-residence.md), le 20 juillet 2026
@@ -72,13 +72,13 @@ Dans les jours qui ont suivi l'accident et l'opération, j'ai entrepris diverses
 
 Au moment de cette première plainte, je croyais sincèrement que la société exploitant le salon était la [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md), enseigne apposée sur le lieu et mentionnée par les intervenants. C'est sur cette base que j'ai également adressé, le 29 juin 2026, de premières lettres recommandées avec accusé de réception à :
 
-- la direction de la [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (LRAR n° [87001424863012T](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), revenue NPAI avec la mention « En cours de retour à l'expéditeur » le 20 juillet ;
+- la direction de la [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (LRAR n° 87001424863012T), revenue NPAI avec la mention « En cours de retour à l'expéditeur » le 20 juillet ;
 
-- au président de cette société, [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) (LRAR n° [87001424862879J](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), mise en attente de retrait à Foix RP jusqu'au 21 juillet ;
+- au président de cette société, [Sabir MOUNTASSER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md) (LRAR n° 87001424862879J), mise en attente de retrait à Foix RP jusqu'au 21 juillet ;
 
-- à la directrice générale de cette société, [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (LRAR n° [87001424721856G](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), revenue NPAI le 2 juillet ;
+- à la directrice générale de cette société, [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (LRAR n° 87001424721856G), revenue NPAI le 2 juillet ;
 
-- ainsi qu'au propriétaire bailleur des locaux, [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) (LRAR n° [87001424862462Y](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)), dont l'avis de réception numérique a été signé le 2 juillet, pour lui demander les coordonnées de l'assurance de responsabilité civile de l'exploitant.
+- ainsi qu'au propriétaire bailleur des locaux, [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) (LRAR n° 87001424862462Y), dont l'avis de réception numérique a été signé le 2 juillet, pour lui demander les coordonnées de l'assurance de responsabilité civile de l'exploitant.
 
 Une relance V2 a été adressée le 8 juillet 2026 à la [SAS LES MAUVAIS GARCONS](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md) (LRAR n° `870014282662911`), mise en attente de retrait à Foix RP jusqu'au 28 juillet.
 
@@ -130,15 +130,15 @@ Ces éléments sont de nature à caractériser un risque de disparition ou d'alt
 
 À la suite de la découverte de la SAS HB BARBER, j'ai adressé le 18 juillet 2026 de nouvelles lettres recommandées de mise en demeure afin d'obtenir la communication des coordonnées de leur assureur responsabilité civile professionnelle à :
 
-- La SAS HB BARBER (Siège social) : LRAR n° [87500152771696F](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (`87500152771696F`) ;
+- La SAS HB BARBER (Siège social) : LRAR n° 87500152771696F (`87500152771696F`) ;
 
-- M. [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) (Président, domicile personnel) : LRAR n° [875001528942001](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (`875001528942001`) ;
+- M. [Hamza El Hachemi BERGUIGA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-hb-president-nom.md) (Président, domicile personnel) : LRAR n° 875001528942001 (`875001528942001`) ;
 
-- Mme [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (Directrice Générale, domicile personnel) : LRAR n° [875001528942010](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) (`875001528942010`).
+- Mme [Catherine SORROCHE, dite ANDISSAC](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-dg-nom.md) (Directrice Générale, domicile personnel) : LRAR n° 875001528942010 (`875001528942010`).
 
-De même, j'ai relancé le propriétaire bailleur [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) par une 3e LRAR le 19 juillet 2026 (LRAR n° [87500152910287Q](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — `87500152910287Q`) afin d'obtenir des explications sur les assurances de l'immeuble et la situation d'HB BARBER.
+De même, j'ai relancé le propriétaire bailleur [Romain DELRIEU](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-bailleur-nom.md) par une 3e LRAR le 19 juillet 2026 (LRAR n° 87500152910287Q — `87500152910287Q`) afin d'obtenir des explications sur les assurances de l'immeuble et la situation d'HB BARBER.
 
-Enfin, une demande de dossier médical a été envoyée au GHT des Pyrénées Ariégeoises CHIVA le 18 juillet 2026 (LRAR n° [87500152888336B](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes) — `87500152888336B`).
+Enfin, une demande de dossier médical a été envoyée au GHT des Pyrénées Ariégeoises CHIVA le 18 juillet 2026 (LRAR n° 87500152888336B — `87500152888336B`).
 
 Tous ces plis ont été pris en charge par La Poste les 18 et 19 juillet 2026. Copies de ces lettres et des bordereaux d'envoi sont versées aux pièces de la présente plainte.
 

@@ -56,4 +56,4 @@ L'arrêt d'1 jour est erroné compte tenu de la nature de la blessure (microchir
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-3-premiers-arrets)
+TOKEN MAP → Tokens événementiels (J+)

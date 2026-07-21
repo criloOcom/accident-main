@@ -82,4 +82,4 @@ Dépôt au greffe du Tribunal Judiciaire de **[La Ville de l'Accident]** de l'as
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-32-assignation-refere)
+TOKEN MAP → Tokens événementiels (J+)

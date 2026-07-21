@@ -46,4 +46,4 @@ Foix est la ville où s'est produit l'accident ([J+0 Accident](token-j-0-acciden
 
 ## Source
 
-[TOKEN MAP → Données localisantes / identifiantes](../TOKEN%20MAP.md#token-la-ville-de-l-accident)
+TOKEN MAP → Données localisantes / identifiantes

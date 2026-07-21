@@ -300,8 +300,7 @@ def build_token_regex(token_text: str) -> re.Pattern:
 
 
 def build_token_replacement(token_text: str, anchor: str, tok_map_rel: str) -> str:
-    target_url = url_enc(tok_map_rel) + f"#{anchor}"
-    return f'**[{token_text}]** [↗]({target_url})'
+    return f'**[{token_text}]**'
 
 
 def build_doc_replacement(match: re.Match, target_relpath: str) -> str:

@@ -36,4 +36,4 @@ Dès la désignation notifiée par le BAJ : renseigner nom, barreau, coordonnée
 
 ## Source
 
-[TOKEN MAP → Personnes physiques](../TOKEN%20MAP.md#token-nom-de-l-avocat-de-la-victime)
+TOKEN MAP → Personnes physiques

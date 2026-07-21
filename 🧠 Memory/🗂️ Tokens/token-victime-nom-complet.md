@@ -59,4 +59,4 @@ Victime directe de l'accident corporel du **29 mai 2026** ([J+0 Accident](token-
 
 ## Source
 
-[TOKEN MAP → Personnes physiques](../TOKEN%20MAP.md#token-la-victime)
+TOKEN MAP → Personnes physiques

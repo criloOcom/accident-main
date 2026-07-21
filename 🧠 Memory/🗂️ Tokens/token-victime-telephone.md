@@ -44,4 +44,4 @@ Numéro de contact de la victime, utilisé dans les mentions de coordonnées des
 
 ## Source
 
-[TOKEN MAP → Données localisantes / identifiantes](../TOKEN%20MAP.md#token-le-telephone-de-la-victime)
+TOKEN MAP → Données localisantes / identifiantes

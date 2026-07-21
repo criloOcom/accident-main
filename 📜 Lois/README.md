@@ -60,13 +60,14 @@ Le dossier a été réorganisé pour une meilleure navigation :
 
 ```
 📜 Lois/
-├── 📜 Jurisprudence/README.md          # 29 arrêts de la Cour de cassation
+├── 📜 Jurisprudence/README.md          # 37 arrêts Cass. + 7 décisions CA/TJ
 │   ├── 🏛️ Responsabilité du fait des choses/     # 8 arrêts
 │   ├── 🏛️ Transaction sous réserve d'aggravation/ # 4 arrêts
 │   ├── 🏛️ Réserve d'aggravation/                  # 3 arrêts
 │   ├── 🏛️ Préjudice corporel et incidence prof./   # 5 arrêts
 │   ├── 🏛️ Responsabilité des dirigeants/          # 4 arrêts
-│   ├── 🏛️ Action directe et assurance/            # 4 arrêts
+│   ├── 🏛️ Action directe et assurance/            # 8 arrêts
+│   ├── 🏛️ Jurisprudence du fond (CA-TJ)/          # 7 décisions
 │   ├── 🏛️ Responsabilité du commettant/           # 2 arrêts
 │   └── 🏛️ Mise en danger d'autrui/                # 1 arrêt
 ├── 📒 Code/                  # 11 sous-dossiers
@@ -236,7 +237,7 @@ Le dossier a été réorganisé pour une meilleure navigation :
 ### 📜 Règlements européens
 - [🔗](https://eur-lex.europa.eu/eli/reg/2016/679/oj/fra) [RGPD – Art. 7, 9 et 82](RGPD_Articles7_9_82.md) — Consentement, données sensibles, réparation
 
-## 🏛️ Jurisprudence (Cour de cassation) — 29 arrêts
+## 🏛️ Jurisprudence — 37 arrêts Cass. + 7 décisions CA/TJ
 
 Tous les arrêts sont disponibles dans le dossier [📜 Jurisprudence/README.md](📜 Jurisprudence/README.md)
 
@@ -293,7 +294,7 @@ Tous les arrêts sont disponibles dans le dossier [📜 Jurisprudence/README.md]
 
 - [🔗](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026156720) [11-13.384](%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20des%20dirigeants/11-13.384_CourCassation.md) — Com.
 
-### [🏛️ Action directe et obligation d'assurance (4 arrêts)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
+### [🏛️ Action directe et obligation d'assurance (8 arrêts)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
 - [🔗](https://www.legifrance.gouv.fr/juri/id/JURITEXT000032194983) [14-15.326](%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance/14-15.326_CourCassation.md) — Civ. 3e — Obligation assurance bailleur
 
 - [🔗](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) [19-15.659](%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance/19-15.659_CourCassation.md) — Civ. 2e, 14 mai 2020
@@ -302,6 +303,14 @@ Tous les arrêts sont disponibles dans le dossier [📜 Jurisprudence/README.md]
 
 - [🔗](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) [20-16.463](%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance/20-16.463_CourCassation.md) — Civ. 1re, 8 déc. 2021 — Action directe, dissolution
 
+- [🔗](https://www.legifrance.gouv.fr/juri/id/JURITEXT000047783279) [80-16.679](%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance/80-16.679_CourCassation.md) — Civ. 1re, 10 mars 1982 — Prescription action directe
+
+- [🔗](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770) [20-23.462](%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance/20-23.462_CourCassation.md) — Civ. 2e, 24 nov. 2022 — Action directe subrogatoire CPAM
+
+- [🔗](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) [20-22.100](%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance/20-22.100_CourCassation.md) — Civ. 2e, 24 nov. 2022 — Champ FGAO
+
+- [🔗](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770) [20-19.288](%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Action%20directe%20et%20obligation%20d%27assurance/20-19.288_CourCassation.md) — Civ. 2e, 24 nov. 2022 — Exclusion FGAO accidents corporels
+
 ### [🏛️ Responsabilité du commettant (2 arrêts)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
 - [🔗](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351) [00-82.066](%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Responsabilit%C3%A9%20du%20commettant/00-82.066_CourCassation.md) — Ass. Plén., 14 déc. 2001 — *Cousin*
 
@@ -309,6 +318,9 @@ Tous les arrêts sont disponibles dans le dossier [📜 Jurisprudence/README.md]
 
 ### [🏛️ Mise en danger d'autrui (1 arrêt)](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%94%91%20Token/README.md)
 - [🔗](https://www.legifrance.gouv.fr/juri/id/JURITEXT000029014493) [13-80.849](%F0%9F%93%9C%20Jurisprudence/%F0%9F%8F%9B%EF%B8%8F%20Mise%20en%20danger%20d%27autrui/13-80.849_CourCassation.md) — Crim., 27 mai 2014
+
+### [🏛️ Jurisprudence du fond (CA-TJ) — 7 décisions](📜 Jurisprudence/🏛️ Jurisprudence du fond (CA-TJ)/README.md)
+Décisions de cours d'appel et tribunaux judiciaires sur les thèmes ERP, action directe, transaction et incidence professionnelle.
 
 ## 🔧 Documents techniques
 

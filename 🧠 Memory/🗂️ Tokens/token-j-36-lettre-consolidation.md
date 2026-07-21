@@ -48,4 +48,4 @@ Cette lettre constitue une étape préparatoire à l'expertise médicale ([J+167
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-36-lettre-consolidation)
+TOKEN MAP → Tokens événementiels (J+)

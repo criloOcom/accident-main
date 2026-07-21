@@ -57,4 +57,4 @@ Date d'échéance de la phase amiable — expiration du **délai de réponse de 
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-46-echeance-amiable)
+TOKEN MAP → Tokens événementiels (J+)

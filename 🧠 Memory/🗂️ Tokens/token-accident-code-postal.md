@@ -51,4 +51,4 @@ Ce code postal n'est pas une simple coordonnée : il **fixe la compétence terri
 
 ## Source
 
-[TOKEN MAP → Données localisantes / identifiantes](../TOKEN%20MAP.md#token-code-postal-de-l-accident)
+TOKEN MAP → Données localisantes / identifiantes

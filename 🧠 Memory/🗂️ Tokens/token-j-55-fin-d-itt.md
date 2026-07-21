@@ -54,4 +54,4 @@ Date de fin de l'arrêt de travail total — correspond à la date de fin de la 
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-55-fin-d-itt)
+TOKEN MAP → Tokens événementiels (J+)

@@ -37,14 +37,14 @@ auteur: La Victime
 
 ### II.1 — **1. Contexte initial ([PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))**
 
-Le 29 mai 2026, j'ai été victime d'un accident grave dans le salon de coiffure **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) situé au **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes), entraînant une section nerveuse et tendineuse de la main droite nécessitant une intervention chirurgicale en urgence.
+Le 29 mai 2026, j'ai été victime d'un accident grave dans le salon de coiffure **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** situé au **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**, entraînant une section nerveuse et tendineuse de la main droite nécessitant une intervention chirurgicale en urgence.
 
 Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.
 
 ### II.2 — **2. Obstruction à la justice — Refus de communiquer l'assurance RC**
 
 **Faits constitutifs :**
-- Depuis le 29 mai 2026, malgré de multiples demandes officielles (LRAR 87001424863012T du 29/06/2026), la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) refuse de communiquer les coordonnées de son assurance Responsabilité Civile.
+- Depuis le 29 mai 2026, malgré de multiples demandes officielles (LRAR 87001424863012T du 29/06/2026), la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** refuse de communiquer les coordonnées de son assurance Responsabilité Civile.
 
 - Cette omission empêche l'exercice de mon droit à réparation prévu par l'**article L. 124-3 du Code des assurances**.
 
@@ -115,7 +115,7 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 ### II.4 — **4. Société fantôme — Courriers retournés NPAI malgré l'immatriculation**
 
 **Faits constitutifs :**
-- Les courriers recommandés adressés à la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) (**[SIREN de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) à son siège social officiel (**[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) sont systématiquement retournés avec la mention "NPAI — Défaut d'adresse".
+- Les courriers recommandés adressés à la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** (**[SIREN de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)**) à son siège social officiel (**[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**) sont systématiquement retournés avec la mention "NPAI — Défaut d'adresse".
 
 - Pourtant, les registres officiels (RNE/INPI) confirment que la société est toujours **active** à cette adresse, sans modification de siège.
 
@@ -133,7 +133,7 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 ### II.5 — **5. Risque de disparition — Capital de 200 € et 0 salarié**
 
 **Faits constitutifs :**
-- La SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) a un capital social de seulement 200 € et déclare 0 salarié.
+- La SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** a un capital social de seulement 200 € et déclare 0 salarié.
 
 - Cette structure financière précaire suggère un **risque élevé de dissolution frauduleuse** pour échapper aux responsabilités civiles et pénales.
 
@@ -233,7 +233,7 @@ Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../
 
 ### V.4 — **Si l'OPJ te reçoit en audition — amorce**
 
-> *« Bonjour Madame/Monsieur l'officier. Je suis [Mon nom], victime d'un accident grave le 29 mai au salon **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales). J'ai déjà un PV (2026/015967). Je viens pour une plainte complémentaire, parce que depuis, la société refuse de communiquer son assurance et ne répond à aucun courrier. Et surtout, les vidéos de surveillance risquent d'être écrasées d'un jour à l'autre si rien n'est fait. »* <br>
+> *« Bonjour Madame/Monsieur l'officier. Je suis [Mon nom], victime d'un accident grave le 29 mai au salon **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)**. J'ai déjà un PV (2026/015967). Je viens pour une plainte complémentaire, parce que depuis, la société refuse de communiquer son assurance et ne répond à aucun courrier. Et surtout, les vidéos de surveillance risquent d'être écrasées d'un jour à l'autre si rien n'est fait. »* <br>
 <hr><hr>
 
 ## VI — ⚖️ **FONDEMENTS JURIDIQUES**

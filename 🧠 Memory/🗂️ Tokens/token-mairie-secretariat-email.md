@@ -42,4 +42,4 @@ Adresse email de secrétariat de la mairie, canal de contact général pour les 
 
 ## Source
 
-[TOKEN MAP → Personnes morales (suite)](../TOKEN%20MAP.md#token-l-email-du-secretariat-de-la-mairie)
+TOKEN MAP → Personnes morales (suite)

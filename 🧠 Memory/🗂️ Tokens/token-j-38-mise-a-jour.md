@@ -78,4 +78,4 @@ Ce token est le **symbole de la coordination des actes du J+38** — il regroupe
 
 ## Source
 
-[TOKEN MAP → Tokens événementiels (J+)](../TOKEN%20MAP.md#token-j-38-mise-a-jour)
+TOKEN MAP → Tokens événementiels (J+)
