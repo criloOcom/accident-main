@@ -1,6 +1,6 @@
 ---
 title: "✉️✉️ CPAM 🔄Relance Haute-Garonne — Rectification d'Identité de la Société Responsable"
-description: "Courrier formel à la CPAM Haute-Garonne demandant la substitution de l'identité de l'employeur responsable (SAS HB BARBER au lieu de SAS Les Mauvais Garçons) suite à la découverte de l'exploitation réelle au jour du sinistre."
+description: "Courrier formel à la CPAM Haute-Garonne demandant la substitution de l'identité de l'employeur responsable (SAS HB BARBER au lieu de **[L'Exploitant du Commerce (La SAS)]**) suite à la découverte de l'exploitation réelle au jour du sinistre."
 type: courrier
 date: 2026-07-18
 tags:

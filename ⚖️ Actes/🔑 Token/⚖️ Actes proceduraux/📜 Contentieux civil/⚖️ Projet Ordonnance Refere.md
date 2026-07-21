@@ -105,7 +105,7 @@ Les défendeurs, régulièrement cités par procès-verbal de recherches infruct
 
 **Considérant** que le préjudice corporel de **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**, nécessairement provisoire en l'absence de consolidation, peut être évalué comme suit à ce stade :
 
-- Pertes de gains professionnels actuels (PGPA) pour 55 jours d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) : **1 355 €** ;
+- Pertes de gains professionnels actuels (PGPA) pour 55 jours d'[arrêt de travail](%E2%9A%96%EF%B8%8F%20Actes/Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) : **[Finance PGPA]** ;
 
 - Frais médicaux et paramédicaux (chirurgie 790,23 €, soins de kinésithérapie) : **4 000 €** ;
 

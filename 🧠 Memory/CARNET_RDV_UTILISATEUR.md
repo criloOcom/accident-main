@@ -1440,7 +1440,7 @@ responsabilité financière de la SAS LES MAUVAIS GARCONS et de son assureur.
 Numéro de dossier CPAM : 31727387 (enregistré le 03/06/2026). (L'attestation officielle de dépôt de la CPAM
 est également jointe à ce pli).
 3. Évolution Médicale (Gravité des lésions)
-L'intervention chirurgicale d'urgence subie le 31 mai 2026 à l'unité SOS Main (Clinique de l'Union) par le Dr Djerbi a
+L'intervention chirurgicale d'urgence subie le 30 mai 2026 à l'unité SOS Main (Clinique de l'Union) par le Dr Djerbi a
 mis en évidence des lésions particulièrement lourdes qui confirment le manquement flagrant à la sécurité du public
 (vasque en céramique déjà brisée présentant des arêtes tranchantes non protégées) :
 Section partielle du tendon fléchisseur superficiel (Suture 6 brins).
