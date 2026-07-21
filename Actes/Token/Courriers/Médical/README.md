@@ -1,3 +1,9 @@
+---
+title: "Index — Médical (Token)"
+description: "Index du dossier Médical"
+type: readme
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › Médical*
 <hr>

@@ -1,3 +1,9 @@
+---
+title: "Index — Propriétaire (Token)"
+description: "Index du dossier Propriétaire"
+type: readme
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › Propriétaire*
 <hr>

@@ -1,3 +1,9 @@
+---
+title: "Index des statuts"
+description: "Ce dossier contient un fichier par statut, listant tous les documents concernés avec leurs liens croisés."
+type: readme
+---
+
 <!-- Breadcrumb -->
 *[🏠](../README.md) › Status*
 <hr>

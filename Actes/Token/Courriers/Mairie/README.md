@@ -1,3 +1,9 @@
+---
+title: "Index — Mairie (Token)"
+description: "Index du dossier Mairie"
+type: readme
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › Mairie*
 <hr>

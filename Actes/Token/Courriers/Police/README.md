@@ -1,3 +1,9 @@
+---
+title: "Index — Police (Token)"
+description: "Index du dossier Police"
+type: readme
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › Police*
 <hr>
@@ -11,7 +17,7 @@
 
 - [Police - Note Erratum Identité.md](Police%20-%20Note%20Erratum%20Identit%C3%A9.md)
 
-- [Police - Note Frise Chronologique.md](Note%20-%20Note%20-%20Note%20-%20Police%20-%20Note%20Frise%20Chronologique.md)
+- [Police - Note Frise Chronologique.md](Police%20-%20Note%20Frise%20Chronologique.md)
 
 - [Police - Note Personnelle.md](Police%20-%20Note%20Personnelle.md)
 

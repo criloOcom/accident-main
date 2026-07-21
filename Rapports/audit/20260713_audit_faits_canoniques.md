@@ -40,6 +40,7 @@ Fichiers scannés : 141
 - Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains certificats ont cette erreur matérielle.
 
 - Extrait : `Au moment de cette première plainte, je croyais sincèrement que la société exploitant le salon était la **[L'Exploitant du Commerce (La SAS)](../../../../%EF%BF%BD%60%0A%0A%23%23%20Actes/Token/Courriers/Police/%E2%9C%89%EF%B8%8F%20Police%20Plainte%20Complementaire%20Contentieux.md%20%28ligne%20238) — ÉCART DATE/DOIGT/CPAM
+
 - Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains certificats ont cette erreur matérielle.
 
 - Extrait : `2. Courriers recommandés du 29 juin 2026 (LMG, dirigeants et bailleur) et nouveaux courriers de mise en demeure du 18 juillet 2026 (SAS HB BARBER, Président et `
@@ -63,6 +64,7 @@ Fichiers scannés : 141
 - Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains certificats ont cette erreur matérielle.
 
 - Extrait : `Le **16 juillet 2026**, j'ai reçu un courriel de **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitatio%60%0A%0A%23%23%20Actes/Token/Actes_proceduraux/Contentieux_penal/Plainte%20Compl%C3%A9mentaire%20-%20PV%20Audition%20Foix.md%20%28ligne%2065) — ÉCART DATE/DOIGT/CPAM
+
 - Date accident erronée : '29 juin 2026' (réel : 29 mai 2026). Certains certificats ont cette erreur matérielle.
 
 - Extrait : `Premièrement, face au silence de l'exploitant le jour de l'accident, j'ai envoyé des lettres recommandées avec accusé de réception (LRAR) le 29 juin 2026 aux di`

@@ -1,3 +1,9 @@
+---
+title: "Index — Administrations (Token)"
+description: "Index du dossier Administrations"
+type: readme
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › Administrations*
 <hr>
@@ -21,15 +27,11 @@
 
 - [DDETS - Signalement.md](DDETS%20-%20Signalement.md)
 
-- [Préfecture - Signalement.md](Pr%C3%A9fecture%20-%20Signalement.md)
-
 - [CODAF - Signalement - Relance.md](CODAF%20-%20Signalement%20-%20Relance.md)
 
 - [SDIS - Signalement.md](SDIS%20-%20Signalement.md)
 
 - [SIE - Signalement.md](SIE%20-%20Signalement.md)
-
-- [SIE URSSAF - Mutualisation - Courrier.md](SIE%20URSSAF%20-%20Mutualisation%20-%20Courrier.md)
 
 - [URSSAF - Signalement.md](URSSAF%20-%20Signalement.md)
 

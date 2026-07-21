@@ -1,3 +1,9 @@
+---
+title: "Index — Archivé (Token)"
+description: "Index du dossier Archivé"
+type: readme
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › Archivé*
 <hr>

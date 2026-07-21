@@ -1,3 +1,9 @@
+---
+title: "Index — Courriers/Archivé (Versions Réelles)"
+description: "Index du dossier Archivé"
+type: readme
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › Archivé*
 <hr>

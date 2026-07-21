@@ -1,3 +1,9 @@
+---
+title: "Index — SAS_&_Salon (Token)"
+description: "Index du dossier SAS_&_Salon"
+type: readme
+---
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › SAS & Salon*
 <hr>
@@ -16,10 +22,6 @@
 - [SAS HB BARBER - Directrice Générale - Courrier.md](SAS%20HB%20BARBER%20-%20Directrice%20G%C3%A9n%C3%A9rale%20-%20Courrier.md)
 
 - [SAS HB BARBER - Président - Courrier.md](SAS%20HB%20BARBER%20-%20Pr%C3%A9sident%20-%20Courrier.md)
-
-- [SAS - HB BARBER - Courrier.md](SAS%20-%20HB%20BARBER%20-%20Courrier.md)
-
-- [SAS - Courrier.md](SAS%20-%20Courrier.md)
 
 - [SAS - Président - Courrier.md](SAS%20-%20Pr%C3%A9sident%20-%20Courrier.md)
 
