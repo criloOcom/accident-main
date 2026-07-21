@@ -73,6 +73,10 @@ jx: J+39
 
 - **[J+31 Mises en demeure](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) — Mise en demeure de la SAS **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-morales) (LRAR n° **[N° LRAR Exploitant](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : Demande de communication de l'attestation d'assurance RC Pro et de la somme de 5 000 € à titre de provision. Distribué. Échéance au **[J+46 Échéance amiable](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-46-echeance-amiable.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels).
 
+### PIÈCE N° 10b
+
+- **08/07/2026** — LRAR [relance V2 dirigeants](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20Dirigeants%20%F0%9F%94%84Relance.md) : Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf). Preuve du renouvellement des demandes et de l'obstruction.
+
 ### PIÈCE N° 11
 
 - **[J+31 Mises en demeure](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#tokens-evenementiels) — Mise en demeure de **[Le Président de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-president-nom.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) (LRAR n° **[N° LRAR Président](../../../../%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#donnees-localisantes)) : Mise en cause personnelle pour faute détachable (absence d'assurance, défaut de sécurité). Distribué.
@@ -238,10 +242,6 @@ jx: J+39
 ### PIÈCE N° 42
 
 - **01/05/2026** — Mémo indemnités journalières CPAM (Réf. CPAM 31_2399_05/26).
-
-### PIÈCE N° 44
-
-- [Rapport d'évaluation indemnitaire Dintilhac](../../../../%F0%9F%93%8A%20Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md) — Rapport d'évaluation indemnitaire barémique (méthode Dintilhac) du 13 juillet 2026 : évaluation globale des préjudices corporels de **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — [↗](%F0%9F%A7%A0%20Memory/TOKEN%20MAP.md#personnes-physiques) selon deux scénarios (DFP 10 % : ≈ 126 000 € ; DFP 15 % : ≈ 161 500 €), avant recours CPAM.
 
 ### PIÈCE N° 43
 
