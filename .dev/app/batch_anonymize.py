@@ -33,6 +33,16 @@ REPLACEMENTS = [
     ("Grazide", "[La Victime]"),
     ("GRAZIDE", "[La Victime]"),
 
+    # --- Exploitation ---
+    ("SAS LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
+    ("LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
+    ("Mountasser SABIR", "[Le Président de la SAS]"),
+    ("SABIR", "[Le Président de la SAS]"),
+    ("Sabir", "[Le Président de la SAS]"),
+    ("Catherine ANDISSAC", "[La Directrice Générale de la SAS]"),
+    ("ANDISSAC", "[La Directrice Générale de la SAS]"),
+    ("Andissac", "[La Directrice Générale de la SAS]"),
+
     # --- Victim identifiers ---
     ("sebastien.grazide@gmail.com", "[L'Email de la Victime]"),
     ("SIREN : 500 474 457", "[L'Identifiant Professionnel de la Victime]"),
