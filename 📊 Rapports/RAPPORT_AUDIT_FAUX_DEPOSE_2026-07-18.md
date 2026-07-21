@@ -461,7 +461,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md`
+- **Fichier** : `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
 
 - **Ligne** : 62
 
@@ -713,7 +713,7 @@ type: rapport
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md`
+- **Fichier** : `⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md`
 
 - **Ligne** : 62
 

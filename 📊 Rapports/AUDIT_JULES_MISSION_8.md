@@ -65,7 +65,7 @@ Voici le détail de la checklist d'audit :
 
 - [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ SDIS - Signalement.md** : [MAJEUR] l. 82 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Inspection du Travail - Signalement.md** : [MAJEUR] l. 175 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ DDETS - Signalement.md** : [MAJEUR] l. 175 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
 - [ ] **./⚖️ Actes/🔑 Token/✉️ Courriers/🏥 CPAM/✉️ CPAM - Relance.md** : [MAJEUR] l. 84 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
@@ -93,7 +93,7 @@ Voici le détail de la checklist d'audit :
 
 - [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ SDIS - Signalement.md** : [MAJEUR] l. 82 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
-- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Inspection du Travail - Signalement.md** : [MAJEUR] l. 175 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
+- [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ DDETS - Signalement.md** : [MAJEUR] l. 175 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 
 - [ ] **./⚖️ Actes/👤 Reel/✉️ Courriers/🏥 CPAM/✉️ CPAM - Relance.md** : [MAJEUR] l. 84 — Date du PV erronée (1er juin au lieu du 2 juin) — Remplacer par 2 juin 2026
 

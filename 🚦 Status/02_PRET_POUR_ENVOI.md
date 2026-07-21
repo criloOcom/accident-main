@@ -36,7 +36,7 @@ Documents finalisés mais sans preuve matérielle de délivrance — statuts fin
 
 - [⚖️ Actes/🔑 Token/✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Tavella%20-%20Courrier%20-%20Relance.md)
 
-- [⚖️ Actes/🔑 Token/✉️ Courriers/09 ✉️ Courrier Inspection Travail.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20du%20Travail%20-%20Signalement.md)
+- [⚖️ Actes/🔑 Token/✉️ Courriers/09 ✉️ Courrier Inspection Travail.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20DDETS%20-%20Signalement.md)
 
 - [⚖️ Actes/🔑 Token/✉️ Courriers/11 ✉️ Courrier INPI.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20INPI%20-%20Signalement.md)
 
@@ -150,7 +150,7 @@ Documents finalisés mais sans preuve matérielle de délivrance — statuts fin
 
 - [⚖️ Actes/👤 Reel/✉️ Courriers/08 ✉️ Courrier Suivi Adjoint Maire.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20Tavella%20-%20Courrier%20-%20Relance.md)
 
-- [⚖️ Actes/👤 Reel/✉️ Courriers/09 ✉️ Courrier Inspection Travail.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20du%20Travail%20-%20Signalement.md)
+- [⚖️ Actes/👤 Reel/✉️ Courriers/09 ✉️ Courrier Inspection Travail.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20DDETS%20-%20Signalement.md)
 
 - [⚖️ Actes/👤 Reel/✉️ Courriers/11 ✉️ Courrier INPI.md](../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20INPI%20-%20Signalement.md)
 

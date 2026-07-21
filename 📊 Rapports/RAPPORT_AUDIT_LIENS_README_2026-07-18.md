@@ -45,7 +45,7 @@ Ces liens pointent vers des fichiers ou tokens qui n'existent pas ou plus à l'e
 
 - **Tokens manquants dans `⚖️ Actes/🔑 Token/` et `👤 Reel/`** :
 
-  - `token-dr-jardon.md` est appelé dans de multiples courriers de mises en demeure et relances (`✉️ Propriétaire - Courrier.md`, `✉️ SAS - Courrier.md`, `✉️🔄 Consolidation.md`, `✉️ Inspection du Travail - Signalement.md`, etc.).
+  - `token-dr-jardon.md` est appelé dans de multiples courriers de mises en demeure et relances (`✉️ Propriétaire - Courrier.md`, `✉️ SAS - Courrier.md`, `✉️🔄 Consolidation.md`, `✉️ DDETS - Signalement.md`, etc.).
 
   - `token-assureur-rc.md` manque dans `Conclusions au Fond - TJ Foix.md` et plusieurs rapports.
 

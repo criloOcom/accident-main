@@ -52,7 +52,7 @@ Détail :
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Conseil Départemental - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ INPI - Immatriculation - Opposition.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ INPI - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Inspection du Travail - Signalement - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ DDETS - Signalement - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ CODAF - Signalement - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ SDIS - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ SIE - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
@@ -80,7 +80,7 @@ Détail :
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Conseil Départemental - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ INPI - Immatriculation - Opposition.md: date=2026-07-09 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ INPI - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Inspection du Travail - Signalement - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ DDETS - Signalement - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ CODAF - Signalement - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ SDIS - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ SIE - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant

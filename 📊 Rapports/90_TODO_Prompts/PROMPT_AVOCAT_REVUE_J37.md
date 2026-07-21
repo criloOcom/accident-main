@@ -128,7 +128,7 @@ Ce courrier fait suite au message de l'adjoint au maire du 1er juin 2026, par le
 
 | Champ | Détail |
 |---|---|
-| **Fichier** | [`✉️ Inspection du Travail - Signalement.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20du%20Travail%20-%20Signalement.md) (09) |
+| **Fichier** | [`✉️ DDETS - Signalement.md`](../../%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20DDETS%20-%20Signalement.md) (09) |
 | **Destinataire** | DDETS de l'Ariège / DREETS Occitanie |
 | **Mode** | LRAR |
 | **Ton** | Formel, technique, juridique |

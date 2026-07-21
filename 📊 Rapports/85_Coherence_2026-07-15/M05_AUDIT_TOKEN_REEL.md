@@ -30,17 +30,17 @@ type: rapport
 
 - [ ] **✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md:60 — Nom réel 'TAVELLA' trouvé dans un fichier Token — Remplacer par le token approprié
 
-- [ ] **✉️ Courriers/🔄 Relances/✉️ Inspection du Travail - Signalement - Relance.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Inspection du Travail - Signalement - Relance.md:34 — Nom réel 'LES MAUVAIS GARÇONS' trouvé dans un fichier Token — Remplacer par le token approprié
+- [ ] **✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md:34 — Nom réel 'LES MAUVAIS GARÇONS' trouvé dans un fichier Token — Remplacer par le token approprié
 
-- [ ] **✉️ Courriers/🔄 Relances/✉️ Inspection du Travail - Signalement - Relance.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Inspection du Travail - Signalement - Relance.md:40 — Nom réel 'LES MAUVAIS GARÇONS' trouvé dans un fichier Token — Remplacer par le token approprié
+- [ ] **✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md:40 — Nom réel 'LES MAUVAIS GARÇONS' trouvé dans un fichier Token — Remplacer par le token approprié
 
-- [ ] **✉️ Courriers/🔄 Relances/✉️ Inspection du Travail - Signalement - Relance.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Inspection du Travail - Signalement - Relance.md:61 — Nom réel 'TAVELLA' trouvé dans un fichier Token — Remplacer par le token approprié
+- [ ] **✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md:61 — Nom réel 'TAVELLA' trouvé dans un fichier Token — Remplacer par le token approprié
 
 - [ ] **✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md:13 — Nom réel 'DJERBI' trouvé dans un fichier Token — Remplacer par le token approprié
 
 - [ ] **✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md:19 — Nom réel 'DJERBI' trouvé dans un fichier Token — Remplacer par le token approprié
 
-- [ ] **✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md:163 — Nom réel 'JARDON' trouvé dans un fichier Token — Remplacer par le token approprié
+- [ ] **✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md:163 — Nom réel 'JARDON' trouvé dans un fichier Token — Remplacer par le token approprié
 
 - [ ] **✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md** : [CRITIQUE] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md:3 — Nom réel 'LES MAUVAIS GARÇONS' trouvé dans un fichier Token — Remplacer par le token approprié
 
@@ -118,7 +118,7 @@ type: rapport
 
 - [ ] **✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md:171 — Token '[N° LRAR Directrice]' non résolu dans un fichier Reel — Dé-anonymiser avec la valeur réelle
 
-- [ ] **✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md:163 — Token '**[Dr JARDON]**' non résolu dans un fichier Reel — Dé-anonymiser avec la valeur réelle
+- [ ] **✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md:163 — Token '**[Dr JARDON]**' non résolu dans un fichier Reel — Dé-anonymiser avec la valeur réelle
 
 - [ ] **✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md** : [MAJEUR] ⚖️ Actes/👤 Reel/✉️ Courriers/⚖️ Contentieux/✉️ Plainte - Complémentaire Commissariat Foix.md:37 — Token '**[Adresse du Commissariat]**' non résolu dans un fichier Reel — Dé-anonymiser avec la valeur réelle
 

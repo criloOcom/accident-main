@@ -30,7 +30,7 @@ Cet audit croise les données de `🧠 Memory/RECADRAGE_NOMENCLATURE.md`, `🧠 
 
 - [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/👮 Police/Guide Note.md:165 — Statut non validé trouvé — Supprimer le statut ou vérifier la trace.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Inspection du Travail - Signalement.md:82 — Statut non validé trouvé — Supprimer le statut ou vérifier la trace.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ DDETS - Signalement.md:82 — Statut non validé trouvé — Supprimer le statut ou vérifier la trace.
 
 - [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/👥 Témoins/Mail Attestation.md:2 — Statut non validé trouvé — Supprimer le statut ou vérifier la trace.
 
@@ -82,7 +82,7 @@ Cet audit croise les données de `🧠 Memory/RECADRAGE_NOMENCLATURE.md`, `🧠 
 
 - [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/✉️ Courriers/👮 Police/Guide Note.md:165 — Statut non validé trouvé — Supprimer le statut ou vérifier la trace.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ Inspection du Travail - Signalement.md:82 — Statut non validé trouvé — Supprimer le statut ou vérifier la trace.
+- [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/✉️ Courriers/🏛️ Administrations/✉️ DDETS - Signalement.md:82 — Statut non validé trouvé — Supprimer le statut ou vérifier la trace.
 
 - [ ] **CRITIQUE** : ⚖️ Actes/👤 Reel/✉️ Courriers/👥 Témoins/Mail Attestation.md:2 — Statut non validé trouvé — Supprimer le statut ou vérifier la trace.
 
@@ -293,7 +293,7 @@ Cet audit croise les données de `🧠 Memory/RECADRAGE_NOMENCLATURE.md`, `🧠 
 
 - [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ CADA - Saisine - Modèle.md:111 — Nom réel leak détecté : 'TAVELLA' — Remplacer par le token.
 
-- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Inspection du Travail - Signalement - Relance.md:67 — Nom réel leak détecté : 'TAVELLA' — Remplacer par le token.
+- [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ DDETS - Signalement - Relance.md:67 — Nom réel leak détecté : 'TAVELLA' — Remplacer par le token.
 
 - [ ] **CRITIQUE** : ⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ CODAF - Signalement - Relance.md:66 — Nom réel leak détecté : 'TAVELLA' — Remplacer par le token.
 

@@ -99,11 +99,11 @@ Total des anomalies : 99
 
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/📝 Procédure/✉️ Consultation - Avocat Jimini.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 36)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Inspection du Travail - Signalement - Relance.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 40)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md` : mention possible de Toulouse au lieu de Foix comme lieu de l'accident (ligne 40)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 50)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 50)
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md` : mention de « débris » (faux : il n'y a pas eu de débris, seulement une cassure préexistante) (ligne 50)
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md` : mention de « débris » (faux : il n'y a pas eu de débris, seulement une cassure préexistante) (ligne 50)
 
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md` : mention d'« effondrement » (faux : la vasque a basculé, elle ne s'est pas effondrée) (ligne 48)
 

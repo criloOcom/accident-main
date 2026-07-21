@@ -13,15 +13,15 @@ tags:
 statut: final
 destinataire: DDETS de l'Ariège — Inspection du Travail
 auteur: La Victime
-reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/Inspection du Travail - Signalement - Relance.md
+reel_path: ../../../👤 Reel/✉️ Courriers/🏛️ Administrations/DDETS - Signalement - Relance.md
 jx: J+47
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ Inspection du Travail - Signalement - Relance*
+*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [✉️ Courriers (Versions Token)](../README.md) › 🏛️ Administrations › ✉️ DDETS - Signalement - Relance*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Note%20-%20Erratum%20Correction%20Identit%C3%A9%20Soci%C3%A9t%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Note%20-%20Erratum%20Correction%20Identit%C3%A9%20Soci%C3%A9t%C3%A9.md).
 
 
 
@@ -33,18 +33,18 @@ jx: J+47
 
 <hr><hr>
 
-**Expéditeur :** **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — **[10 Avenue de Purpan, 31700 Blagnac](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
+**Expéditeur :** **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)** — **[L'Adresse de la Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-adresse.md)**
 **Destinataire :** Madame, Monsieur l'Inspecteur du Travail — DDETS de l'Ariège, Cité Administrative, 2 Rue de la Préfecture, 09000 Foix
 **Date :** [Date d'envoi — À compléter avant impression]
-**Objet :** Demande d'information — Accident corporel du 29 mai 2026 — Salon « **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** » (**[22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**)
+**Objet :** Demande d'information — Accident corporel du 29 mai 2026 — Salon « **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** » (**[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)**)
 
 <hr><hr>
 
 Madame, Monsieur,
 
-Je me permets de vous écrire en ma qualité de **victime directe** d'un accident corporel grave survenu le **29 mai 2026** dans le salon « **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** », **[22 Rue Lafaurie, 09000 Foix](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** (PV de police n°2026/015967 — Commissariat de Toulouse).
+Je me permets de vous écrire en ma qualité de **victime directe** d'un accident corporel grave survenu le **29 mai 2026** dans le salon « **[L'Exploitant du Commerce (La SAS)](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** », **[L'Adresse de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-adresse.md)** (PV de police n°2026/015967 — Commissariat de Toulouse).
 
-Par courriel du **1er juin 2026**, **[Monsieur TAVELLA](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md)**, Adjoint au Maire de Foix, m'a confirmé avoir saisi la Préfecture, laquelle devait **diligenter vos services** et le CODAF afin d'examiner la situation de cet établissement.
+Par courriel du **1er juin 2026**, **[L'Adjoint au Maire de la Commune](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-mairie-adjoint-nom.md)**, Adjoint au Maire de Foix, m'a confirmé avoir saisi la Préfecture, laquelle devait **diligenter vos services** et le CODAF afin d'examiner la situation de cet établissement.
 
 L'accident a consisté en le **basculement** de la vasque en céramique du bac à shampoing sous le poids du préposé, monté physiquement sur l'équipement pour régler le téléviseur, alors que celle-ci était déjà fragilisée par une **cassure préexistante non signalée**. Ma main droite, tendue par réflexe, a heurté cette cassure, me sectionnant le tendon fléchisseur superficiel (FDP), le nerf digital et l'artère collatérale de l'index droit (neurolyse du nerf palmaire). J'ai été opéré en urgence le 30 mai 2026 à la Clinique SOS Main de Toulouse, avec un **[arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours** (consolidation au 1er mars 2027, DFP 12 %).
 
@@ -62,10 +62,10 @@ Je vous remercie par avance de l'attention portée à la présente et reste à v
 
 Veuillez agréer, Madame, Monsieur, l'expression de ma considération distinguée.
 
-**[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+**[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 ## PIECES JOINTES
 
-- **[✉️ Mairie - ERP Tavella - Courrier.md](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel Monsieur TAVELLA (1er juin 2026)
+- **[✉️ Mairie - ERP Tavella - Courrier.md](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel [L'Adjoint au Maire de la Commune] (1er juin 2026)
 
 - **[PV n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
 

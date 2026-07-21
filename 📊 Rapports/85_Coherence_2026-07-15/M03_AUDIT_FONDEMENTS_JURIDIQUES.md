@@ -893,19 +893,19 @@ type: rapport
 
 - [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md:151 — citation incomplète (Code manquant pour l'article 40 dans `Article 40 du Code de proc`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md:142 — citation incomplète (Code manquant pour l'article 40 dans `Article 40 du Code de proc`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md:142 — citation incomplète (Code manquant pour l'article 40 dans `Article 40 du Code de proc`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md:144 — citation incomplète (Code manquant pour l'article 40-1 dans `article 40-1`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md:144 — citation incomplète (Code manquant pour l'article 40-1 dans `article 40-1`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md:145 — citation incomplète (Code manquant pour l'article 40 dans `Article 40 du Code de proc`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md:145 — citation incomplète (Code manquant pour l'article 40 dans `Article 40 du Code de proc`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md:178 — citation incomplète (Code manquant pour l'article 40 dans `Article 40 du Code de proc`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md:178 — citation incomplète (Code manquant pour l'article 40 dans `Article 40 du Code de proc`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md:75 — citation incomplète (Code manquant pour l'article 222-19 dans `article 222-19`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md:75 — citation incomplète (Code manquant pour l'article 222-19 dans `article 222-19`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md:75 — citation incomplète (Code manquant pour l'article 222-20 dans `article 222-20`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md:75 — citation incomplète (Code manquant pour l'article 222-20 dans `article 222-20`) — préciser le code applicable.
 
-- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md:88 — citation incomplète (Code manquant pour l'article 145 dans `art. 145`) — préciser le code applicable.
+- [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md:88 — citation incomplète (Code manquant pour l'article 145 dans `art. 145`) — préciser le code applicable.
 
 - [ ] **⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md** : [MINEUR] ⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md:133 — citation incomplète (Code manquant pour l'article 145 dans `art. 145`) — préciser le code applicable.
 

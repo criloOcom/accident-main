@@ -10,13 +10,13 @@
 
 - [Conseil Départemental - Signalement.md](Conseil%20D%C3%A9partemental%20-%20Signalement.md)
 
+- [DDETS - Signalement - Relance.md](DDETS%20-%20Signalement%20-%20Relance.md)
+
+- [DDETS - Signalement.md](DDETS%20-%20Signalement.md)
+
 - [INPI - Immatriculation - Opposition.md](INPI%20-%20Immatriculation%20-%20Opposition.md)
 
 - [INPI - Signalement.md](INPI%20-%20Signalement.md)
-
-- [Inspection du Travail - Signalement - Relance.md](Inspection%20du%20Travail%20-%20Signalement%20-%20Relance.md)
-
-- [Inspection du Travail - Signalement.md](Inspection%20du%20Travail%20-%20Signalement.md)
 
 - [Préfecture - Signalement.md](Pr%C3%A9fecture%20-%20Signalement.md)
 

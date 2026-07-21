@@ -148,7 +148,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
 
 - **[Mises en demeure LRAR](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Courrier.md)** — Mises en demeure du **[29 juin 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)**
 
-- **[Signalement Inspection du Travail](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20du%20Travail%20-%20Signalement.md)** — Demande d'enquête auprès de la DDETS 09
+- **[Signalement Inspection du Travail](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20DDETS%20-%20Signalement.md)** — Demande d'enquête auprès de la DDETS 09
 
 - **[Rapport d'expertise médicale](../../%F0%9F%93%82%20Preuves%20officielles/20270529%20%E2%9A%96%EF%B8%8F%20Rapport%20Expertise%20M%C3%A9dicale.md)** — Expertise contradictoire du 29 mai 2027 (consolidation J+10 mois, DFP 12 %, SE 4/7)
 

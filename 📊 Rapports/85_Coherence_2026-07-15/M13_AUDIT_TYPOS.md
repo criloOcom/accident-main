@@ -39,11 +39,11 @@ Aucune fuite de PII (identités réelles du `TOKEN MAP.md`) n'a été détectée
 
 L'expression "suite à" est une faute de français (calque administratif). Elle doit être remplacée par "à la suite de".
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Inspection du Travail - Signalement - Relance.md` — ligne 3
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md` — ligne 3
 
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/🔄 DrDJERBI Consolidation ✉️Mail.md` — ligne 32
 
-- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md` — ligne 144
+- [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md` — ligne 144
 
 - [ ] `⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md` — ligne 50
 

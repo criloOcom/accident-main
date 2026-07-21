@@ -81,7 +81,7 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 
 - **[Mises en demeure LRAR](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Constitution%20-%20Partie%20Civile.md)** — Mises en demeure du **[J+31 Mises en demeure](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-31-mises-en-demeure.md)** a la SAS et a ses dirigeants
 
-- **[Signalement Inspection du Travail](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20du%20Travail%20-%20Signalement.md)** — Demande d'enquete aupres de la DDETS 09
+- **[Signalement Inspection du Travail](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20DDETS%20-%20Signalement.md)** — Demande d'enquete aupres de la DDETS 09
 
 - **[Signalement CODAF](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20CODAF%20-%20Signalement.md)** — Saisine du CODAF via la Prefecture de l'Ariege
 

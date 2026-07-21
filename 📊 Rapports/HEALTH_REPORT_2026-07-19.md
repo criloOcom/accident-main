@@ -70,7 +70,7 @@ Détail :
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Mairie - Tavella - Courrier - Relance.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Rectification Identité - Relance.md: date=2026-07-18 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️🔄 Consolidation.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Inspection du Travail - Signalement - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CODAF - Signalement - Relance.md: date=2026-07-15 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md: date=2026-07-08 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ CPAM - Relance.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
@@ -80,7 +80,7 @@ Détail :
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ CODAF - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Conseil Départemental - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
-  • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
+  • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SDIS - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant
   • ⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ SIE - Signalement.md: date=2026-07-05 type=courrier mais calendar_event_id manquant

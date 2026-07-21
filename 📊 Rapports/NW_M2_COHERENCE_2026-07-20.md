@@ -186,7 +186,7 @@ Date: 2026-07-20
 
 - [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/🗄️ Archives/Archive - Stratégie Contentieux Civil.md:183` — SE : Montant incohérent. Attendu 14000 €, trouvé 12000.0 €. Extrait: `| Souffrances Endurées — 4/7 (microchirurgie, rééducation) | 12 000 € |`
 
-- [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ Inspection du Travail - Signalement.md:93` — DFP : Montant incohérent. Attendu 25200 €, trouvé 2100.0 €. Extrait: `- DFP 12 % (point Mornet médian 2 100 € → 25 200 €)`
+- [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/✉️ Courriers/🏛️ Administrations/✉️ DDETS - Signalement.md:93` — DFP : Montant incohérent. Attendu 25200 €, trouvé 2100.0 €. Extrait: `- DFP 12 % (point Mornet médian 2 100 € → 25 200 €)`
 
 - [ ] **MAJEUR** `./⚖️ Actes/🔑 Token/💰 Etudes indemnisation/Note - Évaluation Dintilhac Consolidée.md:324` — SE : Montant incohérent. Attendu 14000 €, trouvé 8000.0 €. Extrait: `**Analyse des écarts :** Notre estimation initiale (8 000 €) était élevée. Glose propose 3 500 € (fourchette 2 000-5 000 €). La jurisprudence admet la limitation suffisante (Cass. 2e civ., 29 mars 2018, n° 17-14.499).`
 

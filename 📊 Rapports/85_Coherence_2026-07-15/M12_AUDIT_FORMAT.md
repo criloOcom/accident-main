@@ -509,7 +509,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ Inspection du Travail - Signalement - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -517,7 +517,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/🔑 Token/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -725,7 +725,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Police - Vidéos - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ Inspection du Travail - Signalement - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ DDETS - Signalement - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🔄 Relances/✉️ SAS - Dirigeants - Courrier - Relance.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -737,7 +737,7 @@ type: rapport
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ INPI - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Inspection du Travail - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ DDETS - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./⚖️ Actes/👤 Reel/✉️ Courriers/🚨 Signalements/✉️ Préfecture - Signalement.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 

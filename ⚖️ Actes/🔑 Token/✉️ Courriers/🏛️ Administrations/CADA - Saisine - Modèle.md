@@ -105,7 +105,7 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération dist
 
 - **[✉️ CODAF - Signalement - Relance.md](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20CODAF%20-%20Signalement%20-%20Relance.md)** — Courrier n°41 — Préfecture de l'Ariège
 
-- **[✉️ Inspection du Travail - Signalement - Relance.md](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20Inspection%20du%20Travail%20-%20Signalement%20-%20Relance.md)** — Courrier n°42 — DDETS / Inspection du travail
+- **[✉️ DDETS - Signalement - Relance.md](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/%E2%9C%89%EF%B8%8F%20DDETS%20-%20Signalement%20-%20Relance.md)** — Courrier n°42 — DDETS / Inspection du travail
 
 - Copie des réponses reçues (si refus exprès) — **À VERSER**
 

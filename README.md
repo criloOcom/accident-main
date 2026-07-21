@@ -61,7 +61,7 @@ Durant la même semaine, expédie par Lettre Recommandée avec Avis de Réceptio
 * **Signalement Inspection du Travail** :
 
   * *Objet* : Dénonciation du défaut de déclaration d'accident du travail grave concernant un préposé.
-  * *Document à envoyer* : [✉️ Inspection du Travail - Signalement.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/Inspection%20du%20Travail%20-%20Signalement.md)
+  * *Document à envoyer* : [✉️ DDETS - Signalement.md](%E2%9A%96%EF%B8%8F%20Actes/%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Administrations/DDETS%20-%20Signalement.md)
   * *Destinataire* : Inspecteur du Travail (DDETSPP de l'Ariège, 9 Rue Lieutenant Paul Delpech, 09000 Foix).
 
 ---

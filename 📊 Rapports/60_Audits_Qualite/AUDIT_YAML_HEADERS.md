@@ -152,7 +152,7 @@ tags:
 | `✉️ CPAM - Relance.md` | `[Adresse à compléter]` |
 | `✉️ Police - Vidéos - Relance.md` | `[Adresse à compléter]` |
 | `✉️🔄 Consolidation.md` | `[Adresse à compléter]` |
-| `✉️ Inspection du Travail - Signalement - Relance.md` | `[Date d'envoi — À compléter]` |
+| `✉️ DDETS - Signalement - Relance.md` | `[Date d'envoi — À compléter]` |
 | `✉️ CODAF - Signalement - Relance.md` | `[Date d'envoi — À compléter]` |
 | `✉️ INPI - Signalement.md` | `[Adresse à compléter]` |
 | `✉️ Préfecture - Signalement.md` | `[Adresse à compléter]` |
