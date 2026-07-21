@@ -34,8 +34,6 @@ Ces fichiers mentionnent par erreur `19 mai 2026` (date d'immatriculation) comme
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER President 📜Lettre.md` : l. 54 — Date accident erronée : '19 mai 2026' (réel : 29 mai 2026).
 - [ ] **CRITIQUE** `⚖️ Actes/🔑 Token/✉️ Courriers/🏢 SAS & Salon/✉️ SAS HB BARBER Societe 📜Lettre.md` : l. 78 — Date accident erronée : '19 mai 2026' (réel : 29 mai 2026).
 
-
-
 ---
 
 ## ✅ Éléments vérifiés et conformes
