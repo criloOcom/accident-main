@@ -9,7 +9,7 @@ auteur: La Victime
 statut: brouillon
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [💰 Études d'Indemnisation](./README.md) › Protocole Transactionnel Dintilhac 20260713*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Etudes indemnisation](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

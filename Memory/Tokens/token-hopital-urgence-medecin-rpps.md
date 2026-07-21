@@ -6,7 +6,7 @@ date: FIXME
 status: brouillon
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-hopital-urgence-medecin-rpps*
+*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

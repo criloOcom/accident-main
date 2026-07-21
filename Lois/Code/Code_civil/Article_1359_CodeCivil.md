@@ -6,6 +6,11 @@ source: "Légifrance – Code civil"
 url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042311/"
 ---
 
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code civil](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # Article 1359 – Preuve par écrit des actes juridiques
 
 > L'acte juridique portant sur une somme ou une valeur excédant un montant fixé par décret doit être prouvé par écrit sous signature privée ou authentique.

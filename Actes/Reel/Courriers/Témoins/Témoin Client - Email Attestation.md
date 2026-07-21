@@ -19,8 +19,7 @@ source: local
 jx: J+38
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [Courriers (Versions Token)](../README.md) › Témoins › ✉️ Témoin Client - Email Attestation*
-<!-- Destinataire -->
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Témoins](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 <!-- /Destinataire -->

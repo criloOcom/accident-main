@@ -4,7 +4,7 @@ description: "Dossier contenant les articles du Code pénal (9 articles)."
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › Code_pénal*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › Code pénal*
 <hr>
 <!-- /Breadcrumb -->
 

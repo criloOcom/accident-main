@@ -6,7 +6,7 @@ statut: preparation
 date: FIXME
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports et Analyses](./README.md) › 50 QUESTIONS OPENCODE AUDIT INVERSE*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

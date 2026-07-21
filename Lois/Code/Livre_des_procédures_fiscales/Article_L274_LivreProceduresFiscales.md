@@ -9,7 +9,7 @@ code: Livre des procédures fiscales
 article: L274
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › [Livre_des_procédures_fiscales](./README.md) › Article L274 LivreProceduresFiscales*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Livre des procédures fiscales](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

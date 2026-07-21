@@ -5,7 +5,7 @@ description: "Mise en conformité de la navigation : toute citation de dossier/f
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [60_Audits_Qualite — Audits internes et qualité](./README.md) › RAPPORT NAVIGATION CITATIONS 20260711*
+*[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -4,7 +4,7 @@ description: "Décisions des cours d'appel et tribunaux judiciaires sur la respo
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Jurisprudence](../README.md) › Jurisprudence_du_fond_(CA-TJ)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › Jurisprudence du fond (CA-TJ)*
 <hr>
 <!-- /Breadcrumb -->
 

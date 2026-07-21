@@ -10,7 +10,7 @@ article: L8221-1
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › [Code_du_travail](./README.md) › Article L8221-1 CodeTravail*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code du travail](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

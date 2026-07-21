@@ -5,7 +5,7 @@ description: "Analyse de la cohérence du dossier suite aux découvertes terrain
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports et Analyses](./README.md) › RAPPORT AUDIT HB BARBER 2026-07-18*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

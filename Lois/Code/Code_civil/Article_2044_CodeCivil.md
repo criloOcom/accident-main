@@ -6,6 +6,11 @@ source: "Légifrance – Code civil"
 url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033458766/"
 ---
 
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code civil](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # Article 2044 – Définition de la transaction
 
 > La transaction est un contrat par lequel les parties, par des concessions réciproques, terminent une contestation née, ou préviennent une contestation à naître.

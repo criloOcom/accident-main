@@ -8,7 +8,7 @@ code: Jurisprudence
 article: 1242 C. civ. ; L. 123-2 C. com.
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Jurisprudence](../README.md) › [Jurisprudence_du_fond_(CA-TJ)](./README.md) › TJ Nanterre 19/08999*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › [Jurisprudence du fond (CA-TJ)](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

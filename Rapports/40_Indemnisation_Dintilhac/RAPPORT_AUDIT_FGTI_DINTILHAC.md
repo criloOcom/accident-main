@@ -5,7 +5,7 @@ description: "Date :** 10 juillet 2026"
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [40_Indemnisation_Dintilhac — Indemnisation et barèmes](./README.md) › RAPPORT AUDIT FGTI DINTILHAC*
+*[🏠](../../README.md) › [Rapports](../README.md) › [40 Indemnisation Dintilhac](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

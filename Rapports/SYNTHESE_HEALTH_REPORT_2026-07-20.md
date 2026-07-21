@@ -5,6 +5,11 @@ type: rapport
 date: 2026-07-20
 ---
 
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [Rapports](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # Synthèse du Rapport de Santé (20 Juillet 2026)
 
 L'exécution du script d'audit `.dev/app/health_report.py` a relevé un total de **2 échecs critiques** et **1 avertissement**.

@@ -5,7 +5,7 @@ real_value: "Saint-Jean"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-hopital-sosmain-ville*
+*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

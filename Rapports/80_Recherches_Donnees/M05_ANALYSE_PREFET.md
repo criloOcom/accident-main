@@ -5,6 +5,11 @@ date: 2026-07-21
 type: rapport
 ---
 
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [Rapports](../README.md) › [80 Recherches Donnees](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # Analyse des manquements aux obligations de sécurité (ERP) - Salon de coiffure
 
 ## 1. Pouvoirs de police du maire

@@ -9,7 +9,7 @@ code: Code de procédure civile
 article: 202
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › [Code de procédure civile](./README.md) › Article 202 CodeDeProcedureCivile*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure civile](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

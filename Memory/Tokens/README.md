@@ -4,7 +4,7 @@ description: "83 fiches enrichies (66 identité + 17 financiers), une par token.
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › Tokens*
+*[🏠](../../README.md) › [🧠 Memory](../README.md) › Tokens*
 <hr>
 <!-- /Breadcrumb -->
 

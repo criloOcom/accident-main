@@ -4,7 +4,7 @@ description: "README de la pièce Dr DJERBI MAIL"
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [Preuves_officielles](../README.md) › 20260619_DrDJERBI_MAIL*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › 20260619 DrDJERBI MAIL*
 <hr>
 <!-- /Breadcrumb -->
 

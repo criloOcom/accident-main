@@ -4,7 +4,7 @@ description: "Dossier contenant les articles du Code de commerce cités dans les
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › Code_commerce*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › Code commerce*
 <hr>
 <!-- /Breadcrumb -->
 

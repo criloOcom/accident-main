@@ -9,7 +9,7 @@ code: Code pénal
 article: 121-3
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › [Code penal](./README.md) › Article 121-3 Code Legifrance*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code pénal](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

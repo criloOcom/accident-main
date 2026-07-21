@@ -14,7 +14,7 @@ destinataire: Dossier / Equipe Juridique
 auteur: Avocat spécialiste en réparation du préjudice corporel
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [40_Indemnisation_Dintilhac — Indemnisation et barèmes](./README.md) › RAPPORT EVALUATION DINTILHAC 2026-07-14*
+*[🏠](../../README.md) › [Rapports](../README.md) › [40 Indemnisation Dintilhac](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

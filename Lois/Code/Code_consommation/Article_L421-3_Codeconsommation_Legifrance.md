@@ -9,7 +9,7 @@ code: Code de la consommation
 article: L421-3
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › [Code de la consommation](./README.md) › Article L421-3 Codeconsommation Legifrance*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code consommation](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

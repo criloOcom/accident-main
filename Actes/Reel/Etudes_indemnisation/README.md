@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › Etudes indemnisation*
+<hr>
+<!-- /Breadcrumb -->
+
 # Index — Etudes_indemnisation (Versions Réelles)
 
 - [Note - Stratégique FGTI CIVI.md](Note%20-%20Strat%C3%A9gique%20FGTI%20CIVI.md)

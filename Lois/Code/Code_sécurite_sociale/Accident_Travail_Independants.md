@@ -6,6 +6,11 @@ source: "Légifrance – Code de la sécurité sociale"
 description: "Synthèse des textes applicables aux travailleurs indépendants en matière d'accident du travail et maladies professionnelles."
 ---
 
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code sécurite sociale](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # Régime AT/MP des travailleurs indépendants
 
 ## Références principales

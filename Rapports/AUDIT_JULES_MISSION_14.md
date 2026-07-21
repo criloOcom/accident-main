@@ -5,7 +5,7 @@ type: rapport
 date: "2026-07-20"
 ---
 <!-- Breadcrumb -->
-<a href="../README.md">Retour</a>
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

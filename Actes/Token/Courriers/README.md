@@ -1,10 +1,11 @@
 ---
 title: "📨 Courriers — Version Token"
+breadcrumb: "📨 Courriers"
 description: "Correspondance avec les tiers (administrations, assurances, justice, police, etc.) — version anonymisée."
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › Courriers*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › 📨 Courriers*
 <hr>
 <!-- /Breadcrumb -->
 

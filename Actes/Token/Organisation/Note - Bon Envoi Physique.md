@@ -15,7 +15,7 @@ reel_path: ../../Reel/Organisation/Note - Bon Envoi Physique.md
 jx: J+38
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [Organisation](./README.md) › Note - Bon Envoi Physique*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

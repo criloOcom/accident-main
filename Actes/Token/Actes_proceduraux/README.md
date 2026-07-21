@@ -1,10 +1,11 @@
 ---
 title: "⚖️ Actes procéduraux — Version Token"
+breadcrumb: "⚖️ Actes procéduraux"
 description: "Actes juridiques (contentieux civil, contentieux pénal) — version anonymisée."
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › Actes procéduraux*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › ⚖️ Actes procéduraux*
 <hr>
 <!-- /Breadcrumb -->
 

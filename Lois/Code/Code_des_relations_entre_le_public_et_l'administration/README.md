@@ -4,7 +4,7 @@ description: "Dossier contenant les articles du CRPA (1 article)."
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › Code_des_relations_entre_le_public_et_l'administration*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › Code des relations entre le public et l'administration*
 <hr>
 <!-- /Breadcrumb -->
 

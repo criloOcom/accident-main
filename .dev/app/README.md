@@ -4,7 +4,7 @@ description: "Ce dossier contient les scripts fonctionnels utilisés pour le tra
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › app*
+*[🏠](../../README.md) › [🛠️ Dev](../README.md) › app*
 <hr>
 <!-- /Breadcrumb -->
 

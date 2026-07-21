@@ -4,7 +4,7 @@ description: "| Action | Détail | Documents nécessaires | Destinataire | Statu
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › PLAN ACTION B*
+*[🏠](../README.md) › [🧠 Memory](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

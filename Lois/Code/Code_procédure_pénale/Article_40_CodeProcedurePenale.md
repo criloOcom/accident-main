@@ -9,7 +9,7 @@ code: Code de procédure pénale
 article: 40
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › [Code de procédure pénale](./README.md) › Article 40 CodeProcedurePenale*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure pénale](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

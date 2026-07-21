@@ -4,7 +4,7 @@ description: "Token :** `**[Finance Facture Chirurgie]**`"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-finance-facture-chirurgie*
+*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

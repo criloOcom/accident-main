@@ -15,7 +15,7 @@ auteur: La Victime
 reel_path: ../../Reel/Archives/33_Requête_-_Constat_Huissier_145_CPC.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › 33 ✉️ Constat Huissier - Requête 145 CPC*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Archives](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

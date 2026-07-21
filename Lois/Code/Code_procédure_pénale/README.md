@@ -4,7 +4,7 @@ description: "Dossier contenant les articles du Code de procédure pénale (10 a
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › Code_procédure_pénale*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › Code procédure pénale*
 <hr>
 <!-- /Breadcrumb -->
 

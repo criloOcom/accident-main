@@ -4,7 +4,7 @@ description: "Token :** `**[J+41 Courrier SIE URSSAF]**`"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-j-41-courrier-sie-urssaf*
+*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

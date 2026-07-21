@@ -6,7 +6,7 @@ date: 2026-07-15
 statut: final
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [20_Accueil_Avocat — Kit d'accueil avocat](./README.md) › PACK ACCUEIL AVOCAT AJ*
+*[🏠](../../README.md) › [Rapports](../README.md) › [20 Accueil Avocat](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

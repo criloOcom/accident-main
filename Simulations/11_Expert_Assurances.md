@@ -6,7 +6,7 @@ role: Expert en Assurances
 date: 2026-07-14
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Simulations — Analyses Multi-Angle du Dossier Accident Main](./README.md) › 11 Expert Assurances*
+*[🏠](../README.md) › [Simulations](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

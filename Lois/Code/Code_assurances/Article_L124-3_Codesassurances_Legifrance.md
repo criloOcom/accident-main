@@ -9,7 +9,7 @@ code: Code des assurances
 article: L124-3
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › [Code des assurances](./README.md) › Article L124-3 Codesassurances Legifrance*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code assurances](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

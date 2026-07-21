@@ -12,7 +12,7 @@ destinataire: La Victime
 auteur: Huissier de Justice
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [40_Indemnisation_Dintilhac — Indemnisation et barèmes](./README.md) › note frais estimative*
+*[🏠](../../README.md) › [Rapports](../README.md) › [40 Indemnisation Dintilhac](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -4,7 +4,7 @@ description: "Ce dossier recense les documents physiques et officiels produits d
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › Preuves_officielles*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › Preuves officielles*
 <hr>
 <!-- /Breadcrumb -->
 

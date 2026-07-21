@@ -4,7 +4,7 @@ description: "Arrêts de la Cour de cassation sur la responsabilité du fait des
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Jurisprudence](../README.md) › Responsabilité_du_fait_des_choses*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › Responsabilité du fait des choses*
 <hr>
 <!-- /Breadcrumb -->
 

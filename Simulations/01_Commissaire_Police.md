@@ -6,7 +6,7 @@ role: Commissaire Divisionnaire de Police
 date: 2026-07-14
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Simulations — Analyses Multi-Angle du Dossier Accident Main](./README.md) › 01 Commissaire Police*
+*[🏠](../README.md) › [Simulations](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

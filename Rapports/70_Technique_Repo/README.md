@@ -4,7 +4,7 @@ description: "Migration, sécurité, stabilité technique, plans de correction, 
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › 70 Technique Repo*
+*[🏠](../../README.md) › [Rapports](../README.md) › 70 Technique Repo*
 <hr>
 <!-- /Breadcrumb -->
 

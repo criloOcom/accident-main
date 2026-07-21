@@ -3,6 +3,11 @@ title: "NW_M5_QUALITE_2026-07-20"
 type: preuve
 date: "2026-07-20"
 ---
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [Rapports](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # 📊 Rapport d'Audit Qualité des Actes (Mission Night Watch M5)
 
 *Date d'exécution : 2026-07-20*

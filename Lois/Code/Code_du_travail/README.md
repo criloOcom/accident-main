@@ -4,7 +4,7 @@ description: "Dossier contenant les articles du Code du travail cités dans les 
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › Code_du_travail*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › Code du travail*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -4,7 +4,7 @@ description: "Arrêts de la Cour de cassation sur la responsabilité du commetta
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Jurisprudence](../README.md) › Responsabilité_du_commettant*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › Responsabilité du commettant*
 <hr>
 <!-- /Breadcrumb -->
 

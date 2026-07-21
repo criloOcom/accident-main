@@ -5,7 +5,7 @@ real_value: "secretariat@mairie-foix.fr"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Mémoire du Projet](../README.md) › [Tokens — Fiches individuelles des tokens d'anonymisation](./README.md) › token-mairie-secretariat-email*
+*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -4,7 +4,7 @@ description: "Arrêts de la Cour de cassation sur l'action directe contre l'assu
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Jurisprudence](../README.md) › Action_directe_et_obligation_d'assurance*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › Action directe et obligation d'assurance*
 <hr>
 <!-- /Breadcrumb -->
 

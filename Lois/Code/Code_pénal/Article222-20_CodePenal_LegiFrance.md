@@ -9,7 +9,7 @@ code: Code pénal
 article: 222-20
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › [Code penal](./README.md) › Article222-20 CodePenal LegiFrance*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code pénal](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

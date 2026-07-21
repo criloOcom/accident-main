@@ -4,7 +4,7 @@ description: "Dossier contenant les articles du Code civil cités dans les actes
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › Code_civil*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › Code civil*
 <hr>
 <!-- /Breadcrumb -->
 

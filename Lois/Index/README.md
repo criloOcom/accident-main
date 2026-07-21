@@ -4,7 +4,7 @@ description: "Index complet et organisé de tous les textes de loi et articles j
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › Index*
+*[🏠](../../README.md) › [⚖️ Lois](../README.md) › Index*
 <hr>
 <!-- /Breadcrumb -->
 

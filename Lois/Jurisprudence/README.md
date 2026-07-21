@@ -4,7 +4,7 @@ description: "Dossier regroupant les arrêts de la Cour de cassation et décisio
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [⚖️ Bibliothèque Juridique](../README.md) › Jurisprudence*
+*[🏠](../../README.md) › [⚖️ Lois](../README.md) › Jurisprudence*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -24,10 +24,8 @@ jx: J+50
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [Courriers (Versions Token)](../README.md) › Médical › ✉️ CHIVA - Dossier Médical - Demande*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Médical](./README.md)*
 <hr>
-<!-- /Source -->
-<!-- /PJ -->
 <!-- /Breadcrumb -->
 
 # DEMANDE DE DOSSIER MÉDICAL (LOI DU 4 MARS 2002)

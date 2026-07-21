@@ -5,7 +5,7 @@ description: "Analyse de la sécurisation probatoire (Art. 1353 C. civ., 145 CPC
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [70_Technique_Repo — Journal de bord technique](./README.md) › RAPPORT SECURITE PREUVES 2026-07-14*
+*[🏠](../../README.md) › [Rapports](../README.md) › [70 Technique Repo](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

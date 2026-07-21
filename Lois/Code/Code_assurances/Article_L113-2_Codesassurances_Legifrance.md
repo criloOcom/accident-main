@@ -9,7 +9,7 @@ code: Code des assurances
 article: L113-2
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › [Code des assurances](./README.md) › Article L113-2 Codesassurances Legifrance*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code assurances](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

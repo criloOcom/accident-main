@@ -5,7 +5,7 @@ description: "Date :** 10 juillet 2026"
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [10_Pilotage — Pilotage opérationnel](./README.md) › CARTOGRAPHIE RISQUES*
+*[🏠](../../README.md) › [Rapports](../README.md) › [10 Pilotage](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

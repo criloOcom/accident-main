@@ -4,7 +4,7 @@ description: "- **Arial** obligatoire sur 100 % du document (police héritée pa
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › DESIGN*
+*[🏠](../README.md) › [🧠 Memory](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

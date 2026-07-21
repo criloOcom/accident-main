@@ -5,7 +5,7 @@ description: "Évaluation de la qualité juridique et de la tenue rédactionnell
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [60_Audits_Qualite — Audits internes et qualité](./README.md) › RAPPORT QUALITE ACTES 2026-07-14*
+*[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

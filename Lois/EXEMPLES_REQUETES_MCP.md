@@ -5,7 +5,7 @@ description: "Ce document fournit des exemples concrets et testés pour utiliser
 type: loi
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [⚖️ Bibliothèque Juridique](./README.md) › EXEMPLES REQUETES MCP*
+*[🏠](../README.md) › [⚖️ Lois](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

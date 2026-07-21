@@ -5,7 +5,7 @@ description: "Vérification du respect des règles définies dans AGENTS.md, CON
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [🎯 Audits de Cohérence et Conformité](./README.md) › M10 AUDIT PROCESS*
+*[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

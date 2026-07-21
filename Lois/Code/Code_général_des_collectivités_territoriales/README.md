@@ -4,7 +4,7 @@ description: "Dossier contenant les articles du CGCT (2 articles)."
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › Code_général_des_collectivités_territoriales*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › Code général des collectivités territoriales*
 <hr>
 <!-- /Breadcrumb -->
 

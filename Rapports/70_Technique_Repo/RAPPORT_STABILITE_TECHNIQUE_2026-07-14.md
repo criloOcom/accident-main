@@ -5,7 +5,7 @@ description: "Rapport évaluant la robustesse technique du dépôt, les risques 
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [70_Technique_Repo — Journal de bord technique](./README.md) › RAPPORT STABILITE TECHNIQUE 2026-07-14*
+*[🏠](../../README.md) › [Rapports](../README.md) › [70 Technique Repo](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

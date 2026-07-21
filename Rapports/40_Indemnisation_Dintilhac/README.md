@@ -4,7 +4,7 @@ description: "Scénarios d'indemnisation, barèmes Dintilhac, FGTI, évaluations
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › 40 Indemnisation Dintilhac*
+*[🏠](../../README.md) › [Rapports](../README.md) › 40 Indemnisation Dintilhac*
 <hr>
 <!-- /Breadcrumb -->
 

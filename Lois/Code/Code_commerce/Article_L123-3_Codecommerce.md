@@ -10,7 +10,7 @@ article: L123-3
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › [Code de commerce](./README.md) › Article L123-3 Codecommerce*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

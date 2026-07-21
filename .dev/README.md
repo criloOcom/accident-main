@@ -1,10 +1,11 @@
 ---
 title: "🛠️ Environnement de Développement"
+breadcrumb: "🛠️ Dev"
 description: "Ce dossier contient le code, les scripts et les outils de développement du projet."
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › .dev*
+*[🏠](../README.md) › 🛠️ Dev*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -4,7 +4,7 @@ description: "Tableau maître liant chaque fichier .md du dépôt aux événemen
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › CALENDAR MAP*
+*[🏠](../README.md) › [🧠 Memory](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -9,7 +9,7 @@ code: Code de commerce
 article: L622-24
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › [Code de commerce](./README.md) › Article L622-24 Codecommerce*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

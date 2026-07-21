@@ -4,7 +4,7 @@ description: "README de la pièce Pharmacie Foix"
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [Preuves_officielles](../README.md) › 20260529_Pharmacie_Foix*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › 20260529 Pharmacie Foix*
 <hr>
 <!-- /Breadcrumb -->
 

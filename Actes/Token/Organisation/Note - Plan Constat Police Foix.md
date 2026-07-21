@@ -6,7 +6,7 @@ statut: brouillon
 reel_path: ../../Reel/Organisation/Note - Plan Constat Police Foix.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [Organisation](./README.md) › Note - Plan Constat Police Foix*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

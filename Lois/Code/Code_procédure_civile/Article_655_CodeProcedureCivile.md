@@ -6,6 +6,11 @@ source: "Légifrance – Code de procédure civile"
 url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411023/"
 ---
 
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure civile](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # Article 655 – Signification à domicile ou à résidence
 
 > Si la signification à personne s'avère impossible, l'acte peut être délivré soit à domicile, soit, à défaut de domicile connu, à résidence.

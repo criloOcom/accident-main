@@ -5,7 +5,7 @@ date: 2026-07-20
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports](./) › NW_M14_CONTINUITE_2026-07-20*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

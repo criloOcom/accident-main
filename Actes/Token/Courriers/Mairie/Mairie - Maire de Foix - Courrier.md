@@ -20,7 +20,7 @@ calendar_event_id: gqu5r7mbuh6570913b2nisi7t8
 <!-- LRAR -->
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [Courriers (Versions Token)](../README.md) › Mairie › ✉️ Mairie - Maire de Foix - Courrier*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Mairie](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -14,7 +14,7 @@ source: drive
 drive_id: 1XtFxLG3IsVBtTlF4bN7YeWxB3KZAEqBn
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [Preuves_officielles](../README.md) › [📁 20260618 Assurance INFORMATION](./README.md) › 20260618-1406 DOC AssuranceMaladie DemandeDeRenseignement*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260618 Assurance INFORMATION](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

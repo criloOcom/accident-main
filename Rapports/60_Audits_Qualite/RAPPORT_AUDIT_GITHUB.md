@@ -5,7 +5,7 @@ description: "Projet** : accident-main · **Remote** : `github.com/criloOcom/acc
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [60_Audits_Qualite — Audits internes et qualité](./README.md) › RAPPORT AUDIT GITHUB*
+*[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

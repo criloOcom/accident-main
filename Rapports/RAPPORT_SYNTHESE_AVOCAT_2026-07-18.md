@@ -5,7 +5,7 @@ description: "Document de synthèse à remettre à l'avocat"
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports et Analyses](./README.md) › RAPPORT SYNTHESE AVOCAT 2026-07-18*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

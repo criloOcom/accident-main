@@ -4,7 +4,7 @@ description: "Documents médicaux, mémo expertise, comptes rendus."
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › 50 Medical*
+*[🏠](../../README.md) › [Rapports](../README.md) › 50 Medical*
 <hr>
 <!-- /Breadcrumb -->
 

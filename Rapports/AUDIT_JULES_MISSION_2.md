@@ -3,6 +3,11 @@ title: "AUDIT_JULES_MISSION_2"
 type: preuve
 date: "2026-07-20"
 ---
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [Rapports](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # Audit des Mentions de Lieux Physiques (Jules)
 
 ## 1. Objectif de l'Audit

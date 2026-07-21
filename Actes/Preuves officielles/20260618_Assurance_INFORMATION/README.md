@@ -4,7 +4,7 @@ description: "README de la pièce Assurance INFORMATION"
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [Preuves_officielles](../README.md) › 20260618_Assurance_INFORMATION*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › 20260618 Assurance INFORMATION*
 <hr>
 <!-- /Breadcrumb -->
 

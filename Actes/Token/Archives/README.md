@@ -4,7 +4,7 @@ description: "Ce dossier regroupe les documents historiques et les annexes qui n
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › Archives*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › Archives*
 <hr>
 <!-- /Breadcrumb -->
 

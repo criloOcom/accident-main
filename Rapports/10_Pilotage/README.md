@@ -4,7 +4,7 @@ description: "Documents de pilotage : check-lists, frise, cartographie, priorit�
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › 10 Pilotage*
+*[🏠](../../README.md) › [Rapports](../README.md) › 10 Pilotage*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -13,7 +13,7 @@ statut: brouillon
 auteur: La Victime
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › 📆 Mini Calendrier Procedure*
+*[🏠](../README.md) › [🧠 Memory](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

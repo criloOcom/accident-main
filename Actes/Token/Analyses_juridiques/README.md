@@ -4,7 +4,7 @@ description: "Ce dossier contient les notes d'analyse juridique, les plaidoiries
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › Analyses_juridiques*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › Analyses juridiques*
 <hr>
 <!-- /Breadcrumb -->
 

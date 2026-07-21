@@ -5,7 +5,7 @@ description: "Analyse et recommandations pour le dépôt au commissariat de Foix
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports et Analyses](./README.md) › RAPPORT PLAINTE COMPLEMENTAIRE ERRATUM 2026-07-18*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

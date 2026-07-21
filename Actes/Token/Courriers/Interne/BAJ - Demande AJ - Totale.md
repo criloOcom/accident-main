@@ -25,10 +25,8 @@ jx: J+50
 destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [Courriers (Versions Token)](../README.md) › Interne › ✉️ BAJ - Demande AJ - Totale*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Interne](./README.md)*
 <hr>
-<!-- /Source -->
-<!-- /PJ -->
 <!-- /Breadcrumb -->
 
 # DEMANDE D'AIDE JURIDICTIONNELLE TOTALE

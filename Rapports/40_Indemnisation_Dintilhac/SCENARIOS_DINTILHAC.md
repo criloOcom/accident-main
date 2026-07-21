@@ -13,7 +13,7 @@ statut: final
 auteur: Avocat spécialiste en réparation du préjudice corporel
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [40_Indemnisation_Dintilhac — Indemnisation et barèmes](./README.md) › SCENARIOS DINTILHAC*
+*[🏠](../../README.md) › [Rapports](../README.md) › [40 Indemnisation Dintilhac](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

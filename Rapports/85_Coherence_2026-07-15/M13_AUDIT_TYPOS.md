@@ -5,7 +5,7 @@ description: "Audit des fautes d'orthographe, de grammaire et de typographie fra
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [🎯 Audits de Cohérence et Conformité](./README.md) › M13 AUDIT TYPOS*
+*[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

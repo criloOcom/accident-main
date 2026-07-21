@@ -4,7 +4,7 @@ description: "Arrêts de la Cour de cassation sur la transaction sous réserve d
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Jurisprudence](../README.md) › Transaction_sous_réserve_d'aggravation*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › Transaction sous réserve d'aggravation*
 <hr>
 <!-- /Breadcrumb -->
 

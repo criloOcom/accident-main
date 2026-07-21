@@ -3,6 +3,11 @@ title: "NW_M9_HUISSIER_2026-07-20"
 type: preuve
 date: "2026-07-20"
 ---
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [Rapports](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # Rapport d'Audit — Mission Night Watch M9 (Huissier)
 **Date :** 2026-07-20
 **Objet :** Vérification de la nécessité et de l'existence d'un constat d'huissier (art. 1242 Code civil).

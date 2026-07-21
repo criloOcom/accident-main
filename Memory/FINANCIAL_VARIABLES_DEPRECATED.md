@@ -4,7 +4,7 @@ description: "Ce fichier regroupe l'ensemble des montants financiers (provisions
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › FINANCIAL VARIABLES DEPRECATED*
+*[🏠](../README.md) › [🧠 Memory](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

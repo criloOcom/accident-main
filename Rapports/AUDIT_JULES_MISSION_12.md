@@ -3,6 +3,11 @@ title: "AUDIT_JULES_MISSION_12"
 type: preuve
 date: "2026-07-20"
 ---
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [Rapports](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # Audit de Conformité RGPD de la strate Token
 
 L'audit relève les fuites de données personnelles (identités, adresses, numéros) présentes dans `Actes/Token` et signale les statuts documentaires potentiellement hallucinés.

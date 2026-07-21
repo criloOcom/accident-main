@@ -4,7 +4,7 @@ description: "Dossier contenant les articles du Code de la construction et de l'
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › Code_construction_habitation*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › Code construction habitation*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -6,6 +6,11 @@ source: "Légifrance – Code civil"
 url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112/"
 ---
 
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code civil](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # Article 2224 – Prescription de droit commun (5 ans)
 
 > Les actions personnelles ou mobilières se prescrivent par cinq ans à compter du jour où le titulaire d'un droit a connu ou aurait dû connaître les faits lui permettant de l'exercer.

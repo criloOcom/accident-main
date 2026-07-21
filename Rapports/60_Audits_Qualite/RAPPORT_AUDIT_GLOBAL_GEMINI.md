@@ -12,7 +12,7 @@ auteur: Gemini
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports](../README.md) › 60_Audits_Qualite › RAPPORT_AUDIT_GLOBAL_GEMINI*
+*[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

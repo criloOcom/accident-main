@@ -6,6 +6,11 @@ source: "Légifrance – Code civil"
 url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042379/"
 ---
 
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code civil](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # Article 1382 – Preuve par présomption judiciaire
 
 > Les présomptions qui ne sont pas établies par la loi, sont laissées à l'appréciation du juge, qui ne doit les admettre que si elles sont graves, précises et concordantes, et dans les cas seulement où la loi admet la preuve par tout moyen.

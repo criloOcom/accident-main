@@ -3,6 +3,11 @@ title: "AUDIT_JULES_MISSION_13"
 type: preuve
 date: "2026-07-20"
 ---
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [Rapports](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 <a href="../README.md">Retour</a>
 
 # Audit de cohérence : État des lieux du bail commercial (Mission 13)

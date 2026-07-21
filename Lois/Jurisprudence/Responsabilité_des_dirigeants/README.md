@@ -4,7 +4,7 @@ description: "Arrêts de la Cour de cassation sur la responsabilité personnelle
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Jurisprudence](../README.md) › Responsabilité_des_dirigeants*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › Responsabilité des dirigeants*
 <hr>
 <!-- /Breadcrumb -->
 

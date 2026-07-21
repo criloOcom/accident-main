@@ -5,7 +5,7 @@ type: rapport
 date: 2026-07-20
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports](./) › NIGHTWATCH 2026-07-20*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

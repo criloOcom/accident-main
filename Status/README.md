@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../README.md) › Status*
+<hr>
+<!-- /Breadcrumb -->
+
 # Index des statuts
 
 Ce dossier contient un fichier par statut, listant tous les documents concernés avec leurs liens croisés.

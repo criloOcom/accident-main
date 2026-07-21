@@ -4,7 +4,7 @@ description: "Ce dossier contient l'évaluation financière des préjudices subi
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › Etudes_indemnisation*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › Etudes indemnisation*
 <hr>
 <!-- /Breadcrumb -->
 

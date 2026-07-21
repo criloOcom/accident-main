@@ -5,7 +5,7 @@ description: "Dernière mise à jour :** 13 juillet 2026"
 type: loi
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › [Code penal](./README.md) › Article 434-15-1 CodePenal Legifrance*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code pénal](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

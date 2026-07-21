@@ -6,7 +6,7 @@ role: Juge des Référés
 date: 2026-07-14
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Simulations — Analyses Multi-Angle du Dossier Accident Main](./README.md) › 03 Juge Referes*
+*[🏠](../README.md) › [Simulations](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

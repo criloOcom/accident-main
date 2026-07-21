@@ -9,7 +9,7 @@ code: Code de procédure civile
 article: 835
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › [Code procedure civile](./README.md) › Article835 CodeDeProcedureCivile LegiFrance*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure civile](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

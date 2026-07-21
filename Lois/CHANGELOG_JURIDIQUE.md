@@ -5,7 +5,7 @@ description: "Suivi des modifications apportées aux fiches juridiques (articles
 type: loi
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [⚖️ Bibliothèque Juridique](./README.md) › CHANGELOG JURIDIQUE*
+*[🏠](../README.md) › [⚖️ Lois](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

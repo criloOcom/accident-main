@@ -5,7 +5,7 @@ type: readme
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › Code de la sécurité sociale*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › Code sécurite sociale*
 <hr>
 <!-- /Breadcrumb -->
 

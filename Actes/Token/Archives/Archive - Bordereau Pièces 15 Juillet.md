@@ -11,7 +11,7 @@ jx: J+47
 reel_path: ../../Reel/Archives/Archive - Bordereau Pièces 15 Juillet.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › Archive - Bordereau Pièces 15 Juillet*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Archives](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

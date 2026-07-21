@@ -5,7 +5,7 @@ description: "Rapport exécutif faisant le point global sur l'état du dossier a
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [10_Pilotage — Pilotage opérationnel](./README.md) › RAPPORT SYNTHESE OPERATIONNALITE 2026-07-14*
+*[🏠](../../README.md) › [Rapports](../README.md) › [10 Pilotage](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

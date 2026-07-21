@@ -6,6 +6,11 @@ source: "Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avr
 url: "https://eur-lex.europa.eu/eli/reg/2016/679/oj/fra"
 ---
 
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [⚖️ Lois](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # RGPD – Articles 7, 9 et 82
 
 ## Article 7 – Conditions applicables au consentement

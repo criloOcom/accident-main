@@ -5,7 +5,7 @@ description: "Vérification de toutes les citations d'articles de loi et décisi
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports et Analyses](./README.md) › RAPPORT VERIFICATION JURITEXT 2026-07-18*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

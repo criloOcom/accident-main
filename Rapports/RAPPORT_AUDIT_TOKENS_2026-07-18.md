@@ -5,7 +5,7 @@ description: "Vérification de la cohérence de l'ensemble des tokens d'anonymis
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports et Analyses](./README.md) › RAPPORT AUDIT TOKENS 2026-07-18*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -8,7 +8,7 @@ code: Jurisprudence
 article: 2052 C. civ. (anc.) ; 2044 C. civ.
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Jurisprudence](../README.md) › [Jurisprudence_du_fond_(CA-TJ)](./README.md) › TJ Versailles 21/04988*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › [Jurisprudence du fond (CA-TJ)](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

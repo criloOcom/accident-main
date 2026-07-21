@@ -14,7 +14,7 @@ reel_path: ../../Reel/Archives/Archive - Stratégie Contentieux Civil.md
 source: drive
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [📦 Archives](./README.md) › Archive - Stratégie Contentieux Civil*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Archives](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

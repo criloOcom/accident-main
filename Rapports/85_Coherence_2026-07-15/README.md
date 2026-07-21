@@ -4,7 +4,7 @@ description: "Dossier regroupant les 15 rapports d'audit thématiques du 15 juil
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › 85 Coherence 2026-07-15*
+*[🏠](../../README.md) › [Rapports](../README.md) › 85 Coherence 2026-07-15*
 <hr>
 <!-- /Breadcrumb -->
 

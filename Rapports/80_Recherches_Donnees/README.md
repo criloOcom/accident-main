@@ -4,7 +4,7 @@ description: "Fichiers JSON de résultats de recherche juridique, données d'aud
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › 80 Recherches Donnees*
+*[🏠](../../README.md) › [Rapports](../README.md) › 80 Recherches Donnees*
 <hr>
 <!-- /Breadcrumb -->
 

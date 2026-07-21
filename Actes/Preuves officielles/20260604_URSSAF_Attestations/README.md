@@ -4,7 +4,7 @@ description: "README de la pièce URSSAF Attestations"
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [Preuves_officielles](../README.md) › 20260604_URSSAF_Attestations*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › 20260604 URSSAF Attestations*
 <hr>
 <!-- /Breadcrumb -->
 

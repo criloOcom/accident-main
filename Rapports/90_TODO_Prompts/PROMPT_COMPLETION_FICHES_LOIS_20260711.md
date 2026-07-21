@@ -5,7 +5,7 @@ description: "Prompt à confier à l'agent disposant du MCP Légifrance/Judilibr
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [90_TODO_Prompts — Prompts et notes de travail](./README.md) › PROMPT COMPLETION FICHES LOIS 20260711*
+*[🏠](../../README.md) › [Rapports](../README.md) › [90 TODO Prompts](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -12,7 +12,7 @@ auteur: La Victime
 reel_path: ../../../Reel/Courriers/Police/Police - Note Projet Déclaration.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [Courriers](../README.md) › [Police](./README.md) › 📋 Police - Note Projet Déclaration*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

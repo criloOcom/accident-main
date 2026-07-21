@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-14 › M07 dirigeants societes*
+*[🏠](../../README.md) › [🛠️ Dev](../README.md) › jules night 2026-07-14*
 <hr>
 <!-- /Breadcrumb -->
 

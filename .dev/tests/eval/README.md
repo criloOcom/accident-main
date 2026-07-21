@@ -4,7 +4,7 @@ description: "Jeux de données et métriques d'évaluation des agents et scripts
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [🛠️ Environnement de Développement](../../README.md) › [🧪 Tests](../README.md) › eval*
+*[🏠](../../../README.md) › [🛠️ Dev](../../README.md) › [tests](../README.md) › eval*
 <hr>
 <!-- /Breadcrumb -->
 

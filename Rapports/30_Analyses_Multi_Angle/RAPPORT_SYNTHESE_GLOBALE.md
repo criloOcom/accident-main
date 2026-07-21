@@ -5,7 +5,7 @@ description: "Projet :** accident-main — Préjudice corporel (main droite écr
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](./README.md) › RAPPORT SYNTHESE GLOBALE*
+*[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

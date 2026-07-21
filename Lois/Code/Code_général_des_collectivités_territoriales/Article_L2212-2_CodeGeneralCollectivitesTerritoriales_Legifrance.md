@@ -9,7 +9,7 @@ code: Code général des collectivités territoriales
 article: L2212-2
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › [Code Général des Collectivités Territoriales (CGCT)](./README.md) › Article L2212-2 CodeGeneralCollectivitesTerritoriales Legifrance*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code général des collectivités territoriales](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

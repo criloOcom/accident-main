@@ -8,7 +8,7 @@ reel_path: ../../Reel/Attestations/Témoin Client - Attestation.md
 statut: brouillon
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › [Attestations](./README.md) › Témoin Client - Attestation*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Attestations](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

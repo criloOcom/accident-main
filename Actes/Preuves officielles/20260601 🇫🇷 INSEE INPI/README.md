@@ -4,7 +4,7 @@ description: "README de la pièce INSEE INPI"
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [Preuves_officielles](../README.md) › 20260601 🇫🇷 INSEE INPI*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › 20260601 🇫🇷 INSEE INPI*
 <hr>
 <!-- /Breadcrumb -->
 

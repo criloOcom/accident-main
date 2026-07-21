@@ -13,7 +13,7 @@ statut: preparation
 auteur: Sébastien GRAZIDE
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [Preuves_officielles](../README.md) › 20260716_Visite_Lieux_Foix › 20260716 Note Constatations Visite Lieux*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › 20260716 Visite Lieux Foix*
 <hr>
 <!-- /Breadcrumb -->
 

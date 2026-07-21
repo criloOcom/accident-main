@@ -9,7 +9,7 @@ code: Code pénal
 article: 223-1
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › [Code penal](./README.md) › Article 223-1 Code Legifrance*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code pénal](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

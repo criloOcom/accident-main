@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [Status](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # Statut : final
 
 **52 documents** (26 token, 26 reel)

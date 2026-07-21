@@ -6,7 +6,7 @@ date: 2026-07-21
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports](../README.md) › [80_Recherches_Donnees](./README.md) › M10_SYNTHESE_PRESCRIPTIONS.md*
+*[🏠](../../README.md) › [Rapports](../README.md) › [80 Recherches Donnees](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

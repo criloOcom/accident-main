@@ -6,7 +6,7 @@ date: 2026-06-01
 statut: preparation
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [Preuves_officielles](../README.md) › [📁 20260601 Kbis](./README.md) › 20260601-xxxx Extrait Kbis SAS MauvaisGarcons*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260601 Kbis](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

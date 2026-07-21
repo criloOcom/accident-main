@@ -5,7 +5,7 @@ description: "Questionnaire V2 pour vérifier les correctifs du 18/07/2026 : RGP
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports et Analyses](./README.md) › 50 QUESTIONS GEMINI REVUE TOTALE*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

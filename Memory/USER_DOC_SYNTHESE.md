@@ -4,7 +4,7 @@ description: "Texte de travail importé du Google Doc de l'utilisateur"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › USER DOC SYNTHESE*
+*[🏠](../README.md) › [🧠 Memory](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

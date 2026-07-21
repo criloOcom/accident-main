@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules night 2026-07-18 › M14 scenario pire*
+*[🏠](../../README.md) › [🛠️ Dev](../README.md) › jules night 2026-07-18*
 <hr>
 <!-- /Breadcrumb -->
 

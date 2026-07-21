@@ -13,8 +13,7 @@ reel_path: ../../../Reel/Courriers/Mairie/Mairie - ERP Tavella - Courrier.md
 jx: J+42
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [Courriers (Versions Token)](../README.md) › Mairie › ✉️ Mairie - ERP Tavella - Courrier*
-<!-- Destinataire -->
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Mairie](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 <!-- /Destinataire -->

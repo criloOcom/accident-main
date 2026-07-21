@@ -5,7 +5,7 @@ type: rapport
 date: 2026-07-19
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports et Analyses](./README.md) › HEALTH REPORT 2026-07-19*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

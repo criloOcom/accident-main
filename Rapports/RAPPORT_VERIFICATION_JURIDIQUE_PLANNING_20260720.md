@@ -5,7 +5,7 @@ type: rapport
 date: "2026-07-20"
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports et Analyses](./README.md) › RAPPORT VERIFICATION JURIDIQUE PLANNING 20260720*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

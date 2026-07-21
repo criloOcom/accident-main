@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [Status](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # Statut : preparation
 
 **6 documents** (3 token, 3 reel)

@@ -9,7 +9,7 @@ code: Code de commerce
 article: L223-22
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › [Code de commerce](./README.md) › Article L223-22 Codecommerce Legifrance*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

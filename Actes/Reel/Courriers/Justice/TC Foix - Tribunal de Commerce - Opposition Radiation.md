@@ -21,8 +21,7 @@ reel_path: ../../../Reel/Courriers/Justice/TC Foix - Tribunal de Commerce - Oppo
 jx: J+41
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [Courriers (Versions Token)](../README.md) › Justice › ✉️ Tribunal de Commerce - Opposition Radiation*
-<!-- Destinataire -->
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 <!-- /Destinataire -->

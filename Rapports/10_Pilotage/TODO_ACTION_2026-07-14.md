@@ -5,7 +5,7 @@ description: "Todo-list exécutable extraite des 15 rapports de la nuit Jules 20
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [10_Pilotage — Pilotage opérationnel](./README.md) › TODO ACTION 2026-07-14*
+*[🏠](../../README.md) › [Rapports](../README.md) › [10 Pilotage](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

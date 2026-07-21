@@ -5,6 +5,11 @@ description: "Audit ciblé des écarts factuels (dates, doigts, CPAM, LRAR) dans
 date: 2026-07-13
 ---
 
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [Rapports](../README.md) › audit*
+<hr>
+<!-- /Breadcrumb -->
+
 # Audit faits canoniques
 
 Fichiers scannés : 141

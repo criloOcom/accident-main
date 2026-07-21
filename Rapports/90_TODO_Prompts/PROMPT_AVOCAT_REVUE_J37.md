@@ -12,7 +12,7 @@ tags:
   - audit-verrouille
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [90_TODO_Prompts — Prompts et notes de travail](./README.md) › PROMPT AVOCAT REVUE J37*
+*[🏠](../../README.md) › [Rapports](../README.md) › [90 TODO Prompts](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

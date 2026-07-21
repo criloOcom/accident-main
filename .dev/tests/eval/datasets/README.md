@@ -4,7 +4,7 @@ description: "This directory contains evaluation datasets for testing agent beha
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [🛠️ Environnement de Développement](../../../README.md) › [🧪 Tests](../../README.md) › [📊 Évaluation](../README.md) › datasets*
+*[🏠](../../../../README.md) › [🛠️ Dev](../../../README.md) › [tests](../../README.md) › [eval](../README.md) › datasets*
 <hr>
 <!-- /Breadcrumb -->
 

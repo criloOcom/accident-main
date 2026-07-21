@@ -5,7 +5,7 @@ description: "Analyse des recours disponibles en cas d'absence d'assurance de la
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports et Analyses](./README.md) › RAPPORT SCENARIO PIRE 2026-07-18*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -4,7 +4,7 @@ description: "Dossier contenant les attestations de témoins et parties sur form
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes — Dossier Contentieux](../../README.md) › [🎭 Actes / token — Version Anonymisée](../README.md) › Attestations*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › Attestations*
 <hr>
 <!-- /Breadcrumb -->
 

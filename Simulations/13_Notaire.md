@@ -6,7 +6,7 @@ role: Notaire (Foix)
 date: 2026-07-14
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Simulations — Analyses Multi-Angle du Dossier Accident Main](./README.md) › 13 Notaire*
+*[🏠](../README.md) › [Simulations](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

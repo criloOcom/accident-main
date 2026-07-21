@@ -4,7 +4,7 @@ description: "Recommandations issues de l'agent Jules pour la rédaction des act
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › jules recommandations*
+*[🏠](../../README.md) › [🛠️ Dev](../README.md) › jules recommandations*
 <hr>
 <!-- /Breadcrumb -->
 

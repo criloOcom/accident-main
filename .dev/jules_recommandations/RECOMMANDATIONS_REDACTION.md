@@ -4,7 +4,7 @@ description: "Ce document compile les recommandations issues de recherches web e
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🛠️ Environnement de Développement](../README.md) › [📁 jules_recommandations](./README.md) › RECOMMANDATIONS REDACTION*
+*[🏠](../../README.md) › [🛠️ Dev](../README.md) › [jules recommandations](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

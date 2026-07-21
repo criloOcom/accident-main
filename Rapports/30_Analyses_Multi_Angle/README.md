@@ -4,7 +4,7 @@ description: "Analyses de fond : stratégie globale, pénale, responsabilité, c
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › 30 Analyses Multi Angle*
+*[🏠](../../README.md) › [Rapports](../README.md) › 30 Analyses Multi Angle*
 <hr>
 <!-- /Breadcrumb -->
 

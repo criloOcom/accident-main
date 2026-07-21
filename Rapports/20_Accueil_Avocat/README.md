@@ -4,7 +4,7 @@ description: "Documents imprimables et transmissibles à l'avocat AJ pour prise 
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › 20 Accueil Avocat*
+*[🏠](../../README.md) › [Rapports](../README.md) › 20 Accueil Avocat*
 <hr>
 <!-- /Breadcrumb -->
 

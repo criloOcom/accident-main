@@ -4,7 +4,7 @@ description: "Dossier contenant les articles de loi relatifs au Code de la conso
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Code](../README.md) › Code_consommation*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › Code consommation*
 <hr>
 <!-- /Breadcrumb -->
 

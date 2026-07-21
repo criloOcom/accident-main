@@ -5,7 +5,7 @@ description: "Guide pédagogique expliquant la navigation et l'utilisation de l'
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [20_Accueil_Avocat — Kit d'accueil avocat](./README.md) › GUIDE AVOCAT UTILISATION REPO*
+*[🏠](../../README.md) › [Rapports](../README.md) › [20 Accueil Avocat](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

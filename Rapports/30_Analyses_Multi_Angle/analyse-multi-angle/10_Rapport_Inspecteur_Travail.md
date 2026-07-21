@@ -5,7 +5,7 @@ description: "Analyse des infractions au Code du travail suite à l'accident du 
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [Rapports et Analyses](../../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](../README.md) › [Analyses Multi-Angle — 15 Missions](./README.md) › 10 Rapport Inspecteur Travail*
+*[🏠](../../../README.md) › [Rapports](../../README.md) › [30 Analyses Multi Angle](../README.md) › [analyse-multi-angle](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -20,7 +20,7 @@ source: local
 jx: J+38
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes — Dossier Contentieux](../../../README.md) › [🎭 Actes / token — Version Anonymisée](../../README.md) › [Courriers (Versions Token)](../README.md) › Médical › ✉️ Médecin Traitant - Consolidation - Relance*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Médical](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

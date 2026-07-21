@@ -8,7 +8,7 @@ code: Jurisprudence
 article: L. 114-1 C. assur. ; L. 124-3 C. assur.
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Bibliothèque Juridique](../../README.md) › [Jurisprudence](../README.md) › [Jurisprudence_du_fond_(CA-TJ)](./README.md) › CA Versailles 22/01019*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › [Jurisprudence du fond (CA-TJ)](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -5,7 +5,7 @@ description: "Vérification de l'existence et du format des articles de loi cit�
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [🎯 Audits de Cohérence et Conformité](./README.md) › M03 AUDIT FONDEMENTS JURIDIQUES*
+*[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

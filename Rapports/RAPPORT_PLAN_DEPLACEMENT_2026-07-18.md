@@ -5,7 +5,7 @@ description: "Rapport détaillant le plan d'action heure par heure pour le dépl
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports et Analyses](./README.md) › RAPPORT PLAN DEPLACEMENT 2026-07-18*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

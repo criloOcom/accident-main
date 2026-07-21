@@ -5,7 +5,7 @@ description: "Liste agrégée et vérifiée des corrections encore NON appliqué
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports et Analyses](./README.md) › 85 RESTANT A FAIRE 2026-07-15*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

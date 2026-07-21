@@ -5,7 +5,7 @@ description: "Synthèse des qualifications pénales, de la responsabilité des d
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](./README.md) › NOTE PENALE STRATEGIQUE*
+*[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

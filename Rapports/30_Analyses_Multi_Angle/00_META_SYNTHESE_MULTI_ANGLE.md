@@ -5,7 +5,7 @@ description: "Rapport master condensant les 12 analyses par angle professionnel 
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports et Analyses](../README.md) › [30_Analyses_Multi_Angle — Analyses stratégiques et multi-angle](./README.md) › 00 META SYNTHESE MULTI ANGLE*
+*[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

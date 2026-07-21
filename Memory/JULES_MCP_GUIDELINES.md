@@ -4,7 +4,7 @@ description: "Ce document consigne les règles permanentes apprises de la docume
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Mémoire du Projet](./README.md) › JULES MCP GUIDELINES*
+*[🏠](../README.md) › [🧠 Memory](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
