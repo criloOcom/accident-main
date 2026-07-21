@@ -28,6 +28,8 @@ type: memory
 > > **Phase 35 ✅** Night Watch 20/07 — 15 missions (Token→Reel, listes tight, santé, scratch, HB BARBER, STRICT VARIABLES, Légifrance, RGPD, bordereau, arborescence, jurisprudence, rapports) — rapport dans `📊 Rapports/NIGHTWATCH_2026-07-20.md` (✅ 20/07)
 > > **Phase 36 ✅** Enrichissement bibliothèque jurisprudence — 11 décisions (4 Cass. + 7 CA/TJ), 2 documents stratégiques (Mémoire synthèse ERP + Note Action Directe L124-3), versions Reel, READMEs et CHANGELOG mis à jour (✅ 21/07)
 > > **Phase 37 ✅** Police Token Audit — 9 fichiers Police audités + corrigés : tokens texte brut→liens, date FIXME corrigée, 4 nouveaux tokens LRAR créés, renommage Plainte Complementaire Token↔Reel, Reel regénéré (128 fichiers), check cohérence ✅ (✅ 21/07)
+> **Phase 39 ✅** Nettoyage projet + correction liens cassés : 4 scripts déplacés racine→.dev/app, __pycache__ supprimé, GEMINI.md→Memory, 30 liens cassés corrigés (angle brackets, parentheses, Constitution Partie Civile, jurisprudence back-references), 7 token_path ajoutés Reel, 28 violations YAML corrigées, audit_internal_links.py angle-bracket support ✅ 21/07
+> **Phase 40 ✅** Correction géographique plainte + déduplication LRAR + sync Reel : plainte initiale corrigée (Toulouse Rive Droite ≠ Foix), DEPOT_PLAINTE_LIEU ajouté à STRICT VARIABLES, LRAR 87500152888336B dupliqué corrigé, 128 fichiers Reel régénérés, pre-commit hook passe sans --no-verify ✅ 21/07
 > ## Phase 21 — Navigation Interactive Cross-Document (13 juillet 2026) ✅ [TERMINÉ]
 
 ### Objectif
