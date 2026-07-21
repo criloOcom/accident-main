@@ -1,5 +1,5 @@
 ---
-title: "STATUT D'AVANCEMENT — 20 juillet 2026"
+title: "STATUT D'AVANCEMENT — 21 juillet 2026"
 description: "- **Phase 1a** Purge des 5 fuites token : 0 fuite résiduelle (✅ 18/07) — **Phase 1b** 5 corrections JURITEXT vérifiées MCP (✅ 18/07) — **Phase 1c** Infrastructure token : +14 entrées batch_anonymize + TOKEN MAP + generate_real_versions (✅ 18/07) — **Phase 1d** Bandeau HB BARBER : 80 fichiers Token/ mis à jour (✅ 18/07) — **Phase 1e** Liens cassés : 34 auto-corrigés, 3 stubs créés, 60 historiques restants (✅ partiel 18/07) — **Phase 2** Urgences 31 juillet : Demande AJ Totale créée, Assignation finalisée, Reel 115 fichiers générés (✅ 18/07) — **Phase 33** 3 dernières LRAR SAS HB BARBER envoyées 18/07 — **Phase 34** Déplacement Foix préparé (semaine 27/07) — **Phase 35** Night Watch : 15 missions (Token→Reel, listes tight, santé, scratch, HB BARBER, STRICT VARIABLES, Légifrance, RGPD, bordereau, jurisprudence, rapports) ✅ 20/07"
 type: memory
 ---
@@ -8,7 +8,7 @@ type: memory
 <hr>
 <!-- /Breadcrumb -->
 
-# STATUT D'AVANCEMENT<br>20 juillet 2026
+# STATUT D'AVANCEMENT<br>21 juillet 2026
 
 > **Phase 21 ✅** Navigation Interactive Cross-Document — 1 766 liens relatifs créés
 > **Phase 22 ✅** Normalisation des séparateurs `<hr><hr>` et conventions de formatage
@@ -26,6 +26,7 @@ type: memory
 > > **Phase 33 ✅** Correction juridique Phase 4 — 3 articles manquants créés (L.123-3, L.123-5-1 C.com, L.8221-1 C.trav) — tous vérifiés via MCP OpenLegi (✅ 20/07)
 > > **Phase 34 🏗️** Déplacement Foix préparé (semaine du 27/07/2026) — Dépôt AJ totale BAJ + Complément PV Commissariat — Calendrier Google mis à jour, documentation synchronisée (🏗️ EN COURS 20/07)
 > > **Phase 35 ✅** Night Watch 20/07 — 15 missions (Token→Reel, listes tight, santé, scratch, HB BARBER, STRICT VARIABLES, Légifrance, RGPD, bordereau, arborescence, jurisprudence, rapports) — rapport dans `📊 Rapports/NIGHTWATCH_2026-07-20.md` (✅ 20/07)
+> > **Phase 36 ✅** Enrichissement bibliothèque jurisprudence — 11 décisions (4 Cass. + 7 CA/TJ), 2 documents stratégiques (Mémoire synthèse ERP + Note Action Directe L124-3), versions Reel, READMEs et CHANGELOG mis à jour (✅ 21/07)
 > > 
 > ## Phase 21 — Navigation Interactive Cross-Document (13 juillet 2026) ✅ [TERMINÉ]
 

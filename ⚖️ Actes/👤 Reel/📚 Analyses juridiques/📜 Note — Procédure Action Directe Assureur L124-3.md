@@ -12,7 +12,7 @@ tags:
   - FGAO
   - ERP
   - article 145 CPC
-statut: draft
+statut: brouillon
 auteur: La Victime
 reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Note — Procédure Action Directe Assureur L124-3.md
 source: local

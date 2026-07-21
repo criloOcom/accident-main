@@ -12,7 +12,7 @@ tags:
   - transaction
   - incidence professionnelle
   - préjudice corporel
-statut: draft
+statut: brouillon
 auteur: La Victime
 reel_path: ../../👤 Reel/📚 Analyses juridiques/📜 Mémoire de synthèse — Recours assurances ERP.md
 source: local
