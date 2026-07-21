@@ -38,9 +38,15 @@ jx: J+47
 
 <!-- Auteur -->
 **Expéditeur :** **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** — **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
-**Destinataire :** Madame, Monsieur l'Inspecteur du Travail — DDETS de l'Ariège, Cité Administrative, 2 Rue de la Préfecture, 09000 Foix
-**Date :** [Date d'envoi — À compléter avant impression]
 <!-- /Auteur -->
+
+<!-- Destinataire -->
+**Destinataire :** Madame, Monsieur l'Inspecteur du Travail — DDETS de l'Ariège, Cité Administrative, 2 Rue de la Préfecture, 09000 Foix
+<!-- /Destinataire -->
+
+<!-- Date -->
+**Date :** [Date d'envoi — À compléter avant impression]
+<!-- /Date -->
 
 ---
 
@@ -55,10 +61,6 @@ jx: J+47
 <!-- /Objet -->
 
 ---
-
-<!-- Destinataire -->
-<hr><hr>
-<!-- /Destinataire -->
 
 Madame, Monsieur,
 

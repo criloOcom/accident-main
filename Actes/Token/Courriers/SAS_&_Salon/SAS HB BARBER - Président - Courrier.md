@@ -46,10 +46,6 @@ Mode d'envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 Réf. : Dossier **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** / [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) — Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**
 <!-- /Auteur -->
 
-<!-- Destinataire -->
-<hr><hr>
-<!-- /Destinataire -->
-
 Monsieur le Président,
 ## I — CONTEXTE ET EXCUSES SUR LE DÉLAI
 

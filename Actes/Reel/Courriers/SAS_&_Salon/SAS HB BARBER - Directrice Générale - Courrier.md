@@ -46,10 +46,6 @@ Mode d'envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 Réf. : Dossier **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** / [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) — Accident du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**
 <!-- /Auteur -->
 
-<!-- Destinataire -->
-<hr><hr>
-<!-- /Destinataire -->
-
 Madame la Directrice Générale,
 ## I — CONTEXTE ET EXCUSES SUR LE DÉLAI
 

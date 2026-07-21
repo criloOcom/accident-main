@@ -325,6 +325,70 @@ Les caches (`__pycache__`, `.pytest_cache`) sont supprimés après exécution.
 
 <hr><hr>
 
+## XIII — BLOCS D'EN-TÊTE DES COURRIERS
+
+### Format canonique
+
+Chaque fichier de type `courrier` DOIT avoir trois blocs séparés dans l'en-tête :
+
+```markdown
+<!-- Auteur -->
+[**[L'Expéditeur]**](...)  
+[**[L'Adresse de l'Expéditeur]**]
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+...
+<!-- /Destinataire -->
+
+<!-- Date -->
+**[La Ville]**, le 18 juillet 2026
+<!-- /Date -->
+```
+
+### Règles
+
+1. **Trois blocs distincts obligatoires** : `<!-- Auteur -->`, `<!-- Destinataire -->`, `<!-- Date -->` — chacun avec sa propre paire `<!-- XXX -->`/`<!-- /XXX -->`.
+
+2. **Ligne vide** entre chaque bloc (après `<!-- /XXX -->`).
+
+3. **Ordre impératif** : Auteur → Destinataire → Date.
+
+4. **INTERDICTION ABSOLUE** : ne JAMAIS fusionner Auteur + Destinataire + Date sous un seul `<!-- Auteur -->`. Chacun son bloc.
+
+### Anti-exemple (non conforme)
+
+```markdown
+✗ <!-- Auteur -->
+✗ [**[L'Expéditeur]**]  
+✗ [**[Le Destinataire]**]  
+✗ **[La Ville]**, le ...
+✗ <!-- /Auteur -->
+```
+
+### Exemple complet (conforme)
+
+```markdown
+<!-- Auteur -->
+[**[La Victime]**](...)  
+[**[L'Adresse de la Victime]**]  
+[**[L'Email de la Victime]**]
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+Monsieur le Directeur  
+GHT des Pyrénées Ariégeoises CHIVA  
+Chemin de la Plaine  
+09000 Saint-Jean-de-Verges
+<!-- /Destinataire -->
+
+<!-- Date -->
+**[Foix]**, le 18 juillet 2026
+<!-- /Date -->
+```
+
+<hr><hr>
+
 ## XIV — PIECES JOINTES
 
 ### Format canonique (OBLIGATOIRE)

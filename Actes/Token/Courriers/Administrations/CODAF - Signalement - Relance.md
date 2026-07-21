@@ -40,9 +40,15 @@ jx: J+47
 
 <!-- Auteur -->
 **Expéditeur :** **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** — **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
-**Destinataire :** Monsieur le Préfet de l'Ariège — Référent CODAF — Préfecture de l'Ariège, 2 Rue de la Préfecture, 09000 Foix
-**Date :** [Date d'envoi — À compléter avant impression]
 <!-- /Auteur -->
+
+<!-- Destinataire -->
+**Destinataire :** Monsieur le Préfet de l'Ariège — Référent CODAF — Préfecture de l'Ariège, 2 Rue de la Préfecture, 09000 Foix
+<!-- /Destinataire -->
+
+<!-- Date -->
+**Date :** [Date d'envoi — À compléter avant impression]
+<!-- /Date -->
 
 ---
 
@@ -57,10 +63,6 @@ jx: J+47
 <!-- /Objet -->
 
 ---
-
-<!-- Destinataire -->
-<hr><hr>
-<!-- /Destinataire -->
 
 Monsieur le Préfet,
 
