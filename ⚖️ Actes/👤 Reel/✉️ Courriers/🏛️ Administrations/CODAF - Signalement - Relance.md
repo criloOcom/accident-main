@@ -73,7 +73,10 @@ Je vous remercie de l'attention portée à la présente et vous prie d'agréer, 
 
 <!-- Signature -->
 **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+
+<!-- PJ -->
 ## PIECES JOINTES
+
 <!-- /Signature -->
 
 - **[✉️ Mairie - ERP Tavella - Courrier.md](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%9B%EF%B8%8F%20Mairie/%E2%9C%89%EF%B8%8F%20Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel Monsieur TAVELLA (1er juin 2026)
@@ -85,3 +88,5 @@ Je vous remercie de l'attention portée à la présente et vous prie d'agréer, 
 - **[Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du [J+1]
 
 - **[✉️ Témoin Client - Attestation.md](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%A5%20T%C3%A9moins/%E2%9C%89%EF%B8%8F%20T%C3%A9moin%20Client%20-%20Attestation.md)** — Attestation sur l'honneur temoin oculaire
+<!-- /PJ -->
+

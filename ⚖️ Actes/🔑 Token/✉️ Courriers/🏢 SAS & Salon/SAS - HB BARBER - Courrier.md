@@ -144,6 +144,7 @@ Téléphone : **[Le Téléphone de la Victime](../../../../%F0%9F%A7%A0%20Memory
 *Note administrative : ayant subi une section nerveuse et tendineuse profonde de la main droite dominante le **[J+0 Accident](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-0-accident.md)**, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601%20%F0%9F%A9%BA%20DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l’incapacité d’utiliser normalement un clavier ou d’écrire manuellement, ce qui explique la nécessaire délégation de certaines démarches administratives.*
 <hr><hr>
 
+<!-- PJ -->
 ## PIECES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Dépôt de plainte initial du 2 juin 2026
@@ -154,6 +155,7 @@ Téléphone : **[Le Téléphone de la Victime](../../../../%F0%9F%A7%A0%20Memory
 
 - **[Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Accusé de dépôt du recours tiers CPAM (n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-cpam-dossier-numero.md))
 <hr><hr>
+<!-- /PJ -->
 
 ## Sources Législation
 

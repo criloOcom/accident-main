@@ -678,10 +678,11 @@ Si une profession ou activité erronée est découverte dans un fichier :
 
 - **Lignes horizontales (`---`) autour de l'Objet** : Placer une ligne horizontale (`---`) immédiatement avant et immédiatement après le bloc contenant l'Objet et le N° LRAR.
 
-- **Balises de commentaires HTML pour l'Auteur et le Destinataire** :
+- **Balises de commentaires HTML pour l'Auteur, le Destinataire et les Pièces Jointes** :
 
   - Entourer le bloc adresse de l'expéditeur avec `<!-- Auteur -->` au début et `<!-- /Auteur -->` à la fin.
   - Entourer le bloc adresse du destinataire avec `<!-- Destinataire -->` au début et `<!-- /Destinataire -->` à la fin.
+  - Entourer la section Pièces Jointes avec `<!-- PJ -->` (avant `## PIECES JOINTES`) et `<!-- /PJ -->` (à la fin de la liste des PJ).
 
 - **Exemple de structure type** :
   ```markdown
@@ -708,4 +709,12 @@ Si une profession ou activité erronée est découverte dans un fichier :
   ---
 
   Monsieur le Directeur,
+
+  ...
+
+  <!-- PJ -->
+  ## PIECES JOINTES
+
+  - **[Certificat médical initial](...)** — Constatation des blessures
+  <!-- /PJ -->
   ```

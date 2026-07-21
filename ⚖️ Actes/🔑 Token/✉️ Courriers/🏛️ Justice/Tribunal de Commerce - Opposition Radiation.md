@@ -98,6 +98,7 @@ Je vous remercie de l'attention que vous porterez à cette demande, essentielle 
 Avocat au Barreau
 <hr><hr>
 
+<!-- PJ -->
 ## PIECES JOINTES
 
 - **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de [La Ville de l'Accident]
@@ -110,6 +111,7 @@ Avocat au Barreau
 
 - **[Mise en demeure J+31 — SAS](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Courrier.md)** — LRAR n° [N° LRAR Exploitant] restee sans reponse
 <hr><hr>
+<!-- /PJ -->
 
 ## Sources Législation
 

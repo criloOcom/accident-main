@@ -81,6 +81,8 @@ Je me tiens à votre entière disposition pour être entendu et participer à to
 Je vous prie d'agréer, Monsieur le Doyen des Juges d'Instruction, l'expression de mes salutations respectueuses.
 
 **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
+
+<!-- PJ -->
 ## PIECES JOINTES
 
 - **[Plainte avec constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md)** — datée du **[6 juillet 2026](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-j-38-constitution-pc.md)**
@@ -97,6 +99,7 @@ Je vous prie d'agréer, Monsieur le Doyen des Juges d'Instruction, l'expression 
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° 31727387
 <hr><hr>
+<!-- /PJ -->
 
 ## Sources Législation
 

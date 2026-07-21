@@ -24,8 +24,6 @@ jx: J+39
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%91%AE%20Police/%F0%9F%93%9C%20Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-
-
 # AU JUGE DES RÉFÉRÉS DU TRIBUNAL JUDICIAIRE
 
 ***DEMANDE D'ORDONNANCE DE RÉFÉRÉ-PROVISION ET DE MESURES D'INSTRUCTION EN APPLICATION DES ARTICLES 835 ET 145 DU CODE DE PROCÉDURE CIVILE***
@@ -196,6 +194,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 **[Sébastien GRAZIDE](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 <hr><hr>
 
+<!-- PJ -->
 ## PIECES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Circonstances de l'accident etablissant la responsabilité
@@ -210,6 +209,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 - **[Mises en demeure J+31](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Courrier.md)** — LRAR restees sans reponse
 <hr><hr>
+<!-- /PJ -->
 
 ## Sources Législation
 

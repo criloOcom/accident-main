@@ -107,6 +107,7 @@ Je vous remercie de l'attention que vous porterez à cette demande et vous prie 
 Avocat au Barreau
 <hr><hr>
 
+<!-- PJ -->
 ## PIECES JOINTES
 
 - **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de Foix
@@ -117,6 +118,7 @@ Avocat au Barreau
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]
 <hr><hr>
+<!-- /PJ -->
 
 ## Sources Législation
 

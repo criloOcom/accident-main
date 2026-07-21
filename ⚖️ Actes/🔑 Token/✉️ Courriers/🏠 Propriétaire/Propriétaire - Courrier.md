@@ -128,6 +128,7 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 **[La Victime](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-victime-nom-complet.md)**
 <hr><hr>
 
+<!-- PJ -->
 ## PIECES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026
@@ -142,6 +143,7 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 >
 > Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement de la présente mise en demeure.
 <hr><hr>
+<!-- /PJ -->
 
 ## Sources Législation
 

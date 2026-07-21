@@ -66,6 +66,8 @@ Dans ce contexte, je tenais à porter ces éléments à votre connaissance, pour
 Le dossier complet de ma procédure reste à la disposition de vos services. Bien entendu, si ces éléments appelaient une suite de votre part, je reste à la disposition de vos services.
 
 Je vous remercie par avance de l'attention que vous voudrez bien porter à ces éléments.
+
+<!-- PJ -->
 ## PIECES JOINTES
 
 - **[Constitution de partie civile](../../%E2%9A%96%EF%B8%8F%20Actes%20proceduraux/%F0%9F%91%AE%20Contentieux%20penal/Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de Foix
@@ -73,3 +75,5 @@ Je vous remercie par avance de l'attention que vous voudrez bien porter à ces �
 - **[Mises en demeure J+31](../../../%F0%9F%91%A4%20Reel/%E2%9C%89%EF%B8%8F%20Courriers/%F0%9F%8F%A2%20SAS%20%26%20Salon/%E2%9C%89%EF%B8%8F%20SAS%20-%20Courrier.md)** — LRAR retournees a l'expediteur (defaut d'adresse)
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° [Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]
+<!-- /PJ -->
+

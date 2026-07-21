@@ -130,6 +130,7 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 > Cette situation de handicap physique temporaire explique le délai de transmission de mes demandes administratives.
 <hr><hr>
 
+<!-- PJ -->
 ## PIECES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602%20%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%20Police%20PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026
@@ -142,6 +143,7 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 
 - **[Dossier CPAM](../../../Preuves%20officielles/20260603%20%F0%9F%93%A5%20Attestation%20DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers ouvert a la CPAM (n° 31727387)
 <hr><hr>
+<!-- /PJ -->
 
 ## Sources Législation
 

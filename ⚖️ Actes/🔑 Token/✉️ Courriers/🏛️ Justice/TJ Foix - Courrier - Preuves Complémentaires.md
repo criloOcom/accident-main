@@ -111,6 +111,7 @@ Dans l'attente de votre retour, je vous prie d'agreer, Monsieur le President, l'
 <hr><hr>
 <!-- /Signature -->
 
+<!-- PJ -->
 ## PIECES JOINTES
 
 - **[Note - Suivi Envois LRAR.md](../../%F0%9F%97%82%EF%B8%8F%20Organisation/Note%20-%20Suivi%20Envois%20LRAR.md)** — Accusés de réception des courriers recommandés retournés
@@ -120,3 +121,5 @@ Dans l'attente de votre retour, je vous prie d'agreer, Monsieur le President, l'
 - **[[Extrait Kbis](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) SAS [L'Exploitant du Commerce (La SAS)]](../../../Preuves%20officielles/20260601%20%F0%9F%8F%A2%20Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN **[SIREN de l'Exploitation](../../../../%F0%9F%A7%A0%20Memory/%F0%9F%97%82%EF%B8%8F%20Tokens/token-exploitation-siren.md)**
 
 - **[Note - Audit RNE NPAI SAS.md](../../%F0%9F%93%9A%20Analyses%20juridiques/Note%20-%20Audit%20RNE%20NPAI%20SAS.md)** — Note d'audit RNE/INPI du 10 juillet 2026
+<!-- /PJ -->
+
