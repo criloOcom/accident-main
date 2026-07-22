@@ -20,6 +20,7 @@ dependencies = [
     "pylegifrance>=0.1.0",
     "requests",
     "pyyaml>=6.0.3",
+    "pytest>=9.1.1",
 ]
 requires-python = ">=3.12,<3.14"
 

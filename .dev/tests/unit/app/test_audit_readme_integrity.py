@@ -54,7 +54,7 @@ def test_check_text_anomalies():
     msgs = [r["msg"] for r in results]
     assert any("Balise '[À compléter]' non résolue (l. 1)" in msg for msg in msgs)
     assert any("Balise '[À compléter]' non résolue (l. 2)" in msg for msg in msgs)
-    assert any("Mention 'TODO' résiduelle" in msg for msg in msgs)
+    assert any("'[À FAIRE]' résiduelle" in msg for msg in msgs)
     assert not any("Adresse de la mairie" in msg for msg in msgs) # Exclu car contient "mairie"
 
     # Test Adresse non exclue
