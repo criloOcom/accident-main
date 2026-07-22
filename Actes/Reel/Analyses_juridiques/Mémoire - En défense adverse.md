@@ -1,6 +1,6 @@
 ---
-title: "Mémoire en défense adverse — SAS HB BARBER"
-description: "Pour :** SAS HB BARBER, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC (Partie Défenderesse)"
+title: "Mémoire en défense adverse — SAS [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)"
+description: "Pour :** [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md), [Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) (Partie Défenderesse)"
 type: analyse_juridique
 date: 2026-07-09
 tags:
