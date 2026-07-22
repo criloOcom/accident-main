@@ -1,11 +1,28 @@
 ---
-title: "Rapport Jules #03 — Audit Entrave à la Vérité & Destruction de Preuves"
-description: "Analyse sur la modification des lieux (Art. 434-4 CP), les présomptions de mauvaise foi (Art. 1382 CC) et la jurisprudence CEDH sur les vidéos."
+title: Rapport Jules #03 — Audit Entrave à la Vérité & Destruction de Preuves
+description: Analyse sur la modification des lieux (Art. 434-4 CP), les présomptions de mauvaise foi (Art. 1382 CC) et la jurisprudence CEDH sur les vidéos.
 type: rapport
 progress: 100%
 status: valide
 date: 2026-07-22
-jules_session_id: "AM-MISSION-03"
+jules_session_id: AM-MISSION-03
+subtitle: 📊 Rapport Jules #03 — Audit Entrave à la Vérité & Destruction de Preuves
+objective: Analyser et rapporter Rapport Jules #03 Audit Entrave à la Vérité & Destruction de Preuves
+summary: Analyse sur la modification des lieux (Art. 434-4 CP), les présomptions de mauvaise foi (Art. 1382 CC) et la jurisprudence CEDH sur les vidéos.
+key_points:
+  - I — SYNTHÈSE ET CONSTATATIONS DE TERRAIN
+  - II — ANALYSE JURIDIQUE : DUALITÉ CIVIL / PÉNAL
+  - III — FEUILLE DE ROUTE D'EXPLOITATION (TO-DO LIST INTERACTIVE)
+  - IV — SOURCES & CITATIONS (SOURCES OFFICIELLES GOVERNEMENTALES)
+recipient: Équipe projet
+tags:
+  - jules
+  - mission
+  - automatisation
+  - penal
+  - preuve
+legal_basis:
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [📋 Rapports](./README.md) › Rapport Jules #03*

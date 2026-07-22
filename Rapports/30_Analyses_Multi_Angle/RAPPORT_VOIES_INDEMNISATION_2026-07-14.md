@@ -1,8 +1,24 @@
 ---
-title: "Voies d'indemnisation et recouvrement"
+title: Voies d'indemnisation et recouvrement
 date: 2026-07-14
-description: "Rapport cartographiant toutes les voies d'indemnisation possibles pour la victime, leurs conditions, et la stratégie de recouvrement optimale face au risque d'insolvabilité de la SAS."
+description: Rapport cartographiant toutes les voies d'indemnisation possibles pour la victime, leurs conditions, et la stratégie de recouvrement optimale face au risque d'insolvabilité de la SAS.
 type: rapport
+subtitle: Voies d'indemnisation et stratégie de recouvrement
+objective: Analyser Voies d'indemnisation et stratégie de recouvrement
+summary: Rapport cartographiant toutes les voies d'indemnisation possibles pour la victime, leurs conditions, et la stratégie de recouvrement optimale face au risque d'insolvabilité de la SAS.
+key_points:
+  - I — LE FONDS DE GARANTIE DES VICTIMES DES ACTES DE TERRORISME ET D'AUTRES INFRACTIONS (FGTI / CIVI)
+  - II — L'ACTION DIRECTE CONTRE L'ASSUREUR DE RESPONSABILITÉ CIVILE
+  - III — LA RESPONSABILITÉ DE L'ÉTAT ET L'AIDE AU RECOUVREMENT
+  - IV — LE RECOUVREMENT DES FRAIS IRRÉPÉTIBLES (ART. 700 CPC)
+  - V — STRATÉGIE DE RECOUVREMENT ET CALENDRIER DE SAISINE
+tags:
+  - rapport
+  - dintilhac
+  - indemnisation
+  - penal
+  - token
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md)*

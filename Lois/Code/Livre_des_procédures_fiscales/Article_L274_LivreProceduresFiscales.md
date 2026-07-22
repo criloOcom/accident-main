@@ -1,12 +1,18 @@
 ---
-title: "Livre des procédures fiscales — Art. L.274"
-description: "Livre des procédures fiscales — Prescription de l'action en recouvrement (4 ans)"
+title: Livre des procédures fiscales — Art. L.274
+description: Livre des procédures fiscales — Prescription de l'action en recouvrement (4 ans)
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000042914471
 legiarti: LEGIARTI000042914471
 code: Livre des procédures fiscales
 article: L274
+subtitle: Livre des procédures fiscales — Art. L274
+objective: Analyser Livre des procédures fiscales Art. L274
+summary: Livre des procédures fiscales — Prescription de l'action en recouvrement (4 ans)
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Livre des procédures fiscales](./README.md)*

@@ -1,12 +1,25 @@
 ---
-title: "Article 706-3 du Code de procédure pénale"
-description: "Code de procédure pénale — Indemnisation des victimes d'infractions (FGTI)"
+title: Article 706-3 du Code de procédure pénale
+description: Code de procédure pénale — Indemnisation des victimes d'infractions (FGTI)
 type: loi
 date: 2026-07-10
 source: Légifrance/LEGIARTI000006577625
 legiarti: LEGIARTI000006577625
 code: Code de procédure pénale
 article: 706-3
+subtitle: Article 706-3 du Code de procédure pénale
+objective: Analyser Article 706-3 du Code de procédure pénale
+summary: Code de procédure pénale — Indemnisation des victimes d'infractions (FGTI)
+key_points:
+  - Texte de l'article
+  - Contexte juridique
+  - Jurisprudence associée
+  - Liens utiles
+tags:
+  - rapport
+  - responsabilite
+  - penal
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure pénale](./README.md)*

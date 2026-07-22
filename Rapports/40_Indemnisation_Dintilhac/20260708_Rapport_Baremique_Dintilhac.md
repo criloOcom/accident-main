@@ -1,16 +1,19 @@
 ---
-title: "Rapport d'expertise barémique — Évaluation Dintilhac"
+title: Rapport d'expertise barémique — Évaluation Dintilhac
 description: "Contexte :** Évaluation financière des préjudices corporels subis par la victime. Analyse détaillée poste par poste au regard des barèmes de référence (Mornet 2024, BIBAL, jurisprudence)."
 type: rapport
 date: 2026-07-08
 tags:
-  - dintilhac
-  - indemnisation
-  - évaluation
-  - barème
 statut: final
 destinataire: Dossier / Equipe Juridique
 auteur: Expert en chiffrage Dintilhac (Jules)
+subtitle: RAPPORT D'EXPERTISE BARÉMIQUE — ÉVALUATION DINTILHAC
+objective: Analyser RAPPORT D'EXPERTISE BARÉMIQUE ÉVALUATION DINTILHAC
+summary: "Contexte :** Évaluation financière des préjudices corporels subis par la victime. Analyse détaillée poste par poste au regard des barèmes de référence (Mornet 2024, BIBAL, jurisprudence)."
+key_points:
+  - I — SYNTHÈSE DE L'ÉVALUATION
+  - II — ANALYSE DE LA PROVISION EN RÉFÉRÉ
+  - III — CONCLUSION GLOBALE
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [40 Indemnisation Dintilhac](./README.md)*

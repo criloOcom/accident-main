@@ -1,8 +1,23 @@
 ---
-title: "RAPPORT D'AUDIT — Courriers (Courriers)"
+title: RAPPORT D'AUDIT — Courriers (Courriers)
 date: FIXME
 description: "Date :** 10 juillet 2026"
 type: rapport
+subtitle: RAPPORT D'AUDIT — Courriers (Courriers)
+objective: Auditer et vérifier la conformité de RAPPORT D'AUDIT Courriers (Courriers)
+summary: "Date :** 10 juillet 2026"
+key_points:
+  - I — TABLEAU SYNTHÉTIQUE
+  - II — DÉTAIL PAR COURRIER
+  - III — CORRESPONDANCE VERSIONS RÉELLES
+  - IV — PROBLÈMES TRANSVERSAUX
+  - V — RECOMMANDATIONS
+recipient: Tribunal judiciaire
+tags:
+  - audit
+  - conformite
+  - qualite
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*

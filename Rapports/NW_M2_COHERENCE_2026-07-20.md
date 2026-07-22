@@ -1,7 +1,22 @@
 ---
-title: "NW_M2_COHERENCE_2026-07-20"
+title: NW_M2_COHERENCE_2026-07-20
 type: preuve
-date: "2026-07-20"
+date: 2026-07-20
+subtitle: Rapport d'Audit Cohérence Juridique
+objective: Contrôler et auditer Rapport d'Audit Cohérence Juridique
+summary: Rapport d'Audit Cohérence Juridique
+key_points:
+  - 1. Vérification des montants Dintilhac
+  - 2. Vérification des dates clés
+tags:
+  - nightwatch
+  - controle
+  - qualite
+  - dintilhac
+  - indemnisation
+  - penal
+  - preuve
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

@@ -1,8 +1,22 @@
 ---
-title: "Check-list opérationnelle Accident Main — fins 2026"
+title: Check-list opérationnelle Accident Main — fins 2026
 date: FIXME
-description: "Tableau de bord chronologique des actions à mener jusqu'à fin 2026 (priorités, dépendances, calendrier)."
+description: Tableau de bord chronologique des actions à mener jusqu'à fin 2026 (priorités, dépendances, calendrier).
 type: rapport
+subtitle: Check-list opérationnelle Accident Main — fins 2026
+objective: Planifier et organiser le suivi de Check-list opérationnelle Accident Main fins 2026
+summary: Tableau de bord chronologique des actions à mener jusqu'à fin 2026 (priorités, dépendances, calendrier).
+key_points:
+  - I — Synthèse des actions prioritaires (Top 5)
+  - II — Dépendances et risques
+  - III — Calendrier Chronologique (Août – Décembre 2026)
+recipient: Avocat
+tags:
+  - planning
+  - action
+  - suivi
+  - preuve
+  - avocat
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [10 Pilotage](./README.md)*

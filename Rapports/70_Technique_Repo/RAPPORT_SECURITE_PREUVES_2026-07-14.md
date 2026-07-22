@@ -1,8 +1,23 @@
 ---
-title: "Rapport sur la Stratégie de Sécurisation et Conservation des Preuves"
+title: Rapport sur la Stratégie de Sécurisation et Conservation des Preuves
 date: 2026-07-14
-description: "Analyse de la sécurisation probatoire (Art. 1353 C. civ., 145 CPC, 41 et 60-1 CPP), conservation des preuves (vidéos, témoignages, numérique) et matrice de preuves."
+description: Analyse de la sécurisation probatoire (Art. 1353 C. civ., 145 CPC, 41 et 60-1 CPP), conservation des preuves (vidéos, témoignages, numérique) et matrice de preuves.
 type: rapport
+subtitle: STRATÉGIE DE SÉCURISATION PROBATOIRE ET CONSERVATION DES PREUVES
+objective: Analyser STRATÉGIE DE SÉCURISATION PROBATOIRE ET CONSERVATION DES PREUVES
+summary: Analyse de la sécurisation probatoire (Art. 1353 C. civ., 145 CPC, 41 et 60-1 CPP), conservation des preuves (vidéos, témoignages, numérique) et matrice de preuves.
+key_points:
+  - I — SÉCURISATION DES PREUVES VIDÉO ET MATÉRIELLES
+  - II — SÉCURISATION DES PREUVES NUMÉRIQUES
+  - III — PREUVE BANCAIRE ET RELATION CONTRACTUELLE
+  - IV — MATRICE DE PREUVE / CHEFS DE PRÉTENTION
+tags:
+  - rapport
+  - preuve
+  - token
+  - legifrance
+legal_basis:
+  - Code de procédure civile
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [70 Technique Repo](./README.md)*

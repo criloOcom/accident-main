@@ -1,8 +1,26 @@
 ---
-title: "M14 — Audit des mémoires et conclusions"
+title: M14 — Audit des mémoires et conclusions
 date: FIXME
-description: "Vérification de la cohérence documentaire des mémoires et conclusions du dossier accident de la main."
+description: Vérification de la cohérence documentaire des mémoires et conclusions du dossier accident de la main.
 type: rapport
+subtitle: M14 — AUDIT DES MÉMOIRES ET CONCLUSIONS
+objective: Auditer et vérifier la conformité de M14 AUDIT DES MÉMOIRES ET CONCLUSIONS
+summary: Vérification de la cohérence documentaire des mémoires et conclusions du dossier accident de la main.
+key_points:
+  - I — 📜 TJ Foix - Conclusions au Fond
+  - II — 🎯 Conclusions Refere Provision
+  - III — Mémoire - En défense adverse
+  - IV — Notes en délibéré
+  - V — Anonymisation (Tokens)
+  - VI — PLAN D'ACTION (TODO)
+tags:
+  - audit
+  - conformite
+  - qualite
+  - responsabilite
+  - token
+legal_basis:
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*

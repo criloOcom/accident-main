@@ -1,9 +1,22 @@
 ---
-title: "RAPPORT AUDIT HERMÈS — Conformité technique du dépôt (2026-07-11)"
+title: RAPPORT AUDIT HERMÈS — Conformité technique du dépôt (2026-07-11)
 date: 2026-07-11
-description: "Audit read-only des breadcrumbs, liens internes, YAML frontmatter, structure/navigation, liens brisés et propreté du dossier accident-main."
+description: Audit read-only des breadcrumbs, liens internes, YAML frontmatter, structure/navigation, liens brisés et propreté du dossier accident-main.
 type: rapport
 statut: projet
+subtitle: RAPPORT AUDIT HERMÈS — Conformité technique du dépôt
+objective: Auditer et vérifier la conformité de RAPPORT AUDIT HERMÈS Conformité technique du dépôt
+summary: Audit read-only des breadcrumbs, liens internes, YAML frontmatter, structure/navigation, liens brisés et propreté du dossier accident-main.
+key_points:
+  - I — RÉSUMÉ EXÉCUTIF
+  - II — DÉTAIL PAR CATÉGORIE
+  - III — RECOMMANDATIONS (priorisées P0–P3)
+  - IV — MÉTHODOLOGIE & LIMITES
+tags:
+  - audit
+  - conformite
+  - qualite
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*

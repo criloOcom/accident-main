@@ -1,12 +1,18 @@
 ---
-title: "Code des assurances — Art. L.113-1"
-description: "Code des assurances — Obligations de l'assureur et de l'assuré"
+title: Code des assurances — Art. L.113-1
+description: Code des assurances — Obligations de l'assureur et de l'assuré
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000006791984
 legiarti: LEGIARTI000006791984
 code: Code des assurances
 article: L113-1
+subtitle: Code des assurances — Art. L.113-1
+objective: Analyser Code des assurances Art. L.113-1
+summary: Code des assurances — Obligations de l'assureur et de l'assuré
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code assurances](./README.md)*

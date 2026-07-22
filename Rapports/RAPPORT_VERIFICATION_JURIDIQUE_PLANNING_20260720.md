@@ -1,8 +1,22 @@
 ---
-title: "Rapport de vérification juridique & planning de la semaine"
-description: "Rapport exhaustif d'audit des références Légifrance (LEGIARTI) et Judilibre (JURITEXT) et planification des échéances du 20 juillet 2026."
+title: Rapport de vérification juridique & planning de la semaine
+description: Rapport exhaustif d'audit des références Légifrance (LEGIARTI) et Judilibre (JURITEXT) et planification des échéances du 20 juillet 2026.
 type: rapport
-date: "2026-07-20"
+date: 2026-07-20
+subtitle: Rapport de vérification juridique & planning de la semaine
+objective: Analyser Rapport de vérification juridique & planning de la semaine
+summary: Rapport exhaustif d'audit des références Légifrance (LEGIARTI) et Judilibre (JURITEXT) et planification des échéances du 20 juillet 2026.
+key_points:
+  - 1. Rapport Planning (Semaine du 20 Juillet 2026)
+  - 2. Rapport de Vérification JURITEXT (Décisions de Justice)
+  - 3. Rapport de Vérification LEGIARTI (Articles de Code)
+  - 4. Synthèse des Anomalies & Recommandations
+tags:
+  - rapport
+  - preuve
+  - legifrance
+legal_basis:
+  - Code de commerce
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

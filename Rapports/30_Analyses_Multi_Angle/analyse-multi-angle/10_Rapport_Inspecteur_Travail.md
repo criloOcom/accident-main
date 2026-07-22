@@ -1,8 +1,22 @@
 ---
 title: "Rapport 10 : Inspecteur du Travail (Ariège)"
 date: FIXME
-description: "Analyse des infractions au Code du travail suite à l'accident du 29/05/2026 au salon de coiffure."
+description: Analyse des infractions au Code du travail suite à l'accident du 29/05/2026 au salon de coiffure.
 type: rapport
+subtitle: "Rapport 10 : Inspecteur du Travail (Ariège)"
+objective: "Analyser Rapport 10 : Inspecteur du Travail (Ariège)"
+summary: Analyse des infractions au Code du travail suite à l'accident du 29/05/2026 au salon de coiffure.
+key_points:
+  - I — ANALYSE DES INFRACTIONS (CODE DU TRAVAIL)
+  - II — QUALIFICATION DE LA VICTIME ("TRAVAILLEUR" ?)
+  - III — SUITES ET MESURES CONSERVATOIRES
+  - IV — CONCLUSIONS ET RECOMMANDATIONS
+tags:
+  - rapport
+  - token
+  - legifrance
+legal_basis:
+  - Code du travail
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [Rapports](../../README.md) › [30 Analyses Multi Angle](../README.md) › [analyse-multi-angle](./README.md)*

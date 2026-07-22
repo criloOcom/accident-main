@@ -1,8 +1,21 @@
 ---
-title: "RAPPORT — Liens obligatoires sur les citations internes (Règle #17)"
+title: RAPPORT — Liens obligatoires sur les citations internes (Règle #17)
 date: 2026-07-11
 description: "Mise en conformité de la navigation : toute citation de dossier/fichier interne doit être un lien cliquable. Règle #17, scripts, état des lieux."
 type: rapport
+subtitle: RAPPORT — Liens obligatoires sur les citations internes
+objective: Analyser RAPPORT Liens obligatoires sur les citations internes
+summary: "Mise en conformité de la navigation : toute citation de dossier/fichier interne doit être un lien cliquable. Règle #17, scripts, état des lieux."
+key_points:
+  - I — Objectif
+  - II — Règle instituée
+  - III — Scripts créés (.dev/app)
+  - IV — Action réalisée (commit associé)
+  - V — Restant à traiter (non bloquant)
+  - VI — Recommandation
+tags:
+  - rapport
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*

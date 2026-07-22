@@ -1,7 +1,24 @@
 ---
-title: "NW_M11_DINTILHAC_2026-07-20"
+title: NW_M11_DINTILHAC_2026-07-20
 type: preuve
-date: "2026-07-20"
+date: 2026-07-20
+subtitle: RAPPORT D'ÉVALUATION FINANCIÈRE DINTILHAC — MISSION NIGHT WATCH M11
+objective: Contrôler et auditer RAPPORT D'ÉVALUATION FINANCIÈRE DINTILHAC MISSION NIGHT WATCH M11
+summary: RAPPORT D'ÉVALUATION FINANCIÈRE DINTILHAC — MISSION NIGHT WATCH M11
+key_points:
+  - 1. Chargement de la skill
+  - 2. Référentiel Canonique ([Memory/STRICT VARIABLES.md](../Memory/STRICT VARIABLES.md))
+  - 3. Audit des fichiers dans `Etudes_indemnisation/`
+  - 4. Audit des Conclusions au Fond (`TJ Foix - Conclusions au Fond.md`)
+  - 5. Audit des Conclusions Référé Provision (`TJ Foix - TJ Foix - Référé Provision - Conclusions.md`)
+  - 6. Synthèse et Recommandations
+tags:
+  - nightwatch
+  - controle
+  - qualite
+  - dintilhac
+  - indemnisation
+  - preuve
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

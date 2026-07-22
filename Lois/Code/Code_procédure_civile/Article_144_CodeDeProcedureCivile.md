@@ -1,12 +1,19 @@
 ---
-title: "Code de procédure civile — Art. 144"
-description: "Code de procédure civile — Décisions ordonnant des mesures d'instruction"
+title: Code de procédure civile — Art. 144
+description: Code de procédure civile — Décisions ordonnant des mesures d'instruction
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000006410267
 legiarti: LEGIARTI000006410267
 code: Code de procédure civile
 article: 144
+subtitle: Code de procédure civile — Art. 144
+objective: Analyser Code de procédure civile Art. 144
+summary: Code de procédure civile — Décisions ordonnant des mesures d'instruction
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure civile](./README.md)*

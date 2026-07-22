@@ -1,12 +1,18 @@
 ---
-title: "Code du travail — Art. L.8221-1"
-description: "Code du travail — Interdiction du travail dissimulé"
+title: Code du travail — Art. L.8221-1
+description: Code du travail — Interdiction du travail dissimulé
 type: loi
 date: 2026-07-20
 source: Légifrance/LEGIARTI000006904815
 legiarti: LEGIARTI000006904815
 code: Code du travail
 article: L8221-1
+subtitle: Code du travail — Art. L.8221-1
+objective: Analyser Code du travail Art. L.8221-1
+summary: Code du travail — Interdiction du travail dissimulé
+tags:
+  - rapport
+  - legifrance
 ---
 
 <!-- Breadcrumb -->

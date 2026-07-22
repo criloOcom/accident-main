@@ -1,12 +1,18 @@
 ---
-title: "Code des relations entre le public et l'administration — Art. L.311-1"
-description: "CRPA — Étendue du droit à communication des documents administratifs"
+title: Code des relations entre le public et l'administration — Art. L.311-1
+description: CRPA — Étendue du droit à communication des documents administratifs
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000033218946
 legiarti: LEGIARTI000031367683
 code: Code des relations entre le public et l'administration
 article: L311-1
+subtitle: Code des relations entre le public et l'administration — Art. L.311-1
+objective: Analyser Code des relations entre le public et l'administration Art. L.311-1
+summary: CRPA — Étendue du droit à communication des documents administratifs
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code des relations entre le public et l'administration](./README.md)*

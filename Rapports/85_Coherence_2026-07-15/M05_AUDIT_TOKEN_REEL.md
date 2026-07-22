@@ -3,6 +3,17 @@ title: Audit de la double strate Token/Reel
 date: FIXME
 description: Rapport d'audit vérifiant l'intégrité de la double strate Token/Reel.
 type: rapport
+subtitle: Rapport d'audit vérifiant l'intégrité de la double strate Token/Reel.
+objective: Auditer et vérifier la conformité de Audit de la double strate Token/Reel
+summary: Rapport d'audit vérifiant l'intégrité de la double strate Token/Reel.
+key_points:
+  - I — Incohérences détectées
+recipient: Mairie de Foix
+tags:
+  - audit
+  - conformite
+  - qualite
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*

@@ -1,12 +1,18 @@
 ---
-title: "Code du travail — Art. L.8221-5"
-description: "Code du travail — Travail dissimulé par dissimulation d'emploi salarié"
+title: Code du travail — Art. L.8221-5
+description: Code du travail — Travail dissimulé par dissimulation d'emploi salarié
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000033024966
 legiarti: LEGIARTI000033024966
 code: Code du travail
 article: L8221-5
+subtitle: Code du travail — Art. L.8221-5
+objective: Analyser Code du travail Art. L.8221-5
+summary: Code du travail — Travail dissimulé par dissimulation d'emploi salarié
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code du travail](./README.md)*

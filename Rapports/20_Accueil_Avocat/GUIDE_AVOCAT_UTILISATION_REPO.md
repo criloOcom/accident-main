@@ -1,8 +1,24 @@
 ---
 title: "Guide de l'Avocat : Utilisation de l'Écosystème du Projet"
 date: FIXME
-description: "Guide pédagogique expliquant la navigation et l'utilisation de l'écosystème Git, l'architecture Token/Reel, et la contribution au projet."
+description: Guide pédagogique expliquant la navigation et l'utilisation de l'écosystème Git, l'architecture Token/Reel, et la contribution au projet.
 type: rapport
+subtitle: "Guide de l'Avocat : Utilisation de l'Écosystème du Projet"
+objective: "Fournir un guide de référence pour Guide de l'Avocat : Utilisation de l'Écosystème du Projet"
+summary: Guide pédagogique expliquant la navigation et l'utilisation de l'écosystème Git, l'architecture Token/Reel, et la contribution au projet.
+key_points:
+  - I — L'Arborescence : La Règle de la "Double Strate"
+  - II — Comment Lire un Fichier "Token"
+  - III — La Correspondance entre Fichiers Token et Documents Juridiques
+  - IV — Comment Proposer des Modifications (Pull Requests)
+  - V — La Convention de Nommage "J+XX"
+recipient: Avocat
+tags:
+  - guide
+  - documentation
+  - reference
+  - avocat
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [20 Accueil Avocat](./README.md)*

@@ -1,8 +1,21 @@
 ---
-title: "Synthèse des prescriptions extinctives"
-description: "M10 — Synthèse complète des délais de prescription applicables au dossier d'accident."
+title: Synthèse des prescriptions extinctives
+description: M10 — Synthèse complète des délais de prescription applicables au dossier d'accident.
 type: rapport
 date: 2026-07-21
+subtitle: M10 — Synthèse des Prescriptions Extinctives
+objective: Synthétiser et présenter une vue d'ensemble de M10 Synthèse des Prescriptions Extinctives
+summary: M10 — Synthèse complète des délais de prescription applicables au dossier d'accident.
+key_points:
+  - Paramètres du dossier
+  - Synthèse des régimes de prescription
+  - Chronologie des dates-butoir critiques
+  - Risques identifiés
+tags:
+  - synthese
+  - global
+  - responsabilite
+  - penal
 ---
 
 <!-- Breadcrumb -->

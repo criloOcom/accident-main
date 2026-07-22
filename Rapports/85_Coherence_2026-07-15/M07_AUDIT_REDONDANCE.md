@@ -1,8 +1,22 @@
 ---
-title: "M07 — Audit des Redondances et Contradictions"
+title: M07 — Audit des Redondances et Contradictions
 date: FIXME
 description: "Rapport d'audit de la cohérence documentaire : montants Dintilhac, dates, PIECES MAP, tokens."
 type: rapport
+subtitle: M07 — Audit des Redondances et Contradictions
+objective: Auditer et vérifier la conformité de M07 Audit des Redondances et Contradictions
+summary: "Rapport d'audit de la cohérence documentaire : montants Dintilhac, dates, PIECES MAP, tokens."
+key_points:
+  - I — OBJECTIF DE L'AUDIT
+  - II — ANALYSE PAR DOMAINE
+  - III — PLAN DE CORRECTION (TODO)
+tags:
+  - audit
+  - conformite
+  - qualite
+  - dintilhac
+  - indemnisation
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*

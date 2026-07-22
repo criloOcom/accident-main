@@ -1,9 +1,23 @@
 ---
-title: "50 Questions d'Audit Inverse (V3)"
-description: "Questions d'audit destinées à opencode pour valider l'intégrité du dépôt"
+title: 50 Questions d'Audit Inverse (V3)
+description: Questions d'audit destinées à opencode pour valider l'intégrité du dépôt
 type: rapport
 statut: preparation
 date: FIXME
+subtitle: 50 Questions d'Audit Inverse (V3) — Pour opencode
+objective: Auditer et vérifier la conformité de 50 Questions d'Audit Inverse (V3) Pour opencode
+summary: Questions d'audit destinées à opencode pour valider l'intégrité du dépôt
+key_points:
+  - 1. Sécurité & RGPD (Q1–Q10)
+  - 2. Cibles de Responsabilité — SAS HB BARBER (Q11–Q20)
+  - 3. Validité Technique des Builds & Strate Reel (Q21–Q30)
+  - 4. Cohérence des Pièces & Dates (Q31–Q40)
+  - 5. Navigation, Liens & Hook de Commit (Q41–Q50)
+tags:
+  - audit
+  - conformite
+  - qualite
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

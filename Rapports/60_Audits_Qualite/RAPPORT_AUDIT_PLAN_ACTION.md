@@ -1,8 +1,22 @@
 ---
-title: "RAPPORT D'AUDIT — PLAN D'ACTION ET ORDONNANCEMENT"
+title: RAPPORT D'AUDIT — PLAN D'ACTION ET ORDONNANCEMENT
 date: FIXME
 description: "Date :** 10 juillet 2026"
 type: rapport
+subtitle: RAPPORT D'AUDIT — PLAN D'ACTION ET ORDONNANCEMENT
+objective: Auditer et vérifier la conformité de RAPPORT D'AUDIT PLAN D'ACTION ET ORDONNANCEMENT
+summary: "Date :** 10 juillet 2026"
+key_points:
+  - I — SYNTHÈSE GLOBALE
+  - II — ANALYSE DOCUMENT PAR DOCUMENT
+  - III — ANALYSE DES DÉPENDANCES ET CHAÎNAGE CRITIQUE
+  - IV — RISQUES IDENTIFIÉS
+  - V — GAPS DE COHÉRENCE PLAN vs CALENDRIER
+  - VI — FRISE CHRONOLOGIQUE REELLE vs PLANIFIÉE
+tags:
+  - audit
+  - conformite
+  - qualite
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*

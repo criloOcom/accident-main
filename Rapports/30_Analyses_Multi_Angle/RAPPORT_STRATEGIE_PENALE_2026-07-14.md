@@ -1,8 +1,23 @@
 ---
-title: "Rapport de Stratégie Pénale et Saisine du Parquet"
+title: Rapport de Stratégie Pénale et Saisine du Parquet
 date: 2026-07-14
-description: "Analyse de la dimension pénale, qualification des infractions, procédure et saisine du Parquet (Art. 40 CPP)"
+description: Analyse de la dimension pénale, qualification des infractions, procédure et saisine du Parquet (Art. 40 CPP)
 type: rapport
+subtitle: Rapport de Stratégie Pénale et Saisine du Parquet
+objective: Analyser Rapport de Stratégie Pénale et Saisine du Parquet
+summary: Analyse de la dimension pénale, qualification des infractions, procédure et saisine du Parquet (Art. 40 CPP)
+key_points:
+  - I — Qualification des infractions et fondements légaux
+  - II — Le Signalement au Procureur (Article 40 du Code de procédure pénale)
+  - III — Constitution de Partie Civile
+  - IV — Réquisition de l'Officier de Police Judiciaire (OPJ)
+  - V — Prescription Pénale
+  - VI — Coordination Civil / Pénal
+recipient: Parquet
+tags:
+  - rapport
+  - penal
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md)*

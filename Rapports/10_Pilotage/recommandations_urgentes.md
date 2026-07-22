@@ -1,15 +1,24 @@
 ---
-title: "Recommandations Urgentes et Priorisation des Actions"
-description: "Ordre de priorité des opérations pour la sauvegarde des preuves."
+title: Recommandations Urgentes et Priorisation des Actions
+description: Ordre de priorité des opérations pour la sauvegarde des preuves.
 type: rapport
 date: 2026-06-30
 tags:
-  - urgence
-  - recommandations
-  - preuves
 statut: final
 destinataire: La Victime
 auteur: Huissier de Justice
+subtitle: RECOMMANDATIONS URGENTES DE L'HUISSIER DE JUSTICE
+objective: Analyser RECOMMANDATIONS URGENTES DE L'HUISSIER DE JUSTICE
+summary: Ordre de priorité des opérations pour la sauvegarde des preuves.
+key_points:
+  - I — PRIORITÉ 1 (URGENCE ABSOLUE) : SAUVEGARDE DE LA VIDÉOSURVEILLANCE
+  - II — PRIORITÉ 2 : DÉPÔT IMMÉDIAT DE LA REQUÊTE ARTICLE 145 CPC
+  - III — PRIORITÉ 3 : INTERVENTION CONJOINTE AVEC UN ARTISAN (DEVIS)
+  - IV — POINT D'ATTENTION : L'ADRESSE ERRONÉE SUR LE PV DE POLICE
+  - V — CONCLUSION
+recipient: Tribunal judiciaire
+legal_basis:
+  - Code de procédure civile
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [10 Pilotage](./README.md)*

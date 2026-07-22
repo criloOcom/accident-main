@@ -2,6 +2,25 @@
 title: "Mission 04 : Rapport du Juge Civil"
 description: "Analyse sur le fond : responsabilité civile, lien de causalité, exonérations et évaluation Dintilhac."
 type: analyse_juridique
+subtitle: "MISSION 04 : RAPPORT DU JUGE CIVIL"
+objective: "Analyser MISSION 04 : RAPPORT DU JUGE CIVIL"
+summary: "Analyse sur le fond : responsabilité civile, lien de causalité, exonérations et évaluation Dintilhac."
+key_points:
+  - I — RAPPEL DES FAITS ET PROCÉDURE
+  - II — ANALYSE DU FONDEMENT DE LA RESPONSABILITÉ
+  - III — EXAMEN DES CAUSES D'EXONÉRATION
+  - IV — ÉVALUATION DES PRÉJUDICES (NOMENCLATURE DINTILHAC)
+  - V — CONCLUSION
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - dintilhac
+  - indemnisation
+  - responsabilite
+  - token
+  - legifrance
+legal_basis:
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [Rapports](../../README.md) › [30 Analyses Multi Angle](../README.md) › [analyse-multi-angle](./README.md)*

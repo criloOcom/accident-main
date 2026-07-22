@@ -1,7 +1,21 @@
 ---
-title: "NW_M12_LEGIFRANCE_2026-07-20"
+title: NW_M12_LEGIFRANCE_2026-07-20
 type: preuve
-date: "2026-07-20"
+date: 2026-07-20
+subtitle: "Rapport d'audit : Vérification des URLs Légifrance et JURITEXT"
+objective: "Contrôler et auditer Rapport d'audit : Vérification des URLs Légifrance et JURITEXT"
+summary: "Rapport d'audit : Vérification des URLs Légifrance et JURITEXT"
+key_points:
+  - 1. Méthodologie
+  - 2. Résultats de l'audit
+  - 3. Conformité JURITEXT_PROTOCOL.md
+tags:
+  - nightwatch
+  - controle
+  - qualite
+  - preuve
+  - token
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

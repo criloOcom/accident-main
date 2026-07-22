@@ -1,8 +1,21 @@
 ---
-title: "Rapport de Finalisation — Requête Art. 145 CPC"
-description: "Analyse et propositions de correction de la requête 145 CPC suite aux découvertes du 16 juillet 2026."
+title: Rapport de Finalisation — Requête Art. 145 CPC
+description: Analyse et propositions de correction de la requête 145 CPC suite aux découvertes du 16 juillet 2026.
 type: rapport
 date: 2026-07-18
+subtitle: Rapport de Finalisation — Requête Art. 145 CPC
+objective: Analyser Rapport de Finalisation Requête Art. 145 CPC
+summary: Analyse et propositions de correction de la requête 145 CPC suite aux découvertes du 16 juillet 2026.
+key_points:
+  - I — ÉTAT DE LA REQUÊTE ET RÉALITÉ DU DÉPÔT
+  - II — CORRECTIONS À APPORTER (IDENTITÉ DU DÉFENDEUR)
+  - III — NOUVELLES PIÈCES À INTÉGRER
+  - IV — FONDEMENT JURIDIQUE ET MOTIF LÉGITIME (ART. 145 CPC)
+  - V — MODALITÉS PRATIQUES DE DÉPÔT
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

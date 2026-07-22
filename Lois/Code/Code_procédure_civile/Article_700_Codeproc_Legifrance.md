@@ -1,12 +1,20 @@
 ---
-title: "Article 700"
-description: "Code de procédure civile — Frais irrépétibles"
+title: Article 700
+description: Code de procédure civile — Frais irrépétibles
 type: loi
 date: 2026-07-10
 source: Légifrance/LEGIARTI000045268436
 legiarti: LEGIARTI000045268436
 code: Code de procédure civile
 article: 700
+subtitle: Article 700
+objective: Analyser Article 700
+summary: Code de procédure civile — Frais irrépétibles
+recipient: Avocat
+tags:
+  - rapport
+  - avocat
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure civile](./README.md)*

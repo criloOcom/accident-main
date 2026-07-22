@@ -1,9 +1,24 @@
 ---
-title: "FAQ Juridique Globale"
-description: "FAQ complète de 50 questions couvrant tous les aspects du dossier"
+title: FAQ Juridique Globale
+description: FAQ complète de 50 questions couvrant tous les aspects du dossier
 type: rapport
 date: 2026-07-21
 statut: final
+subtitle: FAQ JURIDIQUE GLOBALE
+objective: Analyser FAQ JURIDIQUE GLOBALE
+summary: FAQ complète de 50 questions couvrant tous les aspects du dossier
+key_points:
+  - A. THÈME 1 : LES FAITS
+  - B. THÈME 2 : LE DROIT APPLICABLE
+  - C. THÈME 3 : LE PRÉJUDICE
+  - D. THÈME 4 : LA PROCÉDURE
+  - E. THÈME 5 : L'ASSURANCE ET LES DIRIGEANTS
+  - F. THÈME 6 : L'INDEMNISATION
+tags:
+  - rapport
+  - token
+legal_basis:
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [📁 Rapports](./README.md) › FAQ_JURIDIQUE_GLOBALE*

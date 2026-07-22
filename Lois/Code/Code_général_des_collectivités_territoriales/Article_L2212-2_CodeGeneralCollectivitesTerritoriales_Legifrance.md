@@ -1,12 +1,25 @@
 ---
-title: "Article L. 2212-2 du Code général des collectivités territoriales"
-description: "CGCT — Pouvoirs de police du maire"
+title: Article L. 2212-2 du Code général des collectivités territoriales
+description: CGCT — Pouvoirs de police du maire
 type: loi
 date: 2026-07-10
 source: Légifrance/LEGIARTI000029946370
 legiarti: LEGIARTI000029946370
 code: Code général des collectivités territoriales
 article: L2212-2
+subtitle: Article L. 2212-2 du Code général des collectivités territoriales
+objective: Analyser Article L. 2212-2 du Code général des collectivités territoriales
+summary: CGCT — Pouvoirs de police du maire
+key_points:
+  - Texte de l'article
+  - Contexte juridique
+  - Application concrète
+  - Jurisprudence associée
+  - Liens avec notre dossier
+recipient: Mairie de Foix
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code général des collectivités territoriales](./README.md)*

@@ -1,8 +1,24 @@
 ---
-title: "RAPPORT D'AUDIT — Réorganisation des Preuves Officielles"
+title: RAPPORT D'AUDIT — Réorganisation des Preuves Officielles
 date: 2026-07-11
 description: "Date** : 11 juillet 2026"
 type: rapport
+subtitle: RAPPORT D'AUDIT — Réorganisation des Preuves Officielles
+objective: Auditer et vérifier la conformité de RAPPORT D'AUDIT Réorganisation des Preuves Officielles
+summary: "Date** : 11 juillet 2026"
+key_points:
+  - Sommaire
+  - I — Nouvelle Structure Identifiée
+  - II — Analyse des Impacts
+  - III — Vérification des Références
+  - IV — Recommandations
+  - V — Actions Correctives
+recipient: Mairie de Foix
+tags:
+  - audit
+  - conformite
+  - qualite
+  - preuve
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*

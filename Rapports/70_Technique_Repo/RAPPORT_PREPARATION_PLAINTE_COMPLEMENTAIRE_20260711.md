@@ -1,8 +1,23 @@
 ---
-title: "RAPPORT DE PRÉPARATION — Plainte Complémentaire Police Foix"
+title: RAPPORT DE PRÉPARATION — Plainte Complémentaire Police Foix
 date: 2026-07-11
 description: "Date** : 11 juillet 2026"
 type: rapport
+subtitle: RAPPORT DE PRÉPARATION — Plainte Complémentaire Police Foix
+objective: Analyser RAPPORT DE PRÉPARATION Plainte Complémentaire Police Foix
+summary: "Date** : 11 juillet 2026"
+key_points:
+  - Sommaire
+  - I — Contexte et Objectifs
+  - II — Documents Créés
+  - III — Contenu des Documents
+  - IV — Stratégie de Présentation
+  - V — Checklist Complète
+recipient: Mairie de Foix
+tags:
+  - rapport
+  - penal
+  - preuve
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [70 Technique Repo](./README.md)*

@@ -1,8 +1,22 @@
 ---
-title: "Mission Night Watch M14 — Audit continuité et cohérence globale"
-description: "Rapport d'audit de la continuité et de la cohérence globale du dépôt."
+title: Mission Night Watch M14 — Audit continuité et cohérence globale
+description: Rapport d'audit de la continuité et de la cohérence globale du dépôt.
 date: 2026-07-20
 type: rapport
+subtitle: Mission Night Watch M14 — Audit continuité et cohérence globale
+objective: Contrôler et auditer Mission Night Watch M14 Audit continuité et cohérence globale
+summary: Rapport d'audit de la continuité et de la cohérence globale du dépôt.
+key_points:
+  - 1. Vérification de [Memory/STATUS.md](../Memory/STATUS.md)
+  - 2. Vérification des rapports `Rapports/NIGHTWATCH_*.md`
+  - 3. Vérification du `README.md` racine
+  - 4. Exécution de `python3 .dev/app/audit_internal_links.py`
+  - 5. Problèmes bloquants signalés
+tags:
+  - nightwatch
+  - controle
+  - qualite
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

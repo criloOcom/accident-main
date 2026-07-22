@@ -1,12 +1,20 @@
 ---
-title: "Article L. 223-22"
-description: "Code de commerce — Gérant d'EURL"
+title: Article L. 223-22
+description: Code de commerce — Gérant d'EURL
 type: loi
 date: 2026-07-10
 source: Légifrance/LEGIARTI000006223141
 legiarti: LEGIARTI000006223141
 code: Code de commerce
 article: L223-22
+subtitle: Article L. 223-22
+objective: Analyser Article L. 223-22
+summary: Code de commerce — Gérant d'EURL
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - responsabilite
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md)*

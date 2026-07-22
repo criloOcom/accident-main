@@ -1,8 +1,19 @@
 ---
-title: "Rapport d'Expertise en Droit des Assurances - RC de la SAS"
+title: Rapport d'Expertise en Droit des Assurances - RC de la SAS
 date: FIXME
-description: "Analyse multi-angle de la couverture RC de l'exploitant, action directe et voies d'indemnisation subsidiaires (FGAO/FGTI/CIVI)."
+description: Analyse multi-angle de la couverture RC de l'exploitant, action directe et voies d'indemnisation subsidiaires (FGAO/FGTI/CIVI).
 type: rapport
+subtitle: Rapport d'Expertise en Droit des Assurances - RC de la SAS
+objective: Analyser Rapport d'Expertise en Droit des Assurances - RC de la SAS
+summary: Analyse multi-angle de la couverture RC de l'exploitant, action directe et voies d'indemnisation subsidiaires (FGAO/FGTI/CIVI).
+key_points:
+  - I — Contexte et Couverture RC de la SAS LES MAUVAIS GARÇONS
+  - II — Enquête ALPI/ORIAS et Obligation d'Assurance RC Pro
+  - III — L'Action Directe (Art. L. 124-3 du Code des Assurances)
+  - IV — Fonds de Garantie et Voies d'Indemnisation Subsidiaires
+tags:
+  - rapport
+  - responsabilite
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [Rapports](../../README.md) › [30 Analyses Multi Angle](../README.md) › [analyse-multi-angle](./README.md)*

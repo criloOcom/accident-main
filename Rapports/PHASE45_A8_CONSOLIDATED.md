@@ -1,8 +1,21 @@
 ---
-title: "PHASE 45 — A8 — Rapport Consolidé"
-description: "Liste exhaustive des erreurs détectées par Phase 45, classées par priorité, avant correction"
+title: PHASE 45 — A8 — Rapport Consolidé
+description: Liste exhaustive des erreurs détectées par Phase 45, classées par priorité, avant correction
 type: rapport
 date: 2026-07-22
+subtitle: PHASE 45 — A8 — Rapport Consolidé des Anomalies
+objective: Analyser PHASE 45 A8 Rapport Consolidé des Anomalies
+summary: Liste exhaustive des erreurs détectées par Phase 45, classées par priorité, avant correction
+key_points:
+  - P0 — FUITES PII (🔴 12 fichiers)
+  - P1 — STRUCTURE (🔴 70+ fichiers)
+  - P2 — LIENS + JURITEXT (🟠 3+ fichiers)
+  - P3 — README (🟡 23 entrées + 18 tokens)
+  - Bilan
+tags:
+  - rapport
+  - preuve
+  - token
 ---
 
 # PHASE 45 — A8<br>Rapport Consolidé des Anomalies

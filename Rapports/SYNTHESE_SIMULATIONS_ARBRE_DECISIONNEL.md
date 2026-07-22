@@ -1,8 +1,25 @@
 ---
-title: "Synthèse des 16 Simulations et Arbre Décisionnel"
-description: "Synthèse stratégique multi-angles des 16 simulations du dossier Accident Main et modélisation de l'arbre de décision global (Plans A, B, C)."
+title: Synthèse des 16 Simulations et Arbre Décisionnel
+description: Synthèse stratégique multi-angles des 16 simulations du dossier Accident Main et modélisation de l'arbre de décision global (Plans A, B, C).
 type: rapport
 date: 2026-07-21
+subtitle: Synthèse des 16 Simulations et Arbre Décisionnel
+objective: Synthétiser et présenter une vue d'ensemble de Synthèse des 16 Simulations et Arbre Décisionnel
+summary: Synthèse stratégique multi-angles des 16 simulations du dossier Accident Main et modélisation de l'arbre de décision global (Plans A, B, C).
+key_points:
+  - A. MATRICE ACTEUR × POSITION
+  - B. ARBRE DE DÉCISION GLOBAL
+  - C. PLAN A / PLAN B / PLAN C
+  - D. RECOMMANDATIONS
+recipient: Avocat
+tags:
+  - synthese
+  - global
+  - responsabilite
+  - penal
+  - preuve
+  - avocat
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md) › Synthèse Simulations*

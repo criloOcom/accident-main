@@ -1,8 +1,24 @@
 ---
-title: "Exemples de Requêtes MCP Valides"
+title: Exemples de Requêtes MCP Valides
 date: FIXME
-description: "Ce document fournit des exemples concrets et testés pour utiliser les MCP Légifrance et Judilibre dans le cadre du projet 'accident-main'."
+description: Ce document fournit des exemples concrets et testés pour utiliser les MCP Légifrance et Judilibre dans le cadre du projet 'accident-main'.
 type: loi
+subtitle: Exemples de Requêtes MCP Valides
+objective: Analyser Exemples de Requêtes MCP Valides
+summary: Ce document fournit des exemples concrets et testés pour utiliser les MCP Légifrance et Judilibre dans le cadre du projet 'accident-main'.
+key_points:
+  - Légifrance
+  - Judilibre
+  - Bonnes Pratiques
+  - Exemples Spécifiques au Projet "accident-main"
+  - Intégration avec le Projet
+  - Jurisprudence Pertinente
+tags:
+  - rapport
+  - responsabilite
+  - legifrance
+legal_basis:
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [⚖️ Lois](./README.md)*

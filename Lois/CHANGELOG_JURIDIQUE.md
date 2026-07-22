@@ -1,8 +1,18 @@
 ---
-title: "CHANGELOG JURIDIQUE"
+title: CHANGELOG JURIDIQUE
 date: 2026-07-21
-description: "Suivi des modifications apportées aux fiches juridiques (articles et jurisprudence)."
+description: Suivi des modifications apportées aux fiches juridiques (articles et jurisprudence).
 type: loi
+subtitle: CHANGELOG JURIDIQUE
+objective: Analyser CHANGELOG JURIDIQUE
+summary: Suivi des modifications apportées aux fiches juridiques (articles et jurisprudence).
+key_points:
+  - 2026-07-21 — Enrichissement jurisprudence (11 décisions + 2 docs stratégiques)
+  - 2026-07-20 — Création des 3 derniers articles manquants (Phase 4)
+  - 2026-07-13 — Correction et mise à jour extensive
+  - 2026-07-11 — Création initiale de l'inventaire juridique
+tags:
+  - rapport
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [⚖️ Lois](./README.md)*

@@ -1,8 +1,25 @@
 ---
-title: "RAPPORT D'AUDIT FGTI / DINTILHAC"
+title: RAPPORT D'AUDIT FGTI / DINTILHAC
 date: FIXME
 description: "Date :** 10 juillet 2026"
 type: rapport
+subtitle: RAPPORT D'AUDIT FGTI / DINTILHAC
+objective: Auditer et vérifier la conformité de RAPPORT D'AUDIT FGTI / DINTILHAC
+summary: "Date :** 10 juillet 2026"
+key_points:
+  - I — SYNTHÈSE DES INCOHÉRENCES DÉTECTÉES
+  - II — AUDIT POSTE PAR POSTE — TABLEAU DE CONCORDANCE
+  - III — ANALYSE DÉTAILLÉE
+  - IV — VÉRIFICATIONS SPÉCIFIQUES
+  - V — RECOMMANDATIONS
+  - VI — CONCLUSION GLOBALE
+tags:
+  - audit
+  - conformite
+  - qualite
+  - dintilhac
+  - indemnisation
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [40 Indemnisation Dintilhac](./README.md)*

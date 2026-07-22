@@ -1,8 +1,24 @@
 ---
-title: "Audit des variables STRICT_VARIABLES et Tokens"
+title: Audit des variables STRICT_VARIABLES et Tokens
 date: FIXME
-description: "Rapport recensant les incohérences factuelles dans les actes et rapports par rapport aux STRICT_VARIABLES."
+description: Rapport recensant les incohérences factuelles dans les actes et rapports par rapport aux STRICT_VARIABLES.
 type: rapport
+subtitle: Audit des variables STRICT_VARIABLES et Tokens
+objective: Auditer et vérifier la conformité de Audit des variables STRICT_VARIABLES et Tokens
+summary: Rapport recensant les incohérences factuelles dans les actes et rapports par rapport aux STRICT_VARIABLES.
+key_points:
+  - I — INCOHÉRENCES DÉTECTÉES
+  - Ligne 28** : Profession erronée (victime qualifiée de 'coiffeur')
+  - Correction suggérée** : Remplacer par 'informaticien indépendant'.
+  - Ligne 58** : Date d'accident erronée (29 mai 2026 attendu)
+  - Correction suggérée** : Corriger la date en '29 mai 2026'.
+  - Ligne 40** : Profession erronée (victime qualifiée de 'coiffeur')
+tags:
+  - audit
+  - conformite
+  - qualite
+  - penal
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*

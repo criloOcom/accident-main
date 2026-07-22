@@ -1,12 +1,26 @@
 ---
-title: "Article 434-4 du Code pénal"
-description: "Code pénal — Entrave à la manifestation de la vérité"
+title: Article 434-4 du Code pénal
+description: Code pénal — Entrave à la manifestation de la vérité
 type: loi
 date: 2026-07-10
 source: Légifrance/LEGIARTI000006418608
 legiarti: LEGIARTI000006418608
 code: Code pénal
 article: 434-4
+subtitle: Article 434-4 du Code pénal
+objective: Analyser Article 434-4 du Code pénal
+summary: Code pénal — Entrave à la manifestation de la vérité
+key_points:
+  - Texte de l'article
+  - Contexte juridique
+  - Éléments constitutifs
+  - Jurisprudence associée
+  - Application dans notre dossier
+tags:
+  - rapport
+  - penal
+  - preuve
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code pénal](./README.md)*

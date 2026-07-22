@@ -1,9 +1,19 @@
 ---
 type: loi
-title: "RGPD – Articles 7, 9 et 82"
+title: RGPD – Articles 7, 9 et 82
 date: 2026-07-20
-source: "Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016"
+source: Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016
 url: "https://eur-lex.europa.eu/eli/reg/2016/679/oj/fra"
+subtitle: RGPD – Articles 7, 9 et 82
+objective: Analyser RGPD Articles 7, 9 et 82
+summary: RGPD – Articles 7, 9 et 82
+key_points:
+  - Article 7 – Conditions applicables au consentement
+  - Article 9 – Traitement portant sur des catégories particulières de données à caractère personnel
+  - Article 82 – Droit à réparation et responsabilité
+  - Pertinence pour le dossier
+tags:
+  - rapport
 ---
 
 <!-- Breadcrumb -->

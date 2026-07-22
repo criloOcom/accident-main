@@ -1,8 +1,26 @@
 ---
-title: "Rapport d'Audit JURITEXT — Mission M6"
+title: Rapport d'Audit JURITEXT — Mission M6
 date: FIXME
 description: "Date :** 10 juillet 2026"
 type: rapport
+subtitle: Rapport d'Audit JURITEXT — Mission M6
+objective: Auditer et vérifier la conformité de Rapport d'Audit JURITEXT Mission M6
+summary: "Date :** 10 juillet 2026"
+key_points:
+  - I — Résumé
+  - II — Tableau de Synthèse
+  - III — Anomalies Détectées
+  - IV — Anomalies Historiques (déjà corrigées)
+  - V — Statistiques par Dossier
+  - VI — Recommandations
+tags:
+  - audit
+  - conformite
+  - qualite
+  - dintilhac
+  - indemnisation
+  - token
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [Rapports](../../README.md) › [60 Audits Qualite](../README.md) › [audit](./README.md)*

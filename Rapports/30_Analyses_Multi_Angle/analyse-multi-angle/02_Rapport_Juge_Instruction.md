@@ -1,8 +1,23 @@
 ---
-title: "Rapport d'Analyse du Juge d'Instruction"
+title: Rapport d'Analyse du Juge d'Instruction
 date: FIXME
-description: "Analyse des charges, qualifications pénales et actes d'instruction pour l'accident du 29 mai 2026."
+description: Analyse des charges, qualifications pénales et actes d'instruction pour l'accident du 29 mai 2026.
 type: rapport
+subtitle: Rapport d'Analyse du Juge d'Instruction
+objective: Analyser Rapport d'Analyse du Juge d'Instruction
+summary: Analyse des charges, qualifications pénales et actes d'instruction pour l'accident du 29 mai 2026.
+key_points:
+  - I — PRÉSENTATION DU DOSSIER ET DES FAITS
+  - II — CHARGES SUFFISANTES ET QUALIFICATIONS PÉNALES
+  - III — ACTES D'INSTRUCTION À DILIGENTER
+  - IV — PRESCRIPTION DE L'ACTION PUBLIQUE
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - penal
+  - token
+legal_basis:
+  - Code de commerce
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [Rapports](../../README.md) › [30 Analyses Multi Angle](../README.md) › [analyse-multi-angle](./README.md)*

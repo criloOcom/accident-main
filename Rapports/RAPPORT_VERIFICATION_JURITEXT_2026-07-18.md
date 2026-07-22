@@ -1,8 +1,21 @@
 ---
-title: "Rapport de Vérification Juridique JURITEXT"
+title: Rapport de Vérification Juridique JURITEXT
 date: 2026-07-18
-description: "Vérification de toutes les citations d'articles de loi et décisions de justice"
+description: Vérification de toutes les citations d'articles de loi et décisions de justice
 type: rapport
+subtitle: Rapport de Vérification Juridique (Protocole JURITEXT)
+objective: Analyser Rapport de Vérification Juridique (Protocole JURITEXT)
+summary: Vérification de toutes les citations d'articles de loi et décisions de justice
+key_points:
+  - I — RÉSULTATS JURITEXT (DÉCISIONS DE JUSTICE)
+  - II — RÉSULTATS LEGIARTI (ARTICLES DE CODES)
+  - Total identifiants uniques trouvés** : 58
+  - Valides (Légifrance-prod)** : 58 ✅
+  - À vérifier (Introuvables / Erreurs)** : 0 ✅
+  - Total identifiants uniques trouvés** : 131
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

@@ -1,12 +1,18 @@
 ---
-title: "Code de commerce — Art. R.123-128"
-description: "Code de commerce — Radiations d'office du RCS"
+title: Code de commerce — Art. R.123-128
+description: Code de commerce — Radiations d'office du RCS
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000039278214
 legiarti: LEGIARTI000039278214
 code: Code de commerce
 article: R123-128
+subtitle: Code de commerce — Art. R.123-128
+objective: Analyser Code de commerce Art. R.123-128
+summary: Code de commerce — Radiations d'office du RCS
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md)*

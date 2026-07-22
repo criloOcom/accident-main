@@ -1,8 +1,26 @@
 ---
-title: "Synthèse — Travaux de cohérence RESTANT à faire (85_Coherence 2026-07-15)"
+title: Synthèse — Travaux de cohérence RESTANT à faire (85_Coherence 2026-07-15)
 date: 2026-07-15
-description: "Liste agrégée et vérifiée des corrections encore NON appliquées issues des 15 audits de cohérence du 15/07/2026."
+description: Liste agrégée et vérifiée des corrections encore NON appliquées issues des 15 audits de cohérence du 15/07/2026.
 type: rapport
+subtitle: Synthèse — Ce qui N'A PAS ENCORE ÉTÉ FAIT
+objective: Analyser Synthèse Ce qui N'A PAS ENCORE ÉTÉ FAIT
+summary: Liste agrégée et vérifiée des corrections encore NON appliquées issues des 15 audits de cohérence du 15/07/2026.
+key_points:
+  - I — DATES ERRONÉES (M01 + M09) — 109 points
+  - II — MONTANTS DINTILHAC (M02) — 197 points
+  - III — FONDEMENTS JURIDIQUES / CITATIONS (M03) — 1242 points
+  - IV — JURITEXT INVALIDES (M04) — 444 points
+  - V — DOUBLE STRATE TOKEN/REEL (M05) — 162 points — ✅ VÉRIFIÉ LE 15/07 (pas de fuite dans le TEXTE, noms dans liens/chemins)
+  - VI — CONTRE-EXPERTISE MÉDICALE (M06) — 2 actions
+tags:
+  - rapport
+  - preuve
+  - token
+  - legifrance
+legal_basis:
+  - Code de commerce
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

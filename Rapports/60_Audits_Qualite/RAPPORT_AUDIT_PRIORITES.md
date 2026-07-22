@@ -1,8 +1,24 @@
 ---
-title: "RAPPORT D'AUDIT — PRIORITÉS D'ENVOI DES COURRIERS"
+title: RAPPORT D'AUDIT — PRIORITÉS D'ENVOI DES COURRIERS
 date: FIXME
-description: "| Catégorie | N° | Destinataire | Type envoi | Urgence |"
+description: | Catégorie | N° | Destinataire | Type envoi | Urgence |
 type: rapport
+subtitle: RAPPORT D'AUDIT — PRIORITÉS D'ENVOI DES COURRIERS
+objective: Auditer et vérifier la conformité de RAPPORT D'AUDIT PRIORITÉS D'ENVOI DES COURRIERS
+summary: | Catégorie | N° | Destinataire | Type envoi | Urgence |
+key_points:
+  - I — CLASSIFICATION DES 35 COURRIERS PAR NATURE
+  - II — ANALYSE PAR QUESTION
+  - III — PROPOSITION D'ORDRE OPTIMAL ALTERNATIF
+  - IV — DÉTECTION DE PROBLÈMES ADDITIONNELS
+  - V — CONCLUSION
+recipient: Tribunal judiciaire
+tags:
+  - audit
+  - conformite
+  - qualite
+  - penal
+  - preuve
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*

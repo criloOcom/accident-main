@@ -1,7 +1,26 @@
 ---
-title: "M01_AUDIT_LEGIARTI"
+title: M01_AUDIT_LEGIARTI
 type: preuve
-date: "2026-07-20"
+date: 2026-07-20
+subtitle: M01 - AUDIT TECHNIQUE LEGIARTI / JURITEXT
+objective: Auditer et vérifier la conformité de M01 - AUDIT TECHNIQUE LEGIARTI / JURITEXT
+summary: M01 - AUDIT TECHNIQUE LEGIARTI / JURITEXT
+key_points:
+  - 1. Vue d'ensemble
+  - 2. Articles (LEGIARTI)
+  - 3. Jurisprudences (JURITEXT)
+  - 4. Recommandations
+tags:
+  - audit
+  - conformite
+  - qualite
+  - preuve
+  - legifrance
+legal_basis:
+  - Code des assurances
+  - Code de commerce
+  - Code du travail
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [80 Recherches Donnees](./README.md)*

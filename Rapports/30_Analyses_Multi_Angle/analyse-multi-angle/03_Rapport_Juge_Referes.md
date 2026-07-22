@@ -1,8 +1,26 @@
 ---
-title: "Rapport Juge des Référés - Analyse croisée Requête 145 CPC & Conclusions 835 CPC"
+title: Rapport Juge des Référés - Analyse croisée Requête 145 CPC & Conclusions 835 CPC
 date: FIXME
 description: "Examen des demandes de la victime suite à l'accident du 29 mai 2026 : urgence, trouble manifestement illicite, provision et astreinte."
 type: rapport
+subtitle: "RAPPORT D'ANALYSE : JUGE DES RÉFÉRÉS (TJ DE FOIX)"
+objective: "Analyser RAPPORT D'ANALYSE : JUGE DES RÉFÉRÉS (TJ DE FOIX)"
+summary: "Examen des demandes de la victime suite à l'accident du 29 mai 2026 : urgence, trouble manifestement illicite, provision et astreinte."
+key_points:
+  - I — SUR L'URGENCE ET LE MOTIF LÉGITIME (ART. 145 CPC)
+  - II — SUR L'OBLIGATION NON SÉRIEUSEMENT CONTESTABLE (ART. 835 CPC)
+  - III — SUR LE CARACTÈRE JUSTIFIÉ DE LA PROVISION SOLLICITÉE
+  - IV — SUR L'ASTREINTE
+  - V — CONCLUSIONS ET CHANCES DE SUCCÈS
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - responsabilite
+  - preuve
+  - token
+  - legifrance
+legal_basis:
+  - Code de procédure civile
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [Rapports](../../README.md) › [30 Analyses Multi Angle](../README.md) › [analyse-multi-angle](./README.md)*

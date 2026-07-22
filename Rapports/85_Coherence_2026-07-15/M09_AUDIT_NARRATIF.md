@@ -1,8 +1,24 @@
 ---
-title: "Audit de cohérence narrative (M09)"
+title: Audit de cohérence narrative (M09)
 date: FIXME
-description: "Vérification de la cohérence du récit des faits, dates et lieux dans l'ensemble des documents."
+description: Vérification de la cohérence du récit des faits, dates et lieux dans l'ensemble des documents.
 type: rapport
+subtitle: AUDIT NARRATIF
+objective: Auditer et vérifier la conformité de AUDIT NARRATIF
+summary: Vérification de la cohérence du récit des faits, dates et lieux dans l'ensemble des documents.
+key_points:
+  - I — OBJECTIF ET MÉTHODOLOGIE
+  - II — ANOMALIES IDENTIFIÉES
+  - Date** : 29 mai 2026 (vendredi)
+  - Lieu** : Foix (SAS, 4 rue du Commerce)
+  - Points de vigilance** : Pas de glissade, pas d'effondrement, pas de débris de céramique, pas de réglage de lumière, pas de blessure autre que l'index droit.
+  - CRITIQUE** : Dates erronées (ex: 29 juin), fuites de noms réels dans les actes Token.
+tags:
+  - audit
+  - conformite
+  - qualite
+  - penal
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*

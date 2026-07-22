@@ -3,6 +3,17 @@ title: AUDIT JURITEXT
 date: FIXME
 description: Vérification de l'existence des JURITEXT
 type: rapport
+subtitle: AUDIT DES JURISPRUDENCES (JURITEXT)
+objective: Auditer et vérifier la conformité de AUDIT DES JURISPRUDENCES (JURITEXT)
+summary: Vérification de l'existence des JURITEXT
+key_points:
+  - I — JURITEXT Valides
+tags:
+  - audit
+  - conformite
+  - qualite
+  - responsabilite
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*

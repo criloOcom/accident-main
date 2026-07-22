@@ -1,11 +1,27 @@
 ---
-title: "TJ Nanterre, 2025 (n° 19/08999)"
-description: "Tribunal judiciaire de Nanterre — Responsabilité ERP, obligation de moyens renforcée"
+title: TJ Nanterre, 2025 (n° 19/08999)
+description: Tribunal judiciaire de Nanterre — Responsabilité ERP, obligation de moyens renforcée
 type: jurisprudence
 date: 2026-07-21
 source: Doctrine.fr
 code: Jurisprudence
 article: 1242 C. civ. ; L. 123-2 C. com.
+subtitle: TJ Nanterre, 2025 (n° 19/08999)
+objective: Analyser TJ Nanterre, 2025 (n 19/08999)
+summary: Tribunal judiciaire de Nanterre — Responsabilité ERP, obligation de moyens renforcée
+key_points:
+  - Enseignement
+  - Résumé
+  - Pertinence pour l'affaire
+  - Traçabilité
+  - Lien vers la décision
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - responsabilite
+  - token
+legal_basis:
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › [Jurisprudence du fond (CA-TJ)](./README.md)*

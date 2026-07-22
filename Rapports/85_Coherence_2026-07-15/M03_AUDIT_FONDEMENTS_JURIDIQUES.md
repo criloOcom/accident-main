@@ -1,8 +1,25 @@
 ---
-title: "Audit des fondements juridiques (Articles de loi)"
+title: Audit des fondements juridiques (Articles de loi)
 date: FIXME
-description: "Vérification de l'existence et du format des articles de loi cités"
+description: Vérification de l'existence et du format des articles de loi cités
 type: rapport
+subtitle: Audit des fondements juridiques
+objective: Auditer et vérifier la conformité de Audit des fondements juridiques
+summary: Vérification de l'existence et du format des articles de loi cités
+key_points:
+  - I — Liste des anomalies détectées
+recipient: Parquet
+tags:
+  - audit
+  - conformite
+  - qualite
+  - penal
+  - token
+legal_basis:
+  - Code de commerce
+  - Code de la consommation
+  - Code du travail
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*

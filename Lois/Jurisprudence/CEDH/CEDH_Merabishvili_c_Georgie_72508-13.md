@@ -1,9 +1,20 @@
 ---
-title: "CEDH — Merabishvili c. Géorgie (72508/13)"
-description: "Arrêt de la Grande Chambre du 28 novembre 2017 — Preuve vidéo, effacement automatique et droit à une enquête effective"
+title: CEDH — Merabishvili c. Géorgie (72508/13)
+description: Arrêt de la Grande Chambre du 28 novembre 2017 — Preuve vidéo, effacement automatique et droit à une enquête effective
 type: jurisprudence
 date: 2026-07-22
 source: HUDOC/CEDH
+subtitle: CEDH — Merabishvili c. Géorgie (n° 72508/13)
+objective: Analyser CEDH Merabishvili c. Géorgie (n 72508/13)
+summary: Arrêt de la Grande Chambre du 28 novembre 2017 — Preuve vidéo, effacement automatique et droit à une enquête effective
+key_points:
+  - I — ATTENDU DE PRINCIPE / ENSEIGNEMENT MAJEUR
+  - II — APPLICATION À NOTRE DOSSIER (ERP & ENTRAVE)
+  - III — SOURCE OFFICIELLE
+tags:
+  - rapport
+  - penal
+  - preuve
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › [CEDH](./README.md)*

@@ -1,8 +1,23 @@
 ---
-title: "50 Questions V2 — Revue Totale Post-Corrections par Gemini"
+title: 50 Questions V2 — Revue Totale Post-Corrections par Gemini
 date: FIXME
 description: "Questionnaire V2 pour vérifier les correctifs du 18/07/2026 : RGPD Token, liens 404, tokens manquants, scripts synchronisés"
 type: rapport
+subtitle: 50 Questions V2 — Revue Totale Post-Corrections par Gemini
+objective: Analyser 50 Questions V2 Revue Totale Post-Corrections par Gemini
+summary: "Questionnaire V2 pour vérifier les correctifs du 18/07/2026 : RGPD Token, liens 404, tokens manquants, scripts synchronisés"
+key_points:
+  - 1 — Vérification des fuites RGPD Token (Q1–Q8)
+  - 2 — Vérification du token transaction Wero manquant (Q9–Q11)
+  - 3 — Vérification des liens 404 (Q12–Q17)
+  - 4 — Hérésie procédurale Article 145 (Q18–Q21)
+  - 5 — Cohérence Token / Reel & Scripts (Q22–Q28)
+  - 6 — Qualité des actes (Q29–Q35)
+tags:
+  - rapport
+  - token
+legal_basis:
+  - Code de procédure civile
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

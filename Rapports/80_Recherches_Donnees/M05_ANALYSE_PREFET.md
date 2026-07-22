@@ -1,8 +1,23 @@
 ---
-title: "M05 - Analyse Préfet / Maire"
-description: "Évaluation du dossier sous l'angle des pouvoirs de police administrative et des obligations ERP"
+title: M05 - Analyse Préfet / Maire
+description: Évaluation du dossier sous l'angle des pouvoirs de police administrative et des obligations ERP
 date: 2026-07-21
 type: rapport
+subtitle: Analyse des manquements aux obligations de sécurité (ERP) - Salon de coiffure
+objective: Rechercher et analyser Analyse des manquements aux obligations de sécurité (ERP) - Salon de coiffure
+summary: Évaluation du dossier sous l'angle des pouvoirs de police administrative et des obligations ERP
+key_points:
+  - 1. Pouvoirs de police du maire
+  - 2. Obligations de l'exploitant de l'ERP
+  - 3. Obligations du bailleur
+  - 4. Responsabilité de la commune
+recipient: Mairie de Foix
+tags:
+  - recherche
+  - analyse
+  - documentation
+legal_basis:
+  - Code du travail
 ---
 
 <!-- Breadcrumb -->

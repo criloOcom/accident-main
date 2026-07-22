@@ -1,12 +1,19 @@
 ---
-title: "Code de commerce — Art. L.123-5-1"
-description: "Code de commerce — Injonction de dépôt des pièces et actes au RCS"
+title: Code de commerce — Art. L.123-5-1
+description: Code de commerce — Injonction de dépôt des pièces et actes au RCS
 type: loi
 date: 2026-07-20
 source: Légifrance/LEGIARTI000006219291
 legiarti: LEGIARTI000006219291
 code: Code de commerce
 article: L123-5-1
+subtitle: Code de commerce — Art. L.123-5-1
+objective: Analyser Code de commerce Art. L.123-5-1
+summary: Code de commerce — Injonction de dépôt des pièces et actes au RCS
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - legifrance
 ---
 
 <!-- Breadcrumb -->

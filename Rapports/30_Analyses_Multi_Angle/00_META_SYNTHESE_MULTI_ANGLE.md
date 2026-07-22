@@ -1,8 +1,29 @@
 ---
-title: "Méta-Synthèse Multi-Angle — Accident Main"
+title: Méta-Synthèse Multi-Angle — Accident Main
 date: FIXME
-description: "Rapport master condensant les 12 analyses par angle professionnel et les notes stratégiques en une vue transversale unique."
+description: Rapport master condensant les 12 analyses par angle professionnel et les notes stratégiques en une vue transversale unique.
 type: rapport
+subtitle: MÉTA-SYNTHÈSE MULTI-ANGLE — ACCIDENT MAIN
+objective: Synthétiser et présenter une vue d'ensemble de MÉTA-SYNTHÈSE MULTI-ANGLE ACCIDENT MAIN
+summary: Rapport master condensant les 12 analyses par angle professionnel et les notes stratégiques en une vue transversale unique.
+key_points:
+  - I — SYNTHÈSE EXÉCUTIVE
+  - II — GRILLE DE CONVERGENCE DES 12 ANGLES
+  - III — ANALYSE TRANSVERSALE
+  - IV — RECOMMANDATIONS UNIFIÉES
+  - V — ANNEXES
+recipient: Avocat
+tags:
+  - synthese
+  - global
+  - dintilhac
+  - indemnisation
+  - responsabilite
+  - penal
+  - avocat
+legal_basis:
+  - Code du travail
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md)*

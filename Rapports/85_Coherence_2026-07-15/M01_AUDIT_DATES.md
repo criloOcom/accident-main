@@ -1,8 +1,24 @@
 ---
-title: "MISSION 01 — Audit de cohérence des dates"
+title: MISSION 01 — Audit de cohérence des dates
 date: FIXME
-description: "Rapport d'audit des incohérences de dates identifiées dans le dossier"
+description: Rapport d'audit des incohérences de dates identifiées dans le dossier
 type: rapport
+subtitle: MISSION 01 — Audit de cohérence des dates
+objective: Auditer et vérifier la conformité de MISSION 01 Audit de cohérence des dates
+summary: Rapport d'audit des incohérences de dates identifiées dans le dossier
+key_points:
+  - I — Liste des corrections à appliquer
+  - II — Note sur les occurrences "29 mai 2027"
+  - DATE_ACCIDENT** : 29 mai 2026 (J+0)
+  - DATE_CHIRURGIE_SOS_MAIN** : 30 mai 2026
+  - ITT** : 55 jours (29/05/2026 → 23/07/2026)
+  - Expertise UMJ** : 12 novembre 2026
+tags:
+  - audit
+  - conformite
+  - qualite
+  - penal
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*

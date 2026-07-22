@@ -1,8 +1,22 @@
 ---
-title: "Mémo Pratique — Préparation à l'Expertise Médicale"
+title: Mémo Pratique — Préparation à l'Expertise Médicale
 date: FIXME
-description: "Guide pratique destiné à la victime pour préparer son rendez-vous d'expertise médicale UMJ du 12 novembre 2026."
+description: Guide pratique destiné à la victime pour préparer son rendez-vous d'expertise médicale UMJ du 12 novembre 2026.
 type: rapport
+subtitle: MÉMO PRATIQUE — Préparation à l'Expertise Médicale UMJ
+objective: Fournir un guide de référence pour MÉMO PRATIQUE Préparation à l'Expertise Médicale UMJ
+summary: Guide pratique destiné à la victime pour préparer son rendez-vous d'expertise médicale UMJ du 12 novembre 2026.
+key_points:
+  - I — CE QU'IL FAUT PRÉPARER AVANT LE RENDEZ-VOUS
+  - II — COMMENT DÉCRIRE VOS DOULEURS ET VOTRE GÊNE
+  - III — CE QU'IL FAUT ÉVITER (LES PIÈGES CLASSIQUES)
+  - IV — STRUCTURE TYPE DE VOTRE RÉCIT CHRONOLOGIQUE
+tags:
+  - guide
+  - documentation
+  - reference
+  - preuve
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [50 Medical](./README.md)*

@@ -1,8 +1,24 @@
 ---
-title: "RAPPORT_CONFORMITE_PROCEDURALE_2026-07-14"
+title: RAPPORT_CONFORMITE_PROCEDURALE_2026-07-14
 date: 2026-07-14
-description: "Rapport vérifiant la conformité procédurale de la stratégie déployée et proposant un calendrier juridique réaliste et opposable."
+description: Rapport vérifiant la conformité procédurale de la stratégie déployée et proposant un calendrier juridique réaliste et opposable.
 type: rapport
+subtitle: RAPPORT DE CONFORMITÉ PROCÉDURALE ET CALENDRIER JURIDIQUE
+objective: Analyser RAPPORT DE CONFORMITÉ PROCÉDURALE ET CALENDRIER JURIDIQUE
+summary: Rapport vérifiant la conformité procédurale de la stratégie déployée et proposant un calendrier juridique réaliste et opposable.
+key_points:
+  - I — Référé in futurum (Article 145 du Code de procédure civile)
+  - II — Aide Juridictionnelle Totale (Article 9 du Code de procédure civile)
+  - III — Référé-provision (Article 835 du Code de procédure civile)
+  - IV — Prescription des actions
+  - V — Constitution de partie civile (Article 85 du Code de procédure pénale)
+  - VI — Expertise médicale (Référé ou pénale)
+tags:
+  - rapport
+  - preuve
+  - token
+legal_basis:
+  - Code de procédure civile
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md)*

@@ -1,8 +1,24 @@
 ---
-title: "Synthèse Rapport de Santé — 2026-07-20"
-description: "Synthèse des points critiques suite à l'exécution de health_report.py"
+title: Synthèse Rapport de Santé — 2026-07-20
+description: Synthèse des points critiques suite à l'exécution de health_report.py
 type: rapport
 date: 2026-07-20
+subtitle: Synthèse du Rapport de Santé (20 Juillet 2026)
+objective: Synthétiser et présenter une vue d'ensemble de Synthèse du Rapport de Santé (20 Juillet 2026)
+summary: Synthèse des points critiques suite à l'exécution de health_report.py
+key_points:
+  - 1. Fichiers orphelins (Reel vs Token)
+  - 2. Dossiers vides / Violations YAML
+  - 3. Liens internes brisés
+  - 4. Écarts factuels canoniques
+  - 5. Attributs manquants (calendar_event_id)
+  - Recommandations
+tags:
+  - synthese
+  - global
+  - preuve
+  - avocat
+  - token
 ---
 
 <!-- Breadcrumb -->

@@ -1,7 +1,24 @@
 ---
-title: "Mission 08 — Rapport Préliminaire du Médecin Expert Judiciaire"
-description: "Analyse médico-légale des lésions à la main droite (tendons et nerf) et évaluation prévisionnelle des préjudices selon la Nomenclature Dintilhac."
+title: Mission 08 — Rapport Préliminaire du Médecin Expert Judiciaire
+description: Analyse médico-légale des lésions à la main droite (tendons et nerf) et évaluation prévisionnelle des préjudices selon la Nomenclature Dintilhac.
 type: analyse_juridique
+subtitle: Mission 08 — Rapport Préliminaire du Médecin Expert Judiciaire
+objective: Analyser Mission 08 Rapport Préliminaire du Médecin Expert Judiciaire
+summary: Analyse médico-légale des lésions à la main droite (tendons et nerf) et évaluation prévisionnelle des préjudices selon la Nomenclature Dintilhac.
+key_points:
+  - I — ANALYSE DES LÉSIONS : SECTION TENDINEUSE ET NERVEUSE
+  - II — ANALYSE DE L'ITT (56 JOURS)
+  - III — CONSOLIDATION PROBABLE ET DFP ATTENDU
+  - IV — SOUFFRANCES ENDURÉES (SE)
+  - V — INCIDENCE PROFESSIONNELLE ET CORRECTION D'UNE ERREUR FACTUELLE
+  - VI — NÉCESSITÉ D'UNE EXPERTISE JUDICIAIRE
+recipient: Mairie de Foix
+tags:
+  - rapport
+  - dintilhac
+  - indemnisation
+  - penal
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [Rapports](../../README.md) › [30 Analyses Multi Angle](../README.md) › [analyse-multi-angle](./README.md)*

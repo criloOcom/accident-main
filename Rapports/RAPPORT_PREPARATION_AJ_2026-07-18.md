@@ -1,8 +1,23 @@
 ---
-title: "Préparation dossier Aide Juridictionnelle totale"
+title: Préparation dossier Aide Juridictionnelle totale
 date: 2026-07-18
-description: "Rapport pour la constitution et le dépôt du dossier de demande d'Aide Juridictionnelle totale (CERFA 16146*03) au TJ de Foix."
+description: Rapport pour la constitution et le dépôt du dossier de demande d'Aide Juridictionnelle totale (CERFA 16146*03) au TJ de Foix.
 type: rapport
+subtitle: PRÉPARATION DOSSIER AIDE JURIDICTIONNELLE (AJ)
+objective: Analyser PRÉPARATION DOSSIER AIDE JURIDICTIONNELLE (AJ)
+summary: Rapport pour la constitution et le dépôt du dossier de demande d'Aide Juridictionnelle totale (CERFA 16146*03) au TJ de Foix.
+key_points:
+  - I — Remplissage du CERFA n°16146*03
+  - II — Liste des pièces justificatives à fournir (Check-list)
+  - III — Déclarations (Annexes au CERFA)
+  - IV — Marche à suivre pour le dépôt au BAJ
+  - V — Post-dépôt et prise en charge
+  - VI — Signalement sur l'état du dossier (Faux positifs "Déposé")
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - penal
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

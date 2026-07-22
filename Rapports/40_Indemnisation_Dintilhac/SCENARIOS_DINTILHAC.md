@@ -1,16 +1,19 @@
 ---
-title: "Scénarios Dintilhac A/B/C — Calibration Indemnitaire"
+title: Scénarios Dintilhac A/B/C — Calibration Indemnitaire
 description: "Calibration indemnitaire avec 3 scénarios (A: basse, B: compromis, C: haute) pour la victime."
 type: rapport
 date: 2026-07-15
 tags:
-  - dintilhac
-  - indemnisation
-  - avocat
-  - scénarios
-  - calibration
 statut: final
 auteur: Avocat spécialiste en réparation du préjudice corporel
+subtitle: SCÉNARIOS DINTILHAC A/B/C — Calibration Indemnitaire
+objective: Simuler et analyser les scénarios possibles pour SCÉNARIOS DINTILHAC A/B/C Calibration Indemnitaire
+summary: "Calibration indemnitaire avec 3 scénarios (A: basse, B: compromis, C: haute) pour la victime."
+key_points:
+  - I — CONTEXTE ET HYPOTHÈSES
+  - II — TABLEAU COMPARATIF PAR POSTE DE PRÉJUDICE
+  - III — COMMENTAIRE STRATÉGIQUE
+recipient: Avocat
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [40 Indemnisation Dintilhac](./README.md)*

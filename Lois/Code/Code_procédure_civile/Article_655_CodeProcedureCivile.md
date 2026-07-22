@@ -1,9 +1,15 @@
 ---
 type: loi
-title: "Article 655 – Signification à domicile ou à résidence"
+title: Article 655 – Signification à domicile ou à résidence
 date: 2026-07-20
-source: "Légifrance – Code de procédure civile"
+source: Légifrance – Code de procédure civile
 url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411023/"
+subtitle: Article 655 – Signification à domicile ou à résidence
+objective: Analyser Article 655 Signification à domicile ou à résidence
+summary: Article 655 – Signification à domicile ou à résidence
+tags:
+  - rapport
+  - legifrance
 ---
 
 <!-- Breadcrumb -->

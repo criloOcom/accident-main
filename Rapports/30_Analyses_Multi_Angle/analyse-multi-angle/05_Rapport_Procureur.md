@@ -1,8 +1,22 @@
 ---
-title: "05 - Rapport Procureur de la République"
+title: 05 - Rapport Procureur de la République
 date: FIXME
 description: "Analyse pénale : qualifications (blessures involontaires, mise en danger), opportunité des poursuites, CITC et constitution de partie civile pour l'accident du 29 mai 2026."
 type: rapport
+subtitle: Mission 05 — Rapport du Procureur de la République
+objective: Analyser Mission 05 Rapport du Procureur de la République
+summary: "Analyse pénale : qualifications (blessures involontaires, mise en danger), opportunité des poursuites, CITC et constitution de partie civile pour l'accident du 29 mai 2026."
+key_points:
+  - I — Qualifications pénales envisageables
+  - II — Opportunité des poursuites et Saisine du Parquet
+  - III — Constitution de Partie Civile (CITC) et Intérêts Civils
+  - IV — Conclusion et Recommandations du Parquet
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - responsabilite
+  - penal
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [Rapports](../../README.md) › [30 Analyses Multi Angle](../README.md) › [analyse-multi-angle](./README.md)*

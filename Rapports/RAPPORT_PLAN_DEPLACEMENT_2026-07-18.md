@@ -1,8 +1,19 @@
 ---
-title: "Plan d'action chronologique pour le déplacement à [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md)"
+title: Plan d'action chronologique pour le déplacement à [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md)
 date: 2026-07-18
-description: "Rapport détaillant le plan d'action heure par heure pour le déplacement de la semaine du 20 juillet 2026."
+description: Rapport détaillant le plan d'action heure par heure pour le déplacement de la semaine du 20 juillet 2026.
 type: rapport
+subtitle: PLAN D'ACTION CHRONOLOGIQUE — DÉPLACEMENT À [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md)
+objective: Analyser PLAN D'ACTION CHRONOLOGIQUE DÉPLACEMENT À [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md)
+summary: Rapport détaillant le plan d'action heure par heure pour le déplacement de la semaine du 20 juillet 2026.
+key_points:
+  - I — AVERTISSEMENT SUR LES FAUSSES MENTIONS DE DÉPÔT
+  - II — PLAN D'ACTION DÉTAILLÉ (HEURE PAR HEURE)
+  - III — CHECK-LIST SYNTHÉTIQUE IMPRIMABLE (RECTO/VERSO)
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

@@ -1,8 +1,23 @@
 ---
-title: "Rapport sur la responsabilité des dirigeants"
+title: Rapport sur la responsabilité des dirigeants
 date: 2026-07-14
-description: "Analyse de la responsabilité des dirigeants de la SAS et leviers du droit des sociétés"
+description: Analyse de la responsabilité des dirigeants de la SAS et leviers du droit des sociétés
 type: rapport
+subtitle: Analyse de la responsabilité des dirigeants de la SAS et leviers du droit des sociétés
+objective: Analyser Rapport sur la responsabilité des dirigeants
+summary: Analyse de la responsabilité des dirigeants de la SAS et leviers du droit des sociétés
+key_points:
+  - I — EXPOSÉ DU CONTEXTE
+  - II — FONDEMENTS CONTRE LA SAS (PERSONNE MORALE)
+  - III — FONDEMENTS CONTRE LES DIRIGEANTS (PRÉSIDENT ET DG)
+  - IV — PLAN D'ACTION ET MESURES CONSERVATOIRES
+  - V — CONCLUSION ET ÉVALUATION DES FORCES/FAIBLESSES
+tags:
+  - rapport
+  - responsabilite
+  - token
+legal_basis:
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md)*

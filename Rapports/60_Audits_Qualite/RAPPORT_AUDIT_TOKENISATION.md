@@ -1,8 +1,24 @@
 ---
-title: "RAPPORT D'AUDIT DE TOKENISATION"
+title: RAPPORT D'AUDIT DE TOKENISATION
 date: FIXME
 description: "Date :** 10 juillet 2026"
 type: rapport
+subtitle: RAPPORT D'AUDIT DE TOKENISATION
+objective: Auditer et vérifier la conformité de RAPPORT D'AUDIT DE TOKENISATION
+summary: "Date :** 10 juillet 2026"
+key_points:
+  - I — Résumé exécutif
+  - II — FUITES CRITIQUES — Données personnelles en clair
+  - III — TOKEN MAP — État des lieux
+  - IV — Script `generate_real_versions.py` — Incohérences
+  - V — Script `batch_anonymize.py` — Incohérences
+  - VI — Recommandations
+recipient: Mairie de Foix
+tags:
+  - audit
+  - conformite
+  - qualite
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*

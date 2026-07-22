@@ -1,8 +1,24 @@
 ---
-title: "M06_CONTRE_ANALYSE_ASSUREUR"
-description: "Contre-analyse Assureur Responsabilité Civile"
+title: M06_CONTRE_ANALYSE_ASSUREUR
+description: Contre-analyse Assureur Responsabilité Civile
 type: rapport
-date: "2026-07-20"
+date: 2026-07-20
+subtitle: "Contre-analyse : Stratégie de Défense de l'Assureur (RBC)"
+objective: "Rechercher et analyser Contre-analyse : Stratégie de Défense de l'Assureur (RBC)"
+summary: Contre-analyse Assureur Responsabilité Civile
+key_points:
+  - 1. Analyse du Code des assurances
+  - 2. Analyse de la jurisprudence sur l'action directe
+  - 3. Analyse de la jurisprudence sur la responsabilité du fait des choses
+  - 4. Stratégie de défense pour l'assureur RBC
+tags:
+  - recherche
+  - analyse
+  - documentation
+  - responsabilite
+  - preuve
+legal_basis:
+  - Code des assurances
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [80 Recherches Donnees](./README.md)*

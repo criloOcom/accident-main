@@ -1,8 +1,27 @@
 ---
-title: "RAPPORT D'AUDIT JURIDIQUE"
+title: RAPPORT D'AUDIT JURIDIQUE
 date: FIXME
 description: "Courriers examinés** (7) :"
 type: rapport
+subtitle: RAPPORT D'AUDIT JURIDIQUE
+objective: Auditer et vérifier la conformité de RAPPORT D'AUDIT JURIDIQUE
+summary: "Courriers examinés** (7) :"
+key_points:
+  - I — PÉRIMÈTRE AUDITÉ
+  - II — TABLEAU DES ARTICLES CITÉS — CONFORMITÉ
+  - III — PROBLÈMES IDENTIFIÉS
+  - IV — ANALYSE DE COHÉRENCE PROCÉDURALE
+  - V — ABSENCE DE FICHIERS DANS 📜_LOIS/ — À CRÉER
+  - VI — RÉCAPITULATIF — NIVEAU DE GRAVITÉ
+recipient: Tribunal judiciaire
+tags:
+  - audit
+  - conformite
+  - qualite
+  - responsabilite
+  - preuve
+legal_basis:
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*

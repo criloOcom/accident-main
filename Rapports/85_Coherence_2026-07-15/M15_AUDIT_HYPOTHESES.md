@@ -1,8 +1,26 @@
 ---
-title: "Audit des Hypothèses et Scénarios de Défense"
+title: Audit des Hypothèses et Scénarios de Défense
 date: FIXME
-description: "Vérification de la solidité du dossier face aux objections adverses"
+description: Vérification de la solidité du dossier face aux objections adverses
 type: rapport
+subtitle: AUDIT DES HYPOTHÈSES ET SCÉNARIOS DE DÉFENSE
+objective: Auditer et vérifier la conformité de AUDIT DES HYPOTHÈSES ET SCÉNARIOS DE DÉFENSE
+summary: Vérification de la solidité du dossier face aux objections adverses
+key_points:
+  - I — ANALYSE DES OBJECTIONS ADVERSES
+  - II — CAS PARTICULIER : LE QUANTUM DOLORIS (SOUFFRANCES ENDURÉES)
+  - Exposition : MAJEUR
+  - Exposition : MAJEUR
+  - Exposition : INFO
+  - Réponse juridique :** Assurer la stricte conformité des actes (vérification Kbis/RNE) pour parer à tout vice de forme, surtout au vu de la situation NPAI de la société.
+tags:
+  - audit
+  - conformite
+  - qualite
+  - preuve
+  - token
+legal_basis:
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*

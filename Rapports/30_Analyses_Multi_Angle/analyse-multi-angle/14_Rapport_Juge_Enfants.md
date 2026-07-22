@@ -1,8 +1,20 @@
 ---
-title: "Analyse des Implications Familiales et Protection de l'Enfance"
+title: Analyse des Implications Familiales et Protection de l'Enfance
 date: FIXME
-description: "Rapport d'analyse sous l'angle du Juge des enfants / Juge aux affaires familiales concernant l'accident du 29 mai 2026."
+description: Rapport d'analyse sous l'angle du Juge des enfants / Juge aux affaires familiales concernant l'accident du 29 mai 2026.
 type: rapport
+subtitle: Analyse des Implications Familiales (Accident du 29 mai 2026)
+objective: Analyser Analyse des Implications Familiales (Accident du 29 mai 2026)
+summary: Rapport d'analyse sous l'angle du Juge des enfants / Juge aux affaires familiales concernant l'accident du 29 mai 2026.
+key_points:
+  - I — INTRODUCTION ET SAISINE
+  - II — SITUATION FAMILIALE DE LA VICTIME
+  - III — IMPACT SUR LES OBLIGATIONS FAMILIALES (HYPOTHÈSES)
+  - IV — CONCLUSION
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [Rapports](../../README.md) › [30 Analyses Multi Angle](../README.md) › [analyse-multi-angle](./README.md)*

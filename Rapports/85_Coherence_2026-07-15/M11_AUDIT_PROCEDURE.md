@@ -1,8 +1,24 @@
 ---
-title: "M11_AUDIT_PROCEDURE"
+title: M11_AUDIT_PROCEDURE
 date: FIXME
-description: "Audit de la timeline procédurale et vérification des délais"
+description: Audit de la timeline procédurale et vérification des délais
 type: rapport
+subtitle: Audit de la timeline procédurale et vérification des délais
+objective: Auditer et vérifier la conformité de Audit de la timeline procédurale et vérification des délais
+summary: Audit de la timeline procédurale et vérification des délais
+key_points:
+  - I — RECONSTITUTION DE LA TIMELINE GLOBALE
+  - II — VÉRIFICATION DES DÉLAIS LÉGAUX ET COHÉRENCE
+  - III — RÉSUMÉ DES ACTIONS REQUISES
+recipient: Tribunal judiciaire
+tags:
+  - audit
+  - conformite
+  - qualite
+  - responsabilite
+  - token
+legal_basis:
+  - Code de procédure civile
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*

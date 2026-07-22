@@ -1,12 +1,20 @@
 ---
-title: "Code de procédure pénale — Art. 53"
-description: "Code de procédure pénale — Définition du flagrant délit"
+title: Code de procédure pénale — Art. 53
+description: Code de procédure pénale — Définition du flagrant délit
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000006575016
 legiarti: LEGIARTI000006575016
 code: Code de procédure pénale
 article: 53
+subtitle: Code de procédure pénale — Art. 53
+objective: Analyser Code de procédure pénale Art. 53
+summary: Code de procédure pénale — Définition du flagrant délit
+recipient: Parquet
+tags:
+  - rapport
+  - penal
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure pénale](./README.md)*

@@ -1,9 +1,28 @@
 ---
-title: "Pack Accueil Avocat (AJ) — Dossier Clé en Main"
-description: "Dossier synthétique remis à l'avocat commis d'office (AJ TJ Foix). Contient le résumé de l'affaire, le calendrier, la stratégie, la liste des pièces et les contacts utiles."
+title: Pack Accueil Avocat (AJ) — Dossier Clé en Main
+description: Dossier synthétique remis à l'avocat commis d'office (AJ TJ Foix). Contient le résumé de l'affaire, le calendrier, la stratégie, la liste des pièces et les contacts utiles.
 type: rapport
 date: 2026-07-15
 statut: final
+subtitle: PACK ACCUEIL AVOCAT (AJ) — DOSSIER CLÉ EN MAIN
+objective: Analyser PACK ACCUEIL AVOCAT (AJ) DOSSIER CLÉ EN MAIN
+summary: Dossier synthétique remis à l'avocat commis d'office (AJ TJ Foix). Contient le résumé de l'affaire, le calendrier, la stratégie, la liste des pièces et les contacts utiles.
+key_points:
+  - I — RÉSUMÉ DE L'AFFAIRE
+  - II — CALENDRIER DES ÉCHÉANCES
+  - III — PLAN DE LA STRATÉGIE CONTENTIEUSE
+  - IV — LISTE DES PIÈCES DISPONIBLES (SÉLECTION)
+  - V — CONTACTS UTILES
+  - VI — QUESTIONS À TRANCHER PAR L'AVOCAT
+recipient: Avocat
+tags:
+  - rapport
+  - penal
+  - avocat
+  - token
+legal_basis:
+  - Code de procédure civile
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [20 Accueil Avocat](./README.md)*

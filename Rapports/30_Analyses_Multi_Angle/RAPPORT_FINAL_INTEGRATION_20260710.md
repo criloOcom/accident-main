@@ -1,8 +1,22 @@
 ---
-title: "RAPPORT FINAL - Intégration des Recherches MCP"
+title: RAPPORT FINAL - Intégration des Recherches MCP
 date: 2026-07-10
 description: "Date** : 10 juillet 2026"
 type: rapport
+subtitle: RAPPORT FINAL - Intégration des Recherches MCP
+objective: Analyser RAPPORT FINAL - Intégration des Recherches MCP
+summary: "Date** : 10 juillet 2026"
+key_points:
+  - Sommaire
+  - I — Résumé des Étapes
+  - II — Fichiers Générés
+  - III — Modifications Apportées
+  - IV — Résultats des Tests
+  - V — Prochaines Étapes
+recipient: Mairie de Foix
+tags:
+  - rapport
+  - responsabilite
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md)*

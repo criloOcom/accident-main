@@ -1,7 +1,22 @@
 ---
-title: "Fiche Réunion Avocat AJ — 10 minutes"
-description: "Trame orale + pièces clés pour le premier rendez-vous avec l'avocat commis d'office (AJ)."
+title: Fiche Réunion Avocat AJ — 10 minutes
+description: Trame orale + pièces clés pour le premier rendez-vous avec l'avocat commis d'office (AJ).
 type: fiche
+subtitle: FICHE RÉUNION AVOCAT AJ — 10 MINUTES
+objective: Fournir un guide de référence pour FICHE RÉUNION AVOCAT AJ 10 MINUTES
+summary: Trame orale + pièces clés pour le premier rendez-vous avec l'avocat commis d'office (AJ).
+key_points:
+  - I — TRAME ORALE — CE QUE VOUS DITES EN 10 MINUTES
+  - II. PIÈCES À APPORTER SUR LA TABLE (VERSION COURTE)
+  - II — TALON-RÉPONSE — À REMPLIR PAR L'AVOCAT
+recipient: Avocat
+tags:
+  - guide
+  - documentation
+  - reference
+  - responsabilite
+  - avocat
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [20 Accueil Avocat](./README.md)*

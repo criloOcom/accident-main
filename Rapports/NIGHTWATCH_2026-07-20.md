@@ -1,8 +1,20 @@
 ---
-title: "Night Watch — Rapport de Mission (20 juillet 2026)"
-description: "15 missions de contrôle, audit et nettoyage — établi le 20 juillet 2026"
+title: Night Watch — Rapport de Mission (20 juillet 2026)
+description: 15 missions de contrôle, audit et nettoyage — établi le 20 juillet 2026
 type: rapport
 date: 2026-07-20
+subtitle: Night Watch — Rapport de Mission — 20 juillet 2026
+objective: Analyser Night Watch Rapport de Mission 20 juillet 2026
+summary: 15 missions de contrôle, audit et nettoyage — établi le 20 juillet 2026
+key_points:
+  - Résumé exécutif
+  - Phase A — Missions automatisées
+  - Phase B — Missions d'audit
+  - Phase C — Finalisation
+tags:
+  - rapport
+  - token
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

@@ -1,9 +1,20 @@
 ---
-title: "Modèles d'Envoi — Transmission du Dossier"
+title: Modèles d'Envoi — Transmission du Dossier
 description: "Courriels-type de transmission — Option A : avocat désigné AJ / Option B : BAJ/Bâtonnier"
 type: fiche
 date: 2026-07-14
 statut: final
+subtitle: "Courriels-type de transmission — Option A : avocat désigné AJ / Option B : BAJ/Bâtonnier"
+objective: Analyser Modèles d'Envoi Transmission du Dossier
+summary: "Courriels-type de transmission — Option A : avocat désigné AJ / Option B : BAJ/Bâtonnier"
+key_points:
+  - I — Option A — Avocat déjà désigné (AJ)
+  - II — Option B — BAJ / Bâtonnier (demande de désignation)
+recipient: Avocat
+tags:
+  - rapport
+  - avocat
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [20 Accueil Avocat](./README.md)*

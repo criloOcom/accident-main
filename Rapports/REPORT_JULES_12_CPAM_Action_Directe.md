@@ -1,12 +1,27 @@
 ---
-title: "Rapport Jules #12 — CPAM Action Directe"
-description: "Rapport d'audit et recommandations d'exploitation des nouvelles preuves officielles."
+title: Rapport Jules #12 — CPAM Action Directe
+description: Rapport d'audit et recommandations d'exploitation des nouvelles preuves officielles.
 type: rapport
 progress: 100%
 status: valide
 priority: veille
 date: 2026-07-22
-jules_session_id: "AM-MISSION-12"
+jules_session_id: AM-MISSION-12
+subtitle: 📊 Rapport Jules #12 — CPAM Action Directe
+objective: Analyser et rapporter Rapport Jules #12 CPAM Action Directe
+summary: Rapport d'audit et recommandations d'exploitation des nouvelles preuves officielles.
+key_points:
+  - I — SYNTHÈSE ET CONSTATATIONS DE TERRAIN
+  - II — ANALYSE JURIDIQUE : CPAM, ACTION DIRECTE ET SUBROGATION
+  - III — FEUILLE DE ROUTE D'EXPLOITATION (TO-DO LIST INTERACTIVE)
+  - IV — SOURCES & CITATIONS (SOURCES OFFICIELLES GOVERNEMENTALES)
+recipient: Tribunal judiciaire
+tags:
+  - jules
+  - mission
+  - automatisation
+  - responsabilite
+  - preuve
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [📋 Rapports](./README.md) › Rapport Jules #12*

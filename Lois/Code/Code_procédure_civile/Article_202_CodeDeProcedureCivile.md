@@ -1,12 +1,19 @@
 ---
-title: "Code de procédure civile — Art. 202"
-description: "Code de procédure civile — Les attestations"
+title: Code de procédure civile — Art. 202
+description: Code de procédure civile — Les attestations
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000006410330
 legiarti: LEGIARTI000006410330
 code: Code de procédure civile
 article: 202
+subtitle: Code de procédure civile — Art. 202
+objective: Analyser Code de procédure civile Art. 202
+summary: Code de procédure civile — Les attestations
+tags:
+  - rapport
+  - penal
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure civile](./README.md)*

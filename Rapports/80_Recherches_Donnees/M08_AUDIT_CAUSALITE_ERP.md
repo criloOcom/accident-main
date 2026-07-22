@@ -1,7 +1,22 @@
 ---
-title: "M08_AUDIT_CAUSALITE_ERP"
+title: M08_AUDIT_CAUSALITE_ERP
 type: preuve
-date: "2026-07-20"
+date: 2026-07-20
+subtitle: Audit Causalité et Obligations ERP
+objective: Auditer et vérifier la conformité de Audit Causalité et Obligations ERP
+summary: Audit Causalité et Obligations ERP
+key_points:
+  - 1. Obligation de sécurité dans les ERP
+  - 2. Lien de causalité et responsabilité du fait des choses
+  - 3. Recommandations probatoires
+tags:
+  - audit
+  - conformite
+  - qualite
+  - responsabilite
+  - preuve
+legal_basis:
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [80 Recherches Donnees](./README.md)*

@@ -1,15 +1,22 @@
 ---
-title: "Prompt Avocat — Revue des 12 Courriers J+37 (05/07/2026)"
-description: "Demande d'avis et de conseil sur l'ensemble des signalements administratifs et relances envoyés à J+37 — AUDIT FINALISÉ ET VERROUILLÉ"
+title: Prompt Avocat — Revue des 12 Courriers J+37 (05/07/2026)
+description: Demande d'avis et de conseil sur l'ensemble des signalements administratifs et relances envoyés à J+37 — AUDIT FINALISÉ ET VERROUILLÉ
 type: rapport
 date: 2026-07-12
 tags:
-  - prompt
-  - avocat
-  - J+37
-  - revue
-  - strategie
-  - audit-verrouille
+subtitle: Prompt Avocat — Revue des 12 Courriers J+37
+objective: Analyser Prompt Avocat Revue des 12 Courriers J+37
+summary: Demande d'avis et de conseil sur l'ensemble des signalements administratifs et relances envoyés à J+37 — AUDIT FINALISÉ ET VERROUILLÉ
+key_points:
+  - I — Contexte général
+  - II — Volet médical
+  - III — Volet élu local
+  - IV — Volet inspection du travail et lutte contre le travail dissimulé
+  - V — Volet sécurité publique et ERP
+  - VI — Volet financier et fiscal
+recipient: Avocat
+legal_basis:
+  - Code du travail
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [90 TODO Prompts](./README.md)*

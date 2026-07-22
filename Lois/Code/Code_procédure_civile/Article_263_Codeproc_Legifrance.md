@@ -1,12 +1,19 @@
 ---
-title: "Articles 263 et suivants"
-description: "Code de procédure civile — Expertise"
+title: Articles 263 et suivants
+description: Code de procédure civile — Expertise
 type: loi
 date: 2026-07-10
 source: Légifrance/LEGIARTI000006410394
 legiarti: LEGIARTI000006410394
 code: Code de procédure civile
 article: 263
+subtitle: Articles 263 et suivants
+objective: Analyser Articles 263 et suivants
+summary: Code de procédure civile — Expertise
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure civile](./README.md)*

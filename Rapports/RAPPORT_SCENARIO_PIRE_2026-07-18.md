@@ -1,8 +1,23 @@
 ---
-title: "RAPPORT SCÉNARIO DU PIRE (Absence d'assurance, d'AJ et vidéos écrasées)"
+title: RAPPORT SCÉNARIO DU PIRE (Absence d'assurance, d'AJ et vidéos écrasées)
 date: 2026-07-18
-description: "Analyse des recours disponibles en cas d'absence d'assurance de la SAS HB BARBER, d'insolvabilité probable, de refus d'AJ et de perte des vidéos."
+description: Analyse des recours disponibles en cas d'absence d'assurance de la SAS HB BARBER, d'insolvabilité probable, de refus d'AJ et de perte des vidéos.
 type: rapport
+subtitle: RAPPORT SCÉNARIO DU PIRE (Absence d'assurance, d'AJ et vidéos écrasées)
+objective: Simuler et analyser les scénarios possibles pour RAPPORT SCÉNARIO DU PIRE (Absence d'assurance, d'AJ et vidéos écrasées)
+summary: Analyse des recours disponibles en cas d'absence d'assurance de la SAS HB BARBER, d'insolvabilité probable, de refus d'AJ et de perte des vidéos.
+key_points:
+  - I — LA CIVI (COMMISSION D'INDEMNISATION DES VICTIMES D'INFRACTIONS)
+  - II — LE FGTI (FONDS DE GARANTIE)
+  - III — ACTION CONTRE LES DIRIGEANTS À TITRE PERSONNEL
+  - IV — PROCÉDURE SANS AVOCAT
+  - V — AIDES ALTERNATIVES
+  - VI — CALENDRIER DE REPLI (ARBRE DE DÉCISION)
+tags:
+  - scenario
+  - simulation
+  - strategie
+  - penal
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

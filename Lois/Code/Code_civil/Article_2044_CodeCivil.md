@@ -1,9 +1,15 @@
 ---
 type: loi
-title: "Article 2044 – Définition de la transaction"
+title: Article 2044 – Définition de la transaction
 date: 2026-07-20
-source: "Légifrance – Code civil"
+source: Légifrance – Code civil
 url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033458766/"
+subtitle: Article 2044 – Définition de la transaction
+objective: Analyser Article 2044 Définition de la transaction
+summary: Article 2044 – Définition de la transaction
+tags:
+  - rapport
+  - legifrance
 ---
 
 <!-- Breadcrumb -->

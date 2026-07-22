@@ -1,8 +1,22 @@
 ---
-title: "RAPPORT DE CONFORMITÉ RGPD ET INFORMATIQUE ET LIBERTÉS"
+title: RAPPORT DE CONFORMITÉ RGPD ET INFORMATIQUE ET LIBERTÉS
 date: 2026-07-14
-description: "Audit de conformité RGPD / Loi Informatique et Libertés du dossier accident-main."
+description: Audit de conformité RGPD / Loi Informatique et Libertés du dossier accident-main.
 type: rapport
+subtitle: RAPPORT DE CONFORMITÉ RGPD ET INFORMATIQUE ET LIBERTÉS — Dossier Accident de la Main — 29 mai 2026
+objective: Analyser RAPPORT DE CONFORMITÉ RGPD ET INFORMATIQUE ET LIBERTÉS Dossier Accident de la Main 29 mai 2026
+summary: Audit de conformité RGPD / Loi Informatique et Libertés du dossier accident-main.
+key_points:
+  - I — DOUBLE STRATE 🔑 TOKEN / 👤 REEL : MINIMISATION ET PRIVACY BY DESIGN
+  - II — RISQUES DE FUITES DE DONNÉES RÉELLES
+  - III — DURÉE DE CONSERVATION DES DONNÉES
+  - IV — EXERCICE DES DROITS DES PERSONNES
+  - V — SÉCURITÉ DU TRAITEMENT ET DES DONNÉES
+  - VI — BASE LÉGALE DU TRAITEMENT
+tags:
+  - rapport
+  - token
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md)*

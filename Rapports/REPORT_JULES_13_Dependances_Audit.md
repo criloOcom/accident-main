@@ -1,12 +1,28 @@
 ---
-title: "Rapport Jules #13 — Dependances Audit"
-description: "Rapport d'audit et recommandations d'exploitation des nouvelles preuves officielles."
+title: Rapport Jules #13 — Dependances Audit
+description: Rapport d'audit et recommandations d'exploitation des nouvelles preuves officielles.
 type: rapport
 progress: 0%
 status: a_traiter
 priority: haute
 date: 2026-07-22
-jules_session_id: "AM-MISSION-13"
+jules_session_id: AM-MISSION-13
+subtitle: 📊 Rapport Jules #13 — Dependances Audit
+objective: Analyser et rapporter Rapport Jules #13 Dependances Audit
+summary: Rapport d'audit et recommandations d'exploitation des nouvelles preuves officielles.
+key_points:
+  - 1. Contexte de l'audit
+  - 2. Modifications apportées au graphe des dépendances
+  - 3. Impact sur la stratégie contentieuse
+  - I. Méthodologie
+  - II. Résultats de l'audit et Incohérences Détectées
+  - III. Conclusion
+recipient: Équipe projet
+tags:
+  - jules
+  - mission
+  - automatisation
+  - preuve
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [📋 Rapports](./README.md) › Rapport Jules #13*

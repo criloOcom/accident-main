@@ -1,9 +1,22 @@
 ---
-title: "RAPPORT D'AUDIT — Vérité des LRAR et mécanisme de l'accident (13 juillet 2026)"
+title: RAPPORT D'AUDIT — Vérité des LRAR et mécanisme de l'accident (13 juillet 2026)
 description: "Audit ciblé contradictant l'audit civil Jules : les numéros LRAR sont RÉELS ; restauration du fait 'téléviseur' dans J+40."
 type: rapport
 date: 2026-07-13
 statut: archive
+subtitle: RAPPORT D'AUDIT — Vérité des LRAR et mécanisme de l'accident
+objective: Analyser RAPPORT D'AUDIT Vérité des LRAR et mécanisme de l'accident
+summary: "Audit ciblé contradictant l'audit civil Jules : les numéros LRAR sont RÉELS ; restauration du fait 'téléviseur' dans J+40."
+key_points:
+  - I — Constat sur les numéros de suivi La Poste (LRAR)
+  - II — Erreur introduite par l'agent précédent — fait « téléviseur » supprimé
+  - III — Singularisation « le tendon » (laissée en place — CORRECTE)
+  - IV — Nettoyage sécurité RGPD
+  - V — Vérification finale
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - preuve
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [Rapports](../../README.md) › [60 Audits Qualite](../README.md) › [audit](./README.md)*

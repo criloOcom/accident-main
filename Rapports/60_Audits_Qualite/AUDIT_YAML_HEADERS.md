@@ -1,14 +1,21 @@
 ---
-title: "Rapport d'Audit — Structuration des En-têtes YAML"
-description: "État des lieux, structure canonique et feuille de route corrective pour la standardisation des front matter YAML dans le dépôt accident-main."
+title: Rapport d'Audit — Structuration des En-têtes YAML
+description: État des lieux, structure canonique et feuille de route corrective pour la standardisation des front matter YAML dans le dépôt accident-main.
 type: rapport
 date: 2026-07-13
 tags:
-  - audit
-  - YAML
-  - standardisation
-  - métadonnées
 statut: final
+subtitle: 📋 RAPPORT D'AUDIT SUR LA STRUCTURATION DES EN-TÊTES YAML
+objective: Auditer et vérifier la conformité de RAPPORT D'AUDIT SUR LA STRUCTURATION DES EN-TÊTES YAML
+summary: État des lieux, structure canonique et feuille de route corrective pour la standardisation des front matter YAML dans le dépôt accident-main.
+key_points:
+  - I — ⚠️ ÉTAT DES LIEUX & FAIBLESSES DÉTECTÉES
+  - II — 🎯 STRUCTURE CANONIQUE UNIFIÉE
+  - III — CARTE DES CORRECTIONS
+  - IV — 🛠️ FEUILLE DE ROUTE CORRECTIVE
+  - V — SCRIPTS EXISTANTS AUDITÉS
+legal_basis:
+  - Code de procédure civile
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*

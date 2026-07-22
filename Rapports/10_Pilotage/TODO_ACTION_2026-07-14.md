@@ -1,8 +1,27 @@
 ---
-title: "TODO ACTION — Synthèse exécutable des 15 rapports Jules (nuit 14/07)"
+title: TODO ACTION — Synthèse exécutable des 15 rapports Jules (nuit 14/07)
 date: 2026-07-14
-description: "Todo-list exécutable extraite des 15 rapports de la nuit Jules 2026-07-14. Actions réalisables par l'agent vs actions nécessitant l'avocat/la victime."
+description: Todo-list exécutable extraite des 15 rapports de la nuit Jules 2026-07-14. Actions réalisables par l'agent vs actions nécessitant l'avocat/la victime.
 type: rapport
+subtitle: TODO ACTION — 15 rapports Jules (14/07/2026)
+objective: Planifier et organiser le suivi de TODO ACTION 15 rapports Jules (14/07/2026)
+summary: Todo-list exécutable extraite des 15 rapports de la nuit Jules 2026-07-14. Actions réalisables par l'agent vs actions nécessitant l'avocat/la victime.
+key_points:
+  - I — PRIORITÉ CRITIQUE — SÉCURITÉ / RGPD (R1-R5, reportées : validation séparée)
+  - II — PRIORITÉ HAUTE — EXACTITUDE DES FAITS (STRICT VARIABLES)
+  - III — PRIORITÉ HAUTE — STRATÉGIE DE RECOURS (immédiat)
+  - IV — PRIORITÉ MOYENNE — RÉDACTION DES ACTES
+  - V — PRIORITÉ CALENDAIRE — À NE PAS RATER
+  - VI — PRIORITÉ MOYENNE — ORGANISATION DÉPÔT
+recipient: Avocat
+tags:
+  - planning
+  - action
+  - suivi
+  - dintilhac
+  - indemnisation
+  - avocat
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [10 Pilotage](./README.md)*

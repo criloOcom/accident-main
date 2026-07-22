@@ -1,12 +1,19 @@
 ---
-title: "Code de procédure pénale — Art. 86"
-description: "Code de procédure pénale — Constitution de la partie civile et ses effets"
+title: Code de procédure pénale — Art. 86
+description: Code de procédure pénale — Constitution de la partie civile et ses effets
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000038312062
 legiarti: LEGIARTI000038312062
 code: Code de procédure pénale
 article: 86
+subtitle: Code de procédure pénale — Art. 86
+objective: Analyser Code de procédure pénale Art. 86
+summary: Code de procédure pénale — Constitution de la partie civile et ses effets
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - penal
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure pénale](./README.md)*

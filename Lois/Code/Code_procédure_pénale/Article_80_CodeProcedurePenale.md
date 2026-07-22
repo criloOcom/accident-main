@@ -1,12 +1,19 @@
 ---
-title: "Code de procédure pénale — Art. 80"
-description: "Code de procédure pénale — Réquisitoire introductif, ouverture d'information"
+title: Code de procédure pénale — Art. 80
+description: Code de procédure pénale — Réquisitoire introductif, ouverture d'information
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000044568319
 legiarti: LEGIARTI000044568319
 code: Code de procédure pénale
 article: 80
+subtitle: Code de procédure pénale — Art. 80
+objective: Analyser Code de procédure pénale Art. 80
+summary: Code de procédure pénale — Réquisitoire introductif, ouverture d'information
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - penal
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure pénale](./README.md)*

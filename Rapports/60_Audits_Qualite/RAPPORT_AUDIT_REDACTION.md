@@ -1,8 +1,24 @@
 ---
-title: "RAPPORT D'AUDIT RÉDACTIONNEL"
+title: RAPPORT D'AUDIT RÉDACTIONNEL
 date: FIXME
 description: "Date :** 12 juillet 2026"
 type: rapport
+subtitle: RAPPORT D'AUDIT RÉDACTIONNEL
+objective: Auditer et vérifier la conformité de RAPPORT D'AUDIT RÉDACTIONNEL
+summary: "Date :** 12 juillet 2026"
+key_points:
+  - I — SYNTHÈSE EXÉCUTIVE
+  - II — FAUTES RÉCURRENTES
+  - III — ANALYSE PAR DOCUMENT
+  - IV — STATISTIQUES GLOBALES
+  - V — RECOMMANDATIONS PRIORITAIRES
+  - VI — TABLEAU DE CONFORMITÉ PAR DOCUMENT
+recipient: Mairie de Foix
+tags:
+  - audit
+  - conformite
+  - qualite
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*

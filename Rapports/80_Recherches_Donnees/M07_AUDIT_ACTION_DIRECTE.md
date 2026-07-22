@@ -1,8 +1,23 @@
 ---
-title: "Audit de l'Action Directe (Art. L. 124-3 C. assur.)"
-description: "Audit complet des textes et de la jurisprudence relatifs à l'action directe dans le dossier"
+title: Audit de l'Action Directe (Art. L. 124-3 C. assur.)
+description: Audit complet des textes et de la jurisprudence relatifs à l'action directe dans le dossier
 type: rapport
 date: 2026-07-21
+subtitle: "Audit complet : Action Directe (Art. L. 124-3 C. assurances)"
+objective: "Auditer et vérifier la conformité de Audit complet : Action Directe (Art. L. 124-3 C. assurances)"
+summary: Audit complet des textes et de la jurisprudence relatifs à l'action directe dans le dossier
+key_points:
+  - 1. Textes et Jurisprudences Identifiés
+  - 2. Conditions de l'Action Directe (L.124-3)
+  - 3. Analyse Jurisprudentielle et Articulation des Recours
+  - 4. Croisement : Obligation d'Assurance Bailleur (14-15.326)
+  - 5. Identification des Éléments Manquants ou Ambigus dans le Dossier
+tags:
+  - audit
+  - conformite
+  - qualite
+  - responsabilite
+  - penal
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [80 Recherches Donnees](./README.md)*

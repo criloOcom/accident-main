@@ -1,8 +1,23 @@
 ---
-title: "RAPPORT D'AUDIT DU CALENDRIER PROCÉDURAL"
+title: RAPPORT D'AUDIT DU CALENDRIER PROCÉDURAL
 date: FIXME
 description: "Référence :** J+0 = 29/05/2026 (vendredi)"
 type: rapport
+subtitle: RAPPORT D'AUDIT DU CALENDRIER PROCÉDURAL
+objective: Auditer et vérifier la conformité de RAPPORT D'AUDIT DU CALENDRIER PROCÉDURAL
+summary: "Référence :** J+0 = 29/05/2026 (vendredi)"
+key_points:
+  - I — SYNTHÈSE
+  - II — VÉRIFICATION J+0 — DATE RACINE
+  - III — VÉRIFICATION DE CHAQUE JALON
+  - IV — ERREURS IDENTIFIÉES
+  - V — INCOHÉRENCES MINEURES
+  - VI — VÉRIFICATION DES DÉLAIS LÉGAUX
+tags:
+  - audit
+  - conformite
+  - qualite
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*

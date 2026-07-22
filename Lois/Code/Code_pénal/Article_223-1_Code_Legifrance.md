@@ -1,12 +1,19 @@
 ---
-title: "Article 223-1"
-description: "Code pénal — Mise en danger de la vie d'autrui"
+title: Article 223-1
+description: Code pénal — Mise en danger de la vie d'autrui
 type: loi
 date: 2026-07-11
 source: Légifrance/LEGIARTI000024042637
 legiarti: LEGIARTI000024042637
 code: Code pénal
 article: 223-1
+subtitle: Article 223-1
+objective: Analyser Article 223-1
+summary: Code pénal — Mise en danger de la vie d'autrui
+tags:
+  - rapport
+  - penal
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code pénal](./README.md)*

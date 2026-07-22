@@ -1,12 +1,18 @@
 ---
-title: "Article L123-2"
-description: "Code de commerce — Immatriculation des commerçants"
+title: Article L123-2
+description: Code de commerce — Immatriculation des commerçants
 type: loi
 date: 2026-07-11
 source: Légifrance/LEGIARTI000051752672
 legiarti: LEGIARTI000051752672
 code: Code de commerce
 article: L123-2
+subtitle: Article L123-2
+objective: Analyser Article L123-2
+summary: Code de commerce — Immatriculation des commerçants
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md)*

@@ -1,12 +1,18 @@
 ---
-title: "Articles R. 143-2 et suivants CCH"
-description: "Code de la construction — Sécurité des ERP"
+title: Articles R. 143-2 et suivants CCH
+description: Code de la construction — Sécurité des ERP
 type: loi
 date: 2026-07-10
 source: Légifrance/LEGIARTI000043818941
 legiarti: LEGIARTI000043818941
 code: Code de la construction et de l'habitation
 article: R143-2
+subtitle: Articles R. 143-2 et suivants CCH
+objective: Analyser Articles R. 143-2 et suivants CCH
+summary: Code de la construction — Sécurité des ERP
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code construction habitation](./README.md)*

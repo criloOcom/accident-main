@@ -1,12 +1,19 @@
 ---
-title: "Code pénal — Art. 475-1"
-description: "Code de procédure pénale — Remboursement des frais de la partie civile"
+title: Code pénal — Art. 475-1
+description: Code de procédure pénale — Remboursement des frais de la partie civile
 type: loi
 date: 2026-07-10
 source: Légifrance/LEGIARTI000044570107
 legiarti: LEGIARTI000044570107
 code: Code de procédure pénale
 article: 475-1
+subtitle: Code pénal — Art. 475-1
+objective: Analyser Code pénal Art. 475-1
+summary: Code de procédure pénale — Remboursement des frais de la partie civile
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - penal
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure pénale](./README.md)*

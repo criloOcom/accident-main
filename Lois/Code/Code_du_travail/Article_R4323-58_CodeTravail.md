@@ -1,12 +1,18 @@
 ---
-title: "Code du travail — Art. R.4323-58"
-description: "Code du travail — Travaux temporaires en hauteur"
+title: Code du travail — Art. R.4323-58
+description: Code du travail — Travaux temporaires en hauteur
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000018531397
 legiarti: LEGIARTI000018531397
 code: Code du travail
 article: R4323-58
+subtitle: Code du travail — Art. R.4323-58
+objective: Analyser Code du travail Art. R.4323-58
+summary: Code du travail — Travaux temporaires en hauteur
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code du travail](./README.md)*

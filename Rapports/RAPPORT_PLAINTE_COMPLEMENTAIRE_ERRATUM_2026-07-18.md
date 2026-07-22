@@ -1,8 +1,23 @@
 ---
-title: "Rapport Préparation Dépôt Plainte Complémentaire et Erratum"
+title: Rapport Préparation Dépôt Plainte Complémentaire et Erratum
 date: 2026-07-18
-description: "Analyse et recommandations pour le dépôt au commissariat de Foix de l'erratum et de la plainte visant HB BARBER"
+description: Analyse et recommandations pour le dépôt au commissariat de Foix de l'erratum et de la plainte visant HB BARBER
 type: rapport
+subtitle: RAPPORT PRÉPARATION DÉPÔT PLAINTE COMPLÉMENTAIRE ET ERRATUM
+objective: Analyser RAPPORT PRÉPARATION DÉPÔT PLAINTE COMPLÉMENTAIRE ET ERRATUM
+summary: Analyse et recommandations pour le dépôt au commissariat de Foix de l'erratum et de la plainte visant HB BARBER
+key_points:
+  - Mission d'Assistance Juridique — 18 juillet 2026
+  - 1. Analyse de l'Erratum (Police - Note Erratum Identité.md)
+  - 2. Analyse du Projet de Déclaration PV (Police - Note Projet Déclaration.md)
+  - 3. Mise à jour du Bordereau de Pièces (Police - Bordereau Pièces.md)
+  - 4. Mémo de Synthèse pour l'OPJ
+  - 5. Démarches à accomplir au Commissariat ("Post-Dépôt")
+recipient: Mairie de Foix
+tags:
+  - rapport
+  - preuve
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

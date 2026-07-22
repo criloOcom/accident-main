@@ -1,12 +1,18 @@
 ---
-title: "Code de procédure pénale — Art. 8"
-description: "Code de procédure pénale — Prescription de l'action publique"
+title: Code de procédure pénale — Art. 8
+description: Code de procédure pénale — Prescription de l'action publique
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000049531911
 legiarti: LEGIARTI000049531911
 code: Code de procédure pénale
 article: 8
+subtitle: Code de procédure pénale — Art. 8
+objective: Analyser Code de procédure pénale Art. 8
+summary: Code de procédure pénale — Prescription de l'action publique
+tags:
+  - rapport
+  - penal
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure pénale](./README.md)*

@@ -1,9 +1,19 @@
 ---
-title: "CEDH — Semache c. France (36083/16)"
-description: "Arrêt de la 5e Section du 21 juin 2018 — Non-conservation de vidéos et obligation de diligence d'enquête"
+title: CEDH — Semache c. France (36083/16)
+description: Arrêt de la 5e Section du 21 juin 2018 — Non-conservation de vidéos et obligation de diligence d'enquête
 type: jurisprudence
 date: 2026-07-22
 source: HUDOC/CEDH
+subtitle: CEDH — Semache c. France (n° 36083/16)
+objective: Analyser CEDH Semache c. France (n 36083/16)
+summary: Arrêt de la 5e Section du 21 juin 2018 — Non-conservation de vidéos et obligation de diligence d'enquête
+key_points:
+  - I — ATTENDU DE PRINCIPE / ENSEIGNEMENT MAJEUR
+  - II — APPLICATION À NOTRE DOSSIER (ERP & ENTRAVE)
+  - III — SOURCE OFFICIELLE
+tags:
+  - rapport
+  - preuve
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › [CEDH](./README.md)*

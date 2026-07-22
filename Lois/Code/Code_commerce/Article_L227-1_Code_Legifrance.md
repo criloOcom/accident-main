@@ -1,12 +1,18 @@
 ---
-title: "Article L227-1"
-description: "Code de commerce — Sociétés par actions simplifiée (SAS)"
+title: Article L227-1
+description: Code de commerce — Sociétés par actions simplifiée (SAS)
 type: loi
 date: 2026-07-11
 source: Légifrance/LEGIARTI000047591332
 legiarti: LEGIARTI000047591332
 code: Code de commerce
 article: L227-1
+subtitle: Article L227-1
+objective: Analyser Article L227-1
+summary: Code de commerce — Sociétés par actions simplifiée (SAS)
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md)*

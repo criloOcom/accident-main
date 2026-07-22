@@ -1,12 +1,18 @@
 ---
-title: "Livre des procédures fiscales — Art. L.252"
-description: "Livre des procédures fiscales — Recouvrement des impôts, comptables publics"
+title: Livre des procédures fiscales — Art. L.252
+description: Livre des procédures fiscales — Recouvrement des impôts, comptables publics
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000006316012
 legiarti: LEGIARTI000006316012
 code: Livre des procédures fiscales
 article: L252
+subtitle: Livre des procédures fiscales — Art. L.252
+objective: Analyser Livre des procédures fiscales Art. L.252
+summary: Livre des procédures fiscales — Recouvrement des impôts, comptables publics
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Livre des procédures fiscales](./README.md)*

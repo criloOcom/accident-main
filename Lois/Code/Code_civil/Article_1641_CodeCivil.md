@@ -1,12 +1,18 @@
 ---
-title: "Code civil — Art. 1641"
-description: "Code civil — Garantie des défauts cachés de la chose vendue"
+title: Code civil — Art. 1641
+description: Code civil — Garantie des défauts cachés de la chose vendue
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000006441924
 legiarti: LEGIARTI000006441924
 code: Code civil
 article: 1641
+subtitle: Code civil — Art. 1641
+objective: Analyser Code civil Art. 1641
+summary: Code civil — Garantie des défauts cachés de la chose vendue
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code civil](./README.md)*

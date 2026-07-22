@@ -1,8 +1,22 @@
 ---
-title: "RAPPORT DE DOCUMENTATION — Nouveau Dossier ERP"
+title: RAPPORT DE DOCUMENTATION — Nouveau Dossier ERP
 date: 2026-07-11
 description: "Date** : 11 juillet 2026"
 type: rapport
+subtitle: RAPPORT DE DOCUMENTATION — Nouveau Dossier ERP
+objective: Analyser RAPPORT DE DOCUMENTATION Nouveau Dossier ERP
+summary: "Date** : 11 juillet 2026"
+key_points:
+  - Sommaire
+  - I — Description du Nouveau Dossier
+  - II — Contenu Détaillé
+  - III — Liens avec le Projet
+  - IV — Mises à Jour Effectuées
+  - V — Dernières Actions (11 juillet 2026)
+recipient: Mairie de Foix
+tags:
+  - rapport
+  - preuve
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*

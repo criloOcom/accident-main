@@ -1,12 +1,22 @@
 ---
-title: "Code de commerce — Art. L.225-251"
-description: "Code de commerce — Responsabilité en cas de liquidation"
+title: Code de commerce — Art. L.225-251
+description: Code de commerce — Responsabilité en cas de liquidation
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000006226329
 legiarti: LEGIARTI000006226329
 code: Code de commerce
 article: L225-251
+subtitle: Code de commerce — Art. L.225-251
+objective: Analyser Code de commerce Art. L.225-251
+summary: Code de commerce — Responsabilité en cas de liquidation
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - responsabilite
+  - legifrance
+legal_basis:
+  - Code de commerce
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md)*

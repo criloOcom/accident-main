@@ -1,11 +1,24 @@
 ---
-title: "TJ Versailles, 2024 (n° 21/04988)"
-description: "Tribunal judiciaire de Versailles — Transaction avec réserve d'aggravation, action post-transaction"
+title: TJ Versailles, 2024 (n° 21/04988)
+description: Tribunal judiciaire de Versailles — Transaction avec réserve d'aggravation, action post-transaction
 type: jurisprudence
 date: 2026-07-21
 source: Doctrine.fr
 code: Jurisprudence
 article: 2052 C. civ. (anc.) ; 2044 C. civ.
+subtitle: TJ Versailles, 2024 (n° 21/04988)
+objective: Analyser TJ Versailles, 2024 (n 21/04988)
+summary: Tribunal judiciaire de Versailles — Transaction avec réserve d'aggravation, action post-transaction
+key_points:
+  - Enseignement
+  - Résumé
+  - Pertinence pour l'affaire
+  - Traçabilité
+  - Lien vers la décision
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › [Jurisprudence du fond (CA-TJ)](./README.md)*

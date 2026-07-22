@@ -1,8 +1,22 @@
 ---
-title: "RAPPORT DE SYNTHÈSE GLOBALE — Version Chantier"
+title: RAPPORT DE SYNTHÈSE GLOBALE — Version Chantier
 date: 2026-07-14
 description: "Archive technique : version complète avec détails d'exécution (PRs, scripts, audits IA). Projet accident-main."
 type: rapport
+subtitle: RAPPORT DE SYNTHÈSE GLOBALE — VERSION CHANTIER
+objective: Synthétiser et présenter une vue d'ensemble de RAPPORT DE SYNTHÈSE GLOBALE VERSION CHANTIER
+summary: "Archive technique : version complète avec détails d'exécution (PRs, scripts, audits IA). Projet accident-main."
+key_points:
+  - I — RÉSUMÉ DU DOSSIER (1 page)
+  - II — CE QUI A ÉTÉ FAIT
+  - III — CE QUI RESTE À FAIRE
+  - IV — ÉTAT D'AVANCEMENT GLOBAL ESTIMÉ
+  - V — PROCHAINES ÉTAPES RECOMMANDÉES (ordonnées)
+  - VI — POINTS D'ATTENTION CRITIQUES
+tags:
+  - synthese
+  - global
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [70 Technique Repo](./README.md)*

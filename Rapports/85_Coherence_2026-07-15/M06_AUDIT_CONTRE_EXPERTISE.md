@@ -1,8 +1,25 @@
 ---
-title: "M06 — Audit de la Contre-Expertise Médicale"
+title: M06 — Audit de la Contre-Expertise Médicale
 date: FIXME
-description: "Vérification de la cohérence de la stratégie de contre-expertise médicale au sein du dossier (demande, contestation, honoraires, localisation)."
+description: Vérification de la cohérence de la stratégie de contre-expertise médicale au sein du dossier (demande, contestation, honoraires, localisation).
 type: rapport
+subtitle: M06 — Audit de la Contre-Expertise Médicale
+objective: Auditer et vérifier la conformité de M06 Audit de la Contre-Expertise Médicale
+summary: Vérification de la cohérence de la stratégie de contre-expertise médicale au sein du dossier (demande, contestation, honoraires, localisation).
+key_points:
+  - I — Demande de contre-expertise dans l'assignation
+  - II — Motifs de contestation et conclusions de l'expertise UMJ
+  - III — Honoraires de l'expert
+  - IV — Choix du cabinet expert (CHUM TOULOUSE)
+  - V — Délais et calendrier de procédure
+  - VI — TODO Actions Correctives
+tags:
+  - audit
+  - conformite
+  - qualite
+  - dintilhac
+  - indemnisation
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*

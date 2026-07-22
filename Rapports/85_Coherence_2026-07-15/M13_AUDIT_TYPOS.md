@@ -1,8 +1,24 @@
 ---
-title: "M13 — AUDIT TYPOS ET ORTHOGRAPHE"
+title: M13 — AUDIT TYPOS ET ORTHOGRAPHE
 date: FIXME
-description: "Audit des fautes d'orthographe, de grammaire et de typographie française"
+description: Audit des fautes d'orthographe, de grammaire et de typographie française
 type: rapport
+subtitle: MISSION 13 — AUDIT TYPOS ET ORTHOGRAPHE
+objective: Auditer et vérifier la conformité de MISSION 13 AUDIT TYPOS ET ORTHOGRAPHE
+summary: Audit des fautes d'orthographe, de grammaire et de typographie française
+key_points:
+  - I — SYNTHÈSE DES ANOMALIES
+  - II — TODO LIST DES CORRECTIONS
+  - CRITIQUE (Fuites PII)** : 0 erreur
+  - MAJEUR (Fautes courantes)** : 26 erreurs (principalement l'usage fautif de "suite à" au lieu de "à la suite de")
+  - MINEUR (Ponctuation)** : 1072 erreurs (principalement l'absence d'espace insécable avant les deux-points `:`)
+  - INFO (Espaces)** : 67 erreurs (doubles espaces entre mots)
+recipient: Mairie de Foix
+tags:
+  - audit
+  - conformite
+  - qualite
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*

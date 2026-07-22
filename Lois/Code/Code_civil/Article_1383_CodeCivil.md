@@ -1,9 +1,15 @@
 ---
 type: loi
-title: "Article 1383 – L'aveu"
+title: Article 1383 – L'aveu
 date: 2026-07-20
-source: "Légifrance – Code civil"
+source: Légifrance – Code civil
 url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042374/"
+subtitle: Article 1383 – L'aveu
+objective: Analyser Article 1383 L'aveu
+summary: Article 1383 – L'aveu
+tags:
+  - rapport
+  - legifrance
 ---
 
 <!-- Breadcrumb -->

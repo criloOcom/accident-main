@@ -1,12 +1,19 @@
 ---
-title: "Code pénal — Art. 222-20"
-description: "Code pénal — Blessures involontaires (ITT ≤ 3 mois)"
+title: Code pénal — Art. 222-20
+description: Code pénal — Blessures involontaires (ITT ≤ 3 mois)
 type: loi
 date: 2026-07-10
 source: Légifrance/LEGIARTI000024042640
 legiarti: LEGIARTI000024042640
 code: Code pénal
 article: 222-20
+subtitle: Code pénal — Art. 222-20
+objective: Analyser Code pénal Art. 222-20
+summary: Code pénal — Blessures involontaires (ITT ≤ 3 mois)
+tags:
+  - rapport
+  - penal
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code pénal](./README.md)*

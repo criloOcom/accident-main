@@ -1,8 +1,25 @@
 ---
-title: "Plan de continuité et gestion des dépendances procédurales"
+title: Plan de continuité et gestion des dépendances procédurales
 date: 2026-07-14
-description: "Cartographie des risques, points de défaillance et solutions de repli pour le dossier d'accident de la main."
+description: Cartographie des risques, points de défaillance et solutions de repli pour le dossier d'accident de la main.
 type: rapport
+subtitle: Plan de continuité et gestion des dépendances procédurales
+objective: Analyser Plan de continuité et gestion des dépendances procédurales
+summary: Cartographie des risques, points de défaillance et solutions de repli pour le dossier d'accident de la main.
+key_points:
+  - I — INTRODUCTION
+  - II — CARTOGRAPHIE DES DÉPENDANCES CRITIQUES
+  - III — POINTS DE DÉFAILLANCE UNIQUE ET SCÉNARIOS DE SECOURS
+  - IV — DÉLAIS LÉGAUX IMPÉRATIFS (PRESCRIPTION)
+  - V — GOULOTS D'ÉTRANGLEMENT HUMAINS (À NE JAMAIS OUBLIER)
+tags:
+  - rapport
+  - responsabilite
+  - token
+  - legifrance
+legal_basis:
+  - Code de procédure civile
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md)*

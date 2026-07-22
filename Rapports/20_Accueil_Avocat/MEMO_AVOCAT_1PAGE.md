@@ -1,9 +1,22 @@
 ---
-title: "Mémo Avocat — Présentation Éclair du Dossier"
-description: "1 page — mécanisme, fondement, chiffres, stratégie"
+title: Mémo Avocat — Présentation Éclair du Dossier
+description: 1 page — mécanisme, fondement, chiffres, stratégie
 type: rapport
 date: 2026-07-14
 statut: final
+subtitle: 1 page — mécanisme, fondement, chiffres, stratégie
+objective: Fournir un guide de référence pour Mémo Avocat Présentation Éclair du Dossier
+summary: 1 page — mécanisme, fondement, chiffres, stratégie
+key_points:
+  - Fourchette globale : **120 – 160 k€** | Provision déjà allouée : **15 k€**
+recipient: Avocat
+tags:
+  - guide
+  - documentation
+  - reference
+  - penal
+  - avocat
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [20 Accueil Avocat](./README.md)*

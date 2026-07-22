@@ -1,8 +1,26 @@
 ---
-title: "Synthèse exécutive pour l'avocat (J+50)"
+title: Synthèse exécutive pour l'avocat (J+50)
 date: 2026-07-18
-description: "Document de synthèse à remettre à l'avocat"
+description: Document de synthèse à remettre à l'avocat
 type: rapport
+subtitle: Synthèse exécutive pour l'avocat (J+50)
+objective: Synthétiser et présenter une vue d'ensemble de Synthèse exécutive pour l'avocat (J+50)
+summary: Document de synthèse à remettre à l'avocat
+key_points:
+  - 1. Fiche signalétique du dossier
+  - 2. Résumé des faits
+  - 3. État de la procédure
+  - 4. Pièces clés du dossier
+  - 5. Questions stratégiques pour l'avocat
+  - 6. Coordonnées de la victime
+recipient: Avocat
+tags:
+  - synthese
+  - global
+  - avocat
+  - token
+legal_basis:
+  - Code de procédure civile
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

@@ -1,8 +1,26 @@
 ---
-title: "RAPPORT D'AUDIT STRATÉGIQUE GLOBAL"
+title: RAPPORT D'AUDIT STRATÉGIQUE GLOBAL
 date: FIXME
 description: "Mission** : Audit critique de la stratégie globale du projet accident-main"
 type: rapport
+subtitle: RAPPORT D'AUDIT STRATÉGIQUE GLOBAL
+objective: Auditer et vérifier la conformité de RAPPORT D'AUDIT STRATÉGIQUE GLOBAL
+summary: "Mission** : Audit critique de la stratégie globale du projet accident-main"
+key_points:
+  - I — STRATÉGIE GLOBALE — ANALYSE DE COHÉRENCE
+  - II — AUDIT DES 4 COURRIERS PRIORITAIRES
+  - III — ANALYSE DES SCÉNARIOS D'ÉCHEC
+  - IV — PLAN B — ÉVALUATION ET LACUNES
+  - V — OPTIMISATION DE L'ORDRE D'ENVOI
+  - VI — SYNTHÈSE DES RISQUES (MATRICE)
+recipient: Avocat
+tags:
+  - audit
+  - conformite
+  - qualite
+  - penal
+  - preuve
+  - avocat
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*

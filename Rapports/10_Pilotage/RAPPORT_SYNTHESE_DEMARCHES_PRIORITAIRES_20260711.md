@@ -1,8 +1,26 @@
 ---
-title: "RAPPORT DE SYNTHÈSE - Démarches Prioritaires à Entreprendre"
+title: RAPPORT DE SYNTHÈSE - Démarches Prioritaires à Entreprendre
 date: 2026-07-11
 description: "Date** : 11 juillet 2026"
 type: rapport
+subtitle: RAPPORT DE SYNTHÈSE - Démarches Prioritaires à Entreprendre
+objective: Synthétiser et présenter une vue d'ensemble de RAPPORT DE SYNTHÈSE - Démarches Prioritaires à Entreprendre
+summary: "Date** : 11 juillet 2026"
+key_points:
+  - Sommaire
+  - I — Analyse de la Situation Actuelle
+  - II — Preuves de Mauvaise Volonté et Dissimulation
+  - III — Démarches Déjà Entreprises
+  - IV — Actions Prioritaires à Entreprendre
+  - V — Stratégie pour le Déplacement à Foix
+recipient: Mairie de Foix
+tags:
+  - synthese
+  - global
+  - preuve
+legal_basis:
+  - Code de procédure civile
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [10 Pilotage](./README.md)*

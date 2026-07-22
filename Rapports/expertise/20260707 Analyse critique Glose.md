@@ -1,8 +1,16 @@
 ---
-title: "Analyse critique Glose — 7 juillet 2026"
+title: Analyse critique Glose — 7 juillet 2026
 date: 2026-07-07
-description: "Analyse critique sur le mémoire juridique de Glose (archivé)"
+description: Analyse critique sur le mémoire juridique de Glose (archivé)
 type: rapport
+subtitle: Analyse critique Glose
+objective: Analyser Analyse critique Glose
+summary: Analyse critique sur le mémoire juridique de Glose (archivé)
+key_points:
+  - Description
+tags:
+  - rapport
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › expertise*

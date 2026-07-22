@@ -1,11 +1,25 @@
 ---
-title: "Rapport Jules #06 — Audit PIECES MAP Update"
-description: "Rapport d'audit de l'intégration des 20 nouvelles preuves officielles dans Memory/PIECES MAP.md."
+title: Rapport Jules #06 — Audit PIECES MAP Update
+description: Rapport d'audit de l'intégration des 20 nouvelles preuves officielles dans Memory/PIECES MAP.md.
 type: rapport
 progress: 100%
 status: valide
 date: 2026-07-22
-jules_session_id: "AM-MISSION-06"
+jules_session_id: AM-MISSION-06
+subtitle: 📊 Rapport Jules #06 — Audit PIECES MAP Update
+objective: Analyser et rapporter Rapport Jules #06 Audit PIECES MAP Update
+summary: Rapport d'audit de l'intégration des 20 nouvelles preuves officielles dans Memory/PIECES MAP.md.
+key_points:
+  - I — SYNTHÈSE ET CONSTATATIONS DE TERRAIN
+  - II — ANALYSE ET VALIDATION DE L'INDEXATION
+  - III — FEUILLE DE ROUTE D'EXPLOITATION (TO-DO LIST INTERACTIVE)
+  - IV — SOURCES & CITATIONS (SOURCES OFFICIELLES GOVERNEMENTALES)
+recipient: Équipe projet
+tags:
+  - jules
+  - mission
+  - automatisation
+  - preuve
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [📋 Rapports](./README.md) › Rapport Jules #06*

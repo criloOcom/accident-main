@@ -1,12 +1,20 @@
 ---
-title: "Article 121-3 — Code pénal"
-description: "Code pénal — Faute caractérisée, distinction des degrés de faute"
+title: Article 121-3 — Code pénal
+description: Code pénal — Faute caractérisée, distinction des degrés de faute
 type: loi
 date: 2026-07-11
 source: Légifrance/LEGIARTI000006417208
 legiarti: LEGIARTI000006417208
 code: Code pénal
 article: 121-3
+subtitle: Article 121-3
+objective: Analyser Article 121-3
+summary: Code pénal — Faute caractérisée, distinction des degrés de faute
+tags:
+  - rapport
+  - responsabilite
+  - penal
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code pénal](./README.md)*

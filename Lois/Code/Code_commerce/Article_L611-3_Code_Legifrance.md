@@ -1,12 +1,18 @@
 ---
-title: "Article L611-3"
-description: "Code de commerce — Procédure de sauvegarde"
+title: Article L611-3
+description: Code de commerce — Procédure de sauvegarde
 type: loi
 date: 2026-07-11
 source: Légifrance/LEGIARTI000044052542
 legiarti: LEGIARTI000044052542
 code: Code de commerce
 article: L611-3
+subtitle: Article L611-3
+objective: Analyser Article L611-3
+summary: Code de commerce — Procédure de sauvegarde
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md)*

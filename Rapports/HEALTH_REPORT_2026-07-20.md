@@ -1,8 +1,23 @@
 ---
-title: "Rapport de Santé — 2026-07-20"
-description: "Audit complet du dépôt au 2026-07-20"
+title: Rapport de Santé — 2026-07-20
+description: Audit complet du dépôt au 2026-07-20
 type: rapport
 date: 2026-07-20
+subtitle: Rapport de Santé — 2026-07-20
+objective: Évaluer l'état et la santé de Rapport de Santé 2026-07-20
+summary: Audit complet du dépôt au 2026-07-20
+key_points:
+  - Résumé
+  - 🔴 YAML frontmatter
+  - ⚠️ calendar_event_id manquants
+  - ✅ reel_path invalides
+  - 🔴 Liens internes
+  - ✅ Citations non liées
+tags:
+  - health
+  - etat
+  - projet
+  - token
 ---
 
 <!-- Breadcrumb -->

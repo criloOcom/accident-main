@@ -1,10 +1,23 @@
 ---
-title: "TJ Rennes, 2026 (n° 20/05541)"
-description: "Tribunal judiciaire de Rennes — Indemnisation post-consolidation, incidence professionnelle"
+title: TJ Rennes, 2026 (n° 20/05541)
+description: Tribunal judiciaire de Rennes — Indemnisation post-consolidation, incidence professionnelle
 type: jurisprudence
 date: 2026-07-21
 source: Doctrine.fr
 code: Jurisprudence
+subtitle: TJ Rennes, 2026 (n° 20/05541)
+objective: Analyser TJ Rennes, 2026 (n 20/05541)
+summary: Tribunal judiciaire de Rennes — Indemnisation post-consolidation, incidence professionnelle
+key_points:
+  - Enseignement
+  - Résumé
+  - Pertinence pour l'affaire
+  - Traçabilité
+  - Lien vers la décision
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › [Jurisprudence du fond (CA-TJ)](./README.md)*

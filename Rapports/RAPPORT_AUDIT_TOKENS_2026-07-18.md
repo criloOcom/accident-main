@@ -1,8 +1,23 @@
 ---
-title: "Rapport d'Audit Tokens et Cohérence"
+title: Rapport d'Audit Tokens et Cohérence
 date: 2026-07-18
-description: "Vérification de la cohérence de l'ensemble des tokens d'anonymisation, avec un focus sur le nouveau token [**[Le Téléphone du Préposé]**](../Memory/Tokens/token-exploitation-prepose-telephone.md)."
+description: Vérification de la cohérence de l'ensemble des tokens d'anonymisation, avec un focus sur le nouveau token [**[Le Téléphone du Préposé]**](../Memory/Tokens/token-exploitation-prepose-telephone.md).
 type: rapport
+subtitle: Rapport d'Audit Tokens et Cohérence
+objective: Auditer et vérifier la conformité de Rapport d'Audit Tokens et Cohérence
+summary: Vérification de la cohérence de l'ensemble des tokens d'anonymisation, avec un focus sur le nouveau token [**[Le Téléphone du Préposé]**](../Memory/Tokens/token-exploitation-prepose-telephone.md).
+key_points:
+  - 1. Matrice de complétude `TOKEN MAP.md` et fiches individuelles
+  - 2. Validation de la Double Strate (Scripts)
+  - 3. Déploiement du nouveau token
+  - 4. Fuites détectées (Données réelles)
+  - 5. Faux envois (TODOs identifiés)
+  - 6. Plan d'action recommandé
+tags:
+  - audit
+  - conformite
+  - qualite
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

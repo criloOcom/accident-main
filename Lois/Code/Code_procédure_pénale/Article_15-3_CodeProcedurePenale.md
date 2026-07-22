@@ -1,12 +1,19 @@
 ---
-title: "Code de procédure pénale — Art. 15-3"
-description: "Code de procédure pénale — Dépôt de plainte, récépissé, délais de prescription"
+title: Code de procédure pénale — Art. 15-3
+description: Code de procédure pénale — Dépôt de plainte, récépissé, délais de prescription
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000038311441
 legiarti: LEGIARTI000038311441
 code: Code de procédure pénale
 article: 15-3
+subtitle: Code de procédure pénale — Art. 15-3
+objective: Analyser Code de procédure pénale Art. 15-3
+summary: Code de procédure pénale — Dépôt de plainte, récépissé, délais de prescription
+tags:
+  - rapport
+  - penal
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure pénale](./README.md)*

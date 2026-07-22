@@ -1,12 +1,25 @@
 ---
-title: "Article 434-15 du Code pénal"
-description: "Code pénal — Subornation de témoin"
+title: Article 434-15 du Code pénal
+description: Code pénal — Subornation de témoin
 type: loi
 date: 2026-07-11
 source: Légifrance/LEGIARTI000006418641
 legiarti: LEGIARTI000006418641
 code: Code pénal
 article: 434-15
+subtitle: Article 434-15 du Code pénal
+objective: Analyser Article 434-15 du Code pénal
+summary: Code pénal — Subornation de témoin
+key_points:
+  - Texte de l'article
+  - Contexte et interprétation
+  - Jurisprudence connexe
+  - Références croisées
+  - Notes pratiques
+tags:
+  - rapport
+  - penal
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code pénal](./README.md)*

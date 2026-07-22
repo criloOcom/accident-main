@@ -1,14 +1,21 @@
 ---
-title: "Audit Global du Projet Accident Main"
-description: "Réponses détaillées aux 50 questions d'audit (Architecture, Juridique, Technique)"
+title: Audit Global du Projet Accident Main
+description: Réponses détaillées aux 50 questions d'audit (Architecture, Juridique, Technique)
 type: rapport
 date: 2026-07-18
 tags:
-  - audit
-  - qualite
-  - global
 statut: final
 auteur: Gemini
+subtitle: Audit Global du Projet "Accident Main"
+objective: Auditer et vérifier la conformité de Audit Global du Projet "Accident Main"
+summary: Réponses détaillées aux 50 questions d'audit (Architecture, Juridique, Technique)
+key_points:
+  - 1 — Structure générale & Organisation du projet (Q1–Q5)
+  - 2 — Cohérence Token / Reel (Q6–Q10)
+  - 3 — Qualité juridique & Citations Légifrance (Q11–Q18)
+  - 4 — Liens internes & Navigation (Q19–Q23)
+  - 5 — Cohérence factuelle & Dates (Q24–Q28)
+  - 6 — Scripts & Technique (Q29–Q33)
 ---
 
 <!-- Breadcrumb -->

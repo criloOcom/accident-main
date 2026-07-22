@@ -1,8 +1,25 @@
 ---
-title: "Rapport d'évaluation du potentiel de résolution amiable"
+title: Rapport d'évaluation du potentiel de résolution amiable
 date: FIXME
-description: "Analyse du dossier d'accident du 29 mai 2026 par le Médiateur judiciaire près la Cour d'Appel."
+description: Analyse du dossier d'accident du 29 mai 2026 par le Médiateur judiciaire près la Cour d'Appel.
 type: rapport
+subtitle: "Rapport d'Évaluation Médiation : Accident du 29 mai 2026"
+objective: "Analyser Rapport d'Évaluation Médiation : Accident du 29 mai 2026"
+summary: Analyse du dossier d'accident du 29 mai 2026 par le Médiateur judiciaire près la Cour d'Appel.
+key_points:
+  - I — PRÉSENTATION DU DOSSIER ET DE LA MISSION
+  - II — ANALYSE DE LA MATURITÉ DU CONFLIT ET POSITIONS DES PARTIES
+  - III — INDEMNISATION TRANSACTIONNELLE : POINTS D'ACCORD POSSIBLES
+  - IV — RECOMMANDATIONS DU MÉDIATEUR
+tags:
+  - rapport
+  - dintilhac
+  - indemnisation
+  - responsabilite
+  - token
+legal_basis:
+  - Code de procédure civile
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [Rapports](../../README.md) › [30 Analyses Multi Angle](../README.md) › [analyse-multi-angle](./README.md)*

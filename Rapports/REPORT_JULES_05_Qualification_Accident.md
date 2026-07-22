@@ -1,11 +1,28 @@
 ---
-title: "Rapport Jules #05 — Audit Qualification Juridique de l'Accident"
-description: "Démonstration de la caducité de l'accident du travail et fondement délictuel (Art. 1240 & 1242 C. civ.)."
+title: Rapport Jules #05 — Audit Qualification Juridique de l'Accident
+description: Démonstration de la caducité de l'accident du travail et fondement délictuel (Art. 1240 & 1242 C. civ.).
 type: rapport
 progress: 100%
 status: valide
 date: 2026-07-22
-jules_session_id: "AM-MISSION-05"
+jules_session_id: AM-MISSION-05
+subtitle: 📊 Rapport Jules #05 — Audit Qualification Juridique de l'Accident
+objective: Analyser et rapporter Rapport Jules #05 Audit Qualification Juridique de l'Accident
+summary: Démonstration de la caducité de l'accident du travail et fondement délictuel (Art. 1240 & 1242 C. civ.).
+key_points:
+  - I — SYNTHÈSE ET CONSTATATIONS DE TERRAIN
+  - II — DEMONSTRATION JURIDIQUE DE LA QUALIFICATION
+  - III — FEUILLE DE ROUTE D'EXPLOITATION (TO-DO LIST INTERACTIVE)
+  - IV — SOURCES & CITATIONS (SOURCES OFFICIELLES GOVERNEMENTALES)
+recipient: Équipe projet
+tags:
+  - jules
+  - mission
+  - automatisation
+  - responsabilite
+  - preuve
+legal_basis:
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [📋 Rapports](./README.md) › Rapport Jules #05*

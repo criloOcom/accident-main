@@ -1,8 +1,19 @@
 ---
-title: "Audit de l'organisation et de la navigabilité du dépôt"
+title: Audit de l'organisation et de la navigabilité du dépôt
 date: 2026-07-14
-description: "Rapport d'évaluation de l'organisation, de la navigabilité et de la maintenabilité du dépôt accident-main."
+description: Rapport d'évaluation de l'organisation, de la navigabilité et de la maintenabilité du dépôt accident-main.
 type: rapport
+subtitle: Audit de l'organisation et de la navigabilité du dépôt
+objective: Analyser Audit de l'organisation et de la navigabilité du dépôt
+summary: Rapport d'évaluation de l'organisation, de la navigabilité et de la maintenabilité du dépôt accident-main.
+key_points:
+  - I — Arborescence et Propreté
+  - II — Liens Internes et Navigabilité
+  - III — Conventions de Formatage
+  - IV — Index et Statuts
+  - V — Plan d'action et Arborescence cible
+tags:
+  - rapport
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*

@@ -1,8 +1,20 @@
 ---
-title: "Article 434-15-1 du Code pénal"
+title: Article 434-15-1 du Code pénal
 date: FIXME
 description: "Dernière mise à jour :** 13 juillet 2026"
 type: loi
+subtitle: Article 434-15-1 du Code pénal
+objective: Analyser Article 434-15-1 du Code pénal
+summary: "Dernière mise à jour :** 13 juillet 2026"
+key_points:
+  - Texte de l'article
+  - Contexte et interprétation
+  - Références croisées
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - penal
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code pénal](./README.md)*

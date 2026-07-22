@@ -1,8 +1,16 @@
 ---
-title: "Mémoire juridique Glose — 7 juillet 2026"
+title: Mémoire juridique Glose — 7 juillet 2026
 date: 2026-07-07
-description: "Mémoire juridique produit par l'assistant Glose (archivé)"
+description: Mémoire juridique produit par l'assistant Glose (archivé)
 type: rapport
+subtitle: Mémoire juridique Glose
+objective: Analyser Mémoire juridique Glose
+summary: Mémoire juridique produit par l'assistant Glose (archivé)
+key_points:
+  - Description
+tags:
+  - rapport
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › expertise*

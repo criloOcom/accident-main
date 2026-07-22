@@ -1,10 +1,23 @@
 ---
-title: "CA Toulouse, 5 décembre 2013 (n° 11/03512)"
-description: "Cour d'appel de Toulouse — Responsabilité d'un établissement recevant du public (ERP), obligation de sécurité"
+title: CA Toulouse, 5 décembre 2013 (n° 11/03512)
+description: Cour d'appel de Toulouse — Responsabilité d'un établissement recevant du public (ERP), obligation de sécurité
 type: jurisprudence
 date: 2026-07-21
 source: Doctrine.fr
 code: Jurisprudence
+subtitle: CA Toulouse, 5 décembre 2013 (n° 11/03512)
+objective: Analyser CA Toulouse, 5 décembre 2013 (n 11/03512)
+summary: Cour d'appel de Toulouse — Responsabilité d'un établissement recevant du public (ERP), obligation de sécurité
+key_points:
+  - Enseignement
+  - Résumé
+  - Pertinence pour l'affaire
+  - Traçabilité
+  - Lien vers la décision
+tags:
+  - rapport
+  - responsabilite
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › [Jurisprudence du fond (CA-TJ)](./README.md)*

@@ -1,8 +1,24 @@
 ---
 title: "Synthèse : opérationnalité du dossier face à la loi française"
 date: 2026-07-14
-description: "Rapport exécutif faisant le point global sur l'état du dossier accident-main au 14/07/2026 et sa capacité à tenir devant la justice française (civil + pénal)."
+description: Rapport exécutif faisant le point global sur l'état du dossier accident-main au 14/07/2026 et sa capacité à tenir devant la justice française (civil + pénal).
 type: rapport
+subtitle: "Synthèse : opérationnalité du dossier face à la loi française"
+objective: "Synthétiser et présenter une vue d'ensemble de Synthèse : opérationnalité du dossier face à la loi française"
+summary: Rapport exécutif faisant le point global sur l'état du dossier accident-main au 14/07/2026 et sa capacité à tenir devant la justice française (civil + pénal).
+key_points:
+  - I — SCORE DE CONFORMITÉ GLOBAL
+  - II — TOP 10 DES RISQUES ET CORRECTIFS
+  - III — PLAN D'ACTION PRIORISÉ « 0 → 100 »
+  - IV — CONFORMITÉ LOI FRANÇAISE ET RÈGLES DE LA PREUVE
+  - V — RECOMMANDATIONS TRANSVERSALES
+recipient: Mairie de Foix
+tags:
+  - synthese
+  - global
+  - responsabilite
+  - penal
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [10 Pilotage](./README.md)*

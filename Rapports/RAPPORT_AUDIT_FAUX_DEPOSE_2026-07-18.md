@@ -1,8 +1,24 @@
 ---
-title: "Audit des mentions « ✅ Déposé » fausses (Hallucinations)"
+title: Audit des mentions « ✅ Déposé » fausses (Hallucinations)
 date: 2026-07-18
-description: "Rapport d'audit identifiant les fausses mentions de dépôt ou d'envoi dans le dossier."
+description: Rapport d'audit identifiant les fausses mentions de dépôt ou d'envoi dans le dossier.
 type: rapport
+subtitle: AUDIT DES MENTIONS « ✅ DÉPOSÉ » HALLUCINÉES
+objective: Auditer et vérifier la conformité de AUDIT DES MENTIONS DÉPOSÉ HALLUCINÉES
+summary: Rapport d'audit identifiant les fausses mentions de dépôt ou d'envoi dans le dossier.
+key_points:
+  - I — LISTE DES FAUSSES MENTIONS D'ACCOMPLISSEMENT
+  - Fichier** : `Status/03_ENVOYE.md`
+  - Ligne** : 2
+  - Citation** : `title: "✅ Envoyé"`
+  - Acte présenté comme fait** : Acte procédural ou démarche administrative
+  - Réalité** : NON FAIT (hallucination)
+tags:
+  - audit
+  - conformite
+  - qualite
+  - avocat
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

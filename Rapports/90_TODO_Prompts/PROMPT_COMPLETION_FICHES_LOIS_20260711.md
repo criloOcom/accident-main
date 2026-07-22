@@ -1,8 +1,25 @@
 ---
-title: "PROMPT — Complétion des 5 fiches Lois (MCP Légifrance)"
+title: PROMPT — Complétion des 5 fiches Lois (MCP Légifrance)
 date: 2026-07-11
-description: "Prompt à confier à l'agent disposant du MCP Légifrance/Judilibre pour compléter le corps des 5 fiches marquées À VÉRIFIER."
+description: Prompt à confier à l'agent disposant du MCP Légifrance/Judilibre pour compléter le corps des 5 fiches marquées À VÉRIFIER.
 type: rapport
+subtitle: PROMPT — Complétion des 5 fiches Lois
+objective: Fournir un guide de référence pour PROMPT Complétion des 5 fiches Lois
+summary: Prompt à confier à l'agent disposant du MCP Légifrance/Judilibre pour compléter le corps des 5 fiches marquées À VÉRIFIER.
+key_points:
+  - I — Contexte
+  - II — Règle absolue (Règle #16 + JURITEXT_PROTOCOL)
+  - III — Fichiers à compléter (avec emplacement exact)
+  - IV — Procédure pour chaque fichier
+  - V — Vérification finale à fournir
+  - VI — Interdictions
+tags:
+  - guide
+  - documentation
+  - reference
+  - penal
+  - token
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [90 TODO Prompts](./README.md)*

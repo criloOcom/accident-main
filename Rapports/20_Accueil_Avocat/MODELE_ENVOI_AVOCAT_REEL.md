@@ -1,9 +1,19 @@
 ---
-title: "Modèles d'Envoi — Version Réelle (hors Git)"
-description: "Copier-coller prêt à l'emploi — placeholders standard [NOM] — version sans tokens ni liens internes"
+title: Modèles d'Envoi — Version Réelle (hors Git)
+description: Copier-coller prêt à l'emploi — placeholders standard [NOM] — version sans tokens ni liens internes
 type: fiche
 date: 2026-07-14
 statut: final
+subtitle: Option A — Avocat déjà désigné (AJ)
+objective: Analyser Option A Avocat déjà désigné (AJ)
+summary: Copier-coller prêt à l'emploi — placeholders standard [NOM] — version sans tokens ni liens internes
+recipient: Avocat
+tags:
+  - rapport
+  - responsabilite
+  - penal
+  - avocat
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [20 Accueil Avocat](./README.md)*

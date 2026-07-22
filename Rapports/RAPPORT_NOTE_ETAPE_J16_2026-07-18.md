@@ -1,8 +1,24 @@
 ---
 title: "Note d'étape J+48 : Visite Foix du 16 juillet 2026"
-description: "Synthèse chronologique et matérielle de la visite des lieux à Foix, constatations sur HB BARBER et anomalies procédurales"
+description: Synthèse chronologique et matérielle de la visite des lieux à Foix, constatations sur HB BARBER et anomalies procédurales
 type: rapport
 date: 2026-07-18
+subtitle: "Note d'étape J+48 : Visite Foix du 16 juillet 2026"
+objective: "Analyser Note d'étape J+48 : Visite Foix du 16 juillet 2026"
+summary: Synthèse chronologique et matérielle de la visite des lieux à Foix, constatations sur HB BARBER et anomalies procédurales
+key_points:
+  - I — CHRONOLOGIE DE LA VISITE DES LIEUX (16 JUILLET 2026)
+  - II — ÉLÉMENTS MATÉRIELS RAPPORTÉS
+  - III — ÉLÉMENTS RESTANT INCONNUS
+  - IV — CONSÉQUENCES IMMÉDIATES ET ACTIONS À MENER
+  - V — ANOMALIES AU DOSSIER (MENTIONS « DÉPOSÉ » INCORRECTES)
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - responsabilite
+  - token
+legal_basis:
+  - Code de procédure civile
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

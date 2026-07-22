@@ -1,11 +1,28 @@
 ---
-title: "Rapport Jules #10 — Audit Citations des Preuves dans les Actes Procéduraux"
-description: "Vérification systématique de l'intégration des nouvelles preuves officielles dans les actes civils et pénaux."
+title: Rapport Jules #10 — Audit Citations des Preuves dans les Actes Procéduraux
+description: Vérification systématique de l'intégration des nouvelles preuves officielles dans les actes civils et pénaux.
 type: rapport
 progress: 100%
 status: valide
 date: 2026-07-22
-jules_session_id: "AM-MISSION-10"
+jules_session_id: AM-MISSION-10
+subtitle: 📊 Rapport Jules #10 — Audit Citations des Preuves dans les Actes Procéduraux
+objective: Analyser et rapporter Rapport Jules #10 Audit Citations des Preuves dans les Actes Procéduraux
+summary: Vérification systématique de l'intégration des nouvelles preuves officielles dans les actes civils et pénaux.
+key_points:
+  - I — SYNTHÈSE ET CONSTATATIONS DE TERRAIN
+  - II — ANALYSE DE L'INTÉGRATION PAR ACTE
+  - III — FEUILLE DE ROUTE D'EXPLOITATION (TO-DO LIST INTERACTIVE)
+  - IV — SOURCES & CITATIONS (SOURCES OFFICIELLES GOVERNEMENTALES)
+recipient: Équipe projet
+tags:
+  - jules
+  - mission
+  - automatisation
+  - penal
+  - preuve
+  - token
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [📋 Rapports](./README.md) › Rapport Jules #10*

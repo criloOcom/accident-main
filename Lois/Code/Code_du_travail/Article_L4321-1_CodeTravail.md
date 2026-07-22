@@ -1,12 +1,18 @@
 ---
-title: "Code du travail — Art. L.4321-1"
-description: "Code du travail — Principes généraux d'utilisation des équipements de travail"
+title: Code du travail — Art. L.4321-1
+description: Code du travail — Principes généraux d'utilisation des équipements de travail
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000006903209
 legiarti: LEGIARTI000006903209
 code: Code du travail
 article: L4321-1
+subtitle: Code du travail — Art. L.4321-1
+objective: Analyser Code du travail Art. L.4321-1
+summary: Code du travail — Principes généraux d'utilisation des équipements de travail
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code du travail](./README.md)*

@@ -1,12 +1,19 @@
 ---
-title: "Code civil — Art. 145"
-description: "Code de procédure civile — Mesures d'instruction in futurum"
+title: Code civil — Art. 145
+description: Code de procédure civile — Mesures d'instruction in futurum
 type: loi
 date: 2026-07-10
 source: Légifrance/LEGIARTI000051869339
 legiarti: LEGIARTI000051869339
 code: Code de procédure civile
 article: 145
+subtitle: Code civil — Art. 145
+objective: Analyser Code civil Art. 145
+summary: Code de procédure civile — Mesures d'instruction in futurum
+tags:
+  - rapport
+  - preuve
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure civile](./README.md)*

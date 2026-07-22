@@ -1,8 +1,21 @@
 ---
-title: "M10 - Audit des Process"
+title: M10 - Audit des Process
 date: FIXME
-description: "Vérification du respect des règles définies dans AGENTS.md, CONVENTIONS.md, RULES.md et DECISIONS.md"
+description: Vérification du respect des règles définies dans AGENTS.md, CONVENTIONS.md, RULES.md et DECISIONS.md
 type: rapport
+subtitle: M10 - Audit des Process
+objective: Auditer et vérifier la conformité de M10 - Audit des Process
+summary: Vérification du respect des règles définies dans AGENTS.md, CONVENTIONS.md, RULES.md et DECISIONS.md
+key_points:
+  - I — MÉTHODOLOGIE
+  - II — RÉSULTATS DE L'AUDIT DE FORMATAGE (CONVENTIONS.md)
+  - III — ANONYMISATION ET SÉPARATION DES STRATES (AGENTS.md & RULES.md)
+  - IV — VERSIONING, VARIABLES ET JURISPRUDENCE
+tags:
+  - audit
+  - conformite
+  - qualite
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*

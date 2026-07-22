@@ -1,8 +1,25 @@
 ---
 type: rapport
-title: "AUDIT FAITS CANONIQUES — Écarts vs STRICT VARIABLES.md"
-description: "Audit ciblé des écarts factuels (dates, doigts, CPAM, LRAR) dans Actes/Token."
+title: AUDIT FAITS CANONIQUES — Écarts vs STRICT VARIABLES.md
+description: Audit ciblé des écarts factuels (dates, doigts, CPAM, LRAR) dans Actes/Token.
 date: 2026-07-13
+subtitle: Audit faits canoniques
+objective: Auditer et vérifier la conformité de Audit faits canoniques
+summary: Audit ciblé des écarts factuels (dates, doigts, CPAM, LRAR) dans Actes/Token.
+key_points:
+  - Actes/Token/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md (ligne 74) — ÉCART DATE/DOIGT/CPAM
+  - Actes/Token/Courriers/Justice/TJ Foix - Mémo - Audience 31-07-2026.md (ligne 78) — ÉCART DATE/DOIGT/CPAM
+  - Actes/Token/Courriers/Propriétaire/Propriétaire - Courrier - Relance 3.md (ligne 45) — ÉCART DATE/DOIGT/CPAM
+  - Actes/Token/Courriers/Police/Guide Orale.md (ligne 47) — LRAR BRUT DANS TOKEN
+  - Actes/Token/Courriers/Police/✉️ Police Plainte Complementaire Contentieux.md (ligne 73) — ÉCART DATE/DOIGT/CPAM
+  - Actes/Token/Courriers/Police/Police - Note Personnelle.md (ligne 129) — ÉCART DATE/DOIGT/CPAM
+recipient: Avocat
+tags:
+  - audit
+  - conformite
+  - qualite
+  - avocat
+  - token
 ---
 
 <!-- Breadcrumb -->

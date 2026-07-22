@@ -1,12 +1,29 @@
 ---
-title: "Rapport Jules #11 — Parcours Kine Audit"
-description: "Rapport d'audit et recommandations d'exploitation des nouvelles preuves officielles."
+title: Rapport Jules #11 — Parcours Kine Audit
+description: Rapport d'audit et recommandations d'exploitation des nouvelles preuves officielles.
 type: rapport
 progress: 100%
 status: valide
 priority: moyenne
 date: 2026-07-22
-jules_session_id: "AM-MISSION-11"
+jules_session_id: AM-MISSION-11
+subtitle: 📊 Rapport Jules #11 — Parcours Kine Audit
+objective: Analyser et rapporter Rapport Jules #11 Parcours Kine Audit
+summary: Rapport d'audit et recommandations d'exploitation des nouvelles preuves officielles.
+key_points:
+  - I — SYNTHÈSE ET CONSTATATIONS DE TERRAIN
+  - II — ANALYSE DU PARCOURS DE SOINS ET IMPACT DINTILHAC
+  - III — FEUILLE DE ROUTE D'EXPLOITATION (TO-DO LIST INTERACTIVE)
+  - IV — SOURCES & CITATIONS (SOURCES OFFICIELLES GOVERNEMENTALES)
+recipient: Équipe projet
+tags:
+  - jules
+  - mission
+  - automatisation
+  - dintilhac
+  - indemnisation
+  - penal
+  - preuve
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [📋 Rapports](./README.md) › Rapport Jules #11*

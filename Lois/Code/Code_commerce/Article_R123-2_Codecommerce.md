@@ -1,12 +1,17 @@
 ---
-title: "Code de commerce — Art. R.123-2"
-description: "Code de commerce — Guichet unique électronique des formalités d'entreprises"
+title: Code de commerce — Art. R.123-2
+description: Code de commerce — Guichet unique électronique des formalités d'entreprises
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000046073350
 legiarti: LEGIARTI000046073350
 code: Code de commerce
 article: R123-2
+subtitle: Code de commerce — Art. R.123-2
+objective: Analyser Code de commerce Art. R.123-2
+summary: Code de commerce — Guichet unique électronique des formalités d'entreprises
+tags:
+  - rapport
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md)*

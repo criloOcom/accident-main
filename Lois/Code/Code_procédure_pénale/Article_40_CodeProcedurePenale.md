@@ -1,12 +1,20 @@
 ---
-title: "Code de procédure pénale — Art. 40"
-description: "Code de procédure pénale — Attributions du procureur de la République"
+title: Code de procédure pénale — Art. 40
+description: Code de procédure pénale — Attributions du procureur de la République
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000006574933
 legiarti: LEGIARTI000006574933
 code: Code de procédure pénale
 article: 40
+subtitle: Code de procédure pénale — Art. 40
+objective: Analyser Code de procédure pénale Art. 40
+summary: Code de procédure pénale — Attributions du procureur de la République
+recipient: Parquet
+tags:
+  - rapport
+  - penal
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure pénale](./README.md)*

@@ -1,9 +1,16 @@
 ---
 type: loi
-title: "Article 1359 – Preuve par écrit des actes juridiques"
+title: Article 1359 – Preuve par écrit des actes juridiques
 date: 2026-07-20
-source: "Légifrance – Code civil"
+source: Légifrance – Code civil
 url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042311/"
+subtitle: Article 1359 – Preuve par écrit des actes juridiques
+objective: Analyser Article 1359 Preuve par écrit des actes juridiques
+summary: Article 1359 – Preuve par écrit des actes juridiques
+tags:
+  - rapport
+  - preuve
+  - legifrance
 ---
 
 <!-- Breadcrumb -->

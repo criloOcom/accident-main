@@ -1,18 +1,26 @@
 ---
-title: "RAPPORT AVOCAT STRATÉGIE GLOBALE"
-description: "Analyse multi-angle de la stratégie globale (pénal, civil, référé) suite à l'accident du 29 mai 2026. Évaluation des chances de succès, provisions, calendrier procédural et coûts."
+title: RAPPORT AVOCAT STRATÉGIE GLOBALE
+description: Analyse multi-angle de la stratégie globale (pénal, civil, référé) suite à l'accident du 29 mai 2026. Évaluation des chances de succès, provisions, calendrier procédural et coûts.
 type: rapport
 date: 2026-07-14
 tags:
-  - avocat
-  - stratégie
-  - indemnisation
-  - pénal
-  - civil
-  - référé
 statut: final
 destinataire: Dossier / Equipe Juridique
 auteur: Avocat au Barreau de Foix
+subtitle: "RAPPORT AVOCAT : STRATÉGIE GLOBALE D'INDEMNISATION"
+objective: "Analyser RAPPORT AVOCAT : STRATÉGIE GLOBALE D'INDEMNISATION"
+summary: Analyse multi-angle de la stratégie globale (pénal, civil, référé) suite à l'accident du 29 mai 2026. Évaluation des chances de succès, provisions, calendrier procédural et coûts.
+key_points:
+  - I — CONTEXTE ET OBJECTIFS
+  - II — STRATÉGIE JURIDIQUE MULTI-ANGLES
+  - III — ACTION EN RÉFÉRÉ ET PROVISION
+  - IV — ÉVALUATION DES PRÉJUDICES ET CHANCES D'INDEMNISATION
+  - V — TIMING ET COÛTS PRÉVISIONNELS
+  - VI — RECOMMANDATIONS
+recipient: Avocat
+legal_basis:
+  - Code de commerce
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [Rapports](../../README.md) › [30 Analyses Multi Angle](../README.md) › [analyse-multi-angle](./README.md)*

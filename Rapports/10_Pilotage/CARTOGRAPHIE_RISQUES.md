@@ -1,8 +1,27 @@
 ---
-title: "RAPPORT D'AUDIT — MATRICE DES RISQUES JURIDIQUES ET PROCÉDURAUX"
+title: RAPPORT D'AUDIT — MATRICE DES RISQUES JURIDIQUES ET PROCÉDURAUX
 date: FIXME
 description: "Date :** 10 juillet 2026"
 type: rapport
+subtitle: RAPPORT D'AUDIT — MATRICE DES RISQUES JURIDIQUES ET PROCÉDURAUX
+objective: Planifier et organiser le suivi de RAPPORT D'AUDIT MATRICE DES RISQUES JURIDIQUES ET PROCÉDURAUX
+summary: "Date :** 10 juillet 2026"
+key_points:
+  - SOMMAIRE
+  - I — MÉTHODOLOGIE DE LA MATRICE
+  - II — MATRICE DES RISQUES — SYNTHÈSE VISUELLE
+  - III — FICHES RISQUES DÉTAILLÉES
+  - IV — PLAN D'ATTÉNUATION GLOBAL
+  - V — VIGILANCES PERMANENTES
+recipient: Mairie de Foix
+tags:
+  - planning
+  - action
+  - suivi
+  - dintilhac
+  - indemnisation
+  - preuve
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [10 Pilotage](./README.md)*

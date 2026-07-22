@@ -1,8 +1,25 @@
 ---
-title: "Analyse des fondements de la responsabilité — Fait des choses et droits de la consommation"
-description: "Rapport approfondi sur les fondements juridiques applicables à l'accident du 29 mai 2026, hiérarchisés du plus solide au plus risqué."
+title: Analyse des fondements de la responsabilité — Fait des choses et droits de la consommation
+description: Rapport approfondi sur les fondements juridiques applicables à l'accident du 29 mai 2026, hiérarchisés du plus solide au plus risqué.
 type: rapport
 date: 2026-07-14
+subtitle: RAPPORT D'ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ
+objective: Analyser RAPPORT D'ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ
+summary: Rapport approfondi sur les fondements juridiques applicables à l'accident du 29 mai 2026, hiérarchisés du plus solide au plus risqué.
+key_points:
+  - I — LA RESPONSABILITÉ DU FAIT DES CHOSES (ART. 1240 C. CIV.) : LE FONDEMENT LE PLUS SOLIDE
+  - II — LA RESPONSABILITÉ CONTRACTUELLE ET LE DROIT DE LA CONSOMMATION
+  - III — LA RESPONSABILITÉ DU COMMETTANT DU FAIT DE SON PRÉPOSÉ (ART. 1242 C. CIV.)
+  - IV — LA RESPONSABILITÉ DU FAIT DES PRODUITS DÉFECTUEUX (ART. 1245 ET S. C. CIV.)
+  - V — L'OBLIGATION DE SÉCURITÉ ET LE DROIT DU TRAVAIL (ART. L.4121-1 C. TRAV.)
+  - VI — CONCLUSION ET RECOMMANDATIONS
+tags:
+  - rapport
+  - responsabilite
+  - token
+legal_basis:
+  - Code du travail
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md)*

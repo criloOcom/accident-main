@@ -1,7 +1,20 @@
 ---
-title: "M09_AUDIT_TRANSACTIONS"
+title: M09_AUDIT_TRANSACTIONS
 type: preuve
-date: "2026-07-20"
+date: 2026-07-20
+subtitle: M09 - AUDIT TRANSACTIONS ET RÉSERVE D'AGGRAVATION
+objective: Auditer et vérifier la conformité de M09 - AUDIT TRANSACTIONS ET RÉSERVE D'AGGRAVATION
+summary: M09 - AUDIT TRANSACTIONS ET RÉSERVE D'AGGRAVATION
+key_points:
+  - 1. Cadre Légal et Textes Applicables
+  - 2. Analyse Jurisprudentielle
+  - 3. Évaluation et Réponses aux Questions
+tags:
+  - audit
+  - conformite
+  - qualite
+  - responsabilite
+  - preuve
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [80 Recherches Donnees](./README.md)*

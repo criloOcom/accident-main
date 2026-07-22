@@ -1,18 +1,23 @@
 ---
-title: "RAPPORT D'ÉVALUATION INDEMNITAIRE — MÉTHODE DINTILHAC"
+title: RAPPORT D'ÉVALUATION INDEMNITAIRE — MÉTHODE DINTILHAC
 description: "Avis externe — Évaluation des préjudices corporels de la victime (informaticien indépendant, main droite dominante). Deux scénarios : prudent (DFP 10 % ≈ 126 k€) et médian (DFP 15 % ≈ 161,5 k€)."
 type: rapport
 date: 2026-07-13
 tags:
-  - dintilhac
-  - indemnisation
-  - avocat
-  - évaluation
-  - barème
-  - préjudice-corporel
 statut: final
 destinataire: Dossier / Equipe Juridique
 auteur: Avis Dintilhac externe
+subtitle: RAPPORT D'ÉVALUATION INDEMNITAIRE — MÉTHODE DINTILHAC
+objective: Analyser RAPPORT D'ÉVALUATION INDEMNITAIRE MÉTHODE DINTILHAC
+summary: "Avis externe — Évaluation des préjudices corporels de la victime (informaticien indépendant, main droite dominante). Deux scénarios : prudent (DFP 10 % ≈ 126 k€) et médian (DFP 15 % ≈ 161,5 k€)."
+key_points:
+  - I — Contexte
+  - II — Mission et méthode
+  - III — Hypothèses retenues
+  - IV — Évaluation des préjudices — Nomenclature Dintilhac
+  - V — Analyse et discussion
+  - VI — Conclusion — Fourchette de négociation
+recipient: Avocat
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [40 Indemnisation Dintilhac](./README.md)*

@@ -1,14 +1,20 @@
 ---
-title: "Rapport d'Analyse Médico-Légale (Avis sur Pièces)"
+title: Rapport d'Analyse Médico-Légale (Avis sur Pièces)
 description: "Analyse critique du dossier médical : gravité des lésions, ITT, évaluation prévisionnelle des préjudices (DFP, SE, IP) et nécessité d'expertise judiciaire."
 type: rapport
 date: 2026-07-14
 tags:
-  - medical
-  - expertise
-  - evaluation
 statut: final
 auteur: Médecin Légiste expert près la Cour d'Appel
+subtitle: RAPPORT D'ANALYSE MÉDICO-LÉGALE (AVIS SUR PIÈCES)
+objective: Analyser RAPPORT D'ANALYSE MÉDICO-LÉGALE (AVIS SUR PIÈCES)
+summary: "Analyse critique du dossier médical : gravité des lésions, ITT, évaluation prévisionnelle des préjudices (DFP, SE, IP) et nécessité d'expertise judiciaire."
+key_points:
+  - I — RAPPEL DES FAITS ET OBJECTIF DE LA MISSION
+  - II — ANALYSE DES PIÈCES MÉDICALES ET GRAVITÉ DES LÉSIONS
+  - III — ÉVALUATION DE L'ITT ET DES PRÉJUDICES PRÉVISIONNELS
+  - IV — INCIDENCE PROFESSIONNELLE ET RECTIFICATION FACTUELLE
+  - V — CONCLUSION ET RECOMMANDATIONS
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [Rapports](../../README.md) › [30 Analyses Multi Angle](../README.md) › [analyse-multi-angle](./README.md)*

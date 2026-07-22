@@ -1,15 +1,21 @@
 ---
-title: "Procès-Verbal de Constat Virtuel (Cahier des charges)"
-description: "Ce document décrit, en amont de la réalisation physique du constat, le déroulé précis et exhaustif des opérations de constatations matérielles requises au sein du salon de coiffure [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) sis **[L'Adresse de l'Exploit"
+title: Procès-Verbal de Constat Virtuel (Cahier des charges)
+description: Ce document décrit, en amont de la réalisation physique du constat, le déroulé précis et exhaustif des opérations de constatations matérielles requises au sein du salon de coiffure [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) sis **[L'Adresse de l'Exploit
 type: rapport
 date: 2026-06-30
 tags:
-  - constat
-  - huissier
-  - preuves
 statut: final
 destinataire: La Victime
 auteur: Huissier de Justice
+subtitle: PROCÈS-VERBAL DE CONSTAT VIRTUEL — CAHIER DES CHARGES DES OPÉRATIONS À MENER
+objective: Analyser PROCÈS-VERBAL DE CONSTAT VIRTUEL CAHIER DES CHARGES DES OPÉRATIONS À MENER
+summary: Ce document décrit, en amont de la réalisation physique du constat, le déroulé précis et exhaustif des opérations de constatations matérielles requises au sein du salon de coiffure [**[L'Exploitant du
+key_points:
+  - I — VÉRIFICATIONS PRÉALABLES ET CONTEXTE
+  - II — OPÉRATIONS DE CONSTAT MATÉRIEL
+  - III — OPÉRATIONS CONCERNANT LA VIDÉOSURVEILLANCE
+  - IV — TÉMOIGNAGES RECUEILLIS PAR L'HUISSIER (SOMMATION INTERPELLATIVE)
+  - V — TRAÇAGE ET FIXATION PHOTOGRAPHIQUE
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [80 Recherches Donnees](./README.md)*

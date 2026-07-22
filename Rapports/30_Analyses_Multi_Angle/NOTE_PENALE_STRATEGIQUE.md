@@ -1,8 +1,26 @@
 ---
-title: "Note Stratégique Pénale"
+title: Note Stratégique Pénale
 date: FIXME
-description: "Synthèse des qualifications pénales, de la responsabilité des dirigeants, et de l'articulation avec le volet civil suite à l'accident et à la plainte complémentaire."
+description: Synthèse des qualifications pénales, de la responsabilité des dirigeants, et de l'articulation avec le volet civil suite à l'accident et à la plainte complémentaire.
 type: rapport
+subtitle: Note Stratégique Pénale — Volet Post-Plainte Complémentaire
+objective: Analyser Note Stratégique Pénale Volet Post-Plainte Complémentaire
+summary: Synthèse des qualifications pénales, de la responsabilité des dirigeants, et de l'articulation avec le volet civil suite à l'accident et à la plainte complémentaire.
+key_points:
+  - I — QUALIFICATIONS PÉNALES RETENUES OU VISÉES
+  - II — RESPONSABILITÉ PÉNALE POTENTIELLE DU DIRIGEANT / SAS
+  - III — RÔLE DE LA PLAINTE COMPLÉMENTAIRE ET DE LA CONSTITUTION DE PARTIE CIVILE
+  - IV — ARTICULATION AVEC LE CIVIL
+recipient: Parquet
+tags:
+  - rapport
+  - responsabilite
+  - penal
+  - preuve
+  - token
+  - legifrance
+legal_basis:
+  - Code de procédure civile
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md)*

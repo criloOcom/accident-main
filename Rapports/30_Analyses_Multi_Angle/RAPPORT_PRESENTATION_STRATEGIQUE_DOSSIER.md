@@ -1,10 +1,28 @@
 ---
-title: "Note de Présentation Stratégique du Dossier"
-description: "Synthèse globale du dossier Accident de la Main — volets pénal, civil, assurance, administratif — à destination d'un avocat désigné, magistrat ou expert"
+title: Note de Présentation Stratégique du Dossier
+description: Synthèse globale du dossier Accident de la Main — volets pénal, civil, assurance, administratif — à destination d'un avocat désigné, magistrat ou expert
 type: rapport
 date: 2026-07-14
 auteur: La Victime
 statut: final
+subtitle: NOTE DE PRÉSENTATION STRATÉGIQUE DU DOSSIER
+objective: Analyser NOTE DE PRÉSENTATION STRATÉGIQUE DU DOSSIER
+summary: Synthèse globale du dossier Accident de la Main — volets pénal, civil, assurance, administratif — à destination d'un avocat désigné, magistrat ou expert
+key_points:
+  - I — SYNTHÈSE FACTUELLE
+  - II — VOLETS DE PROCÉDURE EN COURS
+  - III — ÉVALUATION DES PRÉJUDICES (NOMENCLATURE DINTILHAC)
+  - IV — STRATÉGIE GLOBALE ET PROCHAINES ÉTAPES
+  - V — ANNEXE — CORPUS DES PIÈCES CLÉS
+recipient: Avocat
+tags:
+  - rapport
+  - penal
+  - avocat
+  - token
+legal_basis:
+  - Code de commerce
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md)*

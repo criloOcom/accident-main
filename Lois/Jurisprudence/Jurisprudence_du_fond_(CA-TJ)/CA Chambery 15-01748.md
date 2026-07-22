@@ -1,10 +1,24 @@
 ---
-title: "CA Chambéry, 2016 (n° 15/01748)"
-description: "Cour d'appel de Chambéry — Indemnisation du préjudice corporel suite à accident de la circulation"
+title: CA Chambéry, 2016 (n° 15/01748)
+description: Cour d'appel de Chambéry — Indemnisation du préjudice corporel suite à accident de la circulation
 type: jurisprudence
 date: 2026-07-21
 source: Doctrine.fr
 code: Jurisprudence
+subtitle: CA Chambéry, 2016 (n° 15/01748)
+objective: Analyser CA Chambéry, 2016 (n 15/01748)
+summary: Cour d'appel de Chambéry — Indemnisation du préjudice corporel suite à accident de la circulation
+key_points:
+  - Enseignement
+  - Résumé
+  - Pertinence pour l'affaire
+  - Traçabilité
+  - Lien vers la décision
+tags:
+  - rapport
+  - dintilhac
+  - indemnisation
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › [Jurisprudence du fond (CA-TJ)](./README.md)*

@@ -1,12 +1,18 @@
 ---
-title: "Code de commerce — Art. L.622-24"
-description: "Code de commerce — Déclaration des créances dans la procédure de sauvegarde"
+title: Code de commerce — Art. L.622-24
+description: Code de commerce — Déclaration des créances dans la procédure de sauvegarde
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000053281573
 legiarti: LEGIARTI000053281573
 code: Code de commerce
 article: L622-24
+subtitle: Code de commerce — Art. L.622-24
+objective: Analyser Code de commerce Art. L.622-24
+summary: Code de commerce — Déclaration des créances dans la procédure de sauvegarde
+recipient: Tribunal judiciaire
+tags:
+  - rapport
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md)*

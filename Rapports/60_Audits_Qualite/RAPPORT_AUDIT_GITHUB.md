@@ -1,8 +1,24 @@
 ---
-title: "RAPPORT D'AUDIT — Repository GitHub"
+title: RAPPORT D'AUDIT — Repository GitHub
 date: FIXME
 description: "Projet** : accident-main · **Remote** : `github.com/criloOcom/accident-main.git`"
 type: rapport
+subtitle: RAPPORT D'AUDIT — Repository GitHub
+objective: Auditer et vérifier la conformité de RAPPORT D'AUDIT Repository GitHub
+summary: "Projet** : accident-main · **Remote** : `github.com/criloOcom/accident-main.git`"
+key_points:
+  - I — Résumé exécutif
+  - II — Derniers commits
+  - III — .gitignore
+  - IV — Pre-commit hook
+  - V — 🔴 Fichiers sensibles dans l'historique
+  - VI — Taille du repository
+recipient: Tribunal judiciaire
+tags:
+  - audit
+  - conformite
+  - qualite
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*

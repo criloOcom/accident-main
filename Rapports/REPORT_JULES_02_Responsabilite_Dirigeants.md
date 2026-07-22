@@ -1,11 +1,31 @@
 ---
-title: "Rapport Jules #02 — Audit Responsabilité Personnelle des Dirigeants & Faute Détachable"
-description: "Analyse jurisprudentielle approfondie sur la responsabilité personnelle du Président et de la Directrice Générale de la SAS (Arrêt SATI, Art. 1382 C. civ., Art. 145 & 700 CPC)."
+title: Rapport Jules #02 — Audit Responsabilité Personnelle des Dirigeants & Faute Détachable
+description: Analyse jurisprudentielle approfondie sur la responsabilité personnelle du Président et de la Directrice Générale de la SAS (Arrêt SATI, Art. 1382 C. civ., Art. 145 & 700 CPC).
 type: rapport
 progress: 0%
 status: non_traite
 date: 2026-07-22
-jules_session_id: "AM-MISSION-02"
+jules_session_id: AM-MISSION-02
+subtitle: 📊 Rapport Jules #02 — Audit Responsabilité Personnelle des Dirigeants & Faute Détachable
+objective: Analyser et rapporter Rapport Jules #02 Audit Responsabilité Personnelle des Dirigeants & Faute Détachable
+summary: Analyse jurisprudentielle approfondie sur la responsabilité personnelle du Président et de la Directrice Générale de la SAS (Arrêt SATI, Art. 1382 C. civ., Art. 145 & 700 CPC).
+key_points:
+  - I — SYNTHÈSE EXÉCUTIVE & CADRAGE JURIDIQUE
+  - II — ANALYSE DÉTAILLÉE DE LA FAUTE DÉTACHABLE ET DES PRÉSUMPTIONS (ART. 1382 C. CIV. & CEDH)
+  - III — STRATÉGIE PROCÉDURALE & VOIES DE DROIT (ART. 145, 700 CPC & 434-4 CP)
+  - IV — FEUILLE DE ROUTE D'EXPLOITATION (TO-DO LIST INTERACTIVE)
+  - V — SOURCES & CITATIONS (SOURCES OFFICIELLES GOVERNEMENTALES)
+recipient: Équipe projet
+tags:
+  - jules
+  - mission
+  - automatisation
+  - responsabilite
+  - preuve
+legal_basis:
+  - Code de commerce
+  - Code de procédure civile
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [📋 Rapports](./README.md) › Rapport Jules #02*

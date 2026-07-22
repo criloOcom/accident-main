@@ -1,12 +1,18 @@
 ---
-title: "Code du travail — Art. R.4121-1"
-description: "Code du travail — Document unique d'évaluation des risques"
+title: Code du travail — Art. R.4121-1
+description: Code du travail — Document unique d'évaluation des risques
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000023795562
 legiarti: LEGIARTI000023795562
 code: Code du travail
 article: R4121-1
+subtitle: Code du travail — Art. R.4121-1
+objective: Analyser Code du travail Art. R.4121-1
+summary: Code du travail — Document unique d'évaluation des risques
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code du travail](./README.md)*

@@ -1,9 +1,15 @@
 ---
 type: loi
-title: "Article 2224 – Prescription de droit commun (5 ans)"
+title: Article 2224 – Prescription de droit commun (5 ans)
 date: 2026-07-20
-source: "Légifrance – Code civil"
+source: Légifrance – Code civil
 url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112/"
+subtitle: Article 2224 – Prescription de droit commun (5 ans)
+objective: Analyser Article 2224 Prescription de droit commun (5 ans)
+summary: Article 2224 – Prescription de droit commun (5 ans)
+tags:
+  - rapport
+  - legifrance
 ---
 
 <!-- Breadcrumb -->

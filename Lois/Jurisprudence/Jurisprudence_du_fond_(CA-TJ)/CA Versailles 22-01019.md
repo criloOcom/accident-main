@@ -1,11 +1,24 @@
 ---
-title: "CA Versailles, 2025 (n° 22/01019)"
-description: "Cour d'appel de Versailles — Action directe contre l'assureur, prescription biennale"
+title: CA Versailles, 2025 (n° 22/01019)
+description: Cour d'appel de Versailles — Action directe contre l'assureur, prescription biennale
 type: jurisprudence
 date: 2026-07-21
 source: Doctrine.fr
 code: Jurisprudence
 article: L. 114-1 C. assur. ; L. 124-3 C. assur.
+subtitle: CA Versailles, 2025 (n° 22/01019)
+objective: Analyser CA Versailles, 2025 (n 22/01019)
+summary: Cour d'appel de Versailles — Action directe contre l'assureur, prescription biennale
+key_points:
+  - Enseignement
+  - Résumé
+  - Pertinence pour l'affaire
+  - Traçabilité
+  - Lien vers la décision
+tags:
+  - rapport
+  - responsabilite
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › [Jurisprudence du fond (CA-TJ)](./README.md)*

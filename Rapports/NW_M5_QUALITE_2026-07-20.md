@@ -1,7 +1,20 @@
 ---
-title: "NW_M5_QUALITE_2026-07-20"
+title: NW_M5_QUALITE_2026-07-20
 type: preuve
-date: "2026-07-20"
+date: 2026-07-20
+subtitle: 📊 Rapport d'Audit Qualité des Actes (Mission Night Watch M5)
+objective: Contrôler et auditer Rapport d'Audit Qualité des Actes (Mission Night Watch M5)
+summary: 📊 Rapport d'Audit Qualité des Actes (Mission Night Watch M5)
+key_points:
+  - 1. Placeholders Résiduels
+  - 2. Cohérence des Tokens (Oublis de tokens de base)
+  - 3. Contenu Incomplet
+tags:
+  - nightwatch
+  - controle
+  - qualite
+  - preuve
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

@@ -1,12 +1,19 @@
 ---
-title: "Code de procédure pénale — Art. 77-1-1"
-description: "Code de procédure pénale — Réquisitions sur système de vidéoprotection et enquêtes"
+title: Code de procédure pénale — Art. 77-1-1
+description: Code de procédure pénale — Réquisitions sur système de vidéoprotection et enquêtes
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000047052915
 legiarti: LEGIARTI000047052915
 code: Code de procédure pénale
 article: 77-1-1
+subtitle: Code de procédure pénale — Art. 77-1-1
+objective: Analyser Code de procédure pénale Art. 77-1-1
+summary: Code de procédure pénale — Réquisitions sur système de vidéoprotection et enquêtes
+recipient: Parquet
+tags:
+  - rapport
+  - penal
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure pénale](./README.md)*

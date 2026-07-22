@@ -1,8 +1,22 @@
 ---
-title: "RAPPORT DE SYNTHÈSE GLOBALE"
+title: RAPPORT DE SYNTHÈSE GLOBALE
 date: FIXME
 description: "Projet :** accident-main — Préjudice corporel (main droite écrasée)"
 type: rapport
+subtitle: RAPPORT DE SYNTHÈSE GLOBALE
+objective: Synthétiser et présenter une vue d'ensemble de RAPPORT DE SYNTHÈSE GLOBALE
+summary: "Projet :** accident-main — Préjudice corporel (main droite écrasée)"
+key_points:
+  - I — RÉSUMÉ DU DOSSIER (1 page)
+  - II — CE QUI A ÉTÉ FAIT
+  - III — CE QUI RESTE À FAIRE
+  - IV — ÉTAT D'AVANCEMENT GLOBAL ESTIMÉ
+  - V — PROCHAINES ÉTAPES RECOMMANDÉES (ordonnées)
+  - VI — POINTS D'ATTENTION CRITIQUES
+tags:
+  - synthese
+  - global
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md)*

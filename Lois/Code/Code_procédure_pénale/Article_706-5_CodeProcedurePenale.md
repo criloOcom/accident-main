@@ -1,12 +1,19 @@
 ---
-title: "Code de procédure pénale — Art. 706-5"
-description: "Code de procédure pénale — Délai de forclusion CIVI (3 ans)"
+title: Code de procédure pénale — Art. 706-5
+description: Code de procédure pénale — Délai de forclusion CIVI (3 ans)
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000048442334
 legiarti: LEGIARTI000048442334
 code: Code de procédure pénale
 article: 706-5
+subtitle: Code de procédure pénale — Art. 706-5
+objective: Analyser Code de procédure pénale Art. 706-5
+summary: Code de procédure pénale — Délai de forclusion CIVI (3 ans)
+tags:
+  - rapport
+  - penal
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure pénale](./README.md)*

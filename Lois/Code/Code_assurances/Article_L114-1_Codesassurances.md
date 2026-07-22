@@ -1,12 +1,17 @@
 ---
-title: "Code des assurances — Art. L.114-1"
-description: "Code des assurances — Prescription biennale des actions dérivant d'un contrat d'assurance"
+title: Code des assurances — Art. L.114-1
+description: Code des assurances — Prescription biennale des actions dérivant d'un contrat d'assurance
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000044607740
 legiarti: LEGIARTI000044607740
 code: Code des assurances
 article: L114-1
+subtitle: Code des assurances — Art. L.114-1
+objective: Analyser Code des assurances Art. L.114-1
+summary: Code des assurances — Prescription biennale des actions dérivant d'un contrat d'assurance
+tags:
+  - rapport
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code assurances](./README.md)*

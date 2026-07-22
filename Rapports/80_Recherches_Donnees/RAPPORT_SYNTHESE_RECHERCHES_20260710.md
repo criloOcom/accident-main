@@ -1,8 +1,24 @@
 ---
-title: "RAPPORT DE SYNTHÈSE - Recherches Juridiques MCP"
+title: RAPPORT DE SYNTHÈSE - Recherches Juridiques MCP
 date: 2026-07-10
 description: "Date** : 10 juillet 2026"
 type: rapport
+subtitle: RAPPORT DE SYNTHÈSE - Recherches Juridiques MCP
+objective: Synthétiser et présenter une vue d'ensemble de RAPPORT DE SYNTHÈSE - Recherches Juridiques MCP
+summary: "Date** : 10 juillet 2026"
+key_points:
+  - Sommaire
+  - I — Recherches Jurisprudence Pertinente
+  - II — Vérification des Articles de Loi
+  - III — Recherche Spécifique Référé-Provision
+  - IV — Recherche Responsabilité Dirigeants
+  - V — Recherche Accidents du Travail
+recipient: Mairie de Foix
+tags:
+  - synthese
+  - global
+  - responsabilite
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [80 Recherches Donnees](./README.md)*

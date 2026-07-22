@@ -1,8 +1,21 @@
 ---
-title: "FRISE CHRONOLOGIQUE MULTI-VOLETS"
+title: FRISE CHRONOLOGIQUE MULTI-VOLETS
 date: FIXME
-description: "Frise superposant les 4 volets (pénal, civil, administratif, médical) de J+0 (mai 2026) à J+368 (juin 2027)."
+description: Frise superposant les 4 volets (pénal, civil, administratif, médical) de J+0 (mai 2026) à J+368 (juin 2027).
 type: rapport
+subtitle: FRISE CHRONOLOGIQUE MULTI-VOLETS — J+0 (mai 2026) → J+368 (juin 2027)
+objective: Planifier et organiser le suivi de FRISE CHRONOLOGIQUE MULTI-VOLETS J+0 (mai 2026) J+368 (juin 2027)
+summary: Frise superposant les 4 volets (pénal, civil, administratif, médical) de J+0 (mai 2026) à J+368 (juin 2027).
+key_points:
+  - I — Tableau chronologique
+  - II — Dépendances inter-volets
+recipient: Parquet
+tags:
+  - planning
+  - action
+  - suivi
+  - penal
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [10 Pilotage](./README.md)*

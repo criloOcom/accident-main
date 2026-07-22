@@ -1,9 +1,19 @@
 ---
 type: loi
-title: "Régime AT/MP des travailleurs indépendants"
+title: Régime AT/MP des travailleurs indépendants
 date: 2026-07-20
-source: "Légifrance – Code de la sécurité sociale"
-description: "Synthèse des textes applicables aux travailleurs indépendants en matière d'accident du travail et maladies professionnelles."
+source: Légifrance – Code de la sécurité sociale
+description: Synthèse des textes applicables aux travailleurs indépendants en matière d'accident du travail et maladies professionnelles.
+subtitle: Régime AT/MP des travailleurs indépendants
+objective: Analyser Régime AT/MP des travailleurs indépendants
+summary: Synthèse des textes applicables aux travailleurs indépendants en matière d'accident du travail et maladies professionnelles.
+key_points:
+  - Références principales
+  - Renvois complémentaires
+  - Utilité dans le dossier
+tags:
+  - rapport
+  - legifrance
 ---
 
 <!-- Breadcrumb -->

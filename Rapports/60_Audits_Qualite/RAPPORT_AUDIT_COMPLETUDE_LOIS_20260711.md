@@ -1,8 +1,31 @@
 ---
-title: "RAPPORT D'AUDIT — Complétude du Dossier Lois"
+title: RAPPORT D'AUDIT — Complétude du Dossier Lois
 date: 2026-07-11
 description: "Date** : 11 juillet 2026"
 type: rapport
+subtitle: RAPPORT D'AUDIT — Complétude du Dossier Lois
+objective: Auditer et vérifier la conformité de RAPPORT D'AUDIT Complétude du Dossier Lois
+summary: "Date** : 11 juillet 2026"
+key_points:
+  - Sommaire
+  - I — Inventaire du Dossier Lois
+  - II — Références Juridiques Citées dans les Actes
+  - III — Analyse Comparative
+  - IV — Lois Manquantes Identifiées
+  - V — Recommandations
+recipient: Mairie de Foix
+tags:
+  - audit
+  - conformite
+  - qualite
+  - responsabilite
+  - penal
+  - token
+legal_basis:
+  - Code des assurances
+  - Code de commerce
+  - Code du travail
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*

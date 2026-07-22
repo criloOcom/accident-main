@@ -1,12 +1,20 @@
 ---
-title: "Code du travail — Art. L.4121-1"
-description: "Code du travail — Obligations de l'employeur en matière de santé et sécurité"
+title: Code du travail — Art. L.4121-1
+description: Code du travail — Obligations de l'employeur en matière de santé et sécurité
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000035640828
 legiarti: LEGIARTI000035640828
 code: Code du travail
 article: L4121-1
+subtitle: Code du travail — Art. L.4121-1
+objective: Analyser Code du travail Art. L.4121-1
+summary: Code du travail — Obligations de l'employeur en matière de santé et sécurité
+tags:
+  - rapport
+  - legifrance
+legal_basis:
+  - Code du travail
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code du travail](./README.md)*

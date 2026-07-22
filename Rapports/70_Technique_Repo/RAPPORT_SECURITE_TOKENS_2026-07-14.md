@@ -1,8 +1,20 @@
 ---
-title: "Audit de sécurité juridique des tokens et de la double strate"
+title: Audit de sécurité juridique des tokens et de la double strate
 date: 2026-07-14
-description: "Rapport d'analyse sur la résistance du système d'anonymisation et sa conformité avec le secret de l'instruction (Art. 11 CPP)."
+description: Rapport d'analyse sur la résistance du système d'anonymisation et sa conformité avec le secret de l'instruction (Art. 11 CPP).
 type: rapport
+subtitle: AUDIT DE SÉCURITÉ JURIDIQUE DES TOKENS ET DE LA DOUBLE STRATE
+objective: Analyser AUDIT DE SÉCURITÉ JURIDIQUE DES TOKENS ET DE LA DOUBLE STRATE
+summary: Rapport d'analyse sur la résistance du système d'anonymisation et sa conformité avec le secret de l'instruction (Art. 11 CPP).
+key_points:
+  - I — RÉVERSIBILITÉ DU MAPPING
+  - II — COHÉRENCE DES TOKENS
+  - III — FUITES RÉSIDUELLES ET COMMANDE DE SURVEILLANCE
+  - IV — CONFORMITÉ DES VERSIONS RÉELLES
+  - V — SECRET DE L'INSTRUCTION ET CONFIDENTIALITÉ
+tags:
+  - rapport
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [70 Technique Repo](./README.md)*

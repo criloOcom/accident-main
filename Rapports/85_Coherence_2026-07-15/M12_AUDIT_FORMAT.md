@@ -1,8 +1,22 @@
 ---
-title: "M12 - Audit de format et conventions"
+title: M12 - Audit de format et conventions
 date: FIXME
-description: "Audit complet de la cohérence documentaire et du respect des conventions de formatage du dépôt."
+description: Audit complet de la cohérence documentaire et du respect des conventions de formatage du dépôt.
 type: rapport
+subtitle: AUDIT DE FORMAT ET CONVENTIONS
+objective: Auditer et vérifier la conformité de AUDIT DE FORMAT ET CONVENTIONS
+summary: Audit complet de la cohérence documentaire et du respect des conventions de formatage du dépôt.
+key_points:
+  - I — RÉSULTATS DE L'AUDIT DES DOSSIERS ET FICHIERS
+tags:
+  - audit
+  - conformite
+  - qualite
+  - dintilhac
+  - indemnisation
+  - preuve
+legal_basis:
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*

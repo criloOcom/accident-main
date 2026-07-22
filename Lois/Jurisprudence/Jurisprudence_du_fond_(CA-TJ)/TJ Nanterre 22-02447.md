@@ -1,10 +1,25 @@
 ---
-title: "TJ Nanterre, 2024 (n° 22/02447)"
-description: "Tribunal judiciaire de Nanterre — Évaluation préjudice corporel, nomenclature Dintilhac, souffrances endurées 5/7"
+title: TJ Nanterre, 2024 (n° 22/02447)
+description: Tribunal judiciaire de Nanterre — Évaluation préjudice corporel, nomenclature Dintilhac, souffrances endurées 5/7
 type: jurisprudence
 date: 2026-07-21
 source: Doctrine.fr
 code: Jurisprudence
+subtitle: TJ Nanterre, 2024 (n° 22/02447)
+objective: Analyser TJ Nanterre, 2024 (n 22/02447)
+summary: Tribunal judiciaire de Nanterre — Évaluation préjudice corporel, nomenclature Dintilhac, souffrances endurées 5/7
+key_points:
+  - Enseignement
+  - Résumé
+  - Pertinence pour l'affaire
+  - Traçabilité
+  - Lien vers la décision
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - dintilhac
+  - indemnisation
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › [Jurisprudence du fond (CA-TJ)](./README.md)*

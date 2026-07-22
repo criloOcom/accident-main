@@ -1,9 +1,22 @@
 ---
-title: "PLAN DE CORRECTION HERMÈS — Audit 2026-07-11"
+title: PLAN DE CORRECTION HERMÈS — Audit 2026-07-11
 date: 2026-07-11
-description: "Plan d'actions ciblé (P0-P3) pour corriger les anomalies du RAPPORT_AUDIT_HERMES_20260711.md. Aucune modification sans feu vert."
+description: Plan d'actions ciblé (P0-P3) pour corriger les anomalies du RAPPORT_AUDIT_HERMES_20260711.md. Aucune modification sans feu vert.
 type: rapport
 statut: projet
+subtitle: PLAN DE CORRECTION HERMÈS — Audit 2026-07-11
+objective: Analyser PLAN DE CORRECTION HERMÈS Audit 2026-07-11
+summary: Plan d'actions ciblé (P0-P3) pour corriger les anomalies du RAPPORT_AUDIT_HERMES_20260711.md. Aucune modification sans feu vert.
+key_points:
+  - I — P0 — Correctifs bloquants (intégrité des liens)
+  - II — P1 — Conformité frontmatter & navigation
+  - III — P2 — Structure
+  - IV — P3 — Liens & propreté
+  - V — ORDRE D'EXÉCUTION RECOMMANDÉ
+tags:
+  - rapport
+  - preuve
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [70 Technique Repo](./README.md)*

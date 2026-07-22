@@ -1,12 +1,21 @@
 ---
-title: "Article L227-8"
-description: "Code de commerce — Direction des SAS"
+title: Article L227-8
+description: Code de commerce — Direction des SAS
 type: loi
 date: 2026-07-10
 source: Légifrance/LEGIARTI000006227036
 legiarti: LEGIARTI000006227036
 code: Code de commerce
 article: L227-8
+subtitle: Article L227-8
+objective: Analyser Article L227-8
+summary: Code de commerce — Direction des SAS
+tags:
+  - rapport
+  - responsabilite
+  - legifrance
+legal_basis:
+  - Code de commerce
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md)*

@@ -1,17 +1,21 @@
 ---
-title: "Rapport d'audit barémique — Évaluation Dintilhac 2026"
-description: "Audit de la rigueur de l'évaluation du préjudice corporel (méthode Dintilhac) au regard du Barème Mornet 2024 et de la jurisprudence, recommandation stratégique (référé et fond)."
+title: Rapport d'audit barémique — Évaluation Dintilhac 2026
+description: Audit de la rigueur de l'évaluation du préjudice corporel (méthode Dintilhac) au regard du Barème Mornet 2024 et de la jurisprudence, recommandation stratégique (référé et fond).
 type: rapport
 date: 2026-07-14
 tags:
-  - dintilhac
-  - indemnisation
-  - barème
-  - mornet
-  - référé
 statut: final
 destinataire: Dossier / Equipe Juridique
 auteur: Avocat spécialiste en réparation du préjudice corporel
+subtitle: RAPPORT D'AUDIT BARÉMIQUE — ÉVALUATION DINTILHAC
+objective: Analyser RAPPORT D'AUDIT BARÉMIQUE ÉVALUATION DINTILHAC
+summary: Audit de la rigueur de l'évaluation du préjudice corporel (méthode Dintilhac) au regard du Barème Mornet 2024 et de la jurisprudence, recommandation stratégique (référé et fond).
+key_points:
+  - I — CONFORMITÉ DINTILHAC ET BARÈME MORNET 2024
+  - II — ÉCARTS D'ÉVALUATION ET POSTURE STRATÉGIQUE
+  - III — PROVISION EN RÉFÉRÉ (ART. 873 CPC)
+  - IV — PRÉPARATION À L'EXPERTISE MÉDICALE
+recipient: Avocat
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [40 Indemnisation Dintilhac](./README.md)*

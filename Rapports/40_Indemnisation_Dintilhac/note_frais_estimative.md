@@ -1,15 +1,20 @@
 ---
-title: "Note de Frais Estimative — Constat et Mesures d'Instruction"
-description: "Cette note présente une estimation indicative des frais de justice (débours, émoluments et honoraires) liés à l'intervention de l'huissier de justice (commissaire de justice) pour le constat des lieux et autres actes accessoires dans le dossier oppos"
+title: Note de Frais Estimative — Constat et Mesures d'Instruction
+description: Cette note présente une estimation indicative des frais de justice (débours, émoluments et honoraires) liés à l'intervention de l'huissier de justice (commissaire de justice) pour le constat des lieux et autres actes accessoires dans le dossier oppos
 type: rapport
 date: 2026-06-30
 tags:
-  - frais
-  - huissier
-  - estimation
 statut: final
 destinataire: La Victime
 auteur: Huissier de Justice
+subtitle: NOTE DE FRAIS ESTIMATIVE ET DEMANDE DE PROVISION
+objective: Analyser NOTE DE FRAIS ESTIMATIVE ET DEMANDE DE PROVISION
+summary: Cette note présente une estimation indicative des frais de justice (débours, émoluments et honoraires) liés à l'intervention de l'huissier de justice (commissaire de justice) pour le constat des lieux
+key_points:
+  - I — DÉTAIL ESTIMATIF DES INTERVENTIONS
+  - II — SYNTHÈSE ET PROVISION
+legal_basis:
+  - Code de procédure civile
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [40 Indemnisation Dintilhac](./README.md)*

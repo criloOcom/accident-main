@@ -1,8 +1,24 @@
 ---
 title: "Rapport d'Audit : Cohérence HB BARBER — 18 juillet 2026"
 date: 2026-07-18
-description: "Analyse de la cohérence du dossier suite aux découvertes terrain du 16 juillet 2026 (visite HB BARBER, non-dépôt AJ, fausses mentions de dépôt)."
+description: Analyse de la cohérence du dossier suite aux découvertes terrain du 16 juillet 2026 (visite HB BARBER, non-dépôt AJ, fausses mentions de dépôt).
 type: rapport
+subtitle: RAPPORT D'AUDIT
+objective: Auditer et vérifier la conformité de RAPPORT D'AUDIT
+summary: Analyse de la cohérence du dossier suite aux découvertes terrain du 16 juillet 2026 (visite HB BARBER, non-dépôt AJ, fausses mentions de dépôt).
+key_points:
+  - Cohérence avec les découvertes du 16 juillet 2026
+  - 1. Contexte et Méthodologie
+  - 2. Liste des « Faux ✅ » Identifiés
+  - 3. Analyse de la Cohérence des Actes avec HB BARBER
+  - 4. Plan d'Actions Prioritaire
+tags:
+  - audit
+  - conformite
+  - qualite
+  - responsabilite
+  - penal
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

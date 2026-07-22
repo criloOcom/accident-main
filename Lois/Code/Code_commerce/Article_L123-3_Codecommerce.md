@@ -1,12 +1,19 @@
 ---
-title: "Code de commerce — Art. L.123-3"
-description: "Code de commerce — Injonction d'immatriculation, mentions et radiation au RCS"
+title: Code de commerce — Art. L.123-3
+description: Code de commerce — Injonction d'immatriculation, mentions et radiation au RCS
 type: loi
 date: 2026-07-20
 source: Légifrance/LEGIARTI000025559422
 legiarti: LEGIARTI000025559422
 code: Code de commerce
 article: L123-3
+subtitle: Code de commerce — Art. L.123-3
+objective: Analyser Code de commerce Art. L.123-3
+summary: Code de commerce — Injonction d'immatriculation, mentions et radiation au RCS
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - legifrance
 ---
 
 <!-- Breadcrumb -->

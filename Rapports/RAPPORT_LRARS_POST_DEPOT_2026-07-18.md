@@ -1,8 +1,19 @@
 ---
-title: "Rapport sur les LRARs Post-Dépôt et Destinataires de l'Erratum"
+title: Rapport sur les LRARs Post-Dépôt et Destinataires de l'Erratum
 date: 2026-07-18
-description: "Identification des destinataires de l'erratum et modèles de lettres d'accompagnement (J+50)"
+description: Identification des destinataires de l'erratum et modèles de lettres d'accompagnement (J+50)
 type: rapport
+subtitle: Identification des destinataires de l'erratum et modèles de lettres d'accompagnement (J+50)
+objective: Analyser Rapport sur les LRARs Post-Dépôt et Destinataires de l'Erratum
+summary: Identification des destinataires de l'erratum et modèles de lettres d'accompagnement (J+50)
+key_points:
+  - I — CONTEXTE ET FAUSSES MENTIONS DÉTECTÉES
+  - II — TABLEAU RÉCAPITULATIF DES DESTINATAIRES
+  - III — MODÈLES DE LETTRES D'ACCOMPAGNEMENT
+recipient: Mairie de Foix
+tags:
+  - rapport
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

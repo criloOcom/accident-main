@@ -1,8 +1,26 @@
 ---
-title: "Audit de cohérence des montants Dintilhac"
+title: Audit de cohérence des montants Dintilhac
 date: FIXME
-description: "Rapport d'audit sur les écarts des montants Dintilhac par rapport aux variables strictes (post-expertise)."
+description: Rapport d'audit sur les écarts des montants Dintilhac par rapport aux variables strictes (post-expertise).
 type: rapport
+subtitle: "AUDIT DE COHÉRENCE : MONTANTS DINTILHAC"
+objective: "Auditer et vérifier la conformité de AUDIT DE COHÉRENCE : MONTANTS DINTILHAC"
+summary: Rapport d'audit sur les écarts des montants Dintilhac par rapport aux variables strictes (post-expertise).
+key_points:
+  - I — TJ Foix - TJ Foix - Référé Provision - Assignation.md
+  - II — Assurance RC - Plainte Défaut.md
+  - III — DJI Foix - DJI Foix - Partie Civile - Constitution.md
+  - IV — TJ Foix - Bordereau Unifié.md
+  - V — TJ Foix - Référé Provision - Ordonnance Projet.md
+  - VI — TJ Foix - Conclusions au Fond.md
+tags:
+  - audit
+  - conformite
+  - qualite
+  - dintilhac
+  - indemnisation
+  - penal
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*

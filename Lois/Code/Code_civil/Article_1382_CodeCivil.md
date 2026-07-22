@@ -1,9 +1,17 @@
 ---
 type: loi
-title: "Article 1382 – Preuve par présomption judiciaire"
+title: Article 1382 – Preuve par présomption judiciaire
 date: 2026-07-20
-source: "Légifrance – Code civil"
+source: Légifrance – Code civil
 url: "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042379/"
+subtitle: Article 1382 – Preuve par présomption judiciaire
+objective: Analyser Article 1382 Preuve par présomption judiciaire
+summary: Article 1382 – Preuve par présomption judiciaire
+recipient: Tribunal judiciaire
+tags:
+  - rapport
+  - preuve
+  - legifrance
 ---
 
 <!-- Breadcrumb -->

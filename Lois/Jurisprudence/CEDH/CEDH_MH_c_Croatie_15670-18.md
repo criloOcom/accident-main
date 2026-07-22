@@ -1,9 +1,19 @@
 ---
-title: "CEDH — M.H. et autres c. Croatie (15670/18)"
-description: "Arrêt de la 1re Section du 18 novembre 2021 — Panne vidéo non documentée et violation du volet procédural de l'Article 2"
+title: CEDH — M.H. et autres c. Croatie (15670/18)
+description: Arrêt de la 1re Section du 18 novembre 2021 — Panne vidéo non documentée et violation du volet procédural de l'Article 2
 type: jurisprudence
 date: 2026-07-22
 source: HUDOC/CEDH
+subtitle: CEDH — M.H. et autres c. Croatie (n° 15670/18)
+objective: Analyser CEDH M.H. et autres c. Croatie (n 15670/18)
+summary: Arrêt de la 1re Section du 18 novembre 2021 — Panne vidéo non documentée et violation du volet procédural de l'Article 2
+key_points:
+  - I — ATTENDU DE PRINCIPE / ENSEIGNEMENT MAJEUR
+  - II — APPLICATION À NOTRE DOSSIER (ERP & ENTRAVE)
+  - III — SOURCE OFFICIELLE
+recipient: Tribunal judiciaire
+tags:
+  - rapport
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › [CEDH](./README.md)*

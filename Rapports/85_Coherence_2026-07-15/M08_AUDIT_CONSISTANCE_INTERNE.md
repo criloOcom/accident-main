@@ -1,8 +1,22 @@
 ---
-title: "M08 - Audit de Consistance Interne"
+title: M08 - Audit de Consistance Interne
 date: FIXME
-description: "Audit de la cohérence interne des actes juridiques"
+description: Audit de la cohérence interne des actes juridiques
 type: rapport
+subtitle: Mission 08 — Audit de consistance interne des actes
+objective: Auditer et vérifier la conformité de Mission 08 Audit de consistance interne des actes
+summary: Audit de la cohérence interne des actes juridiques
+key_points:
+  - I — Objectif
+  - II — Résultats de l'Audit
+tags:
+  - audit
+  - conformite
+  - qualite
+  - penal
+  - token
+legal_basis:
+  - Code de commerce
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*

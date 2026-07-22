@@ -1,12 +1,27 @@
 ---
-title: "Article L. 2212-4 du Code général des collectivités territoriales"
-description: "CGCT — Mesures de police du maire"
+title: Article L. 2212-4 du Code général des collectivités territoriales
+description: CGCT — Mesures de police du maire
 type: loi
 date: 2026-07-10
 source: Légifrance/LEGIARTI000006390155
 legiarti: LEGIARTI000006390155
 code: Code général des collectivités territoriales
 article: L2212-4
+subtitle: Article L. 2212-4 du Code général des collectivités territoriales
+objective: Analyser Article L. 2212-4 du Code général des collectivités territoriales
+summary: CGCT — Mesures de police du maire
+key_points:
+  - Texte de l'article
+  - Contexte juridique
+  - Éléments clés
+  - Application dans notre dossier
+  - Jurisprudence associée
+  - Liens avec notre dossier
+recipient: Mairie de Foix
+tags:
+  - rapport
+  - responsabilite
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code général des collectivités territoriales](./README.md)*

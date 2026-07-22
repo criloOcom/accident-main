@@ -1,8 +1,28 @@
 ---
-title: "Audit de qualité rédactionnelle des actes juridiques"
+title: Audit de qualité rédactionnelle des actes juridiques
 date: 2026-07-14
-description: "Évaluation de la qualité juridique et de la tenue rédactionnelle des actes de procédure au regard des standards de la procédure civile et pénale française."
+description: Évaluation de la qualité juridique et de la tenue rédactionnelle des actes de procédure au regard des standards de la procédure civile et pénale française.
 type: rapport
+subtitle: Audit des actes de procédure
+objective: Analyser Audit des actes de procédure
+summary: Évaluation de la qualité juridique et de la tenue rédactionnelle des actes de procédure au regard des standards de la procédure civile et pénale française.
+key_points:
+  - I — Assignation en référé-provision
+  - II — Constitution de partie civile
+  - III — Requête Article 145 CPC
+  - IV — Plainte complémentaire pour défaut d'assurance RC
+  - V — Réquisitoire introductif
+  - VI — Conclusions Référé Provision
+tags:
+  - rapport
+  - dintilhac
+  - indemnisation
+  - responsabilite
+  - penal
+  - token
+legal_basis:
+  - Code de commerce
+  - Code de procédure civile
 ---
 <!-- Breadcrumb -->
 *[🏠](../../README.md) › [Rapports](../README.md) › [60 Audits Qualite](./README.md)*

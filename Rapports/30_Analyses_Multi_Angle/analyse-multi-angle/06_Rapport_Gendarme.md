@@ -1,9 +1,20 @@
 ---
-title: "06 — Rapport Gendarme / OPJ"
-description: "Évaluation de la qualité des constatations initiales, chaîne de conservation des preuves et plan d'action (Accident Main, 29/05/2026)."
+title: 06 — Rapport Gendarme / OPJ
+description: Évaluation de la qualité des constatations initiales, chaîne de conservation des preuves et plan d'action (Accident Main, 29/05/2026).
 type: analyse_juridique
 statut: projet
 auteur: Gendarme OPJ
+subtitle: "Évaluation des Constatations : Accident Main du 29 mai 2026"
+objective: "Analyser Évaluation des Constatations : Accident Main du 29 mai 2026"
+summary: Évaluation de la qualité des constatations initiales, chaîne de conservation des preuves et plan d'action (Accident Main, 29/05/2026).
+key_points:
+  - I — QUALITÉ DU PV INITIAL ET DES CONSTATATIONS
+  - II — CHAÎNE DE CONSERVATION DES PREUVES ET ÉLÉMENTS MANQUANTS
+  - III — PLAN DE CONSOLIDATION DES PREUVES (ACTION OPJ / INVESTIGATION)
+tags:
+  - rapport
+  - preuve
+  - token
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [Rapports](../../README.md) › [30 Analyses Multi Angle](../README.md) › [analyse-multi-angle](./README.md)*

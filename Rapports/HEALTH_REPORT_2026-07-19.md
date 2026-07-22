@@ -1,8 +1,26 @@
 ---
-title: "Rapport de Santé — 2026-07-19"
-description: "Audit complet du dépôt au 2026-07-19"
+title: Rapport de Santé — 2026-07-19
+description: Audit complet du dépôt au 2026-07-19
 type: rapport
 date: 2026-07-19
+subtitle: Rapport de Santé — 2026-07-19
+objective: Évaluer l'état et la santé de Rapport de Santé 2026-07-19
+summary: Audit complet du dépôt au 2026-07-19
+key_points:
+  - Résumé
+  - ✅ YAML frontmatter
+  - ⚠️ calendar_event_id manquants
+  - ✅ reel_path invalides
+  - 🔴 Liens internes
+  - ✅ Citations non liées
+recipient: Tribunal judiciaire
+tags:
+  - health
+  - etat
+  - projet
+  - preuve
+legal_basis:
+  - Code civil
 ---
 <!-- Breadcrumb -->
 *[🏠](../README.md) › [Rapports](./README.md)*

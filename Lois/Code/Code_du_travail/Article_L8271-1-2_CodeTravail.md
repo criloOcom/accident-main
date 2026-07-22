@@ -1,12 +1,18 @@
 ---
-title: "Code du travail — Art. L.8271-1-2"
-description: "Code du travail — Agents de contrôle compétents pour la lutte contre le travail illégal"
+title: Code du travail — Art. L.8271-1-2
+description: Code du travail — Agents de contrôle compétents pour la lutte contre le travail illégal
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000054334961
 legiarti: LEGIARTI000054334961
 code: Code du travail
 article: L8271-1-2
+subtitle: Code du travail — Art. L.8271-1-2
+objective: Analyser Code du travail Art. L.8271-1-2
+summary: Code du travail — Agents de contrôle compétents pour la lutte contre le travail illégal
+tags:
+  - rapport
+  - legifrance
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code du travail](./README.md)*
