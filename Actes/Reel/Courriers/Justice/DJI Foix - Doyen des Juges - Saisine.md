@@ -14,7 +14,7 @@ tags:
 - envoi
 calendar_event_id: smthlv0a5arakof0m4rv80qgkc
 statut: envoye
-destinataire: Doyen des Juges d'Instruction de Foix
+destinataire: Doyen des Juges d'Instruction de [Foix](../../../../Memory/Tokens/token-accident-ville.md)
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Justice/DJI Foix - Doyen des Juges - Saisine.md
 source: drive

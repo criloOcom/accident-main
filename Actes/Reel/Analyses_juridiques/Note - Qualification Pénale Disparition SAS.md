@@ -1,6 +1,6 @@
 ---
 title: "Note juridique : Qualification pénale — Disparition de la SAS"
-description: "Dossier :** Sébastien GRAZIDE c/ SAS HB BARBER"
+description: "Dossier :** [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) c/ SAS HB BARBER"
 type: analyse_juridique
 statut: brouillon
 reel_path: ../../Reel/Analyses_juridiques/Note - Qualification Pénale Disparition SAS.md
