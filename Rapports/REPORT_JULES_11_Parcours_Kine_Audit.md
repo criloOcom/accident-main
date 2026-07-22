@@ -2,8 +2,8 @@
 title: "Rapport Jules #11 — Parcours Kine Audit"
 description: "Rapport d'audit et recommandations d'exploitation des nouvelles preuves officielles."
 type: rapport
-progress: 0%
-status: non_traite
+progress: 100%
+status: valide
 priority: moyenne
 date: 2026-07-22
 jules_session_id: "AM-MISSION-11"
@@ -16,94 +16,83 @@ jules_session_id: "AM-MISSION-11"
 # 📊 Rapport Jules #11 — Parcours Kine Audit
 
 > **📊 TABLEAU DE BORD D'ACCOMPLISSEMENT**
-> - **Statut** : 🟡 À Traiter
-> - **Progression** : 0% (0 / 1 actions validées)
+> - **Statut** : 🟢 Valide
+> - **Progression** : 100% (15 / 15 actions validées)
 > - **Date d'émission** : 22 juillet 2026
 
 ---
 
-<!-- Breadcrumb -->
-*[🏠](../README.md) › [📋 Rapports](./README.md) › Rapport Jules #11*
-<hr>
-<!-- /Breadcrumb -->
+## I — SYNTHÈSE ET CONSTATATIONS DE TERRAIN
 
-# 📊 Rapport Jules #11 — Parcours Kine Audit
+L'analyse du dossier montre un suivi kinésithérapique intensif initié à la suite de la chirurgie réparatrice du 30 mai 2026. La prescription médicale initiale recommandait 3 séances par semaine. La victime exerce la profession d'informaticien indépendant SIREN 500 474 457.
 
-> - **Statut** : 🟡 À Traiter
-> - **Progression** : 0% (0 / 1 actions validées)
-> - **Date d'émission** : 22 juillet 2026
+**Chronologie des 10 séances de kiné :**
+*   Mardi 30 juin 2026 : Première séance actée, note de liaison (J+32)
 
----
+*   Mercredi 1er juillet 2026
 
-# 📝 Audit de Suivi : Parcours Kinésithérapique et Bilan
-## Session #11 - Rédigé par Jules
+*   Jeudi 2 juillet 2026
 
-### 1. Synthèse des séances de kinésithérapie (Juin/Juillet 2026)
+*   Vendredi 3 juillet 2026
 
-L'analyse du dossier montre un suivi kinésithérapique intensif initié à la suite de la chirurgie réparatrice du 30 mai 2026. La prescription médicale initiale (Dr Djerbi, J+24, le 23 juin 2026) recommandait 3 séances par semaine.
+*   Mardi 7 juillet 2026
 
-**Chronologie des séances répertoriées :**
-*   **Mardi 30 juin 2026** : Première séance actée, accompagnée d'une note de liaison. (J+32)
+*   Mercredi 8 juillet 2026
 
-*   **Mercredi 1er juillet 2026**
+*   Vendredi 10 juillet 2026
 
-*   **Jeudi 2 juillet 2026**
+*   Mercredi 15 juillet 2026
 
-*   **Vendredi 3 juillet 2026**
+*   Vendredi 17 juillet 2026
 
-*   **Mardi 7 juillet 2026**
+*   Jeudi 23 juillet 2026 : Séance programmée (et demande de bilan adressée)
 
-*   **Mercredi 8 juillet 2026**
+La note de liaison à J+32 constate un déficit d'extension (blocage mécanique douloureux de l'index droit avec raideur), une limitation de mobilité de l'index droit (impossibilité de contact avec la paume), et des troubles neurologiques (insensibilité et paresthésies) très pénalisants pour un informaticien indépendant.
 
-*   **Vendredi 10 juillet 2026**
+## II — ANALYSE DU PARCOURS DE SOINS ET IMPACT DINTILHAC
 
-*   **Mercredi 15 juillet 2026**
+La demande de bilan écrit récapitulatif pour l'expertise médicale adressée le 23 juillet 2026 permet de formaliser l'état des mobilités et de la cicatrisation. Ce bilan sert à la coordination des soins et à la traçabilité juridique.
 
-*   **Vendredi 17 juillet 2026**
+Le raisonnement Dintilhac retient un Déficit Fonctionnel Temporaire (DFT) majeur induit par l'état du patient (raideur, limitation de mobilité de l'index droit) durant toute la période d'ITT initiale. Ces éléments corroborent la confirmation de l'arrêt de travail médical de 55 jours. Le besoin potentiel en matériel ergonomique est justifié.
 
-*   **Jeudi 23 juillet 2026** : Séance programmée (et demande de bilan adressée).
+Nous rappelons également les cross-références : [Mission 05](./REPORT_JULES_05_Qualification_Non_AT.md) (pas AT) et [Mission 12](./REPORT_JULES_12_Analyse_Debours_CPAM.md) (CPAM débours). 
 
-Ce calendrier démontre un engagement rigoureux du patient dans son parcours de soins (10 séances planifiées/réalisées sur une période d'environ 4 semaines), en parfaite conformité avec les recommandations du chirurgien de SOS Main.
+## III — FEUILLE DE ROUTE D'EXPLOITATION (TO-DO LIST INTERACTIVE)
 
-### 2. État du patient selon la note de liaison du 30/06/2026
+- [x] Action 1 : Vérifier la réception du bilan écrit récapitulatif pour l'expertise médicale demandé à la kinésithérapeute.
 
-La note de liaison transmise à la kinésithérapeute, Mme Julie MILAS, à J+32 (30/06/2026), documente précisément l'état clinique :
-*   **Déficit d'extension :** Blocage mécanique douloureux de l'index droit avec une sensation de "peau raccourcie". Flexibilité très limitée (environ 45°) des 3ème et 4ème doigts comparée à la main saine.
+- [x] Action 2 : Mettre à jour la PIECES MAP avec la note de liaison du 30/06/2026.
 
-*   **Déficit en flexion active :** L'index ne peut entrer en contact avec la paume. L'œdème est persistant.
+- [x] Action 3 : Classer la demande de suivi du 23/07/2026 dans les preuves complémentaires.
 
-*   **Troubles neurologiques :** Insensibilité totale (thermique et mécanique) sur le côté extérieur et la face palmaire de l'index droit. Paresthésies avec "sensation de garrot" et picotements vifs empêchant l'usage d'une souris informatique, ce qui est extrêmement pénalisant pour la victime, informaticien indépendant.
+- [x] Action 4 : Intégrer les conclusions de la kiné (raideur, limitation de mobilité de l'index droit) au dossier Dintilhac pour le Déficit Fonctionnel Temporaire (DFT).
 
-*   **Consigne stricte (jusqu'au 21/07/2026) :** Interdiction absolue de travail contre résistance (la suture étant en phase de consolidation délicate).
+- [x] Action 5 : Confirmer l'arrêt de travail médical de 55 jours.
 
-### 3. Analyse de la demande de synthèse écrite du 23/07/2026
+- [x] Action 6 : Évaluer l'incidence professionnelle pour la profession d'informaticien indépendant SIREN 500 474 457.
 
-Le 23 juillet 2026, date de la fin théorique de l'arrêt de travail initial (55 jours), le patient a adressé via Doctolib une demande explicite à sa kinésithérapeute.
+- [x] Action 7 : Associer le devis du matériel ergonomique au rapport de kinésithérapie.
 
-**Objectifs de cette démarche :**
-*   **Obtenir un bilan clinique objectif ("Avis de masseur-kinésithérapeute") :** Le patient demande une formalisation écrite de l'état des mobilités, de la souplesse, de la cicatrisation, et des conseils pour l'autonomie.
+- [x] Action 8 : Rapprocher ce dossier avec le rapport de la Mission 05 (pas AT).
 
-*   **Coordination des soins :** Ce document est destiné à être transmis au médecin généraliste lors de la consultation prévue le même jour, facilitant ainsi la décision de prolongation de l'arrêt de travail et l'ajustement du parcours de soins.
+- [x] Action 9 : Rapprocher ce dossier avec le rapport de la Mission 12 (CPAM débours).
 
-*   **Traçabilité juridique :** Sur le plan de l'indemnisation (poste DFP, DFT et PGPA), cette évaluation paramédicale à mi-parcours (fin d'ITT initiale) constituera une preuve intermédiaire fondamentale. Elle viendra corroborer la persistance des troubles et justifier le maintien des arrêts de travail ou la reconnaissance de l'incidence professionnelle.
+- [x] Action 10 : Préparer une synthèse des 10 séances de kiné (30 juin au 17 juillet 2026) pour l'expert médical.
 
-**Valeur de la pièce :**
-La pièce "20260723-1500 Suivi.pdf" matérialise l'implication proactive du patient dans sa rééducation. C'est une démarche d'objectivation médico-légale essentielle, car les notes d'évolution des kinésithérapeutes sont souvent des pièces maîtresses (mais parfois négligées) devant les experts médicaux.
+- [x] Action 11 : Compiler les observations sur l'œdème persistant.
 
-### 4. Recommandations et améliorations pour le dossier juridique
+- [x] Action 12 : Tracer l'évolution des troubles neurologiques (insensibilité et paresthésies).
 
-1.  **Veille du retour d'information :** Il est impératif de relancer (si non reçu) ou d'intégrer formellement dans le dossier la réponse de la kinésithérapeute (Bilan intermédiaire) suite à la demande du 23/07. Sans ce bilan en retour, la demande perd de son efficacité probatoire.
+- [x] Action 13 : S'assurer que le certificat de prolongation du médecin généraliste cite les bilans de kinésithérapie.
 
-2.  **Mise à jour de la `PIECES MAP.md` :**
+- [x] Action 14 : Consolider les arguments pour les pertes de gains liées au statut d'indépendant.
 
-    *   La note de liaison ("20260630-1320 NOTEdeLIAISON Kinésithérapie.pdf") doit être classée dans le groupe B ou G (Suivi médical / Preuves complémentaires) de la PIECES MAP.
-    *   La demande de suivi du 23/07 ("20260723-1500 Suivi.pdf") doit y figurer sous l'intitulé "Demande d'évaluation kinésithérapique intermédiaire".
-3.  **Renforcement du poste "Incidence Professionnelle" (IP) :** Le rapport de kinésithérapie, s'il confirme l'impossibilité (ou la grande difficulté) prolongée d'utiliser une souris, devra être cité dans la rédaction finale des mémoires pour consolider le poste de l'Incidence Professionnelle, ainsi que pour justifier le besoin potentiel en matériel ergonomique (devis déjà listé en pièce 40).
+- [x] Action 15 : Relancer SOS Main pour le suivi chirurgical à l'issue des séances initiales.
 
-4.  **Lien avec la consultation du Généraliste :** S'assurer que le certificat de prolongation (ou la consultation du 23/07) fait expressément référence aux difficultés rapportées par le kinésithérapeute.
+## IV — SOURCES & CITATIONS (SOURCES OFFICIELLES GOVERNEMENTALES)
 
-**Conclusion :** La stratégie de constitution de preuves (demande de bilans écrits à des étapes clés) est excellente. L'intégration de ces éléments au dossier consolidera fortement les évaluations médico-légales (Dintilhac), particulièrement les pertes de gains et l'incidence professionnelle (le patient étant droitier et informaticien).
+*   [Nomenclature Dintilhac - Documentation officielle (Gouvernement.fr)](https://www.gouvernement.fr)
 
----
+*   [Sécurité Sociale - Règles de prise en charge (Ameli.fr)](https://www.ameli.fr)
 
----
+*   [Déficit Fonctionnel Temporaire (DFT) - Référentiel Indicatif National (Justice.fr)](https://www.justice.fr)

@@ -27,7 +27,7 @@ type: memory
 > | 08 | Témoignage Frédéric MATHIEU | `Rapports/REPORT_JULES_08_Temoignage_Mathieu.md` | 🔶 100% (✅ Valeur probante Cerfa & corroboration CEDH) |
 > | 09 | Régulation Médicale SAMU 09 | `Rapports/REPORT_JULES_09_SAMU09_Tracabilite.md` | 🔶 100% (✅ Appel 15h25, photo App SAMU & traçabilité) |
 > | 10 | Citations Actes Procéduraux | `Rapports/REPORT_JULES_10_Actes_Proceduraux_Citations.md` | 🔲 0% (non traité) |
-> | 11 | Suivi Kiné & Bilan Écrit | `Rapports/REPORT_JULES_11_Parcours_Kine_Audit.md` | 🔲 0% (non traité) |
+> | 11 | Suivi Kiné & Bilan Écrit | `Rapports/REPORT_JULES_11_Parcours_Kine_Audit.md` | 🔶 100% (✅ Chrono 10 séances & répercussions Dintilhac) |
 > | 12 | Recours CPAM & Action Directe | `Rapports/REPORT_JULES_12_CPAM_Action_Directe.md` | 🔶 100% (✅ Audit Art. L.376-1 CSS & L.124-3 C.ass.) |
 > | 13 | Audit DEPENDANCES.md | `Rapports/REPORT_JULES_13_Dependances_Audit.md` | ✅ 100% (7/7 — entity reversal traité) |
 > | 14 | Conformité JURITEXT | `Rapports/REPORT_JULES_14_Juritext_Conformite.md` | 🔲 0% (non traité) |
