@@ -17,6 +17,18 @@ from urllib.parse import quote
 BASE = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
 DRY_RUN = "--dry-run" in sys.argv
 
+# Find all markdown links
+LINK_PATTERN = re.compile(r'\]\(([^)]+)\)')
+
+# Look for patterns like ](../../../Memory/Tokens/token-xxx.md)
+# These have literal emoji and/or spaces in the URL
+FIX_PATTERN = re.compile(
+    r'(]\('
+    r')([^)]*?)'         # the URL path
+    r'(\))',              # closing paren
+    re.DOTALL
+)
+
 def encode_url_path(url):
     """URL-encode a path while preserving slashes, parentheses, and hash."""
     return quote(url, safe='/#()')
@@ -54,19 +66,12 @@ def main():
         if 'Tokens' not in content and 'Memory/🗂' not in content:
             continue
         
-        # Look for patterns like ](../../../Memory/Tokens/token-xxx.md)
-        # These have literal emoji and/or spaces in the URL
-        fix_pattern = re.compile(
-            r'(]\('
-            r')([^)]*?)'         # the URL path
-            r'(\))',              # closing paren
-            re.DOTALL
-        )
+
         
         modified = content
         fixed = 0
         
-        for m in fix_pattern.finditer(content):
+        for m in FIX_PATTERN.finditer(content):
             url = m.group(2)
             # Only touch links that point to Tokens with literal chars
             if 'Tokens' not in url and 'Tokens' not in url:
@@ -93,10 +98,9 @@ def main():
         modified = content
         fixed = 0
         
-        # Find all markdown links
-        link_pattern = re.compile(r'\]\(([^)]+)\)')
+
         
-        for m in link_pattern.finditer(content):
+        for m in LINK_PATTERN.finditer(content):
             url = m.group(1)
             # Only process Tokens links with literal chars
             if 'Tokens' not in url and 'Tokens' not in url:
