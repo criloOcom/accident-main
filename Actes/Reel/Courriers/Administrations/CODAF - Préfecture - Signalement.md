@@ -2,7 +2,7 @@
 emoji: 🚨
 title: Confirmation Officielle de Signalement à la Préfecture
 description: Signalement à la Préfecture de l'Ariège / CODAF — Accident du 29 mai
-  2026 au salon SAS HB BARBER
+  2026 au salon [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 type: courrier
 date: 2026-07-05
 tags:

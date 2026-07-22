@@ -1,12 +1,12 @@
 ---
 emoji: 📝
-title: Email définitif à l'Adjoint au Maire de Foix — Éléments
+title: Email définitif à l'Adjoint au Maire de [Foix](../../../../Memory/Tokens/token-accident-ville.md) — Éléments
   d'actualisation sur le dossier ERP
 description: 'Destinataire** : `**[L''Email de l''Adjoint au Maire]**`'
 type: courrier
 date: 2026-07-10
 statut: brouillon
-destinataire: Adjoint au Maire de Foix (**[L'Adjoint au Maire
+destinataire: Adjoint au Maire de [Foix](../../../../Memory/Tokens/token-accident-ville.md) (**[L'Adjoint au Maire
   de la Commune]**)
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Mairie/Mairie - ERP Tavella - Courrier.md

@@ -57,7 +57,7 @@ def find_inconsistencies(filepath):
                      inconsistencies.append((i+1, "Nom SAS non tokenisé", line.strip(), "Remplacer 'NOM_SAS' par '**[L'Exploitant du Commerce (La SAS)]**'."))
 
     except Exception as e:
-        pass
+        print(f"Error processing {filepath}: {e}")
     return inconsistencies
 
 all_inconsistencies = {}
