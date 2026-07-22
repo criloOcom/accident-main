@@ -732,3 +732,23 @@ Si une profession ou activité erronée est découverte dans un fichier :
   [^1]: [Article L. 124-3...](url)
   <!-- /Source -->
   ```
+
+## #30 — GOUVERNANCE YAML FRONTMATTER (RÈGLE PERMANENTE)
+
+- **Principe** : tout fichier `.md` dans le périmètre (`Actes/Token`, `Actes/Reel`, `Lois`, `Memory`, `Rapports`) DOIT avoir un YAML frontmatter valide avec un `type` canonique.
+
+- **Types canoniques** : définis dans `CANONICAL_TYPES` (`yaml_utils.py`). Tout type hors liste est une violation. Voir [CONVENTIONS.md §II](CONVENTIONS.md#ii--yaml-front-matter) pour la liste exhaustive.
+
+- **Champs obligatoires** : `title` (string) et `type` (canonique). Tout fichier sans ces champs est en violation.
+
+- **Champs enrichis recommandés** : `subtitle`, `objective`, `summary`, `key_points`, `recipient`, `jurisdiction`, `legal_basis`, `urgence`, `tags` — voir CONVENTIONS.md §II.
+
+- **`description`** : ne doit PAS contenir `auteur`, `destinataire` ou d'autres métadonnées de rôle. Usage exclusif : description libre du contenu.
+
+- **Quotes YAML** : toute valeur contenant `: ` (deux-points-espace), `#`, `{`, `}`, `[`, `]`, `,`, `&`, `*`, `?`, `|`, `<`, `>`, `!`, `` ` `` DOIT être entre quotes. Privilégier les single quotes `'...'` (doubler les apostrophes : `'L''exemple'`).
+
+- **Validation** : `.dev/app/yaml_validator.py` vérifie automatiquement types, statuts, dates, et liens cassés. Intégré au pre-commit hook.
+
+- **Schéma JSON** : `.dev/app/yaml_schema.json` décrit la structure complète. Utilisable par les IDE pour l'autocomplétion.
+
+- **Sanctions** : toute modification qui introduit une violation YAML sera bloquée par le pre-commit hook. Pour passer outre : `git commit --no-verify` (déconseillé).

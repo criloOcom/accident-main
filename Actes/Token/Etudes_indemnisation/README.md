@@ -42,6 +42,7 @@ type: readme
 - [13 Note strategique FGTI CIVI](Note%20-%20Strat%C3%A9gique%20FGTI%20CIVI.md)
 
 - [Protocole - Transactionnel Dintilhac 13-07-2026](Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md)
+
 - [Note - Dossier CIVI Filet Sécurité](Note%20-%20Dossier%20CIVI%20Filet%20Sécurité.md)
 
 - [Note - Tableau Dintilhac Comparatif Définitif](Note%20-%20Tableau%20Dintilhac%20Comparatif%20Définitif.md)

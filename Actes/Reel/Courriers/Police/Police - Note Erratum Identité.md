@@ -1,11 +1,23 @@
 ---
 emoji: 📜
 title: Erratum — Correction de l'identité de la société exploitante
-description: 'Document d''erratum formel — Correction de la désignation de la société
-  défenderesse : remplacement de [L''Ancien Exploitant du Commerce] par [L''Exploitant
-  du Commerce (La SAS)] dans l''ensemble des actes et démarches'
+subtitle: Rectification de la désignation de la société défenderesse dans l'ensemble des actes et démarches
+objective: Corriger formellement l'erreur matérielle affectant l'identité de la société exploitante dans tous les actes déjà déposés ou envoyés
+summary: Document d'erratum formel destiné aux autorités judiciaires et administratives, corrigeant la désignation de la société défenderesse — remplacement de LES MAUVAIS GARÇONS (SARL, 938 033 222) par HB BARBER (SAS, 500 474 457) dans l'ensemble des actes, courriers et démarches.
+key_points:
+  - Erreur matérielle : confusion entre SARL LES MAUVAIS GARÇONS et SAS HB BARBER
+  - Même adresse (22 Rue Lafaurie, Foix), même activité (coiffure)
+  - Dirigeante commune : Catherine SORROCHE/ANDISSAC
+  - Découverte de l'erreur le 16 juillet 2026 lors de la visite des lieux
+recipient: Destinataires des actes et autorités judiciaires
+jurisdiction: Tribunal Judiciaire de Foix
+legal_basis:
+  - Article 1240 du Code civil
+  - Loi n°91-647 du 10 juillet 1991 relative à l'aide juridique
+description: 'Document d''erratum formel — Correction de la désignation de la société défenderesse : remplacement de [L''Ancien Exploitant du Commerce] par [L''Exploitant du Commerce (La SAS)] dans l''ensemble des actes et démarches'
 type: document
 date: 2026-07-17
+urgency: haute
 statut: final
 destinataire: Destinataires des actes et autorités judiciaires
 auteur: La Victime

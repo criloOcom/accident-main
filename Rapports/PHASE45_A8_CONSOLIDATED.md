@@ -52,11 +52,14 @@ Tous les fichiers listés par A2. Solution : supprimer la première occurrence d
 
 ### P1b — Sections `##` sans `<hr><hr>` avant (15 fichiers)
 - `Actes_proceduraux/Contentieux_civil/` : 7 fichiers (Constat Huissier, TC Foix, Bordereau, CPC 145, Conclusions Fond, Référé Provision Assignation, Référé Provision Conclusions)
+
 - `Actes_proceduraux/Contentieux_penal/` : 6 fichiers (Réquisitoire, PC Constitution, Plainte Défaut, PV Audition Foix, PV Audition, Signalement Fraude)
+
 - `Analyses_juridiques/README.md`
 
 ### P1c — Double H1 (2 fichiers)
 - `Police - Plainte Complémentaire.md` (l.49-50)
+
 - `Police - Note Guide Plainte Orale.md` (l.34,38,39)
 
 ### P1d — `---` dans le corps (4 fichiers)

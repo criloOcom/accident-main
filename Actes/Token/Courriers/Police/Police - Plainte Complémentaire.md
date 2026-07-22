@@ -1,7 +1,19 @@
 ---
 emoji: ⚖️
 title: Plainte Complémentaire — Correction Identité Exploitant (HB BARBER)
-description: La Victime
+subtitle: Rectification de la société exploitante dans le cadre de la plainte initiale
+objective: Corriger formellement l'identité de la société exploitante du salon de coiffure suite à la découverte de l'erreur matérielle affectant la première plainte
+summary: Plainte complémentaire déposée au Commissariat de Police de Foix le 20 juillet 2026, corrigeant l'identité de la société exploitante — remplacement de [L'Ancien Exploitant du Commerce] par [L'Exploitant du Commerce (La SAS)] — suite à la visite des lieux du 16 juillet 2026 ayant révélé l'erreur.
+key_points:
+  - Plainte initiale déposée le 2 juin 2026 visait [L'Ancien Exploitant du Commerce]
+  - Visite des lieux le 16 juillet 2026 a révélé l'exploitation par [L'Exploitant du Commerce (La SAS)]
+  - Correction formelle de l'identité de la société exploitante
+  - Maintien de l'ensemble des faits et circonstances de l'accident
+recipient: Commissariat de Police de Foix
+jurisdiction: Tribunal Judiciaire de Foix
+legal_basis:
+  - Article 434 du Code de procédure pénale
+urgency: haute
 type: courrier
 date: 2026-07-20
 tags:
@@ -17,9 +29,10 @@ tags:
 
 - police
 calendar_event_id: tqegc9g9t96hp2td1oo3iqtqd8
-statut: archive
+statut: envoye
 destinataire: Commissariat de Police de Foix
 auteur: La Victime
+description: Plainte complémentaire corrigeant l'identité de la société exploitante du salon de coiffure
 reel_path: ../../../Reel/Courriers/Police/Police - Plainte Complémentaire.md
 jx: J+52
 ---

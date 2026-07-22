@@ -1,10 +1,24 @@
 ---
 emoji: 📝
 title: Demande d'Aide Juridictionnelle Totale — Formulaire Rempli
-description: Cerfa n°16146*03 — Demande d'AJ totale pour procédure en référé-provision
-  et expertise médicale au TJ de Foix
+subtitle: Cerfa n°16146*03 — Demande d'AJ totale pour couvrir référé-provision et expertise médicale
+objective: Obtenir la prise en charge intégrale des frais de procédure (avocat commis d'office, huissier, expert) par l'État
+summary: Formulaire Cerfa n°16146*03 complété pour demande d'aide juridictionnelle totale auprès du BAJ du TJ de Foix, en vue de la procédure de référé-provision et d'expertise médicale consécutive à l'accident du 29 mai 2026.
+key_points:
+  - Revenus annuels ~9 000 € — éligible AJ totale (plafond 2026)
+  - Procédure visée : référé-provision (>10 000 €) + expertise médicale
+  - AJ totale = prise en charge à 100% + avocat commis d'office
+  - À déposer au BAJ du TJ Foix avant ou concomitamment à la requête 145 CPC
+recipient: Bureau d'Aide Juridictionnelle du Tribunal Judiciaire de Foix
+jurisdiction: Tribunal Judiciaire de Foix
+legal_basis:
+  - Loi n°91-647 du 10 juillet 1991 relative à l'aide juridique
+  - Décret n°2020-1717 du 28 décembre 2020
+  - Article 835 du Code de procédure civile
+description: Cerfa n°16146*03 — Demande d'AJ totale pour procédure en référé-provision et expertise médicale au TJ de Foix
 type: courrier
 date: 2026-07-18
+urgency: haute
 tags:
 - AJ
 

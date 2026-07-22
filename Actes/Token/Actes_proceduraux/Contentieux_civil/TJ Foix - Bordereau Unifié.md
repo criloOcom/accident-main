@@ -2,10 +2,24 @@
 
 emoji: 📑
 title: Bordereau de pièces (unifié)
-description: 'Bordereau de pièces unifié — Procédure : Référé (Art. 835 CPC, Art.
-  145 CPC)'
+subtitle: Liste des pièces jointes à la procédure de référé (Art. 835 CPC, Art. 145 CPC)
+objective: Rassembler et lister les 25 pièces versées à l'appui de l'assignation en référé-provision et de la requête 145 CPC
+summary: Bordereau de pièces unifié listant l'ensemble des documents versés à la procédure de référé-provision et d'article 145 CPC devant le TJ de Foix, incluant pièces médicales, administratives, correspondances et preuves matérielles.
+key_points:
+  - 25 pièces listées séquentiellement
+  - Pièces 1-10 : constatations et pièces médicales
+  - Pièces 11-20 : correspondances et démarches amiables
+  - Pièces 21-25 : preuves matérielles et éléments complémentaires
+recipient: Monsieur le Président du Tribunal Judiciaire de Foix
+jurisdiction: Tribunal Judiciaire de Foix
+legal_basis:
+  - Article 835 du Code de procédure civile
+  - Article 145 du Code de procédure civile
+  - Article 700 du Code de procédure civile
+description: 'Bordereau de pièces unifié — Procédure : Référé (Art. 835 CPC, Art. 145 CPC)'
 type: readme
 date: 2026-07-07
+urgency: haute
 tags:
 - bordereau
 

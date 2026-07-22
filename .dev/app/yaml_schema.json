@@ -1,141 +1,44 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Schéma YAML — Projet Accident Main",
-  "description": "Schéma de référence pour le frontmatter YAML de tous les fichiers .md du dépôt accident-main.",
+  "title": "YAML Frontmatter — Accident de la Main",
+  "description": "Schéma canonique pour les frontmatter YAML des fichiers .md du dépôt",
   "type": "object",
-  "definitions": {
-    "common": {
-      "type": "object",
-      "required": ["title", "type"],
-      "properties": {
-        "title": {
-          "type": "string",
-          "description": "Titre lisible du document"
-        },
-        "description": {
-          "type": "string",
-          "description": "Résumé court (1-2 phrases)"
-        },
-        "type": {
-          "type": "string",
-          "enum": [
-            "loi", "jurisprudence", "courrier", "assignation", "plainte",
-            "analyse_juridique", "etude_indemnisation", "rapport", "readme",
-            "memory", "status", "preuve", "archive", "fiche", "document",
-            "directory", "attestation"
-          ],
-          "description": "Type canonique du document"
-        },
-        "date": {
-          "type": "string",
-          "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
-          "description": "Date au format ISO YYYY-MM-DD"
-        },
-        "tags": {
-          "type": "array",
-          "items": { "type": "string" },
-          "description": "Liste de mots-clés"
-        },
-        "statut": {
-          "type": "string",
-          "enum": ["final", "projet", "brouillon", "preparation", "envoye", "archive", "fusionne", "recueillie"],
-          "description": "Statut d'avancement du document"
-        }
-      }
+  "properties": {
+    "emoji": { "type": "string", "description": "Emoji représentatif du document" },
+    "title": { "type": "string", "description": "Titre court du document (obligatoire)" },
+    "subtitle": { "type": "string", "description": "Sous-titre contextuel" },
+    "objective": { "type": "string", "description": "Objectif du document (pourquoi ce document existe)" },
+    "summary": { "type": "string", "description": "Résumé du contenu en 1-2 phrases" },
+    "key_points": { "type": "array", "items": { "type": "string" }, "description": "Points clés structurés" },
+    "recipient": { "type": "string", "description": "Destinataire nominal du document" },
+    "jurisdiction": { "type": "string", "description": "Juridiction compétente" },
+    "legal_basis": {
+      "oneOf": [
+        { "type": "string" },
+        { "type": "array", "items": { "type": "string" } }
+      ],
+      "description": "Base légale / fondement juridique"
     },
-    "acte": {
-      "allOf": [
-        { "$ref": "#/definitions/common" },
-        {
-          "type": "object",
-          "properties": {
-            "auteur": { "type": "string" },
-            "destinataire": { "type": "string" },
-            "reel_path": {
-              "type": "string",
-              "pattern": "^\\.\\./|\\.\\./.*\\.md$",
-              "description": "Chemin relatif vers la version réelle (strate Reel)"
-            },
-            "source": { "type": "string", "enum": ["drive", "local", "email"] },
-            "drive_id": { "type": "string" },
-            "calendar_event_id": { "type": "string" },
-            "jx": {
-              "type": "string",
-              "pattern": "^J[+-]\\d+$",
-              "description": "Jalon J+X par rapport à la date de l'accident"
-            },
-            "signataire": { "type": "string" },
-            "personnes": {
-              "type": "array",
-              "items": { "type": "string" }
-            },
-            "token_path": { "type": "string" }
-          }
-        }
-      ]
-    },
-    "loi": {
-      "allOf": [
-        { "$ref": "#/definitions/common" },
-        {
-          "type": "object",
-          "required": ["code", "article"],
-          "properties": {
-            "code": { "type": "string" },
-            "article": { "type": "string" },
-            "legiarti": { "type": "string", "pattern": "^LEGIARTI" },
-            "juritext": { "type": "string", "pattern": "^JURITEXT" },
-            "ecli": { "type": "string" },
-            "pourvoi": { "type": "string" },
-            "jurisdiction": { "type": "string" },
-            "last_verified": {
-              "type": "string",
-              "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
-            }
-          }
-        }
-      ]
-    },
-    "jurisprudence": {
-      "allOf": [
-        { "$ref": "#/definitions/loi" },
-        {
-          "properties": {
-            "solution": { "type": "string" },
-            "chamber": { "type": "string" }
-          }
-        }
-      ]
-    },
-    "token": {
-      "allOf": [
-        { "$ref": "#/definitions/common" },
-        {
-          "type": "object",
-          "properties": {
-            "token": { "type": "string" },
-            "real_value": { "type": "string" },
-            "category": { "type": "string" },
-            "aliases": {
-              "type": "array",
-              "items": { "type": "string" }
-            }
-          }
-        }
-      ]
-    },
-    "rapport": {
-      "allOf": [
-        { "$ref": "#/definitions/common" },
-        {
-          "type": "object",
-          "properties": {
-            "destinataire": { "type": "string" },
-            "auteur": { "type": "string" },
-            "role": { "type": "string" }
-          }
-        }
-      ]
+    "description": { "type": "string", "description": "Description libre du document" },
+    "type": { "type": "string", "description": "Type canonique du document" },
+    "date": { "type": "string", "description": "Date YYYY-MM-DD ou FIXME" },
+    "statut": { "type": "string", "description": "Statut du document" },
+    "urgence": { "type": "string", "description": "Niveau d'urgence" },
+    "urgency": { "type": "string", "enum": ["basse", "moyenne", "haute", "critique"], "description": "Urgence (anglais, recommandé)" },
+    "tags": { "type": "array", "items": { "type": "string" }, "description": "Tags de catégorisation" },
+    "auteur": { "type": "string", "description": "Auteur du document (token ou réel)" },
+    "destinataire": { "type": "string", "description": "Destinataire du document" },
+    "reel_path": { "type": "string", "description": "Chemin relatif vers la version réelle" },
+    "calendar_event_id": { "type": "string", "description": "ID Google Calendar associé" },
+    "jx": { "type": "string", "pattern": "^J±?[0-9]{1,2}$", "description": "Code J±XX" },
+    "legiarti": { "type": "string", "pattern": "^LEGIARTI", "description": "ID Légifrance article" },
+    "juritext": { "type": "string", "pattern": "^JURITEXT", "description": "ID Légifrance décision" }
+  },
+  "required": ["title", "type"],
+  "allOf": [
+    {
+      "if": { "properties": { "type": { "enum": ["courrier", "assignation", "plainte", "attestation", "preuve", "rapport", "loi", "jurisprudence"] } } },
+      "then": { "required": ["date"] }
     }
-  }
+  ]
 }

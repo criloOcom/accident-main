@@ -30,6 +30,10 @@ CANONICAL_TYPES: dict[str, str] = {
     "document": "Document général",
     "directory": "Index de répertoire",
     "attestation": "Attestation de témoin",
+    "organisation": "Fiche organisation / synthèse",
+    "email": "Email / message électronique",
+    "session": "Session de travail / audit",
+    "analyse": "Analyse ou mémorandum juridique",
 }
 
 CANONICAL_TYPES_SET: set[str] = set(CANONICAL_TYPES.keys())

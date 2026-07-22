@@ -54,40 +54,100 @@ Chaque fichier `.md` suit strictement cet ordre :
 
 ## II — YAML FRONT MATTER
 
+### Schéma de référence
+Le schéma JSON canonique est dans `.dev/app/yaml_schema.json` — source unique de vérité pour la structure YAML.
+
 ### Champs obligatoires
 ```yaml
 ---
 title: "Mon Titre"
-description: "Résumé court."
-type: acte|analyse|courrier|organisation|memory|rapport
+type: voir types canoniques ci-dessous
 ---
 ```
 
-### Champs de cross-reference (dans Token)
+### Champs recommandés
 ```yaml
-reel_path: ../../Reel/{subdir}/{fichier}.md
-drive_id: {Google Drive ID}
-calendar_event_id: "{Google Calendar event ID}"
-calendar_event_ids:
-  - "{event_id_1}"
-  - "{event_id_2}"
-statut: brouillon|projet|preparation|final|archive
+emoji: 📜                            # Emoji représentatif
+subtitle: "Sous-titre contextuel"    # Contexte du document
+objective: "Objectif du document"    # Pourquoi ce document existe
+summary: "Résumé en 1-2 phrases"     # Résumé du contenu
+key_points:                          # Points clés structurés
+  - Point important 1
+  - Point important 2
+recipient: "Destinataire nominal"    # Qui reçoit
+jurisdiction: "Juridiction"         # Tribunal compétent
+legal_basis:                         # Fondement juridique
+  - Article X du Code Y
+description: "Description libre"     # Résumé court (fallback)
+tags:
+  - mot-cle-1
+  - mot-cle-2
+urgence: haute                       # haute|moyenne|basse|critique
 ```
 
-- `calendar_event_id`: pour un fichier correspondant à **un seul événement** Google Calendar `[AM]`
+### Types canoniques
+Liste exhaustive (source : `CANONICAL_TYPES` dans `.dev/app/yaml_utils.py`) :
 
-- `calendar_event_ids`: liste pour un fichier correspondant à **plusieurs événements** (ex: envoi courrier + sa date butoir)
+| Type | Description |
+|------|-------------|
+| `loi` | Article de code juridique |
+| `jurisprudence` | Décision de justice (arrêt) |
+| `courrier` | Courrier / correspondance |
+| `assignation` | Acte d'assignation en justice |
+| `plainte` | Plainte pénale |
+| `analyse` | Analyse ou mémorandum juridique |
+| `analyse_juridique` | Analyse ou mémorandum juridique |
+| `etude_indemnisation` | Étude d'indemnisation (Dintilhac) |
+| `rapport` | Rapport d'audit ou d'expertise |
+| `projet` | Projet, simulation ou version de travail |
+| `readme` | Fichier d'index / porte d'entrée |
+| `memory` | Fichier mémoire du projet |
+| `status` | Suivi d'état d'envoi |
+| `preuve` | Pièce de preuve brute |
+| `archive` | Document archivé |
+| `fiche` | Fiche réflexe / note |
+| `document` | Document général |
+| `directory` | Index de répertoire |
+| `attestation` | Attestation de témoin |
+| `organisation` | Fiche organisation / synthèse |
+| `email` | Email / message électronique |
+| `session` | Session de travail / audit |
+
+### Valeurs de `statut`
+`brouillon` | `projet` | `preparation` | `envoye` | `final` | `archive` | `fusionne` | `recueillie`
+
+### Champs de cross-reference (dans Token)
+```yaml
+reel_path: ../../Reel/{subdir}/{fichier}.md   # Obligatoire dans Token
+drive_id: {Google Drive ID}                     # Optionnel
+calendar_event_id: "{Google Calendar event ID}" # Optionnel
+calendar_event_ids:                             # Optionnel (multi-événements)
+  - "{event_id_1}"
+  - "{event_id_2}"
+statut: brouillon|projet|preparation|envoye|final|archive
+jx: J+52                # Code J±XX du jour par rapport à l'accident
+legiarti: LEGIARTI...   # ID Légifrance article
+juritext: JURITEXT...   # ID Légifrance décision
+```
 
 ### Règles
 1. **Ligne 1 = `---`** : toujours, sans rien avant
 
-2. `title` et `description` : obligatoires
+2. **`title` et `type` obligatoires**, tout le reste est facultatif mais encouragé
 
-3. `type` : valeur canonique (pas d'invention)
+3. **`type`** : valeur canonique uniquement (pas d'invention). Voir la liste exhaustive ci-dessus
 
-4. Les champs `drive_id`, `calendar_event_id`, `calendar_event_ids`, `statut` : optionnels mais encouragés
+4. **`description`** : ne pas confondre avec `auteur` ou `destinataire`. Champ de texte libre décrivant le document
 
-5. `reel_path` / `token_path` : obligatoires pour la double strate
+5. **Pas de quotes systématiques** : les valeurs sans `:`, `#`, `{`, `}`, `[`, `]`, `,`, `&`, `*`, `?`, `|`, `-`, `<`, `>`, `!`, `@`, `` ` `` n'ont pas besoin de quotes. En cas de doute, utiliser des **single quotes** `'...'` (doubler les apostrophes : `'L''exemple'`)
+
+6. **Validation automatique** : `.dev/app/yaml_validator.py` vérifie types, statuts, dates, et liens. Intégré au pre-commit hook (Règle #23)
+
+7. **Schéma JSON** : `.dev/app/yaml_schema.json` est le schéma de référence pour les IDE et pipelines CI
+
+8. Les champs `drive_id`, `calendar_event_id`, `calendar_event_ids`, `statut` : optionnels mais encouragés
+
+9. `reel_path` : obligatoire dans Token, interdit dans Reel
 
 <hr><hr>
 

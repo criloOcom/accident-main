@@ -1,12 +1,25 @@
 ---
 
 emoji: 🔍
-title: Requête Article 145 CPC — Communication Assurances + Conservation Vidéos (HB
-  BARBER)
-description: À déposer au greffe du TJ de Foix — REQUÊTE (pas d'assignation). Imprimer
-  2 exemplaires, demander récépissé.
+title: Requête Article 145 CPC — Communication Assurances + Conservation Vidéos (HB BARBER)
+subtitle: Demande de communication forcée de la police d'assurance RC Pro et de conservation des preuves vidéo
+objective: Obtenir une ordonnance sur requête du Président du TJ de Foix pour contraindre l'exploitant à révéler son assureur RC et conserver les vidéosurveillance avant expiration du délai de 30 jours
+summary: Requête fondée sur l'article 145 du CPC, déposée au greffe du TJ de Foix, visant à obtenir la communication de l'attestation RC Pro de la SAS HB BARBER et la conservation des images de vidéosurveillance des 29-30 mai 2026.
+key_points:
+  - Accident du 29 mai 2026 dans les locaux du salon HB BARBER
+  - Refus persistant de l'exploitant de fournir l'attestation d'assurance RC Pro
+  - Vidéosurveillance susceptible d'être effacée (délai de conservation de 30 jours)
+  - Requête sans débat — imprimer 2 exemplaires, demander récépissé
+recipient: Monsieur le Président du Tribunal Judiciaire de Foix
+jurisdiction: Tribunal Judiciaire de Foix
+legal_basis:
+  - Article 145 du Code de procédure civile
+  - Article L. 124-3 du Code des assurances
+  - Article 1240 du Code civil
+description: À déposer au greffe du TJ de Foix — REQUÊTE (pas d'assignation). Imprimer 2 exemplaires, demander récépissé.
 type: document
 date: 2026-07-20
+urgency: haute
 tags:
 - requete
 

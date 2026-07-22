@@ -2,9 +2,27 @@
 
 emoji: ⚖️
 title: Assignation en Référé-Provision et Demande d'Expertise Médicale
+subtitle: Action en réparation du préjudice corporel et demande de provision
+objective: Saisir le Juge des référés du TJ de Foix pour obtenir une provision à valoir sur le préjudice corporel et une mesure d'expertise médicale
+summary: Assignation en référé-provision fondée sur les articles 835 CPC et 1240 C. civ., sollicitant une provision de 15 000 €, une expertise médicale judiciaire, la communication de la police d'assurance sous astreinte, et une indemnité au titre de l'article 700 CPC.
+key_points:
+  - Accident du 29 mai 2026 — chute d'un bac à shampoing au salon HB BARBER
+  - Plaie grave main droite : section tendons fléchisseurs, ostéosynthèse
+  - 55 jours d'arrêt de travail médical continu
+  - Refus de l'exploitant de fournir l'attestation RC Pro
+  - Provision sollicitée : 15 000 €
+recipient: Monsieur le Président du Tribunal Judiciaire de Foix
+jurisdiction: Tribunal Judiciaire de Foix
+legal_basis:
+  - Article 835 du Code de procédure civile
+  - Article 145 du Code de procédure civile
+  - Article 1240 du Code civil
+  - Article 700 du Code de procédure civile
+  - Article L. 124-3 du Code des assurances
 description: Rédigé le **[J+32 Assignation référé]
 type: readme
 date: 2026-06-30
+urgency: haute
 tags:
 - assignation
 
@@ -19,8 +37,7 @@ statut: final
 destinataire: Tribunal Judiciaire de Foix
 audience: 2026-07-31
 auteur: La Victime
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision
-  - Assignation.md
+reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision - Assignation.md
 source: drive
 drive_id: 1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg
 calendar_event_id: sr9bmf225pfn9fjfn6r4d740a8
