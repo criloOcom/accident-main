@@ -19,7 +19,7 @@ tags:
 
 - astreinte
 calendar_event_id: tqegc9g9t96hp2td1oo3iqtqd8
-statut: projet
+statut: final
 auteur: Projet — Juge des requêtes du TJ Foix
 reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - CPC 145 - Ordonnance sur Requête.md
 jx: J+52

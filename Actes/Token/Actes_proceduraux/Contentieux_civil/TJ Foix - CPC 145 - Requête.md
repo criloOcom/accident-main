@@ -19,7 +19,7 @@ tags:
 
 - astreinte
 calendar_event_id: tqegc9g9t96hp2td1oo3iqtqd8
-statut: preparation
+statut: final
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
 reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - CPC 145 - Requête.md

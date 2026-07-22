@@ -2,10 +2,10 @@
 emoji: 📋
 title: Bordereau de pièces — Dépôt Commissariat [La Ville de l'Accident]
 description: Liste des documents physiques à apporter au Commissariat de [La Ville
-  de l'Accident] le lundi 20 juillet 2026
+  de l'Accident] le lundi 27 juillet 2026
 type: document
-date: 2026-07-17
-statut: preparation
+date: 2026-07-27
+statut: final
 destinataire: Commissariat de Police de [La Ville de l'Accident]
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Police/Police - Bordereau Pièces.md
@@ -28,13 +28,13 @@ Place de la Préfecture
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 17 juillet 2026
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 27 juillet 2026
 <!-- /Date -->
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](./Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # BORDEREAU DE PIÈCES
-## Dépôt au Commissariat de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** — Lundi 20 juillet 2026
+## Dépôt au Commissariat de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** — Lundi 27 juillet 2026
 
 **DOCUMENTS D'IDENTITÉ**
 

@@ -5,7 +5,7 @@ description: Complément à la plainte initiale — Correction de l'identité de
   exploitante
 type: document
 date: 2026-07-17
-statut: projet
+statut: final
 destinataire: Procureur de la République près le TJ de [La Ville de l'Accident]
 depose: false
 auteur: La Victime
@@ -36,7 +36,7 @@ reel_path: ../../../Reel/Actes_proceduraux/Contentieux_penal/Parquet Foix - Plai
 
 ## Référence de la plainte initiale
 
-Plainte déposée le **2 juin 2026** au Service Local de Sécurité Publique de **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)** Rive Droite, enregistrée sous le **[ ... ]**, pour des faits de blessures involontaires avec ITT n'excédant pas 3 mois survenus le **29 mai 2026 vers 15h20** dans un salon de coiffure situé **22 rue Lafaurie, 09000 [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md)**.
+Plainte déposée le **2 juin 2026** au Service Local de Sécurité Publique de **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)** Rive Droite, enregistrée sous le **n° 2026/015967**, pour des faits de blessures involontaires avec ITT n'excédant pas 3 mois survenus le **29 mai 2026 vers 15h20** dans un salon de coiffure situé **22 rue Lafaurie, 09000 [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md)**.
 <hr><hr>
 
 ## 1. Rappel très bref des faits déjà déclarés

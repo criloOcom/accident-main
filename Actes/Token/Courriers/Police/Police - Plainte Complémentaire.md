@@ -17,7 +17,7 @@ tags:
 
 - police
 calendar_event_id: tqegc9g9t96hp2td1oo3iqtqd8
-statut: preparation
+statut: archive
 destinataire: Commissariat de Police de Foix
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Police/Police - Plainte Complémentaire.md
