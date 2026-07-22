@@ -29,7 +29,12 @@ drive_id: 1gezULqgCQwUWSAJXePpLpTxUQ3A9u6bm
 > drive_url: https://drive.google.com/file/d/1gezULqgCQwUWSAJXePpLpTxUQ3A9u6bm/view
 
 
-NOTE DE SYNTHÈSE MÉDICO-LÉGALE​ (À DESTINATION DU DR OXYBEL) Objet : Demande de prolongation d'arrêt de travail et suivi clinique à $J+12$ post-opératoire (Accident Corporel Majeur causé par un Tiers) Patient : Sébastien GRAZIDE (Né le 18/01/1982) – Informaticien indépendant (SIREN : 500 474 457) Dossier CPAM Recours contre Tiers : Actif sous le n° 31727387 Date de la téléconsultation : Vendredi 12 juin 2026 à 12h15
+
+NOTE DE SYNTHÈSE MÉDICO-LÉGALE​ (À DESTINATION DU DR OXYBEL) Objet : Demande de prolongation d'arrêt de travail et suivi clinique à $J+12$ post-opératoire (Accident Corporel Majeur causé par un Tiers) Patient : 
+
+Sébastien GRAZIDE (Né le 18/01/1982) – 
+
+Informaticien indépendant (SIREN : 500 474 457) Dossier CPAM Recours contre Tiers : Actif sous le n° 31727387 Date de la téléconsultation : Vendredi 12 juin 2026 à 12h15
 
 1. RAPPEL DES LÉSIONS INITIALES (CHIRURGIE DU 31/05/2026) Pour mémoire, l’intervention a été réalisée à l'urgence SOS Main de la Clinique de l'Union par le Dr Iskander Djerbi suite à l'accident du 29/05/2026 (percussion d'une vasque en céramique brisée). Le compte-rendu opératoire fait état de : ●​ Section partielle du tendon fléchisseur superficiel du 5e doigt droit (suture 6 brins Mac Learney au fil PDS 3-0). ●​ Plastie d'agrandissement des poulies du canal digital (prévention du conflit tendineux). ●​ Section totale du paquet collatéral ulnaire et radial (suture microchirurgicale sous loupes à l'éthilon 9-0). ●​ Neurolyse d'urgence du nerf collatéral comprimé par l'hématome.
 

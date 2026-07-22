@@ -21,4 +21,5 @@ drive_id: 1JsCpS2od3Z5GMWYIe-jeE73F0DPKzlmj
 > drive_url: https://drive.google.com/file/d/1JsCpS2od3Z5GMWYIe-jeE73F0DPKzlmj/view?usp=drivesdk
 
 
+
 [Contenu binaire PDF téléversé : 20260623-1732 AVIS ArretDeTravail DrDJERBI Volet2.pdf]

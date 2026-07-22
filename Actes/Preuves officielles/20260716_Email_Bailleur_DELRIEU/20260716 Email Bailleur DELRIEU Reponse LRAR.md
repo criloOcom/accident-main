@@ -25,15 +25,20 @@ destinataire: Sébastien GRAZIDE
 <hr><hr>
 
 
+
 ## Métadonnées
 
-| Champ | Valeur | |-------|--------| | **Expéditeur** | romain delrieu <romain.delrieu@live.fr> | | **Destinataire** | Sébastien GRAZIDE <sebastien.grazide@gmail.com> | | **Objet** | Demande de communication d'assurance | | **Date** | 16 juillet 2026 à 18:28 | | **Réponse à** | LRAR du 29 juin 2026 |
+| Champ | Valeur | |-------|--------| | **Expéditeur** | romain delrieu <romain.delrieu@live.fr> | | **Destinataire** | 
+
+Sébastien GRAZIDE <sebastien.grazide@gmail.com> | | **Objet** | Demande de communication d'assurance | | **Date** | 16 juillet 2026 à 18:28 | | **Réponse à** | LRAR du 29 juin 2026 |
 
 <hr><hr>
 
 ## Texte du message
 
-> Bonjour M. Grazide, > > Pour faire suite à votre lettre recommandée reçue à mon domicile, je vous informe que je suis au regret de ne pouvoir vous renseigner sur l'assurance contractée par la SAS LES MAUVAIS GARCONS car cette société a cessé toute activité dans mes locaux depuis le 10/03/2026 comme en atteste l'état des lieux de sortie signé par son représentant à cette date. > > Or, votre accident du travail étant postérieur à cette date, la SAS LES MAUVAIS GARCONS ne peut donc pas voir sa responsabilité engagée. > > Cordialement, > Romain Delrieu.
+> Bonjour M. Grazide, > > 
+
+Pour faire suite à votre lettre recommandée reçue à mon domicile, je vous informe que je suis au regret de ne pouvoir vous renseigner sur l'assurance contractée par la SAS LES MAUVAIS GARCONS car cette société a cessé toute activité dans mes locaux depuis le 10/03/2026 comme en atteste l'état des lieux de sortie signé par son représentant à cette date. > > Or, votre accident du travail étant postérieur à cette date, la SAS LES MAUVAIS GARCONS ne peut donc pas voir sa responsabilité engagée. > > Cordialement, > Romain Delrieu.
 
 <hr><hr>
 

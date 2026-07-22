@@ -27,7 +27,7 @@ jx: J+39
 
 # BORDEREAU DE PIÈCES
 
-> **Procédure :** Référé (Art. 835 CPC, Art. 145 CPC) — **Demandeur :** **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** — **Défendeur :** **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
+> **Procédure :** Référé (Art. 835 CPC, Art. 145 CPC) — <!-- Auteur -->**Demandeur :** **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**<!-- /Auteur --> — <!-- Destinataire -->**Défendeur :** **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**<!-- /Destinataire -->
 ## I — GROUPE A — PREUVES DE L'ACCIDENT
 ### PIÈCE N° 1
 

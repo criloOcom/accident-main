@@ -38,12 +38,15 @@ destinataire: Président du Tribunal Judiciaire de Foix
 
 <hr><hr>
 
+<!-- Auteur -->
 **DEMANDEUR**
 
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, né le [**[Date de naissance de la Victime]**](../../../../Memory/Tokens/token-victime-date-naissance.md), de nationalité française, demeurant au **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 *Ayant pour conseil Maître [À désigner — AJ totale en cours], avocat au Barreau de l'Ariège*
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **DÉFENDEURS**
 
 1. **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, SAS au capital de 200 €, immatriculée au RCS de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** sous le n°**[L'Identifiant de l'Exploitation](../../../../Memory/Tokens/token-exploitation-id.md)**, ayant son siège au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**
@@ -53,6 +56,7 @@ destinataire: Président du Tribunal Judiciaire de Foix
 3. **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, prise en qualité de dirigeante et personnellement
 
 *Défendeurs non comparants*
+<!-- /Destinataire -->
 
 <hr><hr>
 

@@ -32,6 +32,7 @@ destinataire: Tribunal Judiciaire de Foix
 
 > **Projet d'ordonnance — Version HB BARBER.** Document de travail destiné à préparer le dépôt de la requête du 20 juillet 2026.
 
+<!-- Auteur -->
 **TRIBUNAL JUDICIAIRE DE **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)****
 
 **[Chambre civile / Juge des requêtes]**
@@ -42,6 +43,7 @@ destinataire: Tribunal Judiciaire de Foix
 <hr><hr>
 
 **NOUS**, [Nom du juge], Juge des requêtes du Tribunal judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**,
+<!-- /Auteur -->
 
 **Vu la requête déposée le 20 juillet 2026 par :**
 

@@ -50,10 +50,13 @@ Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/toke
 
 <hr><hr>
 
+<!-- Auteur -->
 POUR :
 
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, né le [**[Date de naissance de la Victime]**](../../../../Memory/Tokens/token-victime-date-naissance.md), de nationalité française, demeurant au **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**, exerçant la profession d'informaticien indépendant, ayant pour avocat constitué **[Nom de l'Avocat de la Victime](../../../../Memory/Tokens/token-victime-avocat-nom.md)**, avocat au barreau de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**.
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 CONTRE :
 
 1. [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), Société par Actions Simplifiée au capital de 1 000 €, immatriculée au RCS de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** sous le numéro SIRET [**[L'Identifiant de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-id.md), ayant son siège social au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**, prise en la personne de ses dirigeants, [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** ;
@@ -61,6 +64,7 @@ CONTRE :
 2. [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md), Président de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), demeurant [**[L'Adresse du Président]**](../../../../Memory/Tokens/token-exploitation-president-adresse.md), pris en sa qualité de dirigeant de droit et personnellement ;
 
 3. **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, Directrice Générale de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), prise en sa qualité de dirigeante de droit et personnellement.
+<!-- /Destinataire -->
 
 PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCIDENT](../../../../Memory/Tokens/token-accident-ville.md)**
 <hr><hr>

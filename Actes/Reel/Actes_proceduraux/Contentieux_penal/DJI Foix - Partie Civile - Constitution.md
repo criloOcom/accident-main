@@ -36,13 +36,17 @@ jx: J+38
 > 🔗 Source Google Drive : [1FNHNbCe5WUH…](https://drive.google.com/open?id=1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg)
 **Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants**
 
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 A l'attention de Monsieur le Doyen des Juges d'Instruction
 
 Tribunal Judiciaire de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
+<!-- /Destinataire -->
 
 [Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md), le **[6 juillet 2026](../../../../Memory/Tokens/token-j-38-constitution-pc.md)**
 ## I — INTRODUCTION

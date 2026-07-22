@@ -32,6 +32,7 @@ jx: J+47
 <hr>
 <!-- /Breadcrumb -->
 
+<!-- Auteur -->
 # PROCÈS-VERBAL D'AUDITION DE PLAINTE COMPLÉMENTAIRE
 # COMMISSARIAT DE POLICE DE **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
 
@@ -39,6 +40,7 @@ jx: J+47
 > Ministère de l'Intérieur
 > Direction Interdépartementale de la Police Nationale
 > Commissariat de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
+<!-- /Auteur -->
 
 **N° de PV :** 2026/015967-COMP (Suite de la procédure initiale n°2026/015967 établie le 02/06/2026 au Commissariat de **[Toulouse](../../../../Memory/Tokens/token-accident-metropole.md)**)
 **Date :** 15 juillet 2026

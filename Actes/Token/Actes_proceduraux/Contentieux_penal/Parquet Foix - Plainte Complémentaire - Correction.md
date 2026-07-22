@@ -21,13 +21,17 @@ reel_path: ../../../Reel/Actes_proceduraux/Contentieux_penal/Parquet Foix - Plai
 
 <hr><hr>
 
+<!-- Destinataire -->
 **À l'attention de Monsieur le Procureur de la République**
 **près le Tribunal judiciaire de [La Ville de l'Accident]**
 *(par l'intermédiaire du Commissariat de Police de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**)*
+<!-- /Destinataire -->
 
 **Fait à **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 17 juillet 2026**
 
+<!-- Auteur -->
 **Je soussigné, [La Victime]**, né le 18/01/1982 à **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)**, demeurant 10 avenue de Purpan, **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**, ai l'honneur de déposer la présente plainte complémentaire et d'apporter des précisions importantes concernant l'affaire de blessures involontaires dont je suis victime.
+<!-- /Auteur -->
 <hr><hr>
 
 ## Référence de la plainte initiale

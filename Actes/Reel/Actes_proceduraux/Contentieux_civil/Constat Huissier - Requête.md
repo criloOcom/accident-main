@@ -36,11 +36,15 @@ calendar_event_id: 9pkmrn8fadbta67drfub7dssec
 **À l'attention de :** Tel huissier de justice territorialement compétent
 ## I — IDENTIFICATION DES PARTIES
 
+<!-- Auteur -->
 **Requérant :**
 **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **Partie concernée :**
 **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
+<!-- /Destinataire -->
 <hr><hr>
 
 ## II — EXPOSÉ DES FAITS ET DE L'URGENCE EXTRÊME

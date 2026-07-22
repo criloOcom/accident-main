@@ -38,12 +38,15 @@ destinataire: Président du Tribunal Judiciaire de Foix
 
 <hr><hr>
 
+<!-- Auteur -->
 **DEMANDEUR**
 
 **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, né le [**[Date de naissance de la Victime]**](../../../../Memory/Tokens/token-victime-date-naissance.md), de nationalité française, demeurant au **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 *Ayant pour conseil Maître [À désigner — AJ totale en cours], avocat au Barreau de l'Ariège*
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **DÉFENDEURS**
 
 1. **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, SAS au capital de 200 €, immatriculée au RCS de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)** sous le n°**[104 103 262 00010](../../../../Memory/Tokens/token-exploitation-id.md)**, ayant son siège au **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**
@@ -53,6 +56,7 @@ destinataire: Président du Tribunal Judiciaire de Foix
 3. **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, prise en qualité de dirigeante et personnellement
 
 *Défendeurs non comparants*
+<!-- /Destinataire -->
 
 <hr><hr>
 

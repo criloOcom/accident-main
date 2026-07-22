@@ -16,8 +16,10 @@ auteur: Antoine
 # SIGNALEMENT AU PROCUREUR DE LA RÉPUBLIQUE
 ## I — (Article 40 du Code de procédure pénale)
 
+<!-- Destinataire -->
 **À L'ATTENTION DE MONSIEUR LE PROCUREUR DE LA RÉPUBLIQUE**
 **TRIBUNAL JUDICIAIRE DE [La Ville de l'Accident]**
+<!-- /Destinataire -->
 
 <hr><hr>
 

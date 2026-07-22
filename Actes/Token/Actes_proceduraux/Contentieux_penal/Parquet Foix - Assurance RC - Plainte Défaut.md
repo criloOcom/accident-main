@@ -28,6 +28,7 @@ jx: J+32
 > 🔗 Source Google Drive : [1TVN7SyAWgTL…](https://drive.google.com/open?id=1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc)
 Rédigé le **[J+32 Assignation référé](../../../../Memory/Tokens/token-j-32-assignation-refere.md)**
 
+<!-- Auteur -->
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**
@@ -35,7 +36,9 @@ Rédigé le **[J+32 Assignation référé](../../../../Memory/Tokens/token-j-32-
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
 **[L'Identifiant Professionnel de la Victime](../../../../Memory/Tokens/token-victime-id-professionnel.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 À l'attention de Monsieur le Procureur de la République
 
 Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
@@ -43,6 +46,7 @@ Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/toke
 **Adresse Tribunal Judiciaire**
 
 09008 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** Cedex
+<!-- /Destinataire -->
 
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le **[J+32 Assignation référé](../../../../Memory/Tokens/token-j-32-assignation-refere.md)**
 

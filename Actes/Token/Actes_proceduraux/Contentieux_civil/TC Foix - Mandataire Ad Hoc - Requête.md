@@ -19,6 +19,7 @@ auteur: Antoine
 
 **À L'ATTENTION DE MONSIEUR LE PRÉSIDENT DU TRIBUNAL DE COMMERCE DE FOIX**
 
+<!-- Auteur -->
 **POUR :**
 
 Monsieur **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**,
@@ -26,7 +27,9 @@ Né le [Date de naissance à compléter], de nationalité [Nationalité à compl
 Demeurant **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 Ayant pour Avocat : **[Nom de l'Avocat de la Victime](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **CONTRE :**
 
 La société [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), société par actions simplifiée,
@@ -34,6 +37,7 @@ Sise **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitatio
 Immatriculée sous le numéro [**[L'Identifiant de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-id.md),
 Prise en la personne de son Président, Monsieur [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md),
 Et de sa Directrice Générale, Madame **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**
+<!-- /Destinataire -->
 
 Monsieur le Président,
 

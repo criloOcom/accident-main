@@ -31,6 +31,7 @@ drive_id: 1estaaOWMphbrt5VXhy6MsTfHqBGIdj22
 > drive_url: https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view
 
 
+
 **DOSSIER DE PLAINTE PÉNALE HORS COMPARAISON**
 
 **Infraction visée :** Blessures involontaires par manquement délibéré à une obligation de sécurité et de prudence (Article 222-19 du Code pénal)

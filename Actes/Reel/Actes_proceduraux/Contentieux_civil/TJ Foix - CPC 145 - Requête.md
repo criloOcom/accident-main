@@ -34,13 +34,17 @@ jx: J+52
 
 # REQUÊTE<br>Communication d'assurances, conservation de vidéos et mesures d'instruction
 
+<!-- Auteur -->
 **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 **[06 30 51 67 75](../../../../Memory/Tokens/token-victime-telephone.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **A l'attention de Monsieur le Président du Tribunal Judiciaire de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)****
 Cabinet du Juge des Référés
+<!-- /Destinataire -->
 
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le 20 juillet 2026
 ## I — INTRODUCTION

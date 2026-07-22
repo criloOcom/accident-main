@@ -18,9 +18,12 @@ auteur: Sébastien GRAZIDE
 <!-- /Breadcrumb -->
 
 
+
 # Note de constatations<br>Visite des lieux du 16 juillet 2026
 
-Je soussigné, **Sébastien GRAZIDE**, né le 18/01/1982 à Toulouse, demeurant 10 avenue de Purpan, 31700 Blagnac, atteste ce qui suit.
+Je soussigné, **
+
+Sébastien GRAZIDE**, né le 18/01/1982 à Toulouse, demeurant 10 avenue de Purpan, 31700 Blagnac, atteste ce qui suit.
 
 <hr><hr>
 
@@ -76,4 +79,6 @@ Fait pour servir et valoir ce que de droit.
 
 Fait à Blagnac, le 16 juillet 2026
 
-**Sébastien GRAZIDE**
+**
+
+Sébastien GRAZIDE**

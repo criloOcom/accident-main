@@ -35,17 +35,21 @@ jx: J+39
 
 <hr><hr>
 
+<!-- Auteur -->
 **POUR :**
 
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, né le [**[Date de naissance de la Victime]**](../../../../Memory/Tokens/token-victime-date-naissance.md), de nationalité française, demeurant au **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**, exerçant la profession d'informaticien indépendant.
 
 *Demandeur*
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **CONTRE :**
 
 **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, Société par Actions Simplifiée, immatriculée au RCS de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** sous le numéro SIRET **[L'Identifiant de l'Exploitation](../../../../Memory/Tokens/token-exploitation-id.md)**, ayant son siège social au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**, représentée par ses co-dirigeants **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**.
 
 *Défenderesse*
+<!-- /Destinataire -->
 ## I — EXPOSÉ DU LITIGE
 ### I.1 — LE SINISTRE ET SES CONSÉQUENCES MATÉRIELLES
 

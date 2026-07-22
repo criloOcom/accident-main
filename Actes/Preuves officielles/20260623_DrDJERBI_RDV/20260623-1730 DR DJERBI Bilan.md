@@ -28,6 +28,7 @@ drive_id: 1Xaz3iA_-40WtHRkOe_db1NcO-tBxAENQ
 > drive_url: https://drive.google.com/file/d/1Xaz3iA_-40WtHRkOe_db1NcO-tBxAENQ/view
 
 
+
 --- Page 1 ---
 
 CENTRE DE CHIRURGIE (à nion rgences mains DE LA MAIN ET DU MEMBRE SUPERIEUR | Docteur 1skander DJERBI ? Cnirurgien de la main, de l'épaule et du institut Toulousain du ‘ FRARÉESETIEUE Membre Supérieur | Le, 23 juin 2026

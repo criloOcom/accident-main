@@ -31,6 +31,7 @@ drive_id: 1XtFxLG3IsVBtTlF4bN7YeWxB3KZAEqBn
 > drive_url: https://drive.google.com/file/d/1XtFxLG3IsVBtTlF4bN7YeWxB3KZAEqBn/view
 
 
+
 Je vous remercie de bien vouloir me faire retour de ces informations dans les meilleurs délais. Références à rappeler Mon numéro : 1 82 01 31 555 402 78 Mon nom : Sebastien GRAZIDE Accident du : 29/05/2026 Dossier N° : 2631103960 Dossier suivi par : Sigrid DESBOIS
 
 Je vous prie de croire, Monsieur, en l’assurance de ma considération distinguée. Monsieur Sebastien GRAZIDE
@@ -39,7 +40,9 @@ Votre correspondant,
 
 APPARTEMENT 6 10 AVE DE PURPAN
 
-Stéphanie OGERON-LAURENDEAU OBJECT : Envoi du formulaire complété et bordereau de pièces jointes — Dossier N° 2631103960 — M. Sébastien GRAZIDE
+Stéphanie OGERON-LAURENDEAU OBJECT : Envoi du formulaire complété et bordereau de pièces jointes — Dossier N° 2631103960 — M. 
+
+Sébastien GRAZIDE
 
 31700 BLAGNAC Madame,
 
@@ -77,7 +80,9 @@ Entrée & Sortie le 29/05/2026
 
 1. Continuité de la prise en charge et jalons médicaux : Afin de garantir la parfaite traçabilité des dépenses engagées devant être imputées à l'assureur adverse, je vous informe que la continuité de mon inaptitude totale est validée par mon médecin traitant via une prolongation d'arrêt de travail Cerfa jusqu'au 23 juin 2026 inclus. Mes prochains jalons thérapeutiques décisifs sont fixés au mardi 23 juin 2026 (première séance de rééducation spécifique de la main à la Clinique de l'Union) pour le contrôle post-opératoire avec mon chirurgien, le Dr Iskander Djerbi.
 
-L'ensemble de ces démarches vise à sceller l'historique complet de m es préjudices en vue de l'expertise médicale légale définitive planifiée le jeudi 12 novembre 2026 à 13h45 à l'UMJ de l'Hôpital de Purpan . Je vous remercie de consigner ces éléments ainsi que les pièces jointes ci-dessous au dossier de recours n° 2631103960.
+L'ensemble de ces démarches vise à sceller l'historique complet de m es préjudices en vue de l'expertise médicale légale définitive planifiée le jeudi 12 novembre 2026 à 13h45 à l'UMJ de l'Hôpital de Purpan . 
+
+Je vous remercie de consigner ces éléments ainsi que les pièces jointes ci-dessous au dossier de recours n° 2631103960.
 
 Entrée & Sortie le 30/05/2026
 
@@ -89,6 +94,8 @@ Veuillez agréer, l'expression de ma considération distinguée.
 
 3608
 
-Sébastien GRAZIDE --N° de Sécurité Sociale : 1 82 01 31 555 402 78 BORDEREAU DES PIÈCES JOINTES À 1. Le formulaire d'Assurance Maladie complété (ce document, avec ton tableau des hospitalisations). ATTACHER 2. Le Récépissé de Dépôt de Plainte (PV n° 2026/015967) pour matérialiser l'action pénale.
+Sébastien GRAZIDE --
+
+N° de Sécurité Sociale : 1 82 01 31 555 402 78 BORDEREAU DES PIÈCES JOINTES À 1. Le formulaire d'Assurance Maladie complété (ce document, avec ton tableau des hospitalisations). ATTACHER 2. Le Récépissé de Dépôt de Plainte (PV n° 2026/015967) pour matérialiser l'action pénale.
 
 3679 3. Le Compte-Rendu Opératoire de SOS Main / Clinique de l'Union établissant la chirurgie réparatrice.

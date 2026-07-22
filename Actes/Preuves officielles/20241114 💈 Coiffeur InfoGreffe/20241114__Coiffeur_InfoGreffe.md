@@ -13,4 +13,5 @@ date: 2024-11-14
 > Ce fichier est une copie textuelle de la pièce officielle originale.
 
 
+
 2026/05/29 (j+00) 💈 Services Coiffeur “Opération Wero”HistoriqueConsultez ici vos opérations Wero finalisée au cours des 90 derniers jours.29 MAIPaiement reçu de :-15,00 €Ayoub BENNOURINEPaiement envoyé de :+15,00 €Ayoub BENNOURINE

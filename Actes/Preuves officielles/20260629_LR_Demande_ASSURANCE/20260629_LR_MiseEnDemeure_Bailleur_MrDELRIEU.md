@@ -30,6 +30,7 @@ drive_id: 114JeqDjs9-0PRC_PHQrBxH1CZ3PoZgIv
 > drive_url: https://drive.google.com/file/d/114JeqDjs9-0PRC_PHQrBxH1CZ3PoZgIv/view
 
 
+
 Sébastien GRAZIDE​ 10 Avenue de Purpan​ 31700 Blagnac​ sebastien.grazide@gmail.com
 
 Monsieur Romain DELRIEU​ 17 Rue de la Baïse​ 31120 ROQUETTES
@@ -44,12 +45,16 @@ Je me permets de prendre contact avec vous en votre qualité de propriétaire ba
 
 afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la SAS LES MAUVAIS GARCONS. En tant que propriétaire bailleur, vous disposez d'un exemplaire du bail commercial liant votre propriété à la SAS LES MAUVAIS GARCONS, lequel impose réglementairement à l'exploitant de justifier chaque année de sa couverture d'assurance de responsabilité civile en cours de validité (attestation d'assurance obligatoire). Afin d'éviter toute mise en cause indirecte ou toute procédure de référé d'heure à heure visant à la production forcée de ces pièces, je vous demande de bien vouloir me transmettre par retour de courrier ou par courriel les coordonnées de l'assureur de la SAS LES MAUVAIS GARCONS, telles qu'elles figurent dans vos dossiers et annexes de gestion du bail commercial. Mes coordonnées pour réponse : 10 Avenue de Purpan, 31700 Blagnac / Courriel : sebastien.grazide@gmail.com
 
-Cette démarche amiable vise exclusivement à orienter notre recours directement vers l'assureur légitime et à préserver les droits de la victime (y compris les réserves d'aggravation future, arrêt Civ. 2e, 8 juillet 2021 (n° 20-15.106)). Je vous remercie d'avance pour votre diligence et votre coopération indispensable dans ce dossier. Dans l'attente de votre retour rapide,
+Cette démarche amiable vise exclusivement à orienter notre recours directement vers l'assureur légitime et à préserver les droits de la victime (y compris les réserves d'aggravation future, arrêt Civ. 2e, 8 juillet 2021 (n° 20-15.106)). 
+
+Je vous remercie d'avance pour votre diligence et votre coopération indispensable dans ce dossier. Dans l'attente de votre retour rapide,
 
 Transparence sur la suite donnée au dossier La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet : 1. D'obtenir les informations nécessaires à l'identification de l'assureur de responsabilité civile ; 2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat (article L. 113-2, 4° du Code des assurances), lequel devra répondre dans un délai raisonnable ; 3. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable. À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de Foix — d'abord en référé sur le fondement de l'article 145 du Code de procédure civile pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices. L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
 
 2
 
-Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées. Sébastien GRAZIDE NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 55 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement de la présente mise en demeure.
+Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées. 
+
+Sébastien GRAZIDE NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en arrêt de travail (ITT médicale de 55 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement de la présente mise en demeure.
 
 3

@@ -19,6 +19,7 @@ auteur: Antoine
 
 **À L'ATTENTION DE MONSIEUR LE PRÉSIDENT DU TRIBUNAL DE COMMERCE DE FOIX**
 
+<!-- Auteur -->
 **POUR :**
 
 Monsieur **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**,
@@ -26,7 +27,9 @@ Né le [Date de naissance à compléter], de nationalité [Nationalité à compl
 Demeurant **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 Ayant pour Avocat : **[Nom Prénom de l'Avocat](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **CONTRE :**
 
 La société [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), société par actions simplifiée,
@@ -34,6 +37,7 @@ Sise **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitatio
 Immatriculée sous le numéro [104 103 262 00010](../../../../Memory/Tokens/token-exploitation-id.md),
 Prise en la personne de son Président, Monsieur [Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md),
 Et de sa Directrice Générale, Madame **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**
+<!-- /Destinataire -->
 
 Monsieur le Président,
 

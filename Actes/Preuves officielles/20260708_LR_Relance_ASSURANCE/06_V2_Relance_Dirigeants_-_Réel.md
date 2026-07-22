@@ -10,11 +10,14 @@ date: "2026-07-20"
 <!-- /Breadcrumb -->
 
 
+
 statut: preuve
 
 # RELANCE<br>DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE
 
-Mr Sébastien GRAZIDE 10 Avenue de Purpan, 31700 Blagnac [sebastien.grazide@gmail.com](mailto:sebastien.grazide@gmail.com)
+Mr 
+
+Sébastien GRAZIDE 10 Avenue de Purpan, 31700 Blagnac [sebastien.grazide@gmail.com](mailto:sebastien.grazide@gmail.com)
 
 SAS LES MAUVAIS GARCONS, Sabir MOUNTASSER & Catherine ANDISSAC 22 Rue Lafaurie, 09000 Foix
 
@@ -24,11 +27,15 @@ Foix, le 8 juillet 2026
 
 Objet : Relance — Demande d'information assurance RC et communication d'une adresse de correspondance — Accident 29 mai 2026
 
-Réf : Dossier Sébastien GRAZIDE / SAS LES MAUVAIS GARCONS
+Réf : Dossier 
+
+Sébastien GRAZIDE / SAS LES MAUVAIS GARCONS
 
 ---
 
-Madame la Directrice Générale, Monsieur le Président,
+Madame la Directrice Générale, 
+
+Monsieur le Président,
 
 ## **PRÉAMBULE — ABSENCE DE RÉPONSE ET DISSIPATION DES PREUVES**
 
@@ -84,7 +91,11 @@ Face aux difficultés de distribution postale à votre siège social, je vous de
 
 1. Faire signifier mes actes officiels par la voie d'un **Commissaire de Justice (ex-huissier)** à vos frais, ce qui figerait votre refus de coopérer devant les tribunaux ; 2. Saisir le juge des référés du tribunal judiciaire de Foix par voie de **requête** (non contradictoire, afin de préserver l'effet de surprise) sur le fondement de l'article 145 du Code de procédure civile, pour ordonner sous astreinte la communication des documents ; 3. Solliciter devant ce juge votre condamnation solidaire au remboursement intégral de l'ensemble de mes frais d'avocat et de procédure sur le fondement de l'article 700 du Code de procédure civile.
 
-Dans l'attente d'un échange constructif, je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président, l'expression de mes salutations distinguées.
+Dans l'attente d'un échange constructif, je vous prie d'agréer, 
+
+Madame la Directrice Générale, 
+
+Monsieur le Président, l'expression de mes salutations distinguées.
 
 Sébastien GRAZIDE
 

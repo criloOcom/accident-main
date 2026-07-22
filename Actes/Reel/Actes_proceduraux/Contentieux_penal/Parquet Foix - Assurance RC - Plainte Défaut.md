@@ -28,6 +28,7 @@ jx: J+32
 > 🔗 Source Google Drive : [1TVN7SyAWgTL…](https://drive.google.com/open?id=1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc)
 Rédigé le **[30 juin 2026](../../../../Memory/Tokens/token-j-32-assignation-refere.md)**
 
+<!-- Auteur -->
 **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**
@@ -35,7 +36,9 @@ Rédigé le **[30 juin 2026](../../../../Memory/Tokens/token-j-32-assignation-re
 **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
 **[500 474 457](../../../../Memory/Tokens/token-victime-id-professionnel.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 À l'attention de Monsieur le Procureur de la République
 
 Tribunal Judiciaire de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
@@ -43,6 +46,7 @@ Tribunal Judiciaire de **[Foix](../../../../Memory/Tokens/token-accident-ville.m
 **Adresse Tribunal Judiciaire**
 
 09008 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)** Cedex
+<!-- /Destinataire -->
 
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le **[30 juin 2026](../../../../Memory/Tokens/token-j-32-assignation-refere.md)**
 

@@ -36,13 +36,17 @@ jx: J+38
 > 🔗 Source Google Drive : [1FNHNbCe5WUH…](https://drive.google.com/open?id=1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg)
 **Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants**
 
+<!-- Auteur -->
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 A l'attention de Monsieur le Doyen des Juges d'Instruction
 
 Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
+<!-- /Destinataire -->
 
 [**[La Ville de Residence de la Victime]**](../../../../Memory/Tokens/token-victime-ville-residence.md), le **[J+38 Constitution PC](../../../../Memory/Tokens/token-j-38-constitution-pc.md)**
 ## I — INTRODUCTION

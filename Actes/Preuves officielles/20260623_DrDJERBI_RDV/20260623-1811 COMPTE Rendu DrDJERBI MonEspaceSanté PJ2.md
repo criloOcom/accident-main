@@ -29,6 +29,7 @@ drive_id: 1HaQVZh_Dsj2sbebvp6zHnps_6q791duR
 > drive_url: https://drive.google.com/file/d/1HaQVZh_Dsj2sbebvp6zHnps_6q791duR/view
 
 
+
 Date de naissance : 18/01/1982﻿
 
 Le, 31 mai 2026

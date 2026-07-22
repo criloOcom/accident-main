@@ -50,10 +50,13 @@ Tribunal Judiciaire de **[Foix](../../../../Memory/Tokens/token-accident-ville.m
 
 <hr><hr>
 
+<!-- Auteur -->
 POUR :
 
 **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, né le [**[Date de naissance de la Victime]**](../../../../Memory/Tokens/token-victime-date-naissance.md), de nationalité française, demeurant au **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**, exerçant la profession d'informaticien indépendant, ayant pour avocat constitué **[Nom Prénom de l'Avocat](../../../../Memory/Tokens/token-victime-avocat-nom.md)**, avocat au barreau de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**.
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 CONTRE :
 
 1. [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), Société par Actions Simplifiée au capital de 1 000 €, immatriculée au RCS de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)** sous le numéro SIRET [104 103 262 00010](../../../../Memory/Tokens/token-exploitation-id.md), ayant son siège social au **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**, prise en la personne de ses dirigeants, [Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md) et **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** ;
@@ -61,6 +64,7 @@ CONTRE :
 2. [Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md), Président de [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), demeurant [115 avenue Fernand Loubet, 09200 Saint-Girons](../../../../Memory/Tokens/token-exploitation-president-adresse.md), pris en sa qualité de dirigeant de droit et personnellement ;
 
 3. **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, Directrice Générale de [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), prise en sa qualité de dirigeante de droit et personnellement.
+<!-- /Destinataire -->
 
 PLAISE AU MONSIEUR LE PRÉSIDENT DU TRIBUNAL JUDICIAIRE DE **[LA VILLE DE L'ACCIDENT](../../../../Memory/Tokens/token-accident-ville.md)**
 <hr><hr>

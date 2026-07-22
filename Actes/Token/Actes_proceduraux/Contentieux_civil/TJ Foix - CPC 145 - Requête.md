@@ -34,13 +34,17 @@ jx: J+52
 
 # REQUÊTE<br>Communication d'assurances, conservation de vidéos et mesures d'instruction
 
+<!-- Auteur -->
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
 **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 **[Le Téléphone de la Victime](../../../../Memory/Tokens/token-victime-telephone.md)**
+<!-- /Auteur -->
 
+<!-- Destinataire -->
 **A l'attention de Monsieur le Président du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)****
 Cabinet du Juge des Référés
+<!-- /Destinataire -->
 
 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le 20 juillet 2026
 ## I — INTRODUCTION

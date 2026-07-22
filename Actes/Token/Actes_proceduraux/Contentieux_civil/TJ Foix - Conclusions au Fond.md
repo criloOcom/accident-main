@@ -31,6 +31,7 @@ jx: J+368
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # CONCLUSIONS AU FOND
+<!-- Auteur -->
 ## I — POUR :
 
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
@@ -39,8 +40,10 @@ Née le [**[Date de Naissance de la Victime]**](../../../../Memory/Tokens/token-
 Ayant droit à l'aide juridictionnelle
 
 **Partie demanderesse**
+<!-- /Auteur -->
 <hr><hr>
 
+<!-- Destinataire -->
 ## II — CONTRE :
 
 **SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)****
@@ -49,6 +52,7 @@ SIRET : [**[SIRET]**](../../../../Memory/STRICT%20VARIABLES.md%23siret)
 Assureur RC : [**[L'Assureur RC]**](../../../../Memory/Tokens/token-assureur-rc.md)
 
 **Partie défenderesse**
+<!-- /Destinataire -->
 <hr><hr>
 
 ## III — FAITS
