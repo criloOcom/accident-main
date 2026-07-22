@@ -9,7 +9,6 @@ type: organisation
 <!-- /Breadcrumb -->
 
 # Kit Complet — Déplacement Foix 27/07/2026
-<hr><hr>
 ## A. CHECKLIST IMPRESSION
 
 | Document | Pages | Impression | Recto-verso | Coche |
@@ -21,7 +20,6 @@ type: organisation
 | Fiche INPI/INSEE HB BARBER | 2 | Couleur | Non | [ ] |
 <hr><hr>
 
-<hr><hr>
 ## B. BORDEREAU DE TRANSPORT
 
 1. Dossier Demande AJ Totale (Formulaire + justificatifs de revenus).
@@ -35,7 +33,6 @@ type: organisation
 5. Pièce d'identité et justificatif de domicile.
 <hr><hr>
 
-<hr><hr>
 ## C. FEUILLE DE ROUTE HORAIRE
 
 - **09h00** : TJ Foix — Greffe Civil (14 Bd François Mitterrand). Dépôt Requête 145 CPC. Temps estimé : 30 min.
@@ -45,7 +42,6 @@ type: organisation
 - **14h30** : Commissariat Foix (2 Rue du Capitaine Ferber). Plainte complémentaire et remise fiche INPI. Temps estimé : 1h.
 <hr><hr>
 
-<hr><hr>
 ## D. INSTRUCTIONS PAR ÉTAPE
 
 ### TJ Foix - BAJ
@@ -67,7 +63,6 @@ type: organisation
 - **Actions** : Remettre les 2 exemplaires et demander un récépissé.
 <hr><hr>
 
-<hr><hr>
 ## E. MINI FAQ ORALE
 
 ### BAJ
@@ -97,7 +92,6 @@ type: organisation
 - **R** : J'ai déposé une demande d'AJ totale pour qu'un avocat me soit désigné. En attendant, je dépose cette requête moi-même.
 <hr><hr>
 
-<hr><hr>
 ## F. NUMÉROS UTILES
 
 - **TJ Foix** : 05 61 02 30 30

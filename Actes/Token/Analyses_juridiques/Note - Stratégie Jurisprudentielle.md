@@ -20,7 +20,6 @@ source: local
 # STRATÉGIE JURISPRUDENTIELLE<br>BASCULEMENT VASQUE SALON DE COIFFURE
 
 > **Objet** : Mapping des arrêts de la Cour de cassation au cas concret, hiérarchie argumentative et préparation des débats.
-<hr><hr>
 ## I — LES 3 PILIERS DE LA DÉMONSTRATION
 ### I.1 — PILIER 1 — LA CHOSE A ÉTÉ L'INSTRUMENT DU DOMMAGE (ART. 1242 AL.1)
 
@@ -45,6 +44,7 @@ source: local
 | Le préposé n'a pas commis de faute intentionnelle | Il bénéficie de l'immunité civile Costedoat | **Ass. Plén., 25 fév. 2000, n° 97-17.378** (Costedoat) |
 | La faute du préposé est une maladresse non intentionnelle | L'employeur assume seul la réparation | **Ass. Plén., 14 déc. 2001, n° 00-82.066** (Cousin) : seule une infraction pénale intentionnelle fait perdre l'immunité |
 <hr><hr>
+
 ## II — HIÉRARCHIE ARGUMENTATIVE (ORDRE DE PLAIDOIRIE)
 ### II.1 — ARGUMENTS OFFENSIFS (À METTRE EN AVANT)
 
@@ -62,6 +62,7 @@ source: local
 
 6. **70-12.124** : Baignoire exposée à la vente sans obligation de scellement → notre vasque était installée à demeure sur coque de douche.
 <hr><hr>
+
 ## III — TABLEAU DE CORRESPONDANCE ARRÊT → FAIT CONCRET
 
 | Arrêt | Fait de l'arrêt | Transposition à notre cas | Utilité |
@@ -75,6 +76,7 @@ source: local
 | 14 juin 1957 (n° pourvoi non retrouvé) | Responsabilité du commettant du fait du préposé | Le préposé escalade la vasque dans le cadre de son service → employeur responsable | **Pilier 3** |
 | 11 janv. 1995 | Chose inerte : preuve position anormale ou mauvais état | Notre preuve (cassure + basculement) distingue ce cas défavorable | **Distinction défensive** |
 <hr><hr>
+
 ## IV — ANTICIPATION DES MOYENS DE LA DÉFENSE
 
 | Moyen attendu | Réponse |
@@ -85,6 +87,7 @@ source: local
 | « La vasque n'a pas eu de rôle actif » | Le PV établit le basculement et la chute = mouvement actif, pas inerte |
 | « L'échelle/escabeau manquant est une faute du préposé seul » | C'est une faute de service dont le commettant répond (art. 1242 al.5) + défaut d'équipement de l'employeur (L.4121-1 CT) |
 <hr><hr>
+
 ## V — SYNTHÈSE DES FORCES ET FAIBLESSES
 
 **Forces** :
@@ -103,6 +106,7 @@ source: local
 
 - Risque que le juge retienne une faute de la victime (position dangereuse volontaire)
 <hr><hr>
+
 ## VI — STRATÉGIE FINANCIÈRE ET RECOUVREMENT
 ### VI.1 — MONTANT ESTIMÉ : ~105 000 €
 
@@ -146,6 +150,7 @@ Voir détails : [Note - Évaluation Dintilhac Consolidée.md](../Etudes_indemnis
 
 Fondement : art. 835 al.2 CPC — obligation non sérieusement contestable.
 <hr><hr>
+
 ## VII — RÉFÉRENCES CROISÉES
 
 - Fiches jurisprudence : [70-12.124](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/70-12.124_CourCassation.md), [74-10.466](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/74-10.466_CourCassation.md), [89-18.422](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md), [91-13.580](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/91-13.580_CourCassation.md), [91-15.035](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/91-15.035_CourCassation.md), [24-21.702](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/24-21.702_CourCassation.md)

@@ -37,18 +37,11 @@ type: readme
 > 📌 Le rapport d'expertise médicale du **12 novembre 2026** permettra d'actualiser ces chiffres avec les séquelles définitives.
 -
 
-- `13 Note strategique FGTI CIVI.md`
-
 - [11+12 📊 Evaluation Dintilhac consolidee](Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md)
 
 - [13 Note strategique FGTI CIVI](Note%20-%20Strat%C3%A9gique%20FGTI%20CIVI.md)
 
-- [Note - Évaluation Dintilhac Consolidée](Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md)
-
-- [Note - Stratégique FGTI CIVI](Note%20-%20Strat%C3%A9gique%20FGTI%20CIVI.md)
-
 - [Protocole - Transactionnel Dintilhac 13-07-2026](Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md)
-
 - [Note - Dossier CIVI Filet Sécurité](Note%20-%20Dossier%20CIVI%20Filet%20Sécurité.md)
 
 - [Note - Tableau Dintilhac Comparatif Définitif](Note%20-%20Tableau%20Dintilhac%20Comparatif%20Définitif.md)

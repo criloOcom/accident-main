@@ -18,7 +18,6 @@ destinataire: Avocat de la Victime
 # MÉMO D'AUDIENCE<br>Audience de Référé-Provision du 31 juillet 2026
 
 > **🔴 Version révisée 18/07/2026** — Correction exploitant : voir [erratum formel](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md)
-<hr><hr>
 ## 1 — LOGISTIQUE JOUR J
 
 ### 1.1 — Horaires et lieu
@@ -69,7 +68,6 @@ destinataire: Avocat de la Victime
 - [ ] Bouteille d'eau
 <hr><hr>
 
-<hr><hr>
 ## 2 — STATUT PROCÉDURAL AU 31 JUILLET
 
 | Procédure | Statut |
@@ -89,7 +87,6 @@ destinataire: Avocat de la Victime
 - **Si aucun avocat présent :** Le juge peut rendre une ordonnance de référé sur dossier ou renvoyer.
 <hr><hr>
 
-<hr><hr>
 ## 3 — ARGUMENTAIRE DE PLAIDOIRIE (3 minutes)
 
 ### 3.1 — Rappel des faits (30 s)
@@ -146,7 +143,6 @@ La victime n'est pas consolidée. L'état séquellaire actuel (douleurs neuropat
 - **AJ :** Déposée — en cours de traitement
 <hr><hr>
 
-<hr><hr>
 ## 4 — QUESTIONS ANTICIPÉES DU JUGE
 
 | Question | Réponse |
@@ -158,7 +154,6 @@ La victime n'est pas consolidée. L'état séquellaire actuel (douleurs neuropat
 | *Quel est le préjudice professionnel ?* | Informaticien — main droite sectionnée. Arrêt complet depuis 55 jours. IP estimée à 28 000 €. |
 <hr><hr>
 
-<hr><hr>
 ## 5 — CONTACTS UTILES
 
 | Contact | Coordonnées |

@@ -32,8 +32,6 @@ Rédigé le [**[J+32 Assignation référé]**](../../../Memory/Tokens/token-j-32
 <hr><hr>
 
 *Document consolidé issu de la fusion de l'Étude d'indemnisation maximale (Doc. 11) et de l'Évaluation financière Dintilhac détaillée (Doc. 12), incluant l'analyse comparative Glose et la troisième analyse critique.*
-<hr><hr>
-
 ## TABLE DES MATIÈRES
 
 - [1. INTRODUCTION ET PRINCIPES GÉNÉRAUX](%231-introduction-et-principes-g%C3%A9n%C3%A9raux)
@@ -67,17 +65,18 @@ Rédigé le [**[J+32 Assignation référé]**](../../../Memory/Tokens/token-j-32
 - [4. STRATÉGIE DE RECOUVREMENT](%234-strat%C3%A9gie-de-recouvrement)
 
 - [5. DEMANDE DE PROVISION EN RÉFÉRÉ](%235-demande-de-provision-en-r%C3%A9f%C3%A9r%C3%A9)
-
 <hr><hr>
 
 ## 1. INTRODUCTION ET PRINCIPES GÉNÉRAUX
 <hr><hr>
+
 ## I — I.1 — FAITS DU SINISTRE
 
 La présente évaluation a pour objet d'évaluer l'intégralité des préjudices corporels subis par [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) à la suite de l'accident du [**[J+0 Accident]**](../../../Memory/Tokens/token-j-0-accident.md) — au cours duquel, alors que l'employé [**[Le Préposé de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../Memory/Tokens/token-exploitation-prepose-telephone.md) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
 [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) est travailleur indépendant inscrit sous le numéro [**[L'Identifiant Professionnel de la Victime]**](../../../Memory/Tokens/token-victime-id-professionnel.md), exerçant la profession d'informaticien droitier. Les déclarations URSSAF attestent de recettes mensuelles de 750 €, soit un chiffre d'affaires annuel de 9 000 € net.
 <hr><hr>
+
 ## II — I.2 — PRINCIPE DE LA RÉPARATION INTÉGRALE
 
 Le droit français de la responsabilité civile consacre le principe de la réparation intégrale sans perte ni profit pour la victime, conformément à l'article 1240 du Code civil :
@@ -90,6 +89,7 @@ Ce principe exige que la victime soit replacée dans la situation exacte où ell
 
 *[Note Pédagogique : La Nomenclature Dintilhac n'est pas une loi contraignante mais un catalogue exhaustif des types de préjudices corporels (pertes de gains, souffrances, préjudice esthétique, etc.) garantissant qu'aucun impact de l'accident ne soit omis lors de l'indemnisation. Elle est utilisée par les cours françaises comme outil de référence harmonisé.]*
 <hr><hr>
+
 ## III — I.3 — CONSTAT DE SOUS-ÉVALUATION
 
 L'évaluation initiale du dossier s'établissait à [**[Finance Evaluation Initiale]**](../../../Memory/Tokens/token-finance-evaluation-initiale.md). Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**, pour cinq raisons principales :
@@ -105,11 +105,11 @@ L'évaluation initiale du dossier s'établissait à [**[Finance Evaluation Initi
 5. **DFP à 2 100 €/point** en bas de fourchette (Mornet : 2 140-3 070 €/point pour 11-20%)
 
 L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette complète : 82 500 - 150 000 €), selon le compromis retenu entre les trois analyses (optimiste, Glose conservative, critique Glose).
-
 <hr><hr>
 
 ## 2. SYNTHÈSE DES ÉVALUATIONS
 <hr><hr>
+
 ## IV — II.1 — TABLEAU COMPARATIF GLOBAL (3 ANALYSES)
 
 | Poste | Notre estimation (optimiste) | Glose (conservatif) | Critique Glose | **Compromis final retenu** |
@@ -127,6 +127,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 | Article 700 CPC | 4 000 € | 2 250 € | 1 500-3 000 € | **3 000 €** |
 | **TOTAL** | **~109 500 €** | **~45 000 €** | **55 000-107 000 €** | **~92 000 €** |
 <hr><hr>
+
 ## V — II.2 — FOURCHETTES D'INDEMNISATION PAR POSTE
 
 | Poste | Fourchette basse | Fourchette haute | Médiane retenue |
@@ -143,11 +144,11 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 | Frais divers | 1 500 € | 5 000 € | 3 000 € |
 | Article 700 CPC | 1 500 € | 5 000 € | 3 000 € |
 | **TOTAL** | **~82 500 €** | **~150 000 €** | **~90 780 €** |
-
 <hr><hr>
 
 ## 3. ANALYSE POSTE PAR POSTE
 <hr><hr>
+
 ## VI — III.1 — PGPA — Pertes de Gains Professionnels Actuels
 
 *[Note Pédagogique : La PGPA indemnise la perte de revenus durant l'incapacité temporaire totale (ITT), c'est-à-dire la période entre l'accident et la consolidation médicale. Pour un travailleur indépendant, le calcul se fonde sur le chiffre d'affaires réel déclaré.]*
@@ -176,6 +177,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 > [Arrêt](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000212717](../../../Lois/Jurisprudence/JURITEXT0000212717.md)86) <br>
 > **Cour de cassation, 2e chambre civile, 10 novembre 2009, n° 08-17.959[^2]**
 <hr><hr>
+
 ## VII — III.2 — DFT — Déficit Fonctionnel Temporaire
 
 *[Note Pédagogique : Le DFT indemnise la perte de qualité de vie pendant la période traumatique (accident → consolidation). C'est un poste distinct de la PGPA qui ne répare que la perte de revenus. Le DFT couvre la gêne quotidienne, les douleurs, l'incapacité d'accomplir les actes de la vie courante.]*
@@ -188,6 +190,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 **Source :** Référentiel Mornet 2024, fourchette DFT : 26-30 €/jour
 <hr><hr>
+
 ## VIII — III.3 — DFP — Déficit Fonctionnel Permanent
 
 > Note : Le DFP indemnise l'atteinte aux fonctions physiologiques après consolidation. Il est évalué en pourcentage d'incapacité permanente, multiplié par la valeur du point (selon le barème Mornet, qui varie selon l'âge de la victime). Le taux sera déterminé par l'expertise UMJ du 12 novembre 2026.]*
@@ -217,6 +220,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 > [Arrêt](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000391228](../../../Lois/Jurisprudence/JURITEXT0000391228.md)27) <br>
 > **Cour de cassation, 2e chambre civile, 12 septembre 2019, n° 18-13.791[^3]**
 <hr><hr>
+
 ## IX — III.4 — SE — Souffrances Endurées
 
 > Note : Pédagogique : Les Souffrances Endurées évaluent la douleur physique et morale ressentie par la victime entre l'accident et la consolidation. Elles sont cotées de 0 à 7 sur une échelle subjective, et le référentiel Mornet 2024 propose des fourchettes d'indemnisation correspondant à chaque niveau.]*
@@ -251,6 +255,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 
 - JMP Avocat, référentiel Mornet 2026 : 4/7 = 20 000 à 35 000 €
 <hr><hr>
+
 ## X — III.5 — IP — Incidence Professionnelle
 
 > Note : Pédagogique : L'Incidence Professionnelle est un poste distinct des pertes de gains professionnels futurs. Elle indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. La méthode BIBAL consiste à capitaliser sur la durée de vie professionnelle restante.]*
@@ -297,6 +302,7 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 > [Arrêt](https://www.legifrance.gouv.fr/ceta/id/CETATEXT000049375170) <br>
 > **Cour administrative d'appel de Lyon, 4 avril 2024[^6]**
 <hr><hr>
+
 ## XI — III.6 — Préjudice d'Agrément
 
 > Note : Pédagogique : Le préjudice d'Agrément indemnise la perte ou la diminution des plaisirs et occupations de la victime (loisirs, activités sportives, culturelles, personnelles). La jurisprudence exige seulement une limitation de la pratique, pas une impossibilité totale.]*
@@ -330,6 +336,7 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 > [Arrêt](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000441057](../../../Lois/Jurisprudence/JURITEXT0000441057.md)39) <br>
 > **Cour de cassation, 1re chambre civile, 26 juin 2024, n° 23-15.345[^9]**
 <hr><hr>
+
 ## XII — III.7 — PEP — Préjudice Esthétique Permanent
 
 > Note : Pédagogique : Le PEP indemnise le préjudice d'ordre esthétique permanent (cicatrice, difformité visible). Il est évalué selon un barème de 0 à 7, avec des fourchettes correspondantes dans le référentiel Mornet.]*
@@ -340,6 +347,7 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 
 Ce poste avait été omis dans le dossier initial.
 <hr><hr>
+
 ## XIII — III.8 — DEP — Dévalorisation Professionnelle Future
 
 > Note : Pédagogique : Le DEP est un poste distinct de l'Incidence Professionnelle. Il indemnise la perte de valeur sur le marché du travail due aux séquelles visibles ou handicapantes, distincte de l'IP qui couvre l'incidence professionnelle stricto sensu (perte de clientèle, pénibilité accrue).]*
@@ -350,6 +358,7 @@ Ce poste avait été omis dans le dossier initial.
 
 **Proposition : 3 000 €** (prudent, en attendant expertise)
 <hr><hr>
+
 ## XIV — III.9 — ATP — Assistance par Tierce Personne
 
 > Le poste ATP (Assistance par Tierce Personne) indemnise le besoin d'aide humaine temporaire ou permanente pour accomplir les actes de la vie courante que la victime ne peut plus réaliser seule du fait de ses séquelles.
@@ -369,12 +378,14 @@ Ce poste avait été omis dans le dossier initial.
 
 **Compromis retenu : 2 000 €**
 <hr><hr>
+
 ## XV — III.10 — Frais Divers
 
 **Proposition : 3 000 €** (kinésithérapie 3×/semaine, déplacements, frais dossier, contre-expertise éventuelle)
 
 **Analyse :** Notre estimation initiale (2 000 €) était basse. Glose propose 3 500 € (fourchette 2 000-5 000 €). La critique Glose valide 3 000-5 000 €.
 <hr><hr>
+
 ## XVI — III.11 — Article 700 CPC
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens. »* <br>
@@ -384,11 +395,11 @@ Ce poste avait été omis dans le dossier initial.
 **Proposition : 3 000 €** (complexité du dossier : expertise, recherches assurance, procédure CIVI)
 
 **Analyse des écarts :** Notre estimation initiale (4 000 €) était haute. Glose propose 2 250 € (fourchette 1 500-3 000 €). Compromis à 3 000 €.
-
 <hr><hr>
 
 ## 4. STRATÉGIE DE RECOUVREMENT
 <hr><hr>
+
 ## XVII — IV.1 — ACTION DIRECTE ASSUREUR
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
@@ -420,6 +431,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000518693](../../../Lois/Code/LEGIARTI0000518693.md)39) <br>
 > **Code de procédure civile > Livre Ier : Dispositions communes à toutes les juridictions > Titre VII : L'administration judiciaire de la preuve > Sous-titre II : Les mesures d'instruction > Chapitre Ier : Dispositions générales > Section I : Décisions ordonnant des mesures d'instruction.[^14]**
 <hr><hr>
+
 ## XVIII — IV.2 — RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS
 
 **Fondement :** Faute détachable des fonctions.
@@ -441,6 +453,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Appréciation :** Voie subsidiaire. La faute détachable est difficile à caractériser.
 <hr><hr>
+
 ## XIX — IV.3 — FGTI / CIVI — VOIE PRINCIPALE
 
 **Fondement :** Art. 706-3 du Code de procédure pénale.
@@ -481,6 +494,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 **Avantage décisif :** Le FGTI verse l'indemnisation même si la SAS est insolvable, puis exerce son recours subrogatoire contre les responsables.
 <hr><hr>
+
 ## XX — IV.4 — [CONSTITUTION DE PARTIE CIVILE](../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (VOIE PÉNALE)
 
 **Avantages :**
@@ -494,11 +508,13 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 - Permet d'activer le SARVI
 <hr><hr>
+
 ## XXI — IV.5 — SARVI (SERVICE D'AIDE AU RECOUVREMENT)
 
 **Condition :** Décision pénale définitive accordant des dommages-intérêts.
 **Effet :** Verse 100 % jusqu'à 1 000 €, 30 % au-delà (max 3 000 €).
 <hr><hr>
+
 ## XXII — IV.6 — PROCÉDURE COLLECTIVE (SI LIQUIDATION SAS)
 
 - Déclaration de créance dans les 2 mois de la publication BODACC ([art. L.622-24 C. com.](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000532815](../../../Lois/Code/LEGIARTI0000532815.md)73)[^19])
@@ -511,6 +527,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 - Intérêt : constater l'insolvabilité → facilite accès CIVI
 <hr><hr>
+
 ## XXIII — IV.7 — ORDRE DES ACTIONS RECOMMANDÉ
 
 ### XXIII.1 — Phase 1 — Urgence (été 2026)
@@ -552,11 +569,11 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 14. Le FGTI exerce recours subrogatoire
 
 15. Le SARVI intervient si condamnation pénale non exécutée
-
 <hr><hr>
 
 ## 5. DEMANDE DE PROVISION EN RÉFÉRÉ
 <hr><hr>
+
 ## XXIV — V.1 — SYNTHÈSE DU COMPROMIS
 
 Trois évaluations convergent vers une provision minimale de **10 000 à 15 000 €** en référé :
@@ -569,6 +586,7 @@ Trois évaluations convergent vers une provision minimale de **10 000 à 15 000 
 
 **Compromis retenu : Demander 15 000 € en provision (dont 3 000 € art. 700)**
 <hr><hr>
+
 ## XXV — V.2 — JUSTIFICATION DE L'URGENCE
 
 - **Capital de la SAS :** 200 € seulement
@@ -579,12 +597,14 @@ Trois évaluations convergent vers une provision minimale de **10 000 à 15 000 
 
 - **Rééducation en cours** — frais médicaux non remboursés
 <hr><hr>
+
 ## XXVI — V.3 — FONDEMENTS JURIDIQUES
 
 > *« Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »* <br>
 > [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000494182](../../../Lois/Jurisprudence/JURITEXT0000494182.md)78) <br>
 > **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307[^20]**
 <hr><hr>
+
 ## XXVII — V.4 — RECOMMANDATION FINALE
 
 La provision de [**[Finance Provision Référé]**](../../../Memory/Tokens/token-finance-provision-refere.md) est justifiée par :
@@ -599,13 +619,13 @@ La provision de [**[Finance Provision Référé]**](../../../Memory/Tokens/token
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
 > [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000320415](../../../Lois/Code/LEGIARTI0000320415.md)71) <br>
 > **Code civil > Livre III : Des différentes manières dont on acquiert la propriété > Titre III : Des sources d'obligations > Sous-titre II : La responsabilité extracontractuelle > Chapitre Ier : La responsabilité extracontractuelle en général.[^1]**
-
 <hr><hr>
 
 ## 6. JURISPRUDENCE APPLICABLE COMPLÉMENTAIRE
 
 *Cette section reprend deux arrêts de fond cités dans l'étude initiale (Doc. 11) et non encore intégrés dans la présente consolidation, afin de rendre le document exhaustif et de couvrir (1) la réévaluation du préjudice en cas d'aggravation et (2) la libre disposition des indemnités par la victime.*
 <hr><hr>
+
 ## XXVIII — VI.1 — AGGRAVATION DU DOMMAGE (RÉÉVALUATION)
 
 > *« Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »* <br>
@@ -614,6 +634,7 @@ La provision de [**[Finance Provision Référé]**](../../../Memory/Tokens/token
 
 **Application au dossier :** Cet arrêt fonde la possibilité de réévaluer l'indemnisation en cas d'aggravation médicale constatée après l'expertise initiale. Il sécurise la demande de provision et la demande au fond, le préjudice pouvant être revu à la hausse à mesure que les séquelles neurologiques de l'index droit se précisent (cf. expertise UMJ du 12 novembre 2026).
 <hr><hr>
+
 ## XXIX — VI.2 — LIBRE DISPOSITION DES INDEMNITÉS
 
 > *« La victime d'un dommage corporel dispose librement des sommes qui lui sont allouées à titre de réparation, sans avoir à justifier de l'usage qu'elle en fait, dès lors que l'indemnisation a été fixée selon les règles de la réparation intégrale. »* <br>
@@ -622,6 +643,7 @@ La provision de [**[Finance Provision Référé]**](../../../Memory/Tokens/token
 
 **Application au dossier :** Cet arrêt justifie que les ~92 000 € demandés (ainsi que la provision de 15 000 €) peuvent être librement affectés par la victime (rééducation, matériel ergonomique, adaptation du poste de travail) sans être soumis au contrôle du responsable ou de l'assureur. ⚠ *Vérification JURITEXT recommandée : l'audit du 11/07/2026 signale une date apparemment contradictoire (13 mai 2021) pour ce numéro d'arrêt — à confirmer sur Légifrance avant citation définitive.*
 <hr><hr>
+
 ## XXX — Tableau récapitulatif des demandes indemnitaires
 
 | Poste | Montant retenu |
@@ -641,6 +663,7 @@ La provision de [**[Finance Provision Référé]**](../../../Memory/Tokens/token
 | **Provision référé demandée** | **15 000 €** |
 <!-- Source -->
 <hr><hr>
+
 ## Sources Législation
 
 [^1]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000320415](../../../Lois/Code/LEGIARTI0000320415.md)71](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000320415](../../../Lois/Code/LEGIARTI0000320415.md)71) ↩

@@ -26,19 +26,21 @@ Les identités réelles (noms, adresses, email, immatriculations) y sont remplac
 
 ## 📂 Contenu
 
-- **[00 — Preuves officielles](Preuves_officielles/README.md)** — 0 fichier · Documents physiques (en attente d'insertion)
+- **[00 — Preuves officielles](Preuves_officielles/README.md)** — 3 fichiers · Documents physiques et PV
 
-- **[01 — Actes procéduraux](Actes_proceduraux/README.md)** — 6 fichiers · Pièces juridiques principales (assignations, conclusions)
+- **[01 — Actes procéduraux](Actes_proceduraux/README.md)** — 16 fichiers · Pièces juridiques principales (assignations, conclusions)
 
-- **[02 — Courriers](Courriers/README.md)** — 20 fichiers · Correspondance avec tiers (administrations, assurances)
+- **[02 — Courriers](Courriers/README.md)** — 59 fichiers · Correspondance avec tiers (administrations, assurances)
 
-- **[03 — Analyses juridiques](Analyses_juridiques/README.md)** — 4 fichiers · Plaidoiries, FAQ, analyses de fond
+- **[03 — Analyses juridiques](Analyses_juridiques/README.md)** — 20 fichiers · Plaidoiries, FAQ, analyses de fond
 
-- **[04 — Études d'indemnisation](Etudes_indemnisation/README.md)** — 1 fichier · Évaluation financière des préjudices
+- **[04 — Études d'indemnisation](Etudes_indemnisation/README.md)** — 5 fichiers · Évaluation financière des préjudices
 
-- **[05 — Organisation](Organisation/README.md)** — 3 fichiers · Index, plan d'action, calendrier
+- **[05 — Organisation](Organisation/README.md)** — 14 fichiers · Index, plan d'action, calendrier
 
-- **[06 — Archives](Archives/README.md)** — 7 fichiers · Anciennes versions, annexes, lexique
+- **[06 — Attestations](Attestations/README.md)** — 3 fichiers · Témoignages (client, employé, témoin)
+
+- **[07 — Archives](Archives/README.md)** — 11 fichiers · Anciennes versions, annexes, lexique
 
 ## 🗺️ Cartographie du dossier (interactif)
 
@@ -50,7 +52,8 @@ graph TD
     A --> E[03 Analyses juridiques]
     A --> F[04 Études indemnisation]
     A --> G[05 Organisation]
-    A --> H[06 Archives]
+    A --> H[06 Attestations]
+    A --> I[07 Archives]
     C --> C1[01 Assignation]
     C --> C2[02 Plainte]
     C --> C3[07 Constitution partie civile]

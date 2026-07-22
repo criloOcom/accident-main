@@ -95,7 +95,6 @@ Ces informations me permettront de déclarer le sinistre et d'envisager une rés
 > **Code de procédure civile > Partie législative > Livre II[^4]**
 
 Dans cette hypothèse, je serai également contraint de solliciter la communication de l'intégralité du contrat d'assurance, et, le cas échéant, de rechercher la responsabilité personnelle des dirigeants pour défaut d'information sur le fondement de la faute détachable[^1].
-<hr><hr>
 ## II — Transparence sur la suite donnée au dossier
 
 La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet :
@@ -124,7 +123,6 @@ Comptant sur votre diligence, je vous prie d'agréer, Madame la Directrice Gén�
 <!-- PJ -->
 <hr><hr>
 
-<hr><hr>
 ## PIECES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du [J+4]
@@ -139,7 +137,6 @@ Comptant sur votre diligence, je vous prie d'agréer, Madame la Directrice Gén�
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩

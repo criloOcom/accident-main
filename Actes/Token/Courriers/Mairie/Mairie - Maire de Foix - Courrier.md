@@ -98,7 +98,6 @@ Je vous prie de croire, Monsieur le Maire, à l'expression de ma considération 
 <!-- /Signature -->
 
 <!-- PJ -->
-<hr><hr>
 ## PIECES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
@@ -113,7 +112,6 @@ Je vous prie de croire, Monsieur le Maire, à l'expression de ma considération 
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [article L. 2212-2 du Code général des collectivités territoriales — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370) ↩

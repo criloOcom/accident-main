@@ -19,7 +19,6 @@ auteur: La Victime
 # NOTE - TABLEAU DINTILHAC COMPARATIF DÉFINITIF
 
 Ce document présente l'évaluation Dintilhac finalisée selon trois scénarios : Optimiste (revendication haute), Médian/Compromis (socle transactionnel), et Glose/Conservative (plancher bas). Les montants de référence stricts sont consolidés dans [STRICT VARIABLES.md](../../../Memory/STRICT VARIABLES.md).
-<hr><hr>
 ## A. TABLEAU COMPARATIF PRINCIPAL
 
 | Poste Dintilhac | Optimiste | Médian / Compromis | Glose / Conservative |
@@ -35,7 +34,6 @@ Ce document présente l'évaluation Dintilhac finalisée selon trois scénarios 
 | **Art. 700 CPC** | 4 000 € | 3 000 € | 2 250 € |
 <hr><hr>
 
-<hr><hr>
 ## B. JUSTIFICATION DE CHAQUE POSTE
 
 - **PGPA (Pertinence Gêne Perte d'Agrément / Pertes de Gains Professionnels Actuels)** :
@@ -66,7 +64,6 @@ Ce document présente l'évaluation Dintilhac finalisée selon trois scénarios 
   Frais irrépétibles. Le compromis est arrêté à 3 000 € (fourchette 2 250 € - 4 000 €). Base : [Note - Évaluation Dintilhac Consolidée.md](./Note%20-%20Évaluation%20Dintilhac%20Consolidée.md).
 <hr><hr>
 
-<hr><hr>
 ## C. PROVISION RÉFÉRÉ (15 000 €)
 
 Détail de la demande de provision en référé :
@@ -84,7 +81,6 @@ Détail de la demande de provision en référé :
 **Total** : 15 000 €
 <hr><hr>
 
-<hr><hr>
 ## D. SYNTHÈSE
 
 | Scénario | Total estimé |

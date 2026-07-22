@@ -46,8 +46,7 @@ Place de la Préfecture
 
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident. La présente plainte corrige formellement l'identité de la société exploitante.
 
-# PLAINTE COMPLÉMENTAIRE
-# Correction de l'identité de la société exploitante — **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
+# PLAINTE COMPLÉMENTAIRE — Correction de l'identité de la société exploitante — **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
 <!-- Auteur -->
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
@@ -85,7 +84,6 @@ Monsieur le Commandant,
 Je me permets de vous adresser la présente plainte complémentaire afin de compléter et rectifier les éléments que j'ai portés à la connaissance de vos services à la suite de l'accident corporel dont j'ai été victime le vendredi 29 mai 2026 dans un salon de coiffure situé **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**.
 
 Dans ma première plainte déposée le 2 juin 2026 au commissariat de Toulouse (Division Toulouse Rive Droite), j'indiquais de bonne foi que le salon était exploité sous l'enseigne **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)**, et je visais la société **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** comme responsable potentielle. Des éléments nouveaux, recueillis depuis, montrent que cette information était inexacte au jour de l'accident, et que le salon était alors exploité par une autre société, la **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**. La présente plainte a donc pour objet de corriger formellement l'identité de la société exploitante et de demander que l'enquête prenne en compte ces éléments.
-<hr><hr>
 ## 1 — Rappel des faits — Accident du 29 mai 2026
 
 Le vendredi 29 mai 2026 vers 15h20, je me suis rendu dans le salon de coiffure situé **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**, pour une simple retouche de coupe de cheveux.
@@ -99,7 +97,6 @@ Le coiffeur qui m'a pris en charge ce jour-là s'est présenté sous le prénom 
 Je travaille à mon compte comme informaticien indépendant. Ma main droite étant ma main dominante, cette blessure me paralyse dans mon travail et a des conséquences importantes sur ma situation professionnelle et financière.
 <hr><hr>
 
-<hr><hr>
 ## 2 — Démarches initiales et première plainte
 
 Dans les jours qui ont suivi l'accident et l'opération, j'ai entrepris diverses démarches :
@@ -125,7 +122,6 @@ Je joins à la présente copie de ces courriers et des suivis La Poste disponibl
 Parallèlement, dès le 1er juin 2026, j'ai également signalé les faits à la mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**. Par courriel de réponse, **[L'Adjoint au Maire de la Commune](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**, adjoint au maire en charge de l'urbanisme et des travaux, m'a indiqué avoir pris attache avec les services de la préfecture afin que soient saisis l'inspection du travail et le CODAF (comité opérationnel départemental anti-fraude), en précisant qu'il restait à ma disposition pour de nouveaux signalements.
 <hr><hr>
 
-<hr><hr>
 ## 3 — Éléments nouveaux : réponse du bailleur et extraits officiels (INPI / RNE / SIRENE)
 
 À la suite de ces courriers, j'ai reçu, le 16 juillet 2026, un courriel de **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**, propriétaire des locaux du 22 Rue Lafaurie à Foix. Dans ce message, M. **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** m'indique notamment que :
@@ -169,30 +165,29 @@ Ces éléments sont de nature à caractériser un risque de disparition ou d'alt
 
 À la suite de la découverte de la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, j'ai adressé le 18 juillet 2026 de nouvelles lettres recommandées de mise en demeure afin d'obtenir la communication des coordonnées de leur assureur responsabilité civile professionnelle à :
 
-- La **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (Siège social) : LRAR n° [**[N° LRAR HB BARBER Société]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) (`87500152771696F`) ;
+- La **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (Siège social) : LRAR n° [**[N° LRAR HB BARBER Société]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) ;
 
-- M. [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) (Président, domicile personnel) : LRAR n° [**[N° LRAR HB BARBER Président]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) (`875001528942001`) ;
+- M. [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) (Président, domicile personnel) : LRAR n° [**[N° LRAR HB BARBER Président]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) ;
 
-- Mme **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** (Directrice Générale, domicile personnel) : LRAR n° [**[N° LRAR HB BARBER DG]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) (`875001528942010`).
+- Mme **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** (Directrice Générale, domicile personnel) : LRAR n° [**[N° LRAR HB BARBER DG]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes).
 
-De même, j'ai relancé le propriétaire bailleur **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** par une 3e LRAR le 19 juillet 2026 (LRAR n° [**[N° LRAR Propriétaire Relance 3]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) — `87500152910287Q`) afin d'obtenir des explications sur les assurances de l'immeuble et la situation de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
+De même, j'ai relancé le propriétaire bailleur **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** par une 3e LRAR le 19 juillet 2026 (LRAR n° [**[N° LRAR Propriétaire Relance 3]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)) afin d'obtenir des explications sur les assurances de l'immeuble et la situation de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
 
-Enfin, une demande de dossier médical a été envoyée au GHT des Pyrénées Ariégeoises CHIVA le 18 juillet 2026 (LRAR n° [**[N° LRAR CHIVA]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) — `87500152888336B`).
+Enfin, une demande de dossier médical a été envoyée au GHT des Pyrénées Ariégeoises CHIVA le 18 juillet 2026 (LRAR n° [**[N° LRAR CHIVA]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)).
 
 Tous ces plis ont été pris en charge par La Poste les 18 et 19 juillet 2026. Copies de ces lettres et des bordereaux d'envoi sont versées aux pièces de la présente plainte.
 
-### 3.4 — Témoignage oculaire direct de M. Frédéric MATHIEU
+### 3.4 — Témoignage oculaire direct de **[Le Témoin Mathieu]**
 
-Le 18 juillet 2026, j'ai recueilli le témoignage de M. **Frédéric MATHIEU** (Cerfa 11527*03), commerçant indépendant dont le magasin est situé au 14 rue Lafaurie, à Foix (magasin adjacent au salon). Son attestation (Pièce n°5) confirme de manière décisive le déroulement chronologique et matériel des faits :
+Le 18 juillet 2026, j'ai recueilli le témoignage de **[Le Témoin Mathieu]** (Cerfa 11527*03), commerçant indépendant dont le magasin est situé au 14 rue Lafaurie, à Foix (magasin adjacent au salon). Son attestation (Pièce n°5) confirme de manière décisive le déroulement chronologique et matériel des faits :
 
-1. **Chronologie et heure de l'accident** : M. MATHIEU atteste que je suis parti se faire couper les cheveux dans le salon voisin après un entretien professionnel dans sa boutique le 29 mai 2026. Il a constaté mon retour la main ensanglantée et a personnellement appelé les urgences (le 15) à **15h25 précises** (horaire enregistré sur son téléphone).
+1. **Chronologie et heure de l'accident** : **[Le Témoin Mathieu]** atteste que je suis parti se faire couper les cheveux dans le salon voisin après un entretien professionnel dans sa boutique le 29 mai 2026. Il a constaté mon retour la main ensanglantée et a personnellement appelé les urgences (le 15) à **15h25 précises** (horaire enregistré sur son téléphone).
 
 2. **Gravité immédiate et constat du coiffeur** : Il atteste que le sang coulait abondamment et que le coiffeur est venu dehors prendre des nouvelles et a constaté la gravité immédiate du saignement.
 
 3. **Absence de dénégation du coiffeur** : Le témoin rapporte que j'ai expliqué immédiatement que l'accident s'était produit en raison de l'instabilité de la vasque en céramique que j'avais dû rattraper au vol, ce que le coiffeur n'a pas nié.
 <hr><hr>
 
-<hr><hr>
 ## 4 — Identité de la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et de ses dirigeants
 
 D'après ces documents officiels, la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** présente les caractéristiques suivantes :
@@ -225,7 +220,6 @@ En conséquence, au jour de mon accident (29 mai 2026), le salon où les faits s
 La mention de la **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** dans ma première plainte et dans mes premiers courriers procède donc d'une erreur excusable, fondée sur l'enseigne laissée en place et sur l'absence totale d'information claire qui m'a été donnée au moment des faits. Cette erreur est désormais corrigée à la lumière des pièces que je transmets à vos services.
 <hr><hr>
 
-<hr><hr>
 ## 5 — Demandes à l'appui de la présente plainte complémentaire
 
 Au vu de ces éléments nouveaux, je sollicite respectueusement de vos services :
@@ -272,7 +266,6 @@ Dans l'hypothèse où il apparaîtrait que des manœuvres délibérées de dissi
 - et de transmettre au Parquet les éléments utiles pour toute qualification pénale complémentaire (faute détachable de leurs fonctions, organisation d'insolvabilité, etc.).
 <hr><hr>
 
-<hr><hr>
 ## 6 — Pièces jointes
 
 Je joins à la présente, en copies :
@@ -293,12 +286,11 @@ Je joins à la présente, en copies :
 
 8. Échange de courriels avec **[L'Adjoint au Maire de la Commune](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**, adjoint au maire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** (signalement du 1er juin 2026 et réponse indiquant la saisine de la préfecture / inspection du travail / CODAF).
 
-9. **Capture d'écran message WhatsApp du 18/07/2026** adressé à **[Le Préposé de l'Exploitation](../../../../Memory/Tokens/token-exploitation-prepose-nom.md)** (+33 7 58 40 12 87) avec formulaire CERFA 11527\*03 joint — information du témoin direct de l'accident et proposition d'attestation écrite (pas de retour à date).
+9. **Capture d'écran message WhatsApp du 18/07/2026** adressé à **[Le Préposé de l'Exploitation](../../../../Memory/Tokens/token-exploitation-prepose-nom.md)** sur **[Le Téléphone du Préposé](../../../../Memory/Tokens/token-exploitation-prepose-telephone.md)** avec formulaire CERFA 11527\*03 joint — information du témoin direct de l'accident et proposition d'attestation écrite (pas de retour à date).
 
-10. **Attestation de témoin de M. Frédéric MATHIEU (commerçant du 14 rue Lafaurie, Foix) en date du 18 juillet 2026 (Cerfa 11527*03)**, attestant de l'heure exacte de l'accident (15h25) et de ses constatations immédiates.
+10. **Attestation de témoin de **[Le Témoin Mathieu]** (commerçant du 14 rue Lafaurie, Foix) en date du 18 juillet 2026 (Cerfa 11527*03)**, attestant de l'heure exacte de l'accident (15h25) et de ses constatations immédiates.
 <hr><hr>
 
-<hr><hr>
 ## 7 — Déclaration sur l'honneur
 
 Je déclare sur l'honneur que les faits exposés dans la présente plainte sont exacts et conformes à la réalité. Je suis conscient que toute déclaration mensongère peut entraîner des poursuites pénales.

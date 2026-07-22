@@ -92,7 +92,6 @@ Je vous prie d'agréer, Monsieur le Doyen des Juges d'Instruction, l'expression 
 <!-- /Signature -->
 
 <!-- PJ -->
-<hr><hr>
 ## PIECES JOINTES
 
 - **[Plainte avec constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — datée du **[J+38 Constitution PC](../../../../Memory/Tokens/token-j-38-constitution-pc.md)**
@@ -113,7 +112,6 @@ Je vous prie d'agréer, Monsieur le Doyen des Juges d'Instruction, l'expression 
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [Article 88 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575469](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575469) ↩

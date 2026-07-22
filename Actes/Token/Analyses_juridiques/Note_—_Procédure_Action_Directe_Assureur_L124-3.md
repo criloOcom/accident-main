@@ -26,7 +26,6 @@ jx: J+53
 > **Contexte** : Accident de la main survenu le 29 mai 2026 dans un salon de coiffure (vasque céramique défectueuse ayant basculé). La SAS exploitante ([**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md), capital ~5 000 €) est assurée, mais [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) dissimule l'identité de l'assureur. Procédure en référé sur l'article 145 CPC en cours pour lever cette information. Objectif : action directe contre l'assureur RC pour obtenir une provision.
 
 # NOTE — PROCÉDURE ACTION DIRECTE<br>ASSURANCE — ART. L.124-3 C. ASSUR.
-<hr><hr>
 ## I — OBJET ET CHAMP DE LA NOTE
 
 La présente note a pour objet d'analyser les conditions, la prescription et la stratégie procédurale de l'action directe que [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) peut exercer contre l'assureur de responsabilité civile de la SAS exploitant le salon de coiffure, sur le fondement de l'article L.124-3 du Code des assurances.
@@ -39,6 +38,7 @@ Elle s'inscrit dans le cadre d'une procédure en deux temps :
 
 Sont examinés : le fondement textuel, le régime de prescription, les conditions de mise en œuvre, le contentieux sur l'identité de l'assureur, l'articulation avec les mécanismes subsidiaires (FGAO, CIVI), les risques et limites, et la feuille de route procédurale.
 <hr><hr>
+
 ## II — FONDEMENT TEXTUEL<br>ART. L.124-3 DU CODE DES ASSURANCES
 
 L'article L.124-3 du Code des assurances constitue le socle juridique de l'action directe de la victime contre l'assureur de responsabilité civile du responsable.
@@ -76,6 +76,7 @@ Ce caractère autonome emporte des conséquences fondamentales :
 
 - **[Article 835 CPC](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000425972](../../../Lois/Code/LEGIARTI0000425972.md)84)** — Référé-provision (voie procédurale pour obtenir une provision).
 <hr><hr>
+
 ## III — PRESCRIPTION DE L'ACTION DIRECTE<br>5 ANS, PAS 2 ANS (ARRÊT 80-16.679)
 
 La question de la prescription est centrale et a été définitivement trancée par l'arrêt de principe de la Cour de cassation du 10 mars 1982.
@@ -112,6 +113,7 @@ Il est impératif de ne pas confondre :
 
 **Dans notre dossier :** L'accident étant survenu le 29 mai 2026, et [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) n'étant pas encore consolidée, la prescription court à compter de la date de consolidation. L'assignation en référé sur l'article 145 CPC interrompt la prescription (art. 2241 C. civ.). Le délai pour agir est donc très large, mais il convient d'agir sans délai pour éviter tout débat dilatoire.
 <hr><hr>
+
 ## IV — CONDITIONS DE MISE EN ŒUVRE DE L'ACTION DIRECTE
 
 L'action directe contre l'assureur suppose la réunion de quatre conditions cumulatives.
@@ -156,6 +158,7 @@ L'action directe suppose que la responsabilité de l'assuré soit engagée. Dans
 
 Pour obtenir une **provision en référé** sur le fondement de l'article 835 CPC, il faut démontrer que l'obligation d'indemniser n'est « pas sérieusement contestable ». Dans notre dossier, la matérialité des faits, le lien de causalité direct, et l'absence d'exclusion de garantie (voir section VII) rendent l'obligation de l'assureur non sérieusement contestable au sens de la jurisprudence constante.
 <hr><hr>
+
 ## V — CONTENTIEUX SUR L'IDENTITÉ DE L'ASSUREUR<br>RÉFÉRÉ ART. 145 CPC
 
 L'obstacle principal à l'exercice de l'action directe est l'absence d'identification de l'assureur. [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) refuse obstinément de communiquer les coordonnées de la compagnie d'assurance de la SAS, malgré les demandes réitérées de [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md).
@@ -195,6 +198,7 @@ L'assignation en référé demande :
 
 - **Inexistence d'assurance** : si la SAS n'est pas assurée (ce qui constituerait une infraction pénale en soi — art. L.243-1 C. assur. pour certaines activités professionnelles), la procédure devra se rediriger vers le FGAO (voir section VI).
 <hr><hr>
+
 ## VI — CHAMP FGAO / CIVI<br>ARRÊTS 20-22.100 ET 20-19.288
 
 Il est nécessaire d'examiner les mécanismes subsidiaires d'indemnisation au cas où l'assureur ne serait pas identifié ou inexistant.
@@ -235,6 +239,7 @@ Cependant, la Cour de cassation a posé un principe d'exclusivité des régimes 
 
 - Par ailleurs, [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) pourrait se constituer partie civile dans le cadre d'une éventuelle procédure pénale.
 <hr><hr>
+
 ## VII — RISQUES ET LIMITES
 
 ### VII.1 — Exclusion de garantie pour faute dolosive (L.113-1)
@@ -292,6 +297,7 @@ Le comportement de [**[Le Président de l'Exploitation]**](../../../Memory/Token
 > [Arrêt SATI — Com., 20 mai 2003, n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 > **Cour de cassation, chambre commerciale**
 <hr><hr>
+
 ## VIII — FEUILLE DE ROUTE PROCÉDURALE
 
 ### VIII.1 — Chronologie des actes accomplis
@@ -356,6 +362,7 @@ Le comportement de [**[Le Président de l'Exploitation]**](../../../Memory/Token
 
 7. Justifier le quantum de la provision (15 000 €) par référence aux barèmes et à la jurisprudence (cf. [**TJ Nanterre 2024, n°22/02447**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ%20Nanterre%2022-02447.md) — souffrances 5/7).
 <hr><hr>
+
 ## IX — SYNTHÈSE ET RECOMMANDATIONS
 
 L'action directe contre l'assureur de [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) sur le fondement de l'article L.124-3 du Code des assurances est juridiquement parfaitement fondée et constitue la voie procédurale principale pour obtenir l'indemnisation du préjudice corporel subi par [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md).

@@ -12,7 +12,7 @@ tags:
 
 - preuve
 statut: recueillie
-auteur: Frédéric Mathieu
+auteur: [**[Le Témoin Clé Mathieu]**]
 destinataire: Dossier procédure Foix
 reel_path: ../../Reel/Attestations/Attestation - Témoin Mathieu Frédéric.md
 source: drive
@@ -30,25 +30,23 @@ jx: J+50
 
 **Référence :** Pièce n° 5 du bordereau Foix
 **Date de recueil :** 18 juillet 2026
-**Témoin :** **Frédéric Mathieu** (commerçant, indépendant)
+**Témoin :** **[**[Le Témoin Clé Mathieu]**](../../../Memory/Tokens/token-temoin-mathieu-nom.md)** (commerçant, indépendant)
 **Qualité :** Témoin direct — présent dans son magasin adjacent au salon de coiffure
-<hr><hr>
 ## I. IDENTITÉ DU TÉMOIN
 
 | Champ | Information |
 |-------|-------------|
 | **Civilité** | Monsieur |
-| **Nom de famille** | Mathieu |
+| **Nom de famille** | [**[Le Témoin Clé Mathieu]**](../../../Memory/Tokens/token-temoin-mathieu-nom.md) |
 | **Nom d'usage** | — |
-| **Prénoms** | Frédéric |
-| **Date de naissance** | 16 mars 1966 |
-| **Lieu de naissance** | Tarascon-sur-Ariège (09) |
+| **Prénoms** | [**[Prénom Témoin Mathieu]**] |
+| **Date de naissance** | [**[Date Naissance Témoin Mathieu]**] |
+| **Lieu de naissance** | [**[Lieu Naissance Témoin Mathieu]**] |
 | **Profession** | Commerçant |
-| **Adresse** | 13 Porte d'Espagne, 09400 Tarascon-sur-Ariège |
+| **Adresse** | [**[Adresse Témoin Mathieu]**] |
 | **Lien avec les parties** | Aucun (pas de parenté, alliance, subordination, collaboration, communauté d'intérêts) |
 <hr><hr>
 
-<hr><hr>
 ## II. FAITS ATTESTÉS (Transcription intégrale)
 
 > **Le 29 mai 2026, suite à un entretien concernant ma formation professionnelle avec [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md), dans mon magasin, situé 14 rue de lafaurie à Foix, celui-ci est parti se faire couper les cheveux chez le barber shop un peu plus loin que mon établissement.**
@@ -66,7 +64,6 @@ jx: J+50
 > **Il semble que l'accident se soit produit dans les locaux du coiffeur en raison d'une vasque instable que [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) a rattrapé par ce qu'elle tombait, ce que semble ne pas avoir nié le coiffeur.**
 <hr><hr>
 
-<hr><hr>
 ## III. ANALYSE JURIDIQUE DE LA PREUVE
 
 ### 1. Corroboration exacte de la version de la victime
@@ -104,7 +101,6 @@ jx: J+50
 - **Phrase manuscrite obligatoire** : Garantit authenticité de la déclaration
 <hr><hr>
 
-<hr><hr>
 ## IV. PIÈCES JOINTES OBLIGATOIRES (Conformité Cerfa)
 
 - [ ] **Photocopie pièce d'identité** du témoin (recto/verso) avec signature
@@ -112,18 +108,16 @@ jx: J+50
 - [ ] **Original** de l'attestation signée (page 3 : attestation sur l'honneur + signature + date 18/07/2026)
 <hr><hr>
 
-<hr><hr>
 ## V. INTÉGRATION DOSSIER FOIX
 
 | Document | Action |
 |----------|--------|
-| **📋 Bordereau de Pièces Foix.md** | Ajout pièce n° 5 : "Attestation Frédéric Mathieu (Cerfa 11527*03)" |
+| **📋 Bordereau de Pièces Foix.md** | Ajout pièce n° 5 : "Attestation [**[Le Témoin Clé Mathieu]**](../../../Memory/Tokens/token-temoin-mathieu-nom.md) (Cerfa 11527*03)" |
 | **📇 Index Général.md** | Ligne attestation Mathieu |
 | **Note%20-%20Changelog%20Juridique.md** | Entrée 18/07/2026 |
 | **STRICT VARIABLES.md** | Variable `N° ATTESTATION MATHIEU : 11527*03-20260718` |
 <hr><hr>
 
-<hr><hr>
 ## VI. DESTINATAIRES PRIORITAIRES (Ordre d'envoi)
 
 1. **Avocat (dès désignation AJ)** — LRAR + email — Pièce conclusions
@@ -134,7 +128,7 @@ jx: J+50
 
 4. **BAJ Foix** — Dépôt — Pièce justificative urgence AJ
 
-5. **CPAM** (RCT n°31727387) — LRAR — Preuve accident tiers responsable
+5. **CPAM** ([**[N° Dossier CPAM Victime]**](../../../Memory/Tokens/token-cpam-dossier-numero.md)) — RCT — Preuve accident tiers responsable
 
 6. **Assureur RC** (si identifié) — LRAR — Mise en cause Art. L.124-3 C.assur.
 
@@ -143,7 +137,6 @@ jx: J+50
 8. **Expert UMJ Purpan** (12/11/2026) — Remise main propre — Corroboration mécanisme
 <hr><hr>
 
-<hr><hr>
 ## VII. RÉFÉRENCES CROISÉES
 
 - **Pièce brute Drive** : `20260718 📋 Attestation Mathieu Frédéric Cerfa 11527.md` (Preuves_officielles)

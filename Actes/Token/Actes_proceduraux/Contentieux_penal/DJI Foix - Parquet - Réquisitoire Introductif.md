@@ -54,8 +54,6 @@ RÉFÉRENCE PLAINTE : PV n°[**[N° PV Police]**](../../../../Memory/Tokens/toke
 À l'attention de Monsieur le Doyen des Juges d'Instruction,
 Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md)
 <!-- /Destinataire -->
-<hr><hr>
-
 ## I — PROBLÉMATIQUE ET EXPOSÉ DES FAITS
 
 Le Ministère Public a été saisi par la plainte, puis par la [**[constitution de partie civile]**](DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) en date du [**[J+38 Constitution PC]**](../../../../Memory/Tokens/token-j-38-constitution-pc.md), déposées par [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) à l'encontre de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), ainsi que de ses dirigeants, **[**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md).

@@ -48,7 +48,6 @@ Ref : Accident du [**[J+0 Accident]**](../../../Memory/Tokens/token-j-0-accident
 <hr><hr>
 
 Madame, Monsieur le President,
-<hr><hr>
 ## I — EXPOSE DES FAITS
 
 [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) (ne le 18 janvier 1982, informaticien independant) a ete victime d'un accident corporel grave le [**[J+0 Accident]**](../../../Memory/Tokens/token-j-0-accident.md) a 15h00 au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SIREN [**[SIREN de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-siren.md)), sise [**[L'Adresse de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-adresse.md).
@@ -58,7 +57,6 @@ Le prepose de l'exploitation, qui devait acceder a un poste de television instal
 Par reflexe, le requerant a tendu la main droite pour proteger le coiffeur. Sa paume a heurte la cassure preexistante, entrainant une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence (30 mai 2026, SOS Main, [**[L'Etablissement SOS Main]**](../../../Memory/Tokens/token-hopital-sosmain-nom.md)) et un arrêt de travail total de 55 jours.
 <hr><hr>
 
-<hr><hr>
 ## II — MOTIF LEGITIME (Art. 145 CPC)
 
 Conformement a l'article 145 du Code de procedure civile, il existe un motif legitime de conserver la preuve des faits dont pourrait dependre la solution du litige, avant tout proces au fond.
@@ -94,7 +92,6 @@ Le constat d'huissier devra porter sur :
 - **L'etat general des lieux** : organisation du salon, equipements de securite
 <hr><hr>
 
-<hr><hr>
 ## III — PROCEDURES EN COURS
 
 Les procedures suivantes ont ete engagees a la date de la requete :
@@ -110,7 +107,6 @@ Les procedures suivantes ont ete engagees a la date de la requete :
 5. Signalements a l'Inspection du Travail, au CODAF, a l'INPI, au SIE et a l'URSSAF
 <hr><hr>
 
-<hr><hr>
 ## IV — DEMANDE
 
 Par ces motifs, le requerant sollicite de Monsieur le President du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../Memory/Tokens/token-accident-ville.md) de bien vouloir :
@@ -147,7 +143,6 @@ Fait pour valoir ce que de droit.
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩

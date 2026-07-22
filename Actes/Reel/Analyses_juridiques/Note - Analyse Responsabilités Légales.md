@@ -25,7 +25,6 @@ jx: J+32
 # ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE **[L'EXPLOITANT DU COMMERCE (LA SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 > 🔗 Source Google Drive : [1lUKoGE8kozm…](https://drive.google.com/open?id=1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34)
 Rédigé le **[J+32 Assignation référé](../../../Memory/Tokens/token-j-32-assignation-refere.md)**
-<hr><hr>
 ## I — INTRODUCTION
 
 L'analyse approfondie du dossier relatif à l'accident survenu le **[J+0 Accident](../../../Memory/Tokens/token-j-0-accident.md)** au sein de l'établissement exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** — au cours duquel **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**, informaticien indépendant, a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes — permet de dégager deux axes de responsabilité majeurs.
@@ -37,7 +36,6 @@ L'analyse approfondie du dossier relatif à l'accident survenu le **[J+0 Acciden
 Cette note vise à structurer les fondements juridiques permettant d'assurer la réparation intégrale du préjudice subi.
 <hr><hr>
 
-<hr><hr>
 ## II — LA RESPONSABILITÉ PÉNALE POUR BLESSURES INVOLONTAIRES
 
 Le salon est susceptible de voir sa responsabilité engagée sur le fondement de l'article 222-20 du Code pénal.
@@ -71,7 +69,6 @@ En vertu de l'article 121-3 du Code pénal, cette maladresse expose les dirigean
 > **Code pénal > Partie législative > Livre Ier : Dispositions générales > Titre III : La criminalité et la délinquance, les sanctions pénales et certaines mesures de sûreté > Chapitre Ier : De la responsabilité des personnes physiques.[^3]**
 <hr><hr>
 
-<hr><hr>
 ## III — LA RESPONSABILITÉ CIVILE DE PLEIN DROIT
 
 Sur le plan civil, la SAS est tenue de réparer les dommages causés sans qu'il soit nécessaire de prouver une intention de nuire. Cette responsabilité repose sur plusieurs piliers du Code civil.
@@ -113,7 +110,6 @@ La responsabilité personnelle des dirigeants, **[Le Président de l'Exploitatio
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^6]**
 <hr><hr>
 
-<hr><hr>
 ## IV — IMMUNITÉ DU PRÉPOSÉ ET RECOURS STRATÉGIQUES
 
 Il convient de noter que le préposé bénéficie d'une immunité civile selon l'arrêt Costedoat (Ass. Plén., 25 fév. 2000), sauf en cas de faute pénale intentionnelle (Arrêt Cousin).
@@ -169,7 +165,6 @@ Le juge ordonnera alors la communication forcée de l'attestation d'assurance de
 *[Zoom Pédagogique - Le refus de fournir l'assurance est-il légal ? : Non. La loi interdit au responsable de bloquer vos droits. Si le gérant fait obstruction, le tribunal peut le condamner à vous fournir son attestation d'assurance sous peine d'amendes journalières (astreinte). C'est une procédure classique de référé pour vaincre la mauvaise foi.]*
 <hr><hr>
 
-<hr><hr>
 ## V — RECOUVREMENT — QUI PAIE EN CAS D'INSOLVABILITÉ ?
 
 ⚠ **L'exploitant **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** a un [**[Capital Social de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-capital-social.md) seulement.** Le risque d'insolvabilité est maximal. Voici les voies de recouvrement par ordre de priorité.
@@ -238,7 +233,6 @@ Si condamnation pénale non exécutée : verse 100 % jusqu'à 1 000 €, 30 % au
 5. **Constitution partie civile** (voie pénale)
 <hr><hr>
 
-<hr><hr>
 ## VI — CONCLUSION
 
 La responsabilité de **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** est solidement établie tant sur le plan civil que pénal. Le montant total estimé de l'indemnisation est de **~105 000 €** (évaluation Dintilhac détaillée).
@@ -247,7 +241,6 @@ La difficulté centrale est le **recouvrement** : [**[Capital Social de l'Exploi
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩

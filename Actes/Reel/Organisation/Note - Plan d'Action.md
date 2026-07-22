@@ -25,7 +25,6 @@ jx: J+32
 # PLAN D'ACTION ET CHRONOLOGIE DE LA PROCÉDURE
 > 🔗 Source Google Drive : [153cOANMpw-O…](https://drive.google.com/open?id=153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s)
 Rédigé le **[J+32 Assignation référé](../../../Memory/Tokens/token-j-32-assignation-refere.md)**
-<hr><hr>
 ## I — INTRODUCTION
 
 Le présent plan d'action et chronologie de la procédure a été établi par **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** afin de structurer et de piloter l'ensemble des démarches juridiques entreprises à la suite de l'accident corporel du **[J+0 Accident](../../../Memory/Tokens/token-j-0-accident.md)**. Ce document de travail récapitule les étapes procédurales déjà accomplies, les actions prioritaires à engager et les échéances à respecter dans le cadre du contentieux opposant **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** à **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**. Il constitue un outil de pilotage et de suivi permettant d'assurer la coordination efficace de la stratégie contentieuse et le respect des délais de procédure.
@@ -57,11 +56,9 @@ Le présent plan d'action et chronologie de la procédure a été établi par **
 - [SERVICES JURIDIQUES ET DE SANTÉ](#services-juridiques-et-de-sant)
 <hr><hr>
 
-<hr><hr>
 ## II — CHRONOLOGIE ET PLAN D'ACTION
 <hr><hr>
 
-<hr><hr>
 ## III — ACTIONS URGENTES ET PHASE AMIABLE (JUIN 2026)
 
 La première étape consiste en l'envoi de mises en demeure par lettre recommandée avec accusé de réception (LRAR) à **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et à ses dirigeants.
@@ -73,7 +70,6 @@ Parallèlement, une action directe est engagée auprès de l'assureur pour solli
 Sur le plan probatoire, des démarches immédiates sont entreprises pour la conservation des preuves : une requête auprès du Procureur de la République pour la saisie des enregistrements de vidéosurveillance et l'intervention d'un huissier de justice pour constater la défectuosité du matériel (bac à shampoing).
 <hr><hr>
 
-<hr><hr>
 ## IV — PROCÉDURES JUDICIAIRES ET EXPERTISE (JUILLET - DÉCEMBRE 2026)
 
 Dès juillet 2026, en l'absence de réponse satisfaisante sous 15 jours, une assignation en référé-provision sera délivrée devant le Tribunal de **[La Ville de l'Accident](../../../Memory/Tokens/token-accident-ville.md)**.
@@ -93,11 +89,9 @@ Le second semestre 2026 sera consacré au suivi de l'expertise (notamment le pas
 L'aboutissement prévu est une assignation au fond en septembre pour obtenir un jugement définitif de condamnation de l'assureur d'ici décembre 2026.
 <hr><hr>
 
-<hr><hr>
 ## V — FONDEMENTS JURIDIQUES
 <hr><hr>
 
-<hr><hr>
 ## VI — RESPONSABILITÉ CIVILE ET ACTION DIRECTE
 
 L'action repose principalement sur [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^2] (responsabilité du fait des choses et du commettant).
@@ -117,7 +111,6 @@ La victime exerce son droit propre via [Article L. 124-3 du Code des assurances]
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 <hr><hr>
 
-<hr><hr>
 ## VII — RESPONSABILITÉ DES DIRIGEANTS ET MESURES D'INSTRUCTION
 
 Conformément à [l'Arrêt Sati](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)[^4] (Cass. Com., 20 mai 2003, n° 99-17.092), l'action directe est couplée à la mise en cause personnelle des dirigeants pour faute détachable.
@@ -132,7 +125,6 @@ En cas de blocage sur l'identité de l'assureur, [Article 145 du Code de procéd
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.[^1]**
 <hr><hr>
 
-<hr><hr>
 ## VIII — INVENTAIRE DES PIÈCES
 ### VIII.1 — PREUVES MÉDICALES ET ADMINISTRATIVES
 
@@ -143,17 +135,14 @@ Le dossier comprend les comptes rendus opératoires du **[Le Chirurgien SOS Main
 Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel défectueux, les photos de l'accident et les témoignages des clients et employés présents.
 <hr><hr>
 
-<hr><hr>
 ## IX — CONTACTS ET ANNUAIRES
 <hr><hr>
 
-<hr><hr>
 ## X — AUTORITÉS JUDICIAIRES ET POLICIÈRES À **[LA VILLE DE L'ACCIDENT](../../../Memory/Tokens/token-accident-ville.md)**
 
 - Tribunal Judiciaire : **Adresse Tribunal Judiciaire** (**Téléphone Tribunal Judiciaire**) / Commissariat : **[Adresse Commissariat]** (**Téléphone Commissariat**).
 <hr><hr>
 
-<hr><hr>
 ## XI — SERVICES JURIDIQUES ET DE SANTÉ
 
 - Ordre des Avocats de **[La Ville de l'Accident](../../../Memory/Tokens/token-accident-ville.md)** (**Téléphone Ordre Avocats**) / Huissiers : Étude d'Huissiers **[Nom Huissier]** (**Téléphone Huissier**) / UMJ de **[La Métropole Régionale](../../../Memory/Tokens/token-accident-metropole.md)**.
@@ -164,7 +153,6 @@ Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩

@@ -17,7 +17,6 @@ jx: J+32
 <!-- /Breadcrumb -->
 
 # 11 - CALENDRIER PROCÉDURAL
-<hr><hr>
 ## I — ÉVÉNEMENTS PASSÉS
 
 | Date | ID | Événement | Catégorie | Statut |
@@ -81,7 +80,6 @@ jx: J+32
 | Non précisé | EVT-42 | Frais de justice (Article 475-1) | Procédure | Demande en justice |
 <hr><hr>
 
-<hr><hr>
 ## II — ÉCHÉANCES À VENIR
 
 | Date | ID | Événement | Catégorie | Statut |
@@ -92,7 +90,6 @@ jx: J+32
 | **[J+167 Expertise UMJ](../../../Memory/Tokens/token-j-167-expertise-umj.md)** 13:45 | EVT-17 | Expertise Médicale Judiciaire | Médical | Programmé |
 <hr><hr>
 
-<hr><hr>
 ## III — SYNTHÈSE
 
 - **Total d'événements :** 61

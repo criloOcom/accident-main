@@ -96,7 +96,6 @@ Je vous remercie de l'attention portée à la présente et vous prie d'agréer, 
 <!-- /Signature -->
 
 <!-- PJ -->
-<hr><hr>
 ## PIECES JOINTES
 
 - **[Mairie - ERP Tavella - Courrier.md](../../../Reel/Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel [L'Adjoint au Maire de la Commune] (1er juin 2026)

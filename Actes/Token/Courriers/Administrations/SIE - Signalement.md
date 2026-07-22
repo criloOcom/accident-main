@@ -81,7 +81,6 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 <!-- /Signature -->
 
 <!-- PJ -->
-<hr><hr>
 ## PIECES JOINTES
 
 - **[Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale en cours devant le TJ de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**

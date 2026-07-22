@@ -50,7 +50,6 @@ source: drive
 
 # STRATEGIE CONTENTIEUX PENAL
 Rédigé le [**[J+36 Lettre consolidation]**](../../../Memory/Tokens/token-j-36-lettre-consolidation.md)
-<hr><hr>
 ## I — PRÉSENTATION
 
 Le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md), [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md), informaticien indépendant, a subi un accident corporel grave dans le salon de coiffure exploité par [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) ([SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md), SIRET [938 033 222 00010](../../../Memory/Tokens/token-exploitation-siret.md)), situé [22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md).
@@ -62,7 +61,6 @@ Par réflexe, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-comp
 Le contentieux pénal a pour objet de faire reconnaître la culpabilité de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, d'obtenir leur condamnation pénale, et d'exercer les droits de la partie civile pour obtenir réparation dans le cadre de la procédure répressive, y compris par la saisine du [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^1] via la CIVI en cas d'insolvabilité de l'auteur.
 <hr><hr>
 
-<hr><hr>
 ## II — INFRACTIONS CONSTITUÉES
 ### 2.1 BLESSURES INVOLONTAIRES
 
@@ -108,7 +106,6 @@ Le maintien en service d'un équipement dangereux (bac à shampoing instable don
 Cette qualification nécessite la démonstration d'une violation délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le règlement.
 <hr><hr>
 
-<hr><hr>
 ## III — PROCÉDURE PÉNALE ENGAGÉE
 ### 3.1 SIGNALEMENT ADMINISTRATIF ET DÉPÔT DE PLAINTE
 
@@ -188,7 +185,6 @@ Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LE
 Cette voie est indépendante de l'action pénale principale : la victime peut saisir la CIVI sans attendre l'issue de la procédure pénale, dès lors que les conditions de l'Article 706-3 sont réunies.
 <hr><hr>
 
-<hr><hr>
 ## IV — CALENDRIER PROCÉDURAL
 
 | Phase | Action | Échéance |
@@ -201,7 +197,6 @@ Cette voie est indépendante de l'action pénale principale : la victime peut sa
 | Appel éventuel | Si décision contestée (délai d'appel : 10 jours) | +12 mois |
 <hr><hr>
 
-<hr><hr>
 ## V — RÉCAPITULATIF DES PIÈCES
 
 Pièces pénales :
@@ -229,7 +224,6 @@ Pièces administratives :
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [Fonds de Garantie (FGTI) — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) ↩

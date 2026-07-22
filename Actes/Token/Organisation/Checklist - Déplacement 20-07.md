@@ -26,7 +26,6 @@ jx: J+52
 
 > **Source unique** : Ce fichier Token est la référence. Version Reel générée auto via `python3 .dev/app/generate_real_versions.py`
 > **Remplace** : Bordereau 15/07 (archivé), Checklist Déplacement 15/07 (archivé), Checklist Envoi 11/07 (archivée)
-<hr><hr>
 ## 🎯 OBJECTIFS DE LA JOURNÉE
 
 | # | Action | Lieu | Horaire | Statut |
@@ -38,7 +37,6 @@ jx: J+52
 | 5 | **3 LRAR** (CODAF, IT, Erratum bailleur) | La Poste Foix | 15h30 | ☐ |
 <hr><hr>
 
-<hr><hr>
 ## 📂 POCHETTES PHYSIQUES À PRÉPARER (SOIR 19/07)
 
 ### 🟢 POCHETTE VERTE — TJ / AJ (MATIN)
@@ -104,7 +102,6 @@ jx: J+52
 - [ ] Lunettes soleil + parapluie
 <hr><hr>
 
-<hr><hr>
 ## 🗺️ ITINÉRAIRE & CONTACTS
 
 | Lieu | Adresse | Téléphone | Horaire prévu |
@@ -123,7 +120,6 @@ jx: J+52
 - La Poste : 3631
 <hr><hr>
 
-<hr><hr>
 ## ⚡ DÉROULÉ DÉTAILLÉ
 
 ### 08h30 — DÉPART DOMICILE
@@ -256,7 +252,6 @@ jx: J+52
 - [ ] Conserver reçus dépôt
 <hr><hr>
 
-<hr><hr>
 ## 📋 BORDEREAU PIÈCES FOIX (MISE À JOUR 19/07)
 
 | N° | Pièce | Destination | Note |
@@ -281,7 +276,6 @@ jx: J+52
 | 18 | Photos vasque cassée + devanture | TJ + Commissariat | Prises 20/07 midi |
 <hr><hr>
 
-<hr><hr>
 ## ✅ CHECKLIST RÉCAPITULATIVE (COCHER JOUR J)
 
 ### Avant jour J (soir 19/07)
@@ -351,7 +345,6 @@ jx: J+52
 - [ ] Décision J+15
 <hr><hr>
 
-<hr><hr>
 ## 📌 NOTES IMPORTANTES
 
 > **Rappel important** : L'avocat sera désigné **d'office par le BAJ** (AJ totale = désignation automatique). Ne pas contacter d'avocat soi-même.

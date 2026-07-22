@@ -11,7 +11,6 @@ date: 2026-07-22
 
 # 💈 FICHE RÉCAPITULATIVE — SAS HB BARBER
 **Document d'information et de preuve d'immatriculation RNE / SIRENE**
-<hr><hr>
 ## I — IDENTITÉ DE LA SOCIÉTÉ EXPLOITANTE
 
 - **Dénomination sociale** : SAS HB BARBER
@@ -33,7 +32,6 @@ date: 2026-07-22
 - **Adresse du siège et de l'établissement** : 22 GRANDE RUE LA FAURIE, 09000 FOIX
 <hr><hr>
 
-<hr><hr>
 ## II — DIRECTION ET GESTION SOCIALE
 
 - **Président de la SAS** :
@@ -49,7 +47,6 @@ date: 2026-07-22
   - **Commune de résidence** : Baillargues (34670)
 <hr><hr>
 
-<hr><hr>
 ## III — LIEN ET CONTINUITÉ AVEC LA SAS LES MAUVAIS GARÇONS
 
 1. **Localisation identique** : Exploitation continue du même local commercial d'Établissement Recevant du Public (ERP) situé au 22 Rue Lafaurie à Foix.
@@ -59,7 +56,6 @@ date: 2026-07-22
 3. **Cessation & Reprise** : Cessation de l'ancienne entité au 10/03/2026 suivie immédiatement de la création et reprise d'activité par HB BARBER au 22/04/2026.
 <hr><hr>
 
-<hr><hr>
 ## IV — CADRE DE VERSEMENT PROCÉDURAL (27/07/2026)
 
 Document versé au **Commissariat de Police de Foix** le 27 juillet 2026 à l'appui du complément de plainte (PV initial n° 2026/015967) aux fins de :

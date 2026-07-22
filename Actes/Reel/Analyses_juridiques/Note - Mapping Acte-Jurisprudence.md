@@ -11,7 +11,6 @@ type: analyse
 # Note - Mapping Acte-Jurisprudence
 
 Ce document référence toutes les citations de jurisprudence au sein des actes et analyses du dossier, en identifiant les forces, faiblesses et les éventuels manques (trous identifiés).
-<hr><hr>
 ## A. MATRICE ACTE × JURISPRUDENCE
 
 | Acte | 00-82.066 | 01-02.274 | 11-03512 | 11-13.384 | 11-15.699 | 13-80.849 | 14-15.326 | 15-01748 | 16-24.631 | 17-26.282 | 18-17.868 | 19-08999 | 19-15.659 | 19-23.173 | 20-05541 | 20-15.106 | 20-16.463 | 20-19.288 | 20-22.100 | 20-23.462 | 21-04988 | 21-14.197 | 22-01019 | 22-02447 | 22-18.089 | 22-19.307 | 23-12.369 | 24-17.944 | 24-21.702 | 63-13.613 | 70-12.124 | 74-10.466 | 80-14.994 | 80-16.679 | 89-18.422 | 90-14.591 | 91-13.580 | 91-15.035 | 92-13.880 | 97-17.378 | 99-17.092 |
@@ -68,7 +67,6 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 | [TJ Foix - Référé Provision - Ordonnance Projet](../Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision - Ordonnance Projet.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 <hr><hr>
 
-<hr><hr>
 ## B. POUR CHAQUE ACTE, ARGUMENTS ÉTAYÉS
 
 ### DJI Foix - Parquet - Réquisitoire Introductif
@@ -472,7 +470,6 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
   > Le dossier contient des éléments sérieux pour plaider la faute détachable (absence d'assurance identifiable en ERP depuis l'ouverture, défaut d'entretien caractérisé d'un équipement dangereux, abstention persistante des dirigeants malgré mises en demeure — arrêt SATI, Civ. com., 20 mai 2003, n° 99-17.092). Mais cette qualification est classiquement réservée au juge du fond, ce qui justifie le scénario A en référé. Le curseur pourra être ajusté selon l'audience et les éléments recueillis entre-temps.
 <hr><hr>
 
-<hr><hr>
 ## C. TROUS IDENTIFIÉS
 
 Pour chaque argument clé qui N'A PAS de jurisprudence de support :
@@ -753,7 +750,6 @@ Pour chaque argument clé qui N'A PAS de jurisprudence de support :
   - **Mots-clés de recherche (Légifrance) :** `texte="contestation sérieuse" ET texte="provision"`
 <hr><hr>
 
-<hr><hr>
 ## D. FORCES ET FAIBLESSES
 
 ### Actes les mieux étayés juridiquement

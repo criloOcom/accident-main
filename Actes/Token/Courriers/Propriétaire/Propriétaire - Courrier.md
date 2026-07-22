@@ -53,7 +53,6 @@ Objet : Demande de communication d'assurance RC — Accident **[J+0 Accident](..
 La présente lettre est adressée par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** à **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** en sa qualité de propriétaire bailleur des locaux commerciaux situés au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de l'exploitant.
 
 Cette démarche s'inscrit dans le cadre de la procédure d'indemnisation du grave accident corporel survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** dans lesdits locaux.
-<hr><hr>
 ## II — RAPPEL DES OBLIGATIONS LÉGALES
 
 L'article 1719 du Code civil impose au bailleur de délivrer au preneur un local en bon état d'usage et de faire jouir paisiblement le preneur pendant toute la durée du bail.
@@ -99,7 +98,6 @@ Je vous remercie d'avance pour votre diligence et votre coopération indispensab
 Dans l'attente de votre retour rapide,
 <hr><hr>
 
-<hr><hr>
 ## III — TRANSPARENCE SUR LA SUITE DONNÉE AU DOSSIER
 
 La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet :
@@ -128,7 +126,6 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 <!-- PJ -->
 <hr><hr>
 
-<hr><hr>
 ## PIECES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
@@ -147,7 +144,6 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [Article 1719 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) ↩

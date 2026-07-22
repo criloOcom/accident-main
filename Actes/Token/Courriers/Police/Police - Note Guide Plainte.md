@@ -46,7 +46,6 @@ jx: J+47
 # GUIDE DE DIALOGUE<br>ÉCHANGES AVEC LA POLICE DE FOIX
 
 **Objectif :** Ce guide vous accompagne pas à pas lors de votre déplacement au commissariat de Foix. Il contient les phrases clés à utiliser, les questions à poser, les réponses aux objections possibles, et la stratégie pour présenter efficacement votre dossier.
-<hr><hr>
 ## I — PRÉPARATION AVANT LE DÉPLACEMENT
 
 ### I.1 — Checklist des documents à apporter
@@ -95,7 +94,6 @@ jx: J+47
 - Prévoyez un moyen de transport pour rentrer
 <hr><hr>
 
-<hr><hr>
 ## II — ACCUEIL ET PREMIER CONTACT
 
 ### II.1 — À l'accueil du commissariat
@@ -109,7 +107,6 @@ jx: J+47
 "Merci beaucoup. Dois-je m'asseoir ou puis-je attendre directement au guichet ?"
 <hr><hr>
 
-<hr><hr>
 ## III — PRÉSENTATION AU SERVICE DES PLAINTES
 <hr><hr>
 
@@ -121,7 +118,6 @@ jx: J+47
 "Voici le dossier complet que j'ai préparé. Il contient la plainte complémentaire détaillée avec toutes les références juridiques, ainsi que les pièces justificatives. Je peux vous en faire un résumé si vous le souhaitez, ou vous préférez le parcourir d'abord ?"
 <hr><hr>
 
-<hr><hr>
 ## IV — PRÉSENTATION ORALE DES FAITS
 
 ### IV.1 — Résumé structuré (2-3 minutes max)
@@ -143,7 +139,6 @@ jx: J+47
 "Mon audit auprès du RNE et de l'INPI montre que la société est toujours 'active', mais en réalité, c'est une coquille vide : 0 salarié déclaré, pas de représentant joignable, et pourtant le commerce a rouvert le 6 juillet. C'est une dissimulation caractérisée de l'identité des vrais responsables."
 <hr><hr>
 
-<hr><hr>
 ## V — RÉPONSES AUX QUESTIONS COURANTES
 
 ### V.1 — Questions probables et réponses préparées
@@ -165,7 +160,6 @@ jx: J+47
 **R :** "Je sollicite plusieurs choses : 1) L'ouverture d'une enquête pour obstruction à la justice et dissimulation de preuves, 2) Un contrôle physique du salon pour vérifier l'état des lieux et rechercher les éventuelles vidéosurveillances, 3) L'identification des vrais responsables actuels de l'établissement, et 4) Un contrôle de conformité complet au titre des obligations ERP et du Code du travail."
 <hr><hr>
 
-<hr><hr>
 ## VI — DEMANDES SPÉCIFIQUES À FORMULER
 <hr><hr>
 
@@ -195,7 +189,6 @@ jx: J+47
 > **Code de procédure pénale > Section 1 : Dispositions générales — abrogation différée.[^4]**
 <hr><hr>
 
-<hr><hr>
 ## VII — STRATÉGIE FACE AUX OBJECTIONS
 
 ### VII.1 — Objections possibles et réponses
@@ -221,7 +214,6 @@ jx: J+47
 "Je comprends parfaitement les contraintes des services de police, et j'apprécie le travail que vous faites. Cependant, je tiens à souligner que le délai est un facteur crucial dans cette affaire. Plus le temps passe, plus le risque de disparition définitive des preuves augmente. C'est pourquoi je sollicite, si possible, qu'une première vérification sur place soit effectuée rapidement, ne serait-ce que pour constater l'état actuel du salon et tenter de récupérer d'éventuels enregistrements de vidéosurveillance avant qu'il ne soit trop tard."
 <hr><hr>
 
-<hr><hr>
 ## VIII — QUESTIONS À POSER AUX POLICIERS
 
 ### VIII.1 — Questions stratégiques pour faire avancer l'enquête
@@ -254,7 +246,6 @@ jx: J+47
 12. "À qui dois-je m'adresser pour suivre l'avancement de l'enquête ?"
 <hr><hr>
 
-<hr><hr>
 ## IX — CLÔTURE DE L'ENTRETIEN
 
 ### IX.1 — Phrases de conclusion
@@ -277,7 +268,6 @@ jx: J+47
 3. Les coordonnées précises de la personne à contacter pour le suivi ?"
 <hr><hr>
 
-<hr><hr>
 ## X — SUIVI POST-DÉPÔT
 
 ### X.1 — Actions à effectuer après le dépôt
@@ -313,7 +303,6 @@ jx: J+47
 - [ ] Envisager un signalement au Procureur si aucune suite n'est donnée
 <hr><hr>
 
-<hr><hr>
 ## XI — MÉMO JURIDIQUE RAPIDE
 
 ### XI.1 — Résumé des infractions dénoncées
@@ -342,7 +331,6 @@ jx: J+47
 - Art. L. 124-3 : "Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile."
 <hr><hr>
 
-<hr><hr>
 ## XII — CHECKLIST FINALE AVANT DE PARTIR
 
 **📋 Vérifications dernières minutes :**
@@ -394,7 +382,6 @@ jx: J+47
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩

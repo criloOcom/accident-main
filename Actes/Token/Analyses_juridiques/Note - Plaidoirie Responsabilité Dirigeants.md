@@ -27,7 +27,6 @@ jx: J+32
 Rédigé le [**[J+32 Assignation référé]**](../../../Memory/Tokens/token-j-32-assignation-refere.md)
 
 Rédigé par : La Victime
-<hr><hr>
 ## I — INTRODUCTION
 
 Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) dans le cadre de l'accident corporel survenu le [**[J+0 Accident]**](../../../Memory/Tokens/token-j-0-accident.md).
@@ -44,6 +43,7 @@ Ce document examine les fondements juridiques de la mise en cause de la responsa
 
 Il identifie les manquements aux obligations légales et réglementaires imputables aux dirigeants et évalue les perspectives d'engagement de leur responsabilité personnelle à l'égard de la victime.
 <hr><hr>
+
 ## II — PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 
 Le présent mémorandum analyse les fondements de la responsabilité civile et pénale consécutifs à l'accident corporel survenu le [**[J+0 Accident]**](../../../Memory/Tokens/token-j-0-accident.md) au sein du salon exploité par [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md).
@@ -54,6 +54,7 @@ La situation est complexifiée par le silence des dirigeants, [**[Le Président 
 
 PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) est désigné comme « La Victime », [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) comme « L'Exploitant », et [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-dg-nom.md) comme « Les Dirigeants ».
 <hr><hr>
+
 ## III — LE CADRE JURIDIQUE DE LA RESPONSABILITÉ DES DIRIGEANTS
 ### III.1 — LA FAUTE DÉTACHABLE DES FONCTIONS ET L'ÉCRAN DE LA PERSONNALITÉ MORALE
 
@@ -93,6 +94,7 @@ Une condamnation pour blessures involontaires sur le fondement de l'article 222-
 > [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000240426](../../../Lois/Code/LEGIARTI0000240426.md)40) <br>
 > **Code pénal > Partie législative > Livre II > Titre II > Chapitre II > Section 2.[^6]**
 <hr><hr>
+
 ## IV — MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
 ### IV.1 — L'ACTION DIRECTE CONTRE L'ASSUREUR DE RESPONSABILITÉ CIVILE
 
@@ -124,6 +126,7 @@ Elle ne se limite pas à la perte de gains actuels mais inclut la dévalorisatio
 
 Le préjudice global est estimé à **~90 000 €**, incluant le déficit fonctionnel permanent et les souffrances endurées, tel que détaillé dans l'étude d'indemnisation prospective.
 <hr><hr>
+
 ## V — SYNTHÈSE DES ACTIONS ET DÉMARCHES EN COURS
 
 Une stratégie multi-niveaux a été déployée : une plainte pénale complémentaire a été déposée pour défaut d'assurance et entrave, parallèlement à la transmission des pièces médicales au Procureur. 
@@ -131,6 +134,7 @@ Une stratégie multi-niveaux a été déployée : une plainte pénale complémen
 Enfin, des mises en demeure ont été adressées à L'Exploitant et à ses Dirigeants pour obtenir les garanties nécessaires à la résolution du litige, tandis que le propriétaire des murs a été sollicité pour la communication des coordonnées de l'assureur (via les annexes du bail commercial).
 <!-- Source -->
 <hr><hr>
+
 ## Sources Législation
 
 [^1]: [Article L. 223-22 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062231](../../../Lois/Code/LEGIARTI0000062231.md)41](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062231](../../../Lois/Code/LEGIARTI0000062231.md)41) ↩

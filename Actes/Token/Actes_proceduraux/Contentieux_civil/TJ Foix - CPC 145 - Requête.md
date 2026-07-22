@@ -50,8 +50,6 @@ Cabinet du Juge des Référés
 <!-- /Destinataire -->
 
 [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md), le 20 juillet 2026
-<hr><hr>
-
 ## I — INTRODUCTION
 
 La présente requête est introduite par [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) sur le fondement de l'article 145 du Code de procédure civile.

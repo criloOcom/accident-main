@@ -37,7 +37,6 @@ drive_id: 1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU
 # DOSSIER DE PRÉSENTATION : DESTINÉ AU CONSEIL JURIDIQUE
 > 🔗 Source Google Drive : [1DdpbOypghzt…](https://drive.google.com/open?id=1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU)
 Rédigé le [**[J+32 Assignation référé]**](../../../Memory/Tokens/token-j-32-assignation-refere.md)
-<hr><hr>
 ## INTRODUCTION
 
 Le présent dossier de présentation est destiné au conseil juridique de [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) dans le cadre du contentieux l'opposant à [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) à la suite de l'accident corporel grave survenu le [**[J+0 Accident]**](../../../Memory/Tokens/token-j-0-accident.md).
@@ -47,11 +46,9 @@ Ce document rassemble l'ensemble des éléments factuels, administratifs et juri
 Il contient une synthèse des faits, l'inventaire des pièces constitutives du dossier, ainsi qu'une analyse des voies de droit envisageables pour assurer la réparation intégrale des préjudices subis par la victime.
 <hr><hr>
 
-<hr><hr>
 ## SYNTHÈSE DES FAITS, PIÈCES ADMINISTRATIVES ET STRATÉGIE DE RECOUVREMENT - AFFAIRE [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
-<hr><hr>
 ## I — STRATÉGIE DE RECOUVREMENT DES HONORAIRES PAR SUBROGATION ET PROTECTION FINANCIÈRE DE LA VICTIME
 
 L'assistance par un avocat est indispensable pour mener à bien la liquidation du préjudice corporel et sécuriser l'indemnisation face à l'assureur de [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md).
@@ -74,7 +71,6 @@ Afin de lever tout obstacle financier pour [**[La Victime]**](../../../Memory/To
 4. La demande de provision ad hoc pour frais de procédure : Lors de l'assignation en référé-provision, l'avocat sollicitera une provision ad hoc à valoir sur les frais futurs d'expertise médicale et d'assistance juridique.
 <hr><hr>
 
-<hr><hr>
 ## II — EXPOSÉ FACTUEL DES FAITS ET DE LA PROCÉDURE CHRONOLOGIQUE
 
 Le vendredi [**[J+0 Accident]**](../../../Memory/Tokens/token-j-0-accident.md), [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) s'est présenté au salon de coiffure « [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) » à [**[La Ville de l'Accident]**](../../../Memory/Tokens/token-accident-ville.md) ([**[L'Adresse de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-adresse.md)) pour une prestation de coupe de cheveux. Après réalisation de celle-ci, il a payé et quitté le salon vers 15h00.
@@ -90,7 +86,6 @@ Ce choc a provoqué une section profonde de 8,5 cm au niveau de sa paume droite 
 Les examens cliniques constatent une section partielle du tendon fléchisseur, une section complète du paquet collatéral et une neurolyse du nerf palmaire, entraînant un arrêt de travail total de 55 jours (jusqu'au [**[J+55 Fin d'ITT]**](../../../Memory/Tokens/token-j-55-fin-d-itt.md) inclus) et des paresthésies sévères de l'index droit.
 <hr><hr>
 
-<hr><hr>
 ## III — ACTIONS ENGAGÉES ET BORDEREAU DES PIÈCES
 
 [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) agit actuellement en son nom propre et a formalisé les démarches suivantes :
@@ -120,7 +115,6 @@ Les examens cliniques constatent une section partielle du tendon fléchisseur, u
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩

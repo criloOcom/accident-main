@@ -21,8 +21,6 @@ reel_path: ../../../Reel/Actes_proceduraux/Contentieux_penal/Parquet Foix - Plai
 <!-- /Breadcrumb -->
 
 # PLAINTE COMPLÉMENTAIRE
-<hr><hr>
-
 ## Correction de l'identité de la société exploitante
 
 <hr><hr>

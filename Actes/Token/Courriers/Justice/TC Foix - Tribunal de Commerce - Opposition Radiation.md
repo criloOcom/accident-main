@@ -61,7 +61,6 @@ Service du Registre du Commerce et des Sociétés
 Monsieur le Président,
 
 J'interviens dans les intérêts de Monsieur **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu au sein des locaux exploités par la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
-<hr><hr>
 ## I — PROBLÉMATIQUE : RISQUE DE DISPARITION DE LA PERSONNE MORALE
 
 À la suite de ce grave sinistre, de multiples manquements aux règles de sécurité, constitutifs d'infractions pénales, ont été constatés à l'encontre de la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
@@ -73,7 +72,6 @@ Or, mes investigations révèlent un risque imminent de radiation de cette soci�
 Une telle radiation entraînerait la perte de la personnalité morale de l'entreprise, faisant ainsi obstacle aux actions en responsabilité civile et pénale initiées par mon client, et le privant de tout recours effectif à l'encontre de la société exploitante.
 <hr><hr>
 
-<hr><hr>
 ## II — FONDEMENT JURIDIQUE : LA RADIATION D'OFFICE
 
 Le Code de commerce encadre strictement les conditions de radiation d'office d'un commerçant ou d'une personne morale, notamment afin de prévenir la soustraction aux poursuites.
@@ -86,7 +84,6 @@ Le Code de commerce encadre strictement les conditions de radiation d'office d'u
 > Code de commerce[^1] <br>
 <hr><hr>
 
-<hr><hr>
 ## III — ARGUMENTATION : NÉCESSITÉ D'UNE MESURE CONSERVATOIRE
 
 Les dispositions précitées, si elles permettent l'assainissement du registre, ne sauraient être instrumentalisées par une entreprise débitrice d'obligations indemnitaires pour organiser son insolvabilité ou échapper à la justice.
@@ -98,7 +95,6 @@ Il est de jurisprudence constante que les créanciers justifiant d'un intérêt 
 L'intérêt à agir de mon client est ici caractérisé et actuel, fondé sur un accident documenté et en cours de judiciarisation.
 <hr><hr>
 
-<hr><hr>
 ## IV — CONCLUSION : DEMANDE D'OPPOSITION
 
 Au vu de l'urgence et du risque avéré de dissipation des garanties, je vous prie de bien vouloir, par la présente :
@@ -116,7 +112,6 @@ Avocat au Barreau
 <!-- PJ -->
 <hr><hr>
 
-<hr><hr>
 ## PIECES JOINTES
 
 - **[Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de [La Ville de l'Accident]
@@ -133,7 +128,6 @@ Avocat au Barreau
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [Art. R.123-128 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214) ↩

@@ -13,7 +13,6 @@ reel_path: ../../Reel/Organisation/Note - Plan Constat Police Foix.md
 # Plan : Constat par la Police Municipale vs Commissaire de Justice (Huissier)
 
 Ce plan analyse la possibilité juridique de demander au Maire de **[La Ville de l'Accident](../../../Memory/Tokens/token-accident-ville.md)** d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à **[L'Adresse de l'Exploitation](../../../Memory/Tokens/token-exploitation-adresse.md)** , et définit la marche à suivre pour votre courrier de demain matin.
-<hr><hr>
 ## I — Analyse de Faisabilité Juridique
 
 ### I.1 — Peut-on demander à la police de faire le constat à la place d'un huissier ?
@@ -28,7 +27,6 @@ Ce plan analyse la possibilité juridique de demander au Maire de **[La Ville de
     2.  **L'Huissier (Commissaire de Justice)** : Fait un constat précis et neutre de la configuration des lieux, de l'identité de l'exploitant réel présent sur le terrain, pour servir de preuve incontestable devant le tribunal.
 <hr><hr>
 
-<hr><hr>
 ## II — Plan d'Action Proposé
 
 ### II.1 — Action 1 : Envoi du mail au Maire de Foix (Demain matin, 8h00)
@@ -46,7 +44,6 @@ Même si le Maire envoie la police, vous devez maintenir la démarche d'huissier
 *   **Action** : Soumettre la requête au Président du TJ de Foix la semaine prochaine lors de votre déplacement.
 <hr><hr>
 
-<hr><hr>
 ## III — Modèle de Mail Prêt pour le Maire de Foix (Demain matin)
 
  Voici le corps du mail à envoyer demain matin à 8h00 à l'adresse de la Mairie de Foix (généralement `**[L'Adresse de la Mairie de la Commune]**` ou via leur formulaire de contact) :
@@ -79,7 +76,6 @@ Restant à votre entière disposition,
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [art. L. 2212-2 du CGCT — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370) ↩

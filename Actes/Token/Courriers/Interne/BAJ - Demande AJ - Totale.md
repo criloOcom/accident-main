@@ -44,7 +44,6 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 > **Formulaire CERFA n°16146*03**
 > À déposer au **BAJ du Tribunal Judiciaire de Foix**
 > Avenue Paul Laffont, 09000 Foix
-<hr><hr>
 ## I — IDENTITÉ DU DEMANDEUR
 
 | Champ | Renseignement |
@@ -61,7 +60,6 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 | **Email** | [**[L'Email de la Victime]**](../../../../Memory/TOKEN%20MAP.md#donnees-localisantes) |
 <hr><hr>
 
-<hr><hr>
 ## II — SITUATION PROFESSIONNELLE ET RESSOURCES
 
 ### Profession
@@ -82,7 +80,6 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 > Le demandeur justifie de ressources inférieures au plafond légal pour l'AJ totale (barème 2026).
 <hr><hr>
 
-<hr><hr>
 ## III — OBJET DE LA DEMANDE
 
 - [✅] **Bénéficier de l'aide juridictionnelle pour une procédure**
@@ -112,7 +109,6 @@ Demande d'indemnisation pour **accident corporel** — responsabilité civile du
 4. [**[La Directrice Générale de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md#personnes-physiques), dirigeante
 <hr><hr>
 
-<hr><hr>
 ## IV — URGENCE — DEMANDE DE TRAITEMENT ACCÉLÉRÉ
 
 Le demandeur sollicite un **traitement accéléré** de sa demande d'AJ pour le motif suivant :
@@ -126,7 +122,6 @@ Le demandeur sollicite un **traitement accéléré** de sa demande d'AJ pour le 
 > **L'audience de référé-provision a été fixée au 31 juillet 2026**, ce qui rend impérative l'obtention rapide de l'AJ pour permettre la signification de l'assignation par avocat.
 <hr><hr>
 
-<hr><hr>
 ## V — PIÈCES JOINTES
 
 ### Obligatoires
@@ -152,7 +147,6 @@ Le demandeur sollicite un **traitement accéléré** de sa demande d'AJ pour le 
 - [ ] **Copie de la requête Art. 145 CPC** (si déjà déposée)
 <hr><hr>
 
-<hr><hr>
 ## VI — OBSERVATIONS COMPLÉMENTAIRES
 <hr><hr>
 
@@ -169,7 +163,6 @@ Fait pour valoir ce que de droit.
 **Signature :**
 <hr><hr>
 
-<hr><hr>
 ## VII — INSTRUCTIONS DE DÉPÔT
 
 ### Où déposer

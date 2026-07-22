@@ -36,8 +36,6 @@ jx: J+368
 
 # CONCLUSIONS AU FOND
 <!-- Auteur -->
-<hr><hr>
-
 ## I — POUR :
 
 [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md)

@@ -51,7 +51,6 @@ Objet : Mise en demeure — Action directe [Art. L.124-3](https://www.legifrance
 Réf : Dossier [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) / [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
 Madame, Monsieur,
-<hr><hr>
 ## INTRODUCTION
 
 La présente lettre de mise en demeure est adressée par [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) à la compagnie d'assurance de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) sur le fondement de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1], lequel institue une action directe de la victime contre l'assureur du responsable.
@@ -150,7 +149,6 @@ Mes coordonnées : [10 Avenue de Purpan, 31700 Blagnac](../../../Memory/Tokens/t
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [Art. L.124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩

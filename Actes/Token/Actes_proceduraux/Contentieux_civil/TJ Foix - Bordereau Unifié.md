@@ -31,8 +31,6 @@ jx: J+39
 # BORDEREAU DE PIÈCES
 
 > **Procédure :** Référé (Art. 835 CPC, Art. 145 CPC) — <!-- Auteur -->**Demandeur :** [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md)<!-- /Auteur --> — <!-- Destinataire -->**Défendeur :** [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)<!-- /Destinataire -->
-<hr><hr>
-
 ## I — GROUPE A — PREUVES DE L'ACCIDENT
 ### PIÈCE N° 1
 
@@ -48,7 +46,7 @@ jx: J+39
 
 ### PIÈCE N° 4
 
-- [**[J+3 Premiers arrêts]**](../../../../Memory/Tokens/token-j-3-premiers-arrets.md) au [**[J+55 Fin d'ITT]**](../../../../Memory/Tokens/token-j-55-fin-d-itt.md) — [**[Arrêts de travail]**](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et prolongations ([**[Le Médecin Généraliste]**](../../../../Memory/Tokens/token-victime-medecin-generaliste.md), [**[Le Médecin Généraliste]**](../../../../Memory/Tokens/token-victime-medecin-generaliste.md)) : [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 29 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.
+- [**[J+3 Premiers arrêts]**](../../../../Memory/Tokens/token-j-3-premiers-arrets.md) au [**[J+55 Fin d'ITT]**](../../../../Memory/Tokens/token-j-55-fin-d-itt.md) — [**[Arrêts de travail]**](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et prolongations ([**[Le Médecin Traitant]**](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)) : [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 29 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.
 
 ### PIÈCE N° 5
 
@@ -154,7 +152,7 @@ jx: J+39
 ## VII — GROUPE G — PIÈCES COMPLÉMENTAIRES
 ### PIÈCE N° 26
 
-- [**[J+5 Ouverture CPAM]**](../../../../Memory/Tokens/token-j-5-ouverture-cpam.md) — Déclaration d'accident CPAM (Ameli) : Déclaration de recours contre tiers enregistrée sous le n° 31727387 contre la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md).
+- [**[J+5 Ouverture CPAM]**](../../../../Memory/Tokens/token-j-5-ouverture-cpam.md) — Déclaration d'accident CPAM (Ameli) : Déclaration de recours contre tiers enregistrée sous le n° [**[N° Dossier CPAM Victime]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md) contre la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md).
 
 ### PIÈCE N° 27
 
@@ -192,7 +190,7 @@ jx: J+39
 
 ### PIÈCE N° 32
 
-- **05/06/2026** — Envoi recommandé d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (LR n° 870014140507947).
+- **05/06/2026** — Envoi recommandé d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (LR n° [**[N° LRAR Arrêt de Travail]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)).
 
 ### PIÈCE N° 33
 

@@ -23,13 +23,13 @@ jx: J+41
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # NOTE JURIDIQUE <br> SUR LA RESPONSABILITÉ DES DIRIGEANTS EN CAS DE DISSOLUTION FRAUDULEUSE
-<hr><hr>
 ## I — PROBLÉMATIQUE
 
 Dans l'hypothèse où [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-dg-nom.md) procèderaient à la dissolution ou à la radiation de [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) afin d'échapper aux poursuites et à l'indemnisation de [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md), leur responsabilité personnelle pourrait être engagée sur plusieurs fondements.
 
 La présente note analyse les trois voies de recours contre les dirigeants à titre personnel.
 <hr><hr>
+
 ## II — FONDEMENTS JURIDIQUES
 
 ### II.1 — Responsabilité civile des dirigeants de SAS — Article L.227-8 C.com.
@@ -67,6 +67,7 @@ La jurisprudence constante de la Cour de cassation (chambre commerciale, arrêt 
 > **Cour de cassation, Chambre commerciale, 20 mai 2003[^4]** — Arrêt SATI
 > [Pourvoi n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69)
 <hr><hr>
+
 ## III — SYNTHÈSE ET RECOMMANDATIONS
 
 | Fondement | Nature | Condition | Effet |
@@ -79,6 +80,7 @@ La jurisprudence constante de la Cour de cassation (chambre commerciale, arrêt 
 **Conclusion :** la disparition frauduleuse de la SAS engage à titre personnel [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-dg-nom.md). Il est recommandé de les mettre en cause personnellement dès la phase de référé-provision et de les viser dans le signalement au Parquet.
 <!-- Source -->
 <hr><hr>
+
 ## Sources Législation
 
 [^1]: [Article L.227-8 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062270](../../../Lois/Code/LEGIARTI0000062270.md)36](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062270](../../../Lois/Code/LEGIARTI0000062270.md)36) ↩

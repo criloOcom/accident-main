@@ -57,7 +57,6 @@ Objet : Demande de mutualisation fiscale et sociale urgente — SAS [**[L'Exploi
 Ref : SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md)
 
 Madame, Monsieur le Responsable,
-<hr><hr>
 ## I — OBJET DE LA DEMANDE
 
 La presente est adressee conjointement a vos deux services par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**.
@@ -67,7 +66,6 @@ L'accident, cause par la chute du prepose depuis un bac a shampoing en ceramique
 **Les montants en jeu sont estimes a 105 000 €** (evaluation Dintilhac detaillee), dont 15 000 € de provision immediatement exigible en reféré.
 <hr><hr>
 
-<hr><hr>
 ## II — RISQUE FISCAL ET SOCIAL IDENTIFIE
 
 La SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) presente les caracteristiques suivantes, revelatrices d'un risque eleve de disparition frauduleuse :
@@ -85,7 +83,6 @@ La SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token
 L'absence totale de reponse des dirigeants laisse presager un risque de **dissolution, liquidation ou radiation volontaire** de la societe avant que les creances ne puissent etre recouvrees, conformement au mecanisme de _fraus omnia corrumpit_.
 <hr><hr>
 
-<hr><hr>
 ## III — FONDEMENTS JURIDIQUES
 
 **Article L.252 du Livre des procedures fiscales** (LEGIARTI000006316012) : le recouvrement des impot est confie aux comptables publics competents, qui exercent les actions liees au recouvrement des creances fiscales et celles indirectement liees n'ayant pas une cause etrangere a l'impot (article 38 de la loi n° 55-366 du 3 avril 1955).
@@ -97,7 +94,6 @@ L'absence totale de reponse des dirigeants laisse presager un risque de **dissol
 **Mecanisme de la fraude fiscale et sociale** : la societe pourrait chercher a se soustraire a ses obligations declaratives et fiscales avant la mise en recouvrement des creances indemnitaires.
 <hr><hr>
 
-<hr><hr>
 ## IV — DEMANDE DE MUTUALISATION
 
 Conformement aux pouvoirs respectifs du SIE (recouvrement des creances fiscales, L.252 LPF) et de l'URSSAF (recouvrement des cotisations sociales, L.8221-1 C.trav.), je sollicite :
@@ -123,7 +119,6 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 <!-- PJ -->
 <hr><hr>
 
-<hr><hr>
 ## PIECES JOINTES
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]

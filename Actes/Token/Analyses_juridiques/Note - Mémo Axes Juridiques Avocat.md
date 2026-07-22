@@ -13,7 +13,6 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 <!-- /Breadcrumb -->
 
 # MÉMO AXES JURIDIQUES
-<hr><hr>
 ## Pour l'avocat — Accident main 29 mai 2026 — Victime : [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md)
 
 <hr><hr>

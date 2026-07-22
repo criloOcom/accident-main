@@ -47,7 +47,6 @@ Objet : Déclaration d'accident corporel — Demande de communication des coordo
 Mode d’envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 
 Madame, Monsieur,
-<hr><hr>
 ## I — RAPPEL DU CADRE LÉGAL
 
 L’article L. 124-3 du Code des assurances reconnaît au tiers victime un droit d’action directe contre l’assureur de la personne responsable.
@@ -61,7 +60,6 @@ Par ailleurs, les exploitants d’un établissement recevant du public sont tenu
 Ces dispositions sont d’ordre public : elles s’imposent de plein droit à votre société.
 <hr><hr>
 
-<hr><hr>
 ## II — RAPPEL DES FAITS
 
 Je vous informe officiellement de l’accident corporel grave dont j’ai été victime au sein de votre établissement exploité sous l’enseigne HB Barber situé **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**, le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** aux environs de 15h20.
@@ -75,7 +73,6 @@ Le **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)**, j’ai
 Exerçant une activité d’informaticien indépendant (SIREN **[L'Identifiant Professionnel de la Victime](../../../../Memory/Tokens/token-victime-id-professionnel.md)**), cette incapacité m’empêche d’exercer normalement mon travail et me place dans une situation financière très fragile. Un recours contre tiers a été ouvert par la CPAM sous la référence [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md).
 <hr><hr>
 
-<hr><hr>
 ## III — EXCUSES SUR LE DÉLAI ET IDENTIFICATION RÉCENTE DE VOTRE SOCIÉTÉ
 
 Je tiens à m’excuser du délai écoulé avant de vous contacter.
@@ -85,7 +82,6 @@ Votre société [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tok
 Ce n’est qu’après réception des informations officielles communiquées par le bailleur et vérification des données d'immatriculation que j’ai pu vous identifier clairement comme l'exploitant en titre des locaux au jour du sinistre.
 <hr><hr>
 
-<hr><hr>
 ## IV — VOS OBLIGATIONS EN CAS D’ACCIDENT D’UN CLIENT ET LA VISITE DU 16 JUILLET
 
 En France, lorsqu’un client est victime d’un accident dans un commerce, le rôle normal du dirigeant n’est pas de discuter avec la victime de points de droit, mais de faire fonctionner les mécanismes prévus par la loi et les contrats. Concrètement, cela signifie :
@@ -111,7 +107,6 @@ Je vous invite donc, dans l’intérêt de chacun, à renoncer à ce type d’ex
 Quelle que soit l’interprétation que vous faites aujourd’hui de l’accident, cela ne change rien à vos obligations légales : en tant que dirigeants de la société exploitant les lieux, il vous appartient de déclarer le sinistre à votre assureur, de me communiquer ses coordonnées, et de laisser ensuite les assurances, la CPAM et, si nécessaire, la justice faire leur travail sur la base de faits exacts.
 <hr><hr>
 
-<hr><hr>
 ## V — CE QUE JE VOUS DEMANDE CONCRÈTEMENT
 
 Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)), je vous remercie de bien vouloir me transmettre, dans un délai de **quinze (15) jours** à compter de la réception de la présente :
@@ -125,7 +120,6 @@ Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours con
 Ces informations permettront à vos assureurs de prendre directement en charge la gestion du sinistre, conformément au mécanisme de l’action directe prévu par la loi.
 <hr><hr>
 
-<hr><hr>
 ## VI — SUITE ENVISAGÉE EN CAS D'ABSENCE DE RÉPONSE
 
 À défaut de réponse satisfaisante de votre part dans ce délai de quinze jours, le dossier sera transmis à mon conseil afin de saisir le Juge des référés du Tribunal judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** sur le fondement de l’article 145 du Code de procédure civile, afin d’obtenir judiciairement la production forcée de ces justificatifs sous astreinte financière journalière.
@@ -148,7 +142,6 @@ Téléphone : **[Le Téléphone de la Victime](../../../../Memory/Tokens/token-v
 <!-- PJ -->
 <hr><hr>
 
-<hr><hr>
 ## PIECES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Dépôt de plainte initial du 2 juin 2026
@@ -163,7 +156,6 @@ Téléphone : **[Le Téléphone de la Victime](../../../../Memory/Tokens/token-v
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩

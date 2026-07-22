@@ -86,6 +86,8 @@ Le demandeur expose qu'il s'est rendu le **29 mai 2026** au salon de coiffure ex
 L'accident a entraîné une section complète du tendon fléchisseur profond (FDP) de l'index droit, associée à une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une microchirurgie d'urgence le 30 mai 2026, puis une neurolyse du nerf palmaire. L'ITT a été fixée à **55 jours**. Le demandeur soutient que son obligation à indemnisation n'est pas sérieusement contestable et que l'absence de communication de la police d'assurance par les défendeurs le prive de son action directe.
 
 Les défendeurs, régulièrement cités par procès-verbal de recherches infructueuses, n'ont pas constitué avocat et n'ont pas comparu. Il sera statué par ordonnance réputée contradictoire en application de l'article 473 du Code de procédure civile.
+<hr><hr>
+
 ### MOTIFS
 
 #### I.1.a — Sur le caractère non sérieusement contestable de l'obligation (article 835 alinéa 2 CPC)
@@ -133,6 +135,8 @@ Les défendeurs, régulièrement cités par procès-verbal de recherches infruct
 #### I.1.d — Sur l'article 700 du Code de procédure civile et les dépens
 
 **Considérant** qu'il serait inéquitable de laisser à la charge du demandeur les frais exposés pour la présente instance ; que les défendeurs, qui succombent, seront condamnés in solidum aux dépens et à lui verser une indemnité sur le fondement de l'article 700 du Code de procédure civile ;
+<hr><hr>
+
 ### PAR CES MOTIFS
 
 Nous, **Juge des référés** du Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md), statuant publiquement, par ordonnance **réputée contradictoire** et en premier ressort,

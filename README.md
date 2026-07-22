@@ -61,7 +61,7 @@ Le dépôt est organisé en dossiers cliquables :
 
   - [WORKFLOW.md](./Memory/WORKFLOW.md) (procédure d'anonymisation)
 
-  - [Tokens](./Memory/Tokens/) (56 fiches individuelles par token)
+  - [Tokens](./Memory/Tokens/) (104 fiches individuelles par token)
 
 - **[Rapports](./Rapports/)** — audits, synthèses, évaluations, rapports d'analyse
 

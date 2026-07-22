@@ -35,7 +35,6 @@ Place de la Préfecture
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](./Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # NOTE PERSONNELLE
-<hr><hr>
 ## Complément de plainte — Commissariat de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
 
 **Victime :** **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, né le 18/01/1982 à **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)**
@@ -47,10 +46,9 @@ Place de la Préfecture
 **Objet :** Compléter et corriger ma plainte initiale ([ ... ] du 2 juin 2026, **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)** Rive Droite) concernant l'accident du 29 mai 2026 survenu au salon de coiffure situé 22 rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**.
 <hr><hr>
 
-<hr><hr>
 ## 1. RAPPEL DE MA PREMIÈRE PLAINTE À TOULOUSE (2 juin 2026)
 
-Le **2 juin 2026**, j'ai déposé une plainte au commissariat de [**[La Métropole Régionale]**](../../../../Memory/Tokens/token-accident-metropole.md) **Rive Droite** (23 Boulevard de l'Embouchure, 31066 **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)**). Le procès-verbal porte le numéro **[ ... ]**, établi par l'Agent de Police Judiciaire **Jordy RODRIGUEZ CAPARROS**.
+Le **2 juin 2026**, j'ai déposé une plainte au commissariat de [**[La Métropole Régionale]**](../../../../Memory/Tokens/token-accident-metropole.md) **Rive Droite** (23 Boulevard de l'Embouchure, 31066 **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)**). Le procès-verbal porte le numéro **[ ... ]**, établi par l'Agent de Police Judiciaire **[L'Agent de Police Judiciaire]**.
 
 J'y ai raconté en détail :
 - Les faits du **29 mai 2026** (accident dans un salon de coiffure à **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, bac à shampoing qui bascule, vasque en céramique déjà cassée, plaie palmaire profonde de 8,5 cm)
@@ -68,7 +66,6 @@ J'ai remis un **dossier de plainte écrit de ma main** (le 1er juin 2026), avec 
 Dès le départ, j'ai donc signalé aux policiers que je **n'avais pas la certitude absolue** sur la raison sociale, mais que je pensais à **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
 <hr><hr>
 
-<hr><hr>
 ## 2. CHRONOLOGIE COMPLÈTE DES FAITS
 
 ### 29 mai 2026 — L'accident (J+0)
@@ -83,13 +80,13 @@ Dès le départ, j'ai donc signalé aux policiers que je **n'avais pas la certit
 
 **Remboursement :** Je demande le remboursement de la prestation. Le coiffeur accepte verbalement (« OK »). La transaction est différée en raison de l'urgence médicale.
 
-**Prise en charge médicale :** Je me transporte en urgence au **Centre Ariégeois de Soins Immédiats de [La Ville de l'Accident]** (**[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**, RPPS 10005156871). Actes : lavage, désinfection, exploration sous anesthésie locale. Diagnostic : plaie palmaire droite profonde et compliquée. Orientation : transfert vers SOS Main – **[L'Établissement SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)** pour le lendemain à jeun.
+**Prise en charge médicale :** Je me transporte en urgence au **Centre Ariégeois de Soins Immédiats de [La Ville de l'Accident]** (**[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**, [**[RPPS Médecin Urgence]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)). Actes : lavage, désinfection, exploration sous anesthésie locale. Diagnostic : plaie palmaire droite profonde et compliquée. Orientation : transfert vers SOS Main – **[L'Établissement SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)** pour le lendemain à jeun.
 
 **Retour au salon :** Après les soins, je retourne au salon, main bandée, pour informer du pronostic chirurgical. Le coiffeur procède alors au **remboursement de 15 €** via Wero (réf. crédit [**[N° Transaction Wero]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) , depuis le compte « [**[Le Préposé de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques) »). Ce remboursement spontané matérialise la **reconnaissance de la matérialité de l'accident** par l'exploitant.
 
 ### 30 mai 2026 — Intervention chirurgicale (J+1)
 
-Opéré à la **[L'Établissement SOS Main] (SOS Main)** par le **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** (RPPS 10100814770). Constat opératoire :
+Opéré à la **[L'Établissement SOS Main] (SOS Main)** par le **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** ([**[RPPS Chirurgien SOS Main]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)). Constat opératoire :
 - Section partielle du **tendon fléchisseur superficiel** de l'index droit
 
 - Section totale du **paquet collatéral ulnaire et radial**
@@ -106,7 +103,7 @@ Pronostic : **Récupération nerveuse sur environ 1 an, souvent incomplète.**
 
 ### 1er juin 2026 — Consultations et démarches (J+3)
 
-**Consultation Dr Yogan OXYBEL** (RPPS 10101732609), **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)** :
+**Consultation [**[Le Médecin Traitant]**](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)** ([**[RPPS Médecin Traitant]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)) :
 - Plaie suturée de **8,5 cm** sur la face palmaire droite
 
 - Œdème réactionnel important
@@ -119,7 +116,7 @@ Pronostic : **Récupération nerveuse sur environ 1 an, souvent incomplète.**
 
 **Rédaction du dossier de plainte pénale :** Je rédige un dossier complet avec chronologie, qualifications juridiques, requêtes et bordereau de 11 pièces.
 
-**Signalement à la Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** :** J'envoie un courriel au Secrétariat Général de la Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** (Mme MAGALHAES) signalant un accident corporel grave dans un ERP (salon de coiffure **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, 22 rue Lafaurie). Je décris précisément l'accident et le matériel défectueux. Je demande la **conservation des vidéos de surveillance** et le déclenchement des procédures de sécurité.
+**Signalement à la Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** :** J'envoie un courriel au Secrétariat Général de la Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** ([**[La Secrétaire Générale de la Mairie]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)) signalant un accident corporel grave dans un ERP (salon de coiffure **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, 22 rue Lafaurie). Je décris précisément l'accident et le matériel défectueux. Je demande la **conservation des vidéos de surveillance** et le déclenchement des procédures de sécurité.
 
 ### 1er-4 juin 2026 — Réponse de la Mairie
 
@@ -174,7 +171,6 @@ J'envoie plusieurs lettres recommandées avec accusé de réception :
 Le salon reste **fermé** pendant plusieurs semaines après l'accident. Aucune information sur l'assurance n'est obtenue.
 <hr><hr>
 
-<hr><hr>
 ## 3. DÉCOUVERTE DE [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) — ÉLÉMENTS NOUVEAUX
 
 ### Mi-juillet 2026 — Recherche par adresse
@@ -244,7 +240,6 @@ Ces photos de l'état des lieux de sortie signé par le représentant de **[L'Ex
 3. Le bailleur **tire lui-même une conclusion juridique** (absence de responsabilité) — ce qui relève de l'autorité judiciaire, pas de lui
 <hr><hr>
 
-<hr><hr>
 ## 4. VISITE DES LIEUX DU 16 JUILLET 2026 — CONSTATATIONS
 
 ### Déroulement
@@ -288,7 +283,6 @@ La fermeture prolongée du salon après l'accident, combinée au remplacement co
 - **Retirer et remplacer** le matériel à l'origine de l'accident
 <hr><hr>
 
-<hr><hr>
 ## 5. CE QUE JE DEMANDE AUJOURD'HUI AU COMMISSARIAT DE **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
 
 ### A. Correction de l'identité de la société exploitante
@@ -333,14 +327,13 @@ Je sollicite respectueusement :
   - De l'existence d'une **assurance RC pro** pour la période
 <hr><hr>
 
-<hr><hr>
 ## 6. DÉCLARATION SUR L'HONNEUR
 
 Je certifie sur l'honneur que tout ce qui précède est la vérité. Je n'ai rien ajouté, rien omis, rien modifié. Je n'ai jamais menti dans cette affaire. Dès ma première plainte, j'ai précisé aux policiers que je n'étais pas certain à 100 % de l'identité du salon. Aujourd'hui, avec les éléments nouveaux, je viens compléter et corriger en toute transparence.
 
 ### 18 juillet 2026 — Contact témoin Ayoub (J+50)
 
-**16h00 :** Envoi d'un message WhatsApp au **+33 7 58 40 12 87** (numéro d'**[Le Préposé de l'Exploitation](../../../../Memory/Tokens/token-exploitation-prepose-nom.md)**) avec le formulaire CERFA 11527\*03 joint :
+**16h00 :** Envoi d'un message WhatsApp au **numéro d'[Le Préposé de l'Exploitation]** ([**[Le Téléphone du Préposé]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)) avec le formulaire CERFA 11527\*03 joint :
 
 > *Information du témoin sur la procédure en cours + proposition d'attester spontanément des faits constatés (coupe, accident, appel SAMU).*
 

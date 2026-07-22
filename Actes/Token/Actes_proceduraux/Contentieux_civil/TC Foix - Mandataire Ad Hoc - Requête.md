@@ -47,8 +47,6 @@ Et de sa Directrice Générale, Madame [**[La Directrice Générale de l'Exploit
 Monsieur le Président,
 
 Par la présente, il vous est respectueusement exposé ce qui suit :
-<hr><hr>
-
 ## I — EXPOSÉ DES FAITS
 
 Monsieur [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) a été victime d'un accident particulièrement grave dans les locaux de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), exploitée par Monsieur [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et Madame **[**[La Directrice Générale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md).

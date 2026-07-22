@@ -118,7 +118,6 @@ En vous remerciant de la prise en compte rapide de cette rectification, je vous 
 <!-- /Signature -->
 
 <!-- PJ -->
-<hr><hr>
 ## PIÈCES JOINTES :
 
 - [**Erratum officiel de correction d'identité de la société exploitante**](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md) (17/07/2026)

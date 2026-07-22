@@ -23,7 +23,6 @@ reel_path: ../../Reel/Analyses_juridiques/Mémoire - En défense adverse.md
 # MÉMOIRE EN DÉFENSE ADVERSE
 **Pour :** **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, **[Le Président de l'Exploitation](../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../Memory/Tokens/token-exploitation-dg-nom.md)** (Partie Défenderesse)
 **Contre :** **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** (Partie Demanderesse)
-<hr><hr>
 ## I — INTRODUCTION
 
 Le présent mémorandum est établi pour la défense des intérêts de la société **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et de ses dirigeants, assignés en référé-provision par Monsieur **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** suite à un incident survenu le **[J+0 Accident](../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure.
@@ -37,7 +36,6 @@ Or, une analyse rigoureuse des pièces du dossier démontre l'existence de conte
 > **Code de procédure civile > Chapitre II : Les ordonnances de référé.[^1]**
 <hr><hr>
 
-<hr><hr>
 ## II — SUR L'EXISTENCE DE CONTESTATIONS SÉRIEUSES (ART. 835 CPC)
 
 ### II.1 — Une carence probatoire manifeste sur les circonstances
@@ -66,7 +64,6 @@ La victime reconnaît elle-même avoir « tendu la main droite par réflexe » e
 Cette imprudence est de nature à exonérer, au moins partiellement, la gardienne de la chose de sa responsabilité, rendant l'obligation de réparation intégralement contestable en référé.
 <hr><hr>
 
-<hr><hr>
 ## III — SUR LA MISE EN CAUSE ABUSIVE DES DIRIGEANTS
 
 La demanderesse tente d'engager la responsabilité personnelle in solidum de **[Le Président de l'Exploitation](../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../Memory/Tokens/token-exploitation-dg-nom.md)** en invoquant une prétendue « faute détachable ».
@@ -82,7 +79,6 @@ Un prétendu défaut de signalisation d'une vasque ébréchée, à le supposer �
 Il n'y a ici aucune intention de nuire ni aucune infraction pénale intentionnelle de la part des dirigeants justifiant la levée de l'immunité.
 <hr><hr>
 
-<hr><hr>
 ## IV — SUR LE CHIFFRAGE EXORBITANT ET PRÉMATURÉ DES PRÉJUDICES
 
 La demande de provision de [15 000 €](../../../Memory/Tokens/token-finance-provision-refere.md), fondée sur un préjudice global fantaisiste évalué par la partie adverse à près de 105 000 €, se heurte à des obstacles médico-légaux majeurs.
@@ -108,7 +104,6 @@ Chiffré à 8 000 € au motif d'une pratique de la guitare. La victime ne produ
 Sortis ex nihilo après réévaluation, non justifiés par des factures probantes.
 <hr><hr>
 
-<hr><hr>
 ## V — CONCLUSION ET DEMANDES
 
 Le juge des référés est le juge de l'évidence. En l'espèce :
@@ -126,7 +121,6 @@ Fait pour valoir ce que de droit.
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [Article 835 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) ↩

@@ -59,8 +59,6 @@ OBJET : COMPLÉMENT DE PLAINTE PÉNALE
 Dénonciation de défaut d'assurance de responsabilité civile professionnelle et d'entrave à l'exercice de l'action directe
 
 RÉFÉRENCE : Dossier 
-<hr><hr>
-
 ## I — INTRODUCTION
 
 Le présent complément de plainte pénale est déposé par [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) auprès de Monsieur le Procureur de la République près le Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md) afin de signaler l'absence d'assurance de responsabilité civile professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md).

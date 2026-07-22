@@ -37,8 +37,6 @@ calendar_event_id: 9pkmrn8fadbta67drfub7dssec
 
 # REQUÊTE AUX FINS DE CONSTAT D'HUISSIER
 **À l'attention de :** Tel huissier de justice territorialement compétent
-<hr><hr>
-
 ## I — IDENTIFICATION DES PARTIES
 
 <!-- Auteur -->

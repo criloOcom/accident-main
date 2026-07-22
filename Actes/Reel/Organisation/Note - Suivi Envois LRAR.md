@@ -19,7 +19,6 @@ jx: J+43
 <!-- /Breadcrumb -->
 
 # SUIVI DES ENVOIS LRAR
-<hr><hr>
 ## I — TABLEAU DE BORD
 
 | # | Destinataire | Date envoi | N° LRAR | AR recu | Reponse | Date reponse | Relance J+15 | Email | Statut | Notes |
@@ -37,7 +36,6 @@ jx: J+43
 | 21 | CPAM | | | | | | | Non | A envoyer | |
 <hr><hr>
 
-<hr><hr>
 ## II — SYNTHESE FINANCIERE
 
 | Lot | Nb LRAR | Cout unitaire | Total |
@@ -47,7 +45,6 @@ jx: J+43
 | **Total** | **12** | | **~82,50 €** |
 <hr><hr>
 
-<hr><hr>
 ## III — LEGENDE
 
 | Symbole | Signification |

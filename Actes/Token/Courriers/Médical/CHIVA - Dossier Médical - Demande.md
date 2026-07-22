@@ -79,7 +79,7 @@ Je souhaite recevoir une copie complète de toutes les pièces constituant ce do
 
 - Les prescriptions de médicaments et de soins dispensés.
 
-- L'original du [certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) descriptif des blessures (établi par le Dr Jardon).
+- L'original du [certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) descriptif des blessures (établi par **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**).
 
 Je vous remercie de bien vouloir me transmettre ces documents par voie électronique ou, à défaut, à mon adresse postale mentionnée ci-dessus. Je m'engage à régler les éventuels frais de reproduction et d'envoi.
 

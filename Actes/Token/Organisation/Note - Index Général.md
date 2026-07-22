@@ -25,7 +25,6 @@ jx: J+39
 # INDEX DU DOSSIER **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**
 > 🔗 Source Google Drive : [1Zp-JK9kz0V0…](https://drive.google.com/open?id=1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU)
 Rédigé le **[J+32 Assignation référé](../../../Memory/Tokens/token-j-32-assignation-refere.md)** — Mis à jour le **[J+38 Mise à jour](../../../Memory/Tokens/token-j-38-mise-a-jour.md)** (unification bordereau 43 pièces)
-<hr><hr>
 ## I — INTRODUCTION
 
 *Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** c/ **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, à la suite de l'accident corporel grave survenu le **[J+0 Accident](../../../Memory/Tokens/token-j-0-accident.md)**. Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du **[J+32 Assignation référé](../../../Memory/Tokens/token-j-32-assignation-refere.md)** et reflète l'état final de la composition du dossier.*
@@ -37,7 +36,6 @@ Destinataire : Analyse tierce
 Partage depuis : **[L'Email de la Victime](../../../Memory/Tokens/token-victime-email.md)**
 <hr><hr>
 
-<hr><hr>
 ## II — PREUVES OFFICIELLES
 
 *(Documents physiques — dossier `Preuves_officielles/` en attente d'insertion)*
@@ -53,7 +51,6 @@ Partage depuis : **[L'Email de la Victime](../../../Memory/Tokens/token-victime-
 - 2026-06-29 - Forensic Evidence File ✓ Vérifié : Dossier de preuves numériques et médicales.
 <hr><hr>
 
-<hr><hr>
 ## III — ACTES PROCÉDURAUX
 
 - 2026-06-29 - 01 ⚖️ Assignation - V1 ✓ Vérifié : Projet d'assignation en référé-provision (5 000 €) fondé sur [Article 835 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)[^1].
@@ -73,7 +70,6 @@ Partage depuis : **[L'Email de la Victime](../../../Memory/Tokens/token-victime-
 > *« Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
 <hr><hr>
 
-<hr><hr>
 ## IV — COURRIERS
 
 - 2026-06-29 - 03 ✉️ Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
@@ -126,7 +122,6 @@ Partage depuis : **[L'Email de la Victime](../../../Memory/Tokens/token-victime-
 - 2026-07-05 - 26-28 📧📋s Témoin - V1 ✓ Vérifié : Gabarits d'attestations pour témoins potentiels (client, pompier, employé).
 <hr><hr>
 
-<hr><hr>
 ## V — ANALYSES JURIDIQUES
 
 - 2026-06-29 - 07 🎤 Plaidoirie dirigeants - V1 ✓ Vérifié : Analyse de la responsabilité pour faute détachable selon l'Arrêt SATI juridique invoquant [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^3] du Code civil
@@ -148,7 +143,6 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 <hr><hr>
 
-<hr><hr>
 ## VI — ÉTUDES D'INDEMNISATION
 
 - 2026-07-07 - 11+12 📊 Evaluation Dintilhac consolidee - V2 ✓ Vérifié : Document consolidé unique (fusion des docs 11 et 12) — tous postes Dintilhac, comparaison Glose, stratégie de recouvrement, provision référé (~92 000 €, provision 15 000 €).
@@ -157,7 +151,6 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 > Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
 <hr><hr>
 
-<hr><hr>
 ## VII — ORGANISATION
 
 - 2026-06-01 - 10 🗂️ Plan action - V1 ✓ Vérifié : Plan d'action et chronologie de procédure.
@@ -169,7 +162,6 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 - 2026-07-05 - 20 📦 Bon envoi physique - V1 ✓ Vérifié : Bon d'envoi physique des pièces au tribunal.
 <hr><hr>
 
-<hr><hr>
 ## VIII — MÉMOIRES D'AUDIT
 
 - ~~AUDIT_DATES.md — supprimé (RGPD)~~ ✓ Vérifié : Audit de la chronologie des faits.
@@ -201,7 +193,6 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 - [PIECES MAP.md](../../../Memory/PIECES%20MAP.md) ✓ Vérifié : Correspondance documents et pièces.
 <hr><hr>
 
-<hr><hr>
 ## IX — ARCHIVES
 
 Documents non indexés conservés dans `archives/` :
@@ -223,7 +214,6 @@ Documents non indexés conservés dans `archives/` :
 - [archives/Archive - Dossier Présentation.md](../Archives/Archive%20-%20Dossier%20Pr%C3%A9sentation.md)
 <hr><hr>
 
-<hr><hr>
 ## X — MODIFICATIONS CLÉS
 
 1. **[Le Préposé de l'Exploitation](../../../Memory/Tokens/token-exploitation-prepose-nom.md)** (tél. [**[Le Téléphone du Préposé]**](../../../Memory/Tokens/token-exploitation-prepose-telephone.md)) -> **[Le Président de l'Exploitation](../../../Memory/Tokens/token-exploitation-president-nom.md)** + **[La Directrice Générale de l'Exploitation](../../../Memory/Tokens/token-exploitation-dg-nom.md)** ✓
@@ -259,7 +249,6 @@ Documents non indexés conservés dans `archives/` :
 15. Ancien « Bordereau de pieces.md » supprimé ✓
 <hr><hr>
 
-<hr><hr>
 ## XI — RÉFÉRENCES JURISPRUDENTIELLES
 
 - [Arrêt Costedoat : Ass. Plén., 25 février 2000, n° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)[^6]
@@ -291,7 +280,6 @@ Documents non indexés conservés dans `archives/` :
 > Résumé : Le principe de réparation intégrale exige une évaluation concrète et justifiée de chaque poste de préjudice corporel, proscrivant les indemnisations globales, forfaitaires ou imprécises.
 <hr><hr>
 
-<hr><hr>
 ## XII — STATISTIQUES DU DOSSIER (MÀJ **[J+38 Mise à jour](../../../Memory/Tokens/token-j-38-mise-a-jour.md)**)
 
 - Actes procéduraux : **7** (Assignation 01, Plainte 02, Constitution PC 02b, Assignation 145 03, Bordereau unifié 04, Conclusions 05, Constat Huissier 06)
@@ -317,7 +305,6 @@ Documents non indexés conservés dans `archives/` :
 *NOTE : Le Tableau Financier des Préjudices (spreadsheet) a été RETIRÉ du dossier - il appartenait à l'affaire LE BARS (Montauban), pas à **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**. Seule l'Étude d'indemnisation (Piece 03) est conservée dans Etudes_indemnisation.*
 <hr><hr>
 
-<hr><hr>
 ## XIII — TRAVAUX RESTANTS
 
 1. **Audience de référé** — Planifier audience (date non fixée).
@@ -334,7 +321,6 @@ Documents non indexés conservés dans `archives/` :
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [Article 835 du CPC — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) ↩

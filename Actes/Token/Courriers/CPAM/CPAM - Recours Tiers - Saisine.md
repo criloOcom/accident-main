@@ -57,13 +57,11 @@ Objet : Transmission d'elements et bordereau recapitulatif — Recours contre ti
 Ref : Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** — SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** — SIREN **[SIREN de l'Exploitation](../../../../Memory/Tokens/token-exploitation-siren.md)**
 
 Madame, Monsieur,
-<hr><hr>
 ## I — INTRODUCTION
 
 La presente est adressee a vos services par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** afin de vous informer de l'etat d'avancement des procedures judiciaires engagees a la suite de l'accident corporel grave dont j'ai ete victime le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, et de vous transmettre les elements actualises necessaires au suivi de mon dossier de recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
 <hr><hr>
 
-<hr><hr>
 ## II — RAPPEL DU DOSSIER
 
 Mon dossier de recours contre tiers a ete ouvert par vos services le **[J+5 Ouverture CPAM](../../../../Memory/Tokens/token-j-5-ouverture-cpam.md)** sous le numero **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**, suite a l'accident corporel survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**.
@@ -73,7 +71,6 @@ L'accident a ete cause par la chute brutale du prepose de l'exploitation depuis 
 Mon [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total a ete evalue a 55 jours (du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au **[J+55 Fin d'ITT](../../../../Memory/Tokens/token-j-55-fin-d-itt.md)**).
 <hr><hr>
 
-<hr><hr>
 ## III — PROCEDURES JUDICIAIRES ENGAGEES
 
 A ce jour, les procedures suivantes ont ete engagees :
@@ -91,7 +88,6 @@ A ce jour, les procedures suivantes ont ete engagees :
 4. **[Constitution de Partie Civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : Depot d'une plainte avec [constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) aupres du Doyen des Juges d'Instruction du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, fondee sur les articles 222-19 et 222-20 du Code penal (blessures involontaires), et engageant la responsabilite penale de la SAS et de ses dirigeants.
 <hr><hr>
 
-<hr><hr>
 ## IV — BORDEREAU RECAPITULATIF DES PIECES
 
 Conformement a l'article L.376-1 du Code de la securite sociale, je vous transmets par la presente l'etat actualise des pieces constitutives de mon dossier :
@@ -169,7 +165,6 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 - **Pièce n°15 :** Courriers échangés avec la gestionnaire de dossier — **[La Gestionnaire CPAM](../../../../Memory/Tokens/token-cpam-gestionnaire-nom.md)**
 <hr><hr>
 
-<hr><hr>
 ## V — DEMANDE
 
 Je sollicite de vos services :
@@ -229,7 +224,6 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [Article 835 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) ↩

@@ -20,7 +20,6 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mesures Conservatoires.md
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # NOTE JURIDIQUE : MESURES CONSERVATOIRES AVANT DISPARITION
-<hr><hr>
 ## I — PROBLÉMATIQUE
 
 Dans le cadre du dossier concernant [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) à l'encontre de [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) et de ses représentants, il convient d'envisager la mise en œuvre de mesures conservatoires urgentes.
@@ -35,6 +34,7 @@ La présente note a pour objet d'analyser la faisabilité juridique et procédur
 
 - De la nécessité de requérir une autorisation préalable du Juge de l'Exécution (JEX).
 <hr><hr>
+
 ## II — FONDEMENT ET ARGUMENTATION
 
 L'opportunité de solliciter des mesures conservatoires repose sur les dispositions du Code des procédures civiles d'exécution, lesquelles requièrent la démonstration de deux conditions cumulatives : un principe de créance et des circonstances menaçant le recouvrement.
@@ -67,6 +67,7 @@ Dans la mesure où notre cabinet ne dispose pas, à ce stade, d'un titre exécut
 
 Il est donc impératif de déposer une requête motivée auprès du Juge de l'Exécution (JEX) compétent, exposant en détail les fondements de la créance et caractérisant l'urgence ainsi que le péril pesant sur le recouvrement. L'ordonnance sur requête, rendue de manière non contradictoire, permettra de mandater un Commissaire de Justice pour pratiquer les saisies de manière impromptue.
 <hr><hr>
+
 ## III — CONCLUSION
 
 Afin de préserver les droits de [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md), il est fortement recommandé de diligenter au plus vite une procédure sur requête aux fins d'être autorisé par le Juge de l'Exécution à faire pratiquer par un Commissaire de Justice :
@@ -80,6 +81,7 @@ Afin de préserver les droits de [**[La Victime]**](../../../Memory/Tokens/token
 La constitution sans délai d'un dossier probant démontrant la menace pesant sur le recouvrement est l'étape préalable et indispensable à la réussite de cette démarche.
 <!-- Source -->
 <hr><hr>
+
 ## Sources Législation
 
 [^1]: [Article L.511-1 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000250261](../../../Lois/Code/LEGIARTI0000250261.md)04](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000250261](../../../Lois/Code/LEGIARTI0000250261.md)04) ↩

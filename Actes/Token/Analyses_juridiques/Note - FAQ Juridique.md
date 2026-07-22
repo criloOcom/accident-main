@@ -29,7 +29,6 @@ Rédigé par : [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-compl
 [**[L'Adresse de la Victime]**](../../../Memory/Tokens/token-victime-adresse.md)
 
 Rédigé le [**[J+32 Assignation référé]**](../../../Memory/Tokens/token-j-32-assignation-refere.md)
-<hr><hr>
 ## I — INTRODUCTION
 
 La présente synthèse juridique et FAQ a été rédigée par [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) dans le cadre du contentieux l'opposant à [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) à la suite de l'accident corporel du [**[J+0 Accident]**](../../../Memory/Tokens/token-j-0-accident.md).
@@ -67,6 +66,7 @@ La présente synthèse répond en outre aux questions pratiques que la victime e
   [V. CALENDRIER ET DÉLAIS DE PROCÉDURE](#v-calendrier-et-dlais-de-procdure)
 - [VI. POINTS DE VIGILANCE ET CONCLUSION](#vi-points-de-vigilance-et-conclusion)
 <hr><hr>
+
 ## II — PRÉSENTATION GÉNÉRALE DE L'AFFAIRE
 
 Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le [**[J+0 Accident]**](../../../Memory/Tokens/token-j-0-accident.md) à 15h00 au sein du salon de coiffure exploité par [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md), situé au [**[L'Adresse de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-adresse.md) à [**[La Ville de l'Accident]**](../../../Memory/Tokens/token-accident-ville.md).
@@ -75,6 +75,7 @@ La victime, [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.
 
 Les parties mises en cause incluent la SAS elle-même, ses dirigeants [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-dg-nom.md), ainsi que [**[Le Propriétaire des Murs]**](../../../Memory/Tokens/token-exploitation-bailleur-nom.md), propriétaire des murs commerciaux.
 <hr><hr>
+
 ## III — FOIRE AUX QUESTIONS (FAQ) DÉTAILLÉE
 ### III.1 — Q : DANS QUELLES CIRCONSTANCES L'ACCIDENT S'EST-IL PRODUIT ?
 
@@ -114,6 +115,7 @@ Le fait de cacher l'accident à son assureur ou de refuser de communiquer les co
 > [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000357313](../../../Lois/Code/LEGIARTI0000357313.md)02) <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre Ier > Chapitre III.[^5]**
 <hr><hr>
+
 ## IV — STRATÉGIE JURIDIQUE ET RESPONSABILITÉS
 
 La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) est engagée en tant que commettant du fait de son préposé, sur le fondement de l'article 1242 du Code civil, mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
@@ -134,6 +136,7 @@ Par ailleurs, une attention particulière est portée à la faute détachable de
 
 Enfin, le propriétaire des murs, [**[Le Propriétaire des Murs]**](../../../Memory/Tokens/token-exploitation-bailleur-nom.md), a été sollicité par LRAR le [**[J+31 Mises en demeure]**](../../../Memory/Tokens/token-j-31-mises-en-demeure.md) non pas en tant que responsable de l'accident, mais comme source d'information : le bail commercial l'oblige à détenir l'attestation d'assurance RC Pro de son locataire (la SAS). À ce jour, l'AR a été retourné signé mais sans réponse sur le fond.
 <hr><hr>
+
 ## V — DÉMARCHES ET PROCÉDURES ENGAGÉES
 
 À ce jour, une plainte officielle a été déposée et un dossier de recours contre tiers a été ouvert auprès de la CPAM.
@@ -152,6 +155,7 @@ Sur le plan civil, plusieurs mises en demeure ont été expédiées le [**[J+31 
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^3]**
 <hr><hr>
+
 ## VI — CALENDRIER ET DÉLAIS DE PROCÉDURE
 
 La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jours pour répondre aux mises en demeure avant l'engagement d'un référé-provision sur le fondement de l'article 835 du Code de procédure civile.
@@ -168,6 +172,7 @@ Une étape cruciale est fixée au [**[J+167 Expertise UMJ]**](../../../Memory/To
 > [Article 2226](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000190172](../../../Lois/Code/LEGIARTI0000190172.md)59) <br>
 > **Code civil > Partie législative > Livre III > Titre XX > Chapitre II > Section 2.[^10]**
 <hr><hr>
+
 ## VII — POINTS DE VIGILANCE ET CONCLUSION
 
 Bien que le dossier soit solide, certains points bloquants persistent, notamment l'absence de constat d'huissier immédiat et le refus des dirigeants de communiquer les coordonnées de leur assureur.
@@ -187,6 +192,7 @@ De plus, l'action directe contre l'assureur (Art. L. 124-3 du Code des assurance
 > **Code de commerce > Partie législative > Livre V > Titre IV > Chapitre IV > Section 3.[^11]**
 <!-- Source -->
 <hr><hr>
+
 ## Sources Législation
 
 [^1]: [Article 1641 du Code civil — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000064419](../../../Lois/Code/LEGIARTI0000064419.md)24](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000064419](../../../Lois/Code/LEGIARTI0000064419.md)24) ↩

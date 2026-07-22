@@ -50,7 +50,6 @@ source: drive
 
 # STRATEGIE CONTENTIEUX CIVIL
 Rédigé le [**[J+36 Lettre consolidation]**](../../../Memory/Tokens/token-j-36-lettre-consolidation.md)
-<hr><hr>
 ## I — PRÉSENTATION
 
 Le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md), [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a subi un accident corporel grave dans le salon de coiffure exploité par [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) ([SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md), SIRET [938 033 222 00010](../../../Memory/Tokens/token-exploitation-siret.md)), situé [22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md). Alors que l'employé [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../Memory/Tokens/token-exploitation-prepose-telephone.md)) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a tendu la main droite pour protéger [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une microchirurgie SOS Main en urgence.
@@ -58,7 +57,6 @@ Le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md), [Sébastien GRAZ
 Le contentieux civil a pour objet d'obtenir la réparation intégrale des préjudices subis, estimés à 59 600 € selon la nomenclature Dintilhac. Il se déploie sur plusieurs fondements juridiques complémentaires incluant, en cas de défaillance de l'auteur, la voie indemnitaire du Fonds de Garantie des Victimes d'Infractions (FGTI).
 <hr><hr>
 
-<hr><hr>
 ## II — FONDEMENTS JURIDIQUES
 ### 2.1 RESPONSABILITÉ DU COMMETTANT
 
@@ -107,7 +105,6 @@ Conformément à [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/c
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
 <hr><hr>
 
-<hr><hr>
 ## III — VOIES DE PROCÉDURE ENGAGÉES
 ### 3.1 RÉFÉRÉ-PROVISION
 
@@ -172,7 +169,6 @@ Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels rés
 Cette voie est subsidiaire : elle ne se substitue pas à l'action directe contre l'assureur, mais la sécurise en cas d'insolvabilité de l'auteur.
 <hr><hr>
 
-<hr><hr>
 ## IV — ÉVALUATION DES PRÉJUDICES
 
 L'évaluation des préjudices subis par [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md), informaticien indépendant (SIREN [500 474 457](../../../Memory/Tokens/token-victime-id-professionnel.md), chiffre d'affaires annuel 9 000 € net selon URSSAF), est établie comme suit :
@@ -200,7 +196,6 @@ L'incidence professionnelle est un préjudice distinct qui indemnise notamment l
 > **Cour de cassation, 2e chambre civile, 6 mai 2021, n° 19-23.173[^14]**
 <hr><hr>
 
-<hr><hr>
 ## V — CALENDRIER PROCÉDURAL
 
 | Phase | Action | Échéance |
@@ -214,7 +209,6 @@ L'incidence professionnelle est un préjudice distinct qui indemnise notamment l
 | Saisine CIVI (subsidiaire) | Demande d'indemnisation FGTI si SAS insolvable | Jusqu'à 3 ans post-infraction (prorogeable 1 an apres decision penale) |
 <hr><hr>
 
-<hr><hr>
 ## VI — RÉCAPITULATIF DES PIÈCES
 
 Pièces médicales :
@@ -255,7 +249,6 @@ Pièces de procédure :
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [Article 1242 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩

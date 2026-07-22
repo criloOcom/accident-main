@@ -54,8 +54,6 @@ jx: J+39
 
 *Défenderesse*
 <!-- /Destinataire -->
-<hr><hr>
-
 ## I — EXPOSÉ DU LITIGE
 ### I.1 — LE SINISTRE ET SES CONSÉQUENCES MATÉRIELLES
 

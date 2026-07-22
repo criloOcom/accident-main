@@ -13,7 +13,6 @@ reel_path: ../../Reel/Organisation/Synthèse - Actions et Audits.md
 # Note de Synthèse<br>Avancement des Audits & Recommandations
 
 Cette note récapitule l'analyse systématique de tous les rapports d'audit dans [Rapports](../README.md) et catégorise l'état d'avancement des tâches en suspens.
-<hr><hr>
 ## I — 🟥 CE QU'IL RESTE À FAIRE (Démarches Humaines — En attente d'action de [**[Prénom de la Victime]**](../../../Memory/Tokens/token-victime-prenom.md))
 
 Ces tâches ne peuvent pas être automatisées par un agent d'IA et nécessitent vos démarches physiques auprès des tiers.
@@ -43,7 +42,6 @@ Ces tâches ne peuvent pas être automatisées par un agent d'IA et nécessitent
 - [ ] **Trouver et mandater un avocat** : Dès que l'AJ est accordée ou pour initier le référé-provision d'urgence.
 <hr><hr>
 
-<hr><hr>
 ## II — 🟩 CE QUI A ÉTÉ CORRIGÉ & RÉSOLU (Actions Machines closes par l'IA)
 
 Toutes les erreurs techniques de rédaction relevées par les réviseurs et spécialistes juridiques ont été traitées.

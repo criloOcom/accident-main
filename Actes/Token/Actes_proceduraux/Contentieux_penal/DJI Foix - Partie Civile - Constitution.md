@@ -53,8 +53,6 @@ Tribunal Judiciaire de [**[La Ville de l'Accident]**](../../../../Memory/Tokens/
 <!-- /Destinataire -->
 
 [**[La Ville de Residence de la Victime]**](../../../../Memory/Tokens/token-victime-ville-residence.md), le **[**[J+38 Constitution PC]**](../../../../Memory/Tokens/token-j-38-constitution-pc.md)
-<hr><hr>
-
 ## I — INTRODUCTION
 
 La presente [**[constitution de partie civile]**](DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) est formee par [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) dans le cadre de la procedure penale suivie a l'encontre de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), de son President [**[Le President de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et de sa Directrice Generale [**[La Directrice Generale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md), en application des articles 2 et suivants du Code de procedure penale.

@@ -59,7 +59,6 @@ Mon objectif n'est pas d'ouvrir une procédure supplémentaire, mais de comprend
 Je vous remercie par avance de l'attention que vous voudrez bien porter à la présente demande et vous prie d'agréer, Monsieur le Procureur, l'expression de ma considération distinguée.
 
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
-<hr><hr>
 ## Pièce jointe
 
 - Copie du courriel de **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** à la mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** du 1er juin 2026 et réponse de **[L'Adjoint au Maire de la Commune](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**.

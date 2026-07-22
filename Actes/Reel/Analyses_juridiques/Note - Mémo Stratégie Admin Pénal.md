@@ -31,7 +31,6 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Stratégie Admin Pénal.m
 > **Objet :** Articulation des deux voies de droit ouvertes contre le salon « **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** »
 >
 > **Conclusion avocat :** « Je valifie l'articulation proposée : voie pénale = axe principal (statut procédural fort, droits à l'information et à la réparation via art. 10-2 et 40-2 CPP) ; voies administratives = axe secondaire (pression institutionnelle, enrichissement du dossier pénal/civil, mais pas de statut de partie). Aucun risque juridique à être proactif tant que les courriers restent factuels, polis et espacés. »
-<hr><hr>
 ## I — SCHÉMA RÉCAPITULATIF
 
 ```
@@ -69,7 +68,6 @@ ACCIDENT 29/05/2026
 ```
 <hr><hr>
 
-<hr><hr>
 ## II — VOIE ADMINISTRATIVE — CE QUE L'AVOCAT A CONFIRMÉ
 
 ### II.1 — Ce qu'on peut faire (validé par l'avocat)
@@ -99,7 +97,6 @@ ACCIDENT 29/05/2026
 - **Aucune de ces procédures ne nous indemnisera directement.**
 <hr><hr>
 
-<hr><hr>
 ## III — VOIE PÉNALE — CE QUI NOUS DONNE DES DROITS FORTS
 
 ### III.1 — Nos droits concrets en tant que victime (Art. 10-2 CPP)
@@ -123,7 +120,6 @@ ACCIDENT 29/05/2026
 | Constitution partie civile | ⏳ En attente (nécessite AJ + avocat désigné) |
 <hr><hr>
 
-<hr><hr>
 ## IV — ARTICULATION STRATÉGIQUE — PLAN D'ACTION
 
 ### IV.1 — À faire par nous (sans avocat, sans risque)
@@ -156,7 +152,6 @@ ACCIDENT 29/05/2026
 - Relances agressives ou injurieuses aux administrations
 <hr><hr>
 
-<hr><hr>
 ## V — RAPPEL DES TEXTES CLÉS
 
 | Texte | Contenu |

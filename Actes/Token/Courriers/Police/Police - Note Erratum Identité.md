@@ -33,7 +33,6 @@ Destinataires des actes et autorités judiciaires
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](./Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # ERRATUM
-<hr><hr>
 ## Correction de l'identité de la société exploitante
 
 <hr><hr>
@@ -49,7 +48,6 @@ Destinataires des actes et autorités judiciaires
 **Référence plainte initiale :** PV n° **[N° PV Police](../../../../Memory/Tokens/token-pv-police-numero.md)** du 2 juin 2026 — Commissariat de **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)** Rive Droite
 <hr><hr>
 
-<hr><hr>
 ## 1. Exposé de l'erreur
 
 Dans l'ensemble des actes, courriers et démarches engagés entre le 2 juin 2026 et le 17 juillet 2026, j'ai désigné comme société exploitante du fonds de commerce situé au 22 Rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, la société **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)**.
@@ -59,7 +57,6 @@ Cette désignation était fondée sur les seules informations disponibles au mom
 **Il s'avère aujourd'hui que cette désignation est erronée.**
 <hr><hr>
 
-<hr><hr>
 ## 2. Chronologie de la découverte de l'erreur
 
 ### Juin 2026 — Premières recherches infructueuses
@@ -75,9 +72,9 @@ J'ai donc, de bonne foi, établi l'ensemble de mes démarches en désignant cett
 À cette date, j'ai envoyé plusieurs lettres recommandées avec accusé de réception, toutes désignant **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** comme destinataire ou société visée :
 - LRAR à **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)**
 
-- LRAR à **[L'Ancien Président de l'Exploitation](../../../../Memory/Tokens/token-ancien-president-exploitation.md)** (Sabir MOUNTASSER, président de la SAS LES MAUVAIS GARÇONS)
+- LRAR à **[L'Ancien Président de l'Exploitation](../../../../Memory/Tokens/token-ancien-president-exploitation.md)** ([**[L'Ancien Président de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques), président de la SAS LES MAUVAIS GARÇONS)
 
-- LRAR à **[L'Ancienne Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)** (Catherine ANDISSAC, directrice générale de la SAS LES MAUVAIS GARÇONS)
+- LRAR à **[L'Ancienne Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)** ([**[L'Ancienne Directrice Générale de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques), directrice générale de la SAS LES MAUVAIS GARÇONS)
 
 - LRAR à **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**
 
@@ -107,7 +104,6 @@ Des recherches web complémentaires effectuées à mon retour ont confirmé que 
 | **16 juillet 2026** | Découverte de l'exploitation réelle par [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) |
 <hr><hr>
 
-<hr><hr>
 ## 3. Actes concernés par la correction
 
 La présente rectification s'applique à l'ensemble des actes, courriers et démarches suivants, en ce qu'ils désignent la société exploitante :
@@ -122,9 +118,9 @@ La présente rectification s'applique à l'ensemble des actes, courriers et dém
 **B. Mises en demeure LRAR du 29 juin 2026 (adressées par erreur à l'ancien exploitant) :**
 - LRAR à **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** — 22 Rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
 
-- LRAR à **[L'Ancien Président de l'Exploitation](../../../../Memory/Tokens/token-ancien-president-exploitation.md)** (Sabir MOUNTASSER, ancien président de la SAS LES MAUVAIS GARÇONS)
+- LRAR à **[L'Ancien Président de l'Exploitation](../../../../Memory/Tokens/token-ancien-president-exploitation.md)** ([**[L'Ancien Président de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques), ancien président de la SAS LES MAUVAIS GARÇONS)
 
-- LRAR à **[L'Ancienne Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)** (Catherine ANDISSAC, ancienne directrice générale de la SAS LES MAUVAIS GARÇONS)
+- LRAR à **[L'Ancienne Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)** ([**[L'Ancienne Directrice Générale de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques), ancienne directrice générale de la SAS LES MAUVAIS GARÇONS)
 
 - LRAR à **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**
 
@@ -155,12 +151,11 @@ La présente rectification s'applique à l'ensemble des actes, courriers et dém
 **E. Nouvelles LRAR du 18 juillet 2026 (adressées à l'exploitant réel après découverte) :**
 - LRAR à **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SAS HB BARBER) — 22 Rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
 
-- LRAR à **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** (Hamza El Hachemi BERGUIGA, président de la SAS HB BARBER)
+- LRAR à **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** ([**[Le Président de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques), président de la SAS HB BARBER)
 
-- LRAR à **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** (Catherine SORROCHE, directrice générale de la SAS HB BARBER)
+- LRAR à **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** ([**[La Directrice Générale de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques), directrice générale de la SAS HB BARBER)
 <hr><hr>
 
-<hr><hr>
 ## 4. Correction formelle
 
 En conséquence de ce qui précède, je soussigné **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** déclare formellement :
@@ -182,7 +177,6 @@ En conséquence de ce qui précède, je soussigné **[La Victime](../../../../Me
 4. **Je prie les destinataires des actes listés à la section 3 de bien vouloir annexer le présent erratum aux dossiers et procédures concernés, et de considérer que les diligences engagées visent la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) en qualité d'exploitant réel au jour de l'accident.**
 <hr><hr>
 
-<hr><hr>
 ## 5. Précision sur la bonne foi et la transparence
 
 Je tiens à préciser les points suivants afin d'écarter toute ambiguïté :
@@ -207,8 +201,8 @@ Fait à **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adre
 
 <hr><hr>
 
-[^1]: **Variantes administratives de l'adresse** : Le procès-verbal de police n°2026/015967 mentionne « 22, RUE DE LA FAURIE » — il s'agit d'une erreur de saisie des services de police. Le Registre National des Entreprises (INPI) enregistre le siège social sous « 22 Grande Rue La Faurie » — variante cadastrale. L'adresse postale et géographique exacte, seule à retenir dans le présent erratum, est **22 Rue Lafaurie, 09000 Foix**.
+[^1]: **Variantes administratives de l'adresse** : Le procès-verbal de police n°[**[N° PV Police]**] mentionne « 22, RUE DE LA FAURIE » — il s'agit d'une erreur de saisie des services de police. Le Registre National des Entreprises (INPI) enregistre le siège social sous « 22 Grande Rue La Faurie » — variante cadastrale. L'adresse postale et géographique exacte, seule à retenir dans le présent erratum, est **22 Rue Lafaurie, 09000 Foix**.
 
-[^1]: **Variantes administratives de l'adresse** : Le procès-verbal de police n°2026/015967 mentionne « 22, RUE DE LA FAURIE » — il s'agit d'une erreur de saisie des services de police. Le Registre National des Entreprises (INPI) enregistre le siège social sous « 22 Grande Rue La Faurie » — variante cadastrale. L'adresse postale et géographique exacte, seule à retenir dans le présent erratum, est **22 Rue Lafaurie, 09000 Foix**.
+[^1]: **Variantes administratives de l'adresse** : Le procès-verbal de police n°[**[N° PV Police]**] mentionne « 22, RUE DE LA FAURIE » — il s'agit d'une erreur de saisie des services de police. Le Registre National des Entreprises (INPI) enregistre le siège social sous « 22 Grande Rue La Faurie » — variante cadastrale. L'adresse postale et géographique exacte, seule à retenir dans le présent erratum, est **22 Rue Lafaurie, 09000 Foix**.
 
 *Document à annexer à tout acte et courrier mentionnant **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** comme société défenderesse. À distribuer par dépôt physique (Commissariat de [La Ville de l'Accident]) et par lettre recommandée avec accusé de réception (autorités administratives et judiciaires).*

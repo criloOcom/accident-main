@@ -46,7 +46,6 @@ drive_id: 1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU
 # RAPPORT D'EXPERTISE JURIDIQUE : ACCIDENT CORPOREL DE LA VICTIME
 > 🔗 Source Google Drive : [1AO7GLNpbNGa…](https://drive.google.com/open?id=1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU)
 Rédigé le [30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md)
-<hr><hr>
 ## INTRODUCTION
 
 Le présent rapport d'expertise juridique a été établi par [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) afin d'évaluer l'étendue et la qualification juridique des préjudices corporels subis à la suite de l'accident du [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md). Ce document procède à une analyse détaillée de chaque poste de préjudice selon la nomenclature Dintilhac, en s'appuyant sur les pièces médicales et administratives versées au dossier. L'évaluation est fondée sur les [articles 1240 et 1231-1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^1], ainsi que sur la jurisprudence constante de la Cour de cassation en matière de réparation intégrale. Chaque citation est présentée et interprétée de bonne foi, étant précisé que seuls les tribunaux ont autorité pour trancher définitivement les questions de droit soulevées.
@@ -58,7 +57,6 @@ Rédigé par : La Victime
 Le [30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md)
 <hr><hr>
 
-<hr><hr>
 ## I — INTRODUCTION ET CONTEXTE
 
 Le présent rapport a pour objet de définir les fondements légaux et d'établir la stratégie indemnitaire de [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) (ci-après désigné "La Victime"), victime d'un grave accident corporel survenu le vendredi [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md) à 15h00.
@@ -72,7 +70,6 @@ Cette analyse s'appuie sur le principe de la réparation intégrale, visant à r
 > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.[^1]**
 <hr><hr>
 
-<hr><hr>
 ## II — ANALYSE DES FAITS GÉNÉRATEURS DE RESPONSABILITÉ
 
 L'accident trouve son origine dans la manœuvre imprudente d'un employé préposé monté sur un bac à shampoing, entraînant le basculement soudain de cet équipement lourd.
@@ -88,7 +85,6 @@ Il est à noter que l'établissement a procédé à un remboursement de 15 €, 
 > *« Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »* <br>
 <hr><hr>
 
-<hr><hr>
 ## III — BILAN MÉDICAL ET PRÉJUDICES IDENTIFIÉS
 
 Après une prise en charge initiale par [Dr Julie JARDON](../../../Memory/Tokens/token-hopital-urgence-medecin.md) au SMUR 09, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a été transférée en urgence clinique pour une microchirurgie réalisée le [30 mai 2026](../../../Memory/Tokens/token-j-1-chirurgie.md) par Le Chirurgien SOS Main.
@@ -100,7 +96,6 @@ Ces lésions entraînent des séquelles fonctionnelles majeures, notamment des p
 Pour un informaticien indépendant dont la main droite est la main dominante, ce handicap impacte directement l'usage du clavier et de la souris, générant une incidence professionnelle substantielle estimée provisoirement à 15 000 € dans l'étude d'indemnisation jointe.
 <hr><hr>
 
-<hr><hr>
 ## IV — STRATÉGIE DE RECOURS ET FONDEMENTS JURIDIQUES
 ### A. ACTION DIRECTE CONTRE L'ASSUREUR ET SURVIE DE LA PERSONNALITÉ MORALE
 
@@ -146,7 +141,6 @@ De plus, les statuts de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-e
 Cette absence de substance financière de la société face à une éventuelle liquidation rend indispensable la mise en cause personnelle du patrimoine des Dirigeants pour garantir l'effectivité de l'indemnisation.
 <hr><hr>
 
-<hr><hr>
 ## V — RECOMMANDATIONS ET CONCLUSION
 
 Il est impératif d'intégrer des réserves judiciaires pour d'éventuelles aggravations futures.
@@ -166,7 +160,6 @@ La capitalisation des dépenses de santé futures doit être exigée pour garant
 - Capitaliser les dépenses de santé : matériels ergonomiques et aides techniques
 <hr><hr>
 
-<hr><hr>
 ## CONCLUSION
 
 Le dossier présente des fondements juridiques solides.
@@ -186,7 +179,6 @@ Dans ce dossier, les fondements juridiques sont solides :
 - La responsabilité personnelle des Dirigeants pour faute détachable ([Art. 1240 Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^1])
 <hr><hr>
 
-<hr><hr>
 ## VI — LIMITES ET RÉSERVES SUR LA RECHERCHE JURISPRUDENTIELLE
 ### A. ABSENCE DE JURISPRUDENCE SPÉCIFIQUE
 
@@ -206,7 +198,6 @@ Ces sources sont citées à titre de doctrine, non de jurisprudence.
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [articles 1240 et 1231-1 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩

@@ -73,13 +73,11 @@ Commission d'accès aux documents administratifs (CADA)
 Madame, Monsieur,
 
 Je saisis la Commission d'accès aux documents administratifs, en application du Code des relations entre le public et l'administration (CRPA), à la suite du refus de communication de documents opposé par **[la Préfecture de l'Ariège / la DDETS de l'Ariège — Inspection du travail]**.
-<hr><hr>
 ## I — Identité du demandeur
 
 Je soussigné(e) **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, demeurant **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**, victime d'un accident corporel grave survenu le **29 mai 2026** dans le salon de coiffure « [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) », **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** (plaie palmaire profonde de la main droite, section partielle tendon fléchisseur + paquet vasculo-nerveux, [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 55 jours — PV de police n°2026/015967).
 <hr><hr>
 
-<hr><hr>
 ## II — Administration(s) concernée(s)
 
 La présente saisine concerne le refus de communication de documents par :
@@ -89,7 +87,6 @@ La présente saisine concerne le refus de communication de documents par :
 - **[et/ou la DDETS de l'Ariège — Inspection du travail]**, Cité Administrative, 2 Rue de la Préfecture, 09000 Foix
 <hr><hr>
 
-<hr><hr>
 ## III — Rappel des demandes initiales
 
 Par courriers recommandés des **[dates des courriers 41 et 42]**, j'ai sollicité sur le fondement du CRPA :
@@ -101,7 +98,6 @@ Par courriers recommandés des **[dates des courriers 41 et 42]**, j'ai sollicit
 3. La communication des documents administratifs achevés me concernant nominativement (rapports d'enquête, courriers de saisine, comptes rendus, procès-verbaux administratifs).
 <hr><hr>
 
-<hr><hr>
 ## IV — Réponse de l'administration
 
 **[Supprimer la mention inapplicable]**
@@ -111,7 +107,6 @@ Par courriers recommandés des **[dates des courriers 41 et 42]**, j'ai sollicit
 - **Refus implicite** : À ce jour, soit plus de deux mois après ma demande, je n'ai reçu aucune réponse, ce qui vaut décision implicite de refus de communication (CRPA Art. L. 231-4).
 <hr><hr>
 
-<hr><hr>
 ## V — Objet exact de la saisine
 
 Je sollicite l'avis de la Commission sur la communicabilité, à mon égard, des documents suivants :
@@ -137,7 +132,6 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération dist
 <!-- PJ -->
 <hr><hr>
 
-<hr><hr>
 ## PIECES JOINTES
 
 - **[CODAF - Signalement - Relance.md](../../../Reel/Courriers/Administrations/CODAF%20-%20Signalement%20-%20Relance.md)** — Courrier n°41 — Préfecture de l'Ariège

@@ -15,7 +15,6 @@ statut: brouillon
 Enregistrement des corrections et mises à jour **juridiques** apportées aux actes et notes du dossier, avec date, type de correction et outils de vérification utilisés (Légifrance, OpenLegi).
 
 > Dernière mise à jour : 2026-07-21
-<hr><hr>
 ## I — Corrections sur les articles de codes
 
 ### I.1 — 1.1 Code de commerce — procédures collectives
@@ -112,6 +111,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Date :** 2026-07-13
 <hr><hr>
+
 ## II — Harmonisation des URL Légifrance
 
 ### II.1 — 2.1 Article 835 du Code de procédure civile
@@ -148,6 +148,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Date :** 2026-07-13
 <hr><hr>
+
 ## III — Jurisprudence
 
 ### III.1 — 3.1 Référence incomplète — Civ. 2e, 14 juin 1957
@@ -166,6 +167,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Date :** 2026-07-13
 <hr><hr>
+
 ## III — Enrichissement bibliothèque jurisprudence (2026-07-21)
 
 ### III.1 — Nouveaux arrêts Cour de cassation (4)
@@ -214,6 +216,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - La mention *«  »* est apposée dans les fichiers CA/TJ pour les citations non vérifiables
 <hr><hr>
+
 ## IV — Méthodologie
 
 Pour toute nouvelle référence juridique ajoutée au dossier :

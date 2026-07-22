@@ -19,8 +19,6 @@ date: '2026-07-22'
 <!-- /Breadcrumb -->
 
 # SIGNALEMENT AU PROCUREUR DE LA RÉPUBLIQUE
-<hr><hr>
-
 ## I — (Article 40 du Code de procédure pénale)
 
 <!-- Destinataire -->

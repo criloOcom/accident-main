@@ -15,7 +15,6 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BAR
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # Note de synthèse pour l'avocat
-<hr><hr>
 ## Bascule **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** → [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
 > **Objet :** Présentation synthétique du dossier pour un avocat prenant connaissance de l'affaire pour la première fois.
@@ -23,7 +22,6 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BAR
 > **Date :** 17 juillet 2026
 <hr><hr>
 
-<hr><hr>
 ## 1. Chronologie factuelle structurée
 
 ### a) L'accident et la prise en charge médicale
@@ -80,7 +78,6 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BAR
 - Au bailleur **[Le Propriétaire des Murs](../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** : demande coordonnées assurance de l'exploitant
 <hr><hr>
 
-<hr><hr>
 ## 2. Parties en présence (cartographie)
 
 ### Victime
@@ -126,7 +123,6 @@ Propriétaire des locaux du **[L'Adresse de l'Exploitation](../../../Memory/Toke
 **[Le Préposé de l'Exploitation](../../../Memory/Tokens/token-exploitation-prepose-nom.md)** (tel : **[Le Téléphone du Préposé](../../../Memory/Tokens/token-exploitation-prepose-telephone.md)**) (identifié comme "[Ayoub BENNOURINE](../../../Memory/TOKEN%20MAP.md%23personnes-physiques)" sur Wero). Coiffeur présent le jour des faits, a remboursé 15 € via Wero le 29/05/2026.
 <hr><hr>
 
-<hr><hr>
 ## 3. Pivot du dossier : erreur de société + continuité économique
 
 ### Le problème
@@ -151,7 +147,6 @@ Au 29/05/2026, il est hautement probable que [SAS LES MAUVAIS GARCONS](../../../
 - Forte continuité économique / risque d'organisation d'insolvabilité ou cloisonnement artificiel
 <hr><hr>
 
-<hr><hr>
 ## 4. Constatations du 16 juillet 2026 (effacement matériel)
 
 Lors de la visite sur place le 16/07/2026 :
@@ -166,7 +161,6 @@ Lors de la visite sur place le 16/07/2026 :
 Échange avec la personne identifiée comme [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) : refus de coopérer, refus de fournir assurance/facture/justificatif, propos contradictoires (prétend que la victime était déjà venue le jour de l'incident), demande de quitter les lieux.
 <hr><hr>
 
-<hr><hr>
 ## 5. Situation actuelle et actions à mener
 
 ### Ce qui est solide

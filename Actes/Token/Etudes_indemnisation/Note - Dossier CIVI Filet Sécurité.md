@@ -18,7 +18,6 @@ reel_path: ../../Reel/Etudes_indemnisation/Note - Dossier CIVI Filet Sécurité.
 <!-- /Breadcrumb -->
 
 # DOSSIER CIVI : FILET DE SÉCURITÉ
-<hr><hr>
 ## A. CONDITIONS D'ÉLIGIBILITÉ
 
 Vérification point par point (Art. 706-3 CPP) :
@@ -38,6 +37,7 @@ Vérification point par point (Art. 706-3 CPP) :
 - ❓ **Refus d'assurance ou assureur inconnu ?**
   À ce stade, aucune assurance RC professionnelle n'a été communiquée. En l'absence de garantie, l'intervention du Fonds de Garantie des Victimes est légitime.
 <hr><hr>
+
 ## B. PLAFONDS CIVI
 
 - **Plafond par victime :**
@@ -49,6 +49,7 @@ Vérification point par point (Art. 706-3 CPP) :
 - **Comparatif avec notre évaluation Dintilhac :**
   Devant la CIVI, le FGTI peut discuter certains montants, d'où la nécessité de solides justificatifs.
 <hr><hr>
+
 ## C. PIÈCES REQUISES POUR LA SAISINE
 
 Liste exhaustive des pièces à produire :
@@ -68,6 +69,7 @@ Liste exhaustive des pièces à produire :
 - **Tout ce qui démontre l'insolvabilité**
   Extrait Kbis prouvant le capital de 200 €.
 <hr><hr>
+
 ## D. LETTRE DE SAISINE
 
 **À l'attention de la Commission d'Indemnisation des Victimes d'Infractions (CIVI)**
@@ -94,6 +96,7 @@ Une indemnisation est sollicitée conformément à mon droit à la réparation i
 
 Dans l'attente, veuillez agréer, Madame, Monsieur le Président, l'expression de mes salutations distinguées.
 <hr><hr>
+
 ## E. COMPARATIF
 
 | Critère | CIVI (Art. 706-3 CPP) / FGTI | Action Directe Assureur RC |

@@ -41,13 +41,11 @@ auteur: La Victime
 **À l'attention de : Commissariat de Police de Foix — Service des Plaintes — Officier en charge du [PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)**
 
 **Déposant :** [Moi — mon identité]
-<hr><hr>
 ## I — 🎯 **OBJET : PLAINTE COMPLÉMENTAIRE**
 
 **Infractions principales : BLESSURES INVOLONTAIRES (222-20 CP) / OBSTRUCTION À LA JUSTICE (434-4 CP) / TRAVAIL DISSIMULÉ (L.8221-1 CT)**
 <hr><hr>
 
-<hr><hr>
 ## II — 📝 **EXPOSÉ DES FAITS**
 
 ### II.1 — **1. Contexte initial ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))**
@@ -178,7 +176,6 @@ Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../
 - Cette attitude démontre une **volonté délibérée d'entraver la procédure judiciaire**.
 <hr><hr>
 
-<hr><hr>
 ## III — 🔍 **DEMANDE D'ENQUÊTE APPROFONDIE**
 
 ### III.1 — **1. Vérification de l'établissement**
@@ -218,7 +215,6 @@ Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../
 - **Risque de dissolution frauduleuse** : Prévenir toute tentative de disparition pour échapper aux responsabilités.
 <hr><hr>
 
-<hr><hr>
 ## IV — 📌 **PIÈCES JUSTIFICATIVES JOINTS**
 
 1. **Copie du [PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** (plainte initiale)
@@ -234,7 +230,6 @@ Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../
 6. **Mises en demeure non répondus** (preuves de la mauvaise volonté)
 <hr><hr>
 
-<hr><hr>
 ## V — 🗣️ **SCRIPTS D'ACCUEIL — VERSION 30 SECONDES**
 
 ### V.1 — **Greffe TJ Foix (dépôt requête 145)**
@@ -254,7 +249,6 @@ Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../
 > *« Bonjour Madame/Monsieur l'officier. Je suis [Mon nom], victime d'un accident grave le 29 mai au salon **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**. J'ai déjà un PV (2026/015967). Je viens pour une plainte complémentaire, parce que depuis, la société refuse de communiquer son assurance et ne répond à aucun courrier. Et surtout, les vidéos de surveillance risquent d'être écrasées d'un jour à l'autre si rien n'est fait. »* <br>
 <hr><hr>
 
-<hr><hr>
 ## VI — ⚖️ **FONDEMENTS JURIDIQUES**
 
 ### VI.1 — **Textes applicables**
@@ -300,7 +294,6 @@ Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩

@@ -34,7 +34,6 @@ Place de la Préfecture
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](./Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # BORDEREAU DE PIÈCES
-<hr><hr>
 ## Dépôt au Commissariat de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** — Lundi 27 juillet 2026
 
 **DOCUMENTS D'IDENTITÉ**
@@ -81,7 +80,7 @@ Place de la Préfecture
 
 **CORRESPONDANCES**
 
-18. ☐ **Échanges de courriels avec Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** (Mme MAGALHAES / **[L'Adjoint au Maire de la Commune](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**)** — 4 pages
+18. ☐ **Échanges de courriels avec Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** ([**[La Secrétaire Générale de la Mairie]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) / **[L'Adjoint au Maire de la Commune](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**)** — 4 pages
 
 19. ☐ **Accusés de réception LRAR (29/06/2026 — adressés à l'ancien exploitant LMG) : **[L'Ancien Président de l'Exploitation](../../../../Memory/Tokens/token-ancien-president-exploitation.md)**, **[L'Ancienne Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)**, **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**** — 3 pages
 

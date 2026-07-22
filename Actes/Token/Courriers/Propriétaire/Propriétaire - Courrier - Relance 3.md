@@ -1,7 +1,7 @@
 ---
 emoji: 📜
 title: ✉️📜 Bailleur — Relance 3 LRAR (Correction AT + Demande Assurances)
-description: 3ème LRAR au bailleur Romain DELRIEU — Correction qualification 'accident
+description: 3ème LRAR au bailleur — Correction qualification 'accident
   du travail' + rappel 3 questions + action directe + bienveillance
 type: courrier
 date: 2026-07-19
@@ -78,7 +78,6 @@ Cette lettre fait suite à :
 - **Ma réponse par la présente** (prise d'acte, identification **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, trois questions précises) ;
 
 - **L'absence de réponse à ce jour** (soit **deux jours** après mon dernier courriel).
-<hr><hr>
 ## I — RAPPEL DES FAITS ET CORRECTION QUALIFICATIVE ESSENTIELLE
 
 ### 1 — Les faits matériels incontestables
@@ -118,22 +117,20 @@ Lors de ma visite des lieux le **16 juillet 2026**, j'ai constaté la disparitio
 Cette disparition constatée, si elle est établie comme intentionnelle, pourrait constituer une **faute caractérisée** (article 1240 du Code civil[^2]) de nature à faire présumer la responsabilité de l'exploitant et de son commettant. Elle sera portée à la connaissance du juge dans le cadre de toute procédure ultérieure (article 9 du Code de procédure civile[^3]).
 <hr><hr>
 
-<hr><hr>
 ## II — L'EXPLOITANT APPARENT AU 29 MAI 2026 : [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
-Les informations publiques (Registre National des Entreprises) indiquent que **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN **104 103 262**) a été créée le **22 avril 2026** et exerce une activité de coiffure/barbier au **22 Rue Lafaurie à Foix** — soit **plus d'un mois avant mon accident**.
+Les informations publiques (Registre National des Entreprises) indiquent que **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md)) a été créée le **22 avril 2026** et exerce une activité de coiffure/barbier au **22 Rue Lafaurie à Foix** — soit **plus d'un mois avant mon accident**.
 
-**[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** (SIREN 938 033 222) a, selon vos propres dires, cessé son activité le **10 mars 2026** (état des lieux de sortie à l'appui).
+**[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** (SIREN [**[SIREN de l'Ancien Exploitant]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)) a, selon vos propres dires, cessé son activité le **10 mars 2026** (état des lieux de sortie à l'appui).
 
 **Au 29 mai 2026, l'exploitant apparent des lieux était donc [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, et non **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)**.
 <hr><hr>
 
-<hr><hr>
 ## III — TROIS QUESTIONS RESTÉES SANS RÉPONSE
 
 Vous n'avez pas apporté de réponse aux trois questions suivantes, qui sont pourtant **déterminantes pour orienter correctement mon action** :
 
-1. **Occupant au 29 mai 2026** : Pouvez-vous confirmer que, à cette date, vos locaux du 22 Rue Lafaurie étaient bien occupés et exploités par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN 104 103 262), et m'indiquer la date exacte d'entrée dans les lieux de ce nouvel exploitant ?
+1. **Occupant au 29 mai 2026** : Pouvez-vous confirmer que, à cette date, vos locaux du 22 Rue Lafaurie étaient bien occupés et exploités par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md)), et m'indiquer la date exacte d'entrée dans les lieux de ce nouvel exploitant ?
    → *Identifie le responsable civil (gardien de la chose / commettant) au jour de l'accident*
 
 2. **Contrat de bail et avenants** : Un nouveau bail commercial ou avenant a-t-il été conclu après le départ de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** ? Si possible, pouvez-vous m'en communiquer une copie partielle (pages identité du preneur + clauses d'assurance) ?
@@ -143,7 +140,6 @@ Vous n'avez pas apporté de réponse aux trois questions suivantes, qui sont pou
    → *Conditionne l'exercice de l'action directe (L.124-3 du Code des assurances[^5]) et la mise en cause de votre propre assureur PNO*
 <hr><hr>
 
-<hr><hr>
 ## IV — DÉMARCHE AMIABLE : DERNIÈRE OPPORTUNITÉ DE RÉGLER SIMPLEMENT
 
 ### 1 — Ma volonté sincère de résoudre à l'amiable
@@ -158,7 +154,7 @@ Il me semble loyal de vous expliquer, **sans menace mais avec lucidité**, ce qu
 
 Si je ne parviens pas à obtenir les coordonnées des assureurs concernés par la voie amiable :
 
-1. **La CPAM** (au titre du recours contre tiers, dossier n° **31727387**) est fondée à exercer son **recours subrogatoire** contre les responsables et leurs assureurs. Elle dispose de moyens juridiques automatisés et d'une puissance de frappe administrative considérable.
+1. **La CPAM** (au titre du recours contre tiers, dossier n° [**[N° Dossier CPAM Victime]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)) est fondée à exercer son **recours subrogatoire** contre les responsables et leurs assureurs. Elle dispose de moyens juridiques automatisés et d'une puissance de frappe administrative considérable.
 
 2. **Ma protection juridique** (si contrat souscrit) ou, à défaut, **un avocat mandaté** prendra le relais pour engager les procédures judiciaires nécessaires : **référé-communication sur le fondement de l'article 145 du Code de procédure civile[^6]** (communication forcée du bail et des attestations d'assurance), **assignation en référé-provision**, **action au fond**.
 
@@ -167,7 +163,6 @@ Si je ne parviens pas à obtenir les coordonnées des assureurs concernés par l
 **Il est donc dans votre intérêt, comme dans le mien, que cette étape amiable aboutisse.** Communiquer le nom d'un assureur par simple courriel vous prendra quelques minutes ; subir une procédure de référé-communication avec huissier, astreintes et frais irrépétibles (article 700 du Code de procédure civile[^7]) en prendra des mois et coûtera infiniment plus cher.
 <hr><hr>
 
-<hr><hr>
 ## V — MISE EN DEMEURE
 
 En conséquence, je vous mets en demeure de bien vouloir me communiquer **dans un délai de quinze (15) jours à compter de la réception de la présente** :
@@ -181,7 +176,6 @@ En conséquence, je vous mets en demeure de bien vouloir me communiquer **dans u
 Cette démarche s'inscrit dans le respect de l'article 56 du Code de procédure civile[^8] (tentative de résolution amiable préalable) et de la jurisprudence de la Cour de cassation (2e chambre civile, 10 mars 2022, n° 20-16.331[^9] ; 3 avril 2025, n° 23-18.568[^10]), notamment en matière de réserves d'aggravation et de réparation intégrale des préjudices corporels.
 <hr><hr>
 
-<hr><hr>
 ## VI — RÉSERVES ET SIGNATURE
 
 Je me réserve le droit d'agir en justice à défaut de réponse satisfaisante dans le délai indiqué, sans préjudice de mes droits à indemnisation intégrale (préjudices corporels, patrimoniaux, extrapatrimoniaux, réserves d'aggravation).
@@ -198,7 +192,6 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 <!-- Source -->
 <hr><hr>
 
-<hr><hr>
 ## Sources Législation
 
 [^1]: [Article L.411-1 du Code de la sécurité sociale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
