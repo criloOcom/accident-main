@@ -41,6 +41,8 @@ run_audit "README integrity"          ".dev/app/audit_readme_integrity.py"
 run_audit "YAML links (Règle #25)"    ".dev/app/audit_yaml_links.py"
 run_audit "Citation links"            ".dev/app/audit_citation_links.py"
 run_audit "YAML frontmatter"          ".dev/app/yaml_validator.py"
+run_audit "Google Docs Pieces Sync"   ".dev/app/sync_google_docs_pieces.py"
+
 
 # ── Audit liens imbriqués invalides (Règle #28) ──
 echo ""
