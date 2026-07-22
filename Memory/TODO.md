@@ -17,7 +17,7 @@ type: memory
 > ### 📊 Phase 42 — Exploitation des 15 Rapports Jules MCP (22 juillet 2026) ✅ EN COURS / INTERACTIF
 > | Mission | Audit Jules | Deliverable / Rapport | Progression To-Do |
 > |---|---|---|---|
-> | 01 | HB Barber vs Les Mauvais Garçons | `Rapports/REPORT_JULES_01_Societes_Exploitant.md` | 🔶 25% (✅ 12/16 — 11 FP, 1 vérifié, 2 à faire) |
+> | 01 | HB Barber vs Les Mauvais Garçons | `Rapports/REPORT_JULES_01_Societes_Exploitant.md` | 🔶 100% (✅ Analyse INPI/RCS & dirigeants validée) |
 > | 02 | Responsabilité Dirigeants | `Rapports/REPORT_JULES_02_Responsabilite_Dirigeants.md` | 🔶 100% (✅ Audit jurisprudentiel Cass./CEDH & purges Légifrance) |
 > | 03 | Entrave & Destruction de Preuves | `Rapports/REPORT_JULES_03_Entrave_et_Preuves.md` | 🔶 100% (✅ Audit CEDH, Art. 434-4 CP & 1382 CC) |
 > | 04 | Défaillances Bailleur DELRIEU | `Rapports/REPORT_JULES_04_Bailleur_Responsabilite.md` | 🔶 100% (✅ Audit Art. 1719/1720 C. civ. & 1244 C. civ.) |
