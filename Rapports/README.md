@@ -117,6 +117,8 @@ Dossier reorganisé le 15 juillet 2026 en 9 sous-ensembles thématiques.
 - [RAPPORT_NETTOYAGE_2026-07-22](RAPPORT_NETTOYAGE_2026-07-22.md)
 
 - [SYNTHESE_SIMULATIONS_ARBRE_DECISIONNEL](SYNTHESE_SIMULATIONS_ARBRE_DECISIONNEL.md)
+
+- [REPORT_JULES_02_Responsabilite_Dirigeants.md](REPORT_JULES_02_Responsabilite_Dirigeants.md) — Audit Responsabilite Personnelle des Dirigeants (Session #02)
 ## Ordre de lecture recommandé
 
 **Pour toi (pilotage du dossier) :**
