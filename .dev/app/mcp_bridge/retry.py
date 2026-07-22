@@ -94,31 +94,14 @@ def retry_on_error(
     def decorator(func):
         @wraps(func)
         def wrapper(*args, **kwargs):
-            last_exception = None
-            
-            for attempt in range(max_retries + 1):
-                try:
-                    return func(*args, **kwargs)
-                except (RateLimitError, TemporaryServerError) as e:
-                    last_exception = e
-                    
-                    if attempt == max_retries:
-                        break
-                    
-                    # Calculate delay with exponential backoff
-                    delay = min(base_delay * (2 ** attempt), max_delay)
-                    
-                    # Add jitter if enabled
-                    if jitter:
-                        delay = delay * (0.5 + random.random())
-                    
-                    logger.warning(
-                        f"Attempt {attempt + 1}/{max_retries} failed: {e}. "
-                        f"Retrying in {delay:.2f}s..."
-                    )
-                    time.sleep(delay)
-            
-            raise last_exception
+            return retry_with_backoff(
+                func=lambda: func(*args, **kwargs),
+                max_retries=max_retries,
+                base_delay=base_delay,
+                max_delay=max_delay,
+                jitter=jitter,
+                retryable_exceptions=(RateLimitError, TemporaryServerError)
+            )
         return wrapper
     return decorator
 
