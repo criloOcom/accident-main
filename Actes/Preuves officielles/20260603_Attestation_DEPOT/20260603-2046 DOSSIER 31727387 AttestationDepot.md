@@ -29,18 +29,16 @@ drive_id: 1wyKSNyNvbJ4HygvQ4N-J_3jx88ItXYzR
 > drive_id: 1wyKSNyNvbJ4HygvQ4N-J_3jx88ItXYzR
 > drive_url: https://drive.google.com/file/d/1wyKSNyNvbJ4HygvQ4N-J_3jx88ItXYzR/view
 
+
 Direction Interministérielle du Numérique
 
 demarche.numerique.gouv.fr
 
-Attestation de dépôt
-Déclarer un dommage corporel causé par un tiers
+Attestation de dépôt Déclarer un dommage corporel causé par un tiers
 
-Ce document atteste que Sébastien GRAZIDE a déposé le 3 juin 2026 un dossier sur la démarche «
-Déclarer un dommage corporel causé par un tiers ».
+Ce document atteste que Sébastien GRAZIDE a déposé le 3 juin 2026 un dossier sur la démarche « Déclarer un dommage corporel causé par un tiers ».
 
-Identité du demandeur
-Prénom
+Identité du demandeur Prénom
 
 Sébastien
 
@@ -52,8 +50,7 @@ Adresse électronique
 
 sebastien.grazide@gmail.com
 
-Dossier
-Numéro de dossier
+Dossier Numéro de dossier
 
 31727387
 
@@ -65,11 +62,9 @@ Dossier déposé le
 
 accepté
 
-Service administratif
-Service
+Service administratif Service
 
-La Caisse Nationale d'Assurance Maladie , votre organisme d'assurance
-maladie de rattachement
+La Caisse Nationale d'Assurance Maladie , votre organisme d'assurance maladie de rattachement
 
 Adresse postale
 
@@ -83,7 +78,6 @@ Téléphone
 
 3646
 
-Fait le 03 juin 2026,
-La direction de demarche.numerique.gouv.fr
+Fait le 03 juin 2026, La direction de demarche.numerique.gouv.fr
 
 1/1

@@ -20,4 +20,5 @@ drive_id: 1SzKSnRMb5cmCHk3CplJH95PAbs7Vk5K3
 > drive_id: 1SzKSnRMb5cmCHk3CplJH95PAbs7Vk5K3
 > drive_url: https://drive.google.com/file/d/1SzKSnRMb5cmCHk3CplJH95PAbs7Vk5K3/view?usp=drivesdk
 
+
 [Contenu binaire PDF téléversé : 20260623-1732 AVIS ArretDeTravail DrDJERBI Volet3.pdf]

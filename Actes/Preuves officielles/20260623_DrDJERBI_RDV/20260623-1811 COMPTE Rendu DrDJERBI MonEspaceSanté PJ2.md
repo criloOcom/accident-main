@@ -28,6 +28,7 @@ drive_id: 1HaQVZh_Dsj2sbebvp6zHnps_6q791duR
 > drive_id: 1HaQVZh_Dsj2sbebvp6zHnps_6q791duR
 > drive_url: https://drive.google.com/file/d/1HaQVZh_Dsj2sbebvp6zHnps_6q791duR/view
 
+
 Date de naissance : 18/01/1982﻿
 
 Le, 31 mai 2026
@@ -38,9 +39,7 @@ J'ai été amené à opérer votre patient Monsieur Sebastien GRAZIDE né le 18/
 
 ans pour une plaie.
 
-L'intervention s'est très bien déroulée et les suites opératoires immédiates sont simples.
-Monsieur Sebastien GRAZIDE sort du service avec un traitement doliprane 1cp *4/jour si douleurs, augmentin 1g, 1 cp 3*/jour
-pendant 2 jours, des soins infirmiers, et reviendra en consultation dans uniquement si besoin﻿
+L'intervention s'est très bien déroulée et les suites opératoires immédiates sont simples. Monsieur Sebastien GRAZIDE sort du service avec un traitement doliprane 1cp *4/jour si douleurs, augmentin 1g, 1 cp 3*/jour pendant 2 jours, des soins infirmiers, et reviendra en consultation dans uniquement si besoin﻿
 
 Je vous fais parvenir ci-joint son compte-rendu opératoire.
 

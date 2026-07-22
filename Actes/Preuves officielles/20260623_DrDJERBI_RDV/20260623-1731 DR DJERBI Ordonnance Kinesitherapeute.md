@@ -28,27 +28,20 @@ drive_id: 1t-DHwIZUyJgWwQGOAFHtNvNC2xVtMozp
 > drive_id: 1t-DHwIZUyJgWwQGOAFHtNvNC2xVtMozp
 > drive_url: https://drive.google.com/file/d/1t-DHwIZUyJgWwQGOAFHtNvNC2xVtMozp/view
 
+
 --- Page 1 ---
 
-Ju CENTRE DE CHIRURGIE
-rgences mains DE LA MAIN ET DU
-Docteur Iskander DJERBI MEMBRE SUPERIEUR
-Chirurgien de la main, de l'épaule et du
-membre supérieur
-Date de naissance : 18/01/1982
-ORDONNANCE
+Ju CENTRE DE CHIRURGIE rgences mains DE LA MAIN ET DU Docteur Iskander DJERBI MEMBRE SUPERIEUR Chirurgien de la main, de l'épaule et du membre supérieur Date de naissance : 18/01/1982 ORDONNANCE
 
 Monsieur Sebastien GRAZIDE né le 18/01/1982
 
-Institut Toulousain du
-Membre Supérieur
+Institut Toulousain du Membre Supérieur
 
 Le, 23 juin 2026
 
 Faire réaliser par un kinésithérapeute 3 séances de rééducation par semaine index- 2e doigt droit
 
-récupération des mobilités articulaires flexion-extension
-travail actif et passif
+récupération des mobilités articulaires flexion-extension travail actif et passif
 
 physiothérapie antalgique
 
@@ -88,11 +81,9 @@ sd 1.
 
 ?
 
-ter
-ms
+ter ms
 
-! + .
-r y 2
+! + . r y 2
 
 sw
 
