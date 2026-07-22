@@ -65,22 +65,27 @@ type: organisation
 ### BAJ
 
 - **Q** : Pourquoi cette demande ?
+
 - **R** : Pour couvrir les frais d'avocat et de procédure.
 
 - **Q** : Avez-vous tous les justificatifs ?
+
 - **R** : Oui, voici mes justificatifs de revenus et ma déclaration.
 
 ### Commissariat
 
 - **Q** : Pourquoi une plainte complémentaire ?
+
 - **R** : Pour préciser l'identité de l'exploitant (HB BARBER) et ajouter des éléments (mise en danger).
 
 - **Q** : Avez-vous le PV initial ?
+
 - **R** : Oui, référence 2026/015967.
 
 ### Greffe Civil
 
 - **Q** : Où est votre avocat ?
+
 - **R** : J'ai déposé une demande d'AJ totale pour qu'un avocat me soit désigné. En attendant, je dépose cette requête moi-même.
 
 ## F. NUMÉROS UTILES

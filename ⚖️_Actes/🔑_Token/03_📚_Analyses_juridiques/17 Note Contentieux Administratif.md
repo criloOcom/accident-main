@@ -7,12 +7,19 @@ auteur: La Victime
 destinataire: La Victime
 tags:
 - contentieux
+
 - administratif
+
 - CPAM
+
 - inspection travail
+
 - CODAF
+
 - maire
+
 - TA
+
 - recours
 statut: projet
 source: local
@@ -28,8 +35,11 @@ format: Arial JUSTIFIED
 L'accident du **[J+0 Accident]** implique des autorites administratives dont l'action (ou l'inaction) peut etre contestee devant les juridictions administratives. Contrairement au contentieux civil (indemnisation) et penal (sanction), le contentieux administratif vise a :
 
 - **Contraindre** une administration a agir (injonction)
+
 - **Contester** un refus ou un silence
+
 - **Obtenir** la communication de documents
+
 - **Engager** la responsabilite de l'administration pour defaillance
 
 Ces recours sont independants des procedures civiles et penales et peuvent etre menes en parallele.
@@ -44,7 +54,9 @@ Ces recours sont independants des procedures civiles et penales et peuvent etre 
 
 **Fondements :**
 - Art. L.8112-1 C.trav. : les agents de controle sont tenus de proceder a des verifications
+
 - Art. L.4121-1 C.trav. : obligation de securite de l'employeur — le defaut de controle peut engager la responsabilite de l'Etat
+
 - Refus implicite ne a l'expiration d'un delai de **2 mois** (Art. L.231-4 CRPA)
 
 **Voie :** Recours pour exces de pouvoir (REP) devant le Tribunal Administratif de **[La Metropole Regionale]** — contestation du refus implicite de controler.
@@ -75,6 +87,7 @@ Ces recours sont independants des procedures civiles et penales et peuvent etre 
 
 **Fondement :**
 - Responsabilite du Maire pour defaut de surveillance (Art. L.2212-2 CGCT — police municipale)
+
 - Defaut de transmission de documents au titre du droit a l'information (Art. L.311-1 CRPA)
 
 **Voie :** REP + injonction pour communication des documents.
@@ -87,8 +100,11 @@ Ces recours sont independants des procedures civiles et penales et peuvent etre 
 
 **Objet :** Contestation des decisions de la CPAM :
 - Refus ou retard de designation du praticien conseil
+
 - Evaluations de l'IPP
+
 - Prise en charge insuffisante des soins
+
 - Defaut de recours contre tiers
 
 **Fondement :** Relevant du contentieux de la securite sociale (pas du TA pur, mais il existe des voies de recours interne devant la Commission de Recours Amiable — CRA).
@@ -123,15 +139,20 @@ Ces recours sont independants des procedures civiles et penales et peuvent etre 
 
 **Formalisme :**
 - Requete ecrite signee
+
 - Copie de la decision attaquee (ou preuve du depot de la demande)
+
 - Expose des moyens (arguments juridiques)
 
 **Lieu :** Tribunal Administratif de **[La Metropole Regionale]**.
 
 **Procedure :**
 1. Depot de la requete (papier ou via TELERECOURS)
+
 2. Instruction par le rapporteur public
+
 3. Audience publique
+
 4. Jugement
 
 ### 3.2 Refere-suspension (Art. L.521-1 CJA)
@@ -140,6 +161,7 @@ Ces recours sont independants des procedures civiles et penales et peuvent etre 
 
 **Conditions :** 
 - Urgence caracterisee
+
 - Moyen serieux de nature a faire douter de la legalite de la decision
 
 **Delai :** 48h a 7 jours.
@@ -163,9 +185,13 @@ Ces recours sont independants des procedures civiles et penales et peuvent etre 
 ## 5. POINTS D'ATTENTION
 
 1. **Delais de 2 mois** tres stricts — les compter depuis le silence (2 mois apres la demande)
+
 2. **Pas de formalite particuliere** pour la requete REP (papier libre ou telerecours)
+
 3. **Pas de frais de timbre** pour les particuliers (gratuit devant le TA)
+
 4. **Pas d'avocat obligatoire** pour le REP (sauf si conclusions indemnitaires)
+
 5. **L'interet a agir** doit etre justifie (victime directe de l'accident = interet suffisant)
 
 ---

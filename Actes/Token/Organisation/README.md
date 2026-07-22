@@ -41,6 +41,7 @@ Pour visualiser l'ordre d'enchaînement logique et d'envoi de ces différents do
 
 - **[Note - Fiche Réflexe 48h Disparition SAS](Note%20-%20Fiche%20R%C3%A9flexe%2048h%20Disparition%20SAS.md)**
 
+- **[34 EMAIL Maire Foix - Police Municipale ERP](34%20EMAIL%20Maire%20Foix%20-%20Police%20Municipale%20ERP.md)**
 ## 📅 Jalons
 
 | Date | Événement |

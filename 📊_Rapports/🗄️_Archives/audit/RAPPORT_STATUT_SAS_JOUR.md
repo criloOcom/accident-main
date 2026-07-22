@@ -7,12 +7,17 @@ auteur: L'Avocat de la Victime
 destinataire: La Victime
 personnes:
 - La Victime
+
 - L'Exploitant du Commerce (La SAS)
 tags:
 - statut
+
 - SAS
+
 - RNE
+
 - INPI
+
 - recherche entreprises
 statut: final
 format: Arial JUSTIFIED
@@ -48,6 +53,7 @@ La recherche par adresse (22 Rue Lafaurie, 09000 Foix) ne retourne qu'un seul r�
 L'API restitue deux dirigeants connus :
 
 - **Monsieur [Le Président de l'Exploitation]** — Qualité : Président de SAS
+
 - **Madame [La Directrice Générale de l'Exploitation]** — Qualité : Directeur Général
 
 Aucun autre mandat social n'est visible via cette API. Une consultation complémentaire du registre Infogreffe permettrait de vérifier si ces dirigeants sont également mandataires d'autres sociétés pouvant servir de structure de substitution.
@@ -67,11 +73,16 @@ La société est une micro-entreprise (tranche d'effectif NN, i.e. 0 salarié d�
 ## SECTION 6 — CONCLUSION ET RECOMMANDATIONS
 
 1. **La SAS est toujours active** mais sans mouvement récent au RNE depuis 2 ans.
+
 2. **Aucune nouvelle société à la même adresse** n'est encore enregistrée — mais la fenêtre est étroite.
+
 3. **Les dirigeants identifiés** portent la responsabilité personnelle d'éventuels actes de dissipation.
+
 4. **Urgence absolue** de geler les comptes et actifs avant radiation ou dissolution.
 
 **Actions prioritaires :**
 1. Vérification Infogreffe en complément (dépôt de comptes).
+
 2. Relance quotidienne de l'API pour détecter toute nouvelle immatriculation à cette adresse.
+
 3. Activation des mesures conservatoires décrites dans les notes M06 et M12.

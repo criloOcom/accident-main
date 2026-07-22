@@ -22,8 +22,11 @@ Monsieur l'Adjoint au Maire,
 Afin de contextualiser ma présente démarche, je me permets de retracer brièvement nos correspondances relatives à l'accident corporel grave dont j'ai été victime le 29 mai 2026 au sein de l'établissement situé au 22 Rue Lafaurie, 09000 Foix :
 
 - **Le 1er juin 2026**, je vous ai alerté de la dangerosité des équipements de ce salon de coiffure.
+
 - **Ce même 1er juin**, vous m'avez répondu avec une grande diligence pour m'informer de votre saisine des services de la Préfecture, de l'Inspection du Travail et du CODAF.
+
 - **Le 2 juin 2026**, je vous ai transmis la preuve officielle de l'ouverture de ma procédure pénale (PV n° 2026/015967).
+
 - **Le 5 juillet 2026**, je vous ai adressé une demande d'information concernant l'avancement de ces enquêtes administratives.
 
 Si je me permets de vous solliciter à nouveau aujourd'hui, c'est en raison d'une évolution particulièrement anormale de la situation qui requiert l'attention de vos services.
@@ -37,7 +40,9 @@ Pourtant, le commerce a rouvert ses portes le 6 juillet 2026 et paraît en activ
 Dans ce contexte d'opacité, et afin de garantir la sécurité des usagers de cet Établissement Recevant du Public (ERP), je sollicite l'intervention de vos services de police municipale. Il s'agirait, lors de leurs patrouilles, de procéder aux constatations suivantes :
 
 1. **Identifier** précisément la structure juridique et l'identité de l'exploitant physique actuellement en activité dans les locaux (contrôle du Kbis et de l'affichage légal obligatoire).
+
 2. **Vérifier** si les installations litigieuses ayant causé l'accident (notamment la vasque en céramique présentant une cassure préexistante tranchante) sont toujours présentes et accessibles au public, ou si des mesures de mise en conformité ont été réalisées.
+
 3. **Contrôler** l'affichage obligatoire des informations relatives à l'assurance de responsabilité civile de l'établissement.
 
 Ces constatations factuelles par des agents publics assermentés sont primordiales pour faire toute la lumière sur la situation de ce local.

@@ -12,7 +12,6 @@ type: readme
 
 ## 📄 Contenu
 
-- **[Lettre Recommandée — Transmission Tribunal de FOIX au Procureur de la République](20260629_LR_Transmission_TribunalFOIX%20ProcureurDeLaR%C3%A9publique.md)** — Document de type document
-
+- **[20260629_LR_Transmission_TribunalFOIX_ProcureurDeLaRépublique](20260629_LR_Transmission_TribunalFOIX_ProcureurDeLaRépublique.md)**
 ---
 *README généré automatiquement le 11 juillet 2026*
