@@ -74,12 +74,12 @@ def create_readme_for_directory(dir_path, parent_readme_path):
     
     for md_file in md_files:
         # Extraire le numéro d'article du nom de fichier
-        match = re.search(r'Article[_:-]([^_\-]+)', md_file.name)
+        match = re.search(r'Article[_:-]([^_\-\.]+)', md_file.name)
         if match:
             article_num = match.group(1).replace('-', '.')
             readme_content += f"- [{article_num}]({md_file.name})\n"
     
-    readme_content += "\n---\n\n> **Dernière mise à jour :** {datetime.now().strftime('%d %B %Y')}\n"
+    readme_content += f"\n---\n\n> **Dernière mise à jour :** {datetime.now().strftime('%d %B %Y')}\n"
     
     with open(dir_path / 'README.md', 'w', encoding='utf-8') as f:
         f.write(readme_content)
@@ -158,7 +158,7 @@ def process_directory(directory):
         new_content = fix_breadcrumb_content(content)
         
         # Extraire le numéro d'article pour les métadonnées
-        article_match = re.search(r'Article[_:-]([^_\-]+)', md_file.name)
+        article_match = re.search(r'Article[_:-]([^_\-\.]+)', md_file.name)
         article_num = article_match.group(1).replace('-', '.') if article_match else "Inconnu"
         
         # Déterminer le code

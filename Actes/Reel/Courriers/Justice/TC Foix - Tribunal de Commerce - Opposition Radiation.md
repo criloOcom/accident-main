@@ -15,7 +15,7 @@ tags:
 
 - LRAR
 statut: final
-destinataire: Tribunal de Commerce de Foix
+destinataire: Tribunal de Commerce de [Foix](../../../../Memory/Tokens/token-accident-ville.md)
 auteur: Nom de l'Avocat de la Victime
 reel_path: ../../../Reel/Courriers/Justice/TC Foix - Tribunal de Commerce - Opposition Radiation.md
 jx: J+41

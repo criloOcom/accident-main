@@ -1,7 +1,7 @@
 ---
 emoji: 🔄
 title: Relance Préfecture / CODAF — Suite signalement Maire de Foix
-description: Suivi du signalement transmis par Monsieur TAVELLA
+description: Suivi du signalement transmis par [Monsieur TAVELLA](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)
   (Adjoint au Maire) le 1er juin 2026 — demande d'état d'avancement
 type: courrier
 date: 2026-07-15
