@@ -389,7 +389,7 @@ L'action directe contre l'assureur de [**[L'Exploitant du Commerce]**](../../../
 
 2. En parallèle, consulter l'ORIAS pour identifier l'assureur déclaré ;
 
-3. Une fois l'assureur identifié, lui adresser une mise en demeure formelle (modèle disponible dans la [**Note Droit Assurances**](Note%20-%20Droit%20des%20Assurances.md) ;
+3. Une fois l'assureur identifié, lui adresser une mise en demeure formelle (modèle disponible dans la [**Note Droit Assurances**](../../Reel/Analyses_juridiques/Note%20-%20Droit%20des%20Assurances.md) ;
 
 4. En cas de silence ou refus, saisir le juge des référés pour obtenir une provision et une expertise médicale ;
 
