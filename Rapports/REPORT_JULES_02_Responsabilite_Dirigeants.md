@@ -32,7 +32,7 @@ Cette responsabilité s'appuie sur deux piliers juridiques complémentaires :
 
 <hr><hr>
 
-## II — ANALYSE DÉTAILLÉE DE LA FAUTE DÉTACHABLE ET DES PRÉSUMPTIONS (ART. 1382 C. CIV.)
+## II — ANALYSE DÉTAILLÉE DE LA FAUTE DÉTACHABLE ET DES PRÉSUMPTIONS (ART. 1382 C. CIV. & CEDH)
 
 ### 1. Qualification de la Faute Détachable (Arrêt SATI)
 La Cour de cassation définit la faute détachable/séparable des fonctions comme :
@@ -47,15 +47,18 @@ Dans notre dossier, le refus délibéré et prolongé pendant plusieurs semaines
 
 ### 2. Le Faisceau de Présomptions Graves, Précises et Concordantes (Art. 1382 Code civil)
 L'article 1382 du Code civil permet au juge de retenir des présomptions de fait lorsqu'elles sont graves, précises et concordantes. L'enchaînement des événements constatés établit la mauvaise foi caractérisée de la direction :
-- **La fermeture du salon pendant 30 jours post-accident** : Le rideau de fer est resté baissé immédiatement après l'accident jusqu'au 6 juillet 2026, entraînant l'effacement automatique et irrémédiable des bandes de vidéosurveillance (dont la durée de conservation est limitée par la CNIL et le CSI).
+- **La fermeture du salon pendant 30 jours post-accident** : Le rideau de fer est resté baissé immédiatement après l'accident jusqu'au 6 juillet 2026, entraînant l'effacement automatique des bandes de vidéosurveillance. Sur le plan civil, cette disparition renforce le faisceau de présomptions de mauvaise foi.
 
 - **L'altération des lieux** : Le retrait du meuble mural TV et le remplacement du bac à shampoing défectueux constatés lors de la visite du 16 juillet 2026.
 
 - **Les allégations mensongères** : L'imputation infondée d'un prétendu état d'ivresse de la victime lors de la visite du 16 juillet, formellement infirmée par l'ensemble des bilans médicaux et procès-verbaux d'urgence.
 
+### 3. Jurisprudence de la CEDH sur la Conservation des Preuves Vidéo
+La jurisprudence de la Cour Européenne des Droits de l'Homme (*Merabishvili c. Géorgie*, 28 nov. 2017, n° 72508/13 ; *Semache c. France*, 21 juin 2018, n° 36083/16 ; *M.H. c. Croatie*, 18 nov. 2021) pose que le défaut de conservation ou l'absence d'investigation technique sur la disparition d'enregistrements vidéo clés porte atteinte au **droit à une enquête effective (Art. 2 & 3 CEDH)**. Face à des explications contradictoires ou invérifiées sur l'effacement vidéo, les juridictions font peser la charge de l'explication convaincante sur l'entité qui contrôlait le système de surveillance.
+
 <hr><hr>
 
-## III — STRATÉGIE PROCÉDURALE & VOIES DE DROIT (ART. 145 & 700 CPC)
+## III — STRATÉGIE PROCÉDURALE & VOIES DE DROIT (ART. 145, 700 CPC & 434-4 CP)
 
 ### 1. Référé-Communication (Article 145 du Code de procédure civile)
 La saisine du juge des référés du Tribunal Judiciaire repose sur un **motif légitime évident** :
@@ -66,8 +69,10 @@ La saisine du juge des référés du Tribunal Judiciaire repose sur un **motif l
 ### 2. Frais Irrépétibles & Résistance Abusive (Article 700 du Code de procédure civile)
 La résistance abusive des dirigeants et la multiplication des démarches induites par leur inertie (investigations INPI, LRAR réitérées, déplacements sur place) justifient une demande substantielle au titre de l'article 700 CPC (3 000 € pour la procédure d'assignation en référé), que le juge accordera au titre de l'équité face à la mauvaise foi manifeste des défendeurs.
 
-### 3. Pression Pénale (Article 434-4 du Code pénal)
-La mention dans nos courriers et actes de l'article 434-4 du Code pénal (incriminant la modification de l'état des lieux et l'altération de preuves en vue de faire obstacle à la vérité) constitue un levier de pression légitime pour inciter les dirigeants à cesser leur obstruction.
+### 3. Volet Pénal : Distinction Utile de l'Article 434-4 du Code pénal
+- **Actes Matériels Positifs (*Actes Positifs*)** : L'incrimination de l'article 434-4 du Code pénal s'appuie principalement sur les **actes positifs de modification matérielle des lieux** (retrait du meuble TV et remplacement de la vasque constatés le 16 juillet 2026).
+
+- **Contexte des Vidéos** : La perte des vidéos par l'expiration des 30 jours de fermeture vient corroborer le contexte d'entrave, tandis que la démonstration matérielle repose sur l'altération physique du local ERP.
 
 <hr><hr>
 
