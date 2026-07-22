@@ -1,3 +1,39 @@
+---
+title: "Rapport Jules #10 — Actes Proceduraux Citations"
+description: "Rapport d'audit et recommandations d'exploitation des nouvelles preuves officielles."
+type: rapport
+progress: 0%
+status: a_traiter
+date: 2026-07-22
+jules_session_id: "AM-MISSION-10"
+---
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [📋 Rapports](./README.md) › Rapport Jules #10*
+<hr>
+<!-- /Breadcrumb -->
+
+# 📊 Rapport Jules #10 — Actes Proceduraux Citations
+
+> **📊 TABLEAU DE BORD D'ACCOMPLISSEMENT**
+> - **Statut** : 🟡 À Traiter
+> - **Progression** : 0% (0 / 96 actions validées)
+> - **Date d'émission** : 22 juillet 2026
+
+---
+
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [📋 Rapports](./README.md) › Rapport Jules #10*
+<hr>
+<!-- /Breadcrumb -->
+
+# 📊 Rapport Jules #10 — Actes Proceduraux Citations
+
+> - **Statut** : 🟡 À Traiter
+> - **Progression** : 0% (0 / 96 actions validées)
+> - **Date d'émission** : 22 juillet 2026
+
+---
+
 # Rapport d'audit : Citations des preuves dans les Actes Procéduraux
 
 **Date de l'audit** : 2026-07-22
@@ -12,45 +48,57 @@ Le dossier a récemment vu l'ajout de nouvelles preuves essentielles qui viennen
 ## Constats Détaillés
 
 ### 1. Preuves INPI (Fiche INPI/INSEE)
-- **Présence constatée** :
+- [ ] **Présence constatée** :
+
   - **TJ Foix - CPC 145 - Ordonnance sur Requête.md** (mention de DATA INPI dans le corps du texte)
   - **TJ Foix - CPC 145 - Requête.md** (mention et listée aux pièces n°7 et n°8)
   - **Parquet Foix - Plainte Complémentaire - PV Audition Foix.md** (note d'audit RNE/INPI versée au PV en pièce n°4)
   - **Parquet Foix - Plainte Complémentaire - Correction.md** (attestation RNE citée dans le bordereau)
 - **Manquements** :
-  - Ces preuves cruciales pour asseoir la légitimité de l'action contre la société *HB BARBER* sont **absentes** du document structurant principal, le **TJ Foix - Bordereau Unifié.md**.
+
+- [ ] Ces preuves cruciales pour asseoir la légitimité de l'action contre la société *HB BARBER* sont **absentes** du document structurant principal, le **TJ Foix - Bordereau Unifié.md**.
+
   - Elles sont également absentes des bordereaux abrégés des actes suivants :
     - `TJ Foix - Référé Provision - Assignation.md`
     - `DJI Foix - Partie Civile - Constitution.md`
 
 ### 2. Preuves LRAR du 18/07 (Nouvelles Mises en Demeure)
 - **Contexte** : Trois nouvelles LRAR ont été envoyées le 18/07/2026 à la SAS, au Président, et à la DG.
-- **Présence constatée** :
+
+- [ ] **Présence constatée** :
+
   - La date du 18/07 apparaît uniquement pour le SMS envoyé au préposé : `Capture d'écran WhatsApp + CERFA 11527\*03` dans **Parquet Foix - Plainte Complémentaire - Correction.md**.
 - **Manquements** :
+
   - **Aucun bordereau** (Bordereau Unifié, Assignation, Partie Civile) ne liste les preuves de dépôt de ces LRAR. Le J+51 (18/07/2026) n'est pas intégré. Seules les LRAR du J+31 (Mises en demeure initiales) sont citées.
 
 ### 3. Kiné (Confirmation de rendez-vous et comptes rendus)
-- **Présence constatée** :
+- [ ] **Présence constatée** :
+
   - Citée dans **TJ Foix - Référé Provision - Ordonnance Projet.md** (mention dans les frais kiné pour provision).
   - Présente dans le **TJ Foix - Bordereau Unifié.md** en pièces 29, 30, et 41 (Confirmation rendez-vous kiné).
   - Mentionnée dans **Parquet Foix - Plainte Complémentaire - Correction.md** (suivi médical).
 - **Manquements** :
+
   - Ces preuves de suivi post-opératoire et de frais futurs sont absentes du bordereau de **TJ Foix - Référé Provision - Assignation.md** (qui s'arrête à J+12 pour la facture) et de la **Partie Civile - Constitution.md**.
 
 ### 4. SAMU / Pompiers (Gabarit d'attestation)
-- **Présence constatée** :
+- [ ] **Présence constatée** :
+
   - Le gabarit d'attestation SAMU/Pompiers est bien listé comme **Pièce n° 20** du **TJ Foix - Bordereau Unifié.md**.
   - Mention explicite d'un appel au SAMU dans **Parquet Foix - Plainte Complémentaire - Correction.md**.
 - **Manquements** :
+
   - Absent des autres bordereaux restreints.
 
 ### 5. Témoin (Attestations et Contact Préposé)
-- **Présence constatée** :
+- [ ] **Présence constatée** :
+
   - Les gabarits d'attestation (client présent, employé, SAMU) sont listés aux pièces 19, 20 et 21 du **TJ Foix - Bordereau Unifié.md**.
   - La démarche formelle de demande d'attestation auprès du coiffeur (Préposé) le 18/07/2026 est mentionnée et documentée dans **Parquet Foix - Plainte Complémentaire - Correction.md**.
   - La demande d'audition du coiffeur en qualité de témoin figure dans le **DJI Foix - Parquet - Réquisitoire Introductif.md**.
 - **Manquements** :
+
   - Aucune mention ni pièce relative aux témoins dans l'assignation en référé et la constitution de partie civile.
 
 ---
@@ -62,11 +110,206 @@ Il apparaît clairement que le **TJ Foix - Bordereau Unifié.md** n'a pas été 
 ### Actions correctives à mener par le projet :
 
 1. **Enrichir le Bordereau Unifié** :
-   - Insérer la pièce relative à la fiche RNE / DATA INPI.
-   - Insérer les pièces correspondant aux LRAR du 18/07/2026 (preuves de dépôt à l'encontre de la société HB BARBER, Hamza BERGUIGA, et Catherine SORROCHE).
+
+- [ ] Insérer la pièce relative à la fiche RNE / DATA INPI.
+
+- [ ] Insérer les pièces correspondant aux LRAR du 18/07/2026 (preuves de dépôt à l'encontre de la société HB BARBER, Hamza BERGUIGA, et Catherine SORROCHE).
 
 2. **Refonte des bordereaux abrégés** :
-   - Modifier **`TJ Foix - Référé Provision - Assignation.md`** : actualiser la liste des 13 pièces avec les pièces INPI, LRAR du 18/07, Kiné et Témoins, ou bien (idéalement) ne faire qu'un seul renvoi formel vers le Bordereau Unifié global pour éviter la désynchronisation.
-   - Modifier **`DJI Foix - Partie Civile - Constitution.md`** : actualiser la liste de ses 14 pièces pour y inclure les preuves de la légitimité de l'action (INPI), la continuité des demandes (LRAR du 18/07) et les preuves Kiné / Témoins.
+
+- [ ] Modifier **`TJ Foix - Référé Provision - Assignation.md`** : actualiser la liste des 13 pièces avec les pièces INPI, LRAR du 18/07, Kiné et Témoins, ou bien (idéalement) ne faire qu'un seul renvoi formel vers le Bordereau Unifié global pour éviter la désynchronisation.
+
+- [ ] Modifier **`DJI Foix - Partie Civile - Constitution.md`** : actualiser la liste de ses 14 pièces pour y inclure les preuves de la légitimité de l'action (INPI), la continuité des demandes (LRAR du 18/07) et les preuves Kiné / Témoins.
 
 *Le présent rapport doit servir de base au plan d'action d'alignement des pièces jointes.*
+
+---
+
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [Rapports](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
+# 📊 Rapport d'audit : Adresses et Sièges Sociaux
+
+Ce rapport liste les incohérences ou erreurs liées aux adresses et sièges sociaux des parties (victime, SAS LMG, SAS HB BARBER, bailleur, dirigeants) dans les fichiers `Actes/`.
+
+## 🛑 Incohérences Critiques (Fuites d'Anonymisation / Tokens non remplacés)
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/Contentieux_penal/Plainte Complémentaire - Correction.md:28 — Adresse réelle trouvée dans un fichier Token (`10 avenue de Purpan`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/Contentieux_penal/Plainte Complémentaire - Correction.md:33 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/Contentieux_penal/Plainte Complémentaire - Correction.md:38 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/Contentieux_penal/Plainte Complémentaire - Correction.md:55 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/Contentieux_penal/Plainte Complémentaire - Correction.md:66 — Adresse réelle trouvée dans un fichier Token (`22 GRANDE RUE LA FAURIE`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/Contentieux_penal/Plainte Complémentaire - Correction.md:84 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/Contentieux_penal/Plainte Complémentaire - Correction.md:102 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Bordereau Pièces.md:46 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md:26 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md:27 — Adresse réelle trouvée dans un fichier Token (`22 Grande Rue La Faurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md:25 — Adresse réelle trouvée dans un fichier Token (`10 avenue de Purpan`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md:29 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md:45 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md:56 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md:102 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md:133 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md:139 — Adresse réelle trouvée dans un fichier Token (`17 Rue de la Baïse`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md:145 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md:148 — Adresse réelle trouvée dans un fichier Token (`17 Rue de la Baïse`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md:172 — Adresse réelle trouvée dans un fichier Token (`22 GRANDE RUE LA FAURIE`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md:181 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md:186 — Adresse réelle trouvée dans un fichier Token (`22 Grande Rue La Faurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md:228 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md:301 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md:32 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md:46 — Adresse réelle trouvée dans un fichier Token (`22 Grande Rue La Faurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md:48 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:37 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:48 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:71 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:73 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:75 — Adresse réelle trouvée dans un fichier Token (`22 Grande Rue La Faurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:80 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:85 — Adresse réelle trouvée dans un fichier Token (`22 Grande Rue La Faurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:103 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:140 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:147 — Adresse réelle trouvée dans un fichier Token (`22 Grande Rue La Faurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:152 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Courriers/Propriétaire/Propriétaire - Courrier - Relance 3.md:34 — Adresse réelle trouvée dans un fichier Token (`17 Rue de la Baïse`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Courriers/Propriétaire/Propriétaire - Courrier - Relance 3.md:41 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Courriers/Propriétaire/Propriétaire - Courrier - Relance 3.md:59 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Courriers/Propriétaire/Propriétaire - Courrier - Relance 3.md:97 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Courriers/Propriétaire/Propriétaire - Courrier - Relance 3.md:109 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Courriers/CPAM/CPAM - Rectification Identité - Relance.md:46 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Courriers/CPAM/CPAM - Rectification Identité - Relance.md:57 — Adresse réelle trouvée dans un fichier Token (`22 Grande Rue La Faurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Courriers/Interne/BAJ - Demande AJ - Totale.md:85 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Courriers/Interne/BAJ - Demande AJ - Totale.md:98 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Courriers/Interne/BAJ - Demande AJ - Totale.md:136 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Attestations/Attestation - Témoin Mathieu Frédéric.md:80 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md:54 — Adresse réelle trouvée dans un fichier Token (`22, RUE DE LA FAURIE`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Analyses_juridiques/Note - Dossier Plaidoirie Référé.md:112 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md:33 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md:118 — Adresse réelle trouvée dans un fichier Token (`22 GRANDE RUE LA FAURIE`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md:136 — Adresse réelle trouvée dans un fichier Token (`22 rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Organisation/Checklist - Déplacement 20-07.md:38 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Organisation/Checklist - Déplacement 20-07.md:116 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Organisation/Checklist - Déplacement 20-07.md:164 — Adresse réelle trouvée dans un fichier Token (`22 RUE LAFAURIE`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Organisation/Checklist - Déplacement 20-07.md:195 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Organisation/Checklist - Déplacement 20-07.md:250 — Adresse réelle trouvée dans un fichier Token (`17 rue de la Baïse`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Archives/Archive - Checklist Déplacement Foix.md:34 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
+
+- [ ] **FILE** : [CRITIQUE] Actes/Token/Archives/Archive - Checklist Déplacement Foix.md:42 — Adresse réelle trouvée dans un fichier Token (`22 Rue Lafaurie`) — remplacer par le token approprié
+
+## ⚠️ Problèmes Mineurs (Orthographe, Format)
+
+- [ ] **FILE** : [MINEUR] Actes/Preuves officielles/20260602_Police_PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md:75 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Reel/Actes_proceduraux/Contentieux_penal/Plainte Complémentaire - Correction.md:66 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Reel/Actes_proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md:27 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Reel/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md:172 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Reel/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md:186 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Reel/Actes_proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md:46 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Reel/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:75 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Reel/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:85 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Reel/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:140 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Reel/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:147 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Reel/Courriers/CPAM/CPAM - Rectification Identité - Relance.md:57 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Reel/Analyses_juridiques/Mémoire - En défense adverse.md:54 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Reel/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md:118 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Token/Actes_proceduraux/Contentieux_penal/Plainte Complémentaire - Correction.md:66 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Token/Actes_proceduraux/📋 Preparation Foix/📋 Police - Note Frise Chronologique.md:27 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md:172 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md:186 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md:46 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:75 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:85 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:140 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Erratum Identité.md:147 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Token/Courriers/CPAM/CPAM - Rectification Identité - Relance.md:57 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md:54 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+- [ ] **FILE** : [MINEUR] Actes/Token/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md:118 — Orthographe de l'adresse de l'exploitation incorrecte — corriger en '22 Rue Lafaurie'
+
+---
+
+---

@@ -10,8 +10,29 @@ type: memory
 
 # TODO<br>Plans d'action + Tableau de bord Sébastien
 
-> **Dernière mise à jour :** 22 juillet 2026 07:30 — Phase Night Watch ✅ 46 PRs mergées (39 Phase 1 tests/perf/security + 6 Phase 2 contenu + 1 fix conflit). Capital HB BARBER 1000€ finalisé. ✅ Correction erratum identité société (LMG vs HB BARBER). SIRET inversé fixé (938 033 222 00010 ↔ 104 103 262 00010), distinction temporelle des dirigeants créée (4 nouveaux tokens anciens dirigeants), adresse canonique unifiée "22 Rue Lafaurie", propagation dans 6 documents Police + CPAM, scripts .dev/app alignés. 59 fichiers, 722 insertions. [Commit f949f4e8](https://github.com/criloOcom/accident-main/commit/f949f4e8) poussé.
+> **Dernière mise à jour :** 22 juillet 2026 10:35 — Phase 42 ✅ Integration & Exploitation des 15 Rapports Jules MCP (22/07/2026) — Rapatriement de 13 branches Git remote, fusion sans conflit, normalisation YAML/To-Do lists interactives avec checkboxes dans `Rapports/REPORT_JULES_*.md`.
 >
+> ---
+>
+> ### 📊 Phase 42 — Exploitation des 15 Rapports Jules MCP (22 juillet 2026) ✅ EN COURS / INTERACTIF
+> | Mission | Audit Jules | Deliverable / Rapport | Progression To-Do |
+> |---|---|---|---|
+> | 01 | HB Barber vs Les Mauvais Garçons | `Rapports/REPORT_JULES_01_Societes_Exploitant.md` | 🔲 0% (0/16 actions) |
+> | 02 | Responsabilité Dirigeants | `Rapports/REPORT_JULES_02_Responsabilite_Dirigeants.md` | 🔲 0% (0/4 actions) |
+> | 03 | Entrave & Destruction de Preuves | `Rapports/REPORT_JULES_03_Entrave_et_Preuves.md` | 🔲 0% (0/5 actions) |
+> | 04 | Défaillances Bailleur DELRIEU | `Rapports/REPORT_JULES_04_Bailleur_Responsabilite.md` | 🔲 0% (0/3 actions) |
+> | 05 | Qualification Accident TI | `Rapports/REPORT_JULES_05_Qualification_Accident.md` | 🔲 0% (0/187 actions) |
+> | 06 | Audit PIECES MAP | `Rapports/REPORT_JULES_06_Pieces_Map_Audit.md` | 🔲 0% (0/9 actions) |
+> | 07 | Audit STRICT VARIABLES | `Rapports/REPORT_JULES_07_Strict_Variables_Audit.md` | 🔲 0% (0/4 actions) |
+> | 08 | Témoignage Frédéric MATHIEU | `Rapports/REPORT_JULES_08_Temoignage_Mathieu.md` | 🔲 0% (0/39 actions) |
+> | 09 | Régulation Médicale SAMU 09 | `Rapports/REPORT_JULES_09_SAMU09_Tracabilite.md` | 🔲 0% (0/99 actions) |
+> | 10 | Citations Actes Procéduraux | `Rapports/REPORT_JULES_10_Actes_Proceduraux_Citations.md` | 🔲 0% (0/96 actions) |
+> | 11 | Suivi Kiné & Bilan Écrit | `Rapports/REPORT_JULES_11_Parcours_Kine_Audit.md` | 🔲 0% (0/5 actions) |
+> | 12 | Recours CPAM & Action Directe | `Rapports/REPORT_JULES_12_CPAM_Action_Directe.md` | 🔲 0% (0/858 actions) |
+> | 13 | Audit DEPENDANCES.md | `Rapports/REPORT_JULES_13_Dependances_Audit.md` | 🔲 0% (0/7 actions) |
+> | 14 | Conformité JURITEXT | `Rapports/REPORT_JULES_14_Juritext_Conformite.md` | 🔲 0% (0/4 actions) |
+> | 15 | Synthèse Globale Preuves | `Rapports/REPORT_JULES_15_Synthese_Globale_Preuves.md` | 🔲 0% (0/7 actions) |
+
 
 ---
 

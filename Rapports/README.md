@@ -117,6 +117,36 @@ Dossier reorganisé le 15 juillet 2026 en 9 sous-ensembles thématiques.
 - [RAPPORT_NETTOYAGE_2026-07-22](RAPPORT_NETTOYAGE_2026-07-22.md)
 
 - [SYNTHESE_SIMULATIONS_ARBRE_DECISIONNEL](SYNTHESE_SIMULATIONS_ARBRE_DECISIONNEL.md)
+
+- [REPORT_JULES_01_Societes_Exploitant](REPORT_JULES_01_Societes_Exploitant.md)
+
+- [REPORT_JULES_02_Responsabilite_Dirigeants](REPORT_JULES_02_Responsabilite_Dirigeants.md)
+
+- [REPORT_JULES_03_Entrave_et_Preuves](REPORT_JULES_03_Entrave_et_Preuves.md)
+
+- [REPORT_JULES_04_Bailleur_Responsabilite](REPORT_JULES_04_Bailleur_Responsabilite.md)
+
+- [REPORT_JULES_05_Qualification_Accident](REPORT_JULES_05_Qualification_Accident.md)
+
+- [REPORT_JULES_06_Pieces_Map_Audit](REPORT_JULES_06_Pieces_Map_Audit.md)
+
+- [REPORT_JULES_07_Strict_Variables_Audit](REPORT_JULES_07_Strict_Variables_Audit.md)
+
+- [REPORT_JULES_08_Temoignage_Mathieu](REPORT_JULES_08_Temoignage_Mathieu.md)
+
+- [REPORT_JULES_09_SAMU09_Tracabilite](REPORT_JULES_09_SAMU09_Tracabilite.md)
+
+- [REPORT_JULES_10_Actes_Proceduraux_Citations](REPORT_JULES_10_Actes_Proceduraux_Citations.md)
+
+- [REPORT_JULES_11_Parcours_Kine_Audit](REPORT_JULES_11_Parcours_Kine_Audit.md)
+
+- [REPORT_JULES_12_CPAM_Action_Directe](REPORT_JULES_12_CPAM_Action_Directe.md)
+
+- [REPORT_JULES_13_Dependances_Audit](REPORT_JULES_13_Dependances_Audit.md)
+
+- [REPORT_JULES_14_Juritext_Conformite](REPORT_JULES_14_Juritext_Conformite.md)
+
+- [REPORT_JULES_15_Synthese_Globale_Preuves](REPORT_JULES_15_Synthese_Globale_Preuves.md)
 ## Ordre de lecture recommandé
 
 **Pour toi (pilotage du dossier) :**
