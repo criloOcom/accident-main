@@ -38,8 +38,6 @@ Vérification point par point (Art. 706-3 CPP) :
 - ❓ **Refus d'assurance ou assureur inconnu ?**
   À ce stade, aucune assurance RC professionnelle n'a été communiquée. En l'absence de garantie, l'intervention du Fonds de Garantie des Victimes est légitime.
 <hr><hr>
-
-<hr><hr>
 ## B. PLAFONDS CIVI
 
 - **Plafond par victime :**
@@ -50,8 +48,6 @@ Vérification point par point (Art. 706-3 CPP) :
 
 - **Comparatif avec notre évaluation Dintilhac :**
   Devant la CIVI, le FGTI peut discuter certains montants, d'où la nécessité de solides justificatifs.
-<hr><hr>
-
 <hr><hr>
 ## C. PIÈCES REQUISES POUR LA SAISINE
 
@@ -71,8 +67,6 @@ Liste exhaustive des pièces à produire :
 
 - **Tout ce qui démontre l'insolvabilité**
   Extrait Kbis prouvant le capital de 200 €.
-<hr><hr>
-
 <hr><hr>
 ## D. LETTRE DE SAISINE
 
@@ -99,8 +93,6 @@ Une plainte a été déposée (PV N° 2026/015967).
 Une indemnisation est sollicitée conformément à mon droit à la réparation intégrale.
 
 Dans l'attente, veuillez agréer, Madame, Monsieur le Président, l'expression de mes salutations distinguées.
-<hr><hr>
-
 <hr><hr>
 ## E. COMPARATIF
 

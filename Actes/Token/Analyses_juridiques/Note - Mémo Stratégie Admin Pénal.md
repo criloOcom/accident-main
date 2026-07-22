@@ -21,14 +21,14 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Stratégie Admin Pénal.m
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[**[L'Exploitant du Commerce (La SAS)]**]((../../../Memory/Tokens/token-exploitation-raison-sociale.md))** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MÉMO STRATÉGIQUE<br>VOIES ADMINISTRATIVE ET PÉNALE
 
 > **Date :** 15 juillet 2026
 > **Source :** Consultation avocat (réponse à nos questions sur la proactivité)
 > **Statut :** ✅ **Validé par avocat le 15 juillet 2026**
-> **Objet :** Articulation des deux voies de droit ouvertes contre le salon « **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** »
+> **Objet :** Articulation des deux voies de droit ouvertes contre le salon « **[**[L'Exploitant du Commerce (La SAS)]**]((../../../Memory/Tokens/token-exploitation-raison-sociale.md))** »
 >
 > **Conclusion avocat :** « Je valifie l'articulation proposée : voie pénale = axe principal (statut procédural fort, droits à l'information et à la réparation via art. 10-2 et 40-2 CPP) ; voies administratives = axe secondaire (pression institutionnelle, enrichissement du dossier pénal/civil, mais pas de statut de partie). Aucun risque juridique à être proactif tant que les courriers restent factuels, polis et espacés. »
 <hr><hr>
@@ -68,8 +68,6 @@ ACCIDENT 29/05/2026
         └─────────────────────────────────────────┘
 ```
 <hr><hr>
-
-<hr><hr>
 ## II — VOIE ADMINISTRATIVE — CE QUE L'AVOCAT A CONFIRMÉ
 
 ### II.1 — Ce qu'on peut faire (validé par l'avocat)
@@ -98,8 +96,6 @@ ACCIDENT 29/05/2026
 
 - **Aucune de ces procédures ne nous indemnisera directement.**
 <hr><hr>
-
-<hr><hr>
 ## III — VOIE PÉNALE — CE QUI NOUS DONNE DES DROITS FORTS
 
 ### III.1 — Nos droits concrets en tant que victime (Art. 10-2 CPP)
@@ -122,15 +118,13 @@ ACCIDENT 29/05/2026
 | Demande d'AJ totale | ⏳ PROJET PRÊT (non déposé — dépôt prévu lundi 20/07) |
 | Constitution partie civile | ⏳ En attente (nécessite AJ + avocat désigné) |
 <hr><hr>
-
-<hr><hr>
 ## IV — ARTICULATION STRATÉGIQUE — PLAN D'ACTION
 
 ### IV.1 — À faire par nous (sans avocat, sans risque)
 
 | N° | Action | Priorité | Calendrier |
 |----|--------|----------|------------|
-| 1 | Relancer le Maire **[L'Adjoint au Maire de la Commune](../../../Memory/Tokens/token-mairie-adjoint-nom.md)** | Haute | Cette semaine |
+| 1 | Relancer le Maire **[**[L'Adjoint au Maire de la Commune]**]((../../../Memory/Tokens/token-mairie-adjoint-nom.md))** | Haute | Cette semaine |
 | 2 | Envoyer courrier n°41 à la **Préfecture / CODAF** | Moyenne | Après retour Maire |
 | 3 | Envoyer courrier n°42 à l'**Inspection du travail** | Moyenne | Après retour Maire |
 | 4 | Suivre l'état de la plainte pénale (Comm. Foix) | Haute | J+15 |
@@ -154,8 +148,6 @@ ACCIDENT 29/05/2026
 - Action directe à un assureur non identifié
 
 - Relances agressives ou injurieuses aux administrations
-<hr><hr>
-
 <hr><hr>
 ## V — RAPPEL DES TEXTES CLÉS
 

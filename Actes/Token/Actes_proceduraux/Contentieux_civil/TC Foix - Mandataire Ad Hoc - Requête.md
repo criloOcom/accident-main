@@ -1,19 +1,24 @@
 ---
+
 emoji: ⚖️
 title: REQUÊTE AUX FINS DE DÉSIGNATION D'UN MANDATAIRE AD HOC ET MESURES CONSERVATOIRES
 description: 'POUR :'
 type: readme
-statut: brouillon
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/TC Foix - Mandataire Ad Hoc - Requête.md
+statut: projet
+reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/TC Foix - Mandataire
+  Ad Hoc - Requête.md
 destinataire: Président du Tribunal de Commerce de Foix
 auteur: Antoine
+date: '2026-07-22'
 ---
+
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux civil](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # REQUÊTE AUX FINS DE DÉSIGNATION D'UN MANDATAIRE AD HOC <br> ET MESURES CONSERVATOIRES
 
@@ -22,33 +27,35 @@ auteur: Antoine
 <!-- Auteur -->
 **POUR :**
 
-Monsieur **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**,
-Né le [Date de naissance à compléter], de nationalité [Nationalité à compléter], profession : **[L'Identifiant Professionnel de la Victime](../../../../Memory/Tokens/token-victime-id-professionnel.md)**,
-Demeurant **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
+Monsieur [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md),
+Né le [**[Date de naissance à compléter, de nationalité Nationalité à compléter, profession : L'Identifiant Professionnel de la Victime]**](../../../../Memory/Tokens/token-victime-id-professionnel.md),
+Demeurant [**[L'Adresse de la Victime]**](../../../../Memory/Tokens/token-victime-adresse.md)
 
-Ayant pour Avocat : **[Nom de l'Avocat de la Victime](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
+Ayant pour Avocat : [**[Nom de l'Avocat de la Victime]**](../../../../Memory/Tokens/token-victime-avocat-nom.md)
 <!-- /Auteur -->
 
 <!-- Destinataire -->
 **CONTRE :**
 
 La société [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), société par actions simplifiée,
-Sise **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**,
+Sise [**[L'Adresse de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-adresse.md),
 Immatriculée sous le numéro [**[L'Identifiant de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-id.md),
 Prise en la personne de son Président, Monsieur [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md),
-Et de sa Directrice Générale, Madame **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**
+Et de sa Directrice Générale, Madame [**[La Directrice Générale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md)
 <!-- /Destinataire -->
 
 Monsieur le Président,
 
 Par la présente, il vous est respectueusement exposé ce qui suit :
+<hr><hr>
+
 ## I — EXPOSÉ DES FAITS
 
-Monsieur **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** a été victime d'un accident particulièrement grave dans les locaux de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), exploitée par Monsieur [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et Madame **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**.
+Monsieur [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) a été victime d'un accident particulièrement grave dans les locaux de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), exploitée par Monsieur [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et Madame **[**[La Directrice Générale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md).
 
 Il apparaît de manière manifeste que de graves irrégularités, tant sur le plan pénal (violences volontaires, mise en danger de la vie d'autrui, non-assistance à personne en danger) que sur le plan de la gestion de la société, ont été commises.
 
-À la suite de ces événements, Monsieur **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** a subi des dommages corporels majeurs nécessitant son admission en urgence à **[L'Établissement SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)**.
+À la suite de ces événements, Monsieur [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) a subi des dommages corporels majeurs nécessitant son admission en urgence à [**[L'Établissement SOS Main]**](../../../../Memory/Tokens/token-hopital-sosmain-nom.md).
 
 Or, au lieu d'assumer leurs responsabilités, les dirigeants de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) semblent organiser l'opacité et l'insolvabilité de leur structure afin d'échapper à l'indemnisation inéluctable du préjudice subi par la victime.
 
@@ -65,7 +72,7 @@ Il convient de rappeler que la responsabilité des dirigeants d'une Société pa
 > [Article L227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
 > Code de commerce[^1] <br>
 
-Le comportement de Monsieur [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et de Madame **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** caractérise des fautes d'une gravité exceptionnelle, justifiant que des mesures de sauvegarde du patrimoine de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) soient ordonnées pour garantir la créance indemnitaire à naître.
+Le comportement de Monsieur [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et de Madame **[**[La Directrice Générale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md) caractérise des fautes d'une gravité exceptionnelle, justifiant que des mesures de sauvegarde du patrimoine de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) soient ordonnées pour garantir la créance indemnitaire à naître.
 
 ### II.2 — Sur la nomination d'un mandataire ad hoc
 
@@ -85,7 +92,7 @@ Le requérant sollicite la nomination d'un mandataire ad hoc avec pour mission d
 
 ### II.3 — Sur les mesures conservatoires et la prévention d'un dommage imminent
 
-L'organisation de l'insolvabilité de la société par ses dirigeants constitue un trouble manifestement illicite et un dommage imminent pour Monsieur **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**. Le juge des référés dispose de pouvoirs étendus pour prévenir une telle issue.
+L'organisation de l'insolvabilité de la société par ses dirigeants constitue un trouble manifestement illicite et un dommage imminent pour Monsieur [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md). Le juge des référés dispose de pouvoirs étendus pour prévenir une telle issue.
 
 > *« Le président peut, dans les mêmes limites, et même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite.
 > Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
@@ -114,7 +121,7 @@ Il est respectueusement demandé à Monsieur le Président du Tribunal de commer
 
 - Auditer l'état du patrimoine de l'entreprise.
 
-**ORDONNER** à titre de mesure conservatoire, l'interdiction pour la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) et pour Monsieur [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et Madame **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** de procéder à toute cession d'éléments de l'actif ou d'effectuer des retraits massifs de liquidités.
+**ORDONNER** à titre de mesure conservatoire, l'interdiction pour la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) et pour Monsieur [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et Madame **[**[La Directrice Générale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md) de procéder à toute cession d'éléments de l'actif ou d'effectuer des retraits massifs de liquidités.
 
 **ORDONNER** sous astreinte de 500 euros par jour de retard à compter de la signification de la présente ordonnance, la communication intégrale :
 
@@ -122,13 +129,13 @@ Il est respectueusement demandé à Monsieur le Président du Tribunal de commer
 
 - Des polices d'assurance responsabilité civile professionnelle en cours de validité.
 
-**CONDAMNER** in solidum la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), Monsieur [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et Madame **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** au paiement de la somme de 3.000 euros au titre de l'article 700 du Code de procédure civile ainsi qu'aux entiers dépens de l'instance.
+**CONDAMNER** in solidum la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), Monsieur [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et Madame **[**[La Directrice Générale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md) au paiement de la somme de 3.000 euros au titre de l'article 700 du Code de procédure civile ainsi qu'aux entiers dépens de l'instance.
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au terme du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
-> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
+> [Article 700 du Code de procédure civile](../../../../Lois/Code/Code_procédure_civile/Article_700_Codeproc_Legifrance.md) <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^4]**
 
-**[Nom de l'Avocat de la Victime](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
+[**[Nom de l'Avocat de la Victime]**](../../../../Memory/Tokens/token-victime-avocat-nom.md)
 Avocat à la Cour
 Le [Date de signature]
 <!-- PJ -->
@@ -153,5 +160,5 @@ Le [Date de signature]
 [^1]: [Article L227-8 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) ↩
 [^2]: [Article L.611-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044052542](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044052542) ↩
 [^3]: [Article 873 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463) ↩
-[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
+[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](../../../../Lois/Code/Code_procédure_civile/Article_700_Codeproc_Legifrance.md) ↩
 <!-- /Source -->

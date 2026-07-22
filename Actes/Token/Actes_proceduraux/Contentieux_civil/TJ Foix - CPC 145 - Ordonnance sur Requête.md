@@ -1,4 +1,5 @@
 ---
+
 emoji: ⚖️
 title: Ordonnance sur Requête — Article 145 CPC — Mesures d'Instruction HB BARBER
 description: Projet d'ordonnance calibré HB BARBER — communication assurances, baux,
@@ -21,10 +22,13 @@ tags:
 calendar_event_id: tqegc9g9t96hp2td1oo3iqtqd8
 statut: final
 auteur: Projet — Juge des requêtes du TJ Foix
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - CPC 145 - Ordonnance sur Requête.md
+reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - CPC 145 - Ordonnance
+  sur Requête.md
 jx: J+52
 destinataire: Tribunal Judiciaire de Foix
 ---
+
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux civil](./README.md)*
 <hr>
@@ -33,7 +37,7 @@ destinataire: Tribunal Judiciaire de Foix
 > **Projet d'ordonnance — Version HB BARBER.** Document de travail destiné à préparer le dépôt de la requête du 20 juillet 2026.
 
 <!-- Auteur -->
-**TRIBUNAL JUDICIAIRE DE **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)****
+**TRIBUNAL JUDICIAIRE DE [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md)**
 
 **[Chambre civile / Juge des requêtes]**
 
@@ -42,13 +46,13 @@ destinataire: Tribunal Judiciaire de Foix
 
 <hr><hr>
 
-**NOUS**, [Nom du juge], Juge des requêtes du Tribunal judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**,
+**NOUS**, [**[Nom du juge, Juge des requêtes du Tribunal judiciaire de La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md),
 <!-- /Auteur -->
 
 <!-- Destinataire -->
 **Vu la requête déposée le 20 juillet 2026 par :**
 
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, demeurant **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**, informaticien indépendant,
+[**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md), demeurant [**[L'Adresse de la Victime]**](../../../../Memory/Tokens/token-victime-adresse.md), informaticien indépendant,
 
 tendant à voir ordonner, avant tout procès, des mesures d'instruction sur le fondement de l'article 145 du Code de procédure civile ;
 <!-- /Destinataire -->
@@ -61,15 +65,15 @@ tendant à voir ordonner, avant tout procès, des mesures d'instruction sur le f
 
 - la note de constatations du 16 juillet 2026 (visite des lieux) et les photos des lieux modifiés (bac à shampoing remplacé, meuble TV démonté),
 
-- les courriers recommandés du **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)** adressés à **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, à son président et à **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** (bailleur),
+- les courriers recommandés du [**[J+31 Mises en demeure]**](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md) adressés à [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), à son président et à [**[Le Propriétaire des Murs]**](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md) (bailleur),
 
-- le courriel de **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** du 16 juillet 2026 et les états des lieux de sortie du 10 mars 2026,
+- le courriel de [**[Le Propriétaire des Murs]**](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md) du 16 juillet 2026 et les états des lieux de sortie du 10 mars 2026,
 
-- les extraits du Registre national des entreprises / DATA INPI et de l'avis de situation SIRENE concernant **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md), SIRET [**[SIRET de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-id.md)),
+- les extraits du Registre national des entreprises / DATA INPI et de l'avis de situation SIRENE concernant [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md), SIRET [**[SIRET de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-id.md)),
 
-- la liste des souscripteurs et le certificat de dépôt de fonds de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**,
+- la liste des souscripteurs et le certificat de dépôt de fonds de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md),
 
-- les certificats médicaux et comptes rendus opératoires du **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)** (service SOS Main – **[L'Établissement SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)**),
+- les certificats médicaux et comptes rendus opératoires du [**[J+1 Chirurgie]**](../../../../Memory/Tokens/token-j-1-chirurgie.md) (service SOS Main – [**[L'Établissement SOS Main]**](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)),
 
 - tout autre document figurant au bordereau annexé à la requête ;
 
@@ -79,25 +83,25 @@ tendant à voir ordonner, avant tout procès, des mesures d'instruction sur le f
 
 **Vu l'article L.124-3 du Code des assurances** relatif au droit d'action directe de la victime contre l'assureur de la personne responsable ;
 
-**Considérant** que **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** expose avoir été victime, le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** vers 15h20, d'un accident corporel grave dans un salon de coiffure situé **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**, au cours duquel le basculement d'un bac à shampoing brisé a provoqué une coupure profonde de la main droite (index), ayant nécessité une intervention de microchirurgie en urgence le **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)** et entraînant une incapacité professionnelle importante ;
+**Considérant** que [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) expose avoir été victime, le [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) vers 15h20, d'un accident corporel grave dans un salon de coiffure situé [**[L'Adresse de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-adresse.md), au cours duquel le basculement d'un bac à shampoing brisé a provoqué une coupure profonde de la main droite (index), ayant nécessité une intervention de microchirurgie en urgence le [**[J+1 Chirurgie]**](../../../../Memory/Tokens/token-j-1-chirurgie.md) et entraînant une incapacité professionnelle importante ;
 
-**Considérant** que le requérant a, dans un premier temps, cru de bonne foi que le salon était exploité par **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)**, et a visé cette société dans sa plainte initiale et ses démarches amiables ;
+**Considérant** que le requérant a, dans un premier temps, cru de bonne foi que le salon était exploité par [**[L'Ancien Exploitant du Commerce]**](../../../../Memory/Tokens/token-ancien-exploitant.md), et a visé cette société dans sa plainte initiale et ses démarches amiables ;
 
-**Considérant** qu'il résulte toutefois du courriel de **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**, propriétaire bailleur des locaux, en date du 16 juillet 2026, et des états des lieux de sortie produits, que **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** a quitté les lieux le 10 mars 2026, de sorte qu'elle n'occupait plus les locaux au jour de l'accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** ; qu'ainsi, la responsabilité de cette société, en tant qu'exploitant du salon au jour des faits, apparaît exclue ;
+**Considérant** qu'il résulte toutefois du courriel de [**[Le Propriétaire des Murs]**](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md), propriétaire bailleur des locaux, en date du 16 juillet 2026, et des états des lieux de sortie produits, que [**[L'Ancien Exploitant du Commerce]**](../../../../Memory/Tokens/token-ancien-exploitant.md) a quitté les lieux le 10 mars 2026, de sorte qu'elle n'occupait plus les locaux au jour de l'accident du [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) ; qu'ainsi, la responsabilité de cette société, en tant qu'exploitant du salon au jour des faits, apparaît exclue ;
 
-**Considérant** qu'au vu des extraits RNE / DATA INPI et de l'avis de situation SIRENE produits, il ressort qu'une autre société, **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, immatriculée sous le SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md), exploite l'établissement situé à la même adresse (**[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**) depuis le 22 avril 2026, sous la direction de :
+**Considérant** qu'au vu des extraits RNE / DATA INPI et de l'avis de situation SIRENE produits, il ressort qu'une autre société, [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), immatriculée sous le SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md), exploite l'établissement situé à la même adresse (**[**[L'Adresse de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-adresse.md)) depuis le 22 avril 2026, sous la direction de :
 
 - [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md), Président,
 
-- **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, Directrice Générale ;
+- [**[La Directrice Générale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md), Directrice Générale ;
 
-que la liste des souscripteurs et le certificat de dépôt de fonds établissent un capital de [**[Capital Social de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-capital-social.md) (1 000 actions de 1 €), dont 990 actions souscrites par [**[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)**] et 10 par [**[La Directrice Générale de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques) ;
+que la liste des souscripteurs et le certificat de dépôt de fonds établissent un capital de [**[Capital Social de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-capital-social.md) (1 000 actions de 1 €), dont 990 actions souscrites par [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md)] et 10 par [**[La Directrice Générale de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques) ;
 
-**Considérant** qu'il se déduit de ces pièces que, à la date de l'accident (**[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**), le salon de coiffure dans lequel les faits se sont produits était exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, sous la direction de [**[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)**] et [**[La Directrice Générale de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques), et non plus par **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** ; que l'erreur d'identification initiale commise par le requérant apparaît ainsi excusable, mais doit être corrigée pour que les responsabilités civiles et pénales et les assurances soient correctement recherchées ;
+**Considérant** qu'il se déduit de ces pièces que, à la date de l'accident ([**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md)), le salon de coiffure dans lequel les faits se sont produits était exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), sous la direction de [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md)] et [**[La Directrice Générale de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques), et non plus par **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md) ; que l'erreur d'identification initiale commise par le requérant apparaît ainsi excusable, mais doit être corrigée pour que les responsabilités civiles et pénales et les assurances soient correctement recherchées ;
 
 **Considérant** que, malgré plusieurs courriers recommandés et relances amiables, le requérant ne parvient pas à obtenir :
 
-- ni les contrats d'assurance de responsabilité civile professionnelle couvrant l'activité de coiffure / barbier de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**,
+- ni les contrats d'assurance de responsabilité civile professionnelle couvrant l'activité de coiffure / barbier de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) au [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md),
 
 - ni la communication du bail commercial et des états des lieux d'entrée / sortie des exploitants successifs,
 
@@ -111,60 +115,60 @@ que la liste des souscripteurs et le certificat de dépôt de fonds établissent
 
 **Considérant** qu'il existe, dans ces conditions, un motif légitime, au sens de l'article 145 du Code de procédure civile, d'ordonner avant tout procès les mesures d'instruction sollicitées, légalement admissibles, afin de conserver et d'établir la preuve de faits dont pourrait dépendre la solution du litige ; qu'il est proportionné de faire droit aux demandes de communication formées à l'encontre :
 
-- de **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**, en sa qualité de propriétaire bailleur,
+- de [**[Le Propriétaire des Murs]**](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md), en sa qualité de propriétaire bailleur,
 
-- de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et de ses dirigeants,
+- de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants,
 
-- et subsidiairement de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** ;
+- et subsidiairement de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) ;
 
 **Considérant** qu'il y a lieu d'assortir ces mesures d'une astreinte, afin d'en garantir l'effectivité ;
 ### PAR CES MOTIFS
 
 Statuant sur requête, hors la présence des parties,
 
-**DIT** qu'il existe un motif légitime, au sens de l'article 145 du Code de procédure civile, de conserver et d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution du litige relatif à l'accident corporel dont a été victime **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** dans le salon de coiffure exploité au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** ;
+**DIT** qu'il existe un motif légitime, au sens de l'article 145 du Code de procédure civile, de conserver et d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution du litige relatif à l'accident corporel dont a été victime [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) le [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) dans le salon de coiffure exploité au [**[L'Adresse de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-adresse.md) ;
 
-**ORDONNE** à **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**, propriétaire des locaux sis **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**, de communiquer à **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, par l'intermédiaire de son conseil, dans un délai de **30 jours** à compter de la signification de la présente ordonnance :
+**ORDONNE** à [**[Le Propriétaire des Murs]**](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md), propriétaire des locaux sis [**[L'Adresse de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-adresse.md), de communiquer à [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md), par l'intermédiaire de son conseil, dans un délai de **30 jours** à compter de la signification de la présente ordonnance :
 
 1. Le ou les baux commerciaux (et tous avenants) liant le propriétaire aux exploitants successifs du local, et en particulier :
 
-   - le bail conclu avec **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**,
-   - le bail ou avenant conclu avec **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)**,
+   - le bail conclu avec [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md),
+   - le bail ou avenant conclu avec [**[L'Ancien Exploitant du Commerce]**](../../../../Memory/Tokens/token-ancien-exploitant.md),
    dans leur version complète ou, à défaut, au moins les clauses relatives à l'identité du preneur, à la date d'entrée dans les lieux, aux obligations d'assurance du preneur et aux obligations d'entretien / de sécurité ;
 
-2. Les états des lieux de sortie de **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** (10 mars 2026) et d'entrée de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, s'ils existent, ainsi que tout document décrivant l'état du matériel (et notamment des bacs à shampoing) remis au nouvel exploitant ;
+2. Les états des lieux de sortie de [**[L'Ancien Exploitant du Commerce]**](../../../../Memory/Tokens/token-ancien-exploitant.md) (10 mars 2026) et d'entrée de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), s'ils existent, ainsi que tout document décrivant l'état du matériel (et notamment des bacs à shampoing) remis au nouvel exploitant ;
 
-3. Les attestations d'assurance de responsabilité civile éventuellement détenues par le bailleur pour cet immeuble sur la période incluant le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**, en indiquant l'identité de l'assureur et les références des contrats ;
+3. Les attestations d'assurance de responsabilité civile éventuellement détenues par le bailleur pour cet immeuble sur la période incluant le [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md), en indiquant l'identité de l'assureur et les références des contrats ;
 
 Le tout sous astreinte de **[150 €]** par jour de retard et par document non communiqué à l'expiration du délai de 30 jours ;
 
-**ORDONNE** à **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, prise en la personne de son représentant légal, ainsi qu'à [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) (Président) et **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** (Directrice Générale), de communiquer à **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, dans le même délai de **30 jours** à compter de la signification de la présente ordonnance :
+**ORDONNE** à [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), prise en la personne de son représentant légal, ainsi qu'à [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) (Président) et **[**[La Directrice Générale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md) (Directrice Générale), de communiquer à [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md), dans le même délai de **30 jours** à compter de la signification de la présente ordonnance :
 
-1. L'ensemble des contrats d'assurance de responsabilité civile professionnelle couvrant l'activité de coiffure / barbier de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, en vigueur au **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**, ainsi que les attestations d'assurance y afférentes, avec indication de la compagnie, du numéro de police, de la période de validité et des principales garanties (notamment RC exploitation / RC professionnelle) ;
+1. L'ensemble des contrats d'assurance de responsabilité civile professionnelle couvrant l'activité de coiffure / barbier de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), en vigueur au [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md), ainsi que les attestations d'assurance y afférentes, avec indication de la compagnie, du numéro de police, de la période de validité et des principales garanties (notamment RC exploitation / RC professionnelle) ;
 
-2. Tout document interne relatif aux déclarations de sinistre faites auprès de ces assureurs à la suite de l'accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** ;
+2. Tout document interne relatif aux déclarations de sinistre faites auprès de ces assureurs à la suite de l'accident du [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) ;
 
 3. Les éventuels contrats de maintenance, attestations de conformité, rapports de vérification ou de réparation concernant les bacs à shampoing et équipements lourds présents dans le salon au moment des faits ;
 
-4. S'ils existent encore, les enregistrements de vidéosurveillance (internes et externes) couvrant la période du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** autour de 15h20 et montrant notamment la zone des bacs à shampoing ;
+4. S'ils existent encore, les enregistrements de vidéosurveillance (internes et externes) couvrant la période du [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) autour de 15h20 et montrant notamment la zone des bacs à shampoing ;
 
-5. Tout document établissant le lien contractuel ayant existé au **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** entre **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et **[Le Préposé de l'Exploitation](../../../../Memory/Tokens/token-exploitation-prepose-nom.md)** (contrat de travail, contrat de location de fauteuil, contrat de prestation de services, convention de collaboration ou tout autre écrit), ainsi que, le cas échéant, les assurances de responsabilité civile souscrites à raison de cette activité ;
+5. Tout document établissant le lien contractuel ayant existé au [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) entre [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) et [**[Le Préposé de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-prepose-nom.md) (contrat de travail, contrat de location de fauteuil, contrat de prestation de services, convention de collaboration ou tout autre écrit), ainsi que, le cas échéant, les assurances de responsabilité civile souscrites à raison de cette activité ;
 
 Le tout sous astreinte de **[150 €]** par jour de retard et par document non communiqué à l'expiration du délai de 30 jours ;
 
-**SUBSIDIAIREMENT, ORDONNE** à **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** de communiquer à **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, dans le même délai de 30 jours :
+**SUBSIDIAIREMENT, ORDONNE** à [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) de communiquer à [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md), dans le même délai de 30 jours :
 
-1. Les contrats d'assurance de responsabilité civile professionnelle couvrant l'activité du salon au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** jusqu'à la date de sortie des lieux (10 mars 2026), avec les attestations correspondantes ;
+1. Les contrats d'assurance de responsabilité civile professionnelle couvrant l'activité du salon au [**[L'Adresse de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-adresse.md) jusqu'à la date de sortie des lieux (10 mars 2026), avec les attestations correspondantes ;
 
 2. Tout document relatif à l'état des lieux de sortie du 10 mars 2026, incluant, le cas échéant, les mentions sur l'état du matériel et des bacs à shampoing ;
 
 Le tout sous la même astreinte de **[150 €]** par jour de retard et par document non communiqué ;
 
-**DIT** que les documents communiqués en exécution de la présente ordonnance pourront être utilisés dans toute instance ultérieure au fond relative à l'accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** ;
+**DIT** que les documents communiqués en exécution de la présente ordonnance pourront être utilisés dans toute instance ultérieure au fond relative à l'accident du [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) ;
 
 **RÉSERVE** les dépens et l'application de l'article 700 du Code de procédure civile.
 
-Fait à **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le 20 juillet 2026.
+Fait à [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md), le 20 juillet 2026.
 
 **Le Juge des requêtes,**
 *[signature]*

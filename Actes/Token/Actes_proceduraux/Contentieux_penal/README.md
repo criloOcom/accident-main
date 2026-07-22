@@ -1,8 +1,13 @@
 ---
-title: "Index — Contentieux_penal"
-description: "Index du dossier Contentieux_penal"
+
+title: Index — Contentieux_penal
+description: Index du dossier Contentieux_penal
 type: readme
+statut: projet
+date: '2026-07-22'
 ---
+
+
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › Contentieux penal*

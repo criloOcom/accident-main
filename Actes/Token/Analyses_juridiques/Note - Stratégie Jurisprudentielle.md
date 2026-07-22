@@ -45,8 +45,6 @@ source: local
 | Le préposé n'a pas commis de faute intentionnelle | Il bénéficie de l'immunité civile Costedoat | **Ass. Plén., 25 fév. 2000, n° 97-17.378** (Costedoat) |
 | La faute du préposé est une maladresse non intentionnelle | L'employeur assume seul la réparation | **Ass. Plén., 14 déc. 2001, n° 00-82.066** (Cousin) : seule une infraction pénale intentionnelle fait perdre l'immunité |
 <hr><hr>
-
-<hr><hr>
 ## II — HIÉRARCHIE ARGUMENTATIVE (ORDRE DE PLAIDOIRIE)
 ### II.1 — ARGUMENTS OFFENSIFS (À METTRE EN AVANT)
 
@@ -64,8 +62,6 @@ source: local
 
 6. **70-12.124** : Baignoire exposée à la vente sans obligation de scellement → notre vasque était installée à demeure sur coque de douche.
 <hr><hr>
-
-<hr><hr>
 ## III — TABLEAU DE CORRESPONDANCE ARRÊT → FAIT CONCRET
 
 | Arrêt | Fait de l'arrêt | Transposition à notre cas | Utilité |
@@ -79,8 +75,6 @@ source: local
 | 14 juin 1957 (n° pourvoi non retrouvé) | Responsabilité du commettant du fait du préposé | Le préposé escalade la vasque dans le cadre de son service → employeur responsable | **Pilier 3** |
 | 11 janv. 1995 | Chose inerte : preuve position anormale ou mauvais état | Notre preuve (cassure + basculement) distingue ce cas défavorable | **Distinction défensive** |
 <hr><hr>
-
-<hr><hr>
 ## IV — ANTICIPATION DES MOYENS DE LA DÉFENSE
 
 | Moyen attendu | Réponse |
@@ -90,8 +84,6 @@ source: local
 | « La cassure était indécelable » | 74-10.466 : le vice inhérent, même invisible, n'exonère pas le gardien |
 | « La vasque n'a pas eu de rôle actif » | Le PV établit le basculement et la chute = mouvement actif, pas inerte |
 | « L'échelle/escabeau manquant est une faute du préposé seul » | C'est une faute de service dont le commettant répond (art. 1242 al.5) + défaut d'équipement de l'employeur (L.4121-1 CT) |
-<hr><hr>
-
 <hr><hr>
 ## V — SYNTHÈSE DES FORCES ET FAIBLESSES
 
@@ -110,8 +102,6 @@ source: local
 - Mais cette charge est remplie dans notre dossier
 
 - Risque que le juge retienne une faute de la victime (position dangereuse volontaire)
-<hr><hr>
-
 <hr><hr>
 ## VI — STRATÉGIE FINANCIÈRE ET RECOUVREMENT
 ### VI.1 — MONTANT ESTIMÉ : ~105 000 €
@@ -155,8 +145,6 @@ Voir détails : [Note - Évaluation Dintilhac Consolidée.md](../Etudes_indemnis
 - Provision sur IP : 3 000 €
 
 Fondement : art. 835 al.2 CPC — obligation non sérieusement contestable.
-<hr><hr>
-
 <hr><hr>
 ## VII — RÉFÉRENCES CROISÉES
 

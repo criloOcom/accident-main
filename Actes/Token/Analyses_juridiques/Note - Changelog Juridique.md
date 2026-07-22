@@ -38,7 +38,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
   - OpenLegi : recherche `L.654-6` dans C.com. → aucun résultat (abrogé)
 
-  - OpenLegi : recherche `L.654-7` dans C.com. → `LEGIARTI000019984550` (VIGUEUR)
+  - OpenLegi : recherche `L.654-7` dans C.com. → `[LEGIARTI0000199845](../../../Lois/Code/LEGIARTI0000199845.md)50` (VIGUEUR)
 
 - **Date :** 2026-07-13
 
@@ -112,15 +112,13 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Date :** 2026-07-13
 <hr><hr>
-
-<hr><hr>
 ## II — Harmonisation des URL Légifrance
 
 ### II.1 — 2.1 Article 835 du Code de procédure civile
 
-- **Ancienne situation :** URL pointant vers `LEGIARTI000039480112` (version antérieure)
+- **Ancienne situation :** URL pointant vers `[LEGIARTI0000394801](../../../Lois/Code/LEGIARTI0000394801.md)12` (version antérieure)
 
-- **Nouvelle situation :** Uniformisé vers `LEGIARTI000042597284` (version en vigueur)
+- **Nouvelle situation :** Uniformisé vers `[LEGIARTI0000425972](../../../Lois/Code/LEGIARTI0000425972.md)84` (version en vigueur)
 
 - **Fichiers concernés :**
 
@@ -134,9 +132,9 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 ### II.2 — 2.2 Article 706-3 du Code de procédure pénale
 
-- **Ancienne situation :** URL pointant vers `LEGIARTI000006577625` (abrogé)
+- **Ancienne situation :** URL pointant vers `[LEGIARTI0000065776](../../../Lois/Code/LEGIARTI0000065776.md)25` (abrogé)
 
-- **Nouvelle situation :** Uniformisé vers `LEGIARTI000048442345` (version en vigueur 2023)
+- **Nouvelle situation :** Uniformisé vers `[LEGIARTI0000484423](../../../Lois/Code/LEGIARTI0000484423.md)45` (version en vigueur 2023)
 
 - **Fichiers concernés :**
 
@@ -149,8 +147,6 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 - **Vérification :** Légifrance (consultation dernière version 706-3 CPP)
 
 - **Date :** 2026-07-13
-<hr><hr>
-
 <hr><hr>
 ## III — Jurisprudence
 
@@ -169,8 +165,6 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 - **Vérification :** Légifrance (recherche par date/juridiction) — pourvoi non retrouvé dans la base.
 
 - **Date :** 2026-07-13
-<hr><hr>
-
 <hr><hr>
 ## III — Enrichissement bibliothèque jurisprudence (2026-07-21)
 
@@ -219,8 +213,6 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 - Les 4 arrêts Cass. sont vérifiés via legifrance-prod (textes intégraux obtenus)
 
 - La mention *«  »* est apposée dans les fichiers CA/TJ pour les citations non vérifiables
-<hr><hr>
-
 <hr><hr>
 ## IV — Méthodologie
 

@@ -34,8 +34,6 @@ Ce document présente l'évaluation Dintilhac finalisée selon trois scénarios 
 | **Frais divers (dont ATP)** | 5 000 € | 3 800 € | 3 500 € |
 | **Art. 700 CPC** | 4 000 € | 3 000 € | 2 250 € |
 <hr><hr>
-
-<hr><hr>
 ## B. JUSTIFICATION DE CHAQUE POSTE
 
 - **PGPA (Pertinence Gêne Perte d'Agrément / Pertes de Gains Professionnels Actuels)** :
@@ -65,8 +63,6 @@ Ce document présente l'évaluation Dintilhac finalisée selon trois scénarios 
 - **Art. 700 CPC** :
   Frais irrépétibles. Le compromis est arrêté à 3 000 € (fourchette 2 250 € - 4 000 €). Base : [Note - Évaluation Dintilhac Consolidée.md](./Note%20-%20Évaluation%20Dintilhac%20Consolidée.md).
 <hr><hr>
-
-<hr><hr>
 ## C. PROVISION RÉFÉRÉ (15 000 €)
 
 Détail de la demande de provision en référé :
@@ -82,8 +78,6 @@ Détail de la demande de provision en référé :
 - **Art. 700** : 2 000 €
 
 **Total** : 15 000 €
-<hr><hr>
-
 <hr><hr>
 ## D. SYNTHÈSE
 

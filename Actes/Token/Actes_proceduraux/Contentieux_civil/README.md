@@ -1,8 +1,13 @@
 ---
-title: "Index — Contentieux_civil"
-description: "Index du dossier Contentieux_civil"
+
+title: Index — Contentieux_civil
+description: Index du dossier Contentieux_civil
 type: readme
+statut: projet
+date: '2026-07-22'
 ---
+
+
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › Contentieux civil*

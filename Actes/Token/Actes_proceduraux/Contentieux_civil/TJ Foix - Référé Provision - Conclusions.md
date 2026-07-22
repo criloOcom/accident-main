@@ -1,4 +1,5 @@
 ---
+
 emoji: 🎯
 title: Conclusions Référé Provision (version Glose)
 description: 'POUR :'
@@ -19,15 +20,18 @@ tags:
 statut: final
 destinataire: Juge des Référés du Tribunal Judiciaire
 auteur: La Victime
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision - Conclusions.md
+reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision
+  - Conclusions.md
 jx: J+39
 ---
+
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux civil](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # AU JUGE DES RÉFÉRÉS DU TRIBUNAL JUDICIAIRE
 
@@ -38,7 +42,7 @@ jx: J+39
 <!-- Auteur -->
 **POUR :**
 
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, né le [**[Date de naissance de la Victime]**](../../../../Memory/Tokens/token-victime-date-naissance.md), de nationalité française, demeurant au **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**, exerçant la profession d'informaticien indépendant.
+[**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md), né le [**[Date de naissance de la Victime]**](../../../../Memory/Tokens/token-victime-date-naissance.md), de nationalité française, demeurant au **[**[L'Adresse de la Victime]**](../../../../Memory/Tokens/token-victime-adresse.md), exerçant la profession d'informaticien indépendant.
 
 *Demandeur*
 <!-- /Auteur -->
@@ -46,18 +50,20 @@ jx: J+39
 <!-- Destinataire -->
 **CONTRE :**
 
-**[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, Société par Actions Simplifiée, immatriculée au RCS de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** sous le numéro SIRET **[L'Identifiant de l'Exploitation](../../../../Memory/Tokens/token-exploitation-id.md)**, ayant son siège social au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**, représentée par ses co-dirigeants **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**.
+[**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), Société par Actions Simplifiée, immatriculée au RCS de [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md) sous le numéro SIRET [**[L'Identifiant de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-id.md), ayant son siège social au [**[L'Adresse de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-adresse.md), représentée par ses co-dirigeants [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md).
 
 *Défenderesse*
 <!-- /Destinataire -->
+<hr><hr>
+
 ## I — EXPOSÉ DU LITIGE
 ### I.1 — LE SINISTRE ET SES CONSÉQUENCES MATÉRIELLES
 
-Le **29 mai 2026**, aux environs de 15 heures, **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, informaticien indépendant âgé de [**[Âge de la Victime]**](../../../../Memory/Tokens/token-victime-age.md), se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
+Le **29 mai 2026**, aux environs de 15 heures, [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md), informaticien indépendant âgé de [**[Âge de la Victime]**](../../../../Memory/Tokens/token-victime-age.md), se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
 
 Le coiffeur préposé de la défenderesse, dans l'exercice de ses fonctions et agissant par nécessité de service, est monté sur la vasque en céramique d'un bac à shampoing installé à demeure pour régler un poste de télévision, **faute d'avoir à sa disposition un équipement d'accès en hauteur** (escabeau, échelle ou marchepied).
 
-Au cours de cette manipulation, la vasque a **basculé** brutalement et s'est brisée. Par réflexe de protection, **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** a tendu sa main droite — sa main dominante — pour protéger le préposé.
+Au cours de cette manipulation, la vasque a **basculé** brutalement et s'est brisée. Par réflexe de protection, [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) a tendu sa main droite — sa main dominante — pour protéger le préposé.
 
 Sa paume a heurté violemment le flanc de la vasque qui présentait depuis une date indéterminée une **cassure majeure préexistante**, non signalée, aux arêtes extrêmement tranchantes.
 
@@ -100,7 +106,7 @@ Cette carence structurelle a contraint le préposé à escalader la vasque, cré
 Elle caractérise une faute de l'exploitant au sens de l'article 1240 du Code civil.
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »*
-> [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
+> [Article 1240 du Code civil](../../../../Lois/Code/Code_civil/Article1240_CodeCivil.md)
 > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.[^1]**
 
 #### II.1.b — Responsabilité du fait des choses
@@ -112,7 +118,7 @@ Le **basculement brutal** de cette chose a été l'**instrument actif** du domma
 La Cour de cassation, dans un arrêt de principe, a retenu qu'une échelle installée par un préposé qui bascule et blesse un tiers engage la responsabilité du gardien, qui ne peut s'exonérer qu'en prouvant une cause étrangère (force majeure, faute de la victime, fait d'un tiers).
 
 > *« La Cour de cassation rappelle qu'une échelle installée par un préposé du commettant qui bascule et blesse un tiers engage la responsabilité du gardien sur le fondement de l'article 1242 alinéa 1er du Code civil. »*
-> [Arrêt n°89-18.422](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007026411)
+> [Arrêt n°89-18.422](../../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md)
 > **Cour de cassation, 2e chambre civile, 13 février 1991, n° 89-18.422[^2]**
 
 En l'espèce, la victime n'a commis aucune faute : elle n'a pas provoqué le basculement, n'était pas montée sur la vasque, et n'avait aucun moyen de connaître le vice caché de la chose. Il n'existe aucun fait d'un tiers ni force majeure.
@@ -120,7 +126,7 @@ En l'espèce, la victime n'a commis aucune faute : elle n'a pas provoqué le bas
 Par ailleurs, la **cassure préexistante** constitue un **vice inhérent** de la chose. La Cour de cassation a jugé depuis longtemps que le vice inhérent à la chose, même indécelable, ne constitue pas un cas de force majeure ou une cause étrangère exonératoire.
 
 > *« Le vice inhérent à la chose, même indécelable, ne constitue pas un cas de force majeure ou une cause étrangère exonératoire. »*
-> [Arrêt n°74-10.466](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006993485)
+> [Arrêt n°74-10.466](../../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/74-10.466_CourCassation.md)
 > **Cour de cassation, 2e chambre civile, 5 mai 1975, n° 74-10.466[^3]**
 
 #### II.1.c — Responsabilité du commettant du fait du préposé
@@ -162,7 +168,7 @@ Le demandeur subit des pertes financières immédiates du fait de son [arrêt de
 
 **EN CONSÉQUENCE**, il est demandé au juge des référés :
 
-S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'évaluation indemnitaire barémique Dintilhac du 13 juillet 2026 (pièce n° 44). Ce rapport, établi sur la base de la situation réelle de **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** (informaticien indépendant, 9 000 € de revenus annuels, atteinte de la main droite dominante, 55 jours d'interruption d'activité), retient deux hypothèses de déficit fonctionnel permanent (10 % et 15 %) et chiffre le préjudice global en droit commun, avant imputation du recours de la CPAM, à environ 126 000 € dans le scénario prudent et 161 500 € dans le scénario médian. La provision sollicitée à hauteur de **15 000 €** s'inscrit ainsi très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.
+S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'évaluation indemnitaire barémique Dintilhac du 13 juillet 2026 (pièce n° 44). Ce rapport, établi sur la base de la situation réelle de [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) (informaticien indépendant, 9 000 € de revenus annuels, atteinte de la main droite dominante, 55 jours d'interruption d'activité), retient deux hypothèses de déficit fonctionnel permanent (10 % et 15 %) et chiffre le préjudice global en droit commun, avant imputation du recours de la CPAM, à environ 126 000 € dans le scénario prudent et 161 500 € dans le scénario médian. La provision sollicitée à hauteur de **15 000 €** s'inscrit ainsi très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.
 
 **PRINCIPALEMENT,**
 
@@ -179,7 +185,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 - les frais irrépétibles au sens de l'article 700 du Code de procédure civile : 3 000 €.
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »*
-> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
+> [Article 700 du Code de procédure civile](../../../../Lois/Code/Code_procédure_civile/Article_700_Codeproc_Legifrance.md)
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^4]**
 
 **II.** De condamner la société défenderesse au paiement d'une **astreinte de 100 € par jour de retard** à compter de l'expiration d'un délai de huit jours à compter de la signification de l'ordonnance.
@@ -191,7 +197,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 **IV.** De prendre toutes mesures d'instruction utiles en application de l'article 145 du Code de procédure civile, et notamment :
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. »*
-> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+> [Article 145 du Code de procédure civile](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md)
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.[^5]**
 
 - de prescrire une **expertise médico-légale** visant à déterminer la consolidation du dommage corporel, le taux d'incapacité permanente partielle, et le préjudice esthétique ;
@@ -200,7 +206,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 **[Ville]**, le **[date]**
 
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+[**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md)
 <!-- PJ -->
 <hr><hr>
 
@@ -224,11 +230,11 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 ## Sources Législation
 
-[^1]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
-[^2]: [Arrêt n°89-18.422 — www.legifrance.gouv.fr/juri/id/JURITEXT000007026411](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007026411) ↩
-[^3]: [Arrêt n°74-10.466 — www.legifrance.gouv.fr/juri/id/JURITEXT000006993485](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006993485) ↩
-[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
-[^5]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+[^1]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](../../../../Lois/Code/Code_civil/Article1240_CodeCivil.md) ↩
+[^2]: [Arrêt n°89-18.422 — www.legifrance.gouv.fr/juri/id/JURITEXT000007026411](../../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md) ↩
+[^3]: [Arrêt n°74-10.466 — www.legifrance.gouv.fr/juri/id/JURITEXT000006993485](../../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/74-10.466_CourCassation.md) ↩
+[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](../../../../Lois/Code/Code_procédure_civile/Article_700_Codeproc_Legifrance.md) ↩
+[^5]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 <hr><hr>
 <!-- /Source -->
 <hr><hr>
@@ -253,8 +259,8 @@ Voir les mémoires complets :
 
 ## Sources Législation
 
-[^1]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
-[^2]: [Arrêt n°89-18.422 — www.legifrance.gouv.fr/juri/id/JURITEXT000007026411](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007026411) ↩
-[^3]: [Arrêt n°74-10.466 — www.legifrance.gouv.fr/juri/id/JURITEXT000006993485](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006993485) ↩
-[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
-[^5]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+[^1]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](../../../../Lois/Code/Code_civil/Article1240_CodeCivil.md) ↩
+[^2]: [Arrêt n°89-18.422 — www.legifrance.gouv.fr/juri/id/JURITEXT000007026411](../../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md) ↩
+[^3]: [Arrêt n°74-10.466 — www.legifrance.gouv.fr/juri/id/JURITEXT000006993485](../../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/74-10.466_CourCassation.md) ↩
+[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](../../../../Lois/Code/Code_procédure_civile/Article_700_Codeproc_Legifrance.md) ↩
+[^5]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩

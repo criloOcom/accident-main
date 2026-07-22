@@ -1,4 +1,5 @@
 ---
+
 emoji: 👮‍♂️
 title: Procès-Verbal d'Audition — Plainte Complémentaire n°2026/015967-B
 description: PV d'audition de la victime pour plainte complémentaire (obstruction,
@@ -23,8 +24,11 @@ destinataire: Procureur de la République
 personnes:
 - '[**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md)'
 jx: J+47
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_penal/Parquet Foix - Plainte Complémentaire - PV Audition.md
+reel_path: ../../../Reel/Actes_proceduraux/Contentieux_penal/Parquet Foix - Plainte
+  Complémentaire - PV Audition.md
 ---
+
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux penal](./README.md)*
 <hr>
@@ -43,6 +47,8 @@ reel_path: ../../../Reel/Actes_proceduraux/Contentieux_penal/Parquet Foix - Plai
 **P. V. : n°2026/015967-B**
 **Affaire : Plainte complémentaire pour blessures involontaires et obstruction à la justice**
 <!-- /Destinataire -->
+<hr><hr>
+
 ## I — CADRE DE L'AUDITION
 
 L'an deux mil vingt-six,
@@ -55,26 +61,26 @@ Vu les articles 75 et suivants du Code de procédure pénale,
 Faisant suite au PV initial n°2026/015967 établi le 02/06/2026 au Commissariat de Toulouse Rive Droite,
 
 Constatons que se présente :
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** (victime plaignante), qui nous informe vouloir déposer une plainte complémentaire suite aux faits dont il a été victime le 29/05/2026.
+[**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) (victime plaignante), qui nous informe vouloir déposer une plainte complémentaire suite aux faits dont il a été victime le 29/05/2026.
 
 Information reçue des droits mentionnés à l'article 10-2 du Code de procédure pénale.
 
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** nous déclare :
+[**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) nous déclare :
 
 > « J'ai pris connaissance de mes droits et me réserve la possibilité d'y recourir à tout moment. »
 <hr><hr>
 
 ## II — IDENTITÉ DU DÉCLARANT
 
-> « Je me nomme **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, né(e) le **[Date de naissance de la victime](../../../../Memory/Tokens/token-victime-date-naissance.md)** à **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)**, de nationalité française, exerçant la profession d'informaticien indépendant.
-> Je demeure au **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**.
-> Mon numéro de téléphone est le **[Le Téléphone de la Victime](../../../../Memory/Tokens/token-victime-telephone.md)**.
-> Mon adresse électronique est : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**. »
+> « Je me nomme [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md), né(e) le [**[Date de naissance de la victime]**](../../../../Memory/Tokens/token-victime-date-naissance.md) à [**[La Métropole Régionale]**](../../../../Memory/Tokens/token-accident-metropole.md), de nationalité française, exerçant la profession d'informaticien indépendant.
+> Je demeure au [**[L'Adresse de la Victime]**](../../../../Memory/Tokens/token-victime-adresse.md).
+> Mon numéro de téléphone est le [**[Le Téléphone de la Victime]**](../../../../Memory/Tokens/token-victime-telephone.md).
+> Mon adresse électronique est : [**[L'Email de la Victime]**](../../../../Memory/Tokens/token-victime-email.md). »
 <hr><hr>
 
 ## III — DÉCLARATION ET DÉPÔT DE PLAINTE COMPLÉMENTAIRE
 
-> « Je me présente à vous aujourd'hui pour déposer une plainte complémentaire faisant suite à ma plainte initiale du 2 juin 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)). Pour rappel, j'ai été gravement blessé à la main droite le 29 mai 2026 dans le salon de coiffure "[**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)", géré par la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), situé au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**. Cette blessure a nécessité une intervention chirurgicale en urgence et a entraîné 55 jours d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
+> « Je me présente à vous aujourd'hui pour déposer une plainte complémentaire faisant suite à ma plainte initiale du 2 juin 2026 ([**[PV n°2026/015967]**](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)). Pour rappel, j'ai été gravement blessé à la main droite le 29 mai 2026 dans le salon de coiffure "[[**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)", géré par la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), situé au **[**[L'Adresse de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-adresse.md). Cette blessure a nécessité une intervention chirurgicale en urgence et a entraîné 55 jours d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
 >
 > Depuis mon premier dépôt de plainte, j'ai tenté à de multiples reprises de contacter les gérants de la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) et le propriétaire des murs, afin d'obtenir amiablement les coordonnées de leur assurance responsabilité civile, indispensable pour la prise en charge de mes préjudices.
 >
@@ -92,13 +98,13 @@ Information reçue des droits mentionnés à l'article 10-2 du Code de procédur
 ## IV — CLÔTURE DU PROCÈS-VERBAL
 
 **Mention de l'OPJ :**
-Annexons au présent les documents remis par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, soit un courrier de plainte complémentaire et ses annexes justificatives.
+Annexons au présent les documents remis par [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md), soit un courrier de plainte complémentaire et ses annexes justificatives.
 
 > « Je souhaite obtenir une copie de mon procès-verbal de dépôt de plainte complémentaire. Je n'ai rien d'autre à ajouter. »
 
 Après lecture faite par lui-même, le déclarant persiste et signe avec nous le présent procès-verbal à quinze heures quinze.
 
 **Le déclarant**
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+[**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md)
 
 **L'Officier de Police Judiciaire**
