@@ -39,8 +39,10 @@ reel_path: ../../../Reel/Actes_proceduraux/Contentieux_penal/Parquet Foix - Plai
 **COMMISSARIAT DE POLICE DE FOIX**
 <!-- /Auteur -->
 
+<!-- Destinataire -->
 **P. V. : n°2026/015967-B**
 **Affaire : Plainte complémentaire pour blessures involontaires et obstruction à la justice**
+<!-- /Destinataire -->
 ## I — CADRE DE L'AUDITION
 
 L'an deux mil vingt-six,

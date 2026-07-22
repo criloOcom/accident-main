@@ -45,11 +45,13 @@ destinataire: Tribunal Judiciaire de Foix
 **NOUS**, [Nom du juge], Juge des requêtes du Tribunal judiciaire de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**,
 <!-- /Auteur -->
 
+<!-- Destinataire -->
 **Vu la requête déposée le 20 juillet 2026 par :**
 
 **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, demeurant **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**, informaticien indépendant,
 
 tendant à voir ordonner, avant tout procès, des mesures d'instruction sur le fondement de l'article 145 du Code de procédure civile ;
+<!-- /Destinataire -->
 
 **Vu les pièces produites à l'appui de la requête**, et notamment :
 

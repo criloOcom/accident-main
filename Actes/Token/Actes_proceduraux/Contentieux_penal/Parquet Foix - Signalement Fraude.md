@@ -79,10 +79,10 @@ Je vous prie de croire, Monsieur le Procureur de la République, en l'assurance 
 
 Fait à **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le [Date].
 
-<!-- Signature -->
+<!-- Auteur -->
 **[Nom de l'Avocat de la Victime](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
 Avocat de **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
-<!-- /Signature -->
+<!-- /Auteur -->
 
 <!-- PJ -->
 <hr><hr>
