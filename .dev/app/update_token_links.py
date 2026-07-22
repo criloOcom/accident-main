@@ -123,16 +123,17 @@ def jeton_relative_path(from_file):
     from_dir = os.path.dirname(from_file)
     return os.path.relpath(JETONS_DIR, from_dir)
 
+_TOKEN_LINK_PATTERN = re.compile(
+    r'(\*\*\[([^\]]+)\]\*\*)'
+    r'\]\('
+    r'[^)]*'
+    r'TOKEN[^)]*MAP\.md[^)]*\)',
+    re.DOTALL
+)
+
 def find_tokens_in_content(content):
-    pattern = re.compile(
-        r'(\*\*\[([^\]]+)\]\*\*)'
-        r'\]\('
-        r'[^)]*'
-        r'TOKEN[^)]*MAP\.md[^)]*\)',
-        re.DOTALL
-    )
     results = []
-    for m in pattern.finditer(content):
+    for m in _TOKEN_LINK_PATTERN.finditer(content):
         full_display = m.group(1)
         token_name = m.group(2).strip()
         anchor = resolve_token(token_name)
