@@ -38,6 +38,7 @@ def cmd_list(args):
                 fields=f"nextPageToken, {fields}",
                 pageToken=page_token,
                 orderBy="modifiedTime desc",
+                pageSize=1000,
             )
             .execute()
         )

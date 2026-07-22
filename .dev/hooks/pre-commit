@@ -1,0 +1,137 @@
+#!/bin/bash
+# Hook pre-commit versionné — exécute la suite d'audit avant chaque commit.
+# Ce fichier est la source de vérité ; .git/hooks/pre-commit n'est qu'un trampoline.
+#
+# Règle #23 : tout commit qui introduit un nouveau lien cassé (404) est BLOQUÉ.
+# Les liens cassés pré-existants (dans des fichiers non modifiés) sont WARN seulement.
+
+set -euo pipefail
+
+ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
+cd "$ROOT"
+
+PASS=0
+FAIL=0
+WARN=0
+
+# ── Liste des fichiers modifiés dans ce commit ──
+# Detect staged files. Can be overridden for testing via STAGED env var.
+STAGED="${STAGED:-$(git diff --cached --name-only --diff-filter=ACMR 2>/dev/null || echo '')}"
+
+run_audit() {
+    local name="$1" script="$2" args="${3:-}"
+    echo ""
+    echo "━━━ 🔍 $name ━━━"
+    if python3 $script $args; then
+        echo "✅ $name : OK"
+        PASS=$((PASS + 1))
+    else
+        local ec=$?
+        if [ "$ec" -eq 2 ]; then
+            echo "⚠️  $name : avertissements"
+            WARN=$((WARN + 1))
+        else
+            echo "❌ $name : ÉCHEC"
+            FAIL=$((FAIL + 1))
+        fi
+    fi
+}
+
+run_audit "README integrity"          ".dev/app/audit_readme_integrity.py"
+run_audit "YAML links (Règle #25)"    ".dev/app/audit_yaml_links.py"
+run_audit "Citation links"            ".dev/app/audit_citation_links.py"
+run_audit "YAML frontmatter"          ".dev/app/yaml_validator.py"
+
+# ── Audit liens imbriqués invalides (Règle #28) ──
+echo ""
+echo "━━━ 🔍 Nested links audit (Règle #28) ━━━"
+NESTED=$(git diff --cached -U0 -- '*.md' 2>/dev/null | rg '^\+.*\[\[\*\*\[[^\]]*\]\*\*\]\([^)]*\)\]\(' || true)
+if [ -n "$NESTED" ]; then
+    echo "❌ Nested markdown links detected in staged diff:"
+    echo "$NESTED" | head -20
+    echo "   Pattern: [[**[X]**](url1)](url2) is invalid markdown."
+    echo "   FIX:   **[X](url2)**"
+    FAIL=$((FAIL + 1))
+else
+    echo "✅ Nested links : OK"
+    PASS=$((PASS + 1))
+fi
+
+# ── Audit listes à puces : format loose obligatoire (Règle #24) ──
+echo ""
+echo "━━━ 🔍 List spacing (format loose) ━━━"
+if python3 .dev/app/normalize_list_spacing.py --check; then
+    echo "✅ List spacing : OK"
+    PASS=$((PASS + 1))
+else
+    echo "❌ List spacing : ÉCHEC — listes tight détectées"
+    FAIL=$((FAIL + 1))
+fi
+
+# ── Audit des liens internes : diff-driven ──
+echo ""
+echo "━━━ 🔍 Internal links audit ━━━"
+
+# Run the full audit as JSON
+AUDIT_JSON=$(python3 .dev/app/audit_internal_links.py --json 2>/dev/null || true)
+
+# Parse with Python — check if STAGED files have broken links
+HAS_NEW_BROKEN=false
+HAS_BROKEN=false
+
+EC=0
+if [ -n "$AUDIT_JSON" ]; then
+    python3 -c "
+import json, sys
+data = json.load(sys.stdin)
+staged = {s for s in '''$STAGED'''.splitlines() if s.strip()}
+broken_in_staged = []
+broken_total = data.get('total_broken', 0)
+for r in data.get('results', []):
+    if r['source'] in staged:
+        broken_in_staged.append(r)
+
+if broken_total == 0:
+    print('✅ All internal links are valid.')
+    sys.exit(0)
+elif broken_in_staged:
+    print(f'❌ {len(broken_in_staged)} broken link(s) in STAGED files:')
+    for b in broken_in_staged:
+        print(f'     📄 {b[\"source\"]}: {b[\"decoded\"]} → NOT FOUND')
+    print(f'   ({broken_total - len(broken_in_staged)} additional broken link(s) in untouched files)')
+    print('FIX: edit the staged files to fix their links, or restore the broken file.')
+    sys.exit(1)
+else:
+    print(f'⚠️  {broken_total} broken link(s) exist but NONE in your changed files.')
+    print('   Legacy broken links (untouched files) do not block the commit.')
+    sys.exit(2)
+" <<< "$AUDIT_JSON" || EC=$?
+    if [ "$EC" -eq 1 ]; then
+        echo "❌ Internal links audit : ÉCHEC (new 404 in staged files)"
+        FAIL=$((FAIL + 1))
+    elif [ "$EC" -eq 2 ]; then
+        echo "⚠️  Internal links audit : avertissements (legacy 404 only)"
+        WARN=$((WARN + 1))
+    else
+        echo "✅ Internal links audit : OK"
+        PASS=$((PASS + 1))
+    fi
+else
+    echo "⚠️  Could not run internal links audit (script error)"
+    WARN=$((WARN + 1))
+fi
+
+echo ""
+echo "━━━ BILAN ━━━"
+if [ "$FAIL" -gt 0 ]; then
+    echo "❌ $FAIL audit(s) en échec — commit BLOQUÉ"
+    echo "   Corrigez les liens cassés dans vos fichiers modifiés avant de committer."
+    echo "   ℹ️  Les liens cassés pré-existants (fichiers non modifiés) ne bloquent pas."
+    exit 1
+fi
+if [ "$WARN" -gt 0 ]; then
+    echo "⚠️  $WARN audit(s) avec avertissements"
+    echo "   Legacy 404s in untouched files — review at your discretion."
+fi
+echo "✅ $PASS/$((PASS+FAIL+WARN)) audit(s) validé(s). Commit autorisé."
+exit 0

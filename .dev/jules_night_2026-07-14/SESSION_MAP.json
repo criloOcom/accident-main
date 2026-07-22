@@ -1,0 +1,82 @@
+{
+  "M04_organisation.md": {
+    "sessionId": "1478692446009410331",
+    "launchedAt": "2026-07-13T23:07:08.064Z"
+  },
+  "M01_conformite_rgpd.md": {
+    "sessionId": "1874136573161408257",
+    "launchedAt": "2026-07-13T23:07:08.063Z"
+  },
+  "M02_coherence_juridique.md": {
+    "sessionId": "4929822008270954582",
+    "launchedAt": "2026-07-13T23:07:08.064Z"
+  },
+  "M03_securite_preuves.md": {
+    "sessionId": "422724528776486902",
+    "launchedAt": "2026-07-13T23:07:08.064Z"
+  },
+  "M05_qualite_actes.md": {
+    "sessionId": "18443218845067812469",
+    "launchedAt": "2026-07-13T23:07:08.064Z"
+  },
+  "M06_conformite_procedurale.md": {
+    "sessionId": "6133410526150848066",
+    "launchedAt": "2026-07-13T23:07:08.064Z"
+  },
+  "M07_dirigeants_societes.md": {
+    "sessionId": "17830496807323470048",
+    "launchedAt": "2026-07-13T23:07:08.064Z"
+  },
+  "M08_voies_indemnisation.md": {
+    "sessionId": "6436996169804995681",
+    "launchedAt": "2026-07-13T23:07:08.064Z"
+  },
+  "M09_responsabilite_choses.md": {
+    "sessionId": "6630996303629581461",
+    "launchedAt": "2026-07-13T23:07:08.064Z"
+  },
+  "M10_strategie_penale.md": {
+    "sessionId": "9635216744905824485",
+    "launchedAt": "2026-07-13T23:07:08.064Z"
+  },
+  "M11_evaluation_dintilhac.md": {
+    "sessionId": "1961247186456543250",
+    "launchedAt": "2026-07-13T23:07:08.064Z"
+  },
+  "M12_stabilite_technique.md": {
+    "sessionId": "634391463851049973",
+    "launchedAt": "2026-07-13T23:07:08.064Z"
+  },
+  "M13_securite_tokens.md": {
+    "sessionId": "14386602008995188339",
+    "launchedAt": "2026-07-13T23:07:08.064Z"
+  },
+  "M14_continuite.md": {
+    "sessionId": "15064714970415059898",
+    "launchedAt": "2026-07-13T23:07:08.064Z"
+  },
+  "M15_synthese_operationnalite.md": {
+    "sessionId": "10834916496765754113",
+    "launchedAt": "2026-07-14T03:31:17.024Z"
+  },
+  "M15b_synthese_1re_session.md": {
+    "sessionId": "18395423753598609417",
+    "launchedAt": "2026-07-14T03:26:57.000Z",
+    "note": "Session M15 doublon créée par le cron/watchdog (limite 14 levée). PR #152."
+  },
+  "M05b_qualite_actes.md": {
+    "sessionId": "9007475723717457049",
+    "launchedAt": "2026-07-14T05:59:26.138Z",
+    "note": "RELANCE (M05/M07 clôturées trop tôt sans rapport)"
+  },
+  "M07b_dirigeants_societes.md": {
+    "sessionId": "7050958184455060509",
+    "launchedAt": "2026-07-14T05:59:26.138Z",
+    "note": "RELANCE (M05/M07 clôturées trop tôt sans rapport)"
+  },
+  "M03b_securite_preuves.md": {
+    "sessionId": "3487735748824375475",
+    "launchedAt": "2026-07-14T06:50:19.957Z",
+    "note": "RELANCE (M03 d'origine a dévié: notes à la racine, pas de rapport)"
+  }
+}

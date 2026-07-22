@@ -1,0 +1,59 @@
+---
+title: "📅 J+55 Fin d'ITT"
+description: "Token :** `**[J+55 Fin d'ITT]**`"
+token: "J+55 Fin d'ITT"
+real_value: "23 juillet 2026"
+type: memory
+---
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
+# 📅 J+55 Fin d'ITT
+
+**Token :** `**[J+55 Fin d'ITT]**`
+
+## Événement
+
+| Champ | Valeur |
+|---|---|
+| **Date** | 23 juillet 2026 (jeudi) |
+| **Arrêt de travail total** | 55 jours (29/05/2026 → 23/07/2026) |
+
+## Description détaillée
+
+Date de fin de l'arrêt de travail total — correspond à la date de fin de la période d'incapacité temporaire totale, 55 jours après l'accident.
+
+À cette date :
+- **[La Victime]** est présumée apte à reprendre une activité professionnelle, sous réserve des limitations fonctionnelles résiduelles
+
+- Fin du versement des indemnités journalières (le cas échéant)
+
+- Passage de la phase **ITT** (préjudices temporaires) à la phase **DFP** (préjudices permanents) dans l'évaluation Dintilhac
+
+⚠ ITT initiale erronée : **[Le Médecin Généraliste]** a noté 1 jour le 01/06/2026 — l'arrêt de travail total est de 55 jours (correspondant à la réalité clinique).
+
+## Acteurs concernés
+
+- **[La Victime]** — fin de l'ITT
+
+- **[Le Médecin Généraliste]** — prescripteur initial (erreur)
+
+## Conséquences juridiques
+
+- La fin de l'ITT délimite la période des **préjudices temporaires** (DFT, PGPA, ATP) de la période des **préjudices permanents** (DFP, SE, IP, PEP, agrément)
+
+- La durée de 55 jours sert au calcul du **DFT** (25 €/jour × 55 = 1 375 €)
+
+- La durée de l'ITT est un indicateur de la **gravité objective** de l'accident
+
+## Documents liés
+
+- [Arrêt de travail Dr OXYBEL 01/06/2026](../../Actes/Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)
+
+- [Évaluation Dintilhac consolidée](../../Actes/Token/Etudes_indemnisation/Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md)
+
+## Source
+
+TOKEN MAP → Tokens événementiels (J+)

@@ -1,194 +1,118 @@
-# Accident de la Main — Dossier Juridique
+<!-- Breadcrumb -->
+*[AGENTS](./AGENTS.md)*
+<hr>
+<!-- /Breadcrumb -->
 
-**Contentieux civil et pénal** suite à un accident corporel survenu le **29 mai 2026** dans un commerce de Foix (section nerveuse/tendineuse de la main droite, défaut d'assurance RC, préjudices estimés à 59 600 €).
+# Accident de la Main
 
-**Échéances clés :**
+Le **[29 mai 2026](./Memory/Tokens/token-j-0-accident.md)**, vers 14h30, **[Sébastien GRAZIDE](./Memory/Tokens/token-victime-nom-complet.md)** ([informaticien indépendant](./Memory/Tokens/token-victime-id-professionnel.md), [SIREN 500 474 457](./Memory/Tokens/token-victime-id-professionnel.md), né le [27 janvier 1982](./Memory/Tokens/token-victime-date-naissance.md), [44 ans](./Memory/Tokens/token-victime-age.md), droitier) a été victime d'un accident de travail au **[22 Rue Lafaurie, 09000 Foix](./Memory/Tokens/token-exploitation-adresse.md)**, dans un salon de coiffure exploité par la **[SAS HB BARBER](./Memory/Tokens/token-exploitation-raison-sociale.md)** (SIRET [104 103 262 00010](./Memory/Tokens/token-exploitation-siret.md)).
 
-| Date | Événement | Statut |
-|------|-----------|--------|
-| 14 juillet 2026 | Fin phase amiable (mises en demeure du 29/06) | ✅ Échu |
-| Date non fixée | Audience référé-provision (Art. 835 CPC) | ❌ À planifier |
-| Date non fixée | Audience Art. 145 CPC (assurance) | ❌ À planifier |
-| **12 novembre 2026** | **Rendez-vous UMJ Purpan 13h45 (réquisition police ITT)** | ✅ Fixé |
+La blessure — une plaie palmaire droite de 8,5 cm avec section complète des tendons fléchisseurs des 2e et 3e rayons et des 2 nerfs digitaux palmaires de l'index droit — a nécessité une intervention chirurgicale le **[30 mai 2026](./Memory/Tokens/token-j-1-chirurgie.md)** à la **[Clinique de l'Union](./Memory/Tokens/token-hopital-sosmain-nom.md)** (SOS Main), réalisée par le **[Dr Iskander DJERBI](./Memory/Tokens/token-hopital-sosmain-chirurgien.md)**. L'ITT initiale de 56 jours ([23 juillet 2026](./Memory/Tokens/token-j-55-fin-d-itt.md)) a été prolongée jusqu'à l'expertise médico-judiciaire fixée au **[29 mai 2027](./Memory/Tokens/token-j-167-expertise-umj.md)**.
 
----
-
-## Arborescence
-
-📁 **[⚖️_Actes/](./⚖️_Actes/)** — Actes juridiques et documents de travail
-
-├── 📁 **[token/](./⚖️_Actes/🔑_Token/)** — Versions anonymisées (travail courant) <br>
-│   ├── 📁 **[00_📂_Preuves_officielles/](./⚖️_Actes/🔑_Token/00_📂_Preuves_officielles/)** — Inventaire et preuves physiques <br>
-│   ├── 📁 **[01_⚖️_Actes_proceduraux/](./⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/)** — Assignations, conclusions, requêtes <br>
-│   ├── 📁 **[02_✉️_Courriers/](./⚖️_Actes/🔑_Token/02_✉️_Courriers/)** — Mises en demeure, courriers administratifs <br>
-│   ├── 📁 **[03_📚_Analyses_juridiques/](./⚖️_Actes/🔑_Token/03_📚_Analyses_juridiques/)** — Plaidoiries, FAQ, analyses <br>
-│   ├── 📁 **[04_💰_Etudes_indemnisation/](./⚖️_Actes/🔑_Token/04_💰_Etudes_indemnisation/)** — Évaluations Dintilhac <br>
-│   ├── 📁 **[05_🗂️_Organisation/](./⚖️_Actes/🔑_Token/05_🗂️_Organisation/)** — Index, calendrier, statistiques <br>
-│   └── 📁 **[06_🗄️_Archives/](./⚖️_Actes/🔑_Token/06_🗄️_Archives/)** — Annexes (lois, lexique, pièces) <br>
-│
-└── 📁 **[reel/](./⚖️_Actes/👤_Reel/)** — Versions réelles (identités réelles résolues)
-
-📁 **[🧠_Memory/](./🧠_Memory/)** — Mémoire persistante pour les agents IA
-
-📁 **[app/](./app/)** — Scripts Python
-
-📁 **[📊_Rapports/](./📊_Rapports/)** — Rapports d'analyse et de validation <br>
-├── 📁 **[audit/](./📊_Rapports/🗄️_Archives/audit/)** — Rapports d'audit et vérifications <br>
-├── 📁 **[expertise/](./📊_Rapports/expertise/)** — Rapports d'analyse et mémoires juridiques <br>
-└── 📁 **[ordalie/](./📊_Rapports/🗄️_Archives/ordalie/)** — Validation juridique
-
-📁 **[pieces/](./pieces/)** — Pièces originales extraites des PDFs
+Ce dépôt centralise l'intégralité du dossier : pièces médicales, procès-verbal de police ([n° 2026/015967](./Memory/Tokens/token-pv-police-numero.md)), dossier CPAM ([n° 31727387](./Memory/Tokens/token-cpam-dossier-numero.md)), actes de procédure, analyses juridiques, évaluations Dintilhac, simulations contentieux, et mémoire persistante pour les agents IA.
 
 ---
 
-### Principe token / reel
+## Les faits
 
-Le dossier repose sur une **double strate de documents** générée par [generate_real_versions.py](./app/generate_real_versions.py) :
+**Victime.** [Sébastien GRAZIDE](./Memory/Tokens/token-victime-nom-complet.md), [44 ans](./Memory/Tokens/token-victime-age.md), [informaticien indépendant](./Memory/Tokens/token-victime-id-professionnel.md), exerçant sous le [SIREN 500 474 457](./Memory/Tokens/token-victime-id-professionnel.md).
 
-| Dossier | Contenu | Usage |
-|---------|---------|-------|
-| 📁 [token/](./⚖️_Actes/🔑_Token/) | **Versions tokenisées** — identités remplacées par `**[La Victime]**` | Travail courant, révision, partage |
-| 📁 [reel/](./⚖️_Actes/👤_Reel/) | **Versions réelles** — tokens résolus → noms, adresses, email | Impression, envoi, audience |
+**Accident.** Le **[29 mai 2026](./Memory/Tokens/token-j-0-accident.md)**, alors qu'il était assis dans un fauteuil du salon de coiffure du **[22 Rue Lafaurie à Foix](./Memory/Tokens/token-exploitation-adresse.md)**, la glace du plan de travail s'est effondrée sur sa main droite, provoquant une plaie profonde et des sections tendineuses et nerveuses.
 
----
+**Prise en charge médicale.** Transporté au CHIVA (Dispensaire de Foix) puis orienté vers **[SOS Main](./Memory/Tokens/token-hopital-sosmain-nom.md)** à la **[Clinique de l'Union](./Memory/Tokens/token-hopital-sosmain-nom.md)**. Opéré le [30 mai 2026](./Memory/Tokens/token-j-1-chirurgie.md). Le pronostic vital n'a pas été engagé mais la fonction de la main droite (main dominante) reste atteinte.
 
-## Documents principaux
-
-### Actes procéduraux ([01_⚖️_Actes_proceduraux/](./⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/))
-
-| # | Document | Description |
-|---|----------|-------------|
-| 01 | [01 ⚖️ Assignation.md](./⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/01 ⚖️ Assignation.md) | Assignation référé-provision 5 000 € (Art. 835 CPC) |
-| 02 | [02 🚔 Plainte.md](./⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/02 🚔 Plainte.md) | Plainte complémentaire défaut assurance RC |
-| 02b | [02b 🛡️ Constitution Partie Civile.md](./⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/02b%20%F0%9F%9B%A1%EF%B8%8F%20Constitution%20Partie%20Civile.md) | Constitution de partie civile (Art. 222-19/222-20 CP + L.227-8 C.com.) |
-| 03 | [03 🔍 Assignation Article 145.md](./⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/03%20%F0%9F%94%8D%20Assignation%20Article%20145.md) | Communication forcée police d'assurance (Art. 145 CPC) |
-| 04 | [04 📑 Bordereau unifié.md](./⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/04%20%F0%9F%93%91%20Bordereau.md) | Bordereau unifié 43 pièces (groupes A-G) |
-| 05 | [05 🎯 Conclusions Refere.md](./⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/05%20%F0%9F%8E%AF%20Conclusions%20Refere.md) | Conclusions référé (date à fixer) |
-| 06 | [06 📸 Requete Constat Huissier.md](./⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/06%20%F0%9F%93%B8%20Requete%20Constat%20Huissier.md) | Requête constat d'huissier (Art. 145 CPC) |
-| 15 | [15 ⚖️ Réquisitoire introductif.md](./⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/15%20%E2%9A%96%EF%B8%8F%20R%C3%A9quisitoire%20introductif.md) | Réquisitoire introductif enquête pénale |
-
-### Courriers et gabarits ([02_✉️_Courriers/](./⚖️_Actes/🔑_Token/02_✉️_Courriers/))
-
-| N° | Document | Type | Statut |
-|----|----------|------|--------|
-| 03 | [Courrier SAS.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/03%20%E2%9C%89%EF%B8%8F%20Courrier%20SAS.md) | Mise en demeure SAS | ✅ Envoyé |
-| 04 | [Courrier Assureur.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/04%20%E2%9C%89%EF%B8%8F%20Courrier%20Assureur.md) | Action directe assureur | ✅ Envoyé |
-| 05 | [Courrier Proprietaire.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/05%20%E2%9C%89%EF%B8%8F%20Courrier%20Proprietaire.md) | Mise en demeure bailleur | ✅ Envoyé |
-| 06 | [Courrier President DG.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/06%20%E2%9C%89%EF%B8%8F%20Courrier%20President%20DG.md) | Mise en demeure dirigeants | ✅ Envoyé |
-| 07 | [Courrier Consolidation.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/07%20%E2%9C%89%EF%B8%8F%20Courrier%20Consolidation.md) | Demande certificat consolidation | ✅ Envoyé |
-| 08 | [Courrier Suivi TAVELLA.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/08%20%E2%9C%89%EF%B8%8F%20Courrier%20Suivi%20Adjoint%20Maire.md) | Suivi mairie | ✅ Envoyé |
-| 09 | [Courrier Inspection Travail.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/09%20%E2%9C%89%EF%B8%8F%20Courrier%20Inspection%20Travail.md) | Signalement DDETS/DREETS | ✅ Envoyé |
-| 10 | [Courrier Doyen Juges Instruction.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/10%20%E2%9C%89%EF%B8%8F%20Courrier%20Doyen%20Juges%20Instruction.md) | Envoi CPC au Doyen | ✅ Drive |
-| 11-16, 18 | [INPI](./⚖️_Actes/🔑_Token/02_✉️_Courriers/11%20%E2%9C%89%EF%B8%8F%20Courrier%20INPI.md) à [SDIS](./⚖️_Actes/🔑_Token/02_✉️_Courriers/18%20%E2%9C%89%EF%B8%8F%20Courrier%20SDIS.md) | Courriers administratifs | ✅ Envoyés |
-| 17 | [Courrier CPAM.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/17%20%E2%9C%89%EF%B8%8F%20Courrier%20CPAM.md) | Transmission + bordereau récapitulatif CPAM | ✅ Drive |
-| 19 | [Courrier FGTI.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/19%20%E2%9C%89%EF%B8%8F%20Courrier%20FGTI.md) | Saisine conservatoire FGTI | ✅ Drive |
-| 20 | [Relance Police.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/20%20%F0%9F%94%84%20Relance%20Police.md) | Relance police | ✅ Envoyé |
-| 21 | [Relance CPAM.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/21%20%F0%9F%94%84%20Relance%20CPAM.md) | Relance CPAM | ✅ Envoyé |
-| 22 | [Gabarit Attestation Témoin Client.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/22%20%F0%9F%93%8B%20Attestation%20T%C3%A9moin%20Client.md) | Attestation Cerfa | ❌ À transmettre |
-| 23 | [Gabarit Attestation Pompier SAMU.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/23%20%F0%9F%93%8B%20Attestation%20Pompier%20SAMU.md) | Attestation Cerfa | ❌ À transmettre |
-| 24 | [Gabarit Attestation Employé.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/24%20%F0%9F%93%8B%20Attestation%20Employ%C3%A9.md) | Attestation Cerfa | ❌ À transmettre |
-| 25 | [Email Relance Dr DJERBI.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/25%20%F0%9F%93%A7%20Relance%20Dr%20DJERBI.md) | Relance consolidation | ❌ À envoyer |
-| 26 | [Email Attestation Temoin Client.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/26%20%F0%9F%93%A7%20Attestation%20Temoin%20Client.md) | Email transmission témoin | ❌ À envoyer |
-| 27 | [Email Attestation Pompier SAMU.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/27%20%F0%9F%93%A7%20Attestation%20Pompier%20SAMU.md) | Email transmission pompier | ❌ À envoyer |
-| 28 | [Email Attestation Employe.md](./⚖️_Actes/🔑_Token/02_✉️_Courriers/28%20%F0%9F%93%A7%20Attestation%20Employe.md) | Email transmission employé | ❌ À envoyer |
-
-### Analyses juridiques ([03_📚_Analyses_juridiques/](./⚖️_Actes/🔑_Token/03_📚_Analyses_juridiques/))
-
-| Document | Description |
-|----------|-------------|
-| [07 🎤 Plaidoirie dirigeants.md](./⚖️_Actes/🔑_Token/03_📚_Analyses_juridiques/07%20%F0%9F%8E%A4%20Plaidoirie%20dirigeants.md) | Plaidoirie Arrêt SATI, Art. L.124-3 |
-| [09 ❓ FAQ.md](./⚖️_Actes/🔑_Token/03_📚_Analyses_juridiques/09 ❓ FAQ.md) | FAQ juridique |
-| [12 📁 Dossier Plaidoirie.md](./⚖️_Actes/🔑_Token/03_📚_Analyses_juridiques/12%20%F0%9F%93%81%20Dossier%20Plaidoirie.md) | Dossier de plaidoirie (date à fixer) |
-| [13 📜 Responsabilites legales.md](./⚖️_Actes/🔑_Token/03_📚_Analyses_juridiques/13%20%F0%9F%93%9C%20Responsabilites%20legales.md) | Responsabilités légales dirigeants |
-| [14 📐 Stratégie jurisprudentielle.md](./⚖️_Actes/🔑_Token/03_📚_Analyses_juridiques/14%20Strat%C3%A9gie%20jurisprudentielle.md) | Stratégie jurisprudentielle |
-| [15 📝 Note Droit Assurances.md](./⚖️_Actes/🔑_Token/03_📚_Analyses_juridiques/15%20Note%20Droit%20Assurances.md) | Note sur le droit des assurances |
-| [99 🛡️ Memoire en defense adverse.md](./⚖️_Actes/🔑_Token/03_📚_Analyses_juridiques/99%20%F0%9F%9B%A1%EF%B8%8F%20Memoire%20en%20defense%20adverse.md) | Mémoire en défense adverse anticipé |
-
-### Études indemnisation ([04_💰_Etudes_indemnisation/](./⚖️_Actes/🔑_Token/04_💰_Etudes_indemnisation/))
-
-| Document | Description |
-|----------|-------------|
-| [11 💰 Etude indemnisation.md](./⚖️_Actes/🔑_Token/04_💰_Etudes_indemnisation/11%20%F0%9F%92%B0%20Etude%20indemnisation.md) | Évaluation Dintilhac 59 600 € |
-| [11+12 📊 Evaluation Dintilhac consolidee.md](./⚖️_Actes/🔑_Token/04_💰_Etudes_indemnisation/11+12%20%F0%9F%93%8A%20Evaluation%20Dintilhac%20consolidee.md) | Évaluation consolidée ~92 000 € |
-| [13 📋 Note strategique FGTI CIVI.md](./⚖️_Actes/🔑_Token/04_💰_Etudes_indemnisation/13%20Note%20strategique%20FGTI%20CIVI.md) | Note stratégique FGTI / CIVI |
-
-### Organisation ([05_🗂️_Organisation/](./⚖️_Actes/🔑_Token/05_🗂️_Organisation/))
-
-| Document | Description |
-|----------|-------------|
-| [00 📇 Index.md](./⚖️_Actes/🔑_Token/05_🗂️_Organisation/00 📇 Index.md) | Index des documents |
-| [10 🗂️ Plan action.md](./⚖️_Actes/🔑_Token/05_🗂️_Organisation/10%20%F0%9F%97%82%EF%B8%8F%20Plan%20action.md) | Plan d'action |
-| [11 📅 Calendrier procedural.md](./⚖️_Actes/🔑_Token/05_🗂️_Organisation/11%20%F0%9F%93%85%20Calendrier%20procedural.md) | Calendrier procédural |
-| [20 📦 Bon envoi physique.md](./⚖️_Actes/🔑_Token/05_🗂️_Organisation/20%20%F0%9F%93%A6%20Bon%20envoi%20physique.md) | Bon d'envoi physique — checklist impression/envoi |
+**Exploitation.** Au moment de l'accident, l'activité était exploitée par la **[SAS LES MAUVAIS GARÇONS](./Memory/Tokens/token-ancien-exploitant.md)** ([938 033 222 00010](./Memory/Tokens/token-ancien-exploitation-id.md)), présidée par **[Sabir MOUNTASSER](./Memory/Tokens/token-ancien-president-exploitation.md)**, ayant son siège au Lieudit Bourcheminet, 09320 Massat. Cette société a été remplacée post-accident par la **[SAS HB BARBER](./Memory/Tokens/token-exploitation-raison-sociale.md)** ([104 103 262 00010](./Memory/Tokens/token-exploitation-siret.md)), présidée par **[Hamza El Hachemi BERGUIGA](./Memory/Tokens/token-exploitation-president-nom.md)**, dirigée par **[Catherine SORROCHE](./Memory/Tokens/token-exploitation-dg-nom.md)**, sise au **[22 Rue Lafaurie, 09000 Foix](./Memory/Tokens/token-exploitation-adresse.md)**.
 
 ---
 
-## Rapports d'expertise et validation ([📊_Rapports/](./📊_Rapports/))
+## Le dossier
 
-| Dossier | Description |
-|---------|-------------|
-| [audit/](./📊_Rapports/🗄️_Archives/audit/) | Rapports d'audit, suivi des agents, rapports techniques et d'anonymisation |
-| [expertise/](./📊_Rapports/expertise/) | Mémoires juridiques, analyses approfondies et gloses |
-| [jurisprudence/](./📊_Rapports/jurisprudence/) | Rapports d'audit de jurisprudence |
-| [ordalie/](./📊_Rapports/🗄️_Archives/ordalie/) | Rapports de validation juridique et tests de cohérence ("ordalie") |
-| [anonymisation/](./📊_Rapports/🗄️_Archives/anonymisation/) | Rapports d'audit d'anonymisation |
-| [ordonnance_refere.md](./⚖️_Actes/🔑_Token/01_⚖️_Actes_proceduraux/07 ⚖️ Projet Ordonnance Refere.md) | Projet d'ordonnance de référé motivée |
+Le dépôt est organisé en dossiers cliquables :
+
+- **[Actes](./Actes/)** — l'ensemble des pièces et actes du dossier, répartis en trois sous-ensemble :
+
+  - [Preuves officielles](./Actes/Preuves%20officielles/) : pièces brutes (CR opératoire, PV police, pièces d'identité, constats)
+
+  - [Token](./Actes/Token/) : versions de travail anonymisées (courriers, procédure, analyses juridiques, études indemnisation)
+
+  - [Reel](./Actes/Reel/) : versions réelles générées (identités non anonymisées)
+
+- **[Lois](./Lois/)** — textes de loi, codes, jurisprudence cités dans les actes
+
+- **[Memory](./Memory/)** — mémoire persistante partagée entre tous les agents :
+
+  - [VACCIN.md](./Memory/VACCIN.md) (à lire absolument avant toute action)
+
+  - [STATUS.md](./Memory/STATUS.md) (état d'avancement détaillé)
+
+  - [TODO.md](./Memory/TODO.md) (tâches restantes et priorités)
+
+  - [STRICT VARIABLES.md](./Memory/STRICT%20VARIABLES.md) (source unique de vérité — faits, montants, dates)
+
+  - [TOKEN MAP.md](./Memory/TOKEN%20MAP.md) (correspondance token ↔ réel)
+
+  - [RULES.md](./Memory/RULES.md) (règles permanentes)
+
+  - [DECISIONS.md](./Memory/DECISIONS.md) (décisions d'architecture)
+
+  - [CONVENTIONS.md](./Memory/CONVENTIONS.md) (conventions de formatage)
+
+  - [JURITEXT PROTOCOL.md](./Memory/JURITEXT_PROTOCOL.md) (protocole de vérification des textes de loi)
+
+  - [WORKFLOW.md](./Memory/WORKFLOW.md) (procédure d'anonymisation)
+
+  - [Tokens](./Memory/Tokens/) (56 fiches individuelles par token)
+
+- **[Rapports](./Rapports/)** — audits, synthèses, évaluations, rapports d'analyse
+
+- **[Simulations](./Simulations/)** — 15 scénarios contentieux par acteur (assureur, avocat adverse, CPAM, etc.)
+
+- **[Status](./Status/)** — suivi d'avancement (préparation, prêt pour envoi, envoyé)
 
 ---
 
-## Mémoire persistante ([🧠_Memory/](./🧠_Memory/))
+## Par public
 
-Fichiers essentiels pour les agents IA (lire [AGENTS.md](./AGENTS.md) avant toute action) :
+### Police et enquête
 
-| Fichier | Rôle |
-|---------|------|
-| [VACCIN.md](./🧠_Memory/VACCIN.md) | 🔴 Protocole obligatoire avant chaque action |
-| [STATUS.md](./🧠_Memory/STATUS.md) | État d'avancement détaillé |
-| [TODO.md](./🧠_Memory/TODO.md) | Plans restants et priorités + tableau de bord dates |
-| [STRICT VARIABLES.md](./🧠_Memory/STRICT%20VARIABLES.md) | Source unique de vérité (dates, montants, faits) |
-| [TOKEN MAP.md](./🧠_Memory/TOKEN%20MAP.md) | Correspondance jeton ↔ identité réelle |
-| [PIECES MAP.md](./🧠_Memory/PIECES%20MAP.md) | Correspondance document → pièces citées |
-| [DECISIONS.md](./🧠_Memory/DECISIONS.md) | Décisions d'architecture et règles |
-| [RULES.md](./🧠_Memory/RULES.md) | Règles permanentes et interdictions |
-| [JUSTIFICATION_PROVISION_5000.md](./🧠_Memory/JUSTIFICATION_PROVISION_5000.md) | Justification provision 5 000 € |
-| [EVALUATION_CRITIQUE.md](./EVALUATION_CRITIQUE.md) | Évaluation critique du dossier |
-| [RECOMMANDATIONS_DOSSIER.md](./RECOMMANDATIONS_DOSSIER.md) | Recommandations et éléments manquants |
-| [RAPPORT_PLAN_H.md](./🧠_Memory/RAPPORT_PLAN_H.md) | Uniformisation assignations / bordereaux |
+Le procès-verbal de police [n° 2026/015967](./Actes/Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) et le [dossier de plainte](./Actes/Preuves%20officielles/20260602_Police_PV/20260601%20DOSSIER%20Plainte%20PlainteOfficiellePV%20n%C2%B02026-015967.md) sont dans [Preuves officielles](./Actes/Preuves%20officielles/). Une [note d'identité corrigeant l'erreur de SIRET](./Actes/Token/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md) a été transmise. Le [bordereau de pièces](./Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md) récapitule l'ensemble des documents communiqués.
+
+### Avocats et contentieux
+
+Tous les actes de procédure sont dans [Actes/Reel/Actes_proceduraux](./Actes/Reel/Actes_proceduraux/) (versions réelles) et [Actes/Token/Actes_proceduraux](./Actes/Token/Actes_proceduraux/) (versions anonymisées). On y trouve notamment l'[assignation en référé-provision (CPC 145)](./Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md), le [bordereau de pièces unifié](./Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md), et les [conclusions au fond](./Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Conclusions%20au%20Fond.md).
+
+Les [analyses juridiques](./Actes/Token/Analyses_juridiques/) et les [études d'indemnisation Dintilhac](./Actes/Token/Etudes_indemnisation/) détaillent la stratégie contentieuse et l'évaluation du préjudice corporel (fourchette 120 000 – 160 000 €).
+
+Les [15 simulations](./Simulations/) permettent d'anticiper les positions des différents acteurs (assureur, avocat adverse, CPAM, juge).
+
+### CPAM et médical
+
+Le [compte-rendu opératoire](./Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) et l'[ordonnance de sortie](./Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530-1700%20Ordonnance%20Sortie%20DrDJERBI.md) sont classés dans [Preuves officielles](./Actes/Preuves%20officielles/). Les courriers de [rectification d'identité CPAM](./Actes/Token/Courriers/CPAM/) et de [saisine](./Actes/Token/Courriers/CPAM/CPAM%20-%20Recours%20Tiers%20-%20Saisine.md) sont dans [Courriers/CPAM](./Actes/Token/Courriers/CPAM/).
+
+### Administrations
+
+Les justificatifs URSSAF, pièces d'identité, contrats et autres documents administratifs sont dans [Preuves officielles](./Actes/Preuves%20officielles/). Les signalements aux autorités (DDETS, CODAF, INPI, SDIS,etc.) sont dans [Courriers/Administrations](./Actes/Token/Courriers/Administrations/).
 
 ---
 
 ## Pour les agents IA
 
-1. **Lire [AGENTS.md](./AGENTS.md)** en premier — point d'entrée
-2. **Lire [VACCIN.md](./🧠_Memory/VACCIN.md)** avant toute action — protocole obligatoire
-3. **Lire [🧠_Memory/](./🧠_Memory/)** pour le contexte complet
-4. **Respecter la logique token/reel** : les fichiers dans [token/](./⚖️_Actes/🔑_Token/) restent tokenisés ; [reel/](./⚖️_Actes/👤_Reel/) via [generate_real_versions.py](./app/generate_real_versions.py)
-5. **GitHub Token** : Google Secret Manager (`projects/crilo-prod-automation/secrets/GITHUB_TOKEN`) + fallback `~/.git-credentials`
+Ce dépôt est conçu pour être exploité par des agents IA. Le point d'entrée est **[AGENTS.md](./AGENTS.md)** — il décrit la structure, les workflows, les MCP disponibles et les règles à suivre. Avant toute action, lire impérativement [VACCIN.md](./Memory/VACCIN.md).
 
-## Conventions
+---
 
-| Règle | Description |
-|-------|-------------|
-| `<hr><hr>` | Marqueur de saut de page dans les actes |
-| `**[Token]**` | Identité anonymisée (ex: `**[La Victime]**`) |
-| YAML front matter | Métadonnées sur tous les fichiers .md dans ⚖️_Actes/ |
-| Format | `Arial JUSTIFIED` pour tous les documents juridiques |
-| Identifiant pièce | Triplet `(date, émetteur, objet)` |
+## Accès rapide
 
-## Scripts disponibles ([app/](./app/))
+- [Procès-verbal Police (PV n° 2026/015967)](./Actes/Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)
 
-| Script | Rôle |
-|--------|------|
-| [check_consistency.py](./app/check_consistency.py) | Vérification transversale du dossier |
-| [batch_link_legifrance.py](./app/batch_link_legifrance.py) | Insertion de liens Légifrance/Judilibre |
-| [generate_real_versions.py](./app/generate_real_versions.py) | Génération des versions réelles (token → réel) |
-| [batch_anonymize.py](./app/batch_anonymize.py) | Anonymisation de documents |
-| [drive_client.py](./app/drive_client.py) | Client Google Drive |
-| [injection.py](./app/injection.py) | Injection de documents dans Google Docs |
-| [consolidate_sheet.py](./app/consolidate_sheet.py) | Consolidation de Google Sheets |
+- [Compte-rendu opératoire SOS Main](./Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)
 
-Voir [app/README.md](./app/README.md) pour le détail.
+- [État d'avancement (STATUS)](./Memory/STATUS.md)
 
-## Dépendances techniques
+- [Tâches restantes (TODO)](./Memory/TODO.md)
 
-Python 3.13+, uv, Google ADK, Tesseract OCR français, Poppler-utils.
+- [Faits vérifiés — source unique de vérité](./Memory/STRICT%20VARIABLES.md)
+
+---
+
+*Dossier tenu par [Sébastien GRAZIDE](./Memory/Tokens/token-victime-nom-complet.md) — Mise à jour : 22 juillet 2026*

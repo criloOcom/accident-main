@@ -3,6 +3,7 @@ import json
 import os
 import stat
 import sys
+import tempfile
 import urllib.request
 import urllib.parse
 from typing import Optional
@@ -17,23 +18,37 @@ except ImportError:
     def get_secret(key):
         raise Exception(f"Secret {key} not found (souverain not installed)")
 
-try:
-    piste_creds = get_secret("PISTE_CREDENTIALS")
-    os.environ["PISTE_CREDENTIALS"] = piste_creds
-    os.environ["PISTE_ENV"] = "sandbox"
-except Exception as e:
-    print("Warning: Failed to setup PISTE credentials in tools initialization:", e)
+_initialized = False
+ServerLegifranceClient = None
+ServerJudilibreClient = None
 
-try:
-    from server import LegifranceClient as ServerLegifranceClient
-except ImportError:
-    ServerLegifranceClient = None
+def init():
+    global _initialized, ServerLegifranceClient, ServerJudilibreClient
+    if _initialized:
+        return
 
-try:
-    import server as judilibre_server
-    ServerJudilibreClient = judilibre_server.JudilibreClient
-except Exception:
-    ServerJudilibreClient = None
+    try:
+        piste_creds = get_secret("PISTE_CREDENTIALS")
+        os.environ["PISTE_CREDENTIALS"] = piste_creds
+        os.environ["PISTE_ENV"] = "sandbox"
+    except Exception as e:
+        print("Warning: Failed to setup PISTE credentials in tools initialization:", e)
+
+    if ServerLegifranceClient is None:
+        try:
+            from server import LegifranceClient
+            ServerLegifranceClient = LegifranceClient
+        except ImportError:
+            pass
+
+    if ServerJudilibreClient is None:
+        try:
+            import server as judilibre_server
+            ServerJudilibreClient = judilibre_server.JudilibreClient
+        except Exception:
+            pass
+
+    _initialized = True
 
 CREDS_PATH = os.path.expanduser("~/.opencode/.gdrive-server-credentials.json")
 
@@ -57,8 +72,15 @@ def _get_gdrive_token() -> str:
         creds.refresh(Request())
         saved['access_token'] = creds.token
         saved['expiry_date'] = int(creds.expiry.timestamp() * 1000) if creds.expiry else 0
-        with open(os.open(CREDS_PATH, os.O_WRONLY | os.O_CREAT | os.O_TRUNC, stat.S_IRUSR | stat.S_IWUSR), 'w') as f:
-            json.dump(saved, f)
+        fd, tmp_path = tempfile.mkstemp(dir=os.path.dirname(CREDS_PATH), text=True)
+        try:
+            with os.fdopen(fd, 'w') as f:
+                json.dump(saved, f)
+            os.chmod(tmp_path, stat.S_IRUSR | stat.S_IWUSR)
+            os.replace(tmp_path, CREDS_PATH)
+        except Exception:
+            os.unlink(tmp_path)
+            raise
     return creds.token
 
 
@@ -76,6 +98,7 @@ def _gdrive_api_request(path: str, params: Optional[dict] = None, data: Optional
 
 
 def search_jurisprudence(query: str) -> str:
+    init()
     if not ServerJudilibreClient:
         return "Erreur : Client Judilibre non disponible."
     try:
@@ -99,6 +122,7 @@ def search_jurisprudence(query: str) -> str:
 
 
 def search_law_code(query: str) -> str:
+    init()
     if not ServerLegifranceClient:
         return "Erreur : Client Légifrance non disponible."
     try:
@@ -120,6 +144,7 @@ def search_law_code(query: str) -> str:
 
 
 def get_law_article(article_id: str) -> str:
+    init()
     if not ServerLegifranceClient:
         return "Erreur : Client Légifrance non disponible."
     try:

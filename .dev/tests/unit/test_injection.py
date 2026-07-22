@@ -1,5 +1,6 @@
 import pytest
 from app.injection import get_segments, BREAK
+from app.injection import read_markdown
 
 def test_get_segments_empty_string():
     assert get_segments("") == []
@@ -37,3 +38,18 @@ def test_get_segments_marker_at_edges():
 
     content_both = f"{BREAK} Part 1 {BREAK}"
     assert get_segments(content_both) == ["Part 1"]
+
+
+def test_read_markdown_valid_file(tmp_path):
+    test_file = tmp_path / "test.md"
+    test_file.write_text("Hello, world!", encoding="utf-8")
+    assert read_markdown(str(test_file)) == "Hello, world!"
+
+def test_read_markdown_empty_file(tmp_path):
+    test_file = tmp_path / "empty.md"
+    test_file.write_text("", encoding="utf-8")
+    assert read_markdown(str(test_file)) == ""
+
+def test_read_markdown_file_not_found():
+    with pytest.raises(FileNotFoundError):
+        read_markdown("non_existent_file.md")

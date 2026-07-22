@@ -1,0 +1,39 @@
+---
+title: "📨 Courriers — Version Token"
+breadcrumb: "📨 Courriers"
+description: "Correspondance avec les tiers (administrations, assurances, justice, police, etc.) — version anonymisée."
+type: readme
+---
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › 📨 Courriers*
+<hr>
+<!-- /Breadcrumb -->
+
+# 📨 Courriers<br>Version Token
+
+**Correspondance avec les tiers** — version de travail anonymisée.
+Les identités réelles sont remplacées par des tokens (cf. [TOKEN MAP.md](../../../Memory/TOKEN%20MAP.md)).
+
+## 📂 Contenu
+
+- **[Administrations](Administrations/README.md)** — 15 fichiers · Signalements, saisine CADA, CODAF, INPI, DDETS, SDIS, SIE, URSSAF
+
+- **[Archivé](Archiv%C3%A9/README.md)** — 2 fichiers · Courriers classés
+
+- **[CPAM](CPAM/README.md)** — 4 fichiers · Recours contre tiers, rectification, relances
+
+- **[Interne](Interne/README.md)** — 3 fichiers · Notes internes
+
+- **[Justice](Justice/README.md)** — 8 fichiers · TJ Foix, DJI, FGTI, Parquet, TC Foix
+
+- **[Mairie](Mairie/README.md)** — 4 fichiers · Maire de Foix, Tavella
+
+- **[Médical](M%C3%A9dical/README.md)** — 4 fichiers · CHIVA, médecin traitant, expert
+
+- **[Police](Police/README.md)** — 10 fichiers · Main courante, vidéos, témoins, enquête
+
+- **[Propriétaire](Propri%C3%A9taire/README.md)** — 3 fichiers · Mise en demeure, relances
+
+- **[SAS & Salon](SAS_%26_Salon/README.md)** — 10 fichiers · HB BARBER, dirigeants, assureur
+
+- **[Témoins](T%C3%A9moins/README.md)** — 7 fichiers · Attestations et relances témoins

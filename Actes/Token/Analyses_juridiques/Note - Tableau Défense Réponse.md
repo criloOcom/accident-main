@@ -1,0 +1,29 @@
+---
+title: "Tableau - Arguments de la défense / Réponses du dossier"
+description: "Préparation stratégique en vue des auditions, référé-provision et échanges avec l'avocat AJ"
+type: analyse_juridique
+date: 2026-07-15
+statut: final
+auteur: La Victime
+jx: J+47
+reel_path: ../../Reel/Analyses_juridiques/Note - Tableau Défense Réponse.md
+---
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
+# ARGUMENTS PROBABLES DE LA DÉFENSE ET RÉPONSES DU DOSSIER
+
+| N° | Argument probable de la SAS / dirigeants / assureur | Réponse factuelle et juridique | Pièces / actes mobilisables |
+|---|------------------------------------------------------|--------------------------------|-----------------------------|
+| A1 | « C'est un accident malheureux, imprévisible, nous n'avons commis aucune faute. » | La vasque présentait **une cassure majeure préexistante**, non signalée, non protégée, sur un bac à shampoing utilisé au quotidien. L'employé a dû **monter dessus faute d'escabeau**, ce qui n'est pas une utilisation normale. C'est un défaut objectivement dangereux, incompatible avec l'obligation de sécurité. | PV 2026/015967 (constat des faits), [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) (description de la plaie), plainte 36 § I et II.A, photos vasque (si obtenues) |
+| A2 | « La cassure n'existait pas avant / n'était pas visible / la victime exagère. » | Le PV mentionne déjà l'état du matériel et la cassure. La profondeur et la longueur de la plaie (8,5 cm, section partielle tendon + nerf) sont cohérentes avec un choc sur un bord tranchant, pas avec un simple choc sur un bord arrondi. | PV 2026/015967, [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md), photos de la main, futur constat de la vasque par enquêteur ou expert |
+| A3 | « La victime a mis sa main là où il ne fallait pas, c'est sa faute. » | Le geste de tendre la main pour retenir un coiffeur qui tombe est un **réflexe de protection**, pas une prise de risque volontaire. Il n'y a pas de comportement anormal ou téméraire de la victime ; au contraire, l'origine du danger est la combinaison vasque cassée + montée dessus sans moyen adapté. | Déclaration victime (PV initial + plainte complémentaire), jurisprudence générale sur le réflexe de protection (à documenter par l'avocat si besoin) |
+| A4 | « Nous n'avons pas de vidéos / le système ne fonctionnait pas / les images sont déjà effacées. » | Le salon est équipé de caméras visibles et d'un affichage. La victime a signalé l'existence des vidéos dès le début et a demandé leur conservation par courrier. En cas de silence persistant, cela peut constituer un **indice de dissimulation ou d'entrave**. À minima, l'enquête doit vérifier l'existence effective du système, les durées de conservation et les éventuelles suppressions. | Photos des caméras et de l'affichage, courriers de demande de conservation, requête 145, plainte 36 II.B |
+| A5 | « La société est à jour, il n'y a pas de travail dissimulé. » | La victime ne préjuge pas de la qualification pénale, mais **signale** que : (1) la SAS déclare 0 salarié, (2) le salon fonctionne avec du personnel visible, (3) la société est introuvable pour la victime (NPAI), tout en rouvrant normalement. Ce sont des indices qui justifient un contrôle par les services compétents, sans accuser à l'avance. | [Extrait Kbis](../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) / RNE (SIREN + 0 salarié), photos du salon en activité, LRAR NPAI, plainte 36 II.C (signalement secondaire) |
+| A6 | « Les NPAI, c'est La Poste / une erreur d'adresse, rien de plus. » | Les courriers reviennent **systématiquement NPAI** pour la SAS et ses dirigeants, alors que l'adresse est celle du RNE et que le salon rouvre à la même adresse sous la même enseigne. Ce n'est pas un incident isolé. Cela suggère au minimum une **négligence grave** dans la réception du courrier officiel, au pire une volonté de ne pas être atteint par une victime ou un créancier. | LRAR + AR retournés, extrait RNE / Kbis à jour, photos de la devanture (même adresse, même enseigne), plainte 36 II.B.1 et IV |
+| A7 | « On ne peut pas être sûr que l'ITT de 55 jours vienne de cet accident. » | La chronologie médicale est **continue** : accident le 29/05, microchirurgie le 30/05, ITT délivrée en lien direct avec la plaie, rééducation, séquelles sensibles et fonctionnelles. Il n'y a pas d'autre événement concurrent. | [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md), certificats médicaux, [arrêts de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md), suivi kiné, plainte 36 I |
+| A8 | « La société n'a pas d'argent / est en cours de liquidation, on ne peut rien payer. » | Si la société a été volontairement laissée sans moyens ([**[Capital Social de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-capital-social.md), pas d'assurance identifiée, organisation d'insolvabilité), cela peut ouvrir d'autres angles (action contre les dirigeants à titre personnel, recherche de faute de gestion, etc.). Mais à ce stade, la priorité est déjà de **figer les preuves** et d'identifier formellement l'assureur RC éventuel. | Kbis ([**[Capital Social de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-capital-social.md)), éventuels bilans si obtenus, LRAR, audits RNE/INPI, futures informations issues des réquisitions et de l'enquête |
+
+> Ce tableau est destiné à être partagé plus tard avec l'avocat AJ pour préparer référés, conclusions et audiences.

@@ -1,0 +1,141 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Schéma YAML — Projet Accident Main",
+  "description": "Schéma de référence pour le frontmatter YAML de tous les fichiers .md du dépôt accident-main.",
+  "type": "object",
+  "definitions": {
+    "common": {
+      "type": "object",
+      "required": ["title", "type"],
+      "properties": {
+        "title": {
+          "type": "string",
+          "description": "Titre lisible du document"
+        },
+        "description": {
+          "type": "string",
+          "description": "Résumé court (1-2 phrases)"
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "loi", "jurisprudence", "courrier", "assignation", "plainte",
+            "analyse_juridique", "etude_indemnisation", "rapport", "readme",
+            "memory", "status", "preuve", "archive", "fiche", "document",
+            "directory", "attestation"
+          ],
+          "description": "Type canonique du document"
+        },
+        "date": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+          "description": "Date au format ISO YYYY-MM-DD"
+        },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Liste de mots-clés"
+        },
+        "statut": {
+          "type": "string",
+          "enum": ["final", "projet", "brouillon", "preparation", "envoye", "archive", "fusionne", "recueillie"],
+          "description": "Statut d'avancement du document"
+        }
+      }
+    },
+    "acte": {
+      "allOf": [
+        { "$ref": "#/definitions/common" },
+        {
+          "type": "object",
+          "properties": {
+            "auteur": { "type": "string" },
+            "destinataire": { "type": "string" },
+            "reel_path": {
+              "type": "string",
+              "pattern": "^\\.\\./|\\.\\./.*\\.md$",
+              "description": "Chemin relatif vers la version réelle (strate Reel)"
+            },
+            "source": { "type": "string", "enum": ["drive", "local", "email"] },
+            "drive_id": { "type": "string" },
+            "calendar_event_id": { "type": "string" },
+            "jx": {
+              "type": "string",
+              "pattern": "^J[+-]\\d+$",
+              "description": "Jalon J+X par rapport à la date de l'accident"
+            },
+            "signataire": { "type": "string" },
+            "personnes": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "token_path": { "type": "string" }
+          }
+        }
+      ]
+    },
+    "loi": {
+      "allOf": [
+        { "$ref": "#/definitions/common" },
+        {
+          "type": "object",
+          "required": ["code", "article"],
+          "properties": {
+            "code": { "type": "string" },
+            "article": { "type": "string" },
+            "legiarti": { "type": "string", "pattern": "^LEGIARTI" },
+            "juritext": { "type": "string", "pattern": "^JURITEXT" },
+            "ecli": { "type": "string" },
+            "pourvoi": { "type": "string" },
+            "jurisdiction": { "type": "string" },
+            "last_verified": {
+              "type": "string",
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+            }
+          }
+        }
+      ]
+    },
+    "jurisprudence": {
+      "allOf": [
+        { "$ref": "#/definitions/loi" },
+        {
+          "properties": {
+            "solution": { "type": "string" },
+            "chamber": { "type": "string" }
+          }
+        }
+      ]
+    },
+    "token": {
+      "allOf": [
+        { "$ref": "#/definitions/common" },
+        {
+          "type": "object",
+          "properties": {
+            "token": { "type": "string" },
+            "real_value": { "type": "string" },
+            "category": { "type": "string" },
+            "aliases": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        }
+      ]
+    },
+    "rapport": {
+      "allOf": [
+        { "$ref": "#/definitions/common" },
+        {
+          "type": "object",
+          "properties": {
+            "destinataire": { "type": "string" },
+            "auteur": { "type": "string" },
+            "role": { "type": "string" }
+          }
+        }
+      ]
+    }
+  }
+}

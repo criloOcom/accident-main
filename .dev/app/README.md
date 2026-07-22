@@ -1,3 +1,13 @@
+---
+title: "Documentation des scripts de l'application (.dev/app/)"
+description: "Ce dossier contient les scripts fonctionnels utilisés pour le traitement, l'anonymisation, le déploiement et la gestion du dossier Accident de la Main."
+type: readme
+---
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Dev](../README.md) › app*
+<hr>
+<!-- /Breadcrumb -->
+
 # Documentation des scripts de l'application (.dev/app/)
 
 Ce dossier contient les scripts fonctionnels utilisés pour le traitement, l'anonymisation, le déploiement et la gestion du dossier Accident de la Main.
@@ -20,5 +30,9 @@ Ce dossier contient les scripts fonctionnels utilisés pour le traitement, l'ano
 
 ## Règles de développement
 - Ne jamais exécuter de web scraping direct (toujours utiliser MCP).
+
 - Conserver la standardisation du shebang `#!/usr/bin/env python3` sur tous les scripts principaux.
+
 - Lors de l'ajout d'un nouveau script, documenter ici.
+
+- [resolve_reel_tokens_report](resolve_reel_tokens_report.md)
