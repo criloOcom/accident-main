@@ -131,7 +131,7 @@ Tous les textes législatifs et décisions de jurisprudence ci-dessous sont ados
 - **Article 700 du Code de procédure civile** (Frais irrépétibles et équité)  
   [Consulter sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038936359/)
 - **Article 434-4 du Code pénal** (Entrave à la manifestation de la vérité et altération de preuves)  
-  [Consulter sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044594652/)
+  [Consulter sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608/)
 
 ### Jurisprudence de la Cour de Cassation
 - **Cour de cassation, Chambre commerciale, 20 mai 2003, N° de pourvoi : 99-17.092** (Arrêt *SATI* — Définition de la faute détachable/séparable des fonctions)  
