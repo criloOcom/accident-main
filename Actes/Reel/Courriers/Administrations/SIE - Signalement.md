@@ -15,7 +15,7 @@ tags:
 
 - LRAR
 statut: projet
-destinataire: Service des Impôts des Entreprises de Foix
+destinataire: Service des Impôts des Entreprises de [Foix](../../../../Memory/Tokens/token-accident-ville.md)
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Administrations/SIE - Signalement.md
 source: drive

@@ -1,6 +1,6 @@
 ---
 emoji: 🔄
-title: Relance Dr Iskander DJERBI - Certificat de Consolidation
+title: Relance [Dr Iskander DJERBI](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md) - Certificat de Consolidation
 description: 'Objet : Demande de certificat médical de consolidation — Suite courrier
   du 5 juillet 2026'
 type: courrier
