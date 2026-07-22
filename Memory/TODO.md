@@ -10,8 +10,19 @@ type: memory
 
 # TODO<br>Plans d'action + Tableau de bord Sébastien
 
-> **Dernière mise à jour :** 22 juillet 2026 — Phase 41 ✅ Correction erratum identité société (LMG vs HB BARBER). SIRET inversé fixé (938 033 222 00010 ↔ 104 103 262 00010), distinction temporelle des dirigeants créée (4 nouveaux tokens anciens dirigeants), adresse canonique unifiée "22 Rue Lafaurie", propagation dans 6 documents Police + CPAM, scripts .dev/app alignés. 59 fichiers, 722 insertions. [Commit f949f4e8](https://github.com/criloOcom/accident-main/commit/f949f4e8) poussé.
+> **Dernière mise à jour :** 22 juillet 2026 07:30 — Phase Night Watch ✅ 46 PRs mergées (39 Phase 1 tests/perf/security + 6 Phase 2 contenu + 1 fix conflit). Capital HB BARBER 1000€ finalisé. ✅ Correction erratum identité société (LMG vs HB BARBER). SIRET inversé fixé (938 033 222 00010 ↔ 104 103 262 00010), distinction temporelle des dirigeants créée (4 nouveaux tokens anciens dirigeants), adresse canonique unifiée "22 Rue Lafaurie", propagation dans 6 documents Police + CPAM, scripts .dev/app alignés. 59 fichiers, 722 insertions. [Commit f949f4e8](https://github.com/criloOcom/accident-main/commit/f949f4e8) poussé.
 >
+
+---
+
+### ✅ Phase Night Watch — 46 PRs mergées (22 juillet 2026 07:30) ✅ TERMINÉ
+| # | Action | Statut |
+|---|--------|--------|
+| 📦 | **Phase 1** — Merge 40 PRs safe (39 Suggested Tasks tests/perf/security + 1 fix MF8) | ✅ 39/39 mergés, 1 conflit #268 résolu |
+| 📝 | **Phase 2** — Merge 6 PRs contenu (MC9-MC15) | ✅ 6/6 mergés |
+| 🧹 | **Nettoyage** — Branches distantes supprimées | ✅ FAIT |
+| 📋 | **TODO.md** — Mise à jour Night Watch | ✅ FAIT |
+| 📋 | **Branches locales** — Nettoyées | ✅ FAIT |
 
 ---
 
