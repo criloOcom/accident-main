@@ -95,13 +95,44 @@ def normalize(s):
     return s
 
 
+def _resoudre_cible(chemin):
+    """
+    Retourne le chemin réel du fichier cible s'il existe.
+    Le lien source dans les bordereaux peut être erroné (trop de '../', espace
+    vs underscore, emoji encodé). On décode puis on cherche le fichier par son
+    nom de base dans le dépôt (walk), en tolérant espaces/underscores/emojis.
+    """
+    import os as _os
+    from urllib.parse import unquote
+    dec = unquote(chemin)
+    # 1) variantes espace/underscore sur 'Preuves officielles'
+    variants = set()
+    for sep in (" ", "_"):
+        variants.add(dec.replace("Preuves officielles", f"Preuves{sep}officielles")
+                        .replace("Preuves_officielles", f"Preuves{sep}officielles"))
+    variants.add(dec)
+    for v in variants:
+        if _os.path.exists(v):
+            return _os.path.normpath(v)
+    # 2) recherche par nom de fichier (brut) dans tout le dépôt
+    base = _os.path.basename(dec)
+    base_n = normalize(base)
+    for root, _, files in _os.walk(PROJECT_ROOT):
+        for f in files:
+            if normalize(f) == base_n or f == base:
+                return _os.path.normpath(_os.path.join(root, f))
+    return _os.path.normpath(dec)
+
+
 def find_local_links(md_text, base_dir):
     """
     Dans un bordereau .md, suit le numéro de pièce courant (titre 'PIÈCE N° X'
     ou '**Pièce n°X**') et capte les liens locaux vers les PREUVES OFFICIELLES
     qui suivent jusqu'à la pièce suivante. Renvoie une liste de dicts :
-      {numero, nom_normalise, nom_brut, lien_relatif}
+      {numero, nom_normalise, nom_brut, cible_absolue}
+    où cible_absolue est le chemin du fichier cible dans le dépôt (normpath).
     """
+    import os as _os
     rows = []
     current_num = None
     lines = md_text.splitlines()
@@ -114,16 +145,23 @@ def find_local_links(md_text, base_dir):
             target = lm.group(1).strip()
             if target.startswith("http") or target.startswith("#"):
                 continue
-            # On ne garde QUE les liens vers Preuves officielles (vraies pièces)
             if "Preuves%20officielles" not in target and "Preuves officielles" not in target:
                 continue
+            # decoder TOUS les %xx (espace, emoji, accents, etc.) pour resoudre le vrai chemin
+            from urllib.parse import unquote
+            target_decod = unquote(target)
+            # chemin cible tel que referencé dans le .md (peut avoir des espaces au lieu d'underscores)
+            cible_brute = _os.path.normpath(_os.path.join(base_dir, target_decod))
+            # resoudre vers le vrai fichier existant (tolerer espaces <-> underscores)
+            cible = _resoudre_cible(cible_brute)
             seg = target.split("/")[-1]
-            seg_decoded = seg.replace("%20", " ").replace("%F0%9F%86%98", " ")
+            from urllib.parse import unquote
+            seg_decoded = unquote(seg)
             rows.append({
                 "numero": current_num or "?",
                 "nom_normalise": normalize(seg_decoded),
                 "nom_brut": seg_decoded,
-                "lien_relatif": target,
+                "cible_absolue": cible,
             })
     return rows
 
@@ -183,7 +221,7 @@ def main():
                         "bordereau": rel_md,
                         "numero": r["numero"],
                         "nom": r["nom_brut"],
-                        "lien": r["lien_relatif"],
+                        "cible": r["cible_absolue"],
                         "drive_id": drive_id,
                         "in_doc": in_doc,
                     })
@@ -232,13 +270,17 @@ def _write_report(rows, missing, present, scanned, total_pieces):
         bord = r["bordereau"]
         num = r["numero"]
         nom = r["nom"]
-        lien = r["lien"]
-        # lien cliquable markdown vers le fichier local (relatif au dépôt), décodé pour lisibilité
-        lien_decod = lien.replace("%20", " ").replace("%F0%9F%86%98", " ")
-        nom_cell = f"[{nom}](../../{lien_decod})" if lien else nom
+        cible = r["cible"]  # chemin absolu dans le dépôt
+        # lien relatif correct DEPUIS Memory/ vers la cible
+        try:
+            rel = os.path.relpath(cible, os.path.join(PROJECT_ROOT, "Memory"))
+            # encoder les espaces et emojis pour reste cliquable sur GitHub
+            rel_url = rel.replace(" ", "%20").replace("🆘", "%F0%9F%86%98")
+            nom_cell = f"[{nom}](../{rel_url})"
+        except Exception:
+            nom_cell = nom
         did = r["drive_id"] or "—"
         check = "✅ oui" if r["in_doc"] else "☐ non"
-        # PAS de ligne vide dans un tableau markdown (casserait le rendu)
         lines.append(f"| {i} | {bord} | {num} | {nom_cell} | {did} | {check} |")
     lines.append("")
     with open(out, "w", encoding="utf-8") as f:
