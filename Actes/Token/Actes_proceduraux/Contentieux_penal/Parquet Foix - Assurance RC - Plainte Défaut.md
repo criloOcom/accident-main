@@ -169,6 +169,13 @@ Par ces motifs, **[La Victime](../../../../Memory/Tokens/token-victime-nom-compl
 Le plaignant se constitue partie civile et se tient à la disposition de la justice pour toute mesure d'expertise ou audition nécessaire à la manifestation de la vérité.
 
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+
+<!-- NoteAdministrative -->
+> **Note administrative :** Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+> 
+> Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement du présent document.
+<!-- /NoteAdministrative -->
+
 <!-- PJ -->
 <hr><hr>
 
@@ -184,9 +191,6 @@ Le plaignant se constitue partie civile et se tient à la disposition de la just
 
 - **[Mises en demeure J+31](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR restees sans reponse
 
-> **Note administrative :** Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
-> 
-> Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement du présent document.
 <!-- /PJ -->
 
 <!-- Source -->
