@@ -1,6 +1,6 @@
 ---
 title: "Note - Mesures Conservatoires"
-description: "Dans le cadre du dossier concernant Sébastien GRAZIDE à l'encontre de SAS HB BARBER et de ses représentants, il convient d'envisager la mise en œuvre de mesures conservatoires urgentes. Cette nécessité est motivée par le risq"
+description: "Dans le cadre du dossier concernant [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) à l'encontre de [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) et de ses représentants, il convient d'envisager la mise en œuvre de mesures conservatoires urgentes. Cette nécessité est motivée par le risq"
 type: analyse_juridique
 date: 2026-07-09
 tags:

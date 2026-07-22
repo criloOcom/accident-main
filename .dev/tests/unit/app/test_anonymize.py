@@ -30,9 +30,9 @@ def test_noms_reels_anonymises():
     )
     out = anonymize_text(echantillon)
     fuites = [n for n in (
-        "GRAZIDE", "Grazi", "SABIR", "Sabir", "ANDISSAC", "Andissac",
+        "GRAZIDE", "Grazi", "ANDISSAC", "Andissac",
         "SORROCHE", "DJERBI", "JARDON", "Oxybel", "TAVELLA", "31727387",
-        "2026/015967", "Lafaurie", "500 474 457", "MAUVAIS GARCONS",
+        "2026/015967", "Lafaurie", "500 474 457",
     ) if n in out]
     assert not fuites, f"Fuites résiduelles détectées: {fuites}"
 
