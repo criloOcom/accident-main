@@ -138,7 +138,7 @@ Le projet dispose d'un **calendrier Google partagé** qui centralise TOUS les é
     - **Caches** : supprimer `__pycache__` et `.pytest_cache` après exécution de scripts.
     - **PRs** : fermer sans merge les PRs déjà intégrées dans `main`. Supprimer les branches. Voir [Memory/RULES.md](Memory/RULES.md) #14 et [Memory/DECISIONS.md](Memory/DECISIONS.md).
 
-15. **⚠️ VÉRIFICATION OBLIGATOIRE DE LA PROFESSION AVANT RÉDACTION** : La profession de la victime est **informaticien indépendant** (SIREN 500 474 457), **UNIQUEMENT**. Toute mention d'une autre profession (guitariste, etc.) ou d'un loisir non vérifié (guitare, bricolage) est **INTERDITE** sans pièce source probante. Consulter `Memory/STRICT VARIABLES.md` et les pièces URSSAF avant toute rédaction. Voir `Memory/RULES.md` #27. En cas de doute → marquer `[PROFESSION À VÉRIFIER]`, ne jamais deviner.
+15. **⚠️ VÉRIFICATION OBLIGATOIRE DE LA PROFESSION AVANT RÉDACTION** : La profession de la victime est **informaticien indépendant** (SIREN 500 474 457), **UNIQUEMENT**. Toute mention d'une autre profession (guitariste, etc.) ou d'un loisir non vérifié (guitare, bricolage) est **INTERDITE** sans pièce source probante. Consulter [Memory/STRICT VARIABLES.md](Memory/STRICT VARIABLES.md) et les pièces URSSAF avant toute rédaction. Voir [Memory/RULES.md](Memory/RULES.md) #27. En cas de doute → marquer `[PROFESSION À VÉRIFIER]`, ne jamais deviner.
 
 ## Workflow création d'un document
 
