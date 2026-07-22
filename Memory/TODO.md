@@ -18,7 +18,7 @@ type: memory
 > | Mission | Audit Jules | Deliverable / Rapport | Progression To-Do |
 > |---|---|---|---|
 > | 01 | HB Barber vs Les Mauvais Garçons | `Rapports/REPORT_JULES_01_Societes_Exploitant.md` | 🔶 25% (✅ 12/16 — 11 FP, 1 vérifié, 2 à faire) |
-> | 02 | Responsabilité Dirigeants | `Rapports/REPORT_JULES_02_Responsabilite_Dirigeants.md` | 🔲 0% (non traité) |
+> | 02 | Responsabilité Dirigeants | `Rapports/REPORT_JULES_02_Responsabilite_Dirigeants.md` | 🔶 100% (✅ Audit jurisprudentiel Cass./CEDH & purges Légifrance) |
 > | 03 | Entrave & Destruction de Preuves | `Rapports/REPORT_JULES_03_Entrave_et_Preuves.md` | 🔲 0% (non traité) |
 > | 04 | Défaillances Bailleur DELRIEU | `Rapports/REPORT_JULES_04_Bailleur_Responsabilite.md` | 🔲 0% (non traité) |
 > | 05 | Qualification Accident TI | `Rapports/REPORT_JULES_05_Qualification_Accident.md` | 🔲 0% (non traité) |
