@@ -4,6 +4,7 @@ description: "Rapport d'audit et recommandations d'exploitation des nouvelles pr
 type: rapport
 progress: 0%
 status: a_traiter
+priority: haute
 date: 2026-07-22
 jules_session_id: "AM-MISSION-04"
 ---

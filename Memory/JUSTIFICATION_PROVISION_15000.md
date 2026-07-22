@@ -82,7 +82,7 @@ Le montant de **15 000 €** est :
 
 4. ✅ **Proportionné** au préjudice global estimé (~90 000 € selon l'étude indemnisation)
 
-5. ✅ **Urgent** — capital social de la SAS (200 €) + absence d'assurance RC Pro = risque majeur d'insolvabilité
+5. ✅ **Urgent** — capital social de la SAS (1 000 €) + absence d'assurance RC Pro = risque majeur d'insolvabilité
 
 ### Pour renforcer la demande à l'audience
 

@@ -179,7 +179,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 | ID | Risque | Atténuation clé |
 |----|--------|-----------------|
 | R1 | Assureur RC non identifié — action directe impossible | Assignation Art. 145 CPC |
-| R2 | Insolvabilité SAS (capital 200 €) | FGTI/CIVI prioritaire |
+| R2 | Insolvabilité SAS (capital 1 000 €) | FGTI/CIVI prioritaire |
 | R3 | Absence d'avocat — paralysie totale | AJ à déposer + mandatement |
 | R5 | Dissipation preuves matérielles | Huissier + commission rogatoire |
 
