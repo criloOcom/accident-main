@@ -16,5 +16,6 @@ type: readme
 
 - **[Attestation de vigilance URSSAF n°2](20260604-xxxx%20Attestation%20Vigilance%20URSSAF%202.md)** — Document de type document
 
+- **[20260604_PaiementTiers_AM_37e57_PhieBLAGNACpdf](20260604_PaiementTiers_AM_37e57_PhieBLAGNACpdf.md)**
 ---
 *README généré automatiquement le 12 juillet 2026*

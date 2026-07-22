@@ -15,5 +15,15 @@ type: readme
 - **[Compte Rendu Opératoire — Rapport d'Intervention Main Droite](20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Document de type document
 
 - **[20260530-1700 Ordonnance Sortie DrDJERBI](20260530-1700%20Ordonnance%20Sortie%20DrDJERBI.md)**
+
+- **[20260530-1700_DOC_UrgenceMAIN_Ordonnance_Doc1pdf](20260530-1700_DOC_UrgenceMAIN_Ordonnance_Doc1pdf.md)**
+
+- **[20260530-1700_DOC_UrgenceMAIN_Ordonnance_Doc2pdf](20260530-1700_DOC_UrgenceMAIN_Ordonnance_Doc2pdf.md)**
+
+- **[20260530_CROpératoire_RapportInterventionMainDroite](20260530_CROpératoire_RapportInterventionMainDroite.md)**
+
+- **[20260530_CROpératoire_RapportInterventionMainDroite_p1jpg](20260530_CROpératoire_RapportInterventionMainDroite_p1jpg.md)**
+
+- **[20260530_CROpératoire_RapportInterventionMainDroite_p2jpg](20260530_CROpératoire_RapportInterventionMainDroite_p2jpg.md)**
 ---
 *README généré automatiquement le 11 juillet 2026*
