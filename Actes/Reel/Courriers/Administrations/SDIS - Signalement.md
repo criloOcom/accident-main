@@ -27,7 +27,7 @@ jx: J+37
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 **Table des matieres**
 
@@ -38,9 +38,9 @@ jx: J+37
 # SIGNALEMENT DE SECURITE ERP <br> AU SDIS DE L'ARIEGE
 > 🔗 Source Google Drive : [1CCl3bFp_jkY…](https://drive.google.com/open?id=1CCl3bFp_jkYtAF8yEDNtJn5Tic8miKsxLOSGNP2peoE)
 <!-- Auteur -->
-**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
@@ -50,20 +50,20 @@ SDIS de l'Ariège
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
 <hr><hr>
-Objet : Signalement de securite — ERP SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+Objet : Signalement de securite — ERP SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 <hr><hr>
 
 <hr><hr>
 
-Ref : SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)
+Ref : SIREN [938 033 222](../../../../Memory/Tokens/token-exploitation-siren.md)
 
 Madame, Monsieur le Directeur,
 
-La presente est adressee a vos services par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), situe 22 Rue Lafaurie, 09000 Foix a **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**.
+La presente est adressee a vos services par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), situe 22 Rue Lafaurie, 09000 Foix a **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 ## I — OBJET DU SIGNALEMENT
@@ -81,7 +81,7 @@ Je vous remercie de bien vouloir me tenir informe des suites reserves a ce signa
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Directeur, l'expression de ma consideration distinguee.
 
 <!-- Signature -->
-**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
 <!-- /Signature -->
 
 <!-- PJ -->
@@ -93,5 +93,5 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Direc
 
 - **[Signalement Préfecture](../../../Reel/Courriers/Administrations/Pr%C3%A9fecture%20-%20Signalement.md)** — Confirmation officielle transmise a la Prefecture de l'Ariege
 
-Mes coordonnees : **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)** — **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnees : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /PJ -->

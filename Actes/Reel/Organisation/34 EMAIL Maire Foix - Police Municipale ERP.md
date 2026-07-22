@@ -4,14 +4,14 @@ date: 2026-07-10
 type: email
 categorie: urgence
 auteur: La Victime
-destinataire: Adjoint au Maire de Foix (M. Bernard TAVELLA)
+destinataire: '[L'Adjoint au Maire de la Commune]'
 statut: brouillon
 ---
 
 # EMAIL — Demande d'intervention pour contrôle de sécurité et d'exploitation (22 Rue Lafaurie, 09000 Foix)
 
-**Destinataire** : `btavella@mairie-foix.fr`
-**Copie (Cc)** : `secretariat@mairie-foix.fr`
+**Destinataire** : `[**[Email Adjoint au Maire]**]`
+**Copie (Cc)** : `[**[Email Secrétariat Mairie]**]`
 **Expéditeur** : `sebastien.grazide@gmail.com`
 **Objet** : Suite à nos échanges – Demande d'intervention pour contrôle de sécurité ERP (22 Rue Lafaurie, 09000 Foix)
 

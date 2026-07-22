@@ -16,20 +16,20 @@ auteur: La Victime
 <!-- /Breadcrumb -->
 
 <!-- Auteur -->
-**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** (document personnel — aide-mémoire)
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** (document personnel — aide-mémoire)
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 20 juillet 2026
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 20 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # ⚠️ DOCUMENT PERSONNEL<br>NE PAS VERSER AU DOSSIER
 > Antisèche orale : aide-mémoire pour l'audition libre au Commissariat de Foix.
@@ -50,14 +50,14 @@ auteur: La Victime
 
 ### II.1 — **1. Contexte initial ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))**
 
-Le 29 mai 2026, j'ai été victime d'un accident grave dans le salon de coiffure **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** situé au **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**, entraînant une section nerveuse et tendineuse de la main droite nécessitant une intervention chirurgicale en urgence.
+Le 29 mai 2026, j'ai été victime d'un accident grave dans le salon de coiffure **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** situé au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**, entraînant une section nerveuse et tendineuse de la main droite nécessitant une intervention chirurgicale en urgence.
 
 Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.
 
 ### II.2 — **2. Obstruction à la justice — Refus de communiquer l'assurance RC**
 
 **Faits constitutifs :**
-- Depuis le 29 mai 2026, malgré de multiples demandes officielles (LRAR 87001424863012T du 29/06/2026), la SAS **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** refuse de communiquer les coordonnées de son assurance Responsabilité Civile.
+- Depuis le 29 mai 2026, malgré de multiples demandes officielles (LRAR 87001424863012T du 29/06/2026), la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** refuse de communiquer les coordonnées de son assurance Responsabilité Civile.
 
 - Cette omission empêche l'exercice de mon droit à réparation prévu par l'**article L. 124-3 du Code des assurances**.
 
@@ -128,7 +128,7 @@ Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../
 ### II.4 — **4. Société fantôme — Courriers retournés NPAI malgré l'immatriculation**
 
 **Faits constitutifs :**
-- Les courriers recommandés adressés à la SAS **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (**[104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)**) à son siège social officiel (**[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**) sont systématiquement retournés avec la mention "NPAI — Défaut d'adresse".
+- Les courriers recommandés adressés à la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (**[SIREN de l'Exploitation](../../../../Memory/Tokens/token-exploitation-siren.md)**) à son siège social officiel (**[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**) sont systématiquement retournés avec la mention "NPAI — Défaut d'adresse".
 
 - Pourtant, les registres officiels (RNE/INPI) confirment que la société est toujours **active** à cette adresse, sans modification de siège.
 
@@ -146,7 +146,7 @@ Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../
 ### II.5 — **5. Risque de disparition — Capital de 200 € et 0 salarié**
 
 **Faits constitutifs :**
-- La SAS **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** a un capital social de seulement 200 € et déclare 0 salarié.
+- La SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** a un capital social de seulement 200 € et déclare 0 salarié.
 
 - Cette structure financière précaire suggère un **risque élevé de dissolution frauduleuse** pour échapper aux responsabilités civiles et pénales.
 
@@ -246,7 +246,7 @@ Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../
 
 ### V.4 — **Si l'OPJ te reçoit en audition — amorce**
 
-> *« Bonjour Madame/Monsieur l'officier. Je suis [Mon nom], victime d'un accident grave le 29 mai au salon **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**. J'ai déjà un PV (2026/015967). Je viens pour une plainte complémentaire, parce que depuis, la société refuse de communiquer son assurance et ne répond à aucun courrier. Et surtout, les vidéos de surveillance risquent d'être écrasées d'un jour à l'autre si rien n'est fait. »* <br>
+> *« Bonjour Madame/Monsieur l'officier. Je suis [Mon nom], victime d'un accident grave le 29 mai au salon **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**. J'ai déjà un PV (2026/015967). Je viens pour une plainte complémentaire, parce que depuis, la société refuse de communiquer son assurance et ne répond à aucun courrier. Et surtout, les vidéos de surveillance risquent d'être écrasées d'un jour à l'autre si rien n'est fait. »* <br>
 <hr><hr>
 
 ## VI — ⚖️ **FONDEMENTS JURIDIQUES**
@@ -296,11 +296,11 @@ Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../
 
 ## Sources Législation
 
-[^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^2]: [Article 434-4 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608)
-[^3]: [Article 434-15 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641)
-[^4]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)
-[^5]: [Article 314-7 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226)
-[^6]: [Article 222-19 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
-[^7]: [Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
+[^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^2]: [Article 434-4 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) ↩
+[^3]: [Article 434-15 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641) ↩
+[^4]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) ↩
+[^5]: [Article 314-7 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226) ↩
+[^6]: [Article 222-19 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
+[^7]: [Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
 <!-- /Source -->

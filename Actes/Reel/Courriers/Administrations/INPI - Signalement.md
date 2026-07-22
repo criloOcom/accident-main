@@ -28,9 +28,9 @@ jx: J+37
 <!-- /Breadcrumb -->
 
 <!-- Auteur -->
-**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
@@ -40,32 +40,32 @@ INPI — Registre National des Entreprises
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # SIGNALEMENT DE LITIGE <br> INPI
 
 > 🔗 Source Google Drive : [1gFhTi6GhD6u…](https://drive.google.com/open?id=1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E)
 
 <hr><hr>
-Objet : Demande de signalement de litige en cours au RNE — SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+Objet : Demande de signalement de litige en cours au RNE — SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 <hr><hr>
 
-Ref : SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md) — SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+Ref : SIREN [938 033 222](../../../../Memory/Tokens/token-exploitation-siren.md) — SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
 Madame, Monsieur,
 ## I — INTRODUCTION
 
-La presente est adressee a l'INPI par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), immatriculee au RNE sous le SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md).
+La presente est adressee a l'INPI par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), immatriculee au RNE sous le SIREN [938 033 222](../../../../Memory/Tokens/token-exploitation-siren.md).
 
 Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main.
 <hr><hr>
 
 ## II — RAPPEL DES FAITS
 
-Le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**, alors que je me trouvais dans l'etablissement pour une prestation de coiffure, le prepose de l'exploitation est monte sur le bac a shampoing en ceramique pour acceder au poste de television.
+Le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**, alors que je me trouvais dans l'etablissement pour une prestation de coiffure, le prepose de l'exploitation est monte sur le bac a shampoing en ceramique pour acceder au poste de television.
 
 Cet equipement etait instable et presentait une cassure majeure preexistante non signalee.
 
@@ -79,15 +79,15 @@ Les procedures suivantes ont ete engagees :
 **1. Procedure penale**
 - Depot de plainte le 2 juin 2026 (PV n° [2026/015967](../../../../Memory/Tokens/token-pv-police-numero.md))
 
-- [Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) transmise le **[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
+- [Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) transmise le **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
 
 - Plainte complementaire pour defaut d'assurance RC professionnelle et travail dissimule presume
 
-**2. Mises en demeure LRAR** du **[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
+**2. Mises en demeure LRAR** du **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
 
-- Mise en demeure a la SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+- Mise en demeure a la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
-- Mise en demeure a [Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md) et a [Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)
+- Mise en demeure a [Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md) et a [Catherine ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)
 
 - Action directe contre l'assureur RC (Article L.124-3 du Code des assurances)
 
@@ -104,18 +104,18 @@ Les procedures suivantes ont ete engagees :
 
 ## IV — DEMANDE DE SIGNALEMENT
 
-Conformement aux dispositions du Code de commerce relatives au Registre National des Entreprises, je sollicite l'inscription d'un signalement au dossier RNE de la SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)) afin de porter a la connaissance des tiers et de l'administration l'existence du litige en cours.
+Conformement aux dispositions du Code de commerce relatives au Registre National des Entreprises, je sollicite l'inscription d'un signalement au dossier RNE de la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SIREN [938 033 222](../../../../Memory/Tokens/token-exploitation-siren.md)) afin de porter a la connaissance des tiers et de l'administration l'existence du litige en cours.
 
 Cette demande est motivee par la necessite de prevenir toute modification de la situation juridique de la societe (dissolution, liquidation, radiation ou cession) qui pourrait intervenir sans que les autorites et les tiers aient connaissance des creances et actions en justice en cours a l'encontre de la societe.
 
 Les montants en jeu sont estimes a **~126 000 € (plancher, avis Dintilhac du 13/07/2026 ; fourchette 126 000-161 500 €)** au titre de la reparation integrale des prejudices corporels. (Réf. obsolète 59 600 € écartée — voir Memory/STRICT VARIABLES.md.)
 
-Mes coordonnees : **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)** — **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnees : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 
 <!-- Signature -->
-**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
 <!-- /Signature -->
 
 <!-- PJ -->
@@ -125,15 +125,15 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
 
-- **[Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
+- **[Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
 
-- **[Mises en demeure LRAR](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mises en demeure du **[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
+- **[Mises en demeure LRAR](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mises en demeure du **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
 
 - **[Signalement Inspection du Travail](../../../Reel/Courriers/Administrations/DDETS%20-%20Signalement.md)** — Demande d'enquete aupres de la DDETS 09
 
 - **[Signalement CODAF](../../../Reel/Courriers/Administrations/CODAF%20-%20Signalement.md)** — Saisine du CODAF
 
-- **[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md))
+- **[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SIREN [938 033 222](../../../../Memory/Tokens/token-exploitation-siren.md))
 <!-- /PJ -->
 
 <!-- Source -->
@@ -141,5 +141,5 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 
 ## Sources Législation
 
-[^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+[^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
 <!-- /Source -->

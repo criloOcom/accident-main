@@ -1,7 +1,7 @@
 ---
 emoji: 📜
 title: ✉️📜 Bailleur — Relance 3 LRAR (Correction AT + Demande Assurances)
-description: 3ème LRAR au bailleur Romain DELRIEU — Correction qualification 'accident
+description: 3ème LRAR au bailleur — Correction qualification 'accident
   du travail' + rappel 3 questions + action directe + bienveillance
 type: courrier
 date: 2026-07-19
@@ -24,7 +24,7 @@ auteur: La Victime
 reel_path: ../../../Reel/Courriers/Propriétaire/Propriétaire - Courrier - Relance 3.md
 source: local
 jx: J+51
-signataire: 'Sébastien GRAZIDE (envoi sans signature manuscrite)'
+signataire: '[La Victime] (envoi sans signature manuscrite)'
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Propriétaire](./README.md)*
@@ -35,18 +35,18 @@ signataire: 'Sébastien GRAZIDE (envoi sans signature manuscrite)'
 <!-- LRAR -->
 
 <!-- Auteur -->
-**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-Monsieur **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**  
+Monsieur **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**  
 17 rue de la Baïse, 31120 Roquettes
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 19 juillet 2026
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 19 juillet 2026
 <!-- /Date -->
 
 # MISE EN DEMEURE AMIABLE<br>RELANCE COMMUNICATION ASSURANCE RC & CORRECTION QUALIFICATIVE "ACCIDENT DU TRAVAIL"
@@ -73,16 +73,16 @@ Cette lettre fait suite à :
 
 - Ma **première LRAR du 29 juin 2026** (demande communication assurance RC exploitant) ;
 
-- **Votre email du 16 juillet 2026** (réception LRAR, allégation cessation activité **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au 10/03/2026, qualification "accident du travail") ;
+- **Votre email du 16 juillet 2026** (réception LRAR, allégation cessation activité **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au 10/03/2026, qualification "accident du travail") ;
 
-- **Ma réponse par la présente** (prise d'acte, identification **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, trois questions précises) ;
+- **Ma réponse par la présente** (prise d'acte, identification **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, trois questions précises) ;
 
 - **L'absence de réponse à ce jour** (soit **deux jours** après mon dernier courriel).
 ## I — RAPPEL DES FAITS ET CORRECTION QUALIFICATIVE ESSENTIELLE
 
 ### 1 — Les faits matériels incontestables
 
-Le **vendredi 29 mai 2026 à 15h00**, je me suis rendu en tant que **client** dans le salon de coiffure exploité au **22 Rue Lafaurie à Foix**. Après la prestation, j'ai payé [Ayoub BENNOURINE](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques) (tél. **[07 58 40 12 87](../../../../Memory/Tokens/token-exploitation-prepose-telephone.md)**) par Wero (transaction [IPR000297029234](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)), puis j'ai quitté les lieux. Moins de cinq minutes plus tard, je suis retourné au salon pour demander une retouche. À mon retour, **le préposé coiffeur Ayoub BENNOURINE était monté sur la vasque en céramique du bac à shampoing pour régler **le** téléviseur. En voulant descendre, il a provoqué le basculement de la vasque — qui présentait une **cassure apparente préexistante non signalée** sur son flanc droit. Par réflexe, j'ai tendu la main gauche pour retenir le coiffeur et la main droite pour retenir la vasque. Ma paume droite a heurté l'arête tranchante de cette cassure, provoquant une **section large et très profonde des tissus cutanés et sous-cutanés (plaie de 8,5 cm)** avec **section partielle du tendon fléchisseur superficiel et section totale du paquet vasculo-nerveux collatéral (ulnaire et radial) de l'index droit**.
+Le **vendredi 29 mai 2026 à 15h00**, je me suis rendu en tant que **client** dans le salon de coiffure exploité au **22 Rue Lafaurie à Foix**. Après la prestation, j'ai payé [Ayoub BENNOURINE](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques) (tél. **[Le Téléphone du Préposé](../../../../Memory/Tokens/token-exploitation-prepose-telephone.md)**) par Wero (transaction [IPR000297029234](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)), puis j'ai quitté les lieux. Moins de cinq minutes plus tard, je suis retourné au salon pour demander une retouche. À mon retour, **le préposé coiffeur [Le Préposé de l'Exploitation]** était monté sur la vasque en céramique du bac à shampoing pour régler **le** téléviseur. En voulant descendre, il a provoqué le basculement de la vasque — qui présentait une **cassure apparente préexistante non signalée** sur son flanc droit. Par réflexe, j'ai tendu la main gauche pour retenir le coiffeur et la main droite pour retenir la vasque. Ma paume droite a heurté l'arête tranchante de cette cassure, provoquant une **section large et très profonde des tissus cutanés et sous-cutanés (plaie de 8,5 cm)** avec **section partielle du tendon fléchisseur superficiel et section totale du paquet vasculo-nerveux collatéral (ulnaire et radial) de l'index droit**.
 
 J'ai été opéré en urgence le **30 mai 2026** (microchirurgie : suture tendineuse, suture microchirurgicale nerfs/vaisseaux, neurolyse). L'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total s'élève à **55 jours**. Le pronostic neurologique est réservé, avec récupération souvent partielle sur plusieurs mois.
 
@@ -117,26 +117,26 @@ Lors de ma visite des lieux le **16 juillet 2026**, j'ai constaté la disparitio
 Cette disparition constatée, si elle est établie comme intentionnelle, pourrait constituer une **faute caractérisée** (article 1240 du Code civil[^2]) de nature à faire présumer la responsabilité de l'exploitant et de son commettant. Elle sera portée à la connaissance du juge dans le cadre de toute procédure ultérieure (article 9 du Code de procédure civile[^3]).
 <hr><hr>
 
-## II — L'EXPLOITANT APPARENT AU 29 MAI 2026 : [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+## II — L'EXPLOITANT APPARENT AU 29 MAI 2026 : [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
-Les informations publiques (Registre National des Entreprises) indiquent que **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN **104 103 262**) a été créée le **22 avril 2026** et exerce une activité de coiffure/barbier au **22 Rue Lafaurie à Foix** — soit **plus d'un mois avant mon accident**.
+Les informations publiques (Registre National des Entreprises) indiquent que **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN [938 033 222](../../../../Memory/Tokens/token-exploitation-siren.md)) a été créée le **22 avril 2026** et exerce une activité de coiffure/barbier au **22 Rue Lafaurie à Foix** — soit **plus d'un mois avant mon accident**.
 
-**[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** (SIREN 938 033 222) a, selon vos propres dires, cessé son activité le **10 mars 2026** (état des lieux de sortie à l'appui).
+**[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** (SIREN [**[SIREN de l'Ancien Exploitant]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)) a, selon vos propres dires, cessé son activité le **10 mars 2026** (état des lieux de sortie à l'appui).
 
-**Au 29 mai 2026, l'exploitant apparent des lieux était donc [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, et non **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)**.
+**Au 29 mai 2026, l'exploitant apparent des lieux était donc [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, et non **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)**.
 <hr><hr>
 
 ## III — TROIS QUESTIONS RESTÉES SANS RÉPONSE
 
 Vous n'avez pas apporté de réponse aux trois questions suivantes, qui sont pourtant **déterminantes pour orienter correctement mon action** :
 
-1. **Occupant au 29 mai 2026** : Pouvez-vous confirmer que, à cette date, vos locaux du 22 Rue Lafaurie étaient bien occupés et exploités par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN 104 103 262), et m'indiquer la date exacte d'entrée dans les lieux de ce nouvel exploitant ?
+1. **Occupant au 29 mai 2026** : Pouvez-vous confirmer que, à cette date, vos locaux du 22 Rue Lafaurie étaient bien occupés et exploités par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN [938 033 222](../../../../Memory/Tokens/token-exploitation-siren.md)), et m'indiquer la date exacte d'entrée dans les lieux de ce nouvel exploitant ?
    → *Identifie le responsable civil (gardien de la chose / commettant) au jour de l'accident*
 
-2. **Contrat de bail et avenants** : Un nouveau bail commercial ou avenant a-t-il été conclu après le départ de **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** ? Si possible, pouvez-vous m'en communiquer une copie partielle (pages identité du preneur + clauses d'assurance) ?
+2. **Contrat de bail et avenants** : Un nouveau bail commercial ou avenant a-t-il été conclu après le départ de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** ? Si possible, pouvez-vous m'en communiquer une copie partielle (pages identité du preneur + clauses d'assurance) ?
    → *Permet de vérifier les obligations d'assurance RC contractuelles*
 
-3. **Assurances RC** : Pouvez-vous m'indiquer, à votre connaissance, les coordonnées de l'assureur RC de l'exploitant en place au 29 mai 2026 ([SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)), ainsi que, le cas échéant, celles de **votre propre assureur PNO** (Propriétaire Non Occupant) pour cet immeuble, dans le cadre de vos obligations de bailleur au titre des articles 1719 et suivants du Code civil[^4] (délivrance, entretien et sécurité des locaux loués) ?
+3. **Assurances RC** : Pouvez-vous m'indiquer, à votre connaissance, les coordonnées de l'assureur RC de l'exploitant en place au 29 mai 2026 ([SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)), ainsi que, le cas échéant, celles de **votre propre assureur PNO** (Propriétaire Non Occupant) pour cet immeuble, dans le cadre de vos obligations de bailleur au titre des articles 1719 et suivants du Code civil[^4] (délivrance, entretien et sécurité des locaux loués) ?
    → *Conditionne l'exercice de l'action directe (L.124-3 du Code des assurances[^5]) et la mise en cause de votre propre assureur PNO*
 <hr><hr>
 
@@ -154,7 +154,7 @@ Il me semble loyal de vous expliquer, **sans menace mais avec lucidité**, ce qu
 
 Si je ne parviens pas à obtenir les coordonnées des assureurs concernés par la voie amiable :
 
-1. **La CPAM** (au titre du recours contre tiers, dossier n° **31727387**) est fondée à exercer son **recours subrogatoire** contre les responsables et leurs assureurs. Elle dispose de moyens juridiques automatisés et d'une puissance de frappe administrative considérable.
+1. **La CPAM** (au titre du recours contre tiers, dossier n° [**[N° Dossier CPAM Victime]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)) est fondée à exercer son **recours subrogatoire** contre les responsables et leurs assureurs. Elle dispose de moyens juridiques automatisés et d'une puissance de frappe administrative considérable.
 
 2. **Ma protection juridique** (si contrat souscrit) ou, à défaut, **un avocat mandaté** prendra le relais pour engager les procédures judiciaires nécessaires : **référé-communication sur le fondement de l'article 145 du Code de procédure civile[^6]** (communication forcée du bail et des attestations d'assurance), **assignation en référé-provision**, **action au fond**.
 
@@ -185,7 +185,7 @@ L'ensemble des pièces et de la procédure vous sera communiqué par transparenc
 Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 
 <!-- Signature -->
-Sébastien GRAZIDE (envoi sans signature manuscrite)**
+**[La Victime] (envoi sans signature manuscrite)**
 <!-- /Signature -->
 
 > **NOTE ADMINISTRATIVE** : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la rédaction de la présente par un tiers et les délais d'acheminement de la présente mise en demeure.

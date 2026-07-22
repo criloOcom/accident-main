@@ -23,12 +23,12 @@ jx: J+53
 <hr>
 <!-- /Breadcrumb -->
 
-> **Contexte** : Accident de la main survenu le 29 mai 2026 dans un salon de coiffure (vasque céramique défectueuse ayant basculé). La SAS exploitante ([**L'Exploitant du Commerce (La SAS)**](../../../Memory/Tokens/token-exploitation-raison-sociale.md), capital ~5 000 €) est assurée, mais [**Le Président de l'Exploitation**](../../../Memory/Tokens/token-exploitation-president-nom.md) dissimule l'identité de l'assureur. Procédure en référé sur l'article 145 CPC en cours pour lever cette information. Objectif : action directe contre l'assureur RC pour obtenir une provision.
+> **Contexte** : Accident de la main survenu le 29 mai 2026 dans un salon de coiffure (vasque céramique défectueuse ayant basculé). La SAS exploitante ([**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md), capital ~5 000 €) est assurée, mais [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) dissimule l'identité de l'assureur. Procédure en référé sur l'article 145 CPC en cours pour lever cette information. Objectif : action directe contre l'assureur RC pour obtenir une provision.
 
 # NOTE — PROCÉDURE ACTION DIRECTE<br>ASSURANCE — ART. L.124-3 C. ASSUR.
 ## I — OBJET ET CHAMP DE LA NOTE
 
-La présente note a pour objet d'analyser les conditions, la prescription et la stratégie procédurale de l'action directe que **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** peut exercer contre l'assureur de responsabilité civile de la SAS exploitant le salon de coiffure, sur le fondement de l'article L.124-3 du Code des assurances.
+La présente note a pour objet d'analyser les conditions, la prescription et la stratégie procédurale de l'action directe que [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) peut exercer contre l'assureur de responsabilité civile de la SAS exploitant le salon de coiffure, sur le fondement de l'article L.124-3 du Code des assurances.
 
 Elle s'inscrit dans le cadre d'une procédure en deux temps :
 
@@ -44,17 +44,17 @@ Sont examinés : le fondement textuel, le régime de prescription, les condition
 L'article L.124-3 du Code des assurances constitue le socle juridique de l'action directe de la victime contre l'assureur de responsabilité civile du responsable.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
-> [Article L.124-3, alinéa 1er](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> [Article L.124-3, alinéa 1er](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
 > **Code des assurances — Partie législative — Livre Ier — Titre II — Chapitre IV**
 
 > *« L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
-> [Article L.124-3, alinéa 2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> [Article L.124-3, alinéa 2](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
 > **Code des assurances — Partie législative — Livre Ier — Titre II — Chapitre IV**
 
 **Nature juridique :** L'action directe est un droit propre de la victime, distinct de l'action contractuelle de l'assuré contre son assureur. Elle est reconnue comme un droit autonome, même si elle prend sa source dans la responsabilité de l'assuré.
 
 > *« L'action directe de la victime contre l'assureur garantissant la responsabilité civile de l'auteur du dommage est indépendante de l'action que la victime pourrait exercer contre l'assuré lui-même. »* <br>
-> [Civ. 3e, 11 mai 2022, n°21-12.478](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770) <br>
+> [Civ. 3e, 11 mai 2022, n°21-12.478](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000458227](../../../Lois/Jurisprudence/JURITEXT0000458227.md)70) <br>
 > **Cour de cassation, 3e chambre civile**
 
 Ce caractère autonome emporte des conséquences fondamentales :
@@ -66,15 +66,15 @@ Ce caractère autonome emporte des conséquences fondamentales :
 
 **Textes connexes :**
 
-- **[Article L.113-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006791986)** — Exclusion des fautes intentionnelles et dolosives (limite à l'action directe).
+- **[Article L.113-1](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000067919](../../../Lois/Code/LEGIARTI0000067919.md)86)** — Exclusion des fautes intentionnelles et dolosives (limite à l'action directe).
 
-- **[Article L.113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)** — Obligation de déclaration du sinistre par l'assuré.
+- **[Article L.113-2](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000357313](../../../Lois/Code/LEGIARTI0000357313.md)02)** — Obligation de déclaration du sinistre par l'assuré.
 
-- **[Article L.114-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044607740)** — Prescription biennale des actions dérivant du contrat d'assurance (inapplicable à la victime).
+- **[Article L.114-1](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000446077](../../../Lois/Code/LEGIARTI0000446077.md)40)** — Prescription biennale des actions dérivant du contrat d'assurance (inapplicable à la victime).
 
-- **[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006438827)** — Responsabilité du fait des choses (fondement de la responsabilité de l'ERP).
+- **[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000064388](../../../Lois/Code/LEGIARTI0000064388.md)27)** — Responsabilité du fait des choses (fondement de la responsabilité de l'ERP).
 
-- **[Article 835 CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)** — Référé-provision (voie procédurale pour obtenir une provision).
+- **[Article 835 CPC](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000425972](../../../Lois/Code/LEGIARTI0000425972.md)84)** — Référé-provision (voie procédurale pour obtenir une provision).
 <hr><hr>
 
 ## III — PRESCRIPTION DE L'ACTION DIRECTE<br>5 ANS, PAS 2 ANS (ARRÊT 80-16.679)
@@ -84,7 +84,7 @@ La question de la prescription est centrale et a été définitivement trancée 
 **Le principe posé par Civ. 1re, 10 mars 1982, n°80-16.679 :**
 
 > *« L'action directe de la victime contre l'assureur trouve son fondement dans le droit à réparation qu'elle a vis-à-vis de l'assuré responsable du dommage, et que, dès lors, la prescription de l'action civile à l'encontre de cet assuré s'applique nécessairement à l'exercice de l'action directe. »* <br>
-> [Civ. 1re, 10 mars 1982, n°80-16.679](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007009183) <br>
+> [Civ. 1re, 10 mars 1982, n°80-16.679](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070091](../../../Lois/Jurisprudence/JURITEXT0000070091.md)83) <br>
 > **Cour de cassation, Première chambre civile — Publié au Bulletin**
 
 La Cour de cassation a ainsi cassé l'arrêt de la cour d'appel de Chambéry qui avait soumis l'action directe à la prescription trentenaire (de droit commun à l'époque). La prescription de l'action directe est celle de l'action en responsabilité contre l'assuré.
@@ -94,10 +94,10 @@ La Cour de cassation a ainsi cassé l'arrêt de la cour d'appel de Chambéry qui
 Pour les dommages corporels, la prescription de l'action en responsabilité est fixée à **dix ans** à compter de la consolidation, en application de l'article 2226 du Code civil. Toutefois, la prescription est de **cinq ans** si l'action est fondée sur la responsabilité contractuelle de l'ERP (obligation de sécurité — art. 2224 C. civ.), ou de **dix ans** si fondée sur la responsabilité délictuelle (art. 2226 C. civ.).
 
 > *« L'action en responsabilité née à raison d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices qui en résultent, se prescrit par dix ans à compter de la date de la consolidation du dommage initial ou aggravé. »* <br>
-> [Article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259)
+> [Article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000190172](../../../Lois/Code/LEGIARTI0000190172.md)59)
 
 > *« Les actions personnelles ou mobilières se prescrivent par cinq ans à compter du jour où le titulaire d'un droit a connu ou aurait dû connaître les faits lui permettant de l'exercer. »* <br>
-> [Article 2224 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006439270)
+> [Article 2224 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000064392](../../../Lois/Code/LEGIARTI0000064392.md)70)
 
 **Distinction avec la prescription biennale (L.114-1) :**
 
@@ -111,7 +111,7 @@ Il est impératif de ne pas confondre :
 > [CA Versailles, 2025, n°22/01019](https://www.doctrine.fr/) <br>
 > **Cour d'appel de Versailles**
 
-**Dans notre dossier :** L'accident étant survenu le 29 mai 2026, et [**La Victime**](../../../Memory/Tokens/token-victime-nom-complet.md) n'étant pas encore consolidée, la prescription court à compter de la date de consolidation. L'assignation en référé sur l'article 145 CPC interrompt la prescription (art. 2241 C. civ.). Le délai pour agir est donc très large, mais il convient d'agir sans délai pour éviter tout débat dilatoire.
+**Dans notre dossier :** L'accident étant survenu le 29 mai 2026, et [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) n'étant pas encore consolidée, la prescription court à compter de la date de consolidation. L'assignation en référé sur l'article 145 CPC interrompt la prescription (art. 2241 C. civ.). Le délai pour agir est donc très large, mais il convient d'agir sans délai pour éviter tout débat dilatoire.
 <hr><hr>
 
 ## IV — CONDITIONS DE MISE EN ŒUVRE DE L'ACTION DIRECTE
@@ -120,16 +120,16 @@ L'action directe contre l'assureur suppose la réunion de quatre conditions cumu
 
 ### IV.1 — Existence d'une assurance RC en vigueur au jour du sinistre
 
-La condition première est que la SAS exploitante ([**L'Exploitant du Commerce (La SAS)**](../../../Memory/Tokens/token-exploitation-raison-sociale.md)) soit titulaire d'un contrat d'assurance de responsabilité civile professionnelle (RC Pro) en vigueur le 29 mai 2026. En tant qu'ERP recevant du public (salon de coiffure — activités de soins esthétiques), cette assurance est obligatoire en application de l'article L.1142-2 du Code de la santé publique pour les activités de soins, et en tout état de cause nécessaire à l'exploitation commerciale.
+La condition première est que la SAS exploitante ([**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) soit titulaire d'un contrat d'assurance de responsabilité civile professionnelle (RC Pro) en vigueur le 29 mai 2026. En tant qu'ERP recevant du public (salon de coiffure — activités de soins esthétiques), cette assurance est obligatoire en application de l'article L.1142-2 du Code de la santé publique pour les activités de soins, et en tout état de cause nécessaire à l'exploitation commerciale.
 
-L'obstacle actuel est le refus de [**Le Président de l'Exploitation**](../../../Memory/Tokens/token-exploitation-president-nom.md) de communiquer les coordonnées de l'assureur. Cette rétention d'information est abusive et constitue un manquement à l'obligation de loyauté dans la procédure.
+L'obstacle actuel est le refus de [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) de communiquer les coordonnées de l'assureur. Cette rétention d'information est abusive et constitue un manquement à l'obligation de loyauté dans la procédure.
 
 ### IV.2 — Droit propre de la victime
 
 Le droit d'action directe est un droit propre, qui n'est ni l'exercice par subrogation des droits de l'assuré, ni une cession de créance. Il prend sa source dans le préjudice subi par la victime.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
-> [Article L.124-3, alinéa 1er](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+> [Article L.124-3, alinéa 1er](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49)
 
 Conséquences :
 - La victime peut agir contre l'assureur sans avoir à poursuivre préalablement l'assuré ;
@@ -144,11 +144,11 @@ L'action directe suppose que la responsabilité de l'assuré soit engagée. Dans
 
 - **Responsabilité du fait des choses** (art. 1242 al.1er C. civ.) : la vasque en céramique, en tant que chose, a été l'instrument du dommage. La présomption de responsabilité pèse sur le gardien (la SAS exploitante).
 
-- **Obligation de sécurité de l'ERP** : l'établissement recevant du public est tenu d'une obligation de moyens renforcée en matière de sécurité ([**TJ Nanterre 2025, n°19/08999**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ%20Nanterre%2019-08999.md)).
+- **Obligation de sécurité de l'ERP** : l'établissement recevant du public est tenu d'une obligation de moyens renforcée en matière de sécurité ([**TJ Nanterre 2025, n°19/08999**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ%20Nanterre%2019-08999.md).
 
 - **Défaut de surveillance et manquement du préposé** : le préposé qui a manipulé la vasque de manière imprégnante engage la responsabilité du commettant (art. 1242 al.5 C. civ.).
 
-- **Défaut d'entretien de l'équipement** ([**CA Toulouse 2013, n°11/03512**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA%20Toulouse%2011-03512.md)).
+- **Défaut d'entretien de l'équipement** ([**CA Toulouse 2013, n°11/03512**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA%20Toulouse%2011-03512.md).
 
 > *« L'exploitant d'un ERP est tenu d'une obligation de sécurité envers ses clients. Le défaut de signalisation, le mauvais entretien des lieux ou l'absence de dispositifs de prévention constituent des manquements engageant sa responsabilité. »* <br>
 > [CA Toulouse, 5 décembre 2013, n°11/03512](https://www.doctrine.fr/) <br>
@@ -161,12 +161,12 @@ Pour obtenir une **provision en référé** sur le fondement de l'article 835 CP
 
 ## V — CONTENTIEUX SUR L'IDENTITÉ DE L'ASSUREUR<br>RÉFÉRÉ ART. 145 CPC
 
-L'obstacle principal à l'exercice de l'action directe est l'absence d'identification de l'assureur. [**Le Président de l'Exploitation**](../../../Memory/Tokens/token-exploitation-president-nom.md) refuse obstinément de communiquer les coordonnées de la compagnie d'assurance de la SAS, malgré les demandes réitérées de [**La Victime**](../../../Memory/Tokens/token-victime-nom-complet.md).
+L'obstacle principal à l'exercice de l'action directe est l'absence d'identification de l'assureur. [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) refuse obstinément de communiquer les coordonnées de la compagnie d'assurance de la SAS, malgré les demandes réitérées de [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md).
 
 ### V.1 — Fondement de la demande : article 145 CPC
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
-> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000518693](../../../Lois/Code/LEGIARTI0000518693.md)39)
 
 ### V.2 — Motif légitime
 
@@ -176,7 +176,7 @@ Le motif légitime est caractérisé par trois éléments cumulatifs :
 
 2. **L'impossibilité d'accéder à l'information** : le dirigeant refuse de communiquer l'identité de l'assureur malgré les demandes amiables écrites.
 
-3. **L'utilité de la mesure** : seule la communication des contrats d'assurance permettra à [**La Victime**](../../../Memory/Tokens/token-victime-nom-complet.md) d'exercer son action directe.
+3. **L'utilité de la mesure** : seule la communication des contrats d'assurance permettra à [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) d'exercer son action directe.
 
 ### V.3 — Mesures sollicitées
 
@@ -192,7 +192,7 @@ L'assignation en référé demande :
 
 ### V.4 — Risques et obstacles procéduraux
 
-- **Absence de comparution** : si [**Le Président de l'Exploitation**](../../../Memory/Tokens/token-exploitation-president-nom.md) ne comparait pas, l'ordonnance sera rendue par défaut mais son exécution sera difficile.
+- **Absence de comparution** : si [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) ne comparait pas, l'ordonnance sera rendue par défaut mais son exécution sera difficile.
 
 - **Opposition à la communication** : le dirigeant pourrait prétendre ne pas connaître l'assureur (défense peu crédible pour une société commerciale).
 
@@ -216,15 +216,15 @@ La CIVI, régie par l'article 706-3 du Code de procédure pénale, permet l'inde
 Cependant, la Cour de cassation a posé un principe d'exclusivité des régimes d'indemnisation :
 
 > *« Les dommages susceptibles d'être indemnisés par le FGAO en application des articles L.421-1 et L.424-1 à L.424-7 du code des assurances sont exclus de la compétence de la CIVI, peu important que le FGAO intervienne subsidiairement, en présence d'un assureur du responsable susceptible d'indemniser la victime. »* <br>
-> [Civ. 2e, 24 novembre 2022, n°20-22.100](https://www.legifrance.gouv.fr/juri/id/JURITEXT000046652031) <br>
+> [Civ. 2e, 24 novembre 2022, n°20-22.100](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000466520](../../../Lois/Jurisprudence/JURITEXT0000466520.md)31) <br>
 > **Cour de cassation, Deuxième chambre civile — Publié au Bulletin**
 
 > *« Les dommages susceptibles d'être indemnisés par le FGAO sont exclus de la compétence de la CIVI. Peu importe que le FGAO intervienne subsidiairement. »* <br>
-> [Civ. 2e, 24 novembre 2022, n°20-19.288](https://www.legifrance.gouv.fr/juri/id/JURITEXT000046652029) <br>
+> [Civ. 2e, 24 novembre 2022, n°20-19.288](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000466520](../../../Lois/Jurisprudence/JURITEXT0000466520.md)29) <br>
 > **Cour de cassation, Deuxième chambre civile — Publié au Bulletin**
 
 > *« Le droit de la victime à être indemnisée selon les modalités des articles susvisés du code des assurances s'apprécie au jour de l'accident et la recevabilité de la requête déposée devant la CIVI s'apprécie à la date de celle-ci. »* <br>
-> [Civ. 2e, 24 novembre 2022, n°20-23.462](https://www.legifrance.gouv.fr/juri/id/JURITEXT000046652027) <br>
+> [Civ. 2e, 24 novembre 2022, n°20-23.462](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000466520](../../../Lois/Jurisprudence/JURITEXT0000466520.md)27) <br>
 > **Cour de cassation, Deuxième chambre civile — Publié au Bulletin**
 
 **Application au cas d'espèce :** Ces arrêts confirment le principe de non-cumul des régimes d'indemnisation. Lorsqu'un assureur identifiable existe (ce qui est le cas en principe dans notre dossier), la CIVI n'est pas compétente. La voie de l'action directe contre l'assureur est donc la seule appropriée.
@@ -237,7 +237,7 @@ Cependant, la Cour de cassation a posé un principe d'exclusivité des régimes 
 
 - La CIVI pourrait alors être compétente pour les blessures involontaires (infraction pénale), sous réserve de remplir les conditions de l'article 706-3 CPP (préjudice corporel grave).
 
-- Par ailleurs, [**La Victime**](../../../Memory/Tokens/token-victime-nom-complet.md) pourrait se constituer partie civile dans le cadre d'une éventuelle procédure pénale.
+- Par ailleurs, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) pourrait se constituer partie civile dans le cadre d'une éventuelle procédure pénale.
 <hr><hr>
 
 ## VII — RISQUES ET LIMITES
@@ -247,7 +247,7 @@ Cependant, la Cour de cassation a posé un principe d'exclusivité des régimes 
 Le principal risque est que l'assureur tente d'opposer une exclusion de garantie fondée sur l'article L.113-1 du Code des assurances.
 
 > *« Les pertes et les dommages occasionnés par des cas fortuits ou causés par la faute de l'assuré sont à la charge de l'assureur, sauf exclusion formelle et limitée contenue dans la police. Toutefois, l'assureur ne répond pas des pertes et dommages provenant d'une faute intentionnelle ou dolosive de l'assuré. »* <br>
-> [Article L.113-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006791986)
+> [Article L.113-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000067919](../../../Lois/Code/LEGIARTI0000067919.md)86)
 
 **Analyse :** La faute dolosive suppose la conscience, chez l'assuré, de la réalisation certaine ou quasi-certaine du dommage. En l'espèce, la chute de la vasque résulte d'une combinaison de facteurs (défaut de fixation, manœuvre du préposé, usure de l'équipement) qui ne caractérise pas une faute intentionnelle ou dolosive. L'assureur ne pourra donc pas valablement opposer cette exclusion.
 
@@ -259,7 +259,7 @@ Si la SAS n'a pas déclaré le sinistre à son assureur, ce dernier pourrait lui
 
 ### VII.3 — Plafond de garantie
 
-Le contrat d'assurance peut prévoir un plafond de garantie (limite quantitative). Si le plafond est inférieur au préjudice, [**La Victime**](../../../Memory/Tokens/token-victime-nom-complet.md) ne pourra réclamer que dans la limite du plafond. Il conviendra d'examiner attentivement les conditions générales du contrat dès qu'elles seront communiquées.
+Le contrat d'assurance peut prévoir un plafond de garantie (limite quantitative). Si le plafond est inférieur au préjudice, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) ne pourra réclamer que dans la limite du plafond. Il conviendra d'examiner attentivement les conditions générales du contrat dès qu'elles seront communiquées.
 
 ### VII.4 — Prescription quinquennale (art. 2224 C. civ.)
 
@@ -285,7 +285,7 @@ Si la SAS s'avère ne pas être assurée (hypothèse pessimiste mais envisageabl
 
 ### VII.6 — Dissimulation d'actifs et fraude
 
-Le comportement de [**Le Président de l'Exploitation**](../../../Memory/Tokens/token-exploitation-president-nom.md) (dissimulation de l'assureur, changement d'exploitant apparent) pourrait relever de manœuvres frauduleuses tendant à organiser l'insolvabilité. Ces faits constituent :
+Le comportement de [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) (dissimulation de l'assureur, changement d'exploitant apparent) pourrait relever de manœuvres frauduleuses tendant à organiser l'insolvabilité. Ces faits constituent :
 
 - Une violation de l'obligation de loyauté procédurale ;
 
@@ -294,7 +294,7 @@ Le comportement de [**Le Président de l'Exploitation**](../../../Memory/Tokens/
 - Un abus de droit de ne pas communiquer les informations d'assurance.
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions — faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
-> [Arrêt SATI — Com., 20 mai 2003, n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
+> [Arrêt SATI — Com., 20 mai 2003, n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 > **Cour de cassation, chambre commerciale**
 <hr><hr>
 
@@ -358,14 +358,14 @@ Le comportement de [**Le Président de l'Exploitation**](../../../Memory/Tokens/
 
 5. Écarter la déchéance pour déclaration tardive (inopposable à la victime).
 
-6. Présenter le préjudice : ITT de 55 jours, souffrances endurées, préjudice esthétique temporaire, incidence professionnelle (informaticien indépendant — cf. [**TJ Rennes 2026, n°20/05541**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ%20Rennes%2020-05541.md)), et post-consolidation à évaluer.
+6. Présenter le préjudice : ITT de 55 jours, souffrances endurées, préjudice esthétique temporaire, incidence professionnelle (informaticien indépendant — cf. [**TJ Rennes 2026, n°20/05541**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ%20Rennes%2020-05541.md), et post-consolidation à évaluer.
 
 7. Justifier le quantum de la provision (15 000 €) par référence aux barèmes et à la jurisprudence (cf. [**TJ Nanterre 2024, n°22/02447**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ%20Nanterre%2022-02447.md) — souffrances 5/7).
 <hr><hr>
 
 ## IX — SYNTHÈSE ET RECOMMANDATIONS
 
-L'action directe contre l'assureur de [**L'Exploitant du Commerce (La SAS)**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) sur le fondement de l'article L.124-3 du Code des assurances est juridiquement parfaitement fondée et constitue la voie procédurale principale pour obtenir l'indemnisation du préjudice corporel subi par [**La Victime**](../../../Memory/Tokens/token-victime-nom-complet.md).
+L'action directe contre l'assureur de [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) sur le fondement de l'article L.124-3 du Code des assurances est juridiquement parfaitement fondée et constitue la voie procédurale principale pour obtenir l'indemnisation du préjudice corporel subi par [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md).
 
 **Points forts :**
 - Droit propre de la victime, autonome et non affecté par les procédures collectives ;
@@ -389,7 +389,7 @@ L'action directe contre l'assureur de [**L'Exploitant du Commerce (La SAS)**](..
 
 2. En parallèle, consulter l'ORIAS pour identifier l'assureur déclaré ;
 
-3. Une fois l'assureur identifié, lui adresser une mise en demeure formelle (modèle disponible dans la [**Note Droit Assurances**](Note%20-%20Droit%20des%20Assurances.md)) ;
+3. Une fois l'assureur identifié, lui adresser une mise en demeure formelle (modèle disponible dans la [**Note Droit Assurances**](Note%20-%20Droit%20des%20Assurances.md) ;
 
 4. En cas de silence ou refus, saisir le juge des référés pour obtenir une provision et une expertise médicale ;
 

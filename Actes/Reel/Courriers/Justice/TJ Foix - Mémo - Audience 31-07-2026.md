@@ -148,7 +148,7 @@ La victime n'est pas consolidée. L'état séquellaire actuel (douleurs neuropat
 | Question | Réponse |
 |----------|---------|
 | *Pourquoi 15 000 € ?* | ~10 % du préjudice global estimé (120-160k€). Provision standard en référé. |
-| *Pourquoi HB BARBER et pas LES MAUVAIS GARÇONS ?* | Erratum déposé. Visite des lieux le 16 juillet a révélé l'enseigne réelle. Les deux sociétés ont la même DG (**[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**). |
+| *Pourquoi HB BARBER et pas LES MAUVAIS GARÇONS ?* | Erratum déposé. Visite des lieux le 16 juillet a révélé l'enseigne réelle. Les deux sociétés ont la même DG (**[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**). |
 | *Pourquoi pas d'avocat ?* | AJ déposée, en cours. Seul au-delà du plafond de 10k€ pour la représentation obligatoire, mais la procédure est engagée de bonne foi. |
 | *Avez-vous des revenus ?* | ~9 000 €/an micro-entrepreneur. Justificatifs URSSAF joints. |
 | *Quel est le préjudice professionnel ?* | Informaticien — main droite sectionnée. Arrêt complet depuis 55 jours. IP estimée à 28 000 €. |

@@ -28,16 +28,16 @@ jx: J+37
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # SIGNALEMENT DE NON-CONFORMITÉ D'ERP <br> CONSEIL DÉPARTEMENTAL
 > 🔗 Source Google Drive : [1pBi3ofZ86aG…](https://drive.google.com/open?id=1pBi3ofZ86aGKRkL9X367bHZvHj0fU55iMC_Izmz6gHQ)
 
 <!-- Auteur -->
-**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[06 30 51 67 75](../../../../Memory/Tokens/token-victime-telephone.md)**  
-**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[Le Téléphone de la Victime](../../../../Memory/Tokens/token-victime-telephone.md)**  
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
@@ -50,7 +50,7 @@ BP 60023
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
 <hr><hr>
@@ -59,7 +59,7 @@ BP 60023
 
 <hr><hr>
 
-**Objet : Alerte sur la non-conformité et la dangerosité d'un ERP — SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
+**Objet : Alerte sur la non-conformité et la dangerosité d'un ERP — SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
 <hr><hr>
 
@@ -67,12 +67,12 @@ BP 60023
 
 <hr><hr>
 
-Réf : SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)  
+Réf : SIREN [938 033 222](../../../../Memory/Tokens/token-exploitation-siren.md)  
 
 Madame, Monsieur le Président du Conseil Départemental,  
 ## I — INTRODUCTION
 
-La présente lettre a pour objet de vous informer de la situation de dangerosité matérielle et de non-conformité grave constatée au sein du salon de coiffure exploité par la SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), situé **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)** à **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**. Elle fait suite à un accident corporel grave dont j'ai été victime le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**.
+La présente lettre a pour objet de vous informer de la situation de dangerosité matérielle et de non-conformité grave constatée au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), situé **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** à **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**. Elle fait suite à un accident corporel grave dont j'ai été victime le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**.
 
 Cet accident a été causé par la chute brutale du préposé de l'exploitation depuis un bac à shampoing en céramique instable et cassé, sur lequel il avait dû monter pour accéder au poste de télévision, faute d'équipement d'accès adapté (escabeau) mis à disposition par l'employeur.
 
@@ -108,7 +108,7 @@ Je vous remercie par avance de m'adresser un accusé de réception écrit de la 
 Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Président, l'expression de ma considération distinguée.
 
 <!-- Signature -->
-**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
 <!-- /Signature -->
 
 <!-- PJ -->

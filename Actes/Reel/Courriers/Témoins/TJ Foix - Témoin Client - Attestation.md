@@ -19,7 +19,17 @@ destinataire: Tribunal Judiciaire de Foix / Commissariat de Foix
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+<!-- Auteur -->
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+**Tribunal Judiciaire de Foix / Commissariat de Foix**
+<!-- /Destinataire -->
+
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # ATTESTATION DE TÉMOIN (CERFA N° 11527*03)Article 202 du Code de procédure civile
 > 🔗 Source Google Drive : [1mLVji0_j8CT…](https://drive.google.com/open?id=1mLVji0_j8CTh2TjPr7bXAkoBaR2NmWEH89KXTk7Xbk4)
@@ -38,10 +48,10 @@ N'ayant aucun lien de parenté, d'alliance, de subordination, ni d'intérêt com
 
 Atteste sur l'honneur des faits suivants :
 
-[À compléter : Si le texte suivant correspond à ce que vous avez vu et entendu le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**, vous pouvez le recopier ou vous en inspirer. Sinon, décrivez librement les faits avec vos propres mots.]
+[À compléter : Si le texte suivant correspond à ce que vous avez vu et entendu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**, vous pouvez le recopier ou vous en inspirer. Sinon, décrivez librement les faits avec vos propres mots.]
 
-"Je me trouvais dans le salon de coiffure **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**. L'ambiance était normale. J'ai vu le coiffeur, **[Ayoub BENNOURINE](../../../../Memory/Tokens/token-exploitation-prepose-nom.md)** (tél. [07 58 40 12 87](../../../../Memory/Tokens/token-exploitation-prepose-telephone.md)), monter physiquement sur la vasque en céramique du bac à shampoing. En descendant, son poids a provoqué le basculement soudain de l'équipement, faisant un bruit important.
-J'ai alors vu un autre client, **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, tendre la main droite par un réflexe immédiat pour tenter de rattraper le coiffeur et le protéger de la chute. Sa paume a heurté le flanc de la vasque.
+"Je me trouvais dans le salon de coiffure **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**. L'ambiance était normale. J'ai vu le coiffeur, **[Le Préposé de l'Exploitation](../../../../Memory/Tokens/token-exploitation-prepose-nom.md)** (tél. [**[Le Téléphone du Préposé]**](../../../../Memory/Tokens/token-exploitation-prepose-telephone.md)), monter physiquement sur la vasque en céramique du bac à shampoing. En descendant, son poids a provoqué le basculement soudain de l'équipement, faisant un bruit important.
+J'ai alors vu un autre client, **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, tendre la main droite par un réflexe immédiat pour tenter de rattraper le coiffeur et le protéger de la chute. Sa paume a heurté le flanc de la vasque.
 J'ai immédiatement constaté un saignement très abondant (beaucoup de sang) provenant de sa main. La situation était très urgente. Les secours (pompiers/SAMU) ont été appelés et sont arrivés rapidement sur les lieux pour le prendre en charge."
 
 Conscient que cette attestation pourra être utilisée en justice et que toute fausse déclaration de ma part m'expose à des sanctions pénales.

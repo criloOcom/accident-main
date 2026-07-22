@@ -1,4 +1,5 @@
 ---
+
 emoji: 🛡️
 title: Constitution de Partie Civile — Blessures Involontaires
 description: Blessures involontaires — Défaut d'assurance — Responsabilité personnelle
@@ -22,11 +23,14 @@ calendar_event_id: smthlv0a5arakof0m4rv80qgkc
 statut: final
 destinataire: Doyen des Juges d'Instruction
 auteur: La Victime
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_penal/DJI Foix - Partie Civile - Constitution.md
+reel_path: ../../../Reel/Actes_proceduraux/Contentieux_penal/DJI Foix - Partie Civile
+  - Constitution.md
 source: drive
 drive_id: 1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg
 jx: J+38
 ---
+
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux penal](./README.md)*
 <hr>
@@ -37,30 +41,30 @@ jx: J+38
 **Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants**
 
 <!-- Auteur -->
-**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
+[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)
 
-**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)
 <!-- /Auteur -->
 
 <!-- Destinataire -->
 A l'attention de Monsieur le Doyen des Juges d'Instruction
 
-Tribunal Judiciaire de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
+Tribunal Judiciaire de [Foix](../../../../Memory/Tokens/token-accident-ville.md)
 <!-- /Destinataire -->
 
-[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md), le **[6 juillet 2026](../../../../Memory/Tokens/token-j-38-constitution-pc.md)**
+[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md), le **[6 juillet 2026](../../../../Memory/Tokens/token-j-38-constitution-pc.md)
 ## I — INTRODUCTION
 
-La presente [constitution de partie civile](DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) est formee par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** dans le cadre de la procedure penale suivie a l'encontre de la SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), de son President [Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md) et de sa Directrice Generale [Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md), en application des articles 2 et suivants du Code de procedure penale.
+La presente [**[constitution de partie civile]**](DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) est formee par [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) dans le cadre de la procedure penale suivie a l'encontre de la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), de son President [Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md) et de sa Directrice Generale [Catherine ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md), en application des articles 2 et suivants du Code de procedure penale.
 
-Par cet acte, la victime entend exercer les droits reconnus a la partie civile afin d'obtenir la reparation de l'integralite des prejudices corporels, materiels et moraux decoulant de l'accident survenu le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md).
+Par cet acte, la victime entend exercer les droits reconnus a la partie civile afin d'obtenir la reparation de l'integralite des prejudices corporels, materiels et moraux decoulant de l'accident survenu le [29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md) au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md).
 <hr><hr>
 
 ## II — EXPOSE DES FAITS
 
-Le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**, alors que **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** se trouvait en qualite de client au sein du salon de coiffure exploite par la SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) sis **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**, un grave accident corporel est survenu.
+Le [29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md), alors que [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) se trouvait en qualite de client au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) sis **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md), un grave accident corporel est survenu.
 
-Le prepose de l'exploitation, [Ayoub BENNOURINE](../../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tel : [07 58 40 12 87](../../../../Memory/Tokens/token-exploitation-prepose-telephone.md)), a escalade la vasque en ceramique du bac a shampoing pour acceder au poste de television. Cet equipement, instable et presentant une cassure majeure preexistante non signalee aux aretes tranchantes, a bascule sous son poids. Par reflexe, **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** a tendu la main droite pour proteger le prepose ; sa paume a heurte la cassure tranchante, provoquant :
+Le prepose de l'exploitation, [Ayoub BENNOURINE](../../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tel : [**[Le Telephone du Prepose]**](../../../../Memory/Tokens/token-exploitation-prepose-telephone.md)), a escalade la vasque en ceramique du bac a shampoing pour acceder au poste de television. Cet equipement, instable et presentant une cassure majeure preexistante non signalee aux aretes tranchantes, a bascule sous son poids. Par reflexe, **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) a tendu la main droite pour proteger le prepose ; sa paume a heurte la cassure tranchante, provoquant :
 
 - Une **section complete du tendon flechisseur profond (FDP)** de l'index droit en zone II de Verdan
 
@@ -74,13 +78,13 @@ Le prepose de l'exploitation, [Ayoub BENNOURINE](../../../../Memory/Tokens/token
 
 - Un [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de **55 jours** (du 29 mai au 23 juillet 2026)
 
-Une microchirurgie d'urgence a ete pratiquee le **[30 mai 2026](../../../../Memory/Tokens/token-j-1-chirurgie.md)** par **[Dr Iskander DJERBI](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** au centre SOS Main de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**. L'etat de la victime a ete declare **consolide au 1er mars 2027** par l'expert judiciaire designe par ordonnance de refere du 31 juillet 2026, conformément au rapport d'expertise depose le 12 juin 2027.
+Une microchirurgie d'urgence a ete pratiquee le [30 mai 2026](../../../../Memory/Tokens/token-j-1-chirurgie.md) par [Dr Iskander DJERBI](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md) au centre SOS Main de [Foix](../../../../Memory/Tokens/token-accident-ville.md). L'etat de la victime a ete declare **consolide au 1er mars 2027** par l'expert judiciaire designe par ordonnance de refere du 31 juillet 2026, conformément au rapport d'expertise depose le 12 juin 2027.
 
 ### II.1 — ANTECEDENTS ET CARENCES DES MIS EN CAUSE
 
-La SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), immatriculee au RCS sous le SIREN **[104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)**, a ete constituee avec un capital social de 200 € seulement. Son President, [Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md), et sa Directrice Generale, [Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md), n'ont souscrit aucune assurance de responsabilite civile professionnelle pour l'exploitation du salon, en violation des obligations legales et reglementaires applicables aux etablissements recevant du public (ERP).
+La SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), immatriculee au RCS sous le SIREN **[938 033 222](../../../../Memory/Tokens/token-exploitation-siren.md), a ete constituee avec un capital social de 200 € seulement. Son President, [Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md), et sa Directrice Generale, [Catherine ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md), n'ont souscrit aucune assurance de responsabilite civile professionnelle pour l'exploitation du salon, en violation des obligations legales et reglementaires applicables aux etablissements recevant du public (ERP).
 
-Malgre des mises en demeure recommandees adressees le **[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)** a la SAS, au President et a la Directrice Generale, aucun des mis en cause n'a communique les coordonnees d'un assureur, laissant presumer une absence totale de couverture.
+Malgre des mises en demeure recommandees adressees le [29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md) a la SAS, au President et a la Directrice Generale, aucun des mis en cause n'a communique les coordonnees d'un assureur, laissant presumer une absence totale de couverture.
 <hr><hr>
 
 ## III — FONDEMENTS JURIDIQUES
@@ -89,7 +93,7 @@ Malgre des mises en demeure recommandees adressees le **[29 juin 2026](../../../
 Les faits decrits ci-dessus sont constitutifs du delit de blessures involontaires prevu et reprime par les articles 222-19 et 222-20 du Code penal.
 
 > *« Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. »* <br>
-> [Article 222-19](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) <br>
+> [Article 222-19](../../../../Lois/Code/Code_pénal/Article_222-19_CodePenal_Legifrance.md) <br>
 > **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^1]**
 
 En l'espece :
@@ -103,7 +107,7 @@ En l'espece :
 L'ITT pénale, fixée à 1 jour par le [certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du Dr OXYBEL, est inférieure à 3 mois, ce qui conduit à la qualification suivante — étant précisé que l'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total est de 55 jours et qu'une réévaluation globale est programmée à l'UMJ de Purpan le 12 novembre 2026 :
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
-> [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
+> [Article 222-20](../../../../Lois/Code/Code_pénal/Article222-20_CodePenal_LegiFrance.md) <br>
 > **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^2]**
 
 La **violation manifestement deliberee** est caracterisee par :
@@ -124,7 +128,7 @@ Cette disposition constitue le fondement de la responsabilite personnelle des di
 
 L'article L. 227-1 du Code de commerce dispose que les règles des sociétés anonymes sont applicables aux SAS :
 
-> *« Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes [...] sont applicables à la société par actions simplifiée. »* <br>
+> *« Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes  sont applicables à la société par actions simplifiée. »* <br>
 > [Article L. 227-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177) <br>
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.[^4]**
 
@@ -135,7 +139,7 @@ En application de ce renvoi, l'article L. 225-251 du même code fixe le régime 
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre III : Des sociétés anonymes > Section 8 : De la responsabilité.[^5]**
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
-> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
+> [Arrêt n°99-17.092](../../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md) <br>
 > **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092[^6]**
 
 En l'espece, les fautes separables des dirigeants sont caracterisees par :
@@ -173,7 +177,7 @@ En l'absence d'assurance, l'indemnisation de la victime est gravement compromise
 
 ## IV — PREJUDICES
 
-Les prejudices subis par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, evalues par expertise judiciaire (rapport depose le 12 juin 2027, consolidation au 1er mars 2027), sont les suivants :
+Les prejudices subis par [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md), evalues par expertise judiciaire (rapport depose le 12 juin 2027, consolidation au 1er mars 2027), sont les suivants :
 
 | Categorie | Poste de prejudice | Evaluation expertise | Observations |
 |-----------|-------------------|---------------------|--------------|
@@ -194,18 +198,18 @@ Les prejudices subis par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-
 
 ## V — DEMANDES
 
-Par ces motifs, **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction de :
+Par ces motifs, [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction de :
 
 1. **DECLARER** recevable la presente [constitution de partie civile](DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) ;
 
 2. **PRENDRE ACTE** du depot du rapport d'expertise medicale judiciaire en date du 12 juin 2027, ayant fixe la consolidation au 1er mars 2027, le DFP a 12 % et les souffrances endurees a 4/7 ;
 
-3. **ACCORDER** a **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), de [Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md) et de [Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md) ;
+3. **ACCORDER** a [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), de [Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md) et de [Catherine ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md) ;
 
-4. **CONDAMNER IN SOLIDUM** la SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), [Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md) a payer a **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** la somme de [3 000 €](../../../../Memory/Tokens/token-finance-article-700.md) sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens.
+4. **CONDAMNER IN SOLIDUM** la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), [Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md) a payer a **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) la somme de [3 000 €](../../../../Memory/Tokens/token-finance-article-700.md) sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens.
 
 > *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
-> [Article 475-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) <br>
+> [Article 475-1 du Code de procédure pénale](../../../../Lois/Code/Code_procédure_pénale/Article475-1_CodeProcedurePenale.md) <br>
 > **Code de procédure pénale > Paragraphe 1 : Dispositions générales — abrogation différée.[^10]**
 <hr><hr>
 
@@ -226,52 +230,52 @@ Vu les articles 706-3 et 706-14 du Code de procedure penale,
 Vu la jurisprudence de la Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092 (arret SATI),
 Vu les pieces versees aux debats,
 
-**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** se constitue partie civile et sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction, ou a tout magistrat compose le Tribunal Judiciaire de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, de :
+[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) se constitue partie civile et sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction, ou a tout magistrat compose le Tribunal Judiciaire de [Foix](../../../../Memory/Tokens/token-accident-ville.md), de :
 
 1. **RECEVOIR** la presente [constitution de partie civile](DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) ;
 
 2. **PRENDRE ACTE** du depot du rapport d'expertise medicale judiciaire en date du 12 juin 2027 (consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure) ;
 
-3. **CONDAMNER IN SOLIDUM** la SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), [Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md) a verser a **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices ;
+3. **CONDAMNER IN SOLIDUM** la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), [Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md) a verser a **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices ;
 
-4. **CONDAMNER IN SOLIDUM** la SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), [Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md) a payer a **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** la somme de [3 000 €](../../../../Memory/Tokens/token-finance-article-700.md) sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens ;
+4. **CONDAMNER IN SOLIDUM** la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), [Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md) a payer a **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) la somme de [3 000 €](../../../../Memory/Tokens/token-finance-article-700.md) sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens ;
 
 > *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
 
 5. **FIXER** la provision definitives sur dommages et interets a hauteur du prejudice extra-patrimonial constate par l'expert (49 231 €), et **SE RESERVER** la liquidation definitive de l'astreinte et des postes patrimoniaux (PGPF, DSA) sur production des justificatifs CPAM.
 
-Fait a [Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md), le **[6 juillet 2026](../../../../Memory/Tokens/token-j-38-constitution-pc.md)**
+Fait a [Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md), le **[6 juillet 2026](../../../../Memory/Tokens/token-j-38-constitution-pc.md)
 
-**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
 ## BORDEREAU DE PIÈCES ANNEXÉES
 
 1. Procès-verbal de police n° [2026/015967](../../../../Memory/Tokens/token-pv-police-numero.md) — dépôt de plainte pour blessures involontaires
 
-2. [Certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) de constatation des blessures rédigé par **[Dr Julie JARDON](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)** (**[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**)
+2. [**[Certificat médical initial]**](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) de constatation des blessures rédigé par [Dr Julie JARDON](../../../../Memory/Tokens/token-hopital-urgence-medecin.md) ([29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md))
 
-3. [Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie d'urgence (suture nerveuse et tendineuse) rédigé par **[Dr Iskander DJERBI](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** (**[30 mai 2026](../../../../Memory/Tokens/token-j-1-chirurgie.md)**)
+3. [**[Compte-rendu opératoire]**](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie d'urgence (suture nerveuse et tendineuse) rédigé par [Dr Iskander DJERBI](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md) ([30 mai 2026](../../../../Memory/Tokens/token-j-1-chirurgie.md))
 
 4. Certificats médicaux d'[arrêts de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 55 jours d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total
 
 5. Réquisition judiciaire UMJ et retranscription téléphonique de prise de rendez-vous
 
-6. Preuves de l'opération de paiement Wero de [15,00 €](../../../../Memory/Tokens/token-finance-prestation-salon.md) (**[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**) démontrant la présence dans les lieux
+6. Preuves de l'opération de paiement Wero de [15,00 €](../../../../Memory/Tokens/token-finance-prestation-salon.md) (**[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)) démontrant la présence dans les lieux
 
-7. Facture de pharmacie post-opératoire (**[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**)
+7. Facture de pharmacie post-opératoire ([29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md))
 
-8. Facture de chirurgie SOS Main ([790,23 €](../../../../Memory/Tokens/token-finance-facture-chirurgie.md)) (**[10 juin 2026](../../../../Memory/Tokens/token-j-12-facture.md)**)
+8. Facture de chirurgie SOS Main ([790,23 €](../../../../Memory/Tokens/token-finance-facture-chirurgie.md)) (**[10 juin 2026](../../../../Memory/Tokens/token-j-12-facture.md))
 
 9. Dossier de Recours Contre Tiers (RCT) CPAM
 
-10. LRAR de mise en demeure adressée à [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) (**[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**)
+10. LRAR de mise en demeure adressée à [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) (**[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md))
 
-11. LRAR de mise en demeure adressée à **[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)** (**[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**)
+11. LRAR de mise en demeure adressée à [Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md) ([29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md))
 
-12. LRAR de mise en demeure adressée à **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** (**[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**)
+12. LRAR de mise en demeure adressée à [Catherine ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md) ([29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md))
 
-13. LRAR adressée à **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** et son AR signé (**[3 juillet 2026](../../../../Memory/Tokens/token-j-35-ar-proprietaire.md)**)
+13. LRAR adressée à [Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md) et son AR signé ([3 juillet 2026](../../../../Memory/Tokens/token-j-35-ar-proprietaire.md))
 
 14. Rapport d'expertise médicale judiciaire du 12 juin 2027 — consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure
 <!-- Source -->
@@ -279,18 +283,16 @@ Fait a [Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md), le
 
 ## Sources Législation
 
-[^1]: [Article 222-19 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
-[^2]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
-[^3]: [Article L. 227-8 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
-[^4]: [Article L. 227-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177)
-[^5]: [Article L. 225-251 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
-[^6]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
-[^7]: [Article L. 111-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438)
-[^8]: [Article L. 217-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587)
-[^9]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^10]: [Article 475-1 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107)
-
-<hr><hr>
+[^1]: [Article 222-19 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](../../../../Lois/Code/Code_pénal/Article_222-19_CodePenal_Legifrance.md) ↩
+[^2]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](../../../../Lois/Code/Code_pénal/Article222-20_CodePenal_LegiFrance.md) ↩
+[^3]: [Article L. 227-8 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) ↩
+[^4]: [Article L. 227-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177) ↩
+[^5]: [Article L. 225-251 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) ↩
+[^6]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](../../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md) ↩
+[^7]: [Article L. 111-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438) ↩
+[^8]: [Article L. 217-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587) ↩
+[^9]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^10]: [Article 475-1 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107](../../../../Lois/Code/Code_procédure_pénale/Article475-1_CodeProcedurePenale.md) ↩
 
 ### NOTE MÉTHODOLOGIQUE
 

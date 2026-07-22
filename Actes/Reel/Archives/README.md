@@ -1,25 +1,14 @@
 # Index — Archives (Versions Réelles)
 
 - [33_Requête_-_Constat_Huissier_145_CPC.md](33_Requête_-_Constat_Huissier_145_CPC.md)
-
 - [Archive - Action Directe Assureur RC.md](Archive - Action Directe Assureur RC.md)
-
 - [Archive - Analyse Correction Juridique.md](Archive - Analyse Correction Juridique.md)
-
 - [Archive - Analyse Jurisprudence.md](Archive - Analyse Jurisprudence.md)
-
 - [Archive - Bordereau Pièces 15 Juillet.md](Archive - Bordereau Pièces 15 Juillet.md)
-
 - [Archive - Checklist Déplacement Foix.md](Archive - Checklist Déplacement Foix.md)
-
 - [Archive - Checklist Envoi 11-07.md](Archive - Checklist Envoi 11-07.md)
-
 - [Archive - Constitution Partie Civile.md](Archive - Constitution Partie Civile.md)
-
 - [Archive - Dossier Présentation.md](Archive - Dossier Présentation.md)
-
 - [Archive - Fiche Réflexe 48h Victime.md](Archive - Fiche Réflexe 48h Victime.md)
-
 - [Archive - Stratégie Contentieux Civil.md](Archive - Stratégie Contentieux Civil.md)
-
 - [Archive - Stratégie Contentieux Pénal.md](Archive - Stratégie Contentieux Pénal.md)

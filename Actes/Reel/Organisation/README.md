@@ -1,29 +1,16 @@
 # Index — Organisation (Versions Réelles)
 
 - [34 EMAIL Maire Foix - Police Municipale ERP.md](34 EMAIL Maire Foix - Police Municipale ERP.md)
-
 - [Checklist - Déplacement 20-07.md](Checklist - Déplacement 20-07.md)
-
 - [Fiche Synthétique - HB BARBER.md](Fiche Synthétique - HB BARBER.md)
-
 - [Note - Bon Envoi Physique.md](Note - Bon Envoi Physique.md)
-
 - [Note - Calendrier Procédure.md](Note - Calendrier Procédure.md)
-
 - [Note - Dossier Spécial CERFA.md](Note - Dossier Spécial CERFA.md)
-
 - [Note - Fiche Réflexe 48h Disparition SAS.md](Note - Fiche Réflexe 48h Disparition SAS.md)
-
 - [Note - Index Général.md](Note - Index Général.md)
-
 - [Note - Kit Foix 27-07-2026.md](Note - Kit Foix 27-07-2026.md)
-
 - [Note - Modification Email Maire Foix.md](Note - Modification Email Maire Foix.md)
-
 - [Note - Plan Constat Police Foix.md](Note - Plan Constat Police Foix.md)
-
 - [Note - Plan d'Action.md](Note - Plan d'Action.md)
-
 - [Note - Suivi Envois LRAR.md](Note - Suivi Envois LRAR.md)
-
 - [Synthèse - Actions et Audits.md](Synthèse - Actions et Audits.md)

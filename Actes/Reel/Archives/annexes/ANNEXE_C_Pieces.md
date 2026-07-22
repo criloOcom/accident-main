@@ -11,7 +11,7 @@ auteur: La Victime
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 statut: annexe
 
@@ -70,11 +70,11 @@ statut: annexe
 
 ## PIÈCES DE PROCÉDURE
 
-- [29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md) — [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) — Mise en demeure [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) — [🔗 Drive](https://drive.google.com/file/d/1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn/view)
+- [29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md) — [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) — Mise en demeure [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) — [🔗 Drive](https://drive.google.com/file/d/1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn/view)
 
-- [29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md) — [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) — Mise en demeure [Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md) — [🔗 Drive](https://drive.google.com/file/d/1U4kH6sTpR0oN3ZaS7vJ2wLgE5fX8cD9A/view)
+- [29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md) — [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) — Mise en demeure [Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md) — [🔗 Drive](https://drive.google.com/file/d/1U4kH6sTpR0oN3ZaS7vJ2wLgE5fX8cD9A/view)
 
-- [29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md) — [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) — Mise en demeure [Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md) — [🔗 Drive](https://drive.google.com/file/d/1V5lI7tUqS1pO4AbT8wK3xMgF6gY9dE0B/view)
+- [29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md) — [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) — Mise en demeure [Catherine ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md) — [🔗 Drive](https://drive.google.com/file/d/1V5lI7tUqS1pO4AbT8wK3xMgF6gY9dE0B/view)
 
 - [29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md) — [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) — Mise en demeure SAS (LRAR) — [🔗 Drive](https://drive.google.com/file/d/1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn/view)
 <hr><hr>

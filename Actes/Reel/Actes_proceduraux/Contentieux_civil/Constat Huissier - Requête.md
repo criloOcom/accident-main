@@ -1,4 +1,5 @@
 ---
+
 emoji: 📸
 title: Requête aux fins de constat d'huissier
 description: À l'attention de :** Tel huissier de justice territorialement compétent
@@ -18,19 +19,21 @@ tags:
 - constat
 
 - huissier
-statut: brouillon
+statut: projet
 destinataire: Tel huissier de justice territorialement compétent
 auteur: La Victime
 reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/Constat Huissier - Requête.md
 jx: J+38
 calendar_event_id: 9pkmrn8fadbta67drfub7dssec
 ---
+
+
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux civil](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # REQUÊTE AUX FINS DE CONSTAT D'HUISSIER
 **À l'attention de :** Tel huissier de justice territorialement compétent
@@ -38,26 +41,26 @@ calendar_event_id: 9pkmrn8fadbta67drfub7dssec
 
 <!-- Auteur -->
 **Requérant :**
-**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)
 <!-- /Auteur -->
 
 <!-- Destinataire -->
 **Partie concernée :**
-**[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
+[SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 <!-- /Destinataire -->
 <hr><hr>
 
 ## II — EXPOSÉ DES FAITS ET DE L'URGENCE EXTRÊME
 
-Le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**, un accident corporel grave s'est produit dans les locaux de la société **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
+Le [29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md), un accident corporel grave s'est produit dans les locaux de la société [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md).
 
-Cet accident a été causé par le basculement d'une vasque défectueuse, ce qui a entraîné la blessure sévère de **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**.
+Cet accident a été causé par le basculement d'une vasque défectueuse, ce qui a entraîné la blessure sévère de [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md).
 
 Afin de préserver les droits du requérant dans la perspective d'une éventuelle action en responsabilité, il est d'une nécessité impérieuse de conserver la preuve matérielle de l'état exact de la vasque litigieuse avant toute modification, réparation ou fermeture définitive du salon.
 
 ### II.1 — URGENCE LIÉE AU RISQUE DE DISPARITION DES PREUVES
 
-Il est porté à la connaissance de la juridiction de céans que la société **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** fait face à un risque imminent de disparition (dissolution, liquidation ou fermeture précipitée).
+Il est porté à la connaissance de la juridiction de céans que la société [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) fait face à un risque imminent de disparition (dissolution, liquidation ou fermeture précipitée).
 
 Le capital social de cette structure n'étant que de 200 euros, son insolvabilité et sa fermeture rapide sont fortement redoutées.
 
@@ -70,12 +73,12 @@ La présente requête est fondée sur les dispositions conjointes des articles 1
 
 ### III.1 — SUR LES MESURES D'INSTRUCTION IN FUTURUM
 
-L'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^1] dispose que :
+L'[Article 145 du Code de procédure civile](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md)[^1] dispose que :
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. »* <br>
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.[^1]** <br>
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
-> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
+> [Article 145 du Code de procédure civile](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) <br>
 
 ### III.2 — SUR L'EXTRÊME URGENCE ET LE DOMMAGE IMMINENT
 
@@ -86,7 +89,7 @@ L'[Article 873 du Code de procédure civile](https://www.legifrance.gouv.fr/code
 > *« Le président peut, dans les mêmes limites, et même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. »* <br>
 > [Article 873 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463) <br>
 
-La disparition des preuves matérielles indispensables à la future action au fond constituerait un dommage imminent et irréparable pour **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, justifiant l'intervention immédiate d'un huissier de justice (commissaire de justice) sans débat contradictoire préalable, afin de ménager l'effet de surprise et d'éviter toute déperdition de preuves.
+La disparition des preuves matérielles indispensables à la future action au fond constituerait un dommage imminent et irréparable pour [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md), justifiant l'intervention immédiate d'un huissier de justice (commissaire de justice) sans débat contradictoire préalable, afin de ménager l'effet de surprise et d'éviter toute déperdition de preuves.
 <hr><hr>
 
 ## IV — OBJET DU CONSTAT
@@ -122,10 +125,10 @@ Par ces motifs, et vu l'urgence extrême liée au risque de déperdition des pre
 
 Fait pour valoir ce que de droit,
 
-Le [À compléter]
+Le ****
 
 <!-- Signature -->
-**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)
 <!-- /Signature -->
 
 <!-- PJ -->
@@ -145,6 +148,6 @@ Le [À compléter]
 
 ## Sources Législation
 
-[^1]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
-[^2]: [Article 873 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463)
+[^1]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
+[^2]: [Article 873 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463) ↩
 <!-- /Source -->

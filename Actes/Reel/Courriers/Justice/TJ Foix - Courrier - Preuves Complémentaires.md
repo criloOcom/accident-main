@@ -24,14 +24,14 @@ jx: J+44
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # TRANSMISSION DE PREUVES COMPLEMENTAIRES <br> AU TRIBUNAL JUDICIAIRE DE FOIX
 
 <!-- Auteur -->
-**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**
-**[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)**
-**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
@@ -42,7 +42,7 @@ BP 50078
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le 12 juillet 2026
+**[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le 12 juillet 2026
 <!-- /Date -->
 
 <hr><hr>
@@ -59,29 +59,29 @@ BP 50078
 
 <hr><hr>
 
-**Ref : SIREN **[104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)** — [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° 31727387
+**Ref : SIREN **[SIREN de l'Exploitation](../../../../Memory/Tokens/token-exploitation-siren.md)** — [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
 
 Monsieur le President,
 ## I — INTRODUCTION
 
-La presente a pour objet de transmettre au Tribunal Judiciaire de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)** des elements de preuve complementaires dans le cadre de l'enquete preliminaire ouverte suite a l'accident corporel grave dont j'ai ete victime le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au sein de l'etablissement exploite par la SAS **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, sise **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)** a **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**.
+La presente a pour objet de transmettre au Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** des elements de preuve complementaires dans le cadre de l'enquete preliminaire ouverte suite a l'accident corporel grave dont j'ai ete victime le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein de l'etablissement exploite par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, sise **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** a **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**.
 
-Le **[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**, j'ai adresse des courriers recommandes avec accuse de reception a la SAS et a ses dirigeants. Ces courriers m'ont ete retournes avec la mention **"defaut d'adresse / distribution impossible"**, alors meme que le commerce a rouvert ses portes le 6 juillet 2026 et parait en activite reguliere.
+Le **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**, j'ai adresse des courriers recommandes avec accuse de reception a la SAS et a ses dirigeants. Ces courriers m'ont ete retournes avec la mention **"defaut d'adresse / distribution impossible"**, alors meme que le commerce a rouvert ses portes le 6 juillet 2026 et parait en activite reguliere.
 
 Ces elements sont de nature a etablir que la SAS et ses dirigeants se soustraient a toute communication et pourraient tenter de faire obstacle a la procedure en cours.
 <hr><hr>
 
 ## II — RAPPEL DE LA PROCEDURE
 
-Le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**, j'ai ete victime d'un accident corporel grave au sein du salon de coiffure exploite par la SAS **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**. Un prepose est monte sur un bac a shampoing en ceramique instable et casse pour acceder au poste de television, faute d'escabeau. La vasque a bascule sous son poids, et ma main droite a heurte la cassure preexistante, entrainant une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence.
+Le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**, j'ai ete victime d'un accident corporel grave au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**. Un prepose est monte sur un bac a shampoing en ceramique instable et casse pour acceder au poste de television, faute d'escabeau. La vasque a bascule sous son poids, et ma main droite a heurte la cassure preexistante, entrainant une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence.
 
 Les procedures suivantes ont ete engagees :
 
-1. **Plainte penale** deposee aupres du Commissariat de Police de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)** ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))
+1. **Plainte penale** deposee aupres du Commissariat de Police de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))
 
 2. **Mises en demeure LRAR** (29 mai 2026) : retournees NPAI
 
-3. **[Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** deposee aupres du Doyen des Juges d'Instruction de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
+3. **[Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** deposee aupres du Doyen des Juges d'Instruction de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
 
 4. **Dossier medical complet** transmis au Procureur de la Republique
 <hr><hr>
@@ -94,7 +94,7 @@ Je transmets par la presente les pieces suivantes :
 
 2. **Copie du [PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — procedure penale en cours
 
-3. **[[[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS [SAS HB BARBER](../../../../Memory/TOKEN%20MAP.md%23personnes-morales)](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — confirmant le siege social au **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**
+3. **[[[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/TOKEN%20MAP.md%23personnes-morales)](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — confirmant le siege social au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**
 
 4. **Note d'audit RNE/INPI** du 10 juillet 2026 — confirmant que la SAS est toujours active a la meme adresse, sans modification de siege
 <hr><hr>
@@ -104,7 +104,7 @@ Je transmets par la presente les pieces suivantes :
 Je sollicite de votre bienveillance que les pieces ci-jointes soient **integrees au dossier de l'enquete preliminaire** en cours sous le [PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md).
 
 Ces elements etablissent que :
-- La SAS **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** ne peut etre notifiee a son siege social declare
+- La SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** ne peut etre notifiee a son siege social declare
 
 - Les dirigeants ne repondent a aucune sollicitation
 
@@ -117,7 +117,7 @@ Je reste a la disposition du Tribunal pour fournir tout element complementaire o
 Dans l'attente de votre retour, je vous prie d'agreer, Monsieur le President, l'expression de ma consideration distinguee.
 
 <!-- Signature -->
-**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
 <!-- /Signature -->
 
 <!-- PJ -->
@@ -129,7 +129,7 @@ Dans l'attente de votre retour, je vous prie d'agreer, Monsieur le President, l'
 
 - **[PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
 
-- **[[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) SAS HB BARBER](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN **[104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)**
+- **[[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) SAS [L'Exploitant du Commerce (La SAS)]](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN **[SIREN de l'Exploitation](../../../../Memory/Tokens/token-exploitation-siren.md)**
 
 - **[Note - Audit RNE NPAI SAS.md](../../Analyses_juridiques/Note%20-%20Audit%20RNE%20NPAI%20SAS.md)** — Note d'audit RNE/INPI du 10 juillet 2026
 <!-- /PJ -->

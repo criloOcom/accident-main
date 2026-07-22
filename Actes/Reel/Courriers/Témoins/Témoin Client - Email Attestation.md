@@ -23,16 +23,26 @@ jx: J+38
 <hr>
 <!-- /Breadcrumb -->
 
+<!-- Auteur -->
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+**[Témoin client présent le J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**
+<!-- /Destinataire -->
+
 # TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (CLIENT)
 <hr><hr>
-Objet : Attestation de témoin — Accident du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au salon **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**
+Objet : Attestation de témoin — Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au salon **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**
 <hr><hr>
 
 <hr><hr>
 
 Bonjour,
 
-Vous étiez présent(e) le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au salon **Exploitant du Commerce** situé au **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)** lorsque l'accident s'est produit.
+Vous étiez présent(e) le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au salon **Exploitant du Commerce** situé au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** lorsque l'accident s'est produit.
 
 <!-- Date -->
 Je me permets de vous solliciter pour remplir une **attestation de témoin** (Cerfa n° 11527\*03) afin de décrire ce que vous avez vu ce jour-là : la montée du coiffeur sur la vasque en céramique pour régler la télévision, le basculement de l'équipement, et le fait que ma main droite a heurté une cassure préexistante sur le flanc de la vasque.
@@ -71,8 +81,8 @@ Je vous remercie infiniment pour votre aide.
 Cordialement,
 
 <!-- Signature -->
-**[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**
-**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /Signature -->
 
 📎 **Pièce jointe :** Joindre le PDF du Cerfa n° 11527\*03.
@@ -80,5 +90,5 @@ Cordialement,
 <!-- Source -->
 ## Sources Législation
 
-[^1]: [Article 202 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330)
+[^1]: [Article 202 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330) ↩
 <!-- /Source -->

@@ -81,14 +81,14 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
+  > > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 
 ### Mémoire - En défense adverse
 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
+  > > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 
 ### Mémoire_de_synthèse_—_Recours_assurances_ERP
 
@@ -115,7 +115,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [TJ Rennes 20-05541](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ Rennes 20-05541.md)
 
 - **Citation extraite :**
-  > Le jugement **[TJ Rennes 20/05541](<../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ Rennes 20-05541.md>)** est particulièrement pertinent car il concerne l'indemnisation d'un travailleur indépendant (informaticien), identique à la situation de **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**. Le tribunal a détaillé l'évaluation de l'incidence professionnelle tenant compte de la perte de clientèle, de la dévalorisation sur le marché du travail et des difficultés accrues d'exercice professionnel.
+  > Le jugement [**[TJ Rennes 20/05541]**](../../../Memory/Tokens/token-victime-nom-complet.md). Le tribunal a détaillé l'évaluation de l'incidence professionnelle tenant compte de la perte de clientèle, de la dévalorisation sur le marché du travail et des difficultés accrues d'exercice professionnel.
 
 - **Jurisprudence :** [20-19.288_CourCassation](../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/20-19.288_CourCassation.md)
 
@@ -202,7 +202,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt SATI — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
+  > > [Arrêt SATI — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 
 ### Note - Changelog Juridique
 
@@ -241,12 +241,12 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [00-82.066_CourCassation](../../../Lois/Jurisprudence/Responsabilité_du_commettant/00-82.066_CourCassation.md)
 
 - **Citation extraite :**
-  > - **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351)[^5]. Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
+  > - **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070713](../../../Lois/Jurisprudence/JURITEXT0000070713.md)51)[^5]. Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
 
 - **Jurisprudence :** [97-17.378_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/97-17.378_CourCassation.md)
 
 - **Citation extraite :**
-  > - **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** [N° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)[^4]. Le préposé **[Le Préposé de l'Exploitation](../../../Memory/Tokens/token-exploitation-prepose-nom.md)** ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
+  > - **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** [**[N° 97-17.378]**](../../../Memory/Tokens/token-exploitation-prepose-nom.md) ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
@@ -258,14 +258,14 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt SATI — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
+  > > [Arrêt SATI — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 
 ### Note - FAQ Juridique
 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), **[Le Président de l'Exploitation](../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../Memory/Tokens/token-exploitation-dg-nom.md)** engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
+  > Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
 
 ### Note - Mémo Axes Juridiques Avocat
 
@@ -296,7 +296,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Pourvoi n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
+  > > [Pourvoi n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69)
 
 ### Note - Stratégie Jurisprudentielle
 
@@ -345,17 +345,17 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [CA Toulouse 11-03512](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA Toulouse 11-03512.md)
 
 - **Citation extraite :**
-  > - **Défaut d'entretien de l'équipement** ([**CA Toulouse 2013, n°11/03512**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA%20Toulouse%2011-03512.md)).
+  > - **Défaut d'entretien de l'équipement** ([**CA Toulouse 2013, n°11/03512**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA%20Toulouse%2011-03512.md).
 
 - **Jurisprudence :** [TJ Nanterre 19-08999](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ Nanterre 19-08999.md)
 
 - **Citation extraite :**
-  > - **Obligation de sécurité de l'ERP** : l'établissement recevant du public est tenu d'une obligation de moyens renforcée en matière de sécurité ([**TJ Nanterre 2025, n°19/08999**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ%20Nanterre%2019-08999.md)).
+  > - **Obligation de sécurité de l'ERP** : l'établissement recevant du public est tenu d'une obligation de moyens renforcée en matière de sécurité ([**TJ Nanterre 2025, n°19/08999**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ%20Nanterre%2019-08999.md).
 
 - **Jurisprudence :** [TJ Rennes 20-05541](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ Rennes 20-05541.md)
 
 - **Citation extraite :**
-  > 6. Présenter le préjudice : ITT de 55 jours, souffrances endurées, préjudice esthétique temporaire, incidence professionnelle (informaticien indépendant — cf. [**TJ Rennes 2026, n°20/05541**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ%20Rennes%2020-05541.md)), et post-consolidation à évaluer.
+  > 6. Présenter le préjudice : ITT de 55 jours, souffrances endurées, préjudice esthétique temporaire, incidence professionnelle (informaticien indépendant — cf. [**TJ Rennes 2026, n°20/05541**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ%20Rennes%2020-05541.md), et post-consolidation à évaluer.
 
 - **Jurisprudence :** [20-19.288_CourCassation](../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/20-19.288_CourCassation.md)
 
@@ -370,7 +370,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [20-23.462_CourCassation](../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/20-23.462_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Civ. 2e, 24 novembre 2022, n°20-23.462](https://www.legifrance.gouv.fr/juri/id/JURITEXT000046652027) <br>
+  > > [Civ. 2e, 24 novembre 2022, n°20-23.462](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000466520](../../../Lois/Jurisprudence/JURITEXT0000466520.md)27) <br>
 
 - **Jurisprudence :** [TJ Nanterre 22-02447](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ Nanterre 22-02447.md)
 
@@ -385,19 +385,19 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt SATI — Com., 20 mai 2003, n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
+  > > [Arrêt SATI — Com., 20 mai 2003, n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 
 ### Parquet Foix - Assurance RC - Plainte Défaut
 
 - **Jurisprudence :** [20-16.463_CourCassation](../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/20-16.463_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) <br>
+  > > [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000444828](../../../Lois/Jurisprudence/JURITEXT0000444828.md)48) <br>
 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
+  > > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 
 ### TJ Foix - Bordereau Unifié
 
@@ -421,7 +421,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [20-16.463_CourCassation](../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/20-16.463_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
+  > > [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000444828](../../../Lois/Jurisprudence/JURITEXT0000444828.md)48)
 
 ### TJ Foix - Référé Provision - Assignation
 
@@ -433,19 +433,19 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
+  > > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 
 ### TJ Foix - Référé Provision - Conclusions
 
 - **Jurisprudence :** [74-10.466_CourCassation](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/74-10.466_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt n°74-10.466](https://www.legifrance.gouv.fr/juri/id/JURITEXT000006993485)
+  > > [Arrêt n°74-10.466](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000069934](../../../Lois/Jurisprudence/JURITEXT0000069934.md)85)
 
 - **Jurisprudence :** [89-18.422_CourCassation](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt n°89-18.422](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007026411)
+  > > [Arrêt n°89-18.422](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070264](../../../Lois/Jurisprudence/JURITEXT0000070264.md)11)
 
 - **Jurisprudence :** [97-17.378_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/97-17.378_CourCassation.md)
 
@@ -462,7 +462,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [89-18.422_CourCassation](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md)
 
 - **Citation extraite :**
-  > **Considérant** que la responsabilité de **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** est engagée de plein droit sur le fondement de l'article **1242 alinéa 1er** du Code civil en qualité de gardienne de la vasque, qui a été l'instrument actif du dommage (Civ. 2e, 13 février 1991, n° 89-18.422) ; que la société est également engagée en qualité de commettant sur le fondement de l'article 1242 alinéa 5 du même code, le préposé ayant agi dans le cadre de ses fonctions ;
+  > **Considérant** que la responsabilité de [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) est engagée de plein droit sur le fondement de l'article **1242 alinéa 1er** du Code civil en qualité de gardienne de la vasque, qui a été l'instrument actif du dommage (Civ. 2e, 13 février 1991, n° 89-18.422) ; que la société est également engagée en qualité de commettant sur le fondement de l'article 1242 alinéa 5 du même code, le préposé ayant agi dans le cadre de ses fonctions ;
 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 

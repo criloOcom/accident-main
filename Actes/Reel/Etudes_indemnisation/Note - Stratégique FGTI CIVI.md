@@ -25,7 +25,7 @@ jx: J+40
 Les conditions posées par l'article 706-3 du Code de procédure pénale sont intégralement remplies :
 
 > *« Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : 1° Ces atteintes n'entrent pas dans le champ d'application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ni de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux susceptibles d'occasionner des dégâts ; 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois ; -soit sont prévus et réprimés par les articles 222-22 à 222-30 , 224-1 A à 224-1 C, 225-4-1 à 225-4-5,225-5 à 225-10, 225-14-1 et 225-14-2 et 227-25 à 227-27 du code pénal ; -soit ont été commis sur un mineur ou par le conjoint ou le concubin de la victime, par le partenaire lié à la victime par un pacte civil de solidarité, par un ancien conjoint ou concubin de la victime ou par un ancien partenaire lié à la victime par un pacte civil de solidarité et sont prévus et réprimés par l'article 222-12 du code pénal ou par le 3° et l'avant-dernier alinéa de l'article 222-14 du même code, y compris lorsque ces faits ont été commis avec d'autres circonstances aggravantes. Par exception au premier alinéa du présent article, le montant maximal de la réparation des dommages subis en raison de ces faits, lorsqu'ils ont entraîné une incapacité totale de travail inférieure à un mois, est défini par voie réglementaire. 3° La personne lésée est de nationalité française ou les faits ont été commis sur le territoire national. La réparation peut être refusée ou son montant réduit à raison de la faute de la victime. »* <br>
-> [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) <br>
+> [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000484423](../../../Lois/Code/LEGIARTI0000484423.md)45) <br>
 > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^1]**
 - **Infraction pénale** : Oui, blessures involontaires (art. 222-19 CP) par manquement à une obligation de sécurité.
 
@@ -49,7 +49,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 
 ## III — PROCÉDURE DÉTAILLÉE DEVANT LA CIVI
 
-1. **Saisine** : Dépôt d'une requête devant la Commission d'Indemnisation des Victimes d'Infractions (CIVI) rattachée au Tribunal Judiciaire (TJ de **[La Métropole Régionale](../../../Memory/Tokens/token-accident-metropole.md)** ou de **[La Ville de l'Accident](../../../Memory/Tokens/token-accident-ville.md)**).
+1. **Saisine** : Dépôt d'une requête devant la Commission d'Indemnisation des Victimes d'Infractions (CIVI) rattachée au Tribunal Judiciaire (TJ de [Toulouse](../../../Memory/Tokens/token-accident-metropole.md) ou de [Foix](../../../Memory/Tokens/token-accident-ville.md).
 
 2. **Phase amiable (FGTI)** : La requête est transmise au FGTI, qui dispose d'un délai de 2 mois pour formuler une offre d'indemnisation provisionnelle ou définitive.
 
@@ -79,7 +79,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 
 ## VI — PIÈCES NÉCESSAIRES POUR LA DEMANDE CIVI
 
-- Copie de la plainte et du procès-verbal de police (n°[2026/015967](../../../Memory/Tokens/token-pv-police-numero.md)).
+- Copie de la plainte et du procès-verbal de police (n°[2026/015967](../../../Memory/Tokens/token-pv-police-numero.md).
 
 - Certificats médicaux (dont le CMI constatant les blessures) et [arrêts de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant de l'ITT de 55 jours.
 
@@ -106,5 +106,5 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 
 ## Sources Législation
 
-[^1]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) ↩
+[^1]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000484423](../../../Lois/Code/LEGIARTI0000484423.md)45](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000484423](../../../Lois/Code/LEGIARTI0000484423.md)45) ↩
 <!-- /Source -->

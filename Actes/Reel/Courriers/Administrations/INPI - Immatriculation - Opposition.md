@@ -30,19 +30,19 @@ jx: J+41
 <!-- /Breadcrumb -->
 
 <!-- Auteur -->
-**[Nom Prénom de l'Avocat](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
+**[Nom de l'Avocat de la Victime](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-À l'attention du Greffier du Tribunal de Commerce de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**  
+À l'attention du Greffier du Tribunal de Commerce de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**  
 Service du Registre National des Entreprises (RNE)
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 9 juillet 2026
+**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 9 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # OPPOSITION À IMMATRICULATION <br> AU REGISTRE NATIONAL DES ENTREPRISES
 
@@ -52,7 +52,7 @@ Service du Registre National des Entreprises (RNE)
 
 <hr><hr>
 
-**Objet :** Opposition à l'immatriculation de toute nouvelle société à **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)** présentant un lien avec les dirigeants de **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
+**Objet :** Opposition à l'immatriculation de toute nouvelle société à **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** présentant un lien avec les dirigeants de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
 <hr><hr>
 
@@ -60,15 +60,15 @@ Service du Registre National des Entreprises (RNE)
 
 <hr><hr>
 
-**Référence RCS :** **[104 103 262 00010](../../../../Memory/Tokens/token-exploitation-id.md)**
+**Référence RCS :** **[L'Identifiant de l'Exploitation](../../../../Memory/Tokens/token-exploitation-id.md)**
 **Lettre Recommandée avec Accusé de Réception**
 
 Monsieur le Greffier,
 ## I — EXPOSÉ DES FAITS
 
-J'interviens dans les intérêts de **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**.
+J'interviens dans les intérêts de **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**.
 
-Il existe de sérieuses raisons de penser que la société **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et ses dirigeants, **[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, s'apprêtent à dissoudre ou à abandonner la structure actuelle pour recréer une nouvelle société exerçant la même activité à la même adresse, dans le but manifeste de se soustraire aux obligations indemnitaires nées de l'accident.
+Il existe de sérieuses raisons de penser que la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et ses dirigeants, **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, s'apprêtent à dissoudre ou à abandonner la structure actuelle pour recréer une nouvelle société exerçant la même activité à la même adresse, dans le but manifeste de se soustraire aux obligations indemnitaires nées de l'accident.
 <hr><hr>
 
 ## II — FONDEMENTS JURIDIQUES
@@ -79,7 +79,7 @@ Il existe de sérieuses raisons de penser que la société **[SAS HB BARBER](../
 > [Article L.123-5-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291) <br>
 > Code de commerce[^1] <br>
 
-Cet article permet à tout intéressé — ici **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, créancière d'une obligation indemnitaire — de solliciter du président du tribunal, statuant en référé, qu'il enjoigne sous astreinte aux dirigeants de régulariser leur situation au registre.
+Cet article permet à tout intéressé — ici **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, créancière d'une obligation indemnitaire — de solliciter du président du tribunal, statuant en référé, qu'il enjoigne sous astreinte aux dirigeants de régulariser leur situation au registre.
 
 Il manifeste également la volonté du législateur de confier au ministère public un rôle de surveillance des immatriculations.
 
@@ -91,7 +91,7 @@ Par la présente, je sollicite que le Parquet soit saisi pour exercer ce pouvoir
 > [Article L.123-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422) <br>
 > Code de commerce[^2] <br>
 
-Cet article permet à un tiers justifiant d'un intérêt légitime — ici **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, créancière d'une obligation indemnitaire — de solliciter du juge commis à la surveillance du registre qu'il enjoigne aux dirigeants de régulariser l'immatriculation ou de procéder à la radiation de toute inscription irrégulière.
+Cet article permet à un tiers justifiant d'un intérêt légitime — ici **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, créancière d'une obligation indemnitaire — de solliciter du juge commis à la surveillance du registre qu'il enjoigne aux dirigeants de régulariser l'immatriculation ou de procéder à la radiation de toute inscription irrégulière.
 
 ### II.3 — Fraus omnia corrumpit
 
@@ -104,9 +104,9 @@ Si une nouvelle société est créée à la même adresse avec les mêmes dirige
 
 Je vous prie de bien vouloir :
 
-1. **Prendre acte** de la présente opposition à l'immatriculation de toute nouvelle société à **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)** dont les dirigeants seraient liés à **[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)** ou **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**.
+1. **Prendre acte** de la présente opposition à l'immatriculation de toute nouvelle société à **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** dont les dirigeants seraient liés à **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** ou **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**.
 
-2. **Inscrire** une mention d'opposition provisoire au dossier de la société **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
+2. **Inscrire** une mention d'opposition provisoire au dossier de la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
 
 3. **M'informer** de tout dépôt de dossier d'immatriculation à cette adresse dans les six prochains mois.
 
@@ -118,14 +118,14 @@ Je vous prie de bien vouloir :
 
 Je vous remercie de l'attention que vous porterez à cette demande et vous prie de croire, Monsieur le Greffier, en l'expression de mes salutations distinguées.
 
-**[Nom Prénom de l'Avocat](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
+**[Nom de l'Avocat de la Victime](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
 Avocat au Barreau
 <!-- PJ -->
 <hr><hr>
 
 ## PIECES JOINTES
 
-- **[Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de Foix
+- **[Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de [La Ville de l'Accident]
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
 
@@ -139,6 +139,6 @@ Avocat au Barreau
 
 ## Sources Législation
 
-[^1]: [Article L.123-5-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291)
-[^2]: [Article L.123-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422)
+[^1]: [Article L.123-5-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291) ↩
+[^2]: [Article L.123-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422) ↩
 <!-- /Source -->

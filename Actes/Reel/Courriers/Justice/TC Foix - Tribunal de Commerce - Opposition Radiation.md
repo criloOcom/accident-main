@@ -25,21 +25,21 @@ jx: J+41
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # OPPOSITION CONSERVATOIRE <br> RADIATION DE SOCIÉTÉ
 
 <!-- Auteur -->
-**[Nom Prénom de l'Avocat](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
+**[Nom de l'Avocat de la Victime](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**À L'ATTENTION DE MONSIEUR LE PRÉSIDENT DU Tribunal de Commerce de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)****
+**À L'ATTENTION DE MONSIEUR LE PRÉSIDENT DU Tribunal de Commerce de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)****
 Service du Registre du Commerce et des Sociétés
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le 9 juillet 2026
+**[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le 9 juillet 2026
 <!-- /Date -->
 
 <hr><hr>
@@ -48,22 +48,22 @@ Service du Registre du Commerce et des Sociétés
 
 <hr><hr>
 
-**Objet :** Demande d'opposition conservatoire à la radiation d'office ou volontaire de la société **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
+**Objet :** Demande d'opposition conservatoire à la radiation d'office ou volontaire de la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
 <hr><hr>
 
 <!-- /Objet -->
 
 <hr><hr>
-**Référence RCS :** **[104 103 262 00010](../../../../Memory/Tokens/token-exploitation-id.md)**
+**Référence RCS :** **[L'Identifiant de l'Exploitation](../../../../Memory/Tokens/token-exploitation-id.md)**
 **Lettre Recommandée avec Accusé de Réception**
 
 Monsieur le Président,
 
-J'interviens dans les intérêts de Monsieur **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu au sein des locaux exploités par la société **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
+J'interviens dans les intérêts de Monsieur **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu au sein des locaux exploités par la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
 ## I — PROBLÉMATIQUE : RISQUE DE DISPARITION DE LA PERSONNE MORALE
 
-À la suite de ce grave sinistre, de multiples manquements aux règles de sécurité, constitutifs d'infractions pénales, ont été constatés à l'encontre de la société **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
+À la suite de ce grave sinistre, de multiples manquements aux règles de sécurité, constitutifs d'infractions pénales, ont été constatés à l'encontre de la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
 
 Des procédures civiles et pénales sont actuellement en cours d'engagement pour faire valoir les droits de mon client et obtenir la réparation intégrale de son préjudice corporel, ainsi que la condamnation des responsables.
 
@@ -88,7 +88,7 @@ Le Code de commerce encadre strictement les conditions de radiation d'office d'u
 
 Les dispositions précitées, si elles permettent l'assainissement du registre, ne sauraient être instrumentalisées par une entreprise débitrice d'obligations indemnitaires pour organiser son insolvabilité ou échapper à la justice.
 
-Dans le cas d'espèce, la disparition de la société **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** créerait un préjudice irréparable pour **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**.
+Dans le cas d'espèce, la disparition de la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** créerait un préjudice irréparable pour **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**.
 
 Il est de jurisprudence constante que les créanciers justifiant d'un intérêt légitime peuvent former opposition à une radiation pour préserver leurs droits, le temps que la juridiction saisie du fond statue sur les responsabilités et les indemnisations.
 
@@ -99,7 +99,7 @@ L'intérêt à agir de mon client est ici caractérisé et actuel, fondé sur un
 
 Au vu de l'urgence et du risque avéré de dissipation des garanties, je vous prie de bien vouloir, par la présente :
 
-1. **Prendre acte** de l'opposition formelle de **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** à toute demande de radiation, qu'elle soit amiable, consécutive à une dissolution anticipée, ou d'office, concernant la société **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (RCS **[104 103 262 00010](../../../../Memory/Tokens/token-exploitation-id.md)**).
+1. **Prendre acte** de l'opposition formelle de **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** à toute demande de radiation, qu'elle soit amiable, consécutive à une dissolution anticipée, ou d'office, concernant la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (RCS **[L'Identifiant de l'Exploitation](../../../../Memory/Tokens/token-exploitation-id.md)**).
 
 2. **Inscrire** une mention de cette opposition au dossier de la société.
 
@@ -107,14 +107,14 @@ Au vu de l'urgence et du risque avéré de dissipation des garanties, je vous pr
 
 Je vous remercie de l'attention que vous porterez à cette demande, essentielle à la préservation des droits d'une victime de dommages corporels graves, et vous prie de croire, Monsieur le Président, en l'expression de mes salutations distinguées.
 
-**[Nom Prénom de l'Avocat](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
+**[Nom de l'Avocat de la Victime](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
 Avocat au Barreau
 <!-- PJ -->
 <hr><hr>
 
 ## PIECES JOINTES
 
-- **[Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de Foix
+- **[Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de [La Ville de l'Accident]
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
 
@@ -122,7 +122,7 @@ Avocat au Barreau
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]
 
-- **[Mise en demeure J+31 — SAS](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR n° 87001424863012T restee sans reponse
+- **[Mise en demeure J+31 — SAS](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR n° [N° LRAR Exploitant] restee sans reponse
 <!-- /PJ -->
 
 <!-- Source -->
@@ -130,5 +130,5 @@ Avocat au Barreau
 
 ## Sources Législation
 
-[^1]: [Art. R.123-128 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214)
+[^1]: [Art. R.123-128 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214) ↩
 <!-- /Source -->

@@ -127,53 +127,40 @@ def update_yaml_frontmatter(content):
         return title_line
     return re.sub(r'^titre:\s*.*$', replacer, content, flags=re.MULTILINE)
 
+def find_md_files(root_dir):
+    for dirpath, _, filenames in os.walk(root_dir):
+        for f in sorted(filenames):
+            if f.endswith('.md') and f not in ('INDEX.md', 'README.md'):
+                yield os.path.join(dirpath, f)
+
 def main():
     input_base = 'Actes/Token'
     output_base = 'Actes/Reel'
 
     generated = []
 
-    for subdir in sorted(os.listdir(input_base)):
-        input_dir = os.path.join(input_base, subdir)
-        if not os.path.isdir(input_dir):
-            continue
+    for filepath in find_md_files(input_base):
+        rel_path = os.path.relpath(filepath, input_base)
+        outpath = os.path.join(output_base, rel_path)
+        os.makedirs(os.path.dirname(outpath), exist_ok=True)
 
-        output_dir = os.path.join(output_base, subdir)
-        os.makedirs(output_dir, exist_ok=True)
+        with open(filepath, 'r', encoding='utf-8') as f:
+            content = f.read()
 
-        sub_generated = []
-        for filepath in sorted(glob.glob(os.path.join(input_dir, '*.md'))):
-            filename = os.path.basename(filepath)
-            if filename in ('INDEX.md', 'README.md'):
-                continue
+        content = update_yaml_frontmatter(content)
+        content = replace_header_block(content)
+        for token, real_val in REVERSE_MAP.items():
+            content = content.replace(token, real_val)
+        content = content.replace("**[Adresse à compléter]**", "[À compléter]")
+        content = content.replace("**[À compléter]**", "[À compléter]")
 
-            with open(filepath, 'r', encoding='utf-8') as f:
-                content = f.read()
+        with open(outpath, 'w', encoding='utf-8') as f:
+            f.write(content)
 
-            content = update_yaml_frontmatter(content)
-            content = replace_header_block(content)
-            for token, real_val in REVERSE_MAP.items():
-                content = content.replace(token, real_val)
-            content = content.replace("**[Adresse à compléter]**", "[À compléter]")
-            content = content.replace("**[À compléter]**", "[À compléter]")
+        generated.append(outpath)
+        print(f"  {outpath}")
 
-            outpath = os.path.join(output_dir, filename)
-            with open(outpath, 'w', encoding='utf-8') as f:
-                f.write(content)
-
-            sub_generated.append(filename)
-            print(f"  {outpath}")
-
-        if sub_generated:
-            idx_path = os.path.join(output_dir, 'README.md')
-            with open(idx_path, 'w', encoding='utf-8') as f:
-                f.write(f"# Index — {subdir} (Versions Réelles)\n\n")
-                for fn in sorted(sub_generated):
-                    f.write(f"- [{fn}]({fn})\n")
-            print(f"  {idx_path}")
-            generated.append((subdir, sub_generated))
-
-    total = sum(len(files) for _, files in generated)
+    total = len(generated)
     print(f"\n--- {total} fichiers générés dans {output_base}/ ---")
 
 if __name__ == '__main__':
