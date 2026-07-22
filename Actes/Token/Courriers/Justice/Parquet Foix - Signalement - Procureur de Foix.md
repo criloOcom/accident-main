@@ -15,6 +15,16 @@ auteur: Antoine
 <hr>
 <!-- /Breadcrumb -->
 
+<!-- Auteur -->
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+**Procureur de la République près le Tribunal judiciaire de [La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
+<!-- /Destinataire -->
+
 # ✉️⚖️ Procureur — Signalement Mairie — Suites Administratives
 
 **Statut :** Brouillon — à envoyer après dépôt de la plainte complémentaire et de la requête 145

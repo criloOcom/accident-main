@@ -23,6 +23,16 @@ jx: J+38
 <hr>
 <!-- /Breadcrumb -->
 
+<!-- Auteur -->
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+**Services de secours intervenus le [J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**
+<!-- /Destinataire -->
+
 # TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (POMPIER / SAMU)
 ---
 Objet : Attestation de témoin — Intervention du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**

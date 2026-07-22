@@ -29,6 +29,16 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 <hr>
 <!-- /Breadcrumb -->
 
+<!-- Auteur -->
+**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
+**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
+**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+<!-- /Auteur -->
+
+<!-- Destinataire -->
+**Bureau d'Aide Juridictionnelle (BAJ) — Tribunal Judiciaire de Foix**
+<!-- /Destinataire -->
+
 # DEMANDE D'AIDE JURIDICTIONNELLE TOTALE
 
 > **Formulaire CERFA n°16146*03**
@@ -38,16 +48,16 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 
 | Champ | Renseignement |
 |-------|---------------|
-| **Nom de naissance** | [**[La Victime]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques) |
+| **Nom de naissance** | [**[La Victime]**](../../../../Memory/TOKEN%20MAP.md#personnes-physiques) |
 | **Prénom** | **[Prénom de la Victime](../../../../Memory/Tokens/token-victime-prenom.md)** |
 | **Date de naissance** | 18 janvier 1982 |
-| **Lieu de naissance** | [**[La Métropole Régionale]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) |
+| **Lieu de naissance** | [**[La Métropole Régionale]**](../../../../Memory/TOKEN%20MAP.md#donnees-localisantes) |
 | **Nationalité** | Française |
 | **Situation familiale** | Célibataire |
 | **Nombre d'enfants à charge** | 0 |
-| **Adresse** | [**[L'Adresse de la Victime]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) |
+| **Adresse** | [**[L'Adresse de la Victime]**](../../../../Memory/TOKEN%20MAP.md#donnees-localisantes) |
 | **Téléphone** | **[Téléphone de la Victime]** |
-| **Email** | [**[L'Email de la Victime]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) |
+| **Email** | [**[L'Email de la Victime]**](../../../../Memory/TOKEN%20MAP.md#donnees-localisantes) |
 
 ## II — SITUATION PROFESSIONNELLE ET RESSOURCES
 
@@ -56,7 +66,7 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 
 - **Régime** : Micro-entrepreneur (régime fiscal micro-BNC)
 
-- **N° SIREN** : [**[L'Identifiant Professionnel de la Victime]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)
+- **N° SIREN** : [**[L'Identifiant Professionnel de la Victime]**](../../../../Memory/TOKEN%20MAP.md#donnees-localisantes)
 
 ### Revenus
 | Type | Montant |
@@ -86,16 +96,16 @@ Demande d'indemnisation pour **accident corporel** — responsabilité civile du
 **Tribunal judiciaire de Foix** — Cabinet du Juge des Référés
 
 ### Qualité du demandeur
-[**[La Victime]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques), partie **demanderesse**
+[**[La Victime]**](../../../../Memory/TOKEN%20MAP.md#personnes-physiques), partie **demanderesse**
 
 ### Qualité du/des défendeur(s)
 1. **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, exploitant du salon de coiffure au 22 Rue Lafaurie, 09000 Foix, représenté par ses dirigeants
 
 2. **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, exploitant effectif au jour de l'accident, intervenu volontairement
 
-3. [**[Le Président de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques), dirigeant
+3. [**[Le Président de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md#personnes-physiques), dirigeant
 
-4. [**[La Directrice Générale de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques), dirigeante
+4. [**[La Directrice Générale de l'Exploitation]**](../../../../Memory/TOKEN%20MAP.md#personnes-physiques), dirigeante
 <hr><hr>
 
 ## IV — URGENCE — DEMANDE DE TRAITEMENT ACCÉLÉRÉ
@@ -143,11 +153,11 @@ Le demandeur sollicite un **traitement accéléré** de sa demande d'AJ pour le 
 Le 29 mai 2026, alors que le demandeur se trouvait dans le salon de coiffure situé au 22 Rue Lafaurie à Foix, un employé de l'établissement est monté sur la vasque en céramique du salon pour régler un téléviseur, en l'absence de tout équipement adapté (escabeau ou marchepied). Sous son poids, la vasque a basculé et s'est brisée dans un mouvement de cisaillement, sectionnant les tendons extenseurs des doigts longs de la main droite de la victime (médicalement : **section complète des tendons extenseurs des doigts II à V**).
 
 ### Attestation sur l'honneur
-Je soussigné, [**[La Victime]**](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques), déclare sur l'honneur que l'ensemble des informations fournies dans le présent formulaire sont exactes et sincères.
+Je soussigné, [**[La Victime]**](../../../../Memory/TOKEN%20MAP.md#personnes-physiques), déclare sur l'honneur que l'ensemble des informations fournies dans le présent formulaire sont exactes et sincères.
 
 Fait pour valoir ce que de droit.
 
-[**[La Ville de l'Accident]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes), le 18 juillet 2026
+[**[La Ville de l'Accident]**](../../../../Memory/TOKEN%20MAP.md#donnees-localisantes), le 18 juillet 2026
 
 **Signature :**
 <hr><hr>
