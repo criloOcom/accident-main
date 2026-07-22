@@ -58,6 +58,7 @@ dependencies = [
     { name = "protobuf" },
     { name = "pylegifrance" },
     { name = "pypdf" },
+    { name = "pyyaml" },
     { name = "requests" },
 ]
 
@@ -95,6 +96,7 @@ requires-dist = [
     { name = "protobuf", specifier = ">=6.31.1,<7.0.0" },
     { name = "pylegifrance", specifier = ">=0.1.0" },
     { name = "pypdf", specifier = ">=6.14.2" },
+    { name = "pyyaml", specifier = ">=6.0.3" },
     { name = "requests" },
     { name = "ruff", marker = "extra == 'lint'", specifier = ">=0.4.6,<1.0.0" },
     { name = "ty", marker = "extra == 'lint'", specifier = ">=0.0.1a0" },

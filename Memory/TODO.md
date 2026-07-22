@@ -12,12 +12,6 @@ type: memory
 
 > **Dernière mise à jour :** 22 juillet 2026 — Phase 41 ✅ Correction erratum identité société (LMG vs HB BARBER). SIRET inversé fixé (938 033 222 00010 ↔ 104 103 262 00010), distinction temporelle des dirigeants créée (4 nouveaux tokens anciens dirigeants), adresse canonique unifiée "22 Rue Lafaurie", propagation dans 6 documents Police + CPAM, scripts .dev/app alignés. 59 fichiers, 722 insertions. [Commit f949f4e8](https://github.com/criloOcom/accident-main/commit/f949f4e8) poussé.
 >
-> **Règle absolue :** tout nouvel article de loi cité DOIT être lu via MCP
-> Légifrance (`consulter_article` ou `rechercher_code`) pour vérifier le contexte
-> avant intégration.
->
-> **Nouveau :** Voir [Lois/EXEMPLES_REQUETES_MCP.md](../Lois/EXEMPLES_REQUETES_MCP.md) pour des exemples
-> concrets et testés d'utilisation des MCP Légifrance et Judilibre.
 
 ---
 
@@ -399,4 +393,3 @@ PHASE 5 — INSTANCE AU FOND (2027)
 
 - Validation croisée ANNEXE B ↔ ANNUAIRE Lois ↔ actes
 
-- MCP Légifrance `rechercher_code` pour tout nouvel article

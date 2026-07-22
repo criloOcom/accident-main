@@ -5,6 +5,15 @@ import re, sys
 # MASTER REPLACEMENT TABLE
 # ============================================================
 REPLACEMENTS = [
+    ("Sabir MOUNTASSER", "[L'Ancien Président de l'Exploitation]"),
+    ("SABIR", "[Prénom de l'Ancien Président de l'Exploitation]"),
+    ("Sabir", "[Prénom de l'Ancien Président de l'Exploitation]"),
+    ("MOUNTASSER", "[Nom de l'Ancien Président de l'Exploitation]"),
+    ("Mountasser", "[Nom de l'Ancien Président de l'Exploitation]"),
+    ("SAS LES MAUVAIS GARÇONS", "[L'Ancien Exploitant du Commerce]"),
+    ("SAS LES MAUVAIS GARCONS", "[L'Ancien Exploitant du Commerce]"),
+    ("LES MAUVAIS GARÇONS", "[L'Ancien Exploitant du Commerce]"),
+    ("LES MAUVAIS GARCONS", "[L'Ancien Exploitant du Commerce]"),
     # --- Addresses (full address FIRST to avoid partial match) ---
     # Geographic reference: complaint deposit location (must be BEFORE generic Toulouse)
     ("Service Local de Sécurité Publique de Toulouse Rive Droite (Hôtel de Police, 23 Boulevard de l'Embouchure, 31300 Toulouse)", "[Le Lieu du Dépôt de Plainte Initiale]"),
@@ -27,11 +36,29 @@ REPLACEMENTS = [
     # --- Victim (name variants, longest first) ---
     ("Monsieur Sébastien GRAZIDE", "[La Victime]"),
     ("Sébastien GRAZIDE", "[La Victime]"),
+    ("LES MAUVAIS GARCONS", "**[L'Ancien Exploitant]**"),
+    ("MAUVAIS GARCONS", "**[L'Ancien Exploitant]**"),
+    ("SABIR", "**[L'Ancien Président de l'Exploitation]**"),
+    ("Sabir", "**[L'Ancien Président de l'Exploitation]**"),
     ("Sébastien Grazide", "[La Victime]"),
     ("Monsieur GRAZIDE", "[La Victime]"),
     ("Monsieur Grazide", "[La Victime]"),
     ("Grazide", "[La Victime]"),
     ("GRAZIDE", "[La Victime]"),
+
+    # --- Exploitation ---
+    ("SAS LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
+    ("SAS LES MAUVAIS GARÇONS", "[L'Exploitant du Commerce (La SAS)]"),
+    ("LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
+    ("LES MAUVAIS GARÇONS", "[L'Exploitant du Commerce (La SAS)]"),
+    ("Mountasser SABIR", "[Le Président de la SAS]"),
+    ("Mountasser Sabir", "[Le Président de la SAS]"),
+    ("SABIR", "[Le Président de la SAS]"),
+    ("Sabir", "[Le Président de la SAS]"),
+    ("Catherine ANDISSAC", "[La Directrice Générale de la SAS]"),
+    ("Catherine Andissac", "[La Directrice Générale de la SAS]"),
+    ("ANDISSAC", "[La Directrice Générale de la SAS]"),
+    ("Andissac", "[La Directrice Générale de la SAS]"),
 
     # --- Victim identifiers ---
     ("sebastien.grazide@gmail.com", "[L'Email de la Victime]"),

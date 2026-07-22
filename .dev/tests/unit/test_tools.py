@@ -1,9 +1,14 @@
-from unittest.mock import patch, MagicMock
+from unittest.mock import patch, MagicMock, mock_open
 import pytest
+import json
+import os
+import stat
+import sys
 
 from app.tools import search_law_code
 from app.tools import get_law_article
 from app.tools import search_jurisprudence
+from app.tools import _get_gdrive_token, CREDS_PATH
 
 
 def test_search_law_code_client_unavailable():
@@ -152,3 +157,152 @@ def test_search_jurisprudence_exception():
         result = search_jurisprudence("test exception")
 
         assert result == "Erreur lors de la recherche de jurisprudence : Erreur de connexion"
+
+
+def test_get_gdrive_token_valid():
+    mock_data = {
+        'access_token': 'test_access_token',
+        'refresh_token': 'test_refresh_token',
+        'token_uri': 'test_token_uri',
+        'client_id': 'test_client_id',
+        'client_secret': 'test_client_secret',
+        'scope': 'test_scope1 test_scope2'
+    }
+
+    mock_creds_instance = MagicMock()
+    mock_creds_instance.valid = True
+    mock_creds_instance.token = 'test_access_token'
+
+    mock_creds_class = MagicMock(return_value=mock_creds_instance)
+
+    with patch('builtins.open', mock_open(read_data=json.dumps(mock_data))), \
+         patch.dict('sys.modules', {'google': MagicMock(), 'google.oauth2': MagicMock(), 'google.oauth2.credentials': MagicMock(Credentials=mock_creds_class), 'google.auth': MagicMock(), 'google.auth.transport': MagicMock(), 'google.auth.transport.requests': MagicMock()}):
+
+        token = _get_gdrive_token()
+
+        assert token == 'test_access_token'
+        mock_creds_class.assert_called_once_with(
+            token='test_access_token',
+            refresh_token='test_refresh_token',
+            token_uri='test_token_uri',
+            client_id='test_client_id',
+            client_secret='test_client_secret',
+            scopes=['test_scope1', 'test_scope2']
+        )
+
+def test_get_gdrive_token_valid_scope_list():
+    mock_data = {
+        'access_token': 'test_access_token',
+        'refresh_token': 'test_refresh_token',
+        'token_uri': 'test_token_uri',
+        'client_id': 'test_client_id',
+        'client_secret': 'test_client_secret',
+        'scope': ['test_scope1', 'test_scope2']
+    }
+
+    mock_creds_instance = MagicMock()
+    mock_creds_instance.valid = True
+    mock_creds_instance.token = 'test_access_token'
+
+    mock_creds_class = MagicMock(return_value=mock_creds_instance)
+
+    with patch('builtins.open', mock_open(read_data=json.dumps(mock_data))), \
+         patch.dict('sys.modules', {'google': MagicMock(), 'google.oauth2': MagicMock(), 'google.oauth2.credentials': MagicMock(Credentials=mock_creds_class), 'google.auth': MagicMock(), 'google.auth.transport': MagicMock(), 'google.auth.transport.requests': MagicMock()}):
+
+        token = _get_gdrive_token()
+
+        assert token == 'test_access_token'
+        mock_creds_class.assert_called_once_with(
+            token='test_access_token',
+            refresh_token='test_refresh_token',
+            token_uri='test_token_uri',
+            client_id='test_client_id',
+            client_secret='test_client_secret',
+            scopes=['test_scope1', 'test_scope2']
+        )
+
+def test_get_gdrive_token_invalid_refresh_success():
+    mock_data = {
+        'access_token': 'old_access_token',
+        'refresh_token': 'test_refresh_token',
+        'token_uri': 'test_token_uri',
+        'client_id': 'test_client_id',
+        'client_secret': 'test_client_secret',
+        'scope': 'test_scope1 test_scope2'
+    }
+
+    mock_creds_instance = MagicMock()
+    mock_creds_instance.valid = False
+    mock_creds_instance.token = 'new_access_token'
+    mock_creds_instance.expiry = MagicMock()
+    mock_creds_instance.expiry.timestamp.return_value = 1000.123
+
+    mock_creds_class = MagicMock(return_value=mock_creds_instance)
+    mock_request_class = MagicMock()
+
+    m_open = mock_open(read_data=json.dumps(mock_data))
+
+    with patch('builtins.open', m_open), \
+         patch.dict('sys.modules', {'google': MagicMock(), 'google.oauth2': MagicMock(), 'google.oauth2.credentials': MagicMock(Credentials=mock_creds_class), 'google.auth': MagicMock(), 'google.auth.transport': MagicMock(), 'google.auth.transport.requests': MagicMock(Request=mock_request_class)}), \
+         patch('os.open', return_value=3) as mock_os_open:
+
+        token = _get_gdrive_token()
+
+        assert token == 'new_access_token'
+        mock_creds_instance.refresh.assert_called_once()
+        mock_os_open.assert_called_once_with(
+            CREDS_PATH,
+            os.O_WRONLY | os.O_CREAT | os.O_TRUNC,
+            stat.S_IRUSR | stat.S_IWUSR
+        )
+
+        # Verify it opened for writing the updated token
+        m_open.assert_called_with(3, 'w')
+
+        # Verify write was called
+        handle = m_open()
+        written_data = "".join(call.args[0] for call in handle.write.call_args_list)
+        written_json = json.loads(written_data)
+        assert written_json['access_token'] == 'new_access_token'
+        assert written_json['expiry_date'] == 1000123
+
+def test_get_gdrive_token_invalid_refresh_no_expiry():
+    mock_data = {
+        'access_token': 'old_access_token',
+        'refresh_token': 'test_refresh_token',
+        'token_uri': 'test_token_uri',
+        'client_id': 'test_client_id',
+        'client_secret': 'test_client_secret',
+        'scope': 'test_scope1 test_scope2'
+    }
+
+    mock_creds_instance = MagicMock()
+    mock_creds_instance.valid = False
+    mock_creds_instance.token = 'new_access_token'
+    mock_creds_instance.expiry = None
+
+    mock_creds_class = MagicMock(return_value=mock_creds_instance)
+    mock_request_class = MagicMock()
+
+    m_open = mock_open(read_data=json.dumps(mock_data))
+
+    with patch('builtins.open', m_open), \
+         patch.dict('sys.modules', {'google': MagicMock(), 'google.oauth2': MagicMock(), 'google.oauth2.credentials': MagicMock(Credentials=mock_creds_class), 'google.auth': MagicMock(), 'google.auth.transport': MagicMock(), 'google.auth.transport.requests': MagicMock(Request=mock_request_class)}), \
+         patch('os.open', return_value=3) as mock_os_open:
+
+        token = _get_gdrive_token()
+
+        assert token == 'new_access_token'
+        mock_creds_instance.refresh.assert_called_once()
+        mock_os_open.assert_called_once_with(
+            CREDS_PATH,
+            os.O_WRONLY | os.O_CREAT | os.O_TRUNC,
+            stat.S_IRUSR | stat.S_IWUSR
+        )
+
+        # Verify write was called
+        handle = m_open()
+        written_data = "".join(call.args[0] for call in handle.write.call_args_list)
+        written_json = json.loads(written_data)
+        assert written_json['access_token'] == 'new_access_token'
+        assert written_json['expiry_date'] == 0
