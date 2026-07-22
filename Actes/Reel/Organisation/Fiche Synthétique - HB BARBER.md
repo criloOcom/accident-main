@@ -1,4 +1,5 @@
 ---
+uid: jRxLhGZ3X
 title: "Fiche Synthétique — SAS HB BARBER"
 description: "Fiche récapitulative des données INPI/RNE/SIRENE de la SAS HB BARBER à verser au Commissariat et au BAJ de Foix le 27/07/2026."
 type: organisation

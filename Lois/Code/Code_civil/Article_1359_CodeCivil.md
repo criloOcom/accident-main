@@ -1,4 +1,5 @@
 ---
+uid: YdeeZcL2G
 type: loi
 title: Article 1359 – Preuve par écrit des actes juridiques
 date: 2026-07-20

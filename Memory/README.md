@@ -1,4 +1,5 @@
 ---
+uid: HtTF35a6C
 title: "🧠 Mémoire du Projet"
 breadcrumb: "🧠 Memory"
 description: "Ce dossier contient les documents de référence, les variables strictes, et la mémoire institutionnelle du projet accident-main."

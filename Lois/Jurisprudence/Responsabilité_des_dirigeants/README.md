@@ -1,4 +1,5 @@
 ---
+uid: PnKVbHFZx
 title: "Responsabilité_des_dirigeants"
 description: "Arrêts de la Cour de cassation sur la responsabilité personnelle des dirigeants"
 type: readme

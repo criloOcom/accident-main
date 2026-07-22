@@ -1,4 +1,5 @@
 ---
+uid: QDN3cmpiz
 title: "📋 Attestation — Témoin Client"
 description: "Cerfa 11527*03 — Attestation du client présent lors de l'accident"
 type: attestation

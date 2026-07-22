@@ -1,4 +1,5 @@
 ---
+uid: 2wwq7jtqY
 title: CA Chambéry, 2016 (n° 15/01748)
 description: Cour d'appel de Chambéry — Indemnisation du préjudice corporel suite à accident de la circulation
 type: jurisprudence

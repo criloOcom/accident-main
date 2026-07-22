@@ -1,4 +1,5 @@
 ---
+uid: QVR2pMrE9
 title: "Avis de situation SAS"
 description: "INSEE — Avis de situation de la SAS LES MAUVAIS GARCONS — SIREN 938 033 222"
 type: preuve

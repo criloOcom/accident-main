@@ -1,4 +1,5 @@
 ---
+uid: 5Yp3Etay6
 title: "CONVENTIONS DE FORMATAGE UNIFIÉES"
 description: "Document unique et souverain définissant toutes les règles de formatage des fichiers .md du projet. Tout agent DOIT s'y conformer."
 type: memory

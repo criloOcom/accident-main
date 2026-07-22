@@ -1,4 +1,5 @@
 ---
+uid: q8Ltf8gs2
 title: PHASE 45 — A8 — Rapport Consolidé
 description: Liste exhaustive des erreurs détectées par Phase 45, classées par priorité, avant correction
 type: rapport

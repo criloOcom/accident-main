@@ -1,4 +1,5 @@
 ---
+uid: dH5Z5Lrwy
 title: "📁 20260601 INSEE INPI"
 description: "README de la pièce INSEE INPI"
 type: readme

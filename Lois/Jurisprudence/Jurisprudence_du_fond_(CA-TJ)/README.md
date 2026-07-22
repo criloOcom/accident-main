@@ -1,4 +1,5 @@
 ---
+uid: qkJNVrts8
 title: "Jurisprudence_du_fond_(CA-TJ)"
 description: "Décisions des cours d'appel et tribunaux judiciaires sur la responsabilité en ERP et l'indemnisation du préjudice corporel"
 type: readme

@@ -1,4 +1,5 @@
 ---
+uid: xnE8X3GqA
 title: Article L227-1
 description: Code de commerce — Sociétés par actions simplifiée (SAS)
 type: loi

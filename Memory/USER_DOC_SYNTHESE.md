@@ -1,4 +1,5 @@
 ---
+uid: ujPqRZsw4
 title: "Document de Synthèse Utilisateur — Plainte Complémentaire Réelle"
 description: "Texte de travail importé du Google Doc de l'utilisateur"
 type: memory

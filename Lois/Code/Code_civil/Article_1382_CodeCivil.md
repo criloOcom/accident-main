@@ -1,4 +1,5 @@
 ---
+uid: 99wtYwktB
 type: loi
 title: Article 1382 – Preuve par présomption judiciaire
 date: 2026-07-20

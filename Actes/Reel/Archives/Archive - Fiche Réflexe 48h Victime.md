@@ -1,4 +1,5 @@
 ---
+uid: vyEhXuJPj
 title: "Fiche Reflexe 48h — Victime d'Accident Corporel"
 description: "Etape 1 — Securite et sante"
 type: readme

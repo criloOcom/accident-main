@@ -1,4 +1,5 @@
 ---
+uid: 2fHGsrpi9
 title: Mission Night Watch M14 — Audit continuité et cohérence globale
 description: Rapport d'audit de la continuité et de la cohérence globale du dépôt.
 date: 2026-07-20

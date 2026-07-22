@@ -1,4 +1,5 @@
 ---
+uid: mFZ3m72cd
 title: Recommandations Urgentes et Priorisation des Actions
 description: Ordre de priorité des opérations pour la sauvegarde des preuves.
 type: rapport

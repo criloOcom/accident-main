@@ -1,4 +1,5 @@
 ---
+uid: advz6NPTJ
 title: "Analyse des Fondements de la Responsabilité Juridique"
 description: "Rédigé le **[J+32 Assignation référé]"
 type: analyse_juridique

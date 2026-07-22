@@ -1,4 +1,5 @@
 ---
+uid: e9RqbqCAr
 title: Rapport sur la Stratégie de Sécurisation et Conservation des Preuves
 date: 2026-07-14
 description: Analyse de la sécurisation probatoire (Art. 1353 C. civ., 145 CPC, 41 et 60-1 CPP), conservation des preuves (vidéos, témoignages, numérique) et matrice de preuves.

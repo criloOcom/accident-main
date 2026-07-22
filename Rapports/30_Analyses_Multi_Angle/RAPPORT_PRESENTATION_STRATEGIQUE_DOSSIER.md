@@ -1,4 +1,5 @@
 ---
+uid: paRRAF6BF
 title: Note de Présentation Stratégique du Dossier
 description: Synthèse globale du dossier Accident de la Main — volets pénal, civil, assurance, administratif — à destination d'un avocat désigné, magistrat ou expert
 type: rapport

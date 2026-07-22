@@ -1,4 +1,5 @@
 ---
+uid: MzeGLHNMN
 title: Code du travail — Art. L.4321-1
 description: Code du travail — Principes généraux d'utilisation des équipements de travail
 type: loi

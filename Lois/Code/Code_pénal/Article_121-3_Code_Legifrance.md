@@ -1,4 +1,5 @@
 ---
+uid: ijwKfxjNi
 title: Article 121-3 — Code pénal
 description: Code pénal — Faute caractérisée, distinction des degrés de faute
 type: loi

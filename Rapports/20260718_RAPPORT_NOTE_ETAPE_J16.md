@@ -1,4 +1,5 @@
 ---
+uid: rMnErsLBm
 title: "Note d'étape J+48 : Visite Foix du 16 juillet 2026"
 description: Synthèse chronologique et matérielle de la visite des lieux à Foix, constatations sur HB BARBER et anomalies procédurales
 type: rapport

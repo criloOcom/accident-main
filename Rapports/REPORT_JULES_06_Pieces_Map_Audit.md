@@ -1,4 +1,5 @@
 ---
+uid: yyDZhamUp
 title: Rapport Jules #06 — Audit PIECES MAP Update
 description: Rapport d'audit de l'intégration des 20 nouvelles preuves officielles dans Memory/PIECES MAP.md.
 type: rapport

@@ -1,4 +1,5 @@
 ---
+uid: eMS9CrnpA
 title: "Analyse du Juge des Enfants / JAF — Implications Familiales"
 description: "Analyse des implications familiales de l'accident du 29 mai 2026 : situation familiale, impact sur garde/pension, mesures de protection."
 type: simulation

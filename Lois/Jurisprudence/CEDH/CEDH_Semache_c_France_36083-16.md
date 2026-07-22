@@ -1,4 +1,5 @@
 ---
+uid: iQGRwxrmb
 title: CEDH — Semache c. France (36083/16)
 description: Arrêt de la 5e Section du 21 juin 2018 — Non-conservation de vidéos et obligation de diligence d'enquête
 type: jurisprudence

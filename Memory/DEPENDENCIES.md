@@ -1,4 +1,5 @@
 ---
+uid: RsUX646Xa
 title: "Graphe de Dépendances"
 description: "Graphe orienté des liens internes entre fichiers .md"
 type: memory

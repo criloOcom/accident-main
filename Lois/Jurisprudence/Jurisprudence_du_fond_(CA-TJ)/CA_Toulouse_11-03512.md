@@ -1,4 +1,5 @@
 ---
+uid: kkzfKWLL9
 title: CA Toulouse, 5 décembre 2013 (n° 11/03512)
 description: Cour d'appel de Toulouse — Responsabilité d'un établissement recevant du public (ERP), obligation de sécurité
 type: jurisprudence

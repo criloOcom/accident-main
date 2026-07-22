@@ -1,4 +1,5 @@
 ---
+uid: pJtS8HgBR
 title: Rapport d'évaluation du potentiel de résolution amiable
 date: FIXME
 description: Analyse du dossier d'accident du 29 mai 2026 par le Médiateur judiciaire près la Cour d'Appel.

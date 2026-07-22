@@ -1,4 +1,5 @@
 ---
+uid: q89nixEvp
 title: "Fiche rôle - Gestionnaire de documentation"
 description: "Définition du périmètre d'action de l'agent en charge de la structure documentaire du dossier"
 type: memory

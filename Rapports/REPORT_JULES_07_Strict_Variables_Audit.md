@@ -1,4 +1,5 @@
 ---
+uid: wuLHLujKd
 title: Rapport Jules #07 — Strict Variables Audit
 description: Rapport d'audit et recommandations d'exploitation des nouvelles preuves officielles.
 type: rapport

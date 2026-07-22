@@ -1,4 +1,5 @@
 ---
+uid: Ew4ihZ5eT
 title: RAPPORT AVOCAT STRATÉGIE GLOBALE
 description: Analyse multi-angle de la stratégie globale (pénal, civil, référé) suite à l'accident du 29 mai 2026. Évaluation des chances de succès, provisions, calendrier procédural et coûts.
 type: rapport

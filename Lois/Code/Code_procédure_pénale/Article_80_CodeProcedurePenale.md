@@ -1,4 +1,5 @@
 ---
+uid: PEnkxEgWF
 title: Code de procédure pénale — Art. 80
 description: Code de procédure pénale — Réquisitoire introductif, ouverture d'information
 type: loi

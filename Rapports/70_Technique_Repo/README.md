@@ -1,4 +1,5 @@
 ---
+uid: QMRLns2TD
 title: "70_Technique_Repo — Journal de bord technique"
 description: "Migration, sécurité, stabilité technique, plans de correction, événements."
 type: readme

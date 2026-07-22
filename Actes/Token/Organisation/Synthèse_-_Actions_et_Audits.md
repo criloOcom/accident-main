@@ -1,4 +1,5 @@
 ---
+uid: FtsNvTSdS
 title: "Note de Synthèse — Avancement des Audits & Recommandations"
 description: "Cette note récapitule l'analyse systématique de tous les rapports d'audit dans Rapports et catégorise l'état d'avancement des tâches en suspens."
 type: readme

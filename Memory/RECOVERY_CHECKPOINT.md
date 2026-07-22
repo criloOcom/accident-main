@@ -1,4 +1,5 @@
 ---
+uid: wecSM8rnM
 title: "RECOVERY CHECKPOINT — 18 juillet 2026"
 description: "Snapshot d'état pour reprise après compression mémoire. Contient tout le nécessaire pour continuer les 15 vérifications Jules."
 type: memory

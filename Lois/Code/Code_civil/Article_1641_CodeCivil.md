@@ -1,4 +1,5 @@
 ---
+uid: bC4xntafT
 title: Code civil — Art. 1641
 description: Code civil — Garantie des défauts cachés de la chose vendue
 type: loi

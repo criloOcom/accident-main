@@ -1,4 +1,5 @@
 ---
+uid: pd9GxJ5vQ
 title: CHANGELOG JURIDIQUE
 date: 2026-07-21
 description: Suivi des modifications apportées aux fiches juridiques (articles et jurisprudence).

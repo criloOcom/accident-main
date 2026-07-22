@@ -1,4 +1,5 @@
 ---
+uid: iwmztBWym
 title: Code des assurances — Art. L.113-1
 description: Code des assurances — Obligations de l'assureur et de l'assuré
 type: loi

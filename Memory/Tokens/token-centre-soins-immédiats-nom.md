@@ -1,4 +1,5 @@
 ---
+uid: 6g8Ued7SM
 title: "**[Le nom du centre de soins immédiats]** — Centre de soins non programmés à Foix"
 description: ""
 token: "Le nom du centre de soins immédiats"

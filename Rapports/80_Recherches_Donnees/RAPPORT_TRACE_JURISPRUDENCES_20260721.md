@@ -1,4 +1,5 @@
 ---
+uid: 9UAXgA8cz
 title: Rapport de trace — Enrichissement bibliothèque jurisprudence
 description: "Rapport détaillé des opérations d'enrichissement de la bibliothèque jurisprudence : 11 décisions ajoutées, 2 documents stratégiques rédigés."
 type: rapport

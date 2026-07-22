@@ -1,4 +1,5 @@
 ---
+uid: tDfXy5zHG
 emoji: 📜
 title: 📜 Mise en Demeure — Déclaration d'Accident Corporel et Demande d'Information
 description: L'Adresse de la Victime

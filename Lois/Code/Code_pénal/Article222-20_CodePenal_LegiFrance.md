@@ -1,4 +1,5 @@
 ---
+uid: ZePHe4dGp
 title: Code pénal — Art. 222-20
 description: Code pénal — Blessures involontaires (ITT ≤ 3 mois)
 type: loi

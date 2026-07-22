@@ -1,4 +1,5 @@
 ---
+uid: n9xqq9Eek
 title: M05 - Analyse Préfet / Maire
 description: Évaluation du dossier sous l'angle des pouvoirs de police administrative et des obligations ERP
 date: 2026-07-21

@@ -1,4 +1,5 @@
 ---
+uid: U78w55tjL
 title: "Code de la sécurité sociale"
 description: "Dossier contenant les fiches et synthèses du Code de la sécurité sociale citées dans les actes du projet."
 type: readme

@@ -1,4 +1,5 @@
 ---
+uid: bxFNV5Bcq
 title: "💰 Finance<br>Astreinte 145"
 description: "Token :** `**[Finance Astreinte 145]**`"
 token: "Finance Astreinte 145"

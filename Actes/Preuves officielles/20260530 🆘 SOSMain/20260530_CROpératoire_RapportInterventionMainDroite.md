@@ -1,4 +1,5 @@
 ---
+uid: 4i8wDjwXw
 title: "20260530 CROpératoire RapportInterventionMainDroite"
 description: "Document de type document"
 type: preuve

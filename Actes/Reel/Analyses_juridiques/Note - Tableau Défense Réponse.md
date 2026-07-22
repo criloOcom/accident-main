@@ -1,4 +1,5 @@
 ---
+uid: uJUjLp4aW
 title: "Tableau - Arguments de la défense / Réponses du dossier"
 description: "Préparation stratégique en vue des auditions, référé-provision et échanges avec l'avocat AJ"
 type: analyse_juridique

@@ -1,4 +1,5 @@
 ---
+uid: ZtWiDFvHx
 title: "📋 Préparation"
 description: "Documents en cours de rédaction ou en projet — statuts brouillon, projet, fusionné."
 type: readme

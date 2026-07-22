@@ -1,4 +1,5 @@
 ---
+uid: kLG2nDUWv
 title: Code des relations entre le public et l'administration — Art. L.311-1
 description: CRPA — Étendue du droit à communication des documents administratifs
 type: loi

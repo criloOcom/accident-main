@@ -1,4 +1,5 @@
 ---
+uid: xgJgefzEG
 title: "Rapport d'Analyse Médico-Légale (Avis sur Pièces)"
 description: "Analyse critique du dossier médical : gravité des lésions, ITT, évaluation prévisionnelle des préjudices (DFP, SE, IP) et nécessité d'expertise judiciaire."
 type: simulation

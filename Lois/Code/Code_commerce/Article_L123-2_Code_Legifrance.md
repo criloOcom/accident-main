@@ -1,4 +1,5 @@
 ---
+uid: ccEBDKz9V
 title: Article L123-2
 description: Code de commerce — Immatriculation des commerçants
 type: loi

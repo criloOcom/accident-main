@@ -1,4 +1,5 @@
 ---
+uid: 3daakQF64
 title: "Kit Foix 27/07/2026"
 description: "Kit complet pour le déplacement à Foix du 27 juillet 2026"
 type: organisation

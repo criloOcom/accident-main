@@ -1,4 +1,5 @@
 ---
+uid: Rxxggb7VS
 title: "Transaction_sous_réserve_d'aggravation"
 description: "Arrêts de la Cour de cassation sur la transaction sous réserve d'aggravation et la prescription"
 type: readme

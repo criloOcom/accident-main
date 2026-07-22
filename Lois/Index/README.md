@@ -1,4 +1,5 @@
 ---
+uid: yZKYmnNE5
 title: "Index des Textes Juridiques"
 description: "Index complet et organisé de tous les textes de loi et articles juridiques référencés dans le projet."
 type: readme

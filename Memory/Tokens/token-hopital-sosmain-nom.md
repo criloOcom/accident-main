@@ -1,4 +1,5 @@
 ---
+uid: NifaCd6mg
 title: "🏢 L'Établissement SOS Main"
 description: "Token :** `**[L'Établissement SOS Main]**`"
 token: "L'Établissement SOS Main"

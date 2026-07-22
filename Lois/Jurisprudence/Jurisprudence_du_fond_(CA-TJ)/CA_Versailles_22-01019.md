@@ -1,4 +1,5 @@
 ---
+uid: QZig86fU2
 title: CA Versailles, 2025 (n° 22/01019)
 description: Cour d'appel de Versailles — Action directe contre l'assureur, prescription biennale
 type: jurisprudence

@@ -1,4 +1,5 @@
 ---
+uid: qmRn7pe3F
 title: "📁 20260601 Kbis"
 description: "README de la pièce Kbis"
 type: readme

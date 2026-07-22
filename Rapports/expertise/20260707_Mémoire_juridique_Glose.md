@@ -1,4 +1,5 @@
 ---
+uid: fc3EnD6pK
 title: Mémoire juridique Glose — 7 juillet 2026
 date: 2026-07-07
 description: Mémoire juridique produit par l'assistant Glose (archivé)

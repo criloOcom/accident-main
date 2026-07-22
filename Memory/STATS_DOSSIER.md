@@ -1,4 +1,5 @@
 ---
+uid: D7uRHZxRL
 title: "Statistiques Générales du Dossier"
 description: "Le dossier comporte **62 fichiers .md** répartis dans les sous-dossiers :"
 type: memory

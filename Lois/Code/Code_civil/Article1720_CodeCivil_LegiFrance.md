@@ -1,4 +1,5 @@
 ---
+uid: XjbEkgeS4
 title: Code civil — Art. 1720
 description: Code civil — Obligation d'entretien du bailleur
 type: loi

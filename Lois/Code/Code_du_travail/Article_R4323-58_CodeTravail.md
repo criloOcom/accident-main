@@ -1,4 +1,5 @@
 ---
+uid: Sbmqg3bwT
 title: Code du travail — Art. R.4323-58
 description: Code du travail — Travaux temporaires en hauteur
 type: loi

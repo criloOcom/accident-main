@@ -1,4 +1,5 @@
 ---
+uid: UbEeXjTBd
 title: Code de commerce — Art. L.123-5-1
 description: Code de commerce — Injonction de dépôt des pièces et actes au RCS
 type: loi

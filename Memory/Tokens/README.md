@@ -1,4 +1,5 @@
 ---
+uid: J6kXQpj3L
 title: "Tokens — Fiches individuelles des tokens d'anonymisation"
 description: "83 fiches enrichies (66 identité + 17 financiers), une par token. Chaque fiche détaille l'identité, le contexte, la chronologie et les documents liés au token."
 type: readme

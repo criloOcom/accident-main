@@ -1,4 +1,5 @@
 ---
+uid: W45PH8GpE
 title: Code de commerce — Art. R.123-2
 description: Code de commerce — Guichet unique électronique des formalités d'entreprises
 type: loi

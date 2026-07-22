@@ -1,4 +1,5 @@
 ---
+uid: ksgYdhmRR
 title: RAPPORT D'AUDIT — Vérité des LRAR et mécanisme de l'accident (13 juillet 2026)
 description: "Audit ciblé contradictant l'audit civil Jules : les numéros LRAR sont RÉELS ; restauration du fait 'téléviseur' dans J+40."
 type: rapport

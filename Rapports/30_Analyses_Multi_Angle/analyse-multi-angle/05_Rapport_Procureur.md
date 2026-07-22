@@ -1,4 +1,5 @@
 ---
+uid: 5bBAhruDQ
 title: 05 - Rapport Procureur de la République
 date: FIXME
 description: "Analyse pénale : qualifications (blessures involontaires, mise en danger), opportunité des poursuites, CITC et constitution de partie civile pour l'accident du 29 mai 2026."

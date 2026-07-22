@@ -1,4 +1,5 @@
 ---
+uid: 28DYnm3gb
 title: "Note - Mesures Conservatoires"
 description: "Dans le cadre du dossier concernant [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) à l'encontre de [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) et de ses représentants, il convient d'envisager la mise en œuvre de mesures conservatoires urgentes. Cette nécessité est motivée par le risq"
 type: analyse_juridique

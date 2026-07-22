@@ -1,4 +1,5 @@
 ---
+uid: g2dXkd5rS
 title: "Évaluation Dintilhac Consolidée — 11 + 12"
 description: "[L'Adresse de la Victime]** <br>"
 type: etude_indemnisation

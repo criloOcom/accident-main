@@ -1,4 +1,5 @@
 ---
+uid: Y5XvPrMKs
 title: "Plan : Ajustement du courriel à l'Adjoint au Maire (Police Municipale et ERP)"
 description: "Ce plan vise à corriger la formulation de l'e-mail pour éliminer tout terme inapproprié (« bruits de couloir ») et poser une demande d'intervention factuelle d'agents assermentés de la police municipale pour contrôler la situation sur place."
 type: readme

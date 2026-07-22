@@ -1,0 +1,92 @@
+---
+uid: PDUbC4Zqp
+title: "Mémo axes juridiques — Accident 29 mai 2026"
+description: "Familles de textes et jurisprudence utiles pour l'avocat — 1 page"
+type: analyse_juridique
+date: 2026-07-17
+statut: final
+auteur: La Victime
+reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
+---
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
+# MÉMO AXES JURIDIQUES
+## Pour l'avocat — Accident main 29 mai 2026 — Victime : [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)
+
+<hr><hr>
+
+### ① PÉNAL — Blessures involontaires (voie principale)
+
+| Article | Usage |
+|---------|-------|
+| **C. pén. art. 222-20** | Blessures involontaires avec ITT ≤ 3 mois (notre cas : 1 jour ITT pénale, 15 jours AT, 55 jours [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) |
+| **C. pén. art. 121-3** | Principe de la responsabilité pénale — faute simple suffit (imprudence, négligence, manquement obligation sécurité) |
+| **C. pén. art. 223-1** | Mise en danger délibérée d'autrui — bac déjà brisé maintenu en service dans un ERP (condition : violation délibérée d'une obligation de sécurité) |
+
+**Cibles :** [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../Memory/Tokens/token-exploitation-prepose-telephone.md) (manœuvre dangereuse) + [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (matériel dangereux maintenu en service)
+
+<hr><hr>
+
+### ② CIVIL — Responsabilité du fait des choses (voie principale)
+
+| Article | Usage |
+|---------|-------|
+| **C. civ. art. 1242 al. 1** | Responsabilité du fait des choses sous garde — présomption de responsabilité du gardien (bac à shampoing = instrument du dommage) — arrêts fondateurs (Cass. ass. plén. 9 mai 1984 - arrêt Desmares ; ch. mixte 28 mars 1997) |
+| **C. civ. art. 1242 al. 5** | Responsabilité du commettant du fait de ses préposés — [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) responsable des fautes du coiffeur |
+| **C. civ. art. 1240** | Principe général de responsabilité pour faute |
+
+**Gardien identifié :** [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SAS) — exploitant au 29/05/2026
+
+<hr><hr>
+
+### ③ DIRIGEANTS / MONTAGE SOCIÉTAIRE (voie subsidiaire si insolvabilité)
+
+| Texte | Usage |
+|-------|-------|
+| **C. com. art. L.227-8** | Responsabilité des dirigeants de SAS envers les tiers — faute détachable des fonctions |
+| **Cass. Com. 20 mai 2003 n°99-17.092 (arrêt SATI)** | Principe : faute intentionnelle d'une particulière gravité = faute détachable. Peut constituer une application en cas d'assurance légalement obligatoire. |
+| **C. com. art. L.210-6, L.237-2** | Responsabilité en cas de manquement, dissolution |
+
+**Cibles :** [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) (DG commune aux 2 sociétés), [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) (président [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+
+<hr><hr>
+
+### ④ ASSURANCES — Action directe
+
+| Texte | Usage |
+|-------|-------|
+| **C. assur. art. L.124-3** | Action directe de la victime contre l'assureur du responsable |
+| **C. assur. art. L.113-2** | Obligation de déclaration de sinistre par l'assuré |
+| **Jurisprudence** | Cass. 2e civ. 19-15.659, 90-14.591 — action directe et obligation d'assurance |
+
+<hr><hr>
+
+### ⑤ BAILLEUR / ERP / MAIRIE
+
+| Texte | Usage |
+|-------|-------|
+| **C. civ. art. 1719-1720** | Obligations du bailleur : délivrance, entretien, jouissance paisible |
+| **C. consom. art. L.421-3** | Obligation générale de sécurité des produits et services |
+| **CCH art. R.143-2** | Définition des ERP |
+| **CGCT art. L.2212-2 et L.2212-4** | Pouvoirs du maire en matière de sécurité publique |
+
+<hr><hr>
+
+### ⑥ PROCÉDURE
+
+| Texte | Usage |
+|-------|-------|
+| **CPC art. 145** | Mesure d'instruction in futurum (obtenir bail, états des lieux, polices d'assurance) |
+| **CPC art. 835** | Référé-provision (acompte sur indemnisation) |
+| **CPP art. 475-1** | Frais d'avocat en cas de [constitution de partie civile](../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) |
+
+### ⑦ TRACE DE PAIEMENT – WERO
+
+| Point | Usage |
+|-------|-------|
+| **Lien de subordination** | Le paiement de 15 € via Wero effectué par [**[Prénom de la Victime]**](../../../Memory/TOKEN%20MAP.md%23personnes-physiques) le 29/05/2026 à 15h20 au profit d'[Ayoub BENNOURINE](../../../Memory/TOKEN%20MAP.md%23personnes-physiques) atteste de la relation de préposition et de subordination entre le coiffeur (salarié encaisseur) et la société exploitante. |
+| **Preuve de présence** | La transaction Wero est une preuve matérielle, infalsifiable et horodatée de la présence physique de [**[Prénom de la Victime]**](../../../Memory/TOKEN%20MAP.md%23personnes-physiques) au salon de coiffure immédiatement avant la survenue de l'accident. |
+| **Tiers détenteur (Wero)** | Wero détient en tant que Prestataire de Services de Paiement (PSP) des données KYC de l'utilisateur bénéficiaire ainsi que des logs de connexion. Ces éléments pourront être sollicités par voie de réquisition pénale ou sur le fondement de l'art. 145 du CPC. |

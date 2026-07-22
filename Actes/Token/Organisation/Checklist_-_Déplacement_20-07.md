@@ -1,4 +1,5 @@
 ---
+uid: aVU8Y6Kse
 title: "✅ Checklist Déplacement Foix — 20 juillet 2026"
 description: "Checklist unifiée pour le déplacement au TJ Foix + Commissariat — Source unique Token (génération Reel auto)"
 type: readme

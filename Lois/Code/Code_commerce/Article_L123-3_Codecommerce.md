@@ -1,4 +1,5 @@
 ---
+uid: ueC65GjJe
 title: Code de commerce — Art. L.123-3
 description: Code de commerce — Injonction d'immatriculation, mentions et radiation au RCS
 type: loi

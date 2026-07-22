@@ -1,4 +1,5 @@
 ---
+uid: hgYAiVqLx
 title: "Rapport du Médiateur Judiciaire — Évaluation du Potentiel de Résolution Amiable"
 description: "Analyse du dossier d'accident du 29 mai 2026 par le Médiateur judiciaire près la Cour d'Appel."
 type: simulation

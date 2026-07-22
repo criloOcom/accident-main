@@ -1,4 +1,5 @@
 ---
+uid: iMWZCPRyY
 title: "20260718 SAS President"
 description: "Document de preuve officielle transcrit du Google Doc"
 type: preuve

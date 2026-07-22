@@ -1,4 +1,5 @@
 ---
+uid: 9R5jaTzCP
 title: "**[Le RPPS du médecin en urgence]** — RPPS du médecin des urgences au centre de soins immédiats"
 description: ""
 token: "Le RPPS du médecin en urgence"

@@ -1,4 +1,5 @@
 ---
+uid: XuRWhef8z
 emoji: 📋
 title: 📧📋 Email Transmission Attestation Employé
 description: 'Objet : Attestation de témoin — Accident du [29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md) au **[L''Adresse

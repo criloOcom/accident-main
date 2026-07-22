@@ -1,4 +1,5 @@
 ---
+uid: eRsBNPgEA
 title: Articles R. 143-2 et suivants CCH
 description: Code de la construction — Sécurité des ERP
 type: loi

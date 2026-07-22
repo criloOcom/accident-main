@@ -1,4 +1,5 @@
 ---
+uid: 3F7kxsjHG
 emoji: 📜
 title: 📜 Action Directe Assureur RC — Mise en demeure avocat (Art. L.124-3 C. assur.)
 description: Mise en demeure émise par le conseil de la Victime à l'encontre de l'assureur

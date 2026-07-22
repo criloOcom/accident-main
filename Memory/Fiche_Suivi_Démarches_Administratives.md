@@ -1,4 +1,5 @@
 ---
+uid: TMCuzGcgh
 title: "Fiche de suivi — Démarches administratives"
 description: "Tableau de suivi des courriers LRAR : Préfecture/CODAF (41), Inspection du travail (42), CADA (43/44) — dates envoi, AR, réponses, échéances"
 type: memory

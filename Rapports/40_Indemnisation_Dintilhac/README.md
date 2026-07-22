@@ -1,4 +1,5 @@
 ---
+uid: 3LVCQm8RC
 title: "40_Indemnisation_Dintilhac — Indemnisation et barèmes"
 description: "Scénarios d'indemnisation, barèmes Dintilhac, FGTI, évaluations financières."
 type: readme

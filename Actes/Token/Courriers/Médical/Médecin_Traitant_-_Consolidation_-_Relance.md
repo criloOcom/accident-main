@@ -1,4 +1,5 @@
 ---
+uid: EyDZuysHj
 emoji: 🔄
 title: Relance [**[Le Chirurgien SOS Main]**](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md) - Certificat de Consolidation
 description: 'Objet : Demande de certificat médical de consolidation — Suite courrier

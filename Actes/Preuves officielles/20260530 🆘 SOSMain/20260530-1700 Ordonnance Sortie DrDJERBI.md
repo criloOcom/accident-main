@@ -1,4 +1,5 @@
 ---
+uid: kSnRUnitz
 title: "Ordonnance de sortie"
 description: "Dr Iskander DJERBI — SOS Main — Antalgiques et soins post-opératoires"
 type: preuve

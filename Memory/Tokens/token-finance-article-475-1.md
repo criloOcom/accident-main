@@ -1,4 +1,5 @@
 ---
+uid: vznzA9u3d
 title: "💰 Finance<br>Article 475-1"
 description: "Token :** `**[Finance Article 475-1]**`"
 token: "Finance Article 475-1"

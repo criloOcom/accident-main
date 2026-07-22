@@ -1,4 +1,5 @@
 ---
+uid: mjhHMskcV
 title: CEDH — M.H. et autres c. Croatie (15670/18)
 description: Arrêt de la 1re Section du 18 novembre 2021 — Panne vidéo non documentée et violation du volet procédural de l'Article 2
 type: jurisprudence

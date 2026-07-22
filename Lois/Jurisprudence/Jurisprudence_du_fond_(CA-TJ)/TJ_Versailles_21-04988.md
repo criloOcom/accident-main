@@ -1,4 +1,5 @@
 ---
+uid: f9825uD3V
 title: TJ Versailles, 2024 (n° 21/04988)
 description: Tribunal judiciaire de Versailles — Transaction avec réserve d'aggravation, action post-transaction
 type: jurisprudence

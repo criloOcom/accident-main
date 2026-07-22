@@ -1,4 +1,5 @@
 ---
+uid: t4kq2YAkU
 title: "Rapport de l'Inspecteur du Travail — Contrôle Santé et Sécurité"
 description: "Analyse des manquements aux obligations de sécurité du Code du travail, évaluation des risques et dressement de procès-verbal pour l'accident du 29 mai 2026."
 type: simulation

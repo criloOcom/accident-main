@@ -1,4 +1,5 @@
 ---
+uid: UMUfdYEh4
 title: Audit de stabilité technique et robustesse des scripts
 date: 2026-07-14
 description: Rapport évaluant la robustesse technique du dépôt, les risques de régression et les fuites de données potentielles.

@@ -1,4 +1,5 @@
 ---
+uid: fs6QBFjQq
 title: "Mémo — Stratégie bailleur DELRIEU, HB BARBER et certificat Caisse d'Épargne"
 description: "Synthèse de la stratégie amiable et contentieuse vis-à-vis du bailleur, de l'exploitant HB BARBER, et du certificat de dépôt de fonds"
 type: memory

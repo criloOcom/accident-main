@@ -1,4 +1,5 @@
 ---
+uid: 6yY3tpTcC
 title: "Responsabilité_du_fait_des_choses"
 description: "Arrêts de la Cour de cassation sur la responsabilité du fait des choses (Art. 1242 C. civ.)"
 type: readme

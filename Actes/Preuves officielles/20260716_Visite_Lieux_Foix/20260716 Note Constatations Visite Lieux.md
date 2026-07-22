@@ -1,4 +1,5 @@
 ---
+uid: a3EztivHP
 title: "Note de constatations — Visite des lieux du 16 juillet 2026"
 description: "Constatations matérielles au 22 Rue Lafaurie, Foix : disparition bac à shampoing, meuble retiré, exploitation par HB BARBER"
 type: preuve

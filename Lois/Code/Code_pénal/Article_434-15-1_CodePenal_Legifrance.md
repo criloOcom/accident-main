@@ -1,4 +1,5 @@
 ---
+uid: 2emcdFHhx
 title: Article 434-15-1 du Code pénal
 date: FIXME
 description: "Dernière mise à jour :** 13 juillet 2026"

@@ -1,4 +1,5 @@
 ---
+uid: 3NdzPrd6c
 title: RAPPORT DE SYNTHÈSE GLOBALE — Version Chantier
 date: 2026-07-14
 description: "Archive technique : version complète avec détails d'exécution (PRs, scripts, audits IA). Projet accident-main."

@@ -1,4 +1,5 @@
 ---
+uid: pxcBSNkQs
 title: "Rapport du Procureur de la République — TJ Foix"
 description: "Analyse pénale : qualifications (blessures involontaires, mise en danger), opportunité des poursuites, CITC et constitution de partie civile."
 type: simulation

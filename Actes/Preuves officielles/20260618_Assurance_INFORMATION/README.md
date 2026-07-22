@@ -1,4 +1,5 @@
 ---
+uid: SRXbF5Y9r
 title: "📁 20260618 Assurance INFORMATION"
 description: "README de la pièce Assurance INFORMATION"
 type: readme

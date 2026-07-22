@@ -1,4 +1,5 @@
 ---
+uid: Xxi344t6B
 title: "Note - Conservation Preuves Numériques"
 description: "Dans le cadre du litige opposant [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) à [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md), il convient de se prémunir contre le risque de disparition, de dissimulation ou de destruction des preuves numériques attestant de l'existence et de l'exploi"
 type: analyse_juridique

@@ -1,4 +1,5 @@
 ---
+uid: 6qLaMAHAi
 title: Modèles d'Envoi — Transmission du Dossier
 description: "Courriels-type de transmission — Option A : avocat désigné AJ / Option B : BAJ/Bâtonnier"
 type: fiche

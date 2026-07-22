@@ -1,4 +1,5 @@
 ---
+uid: nqN6rpZzu
 title: Rapport d'Audit — Structuration des En-têtes YAML
 description: État des lieux, structure canonique et feuille de route corrective pour la standardisation des front matter YAML dans le dépôt accident-main.
 type: rapport

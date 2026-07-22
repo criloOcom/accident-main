@@ -1,4 +1,5 @@
 ---
+uid: TtEsDuNyk
 title: "20_Accueil_Avocat — Kit d'accueil avocat"
 description: "Documents imprimables et transmissibles à l'avocat AJ pour prise en main du dossier."
 type: readme

@@ -1,4 +1,5 @@
 ---
+uid: hPM3nQBW3
 title: Code civil — Art. 1242
 description: Code civil — Responsabilité du fait des choses et du commettant
 type: loi

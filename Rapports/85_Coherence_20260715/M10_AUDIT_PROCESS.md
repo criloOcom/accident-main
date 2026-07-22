@@ -1,4 +1,5 @@
 ---
+uid: SqP4ZHmzx
 title: M10 - Audit des Process
 date: FIXME
 description: Vérification du respect des règles définies dans AGENTS.md, CONVENTIONS.md, RULES.md et DECISIONS.md

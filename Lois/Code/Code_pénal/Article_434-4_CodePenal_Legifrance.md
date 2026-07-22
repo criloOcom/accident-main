@@ -1,4 +1,5 @@
 ---
+uid: yvH2JqxCZ
 title: Article 434-4 du Code pénal
 description: Code pénal — Entrave à la manifestation de la vérité
 type: loi

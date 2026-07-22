@@ -1,4 +1,5 @@
 ---
+uid: BTC4pQc94
 title: "Rapport du Juge d'Instruction — TJ Foix"
 description: "Analyse des charges, qualifications pénales et actes d'instruction pour l'accident du 29 mai 2026."
 type: simulation

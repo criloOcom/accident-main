@@ -1,4 +1,5 @@
 ---
+uid: 2CVE9BTus
 title: "Mini calendrier — Procédure accident Foix"
 description: "Jalons passés et à venir : voies pénale, administrative, civile, AJ — vue synthétique pour l'avocat AJ"
 type: memory

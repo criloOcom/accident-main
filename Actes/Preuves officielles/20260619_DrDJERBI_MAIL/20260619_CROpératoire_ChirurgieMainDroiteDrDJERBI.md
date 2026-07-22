@@ -1,4 +1,5 @@
 ---
+uid: WeEPLnzLH
 title: "20260619 CROpératoire ChirurgieMainDroiteDrDJERBI"
 description: "Document de type document"
 type: preuve

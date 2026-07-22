@@ -1,4 +1,5 @@
 ---
+uid: CXSJ9sexE
 title: Article L. 2212-2 du Code général des collectivités territoriales
 description: CGCT — Pouvoirs de police du maire
 type: loi

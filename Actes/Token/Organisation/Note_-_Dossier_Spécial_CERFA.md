@@ -1,4 +1,5 @@
 ---
+uid: AML8FU5pz
 title: "05 Dossier Spécial CERFA"
 description: "Dans le cadre du dossier d'accident corporel de [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md), plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditi"
 type: readme

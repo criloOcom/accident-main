@@ -1,4 +1,5 @@
 ---
+uid: SghdxZvEy
 title: "Rapport du Commissaire Divisionnaire de Police — Enquête Préliminaire"
 description: "Procès-verbal de synthèse : constatations sur site, auditions, éléments matériels et transmission au Parquet de Foix pour l'accident du 29 mai 2026."
 type: simulation

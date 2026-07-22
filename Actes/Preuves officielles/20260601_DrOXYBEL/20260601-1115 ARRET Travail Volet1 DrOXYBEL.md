@@ -1,4 +1,5 @@
 ---
+uid: riggRyAmv
 title: "Arrêt de travail — Volet 1"
 description: "Dr Yogan OXYBEL — Médecin généraliste — Arrêt de travail initial"
 type: preuve

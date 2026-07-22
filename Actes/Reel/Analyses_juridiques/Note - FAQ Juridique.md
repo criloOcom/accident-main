@@ -1,4 +1,5 @@
 ---
+uid: fq6eTciei
 title: "Synthèse Juridique et FAQ"
 description: "Rédigé par : **[La Victime]"
 type: analyse_juridique

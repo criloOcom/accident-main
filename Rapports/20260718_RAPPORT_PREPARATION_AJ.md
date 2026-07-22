@@ -1,4 +1,5 @@
 ---
+uid: qxjk8qxCz
 title: Préparation dossier Aide Juridictionnelle totale
 date: 2026-07-18
 description: Rapport pour la constitution et le dépôt du dossier de demande d'Aide Juridictionnelle totale (CERFA 16146*03) au TJ de Foix.

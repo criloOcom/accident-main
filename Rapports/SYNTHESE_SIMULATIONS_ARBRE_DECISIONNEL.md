@@ -1,4 +1,5 @@
 ---
+uid: Ln28Guvm5
 title: Synthèse des 16 Simulations et Arbre Décisionnel
 description: Synthèse stratégique multi-angles des 16 simulations du dossier Accident Main et modélisation de l'arbre de décision global (Plans A, B, C).
 type: rapport

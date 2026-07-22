@@ -1,4 +1,5 @@
 ---
+uid: jJyVD28EH
 title: "Checklist Envoi LRAR — 11 juillet 2026 (ARCHIVÉ — EXÉCUTÉ)"
 description: "- [x] 12 ✉️ Courrier URSSAF.md — EXÉCUTÉ LE 11/07"
 type: readme

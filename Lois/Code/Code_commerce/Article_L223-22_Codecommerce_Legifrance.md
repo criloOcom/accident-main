@@ -1,4 +1,5 @@
 ---
+uid: A8S3i5LYY
 title: Article L. 223-22
 description: Code de commerce — Gérant d'EURL
 type: loi

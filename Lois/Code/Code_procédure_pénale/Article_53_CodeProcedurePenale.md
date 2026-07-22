@@ -1,4 +1,5 @@
 ---
+uid: kXDRrcjb4
 title: Code de procédure pénale — Art. 53
 description: Code de procédure pénale — Définition du flagrant délit
 type: loi

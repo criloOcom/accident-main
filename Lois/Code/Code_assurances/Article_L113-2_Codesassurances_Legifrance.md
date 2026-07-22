@@ -1,4 +1,5 @@
 ---
+uid: PJNNdNEtL
 title: Article L113-2
 description: Code des assurances — Obligations de l'assuré
 type: loi

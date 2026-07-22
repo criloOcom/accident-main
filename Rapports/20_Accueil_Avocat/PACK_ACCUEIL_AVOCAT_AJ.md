@@ -1,4 +1,5 @@
 ---
+uid: 8X3ePwvzP
 title: Pack Accueil Avocat (AJ) — Dossier Clé en Main
 description: Dossier synthétique remis à l'avocat commis d'office (AJ TJ Foix). Contient le résumé de l'affaire, le calendrier, la stratégie, la liste des pièces et les contacts utiles.
 type: rapport

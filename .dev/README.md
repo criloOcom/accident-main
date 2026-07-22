@@ -1,4 +1,5 @@
 ---
+uid: 7PMm7rZ84
 title: "🛠️ Environnement de Développement"
 breadcrumb: "🛠️ Dev"
 description: "Ce dossier contient le code, les scripts et les outils de développement du projet."

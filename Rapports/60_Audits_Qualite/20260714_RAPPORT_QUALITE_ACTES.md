@@ -1,4 +1,5 @@
 ---
+uid: VY2cvLrhA
 title: Audit de qualité rédactionnelle des actes juridiques
 date: 2026-07-14
 description: Évaluation de la qualité juridique et de la tenue rédactionnelle des actes de procédure au regard des standards de la procédure civile et pénale française.

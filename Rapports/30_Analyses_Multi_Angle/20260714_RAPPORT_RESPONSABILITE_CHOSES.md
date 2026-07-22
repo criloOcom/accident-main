@@ -1,4 +1,5 @@
 ---
+uid: 73hzEh7zn
 title: Analyse des fondements de la responsabilité — Fait des choses et droits de la consommation
 description: Rapport approfondi sur les fondements juridiques applicables à l'accident du 29 mai 2026, hiérarchisés du plus solide au plus risqué.
 type: rapport

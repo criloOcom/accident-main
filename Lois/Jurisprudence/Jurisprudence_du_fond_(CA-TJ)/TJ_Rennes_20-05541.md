@@ -1,4 +1,5 @@
 ---
+uid: qWY27Wghw
 title: TJ Rennes, 2026 (n° 20/05541)
 description: Tribunal judiciaire de Rennes — Indemnisation post-consolidation, incidence professionnelle
 type: jurisprudence

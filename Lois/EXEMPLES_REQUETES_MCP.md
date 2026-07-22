@@ -1,4 +1,5 @@
 ---
+uid: 9gswuVssc
 title: Exemples de Requêtes MCP Valides
 date: FIXME
 description: Ce document fournit des exemples concrets et testés pour utiliser les MCP Légifrance et Judilibre dans le cadre du projet 'accident-main'.

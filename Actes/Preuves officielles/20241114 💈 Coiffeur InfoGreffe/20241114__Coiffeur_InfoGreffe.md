@@ -1,4 +1,5 @@
 ---
+uid: UdJtSzv7W
 title: "20241114 💈 Coiffeur InfoGreffe"
 description: "Document de preuve officielle transcrit du Google Doc"
 type: preuve

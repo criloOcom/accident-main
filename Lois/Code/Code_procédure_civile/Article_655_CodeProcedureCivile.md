@@ -1,4 +1,5 @@
 ---
+uid: fniFjGFCG
 type: loi
 title: Article 655 – Signification à domicile ou à résidence
 date: 2026-07-20

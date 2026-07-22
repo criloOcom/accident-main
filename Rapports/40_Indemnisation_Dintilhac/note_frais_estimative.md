@@ -1,4 +1,5 @@
 ---
+uid: eqsvpycjJ
 title: Note de Frais Estimative — Constat et Mesures d'Instruction
 description: Cette note présente une estimation indicative des frais de justice (débours, émoluments et honoraires) liés à l'intervention de l'huissier de justice (commissaire de justice) pour le constat des lieux et autres actes accessoires dans le dossier oppos
 type: rapport

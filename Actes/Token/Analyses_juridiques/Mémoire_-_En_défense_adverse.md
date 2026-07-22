@@ -1,4 +1,5 @@
 ---
+uid: thx6gTut9
 title: "Mémoire en défense adverse — SAS [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md)"
 description: "Pour :** [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md), [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-dg-nom.md) (Partie Défenderesse)"
 type: analyse_juridique

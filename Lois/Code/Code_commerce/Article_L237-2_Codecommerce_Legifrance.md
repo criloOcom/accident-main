@@ -1,4 +1,5 @@
 ---
+uid: 442tKXKX4
 title: Article L237-2
 description: Code de commerce — Survie de la personnalité morale pour la liquidation
 type: loi

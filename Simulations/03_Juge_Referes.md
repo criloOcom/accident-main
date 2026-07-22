@@ -1,4 +1,5 @@
 ---
+uid: majwxEkKz
 title: "Rapport du Juge des Référés — TJ Foix"
 description: "Analyse croisée Requête 145 CPC et Conclusions 835 CPC : urgence, provision, astreinte."
 type: simulation

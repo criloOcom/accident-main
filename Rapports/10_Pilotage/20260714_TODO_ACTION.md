@@ -1,4 +1,5 @@
 ---
+uid: HSPDvbcEr
 title: TODO ACTION — Synthèse exécutable des 15 rapports Jules (nuit 14/07)
 date: 2026-07-14
 description: Todo-list exécutable extraite des 15 rapports de la nuit Jules 2026-07-14. Actions réalisables par l'agent vs actions nécessitant l'avocat/la victime.

@@ -1,4 +1,5 @@
 ---
+uid: GCTPaAap9
 title: NW_M12_LEGIFRANCE_2026-07-20
 type: preuve
 date: 2026-07-20

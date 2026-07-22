@@ -1,4 +1,5 @@
 ---
+uid: 9xsnrQfgS
 title: "📚 Analyses Juridiques"
 description: "Ce dossier contient les notes d'analyse juridique, les plaidoiries, et les documents de synthèse destinés à l'audience."
 type: readme

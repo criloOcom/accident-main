@@ -1,4 +1,5 @@
 ---
+uid: p8hSCeD7m
 title: ⚠️ ARCHIVE — Requête Constat Huissier 145 CPC (obsolète)
 description: DOCUMENT ARCHIVÉ — Remplacé par 03 🔍 Assignation Article 145.md dans
   Actes_proceduraux

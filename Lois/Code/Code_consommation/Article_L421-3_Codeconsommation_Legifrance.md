@@ -1,4 +1,5 @@
 ---
+uid: 46YHwuNxY
 title: Article L421-3
 description: Code de la consommation — Obligation générale de sécurité
 type: loi

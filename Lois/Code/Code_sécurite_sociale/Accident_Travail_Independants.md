@@ -1,4 +1,5 @@
 ---
+uid: kQxMHLmVb
 type: loi
 title: Régime AT/MP des travailleurs indépendants
 date: 2026-07-20

@@ -1,4 +1,5 @@
 ---
+uid: GNjhcLZds
 title: Code des assurances — Art. L.114-1
 description: Code des assurances — Prescription biennale des actions dérivant d'un contrat d'assurance
 type: loi

@@ -1,4 +1,5 @@
 ---
+uid: QBkHiq2RM
 title: "Checklist Complète — Déplacement au Commissariat de Foix (ARCHIVÉ — DATE PASSÉE)"
 description: "DOCUMENT PERSONNEL — Checklist pour le 15 juillet 2026 — JAMAIS EXÉCUTÉ LE 15/07 (visite faite le 16/07). Remplacé par checklist unifiée 20/07."
 type: courrier

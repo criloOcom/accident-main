@@ -1,4 +1,5 @@
 ---
+uid: ackXGBKrt
 title: Synthèse des prescriptions extinctives
 description: M10 — Synthèse complète des délais de prescription applicables au dossier d'accident.
 type: rapport

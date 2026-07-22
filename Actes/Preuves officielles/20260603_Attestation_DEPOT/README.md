@@ -1,4 +1,5 @@
 ---
+uid: ZqcVKEYq8
 title: "📁 20260603 Attestation DEPOT"
 description: "README de la pièce Attestation DEPOT"
 type: readme

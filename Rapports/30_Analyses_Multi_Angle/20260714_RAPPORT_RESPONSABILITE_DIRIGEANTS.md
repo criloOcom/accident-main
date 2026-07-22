@@ -1,4 +1,5 @@
 ---
+uid: GpB44bxXj
 title: Rapport sur la responsabilité des dirigeants
 date: 2026-07-14
 description: Analyse de la responsabilité des dirigeants de la SAS et leviers du droit des sociétés

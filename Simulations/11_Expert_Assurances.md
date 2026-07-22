@@ -1,4 +1,5 @@
 ---
+uid: yjgzNxRya
 title: "Rapport d'Expertise en Droit des Assurances"
 description: "Analyse de la couverture RC de l'exploitant, action directe et voies d'indemnisation subsidiaires (FGAO/FGTI/CIVI)."
 type: simulation

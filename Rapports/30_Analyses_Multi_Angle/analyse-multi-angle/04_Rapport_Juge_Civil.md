@@ -1,4 +1,5 @@
 ---
+uid: cgGLd8QKj
 title: "Mission 04 : Rapport du Juge Civil"
 description: "Analyse sur le fond : responsabilité civile, lien de causalité, exonérations et évaluation Dintilhac."
 type: analyse_juridique

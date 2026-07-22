@@ -1,4 +1,5 @@
 ---
+uid: 8LKVfAt37
 title: "PROTOCOLE JURITEXT — Vérification obligatoire des identifiants de jurisprudence"
 description: "Quand tu dois insérer ou vérifier une JURITEXT :"
 type: memory

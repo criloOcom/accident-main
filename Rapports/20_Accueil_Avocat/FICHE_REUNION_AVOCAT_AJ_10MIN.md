@@ -1,4 +1,5 @@
 ---
+uid: rJktdvy6V
 title: Fiche Réunion Avocat AJ — 10 minutes
 description: Trame orale + pièces clés pour le premier rendez-vous avec l'avocat commis d'office (AJ).
 type: fiche

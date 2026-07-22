@@ -1,4 +1,5 @@
 ---
+uid: hAxJfaLx3
 title: "Index — Mairie (Token)"
 description: "Index du dossier Mairie"
 type: readme

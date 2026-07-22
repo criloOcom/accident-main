@@ -1,4 +1,5 @@
 ---
+uid: HhLRHY6U9
 title: Analyse critique Glose — 7 juillet 2026
 date: 2026-07-07
 description: Analyse critique sur le mémoire juridique de Glose (archivé)

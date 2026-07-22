@@ -1,4 +1,5 @@
 ---
+uid: AbMB37j5F
 title: Rapport Jules #02 — Audit Responsabilité Personnelle des Dirigeants & Faute Détachable
 description: Analyse jurisprudentielle approfondie sur la responsabilité personnelle du Président et de la Directrice Générale de la SAS (Arrêt SATI, Art. 1382 C. civ., Art. 145 & 700 CPC).
 type: rapport

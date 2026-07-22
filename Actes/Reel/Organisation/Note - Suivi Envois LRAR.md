@@ -1,4 +1,5 @@
 ---
+uid: FLncgCxXd
 title: "Suivi des Envois LRAR"
 description: "| # | Destinataire | Date envoi | N° LRAR | AR recu | Reponse | Date reponse | Relance J+15 | Email | Statut | Notes |"
 type: readme

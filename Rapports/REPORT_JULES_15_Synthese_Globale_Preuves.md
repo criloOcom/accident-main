@@ -1,4 +1,5 @@
 ---
+uid: bcs66cUFk
 title: Rapport Jules #15 — Synthèse Globale et Plan d'Action d'Exploitation des Preuves
 description: Rapport de synthèse stratégique final clôturant l'audit des 15 missions Jules MCP.
 type: rapport

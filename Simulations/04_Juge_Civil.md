@@ -1,4 +1,5 @@
 ---
+uid: Z2p73cmXd
 title: "Rapport du Juge Civil — TJ Foix (Fond)"
 description: "Analyse sur le fond : responsabilité civile, lien de causalité, exonérations et évaluation Dintilhac."
 type: simulation

@@ -1,4 +1,5 @@
 ---
+uid: 7VQAeYQag
 title: "📁 20260529 Pharmacie Foix"
 description: "README de la pièce Pharmacie Foix"
 type: readme

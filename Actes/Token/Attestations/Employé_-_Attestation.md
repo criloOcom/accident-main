@@ -1,4 +1,5 @@
 ---
+uid: bQK4qJq48
 title: "📋 Attestation — Employé du salon"
 description: "Cerfa 11527*03 — Attestation de l'employé du salon présent lors de l'accident"
 type: attestation

@@ -1,4 +1,5 @@
 ---
+uid: E3Q3eHG68
 title: Code de commerce — Art. L.622-24
 description: Code de commerce — Déclaration des créances dans la procédure de sauvegarde
 type: loi

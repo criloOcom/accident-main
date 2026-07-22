@@ -1,4 +1,5 @@
 ---
+uid: rCB6YGRut
 title: "VARIABLES STRICTES — Source Unique de Vérité"
 description: "NE JAMAIS MODIFIER NI INVENTER.** Ces valeurs prévalent sur tout autre contenu."
 type: memory

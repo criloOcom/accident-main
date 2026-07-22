@@ -1,4 +1,5 @@
 ---
+uid: JhTv8bhmQ
 title: "Rapport d'Expertise Médicale — Simulation PJ Foix (mission Ordonnance de Référé J+63)"
 description: "Simulation du rapport que rendrait un expert judiciaire désigné par le TJ Foix dans le cadre de l'ordonnance de référé du 31 juillet 2026. Examen simulé à 1 an de l'accident. Consolidation fixée au 1er mars 2027. DFP 12 %. Incidence professionnelle majeure (informaticien indépendant, main droite dominante)."
 type: projet

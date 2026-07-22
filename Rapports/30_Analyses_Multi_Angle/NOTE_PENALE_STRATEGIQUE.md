@@ -1,4 +1,5 @@
 ---
+uid: yXSyzbxVY
 title: Note Stratégique Pénale
 date: FIXME
 description: Synthèse des qualifications pénales, de la responsabilité des dirigeants, et de l'articulation avec le volet civil suite à l'accident et à la plainte complémentaire.

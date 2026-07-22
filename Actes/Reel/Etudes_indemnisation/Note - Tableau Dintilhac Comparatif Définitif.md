@@ -1,4 +1,5 @@
 ---
+uid: FdikYqEYN
 title: "Note - Tableau Dintilhac Comparatif Définitif"
 description: "Évaluation Dintilhac finalisée avec 3 scénarios (optimiste, médian/compromis, Glose/conservative)."
 type: etude_indemnisation

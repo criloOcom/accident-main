@@ -1,4 +1,5 @@
 ---
+uid: 5XnLrdAug
 title: Article 700
 description: Code de procédure civile — Frais irrépétibles
 type: loi

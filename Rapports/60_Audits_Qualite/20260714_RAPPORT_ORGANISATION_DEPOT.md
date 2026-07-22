@@ -1,4 +1,5 @@
 ---
+uid: tPrgbKcT9
 title: Audit de l'organisation et de la navigabilité du dépôt
 date: 2026-07-14
 description: Rapport d'évaluation de l'organisation, de la navigabilité et de la maintenabilité du dépôt accident-main.

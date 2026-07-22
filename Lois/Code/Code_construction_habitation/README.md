@@ -1,4 +1,5 @@
 ---
+uid: WnKgf87V6
 title: "Code de la construction et de l'habitation"
 description: "Dossier contenant les articles du Code de la construction et de l'habitation cités dans les actes du projet."
 type: readme

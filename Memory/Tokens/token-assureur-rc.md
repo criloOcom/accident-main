@@ -1,4 +1,5 @@
 ---
+uid: cSWeAUeyL
 title: "[Token] Assureur RC — À compléter"
 description: "**[Assureur RC]** — Compagnie d'assurance responsabilité civile de l'exploitation"
 token: "Assureur RC"

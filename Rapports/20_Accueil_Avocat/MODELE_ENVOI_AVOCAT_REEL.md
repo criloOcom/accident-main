@@ -1,4 +1,5 @@
 ---
+uid: iFUCHvBWs
 title: Modèles d'Envoi — Version Réelle (hors Git)
 description: Copier-coller prêt à l'emploi — placeholders standard [NOM] — version sans tokens ni liens internes
 type: fiche

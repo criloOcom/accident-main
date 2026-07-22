@@ -1,4 +1,5 @@
 ---
+uid: nxNjy3vwj
 title: "20260717 HBBarber CertificationDeDepotDeFonds.pdf"
 description: "Document de type document"
 type: preuve

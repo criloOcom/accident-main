@@ -1,4 +1,5 @@
 ---
+uid: vwNPXDMye
 title: Code de commerce — Art. R.123-128
 description: Code de commerce — Radiations d'office du RCS
 type: loi

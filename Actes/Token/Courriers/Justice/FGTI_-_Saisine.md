@@ -1,4 +1,5 @@
 ---
+uid: CHdHXbG9c
 emoji: ⚖️
 title: Saisine Conservatoire du Fonds de Garantie des Victimes
 description: L'Adresse de la Victime

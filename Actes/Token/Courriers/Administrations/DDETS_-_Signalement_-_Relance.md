@@ -1,4 +1,5 @@
 ---
+uid: dzZS9NNJe
 emoji: 🔄
 title: Relance Inspection du Travail — Suite signalement Maire de Foix
 description: Demande d'information sur l'enquête suite à l'accident du 29 mai 2026

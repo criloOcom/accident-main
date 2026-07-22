@@ -1,4 +1,5 @@
 ---
+uid: DDqp5xsyy
 title: "Justification de la Provision de 15 000 € en Référé"
 description: "Condition** : l'obligation ne doit pas être sérieusement contestable."
 type: memory

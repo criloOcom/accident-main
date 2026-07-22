@@ -1,4 +1,5 @@
 ---
+uid: hHhyPPxtR
 emoji: 📝
 title: Email définitif à l'Adjoint au Maire de [Foix](../../../../Memory/Tokens/token-accident-ville.md) — Éléments
   d'actualisation sur le dossier ERP

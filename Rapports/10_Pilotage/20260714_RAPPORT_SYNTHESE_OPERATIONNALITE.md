@@ -1,4 +1,5 @@
 ---
+uid: AbLVxGhU5
 title: "Synthèse : opérationnalité du dossier face à la loi française"
 date: 2026-07-14
 description: Rapport exécutif faisant le point global sur l'état du dossier accident-main au 14/07/2026 et sa capacité à tenir devant la justice française (civil + pénal).

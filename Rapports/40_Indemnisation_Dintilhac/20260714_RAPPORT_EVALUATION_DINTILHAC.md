@@ -1,4 +1,5 @@
 ---
+uid: KiyC62LDr
 title: Rapport d'audit barémique — Évaluation Dintilhac 2026
 description: Audit de la rigueur de l'évaluation du préjudice corporel (méthode Dintilhac) au regard du Barème Mornet 2024 et de la jurisprudence, recommandation stratégique (référé et fond).
 type: rapport

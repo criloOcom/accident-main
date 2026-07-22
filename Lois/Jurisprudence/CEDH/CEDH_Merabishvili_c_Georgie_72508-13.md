@@ -1,4 +1,5 @@
 ---
+uid: kQVNY8bpW
 title: CEDH — Merabishvili c. Géorgie (72508/13)
 description: Arrêt de la Grande Chambre du 28 novembre 2017 — Preuve vidéo, effacement automatique et droit à une enquête effective
 type: jurisprudence

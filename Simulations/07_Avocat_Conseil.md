@@ -1,4 +1,5 @@
 ---
+uid: 7QyianHCr
 title: "Rapport Avocat — Stratégie Globale"
 description: "Analyse multi-angle de la stratégie globale (pénal, civil, référé) suite à l'accident du 29 mai 2026."
 type: simulation

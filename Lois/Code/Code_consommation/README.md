@@ -1,4 +1,5 @@
 ---
+uid: Y5MwBMwRJ
 title: "Code de la consommation"
 description: "Dossier contenant les articles de loi relatifs au Code de la consommation."
 type: readme

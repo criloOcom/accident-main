@@ -1,4 +1,5 @@
 ---
+uid: xdhP7MfAL
 title: "TABLE DE SUBSTITUTION — Anonymisation (tokens V2)"
 description: "| Texte original | Token |"
 type: memory

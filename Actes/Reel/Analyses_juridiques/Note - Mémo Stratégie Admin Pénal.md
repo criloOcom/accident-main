@@ -1,4 +1,5 @@
 ---
+uid: nXkayEk3z
 title: "Mémo stratégique — Voies administrative et pénale"
 description: "Synthèse de la consultation avocat (15 juillet 2026) : articulation des procédures administrative (CODAF/Inspection du travail) et pénale (plainte + AJ + 145 CPC)"
 type: analyse_juridique

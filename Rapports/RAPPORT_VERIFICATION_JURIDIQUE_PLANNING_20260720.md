@@ -1,4 +1,5 @@
 ---
+uid: vcQeGYgkK
 title: Rapport de vérification juridique & planning de la semaine
 description: Rapport exhaustif d'audit des références Légifrance (LEGIARTI) et Judilibre (JURITEXT) et planification des échéances du 20 juillet 2026.
 type: rapport

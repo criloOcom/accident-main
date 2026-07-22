@@ -1,4 +1,5 @@
 ---
+uid: ijrN7Yciw
 title: Article 314-7 du Code pénal
 description: Code pénal — Organisation frauduleuse d'insolvabilité
 type: loi

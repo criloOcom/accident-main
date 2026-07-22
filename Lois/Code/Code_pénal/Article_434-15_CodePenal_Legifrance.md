@@ -1,4 +1,5 @@
 ---
+uid: FaV5Ce579
 title: Article 434-15 du Code pénal
 description: Code pénal — Subornation de témoin
 type: loi

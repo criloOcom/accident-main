@@ -1,4 +1,5 @@
 ---
+uid: t4NNCusWd
 title: Code pénal — Art. 475-1
 description: Code de procédure pénale — Remboursement des frais de la partie civile
 type: loi

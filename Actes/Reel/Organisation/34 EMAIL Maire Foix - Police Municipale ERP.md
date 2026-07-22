@@ -1,4 +1,5 @@
 ---
+uid: 2SmUxAQpi
 titre: Email définitif à l'Adjoint au Maire de Foix — Demande de contrôle ERP par police municipale - Version réelle
 date: 2026-07-10
 type: email

@@ -1,4 +1,5 @@
 ---
+uid: KckBitZU8
 title: "Facture chirurgie — 790,23 €"
 description: "SOS Main — Clinique de l'Union — Facture intervention chirurgicale main droite"
 type: preuve

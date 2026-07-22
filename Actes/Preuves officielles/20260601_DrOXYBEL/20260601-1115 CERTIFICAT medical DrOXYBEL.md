@@ -1,4 +1,5 @@
 ---
+uid: aBvCpYA8L
 title: "Certificat Médical Initial — Docteur OXYBEL"
 description: "Document de type document"
 type: preuve

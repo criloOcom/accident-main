@@ -1,4 +1,5 @@
 ---
+uid: Abvpx9fnj
 title: "Index de l'État Final du Dossier"
 description: "Rédigé le [**[J+32 Assignation référé]**](../../../Memory/Tokens/token-j-32-assignation-refere.md) — Mis à jour le [**[J+38 Mise à jour]**](../../../Memory/Tokens/token-j-38-mise-a-jour.md) (unification bordereau 43 pièces)"
 type: readme

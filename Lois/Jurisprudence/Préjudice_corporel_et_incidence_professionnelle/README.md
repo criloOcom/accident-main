@@ -1,4 +1,5 @@
 ---
+uid: f24dXmYnC
 title: "Préjudice_corporel_et_incidence_professionnelle"
 description: "Arrêts de la Cour de cassation sur l'évaluation du préjudice corporel et l'incidence professionnelle"
 type: readme

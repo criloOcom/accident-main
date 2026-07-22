@@ -1,4 +1,5 @@
 ---
+uid: gduD2MKuU
 title: "Simulations — Analyses Multi-Angle du Dossier Accident Main"
 description: "15 simulations professionnelles générées par Jules MCP : chaque acteur (juge, avocat, médecin, notaire, etc.) analyse le dossier depuis son prisme."
 type: navigation

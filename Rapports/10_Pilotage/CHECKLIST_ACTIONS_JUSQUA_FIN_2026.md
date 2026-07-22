@@ -1,4 +1,5 @@
 ---
+uid: 9F3bZUkL8
 title: Check-list opérationnelle Accident Main — fins 2026
 date: FIXME
 description: Tableau de bord chronologique des actions à mener jusqu'à fin 2026 (priorités, dépendances, calendrier).

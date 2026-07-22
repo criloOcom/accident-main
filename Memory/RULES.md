@@ -1,4 +1,5 @@
 ---
+uid: ctQaGVEN2
 title: "RÈGLES PERMANENTES — Dossier Accident de la Main"
 description: "- **INTERDICTION D'INVENTER** : Il est interdit d'inventer des faits, des dates, des montants financiers ou des citations juridiques. Tout fait écrit doit s'appuyer strictement sur les données locales du projet (Memory/STRICT VARIABLES.md ou `🧠_M"
 type: memory

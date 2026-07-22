@@ -1,4 +1,5 @@
 ---
+uid: 8FhsuZm8a
 title: "Courriel du bailleur Romain DELRIEU — 16 juillet 2026"
 description: "Réponse à la LRAR du 29 juin 2026 — Annonce cessation activité SAS LES MAUVAIS GARÇONS au 10/03/2026"
 type: preuve

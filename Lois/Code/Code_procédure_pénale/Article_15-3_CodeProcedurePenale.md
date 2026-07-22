@@ -1,4 +1,5 @@
 ---
+uid: TM9jqpPjj
 title: Code de procédure pénale — Art. 15-3
 description: Code de procédure pénale — Dépôt de plainte, récépissé, délais de prescription
 type: loi

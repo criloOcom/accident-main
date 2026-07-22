@@ -1,4 +1,5 @@
 ---
+uid: PYTwZ2qAF
 title: "📋 Attestation Témoin — Frédéric Mathieu (Cerfa 11527*03)"
 description: "Attestation de témoin sur formulaire Cerfa n° 11527*03 — Témoignage direct de l'accident du 29 mai 2026"
 type: attestation

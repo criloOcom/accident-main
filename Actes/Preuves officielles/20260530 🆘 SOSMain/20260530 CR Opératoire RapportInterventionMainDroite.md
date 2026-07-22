@@ -1,4 +1,5 @@
 ---
+uid: Vi7wzL22M
 title: "Compte Rendu Opératoire — Rapport d'Intervention Main Droite"
 description: "Document de type document"
 type: preuve

@@ -1,4 +1,5 @@
 ---
+uid: FQZniT3Vi
 emoji: ✉️
 title: Guide de Dialogue — Échanges avec la Police de Foix
 description: 'Objectif : Ce guide vous accompagne pas à pas lors de votre déplacement

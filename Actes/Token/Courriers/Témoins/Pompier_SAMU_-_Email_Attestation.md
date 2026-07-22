@@ -1,4 +1,5 @@
 ---
+uid: vgdCRZarP
 emoji: 📋
 title: 📧📋 Email Transmission Attestation Pompier SAMU
 description: 'Objet : Attestation de témoin — Intervention du [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) au

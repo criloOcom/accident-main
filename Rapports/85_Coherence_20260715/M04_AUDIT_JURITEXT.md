@@ -1,4 +1,5 @@
 ---
+uid: frNDExmRs
 title: AUDIT JURITEXT
 date: FIXME
 description: Vérification de l'existence des JURITEXT

@@ -1,4 +1,5 @@
 ---
+uid: NaaZwLWSV
 title: "📁 20260530 SOSMain"
 description: "README de la pièce SOS Main"
 type: readme

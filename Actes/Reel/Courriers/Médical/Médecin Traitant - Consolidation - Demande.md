@@ -1,4 +1,5 @@
 ---
+uid: 3nSc7LNTC
 emoji: ✉️
 title: Demande de Certificat Medical de Consolidation au Chirurgien SOS Main
 description: L'Adresse de la Victime

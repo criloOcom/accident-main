@@ -1,4 +1,5 @@
 ---
+uid: 97cV2Cr5E
 title: Rapport Jules #04 — Audit Responsabilité du Bailleur Romain DELRIEU
 description: Analyse des manquements de délivrance et d'entretien du bailleur (Art. 1719 & 1720 C. civ.) et entrave.
 type: rapport

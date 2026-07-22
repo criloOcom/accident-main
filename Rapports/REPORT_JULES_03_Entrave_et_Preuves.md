@@ -1,4 +1,5 @@
 ---
+uid: kqkUmEAS9
 title: Rapport Jules #03 — Audit Entrave à la Vérité & Destruction de Preuves
 description: Analyse sur la modification des lieux (Art. 434-4 CP), les présomptions de mauvaise foi (Art. 1382 CC) et la jurisprudence CEDH sur les vidéos.
 type: rapport

@@ -1,4 +1,5 @@
 ---
+uid: CMWW337sg
 title: "VACCIN — Protocole obligatoire avant chaque action"
 description: "- [ ] `/home/crilocom/accident-main/` est le SEUL répertoire — vérifie que tu y es"
 type: memory

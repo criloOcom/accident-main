@@ -1,4 +1,5 @@
 ---
+uid: 2wSprbnDM
 title: "👤 Le Médecin Généraliste"
 description: "Token :** `**[Le Médecin Généraliste]**`"
 token: "Le Médecin Généraliste"

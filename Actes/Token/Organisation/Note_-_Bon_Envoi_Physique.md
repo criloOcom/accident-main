@@ -1,4 +1,5 @@
 ---
+uid: CVayRFpWS
 title: "Bon d'Envoi Physique — Lot Juillet 2026"
 description: "Bon d'envoi physique — documents à imprimer et envoyer"
 type: readme

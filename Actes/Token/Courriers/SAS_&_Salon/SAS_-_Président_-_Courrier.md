@@ -1,4 +1,5 @@
 ---
+uid: NGmmU6ELy
 emoji: 📜
 title: 📜 Mise en Demeure aux Dirigeants — Demande d'Information Assurance RC
 description: '[L''Adresse de la Victime]** <br>'

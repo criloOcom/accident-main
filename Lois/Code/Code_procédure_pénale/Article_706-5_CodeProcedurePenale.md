@@ -1,4 +1,5 @@
 ---
+uid: 66RhR3KS8
 title: Code de procédure pénale — Art. 706-5
 description: Code de procédure pénale — Délai de forclusion CIVI (3 ans)
 type: loi

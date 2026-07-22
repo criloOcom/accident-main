@@ -1,4 +1,5 @@
 ---
+uid: kv7rSFGDx
 title: "Pièces à ajouter dans le Google Doc (Pj & Chronologie WIP)"
 description: "Tableau auto-généré des pièces citées dans les bordereaux .md vs Google Doc. Case à cocher si présente dans le Doc."
 type: readme

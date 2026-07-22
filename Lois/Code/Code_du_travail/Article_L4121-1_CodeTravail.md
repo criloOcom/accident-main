@@ -1,4 +1,5 @@
 ---
+uid: 2NqTDChgM
 title: Code du travail — Art. L.4121-1
 description: Code du travail — Obligations de l'employeur en matière de santé et sécurité
 type: loi

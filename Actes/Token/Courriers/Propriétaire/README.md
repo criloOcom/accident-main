@@ -1,4 +1,5 @@
 ---
+uid: Z2aBiDRkv
 title: "Index — Propriétaire (Token)"
 description: "Index du dossier Propriétaire"
 type: readme

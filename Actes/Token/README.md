@@ -1,4 +1,5 @@
 ---
+uid: BqGqNS9n4
 title: "🎭 Actes / token — Version Anonymisée"
 breadcrumb: "🎭 Token"
 description: "Ce dossier contient la version de travail de tous les actes."

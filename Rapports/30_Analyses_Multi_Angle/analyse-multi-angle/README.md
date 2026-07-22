@@ -1,4 +1,5 @@
 ---
+uid: gfqN5BFXk
 title: "Analyses Multi-Angle — 15 Missions"
 description: "Rapports d'analyse du dossier Accident Main par 15 angles professionnels (police, juge, magistrat, etc.) via sessions Jules MCP"
 type: analyse

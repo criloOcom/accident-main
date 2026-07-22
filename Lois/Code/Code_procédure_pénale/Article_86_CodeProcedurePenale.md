@@ -1,4 +1,5 @@
 ---
+uid: jPbP6vX2J
 title: Code de procédure pénale — Art. 86
 description: Code de procédure pénale — Constitution de la partie civile et ses effets
 type: loi

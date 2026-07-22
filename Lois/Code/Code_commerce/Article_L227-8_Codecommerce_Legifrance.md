@@ -1,4 +1,5 @@
 ---
+uid: Qz3KdTuSz
 title: Article L227-8
 description: Code de commerce — Direction des SAS
 type: loi

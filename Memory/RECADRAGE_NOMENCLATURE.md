@@ -1,4 +1,5 @@
 ---
+uid: JiqFPsXXR
 title: "NOTIFICATION — Application immédiate de l'Avenant Nomenclature"
 description: "Date** : 10 juillet 2026"
 type: memory

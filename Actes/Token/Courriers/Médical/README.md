@@ -1,4 +1,5 @@
 ---
+uid: piMP8WrC7
 title: "Index — Médical (Token)"
 description: "Index du dossier Médical"
 type: readme

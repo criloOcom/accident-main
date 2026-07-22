@@ -1,4 +1,5 @@
 ---
+uid: n98EFdkPB
 title: "Attestation de vigilance URSSAF n°2"
 description: "URSSAF Midi-Pyrénées — Seconde attestation de régularité sociale — SAS LES MAUVAIS GARCONS"
 type: preuve

@@ -1,4 +1,5 @@
 ---
+uid: tWLbtN7Py
 title: Article L124-3
 description: Code des assurances — Action directe de la victime contre l'assureur
 type: loi

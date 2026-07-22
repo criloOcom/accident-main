@@ -1,4 +1,5 @@
 ---
+uid: LuxZmkFER
 title: "📜 Mémoire de synthèse — Recours assurances ERP"
 description: "Document stratégique central de synthèse des recours en droit des assurances et de la responsabilité des établissements recevant du public (ERP). Rassemble l'ensemble des jurisprudences, fondements textuels et préconisations pour le dossier d'accident de la main."
 type: analyse_juridique

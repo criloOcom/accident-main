@@ -1,4 +1,5 @@
 ---
+uid: bKCzVTS6y
 title: "Mémorandum Juridique — Responsabilité des Dirigeants"
 description: "Rédigé le **[J+32 Assignation référé]"
 type: analyse_juridique

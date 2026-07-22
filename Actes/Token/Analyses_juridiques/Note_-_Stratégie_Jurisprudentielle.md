@@ -1,4 +1,5 @@
 ---
+uid: sEYerfKnd
 title: "Stratégie jurisprudentielle — Basculement vasque salon de coiffure"
 description: "| Élément à prouver | Notre preuve | Arrêt de référence |"
 type: analyse_juridique

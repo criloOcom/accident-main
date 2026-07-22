@@ -1,4 +1,5 @@
 ---
+uid: s438kN9pa
 title: "📤 Prêt pour envoi"
 description: "Documents finalisés mais sans preuve matérielle de délivrance — statuts final, preparation."
 type: readme

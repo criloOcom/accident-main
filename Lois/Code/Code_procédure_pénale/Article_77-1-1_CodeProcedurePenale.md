@@ -1,4 +1,5 @@
 ---
+uid: zkUn2hBfZ
 title: Code de procédure pénale — Art. 77-1-1
 description: Code de procédure pénale — Réquisitions sur système de vidéoprotection et enquêtes
 type: loi

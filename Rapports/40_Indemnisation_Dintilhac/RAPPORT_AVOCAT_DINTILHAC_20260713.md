@@ -1,4 +1,5 @@
 ---
+uid: fLA5d2si2
 title: RAPPORT D'ÉVALUATION INDEMNITAIRE — MÉTHODE DINTILHAC
 description: "Avis externe — Évaluation des préjudices corporels de la victime (informaticien indépendant, main droite dominante). Deux scénarios : prudent (DFP 10 % ≈ 126 k€) et médian (DFP 15 % ≈ 161,5 k€)."
 type: rapport

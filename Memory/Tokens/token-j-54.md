@@ -1,4 +1,5 @@
 ---
+uid: WvSh4RYzb
 title: "Token — J+54"
 date: FIXME
 description: "Définition du token J+54 pour le dossier Accident de la Main"

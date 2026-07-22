@@ -1,4 +1,5 @@
 ---
+uid: g2h8DMG3n
 title: "Note juridique : Qualification pénale — Disparition de la SAS"
 description: "Dossier :** [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) c/ **[L'Exploitant du Commerce (La SAS)]"
 type: analyse_juridique

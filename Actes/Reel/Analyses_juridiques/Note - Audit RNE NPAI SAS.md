@@ -1,4 +1,5 @@
 ---
+uid: aNSqZbCss
 title: "Analyse — Non-réception LRAR et statut RNE de [L'Exploitant du Commerce (La SAS)]"
 description: "- Annuaire-entreprises.data.gouv.fr (INSEE)"
 type: analyse_juridique

@@ -1,4 +1,5 @@
 ---
+uid: 6TYnBHRLR
 title: Rapport d'Expertise en Droit des Assurances - RC de la SAS
 date: FIXME
 description: Analyse multi-angle de la couverture RC de l'exploitant, action directe et voies d'indemnisation subsidiaires (FGAO/FGTI/CIVI).

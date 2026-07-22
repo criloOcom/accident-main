@@ -1,4 +1,5 @@
 ---
+uid: 6uCZ6Tj3V
 title: "Mémo axes juridiques — Accident 29 mai 2026"
 description: "Familles de textes et jurisprudence utiles pour l'avocat — 1 page"
 type: analyse_juridique

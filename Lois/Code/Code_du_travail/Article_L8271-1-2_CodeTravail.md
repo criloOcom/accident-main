@@ -1,4 +1,5 @@
 ---
+uid: zB8kDCUq3
 title: Code du travail — Art. L.8271-1-2
 description: Code du travail — Agents de contrôle compétents pour la lutte contre le travail illégal
 type: loi

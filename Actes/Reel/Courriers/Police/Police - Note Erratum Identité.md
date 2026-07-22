@@ -1,4 +1,5 @@
 ---
+uid: GZfnPHTCp
 emoji: 📜
 title: Erratum — Correction de l'identité de la société exploitante
 subtitle: Rectification de la désignation de la société défenderesse dans l'ensemble des actes et démarches

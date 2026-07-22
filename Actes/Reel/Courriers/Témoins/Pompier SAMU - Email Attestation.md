@@ -1,4 +1,5 @@
 ---
+uid: VmeAdK5k7
 emoji: 📋
 title: 📧📋 Email Transmission Attestation Pompier SAMU
 description: 'Objet : Attestation de témoin — Intervention du [29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md) au

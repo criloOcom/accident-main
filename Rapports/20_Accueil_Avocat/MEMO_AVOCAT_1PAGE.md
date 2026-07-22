@@ -1,4 +1,5 @@
 ---
+uid: kSmHqWt8D
 title: Mémo Avocat — Présentation Éclair du Dossier
 description: 1 page — mécanisme, fondement, chiffres, stratégie
 type: rapport

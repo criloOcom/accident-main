@@ -1,4 +1,5 @@
 ---
+uid: 9hRgLKwvp
 title: "Jurisprudence"
 description: "Dossier regroupant les arrêts de la Cour de cassation et décisions CA/TJ classés par thème juridique."
 type: readme

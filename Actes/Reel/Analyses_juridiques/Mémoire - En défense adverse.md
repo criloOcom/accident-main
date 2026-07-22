@@ -1,4 +1,5 @@
 ---
+uid: HvhRgqS6j
 title: "Mémoire en défense adverse — SAS [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md)"
 description: "Pour :** [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md), [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) (Partie Défenderesse)"
 type: analyse_juridique

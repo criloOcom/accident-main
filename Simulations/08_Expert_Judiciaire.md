@@ -1,4 +1,5 @@
 ---
+uid: HvMc3AJy5
 title: "Rapport de l'Expert Judiciaire — Spécialité Chirurgie de la Main"
 description: "Analyse médico-légale des lésions à la main droite (tendons et nerf) et évaluation prévisionnelle des préjudices selon la Nomenclature Dintilhac."
 type: simulation

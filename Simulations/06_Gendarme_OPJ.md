@@ -1,4 +1,5 @@
 ---
+uid: ttdMxjj4y
 title: "Rapport du Gendarme (OPJ) — Enquête de Police Judiciaire"
 description: "Procès-verbal d'enquête préliminaire : recherches, constatations, auditions et transmission au parquet pour l'accident du 29 mai 2026."
 type: simulation

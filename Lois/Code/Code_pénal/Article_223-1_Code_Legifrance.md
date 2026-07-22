@@ -1,4 +1,5 @@
 ---
+uid: Nh7nX9Gz2
 title: Article 223-1
 description: Code pénal — Mise en danger de la vie d'autrui
 type: loi

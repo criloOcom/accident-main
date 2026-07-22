@@ -1,4 +1,5 @@
 ---
+uid: Rj5jasRA6
 title: FRISE CHRONOLOGIQUE MULTI-VOLETS
 date: FIXME
 description: Frise superposant les 4 volets (pénal, civil, administratif, médical) de J+0 (mai 2026) à J+368 (juin 2027).

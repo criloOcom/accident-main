@@ -1,4 +1,5 @@
 ---
+uid: EsAMu8TgU
 title: Article L. 2212-4 du Code général des collectivités territoriales
 description: CGCT — Mesures de police du maire
 type: loi

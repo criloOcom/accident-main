@@ -1,4 +1,5 @@
 ---
+uid: 6uxkfatDX
 title: RAPPORT DE SYNTHÈSE GLOBALE
 date: FIXME
 description: "Projet :** accident-main — Préjudice corporel (main droite écrasée)"

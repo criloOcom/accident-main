@@ -1,4 +1,5 @@
 ---
+uid: mFYPUgQ9Z
 title: "📁 20260619 DrDJERBI MAIL"
 description: "README de la pièce Dr DJERBI MAIL"
 type: readme

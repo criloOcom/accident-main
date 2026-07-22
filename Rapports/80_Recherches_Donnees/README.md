@@ -1,4 +1,5 @@
 ---
+uid: 9t5iEsrV9
 title: "80_Recherches_Donnees — Données brutes de recherche"
 description: "Fichiers JSON de résultats de recherche juridique, données d'audit et constats."
 type: readme

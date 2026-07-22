@@ -1,4 +1,5 @@
 ---
+uid: 34bbtiEVL
 title: "CALENDAR MAP — Correspondance fichier ↔ événement Google Calendar"
 description: "Tableau maître liant chaque fichier .md du dépôt aux événements Google Calendar [AM] correspondants. Source de vérité pour la navigation bidirectionnelle."
 type: memory

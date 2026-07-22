@@ -1,4 +1,5 @@
 ---
+uid: D92Jv94Cz
 title: "Autres_codes"
 description: "Dossier regroupant les articles de codes non encore dotés de leur propre sous-dossier."
 type: readme

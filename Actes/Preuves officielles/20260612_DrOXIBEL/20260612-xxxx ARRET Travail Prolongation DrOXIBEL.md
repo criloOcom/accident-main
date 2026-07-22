@@ -1,4 +1,5 @@
 ---
+uid: hCSXTjsPy
 title: "Arrêt de travail — Prolongation"
 description: "Dr Yogan OXYBEL — Médecin généraliste — Prolongation d'arrêt de travail"
 type: preuve

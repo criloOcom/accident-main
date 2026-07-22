@@ -1,4 +1,5 @@
 ---
+uid: MdhSPWJus
 title: M06 — Audit de la Contre-Expertise Médicale
 date: FIXME
 description: Vérification de la cohérence de la stratégie de contre-expertise médicale au sein du dossier (demande, contestation, honoraires, localisation).

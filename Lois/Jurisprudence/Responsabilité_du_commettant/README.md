@@ -1,4 +1,5 @@
 ---
+uid: RiBLwnSwL
 title: "Responsabilité_du_commettant"
 description: "Arrêts de la Cour de cassation sur la responsabilité du commettant"
 type: readme

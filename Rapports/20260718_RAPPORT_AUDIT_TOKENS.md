@@ -1,4 +1,5 @@
 ---
+uid: pTxXB7KZ8
 title: Rapport d'Audit Tokens et Cohérence
 date: 2026-07-18
 description: Vérification de la cohérence de l'ensemble des tokens d'anonymisation, avec un focus sur le nouveau token [**[Le Téléphone du Préposé]**](../Memory/Tokens/token-exploitation-prepose-telephone.md).

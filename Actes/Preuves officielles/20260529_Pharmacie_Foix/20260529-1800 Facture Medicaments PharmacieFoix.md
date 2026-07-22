@@ -1,4 +1,5 @@
 ---
+uid: CRxg5JGx8
 title: "Facture médicaments"
 description: "Pharmacie Foix — Médicaments post-opératoires"
 type: preuve

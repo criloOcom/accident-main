@@ -1,4 +1,5 @@
 ---
+uid: ezzQUzUUM
 title: "DÉCISIONS CLÉS"
 description: "- Utiliser le bon français avec articles : `[**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)` PAS `**[Victime]**`"
 type: memory

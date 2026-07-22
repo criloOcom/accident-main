@@ -1,4 +1,5 @@
 ---
+uid: bhWrXqsNC
 title: "📁 20260629 LR Demande ASSURANCE"
 description: "README de la pièce LR Demande ASSURANCE"
 type: readme

@@ -1,4 +1,5 @@
 ---
+uid: X5d8KUNb9
 title: "💰 Finance<br>Évaluation Globale Dintilhac"
 description: "Token :** `**[Finance Evaluation Globale]**`"
 token: "Finance Evaluation Globale"

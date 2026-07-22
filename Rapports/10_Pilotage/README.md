@@ -1,4 +1,5 @@
 ---
+uid: 7s7mkYGEc
 title: "10_Pilotage — Pilotage opérationnel"
 description: "Documents de pilotage : check-lists, frise, cartographie, priorités, actions urgentes."
 type: readme

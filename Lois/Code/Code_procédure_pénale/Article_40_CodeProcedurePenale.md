@@ -1,4 +1,5 @@
 ---
+uid: EyusKAHyf
 title: Code de procédure pénale — Art. 40
 description: Code de procédure pénale — Attributions du procureur de la République
 type: loi

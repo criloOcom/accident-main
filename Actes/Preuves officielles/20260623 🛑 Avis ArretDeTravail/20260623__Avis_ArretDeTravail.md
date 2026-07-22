@@ -1,4 +1,5 @@
 ---
+uid: pKDU8t38k
 title: "20260623 🛑 Avis ArretDeTravail"
 description: "Document de preuve officielle transcrit du Google Doc"
 type: preuve

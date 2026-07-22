@@ -1,4 +1,5 @@
 ---
+uid: 3tccjgj4V
 type: loi
 title: RGPD – Articles 7, 9 et 82
 date: 2026-07-20

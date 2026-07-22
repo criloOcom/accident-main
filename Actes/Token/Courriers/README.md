@@ -1,4 +1,5 @@
 ---
+uid: unwj5asQa
 title: "📨 Courriers — Version Token"
 breadcrumb: "📨 Courriers"
 description: "Correspondance avec les tiers (administrations, assurances, justice, police, etc.) — version anonymisée."

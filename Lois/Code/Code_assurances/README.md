@@ -1,4 +1,5 @@
 ---
+uid: gCvyHwUaL
 title: "Code des assurances"
 description: "Dossier contenant les articles du Code des assurances cités dans les actes du projet."
 type: readme

@@ -1,4 +1,5 @@
 ---
+uid: uxFCCGmjR
 emoji: 📝
 title: Guide — Demande d'Aide Juridictionnelle Totale
 description: Guide pas à pas pour déposer une demande d'AJ totale au TJ de Foix

@@ -1,4 +1,5 @@
 ---
+uid: KznUJSDTK
 emoji: 📋
 title: 📧📋 Email Transmission Attestation Témoin Client
 description: 'Objet : Attestation de témoin — Accident du [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) au salon

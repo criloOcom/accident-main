@@ -1,4 +1,5 @@
 ---
+uid: VbNwTk2Jq
 title: "Note juridique : Qualification pénale — Disparition de la SAS"
 description: "Dossier :** [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) c/ **[L'Exploitant du Commerce (La SAS)]"
 type: analyse_juridique

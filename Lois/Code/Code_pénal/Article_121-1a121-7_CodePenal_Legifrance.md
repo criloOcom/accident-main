@@ -1,4 +1,5 @@
 ---
+uid: x7FF3LAWr
 title: Articles 121-1 à 121-7 — Code pénal
 description: Code pénal — Principes généraux de la responsabilité pénale
 type: loi

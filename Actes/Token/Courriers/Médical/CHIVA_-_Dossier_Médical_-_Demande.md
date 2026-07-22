@@ -1,4 +1,5 @@
 ---
+uid: YxhDKzZqG
 emoji: 📜
 title: ✉️📜 CHIVA — Demande de Dossier Médical (LRAR)
 description: Demande de communication de l'intégralité du dossier médical de la victime

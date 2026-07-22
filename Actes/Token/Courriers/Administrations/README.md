@@ -1,4 +1,5 @@
 ---
+uid: GhbRz5EcX
 title: "Index — Administrations (Token)"
 description: "Index du dossier Administrations"
 type: readme

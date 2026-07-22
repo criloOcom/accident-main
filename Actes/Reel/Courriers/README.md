@@ -1,4 +1,5 @@
 ---
+uid: XswpL3hvR
 title: "📨 Courriers — Version Réelle"
 breadcrumb: "📨 Courriers"
 description: "Correspondance avec les tiers (administrations, assurances, justice, police, etc.) — version réelle."

@@ -1,4 +1,5 @@
 ---
+uid: Dafw3V2wn
 title: Article L210-6
 description: Code de commerce — Commercial par la forme
 type: loi

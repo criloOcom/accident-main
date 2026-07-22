@@ -1,4 +1,5 @@
 ---
+uid: hBq4HZJjq
 title: Article 2226
 description: Code civil — Prescription décennale pour dommage corporel
 type: loi

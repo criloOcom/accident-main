@@ -1,4 +1,5 @@
 ---
+uid: HspDMUzBq
 title: "Rapport 10 : Inspecteur du Travail (Ariège)"
 date: FIXME
 description: Analyse des infractions au Code du travail suite à l'accident du 29/05/2026 au salon de coiffure.

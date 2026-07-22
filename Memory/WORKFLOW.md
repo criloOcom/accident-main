@@ -1,4 +1,5 @@
 ---
+uid: 8PMRSEgGj
 title: "WORKFLOW D'ANONYMIZATION"
 description: "1. **Lire** l'original avec `readDocument` (format text)"
 type: memory

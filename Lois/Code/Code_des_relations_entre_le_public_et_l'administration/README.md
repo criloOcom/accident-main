@@ -1,4 +1,5 @@
 ---
+uid: TWL8WB8mx
 title: "Code_des_relations_entre_le_public_et_l'administration"
 description: "Dossier contenant les articles du CRPA (1 article)."
 type: readme

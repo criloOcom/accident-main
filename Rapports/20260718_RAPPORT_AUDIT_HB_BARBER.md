@@ -1,4 +1,5 @@
 ---
+uid: AFkSpHCGM
 title: "Rapport d'Audit : Cohérence HB BARBER — 18 juillet 2026"
 date: 2026-07-18
 description: Analyse de la cohérence du dossier suite aux découvertes terrain du 16 juillet 2026 (visite HB BARBER, non-dépôt AJ, fausses mentions de dépôt).

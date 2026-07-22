@@ -1,4 +1,5 @@
 ---
+uid: MtvgA2UA9
 title: "Mise_en_danger_d'autrui"
 description: "Arrêts de la Cour de cassation sur la mise en danger d'autrui"
 type: readme

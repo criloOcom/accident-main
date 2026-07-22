@@ -1,4 +1,5 @@
 ---
+uid: nq5HtU5Cc
 title: Synthèse Rapport de Santé — 2026-07-20
 description: Synthèse des points critiques suite à l'exécution de health_report.py
 type: rapport

@@ -1,4 +1,5 @@
 ---
+uid: DGhctJmLP
 emoji: 🚨
 title: Confirmation Officielle de Signalement à la Préfecture
 description: Signalement à la Préfecture de l'Ariège / CODAF — Accident du 29 mai

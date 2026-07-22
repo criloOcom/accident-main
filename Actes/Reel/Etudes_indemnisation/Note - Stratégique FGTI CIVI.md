@@ -1,4 +1,5 @@
 ---
+uid: wxJVApeKJ
 title: "Note stratégique FGTI/CIVI"
 description: "Les conditions posées par l'article 706-3 du Code de procédure pénale sont intégralement remplies :"
 type: etude_indemnisation

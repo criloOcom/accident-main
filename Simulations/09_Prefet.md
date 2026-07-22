@@ -1,4 +1,5 @@
 ---
+uid: S8JHhfChF
 title: "Rapport du Préfet de l'Ariège — Police Administrative et Conformité ERP"
 description: "Analyse administrative du respect de la réglementation ERP, sécurité du public et mesures de police administrative consécutives à l'accident du 29 mai 2026."
 type: simulation

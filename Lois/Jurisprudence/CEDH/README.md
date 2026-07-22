@@ -1,4 +1,5 @@
 ---
+uid: FU9AJAwXc
 title: "Jurisprudence CEDH"
 description: "Arrêts de la Cour Européenne des Droits de l'Homme sur le droit à une enquête effective et la conservation des preuves vidéo."
 type: readme

@@ -1,4 +1,5 @@
 ---
+uid: yG8qdhepJ
 title: "20260605-2313 HELPER Gemini Partie04"
 description: "Document de type document"
 type: preuve

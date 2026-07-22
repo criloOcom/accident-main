@@ -1,4 +1,5 @@
 ---
+uid: LxmZYV7HP
 title: "⚠ DÉPRÉCIÉ — VARIABLES FINANCIÈRES (voir STRICT VARIABLES.md)"
 description: "Ce fichier regroupe l'ensemble des montants financiers (provisions, préjudices Dintilhac, astreintes et dépens) pour le dossier de [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md). Ces valeurs sont la référence unique du projet pour toutes les substitutions."
 type: memory

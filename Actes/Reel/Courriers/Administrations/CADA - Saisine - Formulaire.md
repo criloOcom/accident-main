@@ -1,4 +1,5 @@
 ---
+uid: cjjLnSSae
 emoji: 📝
 title: Saisine CADA — Version courte pour formulaire en ligne
 description: Blocs de texte prêts à copier-coller dans le formulaire de saisine en

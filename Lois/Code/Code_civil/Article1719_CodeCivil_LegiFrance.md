@@ -1,4 +1,5 @@
 ---
+uid: S9GtmNu2s
 title: Code civil — Art. 1719
 description: Code civil — Obligations du bailleur
 type: loi

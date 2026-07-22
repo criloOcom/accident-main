@@ -1,4 +1,5 @@
 ---
+uid: CPRe2JCT8
 title: "20260624-0950 HELPER Gemini Partie06"
 description: "Document de type document"
 type: preuve

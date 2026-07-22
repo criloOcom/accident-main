@@ -1,4 +1,5 @@
 ---
+uid: K8chiVV7x
 title: "Note de synthèse pour l'avocat — Bascule [L'Exploitant du Commerce (La SAS)] → [L'Exploitant du Commerce (La SAS)]"
 description: "Chronologie complète, cartographie des acteurs, pivot HB BARBER, constatations du 16 juillet"
 type: analyse_juridique

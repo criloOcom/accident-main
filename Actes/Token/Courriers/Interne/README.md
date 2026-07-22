@@ -1,4 +1,5 @@
 ---
+uid: xZYw2CpqS
 title: "Index — Interne (Token)"
 description: "Index du dossier Interne"
 type: readme

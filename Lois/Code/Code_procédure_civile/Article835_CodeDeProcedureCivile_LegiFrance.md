@@ -1,4 +1,5 @@
 ---
+uid: LTRWGhBGL
 title: Code civil — Art. 835
 description: Code de procédure civile — Référé-provision
 type: loi

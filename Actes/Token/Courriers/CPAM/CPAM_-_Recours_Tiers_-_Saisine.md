@@ -1,4 +1,5 @@
 ---
+uid: kPrXMtShr
 emoji: ⚖️
 title: Transmission et Bordeau Recapitulatif CPAM — Recours Contre Tiers
 description: L'Adresse de la Victime

@@ -1,4 +1,5 @@
 ---
+uid: wrF22yMid
 title: "📁 jules_recommandations"
 description: "Recommandations issues de l'agent Jules pour la rédaction des actes juridiques."
 type: readme

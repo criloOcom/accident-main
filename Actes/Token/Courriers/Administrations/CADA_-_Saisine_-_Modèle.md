@@ -1,4 +1,5 @@
 ---
+uid: 49rnkLCd5
 emoji: 📝
 title: Modèle Saisine CADA — Refus communication documents administratifs
 description: Saisine de la Commission d'accès aux documents administratifs en cas

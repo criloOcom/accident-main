@@ -1,4 +1,5 @@
 ---
+uid: VkDfSKAsq
 title: Synthèse exécutive pour l'avocat (J+50)
 date: 2026-07-18
 description: Document de synthèse à remettre à l'avocat

@@ -1,4 +1,5 @@
 ---
+uid: Pm9Y3hBMK
 title: 06 — Rapport Gendarme / OPJ
 description: Évaluation de la qualité des constatations initiales, chaîne de conservation des preuves et plan d'action (Accident Main, 29/05/2026).
 type: analyse_juridique

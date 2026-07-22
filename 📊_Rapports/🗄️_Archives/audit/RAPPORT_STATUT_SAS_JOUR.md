@@ -1,4 +1,5 @@
 ---
+uid: qAJFr79B5
 titre: Rapport de vérification statutaire — SAS LES MAUVAIS GARCONS
 date: 2026-07-09
 type: rapport

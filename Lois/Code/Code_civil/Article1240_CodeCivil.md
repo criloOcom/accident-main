@@ -1,4 +1,5 @@
 ---
+uid: JtRh9C7Qh
 title: Code civil — Art. 1240
 description: Code civil — Responsabilité pour faute
 type: loi

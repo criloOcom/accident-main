@@ -1,4 +1,5 @@
 ---
+uid: ccbgZJA4P
 title: Code de procédure pénale — Art. 8
 description: Code de procédure pénale — Prescription de l'action publique
 type: loi

@@ -1,4 +1,5 @@
 ---
+uid: xiDWMdHJP
 title: TJ Nanterre, 2025 (n° 19/08999)
 description: Tribunal judiciaire de Nanterre — Responsabilité ERP, obligation de moyens renforcée
 type: jurisprudence

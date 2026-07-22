@@ -1,4 +1,5 @@
 ---
+uid: x2eLH7T4Q
 title: "20260602 RF RECEPISSE deDeclaration"
 description: "Document de type document"
 type: preuve

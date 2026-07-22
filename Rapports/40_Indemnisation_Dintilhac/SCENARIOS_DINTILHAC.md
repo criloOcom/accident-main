@@ -1,4 +1,5 @@
 ---
+uid: wVbNQEh8K
 title: Scénarios Dintilhac A/B/C — Calibration Indemnitaire
 description: "Calibration indemnitaire avec 3 scénarios (A: basse, B: compromis, C: haute) pour la victime."
 type: rapport

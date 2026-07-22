@@ -1,4 +1,5 @@
 ---
+uid: mFZZhyxcW
 title: "20260629 ✉️ LR ASSURANCE ?Bailleur"
 description: "Document de preuve officielle transcrit du Google Doc"
 type: preuve

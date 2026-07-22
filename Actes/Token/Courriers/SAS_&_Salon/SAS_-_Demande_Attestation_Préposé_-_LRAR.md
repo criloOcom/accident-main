@@ -1,4 +1,5 @@
 ---
+uid: 24WY2s9Tv
 emoji: 📜
 title: 📜 LRAR — Demande Attestation Témoin (Préposé Coiffeur)
 description: Demande de communication et de remplissage du Cerfa 11527*03 par le préposé coiffeur présent le jour de l'accident

@@ -1,4 +1,5 @@
 ---
+uid: 7FiPRZwzt
 title: RAPPORT AUDIT HERMÈS — Conformité technique du dépôt (2026-07-11)
 date: 2026-07-11
 description: Audit read-only des breadcrumbs, liens internes, YAML frontmatter, structure/navigation, liens brisés et propreté du dossier accident-main.

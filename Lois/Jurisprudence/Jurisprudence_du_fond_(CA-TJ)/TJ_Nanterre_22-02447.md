@@ -1,4 +1,5 @@
 ---
+uid: QTpTPpszF
 title: TJ Nanterre, 2024 (n° 22/02447)
 description: Tribunal judiciaire de Nanterre — Évaluation préjudice corporel, nomenclature Dintilhac, souffrances endurées 5/7
 type: jurisprudence

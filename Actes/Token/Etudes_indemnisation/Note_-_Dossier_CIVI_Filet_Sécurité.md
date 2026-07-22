@@ -1,4 +1,5 @@
 ---
+uid: 8ETQt7trS
 title: "Note - Dossier CIVI Filet Sécurité"
 description: "Dossier complet pour la saisine de la CIVI si la SAS HB BARBER est insolvable ou non assurée."
 type: etude_indemnisation

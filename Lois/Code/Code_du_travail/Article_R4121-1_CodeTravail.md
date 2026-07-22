@@ -1,4 +1,5 @@
 ---
+uid: b96BuPTZk
 title: Code du travail — Art. R.4121-1
 description: Code du travail — Document unique d'évaluation des risques
 type: loi

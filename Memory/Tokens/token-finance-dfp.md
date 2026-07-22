@@ -1,4 +1,5 @@
 ---
+uid: ryF9cph36
 title: "💰 Finance<br>Déficit Fonctionnel Permanent (DFP)"
 description: "Token :** `**[Finance DFP]**`"
 token: "Finance DFP"

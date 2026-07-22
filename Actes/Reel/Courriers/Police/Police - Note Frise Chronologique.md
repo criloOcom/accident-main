@@ -1,4 +1,5 @@
 ---
+uid: 5UkPUAegb
 emoji: 📋
 title: Frise chronologique simplifiée — Dossier [La Victime]
 description: Mémento visuel pour l'OPJ — succession rapide des dates-clés et des sociétés

@@ -1,4 +1,5 @@
 ---
+uid: 7kyFJjWzq
 title: "Code_général_des_collectivités_territoriales"
 description: "Dossier contenant les articles du CGCT (2 articles)."
 type: readme

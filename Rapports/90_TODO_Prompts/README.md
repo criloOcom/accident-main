@@ -1,4 +1,5 @@
 ---
+uid: bXKcuDdqQ
 title: "90_TODO_Prompts — Prompts et notes de travail"
 description: "Prompts utilisés pour les sessions IA, notes de travail, atelier."
 type: readme

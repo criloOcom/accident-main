@@ -1,4 +1,5 @@
 ---
+uid: BjQ3gVR2H
 title: "Analyse du Notaire — Structure SAS et Responsabilité des Dirigeants"
 description: "Analyse de la structure juridique de la SAS exploitante, capital social, responsabilité des dirigeants et implications patrimoniales pour l'indemnisation."
 type: simulation

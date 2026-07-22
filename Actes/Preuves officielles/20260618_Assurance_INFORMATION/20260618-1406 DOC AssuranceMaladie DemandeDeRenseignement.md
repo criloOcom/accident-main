@@ -1,4 +1,5 @@
 ---
+uid: GzrkEn8Mq
 title: "Document Assurance Maladie — Demande de Renseignement"
 description: "Document de type document"
 type: preuve

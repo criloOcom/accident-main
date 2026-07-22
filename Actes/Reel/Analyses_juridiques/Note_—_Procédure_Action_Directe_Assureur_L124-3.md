@@ -1,4 +1,5 @@
 ---
+uid: VK8RLvbSc
 title: "Note — Procédure Action Directe Assureur L124-3"
 description: "Analyse juridique détaillée de la procédure d'action directe contre l'assureur RC sur le fondement de l'article L.124-3 du Code des assurances, dans le cadre de l'accident corporel du 29 mai 2026 (vasque céramique — salon de coiffure). Stratégie de référé-provision, prescription, articulation FGAO/CIVI et feuille de route procédurale."
 type: analyse_juridique

@@ -1,4 +1,5 @@
 ---
+uid: rkkU78WrR
 title: Rapport Jules #05 — Audit Qualification Juridique de l'Accident
 description: Démonstration de la caducité de l'accident du travail et fondement délictuel (Art. 1240 & 1242 C. civ.).
 type: rapport

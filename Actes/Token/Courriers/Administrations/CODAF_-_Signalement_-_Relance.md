@@ -1,4 +1,5 @@
 ---
+uid: mbk8rpUuU
 emoji: 🔄
 title: Relance Préfecture / CODAF — Suite signalement Maire de Foix
 description: Suivi du signalement transmis par [**[L'Adjoint au Maire de la Commune]**](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)

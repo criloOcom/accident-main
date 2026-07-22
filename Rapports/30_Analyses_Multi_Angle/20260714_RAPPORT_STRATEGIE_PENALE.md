@@ -1,4 +1,5 @@
 ---
+uid: eVaA7wajC
 title: Rapport de Stratégie Pénale et Saisine du Parquet
 date: 2026-07-14
 description: Analyse de la dimension pénale, qualification des infractions, procédure et saisine du Parquet (Art. 40 CPP)

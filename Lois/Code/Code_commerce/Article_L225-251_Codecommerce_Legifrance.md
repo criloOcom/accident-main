@@ -1,4 +1,5 @@
 ---
+uid: xHQQiMr6A
 title: Code de commerce — Art. L.225-251
 description: Code de commerce — Responsabilité en cas de liquidation
 type: loi

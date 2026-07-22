@@ -1,4 +1,5 @@
 ---
+uid: vJQczMzyi
 title: Procès-Verbal de Constat Virtuel (Cahier des charges)
 description: Ce document décrit, en amont de la réalisation physique du constat, le déroulé précis et exhaustif des opérations de constatations matérielles requises au sein du salon de coiffure [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) sis **[L'Adresse de l'Exploit
 type: rapport

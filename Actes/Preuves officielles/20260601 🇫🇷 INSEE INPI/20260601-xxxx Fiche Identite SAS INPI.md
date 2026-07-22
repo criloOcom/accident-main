@@ -1,4 +1,5 @@
 ---
+uid: 5JNbVKptH
 title: "Fiche identité SAS"
 description: "INPI — Fiche identité de la SAS LES MAUVAIS GARCONS — SIREN 938 033 222"
 type: preuve

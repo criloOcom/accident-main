@@ -1,4 +1,5 @@
 ---
+uid: 6RacfkYMn
 title: Livre des procédures fiscales — Art. L.252
 description: Livre des procédures fiscales — Recouvrement des impôts, comptables publics
 type: loi
