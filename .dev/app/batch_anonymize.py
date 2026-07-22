@@ -35,11 +35,15 @@ REPLACEMENTS = [
 
     # --- Exploitation ---
     ("SAS LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
+    ("SAS LES MAUVAIS GARÇONS", "[L'Exploitant du Commerce (La SAS)]"),
     ("LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
+    ("LES MAUVAIS GARÇONS", "[L'Exploitant du Commerce (La SAS)]"),
     ("Mountasser SABIR", "[Le Président de la SAS]"),
+    ("Mountasser Sabir", "[Le Président de la SAS]"),
     ("SABIR", "[Le Président de la SAS]"),
     ("Sabir", "[Le Président de la SAS]"),
     ("Catherine ANDISSAC", "[La Directrice Générale de la SAS]"),
+    ("Catherine Andissac", "[La Directrice Générale de la SAS]"),
     ("ANDISSAC", "[La Directrice Générale de la SAS]"),
     ("Andissac", "[La Directrice Générale de la SAS]"),
 
