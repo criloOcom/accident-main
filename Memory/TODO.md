@@ -24,11 +24,11 @@ type: memory
 > | 05 | Qualification Accident TI | `Rapports/REPORT_JULES_05_Qualification_Accident.md` | 🔶 100% (✅ Caducité AT & Art. 1240/1242 C. civ.) |
 > | 06 | Audit PIECES MAP | `Rapports/REPORT_JULES_06_Pieces_Map_Audit.md` | 🔶 100% (✅ Indexation des pièces 44 à 52 validée) |
 > | 07 | Audit STRICT VARIABLES | `Rapports/REPORT_JULES_07_Strict_Variables_Audit.md` | ✅ 100% (4/4 — 1 FP, 3 corrigés) |
-> | 08 | Témoignage Frédéric MATHIEU | `Rapports/REPORT_JULES_08_Temoignage_Mathieu.md` | 🔶 85% (✅ ~33/39 — 0 FP, 6 à faire) |
-> | 09 | Régulation Médicale SAMU 09 | `Rapports/REPORT_JULES_09_SAMU09_Tracabilite.md` | 🔲 0% (non traité) |
+> | 08 | Témoignage Frédéric MATHIEU | `Rapports/REPORT_JULES_08_Temoignage_Mathieu.md` | 🔶 100% (✅ Valeur probante Cerfa & corroboration CEDH) |
+> | 09 | Régulation Médicale SAMU 09 | `Rapports/REPORT_JULES_09_SAMU09_Tracabilite.md` | 🔶 100% (✅ Appel 15h25, photo App SAMU & traçabilité) |
 > | 10 | Citations Actes Procéduraux | `Rapports/REPORT_JULES_10_Actes_Proceduraux_Citations.md` | 🔲 0% (non traité) |
 > | 11 | Suivi Kiné & Bilan Écrit | `Rapports/REPORT_JULES_11_Parcours_Kine_Audit.md` | 🔲 0% (non traité) |
-> | 12 | Recours CPAM & Action Directe | `Rapports/REPORT_JULES_12_CPAM_Action_Directe.md` | 🔲 0% (non traité) |
+> | 12 | Recours CPAM & Action Directe | `Rapports/REPORT_JULES_12_CPAM_Action_Directe.md` | 🔶 100% (✅ Audit Art. L.376-1 CSS & L.124-3 C.ass.) |
 > | 13 | Audit DEPENDANCES.md | `Rapports/REPORT_JULES_13_Dependances_Audit.md` | ✅ 100% (7/7 — entity reversal traité) |
 > | 14 | Conformité JURITEXT | `Rapports/REPORT_JULES_14_Juritext_Conformite.md` | 🔲 0% (non traité) |
 > | 15 | Synthèse Globale Preuves | `Rapports/REPORT_JULES_15_Synthese_Globale_Preuves.md` | 🔲 0% (non traité) |
