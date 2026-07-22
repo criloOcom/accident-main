@@ -70,15 +70,15 @@ SAS HB BARBER (SAS)**
 | Président | [Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md) (né 07/1998, Saint-Girons) |
 | Directrice générale | **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** (née 04/1970, Baillargues) |
 
-Mme **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** était déjà mentionnée dans mon dossier comme directrice générale de **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)**. Elle occupe la fonction de **directrice générale dans les deux sociétés**, **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** puis SAS HB BARBER, pour le même local et la même activité, avec une succession très rapprochée :
+Mme **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** était déjà mentionnée dans mon dossier comme directrice générale de **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)**. Elle occupe la fonction de **directrice générale dans les deux sociétés**, **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** puis [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), pour le même local et la même activité, avec une succession très rapprochée :
 
 - **10 mars 2026** : date de cessation d'activité de **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** dans les locaux selon le bailleur (état des lieux de sortie)
 
-- **22 avril 2026** : début d'activité déclarée de SAS HB BARBER au 22 rue / grande rue Lafaurie
+- **22 avril 2026** : début d'activité déclarée de [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) au 22 rue / grande rue Lafaurie
 
 - **29 mai 2026** : date de mon accident dans ce même local
 
-**Je demande** que la société SAS HB BARBER et ses dirigeants soient formellement intégrés dans la procédure en qualité de société exploitante et responsables potentiels au jour des faits.
+**Je demande** que la société [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) et ses dirigeants soient formellement intégrés dans la procédure en qualité de société exploitante et responsables potentiels au jour des faits.
 <hr><hr>
 
 ## 3. Courriel du bailleur et état des lieux de sortie
