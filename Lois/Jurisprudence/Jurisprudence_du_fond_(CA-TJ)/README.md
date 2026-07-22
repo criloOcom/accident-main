@@ -30,6 +30,8 @@ Décisions des cours d'appel et tribunaux judiciaires sur la responsabilité des
 
 - [TJ Nanterre, 2024, n° 22/02447](TJ%20Nanterre%2022-02447.md) — Évaluation préjudice corporel, nomenclature Dintilhac
 
+- [CA_Lyon_21-03420](CA_Lyon_21-03420.md)
+- [CA_Riom_20-00318](CA_Riom_20-00318.md)
 ## Source
 
 Ces décisions sont référencées par [Doctrine.fr](https://www.doctrine.fr) dans ses listes thématiques sur la responsabilité civile et l'indemnisation du dommage corporel. Les textes intégraux sont accessibles sur abonnement Doctrine.fr ou via les greffes des juridictions concernées. Les fiches ci-contre en restituent les enseignements pertinents pour l'affaire.
