@@ -199,12 +199,12 @@ Ce tableau remplace toute version antérieure. La référence d'une pièce est s
 
 | Pièce | Intitulé | Citée dans | Valeur probatoire |
 |-------|----------|-----------|-------------------|
-| 10 | LRAR [mise en demeure SAS](../Actes/Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md) (J+31) | Assignation 01, Assignation 145 03 | Preuve de la carence amiable |
-| 10b | LRAR [relance V2 dirigeants](../Actes/Reel/Courriers/SAS_&_Salon/SAS%20-%20Dirigeants%20-%20Courrier%20-%20Relance.md) (08/07/2026) — Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf) | Relance Dirigeants | Preuve du renouvellement des demandes et de l'obstruction |
+| 10 | LRAR [mise en demeure SAS](../Actes/Reel/Courriers/SAS_&_Salon/SAS_-_Courrier.md) (J+31) | Assignation 01, Assignation 145 03 | Preuve de la carence amiable |
+| 10b | LRAR [relance V2 dirigeants](../Actes/Reel/Courriers/SAS_&_Salon/SAS_-_Dirigeants_-_Courrier_-_Relance.md) (08/07/2026) — Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf) | Relance Dirigeants | Preuve du renouvellement des demandes et de l'obstruction |
 | 11 | LRAR mise en demeure [**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md) (J+31) | Assignation 01, Assignation 145 03 | Mise en cause personnelle du dirigeant |
 | 12 | LRAR mise en demeure [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md) (J+31) | Assignation 01, Assignation 145 03 | Mise en cause personnelle de la dirigeante |
 | 13 | LRAR mise en demeure [**[Le Propriétaire des Murs]**](../Memory/Tokens/token-exploitation-bailleur-nom.md) (J+31) + AR signé | Assignation 01, Assignation 145 03 | Preuve de la carence du propriétaire |
-| 14 | [Action directe assureur RC](../Actes/Reel/Courriers/SAS_&_Salon/SAS%20-%20Assureur%20RC%20-%20Courrier.md) (Art. L.124-3 C. assur.) | — | Exercice de l'action directe |
+| 14 | [Action directe assureur RC](../Actes/Reel/Courriers/SAS_&_Salon/SAS_-_Assureur_RC_-_Courrier.md) (Art. L.124-3 C. assur.) | — | Exercice de l'action directe |
 | 15 | Transmission plainte au Procureur (LRAR) | — | Déclenchement voie pénale |
 
 ### Groupe D — Actes de procédure (pièces 16-18)
@@ -276,3 +276,40 @@ Ce tableau remplace toute version antérieure. La référence d'une pièce est s
 | 01/06/2026 | Police [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md) | Plainte | [🔗 Voir](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view) |
 | 02/06/2026 | Police [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md) | PV Police | [🔗 Voir](https://drive.google.com/file/d/18RdOzvO3Xwp1SVcsCdGDiY6RLQmWoHAnxJXnkQnomXs/view) |
 | 03/06/2026 | CPAM Haute-Garonne | Dossier RCT | [🔗 Voir](https://drive.google.com/file/d/1mTGqygF0mS0Y5Yx-kRg3bM-7HHTajZqJ/view) |
+
+<!-- AUTO-SYNC-GDOC-START -->
+
+## 🔄 Bordereau synchronisé depuis le Google Doc (Pj & Chronologie WIP)
+
+_Source de vérité visuelle : Document ID `1LQCFXEyGj7VWD92ccdh6JRwFQgKl2THT131YbrnemoE`. Mapping automatique via export PDF (footer « Pièce n°N » + ID Drive en tête de page)._
+
+| Pièce | Page PDF | ID Google Drive | Nom du fichier Drive |
+|-------|----------|----------------|----------------------|
+| 2 | 4 | `1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf` | 20260529-1630 SITUATION DrJulieJARDON Doc_1.pdf |
+| 3 | 5 | `1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9` | 20260530 CROpératoire RapportInterventionMainDroite |
+| 4 | 6 | `1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9` | 20260530 CROpératoire RapportInterventionMainDroite |
+| 6 | 8 | `1QydDw4ZhGm_s8JA-6mwQyI83ukXwM-Y3` | 20260601-1615 MAIL Foix MAIRIE AdjointAuMaire.pdf |
+| 8 | 10 | `1SIcpCYIIJp84_6TY9dVbyMMr8Rlxbeda` | 20260601-1115 CERTIFICATmedical DrOXYBEL.pdf |
+| 9 | 11 | `1SLKUX5cDm2cuATQS3ya7_7WQYI_sjZPm` | 20260601-1116 AVIS ArretDeTravail DrOXYBEL Volet1.pdf |
+| 11 | 13 | `1YXaJE81FFPTKcrcShg9DI5jUZ82T988V` | 20260602 PVPolice PV n°2026-015967 AccidentSalonCoiffure |
+| 12 | 14 | `1ikEfXSFTlVefhevXDRguBhSWh2Gvkama` | 20260602 RF RECEPISSE deDeclaration.pdf |
+| 13 | 15 | `16ctQA0A6oeuEQlRrcJkTUFA2Rb2lDxdJ` | 20260602 RF Requisition A Personne RDVok20261112-1345.pdf |
+| 17 | 19 | `1PXkPKn9f0IwiV8EwWQ8kn1NR2ADebcvg` | 20260612-1250 AVIS ArretDeTravail DrOXYBEL au0623.pdf |
+| 18 | 20 | `1Xaz3iA_-40WtHRkOe_db1NcO-tBxAENQ` | 20260623-1730 DrDJERBI Bilan.pdf |
+| 19 | 21 | `1t-DHwIZUyJgWwQGOAFHtNvNC2xVtMozp` | 20260623-1731 DrDJERBI Ordonnance Kinesitherapeute.pdf |
+| 20 | 22 | `1BA39BdwR1x8FkeFh2oyp66zPVbq7E5tK` | 20260623-1732 AVIS ArretDeTravail DrDJERBI Volet1.pdf |
+| 21 | 23 | `16qA-zIOyn_tz4BHBYKcikR62YBskO9U0` | 20260629 ✉️ LR MiseEnDemeure SAS LesMauvaisGarcons Preuve 87001424863012T.pdf |
+| 22 | 24 | `1EYGSDvg_mvUZckLcgIxsUQ9U6XCEvEB8` | 20260629 ✉️ LR MiseEnDemeure SAS MmeANDISSAC Preuve 87001424721856G.pdf |
+| 23 | 25 | `1YQN2tcWzwNt65w-miJRZQ4K50y-bpTSU` | 20260629 ✉️ LR MiseEnDemeure SAS President MrSABIR Preuve 87001424862879J.pdf |
+| 24 | 26 | `1L2zSTgf2s5TBJB8CRP95Mz3xDXvTDCT9` | 20260629 ✉️ LR MiseEnDemeure Bailleur MrDELRIEU Preuve 87001424862462Y.pdf |
+| 34 | 36 | `1wO0OtT-nO3JXFN9izmApkCwB_b47SRzD` | 20260716-1827 Etat des lieux de sortie Mountasser 1 001.pdf |
+| 36 | 38 | `1JHigFagZ2bMEA5x_c7TI0G9Ugiqzv2RV` | 20260717 Export_Portail_Data_HB_BARBER.pdf |
+| 37 | 39 | `1cQAyNWW54kH7Fgig5H00DY0SFqYZlUI9` | 20260717 HBBarber CertificationDeDepotDeFonds.pdf |
+| 38 | 40 | `1d1-nvgx0HLfxjyyp-qEHu_A6Yqidup3j` | 20260717-1828 Gmail - Demande de communication d'assurance.pdf |
+| 41 | 43 | `13Xka3NRrUf3DlLCOOfPLCIfYli0h1KUc` | 20260718 LR HamzaBERGUIGA 875001528942001.pdf |
+| 42 | 44 | `1majDh0lGnoVD4XhmVj_ulo6z7BJJkZCA` | 20260718 LR SAS HB-Barber 87500152771696F.pdf |
+| 43 | 45 | `1N1BOcju_EQyjjzxP6AjddYQ_J7oQ-JLz` | 20260719 LR RomainDELRIEU 87500152910287Q.pdf |
+
+_Total : 24 pièces reliées (ID ↔ numéro ↔ page)._
+
+<!-- AUTO-SYNC-GDOC-END -->
