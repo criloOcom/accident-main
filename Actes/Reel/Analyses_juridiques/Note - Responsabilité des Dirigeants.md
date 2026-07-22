@@ -1,6 +1,6 @@
 ---
 title: "Note Responsabilité Dirigeants Dissolution"
-description: "Dans l'hypothèse où Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC procèderaient à la dissolution ou à la radiation de SAS HB BARBER afin d'échapper aux poursuites et à l'indemnisation"
+description: "Dans l'hypothèse où [Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) procèderaient à la dissolution ou à la radiation de [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) afin d'échapper aux poursuites et à l'indemnisation"
 type: analyse_juridique
 date: 2026-07-09
 tags:
@@ -50,7 +50,6 @@ Cet article rend applicable aux dirigeants de SAS le régime de responsabilité 
 
 Si la SAS est placée en liquidation judiciaire et que les dirigeants ont, par leurs décisions (mise en sommeil, dissolution anticipée, absence de déclaration de cessation des paiements, organisation de l'insolvabilité…), contribué à créer ou aggraver une insuffisance d'actif, ces comportements peuvent être qualifiés de fautes de gestion au sens de l'article L.651-2. Saisi par le liquidateur, le tribunal peut alors décider que tout ou partie de l'insuffisance d'actif sera supportée personnellement par les dirigeants fautifs. Les sommes versées entrent dans le patrimoine du débiteur et sont réparties entre tous les créanciers, dont la victime.
 
-> **Note de correction :** L'ancienne référence L.654-6 C.com. pointait vers un article abrogé depuis 2016. La nouvelle structuration des infractions de banqueroute place les actes de base aux articles L.654-2 (personnes physiques) et L.654-3/L.654-4 (variantes), tandis que **L.654-7** est le texte en vigueur qui fixe les peines applicables aux personnes morales. Voir [`Note%20-%20Changelog%20Juridique.md`](Note%20-%20Changelog%20Juridique.md).
 
 ### II.3 — Banqueroute par personne morale — Article L.654-7 C.com.
 

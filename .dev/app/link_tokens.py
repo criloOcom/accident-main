@@ -16,7 +16,14 @@ import urllib.parse
 REPO = "/home/crilocom/accident-main"
 TOKEN_MAP_FILE = os.path.join(REPO, "Memory/TOKEN MAP.md")
 TOKENS_DIR = os.path.join(REPO, "Memory/Tokens")
+
 TARGET_DIR = os.path.join(REPO, "Actes/Token")
+
+# Pre-compiled regular expressions for performance
+LINK_PATTERN = re.compile(r'\[(?:[^\]]*?\*\*\[[^\]]*\]\*\*[^\]]*?|[^\]]*?)\]\([^)]*\)')
+INVERTED_PATTERN = re.compile(r'\*\*\[([^\]]*?)\]\([^)]*\)\*\*')
+RAW_PATTERN = re.compile(r'\*\*\[([^\]]+)\]\*\*')
+
 
 
 def extract_map():
@@ -137,13 +144,11 @@ def scan_file(fpath, all_displays, mapping, synonyms, apply=False, dry_run=True)
     # Pattern: [...](...) where ... is any content including **[token]**
     linked_spans = set()
     # A full markdown link: [...](...)
-    link_pattern = re.compile(r'\[(?:[^\]]*?\*\*\[[^\]]*\]\*\*[^\]]*?|[^\]]*?)\]\([^)]*\)')
-    for link in link_pattern.finditer(content):
+    for link in LINK_PATTERN.finditer(content):
         linked_spans.add((link.start(), link.end()))
     
     # Also check for the inverted format: **[text](url)**  — link INSIDE bold
-    inverted_pattern = re.compile(r'\*\*\[([^\]]*?)\]\([^)]*\)\*\*')
-    for link in inverted_pattern.finditer(content):
+    for link in INVERTED_PATTERN.finditer(content):
         linked_spans.add((link.start(), link.end()))
 
     def is_linked(pos, length):
@@ -157,21 +162,15 @@ def scan_file(fpath, all_displays, mapping, synonyms, apply=False, dry_run=True)
     # But careful: we need EXACT matches to the display names
     # Use regex to find `**[...]**` then check if content matches a known display
 
-    # Build a pattern that matches **[...]** for known display names
-    # Sort displays by length (desc) for greedy matching
-    escaped_displays = [re.escape(d) for d in all_displays]
-
     # We process character by character to avoid overlapping issues
     # Find all **[...]** patterns
-    raw_pattern = re.compile(r'\*\*\[([^\]]+)\]\*\*')
-
     modified = content
     offset = 0
 
     # Work in reverse order to preserve indices
     replacements_list = []
 
-    for match in raw_pattern.finditer(content):
+    for match in RAW_PATTERN.finditer(content):
         display_text = match.group(1)
         start = match.start()
         end = match.end()

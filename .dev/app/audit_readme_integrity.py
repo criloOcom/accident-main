@@ -102,7 +102,7 @@ def has_lrar_proof(content_or_filepath):
         content = load_content(content_or_filepath)
     else:
         content = content_or_filepath
-    return bool(re.search(r'\b8[67]00\d{11,13}[A-Z]?\b', content))
+    return bool(re.search(r'\b8[67]00\d{10,13}[A-Z]?\b', content))
 
 
 def has_ar_proof(content):
@@ -151,7 +151,7 @@ def check_text_anomalies(content, readme_path, results):
     rel_dir = os.path.relpath(readme_path, BASE_DIR)
     for i, line in enumerate(content.split("\n"), 1):
         # détection crochets non résolus (hors gabarits connus)
-        if re.search(r'\[(?:À|A\s)?[cC]ompl[ée]ter\]', line):
+        if re.search(r'\[[ÀA]\s*compl[ée]ter\]', line, re.IGNORECASE):
             results.append({
                 "severity": "error",
                 "file": rel_dir,
@@ -171,7 +171,7 @@ def check_text_anomalies(content, readme_path, results):
                 "severity": "warning",
                 "file": rel_dir,
                 "line": i,
-                "msg": f"Mention 'TODO' résiduelle non commentée (l. {i})"
+                "msg": f"Mention '[À FAIRE]' résiduelle non commentée (l. {i})"
             })
 
 

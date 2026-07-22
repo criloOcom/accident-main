@@ -17,7 +17,7 @@ tags:
 
 - LRAR
 statut: projet
-destinataire: Service des Impôts des Entreprises de Foix et
+destinataire: Service des Impôts des Entreprises de [Foix](../../../../Memory/Tokens/token-accident-ville.md) et
   URSSAF Midi-Pyrenees
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Administrations/URSSAF - SIE URSSAF - Mutualisation - Courrier.md
