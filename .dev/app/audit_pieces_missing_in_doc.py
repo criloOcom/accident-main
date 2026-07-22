@@ -238,8 +238,8 @@ def _write_report(rows, missing, present, scanned, total_pieces):
         nom_cell = f"[{nom}](../../{lien_decod})" if lien else nom
         did = r["drive_id"] or "—"
         check = "✅ oui" if r["in_doc"] else "☐ non"
+        # PAS de ligne vide dans un tableau markdown (casserait le rendu)
         lines.append(f"| {i} | {bord} | {num} | {nom_cell} | {did} | {check} |")
-        lines.append("")  # Règle #24 : ligne vide après chaque ligne de tableau (séparation visuelle)
     lines.append("")
     with open(out, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
