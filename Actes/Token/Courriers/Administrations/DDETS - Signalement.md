@@ -83,7 +83,7 @@ Cette blessure a entraîné une plaie palmaire profonde de la main droite avec s
 Les procédures suivantes ont été engagées :
 
 **1. Procédure pénale**
-- Dépôt de plainte le 1er juin 2026 (PV n° [**[N° PV Police]**](../../../../Memory/Tokens/token-pv-police-numero.md))
+- Dépôt de plainte le 2 juin 2026 (PV n° [**[N° PV Police]**](../../../../Memory/Tokens/token-pv-police-numero.md))
 
 - [Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) transmise le **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
 
@@ -191,7 +191,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur l'Inspe
 
 ## PIECES JOINTES
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026 (PV n° [**[N° PV Police]**](../../../../Memory/Tokens/token-pv-police-numero.md))
+- **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026 (PV n° [**[N° PV Police]**](../../../../Memory/Tokens/token-pv-police-numero.md))
 
 - **[Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
 

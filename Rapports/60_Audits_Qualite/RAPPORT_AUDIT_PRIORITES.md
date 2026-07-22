@@ -99,7 +99,7 @@ type: rapport
 | Utilité | Alimenter l'enquête préliminaire déjà ouverte | Déclencher une enquête administrative coordonnée |
 | Interdépendance | TJ n'a pas besoin du CODAF pour agir | Le rapport CODAF peut être versé au TJ ensuite |
 
-**Verdict :** **TJ DOIT PASSER AVANT CODAF.** La procédure pénale est déjà ouverte (PV n°2026/015967, dépôt de plainte le 1er juin, constitution de partie civile le 6 juillet). Les preuves doivent être transmises au juge **en premier** pour nourrir l'enquête en cours. Le CODAF viendra en complément après.
+**Verdict :** **TJ DOIT PASSER AVANT CODAF.** La procédure pénale est déjà ouverte (PV n°2026/015967, dépôt de plainte le 2 juin, constitution de partie civile le 6 juillet). Les preuves doivent être transmises au juge **en premier** pour nourrir l'enquête en cours. Le CODAF viendra en complément après.
 
 **Recommandation :** Placer TJ (35) en Vague 1 avec URSSAF/CODAF, voire avant. La transmission des LRAR retournées NPAI + note d'audit RNE est urgente pour démontrer au juge la soustraction de la SAS à ses obligations.
 

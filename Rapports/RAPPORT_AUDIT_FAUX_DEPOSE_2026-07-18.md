@@ -501,7 +501,7 @@ type: rapport
 
 - **Ligne** : 38
 
-- **Citation** : `Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../Actes/Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.`
+- **Citation** : `Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../Actes/Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.`
 
 - **Acte présenté comme fait** : Acte procédural ou démarche administrative
 
@@ -753,7 +753,7 @@ type: rapport
 
 - **Ligne** : 38
 
-- **Citation** : `Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../Actes/Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.`
+- **Citation** : `Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../Actes/Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.`
 
 - **Acte présenté comme fait** : Acte procédural ou démarche administrative
 

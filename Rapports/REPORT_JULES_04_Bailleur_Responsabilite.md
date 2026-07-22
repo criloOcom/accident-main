@@ -3,7 +3,7 @@ title: "Rapport Jules #04 — Bailleur Responsabilite"
 description: "Rapport d'audit et recommandations d'exploitation des nouvelles preuves officielles."
 type: rapport
 progress: 0%
-status: a_traiter
+status: non_traite
 priority: haute
 date: 2026-07-22
 jules_session_id: "AM-MISSION-04"

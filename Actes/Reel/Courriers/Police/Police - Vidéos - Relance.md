@@ -55,13 +55,13 @@ Objet : Relance pour suivi de plainte et demande de videosurveillance — PV n°
 
 <hr><hr>
 
-Ref : Depot de plainte du 1er juin 2026 — [Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) du **[2 juin 2026](../../../../Memory/Tokens/token-j-4-depot-de-plainte.md)**
+Ref : Depot de plainte du 2 juin 2026 — [Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) du **[2 juin 2026](../../../../Memory/Tokens/token-j-4-depot-de-plainte.md)**
 
 Madame, Monsieur l'Officier de Police Judiciaire,
 
 ## I — OBJET DE LA RELANCE
 
-J'ai depose plainte en vos services le 1er juin 2026 (PV n° [2026/015967](../../../../Memory/Tokens/token-pv-police-numero.md)) et me suis constitue partie civile le **[2 juin 2026](../../../../Memory/Tokens/token-j-4-depot-de-plainte.md)**. Une requisition a personne qualifiee a ete delivree le meme jour aux fins d'examen medical.
+J'ai depose plainte en vos services le 2 juin 2026 (PV n° [2026/015967](../../../../Memory/Tokens/token-pv-police-numero.md)) et me suis constitue partie civile le **[2 juin 2026](../../../../Memory/Tokens/token-j-4-depot-de-plainte.md)**. Une requisition a personne qualifiee a ete delivree le meme jour aux fins d'examen medical.
 
 Je me permets de solliciter de vos services :
 
@@ -94,7 +94,7 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 
 - **[CPC 145 - Requête](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Demande de conservation des preuves et identification de l'assureur
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 1er juin 2026 (PV n° [2026/015967](../../../../Memory/Tokens/token-pv-police-numero.md))
+- **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026 (PV n° [2026/015967](../../../../Memory/Tokens/token-pv-police-numero.md))
 <!-- /PJ -->
 
 <!-- Source -->

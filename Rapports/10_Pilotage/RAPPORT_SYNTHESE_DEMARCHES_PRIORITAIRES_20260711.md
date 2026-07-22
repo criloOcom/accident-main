@@ -119,9 +119,9 @@ type: rapport
 
 ### III.1 — Actions Administratives et Judiciaires
 
-1. **Plainte pénale** (1er juin 2026)
+1. **Plainte pénale** (2 juin 2026)
 
-   - PV n°2026/015967 déposé au commissariat de Foix
+   - PV n°2026/015967 déposé au commissariat de Toulouse Rive Droite
    - Constitution de partie civile
    - Transmission du dossier médical au Procureur
 

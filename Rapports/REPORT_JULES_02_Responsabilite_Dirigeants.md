@@ -3,7 +3,7 @@ title: "Rapport Jules #02 — Audit Responsabilité Personnelle des Dirigeants &
 description: "Analyse jurisprudentielle approfondie sur la responsabilité personnelle du Président et de la Directrice Générale de la SAS (Arrêt SATI, Art. 1382 C. civ., Art. 145 & 700 CPC)."
 type: rapport
 progress: 0%
-status: a_traiter
+status: non_traite
 date: 2026-07-22
 jules_session_id: "AM-MISSION-02"
 ---
@@ -16,7 +16,7 @@ jules_session_id: "AM-MISSION-02"
 
 > **📊 TABLEAU DE BORD D'ACCOMPLISSEMENT**
 > - **Statut** : 🟡 À Traiter
-> - **Progression** : 0% (0 / 15 actions validées)
+> - **Progression** : 0% (0 / 15 actions — non traité)
 > - **Date d'émission** : 22 juillet 2026
 
 <hr><hr>

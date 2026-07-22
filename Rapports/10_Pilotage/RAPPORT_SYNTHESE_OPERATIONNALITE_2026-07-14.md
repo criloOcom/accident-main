@@ -115,7 +115,7 @@ Le chemin critique vers l'indemnisation complète.
 
 - **J+0 (15/07/2026) : Dépôt plainte pénale complémentaire (Utilisateur)**
 
-  - Commissariat de Foix : mise en danger, obstruction, défaut d'assurance (réf. PV initial 2026/015967).
+  - Commissariat de Toulouse Rive Droite : mise en danger, obstruction, défaut d'assurance (réf. PV initial 2026/015967).
 
 - **J+3 : Relances administratives (IA / Utilisateur)**
 

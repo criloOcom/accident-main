@@ -77,10 +77,10 @@ Ce mémo est destiné à être remis à l'OPJ pour fluidifier le dépôt et clar
 **Référence :** PV initial n° [**[N° PV Police]**](../Memory/Tokens/token-pv-police-numero.md) du 02/06/2026
 
 **Pourquoi une nouvelle procédure / un complément ?**
-La plainte initiale a été déposée avec incertitude sur l'identité de l'exploitant, sur la base d'informations erronées issues d'internet (désignant la société [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md)). De nouveaux éléments matériels justifient aujourd'hui de rediriger la procédure vers la société ayant réellement exploité le local au jour de l'accident (29 mai 2026).
+La plainte initiale a été déposée avec incertitude sur l'identité de l'exploitant, sur la base d'informations erronées issues d'internet (désignant la société [**[L'Ancien Exploitant du Commerce]**](../Memory/Tokens/token-ancien-exploitant.md) par erreur). De nouveaux éléments matériels justifient aujourd'hui de rediriger la procédure vers la société ayant réellement exploité le local au jour de l'accident (29 mai 2026).
 
 **Ce qui change :**
-La procédure ne doit plus viser la SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) (qui avait cessé son activité depuis le 10 mars 2026 selon le bailleur), mais la SAS **[Le Nouvel Exploitant (HB BARBER)]** (HB BARBER, SIREN **[SIREN du Nouvel Exploitant]**), créée le 22 avril 2026, seule responsable de la garde de l'équipement au jour du sinistre.
+La procédure ne doit plus viser la SAS [**[L'Ancien Exploitant du Commerce]**](../Memory/Tokens/token-ancien-exploitant.md) (qui avait cessé son activité depuis le 10 mars 2026 selon le bailleur), mais la SAS **[Le Nouvel Exploitant (HB BARBER)]** (HB BARBER, SIREN **[SIREN du Nouvel Exploitant]**), créée le 22 avril 2026, seule responsable de la garde de l'équipement au jour du sinistre.
 
 **Éléments nouveaux rapportés :**
 - Visite des lieux du 16 juillet 2026 confirmant l'exploitation sous enseigne "HB BARBER".

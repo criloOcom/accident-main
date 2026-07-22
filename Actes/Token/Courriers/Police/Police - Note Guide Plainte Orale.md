@@ -52,7 +52,7 @@ auteur: La Victime
 
 Le 29 mai 2026, j'ai été victime d'un accident grave dans le salon de coiffure **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** situé au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**, entraînant une section nerveuse et tendineuse de la main droite nécessitant une intervention chirurgicale en urgence.
 
-Une plainte pénale a été déposée le 29 mai 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.
+Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.
 
 ### II.2 — **2. Obstruction à la justice — Refus de communiquer l'assurance RC**
 
