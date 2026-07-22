@@ -53,7 +53,7 @@ jx: J+60
 
 - **Pièce ACQ-09 :** Dépôt de plainte officiel formalisant l'infraction pénale ([**[J+3 Premiers arrêts]**](../../../Memory/Tokens/token-j-3-premiers-arrets.md)
 
-- **Pièce ACQ-04 :** [**[Compte-rendu opératoire]**]([**[J+1 Chirurgie]**](../../../Memory/Tokens/token-j-1-chirurgie.md)
+- **Pièce ACQ-04 :** [**[Compte-rendu opératoire]**](../../../Memory/Tokens/token-j-1-chirurgie.md)
 
 - **Pièce ACQ-17 :** Mises en demeure par Lettres Recommandées avec Accusé de Réception ([**[J+31 Mises en demeure]**](../../../Memory/Tokens/token-j-31-mises-en-demeure.md)
 <hr><hr>

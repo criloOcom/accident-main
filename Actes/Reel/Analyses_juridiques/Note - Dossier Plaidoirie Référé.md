@@ -53,7 +53,7 @@ jx: J+60
 
 - **Pièce ACQ-09 :** Dépôt de plainte officiel formalisant l'infraction pénale ([1 juin 2026](../../../Memory/Tokens/token-j-3-premiers-arrets.md)
 
-- **Pièce ACQ-04 :** [**[Compte-rendu opératoire]**]([30 mai 2026](../../../Memory/Tokens/token-j-1-chirurgie.md)
+- **Pièce ACQ-04 :** [**[Compte-rendu opératoire]**](../../../Memory/Tokens/token-j-1-chirurgie.md)
 
 - **Pièce ACQ-17 :** Mises en demeure par Lettres Recommandées avec Accusé de Réception ([29 juin 2026](../../../Memory/Tokens/token-j-31-mises-en-demeure.md)
 <hr><hr>

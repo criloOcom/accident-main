@@ -32,6 +32,6 @@ Vérifier que TOUTES les dates mentionnées dans l'ensemble du dépôt sont conf
 
 ## LIVRABLE
 
-[Rapports/85_Coherence_2026-07-15/M01_AUDIT_DATES.md](../../Rapports/85_Coherence_2026-07-15/M01_AUDIT_DATES.md)
+[Rapports/85_Coherence_2026-07-15/M01_AUDIT_DATES.md](../../Rapports/85_Coherence_20260715/M01_AUDIT_DATES.md)
 
 Format : checklist avec cases à cocher. Chaque ligne = une date à corriger.

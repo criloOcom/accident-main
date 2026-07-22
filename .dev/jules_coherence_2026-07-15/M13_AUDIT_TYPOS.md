@@ -13,7 +13,7 @@ Détecter les fautes d'orthographe, de grammaire et de typographie française da
 
 ## MÉTHODE
 
-1. **Parcourir** [Actes/Token](../../Actes/Token/README.md) et [Rapports/85_Coherence_2026-07-15](../../Rapports/85_Coherence_2026-07-15/README.md) (fichiers déjà créés).
+1. **Parcourir** [Actes/Token](../../Actes/Token/README.md) et [Rapports/85_Coherence_2026-07-15](../../Actes/Token/README.md) (fichiers déjà créés).
 
 2. **Détecter** :
    - Fautes d'orthographe courantes

@@ -26,7 +26,7 @@ Tu n'es PAS là pour rédiger des actes ou créer du contenu juridique. Tu es l�
 
 4. **TOKENS D'ANONYMISATION.** Tout le dossier utilise des tokens en français. Consulte `TOKEN MAP.md` pour la table complète. Signale tout nom réel qui fuit dans les fichiers Token.
 
-5. **FORMAT DE LIVRAISON.** Tu produis UN rapport par mission au format Markdown, déposé dans [Rapports/85_Coherence_2026-07-15](../../Rapports/85_Coherence_2026-07-15/README.md). Le rapport DOIT respecter :
+5. **FORMAT DE LIVRAISON.** Tu produis UN rapport par mission au format Markdown, déposé dans [Rapports/85_Coherence_2026-07-15](../../Actes/Token/README.md). Le rapport DOIT respecter :
    - Front matter YAML ligne 1 (`title`, `description`, `type: rapport`)
    - Breadcrumb HTML pointant vers `../../../README.md`
    - Séparateurs `<hr><hr>` avant chaque section

@@ -29,7 +29,7 @@ legal_basis:
 
 # Synthèse — Ce qui N'A PAS ENCORE ÉTÉ FAIT
 
-> Généré le 15/07/2026 après relecture des 15 rapports de [Rapports/85_Coherence_2026-07-15](85_Coherence_2026-07-15/README.md) et **vérification dans le dépôt réel**.
+> Généré le 15/07/2026 après relecture des 15 rapports de [Rapports/85_Coherence_2026-07-15](../Actes/Token/README.md) et **vérification dans le dépôt réel**.
 >
 > **Constat brut :** les 15 rapports détaillés documentent un travail RESTANT, pas un travail déjà effectué.
 > Sur 2868 points listés : **2802 sont encore non traités** (cases `[ ]`), seuls 66 sont des étapes de « vérification » ou « conformité constatée » (cases `[x]` dans M06/M14).

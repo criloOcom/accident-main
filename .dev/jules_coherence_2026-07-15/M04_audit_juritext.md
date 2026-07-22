@@ -30,6 +30,6 @@ Vérifier que CHAQUE décision de justice citée (Cour de cassation, Conseil d'�
 
 ## LIVRABLE
 
-[Rapports/85_Coherence_2026-07-15/M04_AUDIT_JURITEXT.md](../../Rapports/85_Coherence_2026-07-15/M04_AUDIT_JURITEXT.md)
+[Rapports/85_Coherence_2026-07-15/M04_AUDIT_JURITEXT.md](../../Rapports/85_Coherence_20260715/M04_AUDIT_JURITEXT.md)
 
 Format : TODO list. Chaque item = une JURITEXT avec statut (✓ existant, ✗ inexistant, ? non vérifié).
