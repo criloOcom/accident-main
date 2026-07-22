@@ -44,6 +44,8 @@ graph TD
 
 - **WORKFLOW.md** - Processus et workflows du projet
 
+- **[SESSION_AUDIT_DATES_JUILLET2026](SESSION_AUDIT_DATES_JUILLET2026.md)**
+
 - **[GEMINI](GEMINI.md)**
 
 - **[USER_DOC_SYNTHESE](USER_DOC_SYNTHESE.md)**

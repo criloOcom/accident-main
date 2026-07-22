@@ -33,6 +33,7 @@ Décisions des cours d'appel et tribunaux judiciaires sur la responsabilité des
 - [CA_Lyon_21-03420](CA_Lyon_21-03420.md)
 
 - [CA_Riom_20-00318](CA_Riom_20-00318.md)
+
 - [CA_Aix_22-09495](CA_Aix_22-09495.md)
 ## Source
 
