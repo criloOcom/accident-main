@@ -21,7 +21,7 @@ statut: final
 auteur: Commissariat de Foix
 destinataire: Procureur de la République
 personnes:
-- 'Sébastien GRAZIDE'
+- '[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)'
 jx: J+47
 reel_path: ../../../Reel/Actes_proceduraux/Contentieux_penal/Parquet Foix - Plainte Complémentaire - PV Audition.md
 ---

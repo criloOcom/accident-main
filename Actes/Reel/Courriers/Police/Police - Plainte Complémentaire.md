@@ -112,9 +112,9 @@ Au moment de cette première plainte, je croyais sincèrement que la société e
 
 - la direction de la **[SAS LES MAUVAIS GARÇONS](../../../../Memory/Tokens/token-ancien-exploitant.md)** (LRAR n° [87001424863012T](../../../../Memory/Tokens/token-lrar-exploitant.md)), revenue NPAI avec la mention « En cours de retour à l'expéditeur » le 20 juillet ;
 
-- au président de cette société, **[Sabir MOUNTASSER](../../../../Memory/Tokens/token-ancien-president-exploitation.md)** (LRAR n° [**[N° LRAR Ancien Président]**](../../../../Memory/Tokens/token-lrar-ancien-president.md)), mise en attente de retrait à Toulouse RP jusqu'au 21 juillet ;
+- au président de cette société, **[Sabir MOUNTASSER](../../../../Memory/Tokens/token-ancien-president-exploitation.md)** (LRAR n° [87001424862879J](../../../../Memory/Tokens/token-lrar-ancien-president.md)), mise en attente de retrait à Toulouse RP jusqu'au 21 juillet ;
 
-- à la directrice générale de cette société, **[Catherine ANDISSAC](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)** (LRAR n° [**[N° LRAR Ancienne Directrice]**](../../../../Memory/Tokens/token-lrar-ancienne-directrice.md)), revenue NPAI le 2 juillet ;
+- à la directrice générale de cette société, **[Catherine ANDISSAC](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)** (LRAR n° [87001424721856G](../../../../Memory/Tokens/token-lrar-ancienne-directrice.md)), revenue NPAI le 2 juillet ;
 
 - ainsi qu'au propriétaire bailleur des locaux, **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** (LRAR n° [87001424862462Y](../../../../Memory/Tokens/token-lrar-proprietaire.md)), dont l'avis de réception numérique a été signé le 2 juillet, pour lui demander les coordonnées de l'assurance de responsabilité civile de l'exploitant.
 
@@ -248,7 +248,7 @@ Que les faits déjà décrits dans ma plainte initiale (accident provoqué par u
   - attestations d'assurance de responsabilité civile professionnelle de la **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** en vigueur au 29 mai 2026,
   - le cas échéant, attestations d'assurance du bailleur pour l'immeuble concerné.
 
-### 5.4 — Audition de [[Ayoub BENNOURINE](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques)] (coiffeur présent au moment des faits)
+### 5.4 — Audition de [Ayoub BENNOURINE](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques) (coiffeur présent au moment des faits)
 
 Je sollicite en particulier l'audition de **[Ayoub BENNOURINE](../../../../Memory/Tokens/token-exploitation-prepose-nom.md)**, coiffeur ayant reçu le paiement Wero de 15 € le 29 mai 2026 à 15h20 (message « coif »), afin qu'il puisse décrire précisément les circonstances de l'accident, l'état du bac à shampoing au moment des faits, ainsi que la nature de ses liens avec le salon (salarié, loueur de fauteuil, prestataire indépendant, etc.).
 

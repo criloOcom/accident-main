@@ -3,6 +3,7 @@ import json
 import os
 import stat
 import sys
+import tempfile
 import urllib.request
 import urllib.parse
 from typing import Optional
@@ -71,8 +72,15 @@ def _get_gdrive_token() -> str:
         creds.refresh(Request())
         saved['access_token'] = creds.token
         saved['expiry_date'] = int(creds.expiry.timestamp() * 1000) if creds.expiry else 0
-        with open(os.open(CREDS_PATH, os.O_WRONLY | os.O_CREAT | os.O_TRUNC, stat.S_IRUSR | stat.S_IWUSR), 'w') as f:
-            json.dump(saved, f)
+        fd, tmp_path = tempfile.mkstemp(dir=os.path.dirname(CREDS_PATH), text=True)
+        try:
+            with os.fdopen(fd, 'w') as f:
+                json.dump(saved, f)
+            os.chmod(tmp_path, stat.S_IRUSR | stat.S_IWUSR)
+            os.replace(tmp_path, CREDS_PATH)
+        except Exception:
+            os.unlink(tmp_path)
+            raise
     return creds.token
 
 
