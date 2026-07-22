@@ -6,6 +6,7 @@
 - [Note - Dossier Spécial CERFA.md](Note%20-%20Dossier%20Sp%C3%A9cial%20CERFA.md)
 - [Note - Fiche Réflexe 48h Disparition SAS.md](Note%20-%20Fiche%20R%C3%A9flexe%2048h%20Disparition%20SAS.md)
 - [Note - Index Général.md](Note%20-%20Index%20G%C3%A9n%C3%A9ral.md)
+- [Note - Kit Foix 27-07-2026.md](Note%20-%20Kit%20Foix%2027-07-2026.md)
 - [Note - Modification Email Maire Foix.md](Note%20-%20Modification%20Email%20Maire%20Foix.md)
 - [Note - Plan Constat Police Foix.md](Note%20-%20Plan%20Constat%20Police%20Foix.md)
 - [Note - Plan d'Action.md](Note%20-%20Plan%20d%27Action.md)
