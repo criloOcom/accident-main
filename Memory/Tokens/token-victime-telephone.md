@@ -40,9 +40,9 @@ Numéro de contact de la victime, utilisé dans les mentions de coordonnées des
 
 - [Mises en demeure J+31](../../Actes/Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md) (coordonnées expéditeur)
 
-- [Assignation Référé J+32](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md) (coordonnées demandeur)
+- [Assignation Référé J+32](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md) (coordonnées demandeur)
 
-- [Partie Civile - Constitution J+38](../../Actes/Token/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (coordonnées partie civile)
+- [Partie Civile - Constitution J+38](../../Actes/Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (coordonnées partie civile)
 
 ## Source
 

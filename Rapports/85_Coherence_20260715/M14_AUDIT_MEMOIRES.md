@@ -35,7 +35,7 @@ Ce rapport consigne les résultats de l'audit de cohérence des mémoires et con
 
 ## I — 📜 TJ Foix - Conclusions au Fond
 
-**Fichier audité :** [Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Conclusions au Fond.md](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Conclusions au Fond.md)
+**Fichier audité :** [Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Conclusions au Fond.md](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Conclusions%20au%20Fond.md)
 
 - [x] **Tous les postes de préjudice sont traités :** Conforme. Les postes patrimoniaux et extra-patrimoniaux listés dans `STRICT VARIABLES.md` (§1. Rapport d'expertise 2027-05-29) sont tous présents.
 
@@ -71,7 +71,7 @@ Ce rapport consigne les résultats de l'audit de cohérence des mémoires et con
 
 ## III — Mémoire - En défense adverse
 
-**Fichier audité :** [Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md](../../Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md)
+**Fichier audité :** [Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md](../../Actes/Reel/Analyses_juridiques/M%C3%A9moire%20-%20En%20d%C3%A9fense%20adverse.md)
 
 - [ ] **Tous les postes de préjudice sont traités :** Non applicable au sens strict (mémoire en défense).
 

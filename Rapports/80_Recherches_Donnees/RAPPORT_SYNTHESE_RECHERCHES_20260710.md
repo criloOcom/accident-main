@@ -89,13 +89,13 @@ tags:
 
 ### II.1 — Fichiers Analysés
 
-- [`TJ Foix - TJ Foix - Référé Provision - Assignation.md`](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md) : 12 articles vérifiés
+- [`TJ Foix - TJ Foix - Référé Provision - Assignation.md`](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md) : 12 articles vérifiés
 
 - [`02 🚔 Plainte.md`](../../Actes/Token/Actes_proceduraux/Contentieux_penal/Assurance%20RC%20-%20Plainte%20D%C3%A9faut.md) : 9 articles vérifiés
 
-- [`DJI Foix - DJI Foix - Partie Civile - Constitution.md`](../../Actes/Token/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) : 9 articles vérifiés
+- [`DJI Foix - DJI Foix - Partie Civile - Constitution.md`](../../Actes/Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) : 9 articles vérifiés
 
-- [`03 🔍 Assignation Article 145.md`](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md) : 1 article vérifié
+- [`03 🔍 Assignation Article 145.md`](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md) : 1 article vérifié
 
 ### II.2 — Résultats
 

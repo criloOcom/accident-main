@@ -52,14 +52,14 @@ L'objectif de cet audit est de pointer les incohérences existantes dans la docu
 
 De nombreuses mentions de dépôt ou transmission ont été intégrées prématurément ou de façon erronée. Ces actes n'ont pas encore été accomplis.
 
-- **[Actes/Token/Analyses_juridiques/Note - Mémo Stratégie Admin Pénal.md](../Actes/Token/Analyses_juridiques/Note - Mémo Stratégie Admin Pénal.md)** :
+- **[Actes/Token/Analyses_juridiques/Note - Mémo Stratégie Admin Pénal.md](../Actes/Reel/Analyses_juridiques/Note%20-%20M%C3%A9mo%20Strat%C3%A9gie%20Admin%20P%C3%A9nal.md)** :
 
   - L.114 : `| PV initial n°2026/015967 | ✅ Déposé (Toulouse, 02/06) |`
   - L.115 : `| Plainte complémentaire | ✅ Déposée (Foix, 15/07) |`
   - L.116 : `| Requête Art. 145 CPC | ✅ Déposée (TJ Foix, 15/07) |`
   - L.117 : `| Demande d'AJ totale | ✅ Déposée (BAJ Foix, 15/07) |`
 
-- **[Actes/Token/Organisation/Note - Calendrier Procédure.md](../Actes/Token/Organisation/Note - Calendrier Procédure.md)** :
+- **[Actes/Token/Organisation/Note - Calendrier Procédure.md](../Actes/Reel/Organisation/Note%20-%20Calendrier%20Proc%C3%A9dure.md)** :
 
   - L.62 : `Transmission de pièces CPAM | Correspondance | Fait`
   - L.63 : `Démarche administrative / Email | Procédure | Envoyé`

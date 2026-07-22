@@ -27,11 +27,11 @@ type: readme
 
 - [Témoin Client - Attestation](Attestation%20-%20T%C3%A9moin%20Client.md)
 
-- [Attestation - Témoin Mathieu Frédéric](Attestation%20-%20T%C3%A9moin%20Mathieu%20Fr%C3%A9d%C3%A9ric.md)
+- [Attestation - Témoin Mathieu Frédéric](../../Reel/Attestations/Attestation%20-%20T%C3%A9moin%20Mathieu%20Fr%C3%A9d%C3%A9ric.md)
 
-- [Employé - Attestation](Employ%C3%A9%20-%20Attestation.md)
+- [Employé - Attestation](../../Reel/Attestations/Employ%C3%A9%20-%20Attestation.md)
 
-- [Témoin Client - Attestation](T%C3%A9moin%20Client%20-%20Attestation.md)
+- [Témoin Client - Attestation](../../Reel/Attestations/T%C3%A9moin%20Client%20-%20Attestation.md)
 ---
 
 > **Dernière mise à jour :** 19 juillet 2026

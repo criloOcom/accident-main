@@ -35,7 +35,7 @@ Ce rapport liste les incohérences détectées dans les fichiers sous [Actes/Tok
 
 ## I — INCOHÉRENCES DÉTECTÉES
 
-### I.1 — Fichier : [Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Bordereau Unifié.md](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Bordereau Unifié.md)
+### I.1 — Fichier : [Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Bordereau Unifié.md](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md)
 
 - **Ligne 28** : Profession erronée (victime qualifiée de 'coiffeur')
 
@@ -63,7 +63,7 @@ Ce rapport liste les incohérences détectées dans les fichiers sous [Actes/Tok
   - **Valeur erronée** : `- Le prepose de l'exploitation exercait une activite professionnelle de coiffeur au sein de l'etablissement sans qu'aucune information sur son statut (contrat de travail, bulletin de paie, declaration prealable a l'embauche) n'ait pu etre communiquee<br>`
   - **Correction suggérée** : Remplacer par 'informaticien indépendant'.
 
-### I.5 — Fichier : [Actes/Token/Analyses_juridiques/Note - Tableau Défense Réponse.md](../../Actes/Token/Analyses_juridiques/Note - Tableau Défense Réponse.md)
+### I.5 — Fichier : [Actes/Token/Analyses_juridiques/Note - Tableau Défense Réponse.md](../../Actes/Reel/Analyses_juridiques/Note%20-%20Tableau%20D%C3%A9fense%20R%C3%A9ponse.md)
 
 - **Ligne 22** : Profession erronée (victime qualifiée de 'coiffeur')
 

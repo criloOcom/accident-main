@@ -55,7 +55,7 @@ Date d'échéance de la phase amiable — expiration du **délai de réponse de 
 
 ## Documents liés
 
-- [Assignation Référé Provision J+32](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md)
+- [Assignation Référé Provision J+32](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md)
 
 ## Source
 

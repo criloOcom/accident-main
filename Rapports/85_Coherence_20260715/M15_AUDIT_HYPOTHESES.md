@@ -38,14 +38,14 @@ legal_basis:
 - [ ] **Contestation du quantum**
 
   - **Exposition : MAJEUR**
-  - **Analyse :** Le mémoire en défense adverse ([Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md](../../Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md), l. 84-86) conteste fermement les montants réclamés, arguant de l'absence de consolidation pour le DFP. Il conteste aussi l'Incidence Professionnelle (alléguant une « double indemnisation » avec la PGPA, l. 96), et rejette les postes Agrément (l. 98) et Frais divers (l. 101) faute de preuves suffisantes.
+  - **Analyse :** Le mémoire en défense adverse ([Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md](../../Actes/Reel/Analyses_juridiques/M%C3%A9moire%20-%20En%20d%C3%A9fense%20adverse.md), l. 84-86) conteste fermement les montants réclamés, arguant de l'absence de consolidation pour le DFP. Il conteste aussi l'Incidence Professionnelle (alléguant une « double indemnisation » avec la PGPA, l. 96), et rejette les postes Agrément (l. 98) et Frais divers (l. 101) faute de preuves suffisantes.
   - **Réponse juridique :** L'assignation demande une "provision" (art. 835 CPC, `Mémoire - En défense adverse.md`, l. 32), qui par nature anticipe la liquidation finale. Les postes temporaires (PGPA, DFT, SE) sont acquis, et l'incidence professionnelle justifie a minima une provision substantielle.
 
 - [ ] **Contestation du lien de causalité direct et certain**
 
   - **Exposition : MAJEUR**
   - **Analyse :** La défense soulève une « carence probatoire manifeste sur les circonstances » (`Mémoire - En défense adverse.md`, l. 39) : absence de constat d'huissier sur la vasque, témoignages non signés, erreurs factuelles dans le PV. Elle allègue aussi une faute d'imprudence de la victime (article 1241 du Code civil, l. 56 et 59) pour avoir « tendu la main par réflexe » (l. 56).
-  - **Réponse juridique :** Le tableau de réponse ([Actes/Token/Analyses_juridiques/Note - Tableau Défense Réponse.md](../../Actes/Token/Analyses_juridiques/Note - Tableau Défense Réponse.md), l. 22) précise que le réflexe de protection n'est pas une prise de risque volontaire (A3). Le défaut préexistant (vasque cassée non signalée) caractérise la responsabilité de plein droit du gardien de la chose ou l'obligation de sécurité de l'exploitant.
+  - **Réponse juridique :** Le tableau de réponse ([Actes/Token/Analyses_juridiques/Note - Tableau Défense Réponse.md](../../Actes/Reel/Analyses_juridiques/Note%20-%20Tableau%20D%C3%A9fense%20R%C3%A9ponse.md), l. 22) précise que le réflexe de protection n'est pas une prise de risque volontaire (A3). Le défaut préexistant (vasque cassée non signalée) caractérise la responsabilité de plein droit du gardien de la chose ou l'obligation de sécurité de l'exploitant.
 
 - [ ] **Nullité de l'assignation pour vice de forme**
 
@@ -77,6 +77,6 @@ legal_basis:
 
 - [ ] **Analyse de la cohérence**
 
-  - **Constat :** L'évaluation consolidée de la victime ([Actes/Token/Etudes_indemnisation/Note - Évaluation Dintilhac Consolidée.md](../../Actes/Token/Etudes_indemnisation/Note - Évaluation Dintilhac Consolidée.md), l. 100 et 250) souligne un écart critique sur les Souffrances Endurées. L'évaluation initiale ou une première analyse proposait 12 000 € (l. 100), qualifiée de « en dessous du Mornet 2024 (15 000 € minimum pour 4/7) ». Le compromis retenu et demandé dans les conclusions est de 15 000 € (l. 122).
+  - **Constat :** L'évaluation consolidée de la victime ([Actes/Token/Etudes_indemnisation/Note - Évaluation Dintilhac Consolidée.md](../../Actes/Reel/Etudes_indemnisation/Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md), l. 100 et 250) souligne un écart critique sur les Souffrances Endurées. L'évaluation initiale ou une première analyse proposait 12 000 € (l. 100), qualifiée de « en dessous du Mornet 2024 (15 000 € minimum pour 4/7) ». Le compromis retenu et demandé dans les conclusions est de 15 000 € (l. 122).
   - **Risque en défense (MINEUR/MAJEUR) :** La défense pourrait arguer que l'évaluation subjective à 4/7 est contestable avant consolidation ou que le référentiel Mornet offre une simple indication, justifiant une révision à la baisse vers les 12 000 € ou moins.
   - **Réponse juridique :** L'intervention microchirurgicale lourde (suture tendon 6 brins + nerfs), l'hospitalisation, les douleurs neuropathiques et la longue rééducation sont amplement documentées (CR Opératoire cité dans `Note - Tableau Défense Réponse.md`, l. 20 et 21). Ces éléments médicaux objectifs justifient pleinement la cotation 4/7 et l'application du seuil bas de la fourchette Mornet (15 000 €).

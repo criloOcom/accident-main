@@ -43,7 +43,7 @@ Toulouse est la métropole régionale de référence du dossier :
 
 ## Documents liés
 
-- [Assignation Référé J+32](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md) (lieu de naissance)
+- [Assignation Référé J+32](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md) (lieu de naissance)
 
 - [J+167 Préparation Expertise UMJ](token-j-167-expertise-umj.md)
 

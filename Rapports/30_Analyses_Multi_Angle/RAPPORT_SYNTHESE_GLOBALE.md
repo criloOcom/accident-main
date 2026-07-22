@@ -161,11 +161,11 @@ Le **29 mai 2026** à 15h00, [**[La Victime]**](../../Memory/Tokens/token-victim
 ## V — PROCHAINES ÉTAPES RECOMMANDÉES (ordonnées)
 
 ### V.1 — J+0 à J+3 (11-13 juillet 2026)
-1. **Imprimer + envoyer les 4 LRAR Vague 1** (URSSAF, CODAF, FGTI, Président TJ) — checklist [fichier 24](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md)
+1. **Imprimer + envoyer les 4 LRAR Vague 1** (URSSAF, CODAF, FGTI, Président TJ) — checklist [fichier 24](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md)
 
 2. **Copier-coller l'email Maire Foix** dans Gmail manuellement (OAuth bloqué)
 
-3. **Noter les N° LRAR** sur la checklist → reporter dans [fichier 23](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md)
+3. **Noter les N° LRAR** sur la checklist → reporter dans [fichier 23](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md)
 
 ### V.2 — J+3 à J+7 (13-17 juillet 2026)
 4. **Envoyer les 7 LRAR Vague 2** (INPI, Préfecture, SIE, CD, SDIS, Police, CPAM)
@@ -239,7 +239,7 @@ Le **29 mai 2026** à 15h00, [**[La Victime]**](../../Memory/Tokens/token-victim
 - **Consolider le dossier médical** — le certificat de consolidation est le préalable à l'évaluation définitive
 
 ### VII.3 — Documentaire
-- **Tenir à jour le [fichier 23](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md) (Suivi LRAR)** après chaque envoi — le tableau de bord est l'outil de pilotage
+- **Tenir à jour le [fichier 23](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md) (Suivi LRAR)** après chaque envoi — le tableau de bord est l'outil de pilotage
 
 - **Photographier chaque LRAR + PJ** avant dépôt — trace irremplaçable
 

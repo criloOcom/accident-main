@@ -69,7 +69,7 @@ tags:
   * Priorité : Haute
   * Statut : En attente
   * Note : Identifier assureur et sauvegarder vidéos.
-  * Fichier : [Requête 145](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md)
+  * Fichier : [Requête 145](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md)
 
 * **Relances Préfecture / CODAF / IT** (J+60)
 
@@ -111,7 +111,7 @@ tags:
   * Priorité : Moyenne
   * Statut : À faire
   * Note : Obtenir emails et transmettre les Cerfa remplis.
-  * Fichier : [Attestation Client](../../Actes/Token/Attestations/T%C3%A9moin%20Client%20-%20Attestation.md)
+  * Fichier : [Attestation Client](../../Actes/Reel/Attestations/T%C3%A9moin%20Client%20-%20Attestation.md)
 
 ### III.2 — Septembre 2026
 
@@ -120,14 +120,14 @@ tags:
   * Priorité : Haute
   * Statut : En attente
   * Note : Dès AJ et identification Assureur RC.
-  * Fichier : [Conclusions Référé](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Conclusions.md)
+  * Fichier : [Conclusions Référé](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Conclusions.md)
 
 * **Expertise Médicale Judiciaire** (J+90)
 
   * Priorité : Haute
   * Statut : En attente
   * Note : Demande par avocat, via Référé ou fondement 145.
-  * Fichier : [Conclusions Référé](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Conclusions.md)
+  * Fichier : [Conclusions Référé](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Conclusions.md)
 
 * **Relance CPAM** (J+90)
 
@@ -150,14 +150,14 @@ tags:
   * Priorité : Haute
   * Statut : En attente
   * Note : Obtenir la décision du juge des référés.
-  * Fichier : [Projet Ordonnance](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)
+  * Fichier : [Projet Ordonnance](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)
 
 * **Constat Huissier** (J+120)
 
   * Priorité : Moyenne
   * Statut : Relance possible
   * Note : En cas de résistance ou pour mesures urgentes (vidéo).
-  * Fichier : [Requête Huissier](../../Actes/Token/Actes_proceduraux/Contentieux_civil/Constat%20Huissier%20-%20Requ%C3%AAte.md)
+  * Fichier : [Requête Huissier](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/Constat%20Huissier%20-%20Requ%C3%AAte.md)
 
 ### III.4 — Novembre 2026
 
@@ -182,7 +182,7 @@ tags:
   * Priorité : Haute
   * Statut : En attente
   * Note : Traitement indemnisation définitive (2027).
-  * Fichier : [Conclusions au Fond](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Conclusions%20au%20Fond.md)
+  * Fichier : [Conclusions au Fond](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Conclusions%20au%20Fond.md)
 
 * **Réception Rapport UMJ** (J+200)
 

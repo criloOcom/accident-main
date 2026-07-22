@@ -430,7 +430,7 @@ Tous les modèles sont disponibles dans :
 
 5. **Envoyer par LRAR** et noter le numéro de suivi
 
-6. **Mettre à jour** le tableau de suivi ([fichier 23](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md))
+6. **Mettre à jour** le tableau de suivi ([fichier 23](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md))
 
 ---
 

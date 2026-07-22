@@ -43,14 +43,14 @@ Suite au rapatriement des 15 rapports Jules, Antigravity a formaté les checkbox
 
 | # | Fichier | Ligne | Contexte | Verdict |
 |---|---------|-------|----------|---------|
-| 1 | [Actes/Token/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md](../Actes/Token/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md) | 72 | | |
-| 2 | [Actes/Token/Courriers/Police/Police - Plainte Complémentaire.md](../Actes/Token/Courriers/Police/Police - Plainte Complémentaire.md) | 72, 209 | | |
-| 3 | [Actes/Token/Courriers/Propriétaire/Propriétaire - Courrier - Relance 3.md](../Actes/Token/Courriers/Propriétaire/Propriétaire - Courrier - Relance 3.md) | 44 | | |
-| 4 | [Actes/Token/Actes_proceduraux/Contentieux_penal/Parquet Foix - Plainte Complémentaire - Correction.md](../Actes/Token/Actes_proceduraux/Contentieux_penal/Parquet Foix - Plainte Complémentaire - Correction.md) | 84 | | |
-| 5 | [Actes/Token/Actes_proceduraux/Contentieux_penal/Parquet Foix - Plainte Complémentaire - PV Audition Foix.md](../Actes/Token/Actes_proceduraux/Contentieux_penal/Parquet Foix - Plainte Complémentaire - PV Audition Foix.md) | 66 | | |
-| 6 | [Actes/Token/Courriers/Police/Police - Note Personnelle.md](../Actes/Token/Courriers/Police/Police - Note Personnelle.md) | 126 | | |
-| 7 | [Actes/Token/Courriers/Police/Police - Note Erratum Identité.md](../Actes/Token/Courriers/Police/Police - Note Erratum Identité.md) | 51, 99 | | |
-| 8 | [Actes/Token/Courriers/Justice/TJ Foix - Mémo - Audience 31-07-2026.md](../Actes/Token/Courriers/Justice/TJ Foix - Mémo - Audience 31-07-2026.md) | 79 | | |
+| 1 | [Actes/Token/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md](../Actes/Reel/Analyses_juridiques/Note%20-%20Synth%C3%A8se%20Avocat%20Bascule%20HB%20BARBER.md) | 72 | | |
+| 2 | [Actes/Token/Courriers/Police/Police - Plainte Complémentaire.md](../Actes/Reel/Courriers/Police/Police%20-%20Plainte%20Compl%C3%A9mentaire.md) | 72, 209 | | |
+| 3 | [Actes/Token/Courriers/Propriétaire/Propriétaire - Courrier - Relance 3.md](../Actes/Reel/Courriers/Propri%C3%A9taire/Propri%C3%A9taire%20-%20Courrier%20-%20Relance%203.md) | 44 | | |
+| 4 | [Actes/Token/Actes_proceduraux/Contentieux_penal/Parquet Foix - Plainte Complémentaire - Correction.md](../Actes/Reel/Actes_proceduraux/Contentieux_penal/Parquet%20Foix%20-%20Plainte%20Compl%C3%A9mentaire%20-%20Correction.md) | 84 | | |
+| 5 | [Actes/Token/Actes_proceduraux/Contentieux_penal/Parquet Foix - Plainte Complémentaire - PV Audition Foix.md](../Actes/Reel/Actes_proceduraux/Contentieux_penal/Parquet%20Foix%20-%20Plainte%20Compl%C3%A9mentaire%20-%20PV%20Audition%20Foix.md) | 66 | | |
+| 6 | [Actes/Token/Courriers/Police/Police - Note Personnelle.md](../Actes/Reel/Courriers/Police/Police%20-%20Note%20Personnelle.md) | 126 | | |
+| 7 | [Actes/Token/Courriers/Police/Police - Note Erratum Identité.md](../Actes/Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md) | 51, 99 | | |
+| 8 | [Actes/Token/Courriers/Justice/TJ Foix - Mémo - Audience 31-07-2026.md](../Actes/Reel/Courriers/Justice/TJ%20Foix%20-%20M%C3%A9mo%20-%20Audience%2031-07-2026.md) | 79 | | |
 
 ### Groupe B — "1er juin" (23 fichiers Token + Reel)
 

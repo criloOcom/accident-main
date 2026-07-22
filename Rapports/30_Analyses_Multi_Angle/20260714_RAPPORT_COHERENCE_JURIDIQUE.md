@@ -85,7 +85,7 @@ legal_basis:
 
 ### III.2 — Incohérences détectées
 
-- **Haute** : Numéro LRAR invalide/non reconnu (870014140507947) dans [Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Bordereau Unifié.md](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Bordereau Unifié.md) (Action: retirer/corriger ce numéro non reconnu)
+- **Haute** : Numéro LRAR invalide/non reconnu (870014140507947) dans [Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Bordereau Unifié.md](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md) (Action: retirer/corriger ce numéro non reconnu)
 
 <hr><hr>
 

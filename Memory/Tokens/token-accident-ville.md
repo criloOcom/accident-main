@@ -40,9 +40,9 @@ Foix est la ville où s'est produit l'accident ([J+0 Accident](token-j-0-acciden
 
 ## Documents liés
 
-- [Assignation Référé J+32](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md) (compétence TJ Foix)
+- [Assignation Référé J+32](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md) (compétence TJ Foix)
 
-- [Partie Civile - Constitution J+38](../../Actes/Token/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (compétence tribunal)
+- [Partie Civile - Constitution J+38](../../Actes/Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (compétence tribunal)
 
 - [Mise en demeure Maire Foix J+41](../../Actes/Reel/Courriers/Mairie/Mairie%20-%20Maire%20de%20Foix%20-%20Courrier.md)
 

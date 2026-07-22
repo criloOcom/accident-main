@@ -41,9 +41,9 @@ L'évaluation des préjudices a évolué à plusieurs reprises, entraînant des 
 
 * **Contradiction 1 (Évaluation Initiale 59 600 €)** : L'ancienne évaluation est explicitement déclarée comme obsolète dans `STRICT VARIABLES.md` et dans `Actes/Token/Courriers/🚨 Signalements/INPI - Signalement.md` (ligne 98). Cependant, elle est encore présentée comme l'évaluation de référence ("estimés à 59 600 €") dans :
 
-  * [Actes/Token/Archives/Archive - Stratégie Contentieux Civil.md](../../Actes/Token/Archives/Archive - Stratégie Contentieux Civil.md)
-  * [Actes/Token/Archives/Archive - Analyse Correction Juridique.md](../../Actes/Token/Archives/Archive - Analyse Correction Juridique.md)
-  * [Actes/Token/Archives/Archive - Analyse Jurisprudence.md](../../Actes/Token/Archives/Archive - Analyse Jurisprudence.md)
+  * [Actes/Token/Archives/Archive - Stratégie Contentieux Civil.md](../../Actes/Reel/Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20Civil.md)
+  * [Actes/Token/Archives/Archive - Analyse Correction Juridique.md](../../Actes/Reel/Archives/Archive%20-%20Analyse%20Correction%20Juridique.md)
+  * [Actes/Token/Archives/Archive - Analyse Jurisprudence.md](../../Actes/Reel/Archives/Archive%20-%20Analyse%20Jurisprudence.md)
   * [Memory/STATUS.md](../../Memory/STATUS.md) et [Memory/TODO.md](../../Memory/TODO.md) y font également référence.
 * **Contradiction 2 (Évaluation Intermédiaire 109 500 €)** : Cette valeur obsolète persiste dans `Actes/Token/Courriers/⚖️ Contentieux/FGTI - Saisine.md` (ligne 88) ("s'élève à ~109 500 €") et dans [Memory/STRICT VARIABLES.md](../../Memory/STRICT VARIABLES.md) sous la variable `MONTANT_TOTAL_ESTIME` (ligne 72, notée SUPERSEDED).
 
@@ -51,7 +51,7 @@ L'évaluation des préjudices a évolué à plusieurs reprises, entraînant des 
 
   * `Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - TJ Foix - Référé Provision - Assignation.md` (ligne 229)
   * `Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - TJ Foix - Référé Provision - Conclusions.md` (ligne 153)
-  * [Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision - Ordonnance Projet.md](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision - Ordonnance Projet.md) (lignes 103, 192)
+  * [Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision - Ordonnance Projet.md](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md) (lignes 103, 192)
   * [Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md](../40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md) (lignes 109, 153)
 
 ### II.2 — Dates et Délais (ITT, Procédures)

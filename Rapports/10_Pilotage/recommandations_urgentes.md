@@ -44,7 +44,7 @@ L'analyse du dossier met en évidence un risque majeur de dépérissement des pr
 ## II — PRIORITÉ 2 : DÉPÔT IMMÉDIAT DE LA REQUÊTE ARTICLE 145 CPC
 *   **Risque :** Modification des lieux (remplacement de la vasque, réparation, masquage de la cassure).
 
-*   **Action immédiate :** Le projet de [Requête](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md) (Pièce 06) doit être déposé le jour-même au Président du Tribunal Judiciaire pour obtenir l'Ordonnance.
+*   **Action immédiate :** Le projet de [Requête](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md) (Pièce 06) doit être déposé le jour-même au Président du Tribunal Judiciaire pour obtenir l'Ordonnance.
 
 *   **Consigne :** L'Ordonnance doit impérativement prévoir l'autorisation d'accéder aux locaux avec serrurier et force publique, car le silence obstiné des dirigeants depuis l'accident laisse présager un refus d'ouvrir les portes à l'huissier.
 

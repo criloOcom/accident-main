@@ -38,9 +38,9 @@ Blagnac est le domicile réel de la victime, dans la métropole [La Métropole R
 
 ## Documents liés
 
-- [Assignation Référé J+32](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md) (domicile demandeur)
+- [Assignation Référé J+32](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md) (domicile demandeur)
 
-- [Partie Civile - Constitution J+38](../../Actes/Token/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (domicile partie civile)
+- [Partie Civile - Constitution J+38](../../Actes/Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (domicile partie civile)
 
 ## Source
 

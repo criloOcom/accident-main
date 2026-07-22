@@ -57,9 +57,9 @@ Ce token est le **symbole de la coordination des actes du J+38** — il regroupe
 
 ## Documents liés
 
-- [Archive - Partie Civile - Constitution](../../Actes/Token/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
+- [Archive - Partie Civile - Constitution](../../Actes/Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
 
-- [📸 Constat Huissier - Requête](../../Actes/Token/Actes_proceduraux/Contentieux_civil/Constat%20Huissier%20-%20Requ%C3%AAte.md)
+- [📸 Constat Huissier - Requête](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/Constat%20Huissier%20-%20Requ%C3%AAte.md)
 
 - [✉️ Doyen des Juges - Saisine](../../Actes/Reel/Courriers/Justice/DJI%20Foix%20-%20Doyen%20des%20Juges%20-%20Saisine.md)
 
@@ -75,7 +75,7 @@ Ce token est le **symbole de la coordination des actes du J+38** — il regroupe
 
 - [✉️ Employé - Attestation](../../Actes/Reel/Courriers/Témoins/Email%20Attestation.md)
 
-- [Note - Bon Envoi Physique](../../Actes/Token/Organisation/Note%20-%20Bon%20Envoi%20Physique.md)
+- [Note - Bon Envoi Physique](../../Actes/Reel/Organisation/Note%20-%20Bon%20Envoi%20Physique.md)
 
 ## Source
 

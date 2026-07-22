@@ -226,9 +226,9 @@ Citée au courrier 35, absente physiquement et non référencée dans PIECES MAP
 | Doc 01-14 (analyses juridiques) | ✅ Mapping correct |
 | Bordereau V2 (43 pièces, groupes A-G) | ✅ Cadre théorique cohérent |
 | Pièces Drive listées | Liens accessibles (non vérifiés dans ce rapport) |
-| **AR NPAI ([pièce 10-15](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md))** | ❌ Absent physiquement → **à créer** |
-| **Extrait Kbis ([pièce 13](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md))** | ❌ Absent physiquement → **à commander** |
-| **Note RNE/INPI ([pièce 35](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md))** | ❌ Absente physiquement → **à créer** |
+| **AR NPAI ([pièce 10-15](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md))** | ❌ Absent physiquement → **à créer** |
+| **Extrait Kbis ([pièce 13](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md))** | ❌ Absent physiquement → **à commander** |
+| **Note RNE/INPI ([pièce 35](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md))** | ❌ Absente physiquement → **à créer** |
 
 ---
 

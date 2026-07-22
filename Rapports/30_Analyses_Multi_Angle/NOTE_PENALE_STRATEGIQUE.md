@@ -41,7 +41,7 @@ La plainte initiale déposée le 2 juin 2026 ([PV n°2026/015967](../../Actes/To
 > **[Code pénal > Article 222-20]** <br>
 > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
 
-Le [réquisitoire introductif (J+47)](../../Actes/Token/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md) vise subsidiairement l'article 222-19 du Code pénal en cas de reconnaissance d'une ITT supérieure à trois mois au regard de l'évolution des séquelles.
+Le [réquisitoire introductif (J+47)](../../Actes/Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md) vise subsidiairement l'article 222-19 du Code pénal en cas de reconnaissance d'une ITT supérieure à trois mois au regard de l'évolution des séquelles.
 
 ### I.2 — Obstruction à la Justice et Dissimulation de Preuves
 
@@ -87,7 +87,7 @@ La plainte complémentaire déposée à J+47 est décisive pour l'orientation de
 
 ### III.2 — La Constitution de Partie Civile
 
-La [constitution de partie civile (J+38)](../../Actes/Token/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md), couplée au réquisitoire introductif demandant l'ouverture d'une information judiciaire, poursuit plusieurs objectifs :
+La [constitution de partie civile (J+38)](../../Actes/Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md), couplée au réquisitoire introductif demandant l'ouverture d'une information judiciaire, poursuit plusieurs objectifs :
 
 - **Accès au dossier :** Elle permet à [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) d'avoir accès au dossier pénal et de solliciter des actes d'instruction.
 

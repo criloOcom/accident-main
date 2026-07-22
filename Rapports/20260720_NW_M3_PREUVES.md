@@ -123,7 +123,7 @@ Toutes les pièces listées dans [Memory/PIECES MAP.md](../Memory/PIECES MAP.md)
 - [ ] **FICHIER MANQUANT** : [CRITIQUE] Pièce 43 — Preuve de dépôt LRAR arrêt de travail — Introuvable dans [Actes/Token/Preuves_officielles](../Actes/Token/Preuves_officielles/README.md).
 
 ## 2. Cohérence du TJ Foix - Bordereau Unifié
-Vérification de [Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Bordereau Unifié.md](../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Bordereau Unifié.md) par rapport à `PIECES MAP.md`.
+Vérification de [Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Bordereau Unifié.md](../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md) par rapport à `PIECES MAP.md`.
 
 ### Pièces manquantes dans le bordereau :
 - [ ] **BORDEREAU INCOMPLET** : [MAJEUR] Pièce 10b manquante.

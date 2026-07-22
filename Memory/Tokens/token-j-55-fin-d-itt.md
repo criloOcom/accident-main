@@ -52,7 +52,7 @@ Date de fin de l'arrêt de travail total — correspond à la date de fin de la 
 
 - [Arrêt de travail Dr OXYBEL 01/06/2026](../../Actes/Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)
 
-- [Évaluation Dintilhac consolidée](../../Actes/Token/Etudes_indemnisation/Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md)
+- [Évaluation Dintilhac consolidée](../../Actes/Reel/Etudes_indemnisation/Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md)
 
 ## Source
 

@@ -56,7 +56,7 @@ Un document ne peut être qualifié de **« ENVOYÉ »** que si une **preuve mat
 | 05 | [Mise en demeure bailleur](../Actes/Reel/Courriers/Propriétaire/Propri%C3%A9taire%20-%20Courrier.md) | AR signé M. Delrieu |
 | 06 | [Mise en demeure dirigeants](../Actes/Reel/Courriers/SAS_&_Salon/SAS%20-%20Pr%C3%A9sident%20-%20Courrier.md) | LRAR 87001424721856G + 87001424862879J |
 | 06 V2 | [Relance dirigeants](../Actes/Reel/Courriers/SAS_&_Salon/SAS%20-%20Dirigeants%20-%20Courrier%20-%20Relance.md) | Dépôt 870014282662911 + facture Z0132713629 |
-| 10 | [CPC Doyen TJ Foix](../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md) | Dépôt greffe |
+| 10 | [CPC Doyen TJ Foix](../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md) | Dépôt greffe |
 
 ### 🟠 PRÊTS POUR ENVOI
 
@@ -87,9 +87,9 @@ Un document ne peut être qualifié de **« ENVOYÉ »** que si une **preuve mat
 
 | N° | Document | Blocage |
 |:--:|----------|---------|
-| 22 | [Attestation témoin client](../Actes/Token/Attestations/T%C3%A9moin%20Client%20-%20Attestation.md) | Pas de témoin identifié |
+| 22 | [Attestation témoin client](../Actes/Reel/Attestations/T%C3%A9moin%20Client%20-%20Attestation.md) | Pas de témoin identifié |
 | 23 | [Attestation pompier SAMU](../Actes/Reel/Courriers/Témoins/Pompier%20SAMU%20-%20Attestation.md) | Coordonnées pompier inconnues |
-| 24 | [Attestation employé](../Actes/Token/Attestations/Employ%C3%A9%20-%20Attestation.md) | Pas d'employé SAS identifié |
+| 24 | [Attestation employé](../Actes/Reel/Attestations/Employ%C3%A9%20-%20Attestation.md) | Pas d'employé SAS identifié |
 
 ## 5. Sanction
 

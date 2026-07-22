@@ -273,7 +273,7 @@ ni contacter des personnes à ta place.
 
 - [ ] Vérifier retour AR de la mise en demeure SAS
 
-- [ ] **Consulter le Dossier Spécial CERFA** ([05 Note - Dossier Spécial CERFA.md](../Actes/Token/Organisation/Note%20-%20Dossier%20Sp%C3%A9cial%20CERFA.md)) pour l'organisation des démarches administratives officieuses.
+- [ ] **Consulter le Dossier Spécial CERFA** ([05 Note - Dossier Spécial CERFA.md](../Actes/Reel/Organisation/Note%20-%20Dossier%20Sp%C3%A9cial%20CERFA.md)) pour l'organisation des démarches administratives officieuses.
 
 ### Processus général (vision d'ensemble)
 
@@ -325,7 +325,7 @@ PHASE 5 — INSTANCE AU FOND (2027)
 
 ### PLAN A — CORRECTION L.211-26 C. ASSURANCES ✅ TERMINÉ
 
-- L.211-26 supprimé de [`STRATEGIE Contentieux Penal.md`](../Actes/Token/Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20P%C3%A9nal.md) (§2.2, §3.3),
+- L.211-26 supprimé de [`STRATEGIE Contentieux Penal.md`](../Actes/Reel/Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20P%C3%A9nal.md) (§2.2, §3.3),
   [`PLAINTE Complement Defaut Assurance RC.md`](../Actes/Token/Actes_proceduraux/Contentieux_penal/Assurance%20RC%20-%20Plainte%20D%C3%A9faut.md), scripts Python.
 - Remplacement par signalement de fait + Art. 706-3 CPP + Art. L.124-3 C. assur.
 
@@ -347,9 +347,9 @@ PHASE 5 — INSTANCE AU FOND (2027)
 
 ### PLAN C — CIVI / FGTI ✅ TERMINÉ
 
-- [`STRATEGIE Contentieux Civil.md`](../Actes/Token/Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20Civil.md) : nouveau §3.3 « Voie CIVI / FGTI (subsidiaire) »
+- [`STRATEGIE Contentieux Civil.md`](../Actes/Reel/Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20Civil.md) : nouveau §3.3 « Voie CIVI / FGTI (subsidiaire) »
 
-- [`STRATEGIE Contentieux Penal.md`](../Actes/Token/Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20P%C3%A9nal.md) : §3.5 « Indemnisation par le FGTI / CIVI »
+- [`STRATEGIE Contentieux Penal.md`](../Actes/Reel/Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20P%C3%A9nal.md) : §3.5 « Indemnisation par le FGTI / CIVI »
 
 ---
 
@@ -403,7 +403,7 @@ PHASE 5 — INSTANCE AU FOND (2027)
 
 ### PHASE 7B — BORDEREAU + JUSTIFICATION PROVISION + EMAILS TÉMOINS ✅ TERMINÉ
 
-- [`04_Bordereau_Audience.md`](../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md) créé (25 pièces séquentielles)
+- [`04_Bordereau_Audience.md`](../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md) créé (25 pièces séquentielles)
 
 - Assignation 01 enrichie §D (justification provision 5 000 €)
 

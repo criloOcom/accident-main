@@ -43,13 +43,13 @@ Ce code postal n'est pas une simple coordonnée : il **fixe la compétence terri
 
 ## Documents liés
 
-- [Assignation Référé-Provision (compétence territoriale TJ Foix)](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md)
+- [Assignation Référé-Provision (compétence territoriale TJ Foix)](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Assignation.md)
 
 - [Plainte Défaut Assurance RC (lieu de l'infraction)](../../Actes/Token/Actes_proceduraux/Contentieux_penal/Assurance%20RC%20-%20Plainte%20D%C3%A9faut.md)
 
-- [Requête Article 145 CPC (désignation TJ Foix)](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md)
+- [Requête Article 145 CPC (désignation TJ Foix)](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md)
 
-- [Constitution de Partie Civile (compétence Doyen des juges d'instruction)](../../Actes/Token/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
+- [Constitution de Partie Civile (compétence Doyen des juges d'instruction)](../../Actes/Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
 
 ## Source
 

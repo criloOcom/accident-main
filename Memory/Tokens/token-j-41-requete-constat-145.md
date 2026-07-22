@@ -57,11 +57,11 @@ Les actes associés (courriers) sont les mêmes que ceux du J+41 Courrier SIE UR
 
 - [✉️ Constat Huissier - Requête Archive](../../Actes/Reel/Courriers/Archivé/Requ%C3%AAte%20-%20Constat%20Huissier%20Archive.md)
 
-- [Note - Responsabilité des Dirigeants](../../Actes/Token/Analyses_juridiques/Note%20-%20Responsabilit%C3%A9%20des%20Dirigeants.md)
+- [Note - Responsabilité des Dirigeants](../../Actes/Reel/Analyses_juridiques/Note%20-%20Responsabilit%C3%A9%20des%20Dirigeants.md)
 
 ## Croisements
 
-- [J+41 Requête Constat 145](token-j-41-requete-constat-145.md) complète la [Requête Art. 145 CPC J+37](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md) (même fondement, constat matériel).
+- [J+41 Requête Constat 145](token-j-41-requete-constat-145.md) complète la [Requête Art. 145 CPC J+37](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md) (même fondement, constat matériel).
 
 - Liée à [J+0 Accident](token-j-0-accident.md) (vasque) et à [J+41 Courrier SIE URSSAF](token-j-41-courrier-sie-urssaf.md) (même jour).
 

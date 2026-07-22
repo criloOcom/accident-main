@@ -100,6 +100,6 @@ Cet audit de contrôle qualité vérifie que l'ensemble des projets d'actes (Ass
 ## IV — SOURCES & CITATIONS (SOURCES OFFICIELLES GOVERNEMENTALES)
 
 - **TJ Foix - Bordereau Unifié.md**  
-  [Consulter le Bordereau Unifié](../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Bordereau Unifié.md)
+  [Consulter le Bordereau Unifié](../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md)
 - **Article 145 du Code de procédure civile**  
   [Consulter sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410268/)

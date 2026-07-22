@@ -108,7 +108,7 @@ Une recherche ciblée sur les données réelles du préposé (Ayoub Bennourine, 
 Les fuites d'identités réelles ont été détectées dans les fichiers suivants :
 - `Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md` (Fuite du prénom "AYOUB")
 
-- [Actes/Token/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md](../Actes/Token/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md) (Fuite du prénom/nom "Ayoub B.")
+- [Actes/Token/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md](../Actes/Reel/Analyses_juridiques/Note%20-%20Synth%C3%A8se%20Avocat%20Bascule%20HB%20BARBER.md) (Fuite du prénom/nom "Ayoub B.")
 
 - `Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md` (Fuite du prénom "AYOUB B" et du téléphone réel "+33 7 58 40 12 87")
 

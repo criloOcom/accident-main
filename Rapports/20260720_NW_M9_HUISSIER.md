@@ -28,7 +28,7 @@ tags:
 
 ## 1. Demande de constat d'huissier dans les actes
 L'analyse des fichiers procéduraux révèle qu'une requête aux fins de constat d'huissier a bien été rédigée :
-- **Fichier :** [Actes/Token/Actes_proceduraux/Contentieux_civil/Constat Huissier - Requête.md](../Actes/Token/Actes_proceduraux/Contentieux_civil/Constat Huissier - Requête.md) (statut : brouillon).
+- **Fichier :** [Actes/Token/Actes_proceduraux/Contentieux_civil/Constat Huissier - Requête.md](../Actes/Reel/Actes_proceduraux/Contentieux_civil/Constat%20Huissier%20-%20Requ%C3%AAte.md) (statut : brouillon).
 
 - **Fondement juridique :** Article 145 et 873 du Code de procédure civile.
 

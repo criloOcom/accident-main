@@ -62,7 +62,7 @@ type: memory
   1. `cd /home/crilocom/accident-main && python3 app/check_consistency.py`
   2. Le script signale les liens morts, tokens inconnus, LEGIARTI invalides, dates incohérentes
   3. Corriger les erreurs signalées avant de commit
-  4. Vérifier que [Actes/Token/Archives/Archive - Stratégie Contentieux Civil.md](../Actes/Token/Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20Civil.md) et [Actes/Token/Archives/Archive - Stratégie Contentieux Pénal.md](../Actes/Token/Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20P%C3%A9nal.md) listent bien le nouvel acte
+  4. Vérifier que [Actes/Token/Archives/Archive - Stratégie Contentieux Civil.md](../Actes/Reel/Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20Civil.md) et [Actes/Token/Archives/Archive - Stratégie Contentieux Pénal.md](../Actes/Reel/Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20P%C3%A9nal.md) listent bien le nouvel acte
 
 ## Gestion des sessions Jules — CYCLE DE VIE
 - Une session Jules est créée avec `jules_create_session` pour exécuter une tâche de code.

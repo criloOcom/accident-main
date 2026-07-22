@@ -71,7 +71,7 @@ Vague de courriers de **pression fiscale et administrative** contre **[L'Exploit
 
 - [✉️ Constat Huissier - Requête Archive](../../Actes/Reel/Courriers/Archivé/Requ%C3%AAte%20-%20Constat%20Huissier%20Archive.md)
 
-- [Note - Responsabilité des Dirigeants](../../Actes/Token/Analyses_juridiques/Note%20-%20Responsabilit%C3%A9%20des%20Dirigeants.md)
+- [Note - Responsabilité des Dirigeants](../../Actes/Reel/Analyses_juridiques/Note%20-%20Responsabilit%C3%A9%20des%20Dirigeants.md)
 
 ## Croisements
 

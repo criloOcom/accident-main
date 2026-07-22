@@ -153,7 +153,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 - **Références corrigées** : 434-15→434-4, 222-19→222-20, ajout 121-3
 
 ### Documents à déposer le 15 juillet Foix
-1. **Matin — Greffe TJ Foix** : [Requête Art. 145 CPC](../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md) (fichier 03) + [demande AJ](../Actes/Reel/Courriers/Interne/BBAJ%20-%20Demande%20AJ%20-%20Guide%20AJ.md) (fichier 39)
+1. **Matin — Greffe TJ Foix** : [Requête Art. 145 CPC](../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md) (fichier 03) + [demande AJ](../Actes/Reel/Courriers/Interne/BBAJ%20-%20Demande%20AJ%20-%20Guide%20AJ.md) (fichier 39)
 
 2. **Midi — 22 Rue Lafaurie** : Photos + constat personnel état vasque
 
@@ -221,7 +221,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 
 - **Cause probable NPAI** : Salon fermé, 0 salarié, personne pour réceptionner le courrier
 
-- **Fichier créé** : [Actes/Token/Analyses_juridiques/18 Note Audit RNE NPAI SAS.md](../Actes/Token/Analyses_juridiques/Note%20-%20Audit%20RNE%20NPAI%20SAS.md)
+- **Fichier créé** : [Actes/Token/Analyses_juridiques/18 Note Audit RNE NPAI SAS.md](../Actes/Reel/Analyses_juridiques/Note%20-%20Audit%20RNE%20NPAI%20SAS.md)
 
 - **Version réelle générée** : ✅ via `generate_real_versions.py` (76 fichiers)
 
@@ -255,15 +255,15 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 | #73 | Rapport audit avocat | ✅ Mergée (rebase) | — |
 | #74 | Audit RGPD | ✅ Mergée (rebase) | — |
 | #75 | Expertise barémique | ✅ Mergée (rebase) | [Rapports/40_Indemnisation_Dintilhac/20260708_Rapport_Baremique_Dintilhac.md](../Rapports/40_Indemnisation_Dintilhac/20260708_Rapport_Baremique_Dintilhac.md) |
-| #76 | Note stratégique FGTI/CIVI | ✅ Mergée (1er) | [Actes/Token/Etudes_indemnisation/Note - Stratégique FGTI CIVI.md](../Actes/Token/Etudes_indemnisation/Note%20-%20Strat%C3%A9gique%20FGTI%20CIVI.md) |
+| #76 | Note stratégique FGTI/CIVI | ✅ Mergée (1er) | [Actes/Token/Etudes_indemnisation/Note - Stratégique FGTI CIVI.md](../Actes/Reel/Etudes_indemnisation/Note%20-%20Strat%C3%A9gique%20FGTI%20CIVI.md) |
 | #77 | Audit organisation | ✅ Mergée (rebase) | — |
 | #78 | Audit dirigeants | ✅ Mergée (rebase) | — |
 | #79 | Rapport conformité ERP | ✅ Mergée (rebase) | — |
-| #80 | Note Droit Assurances (token+reel) | ✅ Mergée (rebase) | [Actes/{token,reel}/Analyses_juridiques/15 Note Droit Assurances.md](../Actes/Token/Analyses_juridiques/Note%20-%20Droit%20des%20Assurances.md) |
+| #80 | Note Droit Assurances (token+reel) | ✅ Mergée (rebase) | [Actes/{token,reel}/Analyses_juridiques/15 Note Droit Assurances.md](../Actes/Reel/Analyses_juridiques/Note%20-%20Droit%20des%20Assurances.md) |
 | #81 | Rapport assurance | ✅ Mergée (rebase) | `Rapports/expertise/analyse_strategie_assurance.md` |
-| #82 | Ordonnance référé | ✅ Déjà mergée | [Actes/Token/Actes_proceduraux/07 TJ Foix - Référé Provision - Ordonnance Projet.md](../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md) |
-| #83 | Réquisitoire introductif (token) | ✅ Mergée (rebase + force push) | [Actes/Token/Actes_proceduraux/15 ⚖️ Réquisitoire introductif.md](../Actes/Token/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md) |
-| #84 | Mémoire défense adverse (token) | ✅ Mergée (rebase) | [Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md](../Actes/Token/Analyses_juridiques/M%C3%A9moire%20-%20En%20d%C3%A9fense%20adverse.md) |
+| #82 | Ordonnance référé | ✅ Déjà mergée | [Actes/Token/Actes_proceduraux/07 TJ Foix - Référé Provision - Ordonnance Projet.md](../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md) |
+| #83 | Réquisitoire introductif (token) | ✅ Mergée (rebase + force push) | [Actes/Token/Actes_proceduraux/15 ⚖️ Réquisitoire introductif.md](../Actes/Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md) |
+| #84 | Mémoire défense adverse (token) | ✅ Mergée (rebase) | [Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md](../Actes/Reel/Analyses_juridiques/M%C3%A9moire%20-%20En%20d%C3%A9fense%20adverse.md) |
 
 ### Génération reel (#83, #84)
 - `generate_real_versions.py` : 57 fichiers générés dans [Actes/Reel](../Actes/Token/README.md)
@@ -329,7 +329,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 
 - `Actes/Token/Courriers/33 ✉️ Requête Constat Huissier 145 CPC.md`
 
-- [Actes/Token/Archives/Archive - Fiche Réflexe 48h Victime.md](../Actes/Token/Archives/Archive%20-%20Fiche%20R%C3%A9flexe%2048h%20Victime.md)
+- [Actes/Token/Archives/Archive - Fiche Réflexe 48h Victime.md](../Actes/Reel/Archives/Archive%20-%20Fiche%20R%C3%A9flexe%2048h%20Victime.md)
 
 - `Actes/Token/Analyses_juridiques/17 Note Contentieux Administratif.md`
 

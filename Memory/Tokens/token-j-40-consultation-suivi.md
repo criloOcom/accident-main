@@ -54,11 +54,11 @@ Consultation juridique externe et suivi stratégique du dossier après le dépô
 
 - [✉️ SAS - Dirigeants - Courrier - Relance](../../Actes/Reel/Courriers/SAS_&_Salon/SAS%20-%20Dirigeants%20-%20Courrier%20-%20Relance.md)
 
-- [Note - Droit des Assurances](../../Actes/Token/Analyses_juridiques/Note%20-%20Droit%20des%20Assurances.md)
+- [Note - Droit des Assurances](../../Actes/Reel/Analyses_juridiques/Note%20-%20Droit%20des%20Assurances.md)
 
-- [Note - Stratégique FGTI CIVI](../../Actes/Token/Etudes_indemnisation/Note%20-%20Strat%C3%A9gique%20FGTI%20CIVI.md)
+- [Note - Stratégique FGTI CIVI](../../Actes/Reel/Etudes_indemnisation/Note%20-%20Strat%C3%A9gique%20FGTI%20CIVI.md)
 
-- [Note - Dossier Spécial CERFA](../../Actes/Token/Organisation/Note%20-%20Dossier%20Sp%C3%A9cial%20CERFA.md)
+- [Note - Dossier Spécial CERFA](../../Actes/Reel/Organisation/Note%20-%20Dossier%20Sp%C3%A9cial%20CERFA.md)
 
 ## Croisements
 
