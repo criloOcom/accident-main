@@ -25,4 +25,4 @@ Vérifier la cohérence de la stratégie de contre-expertise médicale entre les
 
 ## LIVRABLE
 
-`Rapports/85_Coherence_2026-07-15/M06_AUDIT_CONTRE_EXPERTISE.md`
+[Rapports/85_Coherence_2026-07-15/M06_AUDIT_CONTRE_EXPERTISE.md](../../Rapports/85_Coherence_2026-07-15/M06_AUDIT_CONTRE_EXPERTISE.md)

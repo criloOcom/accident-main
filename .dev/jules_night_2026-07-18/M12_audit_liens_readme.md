@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `Rapports/RAPPORT_AUDIT_LIENS_README_2026-07-18.md` vérifiant l'intégrité des **liens internes** du dépôt et la synchronisation du **README.md** avec la structure réelle.
+Produis un rapport [Rapports/RAPPORT_AUDIT_LIENS_README_2026-07-18.md](../../Rapports/RAPPORT_AUDIT_LIENS_README_2026-07-18.md) vérifiant l'intégrité des **liens internes** du dépôt et la synchronisation du **README.md** avec la structure réelle.
 
 ## CONTEXTE
 

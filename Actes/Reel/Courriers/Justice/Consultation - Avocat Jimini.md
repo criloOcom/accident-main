@@ -35,19 +35,19 @@ reel_path: ../../../Reel/Courriers/Justice/Consultation - Avocat Jimini.md
 
 <hr><hr>
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Consultation — Accident corporel 29/05/2026, salon [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) (Foix)**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 Bonjour Maître,
 

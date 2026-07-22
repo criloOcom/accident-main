@@ -48,9 +48,9 @@ Service Recours Contre Tiers
 # RELANCE CPAM<br>SUIVI DU DOSSIER DE RECOURS CONTRE TIERS
 > 🔗 Source Google Drive : [1MHhZf_KN4b3…](https://drive.google.com/open?id=1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k)
 
----
+<hr><hr>
 Objet : Relance et demande d'etat d'avancement — Recours contre tiers n° 31727387
----
+<hr><hr>
 
 <hr><hr>
 
@@ -108,4 +108,3 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 
 [^1]: [Article L376-1 du Code de la sécurité sociale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231)
 <!-- /Source -->
-

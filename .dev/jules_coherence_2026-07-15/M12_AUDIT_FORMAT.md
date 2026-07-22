@@ -28,4 +28,4 @@ Vérifier que tous les fichiers respectent les conventions de format définies d
 
 ## LIVRABLE
 
-`Rapports/85_Coherence_2026-07-15/M12_AUDIT_FORMAT.md`
+[Rapports/85_Coherence_2026-07-15/M12_AUDIT_FORMAT.md](../../Rapports/85_Coherence_2026-07-15/M12_AUDIT_FORMAT.md)

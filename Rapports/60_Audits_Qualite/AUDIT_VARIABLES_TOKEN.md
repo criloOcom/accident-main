@@ -13,13 +13,13 @@ type: rapport
 
 # Audit des variables STRICT_VARIABLES et Tokens
 
-Ce rapport liste les incohérences détectées dans les fichiers sous `Actes/Token/` et `Rapports/` par rapport aux règles définies dans `Memory/STRICT_VARIABLES.md`.
+Ce rapport liste les incohérences détectées dans les fichiers sous [Actes/Token](../../Actes/Token/README.md) et [Rapports](../README.md) par rapport aux règles définies dans `Memory/STRICT_VARIABLES.md`.
 
 <hr><hr>
 
 ## I — INCOHÉRENCES DÉTECTÉES
 
-### I.1 — Fichier : `Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Bordereau Unifié.md`
+### I.1 — Fichier : [Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Bordereau Unifié.md](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Bordereau Unifié.md)
 
 - **Ligne 28** : Profession erronée (victime qualifiée de 'coiffeur')
 
@@ -47,7 +47,7 @@ Ce rapport liste les incohérences détectées dans les fichiers sous `Actes/Tok
   - **Valeur erronée** : `- Le prepose de l'exploitation exercait une activite professionnelle de coiffeur au sein de l'etablissement sans qu'aucune information sur son statut (contrat de travail, bulletin de paie, declaration prealable a l'embauche) n'ait pu etre communiquee<br>`
   - **Correction suggérée** : Remplacer par 'informaticien indépendant'.
 
-### I.5 — Fichier : `Actes/Token/Analyses_juridiques/Note - Tableau Défense Réponse.md`
+### I.5 — Fichier : [Actes/Token/Analyses_juridiques/Note - Tableau Défense Réponse.md](../../Actes/Token/Analyses_juridiques/Note - Tableau Défense Réponse.md)
 
 - **Ligne 22** : Profession erronée (victime qualifiée de 'coiffeur')
 

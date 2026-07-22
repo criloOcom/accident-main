@@ -53,9 +53,9 @@ SDIS de l'Ariège
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Signalement de securite — ERP SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
----
+<hr><hr>
 
 <hr><hr>
 
@@ -66,6 +66,7 @@ Madame, Monsieur le Directeur,
 La presente est adressee a vos services par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), situe **[Adresse du Commerce]** a **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
+<hr><hr>
 ## I — OBJET DU SIGNALEMENT
 
 Le salon de coiffure constitue un Etablissement Recevant du Public (ERP) de 5e categorie.
@@ -87,6 +88,7 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Direc
 <!-- PJ -->
 <hr><hr>
 
+<hr><hr>
 ## PIECES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
@@ -95,4 +97,3 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Direc
 
 Mes coordonnees : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /PJ -->
-

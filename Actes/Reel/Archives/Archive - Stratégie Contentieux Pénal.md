@@ -18,7 +18,7 @@ source: drive
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 **Table des matières**
 
@@ -50,21 +50,23 @@ source: drive
 
 # STRATEGIE CONTENTIEUX PENAL
 Rédigé le [**[J+36 Lettre consolidation]**](../../../Memory/Tokens/token-j-36-lettre-consolidation.md)
+<hr><hr>
 ## I — PRÉSENTATION
 
-Le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md), [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md), informaticien indépendant, a subi un accident corporel grave dans le salon de coiffure exploité par [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) ([SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md), SIRET [104 103 262 00010](../../../Memory/Tokens/token-exploitation-siret.md)), situé [22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md).
+Le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md), [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md), informaticien indépendant, a subi un accident corporel grave dans le salon de coiffure exploité par [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) ([SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md), SIRET [938 033 222 00010](../../../Memory/Tokens/token-exploitation-siret.md)), situé [22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md).
 
-Alors que l'employé [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tél. [07 58 40 12 87](../../../Memory/Tokens/token-exploitation-prepose-telephone.md)) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé.
+Alors que l'employé [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../Memory/Tokens/token-exploitation-prepose-telephone.md)) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé.
 
 Par réflexe, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a tendu la main droite — sa main dominante indispensable à son activité professionnelle — pour protéger [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une prise en charge chirurgicale en urgence par le service SOS Main.
 
-Le contentieux pénal a pour objet de faire reconnaître la culpabilité de [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, d'obtenir leur condamnation pénale, et d'exercer les droits de la partie civile pour obtenir réparation dans le cadre de la procédure répressive, y compris par la saisine du [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^1] via la CIVI en cas d'insolvabilité de l'auteur.
+Le contentieux pénal a pour objet de faire reconnaître la culpabilité de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, d'obtenir leur condamnation pénale, et d'exercer les droits de la partie civile pour obtenir réparation dans le cadre de la procédure répressive, y compris par la saisine du [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^1] via la CIVI en cas d'insolvabilité de l'auteur.
 <hr><hr>
 
+<hr><hr>
 ## II — INFRACTIONS CONSTITUÉES
 ### 2.1 BLESSURES INVOLONTAIRES
 
-Faits : le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md), [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes, au sein de l'établissement exploité par [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md).
+Faits : le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md), [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes, au sein de l'établissement exploité par [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md).
 
 Ces faits sont constitutifs de blessures involontaires ayant entraîné une incapacité totale de travail (ITT) prévisible inférieure ou égale à trois mois.
 
@@ -78,7 +80,7 @@ L'infraction est prévue et réprimée par [l'Article 222-20 du Code pénal](htt
 
 ### 2.2 ABSENCE D'ASSURANCE RESPONSABILITÉ CIVILE PROFESSIONNELLE
 
-[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) n'a pas communiqué d'attestation d'assurance de responsabilité civile professionnelle malgré les relances amiables de [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md).
+[SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) n'a pas communiqué d'attestation d'assurance de responsabilité civile professionnelle malgré les relances amiables de [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md).
 
 Cette absence d'assurance, si elle est confirmée, prive la victime de l'exercice de l'action directe contre l'assureur prévue à [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^3], et justifie une saisine du [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418[^1]734) sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI00004[^4]8442345), qui prévoit l'indemnisation des victimes d'infractions lorsque l'auteur n'est pas assuré.
 
@@ -106,10 +108,11 @@ Le maintien en service d'un équipement dangereux (bac à shampoing instable don
 Cette qualification nécessite la démonstration d'une violation délibérée d'une obligation particulière de sécurité ou de prudence imposée par la loi ou le règlement.
 <hr><hr>
 
+<hr><hr>
 ## III — PROCÉDURE PÉNALE ENGAGÉE
 ### 3.1 SIGNALEMENT ADMINISTRATIF ET DÉPÔT DE PLAINTE
 
-Un signalement a été adressé à la préfecture par la Mairie de [Foix](../../../Memory/Tokens/token-accident-ville.md) dès le 1er juin 2026, selon le courriel de l'adjoint au maire ([btavella@mairie-foix.fr](../../../Memory/Tokens/token-mairie-adjoint-email.md)) en date du 1er juin 2026 à 16h15. La Mairie y indiquait avoir pris l'attache des services de la préfecture pour diligenter l'inspection du travail et le CODAF.
+Un signalement a été adressé à la préfecture par la Mairie de [Foix](../../../Memory/Tokens/token-accident-ville.md) dès le 1er juin 2026, selon le courriel de l'adjoint au maire ([**[L'Email de l'Adjoint au Maire]**](../../../Memory/Tokens/token-mairie-adjoint-email.md)) en date du 1er juin 2026 à 16h15. La Mairie y indiquait avoir pris l'attache des services de la préfecture pour diligenter l'inspection du travail et le CODAF.
 
 [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a parallèlement déposé une plainte officielle le 1er juin 2026 au commissariat de [Foix](../../../Memory/Tokens/token-accident-ville.md), retranscrite sous la référence PV n° [2026/015967](../../../Memory/Tokens/token-pv-police-numero.md) [🔗 Pièce](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view). Un procès-verbal de constat a été établi le [2 juin 2026](../../../Memory/Tokens/token-j-4-depot-de-plainte.md) [🔗 Pièce](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view).
 
@@ -133,7 +136,7 @@ La constitution de partie civile peut être réalisée par déclaration au greff
 
 ### 3.3 COMPLÉMENT DE PLAINTE POUR ABSENCE D'ASSURANCE
 
-Un complément de plainte a été déposé le [30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md) auprès du Procureur de la République près le Tribunal Judiciaire de [Foix](../../../Memory/Tokens/token-accident-ville.md) pour signaler l'absence de communication d'attestation d'assurance de responsabilité civile professionnelle par [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md).
+Un complément de plainte a été déposé le [30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md) auprès du Procureur de la République près le Tribunal Judiciaire de [Foix](../../../Memory/Tokens/token-accident-ville.md) pour signaler l'absence de communication d'attestation d'assurance de responsabilité civile professionnelle par [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md).
 
 Ce complément vise à porter à la connaissance de l'autorité judiciaire cette carence, qui constitue un obstacle à l'indemnisation de la victime et justifie, le cas échéant, la saisine du [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^1] sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442[^4]345).
 
@@ -143,7 +146,7 @@ Ce complément vise à porter à la connaissance de l'autorité judiciaire cette
 
 ### 3.4 RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS
 
-Les dirigeants de [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md), à savoir [Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md) (Président) et [Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales, ainsi que sur le fondement de [Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928)[^8].
+Les dirigeants de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md), à savoir [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) (Président) et [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales, ainsi que sur le fondement de [Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928)[^8].
 
 > *« Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. Si plusieurs administrateurs ou plusieurs administrateurs et le directeur général ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du dommage. »* <br>
 > [Article L225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) <br>
@@ -157,7 +160,7 @@ Le défaut de souscription d'assurance responsabilité civile professionnelle co
 
 ### 3.5 INDEMNISATION PAR LE FGTI / CIVI
 
-L'absence d'assurance de [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) et son insolvabilité éventuelle justifient la mise en œuvre de la voie indemnitaire subsidiaire prévue aux [articles 706-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)[^11] et suivants du Code de procédure pénale.
+L'absence d'assurance de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) et son insolvabilité éventuelle justifient la mise en œuvre de la voie indemnitaire subsidiaire prévue aux [articles 706-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)[^11] et suivants du Code de procédure pénale.
 
 Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^1] indemnise les victimes de dommages corporels résultant d'une infraction pénale lorsque l'auteur n'est pas assuré et que la réparation ne peut être obtenue à un autre titre.
 
@@ -185,6 +188,7 @@ Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LE
 Cette voie est indépendante de l'action pénale principale : la victime peut saisir la CIVI sans attendre l'issue de la procédure pénale, dès lors que les conditions de l'Article 706-3 sont réunies.
 <hr><hr>
 
+<hr><hr>
 ## IV — CALENDRIER PROCÉDURAL
 
 | Phase | Action | Échéance |
@@ -197,6 +201,7 @@ Cette voie est indépendante de l'action pénale principale : la victime peut sa
 | Appel éventuel | Si décision contestée (délai d'appel : 10 jours) | +12 mois |
 <hr><hr>
 
+<hr><hr>
 ## V — RÉCAPITULATIF DES PIÈCES
 
 Pièces pénales :
@@ -224,20 +229,20 @@ Pièces administratives :
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
-[^1]: [Fonds de Garantie (FGTI) — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)
-[^2]: [l'Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
-[^3]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^4]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)
-[^5]: [Article L. 211-26 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795644](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795644)
-[^6]: [Article 223-1 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417253](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417253)
-[^7]: [Article 223-1 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637)
-[^8]: [Article L. 225-251 du Code de commerce — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928)
-[^9]: [Article L225-251 du Code de commerce — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
-[^10]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
-[^11]: [articles 706-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)
-[^12]: [Article 706-5 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627)
-[^13]: [Article 706-5 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334)
+[^1]: [Fonds de Garantie (FGTI) — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) ↩
+[^2]: [l'Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+[^3]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^4]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) ↩
+[^5]: [Article L. 211-26 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795644](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795644) ↩
+[^6]: [Article 223-1 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417253](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417253) ↩
+[^7]: [Article 223-1 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637) ↩
+[^8]: [Article L. 225-251 du Code de commerce — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928) ↩
+[^9]: [Article L225-251 du Code de commerce — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) ↩
+[^10]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
+[^11]: [articles 706-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625) ↩
+[^12]: [Article 706-5 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627) ↩
+[^13]: [Article 706-5 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334) ↩
 <!-- /Source -->
-

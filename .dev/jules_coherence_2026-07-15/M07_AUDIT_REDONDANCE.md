@@ -28,4 +28,4 @@ Détecter les informations dupliquées ou contradictoires entre les différents 
 
 ## LIVRABLE
 
-`Rapports/85_Coherence_2026-07-15/M07_AUDIT_REDONDANCE.md`
+[Rapports/85_Coherence_2026-07-15/M07_AUDIT_REDONDANCE.md](../../Rapports/85_Coherence_2026-07-15/M07_AUDIT_REDONDANCE.md)

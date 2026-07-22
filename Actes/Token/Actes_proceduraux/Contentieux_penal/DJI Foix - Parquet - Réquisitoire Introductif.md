@@ -244,4 +244,3 @@ Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19
 [^7]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
 [^8]: [Article 131-27 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887) ↩
 <!-- /Source -->
-

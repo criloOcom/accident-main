@@ -81,7 +81,7 @@ Face au silence et à l'obstruction du bailleur et de l'exploitant, l'obtention 
 
 - [x] Vérifier le statut de tous les documents "Transmis" ou "Envoyé" et lever les incertitudes (hallucinations documentaires).
 
-- [x] Valider l'application intégrale du protocole RGPD sur le répertoire `Actes/Token/`.
+- [x] Valider l'application intégrale du protocole RGPD sur le répertoire [Actes/Token](../Actes/Token/README.md).
 
 ## IV — SOURCES & CITATIONS (SOURCES OFFICIELLES GOVERNEMENTALES)
 

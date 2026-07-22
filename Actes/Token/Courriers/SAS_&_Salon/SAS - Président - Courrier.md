@@ -48,9 +48,9 @@ jx: J+31
 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Demande d'information et communication d'assurance — Accident **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** — L.R.A.R.
----
+<hr><hr>
 
 <hr><hr>
 
@@ -58,7 +58,6 @@ La présente lettre de mise en demeure est adressée conjointement par **[La Vic
 
 **Ce courrier constitue une démarche constructive et préalable à toute action contentieuse, conformément aux obligations légales et à la jurisprudence applicable en matière de responsabilité personnelle des dirigeants.**
 <hr><hr>
-
 ## II — RAPPEL DES OBLIGATIONS LÉGALES
 
 La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions.
@@ -181,6 +180,7 @@ je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président,
 <!-- PJ -->
 <hr><hr>
 
+<hr><hr>
 ## PIECES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
@@ -199,6 +199,7 @@ Comptant sur votre diligence,
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
@@ -209,4 +210,3 @@ Comptant sur votre diligence,
 [^6]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
 [^7]: [Article L. 113-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) ↩
 <!-- /Source -->
-

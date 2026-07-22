@@ -11,7 +11,7 @@ type: analyse
 # Note - Mapping Acte-Jurisprudence
 
 Ce document référence toutes les citations de jurisprudence au sein des actes et analyses du dossier, en identifiant les forces, faiblesses et les éventuels manques (trous identifiés).
-
+<hr><hr>
 ## A. MATRICE ACTE × JURISPRUDENCE
 
 | Acte | 00-82.066 | 01-02.274 | 11-03512 | 11-13.384 | 11-15.699 | 13-80.849 | 14-15.326 | 15-01748 | 16-24.631 | 17-26.282 | 18-17.868 | 19-08999 | 19-15.659 | 19-23.173 | 20-05541 | 20-15.106 | 20-16.463 | 20-19.288 | 20-22.100 | 20-23.462 | 21-04988 | 21-14.197 | 22-01019 | 22-02447 | 22-18.089 | 22-19.307 | 23-12.369 | 24-17.944 | 24-21.702 | 63-13.613 | 70-12.124 | 74-10.466 | 80-14.994 | 80-16.679 | 89-18.422 | 90-14.591 | 91-13.580 | 91-15.035 | 92-13.880 | 97-17.378 | 99-17.092 |
@@ -66,7 +66,9 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 | [TJ Foix - Référé Provision - Assignation](../Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision - Assignation.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
 | [TJ Foix - Référé Provision - Conclusions](../Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision - Conclusions.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ |
 | [TJ Foix - Référé Provision - Ordonnance Projet](../Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision - Ordonnance Projet.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+<hr><hr>
 
+<hr><hr>
 ## B. POUR CHAQUE ACTE, ARGUMENTS ÉTAYÉS
 
 ### DJI Foix - Parquet - Réquisitoire Introductif
@@ -115,7 +117,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [TJ Rennes 20-05541](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ Rennes 20-05541.md)
 
 - **Citation extraite :**
-  > Le jugement **[TJ Rennes 20/05541](<../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ Rennes 20-05541.md>)** est particulièrement pertinent car il concerne l'indemnisation d'un travailleur indépendant (informaticien), identique à la situation de **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)**. Le tribunal a détaillé l'évaluation de l'incidence professionnelle tenant compte de la perte de clientèle, de la dévalorisation sur le marché du travail et des difficultés accrues d'exercice professionnel.
+  > Le jugement **[TJ Rennes 20/05541](<../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ Rennes 20-05541.md>)** est particulièrement pertinent car il concerne l'indemnisation d'un travailleur indépendant (informaticien), identique à la situation de **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**. Le tribunal a détaillé l'évaluation de l'incidence professionnelle tenant compte de la perte de clientèle, de la dévalorisation sur le marché du travail et des difficultés accrues d'exercice professionnel.
 
 - **Jurisprudence :** [20-19.288_CourCassation](../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/20-19.288_CourCassation.md)
 
@@ -246,7 +248,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [97-17.378_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/97-17.378_CourCassation.md)
 
 - **Citation extraite :**
-  > - **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** [N° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)[^4]. Le préposé **[Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md)** ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
+  > - **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** [N° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)[^4]. Le préposé **[Le Préposé de l'Exploitation](../../../Memory/Tokens/token-exploitation-prepose-nom.md)** ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
@@ -265,7 +267,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), **[Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md)** engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
+  > Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), **[Le Président de l'Exploitation](../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../Memory/Tokens/token-exploitation-dg-nom.md)** engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
 
 ### Note - Mémo Axes Juridiques Avocat
 
@@ -462,13 +464,15 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [89-18.422_CourCassation](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md)
 
 - **Citation extraite :**
-  > **Considérant** que la responsabilité de **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** est engagée de plein droit sur le fondement de l'article **1242 alinéa 1er** du Code civil en qualité de gardienne de la vasque, qui a été l'instrument actif du dommage (Civ. 2e, 13 février 1991, n° 89-18.422) ; que la société est également engagée en qualité de commettant sur le fondement de l'article 1242 alinéa 5 du même code, le préposé ayant agi dans le cadre de ses fonctions ;
+  > **Considérant** que la responsabilité de **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** est engagée de plein droit sur le fondement de l'article **1242 alinéa 1er** du Code civil en qualité de gardienne de la vasque, qui a été l'instrument actif du dommage (Civ. 2e, 13 février 1991, n° 89-18.422) ; que la société est également engagée en qualité de commettant sur le fondement de l'article 1242 alinéa 5 du même code, le préposé ayant agi dans le cadre de ses fonctions ;
 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
   > Le dossier contient des éléments sérieux pour plaider la faute détachable (absence d'assurance identifiable en ERP depuis l'ouverture, défaut d'entretien caractérisé d'un équipement dangereux, abstention persistante des dirigeants malgré mises en demeure — arrêt SATI, Civ. com., 20 mai 2003, n° 99-17.092). Mais cette qualification est classiquement réservée au juge du fond, ce qui justifie le scénario A en référé. Le curseur pourra être ajusté selon l'audience et les éléments recueillis entre-temps.
+<hr><hr>
 
+<hr><hr>
 ## C. TROUS IDENTIFIÉS
 
 Pour chaque argument clé qui N'A PAS de jurisprudence de support :
@@ -747,7 +751,9 @@ Pour chaque argument clé qui N'A PAS de jurisprudence de support :
 
   - **Arrêt idéal suggéré :** Jurisprudence constante sur l'absence de contestation sérieuse (ex: Cass. civ 2ème ou décisions CA)
   - **Mots-clés de recherche (Légifrance) :** `texte="contestation sérieuse" ET texte="provision"`
+<hr><hr>
 
+<hr><hr>
 ## D. FORCES ET FAIBLESSES
 
 ### Actes les mieux étayés juridiquement
@@ -833,6 +839,7 @@ Pour chaque argument clé qui N'A PAS de jurisprudence de support :
 - **[TJ Foix - CPC 145 - Ordonnance sur Requête](../Actes_proceduraux/Contentieux_civil/TJ Foix - CPC 145 - Ordonnance sur Requête.md)** : Aucune jurisprudence citée pour consolider les arguments.
 
 - **[TJ Foix - Conclusions au Fond](../Actes_proceduraux/Contentieux_civil/TJ Foix - Conclusions au Fond.md)** : Aucune jurisprudence citée pour consolider les arguments.
+<hr><hr>
 
 ### Recommandations prioritaires
 

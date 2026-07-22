@@ -40,13 +40,14 @@ Président de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Token
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Demande de communication de l'assurance RC professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) — Notification au Président à titre personnel et de représentant légal
----
+<hr><hr>
 
 Mode d'envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 
 Monsieur le Président,
+<hr><hr>
 ## I — CONTEXTE ET EXCUSES SUR LE DÉLAI
 
 Par la présente, je me permets de vous écrire en votre qualité de Président et représentant légal de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), ainsi qu'à votre adresse personnelle, en raison des responsabilités qui incombent aux dirigeants de droit de sociétés commerciales.
@@ -58,6 +59,7 @@ Le jour même, j'ai été pris en charge en urgence au centre de soins immédiat
 Veuillez agréer mes excuses pour le délai avec lequel je reviens vers vous. La constitution de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) étant extrêmement récente au moment des faits (début d'activité au 22 avril 2026 et immatriculation au Registre national des entreprises le 19 mai 2026, soit quelques jours seulement avant l'accident), l'indexation de vos statuts et de vos mandats sociaux a connu les délais administratifs habituels avant de figurer publiquement sur les registres (INPI, RNE, SIRENE). Mes démarches initiales de juin ont donc été adressées, par erreur, à l'ancienne enseigne « LES MAUVAIS GARÇONS » et à ses dirigeants, faute d'avoir connaissance de l'existence de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md). Ce n'est qu'à la suite des informations communiquées par le bailleur et de la consultation des registres officiels que j'ai pu identifier [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) comme véritable exploitant des locaux au **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** et, par conséquent, vous écrire aujourd'hui en votre qualité de Président.
 <hr><hr>
 
+<hr><hr>
 ## II — LE RÔLE DE L'ASSURANCE DE LA SOCIÉTÉ
 
 Ce courrier se veut purement administratif, informatif et bienveillant.
@@ -67,6 +69,7 @@ L'assurance de responsabilité civile professionnelle est en principe souscrite 
 La communication de vos coordonnées d'assurance n'est ni une recherche de sanction pénale, ni la reconnaissance d'une faute personnelle, mais une simple formalité technique pour permettre la prise en charge du sinistre par les assureurs, en lien avec la CPAM et les médecins.
 <hr><hr>
 
+<hr><hr>
 ## III — VOS OBLIGATIONS EN CAS D'ACCIDENT D'UN CLIENT ET LA VISITE DU 16 JUILLET
 
 En France, lorsqu'un client est victime d'un accident dans un commerce, le rôle normal du dirigeant n'est pas de discuter avec la victime de points de droit, mais de faire fonctionner les mécanismes prévus par la loi et les contrats. Concrètement, cela signifie :
@@ -92,6 +95,7 @@ Je vous invite donc, dans l'intérêt de chacun, à renoncer à ce type d'explic
 Quelle que soit l'interprétation que vous faites aujourd'hui de l'accident, cela ne change rien à vos obligations légales : en tant que dirigeant de la société exploitant les lieux, il vous appartient, avec la Directrice Générale, de veiller à la déclaration du sinistre à votre assureur, de me communiquer ses coordonnées, et de laisser ensuite les assurances, la CPAM et, si nécessaire, la justice faire leur travail sur la base de faits exacts.
 <hr><hr>
 
+<hr><hr>
 ## IV — CE QUE JE VOUS DEMANDE CONCRÈTEMENT
 
 Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)), je vous remercie de bien vouloir me communiquer, sous un délai de quinze (15) jours à compter de la réception de la présente :
@@ -105,6 +109,7 @@ Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours con
 Ces informations peuvent être envoyées à mon adresse ci-dessus ou par courriel à **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**. Elles seront transmises à la CPAM et à mon conseil, afin que les échanges se poursuivent directement avec votre assureur.
 <hr><hr>
 
+<hr><hr>
 ## V — SUITE ENVISAGÉE À DÉFAUT DE RÉPONSE
 
 À défaut de réponse dans ce délai de 15 jours, je confierai l'affaire à mon conseil afin de saisir le juge des référés du Tribunal judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** sur le fondement de l'article 145 du Code de procédure civile pour obtenir ces pièces, si nécessaire sous astreinte.
@@ -125,8 +130,8 @@ Téléphone : **[Le Téléphone de la Victime](../../../../Memory/Tokens/token-v
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 <!-- /Source -->
-

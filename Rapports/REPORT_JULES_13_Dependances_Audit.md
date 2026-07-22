@@ -42,11 +42,11 @@ jules_session_id: "AM-MISSION-13"
 
 # RAPPORT JULES #13 — Audit et Mise à jour des Dépendances (DEPENDANCES.md)
 
-Ce rapport documente la révision du graphe de dépendances logiques des actes (`Memory/DEPENDANCES.md`), suite à l'analyse des nouvelles preuves et démarches versées au dossier en juillet 2026 (J+51 / J+52), ainsi que des pièces initiales d'identification (J+3).
+Ce rapport documente la révision du graphe de dépendances logiques des actes ([Memory/DEPENDANCES.md](../Memory/DEPENDANCES.md)), suite à l'analyse des nouvelles preuves et démarches versées au dossier en juillet 2026 (J+51 / J+52), ainsi que des pièces initiales d'identification (J+3).
 
 ## 1. Contexte de l'audit
 
-L'analyse de l'arborescence `Actes/Preuves officielles/` a révélé un afflux de nouvelles pièces probantes et procédurales nécessitant leur intégration dans le graphe de dépendance :
+L'analyse de l'arborescence [Actes/Preuves officielles](../Actes/Preuves officielles/README.md) a révélé un afflux de nouvelles pièces probantes et procédurales nécessitant leur intégration dans le graphe de dépendance :
 
 - **INPI / INSEE (01/06/2026 - J+3) :** Documents d'identification légale de la SAS et de ses dirigeants.
 
@@ -82,7 +82,7 @@ De nouveaux nœuds ont été créés pour les envois LRAR du 18 et 19 juillet (`
 
 ## 3. Impact sur la stratégie contentieuse
 
-La mise à jour de `Memory/DEPENDANCES.md` clarifie la chaîne de causalité du dossier :
+La mise à jour de [Memory/DEPENDANCES.md](../Memory/DEPENDANCES.md) clarifie la chaîne de causalité du dossier :
 
 1. **Épuisement des recours amiables acté :** La succession `MD (J+31) -> RELANCE (J+40) -> MD V3 (J+51)` démontre la mauvaise foi des exploitants, justifiant pleinement l'engagement du contentieux.
 
@@ -142,7 +142,7 @@ L'audit recherche spécifiquement les inversions d'identité (attribuer la sorti
 
   - *Extrait :* `Ce courriel comporte en pièces jointes **trois photographies** de l'état des lieux de sortie signé par le représentant de [SAS HB BARBER] à la date du 10/03/2026.`
 
-- [ ] **FICHIER** : [CRITIQUE] `Rapports/RAPPORT_PLAINTE_COMPLEMENTAIRE_ERRATUM_2026-07-18.md`:l. 83 — CRITIQUE : Mention de l'état des lieux de sortie du 10 mars 2026 attribuée à tort au nouvel exploitant (HB BARBER) au lieu de l'ancien (LMG). — **Correction recommandée** : Remplacer `[Le Nouvel Exploitant (HB BARBER)]` par `[L'Exploitant du Commerce (La SAS)]`.
+- [ ] **FICHIER** : [CRITIQUE] [Rapports/RAPPORT_PLAINTE_COMPLEMENTAIRE_ERRATUM_2026-07-18.md](RAPPORT_PLAINTE_COMPLEMENTAIRE_ERRATUM_2026-07-18.md):l. 83 — CRITIQUE : Mention de l'état des lieux de sortie du 10 mars 2026 attribuée à tort au nouvel exploitant (HB BARBER) au lieu de l'ancien (LMG). — **Correction recommandée** : Remplacer `[Le Nouvel Exploitant (HB BARBER)]` par `[L'Exploitant du Commerce (La SAS)]`.
 
   - *Extrait :* `La procédure ne doit plus viser la SAS [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) (qui avait cessé son activité depuis le 10 mars 2026 selon le bailleur), mais la SAS **[Le Nouvel Exploitant (HB BARBER)]** (HB BARBER, SIREN **[SIREN du Nouvel Exploitant]**), créée le 22 avril 2026, seule responsable de la garde de l'équipement au jour du sinistre.`
 

@@ -40,13 +40,13 @@ Mairie de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
 **Copie (Cc)** : `**[secretariat@mairie-foix.fr](../../../../Memory/Tokens/token-mairie-secretariat-email.md)**`
 **Expéditeur** : `**[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**`
 
----
+<hr><hr>
 
 <!-- Objet -->
 **Objet** : Suite à nos échanges – Éléments d'actualisation sur le dossier ERP (**[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**)
 <!-- /Objet -->
 
----
+<hr><hr>
 
 <hr><hr>
 
@@ -81,8 +81,6 @@ Le dossier complet de ma procédure reste à la disposition de vos services. Bie
 Je vous remercie par avance de l'attention que vous voudrez bien porter à ces éléments.
 
 <!-- PJ -->
-<hr><hr>
-
 ## PIECES JOINTES
 
 - **[Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de Foix
@@ -91,4 +89,3 @@ Je vous remercie par avance de l'attention que vous voudrez bien porter à ces �
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]
 <!-- /PJ -->
-

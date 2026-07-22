@@ -1,6 +1,6 @@
 ---
 title: "Dossier de Présentation destiné au Conseil Juridique"
-description: "Rédigé le 30 juin 2026"
+description: "Rédigé le **[J+32 Assignation référé]"
 type: readme
 date: 2026-06-30
 tags:
@@ -20,7 +20,7 @@ drive_id: 1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 **Table des matières**
 
@@ -37,21 +37,24 @@ drive_id: 1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU
 # DOSSIER DE PRÉSENTATION : DESTINÉ AU CONSEIL JURIDIQUE
 > 🔗 Source Google Drive : [1DdpbOypghzt…](https://drive.google.com/open?id=1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU)
 Rédigé le [30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md)
+<hr><hr>
 ## INTRODUCTION
 
-Le présent dossier de présentation est destiné au conseil juridique de [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) dans le cadre du contentieux l'opposant à [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) à la suite de l'accident corporel grave survenu le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md).
+Le présent dossier de présentation est destiné au conseil juridique de [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) dans le cadre du contentieux l'opposant à [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) à la suite de l'accident corporel grave survenu le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md).
 
 Ce document rassemble l'ensemble des éléments factuels, administratifs et juridiques nécessaires à la compréhension du litige et à la mise en œuvre de la stratégie de recouvrement.
 
 Il contient une synthèse des faits, l'inventaire des pièces constitutives du dossier, ainsi qu'une analyse des voies de droit envisageables pour assurer la réparation intégrale des préjudices subis par la victime.
 <hr><hr>
 
+<hr><hr>
 ## SYNTHÈSE DES FAITS, PIÈCES ADMINISTRATIVES ET STRATÉGIE DE RECOUVREMENT - AFFAIRE [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)
 <hr><hr>
 
+<hr><hr>
 ## I — STRATÉGIE DE RECOUVREMENT DES HONORAIRES PAR SUBROGATION ET PROTECTION FINANCIÈRE DE LA VICTIME
 
-L'assistance par un avocat est indispensable pour mener à bien la liquidation du préjudice corporel et sécuriser l'indemnisation face à l'assureur de [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md).
+L'assistance par un avocat est indispensable pour mener à bien la liquidation du préjudice corporel et sécuriser l'indemnisation face à l'assureur de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md).
 
 Afin de lever tout obstacle financier pour [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md), travailleur indépendant ([500 474 457](../../../Memory/Tokens/token-victime-id-professionnel.md)) actuellement privé de revenus professionnels, plusieurs mécanismes juridiques de subrogation et de remboursement des honoraires sont mobilisés :
 
@@ -71,11 +74,12 @@ Afin de lever tout obstacle financier pour [Sébastien GRAZIDE](../../../Memory/
 4. La demande de provision ad hoc pour frais de procédure : Lors de l'assignation en référé-provision, l'avocat sollicitera une provision ad hoc à valoir sur les frais futurs d'expertise médicale et d'assistance juridique.
 <hr><hr>
 
+<hr><hr>
 ## II — EXPOSÉ FACTUEL DES FAITS ET DE LA PROCÉDURE CHRONOLOGIQUE
 
-Le vendredi [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md), [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) s'est présenté au salon de coiffure « [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) » à [Foix](../../../Memory/Tokens/token-accident-ville.md) ([22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md)) pour une prestation de coupe de cheveux. Après réalisation de celle-ci, il a payé et quitté le salon vers 15h00.
+Le vendredi [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md), [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) s'est présenté au salon de coiffure « [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) » à [Foix](../../../Memory/Tokens/token-accident-ville.md) ([22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md)) pour une prestation de coupe de cheveux. Après réalisation de celle-ci, il a payé et quitté le salon vers 15h00.
 
-Moins de cinq minutes après sa sortie, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) est retourné au salon afin de solliciter une retouche. Il a alors constaté que l'employé ([Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tél. [07 58 40 12 87](../../../Memory/Tokens/token-exploitation-prepose-telephone.md))) était monté physiquement sur la vasque en céramique d'un bac à shampoing.
+Moins de cinq minutes après sa sortie, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) est retourné au salon afin de solliciter une retouche. Il a alors constaté que l'employé ([Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../Memory/Tokens/token-exploitation-prepose-telephone.md))) était monté physiquement sur la vasque en céramique d'un bac à shampoing.
 
 En voulant descendre, le [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) a provoqué le basculement de l'équipement lourd. Par un réflexe d'assistance pour retenir la chute et protéger le [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md), [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a tendu sa main droite dominante.
 
@@ -86,6 +90,7 @@ Ce choc a provoqué une section profonde de 8,5 cm au niveau de sa paume droite 
 Les examens cliniques constatent une section partielle du tendon fléchisseur, une section complète du paquet collatéral et une neurolyse du nerf palmaire, entraînant un arrêt de travail total de 55 jours (jusqu'au [23 juillet 2026](../../../Memory/Tokens/token-j-55-fin-d-itt.md) inclus) et des paresthésies sévères de l'index droit.
 <hr><hr>
 
+<hr><hr>
 ## III — ACTIONS ENGAGÉES ET BORDEREAU DES PIÈCES
 
 [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) agit actuellement en son nom propre et a formalisé les démarches suivantes :
@@ -99,7 +104,7 @@ Les examens cliniques constatent une section partielle du tendon fléchisseur, u
 
 - Pièce 03 - Étude de l'Indemnisation Maximale : Évaluation chiffrée prospective.
 
-- Pièce 04 (Courrier 1) - Mise en demeure SAS ([SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)) : Demandant à l'exploitant de déclarer le sinistre.
+- Pièce 04 (Courrier 1) - Mise en demeure SAS ([SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md)) : Demandant à l'exploitant de déclarer le sinistre.
 
 - Pièce 05 (Courrier 2) - Action Directe et Mise en demeure Assureur RC.
 
@@ -107,7 +112,7 @@ Les examens cliniques constatent une section partielle du tendon fléchisseur, u
 
 - Pièce 08 (Courrier 3) - Demande d'assurance au Propriétaire des murs ([Romain DELRIEU](../../../Memory/Tokens/token-exploitation-bailleur-nom.md)).
 
-- Pièce 09 (Courrier 4) - Mise en demeure de communication d'assurance (destinée à l'adresse personnelle de [Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md)).
+- Pièce 09 (Courrier 4) - Mise en demeure de communication d'assurance (destinée à l'adresse personnelle de [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md)).
 
 > *« Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »* <br>
 
@@ -115,11 +120,11 @@ Les examens cliniques constatent une section partielle du tendon fléchisseur, u
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
-[^1]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
-[^2]: [Article 475-1 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107)
-[^3]: [Article 1242 alinéas 1 et 5 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
-[^4]: [Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
+[^1]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
+[^2]: [Article 475-1 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) ↩
+[^3]: [Article 1242 alinéas 1 et 5 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
+[^4]: [Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
 <!-- /Source -->
-

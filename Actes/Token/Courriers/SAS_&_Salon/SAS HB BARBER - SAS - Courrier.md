@@ -50,9 +50,9 @@ Direction de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/tok
 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Déclaration d'accident corporel — Demande d'information assurance RC — L.R.A.R.
----
+<hr><hr>
 
 La présente lettre de mise en demeure est adressée par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** à **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** afin de déclarer officiellement l'accident corporel survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
 
@@ -127,7 +127,6 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 > Cette situation de handicap physique temporaire explique le délai de transmission de mes demandes administratives.
 <!-- PJ -->
 <hr><hr>
-
 ## PIECES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
@@ -144,6 +143,7 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
@@ -151,4 +151,3 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 [^3]: [Article L. 113-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) ↩
 [^4]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
 <!-- /Source -->
-

@@ -17,21 +17,21 @@ type: memory
 > ### 📊 Phase 42 — Exploitation des 15 Rapports Jules MCP (22 juillet 2026) ✅ TERMINÉ
 > | Mission | Audit Jules | Deliverable / Rapport | Progression To-Do |
 > |---|---|---|---|
-> | 01 | HB Barber vs Les Mauvais Garçons | `Rapports/REPORT_JULES_01_Societes_Exploitant.md` | 🔶 100% (✅ Analyse INPI/RCS & dirigeants validée) |
-> | 02 | Responsabilité Dirigeants | `Rapports/REPORT_JULES_02_Responsabilite_Dirigeants.md` | 🔶 100% (✅ Audit jurisprudentiel Cass./CEDH & purges Légifrance) |
-> | 03 | Entrave & Destruction de Preuves | `Rapports/REPORT_JULES_03_Entrave_et_Preuves.md` | 🔶 100% (✅ Audit CEDH, Art. 434-4 CP & 1382 CC) |
-> | 04 | Défaillances Bailleur DELRIEU | `Rapports/REPORT_JULES_04_Bailleur_Responsabilite.md` | 🔶 100% (✅ Audit Art. 1719/1720 C. civ. & 1244 C. civ.) |
-> | 05 | Qualification Accident TI | `Rapports/REPORT_JULES_05_Qualification_Accident.md` | 🔶 100% (✅ Caducité AT & Art. 1240/1242 C. civ.) |
-> | 06 | Audit PIECES MAP | `Rapports/REPORT_JULES_06_Pieces_Map_Audit.md` | 🔶 100% (✅ Indexation des pièces 44 à 52 validée) |
-> | 07 | Audit STRICT VARIABLES | `Rapports/REPORT_JULES_07_Strict_Variables_Audit.md` | ✅ 100% (4/4 — 1 FP, 3 corrigés) |
-> | 08 | Témoignage Frédéric MATHIEU | `Rapports/REPORT_JULES_08_Temoignage_Mathieu.md` | 🔶 100% (✅ Valeur probante Cerfa & corroboration CEDH) |
-> | 09 | Régulation Médicale SAMU 09 | `Rapports/REPORT_JULES_09_SAMU09_Tracabilite.md` | 🔶 100% (✅ Appel 15h25, photo App SAMU & traçabilité) |
-> | 10 | Citations Actes Procéduraux | `Rapports/REPORT_JULES_10_Actes_Proceduraux_Citations.md` | 🔶 100% (✅ Contrôle qualité citations pièces & LEGIARTI) |
-> | 11 | Suivi Kiné & Bilan Écrit | `Rapports/REPORT_JULES_11_Parcours_Kine_Audit.md` | 🔶 100% (✅ Chrono 10 séances & répercussions Dintilhac) |
-> | 12 | Recours CPAM & Action Directe | `Rapports/REPORT_JULES_12_CPAM_Action_Directe.md` | 🔶 100% (✅ Audit Art. L.376-1 CSS & L.124-3 C.ass.) |
-> | 13 | Audit DEPENDANCES.md | `Rapports/REPORT_JULES_13_Dependances_Audit.md` | ✅ 100% (7/7 — entity reversal traité) |
-> | 14 | Conformité JURITEXT | `Rapports/REPORT_JULES_14_Juritext_Conformite.md` | 🔶 100% (✅ Audit souverain LEGIARTI/JURITEXT & 0 link tier) |
-> | 15 | Synthèse Globale Preuves | `Rapports/REPORT_JULES_15_Synthese_Globale_Preuves.md` | 🔶 100% (✅ Rapport de clôture stratégique final) |
+> | 01 | HB Barber vs Les Mauvais Garçons | [Rapports/REPORT_JULES_01_Societes_Exploitant.md](../Rapports/REPORT_JULES_01_Societes_Exploitant.md) | 🔶 100% (✅ Analyse INPI/RCS & dirigeants validée) |
+> | 02 | Responsabilité Dirigeants | [Rapports/REPORT_JULES_02_Responsabilite_Dirigeants.md](../Rapports/REPORT_JULES_02_Responsabilite_Dirigeants.md) | 🔶 100% (✅ Audit jurisprudentiel Cass./CEDH & purges Légifrance) |
+> | 03 | Entrave & Destruction de Preuves | [Rapports/REPORT_JULES_03_Entrave_et_Preuves.md](../Rapports/REPORT_JULES_03_Entrave_et_Preuves.md) | 🔶 100% (✅ Audit CEDH, Art. 434-4 CP & 1382 CC) |
+> | 04 | Défaillances Bailleur DELRIEU | [Rapports/REPORT_JULES_04_Bailleur_Responsabilite.md](../Rapports/REPORT_JULES_04_Bailleur_Responsabilite.md) | 🔶 100% (✅ Audit Art. 1719/1720 C. civ. & 1244 C. civ.) |
+> | 05 | Qualification Accident TI | [Rapports/REPORT_JULES_05_Qualification_Accident.md](../Rapports/REPORT_JULES_05_Qualification_Accident.md) | 🔶 100% (✅ Caducité AT & Art. 1240/1242 C. civ.) |
+> | 06 | Audit PIECES MAP | [Rapports/REPORT_JULES_06_Pieces_Map_Audit.md](../Rapports/REPORT_JULES_06_Pieces_Map_Audit.md) | 🔶 100% (✅ Indexation des pièces 44 à 52 validée) |
+> | 07 | Audit STRICT VARIABLES | [Rapports/REPORT_JULES_07_Strict_Variables_Audit.md](../Rapports/REPORT_JULES_07_Strict_Variables_Audit.md) | ✅ 100% (4/4 — 1 FP, 3 corrigés) |
+> | 08 | Témoignage Frédéric MATHIEU | [Rapports/REPORT_JULES_08_Temoignage_Mathieu.md](../Rapports/REPORT_JULES_08_Temoignage_Mathieu.md) | 🔶 100% (✅ Valeur probante Cerfa & corroboration CEDH) |
+> | 09 | Régulation Médicale SAMU 09 | [Rapports/REPORT_JULES_09_SAMU09_Tracabilite.md](../Rapports/REPORT_JULES_09_SAMU09_Tracabilite.md) | 🔶 100% (✅ Appel 15h25, photo App SAMU & traçabilité) |
+> | 10 | Citations Actes Procéduraux | [Rapports/REPORT_JULES_10_Actes_Proceduraux_Citations.md](../Rapports/REPORT_JULES_10_Actes_Proceduraux_Citations.md) | 🔶 100% (✅ Contrôle qualité citations pièces & LEGIARTI) |
+> | 11 | Suivi Kiné & Bilan Écrit | [Rapports/REPORT_JULES_11_Parcours_Kine_Audit.md](../Rapports/REPORT_JULES_11_Parcours_Kine_Audit.md) | 🔶 100% (✅ Chrono 10 séances & répercussions Dintilhac) |
+> | 12 | Recours CPAM & Action Directe | [Rapports/REPORT_JULES_12_CPAM_Action_Directe.md](../Rapports/REPORT_JULES_12_CPAM_Action_Directe.md) | 🔶 100% (✅ Audit Art. L.376-1 CSS & L.124-3 C.ass.) |
+> | 13 | Audit DEPENDANCES.md | [Rapports/REPORT_JULES_13_Dependances_Audit.md](../Rapports/REPORT_JULES_13_Dependances_Audit.md) | ✅ 100% (7/7 — entity reversal traité) |
+> | 14 | Conformité JURITEXT | [Rapports/REPORT_JULES_14_Juritext_Conformite.md](../Rapports/REPORT_JULES_14_Juritext_Conformite.md) | 🔶 100% (✅ Audit souverain LEGIARTI/JURITEXT & 0 link tier) |
+> | 15 | Synthèse Globale Preuves | [Rapports/REPORT_JULES_15_Synthese_Globale_Preuves.md](../Rapports/REPORT_JULES_15_Synthese_Globale_Preuves.md) | 🔶 100% (✅ Rapport de clôture stratégique final) |
 
 
 ---
@@ -79,7 +79,7 @@ Rien de ce qui suit n'a été fait le 15 juillet — **les documents ont été p
 
 - **Mail de relance au bailleur DELRIEU** envoyé (HB BARBER nommé, art. 145 CPC évoqué)
 
-- **📄 Stratégie bailleur/HB BARBER/certificat CE documentée** → `Memory/Mémo Stratégie Bailleur HB BARBER.md`
+- **📄 Stratégie bailleur/HB BARBER/certificat CE documentée** → [Memory/Mémo Stratégie Bailleur HB BARBER.md](Mémo Stratégie Bailleur HB BARBER.md)
 
 - **Documents Reel prêts à imprimer** pour dépôt lundi 20/07
 

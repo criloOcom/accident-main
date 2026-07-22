@@ -29,7 +29,7 @@ Le gestionnaire de documentation :
 
 1. **Organise l'arborescence** du projet  
 
-   - création de dossiers thématiques cohérents (`Actes`, `📂 Preuves`, `Memory`, etc.) ;
+   - création de dossiers thématiques cohérents ([Actes](../Actes/README.md), `📂 Preuves`, [Memory](README.md), etc.) ;
    - maintien de README.md structurés pour faciliter la navigation.
 
 2. **Gère les versions**  

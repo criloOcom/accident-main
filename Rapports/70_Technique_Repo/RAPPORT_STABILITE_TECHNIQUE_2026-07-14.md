@@ -39,7 +39,7 @@ L'analyse du script d'anonymisation révèle des limitations techniques majeures
 
 Ce script est responsable de la transformation des fichiers tokenisés vers la strate `Reel`.
 
-- **Déconnexion de la Source de Vérité** : Le script utilise un dictionnaire de remplacement `REVERSE_MAP` codé en dur contenant 92 entrées, au lieu de parser dynamiquement `Memory/TOKEN MAP.md`. Toute mise à jour de la table des tokens oblige à modifier manuellement ce script, violant le principe de la Source Unique de Vérité (SSOT).
+- **Déconnexion de la Source de Vérité** : Le script utilise un dictionnaire de remplacement `REVERSE_MAP` codé en dur contenant 92 entrées, au lieu de parser dynamiquement [Memory/TOKEN MAP.md](../../Memory/TOKEN MAP.md). Toute mise à jour de la table des tokens oblige à modifier manuellement ce script, violant le principe de la Source Unique de Vérité (SSOT).
 
 - **Risque de perte d'informations** : Étant donné que `batch_anonymize.py` possède 103 remplacements et `REVERSE_MAP` seulement 92, il existe une désynchronisation évidente. Certains tokens récemment ajoutés risquent de ne pas être reconvertis.
 
@@ -102,9 +102,9 @@ L'ensemble des scripts de la base de code souffre d'un manque de robustesse face
 
 L'aspect le plus critique du dépôt concerne la gestion des données réelles (PII - Personally Identifiable Information).
 
-- **Fichiers contenant des identités réelles** : Le fichier `Memory/TOKEN MAP.md` et le script `.dev/app/generate_real_versions.py` (via son dictionnaire en dur) contiennent en clair les identités de toutes les parties.
+- **Fichiers contenant des identités réelles** : Le fichier [Memory/TOKEN MAP.md](../../Memory/TOKEN MAP.md) et le script `.dev/app/generate_real_versions.py` (via son dictionnaire en dur) contiennent en clair les identités de toutes les parties.
 
-- **Répertoire Reel** : Le répertoire `Actes/Reel/` contient les documents en clair, prêts à être imprimés ou envoyés.
+- **Répertoire Reel** : Le répertoire [Actes/Reel](../../Actes/Reel/README.md) contient les documents en clair, prêts à être imprimés ou envoyés.
 
 - **Configuration Git** : Le fichier `.gitignore` **ne filtre aucun de ces éléments**. Seuls les fichiers cache, `.env` et les PDFs (sauf lois) sont exclus.
 
@@ -113,9 +113,9 @@ En conséquence, **toutes les données réelles sont actuellement suivies par Gi
 **Recommandations Urgentes** :
 - Ajouter immédiatement au `.gitignore` les répertoires et fichiers suivants :
 
-  - `Actes/Reel/`
-  - `Memory/TOKEN MAP.md`
-  - `Memory/STRICT VARIABLES.md` (si des données sensibles s'y trouvent)
+  - [Actes/Reel](../../Actes/Reel/README.md)
+  - [Memory/TOKEN MAP.md](../../Memory/TOKEN MAP.md)
+  - [Memory/STRICT VARIABLES.md](../../Memory/STRICT VARIABLES.md) (si des données sensibles s'y trouvent)
 - Nettoyer l'historique Git (via `git filter-repo` ou `BFG Repo-Cleaner`) pour purger les commits contenant des informations réelles.
 
 - Extraire la table des correspondances vers un fichier chiffré ou local non versionné.

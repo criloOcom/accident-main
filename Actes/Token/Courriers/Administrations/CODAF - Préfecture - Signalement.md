@@ -52,14 +52,14 @@ Préfecture de l'Ariège — Référent CODAF
 # CONFIRMATION OFFICIELLE DE SIGNALEMENT <br> A LA PREFECTURE DE L'ARIEGE
 > 🔗 Source Google Drive : [1sIkiScOSFZy…](https://drive.google.com/open?id=1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM)
 
----
+<hr><hr>
 Objet : Confirmation officielle de signalement — Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au salon [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
----
+<hr><hr>
 
 Ref : Signalement effectué par la Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** le 1er juin 2026
 
 Madame, Monsieur le Préfet,
-
+<hr><hr>
 ## I — INTRODUCTION
 
 Cet accident a été causé par le **basculement** de la vasque en céramique du bac à shampoing sous le poids du préposé de l'exploitation, lequel était monté physiquement sur l'équipement pour régler le poste de télévision, en l'absence totale de tout équipement d'accès en hauteur (escabeau, marchepied) mis à disposition par l'employeur. Sous le poids du préposé, la vasque a basculé violemment ; la victime a instinctivement tendu la main droite pour protéger le préposé, et sa paume a heurté une **cassure majeure préexistante non signalée** sur le flanc de la vasque. **La vasque ne s'est pas effondrée** — il n'y a pas de débris de céramique.
@@ -67,6 +67,7 @@ Cet accident a été causé par le **basculement** de la vasque en céramique du
 Cette blessure a entraîné une plaie palmaire profonde de la main droite avec section partielle du tendon fléchisseur superficiel (FDP) et du paquet vasculo-nerveux collatéral radial de l'index, ayant nécessité une neurolyse du nerf palmaire et une microchirurgie d'urgence en SOS Main le 30 mai 2026. Les séquelles fonctionnelles sont importantes et durablement invalidantes ([arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours, consolidation au 1er mars 2027, DFP de 12 %, souffrances endurées 4/7, incidence professionnelle majeure — cf. rapport d'expertise médicale du 29 mai 2027).
 <hr><hr>
 
+<hr><hr>
 ## II — RAPPEL DES FAITS
 
 Le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**, le préposé de l'exploitation est monté sur la vasque en céramique du bac à shampoing pour accéder au poste de télévision, en l'absence de tout équipement d'accès adapté (escabeau, marchepied) mis à disposition par l'employeur. Sous son poids, la vasque — déjà instable et fragilisée par une **cassure majeure préexistante non signalée** — a basculé violemment. Ma main droite, tendue par réflexe pour protéger le préposé, a heurté cette cassure, entraînant des lésions graves ayant nécessité une microchirurgie d'urgence en SOS Main.
@@ -76,6 +77,7 @@ Le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**, le prép
 **Cet accident révèle de multiples manquements aux règles de sécurité applicables aux établissements recevant du public (ERP) et au Code du travail.**
 <hr><hr>
 
+<hr><hr>
 ## III — PROCÉDURES EN COURS
 
 Plusieurs procédures ont été engagées à ce jour :
@@ -105,6 +107,7 @@ Plusieurs procédures ont été engagées à ce jour :
 10. **Procédure de référé provision** (J+63) : assignation à jour fixe (art. 145 CPC), provision de 15 000 € sollicitée
 <hr><hr>
 
+<hr><hr>
 ## IV — SIGNALEMENTS TRANSMIS
 
 Il m'a été indiqué par la Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** le 1er juin 2026 qu'un signalement avait été effectué auprès de vos services et du CODAF. Je sollicite par la présente confirmation que ce signalement a bien été reçu et instruit par vos services, et souhaite être tenu informé des suites qui lui sont réservées.
@@ -128,6 +131,7 @@ Je porte par ailleurs à votre connaissance les manquements suivants, constatés
 - Travail dissimulé présumé
 <hr><hr>
 
+<hr><hr>
 ## V — DEMANDE DE CONFIRMATION ET DE SUITE
 
 Je sollicite de vos services :
@@ -149,6 +153,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
 <!-- PJ -->
 <hr><hr>
 
+<hr><hr>
 ## PIÈCES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Dépôt de plainte du 2 juin 2026
@@ -169,9 +174,9 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
 [^2]: [Article R4323-58 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) ↩
 <!-- /Source -->
-

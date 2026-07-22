@@ -44,6 +44,8 @@ Ayant droit à l'aide juridictionnelle
 <hr><hr>
 
 <!-- Destinataire -->
+<hr><hr>
+
 ## II — CONTRE :
 
 **SAS **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)****

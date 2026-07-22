@@ -9,7 +9,7 @@ type: organisation
 <!-- /Breadcrumb -->
 
 # Kit Complet — Déplacement Foix 27/07/2026
-
+<hr><hr>
 ## A. CHECKLIST IMPRESSION
 
 | Document | Pages | Impression | Recto-verso | Coche |
@@ -19,7 +19,9 @@ type: organisation
 | [TJ Foix - Bordereau Unifié](../Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md) | 2 | N&B | Non | [ ] |
 | [Parquet Foix - Plainte Complémentaire - Correction](../Actes_proceduraux/Contentieux_penal/Parquet%20Foix%20-%20Plainte%20Compl%C3%A9mentaire%20-%20Correction.md) | 3 | N&B | Non | [ ] |
 | Fiche INPI/INSEE HB BARBER | 2 | Couleur | Non | [ ] |
+<hr><hr>
 
+<hr><hr>
 ## B. BORDEREAU DE TRANSPORT
 
 1. Dossier Demande AJ Totale (Formulaire + justificatifs de revenus).
@@ -31,7 +33,9 @@ type: organisation
 4. Fiche INPI/INSEE HB BARBER.
 
 5. Pièce d'identité et justificatif de domicile.
+<hr><hr>
 
+<hr><hr>
 ## C. FEUILLE DE ROUTE HORAIRE
 
 - **09h00** : TJ Foix — Greffe Civil (14 Bd François Mitterrand). Dépôt Requête 145 CPC. Temps estimé : 30 min.
@@ -39,7 +43,9 @@ type: organisation
 - **09h45** : TJ Foix — BAJ (Même bâtiment). Dépôt demande AJ totale. Temps estimé : 30 min.
 
 - **14h30** : Commissariat Foix (2 Rue du Capitaine Ferber). Plainte complémentaire et remise fiche INPI. Temps estimé : 1h.
+<hr><hr>
 
+<hr><hr>
 ## D. INSTRUCTIONS PAR ÉTAPE
 
 ### TJ Foix - BAJ
@@ -59,7 +65,9 @@ type: organisation
 - **Discours** : "Je viens déposer une requête sur le fondement de l'article 145 CPC sans avocat."
 
 - **Actions** : Remettre les 2 exemplaires et demander un récépissé.
+<hr><hr>
 
+<hr><hr>
 ## E. MINI FAQ ORALE
 
 ### BAJ
@@ -87,7 +95,9 @@ type: organisation
 - **Q** : Où est votre avocat ?
 
 - **R** : J'ai déposé une demande d'AJ totale pour qu'un avocat me soit désigné. En attendant, je dépose cette requête moi-même.
+<hr><hr>
 
+<hr><hr>
 ## F. NUMÉROS UTILES
 
 - **TJ Foix** : 05 61 02 30 30

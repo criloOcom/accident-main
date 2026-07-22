@@ -32,6 +32,7 @@ jx: J+50
 **Date de recueil :** 18 juillet 2026
 **Témoin :** **Frédéric Mathieu** (commerçant, indépendant)
 **Qualité :** Témoin direct — présent dans son magasin adjacent au salon de coiffure
+<hr><hr>
 ## I. IDENTITÉ DU TÉMOIN
 
 | Champ | Information |
@@ -47,6 +48,7 @@ jx: J+50
 | **Lien avec les parties** | Aucun (pas de parenté, alliance, subordination, collaboration, communauté d'intérêts) |
 <hr><hr>
 
+<hr><hr>
 ## II. FAITS ATTESTÉS (Transcription intégrale)
 
 > **Le 29 mai 2026, suite à un entretien concernant ma formation professionnelle avec [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md), dans mon magasin, situé 14 rue de lafaurie à Foix, celui-ci est parti se faire couper les cheveux chez le barber shop un peu plus loin que mon établissement.**
@@ -64,6 +66,7 @@ jx: J+50
 > **Il semble que l'accident se soit produit dans les locaux du coiffeur en raison d'une vasque instable que [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a rattrapé par ce qu'elle tombait, ce que semble ne pas avoir nié le coiffeur.**
 <hr><hr>
 
+<hr><hr>
 ## III. ANALYSE JURIDIQUE DE LA PREUVE
 
 ### 1. Corroboration exacte de la version de la victime
@@ -101,6 +104,7 @@ jx: J+50
 - **Phrase manuscrite obligatoire** : Garantit authenticité de la déclaration
 <hr><hr>
 
+<hr><hr>
 ## IV. PIÈCES JOINTES OBLIGATOIRES (Conformité Cerfa)
 
 - [ ] **Photocopie pièce d'identité** du témoin (recto/verso) avec signature
@@ -108,6 +112,7 @@ jx: J+50
 - [ ] **Original** de l'attestation signée (page 3 : attestation sur l'honneur + signature + date 18/07/2026)
 <hr><hr>
 
+<hr><hr>
 ## V. INTÉGRATION DOSSIER FOIX
 
 | Document | Action |
@@ -118,6 +123,7 @@ jx: J+50
 | **STRICT VARIABLES.md** | Variable `N° ATTESTATION MATHIEU : 11527*03-20260718` |
 <hr><hr>
 
+<hr><hr>
 ## VI. DESTINATAIRES PRIORITAIRES (Ordre d'envoi)
 
 1. **Avocat (dès désignation AJ)** — LRAR + email — Pièce conclusions
@@ -137,11 +143,12 @@ jx: J+50
 8. **Expert UMJ Purpan** (12/11/2026) — Remise main propre — Corroboration mécanisme
 <hr><hr>
 
+<hr><hr>
 ## VII. RÉFÉRENCES CROISÉES
 
 - **Pièce brute Drive** : `20260718 📋 Attestation Mathieu Frédéric Cerfa 11527.md` (Preuves_officielles)
 
-- **Version Reel** : `Actes/Reel/Attestations/Attestation - Témoin Mathieu Frédéric.md` (générée auto)
+- **Version Reel** : [Actes/Reel/Attestations/Attestation - Témoin Mathieu Frédéric.md](../../Reel/Attestations/Attestation - Témoin Mathieu Frédéric.md) (générée auto)
 
 - **Autres attestations** : Client, Pompier/SAMU, Employé (même dossier)
 

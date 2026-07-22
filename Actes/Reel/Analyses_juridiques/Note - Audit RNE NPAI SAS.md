@@ -1,5 +1,5 @@
 ---
-title: "Analyse — Non-réception LRAR et statut RNE de SAS HB BARBER"
+title: "Analyse — Non-réception LRAR et statut RNE de [L'Exploitant du Commerce (La SAS)]"
 description: "- Annuaire-entreprises.data.gouv.fr (INSEE)"
 type: analyse_juridique
 date: 2026-07-10
@@ -14,6 +14,7 @@ jx: J+42
 <!-- /Breadcrumb -->
 
 # Analyse<br>Non-distribution LRAR et suspicion de structure miroir
+<hr><hr>
 ## I — Sources vérifiées
 
 - Annuaire-entreprises.data.gouv.fr (INSEE)
@@ -25,20 +26,21 @@ jx: J+42
 - API Recherche Entreprises
 <hr><hr>
 
+<hr><hr>
 ## II — Constats
 
-### II.1 — Statut officiel de SAS HB BARBER
+### II.1 — Statut officiel de [L'Exploitant du Commerce (La SAS)]
 
 | Champ | Valeur |
 |-------|--------|
-| SIREN | **[104 103 262](../../../Memory/Tokens/token-exploitation-siren.md)** |
+| SIREN | **[SIREN de l'Exploitation](../../../Memory/Tokens/token-exploitation-siren.md)** |
 | Statut RNE | **Active** (inscrite, dernière MAJ 08/07/2026) |
-| Siège social | **[22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md)** (inchangé) |
-| [1 000 €](../../../Memory/Tokens/token-exploitation-capital-social.md) | 200 € |
-| Président | **[Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md)** |
-| DG | **[Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md)** |
+| Siège social | **[L'Adresse de l'Exploitation](../../../Memory/Tokens/token-exploitation-adresse.md)** (inchangé) |
+| [**[Capital Social de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-capital-social.md) | 200 € |
+| Président | **[Le Président de l'Exploitation](../../../Memory/Tokens/token-exploitation-president-nom.md)** |
+| DG | **[La Directrice Générale de l'Exploitation](../../../Memory/Tokens/token-exploitation-dg-nom.md)** |
 | Salariés | 0 (zéro) |
-| Établissements | 1 (unique au **[22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md)**) |
+| Établissements | 1 (unique au **[L'Adresse de l'Exploitation](../../../Memory/Tokens/token-exploitation-adresse.md)**) |
 | Comptes | **En défaut de publication** |
 | Dissolution/Liquidation | **Aucune procédure en cours** |
 
@@ -52,7 +54,7 @@ Les courriers recommandés adressés à la SAS reviennent NPAI alors que la soci
 La société a 0 salarié. Le salon est fermé depuis l'accident (29 mai 2026). Personne ne réceptionne le courrier.
 
 #### II.2.b — **Directeurs résidant hors Foix**
-**[Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md)** réside à Toulouse (31100). **[Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md)** réside à Foix mais peut avoir quitté les lieux.
+**[La Directrice Générale de l'Exploitation](../../../Memory/Tokens/token-exploitation-dg-nom.md)** réside à Toulouse (31100). **[Le Président de l'Exploitation](../../../Memory/Tokens/token-exploitation-president-nom.md)** réside à Foix mais peut avoir quitté les lieux.
 
 #### II.2.c — **Évitement délibéré**
 Les dirigeants peuvent avoir demandé le renvoi du courrier ou laissent le courrier s'accumuler sans le réclamer.
@@ -64,7 +66,7 @@ Dans un local commercial fermé, les LRAR ne trouvent pas preneur.
 
 ### II.3 — Investigation structure miroir
 
-**Résultat : AUCUNE nouvelle entité légale trouvée au **[22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md)**, Foix.** Les recherches n'ont identifié que SAS HB BARBER à cette adresse.
+**Résultat : AUCUNE nouvelle entité légale trouvée au **[L'Adresse de l'Exploitation](../../../Memory/Tokens/token-exploitation-adresse.md)**, Foix.** Les recherches n'ont identifié que [L'Exploitant du Commerce (La SAS)] à cette adresse.
 
 La rumeur de "réouverture avec nouveaux gérants" peut correspondre à :
 

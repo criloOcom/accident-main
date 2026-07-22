@@ -53,19 +53,19 @@ Monsieur **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitat
 
 > 🔗 Source Google Drive : [À COMPLÉTER APRÈS ENVOI]
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Relance LRAR — Correction qualification accident + Demande informations assurances SAS HB BARBER — L.R.A.R.**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 Par la présente, je me permets de revenir vers vous pour la troisième fois concernant l'accident corporel dont j'ai été victime le **vendredi 29 mai 2026 à 15h00** dans vos locaux du **22 Rue Lafaurie à Foix (09000)**.
 
@@ -78,6 +78,7 @@ Cette lettre fait suite à :
 - **Ma réponse par la présente** (prise d'acte, identification **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, trois questions précises) ;
 
 - **L'absence de réponse à ce jour** (soit **deux jours** après mon dernier courriel).
+<hr><hr>
 ## I — RAPPEL DES FAITS ET CORRECTION QUALIFICATIVE ESSENTIELLE
 
 ### 1 — Les faits matériels incontestables
@@ -117,6 +118,7 @@ Lors de ma visite des lieux le **16 juillet 2026**, j'ai constaté la disparitio
 Cette disparition constatée, si elle est établie comme intentionnelle, pourrait constituer une **faute caractérisée** (article 1240 du Code civil[^2]) de nature à faire présumer la responsabilité de l'exploitant et de son commettant. Elle sera portée à la connaissance du juge dans le cadre de toute procédure ultérieure (article 9 du Code de procédure civile[^3]).
 <hr><hr>
 
+<hr><hr>
 ## II — L'EXPLOITANT APPARENT AU 29 MAI 2026 : [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
 Les informations publiques (Registre National des Entreprises) indiquent que **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN **104 103 262**) a été créée le **22 avril 2026** et exerce une activité de coiffure/barbier au **22 Rue Lafaurie à Foix** — soit **plus d'un mois avant mon accident**.
@@ -126,6 +128,7 @@ Les informations publiques (Registre National des Entreprises) indiquent que **[
 **Au 29 mai 2026, l'exploitant apparent des lieux était donc [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, et non **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)**.
 <hr><hr>
 
+<hr><hr>
 ## III — TROIS QUESTIONS RESTÉES SANS RÉPONSE
 
 Vous n'avez pas apporté de réponse aux trois questions suivantes, qui sont pourtant **déterminantes pour orienter correctement mon action** :
@@ -140,6 +143,7 @@ Vous n'avez pas apporté de réponse aux trois questions suivantes, qui sont pou
    → *Conditionne l'exercice de l'action directe (L.124-3 du Code des assurances[^5]) et la mise en cause de votre propre assureur PNO*
 <hr><hr>
 
+<hr><hr>
 ## IV — DÉMARCHE AMIABLE : DERNIÈRE OPPORTUNITÉ DE RÉGLER SIMPLEMENT
 
 ### 1 — Ma volonté sincère de résoudre à l'amiable
@@ -163,6 +167,7 @@ Si je ne parviens pas à obtenir les coordonnées des assureurs concernés par l
 **Il est donc dans votre intérêt, comme dans le mien, que cette étape amiable aboutisse.** Communiquer le nom d'un assureur par simple courriel vous prendra quelques minutes ; subir une procédure de référé-communication avec huissier, astreintes et frais irrépétibles (article 700 du Code de procédure civile[^7]) en prendra des mois et coûtera infiniment plus cher.
 <hr><hr>
 
+<hr><hr>
 ## V — MISE EN DEMEURE
 
 En conséquence, je vous mets en demeure de bien vouloir me communiquer **dans un délai de quinze (15) jours à compter de la réception de la présente** :
@@ -176,6 +181,7 @@ En conséquence, je vous mets en demeure de bien vouloir me communiquer **dans u
 Cette démarche s'inscrit dans le respect de l'article 56 du Code de procédure civile[^8] (tentative de résolution amiable préalable) et de la jurisprudence de la Cour de cassation (2e chambre civile, 10 mars 2022, n° 20-16.331[^9] ; 3 avril 2025, n° 23-18.568[^10]), notamment en matière de réserves d'aggravation et de réparation intégrale des préjudices corporels.
 <hr><hr>
 
+<hr><hr>
 ## VI — RÉSERVES ET SIGNATURE
 
 Je me réserve le droit d'agir en justice à défaut de réponse satisfaisante dans le délai indiqué, sans préjudice de mes droits à indemnisation intégrale (préjudices corporels, patrimoniaux, extrapatrimoniaux, réserves d'aggravation).
@@ -192,6 +198,7 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article L.411-1 du Code de la sécurité sociale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
@@ -214,4 +221,3 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 
 [^10]: [Arrêt Cour de cassation, 2e chambre civile, 3 avril 2025, n° 23-18.568 — www.legifrance.gouv.fr/juri/id/JURITEXT000051464849](https://www.legifrance.gouv.fr/juri/id/JURITEXT000051464849)
 <!-- /Source -->
-

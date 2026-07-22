@@ -20,6 +20,7 @@ jx: J+38
 <!-- /Breadcrumb -->
 
 # BON D'ENVOI PHYSIQUE<br>IMPRESSION + ENVOI
+<hr><hr>
 ## I — DOCUMENTS À IMPRIMER (2 EXEMPLAIRES CHACUN)
 
 - **Courrier au Doyen des Juges d'Instruction** — *`reel/Courriers/10 ✉️ Courrier Doyen Juges Instruction.md`* — 2 (1 envoi + 1 copie)
@@ -31,15 +32,17 @@ jx: J+38
 - **Copies des 6 pièces justificatives** (voir liste ci-dessous)** — 1 jeu complet
 <hr><hr>
 
+<hr><hr>
 ## II — DESTINATAIRE UNIQUE POUR CE LOT
 
 **[LA VILLE DE L'ACCIDENT] — Tribunal Judiciaire de [LA VILLE DE L'ACCIDENT]**
 
 > **À :** Monsieur le Doyen des Juges d'Instruction
-> **Adresse :** Tribunal Judiciaire de Foix, **Adresse Tribunal Judiciaire**, 09008 Foix Cedex
+> **Adresse :** Tribunal Judiciaire de [La Ville de l'Accident], **Adresse Tribunal Judiciaire**, 09008 [La Ville de l'Accident] Cedex
 > **Mode :** Lettre Recommandée avec Accusé de Réception (LRAR)
 <hr><hr>
 
+<hr><hr>
 ## III — PIÈCES JUSTIFICATIVES À JOINDRE (6 PIÈCES)
 
 - **Pièce n°1 :** Preuve de paiement Wero 15,00 € (29 mai 2026) — Impression relevé bancaire
@@ -55,6 +58,7 @@ jx: J+38
 - **Pièce n°6 :** LRAR mises en demeure (29 mai 2026) + AR — Copies
 <hr><hr>
 
+<hr><hr>
 ## III — INSTRUCTIONS
 
 1. **Imprimer** chaque document en A4, police Arial (ou équivalent lisible)
@@ -63,11 +67,12 @@ jx: J+38
 
 3. **Faire** un jeu de photocopies complet pour vous (votre copie personnelle)
 
-4. **Envoyer** le tout en LRAR au Doyen des Juges d'Instruction de Foix
+4. **Envoyer** le tout en LRAR au Doyen des Juges d'Instruction de [La Ville de l'Accident]
 
 5. **Conserver** l'Accusé de Réception (AR) dans la chemise « Preuves d'envoi »
 <hr><hr>
 
+<hr><hr>
 ## IV — RAPPELS
 
 - **Délai de réponse** du juge d'instruction : 1 à 3 mois

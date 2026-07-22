@@ -50,7 +50,7 @@ jx: J+31
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le [**[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**]
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Demande d'information et communication d'assurance — Accident [**[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**] — L.R.A.R.
 La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions.
 
@@ -95,8 +95,6 @@ Ces informations me permettront de déclarer le sinistre et d'envisager une rés
 > **Code de procédure civile > Partie législative > Livre II[^4]**
 
 Dans cette hypothèse, je serai également contraint de solliciter la communication de l'intégralité du contrat d'assurance, et, le cas échéant, de rechercher la responsabilité personnelle des dirigeants pour défaut d'information sur le fondement de la faute détachable[^1].
-<hr><hr>
-
 ## II — Transparence sur la suite donnée au dossier
 
 La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet :
@@ -147,4 +145,3 @@ Comptant sur votre diligence, je vous prie d'agréer, Madame la Directrice Gén�
 [^4]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 [^5]: [Article L. 113-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)
 <!-- /Source -->
-

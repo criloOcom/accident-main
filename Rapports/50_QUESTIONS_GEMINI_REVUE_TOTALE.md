@@ -32,18 +32,18 @@ type: rapport
    - `Actes/Token/Courriers/⚖️ Contentieux/Police - Plainte Complémentaire.md`
    Vérifie que « Ayoub » a bien été remplacé par `[**[Le Prénom du Préposé]**](../Memory/Tokens/token-prepose-prenom.md)` dans ces 2 fichiers. Si encore présent, signale comme NON RÉSOLU.
 
-**Q2.** Le nouveau fichier token `Memory/Tokens/token-prepose-prenom.md` a-t-il été créé ? Son contenu est-il correct (valeur réelle : Ayoub, lien vers token-exploitation-prepose-nom.md) ?
+**Q2.** Le nouveau fichier token [Memory/Tokens/token-prepose-prenom.md](../Memory/Tokens/token-prepose-prenom.md) a-t-il été créé ? Son contenu est-il correct (valeur réelle : Ayoub, lien vers token-exploitation-prepose-nom.md) ?
 
 **Q3.** Le fichier `TOKEN MAP.md` contient-il la nouvelle entrée pour `[**[Le Prénom du Préposé]**](../Memory/Tokens/token-prepose-prenom.md)` → Ayoub (prénom seul) dans la section Personnes physiques ?
 
-**Q4.** Le fichier `Memory/Tokens/README.md` liste-t-il `[**[Le Prénom du Préposé]**](../Memory/Tokens/token-prepose-prenom.md)` dans la table des Personnes physiques ?
+**Q4.** Le fichier [Memory/Tokens/README.md](../Memory/Tokens/README.md) liste-t-il `[**[Le Prénom du Préposé]**](../Memory/Tokens/token-prepose-prenom.md)` dans la table des Personnes physiques ?
 
 **Q5.** Le script `.dev/app/batch_anonymize.py` contient-il les 2 nouvelles entrées :
    - `"« Ayoub »"` → `"[**[Le Prénom du Préposé]**](../Memory/Tokens/token-prepose-prenom.md)"`
    - `"Ayoub"` → `"[Le Préposé de l'Exploitation]"`
    (Vérifie les lignes autour de l'entrée existante "Ayoub BENNOURINE")
 
-**Q6.** Y a-t-il d'AUSTRES fuites RGPD dans les fichiers Token (prénoms, noms, téléphones, emails, adresses en clair) ? Cherche systématiquement dans TOUS les fichiers de `Actes/Token/`.
+**Q6.** Y a-t-il d'AUSTRES fuites RGPD dans les fichiers Token (prénoms, noms, téléphones, emails, adresses en clair) ? Cherche systématiquement dans TOUS les fichiers de [Actes/Token](../Actes/Token/README.md).
 
 **Q7.** Le script `.dev/app/consolidate_sheet.py` a-t-il déjà l'entrée `"Ayoub"` dans son dictionnaire ? Vérifie ligne 101.
 
@@ -53,17 +53,17 @@ type: rapport
 
 ## 2 — Vérification du token transaction Wero manquant (Q9–Q11)
 
-**Q9.** Le fichier `Memory/Tokens/token-finance-transaction-wero.md` a-t-il été créé ? Vérifie qu'il existe et que son contenu est correct : valeur réelle IPR000297029234, lien vers token-finance-prestation-salon.md.
+**Q9.** Le fichier [Memory/Tokens/token-finance-transaction-wero.md](../Memory/Tokens/token-finance-transaction-wero.md) a-t-il été créé ? Vérifie qu'il existe et que son contenu est correct : valeur réelle IPR000297029234, lien vers token-finance-prestation-salon.md.
 
 **Q10.** Les fichiers qui référençaient `token-finance-transaction-wero.md` (token-exploitation-prepose-nom.md, token-exploitation-prepose-telephone.md) pointent-ils désormais vers un fichier existant (plus de 404) ?
 
-**Q11.** Le token `[**[N° Transaction Wero]**](../Memory/Tokens/token-finance-transaction-wero.md)` est-il listé dans `TOKEN MAP.md` (section Tokens d'évaluation financière) et dans `Memory/Tokens/README.md` ?
+**Q11.** Le token `[**[N° Transaction Wero]**](../Memory/Tokens/token-finance-transaction-wero.md)` est-il listé dans `TOKEN MAP.md` (section Tokens d'évaluation financière) et dans [Memory/Tokens/README.md](../Memory/Tokens/README.md) ?
 
 ---
 
 ## 3 — Vérification des liens 404 (Q12–Q17)
 
-**Q12.** Exécute `.dev/app/audit_internal_links.py`. Combien de liens 404 restent-ils dans `Memory/STATUS.md` ? (Objectif : 0 ou 1 maximum)
+**Q12.** Exécute `.dev/app/audit_internal_links.py`. Combien de liens 404 restent-ils dans [Memory/STATUS.md](../Memory/STATUS.md) ? (Objectif : 0 ou 1 maximum)
 
 **Q13.** Les 7 liens brisés dans STATUS.md vers `Archives/audit/` ont-ils été remplacés par « — » (tiret) ? Vérifie les lignes #73, #74, #77, #78, #79.
 
@@ -76,7 +76,7 @@ type: rapport
 
 **Q16.** Le lien vers `RAPPORT_AUDIT_RISQUES.md` dans `TODO.md` a-t-il été corrigé ?
 
-**Q17.** Les liens brisés dans `Rapports/70_Technique_Repo/RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md` vers d'anciens fichiers `01 ⚖️ Assignation.md` pointent-ils désormais vers les fichiers corrects `TJ Foix - TJ Foix - Référé Provision - Assignation.md` dans Contentieux_civil/ ?
+**Q17.** Les liens brisés dans [Rapports/70_Technique_Repo/RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md](70_Technique_Repo/RAPPORT_ETAPE_POST_EMAIL_MAIRE_20260710.md) vers d'anciens fichiers `01 ⚖️ Assignation.md` pointent-ils désormais vers les fichiers corrects `TJ Foix - TJ Foix - Référé Provision - Assignation.md` dans Contentieux_civil/ ?
 
 ---
 
@@ -101,11 +101,11 @@ type: rapport
 
 **Q23.** Exécute `.dev/app/batch_anonymize.py` sur un fichier Reel. Tokenise-t-il correctement « Ayoub » seul (guillemets compris) ? Teste sur un extrait contenant la phrase avec le prénom.
 
-**Q24.** Le fichier `Memory/TOKEN MAP.md` est-il parfaitement synchronisé avec `.dev/app/batch_anonymize.py` ? Tout token dans la MAP est-il dans le script, et inversement ?
+**Q24.** Le fichier [Memory/TOKEN MAP.md](../Memory/TOKEN MAP.md) est-il parfaitement synchronisé avec `.dev/app/batch_anonymize.py` ? Tout token dans la MAP est-il dans le script, et inversement ?
 
-**Q25.** Le fichier `Memory/Tokens/README.md` indique « 88 fiches individuelles (66 identité + 17 financiers + 5 HB BARBER) ». Compte le nombre réel de fichiers .md dans le dossier. Correspond-il ? Si non, mets à jour le chiffre.
+**Q25.** Le fichier [Memory/Tokens/README.md](../Memory/Tokens/README.md) indique « 88 fiches individuelles (66 identité + 17 financiers + 5 HB BARBER) ». Compte le nombre réel de fichiers .md dans le dossier. Correspond-il ? Si non, mets à jour le chiffre.
 
-**Q26.** Tous les fichiers du dossier `Rapports/` ont-ils un `README.md` dans leur sous-dossier respectif ? Y a-t-il des rapports orphelins à la racine qui devraient être dans un sous-dossier ?
+**Q26.** Tous les fichiers du dossier [Rapports](README.md) ont-ils un `README.md` dans leur sous-dossier respectif ? Y a-t-il des rapports orphelins à la racine qui devraient être dans un sous-dossier ?
 
 **Q27.** Le dossier `.dev/app/` contient-il des fichiers Python obsolètes (non utilisés, scripts de test, etc.) qui devraient être nettoyés ?
 
@@ -147,7 +147,7 @@ type: rapport
 
 ## 8 — Cohérence des faits et dates (Q41–Q44)
 
-**Q41.** Vérifie la cohérence de TOUTES les dates entre les actes et `Memory/STRICT VARIABLES.md` :
+**Q41.** Vérifie la cohérence de TOUTES les dates entre les actes et [Memory/STRICT VARIABLES.md](../Memory/STRICT VARIABLES.md) :
    - Accident : 29 mai 2026 ✓
    - Opération : 30 mai 2026 ✓
    - Signalement mairie : 1er juin 2026 ✓

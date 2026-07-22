@@ -53,19 +53,19 @@ BP 60023
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Alerte sur la non-conformité et la dangerosité d'un ERP — SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 Réf : SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)  
 
@@ -120,4 +120,3 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
 
 - **[Signalement Préfecture](../../../Reel/Courriers/Administrations/Pr%C3%A9fecture%20-%20Signalement.md)** — Confirmation officielle transmise à la Préfecture de l'Ariège
 <!-- /PJ -->
-

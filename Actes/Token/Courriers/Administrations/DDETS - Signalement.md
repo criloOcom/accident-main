@@ -52,23 +52,24 @@ Cité Administrative
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Demande d'information sur les diligences d'enquête et communication du rapport – Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au salon [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 Réf : Signalement effectué par la mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** auprès de la Préfecture de l'Ariège le 1er juin 2026  
 
 Madame, Monsieur l'Inspecteur du Travail,  
+<hr><hr>
 ## I — INTRODUCTION
 
 La présente lettre a pour objet de connaître les diligences accomplies par vos services à la suite de l'accident corporel grave survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) (sise **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**), et de porter à votre attention plusieurs éléments matériels susceptibles de caractériser des manquements à la réglementation du travail.
@@ -78,6 +79,7 @@ Cet accident a été causé par le **basculement** de la vasque en céramique du
 Cette blessure a entraîné une plaie palmaire profonde de la main droite avec section partielle du tendon fléchisseur superficiel (FDP) et du paquet vasculo-nerveux collatéral radial de l'index, ayant nécessité une neurolyse du nerf palmaire et une microchirurgie d'urgence en SOS Main le 30 mai 2026. Les séquelles fonctionnelles sont importantes et durablement invalidantes ([arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours, consolidation au 1er mars 2027, DFP de 12 %, souffrances endurées 4/7, incidence professionnelle majeure — cf. rapport d'expertise médicale du 29 mai 2027).
 <hr><hr>
 
+<hr><hr>
 ## II — PROCÉDURES EN COURS
 
 Les procédures suivantes ont été engagées :
@@ -126,6 +128,7 @@ Les procédures suivantes ont été engagées :
 - Mise en demeure de l'assureur RC (J+50) restée sans réponse
 <hr><hr>
 
+<hr><hr>
 ## III — CONTEXTE DE LA SAISINE DE VOS SERVICES
 
 À la suite de cet accident, Monsieur **[L'Adjoint au Maire de la Commune](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**, Adjoint au Maire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, m'a informé le 1er juin 2026 avoir pris l'attache des services de la Préfecture de l'Ariège afin de diligenter l'Inspection du Travail et le CODAF.
@@ -189,6 +192,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur l'Inspe
 <!-- PJ -->
 <hr><hr>
 
+<hr><hr>
 ## PIECES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026 (PV n° [**[N° PV Police]**](../../../../Memory/Tokens/token-pv-police-numero.md))
@@ -209,6 +213,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur l'Inspe
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
@@ -217,4 +222,3 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur l'Inspe
 [^4]: [Article L4121-1 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) ↩
 [^5]: [Article 40 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) ↩
 <!-- /Source -->
-

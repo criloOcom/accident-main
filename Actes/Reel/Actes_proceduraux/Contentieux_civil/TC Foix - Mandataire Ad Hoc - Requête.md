@@ -155,4 +155,3 @@ Le [Date de signature]
 [^3]: [Article 873 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463)
 [^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
 <!-- /Source -->
-

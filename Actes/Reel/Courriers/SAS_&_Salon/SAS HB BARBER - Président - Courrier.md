@@ -40,9 +40,9 @@ Président de [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raiso
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Demande de communication de l'assurance RC professionnelle de [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) — Notification au Président à titre personnel et de représentant légal
----
+<hr><hr>
 
 Mode d'envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 
@@ -129,4 +129,3 @@ Téléphone : **[06 30 51 67 75](../../../../Memory/Tokens/token-victime-telepho
 
 [^1]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 <!-- /Source -->
-

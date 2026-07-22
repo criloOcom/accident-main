@@ -1,6 +1,6 @@
 ---
 title: "Mémorandum Juridique — Audit Stratégique et Restructuration Contentieuse"
-description: "Rédigé le 30 juin 2026"
+description: "Rédigé le **[J+32 Assignation référé]"
 type: readme
 date: 2026-06-30
 tags:
@@ -19,7 +19,7 @@ drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 **Table des matières**
 
@@ -46,21 +46,24 @@ drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
 # **MÉMORANDUM JURIDIQUE : AFFAIRE [LA VICTIME]**
 > 🔗 Source Google Drive : [1Ikk9wlfyLuF…](https://drive.google.com/open?id=1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes)
 Rédigé le [30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md)
+<hr><hr>
 ## INTRODUCTION
 
-Le présent mémorandum juridique constitue un audit stratégique et une restructuration de l'arsenal contentieux déployé par [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) à l'encontre de [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) à la suite de l'accident corporel survenu le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md). Ce document analyse l'ensemble des voies de droit ouvertes à la victime, évalue la solidité des fondements juridiques invocables et propose une stratégie contentieuse cohérente et optimisée. Il examine successivement les actions relevant du droit civil, du droit pénal et du droit des assurances, en vue d'assurer la réparation intégrale des préjudices subis.
+Le présent mémorandum juridique constitue un audit stratégique et une restructuration de l'arsenal contentieux déployé par [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) à l'encontre de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) à la suite de l'accident corporel survenu le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md). Ce document analyse l'ensemble des voies de droit ouvertes à la victime, évalue la solidité des fondements juridiques invocables et propose une stratégie contentieuse cohérente et optimisée. Il examine successivement les actions relevant du droit civil, du droit pénal et du droit des assurances, en vue d'assurer la réparation intégrale des préjudices subis.
 <hr><hr>
 
+<hr><hr>
 ## *AUDIT STRATÉGIQUE ET RESTRUCTURATION DE L'ARSENAL CONTENTIEUX*
 <hr><hr>
 
+<hr><hr>
 ## I — PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 
-Le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md), [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a subi un grave accident corporel au sein du salon exploité par [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (l'Exploitant).
+Le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md), [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a subi un grave accident corporel au sein du salon exploité par [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (l'Exploitant).
 
-Alors que l'employé [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tél. [07 58 40 12 87](../../../Memory/Tokens/token-exploitation-prepose-telephone.md)) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a tendu la main droite pour protéger [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse majeure à sa main dominante.
+Alors que l'employé [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../Memory/Tokens/token-exploitation-prepose-telephone.md)) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a tendu la main droite pour protéger [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse majeure à sa main dominante.
 
-L'affaire met en cause la responsabilité de la personne morale, dirigée par [Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md), ainsi que le fait de son préposé.
+L'affaire met en cause la responsabilité de la personne morale, dirigée par [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md), ainsi que le fait de son préposé.
 
 À ce jour, le statut exact de L'Exploitant demeure incertain : les courriers recommandés adressés le [29 juin 2026](../../../Memory/Tokens/token-j-31-mises-en-demeure.md) à la société et à ses dirigeants sont restés sans réponse ni accusé de réception signé. Dans ce contexte d'opacité, il convient de sécuriser l'ensemble des voies d'indemnisation, notamment l'action directe contre l'assureur sur le fondement de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1], ainsi que la mise en cause personnelle des dirigeants.
 
@@ -71,6 +74,7 @@ L'affaire met en cause la responsabilité de la personne morale, dirigée par [H
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 <hr><hr>
 
+<hr><hr>
 ## II — CADRE JURIDIQUE DE LA RESPONSABILITÉ
 ### A. RESPONSABILITÉ DE PLEIN DROIT ET OBLIGATION DE SÉCURITÉ
 
@@ -94,6 +98,7 @@ La responsabilité personnelle des dirigeants peut être engagée, nonobstant l'
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^4]**
 <hr><hr>
 
+<hr><hr>
 ## III — MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
 ### A. SURVIE DE LA PERSONNALITÉ MORALE ET ACTION DIRECTE
 
@@ -117,6 +122,7 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 > **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307[^7]**
 <hr><hr>
 
+<hr><hr>
 ## IV — PLAN D'ACTION CONTENTIEUX
 
 1. Référé-communication : Engager une procédure sur le fondement de [Article 145 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^8] pour obtenir la police d'assurance et interrompre la prescription.
@@ -131,15 +137,15 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
-[^1]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^2]: [Article 1242 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
-[^3]: [Article L. 421-3 du Code de la consommation — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053)
-[^4]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
-[^5]: [Article 1844-8 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186)
-[^6]: [Arrêt n°20-16.463 — www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
-[^7]: [Arrêt n°22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
-[^8]: [Article 145 du CPC — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+[^1]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^2]: [Article 1242 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
+[^3]: [Article L. 421-3 du Code de la consommation — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053) ↩
+[^4]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
+[^5]: [Article 1844-8 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186) ↩
+[^6]: [Arrêt n°20-16.463 — www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) ↩
+[^7]: [Arrêt n°22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) ↩
+[^8]: [Article 145 du CPC — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
 <!-- /Source -->
-

@@ -42,10 +42,9 @@ Place de la Préfecture
 **Tél :** [06 30 51 67 75](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)
 **Email :** **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 
----
+<hr><hr>
 **Objet :** Compléter et corriger ma plainte initiale ([ ... ] du 2 juin 2026, **[Toulouse](../../../../Memory/Tokens/token-accident-metropole.md)** Rive Droite) concernant l'accident du 29 mai 2026 survenu au salon de coiffure situé 22 rue Lafaurie, 09000 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**.
 <hr><hr>
----
 
 ## 1. RAPPEL DE MA PREMIÈRE PLAINTE À TOULOUSE (2 juin 2026)
 
@@ -210,9 +209,9 @@ En effectuant des recherches par l'adresse exacte **[22 Rue Lafaurie, 09000 Foix
 
 **À 18h28**, je reçois un courriel de **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** ([**[[Email du Propriétaire]](../../../../Memory/Tokens/token-exploitation-bailleur-email.md)**]) en réponse à ma LRAR du 29 juin.
 
----
+<hr><hr>
 **Objet :** « Demande de communication d'assurance »
----
+<hr><hr>
 
 **Texte intégral du message :**
 > *« Bonjour **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**,*

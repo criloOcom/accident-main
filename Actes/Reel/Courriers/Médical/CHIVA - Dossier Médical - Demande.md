@@ -47,22 +47,22 @@ Chemin de la Plaine
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Demande de communication de mon dossier médical personnel (Loi du 4 mars 2002 — article L. 1111-7 du Code de la santé publique)**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 <!-- LRAR -->
 **N° LRAR : [87500152888336B](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)**
 <!-- /LRAR -->
 
----
+<hr><hr>
 
 Monsieur le Directeur,
 

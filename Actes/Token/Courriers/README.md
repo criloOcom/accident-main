@@ -14,6 +14,7 @@ type: readme
 **Correspondance avec les tiers** — version de travail anonymisée.
 Les identités réelles sont remplacées par des tokens (cf. [TOKEN MAP.md](../../../Memory/TOKEN%20MAP.md)).
 
+<hr><hr>
 ## 📂 Contenu
 
 - **[Administrations](Administrations/README.md)** — 15 fichiers · Signalements, saisine CADA, CODAF, INPI, DDETS, SDIS, SIE, URSSAF

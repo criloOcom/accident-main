@@ -11,7 +11,7 @@ type: rapport
 
 # Synthèse — Ce qui N'A PAS ENCORE ÉTÉ FAIT
 
-> Généré le 15/07/2026 après relecture des 15 rapports de `Rapports/85_Coherence_2026-07-15/` et **vérification dans le dépôt réel**.
+> Généré le 15/07/2026 après relecture des 15 rapports de [Rapports/85_Coherence_2026-07-15](85_Coherence_2026-07-15/README.md) et **vérification dans le dépôt réel**.
 >
 > **Constat brut :** les 15 rapports détaillés documentent un travail RESTANT, pas un travail déjà effectué.
 > Sur 2868 points listés : **2802 sont encore non traités** (cases `[ ]`), seuls 66 sont des étapes de « vérification » ou « conformité constatée » (cases `[x]` dans M06/M14).
@@ -19,7 +19,7 @@ type: rapport
 > **Vérification live effectuée dans le dépôt (preuve que rien n'est corrigé) :**
 > - « 29 juin 2026 » (erreur de date, M01/M09) → encore présent dans **47 fichiers**
 > - Noms réels dans la strate Token `🔑` (TAVELLA/JARDON/DJERBI/LES MAUVAIS GARÇONS, M05/M08/M09) → encore dans **24 fichiers Token**
-> - JURITEXT0000 invalides (M04) → **3** encore présents dans `Lois/EXEMPLES_REQUETES_MCP.md`
+> - JURITEXT0000 invalides (M04) → **3** encore présents dans [Lois/EXEMPLES_REQUETES_MCP.md](../Lois/EXEMPLES_REQUETES_MCP.md)
 > - Hallucination « CHUM TOULOUSE » (M06) → encore dans **2 fichiers**
 >
 > ⚠️ **Les 15 rapports détaillés (`85_Coherence_2026-07-15/Mxx_*.md`) ne doivent PAS être supprimés tels quels : ils constituent la feuille de route exacte des correctifs.** Cette synthèse les résume ; les listes ligne-par-ligne restent dans chaque Mxx.
@@ -27,7 +27,7 @@ type: rapport
 <hr><hr>
 
 ## I — DATES ERRONÉES (M01 + M09) — 109 points
-- M01 : 10 dates à aligner sur la Source Unique de Vérité (`Memory/STRICT VARIABLES.md`).
+- M01 : 10 dates à aligner sur la Source Unique de Vérité ([Memory/STRICT VARIABLES.md](../Memory/STRICT VARIABLES.md)).
 
 - M09 : 99 incohérences (dont « 29 juin » au lieu de « 29 mai », fuites de noms, mécanisme de l'accident).
 
@@ -50,7 +50,7 @@ type: rapport
 - Détail : `85_Coherence_2026-07-15/M03_AUDIT_FONDEMENTS_JURIDIQUES.md`.
 
 ## IV — JURITEXT INVALIDES (M04) — 444 points
-- Identifiants `JURITEXT0000…` inexistants ou mal formatés dans `Lois/` (notamment `EXEMPLES_REQUETES_MCP.md`).
+- Identifiants `JURITEXT0000…` inexistants ou mal formatés dans [Lois](../Lois/README.md) (notamment `EXEMPLES_REQUETES_MCP.md`).
 
 - **Vérif live :** 3 JURITEXT0000 encore présents → non corrigé.
 
@@ -59,7 +59,7 @@ type: rapport
 - Détail : `85_Coherence_2026-07-15/M04_AUDIT_JURITEXT.md`.
 
 ## V — DOUBLE STRATE TOKEN/REEL (M05) — 162 points — ✅ VÉRIFIÉ LE 15/07 (pas de fuite dans le TEXTE, noms dans liens/chemins)
-- **Vérif live du 15/07 (exécution de la vague 1) :** scan de tous les `.md` de `Actes/Token/`.
+- **Vérif live du 15/07 (exécution de la vague 1) :** scan de tous les `.md` de [Actes/Token](../Actes/Token/README.md).
 
   - Les occurrences de JARDON/TAVELLA/DJERBI/LES MAUVAIS GARÇONS/Lafaurie dans le **texte visible** sont inexistantes (déjà tokenisées en visible).
   - Elles apparaissent UNIQUEMENT dans : libellés de lien markdown, métadonnées `reel_path`, breadcrumbs, et noms de fichiers (ex. `🔄 DrDJERBI Consolidation ✉️Mail.md`).
@@ -99,7 +99,7 @@ type: rapport
 - Détail : `85_Coherence_2026-07-15/M08_AUDIT_CONSISTANCE_INTERNE.md`.
 
 ## IX — PROCESS / RÈGLES (M10) — 49 points
-- Fichiers sans front matter YAML / sans breadcrumb (`Status/*.md`, `Memory/CARNET_RDV_UTILISATEUR.md`, plusieurs rapports).
+- Fichiers sans front matter YAML / sans breadcrumb (`Status/*.md`, [Memory/CARNET_RDV_UTILISATEUR.md](../Memory/CARNET_RDV_UTILISATEUR.md), plusieurs rapports).
 
 - Séparateurs `<hr><hr>` manquants.
 

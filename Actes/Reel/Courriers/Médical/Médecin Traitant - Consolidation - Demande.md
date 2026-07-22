@@ -53,9 +53,9 @@ Service SOS Main — **[Clinique de l'Union](../../../../Memory/Tokens/token-hop
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[5 juillet 2026](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Demande de certificat medical de consolidation — Accident du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**
----
+<hr><hr>
 
 La presente lettre est adressee par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** a **[Dr Iskander DJERBI](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** afin de solliciter la delivrance d'un certificat medical de consolidation dans le cadre de la procedure d'indemnisation de l'accident corporel dont il a ete victime le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** et qui a necessite votre intervention de microchirurgie d'urgence le **[30 mai 2026](../../../../Memory/Tokens/token-j-1-chirurgie.md)**.
 
@@ -119,8 +119,6 @@ Je vous prie d'agreer, Madame, Docteur, l'expression de ma consideration disting
 
 NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacite d'utiliser normalement un clavier d'ordinateur ou d'ecrire manuellement. Cette situation de handicap physique temporaire explique le delai de transmission de mes demandes administratives.
 <!-- PJ -->
-<hr><hr>
-
 ## PIECES JOINTES
 
 - **[Certificat medical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr **[Dr Julie JARDON](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**
@@ -139,4 +137,3 @@ NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de 
 
 [^1]: [Arrêt n°22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
 <!-- /Source -->
-

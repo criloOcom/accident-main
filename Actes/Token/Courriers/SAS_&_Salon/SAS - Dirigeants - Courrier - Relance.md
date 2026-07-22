@@ -49,9 +49,9 @@ jx: J+40
 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le [**[DATE RELANCE V2]**](../../../../Memory/Tokens/token-accident-date-relance-v2.md)
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Relance — Demande d'information assurance RC et communication d'une adresse de correspondance — Accident **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**
----
+<hr><hr>
 
 Par lettre de mise en demeure adressée le **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)** en recommandé avec accusé de réception à chacun de vous à l'adresse du siège social (**[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**), j'ai sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
 
@@ -82,7 +82,6 @@ Par la présente, je vous intime formellement l'injonction de conserver et de ne
 
 Ma présence ainsi que le déroulement de l'accident sont déjà documentés par des éléments indépendants (transaction Wero, géolocalisation, rapports médicaux et procès-verbal de police).
 <hr><hr>
-
 ## II — RAPPEL DE LA DEMANDE D'ASSURANCE
 
 Le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** à 15h00, alors que j'étais client dans votre établissement, mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing pour régler le téléviseur.
@@ -119,6 +118,7 @@ Compte tenu de la gravité de l'accident et des manquements flagrants à l'oblig
 > **Code du travail > Chapitre Ier : Obligations de l'employeur.[^3]**
 <hr><hr>
 
+<hr><hr>
 ## III — DEMANDE D'ADRESSE DE CORRESPONDANCE ET RISQUES FINANCIERS
 
 Face aux difficultés de distribution postale à votre siège social, je vous demande de me fournir par écrit une adresse de correspondance valide (boîte aux lettres, domicile ou adresse de votre conseil juridique).
@@ -143,6 +143,7 @@ je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président,
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
 <hr><hr>
 
+<hr><hr>
 ## IV — ANNEXE JURIDIQUE — EXTRAIT DES TEXTES APPLICABLES
 <hr><hr>
 
@@ -173,6 +174,7 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
 <!-- PJ -->
 <hr><hr>
 
+<hr><hr>
 ## PIECES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du [J+4]
@@ -193,6 +195,7 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article 434-4 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) ↩
@@ -201,4 +204,3 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
 [^4]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
 [^5]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
 <!-- /Source -->
-

@@ -51,23 +51,24 @@ BP 40087
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Signalement officiel de manquements et demandes d'enquête (travail dissimulé présumé et manquements sociaux) — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 Réf : SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md) — Signalement Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** du 1er juin 2026  
 
 Madame, Monsieur le Président du CODAF,  
+<hr><hr>
 ## I — INTRODUCTION
 
 La présente est adressée au CODAF de l'Ariège par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploité par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), immatriculée sous le SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md).
@@ -77,6 +78,7 @@ Cet accident a été causé par la chute brutale du préposé de l'exploitation 
 Sa chute a entraîné sur ma main droite une plaie palmaire profonde avec lésions tendineuses et vasculo-nerveuses de l'index dominant, ayant nécessité une microchirurgie d'urgence.
 <hr><hr>
 
+<hr><hr>
 ## II — RAPPEL DES FAITS
 
 La SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) a été immatriculée le 1er juin 2024 avec un capital social de 200 €. Selon les informations publiques disponibles du Registre National des Entreprises, elle déclare ne disposer d'aucun salarié. Pourtant, le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**, un préposé exerçait de manière visible une activité de coiffure continue au sein de l'établissement.
@@ -89,6 +91,7 @@ L'accident est survenu dans les conditions suivantes :
 - Ma main droite a heurté la cassure préexistante aux arêtes coupantes, entraînant la plaie grave précitée.
 <hr><hr>
 
+<hr><hr>
 ## III — MANQUEMENTS CONSTATÉS
 
 Les faits signalés ci-après sont susceptibles de caractériser des manquements entrant dans le champ de compétence du CODAF :
@@ -141,6 +144,7 @@ Le capital social de 200 € et la dissociation entre le siège social de l'acti
 Combinés aux autres manquements de sécurité et de déclaration suspectés, ils justifient un examen attentif de la part de vos services afin de prévenir des fraudes statutaires ou des organisations d'insolvabilité.
 <hr><hr>
 
+<hr><hr>
 ## IV — DEMANDE D'ENQUÊTE
 
 En qualité de victime directe ayant subi des préjudices corporels sévères et irréversibles à la main droite, je sollicite du CODAF qu'une enquête soit diligentée afin de vérifier l'ensemble de ces éléments sociaux et déclaratifs.
@@ -162,6 +166,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
 <!-- PJ -->
 <hr><hr>
 
+<hr><hr>
 ## PIÈCES JOINTES
 
 - Copie du [PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (procédure pénale)
@@ -176,10 +181,10 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article L8221-5 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966) ↩
 [^2]: [Article R4323-58 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) ↩
 [^3]: [Article 40 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) ↩
 <!-- /Source -->
-

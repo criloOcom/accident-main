@@ -1,6 +1,6 @@
 ---
 title: "Analyse des Fondements de la Responsabilité Juridique"
-description: "Rédigé le 30 juin 2026"
+description: "Rédigé le **[J+32 Assignation référé]"
 type: analyse_juridique
 date: 2026-06-30
 tags:
@@ -20,14 +20,15 @@ jx: J+32
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-# ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
+# ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE **[L'EXPLOITANT DU COMMERCE (LA SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 > 🔗 Source Google Drive : [1lUKoGE8kozm…](https://drive.google.com/open?id=1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34)
-Rédigé le **[30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md)**
+Rédigé le **[J+32 Assignation référé](../../../Memory/Tokens/token-j-32-assignation-refere.md)**
+<hr><hr>
 ## I — INTRODUCTION
 
-L'analyse approfondie du dossier relatif à l'accident survenu le **[29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md)** au sein de l'établissement exploité par **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** — au cours duquel **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)**, informaticien indépendant, a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes — permet de dégager deux axes de responsabilité majeurs.
+L'analyse approfondie du dossier relatif à l'accident survenu le **[J+0 Accident](../../../Memory/Tokens/token-j-0-accident.md)** au sein de l'établissement exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** — au cours duquel **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**, informaticien indépendant, a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes — permet de dégager deux axes de responsabilité majeurs.
 
 - D'une part, la **responsabilité pénale** de la structure et de ses dirigeants pour manquement caractérisé aux obligations de sécurité.
 
@@ -36,6 +37,7 @@ L'analyse approfondie du dossier relatif à l'accident survenu le **[29 mai 2026
 Cette note vise à structurer les fondements juridiques permettant d'assurer la réparation intégrale du préjudice subi.
 <hr><hr>
 
+<hr><hr>
 ## II — LA RESPONSABILITÉ PÉNALE POUR BLESSURES INVOLONTAIRES
 
 Le salon est susceptible de voir sa responsabilité engagée sur le fondement de l'article 222-20 du Code pénal.
@@ -46,7 +48,7 @@ Le salon est susceptible de voir sa responsabilité engagée sur le fondement de
 
 Ce texte réprime les blessures involontaires ayant entraîné une ITT inférieure ou égale à trois mois par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement.
 
-En l'espèce, la section nerveuse et tendineuse profonde de l'index droit de **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)** a entraîné une ITT de 55 jours.
+En l'espèce, la section nerveuse et tendineuse profonde de l'index droit de **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** a entraîné une ITT de 55 jours.
 
 ### II.1 — MANQUEMENT À L'OBLIGATION DE SÉCURITÉ ET DE PRUDENCE
 
@@ -60,7 +62,7 @@ Ce défaut d'entretien constitue un danger manifeste pour le public.
 
 ### II.2 — L'IMPRUDENCE CARACTÉRISÉE DU PRÉPOSÉ
 
-Le comportement de **[Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md)** (tél. [07 58 40 12 87](../../../Memory/Tokens/token-exploitation-prepose-telephone.md)), consistant à monter physiquement sur la structure instable du meuble, est le fait générateur direct du dommage.
+Le comportement de **[Le Préposé de l'Exploitation](../../../Memory/Tokens/token-exploitation-prepose-nom.md)** (tél. [**[Le Téléphone du Préposé]**](../../../Memory/Tokens/token-exploitation-prepose-telephone.md)), consistant à monter physiquement sur la structure instable du meuble, est le fait générateur direct du dommage.
 
 En vertu de l'article 121-3 du Code pénal, cette maladresse expose les dirigeants à une responsabilité pénale individuelle pour manquement à la sécurité.
 
@@ -69,6 +71,7 @@ En vertu de l'article 121-3 du Code pénal, cette maladresse expose les dirigean
 > **Code pénal > Partie législative > Livre Ier : Dispositions générales > Titre III : La criminalité et la délinquance, les sanctions pénales et certaines mesures de sûreté > Chapitre Ier : De la responsabilité des personnes physiques.[^3]**
 <hr><hr>
 
+<hr><hr>
 ## III — LA RESPONSABILITÉ CIVILE DE PLEIN DROIT
 
 Sur le plan civil, la SAS est tenue de réparer les dommages causés sans qu'il soit nécessaire de prouver une intention de nuire. Cette responsabilité repose sur plusieurs piliers du Code civil.
@@ -95,11 +98,11 @@ En tant que propriétaire du matériel, le salon est présumé responsable des d
 
 En vertu de l'article 1242 alinéa 5 du Code civil, les employeurs sont responsables des dommages causés par leurs préposés dans les fonctions auxquelles ils les ont employés.
 
-La SAS est donc automatiquement responsable de l'imprudence commise par **[Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md)** dans l'exercice de sa mission.
+La SAS est donc automatiquement responsable de l'imprudence commise par **[Le Préposé de l'Exploitation](../../../Memory/Tokens/token-exploitation-prepose-nom.md)** dans l'exercice de sa mission.
 
 ### III.3 — LA FAUTE DÉTACHABLE DES DIRIGEANTS
 
-La responsabilité personnelle des dirigeants, **[Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md)**, peut être engagée sur le fondement de l'article 1240 du Code civil.
+La responsabilité personnelle des dirigeants, **[Le Président de l'Exploitation](../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../Memory/Tokens/token-exploitation-dg-nom.md)**, peut être engagée sur le fondement de l'article 1240 du Code civil.
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
 > [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
@@ -110,6 +113,7 @@ La responsabilité personnelle des dirigeants, **[Hamza El Hachemi BERGUIGA](../
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^6]**
 <hr><hr>
 
+<hr><hr>
 ## IV — IMMUNITÉ DU PRÉPOSÉ ET RECOURS STRATÉGIQUES
 
 Il convient de noter que le préposé bénéficie d'une immunité civile selon l'arrêt Costedoat (Ass. Plén., 25 fév. 2000), sauf en cas de faute pénale intentionnelle (Arrêt Cousin).
@@ -132,7 +136,7 @@ Le levier le plus efficace demeure l'action directe contre l'assureur RC de la S
 
 ### IV.2 — PREUVES ET PROCÉDURES
 
-La consolidation des preuves médicales (comptes rendus du **[Dr Iskander DJERBI](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**) et matérielles est impérative. En cas de rétention d'informations sur l'assureur, l'article 145 du Code de procédure civile permet de saisir le juge des référés pour obtenir les pièces nécessaires.
+La consolidation des preuves médicales (comptes rendus du **[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**) et matérielles est impérative. En cas de rétention d'informations sur l'assureur, l'article 145 du Code de procédure civile permet de saisir le juge des référés pour obtenir les pièces nécessaires.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
@@ -165,9 +169,10 @@ Le juge ordonnera alors la communication forcée de l'attestation d'assurance de
 *[Zoom Pédagogique - Le refus de fournir l'assurance est-il légal ? : Non. La loi interdit au responsable de bloquer vos droits. Si le gérant fait obstruction, le tribunal peut le condamner à vous fournir son attestation d'assurance sous peine d'amendes journalières (astreinte). C'est une procédure classique de référé pour vaincre la mauvaise foi.]*
 <hr><hr>
 
+<hr><hr>
 ## V — RECOUVREMENT — QUI PAIE EN CAS D'INSOLVABILITÉ ?
 
-⚠ **L'exploitant **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** a un [1 000 €](../../../Memory/Tokens/token-exploitation-capital-social.md) seulement.** Le risque d'insolvabilité est maximal. Voici les voies de recouvrement par ordre de priorité.
+⚠ **L'exploitant **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** a un [**[Capital Social de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-capital-social.md) seulement.** Le risque d'insolvabilité est maximal. Voici les voies de recouvrement par ordre de priorité.
 
 ### V.1 — ACTION DIRECTE CONTRE L'ASSUREUR RC (L.124-3 C. ASSURANCES)
 
@@ -180,7 +185,7 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 **Méthodes pour identifier l'assureur :**
 - Consultation RNE/INPI
 
-- Saisine greffe TC de **[Foix](../../../Memory/Tokens/token-accident-ville.md)**
+- Saisine greffe TC de **[La Ville de l'Accident](../../../Memory/Tokens/token-accident-ville.md)**
 
 - Interrogation ORIAS
 
@@ -191,7 +196,7 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 **Conditions remplies :**
 1. Infraction pénale (blessures involontaires, art. 222-20 CP) — ITT pénale 1 jour, [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 55 jours ✅
 
-2. Auteur insolvable ([1 000 €](../../../Memory/Tokens/token-exploitation-capital-social.md)) ✅
+2. Auteur insolvable ([**[Capital Social de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-capital-social.md)) ✅
 
 3. Victime personne physique, française ✅
 
@@ -200,7 +205,7 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 **Procédure :**
 - Délai : 3 ans à compter de l'infraction (29 mai 2029)
 
-- Saisine de la CIVI du TJ de **[Toulouse](../../../Memory/Tokens/token-accident-metropole.md)** ou de **[Foix](../../../Memory/Tokens/token-accident-ville.md)**
+- Saisine de la CIVI du TJ de **[La Métropole Régionale](../../../Memory/Tokens/token-accident-metropole.md)** ou de **[La Ville de l'Accident](../../../Memory/Tokens/token-accident-ville.md)**
 
 - Offre du FGTI sous 2 mois
 
@@ -233,27 +238,28 @@ Si condamnation pénale non exécutée : verse 100 % jusqu'à 1 000 €, 30 % au
 5. **Constitution partie civile** (voie pénale)
 <hr><hr>
 
+<hr><hr>
 ## VI — CONCLUSION
 
-La responsabilité de **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** est solidement établie tant sur le plan civil que pénal. Le montant total estimé de l'indemnisation est de **~105 000 €** (évaluation Dintilhac détaillée).
+La responsabilité de **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** est solidement établie tant sur le plan civil que pénal. Le montant total estimé de l'indemnisation est de **~105 000 €** (évaluation Dintilhac détaillée).
 
-La difficulté centrale est le **recouvrement** : [1 000 €](../../../Memory/Tokens/token-exploitation-capital-social.md) seulement. La voie principale est la **saisine de la CIVI** pour obtenir l'indemnisation via le FGTI, qui contourne l'insolvabilité de la SAS. Les dirigeants doivent être mis en cause personnellement dès maintenant. L'action directe contre l'assureur RC, s'il est identifié, reste la voie la plus rapide.
+La difficulté centrale est le **recouvrement** : [**[Capital Social de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-capital-social.md) seulement. La voie principale est la **saisine de la CIVI** pour obtenir l'indemnisation via le FGTI, qui contourne l'insolvabilité de la SAS. Les dirigeants doivent être mis en cause personnellement dès maintenant. L'action directe contre l'assureur RC, s'il est identifié, reste la voie la plus rapide.
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
-[^1]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
-[^2]: [Article L. 421-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053)
-[^3]: [Article 121-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209)
-[^4]: [Article 1242 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
-[^5]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
-[^6]: [Arrêt SATI — n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
-[^7]: [Arrêt Costedoat — www.legifrance.gouv.fr/juri/id/JURITEXT000007043704](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)
-[^8]: [Arrêt Cousin — www.legifrance.gouv.fr/juri/id/JURITEXT000007071351](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351)
-[^9]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^10]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
-[^11]: [Article L. 113-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)
-[^12]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000045822770](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770)
+[^1]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+[^2]: [Article L. 421-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053) ↩
+[^3]: [Article 121-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417209) ↩
+[^4]: [Article 1242 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
+[^5]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+[^6]: [Arrêt SATI — n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
+[^7]: [Arrêt Costedoat — www.legifrance.gouv.fr/juri/id/JURITEXT000007043704](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704) ↩
+[^8]: [Arrêt Cousin — www.legifrance.gouv.fr/juri/id/JURITEXT000007071351](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351) ↩
+[^9]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^10]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+[^11]: [Article L. 113-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) ↩
+[^12]: [Arrêt — www.legifrance.gouv.fr/juri/id/JURITEXT000045822770](https://www.legifrance.gouv.fr/juri/id/JURITEXT000045822770) ↩
 <!-- /Source -->
-

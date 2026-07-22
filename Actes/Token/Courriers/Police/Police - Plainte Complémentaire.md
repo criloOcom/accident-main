@@ -66,25 +66,26 @@ Place de la Préfecture
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 20 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Plainte complémentaire — Accident corporel du 29 mai 2026 — Correction de l'identité de la société exploitante ([**L'Exploitant du Commerce (La SAS)**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md))**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 Monsieur le Commandant,
 
 Je me permets de vous adresser la présente plainte complémentaire afin de compléter et rectifier les éléments que j'ai portés à la connaissance de vos services à la suite de l'accident corporel dont j'ai été victime le vendredi 29 mai 2026 dans un salon de coiffure situé **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**.
 
 Dans ma première plainte déposée le 2 juin 2026 au commissariat de Toulouse (Division Toulouse Rive Droite), j'indiquais de bonne foi que le salon était exploité sous l'enseigne **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)**, et je visais la société **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** comme responsable potentielle. Des éléments nouveaux, recueillis depuis, montrent que cette information était inexacte au jour de l'accident, et que le salon était alors exploité par une autre société, la **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**. La présente plainte a donc pour objet de corriger formellement l'identité de la société exploitante et de demander que l'enquête prenne en compte ces éléments.
+<hr><hr>
 ## 1 — Rappel des faits — Accident du 29 mai 2026
 
 Le vendredi 29 mai 2026 vers 15h20, je me suis rendu dans le salon de coiffure situé **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**, pour une simple retouche de coupe de cheveux.
@@ -98,6 +99,7 @@ Le coiffeur qui m'a pris en charge ce jour-là s'est présenté sous le prénom 
 Je travaille à mon compte comme informaticien indépendant. Ma main droite étant ma main dominante, cette blessure me paralyse dans mon travail et a des conséquences importantes sur ma situation professionnelle et financière.
 <hr><hr>
 
+<hr><hr>
 ## 2 — Démarches initiales et première plainte
 
 Dans les jours qui ont suivi l'accident et l'opération, j'ai entrepris diverses démarches :
@@ -123,6 +125,7 @@ Je joins à la présente copie de ces courriers et des suivis La Poste disponibl
 Parallèlement, dès le 1er juin 2026, j'ai également signalé les faits à la mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**. Par courriel de réponse, **[L'Adjoint au Maire de la Commune](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**, adjoint au maire en charge de l'urbanisme et des travaux, m'a indiqué avoir pris attache avec les services de la préfecture afin que soient saisis l'inspection du travail et le CODAF (comité opérationnel départemental anti-fraude), en précisant qu'il restait à ma disposition pour de nouveaux signalements.
 <hr><hr>
 
+<hr><hr>
 ## 3 — Éléments nouveaux : réponse du bailleur et extraits officiels (INPI / RNE / SIRENE)
 
 À la suite de ces courriers, j'ai reçu, le 16 juillet 2026, un courriel de **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**, propriétaire des locaux du 22 Rue Lafaurie à Foix. Dans ce message, M. **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** m'indique notamment que :
@@ -189,6 +192,7 @@ Le 18 juillet 2026, j'ai recueilli le témoignage de M. **Frédéric MATHIEU** (
 3. **Absence de dénégation du coiffeur** : Le témoin rapporte que j'ai expliqué immédiatement que l'accident s'était produit en raison de l'instabilité de la vasque en céramique que j'avais dû rattraper au vol, ce que le coiffeur n'a pas nié.
 <hr><hr>
 
+<hr><hr>
 ## 4 — Identité de la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et de ses dirigeants
 
 D'après ces documents officiels, la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** présente les caractéristiques suivantes :
@@ -221,6 +225,7 @@ En conséquence, au jour de mon accident (29 mai 2026), le salon où les faits s
 La mention de la **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** dans ma première plainte et dans mes premiers courriers procède donc d'une erreur excusable, fondée sur l'enseigne laissée en place et sur l'absence totale d'information claire qui m'a été donnée au moment des faits. Cette erreur est désormais corrigée à la lumière des pièces que je transmets à vos services.
 <hr><hr>
 
+<hr><hr>
 ## 5 — Demandes à l'appui de la présente plainte complémentaire
 
 Au vu de ces éléments nouveaux, je sollicite respectueusement de vos services :
@@ -267,6 +272,7 @@ Dans l'hypothèse où il apparaîtrait que des manœuvres délibérées de dissi
 - et de transmettre au Parquet les éléments utiles pour toute qualification pénale complémentaire (faute détachable de leurs fonctions, organisation d'insolvabilité, etc.).
 <hr><hr>
 
+<hr><hr>
 ## 6 — Pièces jointes
 
 Je joins à la présente, en copies :
@@ -292,6 +298,7 @@ Je joins à la présente, en copies :
 10. **Attestation de témoin de M. Frédéric MATHIEU (commerçant du 14 rue Lafaurie, Foix) en date du 18 juillet 2026 (Cerfa 11527*03)**, attestant de l'heure exacte de l'accident (15h25) et de ses constatations immédiates.
 <hr><hr>
 
+<hr><hr>
 ## 7 — Déclaration sur l'honneur
 
 Je déclare sur l'honneur que les faits exposés dans la présente plainte sont exacts et conformes à la réalité. Je suis conscient que toute déclaration mensongère peut entraîner des poursuites pénales.

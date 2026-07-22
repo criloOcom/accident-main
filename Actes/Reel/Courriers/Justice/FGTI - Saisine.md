@@ -55,19 +55,19 @@ jx: J+38
 [Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md), le 12 juillet 2026  
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Demande d'information et pré-ouverture de dossier – Article 706-3 du CPP – Accident du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** — SAS **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)****
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 Réf : SIREN **[104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)** — [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° 31727387  
 
@@ -179,4 +179,3 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Dire
 
 [^1]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)
 <!-- /Source -->
-

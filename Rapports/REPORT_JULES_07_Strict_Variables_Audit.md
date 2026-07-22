@@ -42,7 +42,7 @@ jules_session_id: "AM-MISSION-07"
 
 # Rapport d'Audit : Cohérence des Variables Strictes avec les Nouvelles Pièces
 
-Ce rapport croise les faits, dates, et numéros de SIREN et LRAR identifiés dans les nouvelles pièces avec le fichier `Memory/STRICT VARIABLES.md`.
+Ce rapport croise les faits, dates, et numéros de SIREN et LRAR identifiés dans les nouvelles pièces avec le fichier [Memory/STRICT VARIABLES.md](../Memory/STRICT VARIABLES.md).
 
 ## 1. Identité de la Victime et Profession
 - La profession de la victime dans les pièces ("informaticien indépendant", SIREN 500 474 457, et "guitariste") correspond partiellement.
@@ -84,7 +84,7 @@ Les numéros de LRAR sont parfaitement cohérents.
 ## 5. Rendez-vous Kiné
 - Les pièces montrent de nombreux RDV Kiné (30/06, 01/07, 02/07, 03/07, 07/07, 08/07, 10/07, 15/07, 17/07) ainsi qu'une note de liaison du 30/06. Ces éléments confirment le suivi médical, mais ne nécessitent pas de modification directe des variables strictes existantes (qui se concentrent sur les montants globaux d'expertise).
 
-## Synthèse des actions entreprises sur `Memory/STRICT VARIABLES.md` :
+## Synthèse des actions entreprises sur [Memory/STRICT VARIABLES.md](../Memory/STRICT VARIABLES.md) :
 1. Le `CAPITAL_SOCIAL` de la SAS responsable (HB BARBER) a été corrigé pour passer de 200 € à 1 000 €, conformément au certificat de dépôt de fonds du 8 avril 2026. La mention de "200 €" dans la section "Codéfendeurs" a également été modifiée.
 
 ---

@@ -65,11 +65,11 @@ Ce rapport constitue le document d'aboutissement et de clôture de l'exploitatio
 
 - [x] **Action 2** — Vérifier que tous les rapports affichent un statut YAML `progress: 100%` et `status: valide`.
 
-- [x] **Action 3** — Valider la stricte mise à jour du tableau de bord central `Memory/TODO.md`.
+- [x] **Action 3** — Valider la stricte mise à jour du tableau de bord central [Memory/TODO.md](../Memory/TODO.md).
 
-- [x] **Action 4** — Consolider l'ensemble des 52 pièces dans `Memory/PIECES MAP.md`.
+- [x] **Action 4** — Consolider l'ensemble des 52 pièces dans [Memory/PIECES MAP.md](../Memory/PIECES MAP.md).
 
-- [x] **Action 5** — Vérifier la stricte conformité du protocole `Memory/JURITEXT_PROTOCOL.md` (100% souverain Légifrance/Judilibre).
+- [x] **Action 5** — Vérifier la stricte conformité du protocole [Memory/JURITEXT_PROTOCOL.md](../Memory/JURITEXT_PROTOCOL.md) (100% souverain Légifrance/Judilibre).
 
 - [x] **Action 6** — Sceller l'interdiction absolue de toute mention erronée de profession (informaticien indépendant SIREN 500 474 457 uniquement).
 

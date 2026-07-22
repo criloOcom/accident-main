@@ -55,19 +55,19 @@ Préfecture de l'Ariège
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 15 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet :** Suivi du signalement transmis par la Mairie de Foix — Salon « **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** » (**[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**)
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 Monsieur le Préfet,
 
@@ -96,8 +96,6 @@ Je vous remercie de l'attention portée à la présente et vous prie d'agréer, 
 <!-- /Signature -->
 
 <!-- PJ -->
-<hr><hr>
-
 ## PIECES JOINTES
 
 - **[Mairie - ERP Tavella - Courrier.md](../../../Reel/Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel Monsieur TAVELLA (1er juin 2026)
@@ -110,4 +108,3 @@ Je vous remercie de l'attention portée à la présente et vous prie d'agréer, 
 
 - **[Témoin Client - Attestation.md](../../Attestations/T%C3%A9moin%20Client%20-%20Attestation.md)** — Attestation sur l'honneur temoin oculaire
 <!-- /PJ -->
-

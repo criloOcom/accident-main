@@ -1,6 +1,6 @@
 ---
 title: "Fiche Réflexe 48h - Disparition SAS"
-description: "La disparition soudaine de [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) et le silence de ses dirigeants nécessitent une action immédiate, coordonnée et séquentielle pour préserver les droits de [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) et geler la situation factuelle et juridique"
+description: "La disparition soudaine de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) et le silence de ses dirigeants nécessitent une action immédiate, coordonnée et séquentielle pour préserver les droits de [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) et geler la situation factuelle et juridique"
 type: readme
 date: 2026-07-09
 tags:
@@ -18,16 +18,18 @@ reel_path: ../../Reel/Organisation/Note - Fiche Réflexe 48h Disparition SAS.md
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # FICHE RÉFLEXE 48H : DISPARITION DE LA SAS
+<hr><hr>
 ## I — PROBLÉMATIQUE
 
-La disparition soudaine de **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et le silence de ses dirigeants nécessitent une action immédiate, coordonnée et séquentielle pour préserver les droits de **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)** et geler la situation factuelle et juridique avant toute tentative de dissimulation ou d'organisation d'insolvabilité.
+La disparition soudaine de **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et le silence de ses dirigeants nécessitent une action immédiate, coordonnée et séquentielle pour préserver les droits de **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** et geler la situation factuelle et juridique avant toute tentative de dissimulation ou d'organisation d'insolvabilité.
 
 La question centrale porte sur la temporalité et l'ordonnancement juridique : dans quel ordre faut-il agir et sur quels leviers juridiques s'appuyer en priorité pour garantir l'efficacité des mesures coercitives et conservatoires ?
 <hr><hr>
 
+<hr><hr>
 ## II — FONDEMENT ET DÉPENDANCES CRITIQUES
 
 L'ordonnancement des actions est dicté par une dépendance critique absolue : l'effet de surprise.
@@ -43,11 +45,12 @@ Conformément aux obligations légales en la matière, ce signalement trouve son
 > **Code de procédure pénale > Partie législative > Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction > Titre Ier : Des autorités chargées de la conduite de la politique pénale, de l'action publique et de l'instruction > Chapitre II : Du ministère public > Section 3 : Des attributions du procureur de la République[^1]**
 <hr><hr>
 
+<hr><hr>
 ## III — ARGUMENTATION ET PLAN D'ACTION SÉQUENTIEL
 
 ### III.1 — Le constat par Commissaire de Justice (Action Immédiate : Ce soir ou demain matin)
 
-La priorité absolue est de figer la situation sur le terrain. Le recours à un Commissaire de Justice est indispensable pour constater objectivement la fermeture, la disparition, ou toute autre modification matérielle des locaux exploités par **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**. Cette mesure, qui ne souffre d'aucun délai, doit être exécutée inopinément.
+La priorité absolue est de figer la situation sur le terrain. Le recours à un Commissaire de Justice est indispensable pour constater objectivement la fermeture, la disparition, ou toute autre modification matérielle des locaux exploités par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**. Cette mesure, qui ne souffre d'aucun délai, doit être exécutée inopinément.
 
 ### III.2 — La vérification INPI (Action à J+1)
 
@@ -63,17 +66,18 @@ Dès lors que les premiers éléments de preuve (constat, vérifications INPI) s
 
 ### III.4 — L'envoi des LRAR (Action à J+2, en clôture de séquence)
 
-Ce n'est qu'une fois les éléments de preuve sécurisés (Constat) et les vérifications effectuées que la mise en demeure officielle par LRAR pourra être envoyée. Ces courriers, adressés à **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, à ses dirigeants, ainsi qu'à tout organisme pertinent, interviendront alors que la situation est verrouillée, supprimant ainsi toute opportunité pour la partie adverse d'organiser utilement sa fuite.
+Ce n'est qu'une fois les éléments de preuve sécurisés (Constat) et les vérifications effectuées que la mise en demeure officielle par LRAR pourra être envoyée. Ces courriers, adressés à **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, à ses dirigeants, ainsi qu'à tout organisme pertinent, interviendront alors que la situation est verrouillée, supprimant ainsi toute opportunité pour la partie adverse d'organiser utilement sa fuite.
 <hr><hr>
 
+<hr><hr>
 ## IV — CONCLUSION
 
-La présente fiche réflexe impose un séquencement strict : **Constat → Vérifications → Signalement → Mise en demeure**. Le non-respect de cet ordre, et particulièrement l'envoi prématuré d'une LRAR, compromettrait irrémédiablement l'effet de surprise et, *in fine*, les intérêts de **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)**.
+La présente fiche réflexe impose un séquencement strict : **Constat → Vérifications → Signalement → Mise en demeure**. Le non-respect de cet ordre, et particulièrement l'envoi prématuré d'une LRAR, compromettrait irrémédiablement l'effet de surprise et, *in fine*, les intérêts de **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**.
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
-[^1]: [Article 40 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)
+[^1]: [Article 40 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) ↩
 <!-- /Source -->
-

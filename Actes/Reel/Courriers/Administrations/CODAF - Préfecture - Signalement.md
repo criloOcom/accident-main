@@ -52,14 +52,13 @@ Préfecture de l'Ariège — Référent CODAF
 # CONFIRMATION OFFICIELLE DE SIGNALEMENT <br> A LA PREFECTURE DE L'ARIEGE
 > 🔗 Source Google Drive : [1sIkiScOSFZy…](https://drive.google.com/open?id=1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM)
 
----
+<hr><hr>
 Objet : Confirmation officielle de signalement — Accident du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au salon [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
----
+<hr><hr>
 
 Ref : Signalement effectué par la Mairie de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)** le 1er juin 2026
 
 Madame, Monsieur le Préfet,
-
 ## I — INTRODUCTION
 
 Cet accident a été causé par le **basculement** de la vasque en céramique du bac à shampoing sous le poids du préposé de l'exploitation, lequel était monté physiquement sur l'équipement pour régler le poste de télévision, en l'absence totale de tout équipement d'accès en hauteur (escabeau, marchepied) mis à disposition par l'employeur. Sous le poids du préposé, la vasque a basculé violemment ; la victime a instinctivement tendu la main droite pour protéger le préposé, et sa paume a heurté une **cassure majeure préexistante non signalée** sur le flanc de la vasque. **La vasque ne s'est pas effondrée** — il n'y a pas de débris de céramique.
@@ -174,4 +173,3 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
 [^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 [^2]: [Article R4323-58 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
 <!-- /Source -->
-

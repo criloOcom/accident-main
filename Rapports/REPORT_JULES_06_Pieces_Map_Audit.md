@@ -23,7 +23,7 @@ jules_session_id: "AM-MISSION-06"
 
 ## I — SYNTHÈSE ET CONSTATATIONS DE TERRAIN
 
-La mission consistait à vérifier l'intégration complète des 20 nouvelles preuves officielles dans le document maître `Memory/PIECES MAP.md`. Les pièces 44 à 52 ont été vérifiées et rattachées avec leurs identifiants canoniques (dates, émetteurs, objets et liens Google Drive).
+La mission consistait à vérifier l'intégration complète des 20 nouvelles preuves officielles dans le document maître [Memory/PIECES MAP.md](../Memory/PIECES MAP.md). Les pièces 44 à 52 ont été vérifiées et rattachées avec leurs identifiants canoniques (dates, émetteurs, objets et liens Google Drive).
 
 <hr><hr>
 

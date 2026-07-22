@@ -49,6 +49,7 @@ Service Recours Contre Tiers
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # COURRIER DE RECTIFICATION D'IDENTITÉ DE LA SOCIÉTÉ RESPONSABLE
+<hr><hr>
 ## [Dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)
 
 <!-- Auteur -->
@@ -68,19 +69,19 @@ Service Recours Contre Tiers
 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le 18 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Déclaration rectificative d'accident causé par un tiers – Substitution de la société responsable**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 **Réf : Dossier de Recours Contre Tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)**  
 **Accident corporel du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** (Foix)**  
@@ -118,11 +119,9 @@ En vous remerciant de la prise en compte rapide de cette rectification, je vous 
 
 <!-- PJ -->
 <hr><hr>
-
 ## PIÈCES JOINTES :
 
 - [**Erratum officiel de correction d'identité de la société exploitante**](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md) (17/07/2026)
 
 - Justificatif d'immatriculation au RNE de la SAS HB BARBER
 <!-- /PJ -->
-

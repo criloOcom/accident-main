@@ -390,4 +390,3 @@ jx: J+47
 [^4]: [Article 15-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441)
 [^5]: [Article 434-15 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641)
 <!-- /Source -->
-

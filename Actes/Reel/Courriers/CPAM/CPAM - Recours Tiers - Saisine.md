@@ -50,9 +50,9 @@ Direction des Recours Contre Tiers
 # TRANSMISSION ET BORDEREAU RECAPITULATIF<br>RECOURS CONTRE TIERS
 > 🔗 Source Google Drive : [1_cHcprI9XKo…](https://drive.google.com/open?id=1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY)
 
----
+<hr><hr>
 Objet : Transmission d'elements et bordereau recapitulatif — Recours contre tiers n° 31727387
----
+<hr><hr>
 
 Ref : Accident du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** — SAS **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** — SIREN **[104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)**
 
@@ -229,4 +229,3 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 [^1]: [Article 835 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
 [^2]: [Article L376-1 du Code de la sécurité sociale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231)
 <!-- /Source -->
-

@@ -25,9 +25,9 @@ L'audit des liens internes révèle plusieurs dizaines de liens cassés. Ceux-ci
 
 Il s'agit de liens dont le chemin est incorrect mais pour lesquels un fichier du même nom existe dans le dépôt.
 
-- **`AGENTS.md`** : le lien `/home/crilocom/accident-main/Memory/README.md` pointe vers un chemin absolu (interdit par les conventions) et de nombreux candidats existent.
+- **`AGENTS.md`** : le lien [/home/crilocom/accident-main/Memory/README.md](../Memory/README.md) pointe vers un chemin absolu (interdit par les conventions) et de nombreux candidats existent.
 
-- **`Rapports/20_Accueil_Avocat/PACK_ACCUEIL_AVOCAT_AJ.md`** : lien vers `TJ Foix - TJ Foix - Référé Provision - Assignation.md` introuvable, 2 candidats.
+- **[Rapports/20_Accueil_Avocat/PACK_ACCUEIL_AVOCAT_AJ.md](20_Accueil_Avocat/PACK_ACCUEIL_AVOCAT_AJ.md)** : lien vers `TJ Foix - TJ Foix - Référé Provision - Assignation.md` introuvable, 2 candidats.
 
 - **`Status/01_PREPARATION.md`** : lien vers `TJ Foix - Bordereau Unifié.md` introuvable, 2 candidats.
 
@@ -37,13 +37,13 @@ Il s'agit de liens dont le chemin est incorrect mais pour lesquels un fichier du
 
 - **`Status/final.md`** : lien vers `TJ Foix - Bordereau Unifié.md` introuvable, 2 candidats.
 
-- **`Memory/TODO.md`** : lien vers `TJ Foix - Bordereau Unifié.md` introuvable, 2 candidats.
+- **[Memory/TODO.md](../Memory/TODO.md)** : lien vers `TJ Foix - Bordereau Unifié.md` introuvable, 2 candidats.
 
 ### B. Liens critiques cassés (introuvables)
 
 Ces liens pointent vers des fichiers ou tokens qui n'existent pas ou plus à l'emplacement indiqué.
 
-- **Tokens manquants dans `Actes/Token/` et `Reel/`** :
+- **Tokens manquants dans [Actes/Token](../Actes/Token/README.md) et `Reel/`** :
 
   - `token-dr-jardon.md` est appelé dans de multiples courriers de mises en demeure et relances (`Propriétaire - Courrier.md`, `SAS - Courrier.md`, `✉️🔄 Consolidation.md`, `DDETS - Signalement.md`, etc.).
 
@@ -55,7 +55,7 @@ Ces liens pointent vers des fichiers ou tokens qui n'existent pas ou plus à l'e
 
   - `token-exploitation-nom-commercial.md` et `token-exploitation-prepose-nom.md` sont appelés mais introuvables.
 
-- **Fichiers manquants dans `Rapports/`** :
+- **Fichiers manquants dans [Rapports](README.md)** :
 
   - `RAPPORT_NAVIGATION_INTERACTIVE_20260711.md` manque dans plusieurs audits.
 
@@ -81,23 +81,23 @@ L'audit d'intégrité des fichiers README montre des désynchronisations mineure
 
 ### B. Fichiers présents mais non listés dans leur README respectif
 
-- **`Lois/Code/Code_assurances/`** : le fichier `Article_L124-3_Codesassurances_Legifrance.md` est présent mais non listé.
+- **[Lois/Code/Code_assurances](../Lois/Code/Code_assurances/README.md)** : le fichier `Article_L124-3_Codesassurances_Legifrance.md` est présent mais non listé.
 
 - **`.dev/app/`** : `resolve_reel_tokens_report.md` est présent mais non listé.
 
-- **`Memory/`** : `Mémo Stratégie Bailleur HB BARBER.md` n'est pas listé.
+- **[Memory](../Memory/README.md)** : `Mémo Stratégie Bailleur HB BARBER.md` n'est pas listé.
 
-- **`Memory/Tokens/`** : nombreux tokens manquants dans l'index (ex: `token-cpam-dossier-numero.md`, `token-exploitation-hb-capital-social.md`, `token-pv-police-numero.md`, etc.).
+- **[Memory/Tokens](../Memory/Tokens/README.md)** : nombreux tokens manquants dans l'index (ex: `token-cpam-dossier-numero.md`, `token-exploitation-hb-capital-social.md`, `token-pv-police-numero.md`, etc.).
 
-- **`Actes/Token/Analyses_juridiques/`** : `Note - Mémo Axes Juridiques Avocat.md` et `Note - Synthèse Avocat Bascule HB BARBER.md` ne sont pas listés.
+- **[Actes/Token/Analyses_juridiques](../Actes/Token/Analyses_juridiques/README.md)** : `Note - Mémo Axes Juridiques Avocat.md` et `Note - Synthèse Avocat Bascule HB BARBER.md` ne sont pas listés.
 
-- **`Actes/Token/Preuves_officielles/`** : `20270529_Rapport_Expertise_Médicale.md` n'est pas listé.
+- **[Actes/Token/Preuves_officielles](../Actes/Token/Preuves_officielles/README.md)** : `20270529_Rapport_Expertise_Médicale.md` n'est pas listé.
 
 - **`Actes/Token/Actes_proceduraux/📋 Preparation Foix/`** : `Police - Note Erratum Identité.md` n'est pas listé.
 
-- **`Rapports/` et sous-dossiers** :
+- **[Rapports](README.md) et sous-dossiers** :
 
-  - `85_RESTANT_A_FAIRE_2026-07-15.md` n'est pas listé dans `Rapports/README.md`.
+  - `85_RESTANT_A_FAIRE_2026-07-15.md` n'est pas listé dans [Rapports/README.md](README.md).
 
   - `00_META_SYNTHESE_MULTI_ANGLE.md` n'est pas listé dans `30_Analyses_Multi_Angle/README.md`.
 
@@ -113,7 +113,7 @@ Le script d'audit des citations internes (`.dev/app/audit_citation_links.py`) co
 
 - **Toutes les citations internes sont cliquables.** (0 citation interne non liée dans 0 fichier).
 
-- L'intégrité des liens de citation juridique vers Légifrance ou les fichiers de la bibliothèque locale `Lois/` est préservée pour les fichiers testés.
+- L'intégrité des liens de citation juridique vers Légifrance ou les fichiers de la bibliothèque locale [Lois](../Lois/README.md) est préservée pour les fichiers testés.
 
 <hr><hr>
 

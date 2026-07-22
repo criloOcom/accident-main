@@ -1,7 +1,11 @@
 # Index — Etudes_indemnisation (Versions Réelles)
 
-- [Note - Stratégique FGTI CIVI.md](Note%20-%20Strat%C3%A9gique%20FGTI%20CIVI.md)
+- [Note - Dossier CIVI Filet Sécurité.md](Note - Dossier CIVI Filet Sécurité.md)
 
-- [Note - Évaluation Dintilhac Consolidée.md](Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md)
+- [Note - Stratégique FGTI CIVI.md](Note - Stratégique FGTI CIVI.md)
 
-- [Protocole - Transactionnel Dintilhac 13-07-2026.md](Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md)
+- [Note - Tableau Dintilhac Comparatif Définitif.md](Note - Tableau Dintilhac Comparatif Définitif.md)
+
+- [Note - Évaluation Dintilhac Consolidée.md](Note - Évaluation Dintilhac Consolidée.md)
+
+- [Protocole - Transactionnel Dintilhac 13-07-2026.md](Protocole - Transactionnel Dintilhac 13-07-2026.md)

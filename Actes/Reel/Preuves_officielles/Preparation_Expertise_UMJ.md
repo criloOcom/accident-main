@@ -1,6 +1,6 @@
 ---
 title: "DOSSIER UMJ — PRÉPARATION EXPERTISE MÉDICALE"
-date: FIXME
+date: 
 description: "Date :** 12 novembre 2026 à 13h45"
 type: preuve
 statut: brouillon
@@ -13,11 +13,12 @@ reel_path: ../../Reel/Preuves_officielles/Preparation_Expertise_UMJ.md
 
 # DOSSIER UMJ<br>PRÉPARATION EXPERTISE MÉDICALE
 **Date :** 12 novembre 2026 à 13h45
-**Lieu :** UMJ de **[Toulouse](../../../Memory/Tokens/token-accident-metropole.md)**
-**Réquisition :** Art. 41 et 77-1 CPP — Agent **[Agent PJ, dépôt de plainte]**
+**Lieu :** UMJ de **[La Métropole Régionale](../../../Memory/Tokens/token-accident-metropole.md)**
+**Réquisition :** Art. 41 et 77-1 CPP — Agent Jordy RODRIGUEZ CAPARROS
 
 ---
 
+<hr><hr>
 ## PIÈCES À APPORTER
 ### I.1 — DOCUMENTS D'IDENTITÉ- [ ] Carte d'identité / Passeport
 
@@ -25,15 +26,15 @@ reel_path: ../../Reel/Preuves_officielles/Preparation_Expertise_UMJ.md
 
 - [ ] Carte mutuelle
 
-### I.2 — DOCUMENTS MÉDICAUX — ACCIDENT INITIAL- [ ] **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** (**[Dr Iskander DJERBI](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**, 30/05/2026) — microchirurgie tendons/nerfs index droit
+### I.2 — DOCUMENTS MÉDICAUX — ACCIDENT INITIAL- [ ] **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** (**[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**, 30/05/2026) — microchirurgie tendons/nerfs index droit
 
-- [ ] **[Premiers soins](../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** (**[Dr Julie JARDON](../../../Memory/Tokens/token-hopital-urgence-medecin.md)**, 29/05/2026, 16h30)
+- [ ] **[Premiers soins](../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** (**[Le Médecin en Urgence](../../../Memory/Tokens/token-hopital-urgence-medecin.md)**, 29/05/2026, 16h30)
 
-- [ ] **Prescription initiale** (**[Dr Julie JARDON](../../../Memory/Tokens/token-hopital-urgence-medecin.md)**)
+- [ ] **Prescription initiale** (**[Le Médecin en Urgence](../../../Memory/Tokens/token-hopital-urgence-medecin.md)**)
 
-- [ ] **[Ordonnance de sortie](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530-1700%20Ordonnance%20Sortie%20DrDJERBI.md)** (**[Dr Iskander DJERBI](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**, 30/05/2026) — antalgiques
+- [ ] **[Ordonnance de sortie](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530-1700%20Ordonnance%20Sortie%20DrDJERBI.md)** (**[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**, 30/05/2026) — antalgiques
 
-### I.3 — [ARRÊTS DE TRAVAIL](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)- [ ] **Arrêt initial** (**[Dr Oxybel](../../../Memory/Tokens/token-victime-medecin-generaliste.md)**, 01/06/2026, 15j)
+### I.3 — [ARRÊTS DE TRAVAIL](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)- [ ] **Arrêt initial** (**[Le Médecin Généraliste](../../../Memory/Tokens/token-victime-medecin-generaliste.md)**, 01/06/2026, 15j)
 
 - [ ] **Prolongation 1** (11j)
 
@@ -41,7 +42,7 @@ reel_path: ../../Reel/Preuves_officielles/Preparation_Expertise_UMJ.md
 
 - [ ] Soit total ITT : 55 jours
 
-### I.4 — SUIVI ET RÉÉDUCATION- [ ] **Consultation contrôle J+24** (**[Dr Iskander DJERBI](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** — bonne cicatrisation, déficit neurologique)
+### I.4 — SUIVI ET RÉÉDUCATION- [ ] **Consultation contrôle J+24** (**[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** — bonne cicatrisation, déficit neurologique)
 
 - [ ] **Prescription kinésithérapie** (3 séances/semaine, pas de travail en résistance 4 semaines)
 
@@ -55,23 +56,25 @@ reel_path: ../../Reel/Preuves_officielles/Preparation_Expertise_UMJ.md
 
 - [ ] Photos lésions initiales (si disponibles)
 
-- [ ] [Dossier CPAM](../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) (RCT 31727387)
+- [ ] [Dossier CPAM](../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) (RCT **[N° [Dossier CPAM](../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**)
 
 ---
 
+<hr><hr>
 ## II — DOCUMENTS DÉJÀ DISPONIBLES SUR DRIVE| Pièce | Drive |
 
 |-------|-------|
-| [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) **[Dr Iskander DJERBI](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** | [Lien](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |
-| Ordonnance sortie **[Dr Iskander DJERBI](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** | [Lien](https://drive.google.com/file/d/1CasEuj6N2FVmg9kAxKhdqKD70UYmq4Vh/view) |
-| [Premiers soins](../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) **[Dr Julie JARDON](../../../Memory/Tokens/token-hopital-urgence-medecin.md)** | [Lien](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view) |
-| Prescription **[Dr Julie JARDON](../../../Memory/Tokens/token-hopital-urgence-medecin.md)** | [Lien](https://drive.google.com/file/d/16ZtYjUZW0dmH0UPrHQG9bLlpWdOwflcA/view) |
-| Arrêt travail **[Dr Oxybel](../../../Memory/Tokens/token-victime-medecin-generaliste.md)** | [Lien](https://drive.google.com/file/d/1SLKUX5cDm2cuATQS3ya7_7WQYI_sjZPm/view) |
+| [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) **[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** | [Lien](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |
+| Ordonnance sortie **[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** | [Lien](https://drive.google.com/file/d/1CasEuj6N2FVmg9kAxKhdqKD70UYmq4Vh/view) |
+| [Premiers soins](../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) **[Le Médecin en Urgence](../../../Memory/Tokens/token-hopital-urgence-medecin.md)** | [Lien](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view) |
+| Prescription **[Le Médecin en Urgence](../../../Memory/Tokens/token-hopital-urgence-medecin.md)** | [Lien](https://drive.google.com/file/d/16ZtYjUZW0dmH0UPrHQG9bLlpWdOwflcA/view) |
+| Arrêt travail **[Le Médecin Généraliste](../../../Memory/Tokens/token-victime-medecin-generaliste.md)** | [Lien](https://drive.google.com/file/d/1SLKUX5cDm2cuATQS3ya7_7WQYI_sjZPm/view) |
 | Dépôt plainte Police | [Lien](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view) |
 | PV Police | [Lien](https://drive.google.com/file/d/18RdOzvO3Xwp1SVcsCdGDiY6RLQmWoHAnxJXnkQnomXs/view) |
 
 ---
 
+<hr><hr>
 ## III — POINTS À SIGNALER AU MÉDECIN UMJ1. **Profession :** Informaticien indépendant — la main droite dominante est essentielle à l'activité
 
 2. **Séquelles :** Insensibilité index droit, limitation mobilité, douleurs résiduelles

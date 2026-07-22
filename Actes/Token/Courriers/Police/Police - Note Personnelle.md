@@ -35,6 +35,7 @@ Place de la Préfecture
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](./Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # NOTE PERSONNELLE
+<hr><hr>
 ## Complément de plainte — Commissariat de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
 
 **Victime :** **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, né le 18/01/1982 à **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)**
@@ -42,11 +43,11 @@ Place de la Préfecture
 **Tél :** [**[Le Téléphone de la Victime]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)
 **Email :** **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
----
+<hr><hr>
 **Objet :** Compléter et corriger ma plainte initiale ([ ... ] du 2 juin 2026, **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)** Rive Droite) concernant l'accident du 29 mai 2026 survenu au salon de coiffure situé 22 rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**.
 <hr><hr>
----
 
+<hr><hr>
 ## 1. RAPPEL DE MA PREMIÈRE PLAINTE À TOULOUSE (2 juin 2026)
 
 Le **2 juin 2026**, j'ai déposé une plainte au commissariat de [**[La Métropole Régionale]**](../../../../Memory/Tokens/token-accident-metropole.md) **Rive Droite** (23 Boulevard de l'Embouchure, 31066 **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)**). Le procès-verbal porte le numéro **[ ... ]**, établi par l'Agent de Police Judiciaire **Jordy RODRIGUEZ CAPARROS**.
@@ -67,6 +68,7 @@ J'ai remis un **dossier de plainte écrit de ma main** (le 1er juin 2026), avec 
 Dès le départ, j'ai donc signalé aux policiers que je **n'avais pas la certitude absolue** sur la raison sociale, mais que je pensais à **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
 <hr><hr>
 
+<hr><hr>
 ## 2. CHRONOLOGIE COMPLÈTE DES FAITS
 
 ### 29 mai 2026 — L'accident (J+0)
@@ -172,6 +174,7 @@ J'envoie plusieurs lettres recommandées avec accusé de réception :
 Le salon reste **fermé** pendant plusieurs semaines après l'accident. Aucune information sur l'assurance n'est obtenue.
 <hr><hr>
 
+<hr><hr>
 ## 3. DÉCOUVERTE DE [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) — ÉLÉMENTS NOUVEAUX
 
 ### Mi-juillet 2026 — Recherche par adresse
@@ -210,9 +213,9 @@ En effectuant des recherches par l'adresse exacte **[L'Adresse de l'Exploitation
 
 **À 18h28**, je reçois un courriel de **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** ([**[L'Email du Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-email.md)**]) en réponse à ma LRAR du 29 juin.
 
----
+<hr><hr>
 **Objet :** « Demande de communication d'assurance »
----
+<hr><hr>
 
 **Texte intégral du message :**
 > *« Bonjour **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**,*
@@ -241,6 +244,7 @@ Ces photos de l'état des lieux de sortie signé par le représentant de **[L'Ex
 3. Le bailleur **tire lui-même une conclusion juridique** (absence de responsabilité) — ce qui relève de l'autorité judiciaire, pas de lui
 <hr><hr>
 
+<hr><hr>
 ## 4. VISITE DES LIEUX DU 16 JUILLET 2026 — CONSTATATIONS
 
 ### Déroulement
@@ -284,6 +288,7 @@ La fermeture prolongée du salon après l'accident, combinée au remplacement co
 - **Retirer et remplacer** le matériel à l'origine de l'accident
 <hr><hr>
 
+<hr><hr>
 ## 5. CE QUE JE DEMANDE AUJOURD'HUI AU COMMISSARIAT DE **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
 
 ### A. Correction de l'identité de la société exploitante
@@ -328,6 +333,7 @@ Je sollicite respectueusement :
   - De l'existence d'une **assurance RC pro** pour la période
 <hr><hr>
 
+<hr><hr>
 ## 6. DÉCLARATION SUR L'HONNEUR
 
 Je certifie sur l'honneur que tout ce qui précède est la vérité. Je n'ai rien ajouté, rien omis, rien modifié. Je n'ai jamais menti dans cette affaire. Dès ma première plainte, j'ai précisé aux policiers que je n'étais pas certain à 100 % de l'identité du salon. Aujourd'hui, avec les éléments nouveaux, je viens compléter et corriger en toute transparence.

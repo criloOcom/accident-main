@@ -205,7 +205,7 @@ Contenu...
 
 5. **Jamais de version réelle dans les fichiers Token** — uniquement dans `Reel/`
 
-6. Correspondance token ↔ réel dans `Memory/TOKEN MAP.md` uniquement
+6. Correspondance token ↔ réel dans [Memory/TOKEN MAP.md](TOKEN MAP.md) uniquement
 
 <hr><hr>
 
@@ -214,7 +214,7 @@ Contenu...
 ### Liens internes (dans le dépôt)
 - **Toujours relatifs** : `[texte](chemin/relatif.md)`, jamais `file://` ou `/absolu/`
 
-- **Toujours cliquables** : pas de chemin entre backticks sans lien — `[Rapports](Rapports/README.md)` ✓, `` `Rapports` `` ✗
+- **Toujours cliquables** : pas de chemin entre backticks sans lien — `[Rapports](Rapports/README.md)` ✓, `` [Rapports](../Rapports/README.md) `` ✗
 
 - **Dossier cité** → lien vers son `README.md`
 

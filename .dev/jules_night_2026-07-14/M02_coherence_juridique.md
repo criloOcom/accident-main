@@ -13,7 +13,7 @@ Produis un rapport `Rapports/RAPPORT_COHERENCE_JURIDIQUE_2026-07-14.md` vérifia
 
 ## MÉTHODE
 
-1. Lis TOUS les actes Token (`Actes/Token/`) et les rapports (`Rapports/`).
+1. Lis TOUS les actes Token ([Actes/Token](../../Actes/Token/README.md)) et les rapports ([Rapports](../../Rapports/README.md)).
 2. Croise chaque donnée factuelle (dates d'accident/chirurgie, montants Dintilhac, numéros LRAR, numéros de PV, identités tokenisées) avec `STRICT VARIABLES.md`.
 3. Repère les écarts, les doublons, les versions obsolètes (ex. montants DFP/IP/SE des anciennes évaluations vs avis Dintilhac 2026-07-13).
 4. Vérifie que les fondements légaux cités dans les actes sont cohérents entre eux (pas de contradiction de qualification pénale, de base de responsabilité, etc.).

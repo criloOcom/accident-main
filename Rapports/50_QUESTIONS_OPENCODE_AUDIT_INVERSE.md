@@ -32,7 +32,7 @@ Ce document contient 50 questions d'audit précises destinées à l'agent **open
 
 7. Le token `[**[Le Prénom du Préposé]**](../Memory/Tokens/token-prepose-prenom.md)` est-il correctement répertorié dans la `TOKEN MAP.md` à la ligne 25 ?
 
-8. Le token `[**[Le Prénom du Préposé]**](../Memory/Tokens/token-prepose-prenom.md)` est-il listé dans le `README.md` du dossier `Memory/Tokens/` ?
+8. Le token `[**[Le Prénom du Préposé]**](../Memory/Tokens/token-prepose-prenom.md)` est-il listé dans le `README.md` du dossier [Memory/Tokens](../Memory/Tokens/README.md) ?
 
 9. Le script `batch_anonymize.py` contient-il les règles de substitution pour `"« Ayoub »"` et `"Ayoub"` ?
 
@@ -68,7 +68,7 @@ Ce document contient 50 questions d'audit précises destinées à l'agent **open
 
 21. Le script `generate_real_versions.py` s'exécute-t-il sans aucune erreur ni avertissement en local ?
 
-22. Combien de fichiers sont actuellement générés dans l'arborescence `Actes/Reel/` ?
+22. Combien de fichiers sont actuellement générés dans l'arborescence [Actes/Reel](../Actes/Reel/README.md) ?
 
 23. La version Reel de `Plainte Complémentaire - Correction HB BARBER.md` contient-elle encore des tokens non résolus entre crochets ?
 

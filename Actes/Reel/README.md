@@ -18,7 +18,7 @@ Généré automatiquement par le script [`.dev/app/generate_real_versions.py`](.
 
 - **Ne pas modifier directement** ces fichiers — toute modification doit être faite dans [`Token/`](../Token/README.md) puis régénérée.
 
-- La correspondance token ↔ identité réelle est définie dans `Memory/TOKEN MAP.md`.
+- La correspondance token ↔ identité réelle est définie dans [Memory/TOKEN MAP.md](../../Memory/TOKEN MAP.md).
 
 ## 📂 Contenu
 

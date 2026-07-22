@@ -53,9 +53,9 @@ SDIS de l'Ariège
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Signalement de securite — ERP SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
----
+<hr><hr>
 
 <hr><hr>
 
@@ -95,4 +95,3 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Direc
 
 Mes coordonnees : **[10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md)** — **[sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md)**
 <!-- /PJ -->
-

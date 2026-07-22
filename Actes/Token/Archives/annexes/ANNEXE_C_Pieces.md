@@ -16,6 +16,7 @@ auteur: La Victime
 statut: annexe
 
 # ANNEXE C<br>LISTE DES PIÈCES
+<hr><hr>
 ## PIÈCES MÉDICALES
 
 - [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) — [**[Le Médecin en Urgence]**](../../../../Memory/Tokens/token-hopital-urgence-medecin.md) — Premiers soins urgence — [🔗 Drive](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view)
@@ -39,11 +40,13 @@ statut: annexe
 - [**[J+40 Consultation suivi]**](../../../../Memory/Tokens/token-j-40-consultation-suivi.md) — [**[Le Chirurgien SOS Main]**](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md) — CR de reprise J+39 — [🔗 Drive](https://drive.google.com/file/d/1t1wRleVkYYByK25vBjONn6XU1E8JY9OT/view)
 <hr><hr>
 
+<hr><hr>
 ## PIÈCES FINANCIÈRES
 
 - [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) — Wero — Preuves paiement / remboursement prestation
 <hr><hr>
 
+<hr><hr>
 ## PIÈCES PÉNALES
 
 - [**[J+3 Premiers arrêts]**](../../../../Memory/Tokens/token-j-3-premiers-arrets.md) — [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md) Police — Dépôt de plainte officiel — [🔗 Drive](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view)
@@ -55,6 +58,7 @@ statut: annexe
 - [**[J+4 Dépôt de plainte]**](../../../../Memory/Tokens/token-j-4-depot-de-plainte.md) — [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md) Police — Complément de plainte — [🔗 Drive](https://drive.google.com/file/d/1t7m4zT7Cw2LwLkRqGxPkA8QKXYM5nqK7/view)
 <hr><hr>
 
+<hr><hr>
 ## PIÈCES ADMINISTRATIVES
 
 - [**[J+5 Ouverture CPAM]**](../../../../Memory/Tokens/token-j-5-ouverture-cpam.md) — CPAM Haute-Garonne — Dossier RCT [**[N° Dossier CPAM]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md) — [🔗 Drive](https://drive.google.com/file/d/1mTGqygF0mS0Y5Yx-kRg3bM-7HHTajZqJ/view)
@@ -68,6 +72,7 @@ statut: annexe
 - 04/06/2026 — URSSAF Midi-Pyrénées — Attestation de vigilance n°2 — [🔗 Drive](https://drive.google.com/file/d/1T8W4GrLrQ9MnO3YaS6uI0KdE5hX2cZ7F/view)
 <hr><hr>
 
+<hr><hr>
 ## PIÈCES DE PROCÉDURE
 
 - [**[J+31 Mises en demeure]**](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md) — [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) — Mise en demeure [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) — [🔗 Drive](https://drive.google.com/file/d/1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn/view)
@@ -79,6 +84,7 @@ statut: annexe
 - [**[J+31 Mises en demeure]**](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md) — [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) — Mise en demeure SAS (LRAR) — [🔗 Drive](https://drive.google.com/file/d/1ig96EJZFO5yqZcYnkJl7g2urAuTxkZLn/view)
 <hr><hr>
 
+<hr><hr>
 ## PREUVES RECOMMANDÉS
 
 - [**[J+31 Mises en demeure]**](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md) — La Poste — AR n°1A 182 166 1031 7

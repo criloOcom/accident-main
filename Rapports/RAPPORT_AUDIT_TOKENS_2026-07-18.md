@@ -21,7 +21,7 @@ Ce rapport présente l'audit du système de tokens d'anonymisation du dossier, r
 
 ## 1. Matrice de complétude `TOKEN MAP.md` et fiches individuelles
 
-L'analyse comparative entre `Memory/TOKEN MAP.md` et les fiches individuelles du dossier `Memory/Tokens/` révèle une architecture globalement structurée, mais avec des désynchronisations.
+L'analyse comparative entre [Memory/TOKEN MAP.md](../Memory/TOKEN MAP.md) et les fiches individuelles du dossier [Memory/Tokens](../Memory/Tokens/README.md) révèle une architecture globalement structurée, mais avec des désynchronisations.
 
 - **Tokens répertoriés dans la MAP :** 69 tokens (identifiés sous la forme `[**[Token]**]`).
 
@@ -29,7 +29,7 @@ L'analyse comparative entre `Memory/TOKEN MAP.md` et les fiches individuelles du
 
 - **Fiches existantes :** 85 fiches MD ont été trouvées, incluant `token-exploitation-prepose-telephone.md` et la mise à jour de `token-exploitation-prepose-nom.md`.
 
-- **Incohérences dans l'index :** Le fichier `Memory/Tokens/README.md` liste manuellement les fiches et n'est pas à jour vis-à-vis de la carte principale. Les 9 tokens suivants (issus de la MAP) n'y figurent pas :
+- **Incohérences dans l'index :** Le fichier [Memory/Tokens/README.md](../Memory/Tokens/README.md) liste manuellement les fiches et n'est pas à jour vis-à-vis de la carte principale. Les 9 tokens suivants (issus de la MAP) n'y figurent pas :
 
   - `**[SIREN du Nouvel Exploitant]**`
   - `**[Le Nouvel Exploitant (HB BARBER)]**`
@@ -80,7 +80,7 @@ Le script omet **38 tokens** présents dans la MAP. Parmi les absences notables,
 
 Le nouveau token `[**[Le Téléphone du Préposé]**](../Memory/Tokens/token-exploitation-prepose-telephone.md)` a été intégré dans le dossier de manière étendue.
 
-- **Nombre d'insertions :** Le token est présent dans **22 fichiers** distincts au sein du répertoire `Actes/Token/`.
+- **Nombre d'insertions :** Le token est présent dans **22 fichiers** distincts au sein du répertoire [Actes/Token](../Actes/Token/README.md).
 
 - L'objectif mentionnait 26 fichiers, il y a donc potentiellement 4 fichiers où le token devrait figurer et où il est absent ou remplacé par une autre expression, mais son utilisation reste massive dans les courriers, mémos stratégiques et notes de synthèse.
 
@@ -88,12 +88,12 @@ Le nouveau token `[**[Le Téléphone du Préposé]**](../Memory/Tokens/token-exp
 
 ## 4. Fuites détectées (Données réelles)
 
-Une recherche ciblée sur les données réelles du préposé (Ayoub Bennourine, ainsi que ses numéros de téléphone) dans le sous-dossier sécurisé `Actes/Token/` a révélé **3 fichiers non expurgés**, constituant un échec critique d'anonymisation.
+Une recherche ciblée sur les données réelles du préposé (Ayoub Bennourine, ainsi que ses numéros de téléphone) dans le sous-dossier sécurisé [Actes/Token](../Actes/Token/README.md) a révélé **3 fichiers non expurgés**, constituant un échec critique d'anonymisation.
 
 Les fuites d'identités réelles ont été détectées dans les fichiers suivants :
 - `Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Personnelle.md` (Fuite du prénom "AYOUB")
 
-- `Actes/Token/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md` (Fuite du prénom/nom "Ayoub B.")
+- [Actes/Token/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md](../Actes/Token/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md) (Fuite du prénom/nom "Ayoub B.")
 
 - `Actes/Token/Actes_proceduraux/📋 Preparation Foix/Police - Note Projet Déclaration.md` (Fuite du prénom "AYOUB B" et du téléphone réel "+33 7 58 40 12 87")
 

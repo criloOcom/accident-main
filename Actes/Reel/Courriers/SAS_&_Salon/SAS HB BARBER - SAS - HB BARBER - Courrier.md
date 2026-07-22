@@ -40,9 +40,9 @@ Direction de [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Déclaration d'accident corporel — Demande de communication des coordonnées de l’assurance RC professionnelle — Démarche amiable préalable
----
+<hr><hr>
 
 Mode d’envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 
@@ -161,4 +161,3 @@ Téléphone : **[06 30 51 67 75](../../../../Memory/Tokens/token-victime-telepho
 [^1]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 [^2]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 <!-- /Source -->
-

@@ -24,9 +24,9 @@ jx: J+38
 <!-- /Breadcrumb -->
 
 # TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (CLIENT)
----
+<hr><hr>
 Objet : Attestation de témoin — Accident du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au salon **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**
----
+<hr><hr>
 
 <hr><hr>
 
@@ -78,10 +78,7 @@ Cordialement,
 📎 **Pièce jointe :** Joindre le PDF du Cerfa n° 11527\*03.
 
 <!-- Source -->
-<hr><hr>
-
 ## Sources Législation
 
 [^1]: [Article 202 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330)
 <!-- /Source -->
-

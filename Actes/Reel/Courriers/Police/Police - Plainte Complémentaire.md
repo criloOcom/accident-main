@@ -66,19 +66,19 @@ Place de la Préfecture
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 20 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Plainte complémentaire — Accident corporel du 29 mai 2026 — Correction de l'identité de la société exploitante ([SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md))**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 Monsieur le Commandant,
 

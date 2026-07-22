@@ -13,7 +13,7 @@ Vérifier la cohérence interne de CHAQUE acte juridique (pas de contradiction e
 
 ## MÉTHODE
 
-1. **Pour chaque acte** dans `Actes/Token/` :
+1. **Pour chaque acte** dans [Actes/Token](../../Actes/Token/README.md) :
    - Lire l'intégralité du document
    - Vérifier que l'exposé des faits est cohérent avec le dispositif
    - Vérifier que les montants demandés en dispositif correspondent aux développements
@@ -24,4 +24,4 @@ Vérifier la cohérence interne de CHAQUE acte juridique (pas de contradiction e
 
 ## LIVRABLE
 
-`Rapports/85_Coherence_2026-07-15/M08_AUDIT_CONSISTANCE_INTERNE.md`
+[Rapports/85_Coherence_2026-07-15/M08_AUDIT_CONSISTANCE_INTERNE.md](../../Rapports/85_Coherence_2026-07-15/M08_AUDIT_CONSISTANCE_INTERNE.md)

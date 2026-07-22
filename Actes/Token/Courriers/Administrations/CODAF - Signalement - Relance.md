@@ -55,19 +55,19 @@ Préfecture de l'Ariège
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 15 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet :** Suivi du signalement transmis par la Mairie de Foix — Salon « **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** » (**[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**)
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 Monsieur le Préfet,
 
@@ -97,7 +97,6 @@ Je vous remercie de l'attention portée à la présente et vous prie d'agréer, 
 
 <!-- PJ -->
 <hr><hr>
-
 ## PIECES JOINTES
 
 - **[Mairie - ERP Tavella - Courrier.md](../../../Reel/Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel [L'Adjoint au Maire de la Commune] (1er juin 2026)
@@ -110,4 +109,3 @@ Je vous remercie de l'attention portée à la présente et vous prie d'agréer, 
 
 - **[Témoin Client - Attestation.md](../../Attestations/T%C3%A9moin%20Client%20-%20Attestation.md)** — Attestation sur l'honneur temoin oculaire
 <!-- /PJ -->
-

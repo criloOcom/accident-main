@@ -1,6 +1,6 @@
 ---
 title: "Constitution de Partie Civile"
-description: "Rédigé le 30 juin 2026"
+description: "Rédigé le **[J+32 Assignation référé]"
 type: readme
 date: 2026-06-30
 tags:
@@ -19,7 +19,7 @@ drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 **Table des matières**
 
@@ -28,11 +28,12 @@ drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 # CONSTITUTION DE PARTIE CIVILE
 > 🔗 Source Google Drive : [1tdFbDxNceGV…](https://drive.google.com/open?id=1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc)
 Rédigé le [30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md)
+<hr><hr>
 ## INTRODUCTION
 
-La présente constitution de partie civile est formée par [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) dans le cadre de la procédure pénale suivie devant le Tribunal Correctionnel de [Foix](../../../Memory/Tokens/token-accident-ville.md) à l'encontre de [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md).
+La présente constitution de partie civile est formée par [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) dans le cadre de la procédure pénale suivie devant le Tribunal Correctionnel de [Foix](../../../Memory/Tokens/token-accident-ville.md) à l'encontre de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md).
 
-Par cet acte, fondé sur les articles 2 et suivants du Code de procédure pénale, la victime entend exercer les droits reconnus à la partie civile afin d'obtenir la réparation de l'intégralité des préjudices découlant de l'accident corporel dont elle a été victime le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md) : alors que l'employé [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tél. [07 58 40 12 87](../../../Memory/Tokens/token-exploitation-prepose-telephone.md)) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé ; par réflexe, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a tendu la main droite pour protéger [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md), et sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
+Par cet acte, fondé sur les articles 2 et suivants du Code de procédure pénale, la victime entend exercer les droits reconnus à la partie civile afin d'obtenir la réparation de l'intégralité des préjudices découlant de l'accident corporel dont elle a été victime le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md) : alors que l'employé [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../Memory/Tokens/token-exploitation-prepose-telephone.md)) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé ; par réflexe, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a tendu la main droite pour protéger [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md), et sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
 Cette constitution de partie civile permet à [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) de participer activement à la procédure pénale et de solliciter l'indemnisation de ses préjudices devant la juridiction répressive.
 
@@ -44,7 +45,7 @@ Tribunal Correctionnel de [Foix](../../../Memory/Tokens/token-accident-ville.md)
 
 **[Adresse Tribunal Judiciaire]**
 
-[09000](../../../Memory/Tokens/token-accident-code-postal.md) [Foix](../../../Memory/Tokens/token-accident-ville.md)
+[**[Code Postal de l'Accident]**](../../../Memory/Tokens/token-accident-code-postal.md) [Foix](../../../Memory/Tokens/token-accident-ville.md)
 
 Je soussigné(e) :
 
@@ -56,7 +57,7 @@ Agissant en mon nom personnel.
 
 Déclare me constituer partie civile contre :
 
-[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) ([Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md), Président) et [Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) (Directrice Générale).
+[SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) ([Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md), Président) et [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) (Directrice Générale).
 
 Dans l'affaire qui doit être examinée par le tribunal :
 
@@ -96,9 +97,9 @@ Signature :
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
-[^1]: [Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
-[^2]: [Article 475-1 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107)
+[^1]: [Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+[^2]: [Article 475-1 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) ↩
 <!-- /Source -->
-

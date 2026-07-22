@@ -46,15 +46,13 @@ Monsieur **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleu
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 29 juin 2026
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Demande de communication d'assurance RC — Accident **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** — L.R.A.R.
----
+<hr><hr>
 
 La présente lettre est adressée par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** à **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** en sa qualité de propriétaire bailleur des locaux commerciaux situés au **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de l'exploitant.
 
 Cette démarche s'inscrit dans le cadre de la procédure d'indemnisation du grave accident corporel survenu le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** dans lesdits locaux.
-<hr><hr>
-
 ## II — RAPPEL DES OBLIGATIONS LÉGALES
 
 L'article 1719 du Code civil impose au bailleur de délivrer au preneur un local en bon état d'usage et de faire jouir paisiblement le preneur pendant toute la durée du bail.
@@ -155,4 +153,3 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 [^5]: [Article L. 113-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)
 [^6]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 <!-- /Source -->
-

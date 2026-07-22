@@ -37,6 +37,6 @@ Vérifier que TOUS les montants d'indemnisation mentionnés dans le dépôt corr
 
 ## LIVRABLE
 
-`Rapports/85_Coherence_2026-07-15/M02_AUDIT_MONTANTS.md`
+[Rapports/85_Coherence_2026-07-15/M02_AUDIT_MONTANTS.md](../../Rapports/85_Coherence_2026-07-15/M02_AUDIT_MONTANTS.md)
 
 Format : TODO list avec cases. Chaque item = un montant à corriger ou un fichier à mettre à jour.

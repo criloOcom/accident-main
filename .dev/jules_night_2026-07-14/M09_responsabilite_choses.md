@@ -13,7 +13,7 @@ Produis un rapport `Rapports/RAPPORT_RESPONSABILITE_CHOSES_2026-07-14.md` approf
 
 ## ANGLES
 
-1. **Art. 1240 C. civ.** : présomption de responsabilité du gardien de la chose (la vasque). Charge de la preuve du fait de la chose et de la causalité. Jurisprudence de principe (arrêts Leroy 70-12.124, 74-10.466, 89-18.422, 91-13.580, 91-15.035 — présents dans `Lois/`, à vérifier). Distinction cas d'école vs notre cas (basculement, cassure préexistante).
+1. **Art. 1240 C. civ.** : présomption de responsabilité du gardien de la chose (la vasque). Charge de la preuve du fait de la chose et de la causalité. Jurisprudence de principe (arrêts Leroy 70-12.124, 74-10.466, 89-18.422, 91-13.580, 91-15.035 — présents dans [Lois](../../Lois/README.md), à vérifier). Distinction cas d'école vs notre cas (basculement, cassure préexistante).
 2. **Responsabilité du fait des produits défectueux** : art. 1245 s. C. civ. (transposition dir. 85/374) — applicable à la vasque ? Producteur vs distributeur vs exploitant.
 3. **Obligation de sécurité de l'exploitant** : art. L.4121-1 C. trav. (envers tiers) et norme R.4323-58 CT (accès en hauteur).
 4. **Contrat de consommation** : prestation de service (coiffure) — art. 1147/1231-1 C. civ., devoir de sécurité de résultat envers le consommateur (client).

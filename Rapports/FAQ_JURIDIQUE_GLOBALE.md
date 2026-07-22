@@ -15,13 +15,13 @@ statut: final
 ## A. THÈME 1 : LES FAITS
 
 - **1. Que s'est-il exactement passé le 29 mai 2026 ?**
-  Le 29 mai 2026 à 15h00, [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) a été victime d'un accident dans le salon de coiffure exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) situé au 22 Rue Lafaurie. Le bac à shampoing a basculé lorsque le coiffeur [**[Le Préposé de l'Exploitation]**](../../Memory/Tokens/token-exploitation-prepose-nom.md) est monté dessus. En tendant la main pour le protéger, la victime a heurté une cassure majeure préexistante sur le flanc de la vasque en céramique.
+  Le 29 mai 2026 à 15h00, [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) a été victime d'un accident dans le salon de coiffure exploité par [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) situé au 22 Rue Lafaurie. Le bac à shampoing a basculé lorsque le coiffeur [**[Le Préposé de l'Exploitation]**](../Memory/Tokens/token-exploitation-prepose-nom.md) est monté dessus. En tendant la main pour le protéger, la victime a heurté une cassure majeure préexistante sur le flanc de la vasque en céramique.
 
 - **2. Comment l'accident est-il survenu ?**
   L'accident est survenu suite à une manœuvre dangereuse du préposé qui est monté physiquement sur la vasque en céramique du bac à shampoing pour régler un téléviseur. Son poids a provoqué le basculement de l'équipement, entraînant le geste réflexe de protection de la victime.
 
 - **3. Qui était présent ?**
-  Étaient présents la victime [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) et le coiffeur [**[Le Préposé de l'Exploitation]**](../../Memory/Tokens/token-exploitation-prepose-nom.md).
+  Étaient présents la victime [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) et le coiffeur [**[Le Préposé de l'Exploitation]**](../Memory/Tokens/token-exploitation-prepose-nom.md).
 
 - **4. Quelles étaient les conditions de sécurité ?**
   Les conditions de sécurité étaient défaillantes. La vasque présentait une cassure majeure préexistante et non signalée sur le flanc. De plus, le fait que le coiffeur monte sur cet équipement fragile constitue un manquement grave aux règles de sécurité dans un Établissement Recevant du Public (ERP).
@@ -33,7 +33,7 @@ statut: final
   Seule la main droite a été touchée (section partielle tendon fléchisseur, paquet collatéral et nécessité d'une neurolyse du nerf palmaire). La main gauche est restée fonctionnelle.
 
 - **7. Quelle preuve matérielle atteste de la présence de la victime sur les lieux ?**
-  Un paiement Wero de 15,00 € a été effectué le 29 mai 2026 à 15h20 au profit de [**[Le Préposé de l'Exploitation]**](../../Memory/Tokens/token-exploitation-prepose-nom.md) pour la prestation de coiffure, ce qui constitue une preuve matérielle de présence et d'une relation contractuelle.
+  Un paiement Wero de 15,00 € a été effectué le 29 mai 2026 à 15h20 au profit de [**[Le Préposé de l'Exploitation]**](../Memory/Tokens/token-exploitation-prepose-nom.md) pour la prestation de coiffure, ce qui constitue une preuve matérielle de présence et d'une relation contractuelle.
 
 - **8. Une erreur de date figure-t-elle sur certains documents ?**
   Oui, certains certificats médicaux mentionnent par erreur la date du 29/06/2026 au lieu du 29/05/2026. L'accident a bien eu lieu le vendredi 29 mai 2026.
@@ -111,7 +111,7 @@ statut: final
   Il s'agit d'une procédure d'urgence visant à obtenir une avance (provision) lorsque l'obligation d'indemnisation n'est pas sérieusement contestable.
 
 - **31. Pourquoi avoir envoyé des mises en demeure à diverses personnes ?**
-  Les mises en demeure visaient [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md), ses dirigeants, et [**[Le Propriétaire des Murs]**](../../Memory/Tokens/token-exploitation-bailleur-nom.md) afin d'identifier la compagnie d'assurance de la SAS et solliciter une indemnisation.
+  Les mises en demeure visaient [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md), ses dirigeants, et [**[Le Propriétaire des Murs]**](../Memory/Tokens/token-exploitation-bailleur-nom.md) afin d'identifier la compagnie d'assurance de la SAS et solliciter une indemnisation.
 
 - **32. Quel est le calendrier prévisionnel des prochaines étapes ?**
   La semaine du 27 juillet 2026, un déplacement à Foix est prévu pour le dépôt d'Aide Juridictionnelle totale et un complément de PV au commissariat.
@@ -131,13 +131,13 @@ statut: final
 ## E. THÈME 5 : L'ASSURANCE ET LES DIRIGEANTS
 
 - **37. Qui est l'assureur de responsabilité civile de la SAS ?**
-  À ce jour, l'identité de l'assureur de [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) est dissimulée par les dirigeants.
+  À ce jour, l'identité de l'assureur de [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) est dissimulée par les dirigeants.
 
 - **38. Pourquoi l'action directe est-elle difficile ?**
   L'action directe contre l'assureur est actuellement bloquée et difficile car la compagnie d'assurance n'est pas identifiée.
 
 - **39. Qui sont les dirigeants de la SAS ?**
-  Il s'agit de [**[Le Président de l'Exploitation]**](../../Memory/Tokens/token-exploitation-president-nom.md) (Président) et [**[La Directrice Générale de l'Exploitation]**](../../Memory/Tokens/token-exploitation-dg-nom.md) (Directrice Générale).
+  Il s'agit de [**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md) (Président) et [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md) (Directrice Générale).
 
 - **40. Quelle est la responsabilité des dirigeants dans cette affaire ?**
   Les dirigeants risquent de voir leur responsabilité personnelle engagée solidairement (in solidum) avec la SAS sur la base d'une faute détachable de leurs fonctions.

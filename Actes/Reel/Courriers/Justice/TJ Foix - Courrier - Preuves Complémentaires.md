@@ -45,19 +45,19 @@ BP 50078
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le 12 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Transmission de preuves complementaires — [PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) — Accident corporel du 29 mai 2026**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 **Ref : SIREN **[104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)** — [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° 31727387
 
@@ -133,4 +133,3 @@ Dans l'attente de votre retour, je vous prie d'agreer, Monsieur le President, l'
 
 - **[Note - Audit RNE NPAI SAS.md](../../Analyses_juridiques/Note%20-%20Audit%20RNE%20NPAI%20SAS.md)** — Note d'audit RNE/INPI du 10 juillet 2026
 <!-- /PJ -->
-

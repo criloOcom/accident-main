@@ -15,7 +15,7 @@ type: rapport
 Garantir que **toute citation d'un dossier ou d'un fichier interne au dépôt** soit un **lien relatif cliquable** (Markdown `[texte](chemin)`), jamais un simple texte entre backticks sans lien. Objectif : navigation totale entre tous les fichiers, sans régression qualité par les agents futurs.
 
 ## II — Règle instituée
-- **Règle #17** ajoutée dans `Memory/RULES.md` : liens obligatoires sur toute citation interne (dossier → `README.md` du dossier ; fichier → fichier).
+- **Règle #17** ajoutée dans [Memory/RULES.md](../../Memory/RULES.md) : liens obligatoires sur toute citation interne (dossier → `README.md` du dossier ; fichier → fichier).
 
 - Inscrite dans `AGENTS.md` (point 6 du workflow) pour que **tout agent** la respecte dès sa prise de poste.
 
@@ -29,15 +29,15 @@ Garantir que **toute citation d'un dossier ou d'un fichier interne au dépôt** 
 
 - **2 hubs de gouvernance corrigés** (lus par tous les agents) :
 
-  - `Memory/WORKFLOW.md` : citations `Actes/archives/STRATEGIE_...` (dossier renommé) → `Actes/Token/Archives/Archive - Stratégie Contentieux Civil.md` (+ Pénal), liées.
-  - `Memory/RULES.md` : même correction.
+  - [Memory/WORKFLOW.md](../../Memory/WORKFLOW.md) : citations `Actes/archives/STRATEGIE_...` (dossier renommé) → [Actes/Token/Archives/Archive - Stratégie Contentieux Civil.md](../../Actes/Token/Archives/Archive - Stratégie Contentieux Civil.md) (+ Pénal), liées.
+  - [Memory/RULES.md](../../Memory/RULES.md) : même correction.
 - Aucune régression : `check_consistency.py` (« Rien à signaler »), `audit_readme_integrity.py` (0 erreur), audit YAML (0 invalide).
 
 ## V — Restant à traiter (non bloquant)
 Environ 290 citations résiduelles pointent vers des **cibles inexistantes** ou sont des **conventions illustratives**. Répartition :
 - **Conventions illustratives** (à ignorer) : `Memory/RULES.md #12`, `Actes/...` (listage de dossiers dans AGENTS.md), `*.md`, `{00-06}`, `XXX.md`.
 
-- **Docs d'archive / journaux historiques** (`Rapports/Archives/...`, `Memory/STATUS.md`) : chemins historiques morts (fichiers renommés/supprimés, ex. `Rapports/expertise/20260707 Mémoire juridique Glose.md` jamais importé, docs fantômes `RAPPORT_JURISPRUDENCES.md`).
+- **Docs d'archive / journaux historiques** (`Rapports/Archives/...`, [Memory/STATUS.md](../../Memory/STATUS.md)) : chemins historiques morts (fichiers renommés/supprimés, ex. [Rapports/expertise/20260707 Mémoire juridique Glose.md](../expertise/20260707 Mémoire juridique Glose.md) jamais importé, docs fantômes `RAPPORT_JURISPRUDENCES.md`).
 
 - **Quelques docs fantômes connus** déjà signalés dans l'audit Hermès (ex. `Memory/RAPPORT_JURISPRUDENCES.md`).
 

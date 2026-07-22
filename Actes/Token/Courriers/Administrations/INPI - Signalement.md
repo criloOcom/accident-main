@@ -49,13 +49,14 @@ INPI — Registre National des Entreprises
 
 > 🔗 Source Google Drive : [1gFhTi6GhD6u…](https://drive.google.com/open?id=1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E)
 
----
+<hr><hr>
 Objet : Demande de signalement de litige en cours au RNE — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
----
+<hr><hr>
 
 Ref : SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md) — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
 Madame, Monsieur,
+<hr><hr>
 ## I — INTRODUCTION
 
 La presente est adressee a l'INPI par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), immatriculee au RNE sous le SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md).
@@ -63,6 +64,7 @@ La presente est adressee a l'INPI par **[La Victime](../../../../Memory/Tokens/t
 Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main.
 <hr><hr>
 
+<hr><hr>
 ## II — RAPPEL DES FAITS
 
 Le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**, alors que je me trouvais dans l'etablissement pour une prestation de coiffure, le prepose de l'exploitation est monte sur le bac a shampoing en ceramique pour acceder au poste de television.
@@ -72,6 +74,7 @@ Cet equipement etait instable et presentait une cassure majeure preexistante non
 En descendant, le poids du prepose a provoque le basculement de l'equipement, et ma main droite, tendue par reflexe pour le proteger, a heurte la cassure preexistante, entrainant une plaie palmaire profonde et une section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant.
 <hr><hr>
 
+<hr><hr>
 ## III — PROCEDURES EN COURS
 
 Les procedures suivantes ont ete engagees :
@@ -102,6 +105,7 @@ Les procedures suivantes ont ete engagees :
 - Saisine du CODAF via la Prefecture de l'Ariege
 <hr><hr>
 
+<hr><hr>
 ## IV — DEMANDE DE SIGNALEMENT
 
 Conformement aux dispositions du Code de commerce relatives au Registre National des Entreprises, je sollicite l'inscription d'un signalement au dossier RNE de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md)) afin de porter a la connaissance des tiers et de l'administration l'existence du litige en cours.
@@ -121,6 +125,7 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 <!-- PJ -->
 <hr><hr>
 
+<hr><hr>
 ## PIECES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
@@ -139,8 +144,8 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
 <!-- /Source -->
-

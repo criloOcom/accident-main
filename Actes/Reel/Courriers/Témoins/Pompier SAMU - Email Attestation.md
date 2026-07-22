@@ -24,9 +24,9 @@ jx: J+38
 <!-- /Breadcrumb -->
 
 # TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (POMPIER / SAMU)
----
+<hr><hr>
 Objet : Attestation de témoin — Intervention du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**
----
+<hr><hr>
 
 <hr><hr>
 

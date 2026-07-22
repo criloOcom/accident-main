@@ -54,9 +54,9 @@ Fait à **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[dat
 
 **Lettre recommandée avec accusé de réception**
 
----
+<hr><hr>
 **Objet :** Déclaration de sinistre et mise en demeure — Accident du 29 mai 2026 — Salon de coiffure [**[Nom Commercial de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-nom-commercial.md) — Action directe (art. L. 124-3 C. assur.)
----
+<hr><hr>
 
 Madame, Monsieur,
 
@@ -149,10 +149,7 @@ Ce courrier est une **simulation** reprenant la structure du draft fourni par l'
 - Avis Dintilhac externe : [`Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`](../../../../Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md)
 
 <!-- Source -->
-<hr><hr>
-
 ## Sources Législation
 
 [^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 <!-- /Source -->
-

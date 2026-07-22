@@ -45,23 +45,24 @@ BP 50078
 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le 12 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Transmission de preuves complementaires — [PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) — Accident corporel du 29 mai 2026**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 **Ref : SIREN **[SIREN de l'Exploitation](../../../../Memory/Tokens/token-exploitation-siren.md)** — [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
 
 Monsieur le President,
+<hr><hr>
 ## I — INTRODUCTION
 
 La presente a pour objet de transmettre au Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** des elements de preuve complementaires dans le cadre de l'enquete preliminaire ouverte suite a l'accident corporel grave dont j'ai ete victime le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein de l'etablissement exploite par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, sise **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** a **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**.
@@ -71,6 +72,7 @@ Le **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeu
 Ces elements sont de nature a etablir que la SAS et ses dirigeants se soustraient a toute communication et pourraient tenter de faire obstacle a la procedure en cours.
 <hr><hr>
 
+<hr><hr>
 ## II — RAPPEL DE LA PROCEDURE
 
 Le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**, j'ai ete victime d'un accident corporel grave au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**. Un prepose est monte sur un bac a shampoing en ceramique instable et casse pour acceder au poste de television, faute d'escabeau. La vasque a bascule sous son poids, et ma main droite a heurte la cassure preexistante, entrainant une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence.
@@ -86,6 +88,7 @@ Les procedures suivantes ont ete engagees :
 4. **Dossier medical complet** transmis au Procureur de la Republique
 <hr><hr>
 
+<hr><hr>
 ## II — PIECES TRANSMISES
 
 Je transmets par la presente les pieces suivantes :
@@ -99,6 +102,7 @@ Je transmets par la presente les pieces suivantes :
 4. **Note d'audit RNE/INPI** du 10 juillet 2026 — confirmant que la SAS est toujours active a la meme adresse, sans modification de siege
 <hr><hr>
 
+<hr><hr>
 ## III — DEMANDE
 
 Je sollicite de votre bienveillance que les pieces ci-jointes soient **integrees au dossier de l'enquete preliminaire** en cours sous le [PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md).
@@ -123,6 +127,7 @@ Dans l'attente de votre retour, je vous prie d'agreer, Monsieur le President, l'
 <!-- PJ -->
 <hr><hr>
 
+<hr><hr>
 ## PIECES JOINTES
 
 - **[Note - Suivi Envois LRAR.md](../../Organisation/Note%20-%20Suivi%20Envois%20LRAR.md)** — Accusés de réception des courriers recommandés retournés
@@ -133,4 +138,3 @@ Dans l'attente de votre retour, je vous prie d'agreer, Monsieur le President, l'
 
 - **[Note - Audit RNE NPAI SAS.md](../../Analyses_juridiques/Note%20-%20Audit%20RNE%20NPAI%20SAS.md)** — Note d'audit RNE/INPI du 10 juillet 2026
 <!-- /PJ -->
-

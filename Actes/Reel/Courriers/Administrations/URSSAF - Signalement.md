@@ -46,9 +46,9 @@ TSA 90002
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Signalement de travail dissimule presume — SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
----
+<hr><hr>
 
 Ref : SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)
 
@@ -142,4 +142,3 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Direc
 [^2]: [Article R4121-1 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023795562](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023795562)
 [^3]: [Article L8271-1-2 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054334961](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054334961)
 <!-- /Source -->
-

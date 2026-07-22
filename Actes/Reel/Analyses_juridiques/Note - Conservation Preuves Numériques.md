@@ -1,6 +1,6 @@
 ---
 title: "Note - Conservation Preuves Numériques"
-description: "Dans le cadre du litige opposant [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) à [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md), il convient de se prémunir contre le risque de disparition, de dissimulation ou de destruction des preuves numériques attestant de l'existence et de l'exploi"
+description: "Dans le cadre du litige opposant [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) à [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md), il convient de se prémunir contre le risque de disparition, de dissimulation ou de destruction des preuves numériques attestant de l'existence et de l'exploi"
 type: analyse_juridique
 date: 2026-07-09
 tags:
@@ -17,18 +17,20 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Conservation Preuves Numérique
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # NOTE SUR LA CONSERVATION DES PREUVES EXTÉRIEURES ET NUMÉRIQUES
+<hr><hr>
 ## I — PROBLÉMATIQUE
 
-Dans le cadre du litige opposant **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)** à **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, il convient de se prémunir contre le risque de disparition, de dissimulation ou de destruction des preuves numériques attestant de l'existence et de l'exploitation réelle du commerce à **[22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md)**.
+Dans le cadre du litige opposant **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** à **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, il convient de se prémunir contre le risque de disparition, de dissimulation ou de destruction des preuves numériques attestant de l'existence et de l'exploitation réelle du commerce à **[L'Adresse de l'Exploitation](../../../Memory/Tokens/token-exploitation-adresse.md)**.
 
 La société exploitante pourrait tenter de supprimer sa présence en ligne ou d'altérer ses informations publiques pour organiser son insolvabilité ou contester la matérialité des faits.
 
 Cette note précise les mesures conservatoires à mettre en œuvre immédiatement pour figer la situation en ligne et collecter les éléments de preuve pertinents.
 <hr><hr>
 
+<hr><hr>
 ## II — FONDEMENT JURIDIQUE
 
 L'[article 1358 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/)[^1] dispose que "la preuve peut être apportée par tout moyen" pour les faits juridiques.
@@ -64,11 +66,12 @@ Cependant, en matière numérique, la force probante dépend des modalités de r
 Afin de garantir l'admissibilité et l'incontestabilité de ces preuves, il convient de les sécuriser via des outils d'archivage certifiés et, si nécessaire, par des constats de commissaires de justice.
 <hr><hr>
 
+<hr><hr>
 ## III — ARGUMENTATION ET STRATÉGIE DE COLLECTE
 
 ### III.1 — Conservation des réseaux sociaux (Facebook, Instagram)
 
-Les pages de **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** sur les réseaux sociaux peuvent démontrer l'activité récente, la configuration des lieux (photos de l'intérieur du commerce, présence du téléviseur ou des bacs à shampoing) et les horaires d'ouverture.
+Les pages de **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** sur les réseaux sociaux peuvent démontrer l'activité récente, la configuration des lieux (photos de l'intérieur du commerce, présence du téléviseur ou des bacs à shampoing) et les horaires d'ouverture.
 
 - **Action** : Réaliser des captures d'écran horodatées et enregistrer les pages web complètes.
 
@@ -76,8 +79,8 @@ Les pages de **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-
 
 ### III.2 — Plateformes d'annuaires et d'information sur les sociétés
 
-Ces plateformes prouvent que la société était bien référencée et active à **[22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md)** :
-- **Societe.com** / **Infogreffe** : Permet de prouver l'immatriculation de **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** sous son identifiant, l'identité de ses dirigeants (**[Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md)**, **[Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md)**), et l'adresse de son siège.
+Ces plateformes prouvent que la société était bien référencée et active à **[L'Adresse de l'Exploitation](../../../Memory/Tokens/token-exploitation-adresse.md)** :
+- **Societe.com** / **Infogreffe** : Permet de prouver l'immatriculation de **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** sous son identifiant, l'identité de ses dirigeants (**[Le Président de l'Exploitation](../../../Memory/Tokens/token-exploitation-president-nom.md)**, **[La Directrice Générale de l'Exploitation](../../../Memory/Tokens/token-exploitation-dg-nom.md)**), et l'adresse de son siège.
 
 - **Kompass** / **Pages Jaunes** : Prouve l'inscription commerciale et les coordonnées publiques de l'établissement au moment de l'accident.
 
@@ -96,9 +99,10 @@ Pour les preuves jugées essentielles et facilement altérables (photos intérie
 Conformément à la norme AFNOR Z67-147, le Commissaire de Justice dressera un procès-verbal de constat figeant de manière irréfragable l'état des informations publiques de la société à un instant T.
 <hr><hr>
 
+<hr><hr>
 ## IV — CONCLUSION ET RECOMMANDATIONS
 
-Il est impératif d'agir de manière proactive, avant même l'introduction de la procédure judiciaire formelle contre **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
+Il est impératif d'agir de manière proactive, avant même l'introduction de la procédure judiciaire formelle contre **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
 
 1. **Réaliser immédiatement** des sauvegardes via Wayback Machine (Archive.org) pour les réseaux sociaux, annuaires et avis Google.
 
@@ -108,17 +112,17 @@ Il est impératif d'agir de manière proactive, avant même l'introduction de la
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
-[^1]: [article 1358 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/)
-[^2]: [Article 1358 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042316](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042316)
-[^3]: [article 1369 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042421/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042421/)
-[^4]: [Article 1369 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042446](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042446)
-[^5]: [article 1378 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042398/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042398/)
-[^6]: [Article 1378 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042401](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042401)
-[^7]: [article 1362 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042445/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042445/)
-[^8]: [article 1353 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042472/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042472/)
-[^9]: [Article 1353 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341)
-[^10]: [Arrêt n°19-25.198 — www.legifrance.gouv.fr/juri/id/JURITEXT000043302280](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043302280)
+[^1]: [article 1358 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042456/) ↩
+[^2]: [Article 1358 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042316](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042316) ↩
+[^3]: [article 1369 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042421/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042421/) ↩
+[^4]: [Article 1369 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042446](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042446) ↩
+[^5]: [article 1378 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042398/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042398/) ↩
+[^6]: [Article 1378 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042401](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042401) ↩
+[^7]: [article 1362 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042445/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042445/) ↩
+[^8]: [article 1353 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042472/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042472/) ↩
+[^9]: [Article 1353 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341) ↩
+[^10]: [Arrêt n°19-25.198 — www.legifrance.gouv.fr/juri/id/JURITEXT000043302280](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043302280) ↩
 <!-- /Source -->
-

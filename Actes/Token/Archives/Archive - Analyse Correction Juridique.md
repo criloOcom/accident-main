@@ -46,14 +46,17 @@ drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
 # **MÉMORANDUM JURIDIQUE : AFFAIRE [LA VICTIME]**
 > 🔗 Source Google Drive : [1Ikk9wlfyLuF…](https://drive.google.com/open?id=1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes)
 Rédigé le [**[J+32 Assignation référé]**](../../../Memory/Tokens/token-j-32-assignation-refere.md)
+<hr><hr>
 ## INTRODUCTION
 
 Le présent mémorandum juridique constitue un audit stratégique et une restructuration de l'arsenal contentieux déployé par [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) à l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) à la suite de l'accident corporel survenu le [**[J+0 Accident]**](../../../Memory/Tokens/token-j-0-accident.md). Ce document analyse l'ensemble des voies de droit ouvertes à la victime, évalue la solidité des fondements juridiques invocables et propose une stratégie contentieuse cohérente et optimisée. Il examine successivement les actions relevant du droit civil, du droit pénal et du droit des assurances, en vue d'assurer la réparation intégrale des préjudices subis.
 <hr><hr>
 
+<hr><hr>
 ## *AUDIT STRATÉGIQUE ET RESTRUCTURATION DE L'ARSENAL CONTENTIEUX*
 <hr><hr>
 
+<hr><hr>
 ## I — PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 
 Le [**[J+0 Accident]**](../../../Memory/Tokens/token-j-0-accident.md), [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) a subi un grave accident corporel au sein du salon exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (l'Exploitant).
@@ -71,6 +74,7 @@ L'affaire met en cause la responsabilité de la personne morale, dirigée par [*
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 <hr><hr>
 
+<hr><hr>
 ## II — CADRE JURIDIQUE DE LA RESPONSABILITÉ
 ### A. RESPONSABILITÉ DE PLEIN DROIT ET OBLIGATION DE SÉCURITÉ
 
@@ -94,6 +98,7 @@ La responsabilité personnelle des dirigeants peut être engagée, nonobstant l'
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^4]**
 <hr><hr>
 
+<hr><hr>
 ## III — MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
 ### A. SURVIE DE LA PERSONNALITÉ MORALE ET ACTION DIRECTE
 
@@ -117,6 +122,7 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 > **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307[^7]**
 <hr><hr>
 
+<hr><hr>
 ## IV — PLAN D'ACTION CONTENTIEUX
 
 1. Référé-communication : Engager une procédure sur le fondement de [Article 145 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^8] pour obtenir la police d'assurance et interrompre la prescription.
@@ -131,6 +137,7 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
@@ -142,4 +149,3 @@ Le préjudice, estimé à 59 600 €, inclut une incidence professionnelle majeu
 [^7]: [Arrêt n°22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) ↩
 [^8]: [Article 145 du CPC — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
 <!-- /Source -->
-

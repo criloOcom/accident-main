@@ -50,14 +50,13 @@ URSSAF Midi-Pyrénées
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 9 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Demande de mutualisation fiscale et sociale urgente — SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
----
+<hr><hr>
 
 Ref : SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md)
 
 Madame, Monsieur le Responsable,
-
 ## I — OBJET DE LA DEMANDE
 
 La presente est adressee conjointement a vos deux services par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**.
@@ -132,4 +131,3 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 
 - **[Signalement Inspection du Travail](../../../Reel/Courriers/Administrations/DDETS%20-%20Signalement.md)** — Signalement social adresse a la DREETS
 <!-- /PJ -->
-

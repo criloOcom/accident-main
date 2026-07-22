@@ -46,9 +46,9 @@ Service des Impôts des Entreprises de Foix
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Information de litige en cours — SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
----
+<hr><hr>
 
 <hr><hr>
 
@@ -81,8 +81,6 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 <!-- /Signature -->
 
 <!-- PJ -->
-<hr><hr>
-
 ## PIECES JOINTES
 
 - **[Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale en cours devant le TJ de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
@@ -95,4 +93,3 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 
 - **[Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° 31727387
 <!-- /PJ -->
-

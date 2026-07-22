@@ -20,6 +20,7 @@ jx: J+40
 <!-- /Breadcrumb -->
 
 # NOTE STRATÉGIQUE FGTI/CIVI
+<hr><hr>
 ## I — CONDITIONS D'ACCÈS AU FGTI (Art. 706-3 CPP)
 
 Les conditions posées par l'article 706-3 du Code de procédure pénale sont intégralement remplies :
@@ -38,6 +39,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 - **Subsidiarité** : La condition tenant à l'insolvabilité de l'auteur (capital social de la SAS limité à 200 € et possible défaut d'assurance RC professionnelle) conforte la nécessité de saisir la CIVI.
 <hr><hr>
 
+<hr><hr>
 ## II — ARTICULATION AVEC LES AUTRES PROCÉDURES ET ASSURANCES
 
 - **Si la SAS n'a pas d'assurance RC** : Le FGTI intervient à titre subsidiaire. Compte tenu de la quasi-insolvabilité de la SAS (capital de 200 €), c'est la voie principale et la plus sécurisée pour obtenir l'indemnisation.
@@ -47,6 +49,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 - **Voie pénale et civile** : La [constitution de partie civile](../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) a l'avantage de faire constater officiellement l'infraction (qui est le fait générateur de l'intervention du FGTI). Néanmoins, l'action civile devant la juridiction répressive (ou au civil) et la procédure CIVI sont autonomes. Il est possible, et même recommandé, de saisir la CIVI avant l'issue du procès pénal pour obtenir rapidement une provision, le jugement pénal n'étant pas un préalable obligatoire (la CIVI apprécie elle-même la matérialité de l'infraction).
 <hr><hr>
 
+<hr><hr>
 ## III — PROCÉDURE DÉTAILLÉE DEVANT LA CIVI
 
 1. **Saisine** : Dépôt d'une requête devant la Commission d'Indemnisation des Victimes d'Infractions (CIVI) rattachée au Tribunal Judiciaire (TJ de **[La Métropole Régionale](../../../Memory/Tokens/token-accident-metropole.md)** ou de **[La Ville de l'Accident](../../../Memory/Tokens/token-accident-ville.md)**).
@@ -61,6 +64,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 4. **Subrogation** : Une fois la victime indemnisée, le FGTI est subrogé dans ses droits et se retourne contre l'auteur (la SAS et ses dirigeants pris personnellement) pour récupérer les sommes versées.
 <hr><hr>
 
+<hr><hr>
 ## IV — DÉLAIS
 
 - **Délai de forclusion (saisine CIVI)** : 3 ans à compter de la date de l'infraction (29 mai 2026), soit une date limite au **29 mai 2029** (art. 706-5 CPP).
@@ -68,6 +72,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 - Ce délai peut être prorogé d'un an à compter d'une décision de justice définitive statuant sur l'action publique ou l'action civile, mais il est recommandé d'agir sans attendre.
 <hr><hr>
 
+<hr><hr>
 ## V — MONTANT ESTIMÉ ET PLAFOND FGTI
 
 - **Principe** : Le FGTI assure la **réparation intégrale** des préjudices corporels résultant de l'infraction, sans application d'un plafond global légal pour les atteintes graves (contrairement au SARVI).
@@ -77,6 +82,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 - Le FGTI prendra en charge la totalité des préjudices validés par l'expertise judiciaire, déduction faite des provisions déjà versées et des créances des tiers payeurs (CPAM).
 <hr><hr>
 
+<hr><hr>
 ## VI — PIÈCES NÉCESSAIRES POUR LA DEMANDE CIVI
 
 - Copie de la plainte et du procès-verbal de police (n°[**[N° PV Police]**](../../../Memory/Tokens/token-pv-police-numero.md)).
@@ -90,6 +96,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 - Éventuellement, décision d'indemnisation ou de refus d'indemnisation d'un organisme tiers.
 <hr><hr>
 
+<hr><hr>
 ## VI — RECOMMANDATION FINALE : Y ALLER OU PAS ?
 
 **Recommandation : OUI, la voie CIVI/FGTI est incontournable en cas d'insolvabilité de la SAS.**
@@ -104,8 +111,8 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) ↩
 <!-- /Source -->
-

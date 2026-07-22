@@ -26,14 +26,15 @@ jx: J+53
 # MÉMOIRE DE SYNTHÈSE — RECOURS ASSURANCES ERP
 
 > Document stratégique central. Synthèse des recours en droit des assurances et responsabilité des établissements recevant du public (ERP) applicables au dossier de l'accident de la main survenu le 29 mai 2026.
+<hr><hr>
 ## I — IDENTIFICATION ET CHAMP DE LA RECHERCHE
 
-Le présent mémoire a pour objet de rassembler l'intégralité des fondements juridiques, jurisprudentiels et stratégiques mobilisables dans le cadre du recours de **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)** à l'encontre de **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et de son assureur de responsabilité civile, à la suite de l'accident corporel survenu le 29 mai 2026 dans un salon de coiffure (ERP de catégorie 5, type M).
+Le présent mémoire a pour objet de rassembler l'intégralité des fondements juridiques, jurisprudentiels et stratégiques mobilisables dans le cadre du recours de **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** à l'encontre de **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et de son assureur de responsabilité civile, à la suite de l'accident corporel survenu le 29 mai 2026 dans un salon de coiffure (ERP de catégorie 5, type M).
 <hr><hr>
 
 ### Contexte factuel
 
-Le 29 mai 2026, alors que **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)** se trouvait dans l'établissement exploité par **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, une vasque en céramique fixée au mur s'est détachée et a basculé sur sa main, causant des sévices graves ayant nécessité une prise en charge chirurgicale d'urgence au sein du **[Centre SOS Main](../../../Memory/Tokens/token-hopital-sosmain-nom.md)**. Les conséquences médicales incluent une amputation partielle et une greffe, avec un ITT et des séquelles fonctionnelles permanentes.
+Le 29 mai 2026, alors que **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** se trouvait dans l'établissement exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, une vasque en céramique fixée au mur s'est détachée et a basculé sur sa main, causant des sévices graves ayant nécessité une prise en charge chirurgicale d'urgence au sein du **[Centre SOS Main](../../../Memory/Tokens/token-hopital-sosmain-nom.md)**. Les conséquences médicales incluent une amputation partielle et une greffe, avec un ITT et des séquelles fonctionnelles permanentes.
 
 ### Problématiques juridiques identifiées
 
@@ -64,6 +65,7 @@ Le 29 mai 2026, alors que **[Sébastien GRAZIDE](../../../Memory/Tokens/token-vi
 - **[🧠 PIECES MAP](../../../Memory/PIECES MAP.md)**
 <hr><hr>
 
+<hr><hr>
 ## II — SYNTHÈSE ACTION DIRECTE ET ASSURANCE
 
 ### II.1 — Principe de l'action directe (L. 124-3 C. assur.)
@@ -72,7 +74,7 @@ L'article L. 124-3 du Code des assurances confère au tiers lésé un droit d'ac
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »*
 
-**Application au dossier :** L'action directe est parfaitement fondée et a été engagée par la mise en demeure adressée à **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**. L'obstacle actuel réside dans la rétention d'informations par le dirigeant quant à l'identité de l'assureur, justifiant l'assignation en référé sur le fondement de l'article 145 du CPC (ordonnance **[J-41 Requête Constat 145](../../../Memory/Tokens/token-j-41-requete-constat-145.md)** et **[J-37 Assignation 145](../../../Memory/Tokens/token-j-37-assignation-145.md)**).
+**Application au dossier :** L'action directe est parfaitement fondée et a été engagée par la mise en demeure adressée à **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**. L'obstacle actuel réside dans la rétention d'informations par le dirigeant quant à l'identité de l'assureur, justifiant l'assignation en référé sur le fondement de l'article 145 du CPC (ordonnance **[J-41 Requête Constat 145](../../../Memory/Tokens/token-j-41-requete-constat-145.md)** et **[J-37 Assignation 145](../../../Memory/Tokens/token-j-37-assignation-145.md)**).
 
 ### II.2 — Prescription de l'action directe
 
@@ -111,6 +113,7 @@ L'arrêt **[20-19.288 CourCassation](../../../Lois/Jurisprudence/Action_directe_
 **Pertinence dossier :** Ces arrêts ne sont pas directement applicables (accident en France, pas de véhicule impliqué) mais confirment le principe d'exclusivité des régimes d'indemnisation : lorsqu'un régime spécifique existe (responsabilité ERP + assurance RC), il écarte les mécanismes subsidiaires. Si l'assureur est inconnu ou la garantie défaillante, le FGAO pourrait être mobilisé (art. L. 421-9 C. assur. pour les accidents corporels, sous conditions).
 <hr><hr>
 
+<hr><hr>
 ## III — RESPONSABILITÉ DE L'ERP
 
 ### III.1 — Responsabilité du fait des choses (art. 1242 C. civ.)
@@ -121,7 +124,7 @@ L'arrêt **[89-18.422 CourCassation](../../../Lois/Jurisprudence/Responsabilité
 
 > *« La cour d'appel a pu déduire, sans inverser la charge de la preuve, que la responsabilité de la société Locatel, gardienne de l'échelle, se trouvait engagée sur le fondement de l'article 1384, alinéa 1er, du Code civil, dès lors que le fait de la chose était établi. »*
 
-**Application au dossier :** La vasque en céramique fixée sur coque de douche a basculé et s'est brisée sous le poids du corps de la victime qui y a été contrainte par l'agencement des lieux. Le gardien ([SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)) est présumé responsable dès lors que le fait de la chose (basculement) est établi. Il ne démontre pas de cause étrangère — c'est le même schéma qu'en 89-18.422.
+**Application au dossier :** La vasque en céramique fixée sur coque de douche a basculé et s'est brisée sous le poids du corps de la victime qui y a été contrainte par l'agencement des lieux. Le gardien ([L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)) est présumé responsable dès lors que le fait de la chose (basculement) est établi. Il ne démontre pas de cause étrangère — c'est le même schéma qu'en 89-18.422.
 
 #### Civ. 2e, 5 mai 1975 (n° 74-10.466) — Vice inhérent
 
@@ -148,6 +151,7 @@ Le jugement **[TJ Nanterre 19/08999](<../../../Lois/Jurisprudence/Jurisprudence_
 **Pertinence dossier :** Le salon de coiffure, ERP de catégorie 5 type M, est soumis à une obligation de sécurité renforcée envers sa clientèle. Le défaut de fixation de la vasque (non conforme aux normes ERP et NFC 15-100 pour les équipements sanitaires) constitue un manquement caractérisé à cette obligation. La victime n'a pas à démontrer une faute spécifique — la responsabilité de l'exploitant est engagée de plein droit sur le double fondement de la responsabilité du fait des choses (art. 1242 C. civ.) et de l'obligation de sécurité de l'ERP.
 <hr><hr>
 
+<hr><hr>
 ## IV — SYNTHÈSE PRÉJUDICE CORPOREL ET INCIDENCE PROFESSIONNELLE
 
 ### IV.1 — Évaluation du préjudice corporel
@@ -174,7 +178,7 @@ L'évaluation des préjudices suit la nomenclature Dintilhac, conformément à l
 
 #### TJ Rennes, 2026 (n° 20/05541) — Incidence professionnelle, travailleur indépendant
 
-Le jugement **[TJ Rennes 20/05541](<../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ Rennes 20-05541.md>)** est particulièrement pertinent car il concerne l'indemnisation d'un travailleur indépendant (informaticien), identique à la situation de **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)**. Le tribunal a détaillé l'évaluation de l'incidence professionnelle tenant compte de la perte de clientèle, de la dévalorisation sur le marché du travail et des difficultés accrues d'exercice professionnel.
+Le jugement **[TJ Rennes 20/05541](<../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ Rennes 20-05541.md>)** est particulièrement pertinent car il concerne l'indemnisation d'un travailleur indépendant (informaticien), identique à la situation de **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**. Le tribunal a détaillé l'évaluation de l'incidence professionnelle tenant compte de la perte de clientèle, de la dévalorisation sur le marché du travail et des difficultés accrues d'exercice professionnel.
 
 > *« Le tribunal a alloué une indemnité au titre de l'incidence professionnelle en se fondant sur le préjudice économique futur résultant de la réduction des capacités de travail et de la perte de chance professionnelle. »*
 
@@ -184,7 +188,7 @@ L'arrêt **[19-23.173 CourCassation](../../../Lois/Jurisprudence/Préjudice_corp
 
 > *« Le préjudice résultant de la dévalorisation sociale ressentie par la victime du fait de son exclusion définitive du monde du travail est indemnisable au titre de l'incidence professionnelle. »*
 
-**Pertinence dossier :** **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)** exerce la profession d'informaticien indépendant (SIREN **[500 474 457](../../../Memory/Tokens/token-victime-id-professionnel.md)**). Le préjudice d'incidence professionnelle est central : perte de clientèle due à l'ITT prolongée, dévalorisation sur le marché du travail du fait de la limitation fonctionnelle de la main dominante, impossibilité de reprendre l'activité dans des conditions normales. La jurisprudence **[19-23.173](../../../Lois/Jurisprudence/Préjudice_corporel_et_incidence_professionnelle/19-23.173_CourCassation.md)** confirme que ce poste inclut la perte d'identité sociale, au-delà de la simple perte financière.
+**Pertinence dossier :** **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** exerce la profession d'informaticien indépendant (SIREN **[L'Identifiant Professionnel de la Victime](../../../Memory/Tokens/token-victime-id-professionnel.md)**). Le préjudice d'incidence professionnelle est central : perte de clientèle due à l'ITT prolongée, dévalorisation sur le marché du travail du fait de la limitation fonctionnelle de la main dominante, impossibilité de reprendre l'activité dans des conditions normales. La jurisprudence **[19-23.173](../../../Lois/Jurisprudence/Préjudice_corporel_et_incidence_professionnelle/19-23.173_CourCassation.md)** confirme que ce poste inclut la perte d'identité sociale, au-delà de la simple perte financière.
 
 ### IV.3 — Transaction avec réserve d'aggravation
 
@@ -194,7 +198,7 @@ Le jugement **[TJ Versailles 21/04988](<../../../Lois/Jurisprudence/Jurisprudenc
 
 > *« La transaction ne fait obstacle qu'aux éléments connus ou prévisibles au moment de sa conclusion. Lorsque les parties ont expressément réservé la faculté de solliciter une indemnisation complémentaire en cas d'aggravation médicale, la victime peut valablement agir après la transaction. »*
 
-**Pertinence dossier :** **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)** a conclu une transaction (réf. **[IPR000297029234](../../../Memory/Tokens/token-finance-transaction-wero.md)**) avec **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** incluant une clause de réserve d'aggravation. L'aggravation de l'état de santé (nécessité d'une reprise chirurgicale, séquelles neurologiques) ouvre droit à une action complémentaire sans être forclos par l'autorité de chose jugée attachée à la transaction.
+**Pertinence dossier :** **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** a conclu une transaction (réf. **[N° Transaction Wero](../../../Memory/Tokens/token-finance-transaction-wero.md)**) avec **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** incluant une clause de réserve d'aggravation. L'aggravation de l'état de santé (nécessité d'une reprise chirurgicale, séquelles neurologiques) ouvre droit à une action complémentaire sans être forclos par l'autorité de chose jugée attachée à la transaction.
 
 #### Civ. 2e, 21 mars 2024 (n° 22-18.089) — Autonomie de l'action en aggravation
 
@@ -203,6 +207,7 @@ L'arrêt **[22-18.089 CourCassation](../../../Lois/Jurisprudence/Transaction_sou
 > *« L'action en indemnisation de l'aggravation d'un préjudice corporel est autonome au regard de l'action en indemnisation du préjudice initial, en ce qu'un nouveau délai de prescription recommence à courir à compter de la consolidation de l'aggravation. »*
 <hr><hr>
 
+<hr><hr>
 ## V — FICHES JURIDIQUES — TABLEAU RÉCAPITULATIF DES ARRÊTS
 
 | Thème | Référence | Date | Apport / Ratio | Pertinence dossier |
@@ -224,6 +229,7 @@ L'arrêt **[22-18.089 CourCassation](../../../Lois/Jurisprudence/Transaction_sou
 | 🏪 Évaluation post-consolidation | [CA Chambéry 15/01748](<../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA Chambery 15-01748.md>) | 2016 | Méthode d'évaluation des préjudices corporels nomenclature Dintilhac par la CA. | ⭐⭐ Référence méthodologique pour l'évaluation judiciaire. |
 <hr><hr>
 
+<hr><hr>
 ## VI — CONCLUSION ET PRÉCONISATIONS
 <hr><hr>
 
@@ -235,7 +241,7 @@ L'arrêt **[22-18.089 CourCassation](../../../Lois/Jurisprudence/Transaction_sou
 
 3. **Transaction avec réserve d'aggravation** : la clause de réserve permet d'agir pour l'aggravation sans être forclos (TJ Versailles 21/04988, Civ. 2e 22-18.089).
 
-4. **Incidence professionnelle centrale** : la jurisprudence **[19-23.173](../../../Lois/Jurisprudence/Préjudice_corporel_et_incidence_professionnelle/19-23.173_CourCassation.md)** (perte d'identité sociale) et **[TJ Rennes 20/05541](<../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ Rennes 20-05541.md>)** (travailleur indépendant) renforcent considérablement la demande au titre de l'incidence professionnelle pour **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)**, informaticien indépendant.
+4. **Incidence professionnelle centrale** : la jurisprudence **[19-23.173](../../../Lois/Jurisprudence/Préjudice_corporel_et_incidence_professionnelle/19-23.173_CourCassation.md)** (perte d'identité sociale) et **[TJ Rennes 20/05541](<../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ Rennes 20-05541.md>)** (travailleur indépendant) renforcent considérablement la demande au titre de l'incidence professionnelle pour **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**, informaticien indépendant.
 <hr><hr>
 
 ### Recommandations stratégiques (ordre de priorité)
@@ -244,7 +250,7 @@ L'arrêt **[22-18.089 CourCassation](../../../Lois/Jurisprudence/Transaction_sou
 
 2. **🟠 Priorité 2 — Consolider le fond de la responsabilité** : Rassembler les preuves techniques de la défaillance de la vasque (photos, constat d'huissier, rapport de sécurité). L'arrêt **[89-18.422](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md)** démontre que le simple basculement suffit à établir le fait de la chose — toute preuve supplémentaire renforce la présomption.
 
-3. **🟡 Priorité 3 — Action au fond en responsabilité + action directe** : Engager l'action au fond contre **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et son assureur dès que l'identité de ce dernier est connue. L'action directe peut être exercée cumulativement avec l'action contre l'assuré.
+3. **🟡 Priorité 3 — Action au fond en responsabilité + action directe** : Engager l'action au fond contre **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et son assureur dès que l'identité de ce dernier est connue. L'action directe peut être exercée cumulativement avec l'action contre l'assuré.
 
 4. **🟢 Priorité 4 — Chiffrer et documenter l'incidence professionnelle** : Fournir les justificatifs de la perte de clientèle (déclarations URSSAF, attestations clients, bilans comptables). L'arrêt **[19-23.173](../../../Lois/Jurisprudence/Préjudice_corporel_et_incidence_professionnelle/19-23.173_CourCassation.md)** exige une recherche concrète de la dévalorisation sociale — préparer les éléments sur la perte d'identité professionnelle.
 
@@ -268,7 +274,7 @@ L'arrêt **[22-18.089 CourCassation](../../../Lois/Jurisprudence/Transaction_sou
 
 **Date de rédaction :** 21 juillet 2026 (J+53)
 
-**Auteur :** **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)**
+**Auteur :** **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**
 
 **Prochaine révision :** À chaque étape procédurale significative ou décision de justice nouvelle.
 

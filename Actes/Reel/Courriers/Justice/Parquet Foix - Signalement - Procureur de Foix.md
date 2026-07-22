@@ -28,9 +28,9 @@ près le Tribunal judiciaire de **[Foix](../../../../Memory/Tokens/token-acciden
 
 [Date]
 
----
+<hr><hr>
 **Objet :** Signalement complémentaire — accident du 29 mai 2026 — **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)** — Suites du signalement à la mairie de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
----
+<hr><hr>
 
 **Référence :** Plainte complémentaire déposée le [date] au commissariat de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
 

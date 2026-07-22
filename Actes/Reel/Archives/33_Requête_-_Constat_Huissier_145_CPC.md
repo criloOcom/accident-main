@@ -19,7 +19,7 @@ reel_path: ../../Reel/Archives/33_Requête_-_Constat_Huissier_145_CPC.md
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # REQUETE AU PRESIDENT DU TRIBUNAL JUDICIAIRE DE [Foix](../../../Memory/Tokens/token-accident-ville.md)
 
@@ -35,7 +35,7 @@ reel_path: ../../Reel/Archives/33_Requête_-_Constat_Huissier_145_CPC.md
 
 [sebastien.grazide@gmail.com](../../../Memory/Tokens/token-victime-email.md)
 
-**Tribunal Judiciaire de Foix
+**Tribunal Judiciaire de [La Ville de l'Accident]**
 
 **A l'attention de Monsieur le President**
 
@@ -43,20 +43,22 @@ reel_path: ../../Reel/Archives/33_Requête_-_Constat_Huissier_145_CPC.md
 
 [Foix](../../../Memory/Tokens/token-accident-ville.md), le [**[J+41 Requete Constat 145]**](../../../Memory/Tokens/token-j-41-requete-constat-145.md)
 
-Ref : Accident du [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md) — SAS [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+Ref : Accident du [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md) — SAS [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
 <hr><hr>
 
 Madame, Monsieur le President,
+<hr><hr>
 ## I — EXPOSE DES FAITS
 
-[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) (ne le 18 janvier 1982, informaticien independant) a ete victime d'un accident corporel grave le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md) a 15h00 au sein du salon de coiffure exploite par la SAS [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SIREN [104 103 262](../../../Memory/Tokens/token-exploitation-siren.md)), sise [22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md).
+[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) (ne le 18 janvier 1982, informaticien independant) a ete victime d'un accident corporel grave le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md) a 15h00 au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SIREN [938 033 222](../../../Memory/Tokens/token-exploitation-siren.md)), sise [22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md).
 
 Le prepose de l'exploitation, qui devait acceder a un poste de television installe en hauteur, a du monter sur un bac a shampoing en ceramique faute d'escabeau mis a disposition. En descendant, son poids a entraine le basculement de l'equipement, instable et presentant une cassure majeure preexistante non signalee sur son flanc.
 
 Par reflexe, le requerant a tendu la main droite pour proteger le coiffeur. Sa paume a heurte la cassure preexistante, entrainant une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence (30 mai 2026, SOS Main, [Clinique de l'Union](../../../Memory/Tokens/token-hopital-sosmain-nom.md)) et un arrêt de travail total de 55 jours.
 <hr><hr>
 
+<hr><hr>
 ## II — MOTIF LEGITIME (Art. 145 CPC)
 
 Conformement a l'article 145 du Code de procedure civile, il existe un motif legitime de conserver la preuve des faits dont pourrait dependre la solution du litige, avant tout proces au fond.
@@ -92,6 +94,7 @@ Le constat d'huissier devra porter sur :
 - **L'etat general des lieux** : organisation du salon, equipements de securite
 <hr><hr>
 
+<hr><hr>
 ## III — PROCEDURES EN COURS
 
 Les procedures suivantes ont ete engagees a la date de la requete :
@@ -107,6 +110,7 @@ Les procedures suivantes ont ete engagees a la date de la requete :
 5. Signalements a l'Inspection du Travail, au CODAF, a l'INPI, au SIE et a l'URSSAF
 <hr><hr>
 
+<hr><hr>
 ## IV — DEMANDE
 
 Par ces motifs, le requerant sollicite de Monsieur le President du Tribunal Judiciaire de [Foix](../../../Memory/Tokens/token-accident-ville.md) de bien vouloir :
@@ -143,8 +147,8 @@ Fait pour valoir ce que de droit.
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
-[^1]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+[^1]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
 <!-- /Source -->
-

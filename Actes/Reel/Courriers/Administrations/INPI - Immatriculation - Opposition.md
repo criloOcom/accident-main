@@ -23,7 +23,7 @@ jx: J+41
 <!-- Signature -->
 <!-- LRAR -->
 
----
+<hr><hr>
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
 <hr>
@@ -46,30 +46,30 @@ Service du Registre National des Entreprises (RNE)
 
 # OPPOSITION À IMMATRICULATION <br> AU REGISTRE NATIONAL DES ENTREPRISES
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet :** Opposition à l'immatriculation de toute nouvelle société à **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)** présentant un lien avec les dirigeants de **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 **Référence RCS :** **[104 103 262 00010](../../../../Memory/Tokens/token-exploitation-id.md)**
 **Lettre Recommandée avec Accusé de Réception**
 
 Monsieur le Greffier,
-
 ## I — EXPOSÉ DES FAITS
 
 J'interviens dans les intérêts de **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)**.
 
 Il existe de sérieuses raisons de penser que la société **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et ses dirigeants, **[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, s'apprêtent à dissoudre ou à abandonner la structure actuelle pour recréer une nouvelle société exerçant la même activité à la même adresse, dans le but manifeste de se soustraire aux obligations indemnitaires nées de l'accident.
+<hr><hr>
 
 ## II — FONDEMENTS JURIDIQUES
 
@@ -142,4 +142,3 @@ Avocat au Barreau
 [^1]: [Article L.123-5-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291)
 [^2]: [Article L.123-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422)
 <!-- /Source -->
-

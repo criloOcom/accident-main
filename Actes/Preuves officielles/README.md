@@ -12,7 +12,7 @@ type: readme
 
 Ce dossier centralise l'ensemble des **pièces brutes originales (source)** constituant le dossier de preuves physiques et numériques de l'accident du 29 mai 2026.
 
-Toutes les pièces contenues dans ce répertoire sont liées aux fiches de correspondance de la [`Memory/PIECES MAP.md`](../../Memory/PIECES%20MAP.md) et aux faits de [`Memory/STRICT VARIABLES.md`](../../Memory/STRICT%20VARIABLES.md).
+Toutes les pièces contenues dans ce répertoire sont liées aux fiches de correspondance de la [[Memory/PIECES MAP.md](../../Memory/PIECES MAP.md)](../../Memory/PIECES%20MAP.md) et aux faits de [[Memory/STRICT VARIABLES.md](../../Memory/STRICT VARIABLES.md)](../../Memory/STRICT%20VARIABLES.md).
 
 ---
 

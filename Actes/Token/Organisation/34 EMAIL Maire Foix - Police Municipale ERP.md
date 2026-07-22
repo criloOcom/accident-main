@@ -15,7 +15,7 @@ statut: brouillon
 **Expéditeur** : `**[L'Email de la Victime]**`
 **Objet** : Suite à nos échanges – Demande d'intervention pour contrôle de sécurité ERP (**[L'Adresse de l'Exploitation]**)
 
----
+<hr><hr>
 
 Monsieur l'Adjoint au Maire,
 

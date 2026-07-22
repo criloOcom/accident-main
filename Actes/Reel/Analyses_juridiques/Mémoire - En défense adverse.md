@@ -1,6 +1,6 @@
 ---
-title: "Mémoire en défense adverse — SAS [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)"
-description: "Pour :** [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md), [Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) (Partie Défenderesse)"
+title: "Mémoire en défense adverse — SAS [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md)"
+description: "Pour :** [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md), [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) (Partie Défenderesse)"
 type: analyse_juridique
 date: 2026-07-09
 tags:
@@ -18,14 +18,15 @@ reel_path: ../../Reel/Analyses_juridiques/Mémoire - En défense adverse.md
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MÉMOIRE EN DÉFENSE ADVERSE
-**Pour :** **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, **[Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md)** (Partie Défenderesse)
-**Contre :** **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)** (Partie Demanderesse)
+**Pour :** **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, **[Le Président de l'Exploitation](../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../Memory/Tokens/token-exploitation-dg-nom.md)** (Partie Défenderesse)
+**Contre :** **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** (Partie Demanderesse)
+<hr><hr>
 ## I — INTRODUCTION
 
-Le présent mémorandum est établi pour la défense des intérêts de la société **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et de ses dirigeants, assignés en référé-provision par Monsieur **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)** suite à un incident survenu le **[29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure.
+Le présent mémorandum est établi pour la défense des intérêts de la société **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et de ses dirigeants, assignés en référé-provision par Monsieur **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** suite à un incident survenu le **[J+0 Accident](../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure.
 
 La partie demanderesse réclame une provision de [15 000 €](../../../Memory/Tokens/token-finance-provision-refere.md) sur le fondement de l'article 835 alinéa 2 du Code de procédure civile, alléguant que l'obligation ne serait pas sérieusement contestable.
 
@@ -36,6 +37,7 @@ Or, une analyse rigoureuse des pièces du dossier démontre l'existence de conte
 > **Code de procédure civile > Chapitre II : Les ordonnances de référé.[^1]**
 <hr><hr>
 
+<hr><hr>
 ## II — SUR L'EXISTENCE DE CONTESTATIONS SÉRIEUSES (ART. 835 CPC)
 
 ### II.1 — Une carence probatoire manifeste sur les circonstances
@@ -64,9 +66,10 @@ La victime reconnaît elle-même avoir « tendu la main droite par réflexe » e
 Cette imprudence est de nature à exonérer, au moins partiellement, la gardienne de la chose de sa responsabilité, rendant l'obligation de réparation intégralement contestable en référé.
 <hr><hr>
 
+<hr><hr>
 ## III — SUR LA MISE EN CAUSE ABUSIVE DES DIRIGEANTS
 
-La demanderesse tente d'engager la responsabilité personnelle in solidum de **[Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md)** en invoquant une prétendue « faute détachable ».
+La demanderesse tente d'engager la responsabilité personnelle in solidum de **[Le Président de l'Exploitation](../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../Memory/Tokens/token-exploitation-dg-nom.md)** en invoquant une prétendue « faute détachable ».
 
 Cette argumentation est juridiquement infondée. L'écran de la personnalité morale protège les dirigeants. Pour que leur responsabilité civile personnelle soit engagée à l'égard des tiers, la Cour de cassation exige la preuve d'une faute intentionnelle d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales (Arrêt SATI).
 
@@ -74,11 +77,12 @@ Cette argumentation est juridiquement infondée. L'écran de la personnalité mo
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^3]**
 
-Un prétendu défaut de signalisation d'une vasque ébréchée, à le supposer établi, relève tout au plus d'une négligence dans l'exploitation courante du salon, imputable à la seule **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
+Un prétendu défaut de signalisation d'une vasque ébréchée, à le supposer établi, relève tout au plus d'une négligence dans l'exploitation courante du salon, imputable à la seule **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
 
 Il n'y a ici aucune intention de nuire ni aucune infraction pénale intentionnelle de la part des dirigeants justifiant la levée de l'immunité.
 <hr><hr>
 
+<hr><hr>
 ## IV — SUR LE CHIFFRAGE EXORBITANT ET PRÉMATURÉ DES PRÉJUDICES
 
 La demande de provision de [15 000 €](../../../Memory/Tokens/token-finance-provision-refere.md), fondée sur un préjudice global fantaisiste évalué par la partie adverse à près de 105 000 €, se heurte à des obstacles médico-légaux majeurs.
@@ -104,6 +108,7 @@ Chiffré à 8 000 € au motif d'une pratique de la guitare. La victime ne produ
 Sortis ex nihilo après réévaluation, non justifiés par des factures probantes.
 <hr><hr>
 
+<hr><hr>
 ## V — CONCLUSION ET DEMANDES
 
 Le juge des référés est le juge de l'évidence. En l'espèce :
@@ -115,16 +120,16 @@ Le juge des référés est le juge de l'évidence. En l'espèce :
 
 - L'évaluation des préjudices est prématurée (absence de consolidation) et largement surévaluée (DFP et IP infondés, Agrément sans preuve).
 
-L'obligation de **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** étant sérieusement contestable, la demande de provision de [15 000 €](../../../Memory/Tokens/token-finance-provision-refere.md) doit être rejetée en toutes ses dispositions. Tout au plus, si le juge ordonne une expertise médicale (Article 145 CPC), celle-ci devra se dérouler aux frais avancés de la demanderesse sans aucune provision financière préalable.
+L'obligation de **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** étant sérieusement contestable, la demande de provision de [15 000 €](../../../Memory/Tokens/token-finance-provision-refere.md) doit être rejetée en toutes ses dispositions. Tout au plus, si le juge ordonne une expertise médicale (Article 145 CPC), celle-ci devra se dérouler aux frais avancés de la demanderesse sans aucune provision financière préalable.
 
 Fait pour valoir ce que de droit.
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
-[^1]: [Article 835 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
-[^2]: [Article 1241 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
-[^3]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
+[^1]: [Article 835 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) ↩
+[^2]: [Article 1241 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+[^3]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
 <!-- /Source -->
-

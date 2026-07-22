@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `Rapports/RAPPORT_PLAN_DEPLACEMENT_2026-07-18.md` proposant un **plan d'action détaillé, heure par heure**, pour le prochain déplacement à Foix (semaine du 20 juillet 2026).
+Produis un rapport [Rapports/RAPPORT_PLAN_DEPLACEMENT_2026-07-18.md](../../Rapports/RAPPORT_PLAN_DEPLACEMENT_2026-07-18.md) proposant un **plan d'action détaillé, heure par heure**, pour le prochain déplacement à Foix (semaine du 20 juillet 2026).
 
 ## MÉTHODE
 

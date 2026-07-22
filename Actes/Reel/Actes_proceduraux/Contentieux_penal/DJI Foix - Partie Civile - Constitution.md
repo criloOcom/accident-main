@@ -321,4 +321,3 @@ Les fondements juridiques (Section II) restent inchangés — le rapport d'exper
 
 - Avis Dintilhac externe : [`Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`](../../../../Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md)
 <!-- /Source -->
-

@@ -1,6 +1,6 @@
 ---
 title: "DOSSIER UMJ — PRÉPARATION EXPERTISE MÉDICALE"
-date: FIXME
+date: 
 description: "Date :** 12 novembre 2026 à 13h45"
 type: preuve
 statut: brouillon
@@ -18,6 +18,7 @@ reel_path: ../../Reel/Preuves_officielles/Preparation_Expertise_UMJ.md
 
 ---
 
+<hr><hr>
 ## PIÈCES À APPORTER
 ### I.1 — DOCUMENTS D'IDENTITÉ- [ ] Carte d'identité / Passeport
 
@@ -59,6 +60,7 @@ reel_path: ../../Reel/Preuves_officielles/Preparation_Expertise_UMJ.md
 
 ---
 
+<hr><hr>
 ## II — DOCUMENTS DÉJÀ DISPONIBLES SUR DRIVE| Pièce | Drive |
 
 |-------|-------|
@@ -72,6 +74,7 @@ reel_path: ../../Reel/Preuves_officielles/Preparation_Expertise_UMJ.md
 
 ---
 
+<hr><hr>
 ## III — POINTS À SIGNALER AU MÉDECIN UMJ1. **Profession :** Informaticien indépendant — la main droite dominante est essentielle à l'activité
 
 2. **Séquelles :** Insensibilité index droit, limitation mobilité, douleurs résiduelles

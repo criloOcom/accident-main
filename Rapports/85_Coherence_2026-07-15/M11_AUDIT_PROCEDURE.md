@@ -55,7 +55,7 @@ type: rapport
 
 - [ ] **[INFO] Prescription de l'action en responsabilité (10 ans) :**
   L'action au fond est introduite post-consolidation (01/06/2027). La prescription de 10 ans commence à courir à la consolidation (01/03/2027) selon l'article 2226 du Code civil. L'action est parfaitement dans les délais.
-  Fichier : `Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Conclusions au Fond.md` (ligne 102)
+  Fichier : [Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Conclusions au Fond.md](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Conclusions au Fond.md) (ligne 102)
 
 - [ ] **[MINEUR] Chronologie des Mises en demeure (J+31) et Assignation (J+32) :**
   Les mises en demeure ont été envoyées le 29/06/2026 (J+31), et l'assignation en référé a été délivrée dès le lendemain, le 30/06/2026 (J+32). Délai particulièrement court pour une résolution amiable, bien que justifié par l'urgence en référé.
@@ -67,7 +67,7 @@ type: rapport
 
 - [ ] **[INFO] Dépôt du rapport d'expertise et Conclusions au Fond :**
   Le rapport d'expertise est daté du 29/05/2027. Les conclusions au fond sont datées du 01/06/2027, soit un délai de réaction de 3 jours, ce qui est particulièrement réactif mais possible.
-  Fichier : `Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Conclusions au Fond.md`
+  Fichier : [Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Conclusions au Fond.md](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Conclusions au Fond.md)
 
 <hr><hr>
 

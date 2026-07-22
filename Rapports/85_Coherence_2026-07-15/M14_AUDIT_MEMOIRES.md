@@ -17,7 +17,7 @@ Ce rapport consigne les résultats de l'audit de cohérence des mémoires et con
 
 ## I — 📜 TJ Foix - Conclusions au Fond
 
-**Fichier audité :** `Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Conclusions au Fond.md`
+**Fichier audité :** [Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Conclusions au Fond.md](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Conclusions au Fond.md)
 
 - [x] **Tous les postes de préjudice sont traités :** Conforme. Les postes patrimoniaux et extra-patrimoniaux listés dans `STRICT VARIABLES.md` (§1. Rapport d'expertise 2027-05-29) sont tous présents.
 
@@ -53,7 +53,7 @@ Ce rapport consigne les résultats de l'audit de cohérence des mémoires et con
 
 ## III — Mémoire - En défense adverse
 
-**Fichier audité :** `Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md`
+**Fichier audité :** [Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md](../../Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md)
 
 - [ ] **Tous les postes de préjudice sont traités :** Non applicable au sens strict (mémoire en défense).
 
@@ -71,7 +71,7 @@ Ce rapport consigne les résultats de l'audit de cohérence des mémoires et con
 
 ## IV — Notes en délibéré
 
-- **Statut :** FICHIER MANQUANT. Aucun fichier correspondant à une note en délibéré n'a été trouvé dans l'arborescence des actes (`Actes/Token/`).
+- **Statut :** FICHIER MANQUANT. Aucun fichier correspondant à une note en délibéré n'a été trouvé dans l'arborescence des actes ([Actes/Token](../../Actes/Token/README.md)).
 
 <hr><hr>
 

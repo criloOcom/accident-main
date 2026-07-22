@@ -46,13 +46,14 @@ Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-vi
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Suite a votre message du 1er juin 2026 — Demande d'information sur les diligences Inspection du Travail et CODAF
----
+<hr><hr>
 
 Ref : Votre courriel du 1er juin 2026
 
 Monsieur l'Adjoint au Maire,
+<hr><hr>
 ## I — INTRODUCTION
 
 La presente lettre fait suite a votre courriel du 1er juin 2026 par lequel vous m'informiez avoir pris l'attache des services de la prefecture afin de diligenter l'inspection du travail et le CODAF (Comite Operationnel Departemental Anti Fraude) a la suite de l'accident corporel grave dont j'ai ete victime le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure **[Le Commerce de l'Exploitation]**.

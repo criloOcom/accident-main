@@ -12,7 +12,7 @@ date: "2026-07-20"
 
 *Date d'exécution : 2026-07-20*
 
-Ce rapport identifie les placeholders résiduels, les problèmes de cohérence des tokens et les contenus incomplets dans le répertoire `Actes/Token/`.
+Ce rapport identifie les placeholders résiduels, les problèmes de cohérence des tokens et les contenus incomplets dans le répertoire [Actes/Token](../Actes/Token/README.md).
 
 ## 1. Placeholders Résiduels
 

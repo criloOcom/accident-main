@@ -23,12 +23,13 @@ jx: J+53
 <hr>
 <!-- /Breadcrumb -->
 
-> **Contexte** : Accident de la main survenu le 29 mai 2026 dans un salon de coiffure (vasque céramique défectueuse ayant basculé). La SAS exploitante ([SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md), capital ~5 000 €) est assurée, mais [Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md) dissimule l'identité de l'assureur. Procédure en référé sur l'article 145 CPC en cours pour lever cette information. Objectif : action directe contre l'assureur RC pour obtenir une provision.
+> **Contexte** : Accident de la main survenu le 29 mai 2026 dans un salon de coiffure (vasque céramique défectueuse ayant basculé). La SAS exploitante ([**L'Exploitant du Commerce (La SAS)**](../../../Memory/Tokens/token-exploitation-raison-sociale.md), capital ~5 000 €) est assurée, mais [**Le Président de l'Exploitation**](../../../Memory/Tokens/token-exploitation-president-nom.md) dissimule l'identité de l'assureur. Procédure en référé sur l'article 145 CPC en cours pour lever cette information. Objectif : action directe contre l'assureur RC pour obtenir une provision.
 
 # NOTE — PROCÉDURE ACTION DIRECTE<br>ASSURANCE — ART. L.124-3 C. ASSUR.
+<hr><hr>
 ## I — OBJET ET CHAMP DE LA NOTE
 
-La présente note a pour objet d'analyser les conditions, la prescription et la stratégie procédurale de l'action directe que **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)** peut exercer contre l'assureur de responsabilité civile de la SAS exploitant le salon de coiffure, sur le fondement de l'article L.124-3 du Code des assurances.
+La présente note a pour objet d'analyser les conditions, la prescription et la stratégie procédurale de l'action directe que **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** peut exercer contre l'assureur de responsabilité civile de la SAS exploitant le salon de coiffure, sur le fondement de l'article L.124-3 du Code des assurances.
 
 Elle s'inscrit dans le cadre d'une procédure en deux temps :
 
@@ -39,6 +40,7 @@ Elle s'inscrit dans le cadre d'une procédure en deux temps :
 Sont examinés : le fondement textuel, le régime de prescription, les conditions de mise en œuvre, le contentieux sur l'identité de l'assureur, l'articulation avec les mécanismes subsidiaires (FGAO, CIVI), les risques et limites, et la feuille de route procédurale.
 <hr><hr>
 
+<hr><hr>
 ## II — FONDEMENT TEXTUEL<br>ART. L.124-3 DU CODE DES ASSURANCES
 
 L'article L.124-3 du Code des assurances constitue le socle juridique de l'action directe de la victime contre l'assureur de responsabilité civile du responsable.
@@ -77,6 +79,7 @@ Ce caractère autonome emporte des conséquences fondamentales :
 - **[Article 835 CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)** — Référé-provision (voie procédurale pour obtenir une provision).
 <hr><hr>
 
+<hr><hr>
 ## III — PRESCRIPTION DE L'ACTION DIRECTE<br>5 ANS, PAS 2 ANS (ARRÊT 80-16.679)
 
 La question de la prescription est centrale et a été définitivement trancée par l'arrêt de principe de la Cour de cassation du 10 mars 1982.
@@ -111,18 +114,19 @@ Il est impératif de ne pas confondre :
 > [CA Versailles, 2025, n°22/01019](https://www.doctrine.fr/) <br>
 > **Cour d'appel de Versailles**
 
-**Dans notre dossier :** L'accident étant survenu le 29 mai 2026, et [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) n'étant pas encore consolidée, la prescription court à compter de la date de consolidation. L'assignation en référé sur l'article 145 CPC interrompt la prescription (art. 2241 C. civ.). Le délai pour agir est donc très large, mais il convient d'agir sans délai pour éviter tout débat dilatoire.
+**Dans notre dossier :** L'accident étant survenu le 29 mai 2026, et [**La Victime**](../../../Memory/Tokens/token-victime-nom-complet.md) n'étant pas encore consolidée, la prescription court à compter de la date de consolidation. L'assignation en référé sur l'article 145 CPC interrompt la prescription (art. 2241 C. civ.). Le délai pour agir est donc très large, mais il convient d'agir sans délai pour éviter tout débat dilatoire.
 <hr><hr>
 
+<hr><hr>
 ## IV — CONDITIONS DE MISE EN ŒUVRE DE L'ACTION DIRECTE
 
 L'action directe contre l'assureur suppose la réunion de quatre conditions cumulatives.
 
 ### IV.1 — Existence d'une assurance RC en vigueur au jour du sinistre
 
-La condition première est que la SAS exploitante ([SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)) soit titulaire d'un contrat d'assurance de responsabilité civile professionnelle (RC Pro) en vigueur le 29 mai 2026. En tant qu'ERP recevant du public (salon de coiffure — activités de soins esthétiques), cette assurance est obligatoire en application de l'article L.1142-2 du Code de la santé publique pour les activités de soins, et en tout état de cause nécessaire à l'exploitation commerciale.
+La condition première est que la SAS exploitante ([**L'Exploitant du Commerce (La SAS)**](../../../Memory/Tokens/token-exploitation-raison-sociale.md)) soit titulaire d'un contrat d'assurance de responsabilité civile professionnelle (RC Pro) en vigueur le 29 mai 2026. En tant qu'ERP recevant du public (salon de coiffure — activités de soins esthétiques), cette assurance est obligatoire en application de l'article L.1142-2 du Code de la santé publique pour les activités de soins, et en tout état de cause nécessaire à l'exploitation commerciale.
 
-L'obstacle actuel est le refus de [Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md) de communiquer les coordonnées de l'assureur. Cette rétention d'information est abusive et constitue un manquement à l'obligation de loyauté dans la procédure.
+L'obstacle actuel est le refus de [**Le Président de l'Exploitation**](../../../Memory/Tokens/token-exploitation-president-nom.md) de communiquer les coordonnées de l'assureur. Cette rétention d'information est abusive et constitue un manquement à l'obligation de loyauté dans la procédure.
 
 ### IV.2 — Droit propre de la victime
 
@@ -159,9 +163,10 @@ L'action directe suppose que la responsabilité de l'assuré soit engagée. Dans
 Pour obtenir une **provision en référé** sur le fondement de l'article 835 CPC, il faut démontrer que l'obligation d'indemniser n'est « pas sérieusement contestable ». Dans notre dossier, la matérialité des faits, le lien de causalité direct, et l'absence d'exclusion de garantie (voir section VII) rendent l'obligation de l'assureur non sérieusement contestable au sens de la jurisprudence constante.
 <hr><hr>
 
+<hr><hr>
 ## V — CONTENTIEUX SUR L'IDENTITÉ DE L'ASSUREUR<br>RÉFÉRÉ ART. 145 CPC
 
-L'obstacle principal à l'exercice de l'action directe est l'absence d'identification de l'assureur. [Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md) refuse obstinément de communiquer les coordonnées de la compagnie d'assurance de la SAS, malgré les demandes réitérées de [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md).
+L'obstacle principal à l'exercice de l'action directe est l'absence d'identification de l'assureur. [**Le Président de l'Exploitation**](../../../Memory/Tokens/token-exploitation-president-nom.md) refuse obstinément de communiquer les coordonnées de la compagnie d'assurance de la SAS, malgré les demandes réitérées de [**La Victime**](../../../Memory/Tokens/token-victime-nom-complet.md).
 
 ### V.1 — Fondement de la demande : article 145 CPC
 
@@ -176,7 +181,7 @@ Le motif légitime est caractérisé par trois éléments cumulatifs :
 
 2. **L'impossibilité d'accéder à l'information** : le dirigeant refuse de communiquer l'identité de l'assureur malgré les demandes amiables écrites.
 
-3. **L'utilité de la mesure** : seule la communication des contrats d'assurance permettra à [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) d'exercer son action directe.
+3. **L'utilité de la mesure** : seule la communication des contrats d'assurance permettra à [**La Victime**](../../../Memory/Tokens/token-victime-nom-complet.md) d'exercer son action directe.
 
 ### V.3 — Mesures sollicitées
 
@@ -192,13 +197,14 @@ L'assignation en référé demande :
 
 ### V.4 — Risques et obstacles procéduraux
 
-- **Absence de comparution** : si [Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md) ne comparait pas, l'ordonnance sera rendue par défaut mais son exécution sera difficile.
+- **Absence de comparution** : si [**Le Président de l'Exploitation**](../../../Memory/Tokens/token-exploitation-president-nom.md) ne comparait pas, l'ordonnance sera rendue par défaut mais son exécution sera difficile.
 
 - **Opposition à la communication** : le dirigeant pourrait prétendre ne pas connaître l'assureur (défense peu crédible pour une société commerciale).
 
 - **Inexistence d'assurance** : si la SAS n'est pas assurée (ce qui constituerait une infraction pénale en soi — art. L.243-1 C. assur. pour certaines activités professionnelles), la procédure devra se rediriger vers le FGAO (voir section VI).
 <hr><hr>
 
+<hr><hr>
 ## VI — CHAMP FGAO / CIVI<br>ARRÊTS 20-22.100 ET 20-19.288
 
 Il est nécessaire d'examiner les mécanismes subsidiaires d'indemnisation au cas où l'assureur ne serait pas identifié ou inexistant.
@@ -237,9 +243,10 @@ Cependant, la Cour de cassation a posé un principe d'exclusivité des régimes 
 
 - La CIVI pourrait alors être compétente pour les blessures involontaires (infraction pénale), sous réserve de remplir les conditions de l'article 706-3 CPP (préjudice corporel grave).
 
-- Par ailleurs, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) pourrait se constituer partie civile dans le cadre d'une éventuelle procédure pénale.
+- Par ailleurs, [**La Victime**](../../../Memory/Tokens/token-victime-nom-complet.md) pourrait se constituer partie civile dans le cadre d'une éventuelle procédure pénale.
 <hr><hr>
 
+<hr><hr>
 ## VII — RISQUES ET LIMITES
 
 ### VII.1 — Exclusion de garantie pour faute dolosive (L.113-1)
@@ -259,7 +266,7 @@ Si la SAS n'a pas déclaré le sinistre à son assureur, ce dernier pourrait lui
 
 ### VII.3 — Plafond de garantie
 
-Le contrat d'assurance peut prévoir un plafond de garantie (limite quantitative). Si le plafond est inférieur au préjudice, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) ne pourra réclamer que dans la limite du plafond. Il conviendra d'examiner attentivement les conditions générales du contrat dès qu'elles seront communiquées.
+Le contrat d'assurance peut prévoir un plafond de garantie (limite quantitative). Si le plafond est inférieur au préjudice, [**La Victime**](../../../Memory/Tokens/token-victime-nom-complet.md) ne pourra réclamer que dans la limite du plafond. Il conviendra d'examiner attentivement les conditions générales du contrat dès qu'elles seront communiquées.
 
 ### VII.4 — Prescription quinquennale (art. 2224 C. civ.)
 
@@ -285,7 +292,7 @@ Si la SAS s'avère ne pas être assurée (hypothèse pessimiste mais envisageabl
 
 ### VII.6 — Dissimulation d'actifs et fraude
 
-Le comportement de [Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md) (dissimulation de l'assureur, changement d'exploitant apparent) pourrait relever de manœuvres frauduleuses tendant à organiser l'insolvabilité. Ces faits constituent :
+Le comportement de [**Le Président de l'Exploitation**](../../../Memory/Tokens/token-exploitation-president-nom.md) (dissimulation de l'assureur, changement d'exploitant apparent) pourrait relever de manœuvres frauduleuses tendant à organiser l'insolvabilité. Ces faits constituent :
 
 - Une violation de l'obligation de loyauté procédurale ;
 
@@ -298,6 +305,7 @@ Le comportement de [Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-expl
 > **Cour de cassation, chambre commerciale**
 <hr><hr>
 
+<hr><hr>
 ## VIII — FEUILLE DE ROUTE PROCÉDURALE
 
 ### VIII.1 — Chronologie des actes accomplis
@@ -363,9 +371,10 @@ Le comportement de [Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-expl
 7. Justifier le quantum de la provision (15 000 €) par référence aux barèmes et à la jurisprudence (cf. [**TJ Nanterre 2024, n°22/02447**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ%20Nanterre%2022-02447.md) — souffrances 5/7).
 <hr><hr>
 
+<hr><hr>
 ## IX — SYNTHÈSE ET RECOMMANDATIONS
 
-L'action directe contre l'assureur de [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) sur le fondement de l'article L.124-3 du Code des assurances est juridiquement parfaitement fondée et constitue la voie procédurale principale pour obtenir l'indemnisation du préjudice corporel subi par [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md).
+L'action directe contre l'assureur de [**L'Exploitant du Commerce (La SAS)**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) sur le fondement de l'article L.124-3 du Code des assurances est juridiquement parfaitement fondée et constitue la voie procédurale principale pour obtenir l'indemnisation du préjudice corporel subi par [**La Victime**](../../../Memory/Tokens/token-victime-nom-complet.md).
 
 **Points forts :**
 - Droit propre de la victime, autonome et non affecté par les procédures collectives ;
@@ -379,7 +388,7 @@ L'action directe contre l'assureur de [SAS HB BARBER](../../../Memory/Tokens/tok
 **Points de vigilance :**
 - Identification de l'assureur : blocage actuel, en cours de levée par référé 145 CPC ;
 
-- Capacité financière de l'assurance (plafond de garantie à vérifier) ;
+- Capacité financière de l'assurance (plafond de garantie ) ;
 
 - Risque d'absence d'assurance (hypothèse alternative : CIVI + action pénale).
 

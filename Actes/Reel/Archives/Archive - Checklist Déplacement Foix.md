@@ -25,6 +25,7 @@ reel_path: ../../Reel/Archives/Archive - Checklist Déplacement Foix.md
 # CHECKLIST COMPLÈTE<br>DÉPLACEMENT À FOIX (15 JUILLET 2026) — ARCHIVÉ
 
 > ⚠️ **CE DOCUMENT EST ARCHIVÉ — UTILISER LA NOUVELLE CHECKLIST 20/07**
+<hr><hr>
 ## I — 📋 PROGRAMME DE LA JOURNÉE (OBSOLÈTE — DATE 15/07 PASSÉE)
 
 | Créneau | Lieu | Action |
@@ -39,11 +40,12 @@ reel_path: ../../Reel/Archives/Archive - Checklist Déplacement Foix.md
 
 - **Commissariat** : Rue du Capitaine Ferber, 09000 Foix (tél : 05 61 65 08 22)
 
-- **22 Rue Lafaurie** : Lieu de l'accident — salon "SAS HB BARBER" (OBSOLÈTE — HB BARBER est le véritable exploitant)
+- **22 Rue Lafaurie** : Lieu de l'accident — salon "[L'Exploitant du Commerce (La SAS)]" (OBSOLÈTE — HB BARBER est le véritable exploitant)
 
 > **⚠️ CE PROGRAMME EST OBSOLÈTE — UTILISER LA CHECKLIST 20/07 QUI REMPLACE CE DOCUMENT**
 <hr><hr>
 
+<hr><hr>
 ## II — 📅 PRÉPARATION 48H À L'AVANCE (CONTENU CONSERVÉ POUR RÉFÉRENCE)
 
 ### II.1 — 🏛️ Documents pour le TJ — Requête Art. 145 CPC

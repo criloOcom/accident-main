@@ -35,7 +35,7 @@ Enrichissement massif de la bibliothèque jurisprudence avec **11 décisions** (
 ### Phase A — Arrêts Cour de cassation (4 décisions)
 
 Thème : Action directe et obligation d'assurance
-Dossier : `Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/`
+Dossier : [Lois/Jurisprudence/Action_directe_et_obligation_d'assurance](../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/README.md)
 
 | # | RG | Juridiction | Date | Source texte |
 |---|-----|-------------|------|-------------|
@@ -48,7 +48,7 @@ Dossier : `Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/`
 
 ### Phase B — Décisions CA/TJ (7 décisions)
 
-Dossier : `Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/`
+Dossier : [Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)](../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/README.md)
 
 | # | RG | Juridiction | Date | Source info |
 |---|-----|-------------|------|-------------|
@@ -64,7 +64,7 @@ Dossier : `Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/`
 
 ### Phase C — Documents stratégiques (2 documents)
 
-Dossier : `Actes/Token/Analyses_juridiques/`
+Dossier : [Actes/Token/Analyses_juridiques](../../Actes/Token/Analyses_juridiques/README.md)
 
 | Document | Lignes | Sections | Statut |
 |----------|--------|----------|--------|

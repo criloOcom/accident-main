@@ -22,7 +22,8 @@ jx: J+40
 
 # DOSSIER SPÉCIAL : FORMULAIRES CERFA APPLICABLES
 
-Dans le cadre du dossier d'accident corporel de **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)**, plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditions de mise en œuvre et les pièces justificatives requises.
+Dans le cadre du dossier d'accident corporel de **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**, plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditions de mise en œuvre et les pièces justificatives requises.
+<hr><hr>
 ## I — SYNTHÈSE DES FORMULAIRES CERFA
 
 | Type de Démarche | Formulaire CERFA | Utilité Principale | Destinataire | Statut dans le Dossier |
@@ -32,6 +33,7 @@ Dans le cadre du dossier d'accident corporel de **[Sébastien GRAZIDE](../../../
 | **Aide Juridictionnelle** | **CERFA n° 16146*03** | Demander la prise en charge des honoraires d'avocat, frais d'huissier et d'expertise judiciaire. | Bureau d'Aide Juridictionnelle (TJ) | ⏳ À initier si ressources éligibles |
 <hr><hr>
 
+<hr><hr>
 ## II — DÉTAIL DU CERFA N° 11527*03 (ATTESTATION DE TÉMOIN)
 
 Conformément à l'Article 202 du Code de procédure civile, ce document permet de recueillir des témoignages écrits de tiers ayant assisté à l'accident ou ayant connaissance directe de l'état défectueux du salon.
@@ -57,15 +59,16 @@ Conformément à l'Article 202 du Code de procédure civile, ce document permet 
 - Une copie recto-verso d'une pièce d'identité officielle du témoin comportant sa signature (Carte Nationale d'Identité, Passeport, ou Titre de séjour).
 <hr><hr>
 
+<hr><hr>
 ## III — DÉTAIL DU CERFA N° 16160*01 (SAISINE DE LA CIVI)
 
 Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infractions afin d'obtenir du **FGTI** le versement de provisions ou de l'indemnisation définitive suite aux blessures involontaires subies.
 
-### III.1 — Conditions d'éligibilité pour [Sébastien](../../../Memory/Tokens/token-victime-prenom.md)
+### III.1 — Conditions d'éligibilité pour [**[Prénom de la Victime]**](../../../Memory/Tokens/token-victime-prenom.md)
 
 - **Nature des faits** : Blessures involontaires par manquement délibéré ou négligence (caractère pénal de l'accident).
 
-- **Seuil d'ITT** : [Sébastien](../../../Memory/Tokens/token-victime-prenom.md) présente un [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) continu de **55 jours**, ce qui dépasse largement le critère légal de **30 jours** (1 mois) d'ITT requis pour la saisine.
+- **Seuil d'ITT** : [**[Prénom de la Victime]**](../../../Memory/Tokens/token-victime-prenom.md) présente un [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) continu de **55 jours**, ce qui dépasse largement le critère légal de **30 jours** (1 mois) d'ITT requis pour la saisine.
 
 - **Nationalité/Lieu** : Victime française, accident survenu en France.
 
@@ -75,20 +78,21 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 
 2. Une copie du dépôt de plainte et du Procès-Verbal de police n° [2026/015967](../../../Memory/Tokens/token-pv-police-numero.md).
 
-3. Le [certificat médical initial](../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (CMI) constatant les blessures de **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)**.
+3. Le [certificat médical initial](../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (CMI) constatant les blessures de **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**.
 
 4. Les certificats de prolongation et de reprise d'activité justifiant l'[arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
 
-5. Le [compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie rédigé par **[Dr Iskander DJERBI](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**.
+5. Le [compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie rédigé par **[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**.
 
-6. Les justificatifs de pertes de revenus (déclarations URSSAF / avis fiscaux de **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)** en tant qu'indépendant).
+6. Les justificatifs de pertes de revenus (déclarations URSSAF / avis fiscaux de **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** en tant qu'indépendant).
 
 7. Le justificatif de nationalité française (copie de la carte d'identité ou du passeport).
 <hr><hr>
 
+<hr><hr>
 ## IV — DÉTAIL DU CERFA N° 16146*03 (DEMANDE D'AIDE JURIDICTIONNELLE)
 
-Si [Sébastien](../../../Memory/Tokens/token-victime-prenom.md) souhaite solliciter l'aide de l'État pour couvrir les frais de justice (avocat pour les audiences de référé, huissier pour le constat physique du salon, médecin-conseil ou expert judiciaire), il peut déposer ce formulaire.
+Si [**[Prénom de la Victime]**](../../../Memory/Tokens/token-victime-prenom.md) souhaite solliciter l'aide de l'État pour couvrir les frais de justice (avocat pour les audiences de référé, huissier pour le constat physique du salon, médecin-conseil ou expert judiciaire), il peut déposer ce formulaire.
 
 ### IV.1 — Conditions d'accès (Aide Juridictionnelle)
 
@@ -96,7 +100,7 @@ Si [Sébastien](../../../Memory/Tokens/token-victime-prenom.md) souhaite sollici
 
 - Les plafonds de ressources sont revalorisés annuellement. Si les ressources mensuelles ou le RFR sont inférieurs aux limites fixées, l'aide est accordée à 100% ou à un taux partiel (55% ou 25%).
 
-- **Attention** : L'aide juridictionnelle n'est pas applicable si [Sébastien](../../../Memory/Tokens/token-victime-prenom.md) dispose d'une garantie de Protection Juridique (PJ) dans le cadre de ses contrats d'assurance personnels qui couvre déjà ces frais.
+- **Attention** : L'aide juridictionnelle n'est pas applicable si [**[Prénom de la Victime]**](../../../Memory/Tokens/token-victime-prenom.md) dispose d'une garantie de Protection Juridique (PJ) dans le cadre de ses contrats d'assurance personnels qui couvre déjà ces frais.
 
 ### IV.2 — Pièces justificatives requises
 
@@ -112,8 +116,8 @@ Si [Sébastien](../../../Memory/Tokens/token-victime-prenom.md) souhaite sollici
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
-[^1]: [Article 202 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330)
+[^1]: [Article 202 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330) ↩
 <!-- /Source -->
-

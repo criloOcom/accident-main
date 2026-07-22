@@ -61,15 +61,16 @@ Fait à **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-vill
 
 **Lettre recommandée avec accusé de réception**
 
----
+<hr><hr>
 **Objet :** Mise en demeure — Action directe (art. L. 124-3 C. assur.) — Sinistre corporel du 29 mai 2026 — SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** — Expertise médicale consolidée — Réserves expresses
----
+<hr><hr>
 
 **Réf. :** Dossier **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** / SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
 Madame, Monsieur,
 
 J'interviens aux présentes en ma qualité de conseil de **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), sis **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** à **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**.
+<hr><hr>
 ## I — RAPPEL DES FAITS ET DE LEUR GRAVITÉ
 
 Le 29 mai 2026, ma cliente se trouvait installée au bac à shampoing lorsque **[Le Préposé de l'Exploitation](../../../../Memory/Tokens/token-exploitation-prepose-nom.md)** (tél. [**[Le Téléphone du Préposé]**](../../../../Memory/Tokens/token-exploitation-prepose-telephone.md)), salarié de l'établissement, est monté sur la vasque en céramique pour régler un téléviseur, en l'absence de tout équipement adapté (escabeau ou marchepied). Sous son poids, la vasque — instable et fragilisée par une cassure préexistante non signalée — a basculé. Ma cliente a instinctivement tendu sa main droite dominante pour protéger le salarié, heurtant de plein fouet l'arête tranchante de la cassure.
@@ -89,6 +90,7 @@ Les lésions, leur gravité et leurs suites ont été contradictoirement constat
 Le préjudice corporel de ma cliente, évalué selon la nomenclature Dintilhac, s'établit dans une fourchette globale de **120 000 € à 160 000 €**, dont **49 231 €** au titre des seuls postes extra-patrimoniaux.
 <hr><hr>
 
+<hr><hr>
 ## II — FONDEMENT JURIDIQUE DE L'ACTION DIRECTE
 
 L'article L. 124-3 du Code des assurances dispose :
@@ -100,6 +102,7 @@ L'article L. 124-3 du Code des assurances dispose :
 Ce texte institue un droit propre de la victime à l'encontre de l'assureur, indépendant des relations contractuelles entre l'assureur et son assuré. Il vous appartient donc, en votre qualité d'assureur potentiel de la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, de prendre position sans équivoque sur la garantie de ce sinistre.
 <hr><hr>
 
+<hr><hr>
 ## III — CARENCE DE L'ASSURÉE ET PROCÉDURE PÉNALE EN COURS
 
 Je dois porter à votre connaissance que, malgré des démarches amiables et judiciaires répétées, la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et ses dirigeants se refusent à communiquer la moindre attestation d'assurance responsabilité civile professionnelle. Ce silence fait obstacle à l'exercice de l'action directe et constitue une entrave caractérisée aux droits de ma cliente.
@@ -109,6 +112,7 @@ Une **information judiciaire** a été ouverte par réquisitoire introductif du 
 L'obstruction persistante de l'assurée, conjuguée à l'absence de réponse de votre part, justifierait le cas échéant des réquisitions pénales complémentaires visant directement votre compagnie.
 <hr><hr>
 
+<hr><hr>
 ## IV — MISES EN DEMEURE
 
 En conséquence de ce qui précède, je vous mets formellement en demeure, au nom et pour le compte de ma cliente, de :
@@ -127,6 +131,7 @@ En conséquence de ce qui précède, je vous mets formellement en demeure, au no
 4. **Me verser, à titre de provision**, la somme de **15 000 € (quinze mille euros)** à valoir sur l'indemnisation définitive des préjudices de ma cliente, somme dont le montant est délibérément mesuré au regard de l'évaluation globale (120 000 — 160 000 €) et des éléments déjà produits.
 <hr><hr>
 
+<hr><hr>
 ## V — RÉSERVES EXPRESSES
 
 Sous réserve de tous droits et moyens, y compris pénaux, expressément réservés, je me réserve la faculté de :
@@ -185,8 +190,8 @@ Variante « avocat » de la mise en demeure adressée à l'assureur RC, destiné
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
 <!-- /Source -->
-

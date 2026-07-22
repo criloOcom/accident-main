@@ -53,19 +53,19 @@ Monsieur **[Romain DELRIEU](../../../../Memory/Tokens/token-exploitation-bailleu
 
 > 🔗 Source Google Drive : [À COMPLÉTER APRÈS ENVOI]
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Relance LRAR — Correction qualification accident + Demande informations assurances SAS HB BARBER — L.R.A.R.**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 Par la présente, je me permets de revenir vers vous pour la troisième fois concernant l'accident corporel dont j'ai été victime le **vendredi 29 mai 2026 à 15h00** dans vos locaux du **22 Rue Lafaurie à Foix (09000)**.
 
@@ -214,4 +214,3 @@ Sébastien GRAZIDE (envoi sans signature manuscrite)**
 
 [^10]: [Arrêt Cour de cassation, 2e chambre civile, 3 avril 2025, n° 23-18.568 — www.legifrance.gouv.fr/juri/id/JURITEXT000051464849](https://www.legifrance.gouv.fr/juri/id/JURITEXT000051464849)
 <!-- /Source -->
-

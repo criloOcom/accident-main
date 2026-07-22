@@ -28,7 +28,7 @@ type: memory
 > **Phase 32 ✅** Nouvelles LRAR SAS HB BARBER — 3 lettres envoyées le 18/07/2026 par LRAR (La Poste en ligne) — matérialise le point de départ du délai légal amiable de 15 jours
 > > **Phase 33 ✅** Correction juridique Phase 4 — 3 articles manquants créés (L.123-3, L.123-5-1 C.com, L.8221-1 C.trav) — tous vérifiés via MCP OpenLegi (✅ 20/07)
 > > **Phase 34 🏗️** Déplacement Foix préparé (semaine du 27/07/2026) — Dépôt AJ totale BAJ + Complément PV Commissariat — Calendrier Google mis à jour, documentation synchronisée (🏗️ EN COURS 20/07)
-> > **Phase 35 ✅** Night Watch 20/07 — 15 missions (Token→Reel, listes tight, santé, scratch, HB BARBER, STRICT VARIABLES, Légifrance, RGPD, bordereau, arborescence, jurisprudence, rapports) — rapport dans `Rapports/NIGHTWATCH_2026-07-20.md` (✅ 20/07)
+> > **Phase 35 ✅** Night Watch 20/07 — 15 missions (Token→Reel, listes tight, santé, scratch, HB BARBER, STRICT VARIABLES, Légifrance, RGPD, bordereau, arborescence, jurisprudence, rapports) — rapport dans [Rapports/NIGHTWATCH_2026-07-20.md](../Rapports/NIGHTWATCH_2026-07-20.md) (✅ 20/07)
 > > **Phase 36 ✅** Enrichissement bibliothèque jurisprudence — 11 décisions (4 Cass. + 7 CA/TJ), 2 documents stratégiques (Mémoire synthèse ERP + Note Action Directe L124-3), versions Reel, READMEs et CHANGELOG mis à jour (✅ 21/07)
 > > **Phase 37 ✅** Police Token Audit — 9 fichiers Police audités + corrigés : tokens texte brut→liens, date FIXME corrigée, 4 nouveaux tokens LRAR créés, renommage Plainte Complementaire Token↔Reel, Reel regénéré (128 fichiers), check cohérence ✅ (✅ 21/07)
 > **Phase 39 ✅** Nettoyage projet + correction liens cassés : 4 scripts déplacés racine→.dev/app, __pycache__ supprimé, GEMINI.md→Memory, 30 liens cassés corrigés (angle brackets, parentheses, Partie Civile - Constitution, jurisprudence back-references), 7 token_path ajoutés Reel, 28 violations YAML corrigées, audit_internal_links.py angle-bracket support ✅ 21/07
@@ -50,7 +50,7 @@ Transformer toutes les mentions textuelles de pièces et de tokens d'anonymisati
 
 2. **Script** `.dev/app/link_documents.py` — dry-run, --apply, --strate, URL-encoding, protection double-liens
 
-3. **10 stubs** créés dans `Actes/Preuves officielles/` pour pièces non téléchargées
+3. **10 stubs** créés dans [Actes/Preuves officielles](../Actes/Preuves officielles/README.md) pour pièces non téléchargées
 
 4. **TOKEN MAP.md** enrichi : 5 ancres + section `#tokens-evenementiels`
 
@@ -497,7 +497,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 | **Total Dintilhac** | ~105 000 € (nôtre) / ~45 000 € (Glose) | **~90 000 € (compromis)** |
 
 ### Fichiers modifiés/créés
-- `Rapports/expertise/20260707 Analyse critique Glose.md` — NOUVEAU
+- [Rapports/expertise/20260707 Analyse critique Glose.md](../Rapports/expertise/20260707 Analyse critique Glose.md) — NOUVEAU
 
 - `05 🎯 Conclusions Refere.md` — MIS À JOUR (provision, R.4323-58, tableau)
 
@@ -520,7 +520,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 
 - **Fichiers créés** :
 
-  - `Rapports/expertise/20260707 Mémoire juridique Glose.md` — mémoire complet sauvegardé
+  - [Rapports/expertise/20260707 Mémoire juridique Glose.md](../Rapports/expertise/20260707 Mémoire juridique Glose.md) — mémoire complet sauvegardé
 - **Fichiers mis à jour** :
 
   - `05 🎯 Conclusions Refere.md` — remplacé par la version Glose (provision 8 000 €, astreinte 100 €/jour, art. 145 communication assurance)
@@ -555,7 +555,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 5. **Provision référé ajustée** : 8 000-10 000 € (au lieu de 15 000 €)
 
 ### State final
-- `Rapports/expertise/` : 1 mémoire externe
+- [Rapports/expertise](../Rapports/expertise/README.md) : 1 mémoire externe
 
 - [Lois](../Lois/README.md), [Rapports/Archives/ordalie](../Actes/Token/README.md) : inchangé
 
@@ -1232,7 +1232,7 @@ Standardiser TOUTES les citations de lois et jurisprudences dans [Actes/Token](.
 Unifier tous les séparateurs de section des fichiers `.md` au format `<hr><hr>` et créer un document de référence unique des conventions de formatage.
 
 ### Actions réalisées
-1. **Création de `Memory/CONVENTIONS.md`** — document souverain consolidant toutes les règles : ordre canonique, hiérarchie H1–H4, séparateurs `<hr><hr>`, citations (texte→filiation→lien), tokens `**[...]**`, liens relatifs, `[À compléter]`, interdictions.
+1. **Création de [Memory/CONVENTIONS.md](CONVENTIONS.md)** — document souverain consolidant toutes les règles : ordre canonique, hiérarchie H1–H4, séparateurs `<hr><hr>`, citations (texte→filiation→lien), tokens `**[...]**`, liens relatifs, `[À compléter]`, interdictions.
 
 2. **Création de `.dev/app/normalize_sections.py`** — script de normalisation en 3 phases :
 
@@ -1332,17 +1332,17 @@ Intégrer l'avis indemnitaire externe Dintilhac (2ᵉ passe corrigée) : correct
 - `Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`
 
 ### Fichiers modifiés
-- `Memory/Tokens/token-finance-prejudice-agrement.md` — correction contenu + montant
+- [Memory/Tokens/token-finance-prejudice-agrement.md](Tokens/token-finance-prejudice-agrement.md) — correction contenu + montant
 
-- `Memory/Tokens/token-finance-evaluation-initiale.md` — refonte complète
+- [Memory/Tokens/token-finance-evaluation-initiale.md](Tokens/token-finance-evaluation-initiale.md) — refonte complète
 
-- `Memory/Tokens/token-finance-dfp.md` — refonte complète
+- [Memory/Tokens/token-finance-dfp.md](Tokens/token-finance-dfp.md) — refonte complète
 
-- `Memory/Tokens/token-finance-incidence-professionnelle.md` — refonte complète
+- [Memory/Tokens/token-finance-incidence-professionnelle.md](Tokens/token-finance-incidence-professionnelle.md) — refonte complète
 
-- `Memory/STRICT VARIABLES.md` — nouvelle section + tableau enrichi
+- [Memory/STRICT VARIABLES.md](STRICT VARIABLES.md) — nouvelle section + tableau enrichi
 
-- `Memory/STATUS.md` — présente section
+- [Memory/STATUS.md](STATUS.md) — présente section
 
 ---
 
@@ -1378,9 +1378,9 @@ Mettre en place un erratum formel visant à corriger l'erreur de désignation in
 Formaliser la stratégie d'investigation liée au paiement Wero de 15 € effectué à Ayoub Bennourine (préposé) et documenter la ligne de conduite et les tâches de la roadmap Foix.
 
 ### Actions réalisées
-1. Rédaction de la section `## 4. Paiement Wero – Témoin Ayoub` dans `Memory/Mémo Stratégie Bailleur HB BARBER.md`.
+1. Rédaction de la section `## 4. Paiement Wero – Témoin Ayoub` dans [Memory/Mémo Stratégie Bailleur HB BARBER.md](Mémo Stratégie Bailleur HB BARBER.md).
 
-2. Ajout des tâches correspondantes dans le tableau de bord `Memory/TODO.md`.
+2. Ajout des tâches correspondantes dans le tableau de bord [Memory/TODO.md](TODO.md).
 
 3. Intégration du narratif Wero dans les plaintes complémentaires et la Requête 145 CPC.
 
@@ -1405,7 +1405,7 @@ Envoyer 3 lettres recommandées avec accusé de réception (LRAR) matérialisant
 4. **Doctrine confirmée** : Le délai civil de 15 jours ouvert par les LRAR **n'interrompt ni ne suspend** l'enquête préliminaire pénale en cours (PV n° 2026/015967 mené par le commissariat de Foix).
 
 ### Documents associés
-- `Memory/TODO.md` — Phase 31 (LRAR) marquée ✅ TOUT ENVOYÉ.
+- [Memory/TODO.md](TODO.md) — Phase 31 (LRAR) marquée ✅ TOUT ENVOYÉ.
 
 - Calendrier Google — Mise à jour des échéances amiable/civil.
 
@@ -1468,12 +1468,12 @@ Préparer et synchroniser la documentation pour le déplacement physique à Foix
 ## Phase 37 — Police Token Audit + Correction (21 juillet 2026) ✅ [TERMINÉ]
 
 ### Objectif
-Auditer et corriger l'ensemble des fichiers token du dossier `Police/` dans `Actes/Token/Courriers/` — remplacer les tokens en texte brut par des liens relatifs, créer les fichiers token manquants, corriger les dates FIXME, et synchroniser les noms Token↔Reel.
+Auditer et corriger l'ensemble des fichiers token du dossier `Police/` dans [Actes/Token/Courriers](../Actes/Token/Courriers/README.md) — remplacer les tokens en texte brut par des liens relatifs, créer les fichiers token manquants, corriger les dates FIXME, et synchroniser les noms Token↔Reel.
 
 ### Actions réalisées
 
 #### OP1 — Création tokens LRAR manquants
-- `token-lrar-president.md`, `token-lrar-directrice.md`, `token-lrar-proprietaire.md` créés dans `Memory/Tokens/` (modèle : `token-lrar-exploitant.md`)
+- `token-lrar-president.md`, `token-lrar-directrice.md`, `token-lrar-proprietaire.md` créés dans [Memory/Tokens](Tokens/README.md) (modèle : `token-lrar-exploitant.md`)
 
 #### OP2 — LRAR texte brut → liens
 - Dans `Police Plainte Complementaire` : `N° LRAR Exploitant/Président/Directrice/Propriétaire` — cf. [Tokens/](Tokens/README.md)

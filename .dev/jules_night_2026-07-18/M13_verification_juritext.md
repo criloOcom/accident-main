@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `Rapports/RAPPORT_VERIFICATION_JURITEXT_2026-07-18.md` vérifiant **toutes les citations d'articles de loi, de codes et de décisions de justice** dans le dossier, selon le protocole strict défini dans `JURITEXT_PROTOCOL.md`.
+Produis un rapport [Rapports/RAPPORT_VERIFICATION_JURITEXT_2026-07-18.md](../../Rapports/RAPPORT_VERIFICATION_JURITEXT_2026-07-18.md) vérifiant **toutes les citations d'articles de loi, de codes et de décisions de justice** dans le dossier, selon le protocole strict défini dans `JURITEXT_PROTOCOL.md`.
 
 ## PROTOCOLE
 
@@ -28,7 +28,7 @@ Parcourt les fichiers les plus cites juridiquement :
 
 - Les conclusions TJ Foix
 
-- Les rapports dans `Rapports/` (notamment les audits JURITEXT précédents)
+- Les rapports dans [Rapports](../../Rapports/README.md) (notamment les audits JURITEXT précédents)
 
 - Les Décisions.md, RULES.md, STRICT VARIABLES.md
 

@@ -14,6 +14,7 @@ auteur: La Victime
 statut: annexe
 
 # ANNEXE B<br>TEXTES DE LOI ET JURISPRUDENCE CITÉS
+<hr><hr>
 ## TEXTES DE LOI
 
 • **[Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^1]** — Responsabilité pour faute (art. 1240)
@@ -122,6 +123,7 @@ statut: annexe
 > **Code de la consommation > Section 1 : Champ d'application.[^21]**
 <hr><hr>
 
+<hr><hr>
 ## DOCTRINE — ACCIDENTS EN SALON DE COIFFURE
 
 • **[Article Me J. Plouton — TJ Bordeaux, 4 novembre 2024 (RG 22/05793)](https%3A//www.jplouton-avocat.fr/post/indemnisation-d-une-cliente-brul%C3%A9e-au-cuir-chevelu-lors-d-une-coloration-dans-un-salon-de-coiffure)**
@@ -131,6 +133,7 @@ statut: annexe
   Panorama de jurisprudence sur la responsabilité des salons de coiffure : coupe ratée, teinture loupée, cheveux brûlés. Confirme la responsabilité systématique du salon pour manquement à l'obligation de sécurité, tant sur le fondement civiliste (1240/1242 C.civ.) que sur celui du droit de la consommation.
 <hr><hr>
 
+<hr><hr>
 ## JURISPRUDENCE
 
 - [Arrêt SATI : Cass. Com., 20 mai 2003, n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)[^22]
@@ -138,8 +141,8 @@ statut: annexe
 > Résumé : Le dirigeant qui commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions engage sa responsabilité personnelle.
 
 - [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)[^23]
-> Attendu : *« À VÉRIFIER — texte de l'arrêt à confirmer depuis Légifrance (JURITEXT000043489943). »* <br>
-> Résumé : À VÉRIFIER.
+> Attendu : *«  — texte de l'arrêt à confirmer depuis Légifrance (JURITEXT000043489943). »* <br>
+> Résumé : .
 
 - [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)[^24]
 > Attendu : *« Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »* <br>
@@ -155,6 +158,7 @@ statut: annexe
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
@@ -184,4 +188,3 @@ statut: annexe
 [^25]: [Cass. Civ. 1re, 8 décembre 2021, n° 20-16.463 — www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) ↩
 [^26]: [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) ↩
 <!-- /Source -->
-

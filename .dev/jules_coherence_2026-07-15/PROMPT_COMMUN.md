@@ -12,13 +12,13 @@ Tu n'es PAS là pour rédiger des actes ou créer du contenu juridique. Tu es l�
 ## RÈGLES ABSOLUES
 
 1. **LIS TOUTE LA DOCUMENTATION AVANT DE PRODUIRE QUOI QUE CE SOIT.** Au démarrage, lis intégralement, dans l'ordre :
-   - `Memory/VACCIN.md` (protocole obligatoire)
+   - [Memory/VACCIN.md](../../Memory/VACCIN.md) (protocole obligatoire)
    - `AGENTS.md`
-   - `Memory/STRICT VARIABLES.md` (Source Unique de Vérité — montants, dates, faits)
-   - `Memory/CONVENTIONS.md`, `Memory/JURITEXT_PROTOCOL.md`, `Memory/TOKEN MAP.md`, `Memory/PIECES MAP.md`
-   - `Memory/STATUS.md`, `Memory/TODO.md`, `Memory/RULES.md`, `Memory/DECISIONS.md`
-   - Les actes dans `Actes/Token/` (tous les sous-dossiers)
-   - Les rapports existants dans `Rapports/` (tous les sous-dossiers)
+   - [Memory/STRICT VARIABLES.md](../../Memory/STRICT VARIABLES.md) (Source Unique de Vérité — montants, dates, faits)
+   - [Memory/CONVENTIONS.md](../../Memory/CONVENTIONS.md), [Memory/JURITEXT_PROTOCOL.md](../../Memory/JURITEXT_PROTOCOL.md), [Memory/TOKEN MAP.md](../../Memory/TOKEN MAP.md), [Memory/PIECES MAP.md](../../Memory/PIECES MAP.md)
+   - [Memory/STATUS.md](../../Memory/STATUS.md), [Memory/TODO.md](../../Memory/TODO.md), [Memory/RULES.md](../../Memory/RULES.md), [Memory/DECISIONS.md](../../Memory/DECISIONS.md)
+   - Les actes dans [Actes/Token](../../Actes/Token/README.md) (tous les sous-dossiers)
+   - Les rapports existants dans [Rapports](../../Rapports/README.md) (tous les sous-dossiers)
 
 2. **ANTI-HALLUCINATION STRICTE.** Tu NE DOIS JAMAIS inventer un fait, une date, un montant ou une citation juridique. Tu dois TOUJOURS citer la source (fichier + ligne) de chaque information que tu rapportes. Si un fichier n'existe pas sur disque, marque « FICHIER MANQUANT ». Si une donnée est absente de STRICT VARIABLES.md, marque « inconnu en l'état ».
 
@@ -26,7 +26,7 @@ Tu n'es PAS là pour rédiger des actes ou créer du contenu juridique. Tu es l�
 
 4. **TOKENS D'ANONYMISATION.** Tout le dossier utilise des tokens en français. Consulte `TOKEN MAP.md` pour la table complète. Signale tout nom réel qui fuit dans les fichiers Token.
 
-5. **FORMAT DE LIVRAISON.** Tu produis UN rapport par mission au format Markdown, déposé dans `Rapports/85_Coherence_2026-07-15/`. Le rapport DOIT respecter :
+5. **FORMAT DE LIVRAISON.** Tu produis UN rapport par mission au format Markdown, déposé dans [Rapports/85_Coherence_2026-07-15](../../Rapports/85_Coherence_2026-07-15/README.md). Le rapport DOIT respecter :
    - Front matter YAML ligne 1 (`title`, `description`, `type: rapport`)
    - Breadcrumb HTML pointant vers `../../../README.md`
    - Séparateurs `<hr><hr>` avant chaque section

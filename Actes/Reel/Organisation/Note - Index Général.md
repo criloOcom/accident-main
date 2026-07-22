@@ -20,37 +20,40 @@ jx: J+39
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-# INDEX DU DOSSIER **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)**
+# INDEX DU DOSSIER **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**
 > 🔗 Source Google Drive : [1Zp-JK9kz0V0…](https://drive.google.com/open?id=1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU)
-Rédigé le **[30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md)** — Mis à jour le **[J+38 Mise à jour](../../../Memory/Tokens/token-j-38-mise-a-jour.md)** (unification bordereau 43 pièces)
+Rédigé le **[J+32 Assignation référé](../../../Memory/Tokens/token-j-32-assignation-refere.md)** — Mis à jour le **[J+38 Mise à jour](../../../Memory/Tokens/token-j-38-mise-a-jour.md)** (unification bordereau 43 pièces)
+<hr><hr>
 ## I — INTRODUCTION
 
-*Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)** c/ **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, à la suite de l'accident corporel grave survenu le **[29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md)**. Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du **[30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md)** et reflète l'état final de la composition du dossier.*
+*Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** c/ **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, à la suite de l'accident corporel grave survenu le **[J+0 Accident](../../../Memory/Tokens/token-j-0-accident.md)**. Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du **[J+32 Assignation référé](../../../Memory/Tokens/token-j-32-assignation-refere.md)** et reflète l'état final de la composition du dossier.*
 
-*Structure finale au **[29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md)***
+*Structure finale au **[J+0 Accident](../../../Memory/Tokens/token-j-0-accident.md)***
 
 Destinataire : Analyse tierce
 
-Partage depuis : **[sebastien.grazide@gmail.com](../../../Memory/Tokens/token-victime-email.md)**
+Partage depuis : **[L'Email de la Victime](../../../Memory/Tokens/token-victime-email.md)**
 <hr><hr>
 
+<hr><hr>
 ## II — PREUVES OFFICIELLES
 
 *(Documents physiques — dossier `Preuves_officielles/` en attente d'insertion)*
 
-- 2026-05-30 - [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) ✓ Vérifié : Compte rendu opératoire du **[Dr Iskander DJERBI](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** (microchirurgie **[30 mai 2026](../../../Memory/Tokens/token-j-1-chirurgie.md)**).
+- 2026-05-30 - [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) ✓ Vérifié : Compte rendu opératoire du **[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** (microchirurgie **[J+1 Chirurgie](../../../Memory/Tokens/token-j-1-chirurgie.md)**).
 
 - 2026-06-01 - Dossier plainte ✓ Vérifié : Copie complète de la plainte officielle déposée au commissariat.
 
 - 2026-06-02 - PV Police ✓ Vérifié : Procès-verbal de constat n°[ ...].
 
-- 2026-06-19 - [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) **[Dr Iskander DJERBI](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
+- 2026-06-19 - [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) **[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
 
 - 2026-06-29 - Forensic Evidence File ✓ Vérifié : Dossier de preuves numériques et médicales.
 <hr><hr>
 
+<hr><hr>
 ## III — ACTES PROCÉDURAUX
 
 - 2026-06-29 - 01 ⚖️ Assignation - V1 ✓ Vérifié : Projet d'assignation en référé-provision (5 000 €) fondé sur [Article 835 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)[^1].
@@ -70,9 +73,10 @@ Partage depuis : **[sebastien.grazide@gmail.com](../../../Memory/Tokens/token-vi
 > *« Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
 <hr><hr>
 
+<hr><hr>
 ## IV — COURRIERS
 
-- 2026-06-29 - 03 ✉️ Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
+- 2026-06-29 - 03 ✉️ Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
 
 - 2026-06-29 - 04 ✉️ Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^2].
 
@@ -85,7 +89,7 @@ Partage depuis : **[sebastien.grazide@gmail.com](../../../Memory/Tokens/token-vi
 
 - 2026-06-29 - 06 ✉️ Courrier President DG - V1 ✓ Vérifié : Mise en demeure personnelle aux dirigeants.
 
-- 2026-07-05 - 07 ✉️ Courrier Consolidation - V1 ✓ Vérifié : Demande certificat médical de consolidation au **[Dr Iskander DJERBI](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**.
+- 2026-07-05 - 07 ✉️ Courrier Consolidation - V1 ✓ Vérifié : Demande certificat médical de consolidation au **[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**.
 
 - 2026-07-05 - 08 ✉️ Courrier Suivi Adjoint Maire - V1 ✓ Vérifié : Suivi Inspection du Travail + CODAF (réponse adjoint au maire).
 
@@ -109,7 +113,7 @@ Partage depuis : **[sebastien.grazide@gmail.com](../../../Memory/Tokens/token-vi
 
 - 2026-07-05 - 20 🔄 Relance Police - V1 ✓ Vérifié : Suivi plainte + demande vidéos.
 
-- 2026-07-05 - 21 ✉️ CPAM - Relance - V1 ✓ Vérifié : Suivi [dossier RCT](../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) 31727387.
+- 2026-07-05 - 21 ✉️ CPAM - Relance - V1 ✓ Vérifié : Suivi [dossier RCT](../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) **[N° [Dossier CPAM](../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
 
 - 2026-07-05 - ✉️ Témoin Client - Attestation - V1 ✓ Vérifié : Gabarit d'attestation de témoin.
 
@@ -117,11 +121,12 @@ Partage depuis : **[sebastien.grazide@gmail.com](../../../Memory/Tokens/token-vi
 
 - 2026-07-05 - ✉️ Employé - Attestation - V1 ✓ Vérifié : Gabarit d'attestation d'employé.
 
-- 2026-07-05 - 25 📧 Relance Dr Iskander DJERBI - V1 ✓ Vérifié : Relance demande certificat médical de consolidation.
+- 2026-07-05 - 25 📧 Relance [Le Chirurgien SOS Main] - V1 ✓ Vérifié : Relance demande certificat médical de consolidation.
 
 - 2026-07-05 - 26-28 📧📋s Témoin - V1 ✓ Vérifié : Gabarits d'attestations pour témoins potentiels (client, pompier, employé).
 <hr><hr>
 
+<hr><hr>
 ## V — ANALYSES JURIDIQUES
 
 - 2026-06-29 - 07 🎤 Plaidoirie dirigeants - V1 ✓ Vérifié : Analyse de la responsabilité pour faute détachable selon l'Arrêt SATI juridique invoquant [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^3] du Code civil
@@ -143,6 +148,7 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 <hr><hr>
 
+<hr><hr>
 ## VI — ÉTUDES D'INDEMNISATION
 
 - 2026-07-07 - 11+12 📊 Evaluation Dintilhac consolidee - V2 ✓ Vérifié : Document consolidé unique (fusion des docs 11 et 12) — tous postes Dintilhac, comparaison Glose, stratégie de recouvrement, provision référé (~92 000 €, provision 15 000 €).
@@ -151,6 +157,7 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 > Résumé : La victime d'un préjudice corporel est libre d'affecter les fonds alloués à l'usage de son choix, le responsable ne pouvant exiger la preuve de l'utilisation effective des indemnités.
 <hr><hr>
 
+<hr><hr>
 ## VII — ORGANISATION
 
 - 2026-06-01 - 10 🗂️ Plan action - V1 ✓ Vérifié : Plan d'action et chronologie de procédure.
@@ -162,6 +169,7 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 - 2026-07-05 - 20 📦 Bon envoi physique - V1 ✓ Vérifié : Bon d'envoi physique des pièces au tribunal.
 <hr><hr>
 
+<hr><hr>
 ## VIII — MÉMOIRES D'AUDIT
 
 - ~~AUDIT_DATES.md — supprimé (RGPD)~~ ✓ Vérifié : Audit de la chronologie des faits.
@@ -193,6 +201,7 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 - [PIECES MAP.md](../../../Memory/PIECES%20MAP.md) ✓ Vérifié : Correspondance documents et pièces.
 <hr><hr>
 
+<hr><hr>
 ## IX — ARCHIVES
 
 Documents non indexés conservés dans `archives/` :
@@ -214,9 +223,10 @@ Documents non indexés conservés dans `archives/` :
 - [archives/Archive - Dossier Présentation.md](../Archives/Archive%20-%20Dossier%20Pr%C3%A9sentation.md)
 <hr><hr>
 
+<hr><hr>
 ## X — MODIFICATIONS CLÉS
 
-1. **[Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md)** (tél. [07 58 40 12 87](../../../Memory/Tokens/token-exploitation-prepose-telephone.md)) -> **[Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md)** + **[Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md)** ✓
+1. **[Le Préposé de l'Exploitation](../../../Memory/Tokens/token-exploitation-prepose-nom.md)** (tél. [**[Le Téléphone du Préposé]**](../../../Memory/Tokens/token-exploitation-prepose-telephone.md)) -> **[Le Président de l'Exploitation](../../../Memory/Tokens/token-exploitation-president-nom.md)** + **[La Directrice Générale de l'Exploitation](../../../Memory/Tokens/token-exploitation-dg-nom.md)** ✓
 
 1. Stratégie : faute détachable des dirigeants ✓
 
@@ -226,7 +236,7 @@ Documents non indexés conservés dans `archives/` :
 
 4. Conclusions PC mises à jour ✓
 
-5. Courrier 06 avec **[Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md)** ✓
+5. Courrier 06 avec **[La Directrice Générale de l'Exploitation](../../../Memory/Tokens/token-exploitation-dg-nom.md)** ✓
 
 6. 4 doublons archivés ✓
 
@@ -249,6 +259,7 @@ Documents non indexés conservés dans `archives/` :
 15. Ancien « Bordereau de pieces.md » supprimé ✓
 <hr><hr>
 
+<hr><hr>
 ## XI — RÉFÉRENCES JURISPRUDENTIELLES
 
 - [Arrêt Costedoat : Ass. Plén., 25 février 2000, n° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)[^6]
@@ -272,14 +283,15 @@ Documents non indexés conservés dans `archives/` :
 > Résumé : L'indemnisation au titre de l'incidence professionnelle est cumulable avec la perte de gains professionnels futurs et répare la dévalorisation sur le marché de l'emploi et l'exclusion sociale qui en découlent.
 
 - [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)[^11]
-> Attendu : À VÉRIFIER — texte de l'arrêt à confirmer depuis Légifrance (JURITEXT000043489943).
-> Résumé : À VÉRIFIER.
+> Attendu :  — texte de l'arrêt à confirmer depuis Légifrance (JURITEXT000043489943).
+> Résumé : .
 
 - [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)[^12]
 > Attendu : *« Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »* <br>
 > Résumé : Le principe de réparation intégrale exige une évaluation concrète et justifiée de chaque poste de préjudice corporel, proscrivant les indemnisations globales, forfaitaires ou imprécises.
 <hr><hr>
 
+<hr><hr>
 ## XII — STATISTIQUES DU DOSSIER (MÀJ **[J+38 Mise à jour](../../../Memory/Tokens/token-j-38-mise-a-jour.md)**)
 
 - Actes procéduraux : **7** (Assignation 01, Plainte 02, Constitution PC 02b, Assignation 145 03, Bordereau unifié 04, Conclusions 05, Constat Huissier 06)
@@ -302,9 +314,10 @@ Documents non indexés conservés dans `archives/` :
 
 - Pièces au bordereau unifié : **43 numérotées séquentiellement** (groupes A-G)
 
-*NOTE : Le Tableau Financier des Préjudices (spreadsheet) a été RETIRÉ du dossier - il appartenait à l'affaire LE BARS (Montauban), pas à **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)**. Seule l'Étude d'indemnisation (Piece 03) est conservée dans Etudes_indemnisation.*
+*NOTE : Le Tableau Financier des Préjudices (spreadsheet) a été RETIRÉ du dossier - il appartenait à l'affaire LE BARS (Montauban), pas à **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**. Seule l'Étude d'indemnisation (Piece 03) est conservée dans Etudes_indemnisation.*
 <hr><hr>
 
+<hr><hr>
 ## XIII — TRAVAUX RESTANTS
 
 1. **Audience de référé** — Planifier audience (date non fixée).
@@ -321,19 +334,19 @@ Documents non indexés conservés dans `archives/` :
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
-[^1]: [Article 835 du CPC — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
-[^2]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^3]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
-[^4]: [1242 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
-[^5]: [Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
-[^6]: [Arrêt Costedoat : Ass. Plén., 25 février 2000, n° 97-17.378 — www.legifrance.gouv.fr/juri/id/JURITEXT000007043704](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)
-[^7]: [Arrêt Cousin : Ass. Plén., 14 décembre 2001, n° 00-82.066 — www.legifrance.gouv.fr/juri/id/JURITEXT000007071351](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351)
-[^8]: [Arrêt SATI : Cass. Com., 20 mai 2003, n° 99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
-[^9]: [Cass. Crim., 27 mai 2014, n° 13-80.849 — www.legifrance.gouv.fr/juri/id/JURITEXT000029014493](https://www.legifrance.gouv.fr/juri/id/JURITEXT000029014493)
-[^10]: [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
-[^11]: [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173 — www.legifrance.gouv.fr/juri/id/JURITEXT000043489943](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)
-[^12]: [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106 — www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
+[^1]: [Article 835 du CPC — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) ↩
+[^2]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^3]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+[^4]: [1242 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
+[^5]: [Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+[^6]: [Arrêt Costedoat : Ass. Plén., 25 février 2000, n° 97-17.378 — www.legifrance.gouv.fr/juri/id/JURITEXT000007043704](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704) ↩
+[^7]: [Arrêt Cousin : Ass. Plén., 14 décembre 2001, n° 00-82.066 — www.legifrance.gouv.fr/juri/id/JURITEXT000007071351](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351) ↩
+[^8]: [Arrêt SATI : Cass. Com., 20 mai 2003, n° 99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
+[^9]: [Cass. Crim., 27 mai 2014, n° 13-80.849 — www.legifrance.gouv.fr/juri/id/JURITEXT000029014493](https://www.legifrance.gouv.fr/juri/id/JURITEXT000029014493) ↩
+[^10]: [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) ↩
+[^11]: [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173 — www.legifrance.gouv.fr/juri/id/JURITEXT000043489943](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) ↩
+[^12]: [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106 — www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126) ↩
 <!-- /Source -->
-

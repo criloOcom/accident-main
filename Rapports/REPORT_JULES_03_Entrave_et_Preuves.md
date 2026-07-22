@@ -70,7 +70,7 @@ Conformément aux arrêts *Merabishvili c. Géorgie* (28 nov. 2017, n° 72508/13
 
 - [x] **Action 10** — Articuler la faute délictuelle autonome sous l'Article 1240 C. civ. en raison des tentatives de dissimulation.
 
-- [x] **Action 11** — Mettre à jour `Memory/PIECES MAP.md` avec les nouvelles fiches de jurisprudence CEDH et CA/TJ.
+- [x] **Action 11** — Mettre à jour [Memory/PIECES MAP.md](../Memory/PIECES MAP.md) avec les nouvelles fiches de jurisprudence CEDH et CA/TJ.
 
 - [x] **Action 12** — Rédiger une note d'analyse spécifique pour l'avocat sur l'inopposabilité du prétexte d'effacement automatique.
 

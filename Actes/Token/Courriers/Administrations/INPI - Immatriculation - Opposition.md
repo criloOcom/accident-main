@@ -23,7 +23,7 @@ jx: J+41
 <!-- Signature -->
 <!-- LRAR -->
 
----
+<hr><hr>
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
 <hr>
@@ -46,31 +46,33 @@ Service du Registre National des Entreprises (RNE)
 
 # OPPOSITION À IMMATRICULATION <br> AU REGISTRE NATIONAL DES ENTREPRISES
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet :** Opposition à l'immatriculation de toute nouvelle société à **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** présentant un lien avec les dirigeants de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 **Référence RCS :** **[L'Identifiant de l'Exploitation](../../../../Memory/Tokens/token-exploitation-id.md)**
 **Lettre Recommandée avec Accusé de Réception**
 
 Monsieur le Greffier,
-
+<hr><hr>
 ## I — EXPOSÉ DES FAITS
 
 J'interviens dans les intérêts de **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**.
 
 Il existe de sérieuses raisons de penser que la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et ses dirigeants, **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, s'apprêtent à dissoudre ou à abandonner la structure actuelle pour recréer une nouvelle société exerçant la même activité à la même adresse, dans le but manifeste de se soustraire aux obligations indemnitaires nées de l'accident.
+<hr><hr>
 
+<hr><hr>
 ## II — FONDEMENTS JURIDIQUES
 
 ### II.1 — Pouvoir du ministère public et de tout intéressé
@@ -100,6 +102,7 @@ La maxime "la fraude corrompt tout" est un principe général du droit français
 Si une nouvelle société est créée à la même adresse avec les mêmes dirigeants exerçant la même activité, l'opération constitue une fraude à la loi.
 <hr><hr>
 
+<hr><hr>
 ## III — DEMANDE
 
 Je vous prie de bien vouloir :
@@ -123,6 +126,7 @@ Avocat au Barreau
 <!-- PJ -->
 <hr><hr>
 
+<hr><hr>
 ## PIECES JOINTES
 
 - **[Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de [La Ville de l'Accident]
@@ -137,9 +141,9 @@ Avocat au Barreau
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article L.123-5-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291) ↩
 [^2]: [Article L.123-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422) ↩
 <!-- /Source -->
-

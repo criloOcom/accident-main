@@ -48,17 +48,15 @@ jx: J+31
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Demande d'information et communication d'assurance — Accident **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** — L.R.A.R.
----
+<hr><hr>
 
 <hr><hr>
 
 La présente lettre de mise en demeure est adressée conjointement par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** à **[Hamza El Hachemi BERGUIGA](../../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[Catherine SORROCHE, dite ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, en leur qualité de dirigeants de **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**.
 
 **Ce courrier constitue une démarche constructive et préalable à toute action contentieuse, conformément aux obligations légales et à la jurisprudence applicable en matière de responsabilité personnelle des dirigeants.**
-<hr><hr>
-
 ## II — RAPPEL DES OBLIGATIONS LÉGALES
 
 La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions.
@@ -209,4 +207,3 @@ Comptant sur votre diligence,
 [^6]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 [^7]: [Article L. 113-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)
 <!-- /Source -->
-

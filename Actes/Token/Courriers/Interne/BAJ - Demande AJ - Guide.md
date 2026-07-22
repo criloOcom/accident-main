@@ -26,6 +26,7 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 # GUIDE<br>DEMANDE D'AIDE JURIDICTIONNELLE TOTALE
 
 > À déposer au **BAJ (Bureau d'Aide Juridictionnelle)** du TJ de Foix, Avenue Paul Laffont, 09000 Foix
+<hr><hr>
 ## I — SUIS-JE ÉLIGIBLE ?
 
 | Condition | Votre situation | Réponse |
@@ -37,6 +38,7 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 ➡ **Vous êtes éligible à l'AJ TOTALE** (prise en charge à 100 %)
 <hr><hr>
 
+<hr><hr>
 ## II — CE QUE COUVRE L'AJ TOTALE
 
 | Frais | Pris en charge ? |
@@ -50,6 +52,7 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 **Vous n'avancez RIEN.** L'avocat perçoit ses honoraires de l'État.
 <hr><hr>
 
+<hr><hr>
 ## III — PIÈCES À FOURNIR
 
 ### II.1 — Obligatoires
@@ -77,6 +80,7 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 - [ ] **Courrier expliquant la situation** (optionnel — peut accélérer)
 <hr><hr>
 
+<hr><hr>
 ## III — COMMENT REMPLIR LE FORMULAIRE
 
 ### III.1 — Section "Identité"
@@ -116,6 +120,7 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 - Date et signature en bas du formulaire
 <hr><hr>
 
+<hr><hr>
 ## IV — DÉMARCHE AU TJ
 
 ### IV.1 — Où aller ?
@@ -156,6 +161,7 @@ Avenue Paul Laffont
 - Si pas de réponse sous 2 mois : considéré comme **rejet implicite** → possibilité de recours
 <hr><hr>
 
+<hr><hr>
 ## V — APRÈS L'AJ
 
 ### V.1 — Si l'AJ est accordée
@@ -189,6 +195,7 @@ Avenue Paul Laffont
   - Association d'aide aux victimes (France Victimes 09)
 <hr><hr>
 
+<hr><hr>
 ## VI — CONSEILS POUR LE 15 JUILLET
 
 ### VI.1 — Ordre recommandé

@@ -2,7 +2,7 @@
 title: "📋 Attestation — Employé du salon"
 description: "Cerfa 11527*03 — Attestation de l'employé du salon présent lors de l'accident"
 type: attestation
-date: FIXME
+date: 
 status: brouillon
 reel_path: ../../Reel/Attestations/Employé - Attestation.md
 statut: brouillon

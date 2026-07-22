@@ -29,14 +29,14 @@ Cet audit de contrôle qualité vérifie que l'ensemble des projets d'actes (Ass
 
 ## II — ANALYSE DE L'INTÉGRATION PAR ACTE
 
-### 1. Assignation Référé Provision & Requête 145 CPC (`Actes/Token/Actes_proceduraux/Contentieux_civil/`)
+### 1. Assignation Référé Provision & Requête 145 CPC ([Actes/Token/Actes_proceduraux/Contentieux_civil](../Actes/Token/Actes_proceduraux/Contentieux_civil/README.md))
 - **Preuves INPI (SAS HB BARBER)** : Intégrées aux pièces n° 7 et 8 (Fiche INPI/INSEE du 01/06/2026 et Statuts constitutifs).
 
 - **Courriers & Mises en demeure** : Intégration des LRARs du 29/06/2026, 08/07/2026, 18/07/2026 et 19/07/2026.
 
 - **Fondements textuels** : Citations vérifiées de l'Art. 145 CPC (`LEGIARTI000006410268`), Art. L. 124-3 C. ass. (`LEGIARTI000006792607`), Art. 1382 C. civ. (`LEGIARTI000032041440`).
 
-### 2. Plainte Pénalement Structurée (`Actes/Token/Actes_proceduraux/Contentieux_penal/`)
+### 2. Plainte Pénalement Structurée ([Actes/Token/Actes_proceduraux/Contentieux_penal](../Actes/Token/Actes_proceduraux/Contentieux_penal/README.md))
 - **Modification des lieux (Art. 434-4 CP)** : Cités aux pièces n° 4 et 5 avec renvoi vers la note de constatation du 16/07/2026 (retrait meuble TV, remplacement vasque) et l'Article 434-4 CP (`LEGIARTI000006418608`).
 
 - **Attestation Témoin** : Fiche Cerfa n° 11527*03 de Frédéric MATHIEU du 18/07/2026 annexée au PV d'audition.

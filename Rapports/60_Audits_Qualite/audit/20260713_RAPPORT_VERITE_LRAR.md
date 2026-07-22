@@ -34,7 +34,7 @@ Preuve (compte La Poste de la victime + Google Doc de synthèse du 08/07/2026) :
 | `87001421903907I` | CPAM de Toulouse (dossier RCT) | 24/06/2026 | Avis de réception numérique disponible |
 | `870014282662911` | SAS LES MAUVAIS GARCONS (Relance J+40 V2) | 08/07/2026 | En attente de retrait (FOIX R P) + facture Z0132713629 |
 
-**Conclusion** : ces numéros sont RÉELS et prouvés. Ils sont désormais ancrés dans `Memory/STRICT VARIABLES.md` (section « Preuves de suivi La Poste ») avec interdiction explicite de les traiter d'inventés. Les tokens `[N° LRAR ...]` des courriers résolvent vers ces valeurs via la strate Reel.
+**Conclusion** : ces numéros sont RÉELS et prouvés. Ils sont désormais ancrés dans [Memory/STRICT VARIABLES.md](../../../Memory/STRICT VARIABLES.md) (section « Preuves de suivi La Poste ») avec interdiction explicite de les traiter d'inventés. Les tokens `[N° LRAR ...]` des courriers résolvent vers ces valeurs via la strate Reel.
 
 ---
 
@@ -65,7 +65,7 @@ L'agent précédent avait aussi remplacé « les tendons » par « le tendon » 
 
 ⚠ Note : le document narratif de la lettre (Google Doc l.141) écrit « sectionné les tendons et les nerfs » au pluriel. C'est une formulation de style ; la lésion médicale documentée est au singulier. Le Token suit la précision médicale (singulier). Aucune action requise.
 
-⚠ Élément connexe : `Actes/Preuves officielles/20260612_DrOXIBEL/20260612-1207 SITUATION Main.md` (l.43) mentionne un « 5e doigt droit » — c'est une ERREUR RÉSIDUELLE dans une pièce médicale (le CR opératoire rectifié dit index droit). Ce point est déjà répertorié comme à corriger (`Reel/Actes_proceduraux/TJ Foix - Bordereau Unifié.md`, l.82 : « Rectification du compte-rendu opératoire : index droit au lieu du 5e doigt »). Non corrigé dans ce rapport (sort de la portée LRAR/téléviseur) — à traiter dans un audit médical dédié.
+⚠ Élément connexe : [Actes/Preuves officielles/20260612_DrOXIBEL/20260612-1207 SITUATION Main.md](../../../Actes/Preuves officielles/20260612_DrOXIBEL/20260612-1207 SITUATION Main.md) (l.43) mentionne un « 5e doigt droit » — c'est une ERREUR RÉSIDUELLE dans une pièce médicale (le CR opératoire rectifié dit index droit). Ce point est déjà répertorié comme à corriger (`Reel/Actes_proceduraux/TJ Foix - Bordereau Unifié.md`, l.82 : « Rectification du compte-rendu opératoire : index droit au lieu du 5e doigt »). Non corrigé dans ce rapport (sort de la portée LRAR/téléviseur) — à traiter dans un audit médical dédié.
 
 ---
 

@@ -86,20 +86,20 @@ type: memory
 - `Actes/Token/Courriers/📝 Procédure/BAJ - Demande AJ - Totale.md`
 
 ### Infra token
-- `Memory/TOKEN MAP.md`
+- [Memory/TOKEN MAP.md](TOKEN MAP.md)
 
-- `Memory/Tokens/README.md`
+- [Memory/Tokens/README.md](Tokens/README.md)
 
 - `.dev/app/batch_anonymize.py`
 
 - `.dev/app/generate_real_versions.py`
 
 ### Stubs à compléter
-- `Memory/Tokens/token-assureur-rc.md`
+- [Memory/Tokens/token-assureur-rc.md](Tokens/token-assureur-rc.md)
 
-- `Memory/Tokens/token-j-63-assignation-145.md`
+- [Memory/Tokens/token-j-63-assignation-145.md](Tokens/token-j-63-assignation-145.md)
 
-- `Memory/Tokens/token-exploitation-nom-commercial.md`
+- [Memory/Tokens/token-exploitation-nom-commercial.md](Tokens/token-exploitation-nom-commercial.md)
 
 ## Prochaine action
 **Lancer 15 vérifications Jules** — voir PLAN ci-dessous.

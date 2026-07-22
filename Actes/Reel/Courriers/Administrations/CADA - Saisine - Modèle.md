@@ -54,19 +54,19 @@ Commission d'accès aux documents administratifs (CADA)
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 15 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Saisine de la CADA — Refus de communication de documents administratifs concernant un accident corporel (salon « [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) », Foix)**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 <hr><hr>
 
@@ -144,4 +144,3 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération dist
 
 - **[PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
 <!-- /PJ -->
-

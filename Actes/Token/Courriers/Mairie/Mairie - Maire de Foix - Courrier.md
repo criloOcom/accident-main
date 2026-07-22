@@ -43,19 +43,19 @@ Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-vi
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 9 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Demande d'intervention au titre de vos pouvoirs de police administrative – Mise en péril de la sécurité publique au sein de l'établissement [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 Monsieur le Maire,
 
@@ -99,7 +99,6 @@ Je vous prie de croire, Monsieur le Maire, à l'expression de ma considération 
 
 <!-- PJ -->
 <hr><hr>
-
 ## PIECES JOINTES
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
@@ -114,9 +113,9 @@ Je vous prie de croire, Monsieur le Maire, à l'expression de ma considération 
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [article L. 2212-2 du Code général des collectivités territoriales — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370) ↩
 [^2]: [article L. 2212-4 du Code général des collectivités territoriales — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390155](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390155) ↩
 <!-- /Source -->
-

@@ -33,13 +33,14 @@ Destinataires des actes et autorités judiciaires
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](./Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # ERRATUM
+<hr><hr>
 ## Correction de l'identité de la société exploitante
 
 <hr><hr>
 
----
+<hr><hr>
 **Objet :** Rectification formelle de la désignation de la société exploitante dans l'ensemble des actes et démarches engagés par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** à la suite de l'accident corporel du 29 mai 2026.
----
+<hr><hr>
 
 **Date :** 17 juillet 2026
 
@@ -48,6 +49,7 @@ Destinataires des actes et autorités judiciaires
 **Référence plainte initiale :** PV n° **[N° PV Police](../../../../Memory/Tokens/token-pv-police-numero.md)** du 2 juin 2026 — Commissariat de **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)** Rive Droite
 <hr><hr>
 
+<hr><hr>
 ## 1. Exposé de l'erreur
 
 Dans l'ensemble des actes, courriers et démarches engagés entre le 2 juin 2026 et le 17 juillet 2026, j'ai désigné comme société exploitante du fonds de commerce situé au 22 Rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, la société **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)**.
@@ -57,6 +59,7 @@ Cette désignation était fondée sur les seules informations disponibles au mom
 **Il s'avère aujourd'hui que cette désignation est erronée.**
 <hr><hr>
 
+<hr><hr>
 ## 2. Chronologie de la découverte de l'erreur
 
 ### Juin 2026 — Premières recherches infructueuses
@@ -104,6 +107,7 @@ Des recherches web complémentaires effectuées à mon retour ont confirmé que 
 | **16 juillet 2026** | Découverte de l'exploitation réelle par [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) |
 <hr><hr>
 
+<hr><hr>
 ## 3. Actes concernés par la correction
 
 La présente rectification s'applique à l'ensemble des actes, courriers et démarches suivants, en ce qu'ils désignent la société exploitante :
@@ -156,6 +160,7 @@ La présente rectification s'applique à l'ensemble des actes, courriers et dém
 - LRAR à **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** (Catherine SORROCHE, directrice générale de la SAS HB BARBER)
 <hr><hr>
 
+<hr><hr>
 ## 4. Correction formelle
 
 En conséquence de ce qui précède, je soussigné **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** déclare formellement :
@@ -177,6 +182,7 @@ En conséquence de ce qui précède, je soussigné **[La Victime](../../../../Me
 4. **Je prie les destinataires des actes listés à la section 3 de bien vouloir annexer le présent erratum aux dossiers et procédures concernés, et de considérer que les diligences engagées visent la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) en qualité d'exploitant réel au jour de l'accident.**
 <hr><hr>
 
+<hr><hr>
 ## 5. Précision sur la bonne foi et la transparence
 
 Je tiens à préciser les points suivants afin d'écarter toute ambiguïté :

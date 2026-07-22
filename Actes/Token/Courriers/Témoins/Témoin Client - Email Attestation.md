@@ -34,9 +34,9 @@ jx: J+38
 <!-- /Destinataire -->
 
 # TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (CLIENT)
----
+<hr><hr>
 Objet : Attestation de témoin — Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au salon **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**
----
+<hr><hr>
 
 <hr><hr>
 
@@ -89,9 +89,7 @@ Cordialement,
 
 <!-- Source -->
 <hr><hr>
-
 ## Sources Législation
 
 [^1]: [Article 202 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330) ↩
 <!-- /Source -->
-

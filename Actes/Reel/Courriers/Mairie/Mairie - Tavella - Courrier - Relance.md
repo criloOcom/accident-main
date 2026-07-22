@@ -46,9 +46,9 @@ Mairie de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Suite a votre message du 1er juin 2026 — Demande d'information sur les diligences Inspection du Travail et CODAF
----
+<hr><hr>
 
 Ref : Votre courriel du 1er juin 2026
 

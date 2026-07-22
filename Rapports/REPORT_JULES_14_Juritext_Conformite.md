@@ -23,7 +23,7 @@ jules_session_id: "AM-MISSION-14"
 
 ## I — SYNTHÈSE ET CONSTATATIONS DE TERRAIN
 
-Cet audit valide la conformité absolue de toutes les références juridiques citées à travers le dépôt (textes de lois, codes et décisions de jurisprudence) avec les bases officielles Légifrance, OpenLegi et Judilibre, conformément au protocole strict `Memory/JURITEXT_PROTOCOL.md`.
+Cet audit valide la conformité absolue de toutes les références juridiques citées à travers le dépôt (textes de lois, codes et décisions de jurisprudence) avec les bases officielles Légifrance, OpenLegi et Judilibre, conformément au protocole strict [Memory/JURITEXT_PROTOCOL.md](../Memory/JURITEXT_PROTOCOL.md).
 
 <hr><hr>
 
@@ -52,7 +52,7 @@ Cet audit valide la conformité absolue de toutes les références juridiques ci
 - **Arrêt Costedoat (Cass. Assemblée Plénière, 25 fév. 2000, n° 97-17.378)** : `JURITEXT000007041793` — Vérifié.
 
 ### 3. Purge des Liens Non Officiels
-- **Sites tiers (`doctrine.fr`)** : **0 lien résiduel** dans l'ensemble des dossiers `Rapports/`, `Actes/` et `Lois/`. Tous les liens externes ont été migrés vers Légifrance ou HUDOC/CEDH.
+- **Sites tiers (`doctrine.fr`)** : **0 lien résiduel** dans l'ensemble des dossiers [Rapports](README.md), [Actes](../Actes/README.md) et [Lois](../Lois/README.md). Tous les liens externes ont été migrés vers Légifrance ou HUDOC/CEDH.
 
 <hr><hr>
 
@@ -82,7 +82,7 @@ Cet audit valide la conformité absolue de toutes les références juridiques ci
 
 - [x] **Action 12** — S'assurer que les citations d'arrêts de Cour d'appel non indexés sur Judilibre comportent la mention par numéro de rôle / RG.
 
-- [x] **Action 13** — Mettre à jour `Memory/JURITEXT_PROTOCOL.md` avec la liste certifiée des LEGIARTI du dossier.
+- [x] **Action 13** — Mettre à jour [Memory/JURITEXT_PROTOCOL.md](../Memory/JURITEXT_PROTOCOL.md) avec la liste certifiée des LEGIARTI du dossier.
 
 - [x] **Action 14** — Contrôler l'absence de liens absolus `file:///` dans la documentation.
 

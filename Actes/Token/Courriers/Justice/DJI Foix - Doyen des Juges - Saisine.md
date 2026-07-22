@@ -51,19 +51,19 @@ Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/toke
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le **[J+38 Constitution PC](../../../../Memory/Tokens/token-j-38-constitution-pc.md)**
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Dépôt d'une plainte avec [constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) pour blessures involontaires**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 **Réf. Parquet : Plainte initiale n° [ ... ] (dépôt du **[J+4 Dépôt de plainte](../../../../Memory/Tokens/token-j-4-depot-de-plainte.md)**)**
 
@@ -93,7 +93,6 @@ Je vous prie d'agréer, Monsieur le Doyen des Juges d'Instruction, l'expression 
 
 <!-- PJ -->
 <hr><hr>
-
 ## PIECES JOINTES
 
 - **[Plainte avec constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — datée du **[J+38 Constitution PC](../../../../Memory/Tokens/token-j-38-constitution-pc.md)**
@@ -114,8 +113,8 @@ Je vous prie d'agréer, Monsieur le Doyen des Juges d'Instruction, l'expression 
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article 88 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575469](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575469) ↩
 <!-- /Source -->
-

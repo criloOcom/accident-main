@@ -45,23 +45,24 @@ reel_path: ../../../Reel/Courriers/Justice/Consultation - Avocat Jimini.md
 
 <hr><hr>
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Consultation — Accident corporel 29/05/2026, salon [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) (Foix)**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 Bonjour Maître,
 
 Je sollicite votre avis sur un point de procédure. Voici les faits.
+<hr><hr>
 ## I — Faits et situation actuelle
 
 <!-- Date -->
@@ -73,6 +74,7 @@ La SAS exploitante a un capital de **200 €**, **0 salarié déclaré**, et tou
 Un **procès-verbal de police** a été établi le 2 juin 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md), Commissariat de Toulouse).
 <hr><hr>
 
+<hr><hr>
 ## II — Démarches déjà faites
 
 J'ai constitué un dossier complet et engagé plusieurs actions depuis l'accident :
@@ -84,6 +86,7 @@ J'ai constitué un dossier complet et engagé plusieurs actions depuis l'acciden
 - **Demain 15 juillet** : dépôt au TJ de Foix d'une **requête Art. 145 CPC** (communication assurance + conservation vidéos) + **demande d'AJ totale** au BAJ ; puis dépôt d'une **plainte complémentaire** au Commissariat de Foix (obstruction à la manifestation de la vérité, blessures involontaires).
 <hr><hr>
 
+<hr><hr>
 ## III — Questions à l'avocat
 
 **1.** Le Maire m'a indiqué par écrit avoir saisi la Préfecture, l'Inspection du travail et le CODAF. Puis-je relancer directement ces organismes pour connaître l'état d'avancement de leurs interventions, ou cela doit-il passer exclusivement par les canaux administratifs (Mairie, Préfecture, Parquet) ?

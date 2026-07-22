@@ -42,19 +42,19 @@ Service du Registre du Commerce et des Sociétés
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le 9 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet :** Demande d'opposition conservatoire à la radiation d'office ou volontaire de la société **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 **Référence RCS :** **[104 103 262 00010](../../../../Memory/Tokens/token-exploitation-id.md)**
 **Lettre Recommandée avec Accusé de Réception**
 
@@ -132,4 +132,3 @@ Avocat au Barreau
 
 [^1]: [Art. R.123-128 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214)
 <!-- /Source -->
-

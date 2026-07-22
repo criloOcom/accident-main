@@ -55,23 +55,24 @@ jx: J+38
 [**[La Ville de Residence de la Victime]**](../../../../Memory/Tokens/token-victime-ville-residence.md), le 12 juillet 2026  
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Demande d'information et pré-ouverture de dossier – Article 706-3 du CPP – Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** — SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)****
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 Réf : SIREN **[SIREN de l'Exploitation](../../../../Memory/Tokens/token-exploitation-siren.md)** — [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**  
 
 Madame, Monsieur le Directeur,  
+<hr><hr>
 ## I — INTRODUCTION
 
 La présente lettre est adressée au FGTI par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploité par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN **[SIREN de l'Exploitation](../../../../Memory/Tokens/token-exploitation-siren.md)**).
@@ -81,6 +82,7 @@ Cet accident a été causé par la chute brutale du préposé de l'exploitation 
 Sa chute a entraîné sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon fléchisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant nécessité une microchirurgie d'urgence en SOS Main. Mon [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total a été évalué à 55 jours (du 29 mai au **[J+55 Fin d'ITT](../../../../Memory/Tokens/token-j-55-fin-d-itt.md)**).
 <hr><hr>
 
+<hr><hr>
 ## II — PROCÉDURES JUDICIAIRES ENGAGÉES
 
 À la date de la présente, les procédures suivantes ont été engagées :
@@ -100,6 +102,7 @@ Ces démarches visent à identifier les débiteurs civils et à faire reconnaît
 > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^1]**  
 <hr><hr>
 
+<hr><hr>
 ## III — RAPPEL DES FAITS
 
 L'accident est survenu dans les conditions matérielles suivantes :
@@ -111,6 +114,7 @@ L'accident est survenu dans les conditions matérielles suivantes :
 - Il s'y ajoute des éléments de contexte tels qu'une absence présumée de DUERP, de déclaration préalable à l'embauche (DPAE) pour le préposé et d'assurance RC professionnelle.
 <hr><hr>
 
+<hr><hr>
 ## IV — INDEMNITÉS SOLLICITÉES
 
 Le montant total estimé de mon préjudice corporel, selon la nomenclature Dintilhac, s'élève à **~109 500 €**, se décomposant comme suit. Ces estimations de préjudices sont établies à titre purement indicatif et sous toutes réserves dans l'attente d'une expertise médicale judiciaire et de l'appréciation définitive de la CIVI et du FGTI :
@@ -138,6 +142,7 @@ Le montant total estimé de mon préjudice corporel, selon la nomenclature Dinti
 - Article 700 du CPC : 3 000 €
 <hr><hr>
 
+<hr><hr>
 ## V — PRÉ-ENREGISTREMENT ET DEMANDE D'INFORMATION
 
 Conformément aux articles 706-3 et suivants du Code de procédure pénale, je comprends qu'une indemnisation peut être sollicitée, par l'intermédiaire de la Commission d'Indemnisation des Victimes d'Infractions (CIVI), lorsque l'auteur de l'infraction est inconnu, insolvable ou dans l'impossibilité de réparer le dommage.
@@ -161,6 +166,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Dire
 <!-- PJ -->
 <hr><hr>
 
+<hr><hr>
 ## PIÈCES JOINTES
 
 - Copie du [PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) (procédure pénale)
@@ -175,8 +181,8 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Dire
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) ↩
 <!-- /Source -->
-

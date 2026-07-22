@@ -49,9 +49,9 @@ INPI — Registre National des Entreprises
 
 > 🔗 Source Google Drive : [1gFhTi6GhD6u…](https://drive.google.com/open?id=1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E)
 
----
+<hr><hr>
 Objet : Demande de signalement de litige en cours au RNE — SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
----
+<hr><hr>
 
 Ref : SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md) — SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
@@ -143,4 +143,3 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 
 [^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 <!-- /Source -->
-

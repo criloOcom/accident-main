@@ -13,9 +13,9 @@ Vérifier l'intégrité de la double strate : les fichiers `Token/` et `Reel/` d
 
 ## MÉTHODE
 
-1. **Lister** tous les fichiers dans `Actes/Token/` (arborescence complète).
+1. **Lister** tous les fichiers dans [Actes/Token](../../Actes/Token/README.md) (arborescence complète).
 
-2. **Lister** tous les fichiers dans `Actes/Reel/` (arborescence complète).
+2. **Lister** tous les fichiers dans [Actes/Reel](../../Actes/Reel/README.md) (arborescence complète).
 
 3. **Pour chaque paire** :
    - Le fichier Token existe-t-il ? Le fichier Reel correspondant existe-t-il ?
@@ -30,6 +30,6 @@ Vérifier l'intégrité de la double strate : les fichiers `Token/` et `Reel/` d
 
 ## LIVRABLE
 
-`Rapports/85_Coherence_2026-07-15/M05_AUDIT_TOKEN_REEL.md`
+[Rapports/85_Coherence_2026-07-15/M05_AUDIT_TOKEN_REEL.md](../../Rapports/85_Coherence_2026-07-15/M05_AUDIT_TOKEN_REEL.md)
 
 Format : TODO list. Paires manquantes, tokens mal formés, noms réels dans Token, tokens dans Reel.

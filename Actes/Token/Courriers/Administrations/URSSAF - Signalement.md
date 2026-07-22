@@ -46,13 +46,14 @@ TSA 90002
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Signalement de travail dissimule presume — SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
----
+<hr><hr>
 
 Ref : SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md)
 
 Madame, Monsieur le Directeur,
+<hr><hr>
 ## I — INTRODUCTION
 
 Je vous signale par la presente des elements laissant presumer l'exercice d'un travail dissimule au sein de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md)), conformement aux articles L.8221-1 et suivants du Code du travail.
@@ -62,6 +63,7 @@ Le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**, alors qu
 Les informations publiques disponibles (INPI, INSEE) indiquent que cette societe, creee le 1er juin 2024 avec un capital de 200 €, ne declare aucun salarie.
 <hr><hr>
 
+<hr><hr>
 ## II — ELEMENTS LAISSANT PRESUMER UN TRAVAIL DISSIMULE
 
 Les elements suivants sont susceptibles de caracteriser un travail dissimule par dissimulation d'emploi salarie (Article L.8221-5 du Code du travail) :
@@ -99,6 +101,7 @@ Les elements suivants sont susceptibles de caracteriser un travail dissimule par
 - Aucune declaration d'accident du travail n'a ete transmise a la CPAM
 <hr><hr>
 
+<hr><hr>
 ## III — DEMANDE DE VERIFICATION
 
 Je sollicite de vos services qu'une verification soit effectuee concernant :
@@ -124,6 +127,7 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Direc
 <!-- PJ -->
 <hr><hr>
 
+<hr><hr>
 ## PIECES JOINTES
 
 - **[PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Procedure penale, depot de plainte du [J+4]
@@ -136,10 +140,10 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur le Direc
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article L8221-5 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966) ↩
 [^2]: [Article R4121-1 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023795562](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023795562) ↩
 [^3]: [Article L8271-1-2 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054334961](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054334961) ↩
 <!-- /Source -->
-

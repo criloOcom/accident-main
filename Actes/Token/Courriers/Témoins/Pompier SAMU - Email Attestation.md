@@ -34,9 +34,9 @@ jx: J+38
 <!-- /Destinataire -->
 
 # TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (POMPIER / SAMU)
----
+<hr><hr>
 Objet : Attestation de témoin — Intervention du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**
----
+<hr><hr>
 
 <hr><hr>
 

@@ -15,6 +15,7 @@ reel_path: ../../Reel/Organisation/Note - Modification Email Maire Foix.md
 # Plan : Ajustement du courriel à l'Adjoint au Maire (Police Municipale et ERP)
 
 Ce plan vise à corriger la formulation de l'e-mail pour éliminer tout terme inapproprié (« bruits de couloir ») et poser une demande d'intervention factuelle d'agents assermentés de la police municipale pour contrôler la situation sur place.
+<hr><hr>
 ## I — Objectifs de la réécriture
 
 *   **Supprimer l'expression « bruits de couloir »** et toute conclusion prématurée.
@@ -28,6 +29,7 @@ Ce plan vise à corriger la formulation de l'e-mail pour éliminer tout terme in
     3.  Vérifier si le sinistre a fait l'objet d'une déclaration et de mesures de mise en sécurité requises pour un ERP.
 <hr><hr>
 
+<hr><hr>
 ## II — Nouveau modèle d'e-mail à soumettre à validation
 
 ```markdown

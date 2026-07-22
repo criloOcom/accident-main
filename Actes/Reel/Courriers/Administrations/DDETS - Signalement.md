@@ -52,19 +52,19 @@ Cité Administrative
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Demande d'information sur les diligences d'enquête et communication du rapport – Accident du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** au salon [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 Réf : Signalement effectué par la mairie de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)** auprès de la Préfecture de l'Ariège le 1er juin 2026  
 
@@ -217,4 +217,3 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur l'Inspe
 [^4]: [Article L4121-1 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)
 [^5]: [Article 40 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)
 <!-- /Source -->
-

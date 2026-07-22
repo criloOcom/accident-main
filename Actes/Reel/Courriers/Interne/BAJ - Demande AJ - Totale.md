@@ -48,6 +48,7 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 | **Adresse** | [10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) |
 | **Téléphone** | **[Téléphone de la Victime]** |
 | **Email** | [sebastien.grazide@gmail.com](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) |
+<hr><hr>
 
 ## II — SITUATION PROFESSIONNELLE ET RESSOURCES
 

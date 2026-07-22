@@ -395,4 +395,3 @@ Pour **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
 [^19]: [Article L.124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
 [^20]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
 <!-- /Source -->
-

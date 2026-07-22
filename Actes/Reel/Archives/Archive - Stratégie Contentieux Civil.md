@@ -18,7 +18,7 @@ source: drive
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 **Table des matières**
 
@@ -50,17 +50,19 @@ source: drive
 
 # STRATEGIE CONTENTIEUX CIVIL
 Rédigé le [**[J+36 Lettre consolidation]**](../../../Memory/Tokens/token-j-36-lettre-consolidation.md)
+<hr><hr>
 ## I — PRÉSENTATION
 
-Le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md), [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a subi un accident corporel grave dans le salon de coiffure exploité par [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) ([SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md), SIRET [104 103 262 00010](../../../Memory/Tokens/token-exploitation-siret.md)), situé [22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md). Alors que l'employé [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tél. [07 58 40 12 87](../../../Memory/Tokens/token-exploitation-prepose-telephone.md)) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a tendu la main droite pour protéger [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une microchirurgie SOS Main en urgence.
+Le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md), [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a subi un accident corporel grave dans le salon de coiffure exploité par [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) ([SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md), SIRET [938 033 222 00010](../../../Memory/Tokens/token-exploitation-siret.md)), situé [22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md). Alors que l'employé [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../Memory/Tokens/token-exploitation-prepose-telephone.md)) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé. Par réflexe, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a tendu la main droite pour protéger [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une microchirurgie SOS Main en urgence.
 
 Le contentieux civil a pour objet d'obtenir la réparation intégrale des préjudices subis, estimés à 59 600 € selon la nomenclature Dintilhac. Il se déploie sur plusieurs fondements juridiques complémentaires incluant, en cas de défaillance de l'auteur, la voie indemnitaire du Fonds de Garantie des Victimes d'Infractions (FGTI).
 <hr><hr>
 
+<hr><hr>
 ## II — FONDEMENTS JURIDIQUES
 ### 2.1 RESPONSABILITÉ DU COMMETTANT
 
-[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) est civilement responsable des dommages causés par ses préposés dans l'exercice de leurs fonctions. L'accident est survenu pendant une prestation de coupe de cheveux réalisée par un employé de la société dans l'enceinte de l'établissement.
+[SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) est civilement responsable des dommages causés par ses préposés dans l'exercice de leurs fonctions. L'accident est survenu pendant une prestation de coupe de cheveux réalisée par un employé de la société dans l'enceinte de l'établissement.
 
 La responsabilité de la SAS est engagée de plein droit en application de [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^1], alinéa 5 (responsabilité du commettant du fait de son préposé).
 
@@ -86,7 +88,7 @@ La mise en demeure de l'assureur a été adressée le [29 juin 2026](../../../Me
 
 ### 2.3 SURVIE DE LA PERSONNALITÉ MORALE
 
-Conformément à [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186)[^4], si [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) venait à être dissoute ou radiée, la personnalité morale de la société survit pour les besoins de la liquidation jusqu'à la clôture de celle-ci. Ce mécanisme garantit que la société puisse encore être attraite en justice et que ses dettes soient apurées, incluant l'indemnisation due à [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md).
+Conformément à [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186)[^4], si [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) venait à être dissoute ou radiée, la personnalité morale de la société survit pour les besoins de la liquidation jusqu'à la clôture de celle-ci. Ce mécanisme garantit que la société puisse encore être attraite en justice et que ses dettes soient apurées, incluant l'indemnisation due à [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md).
 
 > *« La dissolution de la société entraîne sa liquidation, hormis les cas prévus à l'article 1844-4 et au troisième alinéa de l'article 1844-5 . Elle n'a d'effet à l'égard des tiers qu'après sa publication. Le liquidateur est nommé conformément aux dispositions des statuts. Dans le silence de ceux-ci, il est nommé par les associés ou, si les associés n'ont pu procéder à cette nomination, par décision de justice. Le liquidateur peut être révoqué dans les mêmes conditions. La nomination et la révocation ne sont opposables aux tiers qu'à compter de leur publication. Ni la société ni les tiers ne peuvent, pour se soustraire à leurs engagements, se prévaloir d'une irrégularité dans la nomination ou dans la révocation du liquidateur, dès lors que celle-ci a été régulièrement publiée. La personnalité morale de la société subsiste pour les besoins de la liquidation jusqu'à la publication de la clôture de celle-ci. Si la clôture de la liquidation n'est pas intervenue dans un délai de trois ans à compter de la dissolution, le ministère public ou tout intéressé peut saisir le tribunal, qui fait procéder à la liquidation ou, si celle-ci a été commencée, à son achèvement. »* <br>
 > [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186) <br>
@@ -96,7 +98,7 @@ Conformément à [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/c
 
 ### 2.4 RESPONSABILITÉ POUR FAUTE
 
-À titre subsidiaire, la responsabilité pour faute de [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) est engagée sur le fondement de [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^5] pour défaut d'entretien de son équipement et manquement à son obligation de sécurité. Le principe de réparation intégrale impose que la victime soit replacée dans la situation où elle se serait trouvée si l'accident n'avait pas eu lieu.
+À titre subsidiaire, la responsabilité pour faute de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) est engagée sur le fondement de [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^5] pour défaut d'entretien de son équipement et manquement à son obligation de sécurité. Le principe de réparation intégrale impose que la victime soit replacée dans la situation où elle se serait trouvée si l'accident n'avait pas eu lieu.
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
 > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
@@ -105,6 +107,7 @@ Conformément à [Article 1844-8 du Code civil](https://www.legifrance.gouv.fr/c
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
 <hr><hr>
 
+<hr><hr>
 ## III — VOIES DE PROCÉDURE ENGAGÉES
 ### 3.1 RÉFÉRÉ-PROVISION
 
@@ -116,7 +119,7 @@ Une assignation en [référé-provision](https://www.legifrance.gouv.fr/codes/ar
 
 > *« Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
 
-Le [référé-provision](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)[^6] permet d'obtenir une avance rapide lorsque l'obligation n'est pas sérieusement contestable. En l'espèce, la responsabilité de [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) est manifeste : un équipement instable présentant une cassure préexistante non signalée a causé un accident sur son lieu d'exploitation, par l'intermédiaire de son préposé, ce qui constitue une obligation non contestable.
+Le [référé-provision](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)[^6] permet d'obtenir une avance rapide lorsque l'obligation n'est pas sérieusement contestable. En l'espèce, la responsabilité de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) est manifeste : un équipement instable présentant une cassure préexistante non signalée a causé un accident sur son lieu d'exploitation, par l'intermédiaire de son préposé, ce qui constitue une obligation non contestable.
 
 La demande inclut également la désignation d'un expert médical judiciaire sur le fondement de [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^7].
 
@@ -128,11 +131,11 @@ La demande inclut également la désignation d'un expert médical judiciaire sur
 
 ### 3.2 RÉFÉRÉ-COMMUNICATION DE PIÈCES
 
-En parallèle, une procédure de référé-communication peut être engagée pour obtenir la communication forcée de la police d'assurance responsabilité civile de [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) sous astreinte. Cette mesure conservatoire est essentielle pour permettre l'identification et la mise en cause de l'assureur dans le cadre de l'action directe.
+En parallèle, une procédure de référé-communication peut être engagée pour obtenir la communication forcée de la police d'assurance responsabilité civile de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) sous astreinte. Cette mesure conservatoire est essentielle pour permettre l'identification et la mise en cause de l'assureur dans le cadre de l'action directe.
 
 ### 3.3 VOIE CIVI / FGTI (SUBSIDIAIRE)
 
-Si l'absence d'assurance de [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) est confirmée et que la société s'avère insolvable, l'action directe contre l'assureur prévue à [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^2] ne pourra produire ses effets. Dans cette hypothèse, la victime peut se tourner vers le [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418[^8]734) sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI00004[^9]8442345).
+Si l'absence d'assurance de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) est confirmée et que la société s'avère insolvable, l'action directe contre l'assureur prévue à [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^2] ne pourra produire ses effets. Dans cette hypothèse, la victime peut se tourner vers le [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418[^8]734) sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI00004[^9]8442345).
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^9]** <br>
@@ -169,6 +172,7 @@ Ce texte ouvre un droit à indemnisation aux victimes de dommages corporels rés
 Cette voie est subsidiaire : elle ne se substitue pas à l'action directe contre l'assureur, mais la sécurise en cas d'insolvabilité de l'auteur.
 <hr><hr>
 
+<hr><hr>
 ## IV — ÉVALUATION DES PRÉJUDICES
 
 L'évaluation des préjudices subis par [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md), informaticien indépendant (SIREN [500 474 457](../../../Memory/Tokens/token-victime-id-professionnel.md), chiffre d'affaires annuel 9 000 € net selon URSSAF), est établie comme suit :
@@ -196,6 +200,7 @@ L'incidence professionnelle est un préjudice distinct qui indemnise notamment l
 > **Cour de cassation, 2e chambre civile, 6 mai 2021, n° 19-23.173[^14]**
 <hr><hr>
 
+<hr><hr>
 ## V — CALENDRIER PROCÉDURAL
 
 | Phase | Action | Échéance |
@@ -209,6 +214,7 @@ L'incidence professionnelle est un préjudice distinct qui indemnise notamment l
 | Saisine CIVI (subsidiaire) | Demande d'indemnisation FGTI si SAS insolvable | Jusqu'à 3 ans post-infraction (prorogeable 1 an apres decision penale) |
 <hr><hr>
 
+<hr><hr>
 ## VI — RÉCAPITULATIF DES PIÈCES
 
 Pièces médicales :
@@ -241,29 +247,29 @@ Pièces administratives :
 - 04/06/2026 — URSSAF Midi-Pyrénées — Attestations de vigilance
 
 Pièces de procédure :
-- [29 juin 2026](../../../Memory/Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+- [29 juin 2026](../../../Memory/Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
-- [29 juin 2026](../../../Memory/Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure [Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md)
+- [29 juin 2026](../../../Memory/Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md)
 
-- [29 juin 2026](../../../Memory/Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure [Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md)
+- [29 juin 2026](../../../Memory/Tokens/token-j-31-mises-en-demeure.md) — Mise en demeure [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md)
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
-[^1]: [Article 1242 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
-[^2]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^3]: [Arrêt n°20-16.463 — www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
-[^4]: [Article 1844-8 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186)
-[^5]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
-[^6]: [référé-provision — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)
-[^7]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
-[^8]: [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI) — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)
-[^9]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)
-[^10]: [Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
-[^11]: [Article 706-5 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627)
-[^12]: [Article 706-5 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334)
-[^13]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
-[^14]: [Arrêt n°19-23.173 — www.legifrance.gouv.fr/juri/id/JURITEXT000043489943](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)
+[^1]: [Article 1242 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
+[^2]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^3]: [Arrêt n°20-16.463 — www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848) ↩
+[^4]: [Article 1844-8 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444186) ↩
+[^5]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+[^6]: [référé-provision — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) ↩
+[^7]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+[^8]: [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI) — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734) ↩
+[^9]: [Article 706-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) ↩
+[^10]: [Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+[^11]: [Article 706-5 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627) ↩
+[^12]: [Article 706-5 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334) ↩
+[^13]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
+[^14]: [Arrêt n°19-23.173 — www.legifrance.gouv.fr/juri/id/JURITEXT000043489943](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943) ↩
 <!-- /Source -->
-

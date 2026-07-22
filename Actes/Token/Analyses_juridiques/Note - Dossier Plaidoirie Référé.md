@@ -22,6 +22,7 @@ jx: J+60
 > **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # **DOSSIER DE PLAIDOIRIE POUR L'AUDIENCE DE RÉFÉRÉ DU 31 JUILLET 2026**
+<hr><hr>
 ## I — FICHE SYNTHÉTIQUE
 
 **JURIDICTION :** Tribunal Judiciaire statuant en référé
@@ -58,6 +59,7 @@ jx: J+60
 - **Pièce ACQ-17 :** Mises en demeure par Lettres Recommandées avec Accusé de Réception (**[J+31 Mises en demeure](../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**)
 <hr><hr>
 
+<hr><hr>
 ## II — CHRONOLOGIE DES FAITS
 
 *Rappel des dates clés démontrant l'urgence et la gravité de la situation.*
@@ -75,6 +77,7 @@ jx: J+60
 - **Date non fixée (à planifier) :** Date de la présente audience de référé pour obtenir l'indemnisation provisionnelle et forcer la communication de la couverture assurantielle.
 <hr><hr>
 
+<hr><hr>
 ## III — DISCUSSION JURIDIQUE STRUCTURÉE
 ### III.1 — RESPONSABILITÉ DE PLEIN DROIT DU GARDIEN (ART. 1242 C. CIV.)
 
@@ -132,6 +135,7 @@ Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant 
 > **Code de la consommation > Chapitre Ier : Obligation générale de sécurité.[^3]**
 <hr><hr>
 
+<hr><hr>
 ## IV — JURISPRUDENCE CLÉ
 
 L'argumentation développée s'appuie sur une jurisprudence constante :
@@ -145,6 +149,7 @@ L'argumentation développée s'appuie sur une jurisprudence constante :
 - **Principe de réparation intégrale (Art. 1240 C. civ.) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**, informaticien indépendant, l'incidence professionnelle est majeure.
 <hr><hr>
 
+<hr><hr>
 ## V — PIÈCES À CITER IMPÉRATIVEMENT
 
 Monsieur le Juge, je vous renvoie aux pièces listées dans notre bordereau, et tout particulièrement à :
@@ -157,6 +162,7 @@ Monsieur le Juge, je vous renvoie aux pièces listées dans notre bordereau, et 
 - **Pièce ACQ-09** (Plainte officielle) prouvant les démarches entreprises au pénal par la victime.
 <hr><hr>
 
+<hr><hr>
 ## V — MONTANTS DEMANDÉS
 
 La présente procédure de référé ne vise pas à solder définitivement le dossier (dans l'attente de la consolidation) mais à accorder une provision.
@@ -172,6 +178,7 @@ La présente procédure de référé ne vise pas à solder définitivement le do
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^7]**
 <hr><hr>
 
+<hr><hr>
 ## VI — QUESTIONS PROBABLES DU JUGE ET RÉPONSES PRÉPARÉES
 
 **Q1 : "Pourquoi demandez-vous seulement 15 000 € en provision alors que vous estimez le préjudice à près de 90 000 € ?"** <br>
@@ -185,6 +192,7 @@ Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'encei
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article 1242 alinéa 1er du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
@@ -196,4 +204,3 @@ Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'encei
 [^7]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) ↩
 [^8]: [Article L.227-8 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) ↩
 <!-- /Source -->
-

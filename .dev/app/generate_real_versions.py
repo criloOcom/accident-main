@@ -128,8 +128,8 @@ def update_yaml_frontmatter(content):
     return re.sub(r'^titre:\s*.*$', replacer, content, flags=re.MULTILINE)
 
 def main():
-    input_base = '⚖️_Actes/🔑_Token'
-    output_base = '⚖️_Actes/👤_Reel'
+    input_base = 'Actes/Token'
+    output_base = 'Actes/Reel'
 
     generated = []
 

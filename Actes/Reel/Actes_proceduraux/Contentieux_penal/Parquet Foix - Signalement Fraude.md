@@ -105,4 +105,3 @@ Avocat de **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-com
 [^2]: [Article 434-4 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608)
 [^3]: [Article 314-7 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226)
 <!-- /Source -->
-

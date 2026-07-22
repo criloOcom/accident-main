@@ -48,9 +48,9 @@ Service Recours Contre Tiers
 # RELANCE CPAM<br>SUIVI DU DOSSIER DE RECOURS CONTRE TIERS
 > 🔗 Source Google Drive : [1MHhZf_KN4b3…](https://drive.google.com/open?id=1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k)
 
----
+<hr><hr>
 Objet : Relance et demande d'etat d'avancement — Recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
----
+<hr><hr>
 
 <hr><hr>
 
@@ -59,6 +59,7 @@ Ref : Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.
 Madame, Monsieur,
 
 La presente est adressee a vos services par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, immatriculee sous le SIREN **[SIREN de l'Exploitation](../../../../Memory/Tokens/token-exploitation-siren.md)**.
+<hr><hr>
 ## I — OBJET DE LA RELANCE
 
 Je me permets de solliciter de vos services :
@@ -90,6 +91,7 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 <!-- PJ -->
 <hr><hr>
 
+<hr><hr>
 ## PIECES JOINTES
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]
@@ -104,8 +106,8 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article L376-1 du Code de la sécurité sociale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231) ↩
 <!-- /Source -->
-

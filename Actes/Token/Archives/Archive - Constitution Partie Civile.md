@@ -28,6 +28,7 @@ drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 # CONSTITUTION DE PARTIE CIVILE
 > 🔗 Source Google Drive : [1tdFbDxNceGV…](https://drive.google.com/open?id=1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc)
 Rédigé le [**[J+32 Assignation référé]**](../../../Memory/Tokens/token-j-32-assignation-refere.md)
+<hr><hr>
 ## INTRODUCTION
 
 La présente constitution de partie civile est formée par [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) dans le cadre de la procédure pénale suivie devant le Tribunal Correctionnel de [**[La Ville de l'Accident]**](../../../Memory/Tokens/token-accident-ville.md) à l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md).
@@ -96,9 +97,9 @@ Signature :
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Article 222-20 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
 [^2]: [Article 475-1 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107) ↩
 <!-- /Source -->
-

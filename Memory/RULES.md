@@ -542,7 +542,7 @@ Le dossier `/Status/` à la racine contient 3 index classés par statut :
 
 - **Rappel de maturité du dépôt** : ce dépôt n'est pas un bac à sable. Le dossier accident-main est déjà très avancé (volets pénal, civil, assurance, inspection, Dintilhac, 15 rapports multi-angle, note stratégique, conclusions au fond). Le rôle de l'agent est de faire converger le dépôt, NON de réinventer la manière dont on gère les Reel.
 
-- **INTERDICTION #3 — README d'index dans Reel** : aucun README.md d'index ou de documentation n'est maintenu dans `Actes/Reel/`. Les README d'index vivent exclusivement côté `Token/` (source de vérité). Le Reel est un artefact de build, pas un dossier documenté.
+- **INTERDICTION #3 — README d'index dans Reel** : aucun README.md d'index ou de documentation n'est maintenu dans [Actes/Reel](../Actes/Reel/README.md). Les README d'index vivent exclusivement côté `Token/` (source de vérité). Le Reel est un artefact de build, pas un dossier documenté.
 
 ## #24 — FORMAT LOOSE DES LISTES À PUCES (RÈGLE PERMANENTE)
 
@@ -633,7 +633,7 @@ Le calendrier Google partagé (`[AM] Accident Main`) est une **pièce maîtresse
 
    - Les pièces URSSAF (token-victime-id-professionnel)
    - Le token token-victime-profession (s'il existe)
-   - Le fichier `Memory/STRICT VARIABLES.md`
+   - Le fichier [Memory/STRICT VARIABLES.md](STRICT VARIABLES.md)
    - Les pièces source dans `Actes/Preuves_officielles/`
 
 2. **En cas de doute** sur la profession ou une activité : ne pas deviner, ne pas extrapoler. Marquer explicitement `[PROFESSION À VÉRIFIER]` ou `[LOISIR À CONFIRMER SUR PIÈCES]`.

@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `Rapports/RAPPORT_PLAINTE_COMPLEMENTAIRE_ERRATUM_2026-07-18.md` préparant le **dépôt de la plainte complémentaire et de l'erratum** au Commissariat de Foix la semaine prochaine.
+Produis un rapport [Rapports/RAPPORT_PLAINTE_COMPLEMENTAIRE_ERRATUM_2026-07-18.md](../../Rapports/RAPPORT_PLAINTE_COMPLEMENTAIRE_ERRATUM_2026-07-18.md) préparant le **dépôt de la plainte complémentaire et de l'erratum** au Commissariat de Foix la semaine prochaine.
 
 ## CONTEXTE
 

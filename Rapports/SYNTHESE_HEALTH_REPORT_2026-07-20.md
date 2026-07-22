@@ -22,14 +22,14 @@ L'exécution du script d'audit `.dev/app/health_report.py` a relevé un total de
 ## 2. Dossiers vides / Violations YAML
 - **Statut** : 🔴 Échec
 
-- **Détails** : Il y a **13** violations concernant le *frontmatter* YAML, principalement des fichiers sous le répertoire `Lois/` (`RGPD_Articles7_9_82.md`, `code_assurances_artL113-1.md`, divers articles du `Code civil`, etc.) auxquels il manque le champ obligatoire `type`.
+- **Détails** : Il y a **13** violations concernant le *frontmatter* YAML, principalement des fichiers sous le répertoire [Lois](../Lois/README.md) (`RGPD_Articles7_9_82.md`, `code_assurances_artL113-1.md`, divers articles du `Code civil`, etc.) auxquels il manque le champ obligatoire `type`.
 
-- Un fichier, `Memory/Tokens/token-lrar-exploitant.md`, possède un type non canonique ('token').
+- Un fichier, [Memory/Tokens/token-lrar-exploitant.md](../Memory/Tokens/token-lrar-exploitant.md), possède un type non canonique ('token').
 
 ## 3. Liens internes brisés
 - **Statut** : 🔴 Échec
 
-- **Détails** : Plus de **4200** liens internes sont signalés comme brisés (dont beaucoup liés à la résolution du fichier `Memory/TOKEN MAP.md` ou vers des preuves officielles).
+- **Détails** : Plus de **4200** liens internes sont signalés comme brisés (dont beaucoup liés à la résolution du fichier [Memory/TOKEN MAP.md](../Memory/TOKEN MAP.md) ou vers des preuves officielles).
 
 ## 4. Écarts factuels canoniques
 - **Statut** : ✅ Passé (l'outil a fonctionné mais a trouvé des écarts)
@@ -45,7 +45,7 @@ L'exécution du script d'audit `.dev/app/health_report.py` a relevé un total de
 - **Détails** : **56** courriers (`type=courrier`) n'ont pas d'identifiant d'événement d'agenda (`calendar_event_id`) associé, ce qui pourrait poser des problèmes de traçabilité.
 
 ## Recommandations
-1. **Corriger le frontmatter** : Ajouter le champ `type` (ex: `type: loi`) aux fichiers du répertoire `Lois/`.
+1. **Corriger le frontmatter** : Ajouter le champ `type` (ex: `type: loi`) aux fichiers du répertoire [Lois](../Lois/README.md).
 
 2. **Liens internes** : Exécuter la correction via `python3 .dev/app/fix_internal_links.py` et vérifier la racine des liens cassés pour s'assurer qu'aucun chemin absolu ou erroné ne persiste.
 

@@ -30,4 +30,4 @@ Vérifier la solidité juridique du dossier face aux objections potentielles de 
 
 ## LIVRABLE
 
-`Rapports/85_Coherence_2026-07-15/M15_AUDIT_HYPOTHESES.md`
+[Rapports/85_Coherence_2026-07-15/M15_AUDIT_HYPOTHESES.md](../../Rapports/85_Coherence_2026-07-15/M15_AUDIT_HYPOTHESES.md)

@@ -14,6 +14,7 @@ jx: J+42
 <!-- /Breadcrumb -->
 
 # Analyse<br>Non-distribution LRAR et suspicion de structure miroir
+<hr><hr>
 ## I — Sources vérifiées
 
 - Annuaire-entreprises.data.gouv.fr (INSEE)
@@ -25,6 +26,7 @@ jx: J+42
 - API Recherche Entreprises
 <hr><hr>
 
+<hr><hr>
 ## II — Constats
 
 ### II.1 — Statut officiel de [L'Exploitant du Commerce (La SAS)]

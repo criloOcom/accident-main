@@ -61,9 +61,9 @@ Fait à **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le **[dat
 
 **Lettre recommandée avec accusé de réception**
 
----
+<hr><hr>
 **Objet :** Mise en demeure — Action directe (art. L. 124-3 C. assur.) — Sinistre corporel du 29 mai 2026 — SAS **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** — Expertise médicale consolidée — Réserves expresses
----
+<hr><hr>
 
 **Réf. :** Dossier **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** / SAS **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
@@ -189,4 +189,3 @@ Variante « avocat » de la mise en demeure adressée à l'assureur RC, destiné
 
 [^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 <!-- /Source -->
-

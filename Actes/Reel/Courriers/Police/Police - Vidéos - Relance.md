@@ -49,16 +49,15 @@ Place de la Préfecture
 # RELANCE POLICE NATIONALE<br>SUIVI DE PLAINTE ET DEMANDE DE VIDEOS
 > 🔗 Source Google Drive : [171CF_LzNopY…](https://drive.google.com/open?id=171CF_LzNopYxIS6Tn4i3t3Ghx3ut14F1gh6-KjHevCA)
 
----
+<hr><hr>
 Objet : Relance pour suivi de plainte et demande de videosurveillance — PV n° [2026/015967](../../../../Memory/Tokens/token-pv-police-numero.md)
----
+<hr><hr>
 
 <hr><hr>
 
 Ref : Depot de plainte du 2 juin 2026 — [Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) du **[2 juin 2026](../../../../Memory/Tokens/token-j-4-depot-de-plainte.md)**
 
 Madame, Monsieur l'Officier de Police Judiciaire,
-
 ## I — OBJET DE LA RELANCE
 
 J'ai depose plainte en vos services le 2 juin 2026 (PV n° [2026/015967](../../../../Memory/Tokens/token-pv-police-numero.md)) et me suis constitue partie civile le **[2 juin 2026](../../../../Memory/Tokens/token-j-4-depot-de-plainte.md)**. Une requisition a personne qualifiee a ete delivree le meme jour aux fins d'examen medical.
@@ -104,4 +103,3 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 
 [^1]: [Article 77-1-1 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052915](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052915)
 <!-- /Source -->
-

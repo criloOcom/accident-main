@@ -48,9 +48,9 @@ L'audit des conventions de formatage (règles strictes de `CONVENTIONS.md`) a mi
 
 - **Fils d'Ariane (Breadcrumbs) manquants** :
 
-  - Plusieurs fichiers dans les répertoires `status/` et `Rapports/` sont dépourvus du commentaire HTML `<!-- Breadcrumb -->`.
+  - Plusieurs fichiers dans les répertoires `status/` et [Rapports](../README.md) sont dépourvus du commentaire HTML `<!-- Breadcrumb -->`.
   - Exemples : `status/envoye.md`, `status/brouillon.md`, `status/final.md`, `status/preparation.md`, `status/projet.md`, `status/archive.md`.
-  - Dans les rapports : `Rapports/AUDIT_YAML_HEADERS.md`, `Rapports/audit/20260713_audit_faits_canoniques.md`, `Rapports/audit/20260713_RAPPORT_VERITE_LRAR.md`.
+  - Dans les rapports : `Rapports/AUDIT_YAML_HEADERS.md`, [Rapports/audit/20260713_audit_faits_canoniques.md](../audit/20260713_audit_faits_canoniques.md), `Rapports/audit/20260713_RAPPORT_VERITE_LRAR.md`.
 - **Absence des séparateurs de sections `<hr><hr>`** :
 
   - La convention exige un double séparateur `<hr><hr>` avant chaque section de premier niveau (H2).
@@ -92,7 +92,7 @@ Afin de restaurer la conformité stricte avec les règles du projet et d'amélio
    - Déplacer ou supprimer le fichier `1GVXtbm3PFJcyybER9fHCdKxGa9k-Zb31fxtFshHHI5w.txt`.
 3. **Mise en conformité du formatage - Breadcrumbs** (Impact moyen / Navigabilité) :
 
-   - Ajouter les blocs de breadcrumb manquants dans les fichiers du dossier `Rapports/audit/` et dans `Rapports/AUDIT_YAML_HEADERS.md`.
+   - Ajouter les blocs de breadcrumb manquants dans les fichiers du dossier [Rapports/audit](../audit/README.md) et dans `Rapports/AUDIT_YAML_HEADERS.md`.
 4. **Mise en conformité du formatage - Séparateurs** (Impact faible / Conventions) :
 
    - Insérer les `<hr><hr>` manquants avant les balises `##` dans les fichiers listés en section III (notamment dans `Actes/.../Organisation/`).

@@ -16,7 +16,7 @@ date: "2026-07-20"
 ## 1. Chargement de la skill
 ✅ **Skill `accident-main-dintilhac-eval`** : Les règles d'évaluation Dintilhac ont été intégrées (Méthode BIBAL pour l'IP, points Mornet pour le DFP, barème indicatif pour SE).
 
-## 2. Référentiel Canonique (`Memory/STRICT VARIABLES.md`)
+## 2. Référentiel Canonique ([Memory/STRICT VARIABLES.md](../Memory/STRICT VARIABLES.md))
 Conformément au §1 (Rapport d'expertise 2027-05-29), les valeurs de référence absolues sont :
 - **DFP (12%) :** 25 200 €
 

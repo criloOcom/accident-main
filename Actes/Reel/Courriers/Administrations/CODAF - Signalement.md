@@ -51,19 +51,19 @@ BP 40087
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Signalement officiel de manquements et demandes d'enquête (travail dissimulé présumé et manquements sociaux) — SAS [SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 Réf : SIREN [104 103 262](../../../../Memory/Tokens/token-exploitation-siren.md) — Signalement Mairie de **[Foix](../../../../Memory/Tokens/token-accident-ville.md)** du 1er juin 2026  
 
@@ -182,4 +182,3 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
 [^2]: [Article R4323-58 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
 [^3]: [Article 40 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)
 <!-- /Source -->
-

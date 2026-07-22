@@ -51,6 +51,7 @@ Objet : Mise en demeure — Action directe [Art. L.124-3](https://www.legifrance
 Réf : Dossier [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) / [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
 Madame, Monsieur,
+<hr><hr>
 ## INTRODUCTION
 
 La présente lettre de mise en demeure est adressée par [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) à la compagnie d'assurance de [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) sur le fondement de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1], lequel institue une action directe de la victime contre l'assureur du responsable.
@@ -149,6 +150,7 @@ Mes coordonnées : [**[L'Adresse de la Victime]**](../../../Memory/Tokens/token-
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
 [^1]: [Art. L.124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
@@ -158,4 +160,3 @@ Mes coordonnées : [**[L'Adresse de la Victime]**](../../../Memory/Tokens/token-
 [^5]: [Arrêt n°22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) ↩
 [^6]: [Article L. 113-2, 4° du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) ↩
 <!-- /Source -->
-

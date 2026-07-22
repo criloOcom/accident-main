@@ -11,7 +11,7 @@ type: rapport
 
 # MISSION 13 — AUDIT TYPOS ET ORTHOGRAPHE
 
-Ce rapport détaille les anomalies orthographiques, grammaticales et typographiques détectées dans les fichiers Markdown de `Actes/Token/` et `Rapports/85_Coherence_2026-07-15/`.
+Ce rapport détaille les anomalies orthographiques, grammaticales et typographiques détectées dans les fichiers Markdown de [Actes/Token](../../Actes/Token/README.md) et [Rapports/85_Coherence_2026-07-15](README.md).
 
 <hr><hr>
 
@@ -57,21 +57,21 @@ L'expression "suite à" est une faute de français (calque administratif). Elle 
 
 - [ ] `Actes/Token/Courriers/📋 Personnel/Archive - Checklist Déplacement Foix.md` — lignes 402, 565
 
-- [ ] `Actes/Token/Analyses_juridiques/Note - FAQ Juridique.md` — lignes 59, 104
+- [ ] [Actes/Token/Analyses_juridiques/Note - FAQ Juridique.md](../../Actes/Token/Analyses_juridiques/Note - FAQ Juridique.md) — lignes 59, 104
 
-- [ ] `Actes/Token/Analyses_juridiques/Note - Qualification Pénale Disparition SAS.md` — ligne 76
+- [ ] [Actes/Token/Analyses_juridiques/Note - Qualification Pénale Disparition SAS.md](../../Actes/Token/Analyses_juridiques/Note - Qualification Pénale Disparition SAS.md) — ligne 76
 
-- [ ] `Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md` — ligne 26
+- [ ] [Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md](../../Actes/Token/Analyses_juridiques/Mémoire - En défense adverse.md) — ligne 26
 
-- [ ] `Actes/Token/Analyses_juridiques/Note - Droit des Assurances.md` — lignes 3, 25, 105
+- [ ] [Actes/Token/Analyses_juridiques/Note - Droit des Assurances.md](../../Actes/Token/Analyses_juridiques/Note - Droit des Assurances.md) — lignes 3, 25, 105
 
-- [ ] `Actes/Token/Preuves_officielles/20260715_Police_PV_Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md` — ligne 60
+- [ ] [Actes/Token/Preuves_officielles/20260715_Police_PV_Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md](../../Actes/Token/Preuves_officielles/20260715_Police_PV_Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md) — ligne 60
 
-- [ ] `Actes/Token/Organisation/Note - Fiche Réflexe 48h Disparition SAS.md` — lignes 39, 58
+- [ ] [Actes/Token/Organisation/Note - Fiche Réflexe 48h Disparition SAS.md](../../Actes/Token/Organisation/Note - Fiche Réflexe 48h Disparition SAS.md) — lignes 39, 58
 
-- [ ] `Actes/Token/Organisation/Note - Modification Email Maire Foix.md` — lignes 31, 37
+- [ ] [Actes/Token/Organisation/Note - Modification Email Maire Foix.md](../../Actes/Token/Organisation/Note - Modification Email Maire Foix.md) — lignes 31, 37
 
-- [ ] `Actes/Token/Actes_proceduraux/Contentieux_penal/Parquet Foix - Signalement Fraude.md` — lignes 29, 37
+- [ ] [Actes/Token/Actes_proceduraux/Contentieux_penal/Parquet Foix - Signalement Fraude.md](../../Actes/Token/Actes_proceduraux/Contentieux_penal/Parquet Foix - Signalement Fraude.md) — lignes 29, 37
 
 - [ ] `Actes/Token/Actes_proceduraux/Contentieux_penal/Plainte Complémentaire - PV Audition.md` — ligne 66
 
@@ -87,6 +87,6 @@ Exemples représentatifs :
 ### II.4 — INFO (Espaces doubles)
 
 Des espaces doubles entre les mots (hors indentation) ont été relevés à 67 reprises, notamment dans :
-- [ ] `Actes/Token/README.md` — ligne 22
+- [ ] [Actes/Token/README.md](../../Actes/Token/README.md) — ligne 22
 
-- [ ] `Actes/Token/Courriers/README.md` — lignes 15, 140
+- [ ] [Actes/Token/Courriers/README.md](../../Actes/Token/Courriers/README.md) — lignes 15, 140

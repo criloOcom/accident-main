@@ -22,10 +22,10 @@ Bienvenue dans l'espace de travail collaboratif du dossier. Ce guide a été sp�
 Notre dossier est structuré selon un principe fondamental de "Double Strate", conçu pour protéger les données personnelles tout en permettant la génération automatique de documents prêts à être signés.
 
 *   **La strate "Token" (Source de Vérité) :**
-    Située dans le dossier `Actes/Token/` (ou `actes/token/`), cette strate est le cœur du projet. Tous les actes, conclusions, et courriers y sont rédigés sous une forme anonymisée. C'est ici que le travail de rédaction et de réflexion s'opère. **C'est la seule version qui doit être modifiée.**
+    Située dans le dossier [Actes/Token](../../Actes/Token/README.md) (ou `actes/token/`), cette strate est le cœur du projet. Tous les actes, conclusions, et courriers y sont rédigés sous une forme anonymisée. C'est ici que le travail de rédaction et de réflexion s'opère. **C'est la seule version qui doit être modifiée.**
 
 *   **La strate "Reel" (Version Générée) :**
-    Située dans le dossier `Actes/Reel/` (ou `actes/reel/`), cette strate contient les documents finaux, où toutes les données anonymisées ont été automatiquement remplacées par les véritables identités. **Ces fichiers ne doivent jamais être modifiés manuellement**, car ils sont regénérés automatiquement à partir de la strate Token.
+    Située dans le dossier [Actes/Reel](../../Actes/Reel/README.md) (ou `actes/reel/`), cette strate contient les documents finaux, où toutes les données anonymisées ont été automatiquement remplacées par les véritables identités. **Ces fichiers ne doivent jamais être modifiés manuellement**, car ils sont regénérés automatiquement à partir de la strate Token.
 
 <hr><hr>
 

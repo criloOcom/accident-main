@@ -184,4 +184,3 @@ statut: annexe
 [^25]: [Cass. Civ. 1re, 8 décembre 2021, n° 20-16.463 — www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
 [^26]: [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)
 <!-- /Source -->
-

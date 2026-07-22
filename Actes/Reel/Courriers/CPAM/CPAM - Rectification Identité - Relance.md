@@ -68,19 +68,19 @@ Service Recours Contre Tiers
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le 18 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet : Déclaration rectificative d'accident causé par un tiers – Substitution de la société responsable**
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 **Réf : Dossier de Recours Contre Tiers n° 31727387**  
 **Accident corporel du **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** (Foix)**  
@@ -117,12 +117,9 @@ En vous remerciant de la prise en compte rapide de cette rectification, je vous 
 <!-- /Signature -->
 
 <!-- PJ -->
-<hr><hr>
-
 ## PIÈCES JOINTES :
 
 - [**Erratum officiel de correction d'identité de la société exploitante**](../Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md) (17/07/2026)
 
 - Justificatif d'immatriculation au RNE de la SAS HB BARBER
 <!-- /PJ -->
-

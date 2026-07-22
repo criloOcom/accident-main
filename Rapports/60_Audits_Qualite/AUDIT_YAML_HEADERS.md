@@ -92,16 +92,16 @@ tags:
 
 | Type | Description | Utilisation |
 |------|-------------|-------------|
-| `loi` | Article de code juridique | `Lois/` |
-| `jurisprudence` | Décision de justice (arrêt) | `Lois/Jurisprudence/` |
+| `loi` | Article de code juridique | [Lois](../../Lois/README.md) |
+| `jurisprudence` | Décision de justice (arrêt) | [Lois/Jurisprudence](../../Lois/Jurisprudence/README.md) |
 | `courrier` | Courrier / correspondance | `Courriers/` |
 | `assignation` | Acte d'assignation en justice | `Actes_proceduraux/` |
 | `plainte` | Plainte pénale | Procédure pénale |
 | `analyse_juridique` | Analyse ou mémorandum juridique | `Analyses_juridiques/` |
 | `etude_indemnisation` | Étude d'indemnisation (Dintilhac) | `Etudes_indemnisation/` |
-| `rapport` | Rapport d'audit ou d'expertise | `Rapports/` |
+| `rapport` | Rapport d'audit ou d'expertise | [Rapports](../README.md) |
 | `readme` | Fichier d'index / porte d'entrée | README.md, `Organisation/` |
-| `memory` | Fichier mémoire du projet | `Memory/` |
+| `memory` | Fichier mémoire du projet | [Memory](../../Memory/README.md) |
 | `status` | Suivi d'état d'envoi | `Status/` |
 | `preuve` | Pièce de preuve brute | `Preuves_officielles/` |
 | `archive` | Document archivé | `Archives/` |

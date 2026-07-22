@@ -26,6 +26,7 @@ jx: J+53
 # MÉMOIRE DE SYNTHÈSE — RECOURS ASSURANCES ERP
 
 > Document stratégique central. Synthèse des recours en droit des assurances et responsabilité des établissements recevant du public (ERP) applicables au dossier de l'accident de la main survenu le 29 mai 2026.
+<hr><hr>
 ## I — IDENTIFICATION ET CHAMP DE LA RECHERCHE
 
 Le présent mémoire a pour objet de rassembler l'intégralité des fondements juridiques, jurisprudentiels et stratégiques mobilisables dans le cadre du recours de **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** à l'encontre de **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et de son assureur de responsabilité civile, à la suite de l'accident corporel survenu le 29 mai 2026 dans un salon de coiffure (ERP de catégorie 5, type M).
@@ -64,6 +65,7 @@ Le 29 mai 2026, alors que **[La Victime](../../../Memory/Tokens/token-victime-no
 - **[🧠 PIECES MAP](../../../Memory/PIECES MAP.md)**
 <hr><hr>
 
+<hr><hr>
 ## II — SYNTHÈSE ACTION DIRECTE ET ASSURANCE
 
 ### II.1 — Principe de l'action directe (L. 124-3 C. assur.)
@@ -111,6 +113,7 @@ L'arrêt **[20-19.288 CourCassation](../../../Lois/Jurisprudence/Action_directe_
 **Pertinence dossier :** Ces arrêts ne sont pas directement applicables (accident en France, pas de véhicule impliqué) mais confirment le principe d'exclusivité des régimes d'indemnisation : lorsqu'un régime spécifique existe (responsabilité ERP + assurance RC), il écarte les mécanismes subsidiaires. Si l'assureur est inconnu ou la garantie défaillante, le FGAO pourrait être mobilisé (art. L. 421-9 C. assur. pour les accidents corporels, sous conditions).
 <hr><hr>
 
+<hr><hr>
 ## III — RESPONSABILITÉ DE L'ERP
 
 ### III.1 — Responsabilité du fait des choses (art. 1242 C. civ.)
@@ -148,6 +151,7 @@ Le jugement **[TJ Nanterre 19/08999](<../../../Lois/Jurisprudence/Jurisprudence_
 **Pertinence dossier :** Le salon de coiffure, ERP de catégorie 5 type M, est soumis à une obligation de sécurité renforcée envers sa clientèle. Le défaut de fixation de la vasque (non conforme aux normes ERP et NFC 15-100 pour les équipements sanitaires) constitue un manquement caractérisé à cette obligation. La victime n'a pas à démontrer une faute spécifique — la responsabilité de l'exploitant est engagée de plein droit sur le double fondement de la responsabilité du fait des choses (art. 1242 C. civ.) et de l'obligation de sécurité de l'ERP.
 <hr><hr>
 
+<hr><hr>
 ## IV — SYNTHÈSE PRÉJUDICE CORPOREL ET INCIDENCE PROFESSIONNELLE
 
 ### IV.1 — Évaluation du préjudice corporel
@@ -203,6 +207,7 @@ L'arrêt **[22-18.089 CourCassation](../../../Lois/Jurisprudence/Transaction_sou
 > *« L'action en indemnisation de l'aggravation d'un préjudice corporel est autonome au regard de l'action en indemnisation du préjudice initial, en ce qu'un nouveau délai de prescription recommence à courir à compter de la consolidation de l'aggravation. »*
 <hr><hr>
 
+<hr><hr>
 ## V — FICHES JURIDIQUES — TABLEAU RÉCAPITULATIF DES ARRÊTS
 
 | Thème | Référence | Date | Apport / Ratio | Pertinence dossier |
@@ -224,6 +229,7 @@ L'arrêt **[22-18.089 CourCassation](../../../Lois/Jurisprudence/Transaction_sou
 | 🏪 Évaluation post-consolidation | [CA Chambéry 15/01748](<../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA Chambery 15-01748.md>) | 2016 | Méthode d'évaluation des préjudices corporels nomenclature Dintilhac par la CA. | ⭐⭐ Référence méthodologique pour l'évaluation judiciaire. |
 <hr><hr>
 
+<hr><hr>
 ## VI — CONCLUSION ET PRÉCONISATIONS
 <hr><hr>
 

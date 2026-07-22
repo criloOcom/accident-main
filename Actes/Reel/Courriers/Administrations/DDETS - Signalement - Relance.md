@@ -53,19 +53,19 @@ Cité Administrative
 **[Blagnac](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 15 juillet 2026
 <!-- /Date -->
 
----
+<hr><hr>
 
 <!-- Objet -->
 
----
+<hr><hr>
 
 **Objet :** Demande d'information — Accident corporel du 29 mai 2026 — Salon « **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** » (**[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**)
 
----
+<hr><hr>
 
 <!-- /Objet -->
 
----
+<hr><hr>
 
 Madame, Monsieur,
 
@@ -96,8 +96,6 @@ Veuillez agréer, Madame, Monsieur, l'expression de ma considération distingué
 <!-- /Signature -->
 
 <!-- PJ -->
-<hr><hr>
-
 ## PIECES JOINTES
 
 - **[Mairie - ERP Tavella - Courrier.md](../../../Reel/Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel Monsieur TAVELLA (1er juin 2026)
@@ -108,4 +106,3 @@ Veuillez agréer, Madame, Monsieur, l'expression de ma considération distingué
 
 - **[Certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures aux urgences
 <!-- /PJ -->
-

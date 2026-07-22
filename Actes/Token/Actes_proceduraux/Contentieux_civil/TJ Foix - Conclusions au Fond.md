@@ -44,6 +44,8 @@ Ayant droit à l'aide juridictionnelle
 <hr><hr>
 
 <!-- Destinataire -->
+<hr><hr>
+
 ## II — CONTRE :
 
 **SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)****

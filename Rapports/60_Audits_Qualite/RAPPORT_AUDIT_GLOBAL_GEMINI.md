@@ -19,11 +19,11 @@ auteur: Gemini
 # Audit Global du Projet "Accident Main"
 
 ## 1 — Structure générale & Organisation du projet (Q1–Q5)
-**Q1.** Structure cohérente, mais il y a des fichiers orphelins et des dossiers sans `README.md`. Fichiers orphelins : `Actes/Preuves officielles/20260716_Email_Bailleur_DELRIEU` et `Actes/Preuves officielles/20260716_Visite_Lieux_Foix` et `Actes/Token/Preuves_officielles/20260715_Police_PV_Foix`.
+**Q1.** Structure cohérente, mais il y a des fichiers orphelins et des dossiers sans `README.md`. Fichiers orphelins : [Actes/Preuves officielles/20260716_Email_Bailleur_DELRIEU](../../Actes/Preuves officielles/20260716_Email_Bailleur_DELRIEU/README.md) et [Actes/Preuves officielles/20260716_Visite_Lieux_Foix](../../Actes/Preuves officielles/20260716_Visite_Lieux_Foix/README.md) et [Actes/Token/Preuves_officielles/20260715_Police_PV_Foix](../../Actes/Token/Preuves_officielles/20260715_Police_PV_Foix).
 **Q2.** Le fichier `AGENTS.md` n'est pas à jour. Des chemins fictifs ou obsolètes s'y trouvent, comme `/home/crilocom/accident-main/`, `/tmp/opencode/`, et `projects/crilo-prod-automation/secrets/GITHUB_TOKEN` (l. 34-45).
 **Q3.** Le `README.md` racine liste les dossiers majeurs mais omet le dossier `Status/` récemment ajouté (bien qu'il figure sur le lien hypertexte, sa description est minimale, l. 25).
-**Q4.** Contradiction dans `Memory/` : `CARNET_RDV_UTILISATEUR.md` (l. 8) mentionne en clair "Ayoub Bennourine" et "SAS LES MAUVAIS GARCONS", tandis que `TOKEN MAP.md` (l. 92, 159) impose l'usage de tokens pour ces variables sensibles.
-**Q5.** Oui, `Rapports/` contient des archives redondantes. Notamment `85_RESTANT_A_FAIRE_2026-07-15.md` (l. 10) qui indique que 2802 points d'audit n'ont pas été traités depuis les audits du 15 juillet.
+**Q4.** Contradiction dans [Memory](../../Memory/README.md) : `CARNET_RDV_UTILISATEUR.md` (l. 8) mentionne en clair "Ayoub Bennourine" et "SAS LES MAUVAIS GARCONS", tandis que `TOKEN MAP.md` (l. 92, 159) impose l'usage de tokens pour ces variables sensibles.
+**Q5.** Oui, [Rapports](../README.md) contient des archives redondantes. Notamment `85_RESTANT_A_FAIRE_2026-07-15.md` (l. 10) qui indique que 2802 points d'audit n'ont pas été traités depuis les audits du 15 juillet.
 
 ## 2 — Cohérence Token / Reel (Q6–Q10)
 **Q6.** Non, il manque `Actes/Token/Preuves_officielles/20260715_Police_PV_Foix/README.md` (présent en Reel mais pas Token) et inversement, il y a des `.gitkeep` dans Reel non présents en Token.
@@ -40,7 +40,7 @@ auteur: Gemini
 **Q12.** Nombreux codes cités sans vérification complète.
 **Q13.** Jurisprudence non vérifiée par des scripts.
 **Q14.** La requête 145 CPC est insuffisante.
-**Q15.** **Critique** : L'ordonnance projetée (`Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision - Ordonnance Projet.md`, l. 25) accorde une provision de 15 000 €, ce qui est impossible sur le fondement d'une requête 145 CPC (qui est non contradictoire). Il s'agit d'une grave erreur de procédure.
+**Q15.** **Critique** : L'ordonnance projetée ([Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision - Ordonnance Projet.md](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision - Ordonnance Projet.md), l. 25) accorde une provision de 15 000 €, ce qui est impossible sur le fondement d'une requête 145 CPC (qui est non contradictoire). Il s'agit d'une grave erreur de procédure.
 **Q16.** La plainte liste les faits mais laisse fuiter le nom du prévenu dans la version anonymisée.
 **Q17.** Le `JURITEXT_PROTOCOL.md` n'est pas appliqué systématiquement (de nombreux "À VÉRIFIER" sont présents).
 **Q18.** Les textes de lois semblent statiques.
@@ -89,7 +89,7 @@ auteur: Gemini
 **Q47. Les 5 problèmes critiques :**
 1. **Fuite d'Anonymisation (RGPD)** : Noms en clair ("Ayoub") dans la branche Token (`Actes/Token/Courriers/⚖️ Contentieux/✉️⚖️ Commissariat Foix Plainte Complementaire.md` l. 1).
 
-2. **Hérésie procédurale** : Octroi d'une provision (15 000 €) sur une ordonnance statuant sur Requête 145 CPC (`Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision - Ordonnance Projet.md` l. 25).
+2. **Hérésie procédurale** : Octroi d'une provision (15 000 €) sur une ordonnance statuant sur Requête 145 CPC ([Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision - Ordonnance Projet.md](../../Actes/Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision - Ordonnance Projet.md) l. 25).
 
 3. **Citations Légifrance KO** : 36 fichiers (100%) échouent à la validation d'URL (statuts manquants).
 
@@ -106,7 +106,7 @@ auteur: Gemini
 
 4. Système de scripts d'audit automatiques.
 
-5. Traçabilité des actions (Dossiers `Rapports/`).
+5. Traçabilité des actions (Dossiers [Rapports](../README.md)).
 
 **Q49. Priorités avant dépôt :**
 - Supprimer toutes les mentions "Ayoub" et "Grazide" des fichiers Token.

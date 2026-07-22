@@ -21,6 +21,7 @@ source: local
 <!-- /Breadcrumb -->
 
 # FICHE REFLEXE 48H
+<hr><hr>
 ## Victime d'accident corporel — Conduite a tenir
 
 <hr><hr>

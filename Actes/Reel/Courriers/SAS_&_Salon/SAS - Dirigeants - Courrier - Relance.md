@@ -49,9 +49,9 @@ jx: J+40
 **[Foix](../../../../Memory/Tokens/token-accident-ville.md)**, le [8 juillet 2026](../../../../Memory/Tokens/token-accident-date-relance-v2.md)
 <!-- /Date -->
 
----
+<hr><hr>
 Objet : Relance — Demande d'information assurance RC et communication d'une adresse de correspondance — Accident **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)**
----
+<hr><hr>
 
 Par lettre de mise en demeure adressée le **[29 juin 2026](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)** en recommandé avec accusé de réception à chacun de vous à l'adresse du siège social (**[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md)**), j'ai sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de **[SAS HB BARBER](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
 
@@ -81,8 +81,6 @@ Par la présente, je vous intime formellement l'injonction de conserver et de ne
 > **Code pénal > Section 1 : Des entraves à la saisine de la justice.[^1]**
 
 Ma présence ainsi que le déroulement de l'accident sont déjà documentés par des éléments indépendants (transaction Wero, géolocalisation, rapports médicaux et procès-verbal de police).
-<hr><hr>
-
 ## II — RAPPEL DE LA DEMANDE D'ASSURANCE
 
 Le **[29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)** à 15h00, alors que j'étais client dans votre établissement, mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing pour régler le téléviseur.
@@ -201,4 +199,3 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
 [^4]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 [^5]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436)
 <!-- /Source -->
-

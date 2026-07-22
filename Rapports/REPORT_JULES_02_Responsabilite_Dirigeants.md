@@ -85,7 +85,7 @@ La résistance abusive des dirigeants et la multiplication des démarches induit
 
 - [ ] **Action 3** — Articuler l'entrave au droit d'action directe (Article L. 124-3 du Code des assurances) comme chef de dommage autonome de la responsabilité délictuelle (Article 1240 du Code civil).
 
-- [ ] **Action 4** — Ajouter les références des LRAR notifiées aux domiciles personnels du Président et de la DG (18/07/2026) dans `Memory/PIECES MAP.md`.
+- [ ] **Action 4** — Ajouter les références des LRAR notifiées aux domiciles personnels du Président et de la DG (18/07/2026) dans [Memory/PIECES MAP.md](../Memory/PIECES MAP.md).
 
 - [ ] **Action 5** — Vérifier que la durée d'arrêt de travail (55 jours) et la notion d'ITT (1 jour CMI sous réserve UMJ) sont parfaitement distinguées dans l'ensemble des actes.
 
@@ -95,11 +95,11 @@ La résistance abusive des dirigeants et la multiplication des démarches induit
 
 - [ ] **Action 8** — Valider le maintien des signalements administratifs (DREETS, Commission de sécurité ERP).
 
-- [ ] **Action 9** — Vérifier que les adresses canoniques des dirigeants figurent dans `Memory/STRICT VARIABLES.md`.
+- [ ] **Action 9** — Vérifier que les adresses canoniques des dirigeants figurent dans [Memory/STRICT VARIABLES.md](../Memory/STRICT VARIABLES.md).
 
 - [ ] **Action 10** — S'assurer qu'aucun lien vers des sites tiers non officiels (type doctrine.fr) ne figure dans les actes.
 
-- [ ] **Action 11** — Indexer ce rapport dans `Rapports/README.md`.
+- [ ] **Action 11** — Indexer ce rapport dans [Rapports/README.md](README.md).
 
 - [ ] **Action 12** — Proposer une mise à jour des conclusions pénales (constitution de partie civile) visant la faute détachable.
 

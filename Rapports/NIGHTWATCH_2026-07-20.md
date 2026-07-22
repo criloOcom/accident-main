@@ -31,7 +31,7 @@ date: 2026-07-20
 |---|---------|--------|--------|
 | A.4 | Symétrie Token → Reel | ✅ | `generate_real_versions.py` — 126 fichiers générés |
 | A.6 | Normalisation listes tight | ✅ | `normalize_list_spacing.py --apply` — 23 fichiers corrigés |
-| A.14 | Rapport de santé | ✅ | `health_report.py` → `Rapports/HEALTH_REPORT_2026-07-20.md` |
+| A.14 | Rapport de santé | ✅ | `health_report.py` → [Rapports/HEALTH_REPORT_2026-07-20.md](HEALTH_REPORT_2026-07-20.md) |
 | A.15 | Nettoyage scratch | ✅ | `rm -rf .dev/data/scratch/*` — 11 JSON (~530 Ko) supprimés |
 | A.2a | Vérification consistence | ✅ | `check_consistency.py` → Rien à signaler |
 

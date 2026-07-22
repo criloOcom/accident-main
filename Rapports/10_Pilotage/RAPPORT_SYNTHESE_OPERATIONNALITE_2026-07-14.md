@@ -235,4 +235,4 @@ Cinq principes fondamentaux pour pérenniser l'intégrité du dossier jusqu'au j
   Après toute modification substantielle des pièces du dossier, exécuter impérativement le script `.dev/app/check_consistency.py` pour garantir l'absence de rupture des liens, de l'arborescence, et des conventions de formatage Markdown (`<hr><hr>`).
 
 - **Principe 5 : Suivi rigoureux de l'état "STRICT VARIABLES.md"**
-  Toute nouvelle évaluation financière, toute nouvelle date ou tout nouveau fait avéré doit être immédiatement consolidé dans `Memory/STRICT VARIABLES.md` qui reste l'unique source de vérité documentaire du dossier. Jamais de "à peu près" sur les montants ou les dates (ex: Date chirurgie = 30 mai 2026, jamais 31 mai).
+  Toute nouvelle évaluation financière, toute nouvelle date ou tout nouveau fait avéré doit être immédiatement consolidé dans [Memory/STRICT VARIABLES.md](../../Memory/STRICT VARIABLES.md) qui reste l'unique source de vérité documentaire du dossier. Jamais de "à peu près" sur les montants ou les dates (ex: Date chirurgie = 30 mai 2026, jamais 31 mai).

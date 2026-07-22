@@ -37,9 +37,9 @@ Destinataires des actes et autorités judiciaires
 
 <hr><hr>
 
----
+<hr><hr>
 **Objet :** Rectification formelle de la désignation de la société exploitante dans l'ensemble des actes et démarches engagés par **[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)** à la suite de l'accident corporel du 29 mai 2026.
----
+<hr><hr>
 
 **Date :** 17 juillet 2026
 

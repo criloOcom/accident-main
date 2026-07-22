@@ -29,6 +29,7 @@ reel_path: ../../../Reel/Courriers/Archivé/Requête - Constat Huissier Archive.
 > La version archivée est conservée dans **[Archives/33 ✉️ Constat Huissier - Requête Archive 145 CPC.md](../../Archives/33%20%E2%9C%89%EF%B8%8F%20Constat%20Huissier%20-%20Requ%C3%AAte%20145%20CPC.md)**.
 >
 > **Raison de l'obsolescence :** La stratégie a évolué — la requête 145 CPC est désormais déposée directement au greffe du TJ (sans huissier). Le fichier 03 🔍 dans Actes proceduraux est la version active à utiliser.
+<hr><hr>
 ## I — Contenu original archivé
 
 Le contenu de cette requête (demande de constat d'huissier au titre de l'article 145 CPC pour établir l'état de la vasque et des équipements) a été intégré dans la stratégie globale via :

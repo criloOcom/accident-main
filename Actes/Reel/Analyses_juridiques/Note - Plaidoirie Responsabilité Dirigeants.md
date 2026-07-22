@@ -1,6 +1,6 @@
 ---
 title: "Mémorandum Juridique — Responsabilité des Dirigeants"
-description: "Rédigé le 30 juin 2026"
+description: "Rédigé le **[J+32 Assignation référé]"
 type: analyse_juridique
 date: 2026-06-30
 tags:
@@ -20,16 +20,17 @@ jx: J+32
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # **MÉMORANDUM JURIDIQUE : RESPONSABILITÉ DES DIRIGEANTS ET RÉPARATION DES PRÉJUDICES**
 > 🔗 Source Google Drive : [1uHOesWZrUf1…](https://drive.google.com/open?id=1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90)
-Rédigé le **[30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md)**
+Rédigé le **[J+32 Assignation référé](../../../Memory/Tokens/token-j-32-assignation-refere.md)**
 
 Rédigé par : La Victime
+<hr><hr>
 ## I — INTRODUCTION
 
-Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** dans le cadre de l'accident corporel survenu le **[29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md)**.
+Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** dans le cadre de l'accident corporel survenu le **[J+0 Accident](../../../Memory/Tokens/token-j-0-accident.md)**.
 
 Ce document examine les fondements juridiques de la mise en cause de la responsabilité des dirigeants sur le terrain du droit des sociétés, notamment sur le fondement des articles L. 223-22 et L. 225-251 du Code de commerce, ainsi que sur le terrain du droit commun de la responsabilité civile.
 
@@ -44,17 +45,19 @@ Ce document examine les fondements juridiques de la mise en cause de la responsa
 Il identifie les manquements aux obligations légales et réglementaires imputables aux dirigeants et évalue les perspectives d'engagement de leur responsabilité personnelle à l'égard de la victime.
 <hr><hr>
 
+<hr><hr>
 ## II — PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 
-Le présent mémorandum analyse les fondements de la responsabilité civile et pénale consécutifs à l'accident corporel survenu le **[29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon exploité par **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
+Le présent mémorandum analyse les fondements de la responsabilité civile et pénale consécutifs à l'accident corporel survenu le **[J+0 Accident](../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
 
-Lors de cet événement, le basculement d'un équipement défectueux a causé une section nerveuse et tendineuse grave à la main dominante de **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)**.
+Lors de cet événement, le basculement d'un équipement défectueux a causé une section nerveuse et tendineuse grave à la main dominante de **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**.
 
-La situation est complexifiée par le silence des dirigeants, **[Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md)**, concernant la couverture assurantielle de la structure.
+La situation est complexifiée par le silence des dirigeants, **[Le Président de l'Exploitation](../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../Memory/Tokens/token-exploitation-dg-nom.md)**, concernant la couverture assurantielle de la structure.
 
-PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, **[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)** est désigné comme « La Victime », **[SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** comme « L'Exploitant », et **[Hamza El Hachemi BERGUIGA](../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[Catherine SORROCHE, dite ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md)** comme « Les Dirigeants ».
+PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)** est désigné comme « La Victime », **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** comme « L'Exploitant », et **[Le Président de l'Exploitation](../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../Memory/Tokens/token-exploitation-dg-nom.md)** comme « Les Dirigeants ».
 <hr><hr>
 
+<hr><hr>
 ## III — LE CADRE JURIDIQUE DE LA RESPONSABILITÉ DES DIRIGEANTS
 ### III.1 — LA FAUTE DÉTACHABLE DES FONCTIONS ET L'ÉCRAN DE LA PERSONNALITÉ MORALE
 
@@ -68,7 +71,7 @@ Selon la jurisprudence constante Cass. Com., 20 mai 2003 (Arrêt SATI, n° 99-17
 
 Le défaut de souscription d'une assurance légalement obligatoire, ou la dissimulation volontaire de celle-ci, entravant l'action directe de la victime, constitue typiquement une faute intentionnelle d'une particulière gravité, et peut être regardé comme une application de ce principe jurisprudentiel de faute détachable.
 
-Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SAS, dont le capital social statutaire s'élève au montant dérisoire de [1 000 €](../../../Memory/Tokens/token-exploitation-capital-social.md) (article 25 des statuts), rendant la société structurellement incapable d'assumer la réparation d'un sinistre corporel grave sans assurance active.
+Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SAS, dont le capital social statutaire s'élève au montant dérisoire de [**[Capital Social de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-capital-social.md) (article 25 des statuts), rendant la société structurellement incapable d'assumer la réparation d'un sinistre corporel grave sans assurance active.
 
 ### III.2 — RESPONSABILITÉ PÉNALE ET FAUTE CARACTÉRISÉE DE SÉCURITÉ
 
@@ -95,6 +98,7 @@ Une condamnation pour blessures involontaires sur le fondement de l'article 222-
 > **Code pénal > Partie législative > Livre II > Titre II > Chapitre II > Section 2.[^6]**
 <hr><hr>
 
+<hr><hr>
 ## IV — MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
 ### IV.1 — L'ACTION DIRECTE CONTRE L'ASSUREUR DE RESPONSABILITÉ CIVILE
 
@@ -127,6 +131,7 @@ Elle ne se limite pas à la perte de gains actuels mais inclut la dévalorisatio
 Le préjudice global est estimé à **~90 000 €**, incluant le déficit fonctionnel permanent et les souffrances endurées, tel que détaillé dans l'étude d'indemnisation prospective.
 <hr><hr>
 
+<hr><hr>
 ## V — SYNTHÈSE DES ACTIONS ET DÉMARCHES EN COURS
 
 Une stratégie multi-niveaux a été déployée : une plainte pénale complémentaire a été déposée pour défaut d'assurance et entrave, parallèlement à la transmission des pièces médicales au Procureur. 
@@ -135,16 +140,16 @@ Enfin, des mises en demeure ont été adressées à L'Exploitant et à ses Dirig
 <!-- Source -->
 <hr><hr>
 
+<hr><hr>
 ## Sources Législation
 
-[^1]: [Article L. 223-22 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141)
-[^2]: [Article L. 225-251 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
-[^3]: [Arrêt SATI — n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)
-[^4]: [Article R. 143-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818941](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818941)
-[^5]: [Article L. 421-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053)
-[^6]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
-[^7]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^8]: [Article L. 237-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063)
-[^9]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
+[^1]: [Article L. 223-22 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141) ↩
+[^2]: [Article L. 225-251 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) ↩
+[^3]: [Arrêt SATI — n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
+[^4]: [Article R. 143-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818941](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818941) ↩
+[^5]: [Article L. 421-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464053) ↩
+[^6]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+[^7]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+[^8]: [Article L. 237-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063) ↩
+[^9]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 <!-- /Source -->
-

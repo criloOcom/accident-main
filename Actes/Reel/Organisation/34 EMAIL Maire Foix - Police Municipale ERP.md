@@ -15,7 +15,7 @@ statut: brouillon
 **Expéditeur** : `sebastien.grazide@gmail.com`
 **Objet** : Suite à nos échanges – Demande d'intervention pour contrôle de sécurité ERP (22 Rue Lafaurie, 09000 Foix)
 
----
+<hr><hr>
 
 Monsieur l'Adjoint au Maire,
 

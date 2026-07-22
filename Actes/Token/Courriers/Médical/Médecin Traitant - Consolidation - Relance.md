@@ -25,9 +25,9 @@ jx: J+38
 <!-- /Breadcrumb -->
 
 # RELANCE<br>DEMANDE DE CERTIFICAT MÉDICAL DE CONSOLIDATION
----
+<hr><hr>
 Objet : Demande de certificat médical de consolidation — Suite courrier du **[J+37 Assignation 145](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
----
+<hr><hr>
 
 <!-- Destinataire -->
 **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**

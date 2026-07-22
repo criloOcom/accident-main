@@ -9,7 +9,7 @@
 
 ## OBJECTIF DE LA MISSION
 
-Produis un rapport `Rapports/RAPPORT_LRARS_POST_DEPOT_2026-07-18.md` listant **tous les destinataires qui doivent recevoir l'erratum et/ou les actes corrigés**, avec modèles de lettres.
+Produis un rapport [Rapports/RAPPORT_LRARS_POST_DEPOT_2026-07-18.md](../../Rapports/RAPPORT_LRARS_POST_DEPOT_2026-07-18.md) listant **tous les destinataires qui doivent recevoir l'erratum et/ou les actes corrigés**, avec modèles de lettres.
 
 ## MÉTHODE
 

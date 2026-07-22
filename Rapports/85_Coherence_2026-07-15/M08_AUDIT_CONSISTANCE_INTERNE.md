@@ -48,7 +48,7 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 154.
 
-#### II.1.d — Fichier : `Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Conclusions au Fond.md`
+#### II.1.d — Fichier : [Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Conclusions au Fond.md](../../Actes/Token/Actes_proceduraux/Contentieux_civil/TJ Foix - Conclusions au Fond.md)
 
 - [ ] **MINEUR** : L'Article L.4121-2 est cité dans la motivation mais n'est pas repris explicitement dans les visas du dispositif à la ligne 144.
 
@@ -88,7 +88,7 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 45.
 
-#### II.1.l — Fichier : `Actes/Token/Analyses_juridiques/Note - Plaidoirie Responsabilité Dirigeants.md`
+#### II.1.l — Fichier : [Actes/Token/Analyses_juridiques/Note - Plaidoirie Responsabilité Dirigeants.md](../../Actes/Token/Analyses_juridiques/Note - Plaidoirie Responsabilité Dirigeants.md)
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 40.
 
@@ -96,15 +96,15 @@ Vérifier la cohérence interne de chaque acte juridique (exposé des faits vs d
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 138.
 
-#### II.1.m — Fichier : `Actes/Token/Analyses_juridiques/Note - Responsabilité des Dirigeants.md`
+#### II.1.m — Fichier : [Actes/Token/Analyses_juridiques/Note - Responsabilité des Dirigeants.md](../../Actes/Token/Analyses_juridiques/Note - Responsabilité des Dirigeants.md)
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 40.
 
-#### II.1.n — Fichier : `Actes/Token/Analyses_juridiques/Note - Mémo Stratégie Admin Pénal.md`
+#### II.1.n — Fichier : [Actes/Token/Analyses_juridiques/Note - Mémo Stratégie Admin Pénal.md](../../Actes/Token/Analyses_juridiques/Note - Mémo Stratégie Admin Pénal.md)
 
 - [ ] **CRITIQUE** : Fuite de nom réel (`Tavella`) à la ligne 127.
 
-#### II.1.o — Fichier : `Actes/Token/Archives/Archive - Stratégie Contentieux Pénal.md`
+#### II.1.o — Fichier : [Actes/Token/Archives/Archive - Stratégie Contentieux Pénal.md](../../Actes/Token/Archives/Archive - Stratégie Contentieux Pénal.md)
 
 - [ ] **CRITIQUE** : Citation de l'article L. 225-251 du Code de commerce (inapplicable aux SAS, il faut utiliser L. 227-8) à la ligne 144.
 

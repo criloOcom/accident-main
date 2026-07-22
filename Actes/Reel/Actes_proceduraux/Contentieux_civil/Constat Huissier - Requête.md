@@ -148,4 +148,3 @@ Le [À compléter]
 [^1]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 [^2]: [Article 873 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463)
 <!-- /Source -->
-
