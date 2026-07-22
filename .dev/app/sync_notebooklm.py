@@ -3,9 +3,9 @@
 Sync documentation markdown files to Google Drive for NotebookLM.
 
 Syncs these local folders:
-  - ⚖️_Actes/👤_Reel/   → Accident Main - NotebookLM/Actes Reel/
-  - 🧠_Memory/       → Accident Main - NotebookLM/Memory/
-  - 📜_Lois/         → Accident Main - NotebookLM/Lois/
+  - Actes/Reel/   → Accident Main - NotebookLM/Actes Reel/
+  - Memory/       → Accident Main - NotebookLM/Memory/
+  - Lois/         → Accident Main - NotebookLM/Lois/
 
 Usage:
   python3 .dev/app/sync_notebooklm.py          # real sync
@@ -25,9 +25,9 @@ from googleapiclient.http import MediaFileUpload
 ROOT_FOLDER_NAME = "Accident Main - NotebookLM"
 
 SOURCE_DIRS = {
-    "Actes Reel": "⚖️_Actes/👤_Reel",
-    "Memory": "memory",
-    "Lois": "lois",
+    "Actes Reel": "Actes/Reel",
+    "Memory": "Memory",
+    "Lois": "Lois",
 }
 
 
@@ -99,6 +99,32 @@ def sync_directory(service, local_root, drive_parent_id, dry_run):
         if meta["mimeType"] == "application/vnd.google-apps.folder":
             drive_subfolders[name] = meta["id"]
 
+    import concurrent.futures
+
+    from app.drive_auth import get_drive_service
+
+    def process_file_or_delete(op_type, fn, local_path, drive_file_id, target_parent_id, local_sz):
+        # Create a thread-local service to avoid thread-safety issues with httplib2
+        local_service = get_drive_service()
+
+        result_log = ""
+        if op_type == "UPDATE":
+            media = MediaFileUpload(local_path, mimetype="text/markdown", resumable=True)
+            local_service.files().update(fileId=drive_file_id, media_body=media).execute()
+            result_log = f"  ✓ UPDATE '{fn}' ({local_sz} bytes)"
+        elif op_type == "UPLOAD":
+            media = MediaFileUpload(local_path, mimetype="text/markdown", resumable=True)
+            body = {"name": fn, "parents": [target_parent_id]}
+            local_service.files().create(body=body, media_body=media, fields="id").execute()
+            result_log = f"  + UPLOAD '{fn}' ({local_sz} bytes)"
+        elif op_type == "DELETE":
+            local_service.files().delete(fileId=drive_file_id).execute()
+            result_log = f"  ✗ DELETE '{fn}' (not in local)"
+
+        return result_log
+
+    tasks = []
+
     for subfolder_name, files in local_files.items():
         target_parent_id = drive_parent_id
         if subfolder_name:
@@ -120,21 +146,17 @@ def sync_directory(service, local_root, drive_parent_id, dry_run):
             if not should_upload(local_path, drive_file):
                 continue
             local_sz = os.path.getsize(local_path)
+
             if drive_file:
                 if dry_run:
                     log.append(f"  [DRY-RUN] Would UPDATE '{fn}' ({local_sz} bytes)")
                 else:
-                    media = MediaFileUpload(local_path, mimetype="text/markdown", resumable=True)
-                    service.files().update(fileId=drive_file["id"], media_body=media).execute()
-                    log.append(f"  ✓ UPDATE '{fn}' ({local_sz} bytes)")
+                    tasks.append(("UPDATE", fn, local_path, drive_file["id"], target_parent_id, local_sz))
             else:
                 if dry_run:
                     log.append(f"  [DRY-RUN] Would UPLOAD '{fn}' ({local_sz} bytes)")
                 else:
-                    media = MediaFileUpload(local_path, mimetype="text/markdown", resumable=True)
-                    body = {"name": fn, "parents": [target_parent_id]}
-                    service.files().create(body=body, media_body=media, fields="id").execute()
-                    log.append(f"  + UPLOAD '{fn}' ({local_sz} bytes)")
+                    tasks.append(("UPLOAD", fn, local_path, None, target_parent_id, local_sz))
 
         # Check for Drive files deleted locally
         for fn, meta in sub_drive_files.items():
@@ -142,8 +164,23 @@ def sync_directory(service, local_root, drive_parent_id, dry_run):
                 if dry_run:
                     log.append(f"  [DRY-RUN] Would DELETE '{fn}' (not in local)")
                 else:
-                    service.files().delete(fileId=meta["id"]).execute()
-                    log.append(f"  ✗ DELETE '{fn}' (not in local)")
+                    tasks.append(("DELETE", fn, None, meta["id"], target_parent_id, None))
+
+    if tasks and not dry_run:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+            futures = [executor.submit(process_file_or_delete, *task) for task in tasks]
+
+            results = []
+            for future in concurrent.futures.as_completed(futures):
+                try:
+                    res = future.result()
+                    if res:
+                        results.append(res)
+                except Exception as e:
+                    results.append(f"  ⚠ ERROR during operation: {str(e)}")
+
+            results.sort()
+            log.extend(results)
 
     return log
 

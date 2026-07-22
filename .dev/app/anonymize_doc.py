@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import re
+import sys
 
 # To fix the CWE-377 insecure temporary file vulnerability, we require the input
 # file to be provided as an argument.
@@ -13,11 +14,11 @@ with open(input_file, 'r', encoding='utf-8') as f:
 
 # Entity replacements (longest first to avoid partial overwrites)
 replacements = [
-    ("La SAS LES MAUVAIS GARCONS", "[L'Exploitant du Salon]"),
-    ("SAS LES MAUVAIS GARCONS", "[L'Exploitant du Salon]"),
+    ("SAS HB BARBER", "[L'Exploitant du Commerce (La SAS)]"),
+    ("HB BARBER", "[L'Exploitant du Commerce (La SAS)]"),
     ("22 Rue Lafaurie, 09000 Foix", "[L'Adresse de l'Exploitation]"),
     ("Madame Catherine ANDISSAC (née SORROCHE)", "[La Directrice Générale de l'Exploitation]"),
-    ("938 033 222 00010", "[L'Identifiant de l'Exploitation]"),
+    ("104 103 262 00010", "[L'Identifiant de l'Exploitation]"),
     ("Monsieur Sébastien GRAZIDE", "[La Victime]"),
     ("Monsieur Sébastien Grazide", "[La Victime]"),
     ("Monsieur GRAZIDE", "[La Victime]"),
@@ -38,14 +39,10 @@ for old, new in replacements:
 
 # Remove civility prefixes and articles before tokens
 text = re.sub(r'\b(Monsieur|Madame|M\.|Mme|Dr|Docteur|Maître)\s+(?=\[)', '', text)
-# Remove "La " / "la " / "Le " / "le " if directly before a bracket (they duplicate the token)
 text = re.sub(r'\b(La |la |Le |le |L\'|l\')(?=\[)', '', text)
-# Handle "de la" before [L'Exploitant:
 text = re.sub(r'de la (?=\[L\'Exploitant)', 'de ', text)
 
-# Remove leftover "(31)" or "(09)"
 text = re.sub(r'\(\d{2}\)', '', text)
-# Fix double spaces
 text = re.sub(r'  +', ' ', text)
 
 print(text)

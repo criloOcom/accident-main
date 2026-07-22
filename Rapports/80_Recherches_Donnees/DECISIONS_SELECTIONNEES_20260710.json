@@ -1,0 +1,428 @@
+{
+  "accident_salon_coiffure": [
+    {
+      "score": 0.6267307904579998,
+      "highlights": {
+        "text": [
+          "RESPONSABLE DE <em>L'ACCIDENT</em> DONT LE MINEUR PHILIPPE Y...A ETE VICTIME, LE 21 NOVEMBRE 1957, AU COURS D'UNE",
+          "DEFAUT DU PORT DE LA BOMBE S'EST EGALEMENT TROUVE A L'ORIGINE DU DOMMAGE\nQUE LE PORT DE CETTE <em>COIFFURE</em>"
+        ]
+      },
+      "id": "607940be9ba5988459c3dbd0",
+      "jurisdiction": "cc",
+      "chamber": "civ1",
+      "number": "63-13.613",
+      "numbers": [
+        "63-13.613"
+      ],
+      "publication": [
+        "b"
+      ],
+      "decision_date": "1965-04-30",
+      "solution": "rejet",
+      "type": "arret",
+      "summary": "UN ENFANT AYANT ETE BLESSE A LA TETE, AU COURS D'UNE LECON D'EQUITATION DANS UN MANEGE, PAR UNE RUADE DE SON CHEVAL ALORS QU'IL VENAIT DE METTRE PIED A TERRE SUR L'ORDRE DU MONITEUR, LES JUGES DU FOND QUI RELEVENT QUE SON INEXPERIENCE APPELAIT DE LA PART DU MONITEUR UNE ATTENTION SPECIALE, QU'IL APPARTENAIT A CELUI-CI,ALORS QUE LE CHEVAL DONNAIT DES SIGNES D'ENERVEMENT, DE RESSAISIR IMMEDIATEMENT LES RENES ET DE REPRENDRE EN MAIN L'ANIMAL ET QUI SOULIGNENT ENFIN QUE LE DEFAUT DU PORT DE LA \" BOMBE \" S'ETAIT EGALEMENT TROUVE A L'ORIGINE DU DOMMAGE, ET QU'IL APPARTENAIT AU MAITRE DU MANEGE D'IMPOSER CETTE PROTECTION, PEUVENT DEDUIRE DE CES CONSTATATIONS QUE TOUTES LES MESURES DE SECURITE NECESSAIRES N'AVAIENT PAS ETE PRISES.",
+      "themes": [
+        "sports",
+        "equitation",
+        "manege",
+        "cavalier blesse par une ruade"
+      ],
+      "files": [],
+      "titlesAndSummaries": [],
+      "particularInterest": false
+    },
+    {
+      "score": 0.6207734975577323,
+      "highlights": {
+        "text": [
+          "compte de l'opposition faite entre leurs mains par la Société coopérative de caution mutuelle de la <em>coiffure</em>",
+          "Socaco) ; qu'à titre transactionnel, leur assureur de responsabilité, la Mutuelle générale française <em>accidents</em>"
+        ]
+      },
+      "id": "60794c949ba5988459c4612e",
+      "jurisdiction": "cc",
+      "chamber": "civ1",
+      "number": "90-14.591",
+      "numbers": [
+        "90-14.591"
+      ],
+      "publication": [
+        "b"
+      ],
+      "decision_date": "1994-07-08",
+      "solution": "cassation",
+      "type": "arret",
+      "summary": "Les notaires, qui ayant remis à une commerçante le prix de vente de son fonds de commerce sans tenir compte de l'opposition faite entre leurs mains, versent au créancier une partie de la somme qu'il aurait dû normalement recouvrer contre sa débitrice, acquittent, pour partie, la dette de celle-ci et se trouvent, ainsi que leur assureur de responsabilité qui a réglé l'autre partie de la dette, légalement subrogés à hauteur des sommes qui ont été payées dans les droits et actions du créancier contre sa débitrice.",
+      "themes": [
+        "subrogation",
+        "subrogation légale",
+        "cas",
+        "article 1251.3° du code civil",
+        "notaire",
+        "etablissement d'un acte de vente",
+        "versement du prix au vendeur",
+        "omission de tenir compte d'une opposition",
+        "indemnisation du créancier opposant par le notaire",
+        "recours contre le débiteur",
+        "assurance responsabilite",
+        "recours contre le tiers débiteur de l'obligation",
+        "indemnisation du créancier opposant à une vente",
+        "vendeur ayant reçu le prix"
+      ],
+      "files": [],
+      "titlesAndSummaries": [],
+      "particularInterest": false
+    },
+    {
+      "score": 0.6125286707720106,
+      "highlights": {
+        "text": [
+          "l'arrêt de dire qu'il demeure seul titulaire des 250 parts de la société à responsabilité limitée Niel <em>Coiffure</em>",
+          "de la sorte, elle ne caractérisait pas que les 250 parts de la société à responsabilité limitée Niel <em>Coiffure</em>",
+          "arrêtée par l'expert, pour fixer la valeur des 250 parts de la société à responsabilité limitée Niel <em>Coiffure</em>",
+          "Dominique …... demeurait seul titulaire des 250 parts de la société à responsabilité limitée Niel <em>Coiffure</em>",
+          "ce qu'il soit dit que le partage des 250 parts sociales de la société à responsabilité limitée Niel <em>Coiffure</em>"
+        ]
+      },
+      "id": "607975719ba5988459c49ee3",
+      "jurisdiction": "cc",
+      "chamber": "civ1",
+      "number": "11-13.384",
+      "numbers": [
+        "11-13.384"
+      ],
+      "ecli": "ECLI:FR:CCASS:2012:C100875",
+      "publication": [
+        "b"
+      ],
+      "decision_date": "2012-07-04",
+      "solution": "rejet",
+      "type": "arret",
+      "summary": "Seule la valeur patrimoniale des parts sociales, souscrites pendant la durée du mariage par un époux, qui a seul la qualité d'associé, entre en communauté et ces parts ne peuvent qu'être attribuées au titulaire des droits sociaux lors du partage",
+      "themes": [
+        "regimes matrimoniaux",
+        "communauté entre époux",
+        "actif",
+        "composition",
+        "biens acquis au cours du mariage",
+        "valeur patrimoniale du bien",
+        "cas",
+        "parts sociales souscrites par un époux ayant seul la qualité d'associé",
+        "portée",
+        "exclusion",
+        "portée regimes matrimoniaux",
+        "partage",
+        "parts sociales souscrites pendant le mariage par un époux",
+        "attribution à l'époux ayant seul la qualité d'associé",
+        "portée societe (règles générales)",
+        "associés",
+        "qualité",
+        "epoux commun en biens",
+        "souscription de parts sociales pendant le mariage",
+        "nature commune des parts",
+        "conditions"
+      ],
+      "files": [],
+      "titlesAndSummaries": [],
+      "particularInterest": false
+    }
+  ],
+  "responsabilite_erp": [
+    {
+      "score": 0.9594250110693541,
+      "highlights": {
+        "text": [
+          "QUE CONTRE LA COMPAGNIE LA POPULAIRE, AUPRES DE LAQUELLE IL AVAIT SOUSCRIT UNE POLICE D'ASSURANCE DE <em>RESPONSABILITE</em>",
+          "L'ARTICLE 3 DE LA POLICE SELON LESQUELLES NE SONT GARANTIES QUE LES CONSEQUENCES PECUNIAIRES DE LA <em>RESPONSABILITE</em>",
+          "ALORS QUE, SELON LE MOYEN, ELLE A CONSTATE QUE L'ASSURANCE << <em>RESPONSABILITE</em> CIVILE CHEF DE FAMILLE",
+          ">>, SOUSCRITE PAR M Z..., E…CLUAIT LA <em>RESPONSABILITE</em> DECOULANT DE L'UTILISATION DES VEHICULES, QU'IL",
+          "NECESSAIREMENT E…CLURE LA GARANTIE AUTO RESULTANT DE LA POLICE HELVETIA ET APPLIQUER LA GARANTIE << <em>RESPONSABILITE</em>"
+        ]
+      },
+      "id": "60794c149ba5988459c44983",
+      "jurisdiction": "cc",
+      "chamber": "civ1",
+      "number": "80-17.254",
+      "numbers": [
+        "80-17.254"
+      ],
+      "publication": [
+        "b"
+      ],
+      "decision_date": "1982-03-02",
+      "solution": "rejet",
+      "type": "arret",
+      "summary": "N'a pas méconnu la portée de la clause d'un contrat d'assurance stipulant que la garantie est due à l'assuré en raison des dommages causés au cours ou à l'occasion de la circulation du véhicule, la Cour d'appel qui a estimé qu'une telle clause n'exigeait pas que la faute génératrice de l'accident ne soit pas indépendante et détachable de la conduite du véhicule assuré. Dès lors, la compagnie du souscripteur d'une police d'assurance automobile, dont le véhicule piloté par celui qui venait de l'acheter d'occasion, a provoqué un accident dont la cause unique a été l'absence de fonctionnement du système de freinage, est tenue à garantir les conséquences de cet accident.",
+      "themes": [
+        "1) assurance en general",
+        "garantie",
+        "etendue",
+        "dommage causé au cours ou à l'occasion de la circulation du véhicule",
+        "faute indépendante et détachable de la conduite du véhicule",
+        "assurance en general",
+        "police",
+        "dénaturation",
+        "assurance responsabilite",
+        "2) assurance responsabilite",
+        "exclusion",
+        "dommage causé par le propriétaire, l'utilisateur ou le gardien d'un véhicule",
+        "dommage subi par l'acquéreur du véhicule",
+        "assurances cumulatives",
+        "définition",
+        "concours de polices couvrant un même risque",
+        "assurance automobile",
+        "assurance responsabilité du chef de famille"
+      ],
+      "files": [],
+      "titlesAndSummaries": [],
+      "particularInterest": false
+    },
+    {
+      "score": 0.9562483606682783,
+      "highlights": {
+        "text": [
+          "ATTAQUE A CONDAMNE LA SOCIETE VIGUIER-JOUFFRAIS A PAYER LA MAJORATION DE PRIME QUE, A LA SUITE D'UN <em>ACCIDENT</em>",
+          "TOTALE DE <em>L'ACCIDENT</em> A UN TIERS IDENTIFIE\nATTENDU, CEPENDANT, QUE, POUR RESISTER A LA PRETENTION",
+          "DECISION DE CLASSEMENT SANS SUITE PRISE PAR LE MINISTERE PUBLIC SUR LE VU DU PROCES-VERBAL DRESSE APRES <em>L'ACCIDENT</em>",
+          "CONCLUSIONS D'APPEL, QUE, \"SI CETTE PRETENTION ETAIT RETENUE\", IL (FAUDRAIT) ADMETTRE QUE, DANS TOUS LES <em>ACCIDENTS</em>",
+          "SON DROIT DISCRETIONNAIRE D'AUGMENTER LES PRIMES D'ASSURANCE DE SES SOCIETAIRES TOUTES LES FOIS QU'UN <em>ACCIDENT</em>"
+        ]
+      },
+      "id": "6079432b9ba5988459c414df",
+      "jurisdiction": "cc",
+      "chamber": "civ1",
+      "number": "73-10.206",
+      "numbers": [
+        "73-10.206"
+      ],
+      "publication": [
+        "b"
+      ],
+      "decision_date": "1974-02-19",
+      "solution": "cassation",
+      "type": "arret",
+      "summary": "ENCOURT LA CASSATION L'ARRET QUI CONDAMNE L'AUTEUR D'UN ACCIDENT DE LA CIRCULATION A PAYER PAR APPLICATION D'UNE CLAUSE D'UN CONTRAT D'ASSURANCES UNE MAJORATION DE PRIME A L'OCCASION DE TOUT SINISTRE ENTRAINANT LE PAYEMENT D'UNE INDEMNITE A LA CHARGE DE L 'ASSUREUR A L'EXCEPTION DE CEUX POUR LESQUELS L'ASSURE APPORTE A CELUI-CI, DES LA DECLARATION, DES ELEMENTS PERMETTANT D'IMPUTER LA RESPONSABILITE TOTALE DE L'ACCIDENT A UN TIERS IDENTIFIE, SANS REPONDRE AUX CONCLUSIONS PAR LESQUELLES L'ASSURE EXCIPAIT DU CARACTERE DISCRETIONNAIRE DE LA CLAUSE LITIGIEUSE POUR EN CONTESTER LA VALIDITE.",
+      "themes": [
+        "assurance en general",
+        "police",
+        "clause",
+        "validite",
+        "contestation",
+        "jugements et arrets",
+        "conclusions",
+        "absence de reponse",
+        "caractere leonin allegue",
+        "contrats et obligations",
+        "caractere leonin",
+        "majoration de primes en fonction des sinistres",
+        "prime",
+        "majoration",
+        "majoration en fonction des sinistres",
+        "exception",
+        "preuve de la responsabilite d 'un tiers par l'assure",
+        "validite de cette clause",
+        "assurance responsabilite",
+        "sinistre",
+        "majoration de prime",
+        "clause la stipulant sauf exoneration de responsabilite de l'assure"
+      ],
+      "files": [],
+      "titlesAndSummaries": [],
+      "particularInterest": false
+    },
+    {
+      "score": 0.9560852863845525,
+      "highlights": {
+        "text": [
+          "POUR L'USAGE D'UNE VOITURE AUTOMOBILE, A INDEMNISER SA FILLE, BLESSEE DANS UN <em>ACCIDENT</em> DE LA CIRCULATION",
+          "ETAIT DEMEURE LE GARDIEN DE SA VOITURE, IL N'ETAIT PAS RESPONSABLE DE <em>L'ACCIDENT</em>\nATTENDU QUE LE",
+          "CONSTANT QUE LA <em>RESPONSABILITE</em> DU FAIT PERSONNEL ET LA <em>RESPONSABILITE</em> DU FAIT D'UNE CHOSE ONT CHACUNE",
+          "ETAIT DE PLEIN DROIT RESPONSABLE DE <em>L'ACCIDENT</em> ET NE POUVAIT ETRE E…ONERE QUE SI LA FAUTE DU CONDUCTEUR",
+          "QUE, DES LORS, AUCUNE <em>RESPONSABILITE</em> N'ETANT RETENUE A LA CHARGE DE …..., L'E…CLUSION DE LA GARANTIE"
+        ]
+      },
+      "id": "607943339ba5988459c418b4",
+      "jurisdiction": "cc",
+      "chamber": "civ1",
+      "number": "73-13.312",
+      "numbers": [
+        "73-13.312"
+      ],
+      "publication": [
+        "b"
+      ],
+      "decision_date": "1974-11-06",
+      "solution": "rejet",
+      "type": "arret",
+      "summary": "DEUX PERSONNES PEUVENT ETRE RESPONSABLES D'UN MEME DOMMAGE, L'UNE COMME AYANT COMMIS UNE FAUTE EN RELATION AVEC LE DOMMAGE, L 'AUTRE EN QUALITE DE GARDIEN DE LA CHOSE AYANT CAUSE CE DOMMAGE. DES LORS, LES JUGES DU FOND, QUI CONSTATENT QUE PAR UNE DECISION IRREVOCABLE, UN CONDUCTEUR A ETE DECLARE ENTIEREMENT RESPONSABLE DE L'ACCIDENT AU COURS DUQUEL SA PASSAGERE, FILLE DU PROPRIETAIRE DU VEHICULE, A ETE BLESSEE, ECARTENT A BON DROIT LA CLAUSE DU CONTRAT D 'ASSURANCE EXCLUANT DE LA GARANTIE LES DESCENDANTS DE L'ASSURE RESPONSABLE DU SINISTRE, AU MOTIF QUE L'ASSURE N'ETAIT PAS RESPONSABLE DE L'ACCIDENT, BIEN QU'IL FUT DENOMME GARDIEN DE SA VOITURE.",
+      "themes": [
+        "assurance responsabilite",
+        "garantie",
+        "exclusion",
+        "dommages causes aux proches",
+        "descendant victime",
+        "vehicule assure conduit par un tiers declare responsable",
+        "conditions d'application",
+        "assure responsable de l 'accident",
+        "responsabilite civile",
+        "dommage",
+        "reparation",
+        "pluralite d 'auteurs",
+        "fondements juridiques differents."
+      ],
+      "files": [],
+      "titlesAndSummaries": [],
+      "particularInterest": false
+    }
+  ],
+  "vasque_cassee": [
+    {
+      "score": 0.9515059444219798,
+      "highlights": {
+        "text": [
+          "Continent du désistement de son pourvoi à l'égard de Mme Y... et de la Caisse nationale suisse en cas <em>d'accidents</em>",
+          "Z... a été impliqué dans un <em>accident</em> de la circulation qui a causé des blessures à deux passagers, Mme",
+          "Z..., la cour d'appel a énoncé que la faute de ce dernier étant à l'origine exclusive de <em>l'accident</em>",
+          "d'appel a violé les textes susvisés\nEt attendu qu'il y a lieu à cassation sans renvoi des chefs <em>cassés</em>",
+          "A... et par la compagnie d'assurances Nationale suisse assurance\n<em>CASSE</em> ET ANNULE, mais en ses seules"
+        ]
+      },
+      "id": "60794ce49ba5988459c4766a",
+      "jurisdiction": "cc",
+      "chamber": "civ1",
+      "number": "96-22.884",
+      "numbers": [
+        "96-22.884",
+        "97-11.582"
+      ],
+      "publication": [
+        "b"
+      ],
+      "decision_date": "2000-02-29",
+      "solution": "cassation",
+      "type": "arret",
+      "summary": "Il résulte de l'article L. 114-2 du Code des assurances que toute désignation d'expert à la suite d'un sinistre interrompt la prescription pour tous les chefs de préjudice qui ont résulté de ce sinistre, alors même que l'expertise ne porterait que sur certains d'entre eux.",
+      "themes": [
+        "assurance (règles générales)",
+        "prescription",
+        "prescription biennale",
+        "interruption",
+        "acte interruptif",
+        "désignation d'expert",
+        "effets",
+        "effet à l'égard de tous les chefs de préjudice résultant du sinistre",
+        "expertise ne portant que sur certains d'entre eux",
+        "absence d'incidence",
+        "prescription civile",
+        "applications diverses",
+        "assurance",
+        "expertise ne portant que sur certains chefs de préjudice",
+        "effet",
+        "accident de la circulation",
+        "victime",
+        "victime autre que le conducteur",
+        "passager",
+        "passager également gardien du véhicule",
+        "indemnisation",
+        "exclusion",
+        "condition",
+        "gardien",
+        "gardien également passager"
+      ],
+      "files": [],
+      "titlesAndSummaries": [],
+      "particularInterest": false
+    },
+    {
+      "score": 0.9488486605948225,
+      "highlights": {
+        "text": [
+          "le moyen unique qui est recevable\nVu l'article 3 du code civil\nAttendu qu'à la suite d'un <em>accident</em>",
+          "a soutenu que les indemnités journalières versées par l'assureur au titre d'un contrat d'assurance <em>accident</em>",
+          "l'arrêt retient que\" la LAA\" ne prévoit pas de subrogation pour les prestations au titre de l'assurance <em>accident</em>",
+          "d'appel n'a pas donné de base légale à sa décision au regard du texte susvis\nPAR CES MOTIFS\n<em>CASSE</em>",
+          "le présent arrêt sera transmis pour être transcrit en marge ou à la suite de l'arrêt partiellement <em>cassé</em>"
+        ]
+      },
+      "id": "6079535b9ba5988459c49189",
+      "jurisdiction": "cc",
+      "chamber": "civ1",
+      "number": "06-19.936",
+      "numbers": [
+        "06-19.936"
+      ],
+      "ecli": "ECLI:FR:CCASS:2008:C100197",
+      "publication": [
+        "b"
+      ],
+      "decision_date": "2008-02-20",
+      "solution": "cassation",
+      "type": "arret",
+      "summary": "Prive sa décision de base légale au regard de l'article 3 du code civil, la cour d'appel qui ne précise pas les dispositions de la loi étrangère sur laquelle elle se fonde et ne s'explique pas sur la loi dont elle fait application, à savoir la loi fédérale suisse sur l'assurance-accidents, alors que toutes les parties ont invoqué la loi fédérale suisse du 2 avril 1908 sur le contrat d'assurance applicable au litige en vertu de la convention suisse de sécurité sociale du 3 juillet 1975",
+      "themes": [
+        "conflit de lois",
+        "application de la loi étrangère",
+        "mise en oeuvre par le juge français",
+        "recherche de sa teneur",
+        "office du juge",
+        "etendue",
+        "détermination lois et reglements",
+        "loi étrangère"
+      ],
+      "files": [],
+      "titlesAndSummaries": [],
+      "particularInterest": false
+    },
+    {
+      "score": 0.9477096236331808,
+      "highlights": {
+        "text": [
+          "AYANT TROUVE LA MORT DANS UN <em>ACCIDENT</em> DE LA CIRCULATION, DAME VEUVE …..., MERE DU DEFUNT, AGISSANT TANT",
+          "ET L'A CONDAMNE\nQUE <em>CASSE</em>, CIVILEMENT RESPONSABLE, A PAYE LA SOMME DE 199300 FRANCS EN REPARATION",
+          "FAIT ULTERIEUREMENT ASSIGNER DAME VEUVE …..., CRISTOU, LA COMPAGNIE LE PATRIMOINE, SON ASSUREUR, ET <em>CASSE</em>",
+          "MONTANT DES CONDAMNATIONS POUR LESQUELLES ELLE-MEME A ETE CONDAMNEE A RELEVER ET GARANTIR CRISTOU, <em>CASSE</em>",
+          "ETAIT MORT DANS UN <em>ACCIDENT</em> DU TRAVAIL, QU'IL A ETE INDIQUE AU TRIBUNAL, POUR ETAYER LA DEMANDE DE DAME"
+        ]
+      },
+      "id": "6079411b9ba5988459c4061e",
+      "jurisdiction": "cc",
+      "chamber": "civ1",
+      "number": "72-11.251",
+      "numbers": [
+        "72-11.251"
+      ],
+      "publication": [
+        "b"
+      ],
+      "decision_date": "1973-05-08",
+      "solution": "rejet",
+      "type": "arret",
+      "summary": "AYANT RELEVE QUE L'AVOUE DE LA VEUVE DE LA VICTIME D'UN ACCIDENT MORTEL, S'IL S'ETAIT INFORME AVEC UN MINIMUM DE DILIGENCES, AURAIT DECOUVERT QUE LE MARI ETAIT MORT DANS UN ACCIDENT DU TRAVAIL ET QUE SA PROFESSION ENTRAINAIT AFFILIATION A LA SECURITE SOCIALE, LES JUGES DU FOND ONT PU ESTIMER QU'EN OMETTANT D'APPELER DANS L 'INSTANCE PENALE OU LA VEUVE S'ETAIT CONSTITUEE PARTIE CIVILE, LA CAISSE DE SECURITE SOCIALE, EN DECLARATION DE JUGEMENT COMMUN, L 'AVOUE, MANDATAIRE SALARIE DE SA CLIENTE ET PROFESSIONNEL DE LA PROCEDURE, AVAIT COMMIS UNE FAUTE GRAVE GENERATRICE DE RESPONSABILITE.",
+      "themes": [
+        "avoue",
+        "responsabilite",
+        "faute",
+        "omission de verifications necessaires",
+        "action en dommages",
+        "interets",
+        "accident du travail",
+        "caisse de securite sociale",
+        "defaut d'appel en declaration de jugement commun",
+        "securite sociale accident du travail",
+        "tiers responsable",
+        "jugement commun",
+        "recours de la victime",
+        "mise en cause des caisses",
+        "omission",
+        "responsabilite contractuelle",
+        "obligation de renseigner",
+        "action consecutive a un accident du travail",
+        "mise en cause de la caisse de securite sociale"
+      ],
+      "files": [],
+      "titlesAndSummaries": [],
+      "particularInterest": false
+    }
+  ]
+}

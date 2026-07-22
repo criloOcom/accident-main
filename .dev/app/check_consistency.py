@@ -16,7 +16,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 ACTES = REPO / "actes"
-ANNEXES = REPO / "actes" / "token" / "06_🗄️_Archives" / "annexes"
+ANNEXES = REPO / "actes" / "token" / "06_Archives" / "annexes"
 MEMORY = REPO / "memory"
 APP = REPO / "app"
 
@@ -62,7 +62,7 @@ def check_internal_links() -> None:
 
 # ── 2. Tokens connus ──────────────────────────────────────────────────
 def check_tokens() -> None:
-    token_map = Path("🧠_Memory/TOKEN MAP.md")
+    token_map = Path("Memory/TOKEN MAP.md")
     if not token_map.exists():
         err("TOKEN MAP.md introuvable — impossible de vérifier les tokens")
         return
@@ -81,21 +81,21 @@ def check_tokens() -> None:
         text = f.read_text(encoding="utf-8")
         for m in token_usage.finditer(text):
             token = m.group(1)
-            if token in ("🔗 Drive", "NOM À COMMUNIQUER", "DATE", "cliquez ici", "À compléter"):
+            if token in {"🔗 Drive", "NOM À COMMUNIQUER", "DATE", "cliquez ici", "À compléter"}:
                 continue
             if token.startswith("http") or token.startswith("#"):
                 continue
             # Skip Table des matières links (e.g. [Conclusion](#conclusion))
             if re.match(r'^[A-Z][a-zà-ü].*\]\(#[a-z]', line.strip()):
                 continue
-            if token in ("L. 124-3", "L. 223-22", "L. 225-251", "L. 237-2",
-                         "L. 421-3", "R. 123-2", "223-1"):
+            if token in {"L. 124-3", "L. 223-22", "L. 225-251", "L. 237-2",
+                         "L. 421-3", "R. 123-2", "223-1"}:
                 continue
             if not re.match(r'^[A-ZÀ-Ü][a-zà-ü\s\-\'\]]+$', token):
                 continue
             if len(token) < 4:
                 continue
-            if token not in known_tokens and token not in (
+            if token not in known_tokens and token not in {
                 "La Ville de l'Accident", "L'Adresse de la Victime",
                 "L'Adresse de l'Exploitation", "L'Adresse du Président",
                 "La Ville de Résidence de la Victime", "La Métropole Régionale",
@@ -103,7 +103,7 @@ def check_tokens() -> None:
                 "L'Identifiant Professionnel de la Victime",
                 "L'Identifiant de l'Exploitation",
                 "Adresse à compléter", "Centre de soins immédiats",
-            ):
+            }:
                 warn(f"{f.name} → token potentiel non documenté : [{token}]")
 
 

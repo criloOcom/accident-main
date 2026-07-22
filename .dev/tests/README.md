@@ -1,0 +1,19 @@
+---
+title: "🧪 Tests"
+description: "Tests unitaires, d'intégration et d'évaluation du projet (dossier .dev/tests)."
+type: readme
+---
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [🛠️ Dev](../README.md) › tests*
+<hr>
+<!-- /Breadcrumb -->
+
+# 🧪 Tests
+
+Ce dossier contient les tests automatisés du projet.
+
+- `unit/` — tests unitaires
+
+- `integration/` — tests d'intégration
+
+- `eval/` — jeux de données et métriques d'évaluation

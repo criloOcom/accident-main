@@ -6,7 +6,20 @@ __pycache__/
 .dev/.venv/
 node_modules/
 *.pdf
-!lois/pdfs/*.pdf
+!Lois/pdfs/*.pdf
 /tmp/
 .drive-token.json
 .piste-credentials.json
+venv/
+
+# Répertoires locaux — pas de place dans le dépôt
+.github/workflows/
+.obsidian/
+.opencode/
+.dev/.readme_backups/
+GEMINI.md
+
+
+# Backups automatiques (README generation)
+.dev/.readme_backups/
+.pytest_cache/

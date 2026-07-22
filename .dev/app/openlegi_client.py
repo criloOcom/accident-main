@@ -5,11 +5,22 @@ for cross-checking articles, codes, and jurisprudence citations.
 """
 
 import json
+import os
 import time
 from dataclasses import dataclass, field
 from typing import Any
 
 import requests
+
+def _get_openlegi_token() -> str | None:
+    try:
+        from souverain import get_secret
+        val = get_secret("OPENLEGI_TOKEN")
+        if val:
+            return val
+    except Exception:
+        pass
+    return os.environ.get("OPENLEGI_TOKEN")
 
 
 @dataclass
@@ -38,7 +49,7 @@ class OpenLegiClient:
         service: str = SERVICE_LEGIFRANCE,
         timeout: int = 15,
     ):
-        self.token = token or "1be2ac2e760a73c52465c84e8b5b18f995dca88253e4df427dc223b63021ebd4"
+        self.token = token or _get_openlegi_token()
         self.endpoint = f"{self.BASE_URL}/{service}/mcp"
         self.timeout = timeout
         self.session = requests.Session()

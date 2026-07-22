@@ -142,14 +142,14 @@ class OfflineCache:
                 
                 # Check if expired
                 try:
-                    with open(filepath, "r") as f:
+                    with open(filepath, "r", encoding="utf-8") as f:
                         cache_entry = json.load(f)
                     timestamp = cache_entry.get("timestamp", 0)
                     ttl = cache_entry.get("ttl", 86400)
                     if time.time() - timestamp > ttl:
                         expired_files += 1
-                except:
-                    pass
+                except Exception as e:
+                    logger.warning(f"Error reading cache file {filepath} for stats: {e}")
         
         return {
             "total_files": total_files,
