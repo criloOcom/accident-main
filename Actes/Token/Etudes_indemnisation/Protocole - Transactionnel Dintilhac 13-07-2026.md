@@ -17,8 +17,8 @@ statut: brouillon
 
 **ENTRE LES SOUSSIGNÉS :**
 
-1. **M. [**[La Victime]**]((../../../Memory/Tokens/token-victime-nom-complet.md))**, né le [Date de Naissance de la Victime](../../../Memory/STRICT%20VARIABLES.md), demeurant au [**[Adresse de la Victime]**]((../../../Memory/Tokens/token-victime-adresse.md)),
-   Assisté de **Me [**[L'Avocat de la Victime]**]((../../../Memory/Tokens/token-victime-avocat-nom.md))**, Avocat au Barreau de [Barreau Avocat Victime](../../../Memory/STRICT%20VARIABLES.md),
+1. **M. [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md), né le [**[Date de Naissance de la Victime]**](../../../Memory/Tokens/token-victime-adresse.md),
+   Assisté de **Me [**[L'Avocat de la Victime]**](../../../Memory/Tokens/token-victime-avocat-nom.md), Avocat au Barreau de [Barreau Avocat Victime](../../../Memory/STRICT%20VARIABLES.md),
 
    *Ci-après désigné « la Victime »,*
 
@@ -26,7 +26,7 @@ statut: brouillon
 
 **ET :**
 
-2. **La société [**[L'Exploitant]**]((../../../Memory/Tokens/token-exploitation-raison-sociale.md))**, SAS au capital de [Capital Exploitant](../../../Memory/STRICT%20VARIABLES.md), immatriculée au RCS de [RCS Ville Exploitant](../../../Memory/STRICT%20VARIABLES.md) sous le numéro [Siret Exploitant](../../../Memory/STRICT%20VARIABLES.md), dont le siège social est sis [**[Adresse Exploitant]**]((../../../Memory/Tokens/token-exploitation-adresse.md)), prise en la personne de son représentant légal en exercice,
+2. **La société [**[L'Exploitant]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md), SAS au capital de [**[Capital Exploitant]**](../../../Memory/Tokens/token-exploitation-adresse.md), prise en la personne de son représentant légal en exercice,
    Assistée de son assureur responsabilité civile, **la compagnie [Assureur RC Exploitant](../../../Memory/STRICT%20VARIABLES.md)**, prise en son agence de [Ville Agence Assureur RC](../../../Memory/STRICT%20VARIABLES.md) sous le numéro de police [Numéro Contrat RC Exploitant](../../../Memory/STRICT%20VARIABLES.md),
 
    *Ci-après désignés collectivement « l'Exploitant »,*
@@ -36,9 +36,9 @@ statut: brouillon
 *Ci-après désignées individuellement « la Partie » et collectivement « les Parties ».*
 ### I.1 — PRÉAMBULE & CONTEXTE FACTUEL
 
-Le **[Date de l'Accident](../../../Memory/STRICT%20VARIABLES.md)**, M. [**[La Victime]**]((../../../Memory/Tokens/token-victime-nom-complet.md)) a été victime d'un accident corporel grave alors qu'il se trouvait dans les locaux d'exploitation commerciale de la société [**[L'Exploitant]**]((../../../Memory/Tokens/token-exploitation-raison-sociale.md)) situés au [**[Adresse Exploitant]**]((../../../Memory/Tokens/token-exploitation-adresse.md)).
+Le [**[Date de l'Accident]**](../../../Memory/Tokens/token-victime-nom-complet.md) a été victime d'un accident corporel grave alors qu'il se trouvait dans les locaux d'exploitation commerciale de la société [**[L'Exploitant]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) situés au [**[Adresse Exploitant]**](../../../Memory/Tokens/token-exploitation-adresse.md).
 
-M. [**[La Victime]**]((../../../Memory/Tokens/token-victime-nom-complet.md)) a subi l'effondrement brutal d'une vasque suspendue en céramique défectueuse, lui occasionnant des lésions cutanées, tendineuses et nerveuses majeures à la **main droite (sa main dominante)**, ayant nécessité une intervention chirurgicale lourde en urgence (micro-chirurgie nerveuse et chirurgie orthopédique de reconstruction des tendons). Cet accident a entraîné un [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de **55 jours**, ainsi que des séquelles neuropathiques douloureuses persistantes empêchant l'exercice normal de sa profession d'informaticien indépendant (développeur/codeur).
+M. [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) a subi l'effondrement brutal d'une vasque suspendue en céramique défectueuse, lui occasionnant des lésions cutanées, tendineuses et nerveuses majeures à la **main droite (sa main dominante)**, ayant nécessité une intervention chirurgicale lourde en urgence (micro-chirurgie nerveuse et chirurgie orthopédique de reconstruction des tendons). Cet accident a entraîné un [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de **55 jours**, ainsi que des séquelles neuropathiques douloureuses persistantes empêchant l'exercice normal de sa profession d'informaticien indépendant (développeur/codeur).
 
 Une procédure en référé-provision (fondement de l'article 835 alinéa 2 du Code de procédure civile) a été engagée par la Victime devant le Président du Tribunal judiciaire de Foix (audience fixée au **31 juillet 2026**).
 
@@ -48,7 +48,7 @@ Afin de prévenir ou de mettre fin à tout litige judiciaire afférent à l'inde
 
 ### I.2 — ARTICLE 1 — PRINCIPE DU RÈGLEMENT ET RECONNAISSANCE DE RESPONSABILITÉ
 
-La société [**[L'Exploitant]**]((../../../Memory/Tokens/token-exploitation-raison-sociale.md)) (et par délégation son assureur la compagnie [Assureur RC Exploitant](../../../Memory/STRICT%20VARIABLES.md)) reconnaît son entière et exclusive responsabilité dans la survenance du sinistre du [Date de l'Accident](../../../Memory/STRICT%20VARIABLES.md) sur le fondement de la responsabilité du fait des choses que l'on a sous sa garde (article 1242 alinéa 1er du Code civil).
+La société [**[L'Exploitant]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (et par délégation son assureur la compagnie [Assureur RC Exploitant](../../../Memory/STRICT%20VARIABLES.md) reconnaît son entière et exclusive responsabilité dans la survenance du sinistre du [Date de l'Accident](../../../Memory/STRICT%20VARIABLES.md) sur le fondement de la responsabilité du fait des choses que l'on a sous sa garde (article 1242 alinéa 1er du Code civil).
 
 En conséquence, l'indemnisation intégrale des préjudices corporels subis par la Victime s'effectuera en droit commun, sans aucune réduction de son droit à indemnisation.
 
@@ -62,9 +62,9 @@ Les Parties conviennent de se référer, pour l'évaluation et la liquidation am
 
 ### I.4 — ARTICLE 3 — ACCORD SUR LE VERSEMENT D'UNE PROVISION INDEMNITAIRE IMMÉDIATE
 
-À titre de règlement provisionnel immédiat à valoir sur la liquidation définitive des préjudices corporels, et dans l'attente de l'expertise médicale d'évaluation finale après consolidation, la compagnie [Assureur RC Exploitant](../../../Memory/STRICT%20VARIABLES.md) s'engage à verser à M. [**[La Victime]**]((../../../Memory/Tokens/token-victime-nom-complet.md)) la somme de **[**[Finance Provision Référé]**]((../../../Memory/Tokens/token-finance-provision-refere.md))**.
+À titre de règlement provisionnel immédiat à valoir sur la liquidation définitive des préjudices corporels, et dans l'attente de l'expertise médicale d'évaluation finale après consolidation, la compagnie [**[Assureur RC Exploitant]**](../../../Memory/Tokens/token-victime-nom-complet.md) la somme de [**[Finance Provision Référé]**](../../../Memory/Tokens/token-finance-provision-refere.md).
 
-Ce versement interviendra par virement bancaire sur le compte CARPA de Me [**[L'Avocat de la Victime]**]((../../../Memory/Tokens/token-victime-avocat-nom.md)) dans un délai maximal de **quinze (15) jours** à compter de la signature des présentes par l'ensemble des Parties.
+Ce versement interviendra par virement bancaire sur le compte CARPA de Me [**[L'Avocat de la Victime]**](../../../Memory/Tokens/token-victime-avocat-nom.md) dans un délai maximal de **quinze (15) jours** à compter de la signature des présentes par l'ensemble des Parties.
 
 ### I.5 — ARTICLE 4 — RECOURS DES TIERS PAYEURS & SOUMISSION AUX SOCIALES
 
@@ -89,8 +89,8 @@ En 3 exemplaires originaux.
 
 | Pour la Victime | Pour l'Exploitant |
 | :--- | :--- |
-| **M. [**[La Victime]**]((../../../Memory/Tokens/token-victime-nom-complet.md))** | **Le Représentant de [**[L'Exploitant]**]((../../../Memory/Tokens/token-exploitation-raison-sociale.md))** |
+| **M. [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) | **Le Représentant de [**[L'Exploitant]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) |
 | *(Signature précédée de la mention manuscrite « Bon pour transaction »)* | *(Signature précédée de la mention manuscrite « Bon pour transaction »)* |
 | | |
-| **Me [**[L'Avocat de la Victime]**]((../../../Memory/Tokens/token-victime-avocat-nom.md))** | **La Compagnie [Assureur RC Exploitant](../../../Memory/STRICT%20VARIABLES.md)** |
+| **Me [**[L'Avocat de la Victime]**](../../../Memory/Tokens/token-victime-avocat-nom.md) | **La Compagnie [Assureur RC Exploitant](../../../Memory/STRICT%20VARIABLES.md)** |
 | *(Pour assistance et visa d'avocat)* | *(Pour acceptation de la garantie et du règlement)* |

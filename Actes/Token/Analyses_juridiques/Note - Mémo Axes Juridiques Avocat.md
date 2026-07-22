@@ -14,7 +14,7 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 
 # MÉMO AXES JURIDIQUES
 <hr><hr>
-## Pour l'avocat — Accident main 29 mai 2026 — Victime : **[**[La Victime]**]((../../../Memory/Tokens/token-victime-nom-complet.md))**
+## Pour l'avocat — Accident main 29 mai 2026 — Victime : [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md)
 
 <hr><hr>
 
@@ -22,11 +22,11 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 
 | Article | Usage |
 |---------|-------|
-| **C. pén. art. 222-20** | Blessures involontaires avec ITT ≤ 3 mois (notre cas : 1 jour ITT pénale, 15 jours AT, 55 jours [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)) |
+| **C. pén. art. 222-20** | Blessures involontaires avec ITT ≤ 3 mois (notre cas : 1 jour ITT pénale, 15 jours AT, 55 jours [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) |
 | **C. pén. art. 121-3** | Principe de la responsabilité pénale — faute simple suffit (imprudence, négligence, manquement obligation sécurité) |
 | **C. pén. art. 223-1** | Mise en danger délibérée d'autrui — bac déjà brisé maintenu en service dans un ERP (condition : violation délibérée d'une obligation de sécurité) |
 
-**Cibles :** **[**[Le Préposé de l'Exploitation]**]((../../../Memory/Tokens/token-exploitation-prepose-nom.md))** (tél. [**[Le Téléphone du Préposé]**](../../../Memory/Tokens/token-exploitation-prepose-telephone.md)) (manœuvre dangereuse) + [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (matériel dangereux maintenu en service)
+**Cibles :** [**[Le Préposé de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../Memory/Tokens/token-exploitation-prepose-telephone.md) (manœuvre dangereuse) + [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (matériel dangereux maintenu en service)
 
 <hr><hr>
 
@@ -35,10 +35,10 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 | Article | Usage |
 |---------|-------|
 | **C. civ. art. 1242 al. 1** | Responsabilité du fait des choses sous garde — présomption de responsabilité du gardien (bac à shampoing = instrument du dommage) — arrêts fondateurs (Cass. ass. plén. 9 mai 1984 - arrêt Desmares ; ch. mixte 28 mars 1997) |
-| **C. civ. art. 1242 al. 5** | Responsabilité du commettant du fait de ses préposés — [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) responsable des fautes du coiffeur |
+| **C. civ. art. 1242 al. 5** | Responsabilité du commettant du fait de ses préposés — [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) responsable des fautes du coiffeur |
 | **C. civ. art. 1240** | Principe général de responsabilité pour faute |
 
-**Gardien identifié :** [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SAS) — exploitant au 29/05/2026
+**Gardien identifié :** [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SAS) — exploitant au 29/05/2026
 
 <hr><hr>
 
@@ -50,7 +50,7 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 | **Cass. Com. 20 mai 2003 n°99-17.092 (arrêt SATI)** | Principe : faute intentionnelle d'une particulière gravité = faute détachable. Peut constituer une application en cas d'assurance légalement obligatoire. |
 | **C. com. art. L.210-6, L.237-2** | Responsabilité en cas de manquement, dissolution |
 
-**Cibles :** **[**[La Directrice Générale de l'Exploitation]**]((../../../Memory/Tokens/token-exploitation-dg-nom.md))** (DG commune aux 2 sociétés), [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) (président [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md))
+**Cibles :** [**[La Directrice Générale de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-dg-nom.md) (DG commune aux 2 sociétés), [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) (président [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
 <hr><hr>
 

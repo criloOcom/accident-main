@@ -23,13 +23,13 @@ jx: J+53
 <hr>
 <!-- /Breadcrumb -->
 
-> **Contexte** : Accident de la main survenu le 29 mai 2026 dans un salon de coiffure (vasque céramique défectueuse ayant basculé). La SAS exploitante ([**[L'Exploitant du Commerce (La SAS)]**]((../../../Memory/Tokens/token-exploitation-raison-sociale.md)), capital ~5 000 €) est assurée, mais [**[Le Président de l'Exploitation]**]((../../../Memory/Tokens/token-exploitation-president-nom.md)) dissimule l'identité de l'assureur. Procédure en référé sur l'article 145 CPC en cours pour lever cette information. Objectif : action directe contre l'assureur RC pour obtenir une provision.
+> **Contexte** : Accident de la main survenu le 29 mai 2026 dans un salon de coiffure (vasque céramique défectueuse ayant basculé). La SAS exploitante ([**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md), capital ~5 000 €) est assurée, mais [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) dissimule l'identité de l'assureur. Procédure en référé sur l'article 145 CPC en cours pour lever cette information. Objectif : action directe contre l'assureur RC pour obtenir une provision.
 
 # NOTE — PROCÉDURE ACTION DIRECTE<br>ASSURANCE — ART. L.124-3 C. ASSUR.
 <hr><hr>
 ## I — OBJET ET CHAMP DE LA NOTE
 
-La présente note a pour objet d'analyser les conditions, la prescription et la stratégie procédurale de l'action directe que **[**[La Victime]**]((../../../Memory/Tokens/token-victime-nom-complet.md))** peut exercer contre l'assureur de responsabilité civile de la SAS exploitant le salon de coiffure, sur le fondement de l'article L.124-3 du Code des assurances.
+La présente note a pour objet d'analyser les conditions, la prescription et la stratégie procédurale de l'action directe que [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) peut exercer contre l'assureur de responsabilité civile de la SAS exploitant le salon de coiffure, sur le fondement de l'article L.124-3 du Code des assurances.
 
 Elle s'inscrit dans le cadre d'une procédure en deux temps :
 
@@ -110,7 +110,7 @@ Il est impératif de ne pas confondre :
 > [CA Versailles, 2025, n°22/01019](https://www.doctrine.fr/) <br>
 > **Cour d'appel de Versailles**
 
-**Dans notre dossier :** L'accident étant survenu le 29 mai 2026, et [**[La Victime]**]((../../../Memory/Tokens/token-victime-nom-complet.md)) n'étant pas encore consolidée, la prescription court à compter de la date de consolidation. L'assignation en référé sur l'article 145 CPC interrompt la prescription (art. 2241 C. civ.). Le délai pour agir est donc très large, mais il convient d'agir sans délai pour éviter tout débat dilatoire.
+**Dans notre dossier :** L'accident étant survenu le 29 mai 2026, et [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) n'étant pas encore consolidée, la prescription court à compter de la date de consolidation. L'assignation en référé sur l'article 145 CPC interrompt la prescription (art. 2241 C. civ.). Le délai pour agir est donc très large, mais il convient d'agir sans délai pour éviter tout débat dilatoire.
 <hr><hr>
 ## IV — CONDITIONS DE MISE EN ŒUVRE DE L'ACTION DIRECTE
 
@@ -118,9 +118,9 @@ L'action directe contre l'assureur suppose la réunion de quatre conditions cumu
 
 ### IV.1 — Existence d'une assurance RC en vigueur au jour du sinistre
 
-La condition première est que la SAS exploitante ([**[L'Exploitant du Commerce (La SAS)]**]((../../../Memory/Tokens/token-exploitation-raison-sociale.md))) soit titulaire d'un contrat d'assurance de responsabilité civile professionnelle (RC Pro) en vigueur le 29 mai 2026. En tant qu'ERP recevant du public (salon de coiffure — activités de soins esthétiques), cette assurance est obligatoire en application de l'article L.1142-2 du Code de la santé publique pour les activités de soins, et en tout état de cause nécessaire à l'exploitation commerciale.
+La condition première est que la SAS exploitante ([**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) soit titulaire d'un contrat d'assurance de responsabilité civile professionnelle (RC Pro) en vigueur le 29 mai 2026. En tant qu'ERP recevant du public (salon de coiffure — activités de soins esthétiques), cette assurance est obligatoire en application de l'article L.1142-2 du Code de la santé publique pour les activités de soins, et en tout état de cause nécessaire à l'exploitation commerciale.
 
-L'obstacle actuel est le refus de [**[Le Président de l'Exploitation]**]((../../../Memory/Tokens/token-exploitation-president-nom.md)) de communiquer les coordonnées de l'assureur. Cette rétention d'information est abusive et constitue un manquement à l'obligation de loyauté dans la procédure.
+L'obstacle actuel est le refus de [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) de communiquer les coordonnées de l'assureur. Cette rétention d'information est abusive et constitue un manquement à l'obligation de loyauté dans la procédure.
 
 ### IV.2 — Droit propre de la victime
 
@@ -142,11 +142,11 @@ L'action directe suppose que la responsabilité de l'assuré soit engagée. Dans
 
 - **Responsabilité du fait des choses** (art. 1242 al.1er C. civ.) : la vasque en céramique, en tant que chose, a été l'instrument du dommage. La présomption de responsabilité pèse sur le gardien (la SAS exploitante).
 
-- **Obligation de sécurité de l'ERP** : l'établissement recevant du public est tenu d'une obligation de moyens renforcée en matière de sécurité ([**TJ Nanterre 2025, n°19/08999**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ%20Nanterre%2019-08999.md)).
+- **Obligation de sécurité de l'ERP** : l'établissement recevant du public est tenu d'une obligation de moyens renforcée en matière de sécurité ([**TJ Nanterre 2025, n°19/08999**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ%20Nanterre%2019-08999.md).
 
 - **Défaut de surveillance et manquement du préposé** : le préposé qui a manipulé la vasque de manière imprégnante engage la responsabilité du commettant (art. 1242 al.5 C. civ.).
 
-- **Défaut d'entretien de l'équipement** ([**CA Toulouse 2013, n°11/03512**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA%20Toulouse%2011-03512.md)).
+- **Défaut d'entretien de l'équipement** ([**CA Toulouse 2013, n°11/03512**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA%20Toulouse%2011-03512.md).
 
 > *« L'exploitant d'un ERP est tenu d'une obligation de sécurité envers ses clients. Le défaut de signalisation, le mauvais entretien des lieux ou l'absence de dispositifs de prévention constituent des manquements engageant sa responsabilité. »* <br>
 > [CA Toulouse, 5 décembre 2013, n°11/03512](https://www.doctrine.fr/) <br>
@@ -158,7 +158,7 @@ Pour obtenir une **provision en référé** sur le fondement de l'article 835 CP
 <hr><hr>
 ## V — CONTENTIEUX SUR L'IDENTITÉ DE L'ASSUREUR<br>RÉFÉRÉ ART. 145 CPC
 
-L'obstacle principal à l'exercice de l'action directe est l'absence d'identification de l'assureur. [**[Le Président de l'Exploitation]**]((../../../Memory/Tokens/token-exploitation-president-nom.md)) refuse obstinément de communiquer les coordonnées de la compagnie d'assurance de la SAS, malgré les demandes réitérées de [**[La Victime]**]((../../../Memory/Tokens/token-victime-nom-complet.md)).
+L'obstacle principal à l'exercice de l'action directe est l'absence d'identification de l'assureur. [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) refuse obstinément de communiquer les coordonnées de la compagnie d'assurance de la SAS, malgré les demandes réitérées de [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md).
 
 ### V.1 — Fondement de la demande : article 145 CPC
 
@@ -173,7 +173,7 @@ Le motif légitime est caractérisé par trois éléments cumulatifs :
 
 2. **L'impossibilité d'accéder à l'information** : le dirigeant refuse de communiquer l'identité de l'assureur malgré les demandes amiables écrites.
 
-3. **L'utilité de la mesure** : seule la communication des contrats d'assurance permettra à [**[La Victime]**]((../../../Memory/Tokens/token-victime-nom-complet.md)) d'exercer son action directe.
+3. **L'utilité de la mesure** : seule la communication des contrats d'assurance permettra à [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) d'exercer son action directe.
 
 ### V.3 — Mesures sollicitées
 
@@ -189,7 +189,7 @@ L'assignation en référé demande :
 
 ### V.4 — Risques et obstacles procéduraux
 
-- **Absence de comparution** : si [**[Le Président de l'Exploitation]**]((../../../Memory/Tokens/token-exploitation-president-nom.md)) ne comparait pas, l'ordonnance sera rendue par défaut mais son exécution sera difficile.
+- **Absence de comparution** : si [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) ne comparait pas, l'ordonnance sera rendue par défaut mais son exécution sera difficile.
 
 - **Opposition à la communication** : le dirigeant pourrait prétendre ne pas connaître l'assureur (défense peu crédible pour une société commerciale).
 
@@ -233,7 +233,7 @@ Cependant, la Cour de cassation a posé un principe d'exclusivité des régimes 
 
 - La CIVI pourrait alors être compétente pour les blessures involontaires (infraction pénale), sous réserve de remplir les conditions de l'article 706-3 CPP (préjudice corporel grave).
 
-- Par ailleurs, [**[La Victime]**]((../../../Memory/Tokens/token-victime-nom-complet.md)) pourrait se constituer partie civile dans le cadre d'une éventuelle procédure pénale.
+- Par ailleurs, [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) pourrait se constituer partie civile dans le cadre d'une éventuelle procédure pénale.
 <hr><hr>
 ## VII — RISQUES ET LIMITES
 
@@ -254,7 +254,7 @@ Si la SAS n'a pas déclaré le sinistre à son assureur, ce dernier pourrait lui
 
 ### VII.3 — Plafond de garantie
 
-Le contrat d'assurance peut prévoir un plafond de garantie (limite quantitative). Si le plafond est inférieur au préjudice, [**[La Victime]**]((../../../Memory/Tokens/token-victime-nom-complet.md)) ne pourra réclamer que dans la limite du plafond. Il conviendra d'examiner attentivement les conditions générales du contrat dès qu'elles seront communiquées.
+Le contrat d'assurance peut prévoir un plafond de garantie (limite quantitative). Si le plafond est inférieur au préjudice, [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) ne pourra réclamer que dans la limite du plafond. Il conviendra d'examiner attentivement les conditions générales du contrat dès qu'elles seront communiquées.
 
 ### VII.4 — Prescription quinquennale (art. 2224 C. civ.)
 
@@ -280,7 +280,7 @@ Si la SAS s'avère ne pas être assurée (hypothèse pessimiste mais envisageabl
 
 ### VII.6 — Dissimulation d'actifs et fraude
 
-Le comportement de [**[Le Président de l'Exploitation]**]((../../../Memory/Tokens/token-exploitation-president-nom.md)) (dissimulation de l'assureur, changement d'exploitant apparent) pourrait relever de manœuvres frauduleuses tendant à organiser l'insolvabilité. Ces faits constituent :
+Le comportement de [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) (dissimulation de l'assureur, changement d'exploitant apparent) pourrait relever de manœuvres frauduleuses tendant à organiser l'insolvabilité. Ces faits constituent :
 
 - Une violation de l'obligation de loyauté procédurale ;
 
@@ -352,13 +352,13 @@ Le comportement de [**[Le Président de l'Exploitation]**]((../../../Memory/Toke
 
 5. Écarter la déchéance pour déclaration tardive (inopposable à la victime).
 
-6. Présenter le préjudice : ITT de 55 jours, souffrances endurées, préjudice esthétique temporaire, incidence professionnelle (informaticien indépendant — cf. [**TJ Rennes 2026, n°20/05541**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ%20Rennes%2020-05541.md)), et post-consolidation à évaluer.
+6. Présenter le préjudice : ITT de 55 jours, souffrances endurées, préjudice esthétique temporaire, incidence professionnelle (informaticien indépendant — cf. [**TJ Rennes 2026, n°20/05541**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ%20Rennes%2020-05541.md), et post-consolidation à évaluer.
 
 7. Justifier le quantum de la provision (15 000 €) par référence aux barèmes et à la jurisprudence (cf. [**TJ Nanterre 2024, n°22/02447**](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ%20Nanterre%2022-02447.md) — souffrances 5/7).
 <hr><hr>
 ## IX — SYNTHÈSE ET RECOMMANDATIONS
 
-L'action directe contre l'assureur de [**[L'Exploitant du Commerce (La SAS)]**]((../../../Memory/Tokens/token-exploitation-raison-sociale.md)) sur le fondement de l'article L.124-3 du Code des assurances est juridiquement parfaitement fondée et constitue la voie procédurale principale pour obtenir l'indemnisation du préjudice corporel subi par [**[La Victime]**]((../../../Memory/Tokens/token-victime-nom-complet.md)).
+L'action directe contre l'assureur de [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) sur le fondement de l'article L.124-3 du Code des assurances est juridiquement parfaitement fondée et constitue la voie procédurale principale pour obtenir l'indemnisation du préjudice corporel subi par [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md).
 
 **Points forts :**
 - Droit propre de la victime, autonome et non affecté par les procédures collectives ;
@@ -382,7 +382,7 @@ L'action directe contre l'assureur de [**[L'Exploitant du Commerce (La SAS)]**](
 
 2. En parallèle, consulter l'ORIAS pour identifier l'assureur déclaré ;
 
-3. Une fois l'assureur identifié, lui adresser une mise en demeure formelle (modèle disponible dans la [**Note Droit Assurances**](Note%20-%20Droit%20des%20Assurances.md)) ;
+3. Une fois l'assureur identifié, lui adresser une mise en demeure formelle (modèle disponible dans la [**Note Droit Assurances**](Note%20-%20Droit%20des%20Assurances.md) ;
 
 4. En cas de silence ou refus, saisir le juge des référés pour obtenir une provision et une expertise médicale ;
 
