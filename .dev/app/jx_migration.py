@@ -261,6 +261,19 @@ def detect_references(old_basename, new_basename, all_md_files, dry_run=True):
     old_underscore = old_basename.replace(" ", "_").replace("✉️", "").replace("  ", " ")
     old_underscore = re.sub(r"_+", "_", old_underscore)
 
+    # ⚡ OPTIMIZATION: Compile regex patterns outside the file loop
+    compiled_patterns = []
+    for old_variant, new_variant in [
+        (old_enc, new_enc),
+        (old_basename, new_basename),
+    ]:
+        p1 = re.compile(r'(\]\()([^)]*?)' + re.escape(old_variant) + r'([^)]*?)(\))')
+        p2 = re.compile(r'(\()([^)]*?)' + re.escape(old_variant) + r'([^)]*?)(\))')
+        compiled_patterns.append((old_variant, new_variant, p1, p2))
+
+    bc_old = f"› {old_plain}"
+    bc_new = f"› {new_plain}"
+
     for fpath in all_md_files:
         try:
             content = fpath.read_text(encoding="utf-8")
@@ -271,42 +284,35 @@ def detect_references(old_basename, new_basename, all_md_files, dry_run=True):
         if fpath.name == ".gitkeep":
             continue
 
+        # ⚡ OPTIMIZATION: Fast path to skip files without any variants
+        needs_processing = False
+        if bc_old in content:
+            needs_processing = True
+        else:
+            for old_variant, _, _, _ in compiled_patterns:
+                if old_variant in content:
+                    needs_processing = True
+                    break
+
+        if not needs_processing:
+            continue
+
         modified = False
         new_content = content
 
         # Pattern 1: old_basename dans une URL de lien Markdown: ](...old_basename...)
         # ou ](...url_enc(old_basename)...)
-        for old_variant, new_variant in [
-            (old_enc, new_enc),
-            (old_basename, new_basename),
-        ]:
-            # Dans les URLs markdown: ](path) ou ](path "title")
-            pattern = re.compile(
-                r'(\]\()([^)]*?)' + re.escape(old_variant) + r'([^)]*?)(\))'
-            )
+        for old_variant, new_variant, pattern, pattern2 in compiled_patterns:
             new_content, count = pattern.subn(
-                lambda m: m.group(1) + m.group(2) + new_variant + m.group(3) + m.group(4),
+                lambda m, nv=new_variant: m.group(1) + m.group(2) + nv + m.group(3) + m.group(4),
                 new_content
             )
             if count > 0:
                 refs.append((fpath, "markdown_url", f"{old_variant} → {new_variant} ({count}x)"))
                 modified = True
 
-            # Dans les URLs markdown sans crochet préfixe: (path/old)
-            # (attention aux faux positifs)
-            pattern2 = re.compile(
-                r'(\()([^)]*?)' + re.escape(old_variant) + r'([^)]*?)(\))'
-            )
-            new_content2, count2 = pattern2.subn(
-                lambda m: m.group(1) + m.group(2) + new_variant + m.group(3) + m.group(4),
-                new_content
-            )
-            if count2 > 0 and count2 > count:
-                # Seulement si plus de matchs que le pattern1 (évite double-count)
-                pass
-            # On utilise pattern2 aussi mais sans doubler
             new_content, count2 = pattern2.subn(
-                lambda m: m.group(1) + m.group(2) + new_variant + m.group(3) + m.group(4),
+                lambda m, nv=new_variant: m.group(1) + m.group(2) + nv + m.group(3) + m.group(4),
                 new_content
             )
             if count2 > 0:
@@ -317,8 +323,6 @@ def detect_references(old_basename, new_basename, all_md_files, dry_run=True):
         # Pattern: › old_plain (en fin de ligne ou avant un saut)
         # On cible la forme exacte telle qu'apparaissant après le dernier ›
         # Mais pour éviter les faux positifs, on cible spécifiquement les lignes de breadcrumb
-        bc_old = f"› {old_plain}"
-        bc_new = f"› {new_plain}"
         if bc_old in new_content:
             # Ne remplacer que dans les lignes breadcrumb
             lines = new_content.split("\n")
@@ -339,7 +343,6 @@ def detect_references(old_basename, new_basename, all_md_files, dry_run=True):
                 fpath.write_text(new_content, encoding="utf-8")
 
     return refs
-
 
 def flatten_refs(refs_by_file):
     """Aplatit les références pour le rapport."""

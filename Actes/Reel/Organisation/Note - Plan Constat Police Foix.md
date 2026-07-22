@@ -1,6 +1,6 @@
 ---
 title: "Plan : Constat par la Police Municipale vs Commissaire de Justice (Huissier)"
-description: "Ce plan analyse la possibilité juridique de demander au Maire de Foix d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à 22 Rue Lafaurie, 09000 Foix , et définit la marche"
+description: "Ce plan analyse la possibilité juridique de demander au Maire de [Foix](../../../Memory/Tokens/token-accident-ville.md) d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à [22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md) , et définit la marche"
 type: readme
 statut: brouillon
 reel_path: ../../Reel/Organisation/Note - Plan Constat Police Foix.md

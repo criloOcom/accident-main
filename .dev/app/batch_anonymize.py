@@ -33,19 +33,19 @@ REPLACEMENTS = [
     ("Grazide", "[La Victime]"),
     ("GRAZIDE", "[La Victime]"),
 
-    ("Mountasser SABIR", "[Le Président]"),
-    ("Mountasser Sabir", "[Le Président]"),
-    ("SABIR", "[Le Président]"),
-    ("Sabir", "[Le Président]"),
-    ("Catherine ANDISSAC", "[La Directrice Générale]"),
-    ("Catherine Andissac", "[La Directrice Générale]"),
-    ("ANDISSAC", "[La Directrice Générale]"),
-    ("Andissac", "[La Directrice Générale]"),
-    ("SAS LES MAUVAIS GARCONS", "[L'Exploitant SAS]"),
-    ("SAS LES MAUVAIS GARÇONS", "[L'Exploitant SAS]"),
-    ("LES MAUVAIS GARCONS", "[L'Exploitant SAS]"),
-    ("LES MAUVAIS GARÇONS", "[L'Exploitant SAS]"),
-
+    # --- Exploitation ---
+    ("SAS LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
+    ("SAS LES MAUVAIS GARÇONS", "[L'Exploitant du Commerce (La SAS)]"),
+    ("LES MAUVAIS GARCONS", "[L'Exploitant du Commerce (La SAS)]"),
+    ("LES MAUVAIS GARÇONS", "[L'Exploitant du Commerce (La SAS)]"),
+    ("Mountasser SABIR", "[Le Président de la SAS]"),
+    ("Mountasser Sabir", "[Le Président de la SAS]"),
+    ("SABIR", "[Le Président de la SAS]"),
+    ("Sabir", "[Le Président de la SAS]"),
+    ("Catherine ANDISSAC", "[La Directrice Générale de la SAS]"),
+    ("Catherine Andissac", "[La Directrice Générale de la SAS]"),
+    ("ANDISSAC", "[La Directrice Générale de la SAS]"),
+    ("Andissac", "[La Directrice Générale de la SAS]"),
 
     # --- Victim identifiers ---
     ("sebastien.grazide@gmail.com", "[L'Email de la Victime]"),

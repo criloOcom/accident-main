@@ -1,6 +1,6 @@
 ---
 title: "Note d'Analyse Juridique - Droit des Assurances"
-description: "La présente note détaille la stratégie et l'analyse en droit des assurances concernant le litige opposant Sébastien GRAZIDE à SAS HB BARBER et ses dirigeants, suite à l'accident corporel survenu le 29 mai 2026. Elle aborde la"
+description: "La présente note détaille la stratégie et l'analyse en droit des assurances concernant le litige opposant [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) à [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md) et ses dirigeants, suite à l'accident corporel survenu le 29 mai 2026. Elle aborde la"
 type: analyse_juridique
 date: 2026-07-08
 tags:

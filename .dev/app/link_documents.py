@@ -325,6 +325,51 @@ def resolve_target(target_relpath: str, strate: str) -> str:
 # MAIN PROCESSOR
 # ══════════════════════════════════════════════════════════════════════════
 
+def process_document_mentions(content: str, link_spans: set, strate: str) -> tuple[str, set, list, int]:
+    changes = []
+    total_count = 0
+
+    for regex, target, label in DOC_MENTIONS:
+        resolved = resolve_target(target, strate)
+        def make_doc_repl(m, r=resolved):
+            if inside_any_link(m.start(), link_spans):
+                return m.group(0)
+            return build_doc_replacement(m, r)
+
+        new_content, count = regex.subn(make_doc_repl, content)
+        if count:
+            changes.append((label, count, "doc"))
+            total_count += count
+            content = new_content
+            link_spans = find_link_spans(content)
+
+    return content, link_spans, changes, total_count
+
+
+def process_token_mentions(content: str, link_spans: set) -> tuple[str, set, list, int]:
+    changes = []
+    total_count = 0
+    token_map_rel = TOKEN_MAP_PATH
+
+    for token_text, anchor in TOKEN_ANCHORS:
+        tregex = build_token_regex(token_text)
+        replacement = build_token_replacement(token_text, anchor, token_map_rel)
+
+        def make_token_repl(m):
+            if inside_any_link(m.start(), link_spans):
+                return m.group(0)
+            return replacement
+
+        new_content, count = tregex.subn(make_token_repl, content)
+        if count:
+            changes.append((f"Token: [{token_text}]", count, "token"))
+            total_count += count
+            content = new_content
+            link_spans = find_link_spans(content)
+
+    return content, link_spans, changes, total_count
+
+
 def process_file(filepath: Path, dry_run: bool, verbose: bool, strate: str = "token") -> dict:
     stats = {"doc_links": 0, "token_links": 0, "modified": False}
 
@@ -342,40 +387,18 @@ def process_file(filepath: Path, dry_run: bool, verbose: bool, strate: str = "to
     changes = []  # (type, old, new) for dry-run output
 
     # ── Phase 1: Document mentions ───────────────────────────────────────
-    for regex, target, label in DOC_MENTIONS:
-        resolved = resolve_target(target, strate)
-        def make_doc_repl(m, r=resolved):
-            if inside_any_link(m.start(), link_spans):
-                return m.group(0)
-            return build_doc_replacement(m, r)
-
-        new_content, count = regex.subn(make_doc_repl, content)
-        if count:
-            changes.append((label, count, "doc"))
-            stats["doc_links"] += count
-            stats["modified"] = True
-            content = new_content
-            link_spans = find_link_spans(content)
+    content, link_spans, doc_changes, doc_count = process_document_mentions(content, link_spans, strate)
+    changes.extend(doc_changes)
+    stats["doc_links"] += doc_count
+    if doc_count > 0:
+        stats["modified"] = True
 
     # ── Phase 2: Token → TOKEN MAP ───────────────────────────────────────
-    token_map_rel = TOKEN_MAP_PATH
-
-    for token_text, anchor in TOKEN_ANCHORS:
-        tregex = build_token_regex(token_text)
-        replacement = build_token_replacement(token_text, anchor, token_map_rel)
-
-        def make_token_repl(m):
-            if inside_any_link(m.start(), link_spans):
-                return m.group(0)
-            return replacement
-
-        new_content, count = tregex.subn(make_token_repl, content)
-        if count:
-            changes.append((f"Token: [{token_text}]", count, "token"))
-            stats["token_links"] += count
-            stats["modified"] = True
-            content = new_content
-            link_spans = find_link_spans(content)
+    content, link_spans, token_changes, token_count = process_token_mentions(content, link_spans)
+    changes.extend(token_changes)
+    stats["token_links"] += token_count
+    if token_count > 0:
+        stats["modified"] = True
 
     if not stats["modified"]:
         return stats

@@ -1,6 +1,6 @@
 ---
 title: "Note - Conservation Preuves Numériques"
-description: "Dans le cadre du litige opposant Sébastien GRAZIDE à SAS HB BARBER, il convient de se prémunir contre le risque de disparition, de dissimulation ou de destruction des preuves numériques attestant de l'existence et de l'exploi"
+description: "Dans le cadre du litige opposant [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) à [SAS HB BARBER](../../../Memory/Tokens/token-exploitation-raison-sociale.md), il convient de se prémunir contre le risque de disparition, de dissimulation ou de destruction des preuves numériques attestant de l'existence et de l'exploi"
 type: analyse_juridique
 date: 2026-07-09
 tags:
