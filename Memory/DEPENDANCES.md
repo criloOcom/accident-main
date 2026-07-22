@@ -26,6 +26,8 @@ graph TD
     %% Nœuds initiaux (Sources de preuves de base)
     P1["🚨 Plainte Initiale (J+4)<br>(Preuve de l'accident & faits)"]:::init
     CPAM["🏥 Dossier CPAM (J+5)<br>(Recours subrogatoire)"]:::init
+    INPI_INSEE["🏢 Fiches INPI/INSEE (J+3)<br>(Identification cibles)"]:::init
+    KINE["🖖 Suivi Kiné (J+32 à J+55)<br>(Soins continus)"]:::init
 
     %% Phase J+31 (Mises en demeure pré-contentieuses)
     MD_SAS["📜 MD SAS (J+31)<br>(Lancement délai 8j)"]:::md
@@ -52,9 +54,20 @@ graph TD
     REL_DIR["🔄 Relance Dirigeants (J+40)<br>(Délai MD SAS expiré)"]:::relance
     REL_CPAM["✉️ CPAM - Relance (J+37)<br>(Suivi ouverture dossier)"]:::relance
 
+    %% Phase J+51 / J+52 (Réitérations et Nouvelles Preuves)
+    MD_SAS_V3["📜 MD SAS V3 (J+51)<br>(Réitération suite échec)"]:::md
+    MD_PRES_V3["📜 MD Président V3 (J+51)<br>(Réitération suite échec)"]:::md
+    REQ_SAMU["☎️ Requête SAMU (J+51)<br>(Preuve appel 15)"]:::signalement
+    MD_PROP_V3["📜 MD Propriétaire V3 (J+52)<br>(Réitération suite échec)"]:::md
+    TEMOIN["👁️ Attestation Témoin (J+52)<br>(Corroboration des faits)"]:::init
+
     %% ──────────────────────────────────────────────────────────
     %% Dépendances logiques (Liens)
     %% ──────────────────────────────────────────────────────────
+
+    %% Identification de la cible est un préalable aux Mises en demeure
+    INPI_INSEE --> MD_SAS
+    INPI_INSEE --> MD_PRES
 
     %% La plainte J+4 est nécessaire pour prouver les infractions de base
     P1 --> PL_DEF
@@ -63,6 +76,7 @@ graph TD
     P1 --> SIG_SDIS
     P1 --> SIG_URSSAF
     P1 --> SIG_IT
+    P1 --> REQ_SAMU
 
     %% Le dossier CPAM doit être ouvert pour y transmettre des pièces ou le relancer
     CPAM --> TR_CPAM
@@ -75,6 +89,11 @@ graph TD
     MD_PRES --> PL_DEF
     MD_PRES --> REL_DIR
 
+    %% Les réitérations J+51/J+52 font suite aux échecs ou retours J+31
+    MD_SAS --> MD_SAS_V3
+    MD_PRES --> MD_PRES_V3
+    MD_PROP --> MD_PROP_V3
+
     %% L'assignation en référé J+32 prouve l'existence du litige civil
     ASS_REF --> CONC_REF
     ASS_REF --> CPC_PC
@@ -84,14 +103,20 @@ graph TD
 
     %% La transmission CPAM permet de consolider les demandes en référé
     TR_CPAM --> CONC_REF
+
+    %% Intégration des nouvelles preuves (Soins continus, Témoignages, SAMU) pour consolider les dossiers
+    KINE --> CONC_REF
+    TEMOIN --> CONC_REF
+    TEMOIN --> CPC_PC
+    REQ_SAMU --> CONC_REF
 ```
 
 ## 📋 Détails des chaînes de dépendance
 
 1. **La Chaîne Référé Civil** :
 
-   - `MD SAS (J+31)` ➔ `Assignation Référé (J+32)` ➔ `Conclusions Référé (J+39)` (qui intègrent les pièces complémentaires de la CPAM).
-   - *Règle* : On ne peut pas assigner sans avoir d'abord mis en demeure la SAS. On ne peut pas déposer des conclusions sans avoir initié l'assignation.
+   - `Fiches INPI/INSEE (J+3)` ➔ `MD SAS (J+31)` ➔ `Assignation Référé (J+32)` ➔ `Conclusions Référé (J+39)` (qui intègrent les pièces complémentaires de la CPAM, Kiné, Témoin, etc.).
+   - *Règle* : L'identification juridique préalable de la SAS et de son dirigeant (INPI) est indispensable avant toute mise en demeure. On ne peut pas assigner sans avoir d'abord mis en demeure la SAS. On ne peut pas déposer des conclusions sans avoir initié l'assignation. Les réitérations de mises en demeure (`MD SAS V3`, J+51) et les nouvelles pièces (Témoignages, Soins continus) viennent consolider les demandes lors du référé.
 
 2. **La Chaîne Sécurité & Signalements ERP** :
 
@@ -100,5 +125,5 @@ graph TD
 
 3. **La Chaîne Pénale & Fraudes** :
 
-   - `Plainte Initiale (J+4)` ➔ `Plainte Défaut Assurance RC (J+32)` ➔ `Partie Civile - Constitution (J+38)`.
-   - *Règle* : La constitution de partie civile devant le doyen des juges d'instruction ou le tribunal nécessite d'avoir préalablement déposé une plainte de base.
+   - `Plainte Initiale (J+4)` ➔ `Plainte Défaut Assurance RC (J+32)` ➔ `Partie Civile - Constitution (J+38)` (appuyée par les témoignages J+52).
+   - *Règle* : La constitution de partie civile devant le doyen des juges d'instruction ou le tribunal nécessite d'avoir préalablement déposé une plainte de base. Le témoignage vient conforter la partie civile.
