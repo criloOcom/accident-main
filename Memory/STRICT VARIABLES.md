@@ -177,7 +177,7 @@ Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../Rapports/RAPPORT_AVOCAT_DINTILHAC
 
 ⚠ **Explication montants** : L'évaluation initiale (59 600 €) sous-évaluait plusieurs postes (SE, IP, DFP) et oubliait le DFT, le PEP, l'ATP, la DEP et les frais divers. L'évaluation Dintilhac (109 500 €) corrige ces lacunes — ultérieurement majorée de l'ATP (+2 000 €) et DEP (+3 000 €) après analyse. Le mémoire Glose (juillet 2026) propose une évaluation plus conservative (~45 000 €). Le compromis recommandé est ~85 000 €.
 
-⚠ **Recouvrement** : La SAS a un capital de 200 €. En cas d'insolvabilité, la voie principale est **FGTI/CIVI** (art. 706-3 CPP). Voir section FGTI dans 13 Responsabilites legales.md.
+⚠ **Recouvrement** : La SAS a un capital de 1 000 €. En cas d'insolvabilité, la voie principale est **FGTI/CIVI** (art. 706-3 CPP). Voir section FGTI dans 13 Responsabilites legales.md.
 
 ## Dates clés (⚠ précision absolue requise)
 - DATE_ACCIDENT : **29 mai 2026** (vendredi)
@@ -202,7 +202,7 @@ Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../Rapports/RAPPORT_AVOCAT_DINTILHAC
 
 - DOSSIER_CPAM : **31727387** (⚠ jamais 31713398 — obsolète)
 
-- CAPITAL_SOCIAL : 200 € (2 000 actions de 0,10 €)
+- CAPITAL_SOCIAL : 1 000 €
 
 - MAIN_ATTEINTE : Main droite uniquement — index droit (⚠ jamais 5e doigt/auriculaire)
 
@@ -273,7 +273,7 @@ Les tokens `[N° LRAR Exploitant]`, `[N° LRAR Directrice]`, `[N° LRAR Préside
 | Établissement SOS Main | `[**[L'Établissement SOS Main]**](../Memory/Tokens/token-hopital-sosmain-nom.md)` | |
 
 ## Codéfendeurs — Stratégie de mise en cause plurielle
-⚠ **Capital 200 € — risque majeur d'insolvabilité.** La SAS seule ne pourra probablement pas indemniser. **Les dirigeants (Président + DG) doivent être assignés PERSONNELLEMENT** comme codéfendeurs, in solidum avec la SAS.
+⚠ **Capital 1 000 € — risque majeur d'insolvabilité.** La SAS seule ne pourra probablement pas indemniser. **Les dirigeants (Président + DG) doivent être assignés PERSONNELLEMENT** comme codéfendeurs, in solidum avec la SAS.
 
 | Défendeur | Qualité | Fondement |
 |-----------|---------|-----------|
