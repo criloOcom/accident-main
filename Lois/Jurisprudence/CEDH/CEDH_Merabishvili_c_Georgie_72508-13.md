@@ -38,3 +38,5 @@ Cette décision fonde notre argumentation civile et pénale face à la fermeture
 ## III — SOURCE OFFICIELLE
 
 - [Consulter l'arrêt officiel sur HUDOC (Conseil de l'Europe)](https://hudoc.echr.coe.int/eng?i=001-179262)
+
+- **Note Légifrance :** *Absent de Légifrance — décision souveraine de la Grande Chambre consultable directement sur la base HUDOC du Conseil de l'Europe.*

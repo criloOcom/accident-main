@@ -37,3 +37,5 @@ Le standard de preuve devant la Cour repose sur un faisceau d'indices ou de pré
 ## III — SOURCE OFFICIELLE
 
 - [Consulter l'arrêt officiel sur HUDOC (Conseil de l'Europe)](https://hudoc.echr.coe.int/eng?i=001-183818)
+
+- **Note Légifrance :** *Absent de Légifrance — décision consultable directement sur la base HUDOC du Conseil de l'Europe.*

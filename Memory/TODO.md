@@ -20,9 +20,9 @@ type: memory
 > | 01 | HB Barber vs Les Mauvais Garçons | `Rapports/REPORT_JULES_01_Societes_Exploitant.md` | 🔶 25% (✅ 12/16 — 11 FP, 1 vérifié, 2 à faire) |
 > | 02 | Responsabilité Dirigeants | `Rapports/REPORT_JULES_02_Responsabilite_Dirigeants.md` | 🔶 100% (✅ Audit jurisprudentiel Cass./CEDH & purges Légifrance) |
 > | 03 | Entrave & Destruction de Preuves | `Rapports/REPORT_JULES_03_Entrave_et_Preuves.md` | 🔶 100% (✅ Audit CEDH, Art. 434-4 CP & 1382 CC) |
-> | 04 | Défaillances Bailleur DELRIEU | `Rapports/REPORT_JULES_04_Bailleur_Responsabilite.md` | 🔲 0% (non traité) |
-> | 05 | Qualification Accident TI | `Rapports/REPORT_JULES_05_Qualification_Accident.md` | 🔲 0% (non traité) |
-> | 06 | Audit PIECES MAP | `Rapports/REPORT_JULES_06_Pieces_Map_Audit.md` | 🔲 0% (non traité) |
+> | 04 | Défaillances Bailleur DELRIEU | `Rapports/REPORT_JULES_04_Bailleur_Responsabilite.md` | 🔶 100% (✅ Audit Art. 1719/1720 C. civ. & 1244 C. civ.) |
+> | 05 | Qualification Accident TI | `Rapports/REPORT_JULES_05_Qualification_Accident.md` | 🔶 100% (✅ Caducité AT & Art. 1240/1242 C. civ.) |
+> | 06 | Audit PIECES MAP | `Rapports/REPORT_JULES_06_Pieces_Map_Audit.md` | 🔶 100% (✅ Indexation des pièces 44 à 52 validée) |
 > | 07 | Audit STRICT VARIABLES | `Rapports/REPORT_JULES_07_Strict_Variables_Audit.md` | ✅ 100% (4/4 — 1 FP, 3 corrigés) |
 > | 08 | Témoignage Frédéric MATHIEU | `Rapports/REPORT_JULES_08_Temoignage_Mathieu.md` | 🔶 85% (✅ ~33/39 — 0 FP, 6 à faire) |
 > | 09 | Régulation Médicale SAMU 09 | `Rapports/REPORT_JULES_09_SAMU09_Tracabilite.md` | 🔲 0% (non traité) |

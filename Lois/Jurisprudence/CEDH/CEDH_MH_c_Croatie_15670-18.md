@@ -35,3 +35,5 @@ La CEDH juge que l'invocation par les autorités d'une "panne technique" ou d'un
 ## III — SOURCE OFFICIELLE
 
 - [Consulter l'arrêt officiel sur HUDOC (Conseil de l'Europe)](https://hudoc.echr.coe.int/eng?i=001-213685)
+
+- **Note Légifrance :** *Absent de Légifrance — décision consultable directement sur la base HUDOC du Conseil de l'Europe.*
