@@ -232,7 +232,7 @@ Ce tableau remplace toute version antérieure. La référence d'une pièce est s
 | 24 | Relance Police — suivi plainte + vidéos |
 | 25 | Relance CPAM — suivi dossier RCT |
 
-### Groupe G — Pièces complémentaires (pièces 26-43)
+### Groupe G — Pièces complémentaires (pièces 26-52)
 
 | Pièce | Intitulé | Provenance (ancien bordereau) |
 |-------|----------|------------------------------|
@@ -254,6 +254,15 @@ Ce tableau remplace toute version antérieure. La référence d'une pièce est s
 | 41 | Confirmation rendez-vous kiné (Doctolib) | Ancien 29 |
 | 42 | Mémo indemnités journalières CPAM | Ancien 30 |
 | 43 | Preuve de dépôt LRAR arrêt de travail | Ancien 31 |
+| 44 | Fiche identité INPI SAS HB Barber (01/06/2026) | Nouveau |
+| 45 | Séances de kinésithérapie (10 séances du 30/06 au 17/07) | Nouveau |
+| 46 | Demande de suivi Kiné (23/07/2026) | Nouveau |
+| 47 | LRAR Relance SAS Dirigeants (18/07/2026) | Nouveau |
+| 48 | LRAR Mise en demeure SAS HB-Barber (18/07/2026) | Nouveau |
+| 49 | LRAR Mise en demeure SAS Président (18/07/2026) | Nouveau |
+| 50 | RAR SAMU + Demande de communication d'enregistrement (18/07/2026) | Nouveau |
+| 51 | RAR Relance Bailleur (Romain DELRIEU) (19/07/2026) | Nouveau |
+| 52 | Attestation témoin oculaire — Frédéric MATHIEU (19/07/2026) | Nouveau |
 
 ---
 
