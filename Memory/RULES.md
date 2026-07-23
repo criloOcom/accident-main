@@ -768,4 +768,6 @@ Si une profession ou activité erronée est découverte dans un fichier :
 - **Aération et sauts de ligne d'en-tête (Shift+Entrée / Line Breaks)** :
   1. Au sein d'un même bloc (Expéditeur, Destinataire), utiliser des **retours à la ligne simples / sauts de ligne doux (Shift+Entrée)** (2 espaces en fin de ligne en Markdown) afin que le bloc conserve un interlignage compact d'adresse.
   2. Entre les différents blocs distincts (Expéditeur, Destinataire, Date, Objet), séparer par des sauts de paragraphe/ligne nets (`&nbsp;` en Markdown).
+- **Couleurs d'hyperliens par défaut** : Ne JAMAIS forcer de couleur personnalisée (ex. bleu forcé) sur les hyperliens. Laisser la couleur par défaut de Google Docs s'appliquer automatiquement lors de la création d'un lien.
+- **Notes de bas de page natives** : Utiliser exclusivement la fonctionnalité native de notes de bas de page de Google Docs (`createFootnote` avec segment dédié), et ne jamais créer de sections factices "Sources" en simple texte en bas de document.
 - **Conformité multi-agents** : Cette norme de secrétariat est obligatoire pour tout agent intervenant sur le dossier.
