@@ -50,7 +50,7 @@ Blagnac, le 5 juillet 2026
 <hr>
 Objet : Suite a votre message du 1er juin 2026 — Demande d'information sur les diligences Inspection du Travail et CODAF
 
-Ref : Votre courriel du 1er juin 2026
+Ref : [Votre courriel du 1er juin 2026](../../Preuves%20officielles/20260601_MAIL_Mairie/20260601-1615%20MAIL%20Foix%20MAIRIE%20AdjointAuMaire.pdf)
 <hr>
 
 Monsieur l'Adjoint au Maire,
