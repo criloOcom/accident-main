@@ -765,5 +765,7 @@ Si une profession ou activité erronée est découverte dans un fichier :
 ## #31 — NORMES DE SECRÉTARIAT ET DE TYPOGRAPHIE GOOGLE DOCS (RÈGLE PERMANENTE)
 
 - **Taille des titres de section majeurs** : La taille de police des titres majeurs est fixée à **16 pt** (en **gras**). Il est formellement interdit d'utiliser des polices démesurées (comme 26 pt ou plus).
-- **Aération et sauts de ligne d'en-tête** : Dans tous les courriers générés/injectés sur Google Docs, chaque bloc d'en-tête (Expéditeur en gras, Destinataire en gras, Date, Objet en gras) DOIT être séparé par un saut de paragraphe/ligne clair (utilisation explicite de `&nbsp;` lors de l'injection Markdown) pour garantir des espaces bien visibles à l'impression.
+- **Aération et sauts de ligne d'en-tête (Shift+Entrée / Line Breaks)** :
+  1. Au sein d'un même bloc (Expéditeur, Destinataire), utiliser des **retours à la ligne simples / sauts de ligne doux (Shift+Entrée)** (2 espaces en fin de ligne en Markdown) afin que le bloc conserve un interlignage compact d'adresse.
+  2. Entre les différents blocs distincts (Expéditeur, Destinataire, Date, Objet), séparer par des sauts de paragraphe/ligne nets (`&nbsp;` en Markdown).
 - **Conformité multi-agents** : Cette norme de secrétariat est obligatoire pour tout agent intervenant sur le dossier.
