@@ -30,11 +30,10 @@ CODE_ALIASES = {
 }
 def norm_code(raw):
     r = re.sub(r'\s+', ' ', raw.strip().lower()).rstrip('.')
-    best=None
     for k,v in CODE_ALIASES.items():
-        if (r.startswith(k) or k.startswith(r)) and len(r)>=6:
-            if best is None or len(k)>len(best[0]): best=(k,v)
-    return best[1] if best else None
+        if r == k or r.startswith(k):
+            return v
+    return None
 
 KEYWORDS = {
     "code civil": "Code civil",
@@ -45,7 +44,19 @@ KEYWORDS = {
     "code de commerce": "Code de commerce",
     "code de la santé publique": "Code de la santé publique",
     "code général des collectivités": "Code général des collectivités territoriales",
-    "code des relations entre le public": "Code des relations entre le public et l'administration",
+    "code des relations entre le public et l'administration": "Code des relations entre le public et l'administration",
+    "cpc": "Code de procédure civile",
+    "cpp": "Code de procédure pénale",
+    "c. pén": "Code pénal",
+    "c. civ": "Code civil",
+    "c. com": "Code de commerce",
+    "c. proc": "Code de procédure civile",
+    "c. soc": "Code de la sécurité sociale",
+    "c. trav": "Code du travail",
+    "crpa": "Code des relations entre le public et l'administration",
+    "csp": "Code de la santé publique",
+    "santé publique": "Code de la santé publique",
+    "santé": "Code de la santé publique",
 }
 
 ART = re.compile(

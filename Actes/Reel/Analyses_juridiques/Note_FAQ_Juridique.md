@@ -98,7 +98,7 @@ Non, ce refus est abusif et contraire au principe de loyauté. La victime dispos
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier.**
 
-Si le gérant fait obstruction, la victime peut obtenir du juge des référés (Art. 145 CPC) une injonction de communiquer l'attestation d'assurance sous astreinte financière quotidienne.
+Si le gérant fait obstruction, la victime peut obtenir du juge des référés (Art. 145[^n4] CPC) une injonction de communiquer l'attestation d'assurance sous astreinte financière quotidienne.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000518693](../../../Lois/Code/LEGIARTI0000518693.md)39) <br>
@@ -119,7 +119,7 @@ Le fait de cacher l'accident à son assureur ou de refuser de communiquer les co
 
 ## IV — STRATÉGIE JURIDIQUE ET RESPONSABILITÉS
 
-La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la SAS LES MAUVAIS GARCONS est engagée en tant que commettant du fait de son préposé, sur le fondement de l'article 1242 du Code civil[^n4], mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
+La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la SAS LES MAUVAIS GARCONS est engagée en tant que commettant du fait de son préposé, sur le fondement de l'article 1242 du Code civil[^n5], mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
 
 > *« Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »* <br>
 > [Article 1242](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000517860](../../../Lois/Code/LEGIARTI0000517860.md)00) <br>
@@ -167,7 +167,7 @@ La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jour
 
 Une étape cruciale est fixée au 12 novembre 2026 pour l'expertise médicale à l'UMJ de Toulouse, qui permettra de chiffrer définitivement les préjudices (actuellement estimés à **~90 000 €**).
 
-À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation (Article 2226 du Code civil[^n5]).
+À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation (Article 2226 du Code civil[^n6]).
 
 > *« L'action en responsabilité née d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices, se prescrit par dix ans à compter de la date de la consolidation du dommage corporel initial ou aggravé. »* <br>
 > [Article 2226](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000190172](../../../Lois/Code/LEGIARTI0000190172.md)59) <br>
@@ -203,21 +203,21 @@ De plus, l'action directe contre l'assureur (Art. L. 124-3 du Code des assurance
 
 [^n2]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
-    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
-    📚 Bibliothèque locale : [Article1240_CodeCivil](Lois/Code/Code_civil/Article1240_CodeCivil.md) ↩
+    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 
 [^n3]: > « Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine, ou qui diminuent tellement cet usage que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'il les avait connus. » <br>
     > **Code civil > Paragraphe 2 : De la garantie des défauts de la chose vendue.** <br>
-    > [Article 1641 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924)
-    📚 Bibliothèque locale : [Article_1641_CodeCivil](Lois/Code/Code_civil/Article_1641_CodeCivil.md) ↩
+    > [Article 1641 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924) ↩
 
-[^n4]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
+[^n4]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+    > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+
+[^n5]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
-    > [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
-    📚 Bibliothèque locale : [Article1242_CodeCivil](Lois/Code/Code_civil/Article1242_CodeCivil.md) ↩
+    > [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
 
-[^n5]: > « L'action en responsabilité née à raison d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices qui en résultent, se prescrit par dix ans à compter de la date de la consolidation du dommage initial ou aggravé. Toutefois, en cas de préjudice causé par des tortures ou des actes de barbarie, ou par des violences ou des agressions sexuelles commises contre un mineur, l'action en responsabilité civile est prescrite par vingt ans. » <br>
+[^n6]: > « L'action en responsabilité née à raison d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices qui en résultent, se prescrit par dix ans à compter de la date de la consolidation du dommage initial ou aggravé. Toutefois, en cas de préjudice causé par des tortures ou des actes de barbarie, ou par des violences ou des agressions sexuelles commises contre un mineur, l'action en responsabilité civile est prescrite par vingt ans. » <br>
     > **Code civil > Section 2 : De quelques délais et points de départ particuliers.** <br>
-    > [Article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259)
-    📚 Bibliothèque locale : [Article_2226_Code_Legifrance](Lois/Code/Code_civil/Article_2226_Code_Legifrance.md) ↩
+    > [Article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259) ↩
 <!-- /Source -->

@@ -100,7 +100,7 @@ sebastien.grazide@gmail.com
 - [✅] **Bénéficier de l'aide juridictionnelle pour une procédure**
 
 ### Nature de l'affaire
-Demande d'indemnisation pour **accident corporel** — responsabilité civile du fait des choses (Art. 1240 C. civ.) et obligation de sécurité (Art. L. 4121-1 C. trav.)
+Demande d'indemnisation pour **accident corporel** — responsabilité civile du fait des choses (Art. 1240[^n1] C. civ.) et obligation de sécurité (Art. L. 4121-1 C. trav.)
 <hr><hr>
 
 ### Objet principal
@@ -159,7 +159,7 @@ Le demandeur sollicite un **traitement accéléré** de sa demande d'AJ pour le 
 
 - [ ] **Courrier de motivation** (exposé circonstancié de la situation annexé au présent formulaire)
 
-- [ ] **Copie de la requête Art. 145 CPC** (si déjà déposée)
+- [ ] **Copie de la requête Art. 145[^n2] CPC** (si déjà déposée)
 <hr><hr>
 
 ## VI — OBSERVATIONS COMPLÉMENTAIRES
@@ -216,3 +216,17 @@ Avenue Paul Laffont, 09000 Foix
 - Site AJ en ligne : `www.justice.fr/aide-juridictionnelle`
 
 - Formulaire CERFA : `www.service-public.fr` → "Aide juridictionnelle"
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^n1]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+    > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
+    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+
+[^n2]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+    > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+<!-- /Source -->

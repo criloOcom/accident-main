@@ -102,7 +102,7 @@ Plusieurs procédures ont été engagées à ce jour :
 
 9. **Expertise médicale judiciaire** : rapport déposé le 29 mai 2027 (consolidation au 1er mars 2027, DFP 12 %, SE 4/7, IP majeure, total extra-patrimonial 49 231 €, fourchette globale 120 000 – 160 000 €)
 
-10. **Procédure de référé provision** (J+63) : assignation à jour fixe (art. 145 CPC), provision de 15 000 € sollicitée
+10. **Procédure de référé provision** (J+63) : assignation à jour fixe (art. 145[^n1] CPC), provision de 15 000 € sollicitée
 <hr><hr>
 
 ## IV — SIGNALEMENTS TRANSMIS
@@ -111,7 +111,7 @@ Il m'a été indiqué par la Mairie de Foix le 1er juin 2026 qu'un signalement a
 
 Je porte par ailleurs à votre connaissance les manquements suivants, constatés dans cet ERP :
 
-- Absence d'équipement d'accès en hauteur (escabeau) pour les interventions en hauteur (Articles R.4323-58 du Code du[^n1] travail)
+- Absence d'équipement d'accès en hauteur (escabeau) pour les interventions en hauteur (Articles R.4323-58 du Code du[^n2] travail)
 
 > *« Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. »* <br>
 > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) <br>
@@ -161,7 +161,7 @@ Sébastien GRAZIDE
 
 - **[Rapport d'expertise médicale](../../Preuves_officielles/20270529_Rapport_Expertise_Médicale.md)** — Expertise contradictoire du 29 mai 2027 (consolidation J+10 mois, DFP 12 %, SE 4/7)
 
-- **[Ordonnance de référé provision](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)** — Assignation à jour fixe, provision 15 000 € (art. 145 CPC)
+- **[Ordonnance de référé provision](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)** — Assignation à jour fixe, provision 15 000 € (art. 145[^n1] CPC)
 
 - **[Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]
 <!-- /PJ -->
@@ -171,8 +171,11 @@ Sébastien GRAZIDE
 
 ## Sources Législation
 
-[^n1]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
+[^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+    > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+
+[^n2]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
     > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.** <br>
-    > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
-    📚 Bibliothèque locale : [Article_R4323-58_CodeTravail](Lois/Code/Code_du_travail/Article_R4323-58_CodeTravail.md) ↩
+    > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) ↩
 <!-- /Source -->

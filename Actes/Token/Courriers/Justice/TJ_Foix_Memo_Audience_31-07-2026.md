@@ -76,7 +76,7 @@ destinataire: Avocat de la Victime
 | **Plainte initiale** | ✅ Déposée 2 juin 2026 — PV n°[**[N° PV Police]**](../../../../Memory/Tokens/token-pv-police-numero.md) |
 | **Erratum correction société** | ✅ Déposé le 31 juillet 2026 — joint au dossier |
 | **Demande AJ Totale** | ✅ Déposée le [date] — récépissé n°[à remplir] |
-| **Requête Art. 145 CPC** | 🔴 En attente désignation avocat |
+| **Requête Art. 145[^n1] CPC** | 🔴 En attente désignation avocat |
 | **Assignation Référé-Provision** | ✅ Déposée le [date] — audience 31 juillet |
 | **Mises en demeure LRAR** | ✅ Envoyées 29 juin 2026 (NPAI présumé) |
 
@@ -100,13 +100,13 @@ Le **[29 mai 2026]**, le préposé de l'établissement **[HB BARBER]** est mont�
 
 ### 3.2 — Responsabilité incontestable (30 s)
 
-- **[HB BARBER]** avait la **garde de la chose** (vasque en céramique) — Art. 1242 al. 1 C. civ.
+- **[HB BARBER]** avait la **garde de la chose** (vasque en céramique) — Art. 1242[^n2] al. 1 C. civ.
 
 - La vasque a été **l'instrument du dommage** (basculement → section tendineuse)
 
 - Aucune **cause étrangère** exonératoire (pas de force majeure, pas de fait de la victime)
 
-- Absence de matériel de sécurité adapté (escabeau) — violation **Art. R. 4323-58 C. trav.**
+- Absence de matériel de sécurité adapté (escabeau) — violation **Art. R. 4323-58[^n3] C. trav.**
 
 **→ L'obligation n'est PAS sérieusement contestable** (Art. 835 al. 2 CPC)
 
@@ -170,3 +170,21 @@ La victime n'est pas consolidée. L'état séquellaire actuel (douleurs neuropat
 <hr><hr>
 
 *Document d'audience — à conserver avec les pièces le jour de l'audience*
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+    > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+
+[^n2]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
+    > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
+    > [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
+
+[^n3]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
+    > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.** <br>
+    > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) ↩
+<!-- /Source -->

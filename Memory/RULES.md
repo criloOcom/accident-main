@@ -797,7 +797,27 @@ Le Google Sheet **PJ** (`1cwb8L5fc7HqsAHP6IH32gSFwKRIdSztcYk1XmfbaYIg`) feuille 
 1. **Tout fichier créé dans Actes/Token/** DOIT avoir son uid et URL ajoutés dans le sheet (colonne G–H).
 2. **Tout fichier Reel généré** DOIT avoir sa ligne correspondante (même uid que Token, colonne J–K).
 3. **L'uid est unique** et identique pour Token et Reel d'un même document.
-4. **Les drive_id (colonne C/E)** sont optionnels. Un champ vide signifie que le document n'a pas encore de lien Google Drive.
-5. **Ne JAMAIS supposer la structure des colonnes** — toujours lire l'en-tête (ligne 2) et 3 lignes de données avant d'écrire dans le sheet.
+4. **Les drive_id (colonne C/E)** sont optionnels. Un champ vide signifie que le document n'a pas encore de lien- **Google Sheet PJ (Feuille `@`)** : Ne JAMAIS recopier les UIDs d'une colonne à l'autre (laisser vides les colonnes G ou J si l'utilisateur ne les a pas remplies). Ne JAMAIS altérer la colonne C (`ID Drive`). Toute intervention doit suivre strictement [Memory/GOOGLE_SHEET_PJ_PROTOCOL.md](GOOGLE_SHEET_PJ_PROTOCOL.md) (résolution exclusive des liens GitHub en B, H, K pour les UIDs déjà saisis).
+- **Google Sheets — RÈGLE ABSOLUE** : ne JAMAIS supposer la structure des colonnes. Avant d'écrire dans une feuille, **lis la ligne d'en-tête** et **3 lignes de données** pour valider le mapping exact. Supposer = cracher à la gueule de l'utilisateur.
 6. **Ne JAMAIS écrire dans le sheet** sans vérifier au préalable que l'uid n'y est pas déjà présent.
 7. Le fichier `CBEdW5mRW` (Police_Plainte_Complémentaire) a un uid présent en colonne G mais **sans drive_id dans son YAML** et sans ligne complète — ne pas dupliquer.
+
+## #33 — UID→YAML CROSS-REFERENCE — VÉRIFICATION OBLIGATOIRE AVANT ÉCRITURE SHEET
+
+### Principe
+Avant toute écriture d'URL ou d'uid dans le Sheet PJ, l'agent DOIT d'abord scanner les fichiers `.md` dans `Actes/Token/` pour extraire leur `uid:` YAML, et cross-référencer avec les lignes du sheet.
+
+### Protocole
+1. **Scanner** : Lire le YAML front matter de TOUS les fichiers `.md` dans `Actes/Token/` (récursif).
+2. **Extraire** : Pour chaque fichier, capturer la valeur `uid:`.
+3. **Mapper** : Construire la correspondance `uid → chemin_relatif_fichier`.
+4. **Cross-ref** : Pour chaque uid présent dans le sheet (colonnes G ou J), vérifier qu'il existe dans le mapping YAML.
+5. **Écrire** : N'écrire A–C (uid + URL + drive_id) que pour les uids confirmés existants.
+6. **Signaler** : Tout uid sheet sans fichier .md correspondant DOIT être signalé comme orphelin (marquer dans la colonne L ou commentaire).
+
+### Script outil
+`.dev/app/verify_sheet_urls.py` — extrait les uids de tous les fichiers Token et produit la liste des URLs GitHub correspondantes, à utiliser avant et après toute modification du sheet.
+
+### Cas particuliers (constaté)
+- Les lignes 282+ du sheet contiennent 119 uids pré-remplis en G–K dont **107 sont orphelins** (aucun fichier `.md` avec cet uid). Ces lignes sont des vestiges d'un index précédent — ne pas écrire A–C pour ces uids.
+- Les 12 uids valides dans cette zone (28BvPqLVz, 2EJvkmpmT, 2ZYi7VuiS, 33Ci3V5C2, 3F7kxsjHG, 3uWAc2Y38, 49rnkLCd5, 4WdjkXxL5, 5ijq4mw7b, MLE2ZEQAE, MmRsSGqvB, NGmmU6ELy) ont déjà A–C écrits.

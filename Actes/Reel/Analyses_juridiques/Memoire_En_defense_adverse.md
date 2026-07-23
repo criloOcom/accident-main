@@ -44,7 +44,7 @@ Or, une analyse rigoureuse des pièces du dossier démontre l'existence de conte
 La demanderesse allègue que l'accident aurait été causé par le basculement d'une vasque en céramique présentant une « cassure préexistante ». Cependant, **aucune preuve objective et irréfutable** n'est rapportée :
 
 #### II.1.a — Absence de constat d'huissier
-À ce jour, la victime n'a produit aucun procès-verbal de constat d'huissier démontrant l'état de la vasque. La simple évocation d'une requête (Article 145 CPC) n'établit nullement la preuve d'un vice inhérent à la chose.
+À ce jour, la victime n'a produit aucun procès-verbal de constat d'huissier démontrant l'état de la vasque. La simple évocation d'une requête (Article 145[^n1] CPC) n'établit nullement la preuve d'un vice inhérent à la chose.
 
 #### II.1.b — Absence de témoignages probants
 Les attestations Cerfa évoquées par la partie adverse ne sont, à ce stade, que de simples projets non signés (gabarits).
@@ -56,7 +56,7 @@ De plus, les certificats médicaux initiaux faisaient état d'une ITT de 1 jour,
 
 ### II.2 — La faute de la victime comme cause d'exonération
 
-La victime reconnaît elle-même avoir « tendu la main droite par réflexe » et avoir volontairement interagi avec la chose (le meuble). Cette intervention active, précipitée et inopportune de la victime constitue une faute d'imprudence au sens de l'article 1241 du Code civil[^n1].
+La victime reconnaît elle-même avoir « tendu la main droite par réflexe » et avoir volontairement interagi avec la chose (le meuble). Cette intervention active, précipitée et inopportune de la victime constitue une faute d'imprudence au sens de l'article 1241 du Code civil[^n2].
 
 > *« Chacun est responsable du dommage qu'il a causé non seulement par son fait, mais encore par sa négligence ou par son imprudence. »* <br>
 > [Article 1241 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000320415](../../../Lois/Code/LEGIARTI0000320415.md)71) <br>
@@ -116,7 +116,7 @@ Le juge des référés est le juge de l'évidence. En l'espèce :
 
 - L'évaluation des préjudices est prématurée (absence de consolidation) et largement surévaluée (DFP et IP infondés, Agrément sans preuve).
 
-L'obligation de SAS LES MAUVAIS GARCONS étant sérieusement contestable, la demande de provision de 15 000 € doit être rejetée en toutes ses dispositions. Tout au plus, si le juge ordonne une expertise médicale (Article 145 CPC), celle-ci devra se dérouler aux frais avancés de la demanderesse sans aucune provision financière préalable.
+L'obligation de SAS LES MAUVAIS GARCONS étant sérieusement contestable, la demande de provision de 15 000 € doit être rejetée en toutes ses dispositions. Tout au plus, si le juge ordonne une expertise médicale (Article 145[^n1] CPC), celle-ci devra se dérouler aux frais avancés de la demanderesse sans aucune provision financière préalable.
 
 Fait pour valoir ce que de droit.
 
@@ -125,7 +125,11 @@ Fait pour valoir ce que de droit.
 
 ## Sources Législation
 
-[^n1]: > « Chacun est responsable du dommage qu'il a causé non seulement par son fait, mais encore par sa négligence ou par son imprudence. » <br>
+[^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+    > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+
+[^n2]: > « Chacun est responsable du dommage qu'il a causé non seulement par son fait, mais encore par sa négligence ou par son imprudence. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
     > [Article 1241 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565) ↩
 <!-- /Source -->

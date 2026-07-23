@@ -120,7 +120,7 @@ Les procédures suivantes ont été engagées :
 - Fourchette globale tous postes : 120 000 – 160 000 €
 
 **5. Procédure de référé provision** (J+63)
-- Assignation à jour fixe devant le président du TJ de Foix (art. 145 CPC)
+- Assignation à jour fixe devant le président du TJ de Foix (art. 145[^n1] CPC)
 
 - Provision de 15 000 € sollicitée à valoir sur l'indemnisation définitive
 
@@ -146,7 +146,7 @@ En qualité de personne directement concernée par les faits, je sollicite la tr
 Je porte à votre attention les faits suivants, susceptibles de caractériser des manquements à la réglementation du travail :
 
 - **Équipement de travail dangereux** :  
-Le bac à shampoing en céramique, instable et présentant une cassure préexistante non signalée, est susceptible de caractériser un manquement à l'obligation de sécurité et de conformité des équipements de travail (Article L. 4321-1 du Code du[^n1] travail).
+Le bac à shampoing en céramique, instable et présentant une cassure préexistante non signalée, est susceptible de caractériser un manquement à l'obligation de sécurité et de conformité des équipements de travail (Article L. 4321-1 du Code du[^n2] travail).
 
 > *« Les équipements de travail et les moyens de protection mis en service ou utilisés dans les établissements destinés à recevoir des travailleurs sont équipés, installés, utilisés, réglés et maintenus de manière à préserver la santé et la sécurité des travailleurs, y compris en cas de modification de ces équipements de travail et de ces moyens de protection. »* <br>
 > [Article L4321-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209)  
@@ -163,7 +163,7 @@ L'exploitant n'a affiché aucune attestation d'assurance RC professionnelle au s
 - **Absence d'équipement d'accès en hauteur** :  
 Le préposé a dû monter sur le bac à shampoing pour accéder au poste de télévision, en l'absence de tout équipement de travail adapté (escabeau, marchepied) mis à disposition par l'employeur.
 
-Cette situation est susceptible de méconnaître l'obligation de sécurité de l'employeur (Article L. 4121-1 du Code du[^n2] travail) et les règles relatives aux travaux en hauteur (Articles R. 4323-58[^n3] et suivants du Code du travail), l'employeur devant fournir un plan de travail ou un équipement d'accès approprié permettant l'intervention en sécurité.
+Cette situation est susceptible de méconnaître l'obligation de sécurité de l'employeur (Article L. 4121-1 du Code du[^n3] travail) et les règles relatives aux travaux en hauteur (Articles R. 4323-58[^n4] et suivants du Code du travail), l'employeur devant fournir un plan de travail ou un équipement d'accès approprié permettant l'intervention en sécurité.
 
 > *« L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. »* <br>
 > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)  
@@ -212,18 +212,19 @@ Sébastien GRAZIDE
 
 ## Sources Législation
 
-[^n1]: > « Les équipements de travail et les moyens de protection mis en service ou utilisés dans les établissements destinés à recevoir des travailleurs sont équipés, installés, utilisés, réglés et maintenus de manière à préserver la santé et la sécurité des travailleurs, y compris en cas de modification de ces équipements de travail et de ces moyens de protection. » <br>
+[^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+    > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+
+[^n2]: > « Les équipements de travail et les moyens de protection mis en service ou utilisés dans les établissements destinés à recevoir des travailleurs sont équipés, installés, utilisés, réglés et maintenus de manière à préserver la santé et la sécurité des travailleurs, y compris en cas de modification de ces équipements de travail et de ces moyens de protection. » <br>
     > **Code du travail > Section 1 : Principes.** <br>
-    > [Article L4321-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209)
-    📚 Bibliothèque locale : [Article_L4321-1_CodeTravail](Lois/Code/Code_du_travail/Article_L4321-1_CodeTravail.md) ↩
+    > [Article L4321-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209) ↩
 
-[^n2]: > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. » <br>
+[^n3]: > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. » <br>
     > **Code du travail > Chapitre Ier : Obligations de l'employeur.** <br>
-    > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)
-    📚 Bibliothèque locale : [Article_L4121-1_CodeTravail](Lois/Code/Code_du_travail/Article_L4121-1_CodeTravail.md) ↩
+    > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) ↩
 
-[^n3]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
+[^n4]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
     > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.** <br>
-    > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
-    📚 Bibliothèque locale : [Article_R4323-58_CodeTravail](Lois/Code/Code_du_travail/Article_R4323-58_CodeTravail.md) ↩
+    > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) ↩
 <!-- /Source -->

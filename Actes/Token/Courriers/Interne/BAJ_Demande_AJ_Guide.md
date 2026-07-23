@@ -71,7 +71,7 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 
 - [ ] **Relevé bancaire** des 3 derniers mois (facultatif mais utile)
 
-- [ ] **Récépissé de dépôt de la requête Art. 145 CPC** (si déjà déposée le même jour)
+- [ ] **Récépissé de dépôt de la requête Art. 145[^n1] CPC** (si déjà déposée le même jour)
 
 - [ ] **Certificats médicaux** (pour justifier l'urgence — traitement accéléré)
 
@@ -110,7 +110,7 @@ destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 
 ### III.5 — Section "Urgence"
 
-- **Décrire l'urgence :** "Risque de destruction des preuves vidéos (écrasement à J+60/90, soit avant le 15 août 2026). Une requête Art. 145 CPC a été déposée pour conservation."
+- **Décrire l'urgence :** "Risque de destruction des preuves vidéos (écrasement à J+60/90, soit avant le 15 août 2026). Une requête Art. 145[^n1] CPC a été déposée pour conservation."
 
 ### III.6 — Signature
 
@@ -173,7 +173,7 @@ Avenue Paul Laffont
 
    - Demander une expertise médicale judiciaire
 
-   - Reprendre l'Art. 145 CPC pour le fond
+   - Reprendre l'Art. 145[^n1] CPC pour le fond
 
 ### V.2 — Si l'AJ est refusée
 
@@ -194,7 +194,7 @@ Avenue Paul Laffont
 
 ### VI.1 — Ordre recommandé
 
-1. **D'abord au greffe civil** (rez-de-chaussée) : déposer la requête Art. 145 CPC → récépissé
+1. **D'abord au greffe civil** (rez-de-chaussée) : déposer la requête Art. 145[^n1] CPC → récépissé
 
 2. **Ensuite au BAJ** (même bâtiment) : déposer la demande d'AJ → récépissé
 
@@ -220,3 +220,13 @@ Avenue Paul Laffont
 - Site AJ en ligne : `www.justice.fr/aide-juridictionnelle`
 
 - Formulaire CERFA : `www.service-public.fr` → "Aide juridictionnelle"
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+    > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+<!-- /Source -->

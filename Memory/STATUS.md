@@ -52,7 +52,7 @@ Transformer toutes les mentions textuelles de pièces et de tokens d'anonymisati
 
 2. **Script** `.dev/app/link_documents.py` — dry-run, --apply, --strate, URL-encoding, protection double-liens
 
-3. **10 stubs** créés dans [Actes/Preuves officielles](../Actes/Preuves officielles/README.md) pour pièces non téléchargées
+3. **10 stubs** créés dans [Actes/Preuves officielles](../Actes/Token/README.md) pour pièces non téléchargées
 
 4. **TOKEN MAP.md** enrichi : 5 ancres + section `#tokens-evenementiels`
 

@@ -227,6 +227,5 @@ Fait à 10 Avenue de Purpan, 31700 Blagnac, le 17 juillet 2026
 
 [^n1]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
-    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
-    📚 Bibliothèque locale : [Article1240_CodeCivil](Lois/Code/Code_civil/Article1240_CodeCivil.md) ↩
+    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 <!-- /Source -->

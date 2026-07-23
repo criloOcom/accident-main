@@ -3,9 +3,9 @@ uid: pKnCZS3Vb
 
 emoji: 📑
 title: Bordereau de pièces (unifié)
-subtitle: Liste des pièces jointes à la procédure de référé (Art. 835 CPC, Art. 145 CPC)
+subtitle: Liste des pièces jointes à la procédure de référé (Art. 835 CPC, Art. 145[^n1] CPC)
 objective: Rassembler et lister les 47 pièces versées à l'appui de l'assignation en référé-provision et de la requête 145 CPC
-summary: Bordereau de pièces unifié listant l'ensemble des documents versés à la procédure de référé-provision et d'article 145 CPC devant le TJ de Foix, incluant pièces médicales, administratives, correspondances et preuves matérielles.
+summary: Bordereau de pièces unifié listant l'ensemble des documents versés à la procédure de référé-provision et d'article 145[^n1] CPC devant le TJ de Foix, incluant pièces médicales, administratives, correspondances et preuves matérielles.
 key_points:
   - 47 pièces listées séquentiellement (dont pièces 44-46 : suivi médical du 23/07/2026 — temps partiel thérapeutique)
   - Pièces 1-10 : constatations et pièces médicales
@@ -17,7 +17,7 @@ legal_basis:
   - Article 835 du Code de procédure civile
   - Article 145 du Code de procédure civile
   - Article 700 du Code de procédure civile
-description: 'Bordereau de pièces unifié — Procédure : Référé (Art. 835 CPC, Art. 145 CPC)'
+description: 'Bordereau de pièces unifié — Procédure : Référé (Art. 835 CPC, Art. 145[^n1] CPC)'
 type: readme
 date: 2026-07-07
 urgency: haute
@@ -45,7 +45,7 @@ jx: J+39
 
 # BORDEREAU DE PIÈCES
 
-> **Procédure :** Référé (Art. 835 CPC, Art. 145 CPC) — <!-- Auteur -->**Demandeur :** Sébastien GRAZIDE<!-- /Auteur --> — <!-- Destinataire -->**Défendeur :** SAS HB BARBER<!-- /Destinataire -->
+> **Procédure :** Référé (Art. 835 CPC, Art. 145[^n1] CPC) — <!-- Auteur -->**Demandeur :** Sébastien GRAZIDE<!-- /Auteur --> — <!-- Destinataire -->**Défendeur :** SAS HB BARBER<!-- /Destinataire -->
 ## I — GROUPE A — PREUVES DE L'ACCIDENT
 ### PIÈCE N° 1
 
@@ -125,7 +125,7 @@ jx: J+39
 
 ### PIÈCE N° 17
 
-- 5 juillet 2026 — Assignation Article 145 CPC (communication d'assurance) : Demande de communication forcée de la police d'assurance RC Pro sous astreinte de 150 €/jour. Dédiée à l'identification de l'assureur inconnu.
+- 5 juillet 2026 — Assignation Article 145[^n1] CPC (communication d'assurance) : Demande de communication forcée de la police d'assurance RC Pro sous astreinte de 150 €/jour. Dédiée à l'identification de l'assureur inconnu.
 
 ### PIÈCE N° 18
 
@@ -231,7 +231,7 @@ jx: J+39
 
 ### PIÈCE N° 38
 
-- **26/01/1993** — Cour de cassation (Ch. Com.) : [Arrêt n° 91-11.285](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007030228)[^1] — survie de la personnalité morale d'une société pour les besoins de sa liquidation.
+- **26/01/1993** — Cour de cassation (Ch. Com.) : [Arrêt n° 91-11.285](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007030228) — survie de la personnalité morale d'une société pour les besoins de sa liquidation.
 
 - **14/12/2001** — Cour de cassation (Ass. Plén.) : Arrêt Cousin (n° 00-82.066) — levée de l'immunité du préposé en cas d'infraction pénale intentionnelle.
 
@@ -239,13 +239,13 @@ jx: J+39
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
 > [Arrêt n°99-17.092](../../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md) <br>
-> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^2]**
+> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
 
 - **04/04/2024** — Cour de cassation (Civ. 2e) : Arrêt n° 22-19.307 — capitalisation sans contrôle de l'assureur.
 
 > *« Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »* <br>
 > [Arrêt n°22-19.307](../../../../Lois/Jurisprudence/Réserve_d'aggravation/22-19.307_CourCassation.md) <br>
-> **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307[^3]**
+> **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307**
 
 ### PIÈCE N° 39
 
@@ -282,12 +282,13 @@ jx: J+39
 ### PIÈCE N° 47
 
 - **18/07/2026** — [Captures d'écran WhatsApp](../../../Preuves_officielles/20260718-1601_Demande_AttestationDeTemoin_Ayoub_SANSreponse/20260718-1601_Demande_AttestationDeTemoin_Ayoub_SANSreponse.md) : demande formelle d'attestation de témoin (CERFA 11527*03 joint) adressée au **[Préposé de l'Exploitation]** (coiffeur présent le jour de l'accident), **distribuée le 18/07/2026 à 16h01** — **sans aucune réponse à ce jour**. Matérialise la carence du témoin principal et la mauvaise volonté persistante de l'exploitant et de son personnel. (PIECES MAP n° 56.)
+
 <!-- Source -->
 <hr><hr>
 
 ## Sources Législation
 
-[^1]: [Arrêt n° 91-11.285 — www.legifrance.gouv.fr/juri/id/JURITEXT000007030228](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007030228) ↩
-[^2]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](../../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md) ↩
-[^3]: [Arrêt n°22-19.307 — www.legifrance.gouv.fr/juri/id/JURITEXT000049418278](../../../../Lois/Jurisprudence/Réserve_d'aggravation/22-19.307_CourCassation.md) ↩
+[^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+    > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
 <!-- /Source -->

@@ -116,7 +116,7 @@ ACCIDENT 29/05/2026
 |---------|--------|
 | PV initial n°2026/015967 | ✅ Déposé (Toulouse, 02/06) |
 | Plainte complémentaire | ⏳ PROJET PRÊT (non déposé — dépôt prévu lundi 20/07) |
-| Requête Art. 145 CPC | ⏳ PROJET PRÊT (non déposé — dépôt prévu lundi 20/07) |
+| Requête Art. 145[^n1] CPC | ⏳ PROJET PRÊT (non déposé — dépôt prévu lundi 20/07) |
 | Demande d'AJ totale | ⏳ PROJET PRÊT (non déposé — dépôt prévu lundi 20/07) |
 | Constitution partie civile | ⏳ En attente (nécessite AJ + avocat désigné) |
 <hr><hr>
@@ -160,9 +160,19 @@ ACCIDENT 29/05/2026
 | **Art. 10-2 CPP** | Droit de la victime à l'information sur l'état de la procédure pénale |
 | **Art. 40-2 CPP** | Information de la victime sur les suites de sa plainte |
 | **Art. L. 300-1 CRPA** | Droit d'accès aux documents administratifs |
-| **Art. 145 CPC** | Mesure d'instruction in futurum (requête prête, dépôt prévu après obtention AJ) |
+| **Art. 145[^n1] CPC** | Mesure d'instruction in futurum (requête prête, dépôt prévu après obtention AJ) |
 | **Jurisprudence CE** | Droit de la victime d'accéder au rapport d'enquête de l'Inspection du travail la concernant |
 
 <hr><hr>
 
 > **Note :** Ce mémo est un document de travail interne destiné à être soumis à l'avocat pour validation. Il synthétise les réponses reçues le 15 juillet 2026.
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+    > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+<!-- /Source -->

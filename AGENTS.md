@@ -115,7 +115,7 @@ Le projet dispose d'un **calendrier Google partagé** qui centralise TOUS les é
    - `document-anonymization` (skill) — règles d'anonymisation
 5. **Interdiction absolue** d'utiliser du markdown brut, regex, ou find/replace direct sur les Google Docs — toujours passer par le workflow local puis `replaceDocumentWithMarkdown`
 
-6. **Google Sheets — RÈGLE ABSOLUE** : ne JAMAIS supposer la structure des colonnes. Avant d'écrire dans une feuille, **lis la ligne d'en-tête** et **3 lignes de données** pour valider le mapping exact. Supposer = cracher à la gueule de l'utilisateur.
+6. **Google Sheets — RÈGLE ABSOLUE** : ne JAMAIS supposer la structure des colonnes. Avant d'écrire dans une feuille, **lis la ligne d'en-tête** et **3 lignes de données** pour valider le mapping exact. Supposer = cracher à la gueule de l'utilisateur. Toute réconciliation de la feuille `@` du Sheet `PJ` DOIT impérativement suivre le protocole [Memory/GOOGLE_SHEET_PJ_PROTOCOL.md](Memory/GOOGLE_SHEET_PJ_PROTOCOL.md) (preserver la colonne C `ID Drive`, indexer tout `Actes/` dont `Preuves_officielles/` et rapprocher par `drive_id`).
 
 7. **Double strate Token/Reel** : les fichiers dans [Actes/Token](Actes/Token/README.md) (dossiers Preuves_officielles, Actes_proceduraux, Courriers, Analyses_juridiques, Etudes_indemnisation, Organisation, Archives) DOIVENT toujours rester tokenisés (identités anonymisées). Les versions réelles (noms, adresses, email réels) sont générées dans [Actes/Reel](Actes/Token/README.md) via [`.dev/app/generate_real_versions.py`](.dev/app/generate_real_versions.py) — ne JAMAIS écrire de version réelle dans [Actes/Token](Actes/Token/README.md).
 

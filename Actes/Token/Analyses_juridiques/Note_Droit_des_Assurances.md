@@ -71,7 +71,7 @@ L'assuré a l'obligation stricte de déclarer le sinistre.
 **Conséquences du défaut :** Si [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) n'a pas déclaré le sinistre, l'assureur pourrait théoriquement tenter de lui opposer une déchéance de garantie pour déclaration tardive. Cependant, cette déchéance ne peut être opposée à la victime exerçant son action directe, dont le droit à indemnisation est cristallisé au jour de l'accident. La mise en demeure adressée le 29 mai 2026 par [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) a vocation à déclencher officiellement l'ouverture du dossier auprès de la compagnie.
 <hr><hr>
 
-## V — PRESCRIPTION : ART. L.114-1 VS ART. 2226 C. CIV.
+## V — PRESCRIPTION : ART. L.114-1 VS ART. 2226[^n1] C. CIV.
 
 Le délai de prescription en droit des assurances est un piège classique, mais inapplicable à la victime corporelle directe.
 
@@ -92,7 +92,7 @@ Ainsi, la prescription de notre action directe est strictement de **dix ans** à
 
 Contrairement à la loi Badinter (L.211-9), la loi n'impose pas de délai strict pour une offre en responsabilité civile générale. Néanmoins, l'obligation de bonne foi contractuelle et la jurisprudence forcent les assureurs à examiner les demandes promptement.
 
-**Stratégie de provision avant audience :** Obtenir une provision amiable de 15 000 € avant le référé est complexe face à un assureur qui n'est pas encore identifié ni forcé au dialogue. Toutefois, la menace imminente d'une condamnation in solidum sous astreinte (article 145 CPC) et le coût des frais d'expertise judiciaire constituent un levier pour la négociation pré-contentieuse.
+**Stratégie de provision avant audience :** Obtenir une provision amiable de 15 000 € avant le référé est complexe face à un assureur qui n'est pas encore identifié ni forcé au dialogue. Toutefois, la menace imminente d'une condamnation in solidum sous astreinte (article 145[^n2] CPC) et le coût des frais d'expertise judiciaire constituent un levier pour la négociation pré-contentieuse.
 
 Le montant de compromis validé en interne s'élève à **~85 000 €**, justifiant pleinement la réclamation de la provision de **15 000 €**.
 <hr><hr>
@@ -135,7 +135,7 @@ Je vous adresse la présente mise en demeure en votre qualité d'assureur garant
 
 Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein des locaux de votre assuré, lorsqu'une vasque en céramique défectueuse a basculé à la suite d'une manœuvre imprudente de son préposé, entraînant une lésion sévère de ma main droite (tendons et nerfs sectionnés, [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours).
 
-L'entière responsabilité de votre assuré est acquise, ce dernier ayant manqué à son obligation de sécurité, le matériel utilisé étant incontestablement défectueux (art. 1242 du Code civil[^n1]).
+L'entière responsabilité de votre assuré est acquise, ce dernier ayant manqué à son obligation de sécurité, le matériel utilisé étant incontestablement défectueux (art. 1242 du Code civil[^n3]).
 
 L'obligation d'indemnisation n'étant pas sérieusement contestable, je vous mets en demeure de :
 1. Procéder à l'ouverture du dossier de sinistre.
@@ -161,8 +161,15 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 
 ## Sources Législation
 
-[^n1]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
+[^n1]: > « L'action en responsabilité née à raison d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices qui en résultent, se prescrit par dix ans à compter de la date de la consolidation du dommage initial ou aggravé. Toutefois, en cas de préjudice causé par des tortures ou des actes de barbarie, ou par des violences ou des agressions sexuelles commises contre un mineur, l'action en responsabilité civile est prescrite par vingt ans. » <br>
+    > **Code civil > Section 2 : De quelques délais et points de départ particuliers.** <br>
+    > [Article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259) ↩
+
+[^n2]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+    > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+
+[^n3]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
-    > [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)
-    📚 Bibliothèque locale : [Article1242_CodeCivil](Lois/Code/Code_civil/Article1242_CodeCivil.md) ↩
+    > [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
 <!-- /Source -->

@@ -619,3 +619,28 @@ Le Google Sheet **PJ** (`1cwb8L5fc7HqsAHP6IH32gSFwKRIdSztcYk1XmfbaYIg`) est l'in
 - Les URLs GitHub sont dans la branche `main`.
 - Les drive_id vides (colonne C/E vides) = document non encore lié à Google Drive.
 - La ligne 1 du sheet contient le titre de la feuille. Les données commencent ligne 3 (en-têtes ligne 2).
+
+## XVII — Protocole UID→YAML Cross-Reference Sheet
+
+### Objectif
+Garantir que toute URL écrite dans le Sheet PJ correspond à un fichier réel sur le dépôt.
+
+### Workflow
+1. **Scan** : Parcourir `Actes/Token/` récursivement, extraire `uid:` du YAML front matter de chaque `.md`.
+2. **Mapping** : Produire `{uid: chemin_relatif}`.
+3. **Vérification** : Avant d'écrire A–C ou G–K, vérifier que l'uid cible existe dans le mapping.
+4. **Écriture** : URL GitHub = `https://github.com/criloOcom/accident-main/blob/main/Actes/Token/{chemin}`.
+5. **Orphelins** : Tout uid sheet sans fichier .md est un orphelin — ne PAS écrire A–C.
+
+### Colonnes concernées
+| Colonne | Opération |
+|---------|-----------|
+| **A** | uid → vérifier mapping |
+| **B** | URL → construire depuis mapping |
+| **G** | uid Token → vérifier mapping |
+| **H** | URL Token → construire depuis mapping |
+| **J** | uid Reel → doit être identique à G |
+| **K** | URL Reel → construire depuis mapping |
+
+### Script de vérification
+`.dev/app/verify_sheet_urls.py` : extrait tous les uids → URLs. Lancer après chaque modification du sheet pour confirmer que toutes les URLs répondent 200.

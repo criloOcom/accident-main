@@ -84,9 +84,9 @@ A ce jour, les procedures suivantes ont ete engagees :
 > [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
 > **Code de procédure civile > Chapitre II : Les ordonnances de référé.**
 
-3. **Assignation Article 145 CPC** (5 juillet 2026) : Saisine du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** pour communication forcee de la police d'assurance RC professionnelle sous astreinte.
+3. **Assignation Article 145[^n1] CPC** (5 juillet 2026) : Saisine du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** pour communication forcee de la police d'assurance RC professionnelle sous astreinte.
 
-4. **[Constitution de Partie Civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : Depot d'une plainte avec [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) aupres du Doyen des Juges d'Instruction du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, fondee sur les articles 222-19 et 222-20 du Code penal[^n1][^n2] (blessures involontaires), et engageant la responsabilite penale de la SAS et de ses dirigeants.
+4. **[Constitution de Partie Civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : Depot d'une plainte avec [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) aupres du Doyen des Juges d'Instruction du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, fondee sur les articles 222-19 et 222-20 du Code penal[^n2][^n3] (blessures involontaires), et engageant la responsabilite penale de la SAS et de ses dirigeants.
 <hr><hr>
 
 ## IV — BORDEREAU RECAPITULATIF DES PIECES
@@ -99,7 +99,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 >
 > *Les recours subrogatoires des caisses contre les tiers s'exercent poste par poste sur les seules indemnités qui réparent des préjudices qu'elles ont pris en charge, à l'exclusion des préjudices à caractère personnel.*
 >
-> *Conformément à l'article 1346-3 du code civil[^n3] , la subrogation ne peut nuire à la victime subrogeante, créancière de l'indemnisation, lorsqu'elle n'a été prise en charge que partiellement par les prestations sociales ; en ce cas, l'assuré social peut exercer ses droits contre le responsable, par préférence à la caisse subrogée.*
+> *Conformément à l'article 1346-3 du code civil[^n4] , la subrogation ne peut nuire à la victime subrogeante, créancière de l'indemnisation, lorsqu'elle n'a été prise en charge que partiellement par les prestations sociales ; en ce cas, l'assuré social peut exercer ses droits contre le responsable, par préférence à la caisse subrogée.*
 >
 > *Cependant, si le tiers payeur établit qu'il a effectivement et préalablement versé à la victime une prestation indemnisant de manière incontestable un poste de préjudice personnel, son recours peut s'exercer sur ce poste de préjudice.*
 >
@@ -155,7 +155,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 
 - **Pièce n°11 :** Assignation référé-provision (Art. 835 CPC) — **[J+32 Assignation référé](../../../../Memory/Tokens/token-j-32-assignation-refere.md)**
 
-- **Pièce n°12 :** Assignation Article 145 CPC (communication assurance) — **[J+37 Assignation 145](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
+- **Pièce n°12 :** Assignation Article 145[^n1] CPC (communication assurance) — **[J+37 Assignation 145](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
 
 - **Pièce n°13 :** [Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (Art. 222-19/222-20 CP) — **[J+38 Constitution PC](../../../../Memory/Tokens/token-j-38-constitution-pc.md)**
 
@@ -180,7 +180,7 @@ Je sollicite de vos services :
 >
 > *Les recours subrogatoires des caisses contre les tiers s'exercent poste par poste sur les seules indemnités qui réparent des préjudices qu'elles ont pris en charge, à l'exclusion des préjudices à caractère personnel.*
 >
-> *Conformément à l'article 1346-3 du code civil[^n3] , la subrogation ne peut nuire à la victime subrogeante, créancière de l'indemnisation, lorsqu'elle n'a été prise en charge que partiellement par les prestations sociales ; en ce cas, l'assuré social peut exercer ses droits contre le responsable, par préférence à la caisse subrogée.*
+> *Conformément à l'article 1346-3 du code civil[^n4] , la subrogation ne peut nuire à la victime subrogeante, créancière de l'indemnisation, lorsqu'elle n'a été prise en charge que partiellement par les prestations sociales ; en ce cas, l'assuré social peut exercer ses droits contre le responsable, par préférence à la caisse subrogée.*
 >
 > *Cependant, si le tiers payeur établit qu'il a effectivement et préalablement versé à la victime une prestation indemnisant de manière incontestable un poste de préjudice personnel, son recours peut s'exercer sur ce poste de préjudice.*
 >
@@ -227,17 +227,19 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 
 ## Sources Législation
 
-[^n1]: > « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. » <br>
-    > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
-    > [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
-    📚 Bibliothèque locale : [Article_222-19_CodePenal_Legifrance](Lois/Code/Code_pénal/Article_222-19_CodePenal_Legifrance.md) ↩
+[^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+    > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
 
-[^n2]: > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
+[^n2]: > « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. » <br>
     > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
-    > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
-    📚 Bibliothèque locale : [Article222-20_CodePenal_LegiFrance](Lois/Code/Code_pénal/Article222-20_CodePenal_LegiFrance.md) ↩
+    > [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
 
-[^n3]: > « La subrogation ne peut nuire au créancier lorsqu'il n'a été payé qu'en partie ; en ce cas, il peut exercer ses droits, pour ce qui lui reste dû, par préférence à celui dont il n'a reçu qu'un paiement partiel. » <br>
+[^n3]: > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
+    > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
+    > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+
+[^n4]: > « La subrogation ne peut nuire au créancier lorsqu'il n'a été payé qu'en partie ; en ce cas, il peut exercer ses droits, pour ce qui lui reste dû, par préférence à celui dont il n'a reçu qu'un paiement partiel. » <br>
     > **Code civil > Sous-section 4 : Le paiement avec subrogation.** <br>
     > [Article 1346-3 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035291) ↩
 <!-- /Source -->

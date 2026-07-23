@@ -2,7 +2,7 @@
 uid: MmRsSGqvB
 
 emoji: 🔍
-title: Requête Article 145 CPC — Communication Assurances + Conservation Vidéos (HB BARBER)
+title: Requête Article 145[^n1] CPC — Communication Assurances + Conservation Vidéos (HB BARBER)
 subtitle: Demande de communication forcée de la police d'assurance RC Pro et de conservation des preuves vidéo
 objective: Obtenir une ordonnance sur requête du Président du TJ de Foix pour contraindre l'exploitant à révéler son assureur RC et conserver les vidéosurveillance avant expiration du délai de 30 jours
 summary: Requête fondée sur l'article 145 du CPC, déposée au greffe du TJ de Foix, visant à obtenir la communication de l'attestation RC Pro de la SAS HB BARBER et la conservation des images de vidéosurveillance des 29-30 mai 2026.
@@ -16,7 +16,7 @@ jurisdiction: Tribunal Judiciaire de Foix
 legal_basis:
   - Article 145 du Code de procédure civile
   - Article L. 124-3 du Code des assurances
-  - Article 1240 du Code civil[^n1]
+  - Article 1240 du Code civil[^n2]
 description: À déposer au greffe du TJ de Foix — REQUÊTE (pas d'assignation). Imprimer 2 exemplaires, demander récépissé.
 type: document
 date: 2026-07-20
@@ -115,7 +115,7 @@ Par ailleurs, l'établissement est resté fermé environ 30 jours après l'accid
 
 ## III — DISCUSSION JURIDIQUE
 
-### III.1 — Sur le motif légitime de l'article 145 CPC
+### III.1 — Sur le motif légitime de l'article 145[^n1] CPC
 
 L'article 145 du Code de procédure civile dispose :
 
@@ -125,7 +125,7 @@ En l'espèce, le motif légitime est caractérisé par l'impossibilité pour le 
 
 Le requérant a, en amont de la présente requête, entrepris l'ensemble des démarches amiables à sa portée (déclarations et plaintes auprès des services de police, lettres recommandées à l'exploitant initialement identifié et à son bailleur, signalement auprès de la mairie de Foix et échanges avec Monsieur TAVELLA), demeurées sans réponse satisfaisante et sans clarification effective de l'identité de l'exploitant et de son assureur, ce qui justifie à ce stade le recours aux mesures d'instruction sollicitées sur le fondement de l'article 145 du Code de procédure civile.
 
-La jurisprudence admet que la communication forcée de documents contractuels constitue une mesure d'instruction licite au sens de l'article 145 CPC, dès lors qu'elle est nécessaire à la préparation d'un procès futur.
+La jurisprudence admet que la communication forcée de documents contractuels constitue une mesure d'instruction licite au sens de l'article 145[^n1] CPC, dès lors qu'elle est nécessaire à la préparation d'un procès futur.
 
 > *« Le bénéfice de l'action directe ouverte à la victime d'un dommage contre l'assureur garantissant la responsabilité civile de la personne responsable ne peut lui être refusé par le motif que le contrat d'assurance a pris fin avant que le dommage ne se réalise. »*
 > [Arrêt n°20-16.463](../../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/20-16.463_CourCassation.md)
@@ -293,8 +293,11 @@ Sébastien GRAZIDE
 
 ## Sources Législation
 
-[^n1]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+[^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+    > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+
+[^n2]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
-    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
-    📚 Bibliothèque locale : [Article1240_CodeCivil](Lois/Code/Code_civil/Article1240_CodeCivil.md) ↩
+    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 <!-- /Source -->

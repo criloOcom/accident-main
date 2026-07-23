@@ -7,6 +7,11 @@ date: 2026-07-22
 status: en_cours
 ---
 
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [🧠 Memory](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # Session — Audit Dates & Faux Positifs Jules
 
 ## Contexte

@@ -8,6 +8,11 @@ auteur: Agent de synchronisation
 source_doc: "1LQCFXEyGj7VWD92ccdh6JRwFQgKl2THT131YbrnemoE"
 ---
 
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [🧠 Memory](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 *[🏠](../Actes/Token/README.md) › [🧠 Memory](./README.md)*
 <hr>
 

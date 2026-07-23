@@ -77,9 +77,9 @@ jx: J+60
 <hr><hr>
 
 ## III — DISCUSSION JURIDIQUE STRUCTURÉE
-### III.1 — RESPONSABILITÉ DE PLEIN DROIT DU GARDIEN (ART. 1242 C. CIV.)
+### III.1 — RESPONSABILITÉ DE PLEIN DROIT DU GARDIEN (ART. 1242[^n1] C. CIV.)
 
-Sur le fondement de l'[Article 1242 alinéa 1er du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000517860](../../../Lois/Code/LEGIARTI0000517860.md)00)[^1], le gardien de la chose instrument du dommage est responsable de plein droit.
+Sur le fondement de l'[Article 1242 alinéa 1er du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000517860](../../../Lois/Code/LEGIARTI0000517860.md)00), le gardien de la chose instrument du dommage est responsable de plein droit.
 - **La vasque = chose instrument du dommage :** Son état de délabrement (cassure préexistante tranchante) et son basculement constituent le rôle actif incontestable dans la réalisation du dommage.
 
 - **La garde :** SAS LES MAUVAIS GARCONS est le propriétaire et l'exploitant du matériel défectueux.
@@ -88,11 +88,11 @@ Sur le fondement de l'[Article 1242 alinéa 1er du Code civil](https://www.legif
 
 ### III.2 — ACTION DIRECTE CONTRE L'ASSUREUR (ART. L.124-3 C. ASSUR.)
 
-La victime bénéficie d'un droit d'action directe et autonome contre l'assureur de responsabilité civile du responsable, selon l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49)[^2]. L'obstruction de la direction de la SAS à communiquer le nom de cet assureur justifie pleinement cette saisine en référé pour obtenir les informations sous astreinte.
+La victime bénéficie d'un droit d'action directe et autonome contre l'assureur de responsabilité civile du responsable, selon l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49). L'obstruction de la direction de la SAS à communiquer le nom de cet assureur justifie pleinement cette saisine en référé pour obtenir les informations sous astreinte.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^2]**
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 
 ### III.3 — FONDEMENT DE LA RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS (L.227-8, L.225-251, FAUTE DÉTACHABLE SATI)
 
@@ -100,7 +100,7 @@ En droit, l'article L.227-8 du Code de commerce dispose que :
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
 > [Article L.227-8](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062270](../../../Lois/Code/LEGIARTI0000062270.md)36) <br>
-> **Code de commerce[^8]**
+> **Code de commerce**
 
 Il en résulte que le régime de responsabilité des dirigeants de SA, et notamment l'article L.225-251 du Code de commerce, est applicable au Président et à la Directrice Générale de la SAS : ils peuvent être déclarés responsables, envers la société et envers les tiers, des fautes commises dans leur gestion, des infractions aux dispositions légales et des violations des statuts.
 
@@ -126,11 +126,11 @@ Sans préjuger de l'appréciation du juge du fond, ces éléments sont de nature
 
 ### III.4 — MANQUEMENT À L'OBLIGATION DE SÉCURITÉ
 
-Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant est tenu par une obligation générale de sécurité prévue à l'[Article L. 421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000494640](../../../Lois/Code/LEGIARTI0000494640.md)53)[^3] et aux règles des ERP. Maintenir une vasque brisée et tranchante dans un tel espace constitue une négligence coupable d'une extrême gravité.
+Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant est tenu par une obligation générale de sécurité prévue à l'[Article L. 421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000494640](../../../Lois/Code/LEGIARTI0000494640.md)53) et aux règles des ERP. Maintenir une vasque brisée et tranchante dans un tel espace constitue une négligence coupable d'une extrême gravité.
 
 > *« Les prestations de services doivent présenter, dans des conditions normales d'utilisation ou dans d'autres conditions raisonnablement prévisibles par le professionnel, la sécurité à laquelle on peut légitimement s'attendre et ne pas porter atteinte à la santé des personnes. »* <br>
 > [Article L421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000494640](../../../Lois/Code/LEGIARTI0000494640.md)53) <br>
-> **Code de la consommation > Chapitre Ier : Obligation générale de sécurité.[^3]**
+> **Code de la consommation > Chapitre Ier : Obligation générale de sécurité.**
 <hr><hr>
 
 ## IV — JURISPRUDENCE CLÉ
@@ -139,11 +139,11 @@ L'argumentation développée s'appuie sur une jurisprudence constante :
 
 - **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** **[N° 97-17.378]** ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
 
-- **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070713](../../../Lois/Jurisprudence/JURITEXT0000070713.md)51)[^5]. Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
+- **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070713](../../../Lois/Jurisprudence/JURITEXT0000070713.md)51). Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
 
-- **Faute détachable du dirigeant (Arrêt SATI - Cass. Com., 20 mai 2003) :** [N° 99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69)[^6]. Le dirigeant qui commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions engage sa responsabilité personnelle. En l'espèce, l'obstruction des dirigeants et le défaut de communication caractérisent une faute détachable.
+- **Faute détachable du dirigeant (Arrêt SATI - Cass. Com., 20 mai 2003) :** [N° 99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69). Le dirigeant qui commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions engage sa responsabilité personnelle. En l'espèce, l'obstruction des dirigeants et le défaut de communication caractérisent une faute détachable.
 
-- **Principe de réparation intégrale (Art. 1240 C. civ.) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour Sébastien GRAZIDE, informaticien indépendant, l'incidence professionnelle est majeure.
+- **Principe de réparation intégrale (Art. 1240[^n2] C. civ.) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour Sébastien GRAZIDE, informaticien indépendant, l'incidence professionnelle est majeure.
 <hr><hr>
 
 ## V — PIÈCES À CITER IMPÉRATIVEMENT
@@ -170,7 +170,7 @@ La présente procédure de référé ne vise pas à solder définitivement le do
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
 > [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000452684](../../../Lois/Code/LEGIARTI0000452684.md)36) <br>
-> **Code de procédure civile > Chapitre Ier : La charge des dépens.[^7]**
+> **Code de procédure civile > Chapitre Ier : La charge des dépens.**
 <hr><hr>
 
 ## VI — QUESTIONS PROBABLES DU JUGE ET RÉPONSES PRÉPARÉES
@@ -183,17 +183,17 @@ Non, Monsieur le Juge. C'est précisément l'une des raisons de notre présence 
 
 **Q3 : "Le préposé était-il véritablement dans l'exercice de ses fonctions lorsqu'il est monté sur le bac ?"** <br>
 Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'enceinte de l'établissement pendant ses horaires de travail pour accomplir une tâche au profit de l'exploitation. Il bénéficie donc de l'immunité civile selon la jurisprudence Costedoat, et la responsabilité de SAS LES MAUVAIS GARCONS en tant que commettant est pleinement engagée.
+
 <!-- Source -->
 <hr><hr>
 
 ## Sources Législation
 
-[^1]: [Article 1242 alinéa 1er du Code civil — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000517860](../../../Lois/Code/LEGIARTI0000517860.md)00](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000517860](../../../Lois/Code/LEGIARTI0000517860.md)00) ↩
-[^2]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) ↩
-[^3]: [Article L. 421-3 du Code de la consommation — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000494640](../../../Lois/Code/LEGIARTI0000494640.md)53](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000494640](../../../Lois/Code/LEGIARTI0000494640.md)53) ↩
-[^4]: [N° 97-17.378 — www.legifrance.gouv.fr/juri/id/[JURITEXT0000070437](../../../Lois/Jurisprudence/JURITEXT0000070437.md)04](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070437](../../../Lois/Jurisprudence/JURITEXT0000070437.md)04) ↩
-[^5]: [N° 00-82.066 — www.legifrance.gouv.fr/juri/id/[JURITEXT0000070713](../../../Lois/Jurisprudence/JURITEXT0000070713.md)51](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070713](../../../Lois/Jurisprudence/JURITEXT0000070713.md)51) ↩
-[^6]: [N° 99-17.092 — www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) ↩
-[^7]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000452684](../../../Lois/Code/LEGIARTI0000452684.md)36](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000452684](../../../Lois/Code/LEGIARTI0000452684.md)36) ↩
-[^8]: [Article L.227-8 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062270](../../../Lois/Code/LEGIARTI0000062270.md)36](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062270](../../../Lois/Code/LEGIARTI0000062270.md)36) ↩
+[^n1]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
+    > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
+    > [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
+
+[^n2]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+    > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
+    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 <!-- /Source -->

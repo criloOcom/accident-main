@@ -77,7 +77,7 @@ La rumeur de "réouverture avec nouveaux gérants" peut correspondre à :
 
 **Action requise pour lever le doute :**
 
-→ Constat physique par Police Municipale (Mairie de Foix) **OU** huissier (Art. 145 CPC)
+→ Constat physique par Police Municipale (Mairie de Foix) **OU** huissier (Art. 145[^n1] CPC)
 
 → Vérification de l'affichage obligatoire et du registre du personnel
 
@@ -88,7 +88,7 @@ La rumeur de "réouverture avec nouveaux gérants" peut correspondre à :
 #### II.4.a — **Envoyer l'email au Maire de Foix** (priorité 1)
 Demande d'intervention Police Municipale pour constat physique
 
-#### II.4.b — **Maintien de la requête huissier Art. 145 CPC** (courrier 33)
+#### II.4.b — **Maintien de la requête huissier Art. 145[^n1] CPC** (courrier 33)
 Seule preuve opposable civilement
 
 #### II.4.c — **Relance URSSAF** (LRAR 12 déjà envoyée)
@@ -99,3 +99,13 @@ Signalement fiscal
 
 #### II.4.e — **Vérification INPI**
 15 jours pour détecter tout changement de siège ou dissolution
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+    > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+<!-- /Source -->

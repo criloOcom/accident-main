@@ -5,7 +5,7 @@ emoji: ⚖️
 title: Simulation d'Ordonnance de Référé — TJ Foix
 description: Simulation réaliste du jugement que rendrait le Juge des Référés du Tribunal
   Judiciaire de Foix sur une demande de provision Article 835 al. 2 CPC + expertise
-  Article 145 CPC, dans le cadre de l'accident du 29 mai 2026 au salon de coiffure
+  Article 145[^n1] CPC, dans le cadre de l'accident du 29 mai 2026 au salon de coiffure
   exploité par [L'Exploitant du Commerce (La SAS)].
 type: projet
 juridiction: TJ Foix
@@ -125,7 +125,7 @@ Les défendeurs, régulièrement cités par procès-verbal de recherches infruct
 
 **Considérant** que l'évaluation définitive des préjudices relève d'une expertise médicale à intervenir, la présente provision — allouée à titre provisoire sur la base d'un préjudice non encore consolidé — ne préjuge pas du quantum final qui sera fixé après dépôt du rapport d'expertise et arrêt de la consolidation ; que la présente ordonnance n'a ainsi pas autorité de chose jugée sur l'étendue définitive du droit à indemnisation ;
 
-#### I.1.c — Sur les mesures d'instruction (article 145 CPC)
+#### I.1.c — Sur les mesures d'instruction (article 145[^n1] CPC)
 
 **Considérant** qu'aux termes de l'article 145 du Code de procédure civile, des mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé s'il existe un motif légitime de conserver ou d'établir la preuve de faits dont pourrait dépendre la solution d'un litige ;
 
@@ -201,7 +201,7 @@ Cette ordonnance est une **simulation** rédigée à partir des pièces et concl
 Le dossier contient des éléments sérieux pour plaider la faute détachable (absence d'assurance identifiable en ERP depuis l'ouverture, défaut d'entretien caractérisé d'un équipement dangereux, abstention persistante des dirigeants malgré mises en demeure — arrêt SATI, Civ. com., 20 mai 2003, n° 99-17.092). Mais cette qualification est classiquement réservée au juge du fond, ce qui justifie le scénario A en référé. Le curseur pourra être ajusté selon l'audience et les éléments recueillis entre-temps.
 
 **Rappel des actions projetées (au 15 juillet 2026) :**
-- Requête Art. 145 CPC : projet prêt, dépôt prévu après obtention AJ
+- Requête Art. 145[^n1] CPC : projet prêt, dépôt prévu après obtention AJ
 
 - Demande d'AJ totale : projet prêt, dépôt prévu lundi 20/07
 
@@ -222,3 +222,13 @@ Le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 a ultérieu
 - Fourchette globale 120 000 — 160 000 € (vs 126 000 — 161 500 € estimé par l'avis Dintilhac du 13 juillet 2026)
 
 La provision de 15 000 € allouée en référé s'est avérée **cohérente** avec l'évaluation extra-patrimoniale finale de 49 231 €, représentant environ 30 % de ce sous-total — ratio usuel pour une provision en référé avant consolidation définitive.
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+    > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+<!-- /Source -->

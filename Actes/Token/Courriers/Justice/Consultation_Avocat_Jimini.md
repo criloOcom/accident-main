@@ -82,7 +82,7 @@ J'ai constitué un dossier complet et engagé plusieurs actions depuis l'acciden
 
 - **20+ courriers recommandés** envoyés : mises en demeure à la SAS/dirigeants (tous NPAI), signalements à l'URSSAF, INPI, SIE, Préfecture, Inspection du travail, CODAF, CPAM, etc.
 
-- **Demain 15 juillet** : dépôt au TJ de Foix d'une **requête Art. 145 CPC** (communication assurance + conservation vidéos) + **demande d'AJ totale** au BAJ ; puis dépôt d'une **plainte complémentaire** au Commissariat de Foix (obstruction à la manifestation de la vérité, blessures involontaires).
+- **Demain 15 juillet** : dépôt au TJ de Foix d'une **requête Art. 145[^n1] CPC** (communication assurance + conservation vidéos) + **demande d'AJ totale** au BAJ ; puis dépôt d'une **plainte complémentaire** au Commissariat de Foix (obstruction à la manifestation de la vérité, blessures involontaires).
 <hr><hr>
 
 ## III — Questions à l'avocat
@@ -102,3 +102,13 @@ J'ai constitué un dossier complet et engagé plusieurs actions depuis l'acciden
 Je reste à votre disposition pour vous transmettre l'intégralité des pièces constituées (requête, plainte, évaluation indemnitaire, analyses juridiques, jurisprudence) sur simple demande.
 
 Cordialement,
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+    > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+<!-- /Source -->

@@ -22,7 +22,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Ancienne référence :** Article L. 654-6 du Code de commerce
 
-- **Nouvelle référence :** Article L. 654-7[^n1] du Code de commerce
+- **Nouvelle référence :** Article L. 654-7 du Code de commerce
 
 - **Fichiers concernés :**
 
@@ -143,7 +143,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
   - [`Archive - Stratégie Contentieux Pénal.md`](../../Reel/Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20P%C3%A9nal.md)
 
-- **Raison :** S'aligner sur l'identifiant correspondant à la rédaction en vigueur de l'article 706-3 CPP (version 2023).
+- **Raison :** S'aligner sur l'identifiant correspondant à la rédaction en vigueur de l'article 706-3[^n1] CPP (version 2023).
 
 - **Vérification :** Légifrance (consultation dernière version 706-3 CPP)
 
@@ -244,7 +244,7 @@ Ce changelog sert de **mémoire des choix juridiques** du dépôt, au-delà du s
 
 ## Sources Législation
 
-[^n1]: > « Les personnes morales déclarées responsables pénalement des infractions prévues par les articles L. 654-3 et L. 654-4 encourent les peines suivantes : 1° L'amende, suivant les modalités prévues par l' article 131-38 du code pénal ; 2° Les peines mentionnées à l'article 131-39 du code pénal. L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. » <br>
-    > **Code de commerce > Section 1 : De la banqueroute.** <br>
-    > [Article L654-7 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984550) ↩
+[^n1]: > « Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : 1° Ces atteintes n'entrent pas dans le champ d'application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ni de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux susceptibles d'occasionner des dégâts ; 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois ; -soit sont prévus et réprimés par les articles 222-22 à 222-30 , 224-1 A à 224-1 C, 225-4-1 à 225-4-5,225-5 à 225-10, 225-14-1 et 225-14-2 et 227-25 à 227-27 du code pénal ; -soit ont été commis sur un mineur ou par le conjoint ou le concubin de la victime, par le partenaire lié à la victime par un pacte civil de solidarité, par un ancien conjoint ou concubin de la victime ou par un ancien partenaire lié à la victime par un pacte civil de solidarité et sont prévus et réprimés par l'article 222-12 du code pénal ou par le 3° et l'avant-dernier alinéa de l'article 222-14 du même code, y compris lorsque ces faits ont été commis avec d'autres circonstances aggravantes. Par exception au premier alinéa du présent article, le montant maximal de la réparation des dommages subis en raison de ces faits, lorsqu'ils ont entraîné une incapacité totale de travail inférieure à un mois, est défini par voie réglementaire. 3° La personne lésée est de nationalité française ou les faits ont été commis sur le territoire national. La réparation peut être refusée ou son montant réduit à raison de la faute de la victime. » <br>
+    > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction.** <br>
+    > [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345) ↩
 <!-- /Source -->
