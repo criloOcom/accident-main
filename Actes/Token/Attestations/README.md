@@ -16,23 +16,14 @@ type: readme
 <hr><hr>
 ## Liste des attestations
 
-- [Attestation - Témoin Mathieu Frédéric](%F0%9F%93%8B%20T%C3%A9moin%20Mathieu%20Fr%C3%A9d%C3%A9ric.md) — Cerfa 11527*03 — Témoin direct (commerçant adjacent), 18/07/2026
 
-- [Témoin Client - Attestation](%F0%9F%93%8B%20T%C3%A9moin%20Client.md) — Cerfa 11527*03 — Client présent lors de l'accident
 
-- [✉️ Pompier SAMU - Attestation](../../Reel/Courriers/Témoins/Pompier%20SAMU%20-%20Attestation.md) — Cerfa 11527*03 — Intervention secours
 
-- [Employé - Attestation](%F0%9F%93%8B%20Employ%C3%A9.md) — Cerfa 11527*03 — Employé du salon
 
-- [Employé - Attestation](Attestation%20-%20Employ%C3%A9.md)
 
-- [Témoin Client - Attestation](Attestation%20-%20T%C3%A9moin%20Client.md)
 
-- [Attestation - Témoin Mathieu Frédéric](../../Reel/Attestations/Attestation%20-%20T%C3%A9moin%20Mathieu%20Fr%C3%A9d%C3%A9ric.md)
 
-- [Employé - Attestation](../../Reel/Attestations/Employ%C3%A9%20-%20Attestation.md)
 
-- [Témoin Client - Attestation](../../Reel/Attestations/T%C3%A9moin%20Client%20-%20Attestation.md)
 - [Attestation_Témoin_Mathieu_Frédéric](Attestation_Témoin_Mathieu_Frédéric.md)
 - [Employé_Attestation](Employé_Attestation.md)
 - [Témoin_Client_Attestation](Témoin_Client_Attestation.md)

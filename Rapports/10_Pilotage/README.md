@@ -21,13 +21,10 @@ Ce dossier contient ce que tu ouvres en premier pour savoir *quoi faire maintena
 
 - [`CARTOGRAPHIE_RISQUES.md`](CARTOGRAPHIE_RISQUES.md) — Matrice des 28 risques
 
-- [`RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md`](RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES_20260711.md) — Synthèse des démarches prioritaires
 
-- [`RAPPORT_SYNTHESE_OPERATIONNALITE_2026-07-14.md`](RAPPORT_SYNTHESE_OPERATIONNALITE_2026-07-14.md) — Synthèse d'opérationnalité
 
 - [`recommandations_urgentes.md`](recommandations_urgentes.md) — Recommandations urgentes
 
-- [`TODO_ACTION_2026-07-14.md`](TODO_ACTION_2026-07-14.md) — Todo / actions en cours
 
 - [20260711_RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES](20260711_RAPPORT_SYNTHESE_DEMARCHES_PRIORITAIRES.md)
 - [20260714_RAPPORT_SYNTHESE_OPERATIONNALITE](20260714_RAPPORT_SYNTHESE_OPERATIONNALITE.md)

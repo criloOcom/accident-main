@@ -27,7 +27,6 @@ type: readme
 
 - [Action_directe_et_obligation_d'assurance](Action_directe_et_obligation_d'assurance/README.md) — 8 arrêts
 
-- [Jurisprudence_du_fond_(CA-TJ)](Jurisprudence_du_fond_(CA-TJ)/README.md) — 7 décisions CA/TJ
 
 - [Responsabilité_du_commettant](Responsabilité_du_commettant/README.md) — 2 arrêts
 

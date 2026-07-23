@@ -21,7 +21,6 @@ Ce dossier rassemble tout ce qui parle d'argent, barèmes et indemnisation.
 
 - [`RAPPORT_AUDIT_FGTI_DINTILHAC.md`](RAPPORT_AUDIT_FGTI_DINTILHAC.md) — Audit FGTI / Dintilhac
 
-- [`RAPPORT_EVALUATION_DINTILHAC_2026-07-14.md`](RAPPORT_EVALUATION_DINTILHAC_2026-07-14.md) — Évaluation Dintilhac
 
 - [`RAPPORT_AVOCAT_DINTILHAC_20260713.md`](RAPPORT_AVOCAT_DINTILHAC_20260713.md) — Note avocat Dintilhac
 
