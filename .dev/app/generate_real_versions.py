@@ -77,6 +77,8 @@ def load_tokens_map():
         "Le Prénom du Préposé": "Ayoub",
         "Le Propriétaire des Murs": "Romain DELRIEU",
         "Le Proprietaire des Murs": "Romain DELRIEU",
+        "Adresse du Propriétaire des Murs": "17 rue de la Baïse, 31120 Roquettes",
+        "L'Adresse du Propriétaire des Murs": "17 rue de la Baïse, 31120 Roquettes",
         "L'Email du Propriétaire des Murs": "romain.delrieu@live.fr",
         "Le Chirurgien SOS Main": "Dr Iskander DJERBI",
         "RPPS Chirurgien SOS Main": "10101234567",
