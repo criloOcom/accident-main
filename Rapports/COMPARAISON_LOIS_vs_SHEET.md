@@ -1,4 +1,5 @@
 ---
+uid: rpefnP6hr
 title: "Comparaison Lois/ vs Google Sheet (sources juridiques)"
 date: "2026-07-22"
 type: rapport
