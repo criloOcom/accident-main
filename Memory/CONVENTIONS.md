@@ -568,14 +568,25 @@ Texte du paragraphe.
 
 <hr><hr>
 
-## XV — RÈGLES DE MISE EN PAGE ET TYPOGRAPHIE GOOGLE DOCS
+## XV — RÈGLES DE MISE EN PAGE ET TYPOGRAPHIE GOOGLE DOCS (CHARTE CANONIQUE)
 
-### 1. En-tête des courriers (Mise en forme)
-- **Bloc Expéditeur / Destinataire / Date / Objet** : séparés par des saut de lignes explicites (`&nbsp;` en Markdown lors de l'injection) pour garantir des espaces bien visibles à l'impression.
-- **Mise en gras** : le nom de l'expéditeur, le nom de l'organisme destinataire et la ligne **Objet** doivent être systématiquement en **gras**.
+### 1. En-tête des courriers
+- **Bloc Expéditeur** : Seul le **Nom Prénom** est en **gras**. L'adresse postale et l'adresse email sont en **texte normal (non gras)**. Retours à la ligne au sein du bloc gérés par des sauts doux (**Shift+Entrée** / 2 espaces) pour maintenir un interlignage compact.
+- **Bloc Destinataire** : Seule la **Raison sociale / Organisme** est en **gras**. Les lignes de service et d'adresse sont en **texte normal (non gras)**. Retours à la ligne au sein du bloc gérés par **Shift+Entrée**.
+- **Séparation des blocs** : Séparer le bloc Expéditeur, Destinataire, Date et Objet par des sauts de paragraphe clairs (`&nbsp;` en Markdown).
+- **Ligne Objet** : L'intitulé de la ligne **Objet : ...** est intégralement en **gras**. La ligne *Ref : ...* qui suit est en texte normal.
 
-### 2. Taille des titres et typographie (Secrétariat canonique)
-- **Titres de sections (H2 / `##`)** : la taille maximale des titres majeurs est fixée à **20 pt** (jamais 26 pt ou plus), en **gras**.
-- **Titres secondaires (H3 / `###`)** : taille **14-16 pt**, en **gras**.
-- **Corps de texte** : police standard 11 pt ou 12 pt, texte justifié, avec saut de paragraphe clair.
-- **Règle générale** : tous les agents doivent s'y conformer pour garantir l'uniformité des documents générés.
+### 2. Taille des titres et typographie
+- **Titres majeurs de sections** : La taille de police des titres de section (ex. `I — OBJET DE LA RELANCE`) est fixée à **16 pt** en **GRAS (BOLD)** (structure H3 / Heading 3).
+- **Corps de texte** : Police standard 11 pt ou 12 pt, texte justifié.
+
+### 3. Notes de bas de page (Footnotes)
+- **Fonctionnalité native obligatoire** : Toute référence jurisprudentielle ou légale citée en note doit être insérée avec le composant native **Footnote** de Google Docs (`createFootnote` avec segment dédié).
+- **Interdiction** : Ne jamais recréer de section factice "Sources" en simple texte au bas du document.
+
+### 4. Section PIECES JOINTES
+- **Titre de la section** : `PIECES JOINTES` en **16 pt GRAS**.
+- **Puces de pièces jointes** :
+  - **Intitulé de la pièce** (à gauche du tiret ` — `) : En **Bleu Lien Google + GRAS + Souligné + Hyperlien cliquable vers le fichier Google Drive**.
+  - **Description explicative** (après le tiret ` — `) : Strictement en **Texte Noir normal (non gras, non souligné, non bleu)**.
+- **Règle absolue** : Tous les agents (AntiGravity, OpenCode, Hermès, Jules) DOIVENT appliquer ce standard sans dérogation.
