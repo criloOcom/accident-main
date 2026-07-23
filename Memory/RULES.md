@@ -779,3 +779,25 @@ Si une profession ou activité erronée est découverte dans un fichier :
 - **Restitution NATIVE des séparateurs `<hr>` (Bordures de paragraphe)** : Il est strictement INTERDIT de simuler des lignes de séparation avec du texte (ex. suites de tirets `───`). Dans l'API Google Docs, les balises `<hr>` entourant des blocs (ex. Objet / Ref) DOIVENT être générées avec les propriétés natives de bordure de paragraphe `borderTop` et `borderBottom` (`updateParagraphStyle` avec `dashStyle: SOLID`, `width: 1PT`), qui tracent des lignes horizontales d'en-tête natifs parfaites et propres sans bricolage textuel.
 - **Hyperliens mailto: sur les adresses email d'en-tête** : Dans le bloc Expéditeur (et tout bloc citant une adresse email), l'adresse email (ex. `sebastien.grazide@gmail.com`) DOIT être transformée en **hyperlien cliquable de type `mailto:`** (`mailto:sebastien.grazide@gmail.com`) en **Bleu Lien Google + Souligné**, permettant l'ouverture directe du client de messagerie.
 - **Conformité multi-agents** : Cette norme de secrétariat est obligatoire pour tout agent intervenant sur le dossier.
+
+## #32 — GOOGLE SHEET PJ — INDEX CENTRALISÉ DES DOCUMENTS (RÈGLE PERMANENTE)
+
+### Périmètre
+Le Google Sheet **PJ** (`1cwb8L5fc7HqsAHP6IH32gSFwKRIdSztcYk1XmfbaYIg`) feuille `@` est l'index unique faisant le lien entre :
+- **Colonnes A–E** : les fichiers source (Preuves officielles)
+- **Colonnes G–K** : les fichiers Token et Reel (Actes/Token/ et Actes/Reel/)
+
+### Structure des lignes Token/Reel (G–K)
+- **G** : uid TOKEN (identifiant court du fichier dans `Actes/Token/`)
+- **H** : URL GitHub complète du fichier Token (branche `main`)
+- **J** : uid REEL (identique à G — un uid unique par paire Token+Reel)
+- **K** : URL GitHub complète du fichier Reel
+
+### Règles
+1. **Tout fichier créé dans Actes/Token/** DOIT avoir son uid et URL ajoutés dans le sheet (colonne G–H).
+2. **Tout fichier Reel généré** DOIT avoir sa ligne correspondante (même uid que Token, colonne J–K).
+3. **L'uid est unique** et identique pour Token et Reel d'un même document.
+4. **Les drive_id (colonne C/E)** sont optionnels. Un champ vide signifie que le document n'a pas encore de lien Google Drive.
+5. **Ne JAMAIS supposer la structure des colonnes** — toujours lire l'en-tête (ligne 2) et 3 lignes de données avant d'écrire dans le sheet.
+6. **Ne JAMAIS écrire dans le sheet** sans vérifier au préalable que l'uid n'y est pas déjà présent.
+7. Le fichier `CBEdW5mRW` (Police_Plainte_Complémentaire) a un uid présent en colonne G mais **sans drive_id dans son YAML** et sans ligne complète — ne pas dupliquer.

@@ -590,3 +590,32 @@ Texte du paragraphe.
   - **Intitulé de la pièce** (à gauche du tiret ` — `) : En **Bleu Lien Google + GRAS + Souligné + Hyperlien cliquable vers le fichier Google Drive**.
   - **Description explicative** (après le tiret ` — `) : Strictement en **Texte Noir normal (non gras, non souligné, non bleu)**.
 - **Règle absolue** : Tous les agents (AntiGravity, OpenCode, Hermès, Jules) DOIVENT appliquer ce standard sans dérogation.
+
+<hr><hr>
+
+## XVI — GOOGLE SHEET PJ (PIÈCES JOINTES) — MAPPING CENTRALISÉ
+
+### 1. Périmètre
+Le Google Sheet **PJ** (`1cwb8L5fc7HqsAHP6IH32gSFwKRIdSztcYk1XmfbaYIg`) est l'index unique de tous les documents du projet, dans la feuille **`@`**.
+
+### 2. Structure des colonnes (ligne 2 = en-têtes)
+
+| Colonne | Champ | Contenu |
+|---------|-------|---------|
+| **A** | uid Preuve | uid du fichier source dans `Actes/Preuves_officielles/` |
+| **B** | URL GitHub Preuve | Lien GitHub vers le fichier Preuve |
+| **C** | 📄Fichier 🔑ID Drive | Google Drive ID du fichier source |
+| **D** | Image ID | ID Google Drive de l'image |
+| **E** | Docs ID | ID Google Docs du document |
+| **F** | *(vide)* | Réserve |
+| **G** | uid TOKEN | uid du fichier tokenisé (dans `Actes/Token/`) |
+| **H** | uid TOKEN Url | URL GitHub du fichier Token |
+| **I** | *(vide)* | Réserve |
+| **J** | uid REEL | uid du fichier réel (identique à G) |
+| **K** | uid REEL Url | URL GitHub du fichier Reel |
+
+### 3. Règles de mapping
+- Token et Reel partagent toujours le **même uid** (colonne G = colonne J).
+- Les URLs GitHub sont dans la branche `main`.
+- Les drive_id vides (colonne C/E vides) = document non encore lié à Google Drive.
+- La ligne 1 du sheet contient le titre de la feuille. Les données commencent ligne 3 (en-têtes ligne 2).
