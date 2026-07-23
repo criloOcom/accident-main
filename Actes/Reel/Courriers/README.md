@@ -19,7 +19,7 @@ Généré automatiquement par [`.dev/app/generate_real_versions.py`](../../../.d
 
 - **[Administrations](Administrations/README.md)** — 15 fichiers · Signalements, saisine CADA, CODAF, INPI, DDETS, SDIS, SIE, URSSAF
 
-- **[Archivé](../../Token/README.md)** — 2 fichiers · Courriers classés
+- **[Archive](Archive/README.md)** — 2 fichiers · Courriers classés
 
 - **[CPAM](CPAM/README.md)** — 4 fichiers · Recours contre tiers, rectification, relances
 
@@ -29,12 +29,12 @@ Généré automatiquement par [`.dev/app/generate_real_versions.py`](../../../.d
 
 - **[Mairie](Mairie/README.md)** — 4 fichiers · Maire de Foix, Tavella
 
-- **[Médical](../../Token/README.md)** — 4 fichiers · CHIVA, médecin traitant, expert
+- **[Medical](Medical/README.md)** — 4 fichiers · CHIVA, médecin traitant, expert
 
 - **[Police](Police/README.md)** — 10 fichiers · Main courante, vidéos, témoins, enquête
 
-- **[Propriétaire](../../Token/README.md)** — 3 fichiers · Mise en demeure, relances
+- **[Proprietaire](Proprietaire/README.md)** — 3 fichiers · Mise en demeure, relances
 
-- **[SAS & Salon](../../Token/README.md)** — 10 fichiers · HB BARBER, dirigeants, assureur
+- **[SAS & Salon](SAS_et_Salon/README.md)** — 10 fichiers · HB BARBER, dirigeants, assureur
 
-- **[Témoins](../../Token/README.md)** — 7 fichiers · Attestations et relances témoins
+- **[Témoins](Temoins/README.md)** — 7 fichiers · Attestations et relances témoins
