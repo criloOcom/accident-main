@@ -21,6 +21,8 @@ Ce dossier contient ce que tu ouvres en premier pour savoir *quoi faire maintena
 
 - [`RAPPORT_EXECUTION_INTEGRATION_20260723_TPT.md`](RAPPORT_EXECUTION_INTEGRATION_20260723_TPT.md) — Rapport d'exécution : intégration des pièces médicales du 23/07/2026 (temps partiel thérapeutique)
 
+- [`ENQUETE_HALLUCINATIONS_IA_TIERCES_20260724.md`](ENQUETE_HALLUCINATIONS_IA_TIERCES_20260724.md) — Enquête sur les erreurs factuelles des IA tierces (Gemini) : diagnostic, questionnaire d'audit, protocole de vaccination
+
 - [`CARTOGRAPHIE_RISQUES.md`](CARTOGRAPHIE_RISQUES.md) — Matrice des 28 risques
 
 
