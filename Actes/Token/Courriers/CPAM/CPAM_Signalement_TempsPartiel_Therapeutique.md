@@ -51,15 +51,20 @@ Cette prescription est motivée par l'état de ma main droite opérée le 30 mai
 
 Aux fins d'exercice de votre recours subrogatoire, je vous notifie l'identité vérifiée du tiers exploitant au jour du sinistre :
 
-- **Exploitant du commerce** : **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, SAS au capital de **[Capital Social de l'Exploitation](../../../../Memory/Tokens/token-exploitation-capital-social.md)**, SIREN **[SIREN de l'Exploitation](../../../../Memory/Tokens/token-exploitation-siren.md)**, siège social **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** — et NON l'ancien exploitant (SAS LES MAUVAIS GARÇONS, SIREN 938 033 222), qui avait quitté les lieux le 10/03/2026 ;
+- **Exploitant du commerce** : **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, SAS au capital de **[Capital Social de l'Exploitation](../../../../Memory/Tokens/token-exploitation-capital-social.md)**, SIREN **[SIREN de l'Exploitation](../../../../Memory/Tokens/token-exploitation-siren.md)**  
+  *Adresse du siège social : [L'Adresse de l'Exploitation (Complète)](../../../../Memory/Tokens/token-exploitation-adresse-complete.md)* — (et NON l'ancien exploitant SAS LES MAUVAIS GARÇONS, SIREN 938 033 222, qui avait quitté les lieux le 10/03/2026) ;
 
-- **Président** : **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** ;
+- **Président** : **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)**  
+  *Adresse personnelle : [L'Adresse du Président](../../../../Memory/Tokens/token-exploitation-president-adresse.md)* ;
 
-- **Directrice Générale** : **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** ;
+- **Directrice Générale** : **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**  
+  *Adresse personnelle : [L'Adresse de la Directrice Générale](../../../../Memory/Tokens/token-exploitation-dg-adresse.md)* ;
 
-- **Préposé (coiffeur) présent lors de l'accident** : **[Le Préposé de l'Exploitation](../../../../Memory/Tokens/token-exploitation-prepose-nom.md)** ;
+- **Préposé (coiffeur) présent lors de l'accident** : **[Le Préposé de l'Exploitation](../../../../Memory/Tokens/token-exploitation-prepose-nom.md)**  
+  *Coordonnées téléphoniques (paiement Wero) : [Le Téléphone du Préposé](../../../../Memory/Tokens/token-exploitation-prepose-telephone.md)* ;
 
-- **Propriétaire des murs (bailleur)** : **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**.
+- **Propriétaire des murs (bailleur)** : **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**  
+  *Adresse personnelle : [Adresse du Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-adresse.md)*.
 
 ## IV — CARENCE DES TIERS MIS EN DEMEURE
 

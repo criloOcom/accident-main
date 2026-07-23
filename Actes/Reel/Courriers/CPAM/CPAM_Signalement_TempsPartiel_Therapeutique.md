@@ -51,15 +51,20 @@ Cette prescription est motivée par l'état de ma main droite opérée le 30 mai
 
 Aux fins d'exercice de votre recours subrogatoire, je vous notifie l'identité vérifiée du tiers exploitant au jour du sinistre :
 
-- **Exploitant du commerce** : SAS HB BARBER, SAS au capital de 1 000 €, SIREN 104 103 262, siège social 22 Rue Lafaurie, 09000 Foix — et NON l'ancien exploitant (SAS LES MAUVAIS GARÇONS, SIREN 938 033 222), qui avait quitté les lieux le 10/03/2026 ;
+- **Exploitant du commerce** : SAS HB BARBER, SAS au capital de 1 000 €, SIREN 104 103 262  
+  *Adresse du siège social : [L'Adresse de l'Exploitation (Complète)]* — (et NON l'ancien exploitant SAS LES MAUVAIS GARÇONS, SIREN 938 033 222, qui avait quitté les lieux le 10/03/2026) ;
 
-- **Président** : Hamza El Hachemi BERGUIGA ;
+- **Président** : Hamza El Hachemi BERGUIGA  
+  *Adresse personnelle : 115 avenue Fernand Loubet, 09200 Saint-Girons* ;
 
-- **Directrice Générale** : Catherine SORROCHE, dite ANDISSAC ;
+- **Directrice Générale** : Catherine SORROCHE, dite ANDISSAC  
+  *Adresse personnelle : 351 route Impériale, 34670 Baillargues* ;
 
-- **Préposé (coiffeur) présent lors de l'accident** : Ayoub BENNOURINE ;
+- **Préposé (coiffeur) présent lors de l'accident** : Ayoub BENNOURINE  
+  *Coordonnées téléphoniques (paiement Wero) : 07 58 40 12 87* ;
 
-- **Propriétaire des murs (bailleur)** : Romain DELRIEU.
+- **Propriétaire des murs (bailleur)** : Romain DELRIEU  
+  *Adresse personnelle : [Adresse du Propriétaire des Murs]*.
 
 ## IV — CARENCE DES TIERS MIS EN DEMEURE
 
