@@ -47,11 +47,11 @@ Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-vi
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
 <!-- /Date -->
 
-<hr><hr>
+<hr>
 Objet : Suite a votre message du 1er juin 2026 — Demande d'information sur les diligences Inspection du Travail et CODAF
-<hr><hr>
 
 Ref : Votre courriel du 1er juin 2026
+<hr>
 
 Monsieur l'Adjoint au Maire,
 
