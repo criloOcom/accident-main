@@ -29,7 +29,7 @@ reel_path: ../../Reel/Preuves_officielles/Preparation_Expertise_UMJ.md
 
 ### I.2 — DOCUMENTS MÉDICAUX — ACCIDENT INITIAL- [ ] **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** (Dr Iskander DJERBI, 30/05/2026) — microchirurgie tendons/nerfs index droit
 
-- [ ] **[Premiers soins](../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** (Dr Julie JARDON, 29/05/2026, 16h30)
+- [ ] **[Premiers soins](../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** (Dr Julie JARDON, 29/05/2026, 16h30)
 
 - [ ] **Prescription initiale** (Dr Julie JARDON)
 
@@ -67,7 +67,7 @@ reel_path: ../../Reel/Preuves_officielles/Preparation_Expertise_UMJ.md
 |-------|-------|
 | [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) Dr Iskander DJERBI | [Lien](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |
 | Ordonnance sortie Dr Iskander DJERBI | [Lien](https://drive.google.com/file/d/1CasEuj6N2FVmg9kAxKhdqKD70UYmq4Vh/view) |
-| [Premiers soins](../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) Dr Julie JARDON | [Lien](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view) |
+| [Premiers soins](../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) Dr Julie JARDON | [Lien](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view) |
 | Prescription Dr Julie JARDON | [Lien](https://drive.google.com/file/d/16ZtYjUZW0dmH0UPrHQG9bLlpWdOwflcA/view) |
 | Arrêt travail Dr Oxybel | [Lien](https://drive.google.com/file/d/1SLKUX5cDm2cuATQS3ya7_7WQYI_sjZPm/view) |
 | Dépôt plainte Police | [Lien](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view) |

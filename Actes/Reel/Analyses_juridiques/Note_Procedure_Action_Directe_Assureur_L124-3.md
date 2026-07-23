@@ -33,7 +33,7 @@ La présente note a pour objet d'analyser les conditions, la prescription et la 
 
 Elle s'inscrit dans le cadre d'une procédure en deux temps :
 
-- **Phase 1** : Référé sur l'article 145 [À VÉRIFIER] du Code de procédure civile pour obtenir l'identité de l'assureur, que le dirigeant refuse de communiquer (en cours — [**assignation en référé**](../Actes_proceduraux)).
+- **Phase 1** : Référé sur l'article 145 du Code de procédure civile pour obtenir l'identité de l'assureur, que le dirigeant refuse de communiquer (en cours — [**assignation en référé**](../Actes_proceduraux)).
 
 - **Phase 2** : Action directe en référé-provision (article 835 CPC) et/ou au fond contre l'assureur une fois identifié, pour obtenir l'indemnisation du préjudice corporel.
 
@@ -92,7 +92,7 @@ La Cour de cassation a ainsi cassé l'arrêt de la cour d'appel de Chambéry qui
 
 **Application au cas d'espèce :**
 
-Pour les dommages corporels, la prescription de l'action en responsabilité est fixée à **dix ans** à compter de la consolidation, en application de l'article 2226 [À VÉRIFIER] du Code civil. Toutefois, la prescription est de **cinq ans** si l'action est fondée sur la responsabilité contractuelle de l'ERP (obligation de sécurité — art. 2224 C. civ.), ou de **dix ans** si fondée sur la responsabilité délictuelle (art. 2226 [À VÉRIFIER] C. civ.).
+Pour les dommages corporels, la prescription de l'action en responsabilité est fixée à **dix ans** à compter de la consolidation, en application de l'article 2226 du Code civil[^n1]. Toutefois, la prescription est de **cinq ans** si l'action est fondée sur la responsabilité contractuelle de l'ERP (obligation de sécurité — art. 2224 C. civ.), ou de **dix ans** si fondée sur la responsabilité délictuelle (art. 2226 C. civ.).
 
 > *« L'action en responsabilité née à raison d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices qui en résultent, se prescrit par dix ans à compter de la date de la consolidation du dommage initial ou aggravé. »* <br>
 > [Article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000190172](../../../Lois/Code/LEGIARTI0000190172.md)59)
@@ -108,11 +108,11 @@ Il est impératif de ne pas confondre :
 
 - **Prescription de l'action directe** : suit celle de l'action contre l'assuré (5 ou 10 ans selon le fondement).
 
-> *« L'action directe de la victime contre l'assureur est soumise à la prescription de droit commun de l'action en responsabilité contre l'assuré, et non à la prescription biennale de l'article L.114-1 [À VÉRIFIER] du Code des assurances. »* <br>
+> *« L'action directe de la victime contre l'assureur est soumise à la prescription de droit commun de l'action en responsabilité contre l'assuré, et non à la prescription biennale de l'article L.114-1 du Code des assurances. »* <br>
 > [CA Versailles, 2025, n°22/01019](https://www.doctrine.fr/) <br>
 > **Cour d'appel de Versailles**
 
-**Dans notre dossier :** L'accident étant survenu le 29 mai 2026, et Sébastien GRAZIDE n'étant pas encore consolidée, la prescription court à compter de la date de consolidation. L'assignation en référé sur l'article 145 CPC interrompt la prescription (art. 2241 [À VÉRIFIER] C. civ.). Le délai pour agir est donc très large, mais il convient d'agir sans délai pour éviter tout débat dilatoire.
+**Dans notre dossier :** L'accident étant survenu le 29 mai 2026, et Sébastien GRAZIDE n'étant pas encore consolidée, la prescription court à compter de la date de consolidation. L'assignation en référé sur l'article 145 CPC interrompt la prescription (art. 2241 C. civ.). Le délai pour agir est donc très large, mais il convient d'agir sans délai pour éviter tout débat dilatoire.
 <hr><hr>
 
 ## IV — CONDITIONS DE MISE EN ŒUVRE DE L'ACTION DIRECTE
@@ -121,7 +121,7 @@ L'action directe contre l'assureur suppose la réunion de quatre conditions cumu
 
 ### IV.1 — Existence d'une assurance RC en vigueur au jour du sinistre
 
-La condition première est que la SAS exploitante (SAS LES MAUVAIS GARCONS soit titulaire d'un contrat d'assurance de responsabilité civile professionnelle (RC Pro) en vigueur le 29 mai 2026. En tant qu'ERP recevant du public (salon de coiffure — activités de soins esthétiques), cette assurance est obligatoire en application de l'article L.1142-2 [À VÉRIFIER] du Code de la santé publique pour les activités de soins, et en tout état de cause nécessaire à l'exploitation commerciale.
+La condition première est que la SAS exploitante (SAS LES MAUVAIS GARCONS soit titulaire d'un contrat d'assurance de responsabilité civile professionnelle (RC Pro) en vigueur le 29 mai 2026. En tant qu'ERP recevant du public (salon de coiffure — activités de soins esthétiques), cette assurance est obligatoire en application de l'article L.1142-2 du Code de la santé publique pour les activités de soins, et en tout état de cause nécessaire à l'exploitation commerciale.
 
 L'obstacle actuel est le refus de Hamza El Hachemi BERGUIGA de communiquer les coordonnées de l'assureur. Cette rétention d'information est abusive et constitue un manquement à l'obligation de loyauté dans la procédure.
 
@@ -197,7 +197,7 @@ L'assignation en référé demande :
 
 - **Opposition à la communication** : le dirigeant pourrait prétendre ne pas connaître l'assureur (défense peu crédible pour une société commerciale).
 
-- **Inexistence d'assurance** : si la SAS n'est pas assurée (ce qui constituerait une infraction pénale en soi — art. L.243-1 [À VÉRIFIER] C. assur. pour certaines activités professionnelles), la procédure devra se rediriger vers le FGAO (voir section VI).
+- **Inexistence d'assurance** : si la SAS n'est pas assurée (ce qui constituerait une infraction pénale en soi — art. L.243-1 C. assur. pour certaines activités professionnelles), la procédure devra se rediriger vers le FGAO (voir section VI).
 <hr><hr>
 
 ## VI — CHAMP FGAO / CIVI<br>ARRÊTS 20-22.100 ET 20-19.288
@@ -206,7 +206,7 @@ Il est nécessaire d'examiner les mécanismes subsidiaires d'indemnisation au ca
 
 ### VI.1 — Le FGAO (Fonds de Garantie des Assurances Obligatoires)
 
-Le FGAO intervient en cas d'accident de la circulation impliquant un véhicule terrestre à moteur (art. L.421-1 [À VÉRIFIER] C. assur.). L'accident en cause (vasque céramique dans un salon de coiffure) n'entre pas dans ce champ : il ne s'agit pas d'un accident de la circulation, mais d'un accident de la vie courante survenu en ERP.
+Le FGAO intervient en cas d'accident de la circulation impliquant un véhicule terrestre à moteur (art. L.421-1 C. assur.). L'accident en cause (vasque céramique dans un salon de coiffure) n'entre pas dans ce champ : il ne s'agit pas d'un accident de la circulation, mais d'un accident de la vie courante survenu en ERP.
 
 **Le FGAO n'est donc pas compétent dans notre dossier.**
 
@@ -216,7 +216,7 @@ La CIVI, régie par l'article 706-3 du Code de procédure pénale, permet l'inde
 
 Cependant, la Cour de cassation a posé un principe d'exclusivité des régimes d'indemnisation :
 
-> *« Les dommages susceptibles d'être indemnisés par le FGAO en application des articles L.421-1 [À VÉRIFIER] et L.424-1 à L.424-7 du code des assurances sont exclus de la compétence de la CIVI, peu important que le FGAO intervienne subsidiairement, en présence d'un assureur du responsable susceptible d'indemniser la victime. »* <br>
+> *« Les dommages susceptibles d'être indemnisés par le FGAO en application des articles L.421-1 et L.424-1 à L.424-7 du code des assurances sont exclus de la compétence de la CIVI, peu important que le FGAO intervienne subsidiairement, en présence d'un assureur du responsable susceptible d'indemniser la victime. »* <br>
 > [Civ. 2e, 24 novembre 2022, n°20-22.100](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000466520](../../../Lois/Jurisprudence/JURITEXT0000466520.md)31) <br>
 > **Cour de cassation, Deuxième chambre civile — Publié au Bulletin**
 
@@ -245,7 +245,7 @@ Cependant, la Cour de cassation a posé un principe d'exclusivité des régimes 
 
 ### VII.1 — Exclusion de garantie pour faute dolosive (L.113-1)
 
-Le principal risque est que l'assureur tente d'opposer une exclusion de garantie fondée sur l'article L.113-1 [À VÉRIFIER] du Code des assurances.
+Le principal risque est que l'assureur tente d'opposer une exclusion de garantie fondée sur l'article L.113-1 du Code des assurances.
 
 > *« Les pertes et les dommages occasionnés par des cas fortuits ou causés par la faute de l'assuré sont à la charge de l'assureur, sauf exclusion formelle et limitée contenue dans la police. Toutefois, l'assureur ne répond pas des pertes et dommages provenant d'une faute intentionnelle ou dolosive de l'assuré. »* <br>
 > [Article L.113-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000067919](../../../Lois/Code/LEGIARTI0000067919.md)86)
@@ -264,11 +264,11 @@ Le contrat d'assurance peut prévoir un plafond de garantie (limite quantitative
 
 ### VII.4 — Prescription quinquennale (art. 2224 C. civ.)
 
-Même si la prescription décennale de l'article 2226 [À VÉRIFIER] C. civ. est le régime protecteur pour les dommages corporels, un débat pourrait naître sur le point de départ de la prescription :
+Même si la prescription décennale de l'article 2226 C. civ. est le régime protecteur pour les dommages corporels, un débat pourrait naître sur le point de départ de la prescription :
 
 - **Si l'action est fondée contractuellement** (obligation de sécurité de l'ERP) : prescription **5 ans** à compter de la connaissance des faits (art. 2224 C. civ.).
 
-- **Si l'action est fondée délictuellement** (art. 1242 C. civ.) : prescription **10 ans** à compter de la consolidation (art. 2226 [À VÉRIFIER] C. civ.).
+- **Si l'action est fondée délictuellement** (art. 1242 C. civ.) : prescription **10 ans** à compter de la consolidation (art. 2226 C. civ.).
 
 La distinction est importante pour la stratégie : il convient de cumuler les deux fondements pour bénéficier du délai le plus favorable.
 
@@ -278,7 +278,7 @@ Si la SAS s'avère ne pas être assurée (hypothèse pessimiste mais envisageabl
 
 - L'action directe devient impossible ;
 
-- La responsabilité personnelle du dirigeant pour défaut d'assurance obligatoire peut être recherchée (art. L.243-1 [À VÉRIFIER] C. assur.) ;
+- La responsabilité personnelle du dirigeant pour défaut d'assurance obligatoire peut être recherchée (art. L.243-1 C. assur.) ;
 
 - La CIVI peut être saisie (infraction de blessures involontaires) ;
 
@@ -290,7 +290,7 @@ Le comportement de Hamza El Hachemi BERGUIGA (dissimulation de l'assureur, chang
 
 - Une violation de l'obligation de loyauté procédurale ;
 
-- Potentiellement une escroquerie au jugement (art. 313-1 [À VÉRIFIER] CP) ;
+- Potentiellement une escroquerie au jugement (art. 313-1 CP) ;
 
 - Un abus de droit de ne pas communiquer les informations d'assurance.
 
@@ -329,9 +329,9 @@ Le comportement de Hamza El Hachemi BERGUIGA (dissimulation de l'assureur, chang
 
 | Action | Fondement | Délai | Point de départ |
 |:---|:---|:---|:---|
-| Action directe contre l'assureur | L.124-3 C. assur. | 10 ans (art. 2226 [À VÉRIFIER] C. civ.) ou 5 ans (art. 2224 C. civ.) | Consolidation (10 ans) ou connaissance des faits (5 ans) |
+| Action directe contre l'assureur | L.124-3 C. assur. | 10 ans (art. 2226 C. civ.) ou 5 ans (art. 2224 C. civ.) | Consolidation (10 ans) ou connaissance des faits (5 ans) |
 | Action contractuelle de l'assuré contre l'assureur | L.114-1 C. assur. | 2 ans | Événement donnant naissance à l'action |
-| Action en responsabilité délictuelle | Art. 1242 C. civ. | 10 ans (art. 2226 [À VÉRIFIER] C. civ.) | Consolidation |
+| Action en responsabilité délictuelle | Art. 1242 C. civ. | 10 ans (art. 2226 C. civ.) | Consolidation |
 | Action en réparation devant la CIVI | Art. 706-3 CPP | 3 ans à compter de l'infraction | Date de l'infraction |
 | Plainte pénale (blessures involontaires) | Art. 222-19 CP | 6 ans (délit) | Date de l'accident |
 
@@ -371,7 +371,7 @@ L'action directe contre l'assureur de SAS LES MAUVAIS GARCONS sur le fondement d
 **Points forts :**
 - Droit propre de la victime, autonome et non affecté par les procédures collectives ;
 
-- Prescription décennale (art. 2226 [À VÉRIFIER] C. civ.) protectrice ;
+- Prescription décennale (art. 2226 C. civ.) protectrice ;
 
 - Responsabilité de l'ERP acquise au regard de la jurisprudence ;
 
@@ -395,3 +395,17 @@ L'action directe contre l'assureur de SAS LES MAUVAIS GARCONS sur le fondement d
 4. En cas de silence ou refus, saisir le juge des référés pour obtenir une provision et une expertise médicale ;
 
 5. Si la SAS n'est pas assurée, engager sans délai une procédure pénale (blessures involontaires) et saisir la CIVI.
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^n1]: > « L'action en responsabilité née à raison d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices qui en résultent, se prescrit par dix ans à compter de la date de la consolidation du dommage initial ou aggravé. Toutefois, en cas de préjudice causé par des tortures ou des actes de barbarie, ou par des violences ou des agressions sexuelles commises contre un mineur, l'action en responsabilité civile est prescrite par vingt ans. » <br>
+    > **Code civil > Section 2 : De quelques délais et points de départ particuliers.** <br>
+    > [Article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259) ↩
+
+[^n2]: > « I. - Le fonds de garantie des assurances obligatoires de dommages indemnise, dans les conditions prévues aux 1 et 2 du présent I, les victimes ou les ayants droit des victimes des dommages nés d'un accident survenu en France dans lequel est impliqué un véhicule au sens de l'article L. 211-1 . 1. Le fonds de garantie indemnise les dommages résultant d'atteintes à la personne : a) Lorsque le responsable des dommages est inconnu ; b) Lorsque le responsable des dommages n'est pas assuré, sauf par l'effet d'une dérogation légale à l'obligation d'assurance. 2. Le fonds de garantie indemnise les dommages aux biens, dans les conditions et limites fixées par un décret en Conseil d'Etat : a) Lorsque le responsable des dommages est inconnu, sous réserve que l'accident ait causé une atteinte à la personne ; b) Lorsque le responsable des dommages est identifié mais n'est pas assuré, sauf par l'effet d'une dérogation légale à l'obligation d'assurance. Dans le cas d'un accident impliquant un véhicule expédié d'un Etat membre de la Communauté européenne vers la France et survenant dans les trente jours suivant l'acceptation de la livraison du véhicule par l'acheteur, le fonds de garantie est tenu d'intervenir au titre du b des 1 et 2, quel que soit l'Etat membre sur le territoire duquel survient l'accident. II. - Le fonds de garantie indemnise également, dans les conditions prévues aux 1 et 2 du présent II, les victimes ou les ayants droit des victimes de dommages nés d'un accident de la circulation causé, dans les lieux ouverts à la circulation publique, par une personne circulant sur le sol ou un animal. 1. Le fonds de garantie indemnise les dommages résultant d'atteintes à la personne : a) Lorsque la personne responsable du dommage est inconnue ou n'est pas assurée ; b) Lorsque l'animal responsable du dommage n'a pas de propriétaire ou que son propriétaire est inconnu ou n'est pas assuré. 2. Le fonds de garantie indemnise les dommages aux biens, dans les conditions et limites fixées par décret en Conseil d'Etat : a) Lorsque la personne responsable du dommage est identifiée mais n'est pas assurée ; b) Lorsque la personne responsable du dommage est inconnue, sous réserve que l'accident ait causé une atteinte à la personne ; c) Lorsque le propriétaire de l'animal responsable du dommage n'est pas assuré. III. - Lorsque le fonds de garantie intervient au titre des I et II, les indemnités doivent résulter soit d'une décision juridictionnelle exécutoire, soit d'une transaction ayant reçu l'assentiment du fonds de garantie. Lorsque le fonds de garantie intervient au titre des I et II, il paie les indemnités allouées aux victimes ou à leurs ayants droit qui ne peuvent être prises en charge à aucun autre titre lorsque l'accident ouvre droit à réparation. Les versements effectués au profit des victimes ou de leurs ayants droit et qui ne peuvent pas donner lieu à une action récursoire contre le responsable des dommages ne sont pas considérés comme une indemnisation à un autre titre. IV. - Le fonds de garantie est également chargé de gérer et de financer, pour les rentes allouées au titre des accidents survenus avant le 1er janvier 2013, les majorations de rentes prévues à l'article 1er de la loi n° 74-1118 du 27 décembre 1974 relative à la revalorisation de certaines rentes allouées en réparation du préjudice causé par un véhicule terrestre à moteur et portant diverses dispositions d'ordre civil et à l'article 1er de la loi n° 51-695 du 24 mai 1951 portant majoration de certaines rentes viagères et pensions, au titre des états justificatifs certifiés. Les créances relatives aux majorations de rentes visées au présent alinéa se prescrivent dans un délai de quatre ans à partir du premier jour de l'année suivant celle au cours de laquelle les droits ont été acquis. Le fonds peut contrôler sur pièces et sur place l'exactitude des renseignements fournis par les organismes débirentiers. La gestion de cette mission par le fonds fait l'objet d'une comptabilité séparée des autres missions, selon des modalités fixées par arrêté du ministre chargé de l'économie. V. - Le fonds de garantie peut financer, selon des modalités et dans des limites fixées par décret en Conseil d'Etat, des actions visant à réduire le nombre des accidents de la circulation et à prévenir l'absence d'assurance de responsabilité civile automobile. Le fonds de garantie peut également mener directement, selon des modalités fixées par décret en Conseil d'Etat, des actions visant à limiter les cas de défaut d'assurance de responsabilité civile automobile. Pour mener ces actions, le fonds de garantie est autorisé à conserver pendant une durée de sept ans les informations communiquées par l'organisme d'information mentionné à l'article L. 451-1 relatives aux véhicules terrestres à moteur ne répondant pas à l'obligation d'assurance mentionnée à l'article L. 211-1. VI. - Le fonds de garantie est l'organisme chargé des missions prévues par les sections I et II du chapitre IV du présent titre. » <br>
+    > **Code des assurances > Section I : Dispositions générales.** <br>
+    > [Article L421-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523697) ↩
+<!-- /Source -->

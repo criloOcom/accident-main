@@ -70,7 +70,7 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 |-------|-------|
 | **C. civ. art. 1719-1720 [À VÉRIFIER]** | Obligations du bailleur : délivrance, entretien, jouissance paisible |
 | **C. consom. art. L.421-3** | Obligation générale de sécurité des produits et services |
-| **CCH art. R.143-2 [À VÉRIFIER]** | Définition des ERP |
+| **CCH art. R.143-2** | Définition des ERP |
 | **CGCT art. L.2212-2 et L.2212-4** | Pouvoirs du maire en matière de sécurité publique |
 
 <hr><hr>
@@ -81,7 +81,7 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 |-------|-------|
 | **CPC art. 145** | Mesure d'instruction in futurum (obtenir bail, états des lieux, polices d'assurance) |
 | **CPC art. 835** | Référé-provision (acompte sur indemnisation) |
-| **CPP art. 475-1 [À VÉRIFIER]** | Frais d'avocat en cas de [constitution de partie civile](../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) |
+| **CPP art. 475-1** | Frais d'avocat en cas de [constitution de partie civile](../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) |
 
 ### ⑦ TRACE DE PAIEMENT – WERO
 

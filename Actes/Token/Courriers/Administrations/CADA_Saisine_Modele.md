@@ -105,7 +105,7 @@ Par courriers recommandés des **[dates des courriers 41 et 42]**, j'ai sollicit
 
 - **Refus exprès** : Par courrier du **[date du refus]**, l'administration m'a opposé un refus au motif suivant : **[motif invoqué : secret enquête / document interne / etc.]**.
 
-- **Refus implicite** : À ce jour, soit plus de deux mois après ma demande, je n'ai reçu aucune réponse, ce qui vaut décision implicite de refus de communication (CRPA Art. L. 231-4 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER]).
+- **Refus implicite** : À ce jour, soit plus de deux mois après ma demande, je n'ai reçu aucune réponse, ce qui vaut décision implicite de refus de communication (CRPA Art. L. 231-4).
 <hr><hr>
 
 ## V — Objet exact de la saisine

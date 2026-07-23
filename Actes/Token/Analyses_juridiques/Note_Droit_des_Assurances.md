@@ -49,15 +49,15 @@ L'obstacle actuel réside dans la rétention d'informations par [**[Le Présiden
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.**
 <hr><hr>
 
-## III — RISQUES D'EXCLUSION DE GARANTIE (ART. L.113-1 [À VÉRIFIER] C. ASSUR.)
+## III — RISQUES D'EXCLUSION DE GARANTIE (ART. L.113-1 C. ASSUR.)
 
 En matière d'assurance de responsabilité civile, les pertes et dommages occasionnés par un cas fortuit ou causés par la faute de l'assuré sont à la charge de l'assureur. Seule la faute intentionnelle ou dolosive est exclue de plein droit.
 
 > *« Les pertes et les dommages occasionnés par des cas fortuits ou causés par la faute de l'assuré sont à la charge de l'assureur, sauf exclusion formelle et limitée contenue dans la police. Toutefois, l'assureur ne répond pas des pertes et dommages provenant d'une faute intentionnelle ou dolosive de l'assuré. »* <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre Ier > Chapitre III.** <br>
-> [Article L. 113-1](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000067919](../../../Lois/Code/LEGIARTI0000067919.md)86) *(Note : Citation de l'article L113-1 [À VÉRIFIER] consolidé)* <br>
+> [Article L. 113-1](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000067919](../../../Lois/Code/LEGIARTI0000067919.md)86) *(Note : Citation de l'article L113-1 consolidé)* <br>
 
-**Analyse :** La matérialité des faits (escalade par le préposé et effondrement de la vasque défectueuse) relève de la maladresse, de la négligence ou du manquement à une obligation de sécurité (faute caractérisée ou délictuelle). Elle ne constitue en aucun cas une faute intentionnelle (volonté de créer le dommage tel qu'il s'est réalisé). L'assureur ne peut donc valablement opposer une exclusion de garantie au titre de l'article L. 113-1 [À VÉRIFIER], ni invoquer l'état d'alcoolémie éventuel du dirigeant, ce dernier n'étant pas l'auteur matériel direct de l'acte, et le dommage restant un accident. Par ailleurs, l'Aléa Législatif (ALD) est inopérant ici, le risque de blessure par équipement défectueux entrant dans les garanties de base de la RC Pro (Responsabilité Civile Professionnelle).
+**Analyse :** La matérialité des faits (escalade par le préposé et effondrement de la vasque défectueuse) relève de la maladresse, de la négligence ou du manquement à une obligation de sécurité (faute caractérisée ou délictuelle). Elle ne constitue en aucun cas une faute intentionnelle (volonté de créer le dommage tel qu'il s'est réalisé). L'assureur ne peut donc valablement opposer une exclusion de garantie au titre de l'article L. 113-1, ni invoquer l'état d'alcoolémie éventuel du dirigeant, ce dernier n'étant pas l'auteur matériel direct de l'acte, et le dommage restant un accident. Par ailleurs, l'Aléa Législatif (ALD) est inopérant ici, le risque de blessure par équipement défectueux entrant dans les garanties de base de la RC Pro (Responsabilité Civile Professionnelle).
 <hr><hr>
 
 ## IV — DÉCLARATION DE SINISTRE ET MISE EN DEMEURE (ART. L.113-2 C. ASSUR.)
@@ -71,7 +71,7 @@ L'assuré a l'obligation stricte de déclarer le sinistre.
 **Conséquences du défaut :** Si [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) n'a pas déclaré le sinistre, l'assureur pourrait théoriquement tenter de lui opposer une déchéance de garantie pour déclaration tardive. Cependant, cette déchéance ne peut être opposée à la victime exerçant son action directe, dont le droit à indemnisation est cristallisé au jour de l'accident. La mise en demeure adressée le 29 mai 2026 par [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) a vocation à déclencher officiellement l'ouverture du dossier auprès de la compagnie.
 <hr><hr>
 
-## V — PRESCRIPTION : ART. L.114-1 [À VÉRIFIER] VS ART. 2226 [À VÉRIFIER] C. CIV.
+## V — PRESCRIPTION : ART. L.114-1 VS ART. 2226 C. CIV.
 
 Le délai de prescription en droit des assurances est un piège classique, mais inapplicable à la victime corporelle directe.
 
@@ -79,7 +79,7 @@ Le délai de prescription en droit des assurances est un piège classique, mais 
 > [Article L. 114-1](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000446077](../../../Lois/Code/LEGIARTI0000446077.md)40) <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre Ier > Chapitre IV.**
 
-**Analyse :** Cette prescription biennale (2 ans) de l'article L. 114-1 [À VÉRIFIER] régit les relations entre l'assureur et l'assuré. En revanche, l'action directe de la victime contre l'assureur est soumise au même délai de prescription que son action contre le responsable, s'agissant d'un dommage corporel.
+**Analyse :** Cette prescription biennale (2 ans) de l'article L. 114-1 régit les relations entre l'assureur et l'assuré. En revanche, l'action directe de la victime contre l'assureur est soumise au même délai de prescription que son action contre le responsable, s'agissant d'un dommage corporel.
 
 > *« L'action en responsabilité née à raison d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices qui en résultent, se prescrit par dix ans à compter de la date de la consolidation du dommage initial ou aggravé. »* <br>
 > [Article 2226](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000190172](../../../Lois/Code/LEGIARTI0000190172.md)59) <br>
@@ -135,7 +135,7 @@ Je vous adresse la présente mise en demeure en votre qualité d'assureur garant
 
 Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein des locaux de votre assuré, lorsqu'une vasque en céramique défectueuse a basculé à la suite d'une manœuvre imprudente de son préposé, entraînant une lésion sévère de ma main droite (tendons et nerfs sectionnés, [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours).
 
-L'entière responsabilité de votre assuré est acquise, ce dernier ayant manqué à son obligation de sécurité, le matériel utilisé étant incontestablement défectueux (art. 1242 du Code civil).
+L'entière responsabilité de votre assuré est acquise, ce dernier ayant manqué à son obligation de sécurité, le matériel utilisé étant incontestablement défectueux (art. 1242 du Code civil[^n1]).
 
 L'obligation d'indemnisation n'étant pas sérieusement contestable, je vous mets en demeure de :
 1. Procéder à l'ouverture du dossier de sinistre.
@@ -155,6 +155,7 @@ Dans l'attente de votre prise de position urgente,
 Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
 
 [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md)
+
 <!-- Source -->
 <hr><hr>
 

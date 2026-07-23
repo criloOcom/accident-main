@@ -79,7 +79,7 @@ ACCIDENT 29/05/2026
 | Écrire à la **Préfecture / CODAF** pour état d'avancement | CRPA Art. L. 300-1 | Aucun (si poli et factuel) |
 | Écrire à l'**Inspection du travail** pour état d'avancement | CRPA + jurisprudence CE favorable aux victimes | Aucun |
 | Demander communication des **rapports d'enquête** nous concernant | CRPA + CE, victime d'accident du travail → droit d'accès au rapport | Peut être refusé si enquête en cours |
-| Saisir la **CADA** après refus | CRPA Art. L. 342-1 [À VÉRIFIER] | Aucun (mais long) |
+| Saisir la **CADA** après refus | CRPA Art. L. 342-1 | Aucun (mais long) |
 
 ### II.2 — Ce qu'on ne peut PAS faire
 
@@ -105,9 +105,9 @@ ACCIDENT 29/05/2026
 | Droit | Texte |
 |-------|-------|
 | Être informé de l'état de la procédure | Art. 10-2 CPP |
-| Être informé des suites données à la plainte (classement, poursuites, alternatives) | Art. 40-2 [À VÉRIFIER] CPP |
+| Être informé des suites données à la plainte (classement, poursuites, alternatives) | Art. 40-2 CPP |
 | Demander des actes d'enquête | Art. 10-2 CPP |
-| Accéder au dossier (via constitution partie civile) | Art. 114 [À VÉRIFIER] CPP |
+| Accéder au dossier (via constitution partie civile) | Art. 114 CPP |
 | Être indemnisé | Voie civile après reconnaissance pénale |
 
 ### III.2 — Notre situation pénale au 15 juillet 2026
@@ -158,7 +158,7 @@ ACCIDENT 29/05/2026
 | Texte | Contenu |
 |-------|---------|
 | **Art. 10-2 CPP** | Droit de la victime à l'information sur l'état de la procédure pénale |
-| **Art. 40-2 [À VÉRIFIER] CPP** | Information de la victime sur les suites de sa plainte |
+| **Art. 40-2 CPP** | Information de la victime sur les suites de sa plainte |
 | **Art. L. 300-1 CRPA** | Droit d'accès aux documents administratifs |
 | **Art. 145 CPC** | Mesure d'instruction in futurum (requête prête, dépôt prévu après obtention AJ) |
 | **Jurisprudence CE** | Droit de la victime d'accéder au rapport d'enquête de l'Inspection du travail la concernant |

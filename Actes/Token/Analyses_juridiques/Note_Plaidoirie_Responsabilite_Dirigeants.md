@@ -32,7 +32,7 @@ Rédigé par : La Victime
 
 Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) dans le cadre de l'accident corporel survenu le [**[J+0 Accident]**](../../../Memory/Tokens/token-j-0-accident.md).
 
-Ce document examine les fondements juridiques de la mise en cause de la responsabilité des dirigeants sur le terrain du droit des sociétés, notamment sur le fondement des articles L. 223-22 [À VÉRIFIER] et L. 225-251 du Code de commerce, ainsi que sur le terrain du droit commun de la responsabilité civile.
+Ce document examine les fondements juridiques de la mise en cause de la responsabilité des dirigeants sur le terrain du droit des sociétés, notamment sur le fondement des articles L. 223-22 et L. 225-251 du Code de commerce, ainsi que sur le terrain du droit commun de la responsabilité civile.
 
 > *« Les gérants sont responsables, individuellement ou solidairement, selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés à responsabilité limitée, soit des violations des statuts, soit des fautes commises dans leur gestion. »* <br>
 > **Code de commerce > Partie législative > Livre V > Titre II > Chapitre Ier > Section 5 > Sous-section 3.** <br>
@@ -73,7 +73,7 @@ Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SA
 
 ### III.2 — RESPONSABILITÉ PÉNALE ET FAUTE CARACTÉRISÉE DE SÉCURITÉ
 
-Ce manquement à l'obligation de sécurité est également codifié à l'article R. 143-2 [À VÉRIFIER] du Code de la construction et de l'habitation, la vasque avec cassure préexistante faisant partie intégrante des installations d'accueil de l'ERP.
+Ce manquement à l'obligation de sécurité est également codifié à l'article R. 143-2 du Code de la construction et de l'habitation, la vasque avec cassure préexistante faisant partie intégrante des installations d'accueil de l'ERP.
 
 > *« Dans les établissements soumis aux prescriptions du présent chapitre, les propriétaires, directeurs ou exploitants sont tenus, tant au moment de la construction qu'au cours de l'exploitation, de respecter les mesures de prévention et de sauvegarde propres à assurer la sécurité des personnes contre les risques d'incendie et de panique. »* <br>
 > [Article R. 143-2](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000438189](../../../Lois/Code/LEGIARTI0000438189.md)41) <br>
@@ -89,7 +89,7 @@ Le maintien en service d'un équipement dangereux dans un établissement recevan
 > [Article L. 421-3](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000494640](../../../Lois/Code/LEGIARTI0000494640.md)53) <br>
 > **Code de la consommation > Partie législative > Livre Ier > Titre II > Chapitre II > Section 1.**
 
-Une condamnation pour blessures involontaires sur le fondement de l'article 222-20 du Code pénal permet de solliciter la réparation des préjudices directement sur les biens propres du dirigeant coupable, sans nécessité de prouver une faute détachable commerciale devant le juge répressif.
+Une condamnation pour blessures involontaires sur le fondement de l'article 222-20 du Code pénal[^n1] permet de solliciter la réparation des préjudices directement sur les biens propres du dirigeant coupable, sans nécessité de prouver une faute détachable commerciale devant le juge répressif.
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 > [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000240426](../../../Lois/Code/LEGIARTI0000240426.md)40) <br>
@@ -105,7 +105,7 @@ La Victime dispose d'un droit propre et autonome sur l'indemnité d'assurance en
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier.**
 
-Cette action, dite "action directe", peut être exercée même si la société est radiée ou en liquidation, car la personnalité morale subsiste pour les besoins de la liquidation conformément à l'article L. 237-2 [À VÉRIFIER] du Code de commerce.
+Cette action, dite "action directe", peut être exercée même si la société est radiée ou en liquidation, car la personnalité morale subsiste pour les besoins de la liquidation conformément à l'article L. 237-2 du Code de commerce.
 
 > *« La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la clôture de celle-ci. »* <br>
 > [Article L. 237-2](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062300](../../../Lois/Code/LEGIARTI0000062300.md)63) <br>
@@ -115,7 +115,7 @@ Des demandes formelles ont été initiées pour identifier l'assureur et sollici
 
 ### IV.2 — ÉVALUATION DES PRÉJUDICES SELON LA NOMENCLATURE DINTILHAC
 
-La réparation intégrale, pilier du droit français régi par l'article 1240 du Code civil, impose que La Victime soit replacée dans sa situation initiale.
+La réparation intégrale, pilier du droit français régi par l'article 1240 du Code civil[^n2], impose que La Victime soit replacée dans sa situation initiale.
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
 > [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000320415](../../../Lois/Code/LEGIARTI0000320415.md)71) <br>
@@ -133,6 +133,7 @@ Le préjudice global est estimé à **~90 000 €**, incluant le déficit foncti
 Une stratégie multi-niveaux a été déployée : une plainte pénale complémentaire a été déposée pour défaut d'assurance et entrave, parallèlement à la transmission des pièces médicales au Procureur. 
 
 Enfin, des mises en demeure ont été adressées à L'Exploitant et à ses Dirigeants pour obtenir les garanties nécessaires à la résolution du litige, tandis que le propriétaire des murs a été sollicité pour la communication des coordonnées de l'assureur (via les annexes du bail commercial).
+
 <!-- Source -->
 <hr><hr>
 

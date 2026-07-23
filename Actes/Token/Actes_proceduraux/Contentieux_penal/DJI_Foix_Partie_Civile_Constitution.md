@@ -91,15 +91,15 @@ Malgre des mises en demeure recommandees adressees le [**[J+31 Mises en demeure]
 ## III — FONDEMENTS JURIDIQUES
 ### III.1 — SUR LA QUALIFICATION PENALE — BLESSURES INVOLONTAIRES
 
-Les faits decrits ci-dessus sont constitutifs du delit de blessures involontaires prevu et reprime par les articles 222-19 et 222-20 du Code penal.
+Les faits decrits ci-dessus sont constitutifs du delit de blessures involontaires prevu et reprime par les articles 222-19 et 222-20 du Code penal[^n1][^n2].
 
-> *« Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. »* <br>
+> *« Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3[^n3], par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. »* <br>
 > [Article 222-19](../../../../Lois/Code/Code_pénal/Article_222-19_CodePenal_Legifrance.md) <br>
 > **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne.**
 
 En l'espece :
 
-- **La maladresse et l'imprudence** sont caracterisees par le fait de laisser un employe monter sur une vasque en ceramique instable et cassee, faute d'equipement d'acces adapte (escabeau), en violation des articles R. 4323-58 et suivants du Code du travail imposant la mise a disposition d'equipements de travail en hauteur.
+- **La maladresse et l'imprudence** sont caracterisees par le fait de laisser un employe monter sur une vasque en ceramique instable et cassee, faute d'equipement d'acces adapte (escabeau), en violation des articles R. 4323-58[^n4] et suivants du Code du travail imposant la mise a disposition d'equipements de travail en hauteur.
   
 - **Le manquement a une obligation de securite** resulte de l'absence de signalement et de protection de la cassure preexistante aux aretes tranchantes de la vasque, constituant un danger manifeste pour la clientele.
   
@@ -207,9 +207,9 @@ Par ces motifs, [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-c
 
 3. **ACCORDER** a [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), de [**[Le President de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et de [**[La Directrice Generale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md) ;
 
-4. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), [**[Le President de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Generale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md) a payer a **[**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) la somme de [**[Finance Article 700]**](../../../../Memory/Tokens/token-finance-article-700.md) sur le fondement de l'Article 475-1 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] du Code de procedure penale, ainsi qu'aux entiers depens.
+4. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), [**[Le President de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Generale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md) a payer a **[**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) la somme de [**[Finance Article 700]**](../../../../Memory/Tokens/token-finance-article-700.md) sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens.
 
-> *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
+> *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
 > [Article 475-1 du Code de procédure pénale](../../../../Lois/Code/Code_procédure_pénale/Article475-1_CodeProcedurePenale.md) <br>
 > **Code de procédure pénale > Paragraphe 1 : Dispositions générales — abrogation différée.**
 <hr><hr>
@@ -217,17 +217,17 @@ Par ces motifs, [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-c
 ## PAR CES MOTIFS
 
 Vu les articles 2, 3, 85 et suivants du Code de procedure penale,
-Vu les articles 222-19 et 222-20 du Code penal (ce dernier confirme en vigueur depuis le 19 mai 2011, LEGIARTI000024042640),
-Vu les articles 1240 et 1242 du Code civil,
-Vu les articles R. 4323-58 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] et suivants du Code du travail,
-Vu les articles L. 111-1 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] et L. 217-1 du Code de la consommation,
-Vu l'article L. 227-8 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] du Code de commerce,
+Vu les articles 222-19 et 222-20 du Code penal[^n1][^n2] (ce dernier confirme en vigueur depuis le 19 mai 2011, LEGIARTI000024042640),
+Vu les articles 1240 et 1242 du Code civil[^n5][^n6],
+Vu les articles R. 4323-58 et suivants du Code du travail,
+Vu les articles L. 111-1 et L. 217-1 du Code de la consommation,
+Vu l'article L. 227-8 du Code de commerce,
 Vu l'article L. 124-3 du Code des assurances,
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
-Vu les articles 706-3 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] et 706-14 du Code de procedure penale,
+Vu les articles 706-3 et 706-14 du Code de procedure penale,
 Vu la jurisprudence de la Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092 (arret SATI),
 Vu les pieces versees aux debats,
 
@@ -239,9 +239,9 @@ Vu les pieces versees aux debats,
 
 3. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), [**[Le President de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Generale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md) a verser a **[**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices ;
 
-4. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), [**[Le President de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Generale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md) a payer a **[**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) la somme de [**[Finance Article 700]**](../../../../Memory/Tokens/token-finance-article-700.md) sur le fondement de l'Article 475-1 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] du Code de procedure penale, ainsi qu'aux entiers depens ;
+4. **CONDAMNER IN SOLIDUM** la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), [**[Le President de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Generale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md) a payer a **[**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) la somme de [**[Finance Article 700]**](../../../../Memory/Tokens/token-finance-article-700.md) sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens ;
 
-> *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
+> *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
 
 5. **FIXER** la provision definitives sur dommages et interets a hauteur du prejudice extra-patrimonial constate par l'expert (49 231 €), et **SE RESERVER** la liquidation definitive de l'astreinte et des postes patrimoniaux (PGPF, DSA) sur production des justificatifs CPAM.
 
@@ -279,6 +279,7 @@ Fait a [**[La Ville de Residence de la Victime]**](../../../../Memory/Tokens/tok
 13. LRAR adressée à [**[Le Propriétaire des Murs]**](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md) et son AR signé ([**[J+35 AR propriétaire]**](../../../../Memory/Tokens/token-j-35-ar-proprietaire.md))
 
 14. Rapport d'expertise médicale judiciaire du 12 juin 2027 — consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure
+
 <!-- Source -->
 <hr><hr>
 

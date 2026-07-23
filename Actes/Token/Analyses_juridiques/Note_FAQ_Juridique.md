@@ -34,7 +34,7 @@ Rédigé le [**[J+32 Assignation référé]**](../../../Memory/Tokens/token-j-32
 
 La présente synthèse juridique et FAQ a été rédigée par [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) dans le cadre du contentieux l'opposant à [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) à la suite de l'accident corporel du [**[J+0 Accident]**](../../../Memory/Tokens/token-j-0-accident.md).
 
-Ce document examine les différents fondements juridiques sur lesquels la victime peut fonder son action en réparation, notamment la responsabilité contractuelle sur le fondement de l'article 1231-1 [À VÉRIFIER] du Code civil, la responsabilité délictuelle sur le fondement de l'article 1240 du même code, ainsi que la garantie des vices cachés prévue à l'article 1641 [À VÉRIFIER] du Code civil.
+Ce document examine les différents fondements juridiques sur lesquels la victime peut fonder son action en réparation, notamment la responsabilité contractuelle sur le fondement de l'article 1231-1 du Code civil[^n1], la responsabilité délictuelle sur le fondement de l'article 1240[^n2] du même code, ainsi que la garantie des vices cachés prévue à l'article 1641 du Code civil[^n3].
 
 > *« Le débiteur est condamné, s'il y a lieu, au paiement de dommages et intérêts soit à raison de l'inexécution de l'obligation, soit à raison du retard dans l'exécution, s'il ne justifie pas que l'exécution a été empêchée par la force majeure. »* <br>
 > **Code civil > Sous-section 5 : La réparation du préjudice résultant de l'inexécution du contrat.** <br>
@@ -119,7 +119,7 @@ Le fait de cacher l'accident à son assureur ou de refuser de communiquer les co
 
 ## IV — STRATÉGIE JURIDIQUE ET RESPONSABILITÉS
 
-La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) est engagée en tant que commettant du fait de son préposé, sur le fondement de l'article 1242 du Code civil, mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
+La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) est engagée en tant que commettant du fait de son préposé, sur le fondement de l'article 1242 du Code civil[^n4], mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
 
 > *« Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »* <br>
 > [Article 1242](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000517860](../../../Lois/Code/LEGIARTI0000517860.md)00) <br>
@@ -167,7 +167,7 @@ La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jour
 
 Une étape cruciale est fixée au [**[J+167 Expertise UMJ]**](../../../Memory/Tokens/token-j-167-expertise-umj.md) pour l'expertise médicale à l'UMJ de [**[La Métropole Régionale]**](../../../Memory/Tokens/token-accident-metropole.md), qui permettra de chiffrer définitivement les préjudices (actuellement estimés à **~90 000 €**).
 
-À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation (Article 2226 [À VÉRIFIER] du Code civil).
+À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation (Article 2226 du Code civil[^n5]).
 
 > *« L'action en responsabilité née d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices, se prescrit par dix ans à compter de la date de la consolidation du dommage corporel initial ou aggravé. »* <br>
 > [Article 2226](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000190172](../../../Lois/Code/LEGIARTI0000190172.md)59) <br>
@@ -184,23 +184,36 @@ Néanmoins, l'action directe et la responsabilité personnelle des dirigeants co
 
 *Q15 : Que se passe-t-il si [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) est mise en liquidation ou radiée pendant la procédure ?*
 
-*Réponse : La personnalité morale de la société survit pour les besoins de la liquidation (Art. L. 237-2 [À VÉRIFIER] du Code de commerce).
+*Réponse : La personnalité morale de la société survit pour les besoins de la liquidation (Art. L. 237-2 du Code de commerce).
 
 De plus, l'action directe contre l'assureur (Art. L. 124-3 du Code des assurances) est autonome et reste recevable même après la dissolution ou la liquidation de l'entreprise responsable, garantissant l'indemnisation finale par la compagnie d'assurance.*
 
 > *« La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la clôture de celle-ci. »* <br>
 > [Article L. 237-2](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062300](../../../Lois/Code/LEGIARTI0000062300.md)63) <br>
 > **Code de commerce > Partie législative > Livre V > Titre IV > Chapitre IV > Section 3.**
+
 <!-- Source -->
 <hr><hr>
 
 ## Sources Législation
 
-[^n1]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+[^n1]: > « Le débiteur est condamné, s'il y a lieu, au paiement de dommages et intérêts soit à raison de l'inexécution de l'obligation, soit à raison du retard dans l'exécution, s'il ne justifie pas que l'exécution a été empêchée par la force majeure. » <br>
+    > **Code civil > Sous-section 5 : La réparation du préjudice résultant de l'inexécution du contrat.** <br>
+    > [Article 1231-1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032010123) ↩
+
+[^n2]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
     > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 
-[^n2]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
+[^n3]: > « Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine, ou qui diminuent tellement cet usage que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'il les avait connus. » <br>
+    > **Code civil > Paragraphe 2 : De la garantie des défauts de la chose vendue.** <br>
+    > [Article 1641 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924) ↩
+
+[^n4]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
     > [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
+
+[^n5]: > « L'action en responsabilité née à raison d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices qui en résultent, se prescrit par dix ans à compter de la date de la consolidation du dommage initial ou aggravé. Toutefois, en cas de préjudice causé par des tortures ou des actes de barbarie, ou par des violences ou des agressions sexuelles commises contre un mineur, l'action en responsabilité civile est prescrite par vingt ans. » <br>
+    > **Code civil > Section 2 : De quelques délais et points de départ particuliers.** <br>
+    > [Article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259) ↩
 <!-- /Source -->

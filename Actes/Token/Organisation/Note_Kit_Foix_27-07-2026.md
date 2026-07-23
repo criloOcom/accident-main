@@ -5,7 +5,7 @@ description: "Kit complet pour le déplacement à Foix du 27 juillet 2026"
 type: organisation
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md) › Kit Foix 27-07-2026*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

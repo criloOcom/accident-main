@@ -76,7 +76,7 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 
 2. Une copie du dépôt de plainte et du Procès-Verbal de police n° [**[N° PV Police]**](../../../Memory/Tokens/token-pv-police-numero.md).
 
-3. Le [certificat médical initial](../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (CMI) constatant les blessures de **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**.
+3. Le [certificat médical initial](../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) (CMI) constatant les blessures de **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**.
 
 4. Les certificats de prolongation et de reprise d'activité justifiant l'[arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
 

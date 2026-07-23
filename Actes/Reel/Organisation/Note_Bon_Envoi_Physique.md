@@ -45,7 +45,7 @@ jx: J+38
 
 - **Pièce n°1 :** Preuve de paiement Wero 15,00 € (29 mai 2026) — Impression relevé bancaire
 
-- **Pièce n°2 :** [Certificat médical initial](../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) Dr [Médecin Généraliste] (29 mai 2026) — Scan/copie
+- **Pièce n°2 :** [Certificat médical initial](../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) Dr [Médecin Généraliste] (29 mai 2026) — Scan/copie
 
 - **Pièce n°3 :** [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) Dr [Chirurgien SOS Main] (30 mai 2026) — Scan/copie
 

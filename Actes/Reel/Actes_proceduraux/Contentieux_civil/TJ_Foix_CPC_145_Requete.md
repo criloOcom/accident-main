@@ -15,8 +15,8 @@ recipient: Monsieur le Président du Tribunal Judiciaire de Foix
 jurisdiction: Tribunal Judiciaire de Foix
 legal_basis:
   - Article 145 du Code de procédure civile
-  - Article L. 124-3 [À VÉRIFIER] du Code des assurances
-  - Article 1240 du Code civil
+  - Article L. 124-3 du Code des assurances
+  - Article 1240 du Code civil[^n1]
 description: À déposer au greffe du TJ de Foix — REQUÊTE (pas d'assignation). Imprimer 2 exemplaires, demander récépissé.
 type: document
 date: 2026-07-20
@@ -287,6 +287,7 @@ Sébastien GRAZIDE
 16. Note de constatations du 16 juillet 2026 (visite des lieux), photos des lieux modifiés
 
 17. Échange de courriels avec Monsieur TAVELLA, adjoint au maire de Foix (signalement du 1er juin 2026 et réponse indiquant la saisine de la préfecture / inspection du travail / CODAF)
+
 <!-- Source -->
 <hr><hr>
 

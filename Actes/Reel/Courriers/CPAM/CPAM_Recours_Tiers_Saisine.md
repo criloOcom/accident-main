@@ -86,7 +86,7 @@ A ce jour, les procedures suivantes ont ete engagees :
 
 3. **Assignation Article 145 CPC** (5 juillet 2026) : Saisine du Tribunal Judiciaire de Foix pour communication forcee de la police d'assurance RC professionnelle sous astreinte.
 
-4. **[Constitution de Partie Civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : Depot d'une plainte avec [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) aupres du Doyen des Juges d'Instruction du Tribunal Judiciaire de Foix, fondee sur les articles 222-19 et 222-20 du Code penal (blessures involontaires), et engageant la responsabilite penale de la SAS et de ses dirigeants.
+4. **[Constitution de Partie Civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : Depot d'une plainte avec [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) aupres du Doyen des Juges d'Instruction du Tribunal Judiciaire de Foix, fondee sur les articles 222-19 et 222-20 du Code penal[^n1][^n2] (blessures involontaires), et engageant la responsabilite penale de la SAS et de ses dirigeants.
 <hr><hr>
 
 ## IV — BORDEREAU RECAPITULATIF DES PIECES
@@ -99,7 +99,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 >
 > *Les recours subrogatoires des caisses contre les tiers s'exercent poste par poste sur les seules indemnités qui réparent des préjudices qu'elles ont pris en charge, à l'exclusion des préjudices à caractère personnel.*
 >
-> *Conformément à l'article 1346-3 du code civil , la subrogation ne peut nuire à la victime subrogeante, créancière de l'indemnisation, lorsqu'elle n'a été prise en charge que partiellement par les prestations sociales ; en ce cas, l'assuré social peut exercer ses droits contre le responsable, par préférence à la caisse subrogée.*
+> *Conformément à l'article 1346-3 du code civil[^n3] , la subrogation ne peut nuire à la victime subrogeante, créancière de l'indemnisation, lorsqu'elle n'a été prise en charge que partiellement par les prestations sociales ; en ce cas, l'assuré social peut exercer ses droits contre le responsable, par préférence à la caisse subrogée.*
 >
 > *Cependant, si le tiers payeur établit qu'il a effectivement et préalablement versé à la victime une prestation indemnisant de manière incontestable un poste de préjudice personnel, son recours peut s'exercer sur ce poste de préjudice.*
 >
@@ -123,7 +123,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 >
 > *Cette indemnité est établie et recouvrée par la caisse selon les règles et sous les garanties et sanctions, prévues au chapitre 3 du titre III et aux chapitres 2,3 et 4 du titre IV du livre Ier ainsi qu'aux chapitres 3 et 4 du titre IV du livre II applicables au recouvrement des cotisations de sécurité sociale.*
 >
-> *Lorsque l'assuré victime de l'accident est affilié au régime agricole, l'indemnité est recouvrée selon les règles et sous les garanties et sanctions prévues aux chapitres 2,3 et 4 du titre IV du livre Ier ainsi qu'aux articles L. 725-3 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] à L. 725-4 du code rural et de la pêche maritime.*
+> *Lorsque l'assuré victime de l'accident est affilié au régime agricole, l'indemnité est recouvrée selon les règles et sous les garanties et sanctions prévues aux chapitres 2,3 et 4 du titre IV du livre Ier ainsi qu'aux articles L. 725-3 [À VÉRIFIER] à L. 725-4 du code rural et de la pêche maritime.*
 >
 > *Pour l'exécution des recours subrogatoires prévus au présent article, les créances détenues par l'organisme qui a versé les prestations sont cédées définitivement à l'organisme chargé de cette mission en application du 3° de l'article L. 221-3-1 du présent code. »* <br>
 > [Article L376-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231) <br>
@@ -180,7 +180,7 @@ Je sollicite de vos services :
 >
 > *Les recours subrogatoires des caisses contre les tiers s'exercent poste par poste sur les seules indemnités qui réparent des préjudices qu'elles ont pris en charge, à l'exclusion des préjudices à caractère personnel.*
 >
-> *Conformément à l'article 1346-3 du code civil , la subrogation ne peut nuire à la victime subrogeante, créancière de l'indemnisation, lorsqu'elle n'a été prise en charge que partiellement par les prestations sociales ; en ce cas, l'assuré social peut exercer ses droits contre le responsable, par préférence à la caisse subrogée.*
+> *Conformément à l'article 1346-3 du code civil[^n3] , la subrogation ne peut nuire à la victime subrogeante, créancière de l'indemnisation, lorsqu'elle n'a été prise en charge que partiellement par les prestations sociales ; en ce cas, l'assuré social peut exercer ses droits contre le responsable, par préférence à la caisse subrogée.*
 >
 > *Cependant, si le tiers payeur établit qu'il a effectivement et préalablement versé à la victime une prestation indemnisant de manière incontestable un poste de préjudice personnel, son recours peut s'exercer sur ce poste de préjudice.*
 >
@@ -204,7 +204,7 @@ Je sollicite de vos services :
 >
 > *Cette indemnité est établie et recouvrée par la caisse selon les règles et sous les garanties et sanctions, prévues au chapitre 3 du titre III et aux chapitres 2,3 et 4 du titre IV du livre Ier ainsi qu'aux chapitres 3 et 4 du titre IV du livre II applicables au recouvrement des cotisations de sécurité sociale.*
 >
-> *Lorsque l'assuré victime de l'accident est affilié au régime agricole, l'indemnité est recouvrée selon les règles et sous les garanties et sanctions prévues aux chapitres 2,3 et 4 du titre IV du livre Ier ainsi qu'aux articles L. 725-3 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] à L. 725-4 du code rural et de la pêche maritime.*
+> *Lorsque l'assuré victime de l'accident est affilié au régime agricole, l'indemnité est recouvrée selon les règles et sous les garanties et sanctions prévues aux chapitres 2,3 et 4 du titre IV du livre Ier ainsi qu'aux articles L. 725-3 [À VÉRIFIER] à L. 725-4 du code rural et de la pêche maritime.*
 >
 > *Pour l'exécution des recours subrogatoires prévus au présent article, les créances détenues par l'organisme qui a versé les prestations sont cédées définitivement à l'organisme chargé de cette mission en application du 3° de l'article L. 221-3-1 du présent code. »* <br>
 > [Article L376-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231) <br>
@@ -221,6 +221,7 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 <!-- Signature -->
 Sébastien GRAZIDE
 <!-- /Signature -->
+
 <!-- Source -->
 <hr><hr>
 

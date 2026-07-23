@@ -94,7 +94,7 @@ Deux scenarii se présentent :
 > [Article 222-19 du Code pénal](../../../../Lois/Code/Code_pénal/Article_222-19_CodePenal_Legifrance.md) <br>
 > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.**
 
-À défaut d'une violation manifestement délibérée, les faits s'analysent a minima en une contravention de la 5ème classe sur le fondement des articles R. 625-2 ou R. 622-1 du Code pénal.
+À défaut d'une violation manifestement délibérée, les faits s'analysent a minima en une contravention de la 5ème classe sur le fondement des articles R. 625-2[^n1] ou R. 622-1 du Code pénal.
 
 ### II.2 — SUR LA MISE EN DANGER DÉLIBÉRÉE DE LA VIE D'AUTRUI
 
@@ -108,9 +108,9 @@ Le défaut d'entretien des équipements au sein d'un Établissement Recevant du 
 
 ### II.3 — SUR L'IMPUTABILITÉ DES FAITS : RESPONSABILITÉ DES PERSONNES MORALES ET PHYSIQUES
 
-L'article 121-2 du Code pénal dispose que les personnes morales sont pénalement responsables des infractions commises, pour leur compte, par leurs organes ou représentants.
+L'article 121-2 du Code pénal[^n2] dispose que les personnes morales sont pénalement responsables des infractions commises, pour leur compte, par leurs organes ou représentants.
 
-> *« Les personnes morales, à l'exclusion de l'Etat, sont responsables pénalement, selon les distinctions des articles 121-4 à 121-7 , des infractions commises, pour leur compte, par leurs organes ou représentants. Toutefois, les collectivités territoriales et leurs groupements ne sont responsables pénalement que des infractions commises dans l'exercice d'activités susceptibles de faire l'objet de conventions de délégation de service public. La responsabilité pénale des personnes morales n'exclut pas celle des personnes physiques auteurs ou complices des mêmes faits, sous réserve des dispositions du quatrième alinéa de l'article 121-3 . »* <br>
+> *« Les personnes morales, à l'exclusion de l'Etat, sont responsables pénalement, selon les distinctions des articles 121-4 à 121-7 , des infractions commises, pour leur compte, par leurs organes ou représentants. Toutefois, les collectivités territoriales et leurs groupements ne sont responsables pénalement que des infractions commises dans l'exercice d'activités susceptibles de faire l'objet de conventions de délégation de service public. La responsabilité pénale des personnes morales n'exclut pas celle des personnes physiques auteurs ou complices des mêmes faits, sous réserve des dispositions du quatrième alinéa de l'article 121-3[^n3] . »* <br>
 > [Article 121-2 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204) <br>
 > **Code pénal > Chapitre Ier : Dispositions générales.**
 
@@ -126,7 +126,7 @@ Le défaut de souscription d'assurance et le maintien en service d'un équipemen
 
 Conformément à l'article 8 du Code de procédure pénale, l'action publique pour les délits se prescrit par six années révolues à compter du jour où l'infraction a été commise. L'infraction datant du 29 mai 2026, aucune prescription n'est acquise.
 
-> *« L'action publique des délits se prescrit par six années révolues à compter du jour où l'infraction a été commise. L'action publique des délits mentionnés aux articles 223-15-2 et 223-15-3 du code pénal et à l'article 706-47 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] du présent code, lorsqu'ils sont commis sur des mineurs, à l'exception de ceux mentionnés aux articles 222-29-1 et 227-26 du code pénal, se prescrit par dix années révolues à compter de la majorité de ces derniers. L'action publique des délits mentionnés aux articles 222-12 , 222-29-1 et 227-26 du même code, lorsqu'ils sont commis sur des mineurs, se prescrit par vingt années révolues à compter de la majorité de ces derniers. Toutefois, s'il s'agit d'une agression sexuelle ou d'une atteinte sexuelle commise sur un mineur, en cas de commission sur un autre mineur par la même personne, avant l'expiration des délais prévus aux deuxième et troisième alinéas du présent article, d'une agression sexuelle ou d'une atteinte sexuelle, le délai de prescription de la première infraction est prolongé, le cas échéant, jusqu'à la date de prescription de la nouvelle infraction. L'action publique du délit mentionné à l' article 434-3 du code pénal se prescrit, lorsque le défaut d'information concerne une agression ou un atteinte sexuelle commise sur un mineur, par dix années révolues à compter de la majorité de la victime et, lorsque le défaut d'information concerne un viol commis sur un mineur, par vingt années révolues à compter de la majorité de la victime. L'action publique des délits mentionnés à l'article 706-167 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] du présent code, lorsqu'ils sont punis de dix ans d'emprisonnement, ainsi que celle des délits mentionnés aux articles 706-16 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] du présent code, à l'exclusion de ceux définis aux articles 421-2-5 à 421-2-5-2 du code pénal, et 706-26 du présent code et au livre IV bis du code pénal se prescrivent par vingt années révolues à compter du jour où l'infraction a été commise. »* <br>
+> *« L'action publique des délits se prescrit par six années révolues à compter du jour où l'infraction a été commise. L'action publique des délits mentionnés aux articles 223-15-2 et 223-15-3 du code pénal et à l'article 706-47 du présent code, lorsqu'ils sont commis sur des mineurs, à l'exception de ceux mentionnés aux articles 222-29-1 et 227-26 du code pénal, se prescrit par dix années révolues à compter de la majorité de ces derniers. L'action publique des délits mentionnés aux articles 222-12 , 222-29-1 et 227-26 du même code, lorsqu'ils sont commis sur des mineurs, se prescrit par vingt années révolues à compter de la majorité de ces derniers. Toutefois, s'il s'agit d'une agression sexuelle ou d'une atteinte sexuelle commise sur un mineur, en cas de commission sur un autre mineur par la même personne, avant l'expiration des délais prévus aux deuxième et troisième alinéas du présent article, d'une agression sexuelle ou d'une atteinte sexuelle, le délai de prescription de la première infraction est prolongé, le cas échéant, jusqu'à la date de prescription de la nouvelle infraction. L'action publique du délit mentionné à l' article 434-3 du code pénal[^n6] se prescrit, lorsque le défaut d'information concerne une agression ou un atteinte sexuelle commise sur un mineur, par dix années révolues à compter de la majorité de la victime et, lorsque le défaut d'information concerne un viol commis sur un mineur, par vingt années révolues à compter de la majorité de la victime. L'action publique des délits mentionnés à l'article 706-167 du présent code, lorsqu'ils sont punis de dix ans d'emprisonnement, ainsi que celle des délits mentionnés aux articles 706-16 du présent code, à l'exclusion de ceux définis aux articles 421-2-5[^n7] à 421-2-5-2 du code pénal, et 706-26 du présent code et au livre IV bis du code pénal se prescrivent par vingt années révolues à compter du jour où l'infraction a été commise. »* <br>
 > [Article 8 du Code de procédure pénale](../../../../Lois/RGPD_Articles7_9_82.md) <br>
 > **Code de procédure pénale > Sous-titre Ier : De l'action publique et de l'action civile — abrogation différée.**
 <hr><hr>
@@ -150,7 +150,7 @@ Ces carences multiples :
 
 3. Silence administratif obstiné et suspicion de défaut d'assurance de l'ERP,
 
-justifient de rechercher si une "violation manifestement délibérée d'une obligation particulière de sécurité", ou une "faute caractérisée", imputable aux dirigeants, est constituée pour asseoir la qualification délictuelle (article 222-20 du Code pénal).
+justifient de rechercher si une "violation manifestement délibérée d'une obligation particulière de sécurité", ou une "faute caractérisée", imputable aux dirigeants, est constituée pour asseoir la qualification délictuelle (article 222-20 du Code pénal[^n8]).
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 > [Article 222-20 du Code pénal](../../../../Lois/Code/Code_pénal/Article222-20_CodePenal_LegiFrance.md) <br>
@@ -165,8 +165,8 @@ L'ouverture d'une information judiciaire avec l'intervention d'un juge d'instruc
 
 Par ces motifs,
 
-Vu les articles 222-19, 222-20, 223-1, 121-2 et 121-3 du Code pénal ;
-Vu les articles 80 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] et suivants du Code de procédure pénale ;
+Vu les articles 222-19, 222-20, 223-1, 121-2 et 121-3 du Code pénal[^n9][^n8][^n10][^n2][^n3] ;
+Vu les articles 80 et suivants du Code de procédure pénale ;
 Vu la plainte et la [**[constitution de partie civile]**](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) de Sébastien GRAZIDE ;
 Vu le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 (consolidation 01/03/2027, DFP 12 %, SE 4/7) ;
 
@@ -178,7 +178,7 @@ Nous requérons qu'il plaise à Monsieur le Doyen des Juges d'Instruction de :
 
 - **Mise en danger de la vie d'autrui** (Art. 223-1 C. pénal) — violation délibérée des obligations de sécurité d'un ERP (vasque cassée non sécurisée) ;
 
-- **Défaut d'assurance de responsabilité civile professionnelle** (Art. L. 211-1 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER], L. 241-1 C. assur. — à vérifier par l'instruction) ;
+- **Défaut d'assurance de responsabilité civile professionnelle** (Art. L. 211-1, L. 241-1 C. assur. — à vérifier par l'instruction) ;
 
 Et de tous autres chefs qui viendraient à être révélés par l'instruction.
 
@@ -206,9 +206,9 @@ Fait au Parquet de Foix, le 15 juillet 2026.
 
 Toutefois, la dissimulation d'assurance associée au maintien en état de fonctionnement d'un équipement brisé et coupant peut s'analyser comme une telle faute.
 
-Il est à noter que le défaut de surveillance évoqué, si l'alcoolémie manifeste ou une négligence aggravée venait à être caractérisée par l'instruction, pourrait fonder des poursuites contraventionnelles de la 5ème classe complémentaires (Art. R. 622-2 du Code pénal).
+Il est à noter que le défaut de surveillance évoqué, si l'alcoolémie manifeste ou une négligence aggravée venait à être caractérisée par l'instruction, pourrait fonder des poursuites contraventionnelles de la 5ème classe complémentaires (Art. R. 622-2 du Code pénal[^n11]).
 
-Concernant les sanctions encourues, la requalification délictuelles (Art. 222-20 et 223-1 C. pénal) expose les dirigeants à 1 an d'emprisonnement, 15 000 euros d'amende, mais également à des interdictions professionnelles majeures, telles que l'interdiction de gérer ou d'exploiter un fonds de commerce (peines complémentaires de l'article 131-27 du Code pénal).
+Concernant les sanctions encourues, la requalification délictuelles (Art. 222-20 et 223-1[^n8][^n10] C. pénal) expose les dirigeants à 1 an d'emprisonnement, 15 000 euros d'amende, mais également à des interdictions professionnelles majeures, telles que l'interdiction de gérer ou d'exploiter un fonds de commerce (peines complémentaires de l'article 131-27 du Code pénal[^n12]).
 
 > *« Lorsqu'elle est encourue à titre de peine complémentaire pour un crime ou un délit, l'interdiction d'exercer une fonction publique ou d'exercer une activité professionnelle ou sociale est soit définitive, soit temporaire ; dans ce dernier cas, elle ne peut excéder une durée de cinq ans. L'interdiction d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale est soit définitive, soit temporaire ; dans ce dernier cas, elle ne peut excéder une durée de quinze ans. Cette interdiction n'est pas applicable à l'exercice d'un mandat électif ou de responsabilités syndicales. Elle n'est pas non plus applicable en matière de délit de presse. »* <br>
 > [Article 131-27 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887) <br>
@@ -234,6 +234,7 @@ Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19
 - Ordonnance Art. 145 CPC (vidéos) : [`TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Ordonnance%20sur%20Requ%C3%AAte.md)
 
 - Ordonnance de référé provision : [`TJ Foix - Référé Provision - Ordonnance Projet.md`](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)
+
 <!-- Source -->
 <hr><hr>
 

@@ -141,7 +141,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [CA Versailles 22-01019](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA Versailles 22-01019.md)
 
 - **Citation extraite :**
-  > L'arrêt **[CA Versailles 22/01019](<../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA Versailles 22-01019.md>)** confirme que l'action directe de la victime contre l'assureur est soumise à la prescription de droit commun de l'action en responsabilité contre l'assuré, et non à la prescription biennale de l'article L. 114-1 [À VÉRIFIER] du Code des assurances. Cette dernière est réservée aux actions nées du contrat d'assurance entre l'assureur et l'assuré.
+  > L'arrêt **[CA Versailles 22/01019](<../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA Versailles 22-01019.md>)** confirme que l'action directe de la victime contre l'assureur est soumise à la prescription de droit commun de l'action en responsabilité contre l'assuré, et non à la prescription biennale de l'article L. 114-1[^n1] du Code des assurances. Cette dernière est réservée aux actions nées du contrat d'assurance entre l'assureur et l'assuré.
 
 - **Jurisprudence :** [TJ Nanterre 22-02447](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ Nanterre 22-02447.md)
 
@@ -845,3 +845,13 @@ Pour chaque argument clé qui N'A PAS de jurisprudence de support :
 - **Procédures de référé :** Étayer les demandes par des décisions de Cours d'appel démontrant l'absence de contestation sérieuse ou le péril imminent.
 
 - **Consolidation des simulations :** Apporter un cadre jurisprudentiel aux argumentaires des différents acteurs lors des simulations pour augmenter le réalisme juridique.
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^n1]: > « Toutes actions dérivant d'un contrat d'assurance sont prescrites par deux ans à compter de l'événement qui y donne naissance. Par exception, les actions dérivant d'un contrat d'assurance relatives à des dommages résultant de mouvements de terrain consécutifs à la sécheresse-réhydratation des sols, reconnus comme une catastrophe naturelle dans les conditions prévues à l'article L. 125-1, sont prescrites par cinq ans à compter de l'événement qui y donne naissance. Toutefois, ce délai ne court : 1° En cas de réticence, omission, déclaration fausse ou inexacte sur le risque couru, que du jour où l'assureur en a eu connaissance ; 2° En cas de sinistre, que du jour où les intéressés en ont eu connaissance, s'ils prouvent qu'ils l'ont ignoré jusque-là. Quand l'action de l'assuré contre l'assureur a pour cause le recours d'un tiers, le délai de la prescription ne court que du jour où ce tiers a exercé une action en justice contre l'assuré ou a été indemnisé par ce dernier. La prescription est portée à dix ans dans les contrats d'assurance sur la vie lorsque le bénéficiaire est une personne distincte du souscripteur et, dans les contrats d'assurance contre les accidents atteignant les personnes, lorsque les bénéficiaires sont les ayants droit de l'assuré décédé. Pour les contrats d'assurance sur la vie, nonobstant les dispositions du 2°, les actions du bénéficiaire sont prescrites au plus tard trente ans à compter du décès de l'assuré. » <br>
+    > **Code des assurances > Chapitre IV : Compétence et prescription.** <br>
+    > [Article L114-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044607740) ↩
+<!-- /Source -->

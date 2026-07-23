@@ -22,7 +22,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Ancienne référence :** Article L. 654-6 [À VÉRIFIER] du Code de commerce
 
-- **Nouvelle référence :** Article L. 654-7 [À VÉRIFIER] du Code de commerce
+- **Nouvelle référence :** Article L. 654-7[^n1] du Code de commerce
 
 - **Fichiers concernés :**
 
@@ -32,7 +32,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
   - L'article L. 654-6 [À VÉRIFIER] (ancienne architecture des infractions de banqueroute, abrogé) ne correspond plus au découpage actuel des sanctions des personnes morales en procédure collective.
 
-  - L'article L. 654-7 [À VÉRIFIER] est le texte **en vigueur** qui vise les peines applicables aux personnes morales déclarées pénalement responsables des infractions de banqueroute (L. 654-3 et L. 654-4).
+  - L'article L. 654-7 est le texte **en vigueur** qui vise les peines applicables aux personnes morales déclarées pénalement responsables des infractions de banqueroute (L. 654-3 et L. 654-4).
 
 - **Vérification :**
 
@@ -46,7 +46,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 ### I.2 — 1.2 Code de procédure pénale — réquisitions de vidéosurveillance
 
-- **Ancienne référence :** Article 56-1 [À VÉRIFIER] du Code de procédure pénale
+- **Ancienne référence :** Article 56-1 du Code de procédure pénale
 
 - **Nouvelle référence :** Article 77-1-1 du Code de procédure pénale
 
@@ -56,13 +56,13 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Raison :**
 
-  - L'article 56-1 [À VÉRIFIER] CPP concerne les perquisitions dans les cabinets/domiciles d'avocats (présence obligatoire du bâtonnier) — totalement inadapté à une demande de réquisition de vidéosurveillance.
+  - L'article 56-1 CPP concerne les perquisitions dans les cabinets/domiciles d'avocats (présence obligatoire du bâtonnier) — totalement inadapté à une demande de réquisition de vidéosurveillance.
 
   - L'article 77-1-1 CPP encadre les réquisitions de documents/informations en enquête préliminaire, et cite explicitement en 1° : *« la remise d'enregistrements issus d'un système de vidéoprotection concernant les lieux dans lesquels l'infraction a été commise »*.
 
 - **Vérification :**
 
-  - Légifrance : texte intégral des articles 56-1 [À VÉRIFIER] et 77-1-1 CPP
+  - Légifrance : texte intégral des articles 56-1 et 77-1-1 CPP
 
 - **Date :** 2026-07-13
 
@@ -70,7 +70,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 ### I.3 — 1.3 Code de la construction et de l'habitation — ERP
 
-- **Ancienne référence :** « Articles R. 123-1 [À VÉRIFIER] et suivants du CCH » (régime ERP ancien)
+- **Ancienne référence :** « Articles R. 123-1 et suivants du CCH » (régime ERP ancien)
 
 - **Nouvelle situation :** Référence supprimée (bloc ERP refondu en formulation descriptive)
 
@@ -82,7 +82,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
   - La numérotation ERP a été largement refondue ; R. 123-1 ne correspond plus au cœur du régime ERP.
 
-  - Le nouveau bloc ERP est rédigé en termes descriptifs (référence au règlement ERP du 25 juin 1980 et aux articles R. 143-1 [À VÉRIFIER] et suivants).
+  - Le nouveau bloc ERP est rédigé en termes descriptifs (référence au règlement ERP du 25 juin 1980 et aux articles R. 143-1 et suivants).
 
 - **Vérification :**
 
@@ -238,3 +238,13 @@ Pour toute nouvelle référence juridique ajoutée au dossier :
    - jurisprudence non vérifiable
 
 Ce changelog sert de **mémoire des choix juridiques** du dépôt, au-delà du simple diff Git.
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^n1]: > « Les personnes morales déclarées responsables pénalement des infractions prévues par les articles L. 654-3 et L. 654-4 encourent les peines suivantes : 1° L'amende, suivant les modalités prévues par l' article 131-38 du code pénal ; 2° Les peines mentionnées à l'article 131-39 du code pénal. L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. » <br>
+    > **Code de commerce > Section 1 : De la banqueroute.** <br>
+    > [Article L654-7 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984550) ↩
+<!-- /Source -->

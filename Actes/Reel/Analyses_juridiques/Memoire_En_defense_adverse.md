@@ -56,7 +56,7 @@ De plus, les certificats médicaux initiaux faisaient état d'une ITT de 1 jour,
 
 ### II.2 — La faute de la victime comme cause d'exonération
 
-La victime reconnaît elle-même avoir « tendu la main droite par réflexe » et avoir volontairement interagi avec la chose (le meuble). Cette intervention active, précipitée et inopportune de la victime constitue une faute d'imprudence au sens de l'article 1241 [À VÉRIFIER] du Code civil.
+La victime reconnaît elle-même avoir « tendu la main droite par réflexe » et avoir volontairement interagi avec la chose (le meuble). Cette intervention active, précipitée et inopportune de la victime constitue une faute d'imprudence au sens de l'article 1241 du Code civil[^n1].
 
 > *« Chacun est responsable du dommage qu'il a causé non seulement par son fait, mais encore par sa négligence ou par son imprudence. »* <br>
 > [Article 1241 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000320415](../../../Lois/Code/LEGIARTI0000320415.md)71) <br>
@@ -119,12 +119,13 @@ Le juge des référés est le juge de l'évidence. En l'espèce :
 L'obligation de SAS LES MAUVAIS GARCONS étant sérieusement contestable, la demande de provision de 15 000 € doit être rejetée en toutes ses dispositions. Tout au plus, si le juge ordonne une expertise médicale (Article 145 CPC), celle-ci devra se dérouler aux frais avancés de la demanderesse sans aucune provision financière préalable.
 
 Fait pour valoir ce que de droit.
+
 <!-- Source -->
 <hr><hr>
 
 ## Sources Législation
 
-[^1]: [Article 835 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000425972](../../../Lois/Code/LEGIARTI0000425972.md)84](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000425972](../../../Lois/Code/LEGIARTI0000425972.md)84) ↩
-[^2]: [Article 1241 du Code civil — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000320415](../../../Lois/Code/LEGIARTI0000320415.md)71](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000320415](../../../Lois/Code/LEGIARTI0000320415.md)71) ↩
-[^3]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) ↩
+[^n1]: > « Chacun est responsable du dommage qu'il a causé non seulement par son fait, mais encore par sa négligence ou par son imprudence. » <br>
+    > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
+    > [Article 1241 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565) ↩
 <!-- /Source -->

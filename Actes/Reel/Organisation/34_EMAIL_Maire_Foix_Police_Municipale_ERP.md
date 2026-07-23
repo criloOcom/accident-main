@@ -9,6 +9,11 @@ destinataire: 'Monsieur TAVELLA'
 statut: brouillon
 ---
 
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # EMAIL — Demande d'intervention pour contrôle de sécurité et d'exploitation (22 Rue Lafaurie, 09000 Foix)
 
 **Destinataire** : `[b.tavella@mairie-foix.fr]`

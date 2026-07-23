@@ -147,7 +147,7 @@ Blagnac, le 11 juillet 2026
 **Q : "Pourquoi déposez-vous une plainte complémentaire plutôt que de modifier l'initiale ?"**
 **R :** "Parce que les faits nouveaux que je dénonce aujourd'hui - l'obstruction à la justice et la dissimulation de preuves - sont survenus après le dépôt de ma plainte initiale. Ce sont des infractions distinctes qui nécessitent une procédure spécifique. De plus, l'article 86 du Code de procédure pénale permet expressément de compléter une plainte lorsque de nouveaux éléments apparaissent."
 
-> *« Le juge d'instruction ordonne communication de la plainte au procureur de la République pour que ce magistrat prenne ses réquisitions. Le procureur de la République peut demander au juge d'instruction un délai supplémentaire de trois mois pour permettre la poursuite des investigations avant de faire connaître ses réquisitions. La décision du juge d'instruction constitue une mesure d'administration judiciaire insusceptible de recours. Le réquisitoire peut être pris contre personne dénommée ou non dénommée. Lorsque la plainte n'est pas suffisamment motivée ou justifiée, le procureur de la République peut, avant de prendre ses réquisitions et s'il n'y a pas été procédé d'office par le juge d'instruction, demander à ce magistrat d'entendre la partie civile et, le cas échéant, d'inviter cette dernière à produire toute pièce utile à l'appui de sa plainte. Le procureur de la République ne peut saisir le juge d'instruction de réquisitions de non informer que si, pour des causes affectant l'action publique elle-même, les faits ne peuvent légalement comporter une poursuite ou si, à supposer ces faits démontrés, ils ne peuvent admettre aucune qualification pénale. Le procureur de la République peut également prendre des réquisitions de non-lieu dans le cas où il est établi de façon manifeste, le cas échéant au vu des investigations qui ont pu être réalisées à la suite du dépôt de la plainte ou en application du troisième alinéa, que les faits dénoncés par la partie civile n'ont pas été commis. Lorsque les investigations réalisées au cours de l'enquête effectuée à la suite de la plainte déposée conformément au deuxième alinéa de l'article 85 ont permis d'établir qu'une personne majeure mise en cause pour les faits de nature délictuelle reprochés par la victime pourrait faire l'objet de poursuites mais que l'action publique n'a pas été mise en mouvement par le procureur de la République, celui-ci peut également requérir du juge d'instruction de rendre une ordonnance de refus d'informer, tout en invitant la partie civile à engager des poursuites par voie de citation directe. Dans le cas où le juge d'instruction passe outre, il doit statuer par une ordonnance motivée. Lorsque le juge d'instruction rend une ordonnance de refus d'informer, il peut faire application des dispositions des articles 177-2 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] et 177-3 . »* <br>
+> *« Le juge d'instruction ordonne communication de la plainte au procureur de la République pour que ce magistrat prenne ses réquisitions. Le procureur de la République peut demander au juge d'instruction un délai supplémentaire de trois mois pour permettre la poursuite des investigations avant de faire connaître ses réquisitions. La décision du juge d'instruction constitue une mesure d'administration judiciaire insusceptible de recours. Le réquisitoire peut être pris contre personne dénommée ou non dénommée. Lorsque la plainte n'est pas suffisamment motivée ou justifiée, le procureur de la République peut, avant de prendre ses réquisitions et s'il n'y a pas été procédé d'office par le juge d'instruction, demander à ce magistrat d'entendre la partie civile et, le cas échéant, d'inviter cette dernière à produire toute pièce utile à l'appui de sa plainte. Le procureur de la République ne peut saisir le juge d'instruction de réquisitions de non informer que si, pour des causes affectant l'action publique elle-même, les faits ne peuvent légalement comporter une poursuite ou si, à supposer ces faits démontrés, ils ne peuvent admettre aucune qualification pénale. Le procureur de la République peut également prendre des réquisitions de non-lieu dans le cas où il est établi de façon manifeste, le cas échéant au vu des investigations qui ont pu être réalisées à la suite du dépôt de la plainte ou en application du troisième alinéa, que les faits dénoncés par la partie civile n'ont pas été commis. Lorsque les investigations réalisées au cours de l'enquête effectuée à la suite de la plainte déposée conformément au deuxième alinéa de l'article 85 ont permis d'établir qu'une personne majeure mise en cause pour les faits de nature délictuelle reprochés par la victime pourrait faire l'objet de poursuites mais que l'action publique n'a pas été mise en mouvement par le procureur de la République, celui-ci peut également requérir du juge d'instruction de rendre une ordonnance de refus d'informer, tout en invitant la partie civile à engager des poursuites par voie de citation directe. Dans le cas où le juge d'instruction passe outre, il doit statuer par une ordonnance motivée. Lorsque le juge d'instruction rend une ordonnance de refus d'informer, il peut faire application des dispositions des articles 177-2 et 177-3 . »* <br>
 > [Article 86 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312062) <br>
 > **Code de procédure pénale > Section 2 : De la constitution de la partie civile et de ses effets — abrogation différée.**
 
@@ -196,7 +196,7 @@ Blagnac, le 11 juillet 2026
 
 **Objection : "C'est un litige civil, pas pénal"**
 **Réponse :**
-"Je comprends votre point de vue, mais permettez-moi de vous rappeler que l'obstruction à la justice (Article 434-15 du Code pénal) et la dissimulation de preuves (Article 434-15-1) sont des infractions pénales caractérisées. Ce n'est pas une simple affaire de responsabilité civile, mais bien une entrave délibérée à la manifestation de la vérité et à l'exercice de mes droits. La jurisprudence est claire sur ce point."
+"Je comprends votre point de vue, mais permettez-moi de vous rappeler que l'obstruction à la justice (Article 434-15 du Code pénal[^n1]) et la dissimulation de preuves (Article 434-15-1[^n2]) sont des infractions pénales caractérisées. Ce n'est pas une simple affaire de responsabilité civile, mais bien une entrave délibérée à la manifestation de la vérité et à l'exercice de mes droits. La jurisprudence est claire sur ce point."
 
 > *« Le fait d'user de promesses, offres, présents, pressions, menaces, voies de fait, manoeuvres ou artifices au cours d'une procédure ou en vue d'une demande ou défense en justice afin de déterminer autrui soit à faire ou délivrer une déposition, une déclaration ou une attestation mensongère, soit à s'abstenir de faire ou délivrer une déposition, une déclaration ou une attestation, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende, même si la subornation n'est pas suivie d'effet. »* <br>
 > [Article 434-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641) <br>
@@ -319,17 +319,17 @@ Blagnac, le 11 juillet 2026
 ### XI.2 — Textes clés à citer
 
 **Code pénal :**
-- Art. 434-15 : "Le fait de détruire, de dégrader ou de détériorer un objet de quelque nature qu'il soit, de nature à faciliter la découverte d'une vérité ou la preuve d'un crime ou d'un délit..."
+- Art. 434-15[^n1] : "Le fait de détruire, de dégrader ou de détériorer un objet de quelque nature qu'il soit, de nature à faciliter la découverte d'une vérité ou la preuve d'un crime ou d'un délit..."
 
 - Art. 434-15-1 : "Le fait, pour quiconque ayant connaissance d'un crime ou d'un délit... de ne pas en informer les autorités judiciaires ou administratives..."
 
 **Code du travail :**
-- Art. L. 4121-1 : "L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs."
+- Art. L. 4121-1[^n3] : "L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs."
 
 - Art. L. 8221-1 : "Est réputé travail dissimulé par dissimulation d'activité l'exercice à but lucratif d'une activité... sans déclaration aux organismes sociaux."
 
 **Code des assurances :**
-- Art. L. 124-3 : "Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile."
+- Art. L. 124-3[^n4] : "Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile."
 <hr><hr>
 
 ## XII — CHECKLIST FINALE AVANT DE PARTIR
@@ -380,6 +380,7 @@ Blagnac, le 11 juillet 2026
 <hr><hr>
 
 **BONNE CHANCE !** Ce guide est conçu pour vous donner confiance et structure lors de votre entretien. Vous avez préparé un dossier solide avec des preuves tangibles. Présentez-le avec calme et professionnalisme. Les policiers sont là pour vous aider - donnez-leur les éléments pour le faire efficacement.
+
 <!-- Source -->
 <hr><hr>
 
