@@ -33,7 +33,7 @@ jx: J+50
 **Date de recueil :** 18 juillet 2026
 **Témoin :** **Mathieu FRÉDÉRICK** (commerçant, indépendant)
 **Qualité :** Témoin direct — présent dans son magasin adjacent au salon de coiffure
-## I. IDENTITÉ DU TÉMOIN
+## I — IDENTITÉ DU TÉMOIN
 
 | Champ | Information |
 |-------|-------------|
@@ -48,7 +48,7 @@ jx: J+50
 | **Lien avec les parties** | Aucun (pas de parenté, alliance, subordination, collaboration, communauté d'intérêts) |
 <hr><hr>
 
-## II. FAITS ATTESTÉS (Transcription intégrale)
+## II — FAITS ATTESTÉS (Transcription intégrale)
 
 > **Le 29 mai 2026, suite à un entretien concernant ma formation professionnelle avec Sébastien GRAZIDE, dans mon magasin, situé 14 rue de lafaurie à Foix, celui-ci est parti se faire couper les cheveux chez le barber shop un peu plus loin que mon établissement.**
 >
@@ -65,7 +65,7 @@ jx: J+50
 > **Il semble que l'accident se soit produit dans les locaux du coiffeur en raison d'une vasque instable que Sébastien GRAZIDE a rattrapé par ce qu'elle tombait, ce que semble ne pas avoir nié le coiffeur.**
 <hr><hr>
 
-## III. ANALYSE JURIDIQUE DE LA PREUVE
+## III — ANALYSE JURIDIQUE DE LA PREUVE
 
 ### 1. Corroboration exacte de la version de la victime
 
@@ -102,14 +102,14 @@ jx: J+50
 - **Phrase manuscrite obligatoire** : Garantit authenticité de la déclaration
 <hr><hr>
 
-## IV. PIÈCES JOINTES OBLIGATOIRES (Conformité Cerfa)
+## IV — PIÈCES JOINTES OBLIGATOIRES (Conformité Cerfa)
 
 - [ ] **Photocopie pièce d'identité** du témoin (recto/verso) avec signature
 
 - [ ] **Original** de l'attestation signée (page 3 : attestation sur l'honneur + signature + date 18/07/2026)
 <hr><hr>
 
-## V. INTÉGRATION DOSSIER FOIX
+## V — INTÉGRATION DOSSIER FOIX
 
 | Document | Action |
 |----------|--------|
@@ -119,7 +119,7 @@ jx: J+50
 | **STRICT VARIABLES.md** | Variable `N° ATTESTATION MATHIEU : 11527*03-20260718` |
 <hr><hr>
 
-## VI. DESTINATAIRES PRIORITAIRES (Ordre d'envoi)
+## VI — DESTINATAIRES PRIORITAIRES (Ordre d'envoi)
 
 1. **Avocat (dès désignation AJ)** — LRAR + email — Pièce conclusions
 
@@ -138,7 +138,7 @@ jx: J+50
 8. **Expert UMJ Purpan** (12/11/2026) — Remise main propre — Corroboration mécanisme
 <hr><hr>
 
-## VII. RÉFÉRENCES CROISÉES
+## VII — RÉFÉRENCES CROISÉES
 
 - **Pièce brute Drive** : `20260718 📋 Attestation Mathieu Frédéric Cerfa 11527.md` (Preuves_officielles)
 
