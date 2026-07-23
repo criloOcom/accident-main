@@ -29,7 +29,7 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS - Assureur RC - Courrier.md
 jx: J+50
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -101,7 +101,7 @@ En application de ce texte, je vous mets donc formellement en demeure, en votre 
 
 4. **Me verser, à titre de provision**, une somme de **15 000 € (quinze mille euros)** à valoir sur l'indemnisation définitive de mes préjudices, montant cohérent avec :
 
-   - la preuve de l'accident et des lésions (PV de police, [certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md), [compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)),
+   - la preuve de l'accident et des lésions (PV de police, [certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md), [compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)),
    - la durée d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (55 jours) et la consolidation à 12 mois,
    - les conclusions de l'expertise médicale judiciaire (DFP 12 %, SE 4/7, incidence professionnelle majeure),
    - les évaluations Dintilhac déjà produites.
@@ -110,7 +110,7 @@ Je joins à la présente, pour bonne information :
 
 - copie du procès-verbal de police relatif à l'accident ;
 
-- copie du [certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du 29 mai 2026 ;
+- copie du [certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) du 29 mai 2026 ;
 
 - copie du [compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) du 30 mai 2026 ;
 

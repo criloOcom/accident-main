@@ -77,10 +77,20 @@ Je me permets de solliciter votre intervention afin de savoir :
 
 - Si d'autres services (DDPP, DREETS) ont ete saisis
 
-Je vous rappelle que l'Article L. 311-1 du Code des relations entre le public et l'administration (CRPA) me reconnait le droit de communiquer avec les documents administratifs emis par l'Etat et ses etablissements publics, sous reserve du secret de l'enquete et de l'instruction. Passes ces delais, je pourrai saisir la CADA le cas echeant.
+Je vous rappelle que l'Article L. 311-1 du Code des[^loi-1] relations entre le public et l'administration (CRPA) me reconnait le droit de communiquer avec les documents administratifs emis par l'Etat et ses etablissements publics, sous reserve du secret de l'enquete et de l'instruction. Passes ces delais, je pourrai saisir la CADA le cas echeant.
 
 Dans l'attente de votre retour, je vous prie de croire, Monsieur l'Adjoint au Maire, a l'expression de ma consideration distinguee.
 
 <!-- Signature -->
 Sébastien GRAZIDE
 <!-- /Signature -->
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^loi-1]: > « Sous réserve des dispositions des articles L. 311-5 et L. 311-6 , les administrations mentionnées à l'article L. 300-2 sont tenues de publier en ligne ou de communiquer les documents administratifs qu'elles détiennent aux personnes qui en font la demande, dans les conditions prévues par le présent livre. » <br>
+    > **Code des relations entre le public et l'administration > Section 1 : Etendue du droit à communication.** <br>
+    > [Article L311-1 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033218946) ↩
+<!-- /Source -->

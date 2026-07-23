@@ -62,7 +62,7 @@ Afin de contextualiser ma présente démarche, je me permets de retracer briève
 
 - **Le 5 juillet 2026**, je vous ai adressé une demande d'information concernant l'avancement de ces enquêtes administratives.
 
-Afin d'assurer un suivi rigoureux de mon dossier et conformément aux dispositions de l'article L. 311-1 du Code des relations entre le public et l'administration (CRPA), je vous serais reconnaissant de bien vouloir me communiquer une copie des courriers de saisine que vous avez adressés le 1er juin 2026 à la Préfecture, à l'Inspection du Travail et au CODAF. Cette communication m'est indispensable pour tenir informée l'autorité judiciaire de l'évolution de ces enquêtes.
+Afin d'assurer un suivi rigoureux de mon dossier et conformément aux dispositions de l'article L. 311-1 du Code des[^loi-1] relations entre le public et l'administration (CRPA), je vous serais reconnaissant de bien vouloir me communiquer une copie des courriers de saisine que vous avez adressés le 1er juin 2026 à la Préfecture, à l'Inspection du Travail et au CODAF. Cette communication m'est indispensable pour tenir informée l'autorité judiciaire de l'évolution de ces enquêtes.
 
 Si je me permets de vous écrire à nouveau aujourd'hui, c'est en raison d'une évolution particulièrement anormale de la situation qui requiert l'attention de vos services.
 
@@ -89,3 +89,13 @@ Je vous remercie par avance de l'attention que vous voudrez bien porter à ces �
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]
 <!-- /PJ -->
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^loi-1]: > « Sous réserve des dispositions des articles L. 311-5 et L. 311-6 , les administrations mentionnées à l'article L. 300-2 sont tenues de publier en ligne ou de communiquer les documents administratifs qu'elles détiennent aux personnes qui en font la demande, dans les conditions prévues par le présent livre. » <br>
+    > **Code des relations entre le public et l'administration > Section 1 : Etendue du droit à communication.** <br>
+    > [Article L311-1 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033218946) ↩
+<!-- /Source -->

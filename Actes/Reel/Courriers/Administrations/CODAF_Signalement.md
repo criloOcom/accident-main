@@ -94,17 +94,17 @@ L'accident est survenu dans les conditions suivantes :
 
 Les faits signalés ci-après sont susceptibles de caractériser des manquements entrant dans le champ de compétence du CODAF :
 
-**1. Travail dissimulé présumé** (Article L. 8221-5 du Code du travail)
+**1. Travail dissimulé présumé** (Article L. 8221-5 du Code du[^n1] travail)
 
 Il ressort des éléments en ma possession que le préposé exerçant dans l'établissement ne faisait l'objet d'aucune déclaration préalable à l'embauche (DPAE) ni d'aucun affichage obligatoire, et à ma connaissance, aucun bulletin de paie ne lui a été délivré.
 
-Ces éléments me conduisent à soupçonner un recours au travail dissimulé par dissimulation d'emploi salarié au sens de l'article L. 8221-5 du Code du travail.
+Ces éléments me conduisent à soupçonner un recours au travail dissimulé par dissimulation d'emploi salarié au sens de l'article L. 8221-5 du Code du[^n1] travail.
 
 > *« Est réputé travail dissimulé par dissimulation d'emploi salarié le fait pour tout employeur :
 > - 1° Soit de se soustraire intentionnellement à l'accomplissement de la formalité prévue à l'article L. 1221-10 , relatif à la déclaration préalable à l'embauche ;
 > - 2° Soit de se soustraire intentionnellement à la délivrance d'un bulletin de paie ou d'un document équivalent défini par voie réglementaire, ou de mentionner sur le bulletin de paie ou le document équivalent un nombre d'heures de travail inférieur à celui réellement accompli, si cette mention ne résulte pas d'une convention ou d'un accord collectif d'aménagement du temps de travail conclu en application du titre II du livre Ier de la troisième partie ;
 > - 3° Soit de se soustraire intentionnellement aux déclarations relatives aux salaires ou aux cotisations sociales assises sur ceux-ci auprès des organismes de recouvrement des contributions et cotisations sociales ou de l'administration fiscale en vertu des dispositions légales. »* <br>
-> **Code du travail > Section 3 : Travail dissimulé par dissimulation d'emploi salarié.[^1]**  
+> **Code du travail > Section 3 : Travail dissimulé par dissimulation d'emploi salarié.**  
 > [Article L8221-5 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966)
 
 - Présence physique et active d'un préposé non déclaré au salon.
@@ -123,12 +123,12 @@ L'exploitant n'a procédé à aucun affichage de son attestation d'assurance RC 
 
 **3. Non-respect des règles de sécurité au travail**
 
-L'absence d'équipement d'accès en hauteur (escabeau) ayant contraint le préposé à monter sur un mobilier sanitaire instable et cassé est susceptible de caractériser un manquement à l'obligation de sécurité de l'employeur (Article L. 4121-1 du Code du travail) et aux dispositions sur le travail en hauteur (Articles R. 4323-58 et suivants du Code du travail), ainsi qu'à l'obligation de conformité des équipements de travail (Article L. 4321-1 du Code du travail).
+L'absence d'équipement d'accès en hauteur (escabeau) ayant contraint le préposé à monter sur un mobilier sanitaire instable et cassé est susceptible de caractériser un manquement à l'obligation de sécurité de l'employeur (Article L. 4121-1 du Code du[^n2] travail) et aux dispositions sur le travail en hauteur (Articles R. 4323-58[^n3] et suivants du Code du travail), ainsi qu'à l'obligation de conformité des équipements de travail (Article L. 4321-1 du Code du[^n4] travail).
 
 L'absence de Document Unique d'Évaluation des Risques Professionnels (DUERP) à jour est également suspectée.
 
 > *« Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. »* <br>
-> **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.[^2]**  
+> **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.**  
 > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
 
 - Chute consécutive à l'absence de moyens adaptés pour le travail en hauteur.
@@ -151,7 +151,7 @@ Conformément à l'Article 40 du Code de procédure pénale, si les faits consta
 > *« Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner conformément aux dispositions de l'article 40-1.
 >
 > Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs. »  
-> **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.[^3]**  
+> **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.**  
 > [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)
 
 Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Président, l'expression de ma considération distinguée.
@@ -179,7 +179,19 @@ Sébastien GRAZIDE
 
 ## Sources Législation
 
-[^1]: [Article L8221-5 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966) ↩
-[^2]: [Article R4323-58 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) ↩
-[^3]: [Article 40 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) ↩
+[^n1]: > « Est réputé travail dissimulé par dissimulation d'emploi salarié le fait pour tout employeur : 1° Soit de se soustraire intentionnellement à l'accomplissement de la formalité prévue à l'article L. 1221-10 , relatif à la déclaration préalable à l'embauche ; 2° Soit de se soustraire intentionnellement à la délivrance d'un bulletin de paie ou d'un document équivalent défini par voie réglementaire, ou de mentionner sur le bulletin de paie ou le document équivalent un nombre d'heures de travail inférieur à celui réellement accompli, si cette mention ne résulte pas d'une convention ou d'un accord collectif d'aménagement du temps de travail conclu en application du titre II du livre Ier de la troisième partie ; 3° Soit de se soustraire intentionnellement aux déclarations relatives aux salaires ou aux cotisations sociales assises sur ceux-ci auprès des organismes de recouvrement des contributions et cotisations sociales ou de l'administration fiscale en vertu des dispositions légales. » <br>
+    > **Code du travail > Section 3 : Travail dissimulé par dissimulation d'emploi salarié.** <br>
+    > [Article L8221-5 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966) ↩
+
+[^n2]: > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. » <br>
+    > **Code du travail > Chapitre Ier : Obligations de l'employeur.** <br>
+    > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) ↩
+
+[^n3]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
+    > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.** <br>
+    > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) ↩
+
+[^n4]: > « Les équipements de travail et les moyens de protection mis en service ou utilisés dans les établissements destinés à recevoir des travailleurs sont équipés, installés, utilisés, réglés et maintenus de manière à préserver la santé et la sécurité des travailleurs, y compris en cas de modification de ces équipements de travail et de ces moyens de protection. » <br>
+    > **Code du travail > Section 1 : Principes.** <br>
+    > [Article L4321-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209) ↩
 <!-- /Source -->

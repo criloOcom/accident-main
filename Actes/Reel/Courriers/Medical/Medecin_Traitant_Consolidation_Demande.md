@@ -26,7 +26,7 @@ jx: J+37
 <!-- Objet -->
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Médical](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Medical](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -122,7 +122,7 @@ NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de 
 <!-- PJ -->
 ## PIECES JOINTES
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr Dr Julie JARDON
+- **[Certificat medical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures par le Dr Dr Julie JARDON
 
 - **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Intervention de microchirurgie d'urgence du 30 mai 2026
 

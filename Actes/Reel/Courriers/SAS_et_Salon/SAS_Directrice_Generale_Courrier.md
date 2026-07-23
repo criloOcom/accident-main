@@ -27,7 +27,7 @@ calendar_event_id: eicgcrnb2ir9bf072kennpm1ls
 jx: J+31
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -55,17 +55,17 @@ Blagnac, le [29 juin 2026]
 Objet : Demande d'information et communication d'assurance — Accident [29 mai 2026] — L.R.A.R.
 La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions.
 
-La Cour de cassation (Cass. Com., 20 mai 2003, n° 99-17.092 — arrêt SATI[^1]) a posé le principe selon lequel constitue une faute détachable la faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. Le défaut de souscription d'assurances légalement obligatoires peut constituer, dans ces conditions, une application de ce principe, en exposant les tiers à un préjudice certain.
+La Cour de cassation (Cass. Com., 20 mai 2003, n° 99-17.092 — arrêt SATI) a posé le principe selon lequel constitue une faute détachable la faute intentionnelle d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. Le défaut de souscription d'assurances légalement obligatoires peut constituer, dans ces conditions, une application de ce principe, en exposant les tiers à un préjudice certain.
 
 > *« La faute du dirigeant social, même lorsqu'elle est commise dans l'exercice de ses fonctions, est séparable de celles-ci lorsqu'elle constitue un manquement délibéré à ses obligations et engage sa responsabilité personnelle. »* <br>
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) <br>
-> **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092[^1]**
+> **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092**
 
-L'article L. 227-8 du Code de commerce[^2] dispose que les dirigeants d'une société commerciale sont responsables, individuellement ou solidairement, selon le cas, envers les tiers des conséquences dommageables de leurs actes.
+L'article L. 227-8 du Code de commerce dispose que les dirigeants d'une société commerciale sont responsables, individuellement ou solidairement, selon le cas, envers les tiers des conséquences dommageables de leurs actes.
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
 > [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
-> **Code de commerce > Partie législative > Livre II[^2]**
+> **Code de commerce > Partie législative > Livre II**
 
 Le défaut d'information de la victime sur l'identité de l'assureur constitue un manquement grave à l'obligation de loyauté et de transparence qui incombe à tout dirigeant d'entreprise.
 
@@ -73,11 +73,11 @@ Le défaut d'information de la victime sur l'identité de l'assureur constitue u
 
 Je me permets de vous adresser la présente lettre dans une démarche constructive, préalable à toute action contentieuse, afin d'obtenir les informations nécessaires à la régularisation du sinistre dont j'ai été victime le [29 mai 2026] dans les locaux de [SAS HB BARBER], société au sein de laquelle vous exercez les fonctions de Directrice Générale.
 
-En application de l'article L. 124-3 du Code des assurances[^3], la victime dispose d'une action directe contre l'assureur de responsabilité civile de l'auteur du dommage.
+En application de l'article L. 124-3 du Code des assurances, la victime dispose d'une action directe contre l'assureur de responsabilité civile de l'auteur du dommage.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
-> **Code des assurances > Partie législative > Livre Ier[^3]**
+> **Code des assurances > Partie législative > Livre Ier**
 
 Je vous remercie de bien vouloir me communiquer, dans les meilleurs délais, les informations suivantes :
 
@@ -89,24 +89,24 @@ Je vous remercie de bien vouloir me communiquer, dans les meilleurs délais, les
 
 Ces informations me permettront de déclarer le sinistre et d'envisager une résolution amiable, conformément à l'obligation de loyauté et de transparence qui incombe à tout dirigeant d'entreprise.
 
-À défaut de réponse de votre part dans un délai de quinze (15) jours à compter de la réception de la présente, je me verrai contraint de saisir le juge des référés du tribunal judiciaire de [Foix] afin d'obtenir, sur le fondement de l'article 145 du Code de procédure civile[^4], une mesure d'instruction in futurum aux fins d'identification de l'assureur.
+À défaut de réponse de votre part dans un délai de quinze (15) jours à compter de la réception de la présente, je me verrai contraint de saisir le juge des référés du tribunal judiciaire de [Foix] afin d'obtenir, sur le fondement de l'article 145 du Code de procédure civile, une mesure d'instruction in futurum aux fins d'identification de l'assureur.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
-> **Code de procédure civile > Partie législative > Livre II[^4]**
+> **Code de procédure civile > Partie législative > Livre II**
 
-Dans cette hypothèse, je serai également contraint de solliciter la communication de l'intégralité du contrat d'assurance, et, le cas échéant, de rechercher la responsabilité personnelle des dirigeants pour défaut d'information sur le fondement de la faute détachable[^1].
+Dans cette hypothèse, je serai également contraint de solliciter la communication de l'intégralité du contrat d'assurance, et, le cas échéant, de rechercher la responsabilité personnelle des dirigeants pour défaut d'information sur le fondement de la faute détachable.
 ## II — Transparence sur la suite donnée au dossier
 
 La présente lettre constitue une première démarche amiable. Conformément à la procédure légale, cette étape est obligatoire avant toute saisine du tribunal. Elle permet :
 
 1. D'obtenir les informations nécessaires à l'identification de l'assureur de responsabilité civile ;
 
-2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat (article L. 113-2, 4° du Code des assurances[^5]), lequel devra répondre dans un délai raisonnable ;
+2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat (article L. 113-2[^n1], 4° du Code des assurances), lequel devra répondre dans un délai raisonnable ;
 
 > *« L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. »* <br>
 > [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>
-> **Code des assurances > Partie législative > Livre Ier[^5]**
+> **Code des assurances > Partie législative > Livre Ier**
 
 3. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
@@ -128,7 +128,7 @@ Comptant sur votre diligence, je vous prie d'agréer, Madame la Directrice Gén�
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du [J+4]
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures
+- **[Certificat medical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures
 
 - **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du [J+1]
 
@@ -140,9 +140,7 @@ Comptant sur votre diligence, je vous prie d'agréer, Madame la Directrice Gén�
 
 ## Sources Législation
 
-[^1]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369) ↩
-[^2]: [Article L. 227-8 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) ↩
-[^3]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
-[^4]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
-[^5]: [Article L. 113-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) ↩
+[^n1]: > « L'assuré est obligé : 1° De payer la prime ou cotisation aux époques convenues ; 2° De répondre exactement aux questions posées par l'assureur, notamment dans le formulaire de déclaration du risque par lequel l'assureur l'interroge lors de la conclusion du contrat, sur les circonstances qui sont de nature à faire apprécier par l'assureur les risques qu'il prend en charge ; 3° De déclarer, en cours de contrat, les circonstances nouvelles qui ont pour conséquence soit d'aggraver les risques, soit d'en créer de nouveaux et rendent de ce fait inexactes ou caduques les réponses faites à l'assureur, notamment dans le formulaire mentionné au 2° ci-dessus. L'assuré doit, par lettre recommandée ou par envoi recommandé électronique, déclarer ces circonstances à l'assureur dans un délai de quinze jours à partir du moment où il en a eu connaissance ; 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai fixé par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. Ce délai minimal est ramené à deux jours ouvrés en cas de vol et à vingt-quatre heures en cas de mortalité du bétail. Les délais ci-dessus peuvent être prolongés d'un commun accord entre les parties contractantes. Lorsqu'elle est prévue par une clause du contrat, la déchéance pour déclaration tardive au regard des délais prévus au 3° et au 4° ci-dessus ne peut être opposée à l'assuré que si l'assureur établit que le retard dans la déclaration lui a causé un préjudice. Elle ne peut également être opposée dans tous les cas où le retard est dû à un cas fortuit ou de force majeure. Les dispositions mentionnées aux 1°, 3° et 4° ci-dessus ne sont pas applicables aux assurances sur la vie. » <br>
+    > **Code des assurances > Chapitre III : Obligations de l'assureur et de l'assuré.** <br>
+    > [Article L113-2 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) ↩
 <!-- /Source -->

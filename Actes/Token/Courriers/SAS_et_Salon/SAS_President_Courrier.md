@@ -25,7 +25,7 @@ calendar_event_id: dd8qkuvg1t3jquofh93ccnl0lg
 jx: J+31
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -184,7 +184,7 @@ je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président,
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**
+- **[Certificat medical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures par le Dr **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**
 
 - **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du 30 mai 2026
 

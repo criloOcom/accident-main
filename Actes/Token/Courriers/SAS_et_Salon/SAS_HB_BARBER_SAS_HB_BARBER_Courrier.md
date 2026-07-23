@@ -14,7 +14,7 @@ auteur: La Victime
 reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - SAS - HB BARBER - Courrier.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS & Salon](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -67,7 +67,7 @@ Je vous informe officiellement de l’accident corporel grave dont j’ai été 
 
 Lors de ma venue pour une retouche de coupe de cheveux, le basculement accidentel d’un bac à shampoing défectueux a provoqué une coupure profonde de 8,5 cm au niveau de ma main droite dominante (index droit), avec section tendineuse et nerveuse. 
 
-Le jour même, j’ai été pris en charge en urgence au [**[Centre de soins immédiats]**](../../../../Memory/Tokens/token-centre-soins-imm%C3%A9diats-nom.md), [**[L'Adresse du Centre de soins immédiats]**](../../../../Memory/Tokens/token-centre-soins-imm%C3%A9diats-adresse.md), par le Dr **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)** (RPPS [**[Le RPPS du Médecin en Urgence]**](../../../../Memory/Tokens/token-hopital-urgence-medecin-rpps.md)), qui a constaté une plaie palmaire droite profonde, réalisé les [premiers soins](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (lavage, désinfection, exploration sous anesthésie locale) et m’a réorienté en urgence vers le service spécialisé « SOS Main » de **[L'Établissement SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)** pour une exploration chirurgicale le lendemain matin.
+Le jour même, j’ai été pris en charge en urgence au [**[Centre de soins immédiats]**](../../../../Memory/Tokens/token-centre-soins-imm%C3%A9diats-nom.md), [**[L'Adresse du Centre de soins immédiats]**](../../../../Memory/Tokens/token-centre-soins-imm%C3%A9diats-adresse.md), par le Dr **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)** (RPPS [**[Le RPPS du Médecin en Urgence]**](../../../../Memory/Tokens/token-hopital-urgence-medecin-rpps.md)), qui a constaté une plaie palmaire droite profonde, réalisé les [premiers soins](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) (lavage, désinfection, exploration sous anesthésie locale) et m’a réorienté en urgence vers le service spécialisé « SOS Main » de **[L'Établissement SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)** pour une exploration chirurgicale le lendemain matin.
 
 Le **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)**, j’ai été opéré par le Dr **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** dans ce service de chirurgie de la main (suture tendineuse, suture microchirurgicale des nerfs et vaisseaux, neurolyse, sutures cutanées), comme l’attestent les comptes-rendus opératoires.
 
@@ -147,7 +147,7 @@ Téléphone : **[Le Téléphone de la Victime](../../../../Memory/Tokens/token-v
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Dépôt de plainte initial du 2 juin 2026
 
-- **[Certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**
+- **[Certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures par le Dr **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**
 
 - **[Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Intervention chirurgicale d'urgence SOS Main du 30 mai 2026
 

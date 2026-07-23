@@ -33,7 +33,7 @@ jx: J+47
 # RELANCE<br>INSPECTION DU TRAVAIL
 
 > Courrier recommandé avec accusé de réception
-> Fondement : Code des relations entre le public et l'administration (CRPA, Art. L. 300-1)
+> Fondement : Code des relations entre le public et l'administration (CRPA, Art. L. 300-1[^n1])
 
 <hr><hr>
 
@@ -86,7 +86,7 @@ Dans ce contexte, je souhaiterais savoir :
 
 3. Et, si cela est possible sans porter atteinte au secret de l'enquête, si un **rapport a été ou sera établi** concernant cet accident et les conditions de sécurité dans cet établissement.
 
-Sur le fondement du **Code des relations entre le public et l'administration** (CRPA, Art. L. 300-1), je sollicite également, le moment venu, la communication de tout **rapport d'enquête me concernant nominativement**, dès lors que cette communication ne porterait pas atteinte aux droits de tiers — conformément à la jurisprudence constante du Conseil d'État reconnaissant à la victime d'un accident le droit d'accéder au rapport d'enquête de l'inspection du travail relatif à son propre accident.
+Sur le fondement du **Code des relations entre le public et l'administration** (CRPA, Art. L. 300-1[^n1]), je sollicite également, le moment venu, la communication de tout **rapport d'enquête me concernant nominativement**, dès lors que cette communication ne porterait pas atteinte aux droits de tiers — conformément à la jurisprudence constante du Conseil d'État reconnaissant à la victime d'un accident le droit d'accéder au rapport d'enquête de l'inspection du travail relatif à son propre accident.
 
 Je vous remercie par avance de l'attention portée à la présente et reste à votre disposition pour tout complément d'information (certificats médicaux, photos, PV initial).
 
@@ -105,5 +105,15 @@ Sébastien GRAZIDE
 
 - **[Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du [J+1]
 
-- **[Certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures aux urgences
+- **[Certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures aux urgences
 <!-- /PJ -->
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^n1]: > « Le droit de toute personne à l'information est précisé et garanti par les dispositions des titres Ier, III et IV du présent livre en ce qui concerne la liberté d'accès aux documents administratifs. » <br>
+    > **Code des relations entre le public et l'administration > Livre III : L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET LA RÉUTILISATION DES INFORMATIONS PUBLIQUES.** <br>
+    > [Article L300-1 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367687) ↩
+<!-- /Source -->

@@ -82,11 +82,11 @@ A ce jour, les procedures suivantes ont ete engagees :
 
 > *« Le président du tribunal judiciaire ou le juge des contentieux de la protection dans les limites de sa compétence peuvent toujours, même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
 > [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
-> **Code de procédure civile > Chapitre II : Les ordonnances de référé.[^1]**
+> **Code de procédure civile > Chapitre II : Les ordonnances de référé.**
 
 3. **Assignation Article 145 CPC** (5 juillet 2026) : Saisine du Tribunal Judiciaire de Foix pour communication forcee de la police d'assurance RC professionnelle sous astreinte.
 
-4. **[Constitution de Partie Civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : Depot d'une plainte avec [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) aupres du Doyen des Juges d'Instruction du Tribunal Judiciaire de Foix, fondee sur les articles 222-19 et 222-20 du Code penal (blessures involontaires), et engageant la responsabilite penale de la SAS et de ses dirigeants.
+4. **[Constitution de Partie Civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : Depot d'une plainte avec [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) aupres du Doyen des Juges d'Instruction du Tribunal Judiciaire de Foix, fondee sur les articles 222-19 et 222-20 du Code penal[^n1][^n2] (blessures involontaires), et engageant la responsabilite penale de la SAS et de ses dirigeants.
 <hr><hr>
 
 ## IV — BORDEREAU RECAPITULATIF DES PIECES
@@ -99,7 +99,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 >
 > *Les recours subrogatoires des caisses contre les tiers s'exercent poste par poste sur les seules indemnités qui réparent des préjudices qu'elles ont pris en charge, à l'exclusion des préjudices à caractère personnel.*
 >
-> *Conformément à l'article 1346-3 du code civil , la subrogation ne peut nuire à la victime subrogeante, créancière de l'indemnisation, lorsqu'elle n'a été prise en charge que partiellement par les prestations sociales ; en ce cas, l'assuré social peut exercer ses droits contre le responsable, par préférence à la caisse subrogée.*
+> *Conformément à l'article 1346-3 du code civil[^n3] , la subrogation ne peut nuire à la victime subrogeante, créancière de l'indemnisation, lorsqu'elle n'a été prise en charge que partiellement par les prestations sociales ; en ce cas, l'assuré social peut exercer ses droits contre le responsable, par préférence à la caisse subrogée.*
 >
 > *Cependant, si le tiers payeur établit qu'il a effectivement et préalablement versé à la victime une prestation indemnisant de manière incontestable un poste de préjudice personnel, son recours peut s'exercer sur ce poste de préjudice.*
 >
@@ -127,11 +127,11 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 >
 > *Pour l'exécution des recours subrogatoires prévus au présent article, les créances détenues par l'organisme qui a versé les prestations sont cédées définitivement à l'organisme chargé de cette mission en application du 3° de l'article L. 221-3-1 du présent code. »* <br>
 > [Article L376-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231) <br>
-> **Code de la sécurité sociale > Chapitre 6 : Recours des caisses contre les tiers.[^2]**
+> **Code de la sécurité sociale > Chapitre 6 : Recours des caisses contre les tiers.**
 
 **A. Pièces médicales**
 
-- **Pièce n°1 :** [Certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (Dr Dr Oxybel) — 29 mai 2026
+- **Pièce n°1 :** [Certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) (Dr Dr Oxybel) — 29 mai 2026
 
 - **Pièce n°2 :** [Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) SOS Main (Dr Dr Iskander DJERBI) — 30 mai 2026
 
@@ -180,7 +180,7 @@ Je sollicite de vos services :
 >
 > *Les recours subrogatoires des caisses contre les tiers s'exercent poste par poste sur les seules indemnités qui réparent des préjudices qu'elles ont pris en charge, à l'exclusion des préjudices à caractère personnel.*
 >
-> *Conformément à l'article 1346-3 du code civil , la subrogation ne peut nuire à la victime subrogeante, créancière de l'indemnisation, lorsqu'elle n'a été prise en charge que partiellement par les prestations sociales ; en ce cas, l'assuré social peut exercer ses droits contre le responsable, par préférence à la caisse subrogée.*
+> *Conformément à l'article 1346-3 du code civil[^n3] , la subrogation ne peut nuire à la victime subrogeante, créancière de l'indemnisation, lorsqu'elle n'a été prise en charge que partiellement par les prestations sociales ; en ce cas, l'assuré social peut exercer ses droits contre le responsable, par préférence à la caisse subrogée.*
 >
 > *Cependant, si le tiers payeur établit qu'il a effectivement et préalablement versé à la victime une prestation indemnisant de manière incontestable un poste de préjudice personnel, son recours peut s'exercer sur ce poste de préjudice.*
 >
@@ -208,7 +208,7 @@ Je sollicite de vos services :
 >
 > *Pour l'exécution des recours subrogatoires prévus au présent article, les créances détenues par l'organisme qui a versé les prestations sont cédées définitivement à l'organisme chargé de cette mission en application du 3° de l'article L. 221-3-1 du présent code. »* <br>
 > [Article L376-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231) <br>
-> **Code de la sécurité sociale > Chapitre 6 : Recours des caisses contre les tiers.[^2]**
+> **Code de la sécurité sociale > Chapitre 6 : Recours des caisses contre les tiers.**
 
 **3. L'information sur le suivi du dossier** et les demarches complementaires eventuellement necessaires de ma part.
 
@@ -227,6 +227,15 @@ Sébastien GRAZIDE
 
 ## Sources Législation
 
-[^1]: [Article 835 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) ↩
-[^2]: [Article L376-1 du Code de la sécurité sociale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231) ↩
+[^n1]: > « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. » <br>
+    > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
+    > [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
+
+[^n2]: > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
+    > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
+    > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+
+[^n3]: > « La subrogation ne peut nuire au créancier lorsqu'il n'a été payé qu'en partie ; en ce cas, il peut exercer ses droits, pour ce qui lui reste dû, par préférence à celui dont il n'a reçu qu'un paiement partiel. » <br>
+    > **Code civil > Sous-section 4 : Le paiement avec subrogation.** <br>
+    > [Article 1346-3 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035291) ↩
 <!-- /Source -->

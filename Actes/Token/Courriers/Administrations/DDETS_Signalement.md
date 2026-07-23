@@ -95,7 +95,7 @@ Les procédures suivantes ont été engagées :
 
 - Mise en demeure à **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** et à **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**
 
-- Action directe contre l'assureur RC ([Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1])
+- Action directe contre l'assureur RC ([Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449))
 
 **3. Réquisitoire introductif** (J+47 — Parquet de Foix)
 - Transmission au doyen des juges d'instruction le 15 juillet 2026
@@ -139,18 +139,18 @@ Je souhaiterais être informé de l'état d'avancement de votre enquête et, le 
 
 ### III.2 — COMMUNICATION DU RAPPORT D'INSPECTION
 
-En qualité de personne directement concernée par les faits, je sollicite la transmission du rapport d'inspection sur le fondement de [l'article L. 311-1 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367683)[^2], sous réserve du secret de l'enquête en cours.
+En qualité de personne directement concernée par les faits, je sollicite la transmission du rapport d'inspection sur le fondement de [l'article L. 311-1 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367683), sous réserve du secret de l'enquête en cours.
 
 ### III.3 — VÉRIFICATION DES ÉLÉMENTS DE SÉCURITÉ SUIVANTS
 
 Je porte à votre attention les faits suivants, susceptibles de caractériser des manquements à la réglementation du travail :
 
 - **Équipement de travail dangereux** :  
-Le bac à shampoing en céramique, instable et présentant une cassure préexistante non signalée, est susceptible de caractériser un manquement à l'obligation de sécurité et de conformité des équipements de travail (Article L. 4321-1 du Code du travail).
+Le bac à shampoing en céramique, instable et présentant une cassure préexistante non signalée, est susceptible de caractériser un manquement à l'obligation de sécurité et de conformité des équipements de travail (Article L. 4321-1 du Code du[^n1] travail).
 
 > *« Les équipements de travail et les moyens de protection mis en service ou utilisés dans les établissements destinés à recevoir des travailleurs sont équipés, installés, utilisés, réglés et maintenus de manière à préserver la santé et la sécurité des travailleurs, y compris en cas de modification de ces équipements de travail et de ces moyens de protection. »* <br>
 > [Article L4321-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209)  
-> **Code du travail > Section 1 : Principes.[^3]**
+> **Code du travail > Section 1 : Principes.**
 
 - **Absence de DUERP** :  
 À ce jour, aucun Document Unique d'Évaluation des Risques Professionnels ne m'a été communiqué par l'exploitant malgré ma mise en demeure du **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**.
@@ -163,11 +163,11 @@ L'exploitant n'a affiché aucune attestation d'assurance RC professionnelle au s
 - **Absence d'équipement d'accès en hauteur** :  
 Le préposé a dû monter sur le bac à shampoing pour accéder au poste de télévision, en l'absence de tout équipement de travail adapté (escabeau, marchepied) mis à disposition par l'employeur.
 
-Cette situation est susceptible de méconnaître l'obligation de sécurité de l'employeur (Article L. 4121-1 du Code du travail) et les règles relatives aux travaux en hauteur (Articles R. 4323-58 et suivants du Code du travail), l'employeur devant fournir un plan de travail ou un équipement d'accès approprié permettant l'intervention en sécurité.
+Cette situation est susceptible de méconnaître l'obligation de sécurité de l'employeur (Article L. 4121-1 du Code du[^n2] travail) et les règles relatives aux travaux en hauteur (Articles R. 4323-58[^n3] et suivants du Code du travail), l'employeur devant fournir un plan de travail ou un équipement d'accès approprié permettant l'intervention en sécurité.
 
 > *« L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. »* <br>
 > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)  
-> **Code du travail > Chapitre Ier : Obligations de l'employeur.[^4]**
+> **Code du travail > Chapitre Ier : Obligations de l'employeur.**
 
 - **Travail dissimulé présumé** :  
 Il existe une possibilité que le préposé exerçant dans l'établissement ne soit pas déclaré.
@@ -180,7 +180,7 @@ Si les faits constatés par vos contrôles s'avèrent constitutifs d'infractions
 
 > *« Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner conformément aux dispositions de l'article 40-1. Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs. »* <br>
 > [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)  
-> **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.[^5]**
+> **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.**
 
 Je vous remercie de bien vouloir me faire parvenir un accusé de réception écrit de la présente.
 
@@ -198,7 +198,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur l'Inspe
 
 - **[Mises en demeure LRAR](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mises en demeure du **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)** a la SAS, a son president et a sa directrice generale
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**
+- **[Certificat medical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures par le Dr **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**
 
 - **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du 30 mai 2026
 
@@ -212,9 +212,15 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur l'Inspe
 
 ## Sources Législation
 
-[^1]: [Article L. 124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
-[^2]: [l'article L. 311-1 du Code des relations entre le public et l'administration — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367683](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367683) ↩
-[^3]: [Article L4321-1 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209) ↩
-[^4]: [Article L4121-1 du Code du travail — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) ↩
-[^5]: [Article 40 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) ↩
+[^n1]: > « Les équipements de travail et les moyens de protection mis en service ou utilisés dans les établissements destinés à recevoir des travailleurs sont équipés, installés, utilisés, réglés et maintenus de manière à préserver la santé et la sécurité des travailleurs, y compris en cas de modification de ces équipements de travail et de ces moyens de protection. » <br>
+    > **Code du travail > Section 1 : Principes.** <br>
+    > [Article L4321-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209) ↩
+
+[^n2]: > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. » <br>
+    > **Code du travail > Chapitre Ier : Obligations de l'employeur.** <br>
+    > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) ↩
+
+[^n3]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
+    > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.** <br>
+    > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) ↩
 <!-- /Source -->

@@ -23,7 +23,7 @@ calendar_event_id: qrvadub2s8gekuhgpn0knq8130
 jx: J+31
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Propriétaire](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Proprietaire](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -56,17 +56,17 @@ La présente lettre est adressée par Sébastien GRAZIDE à Romain DELRIEU en sa
 Cette démarche s'inscrit dans le cadre de la procédure d'indemnisation du grave accident corporel survenu le 29 mai 2026 dans lesdits locaux.
 ## II — RAPPEL DES OBLIGATIONS LÉGALES
 
-L'article 1719 du Code civil impose au bailleur de délivrer au preneur un local en bon état d'usage et de faire jouir paisiblement le preneur pendant toute la durée du bail.
+L'article 1719 du Code civil[^n1] impose au bailleur de délivrer au preneur un local en bon état d'usage et de faire jouir paisiblement le preneur pendant toute la durée du bail.
 
 > *« Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière : (...) 3° D'en faire jouir paisiblement le preneur pendant la durée du bail ; »* <br>
 > [Article 1719](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) <br>
-> **Code civil > Partie législative > Livre III : Des différentes manières dont on acquiert la propriété > Titre VIII : Du contrat de louage > Chapitre II : Du louage des choses > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.[^1]**
+> **Code civil > Partie législative > Livre III : Des différentes manières dont on acquiert la propriété > Titre VIII : Du contrat de louage > Chapitre II : Du louage des choses > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.**
 
 L'article 1720 du même code impose au bailleur d'entretenir les lieux en bon état de réparation de toute nature.
 
 > *« Le bailleur est tenu de livrer la chose en bon état de réparations de toute espèce. Il doit y faire, pendant la durée du bail, toutes les réparations qui peuvent devenir nécessaires, autres que les locatives. »* <br>
 > [Article 1720](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784) <br>
-> **Code civil > Partie législative > Livre III : Des différentes manières dont on acquiert la propriété > Titre VIII : Du contrat de louage > Chapitre II : Du louage des choses > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.[^2]**
+> **Code civil > Partie législative > Livre III : Des différentes manières dont on acquiert la propriété > Titre VIII : Du contrat de louage > Chapitre II : Du louage des choses > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.**
 
 <hr><hr>
 
@@ -76,7 +76,7 @@ Le vendredi 29 mai 2026 à 15h00, j'ai été victime d'un accident corporel grav
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
-> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.[^3]**
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre II : Le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.**
 
 Je mets en œuvre l'action directe contre l'assureur de responsabilité civile de l'exploitant commercial.
 
@@ -92,7 +92,7 @@ Cette démarche amiable vise exclusivement à orienter notre recours directement
 
 > *« Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »* <br>
 > [Arrêt n°20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126) <br>
-> **Cour de cassation, 2e chambre civile, 8 juillet 2021, n° 20-15.106[^4]**
+> **Cour de cassation, 2e chambre civile, 8 juillet 2021, n° 20-15.106**
 
 Je vous remercie d'avance pour votre diligence et votre coopération indispensable dans ce dossier.
 
@@ -109,7 +109,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 > *« L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. »* <br>
 > [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>
-> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.[^5]**
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.**
 
 3. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
@@ -117,7 +117,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
-> **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.[^6]**
+> **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.**
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
 
@@ -131,7 +131,7 @@ Sébastien GRAZIDE
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr Dr Julie JARDON
+- **[Certificat medical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures par le Dr Dr Julie JARDON
 
 - **[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SAS SAS HB BARBER (SIREN 104 103 262)
 
@@ -147,10 +147,7 @@ Sébastien GRAZIDE
 
 ## Sources Législation
 
-[^1]: [Article 1719 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) ↩
-[^2]: [Article 1720 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784) ↩
-[^3]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
-[^4]: [Arrêt n°20-15.106 — www.legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126) ↩
-[^5]: [Article L. 113-2 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) ↩
-[^6]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+[^n1]: > « Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière : 1° De délivrer au preneur la chose louée et, s'il s'agit de son habitation principale, un logement décent. Lorsque des locaux loués à usage d'habitation sont impropres à cet usage, le bailleur ne peut se prévaloir de la nullité du bail ou de sa résiliation pour demander l'expulsion de l'occupant ; 2° D'entretenir cette chose en état de servir à l'usage pour lequel elle a été louée ; 3° D'en faire jouir paisiblement le preneur pendant la durée du bail ; 4° D'assurer également la permanence et la qualité des plantations. » <br>
+    > **Code civil > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.** <br>
+    > [Article 1719 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) ↩
 <!-- /Source -->

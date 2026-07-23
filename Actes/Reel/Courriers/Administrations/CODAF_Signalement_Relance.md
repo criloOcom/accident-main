@@ -35,7 +35,7 @@ jx: J+47
 # RELANCE<br>PRÉFECTURE / CODAF
 
 > Courrier recommandé avec accusé de réception
-> Fondement : Code des relations entre le public et l'administration (CRPA, Art. L. 300-1 et suiv.)
+> Fondement : Code des relations entre le public et l'administration (CRPA, Art. L. 300-1[^n1] et suiv.)
 
 <hr><hr>
 
@@ -86,7 +86,7 @@ Victime directe de cet accident — **plaie palmaire profonde de la main droite 
 
 Je suis conscient que certaines informations peuvent être couvertes par le **secret des enquêtes administratives**. Je vous remercie néanmoins de bien vouloir m'indiquer, dans la mesure de ce qui vous est possible, les suites données à ce signalement, ou à défaut de m'informer que l'instruction est en cours.
 
-Sur le fondement du **Code des relations entre le public et l'administration** (CRPA, Art. L. 300-1), je sollicite également, le moment venu, la communication de tout document administratif achevé me concernant nominativement (rapports, courriers de saisine, accusés de réception, conclusions), sous réserve des exceptions légales tenant au secret des enquêtes en cours.
+Sur le fondement du **Code des relations entre le public et l'administration** (CRPA, Art. L. 300-1[^n1]), je sollicite également, le moment venu, la communication de tout document administratif achevé me concernant nominativement (rapports, courriers de saisine, accusés de réception, conclusions), sous réserve des exceptions légales tenant au secret des enquêtes en cours.
 
 Le cas échéant, je me tiens à votre disposition pour vous transmettre toute pièce utile (PV initial n°2026/015967, certificats médicaux, photos, correspondances avec la Mairie).
 
@@ -103,9 +103,19 @@ Sébastien GRAZIDE
 
 - **[PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
 
-- **[Certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures aux urgences
+- **[Certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures aux urgences
 
 - **[Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du [J+1]
 
 - **[Témoin Client - Attestation.md](../../../Reel/Attestations/T%C3%A9moin%20Client%20-%20Attestation.md)** — Attestation sur l'honneur temoin oculaire
 <!-- /PJ -->
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^n1]: > « Le droit de toute personne à l'information est précisé et garanti par les dispositions des titres Ier, III et IV du présent livre en ce qui concerne la liberté d'accès aux documents administratifs. » <br>
+    > **Code des relations entre le public et l'administration > Livre III : L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET LA RÉUTILISATION DES INFORMATIONS PUBLIQUES.** <br>
+    > [Article L300-1 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367687) ↩
+<!-- /Source -->

@@ -70,7 +70,7 @@ Blagnac, le 6 juillet 2026
 
 Monsieur le Doyen des Juges d'Instruction,
 
-Par la présente et conformément aux dispositions des articles 85 et suivants du Code de procédure pénale, j'ai l'honneur de me constituer partie civile entre vos mains, pour des faits de blessures involontaires (Articles 222-19 et 222-20 du Code pénal).
+Par la présente et conformément aux dispositions des articles 85 et suivants du Code de procédure pénale, j'ai l'honneur de me constituer partie civile entre vos mains, pour des faits de blessures involontaires (Articles 222-19 et 222-20 du Code pénal[^n1][^n2]).
 
 Ces faits sont survenus le 29 mai 2026 dans les locaux de la SAS SAS HB BARBER, sise 22 Rue Lafaurie, 09000 Foix. Ils engagent la responsabilité pénale et civile de la personne morale ainsi que celle de ses dirigeants, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC, pour violation manifestement délibérée d'une obligation de prudence ou de sécurité et défaut d'assurance de responsabilité civile professionnelle.
 
@@ -82,7 +82,7 @@ Dans l'attente que vous fixiez, le cas échéant, le montant de la consignation 
 
 > *« Le juge d'instruction constate, par ordonnance, le dépôt de la plainte. En fonction des ressources de la partie civile, il fixe le montant de la consignation que celle-ci doit, si elle n'a obtenu l'aide juridictionnelle, déposer au greffe et le délai dans lequel elle devra être faite sous peine de non-recevabilité de la plainte. Il peut dispenser de consignation la partie civile. »* <br>
 > [Article 88 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575469) <br>
-> **Code de procédure pénale > Section 2 : De la constitution de la partie civile et de ses effets — abrogation différée.[^1]**
+> **Code de procédure pénale > Section 2 : De la constitution de la partie civile et de ses effets — abrogation différée.**
 
 Je me tiens à votre entière disposition pour être entendu et participer à toute expertise médicale que vous jugerez utile d'ordonner.
 
@@ -101,7 +101,7 @@ Sébastien GRAZIDE
 
 - **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Intervention de microchirurgie d'urgence du [J+1]
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures aux urgences
+- **[Certificat medical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures aux urgences
 
 - **[Arrets de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours
 
@@ -115,5 +115,11 @@ Sébastien GRAZIDE
 
 ## Sources Législation
 
-[^1]: [Article 88 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575469](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575469) ↩
+[^n1]: > « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. » <br>
+    > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
+    > [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
+
+[^n2]: > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
+    > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
+    > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
 <!-- /Source -->

@@ -13,7 +13,7 @@ key_points:
 recipient: Destinataires des actes et autorités judiciaires
 jurisdiction: Tribunal Judiciaire de Foix
 legal_basis:
-  - Article 1240 du Code civil
+  - Article 1240[^n1] du Code civil[^loi-1]
   - Loi n°91-647 du 10 juillet 1991 relative à l'aide juridique
 description: 'Document d''erratum formel — Correction de la désignation de la société défenderesse : remplacement de [L''Ancien Exploitant du Commerce] par [L''Exploitant du Commerce (La SAS)] dans l''ensemble des actes et démarches'
 type: document
@@ -101,7 +101,7 @@ Deux événements concomitants ont révélé l'erreur :
 
 **2. Visite des lieux :** Je me suis rendu physiquement au 22 rue Lafaurie, Foix, le 16 juillet 2026. J'ai alors constaté que l'enseigne sur la vitrine indiquait désormais **« SAS HB BARBER »**. Le commerce était exploité par une société que je ne connaissais pas : SAS HB BARBER (SIREN 104 103 262 , même adresse).
 
-Des recherches web complémentaires effectuées à mon retour ont confirmé que SAS HB BARBER avait été créée le **22 avril 2026** — soit **37 jours avant l'accident** — à la même adresse (22 Rue Lafaurie, 09000 Foix)[^1], pour la même activité (coiffure/barbier, code APE 9602A), avec un capital de 1 000 €.
+Des recherches web complémentaires effectuées à mon retour ont confirmé que SAS HB BARBER avait été créée le **22 avril 2026** — soit **37 jours avant l'accident** — à la même adresse (22 Rue Lafaurie, 09000 Foix), pour la même activité (coiffure/barbier, code APE 9602A), avec un capital de 1 000 €.
 
 **Élément capital :** La directrice générale de SAS HB BARBER, **Mme Catherine SORROCHE, dite ANDISSAC **, est la **même personne** que la directrice générale de SAS LES MAUVAIS GARÇONS. Il existe donc un lien organique direct entre les deux entités.
 <hr><hr>
@@ -180,7 +180,7 @@ En conséquence de ce qui précède, je soussigné Sébastien GRAZIDE déclare f
    > SAS HB BARBER
    > SAS au capital de 1 000 €
    > SIREN : 104 103 262
-   > Siège social : 22 Rue Lafaurie, 09000 Foix[^1]
+   > Siège social : 22 Rue Lafaurie, 09000 Foix
    > Président : Hamza El Hachemi BERGUIGA
    > Directrice générale : Catherine SORROCHE, dite ANDISSAC
    > Date de création : 22 avril 2026
@@ -214,8 +214,18 @@ Fait à 10 Avenue de Purpan, 31700 Blagnac, le 17 juillet 2026
 
 <hr><hr>
 
-[^1]: **Variantes administratives de l'adresse** : Le procès-verbal de police n°[2026/015967] mentionne « 22, RUE DE LA FAURIE » — il s'agit d'une erreur de saisie des services de police. Le Registre National des Entreprises (INPI) enregistre le siège social sous « 22 Grande Rue La Faurie » — variante cadastrale. L'adresse postale et géographique exacte, seule à retenir dans le présent erratum, est **22 Rue Lafaurie, 09000 Foix**.
+: **Variantes administratives de l'adresse** : Le procès-verbal de police n°[2026/015967] mentionne « 22, RUE DE LA FAURIE » — il s'agit d'une erreur de saisie des services de police. Le Registre National des Entreprises (INPI) enregistre le siège social sous « 22 Grande Rue La Faurie » — variante cadastrale. L'adresse postale et géographique exacte, seule à retenir dans le présent erratum, est **22 Rue Lafaurie, 09000 Foix**.
 
-[^1]: **Variantes administratives de l'adresse** : Le procès-verbal de police n°[2026/015967] mentionne « 22, RUE DE LA FAURIE » — il s'agit d'une erreur de saisie des services de police. Le Registre National des Entreprises (INPI) enregistre le siège social sous « 22 Grande Rue La Faurie » — variante cadastrale. L'adresse postale et géographique exacte, seule à retenir dans le présent erratum, est **22 Rue Lafaurie, 09000 Foix**.
+: **Variantes administratives de l'adresse** : Le procès-verbal de police n°[2026/015967] mentionne « 22, RUE DE LA FAURIE » — il s'agit d'une erreur de saisie des services de police. Le Registre National des Entreprises (INPI) enregistre le siège social sous « 22 Grande Rue La Faurie » — variante cadastrale. L'adresse postale et géographique exacte, seule à retenir dans le présent erratum, est **22 Rue Lafaurie, 09000 Foix**.
 
 *Document à annexer à tout acte et courrier mentionnant SAS LES MAUVAIS GARÇONS comme société défenderesse. À distribuer par dépôt physique (Commissariat de Foix) et par lettre recommandée avec accusé de réception (autorités administratives et judiciaires).*
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^n1]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+    > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
+    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+<!-- /Source -->

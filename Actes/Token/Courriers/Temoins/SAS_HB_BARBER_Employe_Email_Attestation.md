@@ -20,7 +20,7 @@ source: local
 jx: J+38
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Témoins](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Temoins](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -57,7 +57,7 @@ Je me permets de vous solliciter pour remplir une **attestation de témoin** (Ce
 
 **Important :** Je comprends que cette démarche peut être délicate vis-à-vis de votre employeur. Sachez que :
 
-- L'attestation est protégée par l'Article 202 du CPC
+- L'attestation est protégée par l'Article 202 du CPC[^loi-1]
 
 - Vous pouvez la rédiger librement, en toute objectivité
 
@@ -89,3 +89,13 @@ Cordialement,
 <!-- /Signature -->
 
 📎 **Pièce jointe :** Joindre le PDF du Cerfa n° 11527\*03.
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^loi-1]: > « L'attestation contient la relation des faits auxquels son auteur a assisté ou qu'il a personnellement constatés. Elle mentionne les nom, prénoms, date et lieu de naissance, demeure et profession de son auteur ainsi que, s'il y a lieu, son lien de parenté ou d'alliance avec les parties, de subordination à leur égard, de collaboration ou de communauté d'intérêts avec elles. Elle indique en outre qu'elle est établie en vue de sa production en justice et que son auteur a connaissance qu'une fausse attestation de sa part l'expose à des sanctions pénales. L'attestation est écrite, datée et signée de la main de son auteur. Celui-ci doit lui annexer, en original ou en photocopie, tout document officiel justifiant de son identité et comportant sa signature. » <br>
+    > **Code de procédure civile > Section I : Les attestations.** <br>
+    > [Article 202 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330) ↩
+<!-- /Source -->

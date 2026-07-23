@@ -131,7 +131,7 @@ jx: J+47
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^1]**
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 
 **3. Dissimulation des preuves (45 secondes) :**
 "Lors de ma plainte initiale, il avait été mentionné que le salon était équipé de vidéosurveillance. J'ai demandé formellement la communication de ces enregistrements, mais sans réponse. Le délai légal de conservation de 30 jours est désormais dépassé. De plus, la vasque cassée, qui est la preuve matérielle de l'accident, n'a jamais été sécurisée. Il y a un risque réel qu'elle ait été détruite ou remplacée."
@@ -149,7 +149,7 @@ jx: J+47
 
 > *« Le juge d'instruction ordonne communication de la plainte au procureur de la République pour que ce magistrat prenne ses réquisitions. Le procureur de la République peut demander au juge d'instruction un délai supplémentaire de trois mois pour permettre la poursuite des investigations avant de faire connaître ses réquisitions. La décision du juge d'instruction constitue une mesure d'administration judiciaire insusceptible de recours. Le réquisitoire peut être pris contre personne dénommée ou non dénommée. Lorsque la plainte n'est pas suffisamment motivée ou justifiée, le procureur de la République peut, avant de prendre ses réquisitions et s'il n'y a pas été procédé d'office par le juge d'instruction, demander à ce magistrat d'entendre la partie civile et, le cas échéant, d'inviter cette dernière à produire toute pièce utile à l'appui de sa plainte. Le procureur de la République ne peut saisir le juge d'instruction de réquisitions de non informer que si, pour des causes affectant l'action publique elle-même, les faits ne peuvent légalement comporter une poursuite ou si, à supposer ces faits démontrés, ils ne peuvent admettre aucune qualification pénale. Le procureur de la République peut également prendre des réquisitions de non-lieu dans le cas où il est établi de façon manifeste, le cas échéant au vu des investigations qui ont pu être réalisées à la suite du dépôt de la plainte ou en application du troisième alinéa, que les faits dénoncés par la partie civile n'ont pas été commis. Lorsque les investigations réalisées au cours de l'enquête effectuée à la suite de la plainte déposée conformément au deuxième alinéa de l'article 85 ont permis d'établir qu'une personne majeure mise en cause pour les faits de nature délictuelle reprochés par la victime pourrait faire l'objet de poursuites mais que l'action publique n'a pas été mise en mouvement par le procureur de la République, celui-ci peut également requérir du juge d'instruction de rendre une ordonnance de refus d'informer, tout en invitant la partie civile à engager des poursuites par voie de citation directe. Dans le cas où le juge d'instruction passe outre, il doit statuer par une ordonnance motivée. Lorsque le juge d'instruction rend une ordonnance de refus d'informer, il peut faire application des dispositions des articles 177-2 et 177-3 . »* <br>
 > [Article 86 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312062) <br>
-> **Code de procédure pénale > Section 2 : De la constitution de la partie civile et de ses effets — abrogation différée.[^2]**
+> **Code de procédure pénale > Section 2 : De la constitution de la partie civile et de ses effets — abrogation différée.**
 
 **Q : "Avez-vous des preuves tangibles de cette obstruction ?"**
 **R :** "Oui, absolument. J'ai ici les accusés de réception des courriers recommandés retournés 'défaut d'adresse' (je les montre), alors que l'[extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) prouve que la société est toujours à cette adresse. J'ai aussi la note d'audit RNE/INPI qui confirme qu'aucun changement n'a été déclaré. Et surtout, j'ai le silence radio complet malgré mes multiples tentatives de contact."
@@ -174,7 +174,7 @@ jx: J+47
 
 > *« Est qualifié crime ou délit flagrant le crime ou le délit qui se commet actuellement, ou qui vient de se commettre. Il y a aussi crime ou délit flagrant lorsque, dans un temps très voisin de l'action, la personne soupçonnée est poursuivie par la clameur publique, ou est trouvée en possession d'objets, ou présente des traces ou indices, laissant penser qu'elle a participé au crime ou au délit. A la suite de la constatation d'un crime ou d'un délit flagrant, l'enquête menée sous le contrôle du procureur de la République dans les conditions prévues par le présent chapitre peut se poursuivre sans discontinuer pendant une durée de huit jours. Lorsque des investigations nécessaires à la manifestation de la vérité pour un crime ou un délit puni d'une peine supérieure ou égale à cinq ans d'emprisonnement ne peuvent être différées, le procureur de la République peut décider la prolongation, dans les mêmes conditions, de l'enquête pour une durée maximale de huit jours. »* <br>
 > [Article 53 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016) <br>
-> **Code de procédure pénale > Chapitre Ier : Des crimes et des délits flagrants — abrogation différée.[^3]**
+> **Code de procédure pénale > Chapitre Ier : Des crimes et des délits flagrants — abrogation différée.**
 
 **3. Commission rogatoire :**
 "Je souhaite que le Procureur de la République soit saisi afin qu'il puisse, le cas échéant, délivrer une commission rogatoire pour élargir les investigations, notamment auprès des organismes sociaux et fiscaux."
@@ -187,7 +187,7 @@ jx: J+47
 
 > *« Les officiers et agents de police judiciaire sont tenus de recevoir les plaintes déposées par les victimes d'infractions à la loi pénale, y compris lorsque ces plaintes sont déposées dans un service ou une unité de police judiciaire territorialement incompétents. Dans ce cas, la plainte est, s'il y a lieu, transmise au service ou à l'unité territorialement compétents. Tout dépôt de plainte fait l'objet d'un procès-verbal et donne lieu à la délivrance immédiate d'un récépissé à la victime, qui mentionne les délais de prescription de l'action publique définis aux articles 7 à 9 ainsi que la possibilité d'interrompre le délai de prescription par le dépôt d'une plainte avec [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md), en application de l'article 85 . Si elle en fait la demande, une copie du procès-verbal lui est immédiatement remise. Les officiers ou agents de police judiciaire peuvent s'identifier dans ce procès-verbal par leur numéro d'immatriculation administrative. »* <br>
 > [Article 15-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) <br>
-> **Code de procédure pénale > Section 1 : Dispositions générales — abrogation différée.[^4]**
+> **Code de procédure pénale > Section 1 : Dispositions générales — abrogation différée.**
 <hr><hr>
 
 ## VII — STRATÉGIE FACE AUX OBJECTIONS
@@ -196,11 +196,11 @@ jx: J+47
 
 **Objection : "C'est un litige civil, pas pénal"**
 **Réponse :**
-"Je comprends votre point de vue, mais permettez-moi de vous rappeler que l'obstruction à la justice (Article 434-15 du Code pénal) et la dissimulation de preuves (Article 434-15-1) sont des infractions pénales caractérisées. Ce n'est pas une simple affaire de responsabilité civile, mais bien une entrave délibérée à la manifestation de la vérité et à l'exercice de mes droits. La jurisprudence est claire sur ce point."
+"Je comprends votre point de vue, mais permettez-moi de vous rappeler que l'obstruction à la justice (Article 434-15 du Code pénal[^n1]) et la dissimulation de preuves (Article 434-15-1[^n2]) sont des infractions pénales caractérisées. Ce n'est pas une simple affaire de responsabilité civile, mais bien une entrave délibérée à la manifestation de la vérité et à l'exercice de mes droits. La jurisprudence est claire sur ce point."
 
 > *« Le fait d'user de promesses, offres, présents, pressions, menaces, voies de fait, manoeuvres ou artifices au cours d'une procédure ou en vue d'une demande ou défense en justice afin de déterminer autrui soit à faire ou délivrer une déposition, une déclaration ou une attestation mensongère, soit à s'abstenir de faire ou délivrer une déposition, une déclaration ou une attestation, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende, même si la subornation n'est pas suivie d'effet. »* <br>
 > [Article 434-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641) <br>
-> **Code pénal > Section 2 : Des entraves à l'exercice de la justice.[^5]**
+> **Code pénal > Section 2 : Des entraves à l'exercice de la justice.**
 
 **Objection : "Nous ne pouvons pas agir sans preuve tangible"**
 **Réponse :**
@@ -319,17 +319,17 @@ jx: J+47
 ### XI.2 — Textes clés à citer
 
 **Code pénal :**
-- Art. 434-15 : "Le fait de détruire, de dégrader ou de détériorer un objet de quelque nature qu'il soit, de nature à faciliter la découverte d'une vérité ou la preuve d'un crime ou d'un délit..."
+- Art. 434-15[^n1] : "Le fait de détruire, de dégrader ou de détériorer un objet de quelque nature qu'il soit, de nature à faciliter la découverte d'une vérité ou la preuve d'un crime ou d'un délit..."
 
 - Art. 434-15-1 : "Le fait, pour quiconque ayant connaissance d'un crime ou d'un délit... de ne pas en informer les autorités judiciaires ou administratives..."
 
 **Code du travail :**
-- Art. L. 4121-1 : "L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs."
+- Art. L. 4121-1[^n3] : "L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs."
 
 - Art. L. 8221-1 : "Est réputé travail dissimulé par dissimulation d'activité l'exercice à but lucratif d'une activité... sans déclaration aux organismes sociaux."
 
 **Code des assurances :**
-- Art. L. 124-3 : "Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile."
+- Art. L. 124-3[^n4] : "Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile."
 <hr><hr>
 
 ## XII — CHECKLIST FINALE AVANT DE PARTIR
@@ -380,14 +380,25 @@ jx: J+47
 <hr><hr>
 
 **BONNE CHANCE !** Ce guide est conçu pour vous donner confiance et structure lors de votre entretien. Vous avez préparé un dossier solide avec des preuves tangibles. Présentez-le avec calme et professionnalisme. Les policiers sont là pour vous aider - donnez-leur les éléments pour le faire efficacement.
+
 <!-- Source -->
 <hr><hr>
 
 ## Sources Législation
 
-[^1]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
-[^2]: [Article 86 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312062](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312062) ↩
-[^3]: [Article 53 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016) ↩
-[^4]: [Article 15-3 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) ↩
-[^5]: [Article 434-15 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641) ↩
+[^n1]: > « Le fait d'user de promesses, offres, présents, pressions, menaces, voies de fait, manoeuvres ou artifices au cours d'une procédure ou en vue d'une demande ou défense en justice afin de déterminer autrui soit à faire ou délivrer une déposition, une déclaration ou une attestation mensongère, soit à s'abstenir de faire ou délivrer une déposition, une déclaration ou une attestation, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende, même si la subornation n'est pas suivie d'effet. » <br>
+    > **Code pénal > Section 2 : Des entraves à l'exercice de la justice.** <br>
+    > [Article 434-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641) ↩
+
+[^n2]: > « Le fait de ne pas comparaître, de ne pas prêter serment ou de ne pas déposer, sans excuse ni justification, devant le juge d'instruction ou devant un officier de police judiciaire agissant sur commission rogatoire par une personne qui a été citée par lui pour y être entendue comme témoin est puni de 3 750 euros d'amende. » <br>
+    > **Code pénal > Section 2 : Des entraves à l'exercice de la justice.** <br>
+    > [Article 434-15-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418645) ↩
+
+[^n3]: > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. » <br>
+    > **Code du travail > Chapitre Ier : Obligations de l'employeur.** <br>
+    > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) ↩
+
+[^n4]: > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+    > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+    > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
 <!-- /Source -->
