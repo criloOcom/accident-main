@@ -51,7 +51,7 @@ Ref : Accident du 29 mai 2026 — SAS HB BARBER
 
 Madame, Monsieur,
 
-Dans le cadre du suivi de mon dossier de recours contre tiers, je vous informe de l'évolution de ma situation médicale.
+Dans le cadre du suivi de mon dossier de recours contre tiers, je vous informe de l'évolution de ma situation médicale, conformément à l'obligation d'information prévue par l'article L. 376-1 du Code de la sécurité sociale[^1].
 
 ## I — FIN DE L'ARRÊT DE TRAVAIL TOTAL
 
@@ -110,3 +110,13 @@ Sébastien GRAZIDE
 
 - **[Compte-rendu de kinésithérapie](../../../Preuves_officielles/20260723-1544_Kine_CompteRendu/20260723-1544_Kine_CompteRendu_SebastienGrazidepdf.md)** — bilan de rééducation
 <!-- /PJ -->
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^1]: > « La personne victime, les établissements de santé, le tiers responsable et son assureur sont tenus d'informer la caisse de la survenue des lésions causées par un tiers dans des conditions fixées par décret. » <br>
+    > **Code de la sécurité sociale > Chapitre 6 : Recours des caisses contre les tiers.** <br>
+    > [Article L376-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231) ↩
+<!-- /Source -->
