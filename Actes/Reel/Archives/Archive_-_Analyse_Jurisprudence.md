@@ -1,5 +1,5 @@
 ---
-uid: rExvEYRpv
+uid: XDR8K82Qe
 title: "Rapport d'Expertise Juridique — Analyse des Préjudices Corporels"
 description: "Rédigé le **[J+32 Assignation référé]"
 type: readme
@@ -20,7 +20,7 @@ drive_id: 1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 **Table des matières**
 
@@ -46,25 +46,25 @@ drive_id: 1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU
 
 # RAPPORT D'EXPERTISE JURIDIQUE : ACCIDENT CORPOREL DE LA VICTIME
 > 🔗 Source Google Drive : [1AO7GLNpbNGa…](https://drive.google.com/open?id=1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU)
-Rédigé le [30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md)
+Rédigé le [30 juin 2026]
 ## INTRODUCTION
 
-Le présent rapport d'expertise juridique a été établi par [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) afin d'évaluer l'étendue et la qualification juridique des préjudices corporels subis à la suite de l'accident du [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md). Ce document procède à une analyse détaillée de chaque poste de préjudice selon la nomenclature Dintilhac, en s'appuyant sur les pièces médicales et administratives versées au dossier. L'évaluation est fondée sur les [articles 1240 et 1231-1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^1], ainsi que sur la jurisprudence constante de la Cour de cassation en matière de réparation intégrale. Chaque citation est présentée et interprétée de bonne foi, étant précisé que seuls les tribunaux ont autorité pour trancher définitivement les questions de droit soulevées.
+Le présent rapport d'expertise juridique a été établi par [Sébastien GRAZIDE] afin d'évaluer l'étendue et la qualification juridique des préjudices corporels subis à la suite de l'accident du [29 mai 2026]. Ce document procède à une analyse détaillée de chaque poste de préjudice selon la nomenclature Dintilhac, en s'appuyant sur les pièces médicales et administratives versées au dossier. L'évaluation est fondée sur les [articles 1240 et 1231-1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^1], ainsi que sur la jurisprudence constante de la Cour de cassation en matière de réparation intégrale. Chaque citation est présentée et interprétée de bonne foi, étant précisé que seuls les tribunaux ont autorité pour trancher définitivement les questions de droit soulevées.
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
 
 Rédigé par : La Victime
 
-Le [30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md)
+Le [30 juin 2026]
 <hr><hr>
 
 ## I — INTRODUCTION ET CONTEXTE
 
-Le présent rapport a pour objet de définir les fondements légaux et d'établir la stratégie indemnitaire de [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) (ci-après désigné "La Victime"), victime d'un grave accident corporel survenu le vendredi [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md) à 15h00.
+Le présent rapport a pour objet de définir les fondements légaux et d'établir la stratégie indemnitaire de [Sébastien GRAZIDE] (ci-après désigné "La Victime"), victime d'un grave accident corporel survenu le vendredi [29 mai 2026] à 15h00.
 
-L'incident s'est produit au sein de l'établissement « [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) » (ci-après désigné "L'Exploitant"), exploité par une SAS dont la direction est assurée par [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md).
+L'incident s'est produit au sein de l'établissement « [SAS LES MAUVAIS GARCONS] » (ci-après désigné "L'Exploitant"), exploité par une SAS dont la direction est assurée par [Sabir MOUNTASSER] et [Catherine ANDISSAC].
 
-Cette analyse s'appuie sur le principe de la réparation intégrale, visant à rétablir [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) dans la situation qui aurait été la sienne sans la survenance du dommage, conformément à [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^1].
+Cette analyse s'appuie sur le principe de la réparation intégrale, visant à rétablir [Sébastien GRAZIDE] dans la situation qui aurait été la sienne sans la survenance du dommage, conformément à [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^1].
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
 > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) <br>
@@ -75,7 +75,7 @@ Cette analyse s'appuie sur le principe de la réparation intégrale, visant à r
 
 L'accident trouve son origine dans la manœuvre imprudente d'un employé préposé monté sur un bac à shampoing, entraînant le basculement soudain de cet équipement lourd.
 
-En tentant instinctivement de retenir le meuble pour éviter une chute plus grave, la main droite de [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a percuté une vasque en céramique avec cassure préexistante. Les arêtes tranchantes de la vasque ont causé des lésions profondes.
+En tentant instinctivement de retenir le meuble pour éviter une chute plus grave, la main droite de [Sébastien GRAZIDE] a percuté une vasque en céramique avec cassure préexistante. Les arêtes tranchantes de la vasque ont causé des lésions profondes.
 
 Il est à noter que l'établissement a procédé à un remboursement de 15 €, attestant de la réalité de la prestation et de la présence de la victime dans les lieux, sans préjudice de l'analyse juridique des causes de l'accident fondée sur [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^2].
 
@@ -88,7 +88,7 @@ Il est à noter que l'établissement a procédé à un remboursement de 15 €, 
 
 ## III — BILAN MÉDICAL ET PRÉJUDICES IDENTIFIÉS
 
-Après une prise en charge initiale par [Dr Julie JARDON](../../../Memory/Tokens/token-hopital-urgence-medecin.md) au SMUR 09, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a été transférée en urgence clinique pour une microchirurgie réalisée le [30 mai 2026](../../../Memory/Tokens/token-j-1-chirurgie.md) par Le Chirurgien SOS Main.
+Après une prise en charge initiale par [Dr Julie JARDON] au SMUR 09, [Sébastien GRAZIDE] a été transférée en urgence clinique pour une microchirurgie réalisée le [30 mai 2026] par Le Chirurgien SOS Main.
 
 Le bilan clinique révèle une section partielle du tendon fléchisseur superficiel de l'index droit, une section complète du paquet collatéral ulnaire et radial, ainsi qu'une neurolyse du nerf collatéral palmaire.
 
@@ -100,7 +100,7 @@ Pour un informaticien indépendant dont la main droite est la main dominante, ce
 ## IV — STRATÉGIE DE RECOURS ET FONDEMENTS JURIDIQUES
 ### A. ACTION DIRECTE CONTRE L'ASSUREUR ET SURVIE DE LA PERSONNALITÉ MORALE
 
-La stratégie privilégie l'exercice de l'action directe contre L'Assureur de responsabilité civile de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md), telle que prévue par [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^3].
+La stratégie privilégie l'exercice de l'action directe contre L'Assureur de responsabilité civile de [SAS LES MAUVAIS GARCONS], telle que prévue par [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^3].
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
@@ -129,7 +129,7 @@ Conformément à [l'arrêt Costedoat (Ass. Plén. 25 fév. 2000)](https://www.le
 > Attendu : *« N'engage pas sa responsabilité civile à l'égard des tiers le préposé qui agit dans les limites de la mission à lui impartie par son commettant. »* <br>
 > Résumé : Le salarié agissant dans le cadre de ses fonctions professionnelles bénéficie d'une immunité civile de principe. Seul l'employeur (commettant) est responsable des dommages causés aux tiers.
 
-Toutefois, s'agissant de blessures involontaires ([Art. 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)[^7]), l'action se concentrera sur [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) et ses Dirigeants, l'infraction non intentionnelle n'excluant pas l'immunité du préposé selon la jurisprudence récente.
+Toutefois, s'agissant de blessures involontaires ([Art. 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)[^7]), l'action se concentrera sur [SAS LES MAUVAIS GARCONS] et ses Dirigeants, l'infraction non intentionnelle n'excluant pas l'immunité du préposé selon la jurisprudence récente.
 
 > *« La loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation ne fait pas obstacle à ce que la victime d'un accident de la circulation puisse rechercher la responsabilité du gardien du véhicule sur le fondement de l'article 1242, alinéa 5, du Code civil. »* <br>
 > [Arrêt n°13-80.849](https://www.legifrance.gouv.fr/juri/id/JURITEXT000029014493) <br>
@@ -137,7 +137,7 @@ Toutefois, s'agissant de blessures involontaires ([Art. 222-20 du Code pénal](h
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 
-De plus, les statuts de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) révèlent un capital social dérisoire de 200 € (divisé en 2 000 actions de 0,10 € détenues par Le Président), confirmant une sous-capitalisation notoire face aux risques d'un tel établissement recevant du public.
+De plus, les statuts de [SAS LES MAUVAIS GARCONS] révèlent un capital social dérisoire de 200 € (divisé en 2 000 actions de 0,10 € détenues par Le Président), confirmant une sous-capitalisation notoire face aux risques d'un tel établissement recevant du public.
 
 Cette absence de substance financière de la société face à une éventuelle liquidation rend indispensable la mise en cause personnelle du patrimoine des Dirigeants pour garantir l'effectivité de l'indemnisation.
 <hr><hr>
@@ -167,7 +167,7 @@ Le dossier présente des fondements juridiques solides.
 
 L'action directe contre L'Assureur, couplée à la mise en cause des Dirigeants pour faute détachable, assure une protection optimale de La Victime.
 
-Le préjudice global estimé à 59 600 € doit faire l'objet d'une demande de provision de [15 000 €](../../../Memory/Tokens/token-finance-provision-refere.md) immédiate.
+Le préjudice global estimé à 59 600 € doit faire l'objet d'une demande de provision de [15 000 €] immédiate.
 
 Dans ce dossier, les fondements juridiques sont solides :
 

@@ -1,5 +1,5 @@
 ---
-uid: fE4JxxyZe
+uid: kVLPpbc3k
 title: "Mémorandum Juridique — Responsabilité des Dirigeants"
 description: "Rédigé le **[J+32 Assignation référé]"
 type: analyse_juridique
@@ -21,16 +21,16 @@ jx: J+32
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce]**] au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # **MÉMORANDUM JURIDIQUE : RESPONSABILITÉ DES DIRIGEANTS ET RÉPARATION DES PRÉJUDICES**
 > 🔗 Source Google Drive : [1uHOesWZrUf1…](https://drive.google.com/open?id=1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90)
-Rédigé le [30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md)
+Rédigé le [30 juin 2026]
 
 Rédigé par : La Victime
 ## I — INTRODUCTION
 
-Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) dans le cadre de l'accident corporel survenu le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md).
+Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de [**[L'Exploitant du Commerce]**] dans le cadre de l'accident corporel survenu le [29 mai 2026].
 
 Ce document examine les fondements juridiques de la mise en cause de la responsabilité des dirigeants sur le terrain du droit des sociétés, notamment sur le fondement des articles L. 223-22 et L. 225-251 du Code de commerce, ainsi que sur le terrain du droit commun de la responsabilité civile.
 
@@ -47,13 +47,13 @@ Il identifie les manquements aux obligations légales et réglementaires imputab
 
 ## II — PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL
 
-Le présent mémorandum analyse les fondements de la responsabilité civile et pénale consécutifs à l'accident corporel survenu le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md) au sein du salon exploité par [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md).
+Le présent mémorandum analyse les fondements de la responsabilité civile et pénale consécutifs à l'accident corporel survenu le [29 mai 2026] au sein du salon exploité par [**[L'Exploitant du Commerce]**].
 
-Lors de cet événement, le basculement d'un équipement défectueux a causé une section nerveuse et tendineuse grave à la main dominante de [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md).
+Lors de cet événement, le basculement d'un équipement défectueux a causé une section nerveuse et tendineuse grave à la main dominante de [Sébastien GRAZIDE].
 
-La situation est complexifiée par le silence des dirigeants, [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md), concernant la couverture assurantielle de la structure.
+La situation est complexifiée par le silence des dirigeants, [Sabir MOUNTASSER] et [Catherine ANDISSAC], concernant la couverture assurantielle de la structure.
 
-PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) est désigné comme « La Victime », [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) comme « L'Exploitant », et [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) comme « Les Dirigeants ».
+PRÉAMBULE DE NOMENCLATURE : Pour la clarté des développements juridiques ci-après, [Sébastien GRAZIDE] est désigné comme « La Victime », [**[L'Exploitant du Commerce]**] comme « L'Exploitant », et [Sabir MOUNTASSER] et [Catherine ANDISSAC] comme « Les Dirigeants ».
 <hr><hr>
 
 ## III — LE CADRE JURIDIQUE DE LA RESPONSABILITÉ DES DIRIGEANTS
@@ -69,7 +69,7 @@ Selon la jurisprudence constante Cass. Com., 20 mai 2003 (Arrêt SATI, n° 99-17
 
 Le défaut de souscription d'une assurance légalement obligatoire, ou la dissimulation volontaire de celle-ci, entravant l'action directe de la victime, constitue typiquement une faute intentionnelle d'une particulière gravité, et peut être regardé comme une application de ce principe jurisprudentiel de faute détachable.
 
-Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SAS, dont le capital social statutaire s'élève au montant dérisoire de [**[Capital Social de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-capital-social.md) (article 25 des statuts), rendant la société structurellement incapable d'assumer la réparation d'un sinistre corporel grave sans assurance active.
+Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SAS, dont le capital social statutaire s'élève au montant dérisoire de [**[Capital Social de l'Exploitation]**] (article 25 des statuts), rendant la société structurellement incapable d'assumer la réparation d'un sinistre corporel grave sans assurance active.
 
 ### III.2 — RESPONSABILITÉ PÉNALE ET FAUTE CARACTÉRISÉE DE SÉCURITÉ
 

@@ -1,5 +1,5 @@
 ---
-uid: EbEXhzsU2
+uid: hkkfEcdgZ
 emoji: 📋
 title: Note personnelle — Commissariat de [La Ville de l'Accident] (complément de
   plainte)
@@ -18,53 +18,53 @@ reel_path: ../../../Reel/Courriers/Police/Police - Note Personnelle.md
 <!-- /Breadcrumb -->
 
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE  
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-Commissariat de Police de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**  
+Commissariat de Police de Foix  
 Place de la Préfecture  
-09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
+09000 Foix
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 17 juillet 2026
+Blagnac, le 17 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # NOTE PERSONNELLE
-## Complément de plainte — Commissariat de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
+## Complément de plainte — Commissariat de Foix
 
-**Victime :** **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, né le 18/01/1982 à **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)**
-**Domicilié :** 10 avenue de Purpan, **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
+**Victime :** Sébastien GRAZIDE, né le 18/01/1982 à Toulouse
+**Domicilié :** 10 avenue de Purpan, 10 Avenue de Purpan, 31700 Blagnac
 **Tél :** [06 30 51 67 75](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)
-**Email :** **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+**Email :** sebastien.grazide@gmail.com
 
 <hr><hr>
-**Objet :** Compléter et corriger ma plainte initiale ([ ... ] du 2 juin 2026, **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)** Rive Droite) concernant l'accident du 29 mai 2026 survenu au salon de coiffure situé 22 rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**.
+**Objet :** Compléter et corriger ma plainte initiale ([ ... ] du 2 juin 2026, Toulouse Rive Droite) concernant l'accident du 29 mai 2026 survenu au salon de coiffure situé 22 rue Lafaurie, 09000 Foix.
 <hr><hr>
 
 ## 1. RAPPEL DE MA PREMIÈRE PLAINTE À TOULOUSE (2 juin 2026)
 
-Le **2 juin 2026**, j'ai déposé une plainte au commissariat de [Toulouse](../../../../Memory/Tokens/token-accident-metropole.md) **Rive Droite** (23 Boulevard de l'Embouchure, 31066 **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)**). Le procès-verbal porte le numéro **[ ... ]**, établi par l'Agent de Police Judiciaire **[L'Agent de Police Judiciaire]**.
+Le **2 juin 2026**, j'ai déposé une plainte au commissariat de [Toulouse] **Rive Droite** (23 Boulevard de l'Embouchure, 31066 Toulouse). Le procès-verbal porte le numéro **[ ... ]**, établi par l'Agent de Police Judiciaire **[L'Agent de Police Judiciaire]**.
 
 J'y ai raconté en détail :
-- Les faits du **29 mai 2026** (accident dans un salon de coiffure à **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, bac à shampoing qui bascule, vasque en céramique déjà cassée, plaie palmaire profonde de 8,5 cm)
+- Les faits du **29 mai 2026** (accident dans un salon de coiffure à Foix, bac à shampoing qui bascule, vasque en céramique déjà cassée, plaie palmaire profonde de 8,5 cm)
 
-- Les soins d'urgence (**[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** puis **[L'Établissement SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)** – SOS Main)
+- Les soins d'urgence (Foix puis Clinique de l'Union – SOS Main)
 
 - Mon activité professionnelle (informaticien indépendant, droitier)
 
 J'ai remis un **dossier de plainte écrit de ma main** (le 1er juin 2026), avec un bordereau de 11 pièces justificatives (identité, Kbis, captures Wero, certificats médicaux, ordonnances, [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md), attestation droits, échanges Mairie).
 
-**Dans ce dossier, j'avais désigné **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** comme société responsable**, sur la base des informations que j'avais trouvées à l'époque (SIRET **[L'Identifiant de l'Exploitation](../../../../Memory/Tokens/token-exploitation-id.md)**, 22 rue Lafaurie).
+**Dans ce dossier, j'avais désigné SAS LES MAUVAIS GARCONS comme société responsable**, sur la base des informations que j'avais trouvées à l'époque (SIRET 938 033 222 00010, 22 rue Lafaurie).
 
-**Le PV de **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)** reprend ma phrase :** *« Je précise que je ne suis pas sûr et certain qu'il s'agissait de ce salon-là. Je pense qu'il s'agit de ce salon grâce aux informations que j'ai réussi à obtenir sur internet. »*
+**Le PV de Toulouse reprend ma phrase :** *« Je précise que je ne suis pas sûr et certain qu'il s'agissait de ce salon-là. Je pense qu'il s'agit de ce salon grâce aux informations que j'ai réussi à obtenir sur internet. »*
 
-Dès le départ, j'ai donc signalé aux policiers que je **n'avais pas la certitude absolue** sur la raison sociale, mais que je pensais à **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
+Dès le départ, j'ai donc signalé aux policiers que je **n'avais pas la certitude absolue** sur la raison sociale, mais que je pensais à SAS LES MAUVAIS GARCONS.
 <hr><hr>
 
 ## 2. CHRONOLOGIE COMPLÈTE DES FAITS
@@ -73,7 +73,7 @@ Dès le départ, j'ai donc signalé aux policiers que je **n'avais pas la certit
 
 **Matin/après-midi :** Je me rends au salon de coiffure situé au **22 rue Lafaurie, 09000 [La Ville de l'Accident]**, pour une coupe de cheveux. Je paie **15 €** via l'application bancaire **Wero** au profit du compte « [Ayoub BENNOURINE](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques) » (réf. débit IPA000296968836). Je quitte les lieux.
 
-**Moins de 5 minutes après :** Je retourne au salon pour demander une retouche. En entrant, le coiffeur (identifié comme **[Le Préposé de l'Exploitation](../../../../Memory/Tokens/token-exploitation-prepose-nom.md)** (tél. [**[Le Téléphone du Préposé]**](../../../../Memory/Tokens/token-exploitation-prepose-telephone.md))) est **monté physiquement sur la structure d'un bac à shampoing** (meuble lourd surmonté d'une vasque en céramique). En descendant, son poids provoque le **basculement complet** de la structure vers le sol.
+**Moins de 5 minutes après :** Je retourne au salon pour demander une retouche. En entrant, le coiffeur (identifié comme Ayoub BENNOURINE (tél. [**[Le Téléphone du Préposé]**])) est **monté physiquement sur la structure d'un bac à shampoing** (meuble lourd surmonté d'une vasque en céramique). En descendant, son poids provoque le **basculement complet** de la structure vers le sol.
 
 **Réflexe d'assistance :** Le coiffeur et moi tendons les mains pour retenir la chute du meuble — pour éviter qu'il ne se casse et que le coiffeur ne soit blessé. Ma **main droite** entre en contact avec la **vasque en céramique qui présentait déjà une cassure majeure préexistante** sur son flanc droit, avec des **bords tranchants** laissés sans protection ni signalisation.
 
@@ -81,13 +81,13 @@ Dès le départ, j'ai donc signalé aux policiers que je **n'avais pas la certit
 
 **Remboursement :** Je demande le remboursement de la prestation. Le coiffeur accepte verbalement (« OK »). La transaction est différée en raison de l'urgence médicale.
 
-**Prise en charge médicale :** Je me transporte en urgence au **Centre Ariégeois de Soins Immédiats de [La Ville de l'Accident]** (**[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**, [**[RPPS Médecin Urgence]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)). Actes : lavage, désinfection, exploration sous anesthésie locale. Diagnostic : plaie palmaire droite profonde et compliquée. Orientation : transfert vers SOS Main – **[L'Établissement SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)** pour le lendemain à jeun.
+**Prise en charge médicale :** Je me transporte en urgence au **Centre Ariégeois de Soins Immédiats de [La Ville de l'Accident]** (Dr Julie JARDON, [**[RPPS Médecin Urgence]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)). Actes : lavage, désinfection, exploration sous anesthésie locale. Diagnostic : plaie palmaire droite profonde et compliquée. Orientation : transfert vers SOS Main – Clinique de l'Union pour le lendemain à jeun.
 
 **Retour au salon :** Après les soins, je retourne au salon, main bandée, pour informer du pronostic chirurgical. Le coiffeur procède alors au **remboursement de 15 €** via Wero (réf. crédit [IPR000297029234](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) , depuis le compte « [Ayoub BENNOURINE](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques) »). Ce remboursement spontané matérialise la **reconnaissance de la matérialité de l'accident** par l'exploitant.
 
 ### 30 mai 2026 — Intervention chirurgicale (J+1)
 
-Opéré à la **[L'Établissement SOS Main] (SOS Main)** par le **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** ([**[RPPS Chirurgien SOS Main]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)). Constat opératoire :
+Opéré à la **[L'Établissement SOS Main] (SOS Main)** par le Dr Iskander DJERBI ([**[RPPS Chirurgien SOS Main]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)). Constat opératoire :
 - Section partielle du **tendon fléchisseur superficiel** de l'index droit
 
 - Section totale du **paquet collatéral ulnaire et radial**
@@ -104,7 +104,7 @@ Pronostic : **Récupération nerveuse sur environ 1 an, souvent incomplète.**
 
 ### 1er juin 2026 — Consultations et démarches (J+3)
 
-**Consultation [**[Le Médecin Traitant]**](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)** ([**[RPPS Médecin Traitant]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)) :
+**Consultation [**[Le Médecin Traitant]**]** ([**[RPPS Médecin Traitant]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)) :
 - Plaie suturée de **8,5 cm** sur la face palmaire droite
 
 - Œdème réactionnel important
@@ -117,11 +117,11 @@ Pronostic : **Récupération nerveuse sur environ 1 an, souvent incomplète.**
 
 **Rédaction du dossier de plainte pénale :** Je rédige un dossier complet avec chronologie, qualifications juridiques, requêtes et bordereau de 11 pièces.
 
-**Signalement à la Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** :** J'envoie un courriel au Secrétariat Général de la Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** ([**[La Secrétaire Générale de la Mairie]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)) signalant un accident corporel grave dans un ERP (salon de coiffure **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, 22 rue Lafaurie). Je décris précisément l'accident et le matériel défectueux. Je demande la **conservation des vidéos de surveillance** et le déclenchement des procédures de sécurité.
+**Signalement à la Mairie de Foix :** J'envoie un courriel au Secrétariat Général de la Mairie de Foix ([**[La Secrétaire Générale de la Mairie]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)) signalant un accident corporel grave dans un ERP (salon de coiffure SAS LES MAUVAIS GARCONS, 22 rue Lafaurie). Je décris précisément l'accident et le matériel défectueux. Je demande la **conservation des vidéos de surveillance** et le déclenchement des procédures de sécurité.
 
 ### 1er-4 juin 2026 — Réponse de la Mairie
 
-**Réponse de la Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** :** M. Bernard **[L'Adjoint au Maire de la Commune](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**, adjoint au maire, me répond qu'il saisit :
+**Réponse de la Mairie de Foix :** M. Bernard Monsieur TAVELLA, adjoint au maire, me répond qu'il saisit :
 - La **Préfecture de l'Ariège**
 
 - L'**Inspection du Travail**
@@ -130,17 +130,17 @@ Pronostic : **Récupération nerveuse sur environ 1 an, souvent incomplète.**
 
 ### 2 juin 2026 — Dépôt de plainte (J+4)
 
-Dépôt de plainte au **Commissariat de **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)** Rive Droite** (PV n° **[ ... ]**). L'infraction retenue est « Blessures involontaires avec incapacité n'excédant pas 3 mois dans le cadre du travail ».
+Dépôt de plainte au **Commissariat de Toulouse Rive Droite** (PV n° **[ ... ]**). L'infraction retenue est « Blessures involontaires avec incapacité n'excédant pas 3 mois dans le cadre du travail ».
 
 Je remets mon dossier écrit complet. Le PV reprend ma déclaration. **Réquisition UMJ** délivrée pour examen le **12 novembre 2026 à 13h45** au CHU Purpan.
 
 ### 3 juin 2026 — CPAM Recours contre Tiers
 
-Dossier **Recours contre Tiers** ouvert à la CPAM (n° **[ ... ]**), visant **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** comme responsable.
+Dossier **Recours contre Tiers** ouvert à la CPAM (n° **[ ... ]**), visant SAS LES MAUVAIS GARCONS comme responsable.
 
 ### 23 juin 2026 — Contrôle chirurgical (J+25)
 
-Consultation de contrôle Dr **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** : cicatrisation correcte. La récupération de la sensibilité est estimée sur environ **1 an**, souvent partielle. **Kinésithérapie** prescrite.
+Consultation de contrôle Dr Dr Iskander DJERBI : cicatrisation correcte. La récupération de la sensibilité est estimée sur environ **1 an**, souvent partielle. **Kinésithérapie** prescrite.
 
 _Séances de kiné : 30 juin, 1er, 3, 4, 7, 8, 10, 11, 14, 15, 17 juillet 2026 (travail de mobilité, rééducation de l'index droit)._
 
@@ -148,11 +148,11 @@ _Séances de kiné : 30 juin, 1er, 3, 4, 7, 8, 10, 11, 14, 15, 17 juillet 2026 (
 
 J'envoie plusieurs lettres recommandées avec accusé de réception :
 
-1. **LRAR à [L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** (22 Rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**) : déclaration d'accident, demande des coordonnées de l'assurance responsabilité civile professionnelle, sur le fondement de l'article L.124-3 du Code des assurances (action directe de la victime).
+1. **LRAR à [L'Ancien Exploitant du Commerce]** (22 Rue Lafaurie, 09000 Foix) : déclaration d'accident, demande des coordonnées de l'assurance responsabilité civile professionnelle, sur le fondement de l'article L.124-3 du Code des assurances (action directe de la victime).
 
-2. **LRAR à **[L'Ancien Président de l'Exploitation](../../../../Memory/Tokens/token-ancien-president-exploitation.md)****, ancien président de la SAS LES MAUVAIS GARÇONS : mise en demeure de communiquer les informations d'assurance, rappel du principe de la faute détachable (arrêt SATI, Cass. Com., 20 mai 2003) et de l'application de ce principe au défaut d'assurance obligatoire.
+2. **LRAR à **[L'Ancien Président de l'Exploitation]****, ancien président de la SAS LES MAUVAIS GARÇONS : mise en demeure de communiquer les informations d'assurance, rappel du principe de la faute détachable (arrêt SATI, Cass. Com., 20 mai 2003) et de l'application de ce principe au défaut d'assurance obligatoire.
 
-3. **LRAR à **[L'Ancienne Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)** **, ancienne directrice générale de la SAS LES MAUVAIS GARÇONS : même objet, même fondement juridique.
+3. **LRAR à **[L'Ancienne Directrice Générale de l'Exploitation]** **, ancienne directrice générale de la SAS LES MAUVAIS GARÇONS : même objet, même fondement juridique.
 
 4. **LRAR à [Le Propriétaire des Murs]**, propriétaire bailleur (17 Rue de la Baïse, 31120 ROQUETTES) : demande de communication des coordonnées de l'assurance de l'exploitant, sur le fondement des articles 1719 et 1720 du Code civil (obligations du bailleur) et de l'article L.124-3 du Code des assurances.
 
@@ -160,10 +160,10 @@ J'envoie plusieurs lettres recommandées avec accusé de réception :
 
 | Date | Destinataire | Suivi | Statut |
 |:----:|-------------|:-----:|:------:|
-| 29/06 | **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)**, 22 Rue Lafaurie, **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** | 1A 123 456 7890 1 | **Non réclamé** — revenu à l'envoyeur |
-| 29/06 | **[L'Ancien Président de l'Exploitation](../../../../Memory/Tokens/token-ancien-president-exploitation.md)**, 108 Avenue Paul Bert, **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** | 1A 123 456 7891 8 | **Non réclamé** — revenu à l'envoyeur |
-| 29/06 | **[L'Ancienne Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)**, 25 chemin Bel Air, Verniolle | 1A 123 456 7892 5 | **Non réclamé** — revenu à l'envoyeur |
-| 29/06 | **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**, 17 Rue de la Baïse, Roquettes | 1A 123 456 7893 2 | **Distribué** le 03/07/2026 — réponse reçue le 16/07/2026 |
+| 29/06 | **[L'Ancien Exploitant du Commerce]**, 22 Rue Lafaurie, Foix | 1A 123 456 7890 1 | **Non réclamé** — revenu à l'envoyeur |
+| 29/06 | **[L'Ancien Président de l'Exploitation]**, 108 Avenue Paul Bert, Foix | 1A 123 456 7891 8 | **Non réclamé** — revenu à l'envoyeur |
+| 29/06 | **[L'Ancienne Directrice Générale de l'Exploitation]**, 25 chemin Bel Air, Verniolle | 1A 123 456 7892 5 | **Non réclamé** — revenu à l'envoyeur |
+| 29/06 | Romain DELRIEU, 17 Rue de la Baïse, Roquettes | 1A 123 456 7893 2 | **Distribué** le 03/07/2026 — réponse reçue le 16/07/2026 |
 
 **Je remets aux enquêteurs les originaux de ces AR et copies des courriers.**
 
@@ -172,69 +172,69 @@ J'envoie plusieurs lettres recommandées avec accusé de réception :
 Le salon reste **fermé** pendant plusieurs semaines après l'accident. Aucune information sur l'assurance n'est obtenue.
 <hr><hr>
 
-## 3. DÉCOUVERTE DE [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) — ÉLÉMENTS NOUVEAUX
+## 3. DÉCOUVERTE DE [SAS LES MAUVAIS GARCONS] — ÉLÉMENTS NOUVEAUX
 
 ### Mi-juillet 2026 — Recherche par adresse
 
-En effectuant des recherches par l'adresse exacte **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** sur les registres publics (DATA INPI / RNE), je découvre l'existence d'une société que je ne connaissais pas lors de ma première plainte :
+En effectuant des recherches par l'adresse exacte 22 Rue Lafaurie, 09000 Foix sur les registres publics (DATA INPI / RNE), je découvre l'existence d'une société que je ne connaissais pas lors de ma première plainte :
 
-### Identité de [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SAS)
+### Identité de [SAS LES MAUVAIS GARCONS] (SAS)
 
 | Champ | Valeur |
 |-------|--------|
-| **Dénomination** | [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) |
+| **Dénomination** | [SAS LES MAUVAIS GARCONS] |
 | **Forme juridique** | SAS |
-| **SIREN** | [938 033 222](../../../../Memory/Tokens/token-exploitation-siren.md) |
+| **SIREN** | [938 033 222] |
 | **Date d'immatriculation RNE** | 19 mai 2026 |
 | **Début d'activité** | **22 avril 2026** |
-| **Adresse** | 22 GRANDE RUE LA FAURIE, 09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** |
+| **Adresse** | 22 GRANDE RUE LA FAURIE, 09000 Foix |
 | **Activité** | Coiffure / barbier (APE 9602A) |
-| **Capital** | [**[Capital Social de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-capital-social.md) |
-| **Président** | [Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md) (né 07/1998, Saint-Girons) |
-| **Directrice générale** | **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** (née 04/1970, Baillargues) |
+| **Capital** | [**[Capital Social de l'Exploitation]**] |
+| **Président** | [Sabir MOUNTASSER] (né 07/1998, Saint-Girons) |
+| **Directrice générale** | Catherine ANDISSAC (née 04/1970, Baillargues) |
 | **Publication légale** | La Dépêche, 23 avril 2026 |
 
-**Élément capital : [La Directrice Générale de l'Exploitation]** (épouse **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**) est la **même personne** que la directrice générale de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**. Elle est DG des **deux sociétés** — c'est un lien direct entre les deux entités.
+**Élément capital : [La Directrice Générale de l'Exploitation]** (épouse Catherine ANDISSAC) est la **même personne** que la directrice générale de SAS LES MAUVAIS GARCONS. Elle est DG des **deux sociétés** — c'est un lien direct entre les deux entités.
 
 ### Chronologie des sociétés au 22 rue Lafaurie
 
 | Date | Événement |
 |------|-----------|
-| **10 mars 2026** | Cessation d'activité annoncée de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (état des lieux de sortie signé par son représentant — source : bailleur) |
-| **22 avril 2026** | Début d'activité de [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) au 22 Grande Rue La Faurie, **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** |
-| **19 mai 2026** | Immatriculation RNE de [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) |
+| **10 mars 2026** | Cessation d'activité annoncée de SAS LES MAUVAIS GARCONS (état des lieux de sortie signé par son représentant — source : bailleur) |
+| **22 avril 2026** | Début d'activité de [SAS LES MAUVAIS GARCONS] au 22 Grande Rue La Faurie, Foix |
+| **19 mai 2026** | Immatriculation RNE de [SAS LES MAUVAIS GARCONS] |
 | **29 mai 2026** | **Mon accident** dans ce même local |
-| **2 juin 2026** | Ma plainte initiale (visant **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, faute d'information sur [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)) |
+| **2 juin 2026** | Ma plainte initiale (visant SAS LES MAUVAIS GARCONS, faute d'information sur [SAS LES MAUVAIS GARCONS]) |
 
-### 16 juillet 2026 — Courriel du bailleur **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**
+### 16 juillet 2026 — Courriel du bailleur Romain DELRIEU
 
-**À 18h28**, je reçois un courriel de **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** ([**[L'Email du Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-email.md)**]) en réponse à ma LRAR du 29 juin.
+**À 18h28**, je reçois un courriel de Romain DELRIEU ([**[L'Email du Propriétaire des Murs]**]) en réponse à ma LRAR du 29 juin.
 
 <hr><hr>
 **Objet :** « Demande de communication d'assurance »
 <hr><hr>
 
 **Texte intégral du message :**
-> *« Bonjour **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**,*
+> *« Bonjour Sébastien GRAZIDE,*
 >
-> *Pour faire suite à votre lettre recommandée reçue à mon domicile, je vous informe que je suis au regret de ne pouvoir vous renseigner sur l'assurance contractée par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** car cette société a cessé toute activité dans mes locaux depuis le 10/03/2026 comme en atteste l'état des lieux de sortie signé par son représentant à cette date.*
+> *Pour faire suite à votre lettre recommandée reçue à mon domicile, je vous informe que je suis au regret de ne pouvoir vous renseigner sur l'assurance contractée par SAS LES MAUVAIS GARCONS car cette société a cessé toute activité dans mes locaux depuis le 10/03/2026 comme en atteste l'état des lieux de sortie signé par son représentant à cette date.*
 >
-> *Or, votre accident du travail étant postérieur à cette date, **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** ne peut donc pas voir sa responsabilité engagée.*
+> *Or, votre accident du travail étant postérieur à cette date, SAS LES MAUVAIS GARCONS ne peut donc pas voir sa responsabilité engagée.*
 >
 > *Cordialement,*
 > *[Le Propriétaire des Murs].* »
 
 **Pièces jointes au courriel (3 fichiers) :**
-1. `Etat des lieux de sortie **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** 1 001.jpg` (412 Ko)
+1. `Etat des lieux de sortie Sabir MOUNTASSER 1 001.jpg` (412 Ko)
 
-2. `Etat des lieux de sortie **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** 2 001.jpg` (314 Ko)
+2. `Etat des lieux de sortie Sabir MOUNTASSER 2 001.jpg` (314 Ko)
 
-3. `Etat des lieux sortie **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** 3 001.jpg` (183 Ko)
+3. `Etat des lieux sortie Sabir MOUNTASSER 3 001.jpg` (183 Ko)
 
-Ces photos de l'état des lieux de sortie signé par le représentant de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** à la date du **10 mars 2026** n'ont pas encore pu être exploitées en l'état.
+Ces photos de l'état des lieux de sortie signé par le représentant de SAS LES MAUVAIS GARCONS à la date du **10 mars 2026** n'ont pas encore pu être exploitées en l'état.
 
 **Ce que ce courriel signifie :**
-1. Le bailleur **confirme officiellement** que **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** ont signé un état des lieux de sortie le 10/03/2026
+1. Le bailleur **confirme officiellement** que SAS LES MAUVAIS GARCONS ont signé un état des lieux de sortie le 10/03/2026
 
 2. Le bailleur **refuse** de me communiquer l'assurance
 
@@ -249,7 +249,7 @@ Le **16 juillet 2026**, je me rends physiquement au **22 rue Lafaurie, 09000 [La
 
 ### Constatations visuelles
 
-1. **Enseigne :** Une pancarte / encart sur la **vitrine** indique désormais l'enseigne **« [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) »**
+1. **Enseigne :** Une pancarte / encart sur la **vitrine** indique désormais l'enseigne **« [SAS LES MAUVAIS GARCONS] »**
 
 2. **À l'intérieur :**
 
@@ -261,7 +261,7 @@ Le **16 juillet 2026**, je me rends physiquement au **22 rue Lafaurie, 09000 [La
 
 ### Échange avec la personne sur place
 
-Une personne se présentant comme l'exploitant est présente. D'après les informations publiques (DATA INPI), il s'agit très probablement de [Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md), président de la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md).
+Une personne se présentant comme l'exploitant est présente. D'après les informations publiques (DATA INPI), il s'agit très probablement de [Sabir MOUNTASSER], président de la SAS [SAS LES MAUVAIS GARCONS].
 
 Cette personne a :
 - **Refusé** de me coiffer
@@ -284,20 +284,20 @@ La fermeture prolongée du salon après l'accident, combinée au remplacement co
 - **Retirer et remplacer** le matériel à l'origine de l'accident
 <hr><hr>
 
-## 5. CE QUE JE DEMANDE AUJOURD'HUI AU COMMISSARIAT DE **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
+## 5. CE QUE JE DEMANDE AUJOURD'HUI AU COMMISSARIAT DE Foix
 
 ### A. Correction de l'identité de la société exploitante
 
-Je demande que la société **[L'Exploitant du Commerce (La SAS)] (SAS)** — SIREN [938 033 222](../../../../Memory/Tokens/token-exploitation-siren.md) — soit formellement reconnue dans la procédure comme la **société exploitant effectivement les lieux au 29 mai 2026**, en remplacement de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** que j'avais initialement désignée par erreur, faute d'information disponible.
+Je demande que la société **[L'Exploitant du Commerce (La SAS)] (SAS)** — SIREN [938 033 222] — soit formellement reconnue dans la procédure comme la **société exploitant effectivement les lieux au 29 mai 2026**, en remplacement de SAS LES MAUVAIS GARCONS que j'avais initialement désignée par erreur, faute d'information disponible.
 
-Je verse au dossier un **erratum formel** (pièce n°4) qui détaille les circonstances de cette erreur, la chronologie de la découverte de [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), et la liste complète des actes concernés par cette correction.
+Je verse au dossier un **erratum formel** (pièce n°4) qui détaille les circonstances de cette erreur, la chronologie de la découverte de [SAS LES MAUVAIS GARCONS], et la liste complète des actes concernés par cette correction.
 
 ### B. Exploitation des nouvelles pièces
 
 Je verse au dossier :
-1. **Pièce n°1 :** Courriel du bailleur **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** du 16 juillet 2026 (avec ses 3 pièces jointes)
+1. **Pièce n°1 :** Courriel du bailleur Romain DELRIEU du 16 juillet 2026 (avec ses 3 pièces jointes)
 
-2. **Pièce n°2 :** Attestation RNE [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) (DATA INPI — SIREN [938 033 222](../../../../Memory/Tokens/token-exploitation-siren.md))
+2. **Pièce n°2 :** Attestation RNE [SAS LES MAUVAIS GARCONS] (DATA INPI — SIREN [938 033 222])
 
 3. **Pièce n°3 :** Note de constatations du 16 juillet 2026 (visite des lieux)
 
@@ -305,26 +305,26 @@ Je verse au dossier :
 
 ### C. Demandes d'actes d'enquête
 
-Je concentre mes demandes sur la seule société [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) .
+Je concentre mes demandes sur la seule société [SAS LES MAUVAIS GARCONS] .
 
 Je sollicite respectueusement :
 
 1. **L'audition des personnes suivantes :**
 
-  - **[Le Préposé de l'Exploitation](../../../../Memory/Tokens/token-exploitation-prepose-nom.md)** — coiffeur présent le jour des faits, identifié par le virement Wero
-  - [Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md) — président de la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
-  - **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** — directrice générale de la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
-  - **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** — bailleur, sur les baux et les assurances
+  - Ayoub BENNOURINE — coiffeur présent le jour des faits, identifié par le virement Wero
+  - [Sabir MOUNTASSER] — président de la SAS [SAS LES MAUVAIS GARCONS]
+  - Catherine ANDISSAC — directrice générale de la SAS [SAS LES MAUVAIS GARCONS]
+  - Romain DELRIEU — bailleur, sur les baux et les assurances
 
 2. **Des réquisitions pour obtenir :**
 
-  - Le **bail commercial** du 22 rue Lafaurie pour [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+  - Le **bail commercial** du 22 rue Lafaurie pour [SAS LES MAUVAIS GARCONS]
   - Les **attestations d'assurance** responsabilité civile professionnelle
   - Les **enregistrements de vidéosurveillance** éventuellement encore disponibles
 
 3. **La vérification :**
 
-  - De la **réalité de l'exploitation** par [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) au 29 mai 2026
+  - De la **réalité de l'exploitation** par [SAS LES MAUVAIS GARCONS] au 29 mai 2026
   - De l'existence d'une **assurance RC pro** pour la période
 <hr><hr>
 
@@ -342,6 +342,6 @@ Je certifie sur l'honneur que tout ce qui précède est la vérité. Je n'ai rie
 
 <hr><hr>
 
-Fait à **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le _____ juillet 2026
+Fait à Foix, le _____ juillet 2026
 
 **Signature : [La Victime]**

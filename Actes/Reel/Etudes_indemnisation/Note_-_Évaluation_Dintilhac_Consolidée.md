@@ -1,5 +1,5 @@
 ---
-uid: NVUQVrpsz
+uid: 33Ci3V5C2
 title: "Évaluation Dintilhac Consolidée — 11 + 12"
 description: "[L'Adresse de la Victime]** <br>"
 type: etude_indemnisation
@@ -24,11 +24,11 @@ jx: J+39
 
 # ÉVALUATION DINTILHAC CONSOLIDÉE<br>11 + 12
 
-[10 Avenue de Purpan, 31700 Blagnac](../../../Memory/Tokens/token-victime-adresse.md) <br>
-[sebastien.grazide@gmail.com](../../../Memory/Tokens/token-victime-email.md) <br>
-[Foix](../../../Memory/Tokens/token-accident-ville.md), le [30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md)
+[10 Avenue de Purpan, 31700 Blagnac] <br>
+[sebastien.grazide@gmail.com] <br>
+[Foix], le [30 juin 2026]
 
-Rédigé le [30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md)
+Rédigé le [30 juin 2026]
 
 <hr><hr>
 
@@ -73,9 +73,9 @@ Rédigé le [30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.
 
 ## I — I.1 — FAITS DU SINISTRE
 
-La présente évaluation a pour objet d'évaluer l'intégralité des préjudices corporels subis par [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) à la suite de l'accident du [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md) — au cours duquel, alors que l'employé [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../Memory/Tokens/token-exploitation-prepose-telephone.md) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit.
+La présente évaluation a pour objet d'évaluer l'intégralité des préjudices corporels subis par [Sébastien GRAZIDE] à la suite de l'accident du [29 mai 2026] — au cours duquel, alors que l'employé [Ayoub BENNOURINE] (tél. [**[Le Téléphone du Préposé]**] était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé et la main droite de [Sébastien GRAZIDE] a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
-[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) est travailleur indépendant inscrit sous le numéro [500 474 457](../../../Memory/Tokens/token-victime-id-professionnel.md), exerçant la profession d'informaticien droitier. Les déclarations URSSAF attestent de recettes mensuelles de 750 €, soit un chiffre d'affaires annuel de 9 000 € net.
+[Sébastien GRAZIDE] est travailleur indépendant inscrit sous le numéro [500 474 457], exerçant la profession d'informaticien droitier. Les déclarations URSSAF attestent de recettes mensuelles de 750 €, soit un chiffre d'affaires annuel de 9 000 € net.
 <hr><hr>
 
 ## II — I.2 — PRINCIPE DE LA RÉPARATION INTÉGRALE
@@ -93,7 +93,7 @@ Ce principe exige que la victime soit replacée dans la situation exacte où ell
 
 ## III — I.3 — CONSTAT DE SOUS-ÉVALUATION
 
-L'évaluation initiale du dossier s'établissait à [**[Finance Evaluation Initiale]**](../../../Memory/Tokens/token-finance-evaluation-initiale.md). Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**, pour cinq raisons principales :
+L'évaluation initiale du dossier s'établissait à [**[Finance Evaluation Initiale]**]. Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**, pour cinq raisons principales :
 
 1. **DFT** non chiffré (55 jours × 25-30 €/jour = 1 375-1 650 €)
 
@@ -157,7 +157,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 **Définition :** Indemnise la perte de revenus durant l'incapacité temporaire totale (ITT).
 
 **Calcul technique :**
-- ITT : 55 jours (du 29 mai au [23 juillet 2026](../../../Memory/Tokens/token-j-55-fin-d-itt.md)
+- ITT : 55 jours (du 29 mai au [23 juillet 2026]
 
 - CA mensuel : 750 € → 750 / 30 × 55 = **1 375 €** (prorata)
 
@@ -252,7 +252,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 **Sources :**
 - Référentiel Mornet 2024-2026 : 4/7 = 15 000 à 30 000 €
 
-- CA de [Toulouse](../../../Memory/Tokens/token-accident-metropole.md), 11 octobre 2022, RG n° 21/03743
+- CA de [Toulouse], 11 octobre 2022, RG n° 21/03743
 
 - JMP Avocat, référentiel Mornet 2026 : 4/7 = 20 000 à 35 000 €
 <hr><hr>
@@ -420,7 +420,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 **Méthode pour identifier l'assureur :**
 1. Consultation RNE/INPI (déjà fait)
 
-2. Saisine greffe TC de [Foix](../../../Memory/Tokens/token-accident-ville.md) pour coordonnées assurance
+2. Saisine greffe TC de [Foix] pour coordonnées assurance
 
 3. Interrogation ORIAS
 
@@ -483,7 +483,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 **Procédure :**
 - Délai : 3 ans à compter de l'infraction (29 mai 2029)
 
-- Compétence : CIVI du TJ de [Toulouse](../../../Memory/Tokens/token-accident-metropole.md) (domicile) ou de [Foix](../../../Memory/Tokens/token-accident-ville.md) (lieu infraction)
+- Compétence : CIVI du TJ de [Toulouse] (domicile) ou de [Foix] (lieu infraction)
 
 - Requête écrite au greffe de la CIVI avec tous justificatifs
 
@@ -557,7 +557,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 
 ### XXIII.4 — Phase 4 — Si insolvabilité confirmée (début 2027)
 
-10. Saisine CIVI du TJ de [Toulouse](../../../Memory/Tokens/token-accident-metropole.md)
+10. Saisine CIVI du TJ de [Toulouse]
 
 11. Demande indemnisation FGTI (réparation intégrale)
 
@@ -608,7 +608,7 @@ Trois évaluations convergent vers une provision minimale de **10 000 à 15 000 
 
 ## XXVII — V.4 — RECOMMANDATION FINALE
 
-La provision de [15 000 €](../../../Memory/Tokens/token-finance-provision-refere.md) est justifiée par :
+La provision de [15 000 €] est justifiée par :
 1. L'urgence médicale (rééducation, adaptation ergonomique)
 
 2. L'insolvabilité de la SAS (capital 200 €)

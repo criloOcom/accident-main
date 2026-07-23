@@ -1,5 +1,5 @@
 ---
-uid: jgTqEtbPK
+uid: AaSpZ2YrR
 title: Note - Mapping Acte-Jurisprudence
 type: analyse
 ---
@@ -116,7 +116,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [TJ Rennes 20-05541](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ Rennes 20-05541.md)
 
 - **Citation extraite :**
-  > Le jugement [**[TJ Rennes 20/05541]**](../../../Memory/Tokens/token-victime-nom-complet.md). Le tribunal a détaillé l'évaluation de l'incidence professionnelle tenant compte de la perte de clientèle, de la dévalorisation sur le marché du travail et des difficultés accrues d'exercice professionnel.
+  > Le jugement [**[TJ Rennes 20/05541]**]. Le tribunal a détaillé l'évaluation de l'incidence professionnelle tenant compte de la perte de clientèle, de la dévalorisation sur le marché du travail et des difficultés accrues d'exercice professionnel.
 
 - **Jurisprudence :** [20-19.288_CourCassation](../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/20-19.288_CourCassation.md)
 
@@ -247,7 +247,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [97-17.378_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/97-17.378_CourCassation.md)
 
 - **Citation extraite :**
-  > - **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** [**[N° 97-17.378]**](../../../Memory/Tokens/token-exploitation-prepose-nom.md) ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
+  > - **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** [**[N° 97-17.378]**] ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
@@ -266,7 +266,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
+  > Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), [Sabir MOUNTASSER] et [Catherine ANDISSAC] engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
 
 ### Note - Mémo Axes Juridiques Avocat
 
@@ -463,7 +463,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [89-18.422_CourCassation](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md)
 
 - **Citation extraite :**
-  > **Considérant** que la responsabilité de [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) est engagée de plein droit sur le fondement de l'article **1242 alinéa 1er** du Code civil en qualité de gardienne de la vasque, qui a été l'instrument actif du dommage (Civ. 2e, 13 février 1991, n° 89-18.422) ; que la société est également engagée en qualité de commettant sur le fondement de l'article 1242 alinéa 5 du même code, le préposé ayant agi dans le cadre de ses fonctions ;
+  > **Considérant** que la responsabilité de [**[L'Exploitant du Commerce]**] est engagée de plein droit sur le fondement de l'article **1242 alinéa 1er** du Code civil en qualité de gardienne de la vasque, qui a été l'instrument actif du dommage (Civ. 2e, 13 février 1991, n° 89-18.422) ; que la société est également engagée en qualité de commettant sur le fondement de l'article 1242 alinéa 5 du même code, le préposé ayant agi dans le cadre de ses fonctions ;
 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 

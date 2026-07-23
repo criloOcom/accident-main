@@ -1,8 +1,8 @@
 ---
-uid: YdFs8ZEzn
+uid: mbk8rpUuU
 emoji: 🔄
 title: Relance Préfecture / CODAF — Suite signalement Maire de Foix
-description: Suivi du signalement transmis par [Monsieur TAVELLA](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)
+description: Suivi du signalement transmis par [Monsieur TAVELLA]
   (Adjoint au Maire) le 1er juin 2026 — demande d'état d'avancement
 type: courrier
 date: 2026-07-15
@@ -30,7 +30,7 @@ jx: J+47
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # RELANCE<br>PRÉFECTURE / CODAF
 
@@ -40,9 +40,9 @@ jx: J+47
 <hr><hr>
 
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE  
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
@@ -53,7 +53,7 @@ Préfecture de l'Ariège
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 15 juillet 2026
+Blagnac, le 15 juillet 2026
 <!-- /Date -->
 
 <hr><hr>
@@ -62,7 +62,7 @@ Préfecture de l'Ariège
 
 <hr><hr>
 
-**Objet :** Suivi du signalement transmis par la Mairie de Foix — Salon « **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** » (**[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**)
+**Objet :** Suivi du signalement transmis par la Mairie de Foix — Salon « SAS LES MAUVAIS GARCONS » (22 Rue Lafaurie, 09000 Foix)
 
 <hr><hr>
 
@@ -72,11 +72,11 @@ Préfecture de l'Ariège
 
 Monsieur le Préfet,
 
-Par courriel du **1er juin 2026**, **[L'Adjoint au Maire de la Commune](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**, Adjoint au Maire de Foix chargé de l'Urbanisme et des Travaux, m'a informé avoir pris l'attache de vos services afin de diligenter **l'Inspection du travail** et le **CODAF (Comité Opérationnel Départemental Anti-Fraude)** au sujet de l'accident corporel grave dont j'ai été victime le **29 mai 2026** dans le salon « **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** », **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**.
+Par courriel du **1er juin 2026**, Monsieur TAVELLA, Adjoint au Maire de Foix chargé de l'Urbanisme et des Travaux, m'a informé avoir pris l'attache de vos services afin de diligenter **l'Inspection du travail** et le **CODAF (Comité Opérationnel Départemental Anti-Fraude)** au sujet de l'accident corporel grave dont j'ai été victime le **29 mai 2026** dans le salon « SAS LES MAUVAIS GARCONS », 22 Rue Lafaurie, 09000 Foix.
 
 Victime directe de cet accident — **plaie palmaire profonde de la main droite avec section du tendon fléchisseur, du nerf digital et de l'artère collatérale de l'index droit**, opéré en urgence le 30 mai 2026, **[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours** — je souhaiterais savoir :
 
-1. Si vos services ont **bien été saisis** à la suite du signalement de **[L'Adjoint au Maire de la Commune](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)** ;
+1. Si vos services ont **bien été saisis** à la suite du signalement de Monsieur TAVELLA ;
 
 2. Si des **contrôles ont été ou sont envisagés** dans cet établissement ;
 
@@ -93,7 +93,7 @@ Le cas échéant, je me tiens à votre disposition pour vous transmettre toute p
 Je vous remercie de l'attention portée à la présente et vous prie d'agréer, Monsieur le Préfet, l'expression de ma considération distinguée.
 
 <!-- Signature -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE
 <!-- /Signature -->
 
 <!-- PJ -->

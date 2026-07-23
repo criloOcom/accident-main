@@ -1,5 +1,5 @@
 ---
-uid: JfYmxtQvA
+uid: WRqBr4SLQ
 emoji: 🔄
 title: Relance — Demande d'information Assurance RC et d'adresse de correspondance
 description: L'Adresse de la Victime
@@ -30,46 +30,46 @@ jx: J+40
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # RELANCE<br>DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE
 
 <!-- Auteur -->
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+10 Avenue de Purpan, 31700 Blagnac
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
-**[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)**
-**[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**
-**[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**
+SAS LES MAUVAIS GARCONS
+Sabir MOUNTASSER
+Catherine ANDISSAC
+22 Rue Lafaurie, 09000 Foix
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le [8 juillet 2026](../../../../Memory/Tokens/token-accident-date-relance-v2.md)
+Foix, le [8 juillet 2026]
 <!-- /Date -->
 
 <hr><hr>
-Objet : Relance — Demande d'information assurance RC et communication d'une adresse de correspondance — Accident **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**
+Objet : Relance — Demande d'information assurance RC et communication d'une adresse de correspondance — Accident 29 mai 2026
 <hr><hr>
 
-Par lettre de mise en demeure adressée le **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)** en recommandé avec accusé de réception à chacun de vous à l'adresse du siège social (**[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**), j'ai sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
+Par lettre de mise en demeure adressée le 29 juin 2026 en recommandé avec accusé de réception à chacun de vous à l'adresse du siège social (22 Rue Lafaurie, 09000 Foix), j'ai sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de SAS LES MAUVAIS GARCONS.
 
 À la date de la présente, je n'ai reçu aucune réponse. Le suivi postal fait apparaître que mes recommandés n'ont pu être distribués ou retirés :
-- **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (LRAR n° **N° LRAR Exploitant**) : distribution impossible.
+- SAS LES MAUVAIS GARCONS (LRAR n° **N° LRAR Exploitant**) : distribution impossible.
 
-- Madame **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** (LRAR n° **N° LRAR Directrice**) : retour à l'expéditeur pour défaut d'adresse.
+- Madame Catherine ANDISSAC (LRAR n° **N° LRAR Directrice**) : retour à l'expéditeur pour défaut d'adresse.
 
-- Monsieur **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** (LRAR n° **N° LRAR Président**) : en attente de retrait.
+- Monsieur Sabir MOUNTASSER (LRAR n° **N° LRAR Président**) : en attente de retrait.
 
-Seuls le bailleur, le tribunal judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** et la CPAM ont accusé réception de leurs courriers respectifs.
+Seuls le bailleur, le tribunal judiciaire de Foix et la CPAM ont accusé réception de leurs courriers respectifs.
 
 Je conçois que la fermeture soudaine et la réorganisation de votre établissement aient pu perturber le traitement de vos correspondances. Je reste disponible pour un échange téléphonique direct afin de clarifier la situation sereinement.
 
 ### I.1 — Préservation des preuves et vidéosurveillance
 
-J'ai constaté que votre salon de coiffure a fermé ses portes immédiatement après l'accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** pour ne rouvrir que le [6 juillet 2026](../../../../Memory/Tokens/token-exploitation-date-reouverture.md). 
+J'ai constaté que votre salon de coiffure a fermé ses portes immédiatement après l'accident du 29 mai 2026 pour ne rouvrir que le [6 juillet 2026]. 
 
 L'absence de réponse à ma mise en demeure initiale ayant dépassé le délai légal de 30 jours, l'inertie de votre société a potentiellement déjà causé l'effacement ou la destruction irrémédiable des bandes de vidéosurveillance (dont la durée de sauvegarde est limitée par la CNIL et l'article L. 252-5 du Code de la sécurité intérieure).
 
@@ -84,7 +84,7 @@ Par la présente, je vous intime formellement l'injonction de conserver et de ne
 Ma présence ainsi que le déroulement de l'accident sont déjà documentés par des éléments indépendants (transaction Wero, géolocalisation, rapports médicaux et procès-verbal de police).
 ## II — RAPPEL DE LA DEMANDE D'ASSURANCE
 
-Le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** à 15h00, alors que j'étais client dans votre établissement, mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing pour régler le téléviseur.
+Le 29 mai 2026 à 15h00, alors que j'étais client dans votre établissement, mon coiffeur est monté physiquement sur la vasque en céramique du bac à shampoing pour régler le téléviseur.
 
 En descendant, son poids a provoqué le basculement soudain de l'installation.
 
@@ -92,12 +92,12 @@ Par réflexe, j'ai tendu la main droite pour le retenir.
 
 Ma paume a alors percuté une cassure majeure préexistante et non signalée sur le flanc de la vasque. 
 
-Cette percussion m'a sectionné le tendon et les nerfs de l'index droit, blessure grave ayant nécessité une chirurgie réparatrice d'urgence le **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)** par **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** à **[L'Établissement SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)**.
+Cette percussion m'a sectionné le tendon et les nerfs de l'index droit, blessure grave ayant nécessité une chirurgie réparatrice d'urgence le 30 mai 2026 par Dr Iskander DJERBI à Clinique de l'Union.
 
 Les conséquences fonctionnelles de ce sinistre sur ma vie quotidienne et mon activité professionnelle sont majeures.
 
 Je vous demande donc de me communiquer sous 15 jours :
-1. Le nom et les coordonnées de l'assureur RC professionnelle de votre société au **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** ;
+1. Le nom et les coordonnées de l'assureur RC professionnelle de votre société au 29 mai 2026 ;
 
 2. Une copie de l'attestation de cette assurance ;
 
@@ -126,7 +126,7 @@ Face aux difficultés de distribution postale à votre siège social, je vous de
 
 1. Faire signifier mes actes officiels par la voie d'un **Commissaire de Justice (ex-huissier)** à vos frais, ce qui figerait votre refus de coopérer devant les tribunaux ;
 
-2. Saisir le juge des référés du tribunal judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** par voie de **requête** (non contradictoire, afin de préserver l'effet de surprise) sur le fondement de l'article 145 du Code de procédure civile, pour ordonner sous astreinte la communication des documents ;
+2. Saisir le juge des référés du tribunal judiciaire de Foix par voie de **requête** (non contradictoire, afin de préserver l'effet de surprise) sur le fondement de l'article 145 du Code de procédure civile, pour ordonner sous astreinte la communication des documents ;
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. »* <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
@@ -139,7 +139,7 @@ Face aux difficultés de distribution postale à votre siège social, je vous de
 
 je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président, l'expression de mes salutations distinguées.
 
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE
 <hr><hr>
 
 ## IV — ANNEXE JURIDIQUE — EXTRAIT DES TEXTES APPLICABLES

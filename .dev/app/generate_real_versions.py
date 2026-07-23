@@ -149,6 +149,13 @@ def main():
 
         content = update_yaml_frontmatter(content)
         content = replace_header_block(content)
+
+        # Nettoyage des liens Markdown vers les fiches tokens et actes tokenisés
+        # Ex: **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** -> **[La Victime]**
+        content = re.sub(r'(\*\*\[.*?\]\*\*|\[.*?\])\([^)]*/Memory/Tokens/[^)]*\)', r'\1', content)
+        content = re.sub(r'\[([^\]]+)\]\([^)]*/Actes/Token/[^)]*\)', r'\1', content)
+        content = content.replace('/Actes/Token/', '/Actes/Reel/')
+
         for token, real_val in REVERSE_MAP.items():
             content = content.replace(token, real_val)
         content = content.replace("**[Adresse à compléter]**", "[À compléter]")

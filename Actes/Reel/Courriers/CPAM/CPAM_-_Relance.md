@@ -1,5 +1,5 @@
 ---
-uid: vDHYz48x2
+uid: zASN8uRdA
 emoji: 🔄
 title: Relance CPAM — Suivi du Dossier de Recours Contre Tiers
 description: L'Adresse de la Victime
@@ -28,9 +28,9 @@ jx: J+37
 <!-- /Breadcrumb -->
 
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE  
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
@@ -41,30 +41,30 @@ Service Recours Contre Tiers
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
+Blagnac, le 5 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # RELANCE CPAM<br>SUIVI DU DOSSIER DE RECOURS CONTRE TIERS
 > 🔗 Source Google Drive : [1MHhZf_KN4b3…](https://drive.google.com/open?id=1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k)
 
 <hr><hr>
-Objet : Relance et demande d'etat d'avancement — Recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
+Objet : Relance et demande d'etat d'avancement — Recours contre tiers n° [31727387](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)
 <hr><hr>
 
 <hr><hr>
 
-Ref : Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** — SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
+Ref : Accident du 29 mai 2026 — SAS SAS LES MAUVAIS GARCONS
 
 Madame, Monsieur,
 
-La presente est adressee a vos services par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, immatriculee sous le SIREN **[SIREN de l'Exploitation](../../../../Memory/Tokens/token-exploitation-siren.md)**.
+La presente est adressee a vos services par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS, immatriculee sous le SIREN 938 033 222.
 ## I — OBJET DE LA RELANCE
 
 Je me permets de solliciter de vos services :
 
-**1. L'etat d'avancement du [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° [N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** <br>
+**1. L'etat d'avancement du [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° [31727387](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** <br>
 Je souhaiterais connaitre l'etat actuel de l'instruction de mon dossier et, le cas echeant, les prochaines etapes de la procedure.
 
 **2. L'identite de la gestionnaire en charge du dossier** <br>
@@ -80,12 +80,12 @@ Conformement a l'Article L.376-1 du Code de la securite sociale, je souhaiterais
 **4. Les demarches a entreprendre** <br>
 Je vous remercie de bien vouloir m'indiquer les demarches que je dois entreprendre pour le suivi de mon dossier et la transmission des informations necessaires au bon deroulement de la procedure.
 
-Mes coordonnees : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnees : 10 Avenue de Purpan, 31700 Blagnac — sebastien.grazide@gmail.com
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 
 <!-- Signature -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE
 <!-- /Signature -->
 
 <!-- PJ -->
@@ -93,7 +93,7 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 
 ## PIECES JOINTES
 
-- **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]
+- **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [[31727387](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
 

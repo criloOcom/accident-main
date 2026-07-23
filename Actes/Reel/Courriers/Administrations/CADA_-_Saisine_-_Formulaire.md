@@ -1,5 +1,5 @@
 ---
-uid: x9fjLsGLj
+uid: mKkN5bH9j
 emoji: 📝
 title: Saisine CADA — Version courte pour formulaire en ligne
 description: Blocs de texte prêts à copier-coller dans le formulaire de saisine en
@@ -26,23 +26,23 @@ jx: J+47
 <!-- /Breadcrumb -->
 
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE  
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
 **CADA (formulaire en ligne)**
 <!-- /Destinataire -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # SAISINE CADA<br>VERSION COURTE (FORMULAIRE EN LIGNE)
 
 > **Quand utiliser :** Formulaire en ligne CADA (https://www.cada.fr/) — copier-coller les blocs ci-dessous dans les champs correspondants.
 ## I — Champ « Objet de votre demande / Description »
 
-> Victime d'un accident corporel grave le 29 mai 2026 dans le salon de coiffure *« [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) »* (**[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**), je sollicite l'avis de la CADA sur la communicabilité, à mon égard, des documents détenus par la Préfecture de l'Ariège et/ou la DDETS (Inspection du travail) concernant ce dossier. <br>
+> Victime d'un accident corporel grave le 29 mai 2026 dans le salon de coiffure *« [SAS LES MAUVAIS GARCONS] »* (22 Rue Lafaurie, 09000 Foix), je sollicite l'avis de la CADA sur la communicabilité, à mon égard, des documents détenus par la Préfecture de l'Ariège et/ou la DDETS (Inspection du travail) concernant ce dossier. <br>
 <hr><hr>
 
 ## II — Champ « Précisions sur les documents demandés »
@@ -66,6 +66,6 @@ jx: J+47
 
 3. Copier-coller les blocs ci-dessus dans les champs correspondants
 
-4. Joindre les pièces : courriers n°41, n°42, réponses reçues (si refus exprès), email **[L'Adjoint au Maire de la Commune](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**, PV police
+4. Joindre les pièces : courriers n°41, n°42, réponses reçues (si refus exprès), email Monsieur TAVELLA, PV police
 
 5. Valider et conserver le numéro de dossier

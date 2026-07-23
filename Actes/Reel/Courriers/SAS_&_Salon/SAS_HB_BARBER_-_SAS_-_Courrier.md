@@ -1,5 +1,5 @@
 ---
-uid: kmygmVCBR
+uid: x75jRwT8M
 emoji: 📜
 title: 📜 Mise en Demeure — Déclaration d'Accident Corporel et Demande d'Information
 description: L'Adresse de la Victime
@@ -27,7 +27,7 @@ jx: J+31
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 **Table des matières**
 
@@ -36,26 +36,26 @@ jx: J+31
 # MISE EN DEMEURE<br>DÉCLARATION D'ACCIDENT CORPOREL
 > 🔗 Source Google Drive : [1s5_z0l9yti3…](https://drive.google.com/open?id=1s5_z0l9yti3Ir6yBGH5xlZE-2LMs8uMJGlVcQA_sHKc)
 <!-- Auteur -->
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
+10 Avenue de Purpan, 31700 Blagnac
 
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-Direction de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
+Direction de SAS LES MAUVAIS GARCONS
 
-**[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**
+22 Rue Lafaurie, 09000 Foix
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
+Foix, le 29 juin 2026
 <!-- /Date -->
 
 <hr><hr>
 Objet : Déclaration d'accident corporel — Demande d'information assurance RC — L.R.A.R.
 <hr><hr>
 
-La présente lettre de mise en demeure est adressée par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** à **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** afin de déclarer officiellement l'accident corporel survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
+La présente lettre de mise en demeure est adressée par Sébastien GRAZIDE à SAS LES MAUVAIS GARCONS afin de déclarer officiellement l'accident corporel survenu le 29 mai 2026 dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
 
 Ce courrier constitue la première étape amiable préalable à toute action contentieuse, conformément aux usages de la procédure civile.
 
@@ -77,19 +77,19 @@ L'article L. 227-8 du Code de commerce dispose que les règles de responsabilit�
 
 Ces dispositions sont d'ordre public : elles s'imposent à la société et à ses dirigeants.
 
-Je me permets de vous adresser ce courrier afin de vous informer officiellement de l'accident corporel dont j'ai été victime au sein de votre établissement le vendredi **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** à 15h00.
+Je me permets de vous adresser ce courrier afin de vous informer officiellement de l'accident corporel dont j'ai été victime au sein de votre établissement le vendredi 29 mai 2026 à 15h00.
 
-Lors de ma venue, et alors que je sollicitais une retouche de coupe de cheveux, le basculement accidentel d'un bac à shampoing a provoqué une coupure profonde de 8,5 cm au niveau de ma main droite (index droit) ayant sectionné le tendon fléchisseur superficiel ainsi que le paquet vasculo-nerveux collatéral ulnaire et radial, nécessitant mon transfert en urgence et une intervention de microchirurgie (suture tendineuse 6 brins, suture microchirurgicale des nerfs et vaisseaux à l'éthilon 9-0, neurolyse d'urgence) le **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)** par **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** au service SOS Main de **[L'Établissement SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)**.
+Lors de ma venue, et alors que je sollicitais une retouche de coupe de cheveux, le basculement accidentel d'un bac à shampoing a provoqué une coupure profonde de 8,5 cm au niveau de ma main droite (index droit) ayant sectionné le tendon fléchisseur superficiel ainsi que le paquet vasculo-nerveux collatéral ulnaire et radial, nécessitant mon transfert en urgence et une intervention de microchirurgie (suture tendineuse 6 brins, suture microchirurgicale des nerfs et vaisseaux à l'éthilon 9-0, neurolyse d'urgence) le 30 mai 2026 par Dr Iskander DJERBI au service SOS Main de Clinique de l'Union.
 
 Le chirurgien a évalué le pronostic de récupération neurologique à un an minimum, avec un résultat souvent partiel s'agissant d'une suture nerveuse.
 
-Travaillant à mon compte en tant qu'informaticien indépendant (**[L'Identifiant Professionnel de la Victime](../../../../Memory/Tokens/token-victime-id-professionnel.md)**), cet accident me paralyse professionnellement et financièrement.
+Travaillant à mon compte en tant qu'informaticien indépendant (500 474 457), cet accident me paralyse professionnellement et financièrement.
 
 Mon dossier de recours contre tiers (n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**) est actuellement ouvert auprès de la Caisse Primaire d'Assurance Maladie (CPAM).
 
 Afin que les différents organismes de santé puissent entrer en contact direct avec votre compagnie d'assurance de responsabilité civile professionnelle pour la gestion de ce sinistre, je vous remercie de bien vouloir me transmettre par retour de courrier ou par courriel les coordonnées de votre assureur ainsi que votre numéro de police d'assurance.
 
-Mes coordonnées pour réponse : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** / **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnées pour réponse : 10 Avenue de Purpan, 31700 Blagnac / sebastien.grazide@gmail.com
 
 Je vous remercie par avance pour votre aide et reste à votre entière disposition pour tout renseignement complémentaire.
 
@@ -107,11 +107,11 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 > [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.[^3]**
 
-3. De procéder au versement d'une provision amiable d'un montant de [15 000 €](../../../../Memory/Tokens/token-finance-provision-refere.md) à valoir sur la réparation de mes préjudices, au titre de l'incidence professionnelle de l'accident ;
+3. De procéder au versement d'une provision amiable d'un montant de [15 000 €] à valoir sur la réparation de mes préjudices, au titre de l'incidence professionnelle de l'accident ;
 
 4. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
-À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** — d'abord en référé pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
+À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de Foix — d'abord en référé pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
@@ -121,9 +121,9 @@ L'ensemble des pièces et de la procédure vous sera communiqué par transparenc
 
 Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
 
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE
 
-> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >
 > Cette situation de handicap physique temporaire explique le délai de transmission de mes demandes administratives.
 <!-- PJ -->
@@ -131,7 +131,7 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**
+- **[Certificat medical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr Dr Julie JARDON
 
 - **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du 30 mai 2026
 

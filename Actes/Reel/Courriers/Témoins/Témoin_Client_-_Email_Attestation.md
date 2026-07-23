@@ -1,8 +1,8 @@
 ---
-uid: yumvZyhWF
+uid: KznUJSDTK
 emoji: 📋
 title: 📧📋 Email Transmission Attestation Témoin Client
-description: 'Objet : Attestation de témoin — Accident du [29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md) au salon
+description: 'Objet : Attestation de témoin — Accident du [29 mai 2026] au salon
   **[L''Adresse de l''Exploitation]'
 type: courrier
 date: 2026-07-06
@@ -13,7 +13,7 @@ tags:
 
 - temoin
 statut: brouillon
-destinataire: Témoin client présent le [29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)
+destinataire: Témoin client présent le [29 mai 2026]
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Témoins/Témoin Client - Email Attestation.md
 source: local
@@ -25,25 +25,25 @@ jx: J+38
 <!-- /Breadcrumb -->
 
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE  
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**[Témoin client présent le J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**
+**[Témoin client présent le J+0 Accident]**
 <!-- /Destinataire -->
 
 # TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (CLIENT)
 <hr><hr>
-Objet : Attestation de témoin — Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au salon **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**
+Objet : Attestation de témoin — Accident du 29 mai 2026 au salon 22 Rue Lafaurie, 09000 Foix
 <hr><hr>
 
 <hr><hr>
 
 Bonjour,
 
-Vous étiez présent(e) le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au salon **Exploitant du Commerce** situé au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** lorsque l'accident s'est produit.
+Vous étiez présent(e) le 29 mai 2026 au salon **Exploitant du Commerce** situé au 22 Rue Lafaurie, 09000 Foix lorsque l'accident s'est produit.
 
 <!-- Date -->
 Je me permets de vous solliciter pour remplir une **attestation de témoin** (Cerfa n° 11527\*03) afin de décrire ce que vous avez vu ce jour-là : la montée du coiffeur sur la vasque en céramique pour régler la télévision, le basculement de l'équipement, et le fait que ma main droite a heurté une cassure préexistante sur le flanc de la vasque.
@@ -82,8 +82,8 @@ Je vous remercie infiniment pour votre aide.
 Cordialement,
 
 <!-- Signature -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE
+sebastien.grazide@gmail.com
 <!-- /Signature -->
 
 📎 **Pièce jointe :** Joindre le PDF du Cerfa n° 11527\*03.

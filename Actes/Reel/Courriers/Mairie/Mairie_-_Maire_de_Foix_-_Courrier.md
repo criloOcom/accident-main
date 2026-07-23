@@ -1,5 +1,5 @@
 ---
-uid: ENExZjANE
+uid: A6CwWnuDn
 emoji: 📜
 title: 📜 Mise en demeure de la Mairie — Police Administrative
 description: La Victime
@@ -23,25 +23,25 @@ calendar_event_id: gqu5r7mbuh6570913b2nisi7t8
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # LETTRE RECOMMANDÉE <br> ACCUSÉ DE RÉCEPTION
 
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE
+10 Avenue de Purpan, 31700 Blagnac
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
 **Monsieur le Maire**
-Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
+Mairie de Foix
 45 Cours Gabriel Fauré
-09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
+09000 Foix
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 9 juillet 2026
+Blagnac, le 9 juillet 2026
 <!-- /Date -->
 
 <hr><hr>
@@ -50,7 +50,7 @@ Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-vi
 
 <hr><hr>
 
-**Objet : Demande d'intervention au titre de vos pouvoirs de police administrative – Mise en péril de la sécurité publique au sein de l'établissement [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
+**Objet : Demande d'intervention au titre de vos pouvoirs de police administrative – Mise en péril de la sécurité publique au sein de l'établissement [SAS LES MAUVAIS GARCONS]**
 
 <hr><hr>
 
@@ -60,7 +60,7 @@ Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-vi
 
 Monsieur le Maire,
 
-Par la présente, je me permets d'attirer votre attention sur une situation constitutive d'un péril grave et imminent pour la sécurité de vos administrés, au sein de l'établissement exploité par la société [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), sis **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** à **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**.
+Par la présente, je me permets d'attirer votre attention sur une situation constitutive d'un péril grave et imminent pour la sécurité de vos administrés, au sein de l'établissement exploité par la société [SAS LES MAUVAIS GARCONS], sis 22 Rue Lafaurie, 09000 Foix à Foix.
 
 Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein de cet établissement recevant du public (ERP).
 
@@ -80,7 +80,7 @@ Par ailleurs, conformément à l'[article L. 2212-4 du Code général des collec
 
 Face à la gravité des faits et à la probabilité de réitération d'un tel accident sur d'autres usagers de cet établissement, je vous demande formellement, au titre de l'exercice de vos pouvoirs de police administrative :
 
-1. De mandater les services compétents de la Mairie afin de procéder à une **vérification approfondie des installations** de l'établissement exploité par [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), et notamment de contrôler la conformité des équipements.
+1. De mandater les services compétents de la Mairie afin de procéder à une **vérification approfondie des installations** de l'établissement exploité par [SAS LES MAUVAIS GARCONS], et notamment de contrôler la conformité des équipements.
 
 2. De procéder à un **signalement au Comité de Sécurité (COMSUR)** ou à la Commission de Sécurité compétente pour les ERP, afin d'évaluer la conformité des locaux et équipements.
 
@@ -88,14 +88,14 @@ Face à la gravité des faits et à la probabilité de réitération d'un tel ac
 
 Il est de la responsabilité de la commune de prévenir tout dommage prévisible découlant de l'exploitation d'un ERP dangereux sur son territoire.
 
-J'attire votre attention sur le fait qu'une procédure pénale est d'ores et déjà ouverte suite à un dépôt de plainte, et qu'une action visant à engager la responsabilité civile de [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, est en cours.
+J'attire votre attention sur le fait qu'une procédure pénale est d'ores et déjà ouverte suite à un dépôt de plainte, et qu'une action visant à engager la responsabilité civile de [SAS LES MAUVAIS GARCONS] et de ses dirigeants, Sabir MOUNTASSER et Catherine ANDISSAC, est en cours.
 
 Je vous remercie par avance des diligences que vous voudrez bien accomplir pour garantir la sécurité du public.
 
 Je vous prie de croire, Monsieur le Maire, à l'expression de ma considération distinguée.
 
 <!-- Signature -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE
 <!-- /Signature -->
 
 <!-- PJ -->
@@ -105,7 +105,7 @@ Je vous prie de croire, Monsieur le Maire, à l'expression de ma considération 
 
 - **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Blessures documentees par SOS Main
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr [**[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**]
+- **[Certificat medical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr [Dr Julie JARDON]
 
 - **[Arrets de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours
 <!-- /PJ -->

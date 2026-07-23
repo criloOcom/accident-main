@@ -1,7 +1,7 @@
 ---
-uid: ax2pftitL
+uid: i4XC8fU9y
 title: "Plan : Constat par la Police Municipale vs Commissaire de Justice (Huissier)"
-description: "Ce plan analyse la possibilité juridique de demander au Maire de [Foix](../../../Memory/Tokens/token-accident-ville.md) d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à [22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md) , et définit la marche"
+description: "Ce plan analyse la possibilité juridique de demander au Maire de [Foix] d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à [22 Rue Lafaurie, 09000 Foix] , et définit la marche"
 type: readme
 statut: brouillon
 reel_path: ../../Reel/Organisation/Note - Plan Constat Police Foix.md
@@ -13,13 +13,13 @@ reel_path: ../../Reel/Organisation/Note - Plan Constat Police Foix.md
 
 # Plan : Constat par la Police Municipale vs Commissaire de Justice (Huissier)
 
-Ce plan analyse la possibilité juridique de demander au Maire de **[La Ville de l'Accident](../../../Memory/Tokens/token-accident-ville.md)** d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à **[L'Adresse de l'Exploitation](../../../Memory/Tokens/token-exploitation-adresse.md)** , et définit la marche à suivre pour votre courrier de demain matin.
+Ce plan analyse la possibilité juridique de demander au Maire de Foix d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à 22 Rue Lafaurie, 09000 Foix , et définit la marche à suivre pour votre courrier de demain matin.
 ## I — Analyse de Faisabilité Juridique
 
 ### I.1 — Peut-on demander à la police de faire le constat à la place d'un huissier ?
 
 *   **Oui, mais uniquement sous l'angle de la sécurité publique (Police Administrative)** : 
-    Le Maire de **[La Ville de l'Accident](../../../Memory/Tokens/token-accident-ville.md)** est responsable de la sécurité des Établissements Recevant du Public (ERP) sur sa commune ([art. L. 2212-2 du CGCT](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370)[^1]). En tant qu'autorité de police, il peut mandater la police municipale ou la commission de sécurité pour vérifier la conformité des installations d'un ERP.
+    Le Maire de Foix est responsable de la sécurité des Établissements Recevant du Public (ERP) sur sa commune ([art. L. 2212-2 du CGCT](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370)[^1]). En tant qu'autorité de police, il peut mandater la police municipale ou la commission de sécurité pour vérifier la conformité des installations d'un ERP.
 *   **La limite majeure (Procédure Civile)** : 
     Un rapport de police municipale a une valeur administrative ou pénale, mais **n'a pas la force probante d'un constat de Commissaire de Justice (Huissier)** devant un tribunal civil pour l'indemnisation de vos préjudices. La police ne constatera pas pour votre compte le "nom de la nouvelle entreprise" ou les détails civils dans le but de vous aider à monter votre dossier de dommages-intérêts (ce n'est pas leur rôle légal).
 *   **La complémentarité des deux démarches** :
@@ -35,7 +35,7 @@ Ce plan analyse la possibilité juridique de demander au Maire de **[La Ville de
 Vous allez envoyer un courriel officiel et circonstancié au Maire de Foix (Cabinet du Maire / Secrétariat) en vous appuyant sur le projet déjà rédigé par DeepSeek/Jules :
 *   **Fichier source** : **[Mairie - Maire de Foix - Courrier.md](../../Reel/Courriers/Mairie/Mairie%20-%20Maire%20de%20Foix%20-%20Courrier.md)**.
 
-*   **Objet** : Demande d'intervention de la police municipale / commission de sécurité pour contrôle de conformité ERP au **[L'Adresse de l'Exploitation](../../../Memory/Tokens/token-exploitation-adresse.md)**.
+*   **Objet** : Demande d'intervention de la police municipale / commission de sécurité pour contrôle de conformité ERP au 22 Rue Lafaurie, 09000 Foix.
 
 ### II.2 — Action 2 : Maintien de la Requête d'Huissier (Art. 145 CPC)
 
@@ -50,13 +50,13 @@ Même si le Maire envoie la police, vous devez maintenir la démarche d'huissier
  Voici le corps du mail à envoyer demain matin à 8h00 à l'adresse de la Mairie de Foix (généralement `**[L'Adresse de la Mairie de la Commune]**` ou via leur formulaire de contact) :
 
 ```markdown
-Objet : URGENCE - Signalement de sécurité ERP (salon de coiffure - **[L'Adresse de l'Exploitation](../../../Memory/Tokens/token-exploitation-adresse.md)**) et demande de contrôle de conformité
+Objet : URGENCE - Signalement de sécurité ERP (salon de coiffure - 22 Rue Lafaurie, 09000 Foix) et demande de contrôle de conformité
 
 Monsieur le Maire,
 
 Je me permets de solliciter votre intervention urgente au titre de vos pouvoirs de police administrative générale sur la sécurité des Établissements Recevant du Public (ERP) (Articles L. 2212-2 et L. 2212-4 du CGCT).
 
-Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein du salon de coiffure situé au **[L'Adresse de l'Exploitation](../../../Memory/Tokens/token-exploitation-adresse.md)** à Foix (plaie palmaire profonde par bris de céramique défectueuse d'un bac à shampoing, 55 jours d'[arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)). Une plainte pénale est en cours.
+Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein du salon de coiffure situé au 22 Rue Lafaurie, 09000 Foix à Foix (plaie palmaire profonde par bris de céramique défectueuse d'un bac à shampoing, 55 jours d'[arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)). Une plainte pénale est en cours.
 
 Nous apprenons que l'établissement, exploité par la SAS (qui tente de se rendre insolvable et ne dispose pas d'assurance de responsabilité civile), fait l'objet d'une réouverture suspecte, potentiellement sous une nouvelle enseigne ou structure administrative non déclarée, tout en conservant le matériel dangereux à l'origine de mon accident.
 

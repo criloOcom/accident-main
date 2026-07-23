@@ -1,9 +1,9 @@
 ---
-uid: aAcMFEKUk
+uid: DGhctJmLP
 emoji: 🚨
 title: Confirmation Officielle de Signalement à la Préfecture
 description: Signalement à la Préfecture de l'Ariège / CODAF — Accident du 29 mai
-  2026 au salon [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+  2026 au salon [SAS LES MAUVAIS GARCONS]
 type: courrier
 date: 2026-07-05
 tags:
@@ -33,9 +33,9 @@ jx: J+37
 <!-- /Breadcrumb -->
 
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE  
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
@@ -45,19 +45,19 @@ Préfecture de l'Ariège — Référent CODAF
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
+Blagnac, le 5 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # CONFIRMATION OFFICIELLE DE SIGNALEMENT <br> A LA PREFECTURE DE L'ARIEGE
 > 🔗 Source Google Drive : [1sIkiScOSFZy…](https://drive.google.com/open?id=1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM)
 
 <hr><hr>
-Objet : Confirmation officielle de signalement — Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au salon [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+Objet : Confirmation officielle de signalement — Accident du 29 mai 2026 au salon [SAS LES MAUVAIS GARCONS]
 <hr><hr>
 
-Ref : Signalement effectué par la Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** le 1er juin 2026
+Ref : Signalement effectué par la Mairie de Foix le 1er juin 2026
 
 Madame, Monsieur le Préfet,
 ## I — INTRODUCTION
@@ -69,7 +69,7 @@ Cette blessure a entraîné une plaie palmaire profonde de la main droite avec s
 
 ## II — RAPPEL DES FAITS
 
-Le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**, le préposé de l'exploitation est monté sur la vasque en céramique du bac à shampoing pour accéder au poste de télévision, en l'absence de tout équipement d'accès adapté (escabeau, marchepied) mis à disposition par l'employeur. Sous son poids, la vasque — déjà instable et fragilisée par une **cassure majeure préexistante non signalée** — a basculé violemment. Ma main droite, tendue par réflexe pour protéger le préposé, a heurté cette cassure, entraînant des lésions graves ayant nécessité une microchirurgie d'urgence en SOS Main.
+Le 29 mai 2026, le préposé de l'exploitation est monté sur la vasque en céramique du bac à shampoing pour accéder au poste de télévision, en l'absence de tout équipement d'accès adapté (escabeau, marchepied) mis à disposition par l'employeur. Sous son poids, la vasque — déjà instable et fragilisée par une **cassure majeure préexistante non signalée** — a basculé violemment. Ma main droite, tendue par réflexe pour protéger le préposé, a heurté cette cassure, entraînant des lésions graves ayant nécessité une microchirurgie d'urgence en SOS Main.
 
 **La vasque ne s'est pas effondrée** — il n'y a pas de débris de céramique. L'accident résulte exclusivement du basculement de l'équipement, lui-même causé par l'absence d'escabeau et l'état dangereux de l'installation.
 
@@ -80,11 +80,11 @@ Le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**, le prép
 
 Plusieurs procédures ont été engagées à ce jour :
 
-1. Dépôt de plainte au commissariat de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** (PV n° [2026/015967](../../../../Memory/Tokens/token-pv-police-numero.md))
+1. Dépôt de plainte au commissariat de Foix (PV n° [2026/015967])
 
-2. [Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) transmise au Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
+2. [Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) transmise au Tribunal Judiciaire de Foix
 
-3. Mises en demeure LRAR à la SAS, à ses dirigeants et au propriétaire des murs (**[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**)
+3. Mises en demeure LRAR à la SAS, à ses dirigeants et au propriétaire des murs (29 juin 2026)
 
 4. Action directe contre l'assureur RC professionnelle (Article L.124-3 du Code des assurances)
 
@@ -107,7 +107,7 @@ Plusieurs procédures ont été engagées à ce jour :
 
 ## IV — SIGNALEMENTS TRANSMIS
 
-Il m'a été indiqué par la Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** le 1er juin 2026 qu'un signalement avait été effectué auprès de vos services et du CODAF. Je sollicite par la présente confirmation que ce signalement a bien été reçu et instruit par vos services, et souhaite être tenu informé des suites qui lui sont réservées.
+Il m'a été indiqué par la Mairie de Foix le 1er juin 2026 qu'un signalement avait été effectué auprès de vos services et du CODAF. Je sollicite par la présente confirmation que ce signalement a bien été reçu et instruit par vos services, et souhaite être tenu informé des suites qui lui sont réservées.
 
 Je porte par ailleurs à votre connaissance les manquements suivants, constatés dans cet ERP :
 
@@ -138,12 +138,12 @@ Je sollicite de vos services :
 
 3. La communication des suites réservées à ce signalement
 
-Mes coordonnées : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnées : 10 Avenue de Purpan, 31700 Blagnac — sebastien.grazide@gmail.com
 
 Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Préfet, l'expression de ma considération distinguée.
 
 <!-- Signature -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE
 <!-- /Signature -->
 
 <!-- PJ -->
@@ -153,9 +153,9 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Dépôt de plainte du 2 juin 2026
 
-- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procédure pénale engagée devant le TJ de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
+- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procédure pénale engagée devant le TJ de Foix
 
-- **[Mises en demeure LRAR](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mises en demeure du **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
+- **[Mises en demeure LRAR](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mises en demeure du 29 juin 2026
 
 - **[Signalement Inspection du Travail](../../../Reel/Courriers/Administrations/DDETS%20-%20Signalement.md)** — Demande d'enquête auprès de la DDETS 09
 

@@ -1,5 +1,5 @@
 ---
-uid: W3PVzTyCv
+uid: kPrXMtShr
 emoji: ⚖️
 title: Transmission et Bordeau Recapitulatif CPAM — Recours Contre Tiers
 description: L'Adresse de la Victime
@@ -30,9 +30,9 @@ jx: J+38
 <!-- /Breadcrumb -->
 
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE  
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
@@ -43,10 +43,10 @@ Direction des Recours Contre Tiers
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 6 juillet 2026
+Blagnac, le 6 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # TRANSMISSION ET BORDEREAU RECAPITULATIF<br>RECOURS CONTRE TIERS
 > 🔗 Source Google Drive : [1_cHcprI9XKo…](https://drive.google.com/open?id=1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY)
@@ -55,38 +55,38 @@ Direction des Recours Contre Tiers
 Objet : Transmission d'elements et bordereau recapitulatif — Recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
 <hr><hr>
 
-Ref : Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** — SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** — SIREN **[SIREN de l'Exploitation](../../../../Memory/Tokens/token-exploitation-siren.md)**
+Ref : Accident du 29 mai 2026 — SAS SAS LES MAUVAIS GARCONS — SIREN 938 033 222
 
 Madame, Monsieur,
 ## I — INTRODUCTION
 
-La presente est adressee a vos services par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** afin de vous informer de l'etat d'avancement des procedures judiciaires engagees a la suite de l'accident corporel grave dont j'ai ete victime le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, et de vous transmettre les elements actualises necessaires au suivi de mon dossier de recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
+La presente est adressee a vos services par Sébastien GRAZIDE afin de vous informer de l'etat d'avancement des procedures judiciaires engagees a la suite de l'accident corporel grave dont j'ai ete victime le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS, et de vous transmettre les elements actualises necessaires au suivi de mon dossier de recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
 <hr><hr>
 
 ## II — RAPPEL DU DOSSIER
 
-Mon dossier de recours contre tiers a ete ouvert par vos services le **[J+5 Ouverture CPAM](../../../../Memory/Tokens/token-j-5-ouverture-cpam.md)** sous le numero **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**, suite a l'accident corporel survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**.
+Mon dossier de recours contre tiers a ete ouvert par vos services le 3 juin 2026 sous le numero **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**, suite a l'accident corporel survenu le 29 mai 2026.
 
-L'accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte mis a disposition par l'employeur. Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main le **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)** par **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**.
+L'accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte mis a disposition par l'employeur. Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main le 30 mai 2026 par Dr Iskander DJERBI.
 
-Mon [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total a ete evalue a 55 jours (du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au **[J+55 Fin d'ITT](../../../../Memory/Tokens/token-j-55-fin-d-itt.md)**).
+Mon [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total a ete evalue a 55 jours (du 29 mai 2026 au 23 juillet 2026).
 <hr><hr>
 
 ## III — PROCEDURES JUDICIAIRES ENGAGEES
 
 A ce jour, les procedures suivantes ont ete engagees :
 
-1. **Phase amiable** (29 mai 2026) : Mises en demeure LRAR adressees a la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et a ses dirigeants, restees sans reponse a ce jour.
+1. **Phase amiable** (29 mai 2026) : Mises en demeure LRAR adressees a la SAS SAS LES MAUVAIS GARCONS et a ses dirigeants, restees sans reponse a ce jour.
 
-2. **Assignation en refere-provision** (30 juin 2026) : Saisine du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** sur le fondement de l'Article 835 du Code de procedure civile, a l'encontre de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et de ses dirigeants, [Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md), in solidum.
+2. **Assignation en refere-provision** (30 juin 2026) : Saisine du Tribunal Judiciaire de Foix sur le fondement de l'Article 835 du Code de procedure civile, a l'encontre de SAS LES MAUVAIS GARCONS et de ses dirigeants, [Sabir MOUNTASSER] et [Catherine ANDISSAC], in solidum.
 
 > *« Le président du tribunal judiciaire ou le juge des contentieux de la protection dans les limites de sa compétence peuvent toujours, même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
 > [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
 > **Code de procédure civile > Chapitre II : Les ordonnances de référé.[^1]**
 
-3. **Assignation Article 145 CPC** (5 juillet 2026) : Saisine du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** pour communication forcee de la police d'assurance RC professionnelle sous astreinte.
+3. **Assignation Article 145 CPC** (5 juillet 2026) : Saisine du Tribunal Judiciaire de Foix pour communication forcee de la police d'assurance RC professionnelle sous astreinte.
 
-4. **[Constitution de Partie Civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : Depot d'une plainte avec [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) aupres du Doyen des Juges d'Instruction du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, fondee sur les articles 222-19 et 222-20 du Code penal (blessures involontaires), et engageant la responsabilite penale de la SAS et de ses dirigeants.
+4. **[Constitution de Partie Civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : Depot d'une plainte avec [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) aupres du Doyen des Juges d'Instruction du Tribunal Judiciaire de Foix, fondee sur les articles 222-19 et 222-20 du Code penal (blessures involontaires), et engageant la responsabilite penale de la SAS et de ses dirigeants.
 <hr><hr>
 
 ## IV — BORDEREAU RECAPITULATIF DES PIECES
@@ -131,39 +131,39 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 
 **A. Pièces médicales**
 
-- **Pièce n°1 :** [Certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (Dr **[Le Médecin Généraliste](../../../../Memory/Tokens/token-victime-medecin-generaliste.md)**) — **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**
+- **Pièce n°1 :** [Certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (Dr Dr Oxybel) — 29 mai 2026
 
-- **Pièce n°2 :** [Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) SOS Main (Dr **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**) — **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)**
+- **Pièce n°2 :** [Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) SOS Main (Dr Dr Iskander DJERBI) — 30 mai 2026
 
-- **Pièce n°3 :** Bulletin de sortie **[L'Établissement SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)** — **[J+2 Sortie](../../../../Memory/Tokens/token-j-2-sortie.md)**
+- **Pièce n°3 :** Bulletin de sortie Clinique de l'Union — 31 mai 2026
 
-- **Pièce n°4 :** Certificats d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (55 jours) — **[J+3 Premiers arrêts](../../../../Memory/Tokens/token-j-3-premiers-arrets.md)**
+- **Pièce n°4 :** Certificats d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (55 jours) — 1 juin 2026
 
-- **Pièce n°5 :** Ordonnances et prescriptions médicales — **[J+3 Premiers arrêts](../../../../Memory/Tokens/token-j-3-premiers-arrets.md)**
+- **Pièce n°5 :** Ordonnances et prescriptions médicales — 1 juin 2026
 
-- **Pièce n°6 :** Facture de chirurgie ([790,23 €](../../../../Memory/Tokens/token-finance-facture-chirurgie.md)) — **[J+12 Facture](../../../../Memory/Tokens/token-j-12-facture.md)**
+- **Pièce n°6 :** Facture de chirurgie ([790,23 €]) — 10 juin 2026
 
-- **Pièce n°7 :** Compte-rendu de contrôle chirurgical — **[J+21 Contrôle chirurgical](../../../../Memory/Tokens/token-j-21-controle-chirurgical.md)**
+- **Pièce n°7 :** Compte-rendu de contrôle chirurgical — 19 juin 2026
 
 **B. Pièces administratives**
 
-- **Pièce n°8 :** Reçu de dépôt de plainte (Police Nationale, PV n° [2026/015967](../../../../Memory/Tokens/token-pv-police-numero.md)) — **[J+4 Dépôt de plainte](../../../../Memory/Tokens/token-j-4-depot-de-plainte.md)**
+- **Pièce n°8 :** Reçu de dépôt de plainte (Police Nationale, PV n° [2026/015967]) — 2 juin 2026
 
-- **Pièce n°9 :** Mises en demeure LRAR (SAS + dirigeants + propriétaire) — **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
+- **Pièce n°9 :** Mises en demeure LRAR (SAS + dirigeants + propriétaire) — 29 juin 2026
 
-- **Pièce n°10 :** Preuve de paiement Wero 15,00 € (preuve de présence matérielle) — **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**
+- **Pièce n°10 :** Preuve de paiement Wero 15,00 € (preuve de présence matérielle) — 29 mai 2026
 
-- **Pièce n°11 :** Assignation référé-provision (Art. 835 CPC) — **[J+32 Assignation référé](../../../../Memory/Tokens/token-j-32-assignation-refere.md)**
+- **Pièce n°11 :** Assignation référé-provision (Art. 835 CPC) — 30 juin 2026
 
-- **Pièce n°12 :** Assignation Article 145 CPC (communication assurance) — **[J+37 Assignation 145](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
+- **Pièce n°12 :** Assignation Article 145 CPC (communication assurance) — 5 juillet 2026
 
-- **Pièce n°13 :** [Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (Art. 222-19/222-20 CP) — **[J+38 Constitution PC](../../../../Memory/Tokens/token-j-38-constitution-pc.md)**
+- **Pièce n°13 :** [Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (Art. 222-19/222-20 CP) — 6 juillet 2026
 
 **C. Pièces administratives CPAM**
 
 - **Pièce n°14 :** Accusé de réception d'ouverture de [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) — Dossier n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
 
-- **Pièce n°15 :** Courriers échangés avec la gestionnaire de dossier — **[La Gestionnaire CPAM](../../../../Memory/Tokens/token-cpam-gestionnaire-nom.md)**
+- **Pièce n°15 :** Courriers échangés avec la gestionnaire de dossier — Sigrid DESBOIS
 <hr><hr>
 
 ## V — DEMANDE
@@ -212,14 +212,14 @@ Je sollicite de vos services :
 
 **3. L'information sur le suivi du dossier** et les demarches complementaires eventuellement necessaires de ma part.
 
-**4. L'identification de l'assureur** de la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** si vos services disposent de cette information dans le cadre de la gestion du [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md).
+**4. L'identification de l'assureur** de la SAS SAS LES MAUVAIS GARCONS si vos services disposent de cette information dans le cadre de la gestion du [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md).
 
-Mes coordonnees demeurent : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnees demeurent : 10 Avenue de Purpan, 31700 Blagnac — sebastien.grazide@gmail.com
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 
 <!-- Signature -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE
 <!-- /Signature -->
 
 <!-- Source -->

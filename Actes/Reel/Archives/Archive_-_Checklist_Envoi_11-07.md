@@ -1,5 +1,5 @@
 ---
-uid: G7PHzRWAu
+uid: wUqfMruBC
 title: "Checklist Envoi LRAR — 11 juillet 2026 (ARCHIVÉ — EXÉCUTÉ)"
 description: "- [x] 12 ✉️ Courrier URSSAF.md — EXÉCUTÉ LE 11/07"
 type: readme
@@ -20,7 +20,7 @@ reel_path: ../../Reel/Archives/Archive - Checklist Envoi 11-07.md
 
 > **✅ EXÉCUTÉ LE 11 JUILLET 2026** — Ce document est archivé pour traçabilité.
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 ## I — AVANT DÉPART — PRÉPARATION
 
 ### I.1 — Courriers à imprimer (Reel/Courriers/)
@@ -39,7 +39,7 @@ reel_path: ../../Reel/Archives/Archive - Checklist Envoi 11-07.md
 
 - [x] Accuses de reception NPAI 29/06 (x3)
 
-- [x] [Extrait Kbis de la SAS [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md)](../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) (x3)
+- [x] [Extrait Kbis de la SAS [SAS LES MAUVAIS GARCONS]](../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) (x3)
 
 - [x] Dossier medical complet 11 pieces (x3)
 
@@ -49,7 +49,7 @@ reel_path: ../../Reel/Archives/Archive - Checklist Envoi 11-07.md
 
 - [x] Accuses de reception NPAI 29/06
 
-- [x] [Extrait Kbis de la SAS [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md)](../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)
+- [x] [Extrait Kbis de la SAS [SAS LES MAUVAIS GARCONS]](../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)
 
 - [x] Note audit INPI 10/07
 
@@ -87,7 +87,7 @@ reel_path: ../../Reel/Archives/Archive - Checklist Envoi 11-07.md
 
 - [x] Destinataire : [email dans le courrier 12 reel]
 
-- [x] Objet : [PV n°2026/015967](../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) — Transmission de preuves — **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**
+- [x] Objet : [PV n°2026/015967](../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) — Transmission de preuves — Sébastien GRAZIDE
 
 - [x] Joindre PV, NPAI, Kbis, dossier medical en PDF
 
@@ -99,7 +99,7 @@ reel_path: ../../Reel/Archives/Archive - Checklist Envoi 11-07.md
 
 - [x] Destinataire : [email dans le courrier 14 reel]
 
-- [x] Objet : [PV n°2026/015967](../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) — Transmission de preuves — **[La Victime](../../../Memory/Tokens/token-victime-nom-complet.md)**
+- [x] Objet : [PV n°2026/015967](../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) — Transmission de preuves — Sébastien GRAZIDE
 
 - [x] Joindre PV, NPAI, Kbis, dossier medical en PDF
 

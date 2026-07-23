@@ -1,5 +1,5 @@
 ---
-uid: 4HcVMAzaq
+uid: FtsNvTSdS
 title: "Note de Synthèse — Avancement des Audits & Recommandations"
 description: "Cette note récapitule l'analyse systématique de tous les rapports d'audit dans Rapports et catégorise l'état d'avancement des tâches en suspens."
 type: readme
@@ -14,7 +14,7 @@ reel_path: ../../Reel/Organisation/Synthèse - Actions et Audits.md
 # Note de Synthèse<br>Avancement des Audits & Recommandations
 
 Cette note récapitule l'analyse systématique de tous les rapports d'audit dans [Rapports](../README.md) et catégorise l'état d'avancement des tâches en suspens.
-## I — 🟥 CE QU'IL RESTE À FAIRE (Démarches Humaines — En attente d'action de [**[Prénom de la Victime]**](../../../Memory/Tokens/token-victime-prenom.md))
+## I — 🟥 CE QU'IL RESTE À FAIRE (Démarches Humaines — En attente d'action de [**[Prénom de la Victime]**])
 
 Ces tâches ne peuvent pas être automatisées par un agent d'IA et nécessitent vos démarches physiques auprès des tiers.
 

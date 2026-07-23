@@ -1,5 +1,5 @@
 ---
-uid: S6QC7LtFF
+uid: ytCWjZje5
 
 emoji: ⚖️
 title: Réquisitoire Introductif
@@ -44,26 +44,26 @@ jx: J+47
 # RÉQUISITOIRE INTRODUCTIF DU MINISTÈRE PUBLIC
 **Ouverture d'une information judiciaire — Blessures involontaires et infractions connexes**
 
-Tribunal Judiciaire de [Foix](../../../../Memory/Tokens/token-accident-ville.md)
+Tribunal Judiciaire de [Foix]
 Le Procureur de la République
 <!-- /Auteur -->
 
 RÉFÉRENCE PARQUET : 
-RÉFÉRENCE PLAINTE : PV n°[2026/015967](../../../../Memory/Tokens/token-pv-police-numero.md)
+RÉFÉRENCE PLAINTE : PV n°[2026/015967]
 
 <!-- Destinataire -->
 À l'attention de Monsieur le Doyen des Juges d'Instruction,
-Tribunal Judiciaire de [Foix](../../../../Memory/Tokens/token-accident-ville.md)
+Tribunal Judiciaire de [Foix]
 <!-- /Destinataire -->
 ## I — PROBLÉMATIQUE ET EXPOSÉ DES FAITS
 
-Le Ministère Public a été saisi par la plainte, puis par la [**[constitution de partie civile]**](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) en date du [6 juillet 2026](../../../../Memory/Tokens/token-j-38-constitution-pc.md), déposées par [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) à l'encontre de la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), ainsi que de ses dirigeants, **[Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md).
+Le Ministère Public a été saisi par la plainte, puis par la [**[constitution de partie civile]**](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) en date du [6 juillet 2026], déposées par [Sébastien GRAZIDE] à l'encontre de la SAS [SAS LES MAUVAIS GARCONS], ainsi que de ses dirigeants, **[Sabir MOUNTASSER] et [Catherine ANDISSAC].
 
-Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md), qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), sis **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md), a été victime d'un grave accident corporel.
+Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, [Sébastien GRAZIDE], qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS], sis **[22 Rue Lafaurie, 09000 Foix], a été victime d'un grave accident corporel.
 
-Alors que [Ayoub BENNOURINE](../../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tel : [**[Le Telephone du Prepose]**](../../../../Memory/Tokens/token-exploitation-prepose-telephone.md)), faute d'equipement d'acces en hauteur (escabeau, marchepied) mis a sa disposition, etait monte sur la vasque en ceramique d'un bac a shampoing pour regler un poste de television situe en hauteur, cet equipement, deja fragilise par une cassure majeure preexistante et non signalee aux aretes tranchantes, a bascule sous son poids.
+Alors que [Ayoub BENNOURINE] (tel : [**[Le Telephone du Prepose]**]), faute d'equipement d'acces en hauteur (escabeau, marchepied) mis a sa disposition, etait monte sur la vasque en ceramique d'un bac a shampoing pour regler un poste de television situe en hauteur, cet equipement, deja fragilise par une cassure majeure preexistante et non signalee aux aretes tranchantes, a bascule sous son poids.
 
-En tentant par réflexe de retenir le préposé, [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) a heurté de la main droite — sa main dominante — la cassure tranchante.
+En tentant par réflexe de retenir le préposé, [Sébastien GRAZIDE] a heurté de la main droite — sa main dominante — la cassure tranchante.
 
 Ce choc a provoqué une section complète du tendon fléchisseur profond (FDP) de l'index droit en zone II de Verdan, associée à une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une microchirurgie d'urgence le 30 mai 2026, puis une neurolyse secondaire du nerf palmaire.
 
@@ -120,7 +120,7 @@ S'agissant des personnes physiques qui n'ont pas causé directement le dommage (
 > [Article 121-3](../../../../Lois/Code/Code_pénal/Article_121-3_Code_Legifrance.md) <br>
 > **Code pénal > Partie législative > Livre Ier > Titre II > Chapitre Ier.[^5]**
 
-Le défaut de souscription d'assurance et le maintien en service d'un équipement gravement défectueux caractérisent l'absence de diligence normale et peuvent constituer une telle faute caractérisée incombant à [Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md).
+Le défaut de souscription d'assurance et le maintien en service d'un équipement gravement défectueux caractérisent l'absence de diligence normale et peuvent constituer une telle faute caractérisée incombant à [Sabir MOUNTASSER] et [Catherine ANDISSAC].
 
 ### II.4 — SUR LA PRESCRIPTION
 
@@ -137,7 +137,7 @@ Les faits dénoncés revêtent une indéniable gravité, les conséquences pour 
 
 Considérant qu'il appartiendra à l'expert commis dans le cadre de l'information judiciaire, ou à l'Unité Médico-Judiciaire (UMJ), de fixer l'ITT pénale au sens du Code pénal ; que le rapport d'expertise médicale déposé le 12 juin 2027 constitue un indice sérieux quant à la durée de l'incapacité fonctionnelle réelle et à la gravité des séquelles, sans pour autant lier le juge pénal sur le quantum de l'ITT au sens des articles 222-19 et suivants.
 
-L'enquête préliminaire se heurte actuellement à l'obstruction manifeste de la société [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, qui refusent de communiquer les attestations d'assurance de responsabilité civile professionnelle de l'établissement, paralysant l'indemnisation de la victime via l'action directe prévue par l'article L. 124-3 du Code des assurances.
+L'enquête préliminaire se heurte actuellement à l'obstruction manifeste de la société [SAS LES MAUVAIS GARCONS] et de ses dirigeants, qui refusent de communiquer les attestations d'assurance de responsabilité civile professionnelle de l'établissement, paralysant l'indemnisation de la victime via l'action directe prévue par l'article L. 124-3 du Code des assurances.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
@@ -167,12 +167,12 @@ Par ces motifs,
 
 Vu les articles 222-19, 222-20, 223-1, 121-2 et 121-3 du Code pénal ;
 Vu les articles 80 et suivants du Code de procédure pénale ;
-Vu la plainte et la [**[constitution de partie civile]**](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) de [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) ;
+Vu la plainte et la [**[constitution de partie civile]**](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) de [Sébastien GRAZIDE] ;
 Vu le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 (consolidation 01/03/2027, DFP 12 %, SE 4/7) ;
 
 Nous requérons qu'il plaise à Monsieur le Doyen des Juges d'Instruction de :
 
-**OUVRIR UNE INFORMATION JUDICIAIRE** contre personne non dénommée et contre la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), **[Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md), et [Catherine ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md), des chefs de :
+**OUVRIR UNE INFORMATION JUDICIAIRE** contre personne non dénommée et contre la SAS [SAS LES MAUVAIS GARCONS], **[Sabir MOUNTASSER], et [Catherine ANDISSAC], des chefs de :
 
 - **Blessures involontaires** (Art. 222-19 ou subsidiairement 222-20 C. pénal) — ITT > 3 mois en considération de la consolidation à 12 mois et du DFP de 12 %, ou à tout le moins ITT ≤ 3 mois par violation manifestement délibérée ;
 
@@ -183,11 +183,11 @@ Nous requérons qu'il plaise à Monsieur le Doyen des Juges d'Instruction de :
 Et de tous autres chefs qui viendraient à être révélés par l'instruction.
 
 **ORDONNER** les actes d'instruction suivants :
-- Audition des dirigeants de la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) sur les conditions d'entretien des locaux et l'existence d'une assurance RC ;
+- Audition des dirigeants de la SAS [SAS LES MAUVAIS GARCONS] sur les conditions d'entretien des locaux et l'existence d'une assurance RC ;
 
-- Audition de [Ayoub BENNOURINE](../../../../Memory/Tokens/token-exploitation-prepose-nom.md) en qualité de témoin ;
+- Audition de [Ayoub BENNOURINE] en qualité de témoin ;
 
-- Saisie des enregistrements vidéo de surveillance (sous séquestre par [**[ordonnance sur requête Art. 145 CPC]**](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Ordonnance%20sur%20Requ%C3%AAte.md) du [**[J+54]**](../../../../Memory/Tokens/token-j-54.md)) ;
+- Saisie des enregistrements vidéo de surveillance (sous séquestre par [**[ordonnance sur requête Art. 145 CPC]**](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Ordonnance%20sur%20Requ%C3%AAte.md) du [**[J+54]**]) ;
 
 - Réquisitions auprès des organismes d'assurance pour identifier le ou les assureurs RC en vigueur au jour du sinistre ;
 
@@ -195,7 +195,7 @@ Et de tous autres chefs qui viendraient à être révélés par l'instruction.
 
 **DÉCERNER** tous mandats qu'il appartiendra.
 
-Fait au Parquet de [Foix](../../../../Memory/Tokens/token-accident-ville.md), le 15 juillet 2026.
+Fait au Parquet de [Foix], le 15 juillet 2026.
 
 **Le Procureur de la République**
 <hr><hr>

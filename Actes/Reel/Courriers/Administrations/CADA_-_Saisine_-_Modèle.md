@@ -1,5 +1,5 @@
 ---
-uid: FsbYXecbe
+uid: 49rnkLCd5
 emoji: 📝
 title: Modèle Saisine CADA — Refus communication documents administratifs
 description: Saisine de la Commission d'accès aux documents administratifs en cas
@@ -31,7 +31,7 @@ jx: J+47
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MODÈLE<br>SAISINE CADA
 
@@ -40,9 +40,9 @@ jx: J+47
 > **Délai de réponse CADA :** 1 à 2 mois (avis consultatif mais très suivi)
 
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE  
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
@@ -52,7 +52,7 @@ Commission d'accès aux documents administratifs (CADA)
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 15 juillet 2026
+Blagnac, le 15 juillet 2026
 <!-- /Date -->
 
 <hr><hr>
@@ -61,7 +61,7 @@ Commission d'accès aux documents administratifs (CADA)
 
 <hr><hr>
 
-**Objet : Saisine de la CADA — Refus de communication de documents administratifs concernant un accident corporel (salon « [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) », Foix)**
+**Objet : Saisine de la CADA — Refus de communication de documents administratifs concernant un accident corporel (salon « [SAS LES MAUVAIS GARCONS] », Foix)**
 
 <hr><hr>
 
@@ -76,7 +76,7 @@ Madame, Monsieur,
 Je saisis la Commission d'accès aux documents administratifs, en application du Code des relations entre le public et l'administration (CRPA), à la suite du refus de communication de documents opposé par **[la Préfecture de l'Ariège / la DDETS de l'Ariège — Inspection du travail]**.
 ## I — Identité du demandeur
 
-Je soussigné(e) **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, demeurant **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**, victime d'un accident corporel grave survenu le **29 mai 2026** dans le salon de coiffure « [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) », **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** (plaie palmaire profonde de la main droite, section partielle tendon fléchisseur + paquet vasculo-nerveux, [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 55 jours — PV de police n°2026/015967).
+Je soussigné(e) Sébastien GRAZIDE, demeurant 10 Avenue de Purpan, 31700 Blagnac, victime d'un accident corporel grave survenu le **29 mai 2026** dans le salon de coiffure « [SAS LES MAUVAIS GARCONS] », 22 Rue Lafaurie, 09000 Foix (plaie palmaire profonde de la main droite, section partielle tendon fléchisseur + paquet vasculo-nerveux, [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 55 jours — PV de police n°2026/015967).
 <hr><hr>
 
 ## II — Administration(s) concernée(s)
@@ -127,7 +127,7 @@ Je vous remercie par avance de l'attention portée à la présente demande d'avi
 Je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.
 
 <!-- Signature -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE
 <!-- /Signature -->
 
 <!-- PJ -->

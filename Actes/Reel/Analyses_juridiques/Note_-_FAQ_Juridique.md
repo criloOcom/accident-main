@@ -1,5 +1,5 @@
 ---
-uid: pDyYXhXJN
+uid: fnJJwTD9q
 title: "Synthèse Juridique et FAQ"
 description: "Rédigé par : **[La Victime]"
 type: analyse_juridique
@@ -21,18 +21,18 @@ jx: J+32
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce]**] au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-# SYNTHÈSE JURIDIQUE ET FAQ AFFAIRE [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) C/ [**[L'EXPLOITANT DU COMMERCE]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+# SYNTHÈSE JURIDIQUE ET FAQ AFFAIRE [Sébastien GRAZIDE] C/ [**[L'EXPLOITANT DU COMMERCE]**]
 > 🔗 Source Google Drive : [1eoOJ-bcHBNn…](https://drive.google.com/open?id=1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM)
-Rédigé par : [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)
+Rédigé par : [Sébastien GRAZIDE]
 
-[10 Avenue de Purpan, 31700 Blagnac](../../../Memory/Tokens/token-victime-adresse.md)
+[10 Avenue de Purpan, 31700 Blagnac]
 
-Rédigé le [30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md)
+Rédigé le [30 juin 2026]
 ## I — INTRODUCTION
 
-La présente synthèse juridique et FAQ a été rédigée par [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) dans le cadre du contentieux l'opposant à [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) à la suite de l'accident corporel du [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md).
+La présente synthèse juridique et FAQ a été rédigée par [Sébastien GRAZIDE] dans le cadre du contentieux l'opposant à [**[L'Exploitant du Commerce]**] à la suite de l'accident corporel du [29 mai 2026].
 
 Ce document examine les différents fondements juridiques sur lesquels la victime peut fonder son action en réparation, notamment la responsabilité contractuelle sur le fondement de l'article 1231-1 du Code civil, la responsabilité délictuelle sur le fondement de l'article 1240 du même code, ainsi que la garantie des vices cachés prévue à l'article 1641 du Code civil.
 
@@ -70,17 +70,17 @@ La présente synthèse répond en outre aux questions pratiques que la victime e
 
 ## II — PRÉSENTATION GÉNÉRALE DE L'AFFAIRE
 
-Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md) à 15h00 au sein du salon de coiffure exploité par [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md), situé au [22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md) à [Foix](../../../Memory/Tokens/token-accident-ville.md).
+Cette synthèse a pour objet de récapituler les éléments factuels et juridiques relatifs à l'accident corporel survenu le [29 mai 2026] à 15h00 au sein du salon de coiffure exploité par [**[L'Exploitant du Commerce]**], situé au [22 Rue Lafaurie, 09000 Foix] à [Foix].
 
-La victime, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md), né le 18/01/1982, exerce la profession d'informaticien indépendant ([500 474 457](../../../Memory/Tokens/token-victime-id-professionnel.md) à [Blagnac](../../../Memory/Tokens/token-victime-ville-residence.md).
+La victime, [Sébastien GRAZIDE], né le 18/01/1982, exerce la profession d'informaticien indépendant ([500 474 457] à [Blagnac].
 
-Les parties mises en cause incluent la SAS elle-même, ses dirigeants [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md), ainsi que [Romain DELRIEU](../../../Memory/Tokens/token-exploitation-bailleur-nom.md), propriétaire des murs commerciaux.
+Les parties mises en cause incluent la SAS elle-même, ses dirigeants [Sabir MOUNTASSER] et [Catherine ANDISSAC], ainsi que [Romain DELRIEU], propriétaire des murs commerciaux.
 <hr><hr>
 
 ## III — FOIRE AUX QUESTIONS (FAQ) DÉTAILLÉE
 ### III.1 — Q : DANS QUELLES CIRCONSTANCES L'ACCIDENT S'EST-IL PRODUIT ?
 
-Le jour de l'accident, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) est revenu au salon pour une simple retouche. Un employé de l'établissement est alors monté sur un bac à shampoing en céramique qui s'est déséquilibré. Par réflexe, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a tendu la main droite pour protéger [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../Memory/Tokens/token-exploitation-prepose-telephone.md) et stabiliser le meuble.
+Le jour de l'accident, [Sébastien GRAZIDE] est revenu au salon pour une simple retouche. Un employé de l'établissement est alors monté sur un bac à shampoing en céramique qui s'est déséquilibré. Par réflexe, [Sébastien GRAZIDE] a tendu la main droite pour protéger [Ayoub BENNOURINE] (tél. [**[Le Téléphone du Préposé]**] et stabiliser le meuble.
 
 Sa paume a percuté une cassure préexistante et tranchante de la vasque, provoquant une section profonde de 8,5 cm.
 
@@ -88,7 +88,7 @@ Sa paume a percuté une cassure préexistante et tranchante de la vasque, provoq
 
 Le bilan médical est lourd : une section partielle du tendon fléchisseur de l'index droit et une section complète du paquet vasculo-nerveux.
 
-Malgré une intervention de microchirurgie réalisée le [30 mai 2026](../../../Memory/Tokens/token-j-1-chirurgie.md) à la [Clinique de l'Union](../../../Memory/Tokens/token-hopital-sosmain-nom.md) par le [Dr Iskander DJERBI](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md), la victime souffre à ce jour d'une insensibilité totale de l'index et d'un blocage mécanique de la flexion. Son activité d'informaticien est gravement compromise, justifiant une ITT initiale de 55 jours.
+Malgré une intervention de microchirurgie réalisée le [30 mai 2026] à la [Clinique de l'Union] par le [Dr Iskander DJERBI], la victime souffre à ce jour d'une insensibilité totale de l'index et d'un blocage mécanique de la flexion. Son activité d'informaticien est gravement compromise, justifiant une ITT initiale de 55 jours.
 
 ### III.3 — Q : LE GÉRANT PEUT-IL REFUSER DE ME DONNER LE NOM DE SA COMPAGNIE D'ASSURANCE ?
 
@@ -119,13 +119,13 @@ Le fait de cacher l'accident à son assureur ou de refuser de communiquer les co
 
 ## IV — STRATÉGIE JURIDIQUE ET RESPONSABILITÉS
 
-La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) est engagée en tant que commettant du fait de son préposé, sur le fondement de l'article 1242 du Code civil, mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
+La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la [**[L'Exploitant du Commerce]**] est engagée en tant que commettant du fait de son préposé, sur le fondement de l'article 1242 du Code civil, mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
 
 > *« Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »* <br>
 > [Article 1242](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000517860](../../../Lois/Code/LEGIARTI0000517860.md)00) <br>
 > **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II.[^6]**
 
-Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
+Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), [Sabir MOUNTASSER] et [Catherine ANDISSAC] engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
 > [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062270](../../../Lois/Code/LEGIARTI0000062270.md)36) <br>
@@ -135,18 +135,18 @@ Par ailleurs, une attention particulière est portée à la faute détachable de
 > [Arrêt Sati — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^8]**
 
-Enfin, le propriétaire des murs, [Romain DELRIEU](../../../Memory/Tokens/token-exploitation-bailleur-nom.md), a été sollicité par LRAR le [29 juin 2026](../../../Memory/Tokens/token-j-31-mises-en-demeure.md) non pas en tant que responsable de l'accident, mais comme source d'information : le bail commercial l'oblige à détenir l'attestation d'assurance RC Pro de son locataire (la SAS). À ce jour, l'AR a été retourné signé mais sans réponse sur le fond.
+Enfin, le propriétaire des murs, [Romain DELRIEU], a été sollicité par LRAR le [29 juin 2026] non pas en tant que responsable de l'accident, mais comme source d'information : le bail commercial l'oblige à détenir l'attestation d'assurance RC Pro de son locataire (la SAS). À ce jour, l'AR a été retourné signé mais sans réponse sur le fond.
 <hr><hr>
 
 ## V — DÉMARCHES ET PROCÉDURES ENGAGÉES
 
 À ce jour, une plainte officielle a été déposée et un dossier de recours contre tiers a été ouvert auprès de la CPAM.
 
-Sur le plan civil, plusieurs mises en demeure ont été expédiées le [29 juin 2026](../../../Memory/Tokens/token-j-31-mises-en-demeure.md) pour identifier l'assureur et solliciter une provision :
+Sur le plan civil, plusieurs mises en demeure ont été expédiées le [29 juin 2026] pour identifier l'assureur et solliciter une provision :
 
-- Courrier à l'attention du Président [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) ;
+- Courrier à l'attention du Président [Sabir MOUNTASSER] ;
 
-- Courrier à la Directrice Générale [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) ;
+- Courrier à la Directrice Générale [Catherine ANDISSAC] ;
 
 - Demande de communication d'assurance au **[propriétaire des murs]** ;
 
@@ -165,7 +165,7 @@ La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jour
 > [Article 835](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000425972](../../../Lois/Code/LEGIARTI0000425972.md)84) <br>
 > **Code de procédure civile > Partie législative > Livre II > Titre III > Chapitre Ier.[^9]**
 
-Une étape cruciale est fixée au [12 novembre 2026](../../../Memory/Tokens/token-j-167-expertise-umj.md) pour l'expertise médicale à l'UMJ de [Toulouse](../../../Memory/Tokens/token-accident-metropole.md), qui permettra de chiffrer définitivement les préjudices (actuellement estimés à **~90 000 €**).
+Une étape cruciale est fixée au [12 novembre 2026] pour l'expertise médicale à l'UMJ de [Toulouse], qui permettra de chiffrer définitivement les préjudices (actuellement estimés à **~90 000 €**).
 
 À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation (Article 2226 du Code civil).
 
@@ -180,9 +180,9 @@ Bien que le dossier soit solide, certains points bloquants persistent, notamment
 
 Néanmoins, l'action directe et la responsabilité personnelle des dirigeants constituent des leviers puissants pour obtenir une indemnisation juste, estimée globalement à **~90 000 €** sous réserves d'aggravation.
 
-*Synthèse établie pour servir et valoir ce que de droit. © [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md).*
+*Synthèse établie pour servir et valoir ce que de droit. © [Sébastien GRAZIDE].*
 
-*Q15 : Que se passe-t-il si [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) est mise en liquidation ou radiée pendant la procédure ?*
+*Q15 : Que se passe-t-il si [**[L'Exploitant du Commerce]**] est mise en liquidation ou radiée pendant la procédure ?*
 
 *Réponse : La personnalité morale de la société survit pour les besoins de la liquidation (Art. L. 237-2 du Code de commerce).
 

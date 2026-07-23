@@ -1,5 +1,5 @@
 ---
-uid: JNmfMah2i
+uid: Fi3b4DDuU
 emoji: 📜
 title: Demande de Communication d'Assurance RC au Propriétaire des Murs
 description: '[L''Adresse de la Victime]** <br>'
@@ -27,33 +27,33 @@ jx: J+31
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # DEMANDE DE COMMUNICATION <br> D'ASSURANCE RC
 > 🔗 Source Google Drive : [1W-C6nM5G_GU…](https://drive.google.com/open?id=1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4)
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE  
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-Monsieur **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**  
+Monsieur Romain DELRIEU  
 17 rue de la Baïse  
 31120 Roquettes
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 29 juin 2026
+Blagnac, le 29 juin 2026
 <!-- /Date -->
 
 <hr><hr>
-Objet : Demande de communication d'assurance RC — Accident **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** — L.R.A.R.
+Objet : Demande de communication d'assurance RC — Accident 29 mai 2026 — L.R.A.R.
 <hr><hr>
 
-La présente lettre est adressée par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** à **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** en sa qualité de propriétaire bailleur des locaux commerciaux situés au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de l'exploitant.
+La présente lettre est adressée par Sébastien GRAZIDE à Romain DELRIEU en sa qualité de propriétaire bailleur des locaux commerciaux situés au 22 Rue Lafaurie, 09000 Foix, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de l'exploitant.
 
-Cette démarche s'inscrit dans le cadre de la procédure d'indemnisation du grave accident corporel survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** dans lesdits locaux.
+Cette démarche s'inscrit dans le cadre de la procédure d'indemnisation du grave accident corporel survenu le 29 mai 2026 dans lesdits locaux.
 ## II — RAPPEL DES OBLIGATIONS LÉGALES
 
 L'article 1719 du Code civil impose au bailleur de délivrer au preneur un local en bon état d'usage et de faire jouir paisiblement le preneur pendant toute la durée du bail.
@@ -70,9 +70,9 @@ L'article 1720 du même code impose au bailleur d'entretenir les lieux en bon é
 
 <hr><hr>
 
-Je me permets de prendre contact avec vous en votre qualité de propriétaire bailleur des locaux commerciaux situés au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**, actuellement loués et exploités sous l'enseigne de coiffure **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
+Je me permets de prendre contact avec vous en votre qualité de propriétaire bailleur des locaux commerciaux situés au 22 Rue Lafaurie, 09000 Foix, actuellement loués et exploités sous l'enseigne de coiffure SAS LES MAUVAIS GARCONS.
 
-Le vendredi **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** à 15h00, j'ai été victime d'un accident corporel grave au sein de cet établissement, causé par le basculement d'un équipement lourd (bac à shampoing) défectueux et avec cassure préexistante, entraînant une section profonde de 8,5 cm au niveau de ma main droite dominante (section tendineuse et nerveuse de l'index droit opérée en urgence sous anesthésie le **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)**) avec un pronostic de récupération neurologique évalué à un an minimum par le chirurgien (récupération souvent partielle s'agissant d'une suture nerveuse).
+Le vendredi 29 mai 2026 à 15h00, j'ai été victime d'un accident corporel grave au sein de cet établissement, causé par le basculement d'un équipement lourd (bac à shampoing) défectueux et avec cassure préexistante, entraînant une section profonde de 8,5 cm au niveau de ma main droite dominante (section tendineuse et nerveuse de l'index droit opérée en urgence sous anesthésie le 30 mai 2026) avec un pronostic de récupération neurologique évalué à un an minimum par le chirurgien (récupération souvent partielle s'agissant d'une suture nerveuse).
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
@@ -80,13 +80,13 @@ Le vendredi **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** 
 
 Je mets en œuvre l'action directe contre l'assureur de responsabilité civile de l'exploitant commercial.
 
-N'ayant pu, en raison de mon [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et de mon incapacité à utiliser ma main droite dominante, effectuer plus tôt les démarches nécessaires, je sollicite aujourd'hui votre aide afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
+N'ayant pu, en raison de mon [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et de mon incapacité à utiliser ma main droite dominante, effectuer plus tôt les démarches nécessaires, je sollicite aujourd'hui votre aide afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de SAS LES MAUVAIS GARCONS.
 
-En tant que propriétaire bailleur, vous disposez d'un exemplaire du bail commercial liant votre propriété à **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, lequel impose réglementairement à l'exploitant de justifier chaque année de sa couverture d'assurance de responsabilité civile en cours de validité (attestation d'assurance obligatoire).
+En tant que propriétaire bailleur, vous disposez d'un exemplaire du bail commercial liant votre propriété à SAS LES MAUVAIS GARCONS, lequel impose réglementairement à l'exploitant de justifier chaque année de sa couverture d'assurance de responsabilité civile en cours de validité (attestation d'assurance obligatoire).
 
-Afin d'éviter toute mise en cause indirecte ou toute procédure de référé d'heure à heure visant à la production forcée de ces pièces, je vous demande de bien vouloir me transmettre par retour de courrier ou par courriel les coordonnées de l'assureur de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, telles qu'elles figurent dans vos dossiers et annexes de gestion du bail commercial.
+Afin d'éviter toute mise en cause indirecte ou toute procédure de référé d'heure à heure visant à la production forcée de ces pièces, je vous demande de bien vouloir me transmettre par retour de courrier ou par courriel les coordonnées de l'assureur de SAS LES MAUVAIS GARCONS, telles qu'elles figurent dans vos dossiers et annexes de gestion du bail commercial.
 
-Mes coordonnées pour réponse : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** / **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnées pour réponse : 10 Avenue de Purpan, 31700 Blagnac / sebastien.grazide@gmail.com
 
 Cette démarche amiable vise exclusivement à orienter notre recours directement vers l'assureur légitime et à préserver les droits de la victime, y compris les réserves d'aggravation future.
 
@@ -113,7 +113,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 3. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
-À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** — d'abord en référé pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
+À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de Foix — d'abord en référé pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
@@ -123,7 +123,7 @@ L'ensemble des pièces et de la procédure vous sera communiqué par transparenc
 
 Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE
 <!-- PJ -->
 <hr><hr>
 
@@ -131,13 +131,13 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**
+- **[Certificat medical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr Dr Julie JARDON
 
-- **[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN **[SIREN de l'Exploitation](../../../../Memory/Tokens/token-exploitation-siren.md)**)
+- **[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SAS SAS LES MAUVAIS GARCONS (SIREN 938 033 222)
 
-- **[Mise en demeure SAS](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mise en demeure adressee a l'exploitant le **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
+- **[Mise en demeure SAS](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mise en demeure adressee a l'exploitant le 29 juin 2026
 
-> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+> NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >
 > Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement de la présente mise en demeure.
 <!-- /PJ -->

@@ -1,5 +1,5 @@
 ---
-uid: Ud6hRBxDN
+uid: nHwELs32Y
 title: "Note de synthèse pour l'avocat — Bascule [L'Exploitant du Commerce (La SAS)] → [L'Exploitant du Commerce (La SAS)]"
 description: "Chronologie complète, cartographie des acteurs, pivot HB BARBER, constatations du 16 juillet"
 type: analyse_juridique
@@ -13,10 +13,10 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BAR
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce]**] au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # Note de synthèse pour l'avocat
-## Bascule [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) → [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+## Bascule [**[L'Exploitant du Commerce]**] → [**[L'Exploitant du Commerce]**]
 
 > **Objet :** Présentation synthétique du dossier pour un avocat prenant connaissance de l'affaire pour la première fois.
 >
@@ -28,17 +28,17 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BAR
 ### a) L'accident et la prise en charge médicale
 
 **29 mai 2026 – Accident (J+0)**
-- Salon de coiffure à [Foix](../../../Memory/Tokens/token-accident-ville.md), 22 rue Lafaurie, identifié ensuite comme « [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) »
+- Salon de coiffure à [Foix], 22 rue Lafaurie, identifié ensuite comme « [**[L'Exploitant du Commerce]**] »
 
 - Retour dans le salon pour une retouche. Le coiffeur ([Ayoub BENNOURINE](../../../Memory/TOKEN%20MAP.md%23personnes-physiques)) est monté sur le bac à shampoing. En redescendant, la structure bascule. Réflexe d'assistance : la victime tend la main pour retenir le meuble
 
 - La vasque en céramique était déjà brisée / avec cassure majeure préexistante : la paume droite percute la partie tranchante → plaie palmaire profonde (8,5 cm)
 
 **29 mai 2026 – Soins d'urgence à [La Ville de l'Accident]**
-- Consultation au Centre Ariégeois de Soins Immédiats ([Dr Julie JARDON](../../../Memory/Tokens/token-hopital-urgence-medecin.md) : plaie palmaire droite profonde, lavage, désinfection, exploration, transfert en urgence vers SOS Main ([Clinique de l'Union](../../../Memory/Tokens/token-hopital-sosmain-nom.md)
+- Consultation au Centre Ariégeois de Soins Immédiats ([Dr Julie JARDON] : plaie palmaire droite profonde, lavage, désinfection, exploration, transfert en urgence vers SOS Main ([Clinique de l'Union]
 
 **30 mai 2026 – Chirurgie main (J+1)**
-- Opération par [Dr Iskander DJERBI](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md) ([Clinique de l'Union](../../../Memory/Tokens/token-hopital-sosmain-nom.md), SOS Main) :
+- Opération par [Dr Iskander DJERBI] ([Clinique de l'Union], SOS Main) :
 
  - Section partielle du tendon fléchisseur superficiel de l'index droit
  - Section totale du paquet collatéral ulnaire et radial
@@ -53,93 +53,93 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BAR
 - Dossier plainte pénale rédigé et remis à la police
 
 **2 juin 2026 – Dépôt de plainte (J+4)**
--  au commissariat de [Toulouse](../../../Memory/Tokens/token-accident-metropole.md) Rive Droite pour "blessures involontaires avec incapacité n'excédant pas 3 mois dans le cadre du travail"
+-  au commissariat de [Toulouse] Rive Droite pour "blessures involontaires avec incapacité n'excédant pas 3 mois dans le cadre du travail"
 
-- Le PV vise le salon « [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) »
+- Le PV vise le salon « [**[L'Exploitant du Commerce]**] »
 
 - Réquisition UMJ programmée au 12 novembre 2026 à Purpan
 
 ### b) Démarches administratives et judiciaires
 
 **1er–4 juin 2026 – Signalements mairie de [La Ville de l'Accident]**
-- Mail à la Mairie de [Foix](../../../Memory/Tokens/token-accident-ville.md) (1er juin) : signalement d'accident corporel grave dans un ERP, demande de conservation des vidéos
+- Mail à la Mairie de [Foix] (1er juin) : signalement d'accident corporel grave dans un ERP, demande de conservation des vidéos
 
-- Réponse [Monsieur TAVELLA](../../../Memory/Tokens/token-mairie-adjoint-nom.md), adjoint au maire : saisit la préfecture, l'inspection du travail et le CODAF
+- Réponse [Monsieur TAVELLA], adjoint au maire : saisit la préfecture, l'inspection du travail et le CODAF
 
 **3 juin 2026 – CPAM (Recours contre tiers)**
-- Dossier Recours contre Tiers ouvert (n° ), visant [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+- Dossier Recours contre Tiers ouvert (n° ), visant [**[L'Exploitant du Commerce]**]
 
 **29 juin 2026 – Vague de LRAR (J+31)**
-- À [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (déclaration d'accident, demande assurance RC pro)
+- À [**[L'Exploitant du Commerce]**] (déclaration d'accident, demande assurance RC pro)
 
-- À [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) (président)
+- À [Sabir MOUNTASSER] [Sabir MOUNTASSER] (président)
 
-- À [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) / [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) (DG)
+- À [Catherine ANDISSAC] / [Catherine ANDISSAC] (DG)
 
-- Au bailleur [Romain DELRIEU](../../../Memory/Tokens/token-exploitation-bailleur-nom.md) : demande coordonnées assurance de l'exploitant
+- Au bailleur [Romain DELRIEU] : demande coordonnées assurance de l'exploitant
 <hr><hr>
 
 ## 2. Parties en présence (cartographie)
 
 ### Victime
-[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md), 44 ans, informaticien indépendant, droitier. Main droite (clavier/souris). Lésion : plaie profonde + atteinte tendineuse + nerveuse → handicap fonctionnel + impact financier.
+[Sébastien GRAZIDE], 44 ans, informaticien indépendant, droitier. Main droite (clavier/souris). Lésion : plaie profonde + atteinte tendineuse + nerveuse → handicap fonctionnel + impact financier.
 
-### Société initialement visée – [**[L'Ancien Exploitant du Commerce]**](../../../Memory/Tokens/token-ancien-exploitant.md)
+### Société initialement visée – [**[L'Ancien Exploitant du Commerce]**]
 | Champ | Valeur |
 |-------|--------|
 | SIREN | 938 033 222 |
-| SIRET | [938 033 222 00010](../../../Memory/Tokens/token-exploitation-id.md) |
-| Siège | [22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md) |
+| SIRET | [938 033 222 00010] |
+| Siège | [22 Rue Lafaurie, 09000 Foix] |
 | Activité | Coiffure (APE 96.02A) |
-| Président | [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) |
-| DG | [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) épouse [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) |
+| Président | [Sabir MOUNTASSER] [Sabir MOUNTASSER] |
+| DG | [Catherine ANDISSAC] épouse [Catherine ANDISSAC] |
 | Statut RNE | Actif (au moment des premières recherches) |
 | Capital | 200 € |
 
 → C'est cette société qui a été désignée partout (plainte, CPAM, courriers, mairie)
 
-### Bailleur – [Romain DELRIEU](../../../Memory/Tokens/token-exploitation-bailleur-nom.md)
-Propriétaire des locaux du [22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md). Répond par mail le 16/07/2026 à la LRAR du 29 juin : affirme que [**[L'Ancien Exploitant du Commerce]**](../../../Memory/Tokens/token-ancien-exploitant.md) a cessé au 10/03/2026 (état des lieux de sortie signé), refuse de donner l'assurance.
+### Bailleur – [Romain DELRIEU]
+Propriétaire des locaux du [22 Rue Lafaurie, 09000 Foix]. Répond par mail le 16/07/2026 à la LRAR du 29 juin : affirme que [**[L'Ancien Exploitant du Commerce]**] a cessé au 10/03/2026 (état des lieux de sortie signé), refuse de donner l'assurance.
 
-### Société réelle – [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SAS)
+### Société réelle – [**[L'Exploitant du Commerce]**] (SAS)
 **Attestation RNE du 17/07/2026 (DATA INPI) :**
 
 | Champ | Valeur |
 |-------|--------|
-| Dénomination | [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) |
-| SIREN | [938 033 222](../../../Memory/Tokens/token-exploitation-siren.md) |
+| Dénomination | [**[L'Exploitant du Commerce]**] |
+| SIREN | [938 033 222] |
 | Forme | SAS |
 | Date d'immatriculation RNE | 19/05/2026 |
 | Début d'activité | 22/04/2026 |
 | Activité | Coiffure/barbier (APE 9602A) |
-| Capital | [**[Capital Social de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-capital-social.md) |
-| Siège | 22 GRANDE RUE LA FAURIE, 09000 [Foix](../../../Memory/Tokens/token-accident-ville.md) |
-| Président | [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) (né 07/1998, Saint-Girons) |
-| Directrice générale | [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) (née 04/1970, Baillargues) |
+| Capital | [**[Capital Social de l'Exploitation]**] |
+| Siège | 22 GRANDE RUE LA FAURIE, 09000 [Foix] |
+| Président | [Sabir MOUNTASSER] (né 07/1998, Saint-Girons) |
+| Directrice générale | [Catherine ANDISSAC] (née 04/1970, Baillargues) |
 | Publication légale | La Dépêche, 23/04/2026 |
 
 → Société découverte après coup par recherches sur l'adresse
 
 ### Auteur matériel présumé
-[Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tel : [**[Le Téléphone du Préposé]**](../../../Memory/Tokens/token-exploitation-prepose-telephone.md) (identifié comme "[Ayoub BENNOURINE](../../../Memory/TOKEN%20MAP.md%23personnes-physiques)" sur Wero). Coiffeur présent le jour des faits, a remboursé 15 € via Wero le 29/05/2026.
+[Ayoub BENNOURINE] (tel : [**[Le Téléphone du Préposé]**] (identifié comme "[Ayoub BENNOURINE](../../../Memory/TOKEN%20MAP.md%23personnes-physiques)" sur Wero). Coiffeur présent le jour des faits, a remboursé 15 € via Wero le 29/05/2026.
 <hr><hr>
 
 ## 3. Pivot du dossier : erreur de société + continuité économique
 
 ### Le problème
-- La plainte et tout le dossier ont été construits contre [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+- La plainte et tout le dossier ont été construits contre [**[L'Exploitant du Commerce]**]
 
-- Le bailleur écrit le 16/07/2026 : [**[L'Ancien Exploitant du Commerce]**](../../../Memory/Tokens/token-ancien-exploitant.md) a quitté les lieux le **10/03/2026** (état des lieux de sortie)
+- Le bailleur écrit le 16/07/2026 : [**[L'Ancien Exploitant du Commerce]**] a quitté les lieux le **10/03/2026** (état des lieux de sortie)
 
-- [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) a été créée au **même endroit** (22 rue Lafaurie), **même activité** (coiffure/barbier), avec **même DG** ([Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md), début d'activité le **22/04/2026**
+- [**[L'Exploitant du Commerce]**] a été créée au **même endroit** (22 rue Lafaurie), **même activité** (coiffure/barbier), avec **même DG** ([Catherine ANDISSAC], début d'activité le **22/04/2026**
 
 ### Conséquence
-Au 29/05/2026, il est hautement probable que [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) exploitait le salon. Mais tout le dossier administratif/judiciaire vise [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md).
+Au 29/05/2026, il est hautement probable que [**[L'Exploitant du Commerce]**] exploitait le salon. Mais tout le dossier administratif/judiciaire vise [**[L'Exploitant du Commerce]**].
 
 ### Le lien fort entre les deux sociétés
-- Même DG ([Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md)/[Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md)
+- Même DG ([Catherine ANDISSAC]/[Catherine ANDISSAC]
 
-- Même local ([22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md)
+- Même local ([22 Rue Lafaurie, 09000 Foix]
 
 - Même activité (coiffure/barbier)
 
@@ -151,7 +151,7 @@ Au 29/05/2026, il est hautement probable que [**[L'Exploitant du Commerce]**](..
 ## 4. Constatations du 16 juillet 2026 (effacement matériel)
 
 Lors de la visite sur place le 16/07/2026 :
-- **Enseigne** « [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) » sur la vitrine
+- **Enseigne** « [**[L'Exploitant du Commerce]**] » sur la vitrine
 
 - **Bac à shampoing cassé** : disparu, remplacé par un bac neuf
 
@@ -159,7 +159,7 @@ Lors de la visite sur place le 16/07/2026 :
 
 - Salon resté fermé plusieurs semaines après l'accident (risque de non-conservation des vidéos et remplacement du matériel accidentogène)
 
-Échange avec la personne identifiée comme [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) : refus de coopérer, refus de fournir assurance/facture/justificatif, propos contradictoires (prétend que la victime était déjà venue le jour de l'incident), demande de quitter les lieux.
+Échange avec la personne identifiée comme [Sabir MOUNTASSER] : refus de coopérer, refus de fournir assurance/facture/justificatif, propos contradictoires (prétend que la victime était déjà venue le jour de l'incident), demande de quitter les lieux.
 <hr><hr>
 
 ## 5. Situation actuelle et actions à mener
@@ -170,16 +170,16 @@ Lors de la visite sur place le 16/07/2026 :
 ### Ce qui doit être corrigé
 - L'erreur sur l'identité de l'exploitant au 29/05/2026
 
-- Tous les actes visant [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) doivent être révisés
+- Tous les actes visant [**[L'Exploitant du Commerce]**] doivent être révisés
 
 ### Actions prioritaires
-1. **Complément de plainte** au Commissariat de [Foix](../../../Memory/Tokens/token-accident-ville.md) pour corriger la cible
+1. **Complément de plainte** au Commissariat de [Foix] pour corriger la cible
 
-2. **Révision des courriers** (CPAM, mairie, etc.) pour intégrer [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+2. **Révision des courriers** (CPAM, mairie, etc.) pour intégrer [**[L'Exploitant du Commerce]**]
 
 3. **Analyse des pièces jointes** au mail du bailleur (3 photos état des lieux de sortie)
 
-4. **Dépôt requête Art. 145 CPC** et **demande AJ totale** au TJ [Foix](../../../Memory/Tokens/token-accident-ville.md)
+4. **Dépôt requête Art. 145 CPC** et **demande AJ totale** au TJ [Foix]
 
 5. **Transmission du dossier** à l'avocat dès sa désignation par le BAJ
 

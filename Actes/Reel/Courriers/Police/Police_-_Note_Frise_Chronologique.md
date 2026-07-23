@@ -1,5 +1,5 @@
 ---
-uid: nrZnYyK7e
+uid: qJndNBW5i
 emoji: 📋
 title: Frise chronologique simplifiée — Dossier [La Victime]
 description: Mémento visuel pour l'OPJ — succession rapide des dates-clés et des sociétés
@@ -16,40 +16,40 @@ reel_path: ../../../Reel/Courriers/Police/Police - Note Frise Chronologique.md
 <!-- /Breadcrumb -->
 
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE  
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-Commissariat de Police de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**  
+Commissariat de Police de Foix  
 Place de la Préfecture  
-09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
+09000 Foix
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 17 juillet 2026
+Blagnac, le 17 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # FRISE CHRONOLOGIQUE SIMPLIFIÉE
-## Dossier **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** — Accident du 29 mai 2026
+## Dossier Sébastien GRAZIDE — Accident du 29 mai 2026
 
 | Date | Événement | Observation rapide |
 |:----:|-----------|-------------------|
-| **10/03/2026** | Fin d'activité de **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** dans les locaux du 22 Rue Lafaurie (version bailleur) | État des lieux de sortie signé par **[L'Ancien Président de l'Exploitation](../../../../Memory/Tokens/token-ancien-president-exploitation.md)** (pièces jointes mail de **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**) |
-| **22/04/2026** | Création de la **SAS [L'Exploitant du Commerce (La SAS)]** (SIREN [938 033 222](../../../../Memory/Tokens/token-exploitation-siren.md)) au 22 Rue Lafaurie, **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** | Même adresse, même activité (coiffure/barbier), DG commune : **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)** |
-| **29/05/2026** | **Accident** de la main droite de **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** dans le salon au 22 Rue Lafaurie | Basculement d'un bac à shampoing cassé ; plaie profonde 8,5 cm, section tendons + nerfs index droit |
-| **30/05/2026** | Opération en urgence (SOS Main – **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**) | Chirurgie de reconstruction tendino-nerveuse |
+| **10/03/2026** | Fin d'activité de **[L'Ancien Exploitant du Commerce]** dans les locaux du 22 Rue Lafaurie (version bailleur) | État des lieux de sortie signé par **[L'Ancien Président de l'Exploitation]** (pièces jointes mail de Romain DELRIEU) |
+| **22/04/2026** | Création de la **SAS [L'Exploitant du Commerce (La SAS)]** (SIREN [938 033 222]) au 22 Rue Lafaurie, Foix | Même adresse, même activité (coiffure/barbier), DG commune : Catherine ANDISSAC |
+| **29/05/2026** | **Accident** de la main droite de Sébastien GRAZIDE dans le salon au 22 Rue Lafaurie | Basculement d'un bac à shampoing cassé ; plaie profonde 8,5 cm, section tendons + nerfs index droit |
+| **30/05/2026** | Opération en urgence (SOS Main – Dr Iskander DJERBI) | Chirurgie de reconstruction tendino-nerveuse |
 | **01/06/2026** | Constat généraliste (Dr OXYBEL) + [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 15 jours | Impact direct sur activité d'informaticien indépendant droitier |
-| **02/06/2026** | Plainte pénale déposée à **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)** Rive Droite (PV n° **2026/015967(../../../../Memory/Tokens/token-pv-police-numero.md)**) | Exploitant alors indiqué : **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** (incertitude précisée au PV) |
-| **29/06/2026** | Envoi d'une vague de LRAR ([L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md), **[L'Ancien Président de l'Exploitation](../../../../Memory/Tokens/token-ancien-president-exploitation.md)**, **[L'Ancienne Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)**, bailleur, CPAM, TJ **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**) | Plusieurs non réclamés / retours ; AR numériques pour CPAM, bailleur, tribunal |
-| **03/07/2026** | Réception LRAR par le bailleur **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** | Il répondra plus tard le 16/07 |
-| **16/07/2026** | Mail du bailleur : [L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md) a quitté les lieux le 10/03/2026 + état des lieux de sortie | Affirme que [L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md) ne peut être responsable au 29/05/2026 |
-| **16/07/2026** | Visite des lieux par la victime au 22 Rue Lafaurie | Constat : enseigne "[SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)", bac cassé remplacé, meuble mural disparu, refus de facture/assurance par l'exploitant ([Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md)) |
-| **17/07/2026** | Mail de relance à M. **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** avec mention de [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) et demande de bail/assurances | Demande amiable de clarification sur l'occupant et ses assureurs |
-| **20/07/2026 (prévu)** | **Dépôt d'une plainte complémentaire + Erratum** au Commissariat de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** | Objet : corriger/compléter la plainte initiale en visant [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) comme exploitant au 29/05/2026. **Erratum** déposé le même jour + envoyé par LRAR séparée. |
+| **02/06/2026** | Plainte pénale déposée à Toulouse Rive Droite (PV n° 2026/015967) | Exploitant alors indiqué : **[L'Ancien Exploitant du Commerce]** (incertitude précisée au PV) |
+| **29/06/2026** | Envoi d'une vague de LRAR ([L'Ancien Exploitant du Commerce], **[L'Ancien Président de l'Exploitation]**, **[L'Ancienne Directrice Générale de l'Exploitation]**, bailleur, CPAM, TJ Foix) | Plusieurs non réclamés / retours ; AR numériques pour CPAM, bailleur, tribunal |
+| **03/07/2026** | Réception LRAR par le bailleur Romain DELRIEU | Il répondra plus tard le 16/07 |
+| **16/07/2026** | Mail du bailleur : [L'Ancien Exploitant du Commerce] a quitté les lieux le 10/03/2026 + état des lieux de sortie | Affirme que [L'Ancien Exploitant du Commerce] ne peut être responsable au 29/05/2026 |
+| **16/07/2026** | Visite des lieux par la victime au 22 Rue Lafaurie | Constat : enseigne "[SAS LES MAUVAIS GARCONS]", bac cassé remplacé, meuble mural disparu, refus de facture/assurance par l'exploitant ([Sabir MOUNTASSER]) |
+| **17/07/2026** | Mail de relance à M. Romain DELRIEU avec mention de [SAS LES MAUVAIS GARCONS] et demande de bail/assurances | Demande amiable de clarification sur l'occupant et ses assureurs |
+| **20/07/2026 (prévu)** | **Dépôt d'une plainte complémentaire + Erratum** au Commissariat de Foix | Objet : corriger/compléter la plainte initiale en visant [SAS LES MAUVAIS GARCONS] comme exploitant au 29/05/2026. **Erratum** déposé le même jour + envoyé par LRAR séparée. |
 
 <hr><hr>
 

@@ -1,5 +1,5 @@
 ---
-uid: 7rgRg6eP8
+uid: evjwvRBi9
 emoji: 🔄
 title: Relance Police Nationale — Suivi de Plainte et Demande de Videos
 description: L'Adresse de la Victime
@@ -30,38 +30,38 @@ jx: J+37
 <!-- /Breadcrumb -->
 
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE  
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-Police Nationale — Commissariat de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**  
+Police Nationale — Commissariat de Foix  
 Place de la Préfecture  
-09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
+09000 Foix
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
+Blagnac, le 5 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # RELANCE POLICE NATIONALE<br>SUIVI DE PLAINTE ET DEMANDE DE VIDEOS
 > 🔗 Source Google Drive : [171CF_LzNopY…](https://drive.google.com/open?id=171CF_LzNopYxIS6Tn4i3t3Ghx3ut14F1gh6-KjHevCA)
 
 <hr><hr>
-Objet : Relance pour suivi de plainte et demande de videosurveillance — PV n° [2026/015967](../../../../Memory/Tokens/token-pv-police-numero.md)
+Objet : Relance pour suivi de plainte et demande de videosurveillance — PV n° [2026/015967]
 <hr><hr>
 
 <hr><hr>
 
-Ref : Depot de plainte du 2 juin 2026 — [Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) du **[J+4 Dépôt de plainte](../../../../Memory/Tokens/token-j-4-depot-de-plainte.md)**
+Ref : Depot de plainte du 2 juin 2026 — [Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) du 2 juin 2026
 
 Madame, Monsieur l'Officier de Police Judiciaire,
 ## I — OBJET DE LA RELANCE
 
-J'ai depose plainte en vos services le 2 juin 2026 (PV n° [2026/015967](../../../../Memory/Tokens/token-pv-police-numero.md)) et me suis constitue partie civile le **[J+4 Dépôt de plainte](../../../../Memory/Tokens/token-j-4-depot-de-plainte.md)**. Une requisition a personne qualifiee a ete delivree le meme jour aux fins d'examen medical.
+J'ai depose plainte en vos services le 2 juin 2026 (PV n° [2026/015967]) et me suis constitue partie civile le 2 juin 2026. Une requisition a personne qualifiee a ete delivree le meme jour aux fins d'examen medical.
 
 Je me permets de solliciter de vos services :
 
@@ -77,12 +77,12 @@ Je sollicite donc que les images de videosurveillance de l'etablissement soient 
 
 ### I.3 — **3. LA COMMUNICATION DE L'IDENTITE DE L'OFFICIER EN CHARGE DU DOSSIER** <BR>Afin de pouvoir suivre l'avancement de la procedure, je souhaiterais connaitre l'identite du ou des officiers de police judiciaire en charge de mon dossier.
 
-Mes coordonnees : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnees : 10 Avenue de Purpan, 31700 Blagnac — sebastien.grazide@gmail.com
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 
 <!-- Signature -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE
 <!-- /Signature -->
 
 <!-- PJ -->
@@ -90,11 +90,11 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 
 ## PIECES JOINTES
 
-- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
+- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de Foix
 
 - **[CPC 145 - Requête](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Demande de conservation des preuves et identification de l'assureur
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026 (PV n° [2026/015967](../../../../Memory/Tokens/token-pv-police-numero.md))
+- **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026 (PV n° [2026/015967])
 <!-- /PJ -->
 
 <!-- Source -->

@@ -1,5 +1,5 @@
 ---
-uid: gHDTj2XRi
+uid: cvVJztcme
 
 emoji: ⚠️
 title: SIGNALEMENT AU PROCUREUR DE LA RÉPUBLIQUE
@@ -41,13 +41,13 @@ J'ai l'honneur de porter à votre connaissance les faits suivants, conformément
 > [Article 40 du Code de procédure pénale](../../../../Lois/Code/Code_civil/Article1240_CodeCivil.md) <br>
 > **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.[^1]**
 
-J'ai été informé que la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), immatriculée au Registre du Commerce et des Sociétés et dont le siège social est situé à **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md), pourrait avoir cessé son activité.
+J'ai été informé que la SAS [SAS LES MAUVAIS GARCONS], immatriculée au Registre du Commerce et des Sociétés et dont le siège social est situé à **[22 Rue Lafaurie, 09000 Foix], pourrait avoir cessé son activité.
 
-Il a été porté à mon attention qu'une nouvelle structure pourrait avoir ouvert ses portes et commencé à exploiter une activité commerciale à cette même adresse, soit à [22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md).
+Il a été porté à mon attention qu'une nouvelle structure pourrait avoir ouvert ses portes et commencé à exploiter une activité commerciale à cette même adresse, soit à [22 Rue Lafaurie, 09000 Foix].
 
-Ces agissements s'inscrivent dans un contexte où la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) et ses dirigeants, **[Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md) (Président) et [Catherine ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md) (Directrice Générale), font actuellement l'objet de poursuites judiciaires suite à un grave accident corporel dont a été victime [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md) le 29 mai 2026.
+Ces agissements s'inscrivent dans un contexte où la SAS [SAS LES MAUVAIS GARCONS] et ses dirigeants, **[Sabir MOUNTASSER] (Président) et [Catherine ANDISSAC] (Directrice Générale), font actuellement l'objet de poursuites judiciaires suite à un grave accident corporel dont a été victime [Sébastien GRAZIDE] le 29 mai 2026.
 
-La concomitance de cette potentielle cessation d'activité et de la création d'une nouvelle structure à la même adresse, alors qu'une action en responsabilité est en cours à l'encontre de [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), pris en la personne de ses dirigeants, **[Sabir MOUNTASSER](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../../Memory/Tokens/token-exploitation-dg-nom.md), et personnellement contre ces derniers, soulève de sérieux doutes quant à la probité de cette opération.
+La concomitance de cette potentielle cessation d'activité et de la création d'une nouvelle structure à la même adresse, alors qu'une action en responsabilité est en cours à l'encontre de [SAS LES MAUVAIS GARCONS], pris en la personne de ses dirigeants, **[Sabir MOUNTASSER] et [Catherine ANDISSAC], et personnellement contre ces derniers, soulève de sérieux doutes quant à la probité de cette opération.
 ### I.2 — FONDEMENTS JURIDIQUES
 
 Ces agissements, s'ils étaient confirmés, pourraient recevoir la qualification pénale de dissimulation frauduleuse et d'organisation frauduleuse d'insolvabilité, faits prévus et réprimés par le Code pénal.
@@ -67,11 +67,11 @@ Ces agissements, s'ils étaient confirmés, pourraient recevoir la qualification
 > **Code pénal.[^3]**
 ### I.3 — DEMANDES
 
-Au regard de la gravité de ces faits, qui semblent orchestrés dans le but manifeste d'échapper à d'éventuelles condamnations indemnitaires au préjudice de [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md), je vous prie de bien vouloir faire diligenter toute enquête utile afin :
+Au regard de la gravité de ces faits, qui semblent orchestrés dans le but manifeste d'échapper à d'éventuelles condamnations indemnitaires au préjudice de [Sébastien GRAZIDE], je vous prie de bien vouloir faire diligenter toute enquête utile afin :
 
-- De vérifier la réalité de la cessation d'activité de la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md).
+- De vérifier la réalité de la cessation d'activité de la SAS [SAS LES MAUVAIS GARCONS].
 
-- D'identifier la nouvelle structure opérant à [22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md) et de déterminer les liens éventuels avec les dirigeants de la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md).
+- D'identifier la nouvelle structure opérant à [22 Rue Lafaurie, 09000 Foix] et de déterminer les liens éventuels avec les dirigeants de la SAS [SAS LES MAUVAIS GARCONS].
 
 - D'établir, le cas échéant, l'intention frauduleuse et de procéder aux poursuites qui s'imposent.
 
@@ -79,11 +79,11 @@ Je me tiens à votre entière disposition pour tout renseignement complémentair
 
 Je vous prie de croire, Monsieur le Procureur de la République, en l'assurance de ma très haute considération.
 
-Fait à [Foix](../../../../Memory/Tokens/token-accident-ville.md), le [Date].
+Fait à [Foix], le [Date].
 
 <!-- Auteur -->
-[Nom Prénom de l'Avocat](../../../../Memory/Tokens/token-victime-avocat-nom.md)
-Avocat de [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)
+[Nom Prénom de l'Avocat]
+Avocat de [Sébastien GRAZIDE]
 <!-- /Auteur -->
 
 <!-- PJ -->

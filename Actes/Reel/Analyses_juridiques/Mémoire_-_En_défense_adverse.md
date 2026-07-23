@@ -1,7 +1,7 @@
 ---
-uid: BxBi7R7V9
-title: "Mémoire en défense adverse — SAS [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md)"
-description: "Pour :** [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md), [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) (Partie Défenderesse)"
+uid: thx6gTut9
+title: "Mémoire en défense adverse — SAS [**[L'Exploitant du Commerce]**]"
+description: "Pour :** [**[L'Exploitant du Commerce]**], [Sabir MOUNTASSER] et [Catherine ANDISSAC] (Partie Défenderesse)"
 type: analyse_juridique
 date: 2026-07-09
 tags:
@@ -19,16 +19,16 @@ reel_path: ../../Reel/Analyses_juridiques/Mémoire - En défense adverse.md
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce]**] au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MÉMOIRE EN DÉFENSE ADVERSE
-**Pour :** [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md), [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) (Partie Défenderesse)
-**Contre :** [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) (Partie Demanderesse)
+**Pour :** [**[L'Exploitant du Commerce]**], [Sabir MOUNTASSER] et [Catherine ANDISSAC] (Partie Défenderesse)
+**Contre :** [Sébastien GRAZIDE] (Partie Demanderesse)
 ## I — INTRODUCTION
 
-Le présent mémorandum est établi pour la défense des intérêts de la société [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants, assignés en référé-provision par Monsieur [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) suite à un incident survenu le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md) au sein du salon de coiffure.
+Le présent mémorandum est établi pour la défense des intérêts de la société [**[L'Exploitant du Commerce]**] et de ses dirigeants, assignés en référé-provision par Monsieur [Sébastien GRAZIDE] suite à un incident survenu le [29 mai 2026] au sein du salon de coiffure.
 
-La partie demanderesse réclame une provision de [15 000 €](../../../Memory/Tokens/token-finance-provision-refere.md) sur le fondement de l'article 835 alinéa 2 du Code de procédure civile, alléguant que l'obligation ne serait pas sérieusement contestable.
+La partie demanderesse réclame une provision de [15 000 €] sur le fondement de l'article 835 alinéa 2 du Code de procédure civile, alléguant que l'obligation ne serait pas sérieusement contestable.
 
 Or, une analyse rigoureuse des pièces du dossier démontre l'existence de contestations sérieuses tant sur la matérialité des faits, le lien de causalité, que sur l'évaluation particulièrement exagérée des préjudices.
 
@@ -50,7 +50,7 @@ La demanderesse allègue que l'accident aurait été causé par le basculement d
 Les attestations Cerfa évoquées par la partie adverse ne sont, à ce stade, que de simples projets non signés (gabarits).
 
 #### II.1.c — Incohérences documentaires
-Le PV de police n°[2026/015967](../../../Memory/Tokens/token-pv-police-numero.md), sur lequel s'appuie la victime, comporte des erreurs factuelles (adresse erronée "22, RUE DE LA FAURIE").
+Le PV de police n°[2026/015967], sur lequel s'appuie la victime, comporte des erreurs factuelles (adresse erronée "22, RUE DE LA FAURIE").
 
 De plus, les certificats médicaux initiaux faisaient état d'une ITT de 1 jour, inexplicablement portée à 55 jours par la suite, avec des incohérences sur la date de l'accident (29/06/2026 au lieu de 29/05/2026 sur certains documents).
 
@@ -67,7 +67,7 @@ Cette imprudence est de nature à exonérer, au moins partiellement, la gardienn
 
 ## III — SUR LA MISE EN CAUSE ABUSIVE DES DIRIGEANTS
 
-La demanderesse tente d'engager la responsabilité personnelle in solidum de [Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md) et [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) en invoquant une prétendue « faute détachable ».
+La demanderesse tente d'engager la responsabilité personnelle in solidum de [Sabir MOUNTASSER] et [Catherine ANDISSAC] en invoquant une prétendue « faute détachable ».
 
 Cette argumentation est juridiquement infondée. L'écran de la personnalité morale protège les dirigeants. Pour que leur responsabilité civile personnelle soit engagée à l'égard des tiers, la Cour de cassation exige la preuve d'une faute intentionnelle d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales (Arrêt SATI).
 
@@ -75,14 +75,14 @@ Cette argumentation est juridiquement infondée. L'écran de la personnalité mo
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^3]**
 
-Un prétendu défaut de signalisation d'une vasque ébréchée, à le supposer établi, relève tout au plus d'une négligence dans l'exploitation courante du salon, imputable à la seule [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md).
+Un prétendu défaut de signalisation d'une vasque ébréchée, à le supposer établi, relève tout au plus d'une négligence dans l'exploitation courante du salon, imputable à la seule [**[L'Exploitant du Commerce]**].
 
 Il n'y a ici aucune intention de nuire ni aucune infraction pénale intentionnelle de la part des dirigeants justifiant la levée de l'immunité.
 <hr><hr>
 
 ## IV — SUR LE CHIFFRAGE EXORBITANT ET PRÉMATURÉ DES PRÉJUDICES
 
-La demande de provision de [15 000 €](../../../Memory/Tokens/token-finance-provision-refere.md), fondée sur un préjudice global fantaisiste évalué par la partie adverse à près de 105 000 €, se heurte à des obstacles médico-légaux majeurs.
+La demande de provision de [15 000 €], fondée sur un préjudice global fantaisiste évalué par la partie adverse à près de 105 000 €, se heurte à des obstacles médico-légaux majeurs.
 
 ### IV.1 — L'absence de consolidation de la victime
 
@@ -116,7 +116,7 @@ Le juge des référés est le juge de l'évidence. En l'espèce :
 
 - L'évaluation des préjudices est prématurée (absence de consolidation) et largement surévaluée (DFP et IP infondés, Agrément sans preuve).
 
-L'obligation de [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) étant sérieusement contestable, la demande de provision de [15 000 €](../../../Memory/Tokens/token-finance-provision-refere.md) doit être rejetée en toutes ses dispositions. Tout au plus, si le juge ordonne une expertise médicale (Article 145 CPC), celle-ci devra se dérouler aux frais avancés de la demanderesse sans aucune provision financière préalable.
+L'obligation de [**[L'Exploitant du Commerce]**] étant sérieusement contestable, la demande de provision de [15 000 €] doit être rejetée en toutes ses dispositions. Tout au plus, si le juge ordonne une expertise médicale (Article 145 CPC), celle-ci devra se dérouler aux frais avancés de la demanderesse sans aucune provision financière préalable.
 
 Fait pour valoir ce que de droit.
 <!-- Source -->

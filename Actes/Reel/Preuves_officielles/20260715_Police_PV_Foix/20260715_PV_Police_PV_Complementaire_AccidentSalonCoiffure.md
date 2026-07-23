@@ -1,5 +1,5 @@
 ---
-uid: ANb8mxYqk
+uid: MLE2ZEQAE
 title: Procès-Verbal de Police — Audition Plainte Complémentaire
 description: Document de type document
 type: preuve
@@ -25,7 +25,7 @@ auteur: La Victime
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**
 > Ce fichier est une transcription du procès-verbal d'audition (Plainte Complémentaire).
@@ -41,11 +41,11 @@ SERVICE LOCAL DE SECURITE D'INFRACTION
 
 PV n° 2026/015967/COMP
 
-VICTIME | Monsieur **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
-né le **[Date de naissance de la victime](../../../../Memory/Tokens/token-victime-date-naissance.md)** à **[La Métropole Régionale](../../../../Memory/Tokens/token-accident-metropole.md)**, de nationalité FRANCAISE,
-Demeurant : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
-Téléphone domicile : **[Le Téléphone de la Victime](../../../../Memory/Tokens/token-victime-telephone.md)**
-Communication électronique demandée : OUI - E-mail : **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+VICTIME | Monsieur Sébastien GRAZIDE
+né le **[Date de naissance de la victime]** à Toulouse, de nationalité FRANCAISE,
+Demeurant : 10 Avenue de Purpan, 31700 Blagnac
+Téléphone domicile : 06 30 51 67 75
+Communication électronique demandée : OUI - E-mail : sebastien.grazide@gmail.com
 
 INFRACTION(S) | BLESSURES INVOLONTAIRES, OBSTRUCTION A LA JUSTICE, DISSIMULATION DE PREUVES, TRAVAIL DISSIMULE
 
@@ -60,15 +60,15 @@ Le quinze juillet, à dix heures.
 
 Nous, Officier de Police Judiciaire,
 
---- Constatons que se présente M. **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, qui souhaite déposer une plainte complémentaire suite aux faits dénoncés le 02/06/2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)). ---
+--- Constatons que se présente M. Sébastien GRAZIDE, qui souhaite déposer une plainte complémentaire suite aux faits dénoncés le 02/06/2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)). ---
 
 --- Information reçue des droits mentionnés à l'article 10-2 du code de procédure pénale. ---
 
-M. **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** nous déclare :
+M. Sébastien GRAZIDE nous déclare :
 
-"Suite à mon dépôt de plainte initial concernant mon accident du 29 mai 2026 au salon '**[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**', situé **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** à Foix, je souhaite aujourd'hui porter à votre connaissance de nouveaux éléments graves qui me semblent constituer des infractions pénales caractérisées, notamment des faits d'obstruction à la justice et de dissimulation de preuves.
+"Suite à mon dépôt de plainte initial concernant mon accident du 29 mai 2026 au salon 'SAS LES MAUVAIS GARCONS', situé 22 Rue Lafaurie, 09000 Foix à Foix, je souhaite aujourd'hui porter à votre connaissance de nouveaux éléments graves qui me semblent constituer des infractions pénales caractérisées, notamment des faits d'obstruction à la justice et de dissimulation de preuves.
 
-Premièrement, j'ai tenté à plusieurs reprises de contacter les dirigeants de la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, M. **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** et Mme **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, pour obtenir les coordonnées de leur assurance Responsabilité Civile. J'ai envoyé des mises en demeure par lettre recommandée avec accusé de réception à l'adresse du siège social. Tous ces courriers m'ont été retournés avec la mention 'défaut d'adresse / distribution impossible' (NPAI). Or, selon mes vérifications récentes au RNE (le 10 juillet), la société est toujours officiellement immatriculée et active à cette adresse. Il s'agit pour moi d'un refus délibéré de communiquer un document essentiel, entravant ainsi la manifestation de la vérité.
+Premièrement, j'ai tenté à plusieurs reprises de contacter les dirigeants de la SAS SAS LES MAUVAIS GARCONS, M. Sabir MOUNTASSER et Mme Catherine ANDISSAC, pour obtenir les coordonnées de leur assurance Responsabilité Civile. J'ai envoyé des mises en demeure par lettre recommandée avec accusé de réception à l'adresse du siège social. Tous ces courriers m'ont été retournés avec la mention 'défaut d'adresse / distribution impossible' (NPAI). Or, selon mes vérifications récentes au RNE (le 10 juillet), la société est toujours officiellement immatriculée et active à cette adresse. Il s'agit pour moi d'un refus délibéré de communiquer un document essentiel, entravant ainsi la manifestation de la vérité.
 
 Deuxièmement, j'ai formellement demandé par courrier le 5 juillet 2026 la conservation des enregistrements de vidéosurveillance du salon, qui prouveraient les circonstances exactes de l'accident et la présence d'un bac cassé non sécurisé. Je n'ai eu aucune réponse, et je crains que le délai légal de 30 jours pour la conservation de ces images ne soit dépassé, constituant ainsi une dissimulation ou destruction de preuves.
 

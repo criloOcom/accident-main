@@ -1,5 +1,5 @@
 ---
-uid: ThD8fZm9G
+uid: U3Yfpe7Gq
 title: "Action Directe Assureur RC (Art. L.124-3)"
 description: "Rédigé le **[J+31 Mises en demeure]"
 type: readme
@@ -21,7 +21,7 @@ drive_id: 1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 **Table des matières**
 
@@ -29,38 +29,38 @@ drive_id: 1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY
 
 # ACTION DIRECTE<br>MISE EN DEMEURE ASSUREUR RC
 > 🔗 Source Google Drive : [1_tNTGHf1VGn…](https://drive.google.com/open?id=1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY)
-Rédigé le [29 juin 2026](../../../Memory/Tokens/token-j-31-mises-en-demeure.md)
+Rédigé le [29 juin 2026]
 
-[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)
+[Sébastien GRAZIDE]
 
-[10 Avenue de Purpan, 31700 Blagnac](../../../Memory/Tokens/token-victime-adresse.md)
+[10 Avenue de Purpan, 31700 Blagnac]
 
-[sebastien.grazide@gmail.com](../../../Memory/Tokens/token-victime-email.md)
+[sebastien.grazide@gmail.com]
 
 Service Sinistres
 
-Compagnie d'Assurance de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+Compagnie d'Assurance de [SAS LES MAUVAIS GARCONS]
 
 [À compléter]
 
-[Foix](../../../Memory/Tokens/token-accident-ville.md), le [29 juin 2026](../../../Memory/Tokens/token-j-31-mises-en-demeure.md)
+[Foix], le [29 juin 2026]
 
-Objet : Mise en demeure — Action directe [Art. L.124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1] — Sinistre corporel [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md) — L.R.A.R.
+Objet : Mise en demeure — Action directe [Art. L.124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1] — Sinistre corporel [29 mai 2026] — L.R.A.R.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 
-Réf : Dossier [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) / [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+Réf : Dossier [Sébastien GRAZIDE] / [SAS LES MAUVAIS GARCONS]
 
 Madame, Monsieur,
 ## INTRODUCTION
 
-La présente lettre de mise en demeure est adressée par [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) à la compagnie d'assurance de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) sur le fondement de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1], lequel institue une action directe de la victime contre l'assureur du responsable.
+La présente lettre de mise en demeure est adressée par [Sébastien GRAZIDE] à la compagnie d'assurance de [SAS LES MAUVAIS GARCONS] sur le fondement de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1], lequel institue une action directe de la victime contre l'assureur du responsable.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^1]**
 
-Par ce courrier, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) met en demeure l'assureur de prendre en charge le sinistre corporel survenu le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md) dans les locaux de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) et de procéder au règlement des préjudices subis.
+Par ce courrier, [Sébastien GRAZIDE] met en demeure l'assureur de prendre en charge le sinistre corporel survenu le [29 mai 2026] dans les locaux de [SAS LES MAUVAIS GARCONS] et de procéder au règlement des préjudices subis.
 
 Cette action directe permet à la victime de saisir directement l'assureur sans passer par l'intermédiaire de la société responsable, conformément aux dispositions du Code des assurances.
 
@@ -82,11 +82,11 @@ Conformément à [Article 145 du Code de procédure civile](https://www.legifran
 
 Ces dispositions sont d'ordre public et s'imposent à toute compagnie d'assurance opérant sur le territoire français.
 
-Je soussigné, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md), victime d'un grave accident corporel survenu le vendredi [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md) au sein de l'établissement exploité par votre assuré, [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) (sise au [22 Rue Lafaurie, 09000 Foix](../../../Memory/Tokens/token-exploitation-adresse.md)).
+Je soussigné, [Sébastien GRAZIDE], victime d'un grave accident corporel survenu le vendredi [29 mai 2026] au sein de l'établissement exploité par votre assuré, [SAS LES MAUVAIS GARCONS] (sise au [22 Rue Lafaurie, 09000 Foix]).
 
-J'ai subi une plaie palmaire de 8,5 cm de l'index droit (main dominante) ayant sectionné le tendon fléchisseur superficiel et le paquet vasculo-nerveux collatéral ulnaire et radial, après être entré en contact avec la vasque en céramique d'un bac à shampoing avec cassure préexistante aux arêtes coupantes, lors d'un basculement provoqué par la montée de l'employé [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../Memory/Tokens/token-exploitation-prepose-telephone.md)) sur le meuble.
+J'ai subi une plaie palmaire de 8,5 cm de l'index droit (main dominante) ayant sectionné le tendon fléchisseur superficiel et le paquet vasculo-nerveux collatéral ulnaire et radial, après être entré en contact avec la vasque en céramique d'un bac à shampoing avec cassure préexistante aux arêtes coupantes, lors d'un basculement provoqué par la montée de l'employé [Ayoub BENNOURINE] (tél. [**[Le Téléphone du Préposé]**]) sur le meuble.
 
-Il s'en est suivi une intervention de microchirurgie d'urgence le [30 mai 2026](../../../Memory/Tokens/token-j-1-chirurgie.md) au service SOS Main de [Clinique de l'Union](../../../Memory/Tokens/token-hopital-sosmain-nom.md) ([Dr Iskander DJERBI](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)) ayant nécessité une suture tendineuse 6 brins, une suture microchirurgicale des nerfs et vaisseaux à l'éthilon 9-0, et une neurolyse d'urgence.
+Il s'en est suivi une intervention de microchirurgie d'urgence le [30 mai 2026] au service SOS Main de [Clinique de l'Union] ([Dr Iskander DJERBI]) ayant nécessité une suture tendineuse 6 brins, une suture microchirurgicale des nerfs et vaisseaux à l'éthilon 9-0, et une neurolyse d'urgence.
 
 Le pronostic de récupération neurologique a été évalué à un an minimum par le chirurgien, avec un résultat souvent partiel s'agissant d'une suture nerveuse.
 
@@ -104,13 +104,13 @@ En vertu d'une jurisprudence constante, cette action directe est autonome et n'e
 
 Je vous mets en demeure par la présente :
 
-1. De procéder à l'ouverture d'un dossier de sinistre corporel et de me confirmer la validité de votre garantie de responsabilité civile professionnelle pour [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) au [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md).
+1. De procéder à l'ouverture d'un dossier de sinistre corporel et de me confirmer la validité de votre garantie de responsabilité civile professionnelle pour [SAS LES MAUVAIS GARCONS] au [29 mai 2026].
 
 2. De désigner sans délai un médecin expert afin de procéder à mon examen, en vue d'évaluer mes préjudices conformément à la Nomenclature Dintilhac.
 
-3. De procéder au versement d'une provision financière de première urgence d'un montant de 15 000 € sous un délai de 15 jours à compter de la réception du présent pli, afin de compenser les premières pertes d'exploitation me concernant, travailleur indépendant ([500 474 457](../../../Memory/Tokens/token-victime-id-professionnel.md)) actuellement dans l'incapacité d'utiliser sa main droite pour exercer son activité professionnelle d'informaticien.
+3. De procéder au versement d'une provision financière de première urgence d'un montant de 15 000 € sous un délai de 15 jours à compter de la réception du présent pli, afin de compenser les premières pertes d'exploitation me concernant, travailleur indépendant ([500 474 457]) actuellement dans l'incapacité d'utiliser sa main droite pour exercer son activité professionnelle d'informaticien.
 
-À défaut de réponse et du versement de la provision réclamée dans le délai de 15 jours, j'engagerai une procédure en référé-provision devant le Président du Tribunal Judiciaire de [Foix](../../../Memory/Tokens/token-accident-ville.md), et assignerai directement votre compagnie en exécution forcée sur le fondement de l'action directe.
+À défaut de réponse et du versement de la provision réclamée dans le délai de 15 jours, j'engagerai une procédure en référé-provision devant le Président du Tribunal Judiciaire de [Foix], et assignerai directement votre compagnie en exécution forcée sur le fondement de l'action directe.
 
 Sous toutes réserves quant à l'aggravation future de l'état fonctionnel de sa main et de la capitalisation de ses dépenses de santé futures.
 
@@ -134,7 +134,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 
 3. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 
-À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de [Foix](../../../Memory/Tokens/token-accident-ville.md) — d'abord en référé sur le fondement de [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^2] pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
+À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de [Foix] — d'abord en référé sur le fondement de [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)[^2] pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. »* <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
@@ -144,9 +144,9 @@ L'ensemble des pièces et de la procédure vous sera communiqué par transparenc
 
 Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
 
-Mes coordonnées : [10 Avenue de Purpan, 31700 Blagnac](../../../Memory/Tokens/token-victime-adresse.md) / [sebastien.grazide@gmail.com](../../../Memory/Tokens/token-victime-email.md)
+Mes coordonnées : [10 Avenue de Purpan, 31700 Blagnac] / [sebastien.grazide@gmail.com]
 
-[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md)
+[Sébastien GRAZIDE]
 <!-- Source -->
 <hr><hr>
 

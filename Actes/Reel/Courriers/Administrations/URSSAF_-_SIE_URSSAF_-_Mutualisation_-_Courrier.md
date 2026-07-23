@@ -1,5 +1,5 @@
 ---
-uid: SfiuTB3iG
+uid: dRjkxJgTS
 emoji: 📝
 title: Demande de Surveillance Fiscale et Sociale Urgente
 description: L'Adresse de la Victime
@@ -18,7 +18,7 @@ tags:
 
 - LRAR
 statut: projet
-destinataire: Service des Impôts des Entreprises de [Foix](../../../../Memory/Tokens/token-accident-ville.md) et
+destinataire: Service des Impôts des Entreprises de [Foix] et
   URSSAF Midi-Pyrenees
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Administrations/URSSAF - SIE URSSAF - Mutualisation - Courrier.md
@@ -31,36 +31,36 @@ calendar_event_id: 9ortbnkvp8it8hnebif5fr4bec
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # DEMANDE DE MUTUALISATION <br> FISCALE ET SOCIALE URGENTE
 
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE  
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
 Service des Impôts des Entreprises de Foix  
-**[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**  
+Foix  
 URSSAF Midi-Pyrénées
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 9 juillet 2026
+Blagnac, le 9 juillet 2026
 <!-- /Date -->
 
 <hr><hr>
-Objet : Demande de mutualisation fiscale et sociale urgente — SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+Objet : Demande de mutualisation fiscale et sociale urgente — SAS [SAS LES MAUVAIS GARCONS]
 <hr><hr>
 
-Ref : SIREN [938 033 222](../../../../Memory/Tokens/token-exploitation-siren.md)
+Ref : SIREN [938 033 222]
 
 Madame, Monsieur le Responsable,
 ## I — OBJET DE LA DEMANDE
 
-La presente est adressee conjointement a vos deux services par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**.
+La presente est adressee conjointement a vos deux services par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026.
 
 L'accident, cause par la chute du prepose depuis un bac a shampoing en ceramique instable et casse, a entraine des lesions graves de la main droite (section partielle du tendon flechisseur et du paquet vasculo-nerveux de l'index dominant) ayant necessite une microchirurgie d'urgence en SOS Main.
 
@@ -69,7 +69,7 @@ L'accident, cause par la chute du prepose depuis un bac a shampoing en ceramique
 
 ## II — RISQUE FISCAL ET SOCIAL IDENTIFIE
 
-La SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) presente les caracteristiques suivantes, revelatrices d'un risque eleve de disparition frauduleuse :
+La SAS [SAS LES MAUVAIS GARCONS] presente les caracteristiques suivantes, revelatrices d'un risque eleve de disparition frauduleuse :
 
 1. **Capital social derisoire** : 200 € (2 000 actions de 0,10 €) — insuffisant pour faire face a toute creance significative
 
@@ -109,12 +109,12 @@ Conformement aux pouvoirs respectifs du SIE (recouvrement des creances fiscales,
 
 L'absence de reponse dans un delai de **quinze jours** a compter de la reception de la presente sera consideree comme un refus implicite et emportera le droit d'engager toute action conservatoire utile devant le juge des referes.
 
-Mes coordonnees : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnees : 10 Avenue de Purpan, 31700 Blagnac — sebastien.grazide@gmail.com
 
 Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
 
 <!-- Signature -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE
 <!-- /Signature -->
 
 <!-- PJ -->

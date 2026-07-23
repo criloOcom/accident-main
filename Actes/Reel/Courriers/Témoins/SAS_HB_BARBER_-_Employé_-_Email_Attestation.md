@@ -1,8 +1,8 @@
 ---
-uid: cFsAGQhYg
+uid: u2yn9YAdU
 emoji: 📋
 title: 📧📋 Email Transmission Attestation Employé
-description: 'Objet : Attestation de témoin — Accident du [29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md) au **[L''Adresse
+description: 'Objet : Attestation de témoin — Accident du [29 mai 2026] au **[L''Adresse
   de l''Exploitation]'
 type: courrier
 date: 2026-07-06
@@ -13,7 +13,7 @@ tags:
 
 - temoin
 statut: brouillon
-destinataire: Employé(e) du salon présent(e) le [29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md)
+destinataire: Employé(e) du salon présent(e) le [29 mai 2026]
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Témoins/SAS HB BARBER - Employé - Email Attestation.md
 source: local
@@ -25,25 +25,25 @@ jx: J+38
 <!-- /Breadcrumb -->
 
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE  
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**Employé(e) du salon présent(e) le [J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**
+**Employé(e) du salon présent(e) le [J+0 Accident]**
 <!-- /Destinataire -->
 
 # TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (EMPLOYÉ)
 <hr><hr>
-Objet : Attestation de témoin — Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**
+Objet : Attestation de témoin — Accident du 29 mai 2026 au 22 Rue Lafaurie, 09000 Foix
 <hr><hr>
 
 <hr><hr>
 
 Bonjour,
 
-Vous étiez présent(e) le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** en tant qu'employé(e) du salon **Exploitant du Commerce** situé au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** lorsque l'accident s'est produit.
+Vous étiez présent(e) le 29 mai 2026 en tant qu'employé(e) du salon **Exploitant du Commerce** situé au 22 Rue Lafaurie, 09000 Foix lorsque l'accident s'est produit.
 
 Je me permets de vous solliciter pour remplir une **attestation de témoin** (Cerfa n° 11527\*03) afin de décrire ce que vous avez vu ce jour-là. Votre témoignage est particulièrement important sur les points suivants :
 
@@ -84,8 +84,8 @@ Je vous remercie sincèrement pour votre aide précieuse.
 Cordialement,
 
 <!-- Signature -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE
+sebastien.grazide@gmail.com
 <!-- /Signature -->
 
 📎 **Pièce jointe :** Joindre le PDF du Cerfa n° 11527\*03.

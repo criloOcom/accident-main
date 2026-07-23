@@ -1,5 +1,5 @@
 ---
-uid: EyyV3P9Mz
+uid: wLYtMiitJ
 title: "Constitution de Partie Civile"
 description: "Rédigé le **[J+32 Assignation référé]"
 type: readme
@@ -20,7 +20,7 @@ drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 **Table des matières**
 
@@ -28,36 +28,36 @@ drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 
 # CONSTITUTION DE PARTIE CIVILE
 > 🔗 Source Google Drive : [1tdFbDxNceGV…](https://drive.google.com/open?id=1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc)
-Rédigé le [30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md)
+Rédigé le [30 juin 2026]
 ## INTRODUCTION
 
-La présente constitution de partie civile est formée par [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) dans le cadre de la procédure pénale suivie devant le Tribunal Correctionnel de [Foix](../../../Memory/Tokens/token-accident-ville.md) à l'encontre de [SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md).
+La présente constitution de partie civile est formée par [Sébastien GRAZIDE] dans le cadre de la procédure pénale suivie devant le Tribunal Correctionnel de [Foix] à l'encontre de [SAS LES MAUVAIS GARCONS].
 
-Par cet acte, fondé sur les articles 2 et suivants du Code de procédure pénale, la victime entend exercer les droits reconnus à la partie civile afin d'obtenir la réparation de l'intégralité des préjudices découlant de l'accident corporel dont elle a été victime le [29 mai 2026](../../../Memory/Tokens/token-j-0-accident.md) : alors que l'employé [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md) (tél. [**[Le Téléphone du Préposé]**](../../../Memory/Tokens/token-exploitation-prepose-telephone.md)) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé ; par réflexe, [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) a tendu la main droite pour protéger [Ayoub BENNOURINE](../../../Memory/Tokens/token-exploitation-prepose-nom.md), et sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
+Par cet acte, fondé sur les articles 2 et suivants du Code de procédure pénale, la victime entend exercer les droits reconnus à la partie civile afin d'obtenir la réparation de l'intégralité des préjudices découlant de l'accident corporel dont elle a été victime le [29 mai 2026] : alors que l'employé [Ayoub BENNOURINE] (tél. [**[Le Téléphone du Préposé]**]) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé ; par réflexe, [Sébastien GRAZIDE] a tendu la main droite pour protéger [Ayoub BENNOURINE], et sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
-Cette constitution de partie civile permet à [Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md) de participer activement à la procédure pénale et de solliciter l'indemnisation de ses préjudices devant la juridiction répressive.
+Cette constitution de partie civile permet à [Sébastien GRAZIDE] de participer activement à la procédure pénale et de solliciter l'indemnisation de ses préjudices devant la juridiction répressive.
 
 À adresser par lettre recommandée ou par télécopie au tribunal ou à remettre au greffe.
 
 Adresse du tribunal :
 
-Tribunal Correctionnel de [Foix](../../../Memory/Tokens/token-accident-ville.md)
+Tribunal Correctionnel de [Foix]
 
 **[Adresse Tribunal Judiciaire]**
 
-[**[Code Postal de l'Accident]**](../../../Memory/Tokens/token-accident-code-postal.md) [Foix](../../../Memory/Tokens/token-accident-ville.md)
+[**[Code Postal de l'Accident]**] [Foix]
 
 Je soussigné(e) :
 
-[Sébastien GRAZIDE](../../../Memory/Tokens/token-victime-nom-complet.md), né le 18 janvier 1982 à [Toulouse](../../../Memory/Tokens/token-accident-metropole.md), demeurant au [10 Avenue de Purpan, 31700 Blagnac](../../../Memory/Tokens/token-victime-adresse.md).
+[Sébastien GRAZIDE], né le 18 janvier 1982 à [Toulouse], demeurant au [10 Avenue de Purpan, 31700 Blagnac].
 
-Profession : Informaticien indépendant ([500 474 457](../../../Memory/Tokens/token-victime-id-professionnel.md))
+Profession : Informaticien indépendant ([500 474 457])
 
 Agissant en mon nom personnel.
 
 Déclare me constituer partie civile contre :
 
-[SAS LES MAUVAIS GARCONS](../../../Memory/Tokens/token-exploitation-raison-sociale.md) ([Sabir MOUNTASSER](../../../Memory/Tokens/token-exploitation-president-nom.md), Président) et [Catherine ANDISSAC](../../../Memory/Tokens/token-exploitation-dg-nom.md) (Directrice Générale).
+[SAS LES MAUVAIS GARCONS] ([Sabir MOUNTASSER], Président) et [Catherine ANDISSAC] (Directrice Générale).
 
 Dans l'affaire qui doit être examinée par le tribunal :
 
@@ -91,7 +91,7 @@ Pour justifier le préjudice subi :
 
 **[X]** Je souhaite compléter l'information du tribunal par les explications ci-jointes (sur feuille libre à joindre) : Voir Conclusions de Partie Civile ci-jointes (3 pages).
 
-Fait à [Blagnac](../../../Memory/Tokens/token-victime-ville-residence.md), le [30 juin 2026](../../../Memory/Tokens/token-j-32-assignation-refere.md)
+Fait à [Blagnac], le [30 juin 2026]
 
 Signature :
 <!-- Source -->

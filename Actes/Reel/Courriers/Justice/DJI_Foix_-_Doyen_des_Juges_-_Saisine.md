@@ -1,5 +1,5 @@
 ---
-uid: 5RhLFjZK7
+uid: k4B4mfYLE
 emoji: ⚖️
 title: Courrier Doyen des Juges d'Instruction — Constitution de Partie Civile
 description: La Victime
@@ -15,7 +15,7 @@ tags:
 - envoi
 calendar_event_id: smthlv0a5arakof0m4rv80qgkc
 statut: envoye
-destinataire: Doyen des Juges d'Instruction de [Foix](../../../../Memory/Tokens/token-accident-ville.md)
+destinataire: Doyen des Juges d'Instruction de [Foix]
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Justice/DJI Foix - Doyen des Juges - Saisine.md
 source: drive
@@ -29,27 +29,27 @@ jx: J+38
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # ENVOI [CONSTITUTION DE PARTIE CIVILE](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
 > 🔗 Source Google Drive : [1nFSf3EDB_bV…](https://drive.google.com/open?id=1nFSf3EDB_bVudz5Xhf0NvXlibTesCL8M5hepEZqxd5w)
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
-**[L'Identifiant Professionnel de la Victime](../../../../Memory/Tokens/token-victime-id-professionnel.md)**
+Sébastien GRAZIDE
+10 Avenue de Purpan, 31700 Blagnac
+Blagnac
+sebastien.grazide@gmail.com
+500 474 457
 <!-- /Auteur -->
 
 <!-- Destinataire -->
 À l'attention de Monsieur le Doyen des Juges d'Instruction
-Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
+Tribunal Judiciaire de Foix
 **Adresse Tribunal Judiciaire**
-09008 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** Cedex
+09008 Foix Cedex
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le **[J+38 Constitution PC](../../../../Memory/Tokens/token-j-38-constitution-pc.md)**
+Blagnac, le 6 juillet 2026
 <!-- /Date -->
 
 <hr><hr>
@@ -66,15 +66,15 @@ Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/toke
 
 <hr><hr>
 
-**Réf. Parquet : Plainte initiale n° [ ... ] (dépôt du **[J+4 Dépôt de plainte](../../../../Memory/Tokens/token-j-4-depot-de-plainte.md)**)**
+**Réf. Parquet : Plainte initiale n° [ ... ] (dépôt du 2 juin 2026)**
 
 Monsieur le Doyen des Juges d'Instruction,
 
 Par la présente et conformément aux dispositions des articles 85 et suivants du Code de procédure pénale, j'ai l'honneur de me constituer partie civile entre vos mains, pour des faits de blessures involontaires (Articles 222-19 et 222-20 du Code pénal).
 
-Ces faits sont survenus le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** dans les locaux de la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, sise **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**. Ils engagent la responsabilité pénale et civile de la personne morale ainsi que celle de ses dirigeants, **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, pour violation manifestement délibérée d'une obligation de prudence ou de sécurité et défaut d'assurance de responsabilité civile professionnelle.
+Ces faits sont survenus le 29 mai 2026 dans les locaux de la SAS SAS LES MAUVAIS GARCONS, sise 22 Rue Lafaurie, 09000 Foix. Ils engagent la responsabilité pénale et civile de la personne morale ainsi que celle de ses dirigeants, Sabir MOUNTASSER et Catherine ANDISSAC, pour violation manifestement délibérée d'une obligation de prudence ou de sécurité et défaut d'assurance de responsabilité civile professionnelle.
 
-À la suite du dépôt de ma plainte simple le **[J+4 Dépôt de plainte](../../../../Memory/Tokens/token-j-4-depot-de-plainte.md)** auprès du Commissariat de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** (PV n° [ ... ]), et en l'absence de toute suite connue à ce jour et face au refus persistant des mis en cause de communiquer leurs informations d'assurance, je me vois contraint de saisir votre juridiction pour faire valoir mes droits.
+À la suite du dépôt de ma plainte simple le 2 juin 2026 auprès du Commissariat de Foix (PV n° [ ... ]), et en l'absence de toute suite connue à ce jour et face au refus persistant des mis en cause de communiquer leurs informations d'assurance, je me vois contraint de saisir votre juridiction pour faire valoir mes droits.
 
 Vous trouverez ci-joint la plainte avec [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) formelle détaillant les faits et les fondements juridiques, ainsi qu'un bordereau récapitulant les pièces justificatives que je verse au débat.
 
@@ -89,13 +89,13 @@ Je me tiens à votre entière disposition pour être entendu et participer à to
 Je vous prie d'agréer, Monsieur le Doyen des Juges d'Instruction, l'expression de mes salutations respectueuses.
 
 <!-- Signature -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE
 <!-- /Signature -->
 
 <!-- PJ -->
 ## PIECES JOINTES
 
-- **[Plainte avec constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — datée du **[J+38 Constitution PC](../../../../Memory/Tokens/token-j-38-constitution-pc.md)**
+- **[Plainte avec constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — datée du 6 juillet 2026
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du [J+4]
 
@@ -107,7 +107,7 @@ Je vous prie d'agréer, Monsieur le Doyen des Juges d'Instruction, l'expression 
 
 - **[Mises en demeure J+31](../../../Reel/Courriers/SAS_&_Salon/SAS%20HB%20BARBER%20-%20SAS%20-%20Courrier.md)** — LRAR restees sans reponse
 
-- **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)
+- **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]
 <!-- /PJ -->
 
 <!-- Source -->

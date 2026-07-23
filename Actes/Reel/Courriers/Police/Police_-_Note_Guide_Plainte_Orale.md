@@ -1,5 +1,5 @@
 ---
-uid: TYGw7SqKN
+uid: RVXuzYQS4
 emoji: ✉️
 title: 📋 ANTISÈCHE ORALE — Plainte Complémentaire (aide personnelle)
 date: 2026-07-20
@@ -17,20 +17,20 @@ auteur: La Victime
 <!-- /Breadcrumb -->
 
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE  
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** (document personnel — aide-mémoire)
+Sébastien GRAZIDE (document personnel — aide-mémoire)
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 20 juillet 2026
+Blagnac, le 20 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # ⚠️ DOCUMENT PERSONNEL<br>NE PAS VERSER AU DOSSIER
 > Antisèche orale : aide-mémoire pour l'audition libre au Commissariat de Foix.
@@ -51,14 +51,14 @@ auteur: La Victime
 
 ### II.1 — **1. Contexte initial ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))**
 
-Le 29 mai 2026, j'ai été victime d'un accident grave dans le salon de coiffure **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** situé au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**, entraînant une section nerveuse et tendineuse de la main droite nécessitant une intervention chirurgicale en urgence.
+Le 29 mai 2026, j'ai été victime d'un accident grave dans le salon de coiffure SAS LES MAUVAIS GARCONS situé au 22 Rue Lafaurie, 09000 Foix, entraînant une section nerveuse et tendineuse de la main droite nécessitant une intervention chirurgicale en urgence.
 
 Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.
 
 ### II.2 — **2. Obstruction à la justice — Refus de communiquer l'assurance RC**
 
 **Faits constitutifs :**
-- Depuis le 29 mai 2026, malgré de multiples demandes officielles (LRAR 87001424863012T du 29/06/2026), la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** refuse de communiquer les coordonnées de son assurance Responsabilité Civile.
+- Depuis le 29 mai 2026, malgré de multiples demandes officielles (LRAR 87001424863012T du 29/06/2026), la SAS SAS LES MAUVAIS GARCONS refuse de communiquer les coordonnées de son assurance Responsabilité Civile.
 
 - Cette omission empêche l'exercice de mon droit à réparation prévu par l'**article L. 124-3 du Code des assurances**.
 
@@ -129,7 +129,7 @@ Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../
 ### II.4 — **4. Société fantôme — Courriers retournés NPAI malgré l'immatriculation**
 
 **Faits constitutifs :**
-- Les courriers recommandés adressés à la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (**[SIREN de l'Exploitation](../../../../Memory/Tokens/token-exploitation-siren.md)**) à son siège social officiel (**[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**) sont systématiquement retournés avec la mention "NPAI — Défaut d'adresse".
+- Les courriers recommandés adressés à la SAS SAS LES MAUVAIS GARCONS (938 033 222) à son siège social officiel (22 Rue Lafaurie, 09000 Foix) sont systématiquement retournés avec la mention "NPAI — Défaut d'adresse".
 
 - Pourtant, les registres officiels (RNE/INPI) confirment que la société est toujours **active** à cette adresse, sans modification de siège.
 
@@ -147,7 +147,7 @@ Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../
 ### II.5 — **5. Risque de disparition — Capital de 200 € et 0 salarié**
 
 **Faits constitutifs :**
-- La SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** a un capital social de seulement 200 € et déclare 0 salarié.
+- La SAS SAS LES MAUVAIS GARCONS a un capital social de seulement 200 € et déclare 0 salarié.
 
 - Cette structure financière précaire suggère un **risque élevé de dissolution frauduleuse** pour échapper aux responsabilités civiles et pénales.
 
@@ -247,7 +247,7 @@ Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../
 
 ### V.4 — **Si l'OPJ te reçoit en audition — amorce**
 
-> *« Bonjour Madame/Monsieur l'officier. Je suis [Mon nom], victime d'un accident grave le 29 mai au salon **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**. J'ai déjà un PV (2026/015967). Je viens pour une plainte complémentaire, parce que depuis, la société refuse de communiquer son assurance et ne répond à aucun courrier. Et surtout, les vidéos de surveillance risquent d'être écrasées d'un jour à l'autre si rien n'est fait. »* <br>
+> *« Bonjour Madame/Monsieur l'officier. Je suis [Mon nom], victime d'un accident grave le 29 mai au salon SAS LES MAUVAIS GARCONS. J'ai déjà un PV (2026/015967). Je viens pour une plainte complémentaire, parce que depuis, la société refuse de communiquer son assurance et ne répond à aucun courrier. Et surtout, les vidéos de surveillance risquent d'être écrasées d'un jour à l'autre si rien n'est fait. »* <br>
 <hr><hr>
 
 ## VI — ⚖️ **FONDEMENTS JURIDIQUES**

@@ -1,5 +1,5 @@
 ---
-uid: aKMDBCnNp
+uid: d4AJnTFKc
 emoji: 📋
 title: Bordereau de pièces — Dépôt Commissariat [La Ville de l'Accident]
 description: Liste des documents physiques à apporter au Commissariat de [La Ville
@@ -17,25 +17,25 @@ reel_path: ../../../Reel/Courriers/Police/Police - Bordereau Pièces.md
 <!-- /Breadcrumb -->
 
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE  
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-Commissariat de Police de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**  
+Commissariat de Police de Foix  
 Place de la Préfecture  
-09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
+09000 Foix
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 27 juillet 2026
+Blagnac, le 27 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # BORDEREAU DE PIÈCES
-## Dépôt au Commissariat de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** — Lundi 27 juillet 2026
+## Dépôt au Commissariat de Foix — Lundi 27 juillet 2026
 
 **DOCUMENTS D'IDENTITÉ**
 
@@ -53,11 +53,11 @@ Place de la Préfecture
 
 5. ☐ **Erratum formel — Correction de l'identité de la société exploitante** (déposé ce jour + LRAR séparée) — 3 pages
 
-6. ☐ **Courriel de **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** (bailleur) du 16/07/2026** — réponse LRAR — 1 page
+6. ☐ **Courriel de Romain DELRIEU (bailleur) du 16/07/2026** — réponse LRAR — 1 page
 
-7. ☐ **Photos état des lieux de sortie** (3 fichiers joints au mail de **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**) — 3 pages
+7. ☐ **Photos état des lieux de sortie** (3 fichiers joints au mail de Romain DELRIEU) — 3 pages
 
-8. ☐ **Fiche RNE SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) (SIREN [938 033 222](../../../../Memory/Tokens/token-exploitation-siren.md))** — DATA INPI — 2 pages
+8. ☐ **Fiche RNE SAS [SAS LES MAUVAIS GARCONS] (SIREN [938 033 222])** — DATA INPI — 2 pages
 
 9. ☐ **Note de constatations du 16/07/2026 (visite des lieux 22 rue Lafaurie)** — 2 pages
 
@@ -65,7 +65,7 @@ Place de la Préfecture
 
 10. ☐ **Dossier de plainte manuscrit du 1er juin 2026 (réf. PV [ ... ])** — ~12 pages
 
-11. ☐ **Certificat médical **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** (SOS Main)** — 30/05/2026 — 1 page
+11. ☐ **Certificat médical Dr Iskander DJERBI (SOS Main)** — 30/05/2026 — 1 page
 
 12. ☐ **Certificat médical Dr OXYBEL** — 01/06/2026 — 1 page
 
@@ -77,13 +77,13 @@ Place de la Préfecture
 
 16. ☐ **Captures d'écran Wero (débit 15 € + crédit remboursement)** — 2 pages
 
-17. ☐ **Kbis / extrait RNE **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIRET **[L'Identifiant de l'Exploitation](../../../../Memory/Tokens/token-exploitation-id.md)**)** — 2 pages
+17. ☐ **Kbis / extrait RNE SAS LES MAUVAIS GARCONS (SIRET 938 033 222 00010)** — 2 pages
 
 **CORRESPONDANCES**
 
-18. ☐ **Échanges de courriels avec Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** ([**[La Secrétaire Générale de la Mairie]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) / **[L'Adjoint au Maire de la Commune](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**)** — 4 pages
+18. ☐ **Échanges de courriels avec Mairie de Foix ([**[La Secrétaire Générale de la Mairie]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) / Monsieur TAVELLA)** — 4 pages
 
-19. ☐ **Accusés de réception LRAR (29/06/2026 — adressés à l'ancien exploitant LMG) : **[L'Ancien Président de l'Exploitation](../../../../Memory/Tokens/token-ancien-president-exploitation.md)**, **[L'Ancienne Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)**, **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**** — 3 pages
+19. ☐ **Accusés de réception LRAR (29/06/2026 — adressés à l'ancien exploitant LMG) : **[L'Ancien Président de l'Exploitation]**, **[L'Ancienne Directrice Générale de l'Exploitation]**, Romain DELRIEU** — 3 pages
 
 20. ☐ **Copies LRAR adressées au salon le 29/06/2026** — 4 pages
 

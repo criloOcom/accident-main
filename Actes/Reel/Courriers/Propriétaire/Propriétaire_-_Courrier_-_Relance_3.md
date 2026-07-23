@@ -1,5 +1,5 @@
 ---
-uid: sU8vdqmrF
+uid: Lm2xEUQ8r
 emoji: 📜
 title: ✉️📜 Bailleur — Relance 3 LRAR (Correction AT + Demande Assurances)
 description: 3ème LRAR au bailleur — Correction qualification 'accident
@@ -36,18 +36,18 @@ signataire: '[La Victime] (envoi sans signature manuscrite)'
 <!-- LRAR -->
 
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE  
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-Monsieur **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**  
+Monsieur Romain DELRIEU  
 17 rue de la Baïse, 31120 Roquettes
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 19 juillet 2026
+Blagnac, le 19 juillet 2026
 <!-- /Date -->
 
 # MISE EN DEMEURE AMIABLE<br>RELANCE COMMUNICATION ASSURANCE RC & CORRECTION QUALIFICATIVE "ACCIDENT DU TRAVAIL"
@@ -74,16 +74,16 @@ Cette lettre fait suite à :
 
 - Ma **première LRAR du 29 juin 2026** (demande communication assurance RC exploitant) ;
 
-- **Votre email du 16 juillet 2026** (réception LRAR, allégation cessation activité **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au 10/03/2026, qualification "accident du travail") ;
+- **Votre email du 16 juillet 2026** (réception LRAR, allégation cessation activité SAS LES MAUVAIS GARCONS au 10/03/2026, qualification "accident du travail") ;
 
-- **Ma réponse par la présente** (prise d'acte, identification **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, trois questions précises) ;
+- **Ma réponse par la présente** (prise d'acte, identification SAS LES MAUVAIS GARCONS, trois questions précises) ;
 
 - **L'absence de réponse à ce jour** (soit **deux jours** après mon dernier courriel).
 ## I — RAPPEL DES FAITS ET CORRECTION QUALIFICATIVE ESSENTIELLE
 
 ### 1 — Les faits matériels incontestables
 
-Le **vendredi 29 mai 2026 à 15h00**, je me suis rendu en tant que **client** dans le salon de coiffure exploité au **22 Rue Lafaurie à Foix**. Après la prestation, j'ai payé [Ayoub BENNOURINE](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques) (tél. **[Le Téléphone du Préposé](../../../../Memory/Tokens/token-exploitation-prepose-telephone.md)**) par Wero (transaction [IPR000297029234](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)), puis j'ai quitté les lieux. Moins de cinq minutes plus tard, je suis retourné au salon pour demander une retouche. À mon retour, **le préposé coiffeur [Le Préposé de l'Exploitation]** était monté sur la vasque en céramique du bac à shampoing pour régler **le** téléviseur. En voulant descendre, il a provoqué le basculement de la vasque — qui présentait une **cassure apparente préexistante non signalée** sur son flanc droit. Par réflexe, j'ai tendu la main gauche pour retenir le coiffeur et la main droite pour retenir la vasque. Ma paume droite a heurté l'arête tranchante de cette cassure, provoquant une **section large et très profonde des tissus cutanés et sous-cutanés (plaie de 8,5 cm)** avec **section partielle du tendon fléchisseur superficiel et section totale du paquet vasculo-nerveux collatéral (ulnaire et radial) de l'index droit**.
+Le **vendredi 29 mai 2026 à 15h00**, je me suis rendu en tant que **client** dans le salon de coiffure exploité au **22 Rue Lafaurie à Foix**. Après la prestation, j'ai payé [Ayoub BENNOURINE](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques) (tél. **[Le Téléphone du Préposé]**) par Wero (transaction [IPR000297029234](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)), puis j'ai quitté les lieux. Moins de cinq minutes plus tard, je suis retourné au salon pour demander une retouche. À mon retour, **le préposé coiffeur [Le Préposé de l'Exploitation]** était monté sur la vasque en céramique du bac à shampoing pour régler **le** téléviseur. En voulant descendre, il a provoqué le basculement de la vasque — qui présentait une **cassure apparente préexistante non signalée** sur son flanc droit. Par réflexe, j'ai tendu la main gauche pour retenir le coiffeur et la main droite pour retenir la vasque. Ma paume droite a heurté l'arête tranchante de cette cassure, provoquant une **section large et très profonde des tissus cutanés et sous-cutanés (plaie de 8,5 cm)** avec **section partielle du tendon fléchisseur superficiel et section totale du paquet vasculo-nerveux collatéral (ulnaire et radial) de l'index droit**.
 
 J'ai été opéré en urgence le **30 mai 2026** (microchirurgie : suture tendineuse, suture microchirurgicale nerfs/vaisseaux, neurolyse). L'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total s'élève à **55 jours**. Le pronostic neurologique est réservé, avec récupération souvent partielle sur plusieurs mois.
 
@@ -118,26 +118,26 @@ Lors de ma visite des lieux le **16 juillet 2026**, j'ai constaté la disparitio
 Cette disparition constatée, si elle est établie comme intentionnelle, pourrait constituer une **faute caractérisée** (article 1240 du Code civil[^2]) de nature à faire présumer la responsabilité de l'exploitant et de son commettant. Elle sera portée à la connaissance du juge dans le cadre de toute procédure ultérieure (article 9 du Code de procédure civile[^3]).
 <hr><hr>
 
-## II — L'EXPLOITANT APPARENT AU 29 MAI 2026 : [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+## II — L'EXPLOITANT APPARENT AU 29 MAI 2026 : [SAS LES MAUVAIS GARCONS]
 
-Les informations publiques (Registre National des Entreprises) indiquent que **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN [938 033 222](../../../../Memory/Tokens/token-exploitation-siren.md)) a été créée le **22 avril 2026** et exerce une activité de coiffure/barbier au **22 Rue Lafaurie à Foix** — soit **plus d'un mois avant mon accident**.
+Les informations publiques (Registre National des Entreprises) indiquent que SAS LES MAUVAIS GARCONS (SIREN [938 033 222]) a été créée le **22 avril 2026** et exerce une activité de coiffure/barbier au **22 Rue Lafaurie à Foix** — soit **plus d'un mois avant mon accident**.
 
-**[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** (SIREN [**[SIREN de l'Ancien Exploitant]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)) a, selon vos propres dires, cessé son activité le **10 mars 2026** (état des lieux de sortie à l'appui).
+**[L'Ancien Exploitant du Commerce]** (SIREN [**[SIREN de l'Ancien Exploitant]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)) a, selon vos propres dires, cessé son activité le **10 mars 2026** (état des lieux de sortie à l'appui).
 
-**Au 29 mai 2026, l'exploitant apparent des lieux était donc [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, et non **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)**.
+**Au 29 mai 2026, l'exploitant apparent des lieux était donc [SAS LES MAUVAIS GARCONS]**, et non **[L'Ancien Exploitant du Commerce]**.
 <hr><hr>
 
 ## III — TROIS QUESTIONS RESTÉES SANS RÉPONSE
 
 Vous n'avez pas apporté de réponse aux trois questions suivantes, qui sont pourtant **déterminantes pour orienter correctement mon action** :
 
-1. **Occupant au 29 mai 2026** : Pouvez-vous confirmer que, à cette date, vos locaux du 22 Rue Lafaurie étaient bien occupés et exploités par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN [938 033 222](../../../../Memory/Tokens/token-exploitation-siren.md)), et m'indiquer la date exacte d'entrée dans les lieux de ce nouvel exploitant ?
+1. **Occupant au 29 mai 2026** : Pouvez-vous confirmer que, à cette date, vos locaux du 22 Rue Lafaurie étaient bien occupés et exploités par SAS LES MAUVAIS GARCONS (SIREN [938 033 222]), et m'indiquer la date exacte d'entrée dans les lieux de ce nouvel exploitant ?
    → *Identifie le responsable civil (gardien de la chose / commettant) au jour de l'accident*
 
-2. **Contrat de bail et avenants** : Un nouveau bail commercial ou avenant a-t-il été conclu après le départ de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** ? Si possible, pouvez-vous m'en communiquer une copie partielle (pages identité du preneur + clauses d'assurance) ?
+2. **Contrat de bail et avenants** : Un nouveau bail commercial ou avenant a-t-il été conclu après le départ de SAS LES MAUVAIS GARCONS ? Si possible, pouvez-vous m'en communiquer une copie partielle (pages identité du preneur + clauses d'assurance) ?
    → *Permet de vérifier les obligations d'assurance RC contractuelles*
 
-3. **Assurances RC** : Pouvez-vous m'indiquer, à votre connaissance, les coordonnées de l'assureur RC de l'exploitant en place au 29 mai 2026 ([SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)), ainsi que, le cas échéant, celles de **votre propre assureur PNO** (Propriétaire Non Occupant) pour cet immeuble, dans le cadre de vos obligations de bailleur au titre des articles 1719 et suivants du Code civil[^4] (délivrance, entretien et sécurité des locaux loués) ?
+3. **Assurances RC** : Pouvez-vous m'indiquer, à votre connaissance, les coordonnées de l'assureur RC de l'exploitant en place au 29 mai 2026 ([SAS LES MAUVAIS GARCONS]), ainsi que, le cas échéant, celles de **votre propre assureur PNO** (Propriétaire Non Occupant) pour cet immeuble, dans le cadre de vos obligations de bailleur au titre des articles 1719 et suivants du Code civil[^4] (délivrance, entretien et sécurité des locaux loués) ?
    → *Conditionne l'exercice de l'action directe (L.124-3 du Code des assurances[^5]) et la mise en cause de votre propre assureur PNO*
 <hr><hr>
 

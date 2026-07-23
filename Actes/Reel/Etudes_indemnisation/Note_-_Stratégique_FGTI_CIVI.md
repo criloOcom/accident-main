@@ -1,5 +1,5 @@
 ---
-uid: yHePpmXKV
+uid: pMfHMdFmD
 title: "Note stratégique FGTI/CIVI"
 description: "Les conditions posées par l'article 706-3 du Code de procédure pénale sont intégralement remplies :"
 type: etude_indemnisation
@@ -50,7 +50,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 
 ## III — PROCÉDURE DÉTAILLÉE DEVANT LA CIVI
 
-1. **Saisine** : Dépôt d'une requête devant la Commission d'Indemnisation des Victimes d'Infractions (CIVI) rattachée au Tribunal Judiciaire (TJ de [Toulouse](../../../Memory/Tokens/token-accident-metropole.md) ou de [Foix](../../../Memory/Tokens/token-accident-ville.md).
+1. **Saisine** : Dépôt d'une requête devant la Commission d'Indemnisation des Victimes d'Infractions (CIVI) rattachée au Tribunal Judiciaire (TJ de [Toulouse] ou de [Foix].
 
 2. **Phase amiable (FGTI)** : La requête est transmise au FGTI, qui dispose d'un délai de 2 mois pour formuler une offre d'indemnisation provisionnelle ou définitive.
 
@@ -80,7 +80,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 
 ## VI — PIÈCES NÉCESSAIRES POUR LA DEMANDE CIVI
 
-- Copie de la plainte et du procès-verbal de police (n°[2026/015967](../../../Memory/Tokens/token-pv-police-numero.md).
+- Copie de la plainte et du procès-verbal de police (n°[2026/015967].
 
 - Certificats médicaux (dont le CMI constatant les blessures) et [arrêts de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant de l'ITT de 55 jours.
 

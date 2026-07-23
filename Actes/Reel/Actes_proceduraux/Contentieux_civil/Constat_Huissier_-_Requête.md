@@ -1,5 +1,5 @@
 ---
-uid: 9v93SLYBw
+uid: WmuNgGNij
 
 emoji: 📸
 title: Requête aux fins de constat d'huissier
@@ -34,7 +34,7 @@ calendar_event_id: 9pkmrn8fadbta67drfub7dssec
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [SAS LES MAUVAIS GARCONS] au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # REQUÊTE AUX FINS DE CONSTAT D'HUISSIER
 **À l'attention de :** Tel huissier de justice territorialement compétent
@@ -42,26 +42,26 @@ calendar_event_id: 9pkmrn8fadbta67drfub7dssec
 
 <!-- Auteur -->
 **Requérant :**
-[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)
+[Sébastien GRAZIDE]
 <!-- /Auteur -->
 
 <!-- Destinataire -->
 **Partie concernée :**
-[SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
+[SAS LES MAUVAIS GARCONS]
 <!-- /Destinataire -->
 <hr><hr>
 
 ## II — EXPOSÉ DES FAITS ET DE L'URGENCE EXTRÊME
 
-Le [29 mai 2026](../../../../Memory/Tokens/token-j-0-accident.md), un accident corporel grave s'est produit dans les locaux de la société [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md).
+Le [29 mai 2026], un accident corporel grave s'est produit dans les locaux de la société [SAS LES MAUVAIS GARCONS].
 
-Cet accident a été causé par le basculement d'une vasque défectueuse, ce qui a entraîné la blessure sévère de [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md).
+Cet accident a été causé par le basculement d'une vasque défectueuse, ce qui a entraîné la blessure sévère de [Sébastien GRAZIDE].
 
 Afin de préserver les droits du requérant dans la perspective d'une éventuelle action en responsabilité, il est d'une nécessité impérieuse de conserver la preuve matérielle de l'état exact de la vasque litigieuse avant toute modification, réparation ou fermeture définitive du salon.
 
 ### II.1 — URGENCE LIÉE AU RISQUE DE DISPARITION DES PREUVES
 
-Il est porté à la connaissance de la juridiction de céans que la société [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) fait face à un risque imminent de disparition (dissolution, liquidation ou fermeture précipitée).
+Il est porté à la connaissance de la juridiction de céans que la société [SAS LES MAUVAIS GARCONS] fait face à un risque imminent de disparition (dissolution, liquidation ou fermeture précipitée).
 
 Le capital social de cette structure n'étant que de 200 euros, son insolvabilité et sa fermeture rapide sont fortement redoutées.
 
@@ -90,7 +90,7 @@ L'[Article 873 du Code de procédure civile](https://www.legifrance.gouv.fr/code
 > *« Le président peut, dans les mêmes limites, et même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. »* <br>
 > [Article 873 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463) <br>
 
-La disparition des preuves matérielles indispensables à la future action au fond constituerait un dommage imminent et irréparable pour [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md), justifiant l'intervention immédiate d'un huissier de justice (commissaire de justice) sans débat contradictoire préalable, afin de ménager l'effet de surprise et d'éviter toute déperdition de preuves.
+La disparition des preuves matérielles indispensables à la future action au fond constituerait un dommage imminent et irréparable pour [Sébastien GRAZIDE], justifiant l'intervention immédiate d'un huissier de justice (commissaire de justice) sans débat contradictoire préalable, afin de ménager l'effet de surprise et d'éviter toute déperdition de preuves.
 <hr><hr>
 
 ## IV — OBJET DU CONSTAT
@@ -129,7 +129,7 @@ Fait pour valoir ce que de droit,
 Le ****
 
 <!-- Signature -->
-[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)
+[Sébastien GRAZIDE]
 <!-- /Signature -->
 
 <!-- PJ -->

@@ -1,5 +1,5 @@
 ---
-uid: eAQjHC6Qb
+uid: YxhDKzZqG
 emoji: 📜
 title: ✉️📜 CHIVA — Demande de Dossier Médical (LRAR)
 description: Demande de communication de l'intégralité du dossier médical de la victime
@@ -33,8 +33,8 @@ jx: J+50
 
 <!-- Auteur -->
 [Sébastien GRAZIDE](../../../../Memory/TOKEN%20MAP.md%23personnes-physiques)  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
@@ -45,7 +45,7 @@ Chemin de la Plaine
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
+Blagnac, le 18 juillet 2026
 <!-- /Date -->
 
 <hr><hr>
@@ -69,7 +69,7 @@ Monsieur le Directeur,
 
 En application des dispositions de l'article L. 1111-7 du Code de la santé publique (Loi Kouchner du 4 mars 2002), je sollicite par la présente la communication de l'intégralité de mon dossier médical relatif à mon admission aux urgences de votre établissement le **29 mai 2026**.
 
-J'ai été admis aux urgences le **29 mai 2026** suite à un accident corporel de la main droite survenu dans un commerce de Foix, nécessitant des soins d'urgence de la part du docteur **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**.
+J'ai été admis aux urgences le **29 mai 2026** suite à un accident corporel de la main droite survenu dans un commerce de Foix, nécessitant des soins d'urgence de la part du docteur Dr Julie JARDON.
 
 Je souhaite recevoir une copie complète de toutes les pièces constituant ce dossier, notamment :
 - Le bulletin d'admission et la fiche de liaison SAMU/Sapeurs-pompiers.
@@ -80,7 +80,7 @@ Je souhaite recevoir une copie complète de toutes les pièces constituant ce do
 
 - Les prescriptions de médicaments et de soins dispensés.
 
-- L'original du [certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) descriptif des blessures (établi par **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**).
+- L'original du [certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) descriptif des blessures (établi par Dr Julie JARDON).
 
 Je vous remercie de bien vouloir me transmettre ces documents par voie électronique ou, à défaut, à mon adresse postale mentionnée ci-dessus. Je m'engage à régler les éventuels frais de reproduction et d'envoi.
 

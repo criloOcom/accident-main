@@ -1,5 +1,5 @@
 ---
-uid: 3vCqgUmf5
+uid: dzZS9NNJe
 emoji: 🔄
 title: Relance Inspection du Travail — Suite signalement Maire de Foix
 description: Demande d'information sur l'enquête suite à l'accident du 29 mai 2026
@@ -28,7 +28,7 @@ jx: J+47
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # RELANCE<br>INSPECTION DU TRAVAIL
 
@@ -38,9 +38,9 @@ jx: J+47
 <hr><hr>
 
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Sébastien GRAZIDE  
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
@@ -51,7 +51,7 @@ Cité Administrative
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 15 juillet 2026
+Blagnac, le 15 juillet 2026
 <!-- /Date -->
 
 <hr><hr>
@@ -60,7 +60,7 @@ Cité Administrative
 
 <hr><hr>
 
-**Objet :** Demande d'information — Accident corporel du 29 mai 2026 — Salon « **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** » (**[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**)
+**Objet :** Demande d'information — Accident corporel du 29 mai 2026 — Salon « SAS LES MAUVAIS GARCONS » (22 Rue Lafaurie, 09000 Foix)
 
 <hr><hr>
 
@@ -70,9 +70,9 @@ Cité Administrative
 
 Madame, Monsieur,
 
-Je me permets de vous écrire en ma qualité de **victime directe** d'un accident corporel grave survenu le **29 mai 2026** dans le salon « **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** », **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** (PV de police n°2026/015967 — Commissariat de Toulouse).
+Je me permets de vous écrire en ma qualité de **victime directe** d'un accident corporel grave survenu le **29 mai 2026** dans le salon « SAS LES MAUVAIS GARCONS », 22 Rue Lafaurie, 09000 Foix (PV de police n°2026/015967 — Commissariat de Toulouse).
 
-Par courriel du **1er juin 2026**, **[L'Adjoint au Maire de la Commune](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**, Adjoint au Maire de Foix, m'a confirmé avoir saisi la Préfecture, laquelle devait **diligenter vos services** et le CODAF afin d'examiner la situation de cet établissement.
+Par courriel du **1er juin 2026**, Monsieur TAVELLA, Adjoint au Maire de Foix, m'a confirmé avoir saisi la Préfecture, laquelle devait **diligenter vos services** et le CODAF afin d'examiner la situation de cet établissement.
 
 <!-- Date -->
 L'accident a consisté en le **basculement** de la vasque en céramique du bac à shampoing sous le poids du préposé, monté physiquement sur l'équipement pour régler le téléviseur, alors que celle-ci était déjà fragilisée par une **cassure préexistante non signalée**. Ma main droite, tendue par réflexe, a heurté cette cassure, me sectionnant le tendon fléchisseur superficiel (FDP), le nerf digital et l'artère collatérale de l'index droit (neurolyse du nerf palmaire). J'ai été opéré en urgence le 30 mai 2026 à la Clinique SOS Main de Toulouse, avec un **[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours** (consolidation au 1er mars 2027, DFP 12 %).
@@ -93,7 +93,7 @@ Je vous remercie par avance de l'attention portée à la présente et reste à v
 Veuillez agréer, Madame, Monsieur, l'expression de ma considération distinguée.
 
 <!-- Signature -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
+Sébastien GRAZIDE
 <!-- /Signature -->
 
 <!-- PJ -->

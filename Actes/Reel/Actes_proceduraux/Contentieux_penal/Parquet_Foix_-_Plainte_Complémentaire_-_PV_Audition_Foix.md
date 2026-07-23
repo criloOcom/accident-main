@@ -1,9 +1,9 @@
 ---
-uid: 7aFpYuPgi
+uid: 4WdjkXxL5
 
 emoji: 🚔
 title: PV Audition Plainte Complémentaire — Blessures Involontaires et Entrave
-description: Procès-verbal d'audition de [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)
+description: Procès-verbal d'audition de [Sébastien GRAZIDE]
   au Commissariat de Foix pour le dépôt de sa plainte complémentaire,
   signalant des faits d'obstruction à la justice et de dissimulation de preuves par
   SAS LES MAUVAIS GARCONS.
@@ -39,21 +39,21 @@ jx: J+47
 
 <!-- Auteur -->
 # PROCÈS-VERBAL D'AUDITION DE PLAINTE COMPLÉMENTAIRE
-## COMMISSARIAT DE POLICE DE [Foix](../../../../Memory/Tokens/token-accident-ville.md)
+## COMMISSARIAT DE POLICE DE [Foix]
 
 > **RÉPUBLIQUE FRANÇAISE**
 > Ministère de l'Intérieur
 > Direction Interdépartementale de la Police Nationale
-> Commissariat de [Foix](../../../../Memory/Tokens/token-accident-ville.md)
+> Commissariat de [Foix]
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**N° de PV :** 2026/015967-COMP (Suite de la procédure initiale n°2026/015967 établie le 02/06/2026 au Commissariat de [Toulouse](../../../../Memory/Tokens/token-accident-metropole.md))
+**N° de PV :** 2026/015967-COMP (Suite de la procédure initiale n°2026/015967 établie le 02/06/2026 au Commissariat de [Toulouse])
 **Date :** 15 juillet 2026
 **Heure :** 14h30
 
 **OPJ Rédacteur :** [Nom de l'OPJ de permanence], Officier de Police Judiciaire
-**Lieu :** Commissariat de [Foix](../../../../Memory/Tokens/token-accident-ville.md), [**[Adresse du Commissariat]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)
+**Lieu :** Commissariat de [Foix], [**[Adresse du Commissariat]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)
 <!-- /Destinataire -->
 <hr><hr>
 
@@ -61,21 +61,21 @@ jx: J+47
 
 S'est présenté(e) spontanément à nos services ce jour, le 15 juillet 2026 à 14h30 :
 
-Monsieur [Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md), né le [**[Date de naissance de la victime]**](../../../../Memory/Tokens/token-victime-date-naissance.md) à [Toulouse](../../../../Memory/Tokens/token-accident-metropole.md), de nationalité française.
-Demeurant au [10 Avenue de Purpan, 31700 Blagnac](../../../../Memory/Tokens/token-victime-adresse.md).
-Profession : Informaticien indépendant (SIREN : [500 474 457](../../../../Memory/Tokens/token-victime-id-professionnel.md)).
-Contact : [06 30 51 67 75](../../../../Memory/Tokens/token-victime-telephone.md) / [sebastien.grazide@gmail.com](../../../../Memory/Tokens/token-victime-email.md).
+Monsieur [Sébastien GRAZIDE], né le [**[Date de naissance de la victime]**] à [Toulouse], de nationalité française.
+Demeurant au [10 Avenue de Purpan, 31700 Blagnac].
+Profession : Informaticien indépendant (SIREN : [500 474 457]).
+Contact : [06 30 51 67 75] / [sebastien.grazide@gmail.com].
 
-Lequel, après avoir été informé de ses droits conformément à l'article 10-2 du Code de procédure pénale, nous déclare vouloir déposer une plainte complémentaire à sa plainte initiale déposée le 02/06/2026 (référence [**[PV n°2026/015967]**](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) à l'encontre de la société [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) et de ses dirigeants.
+Lequel, après avoir été informé de ses droits conformément à l'article 10-2 du Code de procédure pénale, nous déclare vouloir déposer une plainte complémentaire à sa plainte initiale déposée le 02/06/2026 (référence [**[PV n°2026/015967]**](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) à l'encontre de la société [SAS LES MAUVAIS GARCONS] et de ses dirigeants.
 <hr><hr>
 
 ## II — DÉCLARATIONS DU PLAIGNANT
 
-« Je me présente aujourd'hui devant vous pour compléter ma plainte initiale du 2 juin dernier. Pour rappel, j'ai été victime d'un accident grave le 29 mai 2026 au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) sis au **[22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md). Un équipement lourd, un bac à shampoing défectueux avec une vasque cassée, m'est tombé dessus, causant une plaie profonde à ma main droite.
+« Je me présente aujourd'hui devant vous pour compléter ma plainte initiale du 2 juin dernier. Pour rappel, j'ai été victime d'un accident grave le 29 mai 2026 au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS] sis au **[22 Rue Lafaurie, 09000 Foix]. Un équipement lourd, un bac à shampoing défectueux avec une vasque cassée, m'est tombé dessus, causant une plaie profonde à ma main droite.
 
 Depuis ce dépôt de plainte, j'ai entrepris plusieurs démarches amiables qui se sont heurtées à ce qui me semble être une obstruction délibérée de la part des dirigeants de la société, et c'est la raison de ma présence aujourd'hui. Je souhaite dénoncer des faits qui s'apparentent, selon moi, à une entrave à la manifestation de la vérité et à une dissimulation de preuves.
 
-Premièrement, face au silence de l'exploitant le jour de l'accident, j'ai envoyé des lettres recommandées avec accusé de réception (LRAR) le 29 juin 2026 aux dirigeants ainsi qu'au propriétaire des murs. Le but de ces courriers était d'obtenir les coordonnées de leur assurance Responsabilité Civile Professionnelle, une obligation légale, pour permettre la prise en charge de mes préjudices, qui sont lourds (j'ai 55 jours d'[**[arrêt de travail]**](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)). Or, ces courriers me sont revenus avec la mention "NPAI - Destinataire inconnu à l'adresse". Pourtant, j'ai vérifié sur le RNE/INPI le 10 juillet 2026, la société est toujours officiellement immatriculée à cette adresse au [22 Rue Lafaurie, 09000 Foix](../../../../Memory/Tokens/token-exploitation-adresse.md). Il y a donc une volonté manifeste de se soustraire à leurs obligations et de ne réceptionner aucune communication de ma part ou de celle de la justice.
+Premièrement, face au silence de l'exploitant le jour de l'accident, j'ai envoyé des lettres recommandées avec accusé de réception (LRAR) le 29 juin 2026 aux dirigeants ainsi qu'au propriétaire des murs. Le but de ces courriers était d'obtenir les coordonnées de leur assurance Responsabilité Civile Professionnelle, une obligation légale, pour permettre la prise en charge de mes préjudices, qui sont lourds (j'ai 55 jours d'[**[arrêt de travail]**](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)). Or, ces courriers me sont revenus avec la mention "NPAI - Destinataire inconnu à l'adresse". Pourtant, j'ai vérifié sur le RNE/INPI le 10 juillet 2026, la société est toujours officiellement immatriculée à cette adresse au [22 Rue Lafaurie, 09000 Foix]. Il y a donc une volonté manifeste de se soustraire à leurs obligations et de ne réceptionner aucune communication de ma part ou de celle de la justice.
 
 Deuxièmement, je suis extrêmement inquiet quant à la disparition des preuves matérielles. J'ai constaté que le salon avait discrètement rouvert ses portes le 6 juillet dernier. Je crains fortement que le bac à shampoing en céramique cassé qui m'a blessé ait été remplacé, détruisant ainsi la preuve de sa dangerosité et de son état défectueux au moment de l'accident. De plus, j'ai demandé formellement, par courrier du 5 juillet, la conservation des enregistrements de la vidéosurveillance du salon, qui a capté toute la scène. Sans intervention rapide de vos services, je redoute que ces vidéos soient écrasées ou supprimées intentionnellement d'ici peu.
 
@@ -91,7 +91,7 @@ Je vous demande solennellement d'acter ma plainte complémentaire et, dans la me
 Sur ce, le déclarant nous remet les documents suivants, qui sont cotés, paraphés et annexés à la présente procédure :
 1. Une plainte rédigée de [X] pages, signée par le déclarant.
 
-2. Copie des LRAR adressées à [SAS LES MAUVAIS GARCONS](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) et retournées NPAI.
+2. Copie des LRAR adressées à [SAS LES MAUVAIS GARCONS] et retournées NPAI.
 
 3. Copie de la demande de conservation des vidéos.
 
@@ -107,7 +107,7 @@ Dont acte, clôturé par nous, [Nom de l'OPJ de permanence], OPJ, et signé avec
 
 **Le Déclarant,**
 *[Signature]*
-[Sébastien GRAZIDE](../../../../Memory/Tokens/token-victime-nom-complet.md)
+[Sébastien GRAZIDE]
 
 **L'Officier de Police Judiciaire,**
 *[Signature]*

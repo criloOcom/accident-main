@@ -1,5 +1,5 @@
 ---
-uid: J5jLSpWKh
+uid: pyE93FRCz
 title: "Bordereau - Pièces opération 15 juillet 2026 (ARCHIVÉ — JAMAIS EXÉCUTÉ)"
 description: "Liste minimale des pièces à emporter pour le 15/07/2026 — ARCHIVÉ : jamais exécuté, remplacé par checklist 20/07"
 type: readme

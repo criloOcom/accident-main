@@ -1,5 +1,5 @@
 ---
-uid: jfivYKYpM
+uid: tbANQCXWP
 emoji: ⚖️
 title: Opposition conservatoire à radiation de la SAS
 description: Nom de l'Avocat de la Victime
@@ -16,7 +16,7 @@ tags:
 
 - LRAR
 statut: final
-destinataire: Tribunal de Commerce de [Foix](../../../../Memory/Tokens/token-accident-ville.md)
+destinataire: Tribunal de Commerce de [Foix]
 auteur: Nom de l'Avocat de la Victime
 reel_path: ../../../Reel/Courriers/Justice/TC Foix - Tribunal de Commerce - Opposition Radiation.md
 jx: J+41
@@ -26,21 +26,21 @@ jx: J+41
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # OPPOSITION CONSERVATOIRE <br> RADIATION DE SOCIÉTÉ
 
 <!-- Auteur -->
-**[Nom de l'Avocat de la Victime](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
+Nom Prénom de l'Avocat
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**À L'ATTENTION DE MONSIEUR LE PRÉSIDENT DU Tribunal de Commerce de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)****
+**À L'ATTENTION DE MONSIEUR LE PRÉSIDENT DU Tribunal de Commerce de Foix**
 Service du Registre du Commerce et des Sociétés
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le 9 juillet 2026
+Foix, le 9 juillet 2026
 <!-- /Date -->
 
 <hr><hr>
@@ -49,22 +49,22 @@ Service du Registre du Commerce et des Sociétés
 
 <hr><hr>
 
-**Objet :** Demande d'opposition conservatoire à la radiation d'office ou volontaire de la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
+**Objet :** Demande d'opposition conservatoire à la radiation d'office ou volontaire de la société SAS LES MAUVAIS GARCONS
 
 <hr><hr>
 
 <!-- /Objet -->
 
 <hr><hr>
-**Référence RCS :** **[L'Identifiant de l'Exploitation](../../../../Memory/Tokens/token-exploitation-id.md)**
+**Référence RCS :** 938 033 222 00010
 **Lettre Recommandée avec Accusé de Réception**
 
 Monsieur le Président,
 
-J'interviens dans les intérêts de Monsieur **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, victime d'un accident corporel grave survenu au sein des locaux exploités par la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
+J'interviens dans les intérêts de Monsieur Sébastien GRAZIDE, victime d'un accident corporel grave survenu au sein des locaux exploités par la société SAS LES MAUVAIS GARCONS.
 ## I — PROBLÉMATIQUE : RISQUE DE DISPARITION DE LA PERSONNE MORALE
 
-À la suite de ce grave sinistre, de multiples manquements aux règles de sécurité, constitutifs d'infractions pénales, ont été constatés à l'encontre de la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
+À la suite de ce grave sinistre, de multiples manquements aux règles de sécurité, constitutifs d'infractions pénales, ont été constatés à l'encontre de la société SAS LES MAUVAIS GARCONS.
 
 Des procédures civiles et pénales sont actuellement en cours d'engagement pour faire valoir les droits de mon client et obtenir la réparation intégrale de son préjudice corporel, ainsi que la condamnation des responsables.
 
@@ -89,7 +89,7 @@ Le Code de commerce encadre strictement les conditions de radiation d'office d'u
 
 Les dispositions précitées, si elles permettent l'assainissement du registre, ne sauraient être instrumentalisées par une entreprise débitrice d'obligations indemnitaires pour organiser son insolvabilité ou échapper à la justice.
 
-Dans le cas d'espèce, la disparition de la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** créerait un préjudice irréparable pour **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**.
+Dans le cas d'espèce, la disparition de la société SAS LES MAUVAIS GARCONS créerait un préjudice irréparable pour Sébastien GRAZIDE.
 
 Il est de jurisprudence constante que les créanciers justifiant d'un intérêt légitime peuvent former opposition à une radiation pour préserver leurs droits, le temps que la juridiction saisie du fond statue sur les responsabilités et les indemnisations.
 
@@ -100,7 +100,7 @@ L'intérêt à agir de mon client est ici caractérisé et actuel, fondé sur un
 
 Au vu de l'urgence et du risque avéré de dissipation des garanties, je vous prie de bien vouloir, par la présente :
 
-1. **Prendre acte** de l'opposition formelle de **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** à toute demande de radiation, qu'elle soit amiable, consécutive à une dissolution anticipée, ou d'office, concernant la société **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (RCS **[L'Identifiant de l'Exploitation](../../../../Memory/Tokens/token-exploitation-id.md)**).
+1. **Prendre acte** de l'opposition formelle de Sébastien GRAZIDE à toute demande de radiation, qu'elle soit amiable, consécutive à une dissolution anticipée, ou d'office, concernant la société SAS LES MAUVAIS GARCONS (RCS 938 033 222 00010).
 
 2. **Inscrire** une mention de cette opposition au dossier de la société.
 
@@ -108,7 +108,7 @@ Au vu de l'urgence et du risque avéré de dissipation des garanties, je vous pr
 
 Je vous remercie de l'attention que vous porterez à cette demande, essentielle à la préservation des droits d'une victime de dommages corporels graves, et vous prie de croire, Monsieur le Président, en l'expression de mes salutations distinguées.
 
-**[Nom de l'Avocat de la Victime](../../../../Memory/Tokens/token-victime-avocat-nom.md)**
+Nom Prénom de l'Avocat
 Avocat au Barreau
 <!-- PJ -->
 <hr><hr>
