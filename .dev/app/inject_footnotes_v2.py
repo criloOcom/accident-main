@@ -116,6 +116,14 @@ def process_file(path):
         bl=entry["block"].split("\n")
         out=f"[^{tag}]: {bl[0]}\n"
         for extra in bl[1:]: out+=f"    {extra}\n"
+        # lien bibliothèque locale Lois/ (exploitation à 1000%)
+        try:
+            lois_map=json.load(open("/tmp/lois_map.json",encoding="utf-8"))
+            lp=lois_map.get(f"{entry['num']}|{entry['code']}")
+            if lp:
+                out+=f"    📚 Bibliothèque locale : [{os.path.basename(lp)[:-3]}]({lp})\n"
+        except Exception:
+            pass
         out=out.rstrip("\n")+" ↩"
         lines.append(out); lines.append("")
     src="\n".join(lines).rstrip()+"\n"

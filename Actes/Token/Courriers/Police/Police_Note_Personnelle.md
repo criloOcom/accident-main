@@ -353,9 +353,11 @@ Fait à **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-vill
 
 [^n1]: > « Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière : 1° De délivrer au preneur la chose louée et, s'il s'agit de son habitation principale, un logement décent. Lorsque des locaux loués à usage d'habitation sont impropres à cet usage, le bailleur ne peut se prévaloir de la nullité du bail ou de sa résiliation pour demander l'expulsion de l'occupant ; 2° D'entretenir cette chose en état de servir à l'usage pour lequel elle a été louée ; 3° D'en faire jouir paisiblement le preneur pendant la durée du bail ; 4° D'assurer également la permanence et la qualité des plantations. » <br>
     > **Code civil > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.** <br>
-    > [Article 1719 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) ↩
+    > [Article 1719 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127)
+    📚 Bibliothèque locale : [Article1719_CodeCivil_LegiFrance](Lois/Code/Code_civil/Article1719_CodeCivil_LegiFrance.md) ↩
 
 [^n2]: > « Le bailleur est tenu de délivrer la chose en bon état de réparations de toute espèce. Il doit y faire, pendant la durée du bail, toutes les réparations qui peuvent devenir nécessaires, autres que les locatives. » <br>
     > **Code civil > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.** <br>
-    > [Article 1720 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784) ↩
+    > [Article 1720 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784)
+    📚 Bibliothèque locale : [Article1720_CodeCivil_LegiFrance](Lois/Code/Code_civil/Article1720_CodeCivil_LegiFrance.md) ↩
 <!-- /Source -->

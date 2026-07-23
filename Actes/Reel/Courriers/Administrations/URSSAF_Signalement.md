@@ -141,17 +141,21 @@ Sébastien GRAZIDE
 
 [^n1]: > « Sont interdits : 1° Le travail totalement ou partiellement dissimulé, défini et exercé dans les conditions prévues aux articles L. 8221-3 et L. 8221-5 ; 2° La publicité, par quelque moyen que ce soit, tendant à favoriser, en toute connaissance de cause, le travail dissimulé ; 3° Le fait de recourir sciemment, directement ou par personne interposée, aux services de celui qui exerce un travail dissimulé. » <br>
     > **Code du travail > Section 1 : Dispositions générales.** <br>
-    > [Article L8221-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815) ↩
+    > [Article L8221-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815)
+    📚 Bibliothèque locale : [Article_L8221-1_CodeTravail](Lois/Code/Code_du_travail/Article_L8221-1_CodeTravail.md) ↩
 
 [^n2]: > « Est réputé travail dissimulé par dissimulation d'emploi salarié le fait pour tout employeur : 1° Soit de se soustraire intentionnellement à l'accomplissement de la formalité prévue à l'article L. 1221-10 , relatif à la déclaration préalable à l'embauche ; 2° Soit de se soustraire intentionnellement à la délivrance d'un bulletin de paie ou d'un document équivalent défini par voie réglementaire, ou de mentionner sur le bulletin de paie ou le document équivalent un nombre d'heures de travail inférieur à celui réellement accompli, si cette mention ne résulte pas d'une convention ou d'un accord collectif d'aménagement du temps de travail conclu en application du titre II du livre Ier de la troisième partie ; 3° Soit de se soustraire intentionnellement aux déclarations relatives aux salaires ou aux cotisations sociales assises sur ceux-ci auprès des organismes de recouvrement des contributions et cotisations sociales ou de l'administration fiscale en vertu des dispositions légales. » <br>
     > **Code du travail > Section 3 : Travail dissimulé par dissimulation d'emploi salarié.** <br>
-    > [Article L8221-5 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966) ↩
+    > [Article L8221-5 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966)
+    📚 Bibliothèque locale : [Article_L8221-5_CodeTravail](Lois/Code/Code_du_travail/Article_L8221-5_CodeTravail.md) ↩
 
 [^n3]: > « L'employeur transcrit et met à jour dans un document unique les résultats de l'évaluation des risques pour la santé et la sécurité des travailleurs à laquelle il procède en application de l'article L. 4121-3 . Cette évaluation comporte un inventaire des risques identifiés dans chaque unité de travail de l'entreprise ou de l'établissement, y compris ceux liés aux ambiances thermiques. » <br>
     > **Code du travail > Section 1 : Document unique d'évaluation des risques.** <br>
-    > [Article R4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023795562) ↩
+    > [Article R4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023795562)
+    📚 Bibliothèque locale : [Article_R4121-1_CodeTravail](Lois/Code/Code_du_travail/Article_R4121-1_CodeTravail.md) ↩
 
 [^n4]: > « Les agents de contrôle compétents en application de l'article L. 8271-1 sont : 1° Les agents de contrôle de l'inspection du travail mentionnés à l'article L. 8112-1 ; 2° Les officiers et agents de police judiciaire ; 3° Les agents des impôts et des douanes ; 4° Les agents des organismes de sécurité sociale, des caisses de mutualité sociale agricole et de leur caisse nationale ou centrale agréés à cet effet et assermentés ; 5° Les administrateurs des affaires maritimes, les officiers du corps technique et administratif des affaires maritimes et les fonctionnaires affectés dans les services exerçant des missions de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer ; 6° Les fonctionnaires des corps techniques et administratifs de l'aviation civile chargés de la lutte contre le travail illégal commissionnés à cet effet et assermentés ; 7° Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres ; 8° Les agents de l'institution mentionnée à l'article L. 5312-1 , chargés de la prévention des fraudes, agréés et assermentés à cet effet ; 9° Les agents du Conseil national des activités privées de sécurité commissionnés par son directeur et assermentés. » <br>
     > **Code du travail > Section 1 : Dispositions communes.** <br>
-    > [Article L8271-1-2 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054334961) ↩
+    > [Article L8271-1-2 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054334961)
+    📚 Bibliothèque locale : [Article_L8271-1-2_CodeTravail](Lois/Code/Code_du_travail/Article_L8271-1-2_CodeTravail.md) ↩
 <!-- /Source -->

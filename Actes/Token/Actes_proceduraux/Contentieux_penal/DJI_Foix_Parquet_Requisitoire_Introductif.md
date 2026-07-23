@@ -246,11 +246,13 @@ Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19
 
 [^n2]: > « Les personnes morales, à l'exclusion de l'Etat, sont responsables pénalement, selon les distinctions des articles 121-4 à 121-7 , des infractions commises, pour leur compte, par leurs organes ou représentants. Toutefois, les collectivités territoriales et leurs groupements ne sont responsables pénalement que des infractions commises dans l'exercice d'activités susceptibles de faire l'objet de conventions de délégation de service public. La responsabilité pénale des personnes morales n'exclut pas celle des personnes physiques auteurs ou complices des mêmes faits, sous réserve des dispositions du quatrième alinéa de l'article 121-3 . » <br>
     > **Code pénal > Chapitre Ier : Dispositions générales.** <br>
-    > [Article 121-2 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204) ↩
+    > [Article 121-2 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204)
+    📚 Bibliothèque locale : [Article_121-1a121-7_CodePenal_Legifrance](Lois/Code/Code_pénal/Article_121-1a121-7_CodePenal_Legifrance.md) ↩
 
 [^n3]: > « Il n'y a point de crime ou de délit sans intention de le commettre. Toutefois, lorsque la loi le prévoit, il y a délit en cas de mise en danger délibérée de la personne d'autrui. Il y a également délit, lorsque la loi le prévoit, en cas de faute d'imprudence, de négligence ou de manquement à une obligation de prudence ou de sécurité prévue par la loi ou le règlement, s'il est établi que l'auteur des faits n'a pas accompli les diligences normales compte tenu, le cas échéant, de la nature de ses missions ou de ses fonctions, de ses compétences ainsi que du pouvoir et des moyens dont il disposait. Dans le cas prévu par l'alinéa qui précède, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particulière gravité qu'elles ne pouvaient ignorer. Il n'y a point de contravention en cas de force majeure. » <br>
     > **Code pénal > Chapitre Ier : Dispositions générales.** <br>
-    > [Article 121-3 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) ↩
+    > [Article 121-3 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
+    📚 Bibliothèque locale : [Article_121-3_Code_Legifrance](Lois/Code/Code_pénal/Article_121-3_Code_Legifrance.md) ↩
 
 [^n4]: > « Est puni de trois ans d'emprisonnement et de 375 000 euros d'amende l'abus frauduleux de l'état d'ignorance ou de la situation de faiblesse soit d'un mineur, soit d'une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur, pour conduire ce mineur ou cette personne à un acte ou à une abstention qui lui sont gravement préjudiciables. Lorsque l'infraction est commise par l'utilisation d'un service de communication au public en ligne ou par le biais d'un support numérique ou électronique, les peines sont portées à cinq ans d'emprisonnement et à 750 000 euros d'amende. Lorsque l'infraction est commise en bande organisée, les peines sont portées à sept ans d'emprisonnement et à un million d'euros d'amende. » <br>
     > **Code pénal > Section 6 bis : De l'abus frauduleux de l'état d'ignorance ou de faiblesse et de la sujétion psychologique ou physique.** <br>
@@ -270,15 +272,18 @@ Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19
 
 [^n8]: > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
     > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
-    > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+    > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
+    📚 Bibliothèque locale : [Article222-20_CodePenal_LegiFrance](Lois/Code/Code_pénal/Article222-20_CodePenal_LegiFrance.md) ↩
 
 [^n9]: > « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. » <br>
     > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
-    > [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
+    > [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
+    📚 Bibliothèque locale : [Article_222-19_CodePenal_Legifrance](Lois/Code/Code_pénal/Article_222-19_CodePenal_Legifrance.md) ↩
 
 [^n10]: > « Le fait d'exposer directement autrui à un risque immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
     > **Code pénal > Section 1 : Des risques causés à autrui.** <br>
-    > [Article 223-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637) ↩
+    > [Article 223-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637)
+    📚 Bibliothèque locale : [Article_223-1_Code_Legifrance](Lois/Code/Code_pénal/Article_223-1_Code_Legifrance.md) ↩
 
 [^n11]: > « Le fait, par le gardien d'un animal susceptible de présenter un danger pour les personnes, de laisser divaguer cet animal est puni de l'amende prévue pour les contraventions de la 2e classe. En cas de condamnation du propriétaire de l'animal ou si le propriétaire est inconnu, le tribunal peut décider de remettre l'animal à une oeuvre de protection animale reconnue d'utilité publique ou déclarée, laquelle pourra librement en disposer. » <br>
     > **Code pénal > Section 2 : De la divagation d'animaux dangereux.** <br>
