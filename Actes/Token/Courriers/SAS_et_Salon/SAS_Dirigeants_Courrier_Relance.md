@@ -71,11 +71,11 @@ Je conçois que la fermeture soudaine et la réorganisation de votre établissem
 
 J'ai constaté que votre salon de coiffure a fermé ses portes immédiatement après l'accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** pour ne rouvrir que le [**[DATE REOUVERTURE BOUTIQUE]**](../../../../Memory/Tokens/token-exploitation-date-reouverture.md). 
 
-L'absence de réponse à ma mise en demeure initiale ayant dépassé le délai légal de 30 jours, l'inertie de votre société a potentiellement déjà causé l'effacement ou la destruction irrémédiable des bandes de vidéosurveillance (dont la durée de sauvegarde est limitée par la CNIL et l'article L. 252-5 du Code de la sécurité intérieure).
+L'absence de réponse à ma mise en demeure initiale ayant dépassé le délai légal de 30 jours, l'inertie de votre société a potentiellement déjà causé l'effacement ou la destruction irrémédiable des bandes de vidéosurveillance (dont la durée de sauvegarde est limitée par la CNIL et l'article L. 252-5 [À VÉRIFIER] du Code de la sécurité intérieure).
 
 Par ailleurs, la vasque en céramique à l'origine du sinistre et son support ont pu être réparés ou retirés.
 
-Par la présente, je vous intime formellement l'injonction de conserver et de ne pas altérer tout élément matériel restant lié à l'accident. Toute destruction ou altération intentionnelle de ces éléments est susceptible de caractériser le délit d'entrave à la manifestation de la vérité prévu par l'article 434-4 du Code pénal[^n1] (reproduit en Annexe 1).
+Par la présente, je vous intime formellement l'injonction de conserver et de ne pas altérer tout élément matériel restant lié à l'accident. Toute destruction ou altération intentionnelle de ces éléments est susceptible de caractériser le délit d'entrave à la manifestation de la vérité prévu par l'article 434-4 du Code pénal (reproduit en Annexe 1).
 
 > *« Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ; 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables. Lorsque les faits prévus au présent article sont commis par une personne qui, par ses fonctions, est appelée à concourir à la manifestation de la vérité, la peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende. »* <br>
 > [Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) <br>
@@ -111,7 +111,7 @@ Cette démarche a pour but de déclarer le sinistre et de permettre un règlemen
 
 ### II.1 — Signalements administratifs
 
-Compte tenu de la gravité de l'accident et des manquements flagrants à l'obligation de sécurité des locaux, je me réserve le droit de procéder à des signalements auprès de l'Inspection du travail (DREETS - article L. 4121-1 du Code du[^n2] travail) et de la commission de sécurité des ERP.
+Compte tenu de la gravité de l'accident et des manquements flagrants à l'obligation de sécurité des locaux, je me réserve le droit de procéder à des signalements auprès de l'Inspection du travail (DREETS - article L. 4121-1 du Code du travail) et de la commission de sécurité des ERP.
 
 > *« L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. »* <br>
 > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) <br>
@@ -147,7 +147,7 @@ je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président,
 
 ### IV.1 — Annexe 1 : Entrave à la manifestation de la vérité
 
-**Article 434-4 du Code pénal[^n1] (version en vigueur au 29 mai 2026)** :
+**Article 434-4 du Code pénal (version en vigueur au 29 mai 2026)** :
 
 > *« Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ; 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables. Lorsque les faits prévus au présent article sont commis par une personne qui, par ses fonctions, est appelée à concourir à la manifestation de la vérité, la peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende. »* <br>
 > [Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) <br>
@@ -188,7 +188,6 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]
 <!-- /PJ -->
-
 <!-- Source -->
 <hr><hr>
 

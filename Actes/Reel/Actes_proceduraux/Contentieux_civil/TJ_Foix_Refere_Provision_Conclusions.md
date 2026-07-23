@@ -96,13 +96,13 @@ Il n'existait dans le salon **aucun équipement d'accès en hauteur** (pas d'esc
 ### II.1 — CARACTÈRE NON CONTESTABLE DE L'OBLIGATION
 
 #### II.1.a — Faute caractérisée
-Violation des obligations de sécurité (articles 1240 CC et R. 4323-58 et suivants du Code du travail)**
+Violation des obligations de sécurité (articles 1240 [À VÉRIFIER] CC et R. 4323-58 et suivants du Code du travail)**
 
-L'absence d'équipement d'accès en hauteur (escabeau, marchepied, échelle) constitue une violation des articles R. 4323-58[^n1] et suivants du Code du travail, qui imposent à l'employeur de mettre à disposition des travailleurs les équipements nécessaires à la réalisation des travaux en hauteur. 
+L'absence d'équipement d'accès en hauteur (escabeau, marchepied, échelle) constitue une violation des articles R. 4323-58 et suivants du Code du travail, qui imposent à l'employeur de mettre à disposition des travailleurs les équipements nécessaires à la réalisation des travaux en hauteur. 
 
 Cette carence structurelle a contraint le préposé à escalader la vasque, créant la condition de l'accident.
 
-Elle caractérise une faute de l'exploitant au sens de l'article 1240 du Code civil[^n2].
+Elle caractérise une faute de l'exploitant au sens de l'article 1240 du Code civil.
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »*
 > [Article 1240 du Code civil](../../../../Lois/Code/Code_civil/Article1240_CodeCivil.md)
@@ -110,13 +110,13 @@ Elle caractérise une faute de l'exploitant au sens de l'article 1240 du Code ci
 
 #### II.1.b — Responsabilité du fait des choses
 
-Au sens de l'article 1242[^n3] alinéa 1er du Code civil, « on est responsable […] du dommage […] causé […] par le fait des choses que l'on a sous sa garde ». La société défenderesse est gardienne de la vasque en céramique installée dans son salon.
+Au sens de l'article 1242 alinéa 1er du Code civil, « on est responsable […] du dommage […] causé […] par le fait des choses que l'on a sous sa garde ». La société défenderesse est gardienne de la vasque en céramique installée dans son salon.
 
 Le **basculement brutal** de cette chose a été l'**instrument actif** du dommage subi par la victime. Ce basculement est établi par le procès-verbal de police n°2026/015967.
 
 La Cour de cassation, dans un arrêt de principe, a retenu qu'une échelle installée par un préposé qui bascule et blesse un tiers engage la responsabilité du gardien, qui ne peut s'exonérer qu'en prouvant une cause étrangère (force majeure, faute de la victime, fait d'un tiers).
 
-> *« La Cour de cassation rappelle qu'une échelle installée par un préposé du commettant qui bascule et blesse un tiers engage la responsabilité du gardien sur le fondement de l'article 1242[^n3] alinéa 1er du Code civil. »*
+> *« La Cour de cassation rappelle qu'une échelle installée par un préposé du commettant qui bascule et blesse un tiers engage la responsabilité du gardien sur le fondement de l'article 1242 alinéa 1er du Code civil. »*
 > [Arrêt n°89-18.422](../../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md)
 > **Cour de cassation, 2e chambre civile, 13 février 1991, n° 89-18.422**
 
@@ -130,7 +130,7 @@ Par ailleurs, la **cassure préexistante** constitue un **vice inhérent** de la
 
 #### II.1.c — Responsabilité du commettant du fait du préposé
 
-Aux termes de l'article 1242[^n3] alinéa 5 du Code civil, « les maîtres et les commettants […] du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés ».
+Aux termes de l'article 1242 alinéa 5 du Code civil, « les maîtres et les commettants […] du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés ».
 
 Le coiffeur préposé agissait bien au service de l'exploitation du salon en tentant de régler le poste de télévision, acte entrant dans le cadre normal de ses fonctions.
 
@@ -138,7 +138,7 @@ L'Assemblée plénière de la Cour de cassation, dans l'arrêt Costedoat (25 fé
 
 #### II.1.d — Faute aggravée de l'exploitant
 
-Outre la violation des articles R. 4323-58[^n1] et suivants du Code du travail (cf. point 1 ci-dessus), la société défenderesse a commis des fautes caractérisées par :
+Outre la violation des articles R. 4323-58 et suivants du Code du travail (cf. point 1 ci-dessus), la société défenderesse a commis des fautes caractérisées par :
 
 - l'**absence totale d'équipement d'accès en hauteur**, créant une situation de danger manifeste ;
 
@@ -252,7 +252,6 @@ Voir les mémoires complets :
 : [Arrêt n°74-10.466 — www.legifrance.gouv.fr/juri/id/JURITEXT000006993485](../../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/74-10.466_CourCassation.md) ↩
 : [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](../../../../Lois/Code/Code_procédure_civile/Article_700_Codeproc_Legifrance.md) ↩
 : [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
-
 <!-- Source -->
 <hr><hr>
 

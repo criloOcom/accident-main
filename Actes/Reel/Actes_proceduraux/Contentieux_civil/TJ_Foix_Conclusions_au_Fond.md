@@ -119,7 +119,7 @@ Le rapport d'expertise a été déposé au greffe le 29 mai 2027 et a fixé la c
 
 ### IV.2 — 2.2 Qualité et recevabilité de l'action
 
-La demanderesse, en sa qualité de tiers lésé par l'accident survenu dans un établissement recevant du public, agit sur le fondement cumulé des articles 1242[^n1] alinéa 1er et 1240 du Code civil, ainsi que des articles L.4121-1 à L.4121-5 et R.4323-58 du Code du travail.
+La demanderesse, en sa qualité de tiers lésé par l'accident survenu dans un établissement recevant du public, agit sur le fondement cumulé des articles 1242 alinéa 1er et 1240 du Code civil, ainsi que des articles L.4121-1 [À VÉRIFIER] à L.4121-5 et R.4323-58 du Code du travail.
 
 L'action est recevable et non prescrite, le délai de droit commun de cinq ans (article 2224 du Code civil) courant à compter de la consolidation du 1er mars 2027.
 
@@ -134,9 +134,9 @@ Il n'y a pas lieu à sursis à statuer dans l'attente de l'issue de l'informatio
 
 ## V — RESPONSABILITÉ
 
-### V.1 — 3.1 Responsabilité du fait des choses (article 1242[^n1] alinéa 1er du Code civil)
+### V.1 — 3.1 Responsabilité du fait des choses (article 1242 alinéa 1er du Code civil)
 
-L'article 1242[^n1] alinéa 1er du Code civil dispose :
+L'article 1242 alinéa 1er du Code civil dispose :
 
 > *« On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des choses que l'on a sous sa garde. »*
 
@@ -160,13 +160,13 @@ La responsabilité du fait des choses repose sur trois conditions cumulatives :
 
 À titre subsidiaire, la SAS SAS HB BARBER a méconnu plusieurs obligations légales et réglementaires :
 
-**Articles L.4121-1[^n2] à L.4121-5 du Code du travail** — obligation générale de sécurité et de protection de la santé :
+**Articles L.4121-1 à L.4121-5 du Code du travail** — obligation générale de sécurité et de protection de la santé :
 
 > *« L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. »* (Article L.4121-1)
 
-> *« Ces mesures comprennent : 1° Des actions de prévention des risques professionnels ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. »* (Article L.4121-2)
+> *« Ces mesures comprennent : 1° Des actions de prévention des risques professionnels ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. »* (Article L.4121-2 [À VÉRIFIER])
 
-**Article R.4323-58 du Code du[^n3] travail** — obligation de fournir un équipement d'accès en hauteur :
+**Article R.4323-58 du Code du travail** — obligation de fournir un équipement d'accès en hauteur :
 
 > *« Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. »*
 
@@ -176,13 +176,13 @@ La responsabilité du fait des choses repose sur trois conditions cumulatives :
 
 2. **État défectueux de l'équipement** : la vasque présentait une cassure préexistante non signalée, constituant un danger pour les clients et les salariés
 
-3. **Absence présumée de DUERP** : à ce jour, aucun Document Unique d'Évaluation des Risques Professionnels n'a été communiqué, en violation des articles R.4121-1[^n4] et suivants du Code du travail
+3. **Absence présumée de DUERP** : à ce jour, aucun Document Unique d'Évaluation des Risques Professionnels n'a été communiqué, en violation des articles R.4121-1 et suivants du Code du travail
 
 4. **Défaut de formation et d'information** : le préposé n'a pas été formé aux risques liés au travail en hauteur ni informé de l'état dangereux de l'équipement
 
-### V.3 — 3.3 Faute de la SAS (article 1240 du Code civil[^n5] — très subsidiaire)
+### V.3 — 3.3 Faute de la SAS (article 1240 du Code civil — très subsidiaire)
 
-À titre infiniment subsidiaire, la SAS SAS HB BARBER a commis une faute civile engageant sa responsabilité délictuelle sur le fondement de l'article 1240 du Code civil[^n5].
+À titre infiniment subsidiaire, la SAS SAS HB BARBER a commis une faute civile engageant sa responsabilité délictuelle sur le fondement de l'article 1240 du Code civil.
 
 Cette faute résulte du cumul de négligences inexcusables :
 - Défaut de signalement et de réparation de la cassure préexistante de la vasque
@@ -223,9 +223,9 @@ L'indemnisation du préjudice corporel est régie par les principes suivants :
 
 - La réparation doit être intégrale, sans perte ni profit pour la victime
 
-- Le recours des tiers payeurs (CPAM, mutuelle) s'impute poste par poste conformément à l'article 29 de la loi n° 85-677 du 5 juillet 1985
+- Le recours des tiers payeurs (CPAM, mutuelle) s'impute poste par poste conformément à l'article 29 [À VÉRIFIER] de la loi n° 85-677 du 5 juillet 1985
 
-- Le droit de préférence de la victime sur la part d'indemnité correspondant aux préjudices non couverts par le recours (article 31 de la loi Badinter)
+- Le droit de préférence de la victime sur la part d'indemnité correspondant aux préjudices non couverts par le recours (article 31 [À VÉRIFIER] de la loi Badinter)
 
 **Référence chiffrée unique** : Rapport d'expertise du 29 mai 2027 — consolidation au 1er mars 2027 — DFP 12 % — SE 4/7.
 
@@ -363,10 +363,10 @@ Aide humaine temporaire pendant la période de convalescence.
 
 **PAR CES MOTIFS,**
 
-Vu les articles 1240, 1242[^n5][^n1] alinéa 1er du Code civil,
-Vu les articles L.4121-1 à L.4121-5, R.4121-1 et suivants, R.4323-58 du Code du travail,
-Vu l'article L.124-3 du Code des assurances,
-Vu les articles 29 et 31 de la loi n° 85-677 du 5 juillet 1985,
+Vu les articles 1240, 1242 alinéa 1er du Code civil,
+Vu les articles L.4121-1 [À VÉRIFIER] à L.4121-5, R.4121-1 et suivants, R.4323-58 du Code du travail,
+Vu l'article L.124-3 [À VÉRIFIER] du Code des assurances,
+Vu les articles 29 [À VÉRIFIER] et 31 de la loi n° 85-677 du 5 juillet 1985,
 Vu le rapport d'expertise médicale déposé le 29 mai 2027,
 Vu les pièces versées aux débats,
 
@@ -374,7 +374,7 @@ Vu les pièces versées aux débats,
 
 **RECEVOIR** la demanderesse en ses demandes et les dire bien fondées ;
 
-**DIRE ET JUGER** que la SAS SAS HB BARBER est entièrement responsable du préjudice corporel subi par Sébastien GRAZIDE sur le fondement de l'article 1242[^n1] alinéa 1er du Code civil, subsidiairement sur celui de l'article 1240[^n5] du même code ;
+**DIRE ET JUGER** que la SAS SAS HB BARBER est entièrement responsable du préjudice corporel subi par Sébastien GRAZIDE sur le fondement de l'article 1242 alinéa 1er du Code civil, subsidiairement sur celui de l'article 1240 du même code ;
 
 **CONDAMNER** en conséquence la SAS SAS HB BARBER les sommes suivantes :
 
@@ -400,7 +400,7 @@ Vu les pièces versées aux débats,
 
 - Au titre des pertes de gains professionnels futurs (PGPF) : **à évaluer (fourchette expertise 50 000 – 70 000 €)**
 
-**DÉDUIRE** de ces sommes la créance des tiers payeurs (CPAM) conformément aux articles 29 et 31 de la loi du 5 juillet 1985 (créance estimée à ~790,23 € au titre des DSA) ;
+**DÉDUIRE** de ces sommes la créance des tiers payeurs (CPAM) conformément aux articles 29 [À VÉRIFIER] et 31 de la loi du 5 juillet 1985 (créance estimée à ~790,23 € au titre des DSA) ;
 
 **CONDAMNER** la SAS SAS HB BARBER à payer à Sébastien GRAZIDE la somme de **3 000 €** au titre de l'article 700 du Code de procédure civile ;
 
@@ -419,7 +419,7 @@ Vu les pièces versées aux débats,
 **FAIT À Foix, LE [**[Date Dépôt Conclusions]**](../../../../Memory/STRICT%20VARIABLES.md%23dates-cles)**
 
 Sébastien GRAZIDE
-*(partie demanderesse, non assistée d'avocat — article 827 CPC)*
+*(partie demanderesse, non assistée d'avocat — article 827 [À VÉRIFIER] CPC)*
 <hr><hr>
 
 ## VIII — BORDEREAU DES PIÈCES COMMUNIQUÉES
@@ -446,7 +446,6 @@ Sébastien GRAZIDE
 
 <hr><hr>
 <sup>*Document à jour au [**[Date Dépôt Conclusions]**](../../../../Memory/STRICT%20VARIABLES.md%23dates-cles) — Simulation à vocation pédagogique.*</sup>
-
 <!-- Source -->
 <hr><hr>
 
@@ -456,19 +455,27 @@ Sébastien GRAZIDE
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
     > [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
 
-[^n2]: > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. » <br>
+[^n2]: > « Les actions personnelles ou mobilières se prescrivent par cinq ans à compter du jour où le titulaire d'un droit a connu ou aurait dû connaître les faits lui permettant de l'exercer. » <br>
+    > **Code civil > Section 1 : Du délai de droit commun et de son point de départ.** <br>
+    > [Article 2224 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112) ↩
+
+[^n3]: > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. » <br>
     > **Code du travail > Chapitre Ier : Obligations de l'employeur.** <br>
     > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) ↩
 
-[^n3]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
+[^n4]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
     > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.** <br>
     > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) ↩
 
-[^n4]: > « L'employeur transcrit et met à jour dans un document unique les résultats de l'évaluation des risques pour la santé et la sécurité des travailleurs à laquelle il procède en application de l'article L. 4121-3 . Cette évaluation comporte un inventaire des risques identifiés dans chaque unité de travail de l'entreprise ou de l'établissement, y compris ceux liés aux ambiances thermiques. » <br>
+[^n5]: > « L'employeur transcrit et met à jour dans un document unique les résultats de l'évaluation des risques pour la santé et la sécurité des travailleurs à laquelle il procède en application de l'article L. 4121-3 . Cette évaluation comporte un inventaire des risques identifiés dans chaque unité de travail de l'entreprise ou de l'établissement, y compris ceux liés aux ambiances thermiques. » <br>
     > **Code du travail > Section 1 : Document unique d'évaluation des risques.** <br>
     > [Article R4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023795562) ↩
 
-[^n5]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+[^n6]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
     > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+
+[^n7]: > « Les intérêts échus, dus au moins pour une année entière, produisent intérêt si le contrat l'a prévu ou si une décision de justice le précise. » <br>
+    > **Code civil > Sous-section 2 : Dispositions particulières aux obligations de sommes d'argent.** <br>
+    > [Article 1343-2 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035261) ↩
 <!-- /Source -->

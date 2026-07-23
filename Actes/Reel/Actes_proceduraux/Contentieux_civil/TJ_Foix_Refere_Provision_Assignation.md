@@ -16,10 +16,10 @@ recipient: Monsieur le Président du Tribunal Judiciaire de Foix
 jurisdiction: Tribunal Judiciaire de Foix
 legal_basis:
   - Article 835 du Code de procédure civile
-  - Article 145 du Code de procédure civile
-  - Article 1240 du Code civil[^n1]
-  - Article 700 du Code de procédure civile
-  - Article L. 124-3 du Code des assurances
+  - Article 145 [À VÉRIFIER] du Code de procédure civile
+  - Article 1240 du Code civil
+  - Article 700 [À VÉRIFIER] du Code de procédure civile
+  - Article L. 124-3 [À VÉRIFIER] du Code des assurances
 description: Rédigé le **30 juin 2026
 type: readme
 date: 2026-06-30
@@ -263,7 +263,7 @@ Aucun élément versé aux débats ne permet de contester sérieusement ni la ma
 > [Arrêt n°90-14.261](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007028156) <br>
 > **Cour de cassation, 2e chambre civile, 15 mai 1992, n° 90-14.261**
 
-> *« Il résulte de l'article L. 455-1-1 du code de la sécurité sociale que la victime d'un accident du travail peut prétendre à une indemnisation complémentaire sur le fondement de la loi n° 85-677 du 5 juillet 1985 lorsque l'accident survient sur une voie ouverte à la circulation publique et qu'il implique un véhicule terrestre à moteur conduit par l'employeur, un préposé ou une personne appartenant à la même entreprise qu'elle. »* <br>
+> *« Il résulte de l'article L. 455-1-1 [À VÉRIFIER] du code de la sécurité sociale que la victime d'un accident du travail peut prétendre à une indemnisation complémentaire sur le fondement de la loi n° 85-677 du 5 juillet 1985 lorsque l'accident survient sur une voie ouverte à la circulation publique et qu'il implique un véhicule terrestre à moteur conduit par l'employeur, un préposé ou une personne appartenant à la même entreprise qu'elle. »* <br>
 > [Arrêt n°15-15.306](https://www.legifrance.gouv.fr/juri/id/JURITEXT000032312857) <br>
 > **Cour de cassation, 2e chambre civile, 24 mars 2016, n° 15-15.306**
 
@@ -326,13 +326,13 @@ Dans l'attente du dépôt du rapport de l'expert judiciaire, Sébastien GRAZIDE 
 ## PAR CES MOTIFS
 
 Vu les articles 145 et 835 du Code de procédure civile,
-Vu les articles 1240 et 1242 du Code civil[^n1][^n2],
-Vu l'article L. 124-3 du Code des assurances,
+Vu les articles 1240 et 1242 du Code civil,
+Vu l'article L. 124-3 [À VÉRIFIER] du Code des assurances,
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
-Vu les articles L. 111-1 et L. 217-1 du Code de la consommation,
+Vu les articles L. 111-1 [À VÉRIFIER] et L. 217-1 du Code de la consommation,
 Vu l'article L. 227-8 du Code de commerce,
 Vu les pièces versées aux débats,
 
@@ -391,7 +391,6 @@ Nom Prénom de l'Avocat
 12. LRAR de mise en demeure adressée à Catherine SORROCHE, dite ANDISSAC (29 juin 2026)
 
 13. LRAR adressée à Romain DELRIEU et son AR signé (3 juillet 2026)
-
 <!-- Source -->
 <hr><hr>
 
