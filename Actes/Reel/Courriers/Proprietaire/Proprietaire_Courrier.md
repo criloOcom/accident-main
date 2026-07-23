@@ -24,32 +24,15 @@ jx: J+31
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Proprietaire](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# DEMANDE DE COMMUNICATION <br> D'ASSURANCE RC
-> 🔗 Source Google Drive : [1W-C6nM5G_GU…](https://drive.google.com/open?id=1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4)
-<!-- Auteur -->
-Sébastien GRAZIDE  
-10 Avenue de Purpan, 31700 Blagnac  
-sebastien.grazide@gmail.com
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Monsieur Romain DELRIEU  
-17 rue de la Baïse  
-31120 Roquettes
-<!-- /Destinataire -->
-
-<!-- Date -->
-Blagnac, le 29 juin 2026
-<!-- /Date -->
-
-<hr><hr>
 Objet : Demande de communication d'assurance RC — Accident 29 mai 2026 — L.R.A.R.
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 La présente lettre est adressée par Sébastien GRAZIDE à Romain DELRIEU en sa qualité de propriétaire bailleur des locaux commerciaux situés au 22 Rue Lafaurie, 09000 Foix, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de l'exploitant.
 

@@ -15,35 +15,15 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - Directrice Géné
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# LETTRE RECOMMANDÉE — MME LA DIRECTRICE GÉNÉRALE (DOMICILE PERSONNEL)
-> 🔗 Source Google Drive : [20260718 ✉️ LRAR Catherine SORROCHE, dite ANDISSAC (DG)](https://docs.google.com/document/d/1g8I1hYbqsue4Q14iQBVkUsXM3uOgFOqRpg4Myp-frxE/edit?usp=sharing)
-
-<!-- Auteur -->
-10 Avenue de Purpan, 31700 Blagnac
-
-sebastien.grazide@gmail.com
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Catherine SORROCHE, dite ANDISSAC
-
-Directrice Générale de SAS HB BARBER
-
-351 route Impériale, 34670 Baillargues
-<!-- /Destinataire -->
-
-<!-- Date -->
-Blagnac, le 18 juillet 2026
-<!-- /Date -->
-
-<hr><hr>
 Objet : Demande de communication de l'assurance RC professionnelle de SAS HB BARBER — Notification à la dirigeante à titre personnel et de représentant légal
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 Mode d'envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 

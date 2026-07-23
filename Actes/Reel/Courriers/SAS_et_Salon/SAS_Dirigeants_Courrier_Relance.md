@@ -27,32 +27,15 @@ jx: J+40
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# RELANCE<br>DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE
-
-<!-- Auteur -->
-10 Avenue de Purpan, 31700 Blagnac
-sebastien.grazide@gmail.com
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-SAS HB BARBER
-Hamza El Hachemi BERGUIGA
-Catherine SORROCHE, dite ANDISSAC
-22 Rue Lafaurie, 09000 Foix
-<!-- /Destinataire -->
-
-<!-- Date -->
-Foix, le 8 juillet 2026
-<!-- /Date -->
-
-<hr><hr>
 Objet : Relance — Demande d'information assurance RC et communication d'une adresse de correspondance — Accident 29 mai 2026
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 Par lettre de mise en demeure adressée le 29 juin 2026 en recommandé avec accusé de réception à chacun de vous à l'adresse du siège social (22 Rue Lafaurie, 09000 Foix), j'ai sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de SAS HB BARBER.
 

@@ -26,33 +26,15 @@ jx: J+37
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-<!-- Auteur -->
-Sébastien GRAZIDE  
-10 Avenue de Purpan, 31700 Blagnac  
-sebastien.grazide@gmail.com
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Police Nationale — Commissariat de Foix  
-Place de la Préfecture  
-09000 Foix
-<!-- /Destinataire -->
-
-<!-- Date -->
-Blagnac, le 5 juillet 2026
-<!-- /Date -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# RELANCE POLICE NATIONALE<br>SUIVI DE PLAINTE ET DEMANDE DE VIDEOS
-> 🔗 Source Google Drive : [171CF_LzNopY…](https://drive.google.com/open?id=171CF_LzNopYxIS6Tn4i3t3Ghx3ut14F1gh6-KjHevCA)
-
-<hr><hr>
 Objet : Relance pour suivi de plainte et demande de videosurveillance — PV n° 2026/015967
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 <hr><hr>
 

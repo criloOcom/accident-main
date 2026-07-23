@@ -197,7 +197,18 @@ Les sections de premier niveau sont séparées par `<hr><hr>` (double `<hr>`) po
 
 5. Le `---` (triple tiret) **n'est pas utilisé comme séparateur de section** — il est réservé au YAML front matter. Tout `---` dans le corps du fichier (hors code blocks) qui sert de HR doit être remplacé par `<hr><hr>`
 
-6. Le `<hr>` simple après le breadcrumb est conservé (c'est un usage différent — séparation navigation/contenu)
+### Règle des Blocs Objet (Courriers et Actes)
+7. **RÈGLE STRICTE DES BLOCS OBJET** : Tout bloc d'objet dans un courrier ou un acte DOIT être encadré par des séparateurs simples `<hr>` et balisé par des commentaires HTML `<!-- Objet -->` et `<!-- /Objet -->`. Les doubles séparateurs `<hr><hr>` autour d'un bloc `Objet` sont STRICTEMENT INTERDITS.
+
+```markdown
+<!-- Objet -->
+<hr>
+
+Objet : [Texte clair et propre de l'objet]
+
+<hr>
+<!-- /Objet -->
+```
 
 ### Exemple visuel
 ```markdown

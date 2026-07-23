@@ -25,34 +25,15 @@ jx: J+37
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-<!-- Auteur -->
-Sébastien GRAZIDE  
-10 Avenue de Purpan, 31700 Blagnac  
-sebastien.grazide@gmail.com
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-INPI — Registre National des Entreprises  
-15 Rue des Minimes  
-75116 Paris
-<!-- /Destinataire -->
-
-<!-- Date -->
-Blagnac, le 5 juillet 2026
-<!-- /Date -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# SIGNALEMENT DE LITIGE <br> INPI
-
-> 🔗 Source Google Drive : [1gFhTi6GhD6u…](https://drive.google.com/open?id=1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E)
-
-<hr><hr>
 Objet : Demande de signalement de litige en cours au RNE — SAS SAS HB BARBER
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 Ref : SIREN 104 103 262 — SAS SAS HB BARBER
 

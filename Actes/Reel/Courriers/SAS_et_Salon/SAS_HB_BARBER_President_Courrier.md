@@ -15,35 +15,15 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - Président - Cour
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# LETTRE RECOMMANDÉE — M. LE PRÉSIDENT (DOMICILE PERSONNEL)
-> 🔗 [**[Source Google Drive LRAR Président]**](https://docs.google.com/document/d/1D5UTW7pYf5smzSC5NHE_hsHuya2B-b4UuwDpDe1_C8Y/edit?usp=sharing)
-
-<!-- Auteur -->
-10 Avenue de Purpan, 31700 Blagnac
-
-sebastien.grazide@gmail.com
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Hamza El Hachemi BERGUIGA
-
-Président de SAS HB BARBER
-
-115 avenue Fernand Loubet, 09200 Saint-Girons
-<!-- /Destinataire -->
-
-<!-- Date -->
-Blagnac, le 18 juillet 2026
-<!-- /Date -->
-
-<hr><hr>
 Objet : Demande de communication de l'assurance RC professionnelle de SAS HB BARBER — Notification au Président à titre personnel et de représentant légal
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 Mode d'envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 

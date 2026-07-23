@@ -29,33 +29,15 @@ jx: J+37
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-<!-- Auteur -->
-Sébastien GRAZIDE  
-10 Avenue de Purpan, 31700 Blagnac  
-sebastien.grazide@gmail.com
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Préfecture de l'Ariège — Référent CODAF  
-2 Rue de la Préfecture  
-09007 Foix Cedex
-<!-- /Destinataire -->
-
-<!-- Date -->
-Blagnac, le 5 juillet 2026
-<!-- /Date -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# CONFIRMATION OFFICIELLE DE SIGNALEMENT <br> A LA PREFECTURE DE L'ARIEGE
-> 🔗 Source Google Drive : [1sIkiScOSFZy…](https://drive.google.com/open?id=1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM)
-
-<hr><hr>
 Objet : Confirmation officielle de signalement — Accident du 29 mai 2026 au salon SAS HB BARBER
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 Ref : Signalement effectué par la Mairie de Foix le 1er juin 2026
 

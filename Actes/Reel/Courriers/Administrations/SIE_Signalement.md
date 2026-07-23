@@ -25,31 +25,15 @@ jx: J+37
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# INFORMATION DE LITIGE <br> SERVICE DES IMPOTS DES ENTREPRISES
-> 🔗 Source Google Drive : [1yl55r__e8V0…](https://drive.google.com/open?id=1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA)
-<!-- Auteur -->
-Sébastien GRAZIDE  
-10 Avenue de Purpan, 31700 Blagnac  
-sebastien.grazide@gmail.com
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Service des Impôts des Entreprises de Foix  
-Foix
-<!-- /Destinataire -->
-
-<!-- Date -->
-Blagnac, le 5 juillet 2026
-<!-- /Date -->
-
-<hr><hr>
 Objet : Information de litige en cours — SAS SAS HB BARBER
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 <hr><hr>
 

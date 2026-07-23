@@ -24,32 +24,15 @@ jx: J+31
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Proprietaire](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# DEMANDE DE COMMUNICATION <br> D'ASSURANCE RC
-> 🔗 Source Google Drive : [1W-C6nM5G_GU…](https://drive.google.com/open?id=1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4)
-<!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)  
-[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Monsieur **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)**  
-17 rue de la Baïse  
-31120 Roquettes
-<!-- /Destinataire -->
-
-<!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 29 juin 2026
-<!-- /Date -->
-
-<hr><hr>
 Objet : Demande de communication d'assurance RC — Accident **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** — L.R.A.R.
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 La présente lettre est adressée par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** à **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md)** en sa qualité de propriétaire bailleur des locaux commerciaux situés au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de l'exploitant.
 

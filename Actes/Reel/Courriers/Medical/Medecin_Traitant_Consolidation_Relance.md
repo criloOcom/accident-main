@@ -22,13 +22,15 @@ jx: J+38
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Medical](./README.md)*
-<hr>
-<!-- /Breadcrumb -->
 
-# RELANCE<br>DEMANDE DE CERTIFICAT MÉDICAL DE CONSOLIDATION
-<hr><hr>
+
+<!-- Objet -->
+<hr>
+
 Objet : Demande de certificat médical de consolidation — Suite courrier du 5 juillet 2026
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 <!-- Destinataire -->
 Dr Iskander DJERBI

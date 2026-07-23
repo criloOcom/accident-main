@@ -26,30 +26,10 @@ reel_path: ../../../Reel/Courriers/CPAM/CPAM - Rectification Identité - Relance
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [CPAM](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
-
-<!-- Auteur -->
-Sébastien GRAZIDE  
-10 Avenue de Purpan, 31700 Blagnac  
-sebastien.grazide@gmail.com
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-CPAM de la Haute-Garonne  
-Service Recours Contre Tiers  
-3 Boulevard de la Méditerranée  
-31093 Toulouse Cedex 9
-<!-- /Destinataire -->
-
-<!-- Date -->
-Blagnac, le 18 juillet 2026
-<!-- /Date -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# COURRIER DE RECTIFICATION D'IDENTITÉ DE LA SOCIÉTÉ RESPONSABLE
-<hr><hr>
 
 Objet : Rectification formelle de la désignation de la société responsable et relance du dossier de recours contre tiers n° [31727387](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)
 
@@ -91,7 +71,9 @@ Sébastien GRAZIDE
 <!-- /Signature -->
 
 <!-- PJ -->
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 ## PIÈCES JOINTES
 

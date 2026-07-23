@@ -25,33 +25,17 @@ jx: J+37
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Mairie](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-# SUIVI<br>DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF
-> 🔗 Source Google Drive : [1Xj4wf-v-ShC…](https://drive.google.com/open?id=1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw)
-<!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)  
-[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-**[L'Adjoint au Maire de la Commune](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**  
-Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**  
-45 Cours Gabriel Fauré  
-09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
-<!-- /Destinataire -->
-
-<!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
-<!-- /Date -->
-
-<hr>
 Objet : Suite a votre message du 1er juin 2026 — Demande d'information sur les diligences Inspection du Travail et CODAF
 
 Ref : [Votre courriel du 1er juin 2026 à 16h15](../../Preuves%20officielles/20260601_MAIL_Mairie/20260601-1615%20MAIL%20Foix%20MAIRIE%20AdjointAuMaire.pdf)
+
 <hr>
+<!-- /Objet -->
 
 Monsieur l'Adjoint au Maire,
 

@@ -22,13 +22,15 @@ jx: J+38
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Medical](./README.md)*
-<hr>
-<!-- /Breadcrumb -->
 
-# RELANCE<br>DEMANDE DE CERTIFICAT MÉDICAL DE CONSOLIDATION
-<hr><hr>
+
+<!-- Objet -->
+<hr>
+
 Objet : Demande de certificat médical de consolidation — Suite courrier du **[J+37 Assignation 145](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 <!-- Destinataire -->
 **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**

@@ -27,36 +27,15 @@ jx: J+37
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Medical](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-**Table des matieres**
-
-- [INTRODUCTION](#introduction)
-
-# DEMANDE DE CERTIFICAT MEDICAL <br> CONSOLIDATION
-> 🔗 Source Google Drive : [1PSv6c0YFvLa…](https://drive.google.com/open?id=1PSv6c0YFvLa0WDEbwc3AVxL14z7ARi5ne50ctJgCvWI)
-<!-- Auteur -->
-10 Avenue de Purpan, 31700 Blagnac
-
-sebastien.grazide@gmail.com
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Dr Iskander DJERBI
-
-Service SOS Main — Clinique de l'Union
-
-[À compléter]
-<!-- /Destinataire -->
-
-<!-- Date -->
-Foix, le 5 juillet 2026
-<!-- /Date -->
-
-<hr><hr>
 Objet : Demande de certificat medical de consolidation — Accident du 29 mai 2026
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 La presente lettre est adressee par Sébastien GRAZIDE a Dr Iskander DJERBI afin de solliciter la delivrance d'un certificat medical de consolidation dans le cadre de la procedure d'indemnisation de l'accident corporel dont il a ete victime le 29 mai 2026 et qui a necessite votre intervention de microchirurgie d'urgence le 30 mai 2026.
 

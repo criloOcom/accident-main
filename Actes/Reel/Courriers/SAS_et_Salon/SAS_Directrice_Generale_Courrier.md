@@ -28,30 +28,11 @@ jx: J+31
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# MISE EN DEMEURE<br>DEMANDE D'INFORMATION ASSURANCE RC
-> 🔗 Source Google Drive : [1EcEmT59OVPS…](https://drive.google.com/open?id=1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93)
-
-<!-- Auteur -->
-10 Avenue de Purpan, 31700 Blagnac
-
-sebastien.grazide@gmail.com
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Catherine SORROCHE, dite ANDISSAC
-22 Rue Lafaurie, 09000 Foix
-<!-- /Destinataire -->
-
-<!-- Date -->
-Blagnac, le [29 juin 2026]
-<!-- /Date -->
-
-<hr><hr>
 Objet : Demande d'information et communication d'assurance — Accident [29 mai 2026] — L.R.A.R.
 La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions.
 
@@ -69,7 +50,8 @@ L'article L. 227-8 du Code de commerce[^n1] dispose que les dirigeants d'une soc
 
 Le défaut d'information de la victime sur l'identité de l'assureur constitue un manquement grave à l'obligation de loyauté et de transparence qui incombe à tout dirigeant d'entreprise.
 
-<hr><hr>
+<hr>
+<!-- /Objet -->
 
 Je me permets de vous adresser la présente lettre dans une démarche constructive, préalable à toute action contentieuse, afin d'obtenir les informations nécessaires à la régularisation du sinistre dont j'ai été victime le [29 mai 2026] dans les locaux de [SAS HB BARBER], société au sein de laquelle vous exercez les fonctions de Directrice Générale.
 

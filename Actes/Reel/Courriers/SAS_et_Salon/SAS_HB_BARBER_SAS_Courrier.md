@@ -24,36 +24,15 @@ jx: J+31
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-**Table des matières**
-
-- [INTRODUCTION](#introduction)
-
-# MISE EN DEMEURE<br>DÉCLARATION D'ACCIDENT CORPOREL
-> 🔗 Source Google Drive : [1s5_z0l9yti3…](https://drive.google.com/open?id=1s5_z0l9yti3Ir6yBGH5xlZE-2LMs8uMJGlVcQA_sHKc)
-<!-- Auteur -->
-10 Avenue de Purpan, 31700 Blagnac
-
-sebastien.grazide@gmail.com
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Direction de SAS HB BARBER
-
-22 Rue Lafaurie, 09000 Foix
-<!-- /Destinataire -->
-
-<!-- Date -->
-Foix, le 29 juin 2026
-<!-- /Date -->
-
-<hr><hr>
 Objet : Déclaration d'accident corporel — Demande d'information assurance RC — L.R.A.R.
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 La présente lettre de mise en demeure est adressée par Sébastien GRAZIDE à SAS HB BARBER afin de déclarer officiellement l'accident corporel survenu le 29 mai 2026 dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
 

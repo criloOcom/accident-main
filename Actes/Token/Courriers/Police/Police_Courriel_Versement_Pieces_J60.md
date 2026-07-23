@@ -23,30 +23,15 @@ jx: J+56
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-<!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)  
-[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)  
-[Le Téléphone de la Victime](../../../../Memory/Tokens/token-victime-telephone.md)
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Commissariat de Police de Foix  
-À l'attention de l'Officier de Police Judiciaire en charge du dossier
-<!-- /Destinataire -->
-
-<!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 24 juillet 2026
-<!-- /Date -->
-
-# COURRIEL AU COMMISSARIAT DE FOIX<br>VERSEMENT DE PIÈCES COMPLÉMENTAIRES
-
-<hr><hr>
 Objet : Versement de pièces complémentaires — PV n° 2026/015967 — accident corporel du 29 mai 2026 (salon de coiffure)
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 Madame, Monsieur l'Officier de Police Judiciaire,
 

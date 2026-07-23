@@ -29,33 +29,15 @@ jx: J+37
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-<!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)  
-[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Préfecture de l'Ariège — Référent CODAF  
-2 Rue de la Préfecture  
-09007 Foix Cedex
-<!-- /Destinataire -->
-
-<!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 5 juillet 2026
-<!-- /Date -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# CONFIRMATION OFFICIELLE DE SIGNALEMENT <br> A LA PREFECTURE DE L'ARIEGE
-> 🔗 Source Google Drive : [1sIkiScOSFZy…](https://drive.google.com/open?id=1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM)
-
-<hr><hr>
 Objet : Confirmation officielle de signalement — Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au salon [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 Ref : Signalement effectué par la Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** le 1er juin 2026
 

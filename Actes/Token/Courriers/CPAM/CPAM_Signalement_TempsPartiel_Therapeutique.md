@@ -21,31 +21,15 @@ jx: J+55
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [CPAM](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-<!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)  
-[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-CPAM de la Haute-Garonne  
-Service Recours Contre Tiers  
-3 Boulevard de la Méditerranée  
-31093 Toulouse Cedex 9
-<!-- /Destinataire -->
-
-<!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 23 juillet 2026
-<!-- /Date -->
-
-# SIGNALEMENT CPAM<br>PASSAGE EN TEMPS PARTIEL THÉRAPEUTIQUE
-
-<hr><hr>
 Objet : Transmission d'un avis de temps partiel thérapeutique (24/07/2026 → 23/08/2026) — Recours contre tiers n° [**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 Ref : Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** — **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 

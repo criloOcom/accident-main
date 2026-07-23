@@ -21,23 +21,15 @@ jx: J+38
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Temoins](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-<!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)  
-[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-**Employé(e) du salon présent(e) le [J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**
-<!-- /Destinataire -->
-
-# TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (EMPLOYÉ)
-<hr><hr>
 Objet : Attestation de témoin — Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 <hr><hr>
 

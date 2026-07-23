@@ -15,35 +15,15 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - SAS - HB BARBER -
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# LETTRE RECOMMANDÉE — SAS HB BARBER (SIÈGE SOCIAL)
-> 🔗 Source Google Drive : [20260718 ✉️ LRAR SAS HB BARBER (Societe)](https://docs.google.com/document/d/1mcrXdWAJM2TPbyp03NnhJeTCaKDp4b2WfuTUPtdBk-I/edit?usp=sharing)
-
-<!-- Auteur -->
-[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)
-
-[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)
-
-SIREN : **[L'Identifiant Professionnel de la Victime](../../../../Memory/Tokens/token-victime-id-professionnel.md)**
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Direction de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)
-
-**[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**
-<!-- /Destinataire -->
-
-<!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 18 juillet 2026
-<!-- /Date -->
-
-<hr><hr>
 Objet : Déclaration d'accident corporel — Demande de communication des coordonnées de l’assurance RC professionnelle — Démarche amiable préalable
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 Mode d’envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 

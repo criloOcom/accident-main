@@ -25,33 +25,17 @@ jx: J+37
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Mairie](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-# SUIVI<br>DEMANDE D'INFORMATION INSPECTION DU TRAVAIL ET CODAF
-> 🔗 Source Google Drive : [1Xj4wf-v-ShC…](https://drive.google.com/open?id=1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw)
-<!-- Auteur -->
-Sébastien GRAZIDE  
-10 Avenue de Purpan, 31700 Blagnac  
-sebastien.grazide@gmail.com
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Monsieur TAVELLA  
-Mairie de Foix  
-45 Cours Gabriel Fauré  
-09000 Foix
-<!-- /Destinataire -->
-
-<!-- Date -->
-Blagnac, le 5 juillet 2026
-<!-- /Date -->
-
-<hr>
 Objet : Suite a votre message du 1er juin 2026 — Demande d'information sur les diligences Inspection du Travail et CODAF
 
 Ref : [Votre courriel du 1er juin 2026 à 16h15](../../Preuves%20officielles/20260601_MAIL_Mairie/20260601-1615%20MAIL%20Foix%20MAIRIE%20AdjointAuMaire.pdf)
+
 <hr>
+<!-- /Objet -->
 
 Monsieur l'Adjoint au Maire,
 

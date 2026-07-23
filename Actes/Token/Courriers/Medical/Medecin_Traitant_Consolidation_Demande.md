@@ -27,36 +27,15 @@ jx: J+37
 
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Medical](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-**Table des matieres**
-
-- [INTRODUCTION](#introduction)
-
-# DEMANDE DE CERTIFICAT MEDICAL <br> CONSOLIDATION
-> 🔗 Source Google Drive : [1PSv6c0YFvLa…](https://drive.google.com/open?id=1PSv6c0YFvLa0WDEbwc3AVxL14z7ARi5ne50ctJgCvWI)
-<!-- Auteur -->
-[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)
-
-[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-**[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**
-
-Service SOS Main — **[L'Établissement SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)**
-
-**[Adresse à compléter]**
-<!-- /Destinataire -->
-
-<!-- Date -->
-**[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, le **[J+37 Assignation 145](../../../../Memory/Tokens/token-j-37-assignation-145.md)**
-<!-- /Date -->
-
-<hr><hr>
 Objet : Demande de certificat medical de consolidation — Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 La presente lettre est adressee par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** a **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** afin de solliciter la delivrance d'un certificat medical de consolidation dans le cadre de la procedure d'indemnisation de l'accident corporel dont il a ete victime le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** et qui a necessite votre intervention de microchirurgie d'urgence le **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)**.
 

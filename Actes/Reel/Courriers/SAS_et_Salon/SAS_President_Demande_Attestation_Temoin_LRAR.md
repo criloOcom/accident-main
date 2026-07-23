@@ -22,29 +22,15 @@ jx: J+53
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
-
-<!-- Auteur -->
-Sébastien GRAZIDE
-10 Avenue de Purpan, 31700 Blagnac
-sebastien.grazide@gmail.com
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Hamza El Hachemi BERGUIGA
-115 avenue Fernand Loubet, 09200 Saint-Girons
-<!-- /Destinataire -->
-
-<!-- Date -->
-Blagnac, le 21 juillet 2026
-<!-- /Date -->
-
-<hr><hr>
 
 Objet : Demande de témoignage — Accident du 29 mai 2026 — LRAR
 
-<hr><hr>
+<hr>
+<!-- /Objet -->
 
 Madame, Monsieur,
 

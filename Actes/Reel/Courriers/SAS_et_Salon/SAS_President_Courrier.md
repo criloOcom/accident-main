@@ -26,32 +26,15 @@ jx: J+31
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# MISE EN DEMEURE AUX DIRIGEANTS<br>DEMANDE D'INFORMATION ASSURANCE RC
-> 🔗 Source Google Drive : [1pheN3_rudxy…](https://drive.google.com/open?id=1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I)
-<!-- Auteur -->
-10 Avenue de Purpan, 31700 Blagnac <br>
-sebastien.grazide@gmail.com
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC
-
-SAS HB BARBER <br>
-22 Rue Lafaurie, 09000 Foix
-<!-- /Destinataire -->
-
-<!-- Date -->
-Foix, le 29 juin 2026
-<!-- /Date -->
-
-<hr><hr>
 Objet : Demande d'information et communication d'assurance — Accident 29 mai 2026 — L.R.A.R.
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 <hr><hr>
 

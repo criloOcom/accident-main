@@ -22,30 +22,15 @@ jx: J+53
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
-
-<!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
-[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)
-[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-**[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
-**[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**
-**À l'attention de [Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)**
-<!-- /Destinataire -->
-
-<!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le **[J+53 Demande attestation préposé]**
-<!-- /Date -->
-
-<hr><hr>
 
 Objet : Demande de témoignage — Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** — LRAR
 
-<hr><hr>
+<hr>
+<!-- /Objet -->
 
 Madame, Monsieur,
 

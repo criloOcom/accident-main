@@ -23,30 +23,15 @@ jx: J+56
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-<!-- Auteur -->
-Sébastien GRAZIDE  
-10 Avenue de Purpan, 31700 Blagnac  
-sebastien.grazide@gmail.com  
-06 30 51 67 75
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Commissariat de Police de Foix  
-À l'attention de l'Officier de Police Judiciaire en charge du dossier
-<!-- /Destinataire -->
-
-<!-- Date -->
-Blagnac, le 24 juillet 2026
-<!-- /Date -->
-
-# COURRIEL AU COMMISSARIAT DE FOIX<br>VERSEMENT DE PIÈCES COMPLÉMENTAIRES
-
-<hr><hr>
 Objet : Versement de pièces complémentaires — PV n° 2026/015967 — accident corporel du 29 mai 2026 (salon de coiffure)
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 Madame, Monsieur l'Officier de Police Judiciaire,
 

@@ -21,31 +21,15 @@ jx: J+55
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [CPAM](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-<!-- Auteur -->
-Sébastien GRAZIDE  
-10 Avenue de Purpan, 31700 Blagnac  
-sebastien.grazide@gmail.com
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-CPAM de la Haute-Garonne  
-Service Recours Contre Tiers  
-3 Boulevard de la Méditerranée  
-31093 Toulouse Cedex 9
-<!-- /Destinataire -->
-
-<!-- Date -->
-Blagnac, le 23 juillet 2026
-<!-- /Date -->
-
-# SIGNALEMENT CPAM<br>PASSAGE EN TEMPS PARTIEL THÉRAPEUTIQUE
-
-<hr><hr>
 Objet : Transmission d'un avis de temps partiel thérapeutique (24/07/2026 → 23/08/2026) — Recours contre tiers n° [31727387](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 Ref : Accident du 29 mai 2026 — SAS HB BARBER
 

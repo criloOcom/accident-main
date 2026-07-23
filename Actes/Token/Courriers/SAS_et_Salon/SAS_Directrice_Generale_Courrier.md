@@ -28,30 +28,11 @@ jx: J+31
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# MISE EN DEMEURE<br>DEMANDE D'INFORMATION ASSURANCE RC
-> 🔗 Source Google Drive : [1EcEmT59OVPS…](https://drive.google.com/open?id=1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93)
-
-<!-- Auteur -->
-[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)
-
-[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-**[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**
-**[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**
-<!-- /Destinataire -->
-
-<!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le [**[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**]
-<!-- /Date -->
-
-<hr><hr>
 Objet : Demande d'information et communication d'assurance — Accident [**[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**] — L.R.A.R.
 La responsabilité personnelle des dirigeants peut être engagée pour faute détachable de leurs fonctions.
 
@@ -69,7 +50,8 @@ L'article L. 227-8 du Code de commerce[^n1] dispose que les dirigeants d'une soc
 
 Le défaut d'information de la victime sur l'identité de l'assureur constitue un manquement grave à l'obligation de loyauté et de transparence qui incombe à tout dirigeant d'entreprise.
 
-<hr><hr>
+<hr>
+<!-- /Objet -->
 
 Je me permets de vous adresser la présente lettre dans une démarche constructive, préalable à toute action contentieuse, afin d'obtenir les informations nécessaires à la régularisation du sinistre dont j'ai été victime le [**[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**] dans les locaux de [**[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**], société au sein de laquelle vous exercez les fonctions de Directrice Générale.
 

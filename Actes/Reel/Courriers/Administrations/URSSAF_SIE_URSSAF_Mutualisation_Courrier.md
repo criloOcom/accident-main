@@ -28,32 +28,15 @@ calendar_event_id: 9ortbnkvp8it8hnebif5fr4bec
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
-# DEMANDE DE MUTUALISATION <br> FISCALE ET SOCIALE URGENTE
-
-<!-- Auteur -->
-Sébastien GRAZIDE  
-10 Avenue de Purpan, 31700 Blagnac  
-sebastien.grazide@gmail.com
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-Service des Impôts des Entreprises de Foix  
-Foix  
-URSSAF Midi-Pyrénées
-<!-- /Destinataire -->
-
-<!-- Date -->
-Blagnac, le 9 juillet 2026
-<!-- /Date -->
-
-<hr><hr>
 Objet : Demande de mutualisation fiscale et sociale urgente — SAS SAS HB BARBER
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 Ref : SIREN 104 103 262
 

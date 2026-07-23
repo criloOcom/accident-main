@@ -21,23 +21,15 @@ jx: J+38
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Temoins](./README.md)*
+
+
+<!-- Objet -->
 <hr>
-<!-- /Breadcrumb -->
 
-<!-- Auteur -->
-Sébastien GRAZIDE  
-10 Avenue de Purpan, 31700 Blagnac  
-sebastien.grazide@gmail.com
-<!-- /Auteur -->
-
-<!-- Destinataire -->
-**Services de secours intervenus le 29 mai 2026**
-<!-- /Destinataire -->
-
-# TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (POMPIER / SAMU)
-<hr><hr>
 Objet : Attestation de témoin — Intervention du 29 mai 2026 au 22 Rue Lafaurie, 09000 Foix
-<hr><hr>
+
+<hr>
+<!-- /Objet -->
 
 <hr><hr>
 
