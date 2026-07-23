@@ -87,11 +87,11 @@ L'arrêt **[80-16.679 CourCassation](../../../Lois/Jurisprudence/Action_directe_
 
 #### CA Versailles, 2025 (n° 22/01019) — Distinction prescription biennale
 
-L'arrêt **[CA Versailles 22/01019](<../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA Versailles 22-01019.md>)** confirme que l'action directe de la victime contre l'assureur est soumise à la prescription de droit commun de l'action en responsabilité contre l'assuré, et non à la prescription biennale de l'article L. 114-1 du Code des assurances. Cette dernière est réservée aux actions nées du contrat d'assurance entre l'assureur et l'assuré.
+L'arrêt **[CA Versailles 22/01019](<../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA Versailles 22-01019.md>)** confirme que l'action directe de la victime contre l'assureur est soumise à la prescription de droit commun de l'action en responsabilité contre l'assuré, et non à la prescription biennale de l'article L. 114-1 [À VÉRIFIER] du Code des assurances. Cette dernière est réservée aux actions nées du contrat d'assurance entre l'assureur et l'assuré.
 
-> *« L'action directe de la victime contre l'assureur est soumise à la prescription de droit commun de l'action en responsabilité contre l'assuré, et non à la prescription biennale de l'article L. 114-1 du Code des assurances. »*
+> *« L'action directe de la victime contre l'assureur est soumise à la prescription de droit commun de l'action en responsabilité contre l'assuré, et non à la prescription biennale de l'article L. 114-1 [À VÉRIFIER] du Code des assurances. »*
 
-**Pertinence dossier :** Permet d'écarter l'argument de l'assureur qui invoquerait la prescription biennale de l'article L. 114-1 C. assur. pour opposer l'action directe de la victime. L'action directe suit le délai de prescription de l'action en responsabilité contre l'exploitant (5 ans).
+**Pertinence dossier :** Permet d'écarter l'argument de l'assureur qui invoquerait la prescription biennale de l'article L. 114-1 [À VÉRIFIER] C. assur. pour opposer l'action directe de la victime. L'action directe suit le délai de prescription de l'action en responsabilité contre l'exploitant (5 ans).
 
 ### II.3 — Régimes d'indemnisation subsidiaires (FGAO / CIVI)
 
@@ -99,7 +99,7 @@ L'arrêt **[CA Versailles 22/01019](<../../../Lois/Jurisprudence/Jurisprudence_d
 
 L'arrêt **[20-23.462 CourCassation](../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/20-23.462_CourCassation.md)** rappelle que les dommages susceptibles d'être indemnisés par le FGAO sont exclus de la compétence de la CIVI, peu important que le FGAO intervienne subsidiairement en présence d'un assureur du responsable.
 
-> *« Les dommages susceptibles d'être indemnisés par le FGAO en application des articles L. 421-1 et L. 424-1 à L. 424-7 du code des assurances sont exclus de la compétence de la CIVI, peu important que le FGAO intervienne subsidiairement. »*
+> *« Les dommages susceptibles d'être indemnisés par le FGAO en application des articles L. 421-1 [À VÉRIFIER] et L. 424-1 à L. 424-7 du code des assurances sont exclus de la compétence de la CIVI, peu important que le FGAO intervienne subsidiairement. »*
 
 #### Civ. 2e, 24 novembre 2022 (n° 20-22.100) — Absence de revirement
 
@@ -109,7 +109,7 @@ L'arrêt **[20-22.100 CourCassation](../../../Lois/Jurisprudence/Action_directe_
 
 L'arrêt **[20-19.288 CourCassation](../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/20-19.288_CourCassation.md)** complète la série en précisant que cette règle vaut indépendamment de la nature corporelle ou matérielle du dommage.
 
-**Pertinence dossier :** Ces arrêts ne sont pas directement applicables (accident en France, pas de véhicule impliqué) mais confirment le principe d'exclusivité des régimes d'indemnisation : lorsqu'un régime spécifique existe (responsabilité ERP + assurance RC), il écarte les mécanismes subsidiaires. Si l'assureur est inconnu ou la garantie défaillante, le FGAO pourrait être mobilisé (art. L. 421-9 C. assur. pour les accidents corporels, sous conditions).
+**Pertinence dossier :** Ces arrêts ne sont pas directement applicables (accident en France, pas de véhicule impliqué) mais confirment le principe d'exclusivité des régimes d'indemnisation : lorsqu'un régime spécifique existe (responsabilité ERP + assurance RC), il écarte les mécanismes subsidiaires. Si l'assureur est inconnu ou la garantie défaillante, le FGAO pourrait être mobilisé (art. L. 421-9 [À VÉRIFIER] C. assur. pour les accidents corporels, sous conditions).
 <hr><hr>
 
 ## III — RESPONSABILITÉ DE L'ERP
@@ -120,7 +120,7 @@ L'arrêt **[20-19.288 CourCassation](../../../Lois/Jurisprudence/Action_directe_
 
 L'arrêt **[89-18.422 CourCassation](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md)** est le plus proche de notre cas : une échelle installée par un préposé bascule et blesse la personne qui l'emprunte. La Cour retient que le basculement établit le fait de la chose ; le gardien ne peut s'exonérer qu'en prouvant une cause étrangère (victime, tiers, force majeure).
 
-> *« La cour d'appel a pu déduire, sans inverser la charge de la preuve, que la responsabilité de la société Locatel, gardienne de l'échelle, se trouvait engagée sur le fondement de l'article 1384, alinéa 1er, du Code civil, dès lors que le fait de la chose était établi. »*
+> *« La cour d'appel a pu déduire, sans inverser la charge de la preuve, que la responsabilité de la société Locatel, gardienne de l'échelle, se trouvait engagée sur le fondement de l'article 1384 [À VÉRIFIER], alinéa 1er, du Code civil, dès lors que le fait de la chose était établi. »*
 
 **Application au dossier :** La vasque en céramique fixée sur coque de douche a basculé et s'est brisée sous le poids du corps de la victime qui y a été contrainte par l'agencement des lieux. Le gardien (SAS LES MAUVAIS GARCONS est présumé responsable dès lors que le fait de la chose (basculement) est établi. Il ne démontre pas de cause étrangère — c'est le même schéma qu'en 89-18.422.
 
@@ -210,7 +210,7 @@ L'arrêt **[22-18.089 CourCassation](../../../Lois/Jurisprudence/Transaction_sou
 |---|---|---|---|---|
 | 🏛️ Action directe — Prescription | [Civ. 1re, 80-16.679](../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/80-16.679_CourCassation.md) | 10 mars 1982 | Prescription de l'action directe liée à celle de l'assuré (pas d'autonomie). La prescription de l'action civile contre l'assuré s'applique à l'action directe. | ⭐⭐⭐ Vérifier les délais. Action au fond 5 ans (art. 2224 C. civ.) depuis le 29 mai 2026. Aucun risque à ce stade. |
 | 🏛️ Action directe — Prescription biennale | [CA Versailles 22/01019](<../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA Versailles 22-01019.md>) | 2025 | L'action directe n'est pas soumise à la prescription biennale L. 114-1 C. assur., réservée aux actions nées du contrat. | ⭐⭐⭐ Utile pour écarter l'argument de l'assureur qui invoquerait la prescription biennale. |
-| 🏛️ FGAO / CIVI — Compétence exclusive | [Civ. 2e, 20-23.462](../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/20-23.462_CourCassation.md) | 24 nov. 2022 | FGAO exclusif de la CIVI. Principe d'exclusivité des régimes d'indemnisation spéciaux. | ⭐⭐ Si assureur inconnu ou défaillant, possibilité de mobiliser le FGAO (art. L. 421-9 C. assur.) pour accidents corporels. |
+| 🏛️ FGAO / CIVI — Compétence exclusive | [Civ. 2e, 20-23.462](../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/20-23.462_CourCassation.md) | 24 nov. 2022 | FGAO exclusif de la CIVI. Principe d'exclusivité des régimes d'indemnisation spéciaux. | ⭐⭐ Si assureur inconnu ou défaillant, possibilité de mobiliser le FGAO (art. L. 421-9 [À VÉRIFIER] C. assur.) pour accidents corporels. |
 | 🏛️ FGAO / CIVI — Absence revirement | [Civ. 2e, 20-22.100](../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/20-22.100_CourCassation.md) | 24 nov. 2022 | La solution ne constitue pas un revirement. Application immédiate ne viole pas la CEDH. | ⭐⭐ Conforte le principe d'exclusivité. Transposable par analogie. |
 | 🏛️ FGAO / CIVI — Exclusion accidents corporels | [Civ. 2e, 20-19.288](../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/20-19.288_CourCassation.md) | 24 nov. 2022 | Confirmation : les dommages relevant du FGAO sont exclus de la CIVI, quelle que soit la nature du préjudice. | ⭐⭐ Renforce la démonstration du principe de non-cumul des régimes. |
 | 📦 Resp. fait des choses — Chose qui bascule | [Civ. 2e, 89-18.422](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md) | 13 fév. 1991 | Le basculement établit le fait de la chose. Présomption de responsabilité du gardien. Exonération seulement par cause étrangère. | ⭐⭐⭐⭐⭐ Arrêt le plus proche. La vasque a basculé = schéma identique. Responsabilité de plein droit de l'exploitant. |
@@ -232,7 +232,7 @@ L'arrêt **[22-18.089 CourCassation](../../../Lois/Jurisprudence/Transaction_sou
 
 1. **Responsabilité de l'ERP acquise** : le fondement de la responsabilité du fait des choses (art. 1242 C. civ.) est solidement établi par les arrêts **[89-18.422](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md)** (basculement = fait de la chose) et **[74-10.466](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/74-10.466_CourCassation.md)** (vice inhérent non exonératoire). La jurisprudence de fond (CA Toulouse, TJ Nanterre) confirme l'obligation de sécurité renforcée de l'ERP.
 
-2. **Action directe fondée** : l'action directe contre l'assureur (L. 124-3 C. assur.) est parfaitement recevable. La prescription n'est pas un risque à ce stade (délai de 5 ans courant depuis le 29 mai 2026). La prescription biennale de l'article L. 114-1 C. assur. ne s'applique pas à l'action directe (CA Versailles 22/01019).
+2. **Action directe fondée** : l'action directe contre l'assureur (L. 124-3 C. assur.) est parfaitement recevable. La prescription n'est pas un risque à ce stade (délai de 5 ans courant depuis le 29 mai 2026). La prescription biennale de l'article L. 114-1 [À VÉRIFIER] C. assur. ne s'applique pas à l'action directe (CA Versailles 22/01019).
 
 3. **Transaction avec réserve d'aggravation** : la clause de réserve permet d'agir pour l'aggravation sans être forclos (TJ Versailles 21/04988, Civ. 2e 22-18.089).
 
@@ -249,9 +249,9 @@ L'arrêt **[22-18.089 CourCassation](../../../Lois/Jurisprudence/Transaction_sou
 
 4. **🟢 Priorité 4 — Chiffrer et documenter l'incidence professionnelle** : Fournir les justificatifs de la perte de clientèle (déclarations URSSAF, attestations clients, bilans comptables). L'arrêt **[19-23.173](../../../Lois/Jurisprudence/Préjudice_corporel_et_incidence_professionnelle/19-23.173_CourCassation.md)** exige une recherche concrète de la dévalorisation sociale — préparer les éléments sur la perte d'identité professionnelle.
 
-5. **🔵 Priorité 5 — Anticiper l'argument de l'assureur** : Préparer la réponse à l'éventuelle exception de prescription biennale (CA Versailles 22/01019) et à l'argument du vice inhérent de la vasque (art. L. 113-1 C. assur. — faute intentionnelle exclue, arrêt **[74-10.466](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/74-10.466_CourCassation.md)**).
+5. **🔵 Priorité 5 — Anticiper l'argument de l'assureur** : Préparer la réponse à l'éventuelle exception de prescription biennale (CA Versailles 22/01019) et à l'argument du vice inhérent de la vasque (art. L. 113-1 [À VÉRIFIER] C. assur. — faute intentionnelle exclue, arrêt **[74-10.466](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/74-10.466_CourCassation.md)**).
 
-6. **🟣 Priorité 6 — Explorer le recours FGAO à titre subsidiaire** : Si l'assureur ne peut être identifié ou si la garantie est insuffisante, examiner les conditions de mobilisation du FGAO au titre des accidents corporels (art. L. 421-9 C. assur.).
+6. **🟣 Priorité 6 — Explorer le recours FGAO à titre subsidiaire** : Si l'assureur ne peut être identifié ou si la garantie est insuffisante, examiner les conditions de mobilisation du FGAO au titre des accidents corporels (art. L. 421-9 [À VÉRIFIER] C. assur.).
 
 7. **⚪ Priorité 7 — Mettre à jour le Google Calendar et les README** : À chaque étape procédurale franchie, créer/mettre à jour l'événement calendrier correspondant (prefixe `[AM]`) et synchroniser les README.md des dossiers concernés conformément aux règles du projet.
 

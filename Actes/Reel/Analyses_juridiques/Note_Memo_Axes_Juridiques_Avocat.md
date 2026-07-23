@@ -48,7 +48,7 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 |-------|-------|
 | **C. com. art. L.227-8** | Responsabilité des dirigeants de SAS envers les tiers — faute détachable des fonctions |
 | **Cass. Com. 20 mai 2003 n°99-17.092 (arrêt SATI)** | Principe : faute intentionnelle d'une particulière gravité = faute détachable. Peut constituer une application en cas d'assurance légalement obligatoire. |
-| **C. com. art. L.210-6, L.237-2** | Responsabilité en cas de manquement, dissolution |
+| **C. com. art. L.210-6 [À VÉRIFIER], L.237-2** | Responsabilité en cas de manquement, dissolution |
 
 **Cibles :** Catherine SORROCHE, dite ANDISSAC (DG commune aux 2 sociétés), Hamza El Hachemi BERGUIGA (président SAS LES MAUVAIS GARCONS
 
@@ -68,9 +68,9 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 
 | Texte | Usage |
 |-------|-------|
-| **C. civ. art. 1719-1720** | Obligations du bailleur : délivrance, entretien, jouissance paisible |
+| **C. civ. art. 1719-1720 [À VÉRIFIER]** | Obligations du bailleur : délivrance, entretien, jouissance paisible |
 | **C. consom. art. L.421-3** | Obligation générale de sécurité des produits et services |
-| **CCH art. R.143-2** | Définition des ERP |
+| **CCH art. R.143-2 [À VÉRIFIER]** | Définition des ERP |
 | **CGCT art. L.2212-2 et L.2212-4** | Pouvoirs du maire en matière de sécurité publique |
 
 <hr><hr>
@@ -81,7 +81,7 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 |-------|-------|
 | **CPC art. 145** | Mesure d'instruction in futurum (obtenir bail, états des lieux, polices d'assurance) |
 | **CPC art. 835** | Référé-provision (acompte sur indemnisation) |
-| **CPP art. 475-1** | Frais d'avocat en cas de [constitution de partie civile](../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) |
+| **CPP art. 475-1 [À VÉRIFIER]** | Frais d'avocat en cas de [constitution de partie civile](../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) |
 
 ### ⑦ TRACE DE PAIEMENT – WERO
 

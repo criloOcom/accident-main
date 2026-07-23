@@ -133,7 +133,7 @@ Les défendeurs, régulièrement cités par procès-verbal de recherches infruct
 
 **Considérant** que la SAS défenderesse, malgré les mises en demeure des 29 juin et 8 juillet 2026, n'a pas communiqué les coordonnées de son assureur de responsabilité civile professionnelle ; que cette communication est nécessaire pour permettre à la victime d'exercer l'action directe prévue à l'article L. 124-3 du Code des assurances ; qu'il convient d'en ordonner la production sous astreinte ;
 
-#### I.1.d — Sur l'article 700 [À VÉRIFIER] du Code de procédure civile et les dépens
+#### I.1.d — Sur l'article 700 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] du Code de procédure civile et les dépens
 
 **Considérant** qu'il serait inéquitable de laisser à la charge du demandeur les frais exposés pour la présente instance ; que les défendeurs, qui succombent, seront condamnés in solidum aux dépens et à lui verser une indemnité sur le fondement de l'article 700 du Code de procédure civile ;
 <hr><hr>

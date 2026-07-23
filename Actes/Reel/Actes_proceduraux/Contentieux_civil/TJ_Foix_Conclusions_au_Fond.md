@@ -119,7 +119,7 @@ Le rapport d'expertise a été déposé au greffe le 29 mai 2027 et a fixé la c
 
 ### IV.2 — 2.2 Qualité et recevabilité de l'action
 
-La demanderesse, en sa qualité de tiers lésé par l'accident survenu dans un établissement recevant du public, agit sur le fondement cumulé des articles 1242 alinéa 1er et 1240 du Code civil, ainsi que des articles L.4121-1 [À VÉRIFIER] à L.4121-5 et R.4323-58 du Code du travail.
+La demanderesse, en sa qualité de tiers lésé par l'accident survenu dans un établissement recevant du public, agit sur le fondement cumulé des articles 1242 alinéa 1er et 1240 du Code civil, ainsi que des articles L.4121-1 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] à L.4121-5 et R.4323-58 du Code du travail.
 
 L'action est recevable et non prescrite, le délai de droit commun de cinq ans (article 2224 du Code civil) courant à compter de la consolidation du 1er mars 2027.
 
@@ -164,7 +164,7 @@ La responsabilité du fait des choses repose sur trois conditions cumulatives :
 
 > *« L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. »* (Article L.4121-1)
 
-> *« Ces mesures comprennent : 1° Des actions de prévention des risques professionnels ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. »* (Article L.4121-2 [À VÉRIFIER])
+> *« Ces mesures comprennent : 1° Des actions de prévention des risques professionnels ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. »* (Article L.4121-2 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER])
 
 **Article R.4323-58 du Code du travail** — obligation de fournir un équipement d'accès en hauteur :
 
@@ -223,9 +223,9 @@ L'indemnisation du préjudice corporel est régie par les principes suivants :
 
 - La réparation doit être intégrale, sans perte ni profit pour la victime
 
-- Le recours des tiers payeurs (CPAM, mutuelle) s'impute poste par poste conformément à l'article 29 [À VÉRIFIER] de la loi n° 85-677 du 5 juillet 1985
+- Le recours des tiers payeurs (CPAM, mutuelle) s'impute poste par poste conformément à l'article 29 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] de la loi n° 85-677 du 5 juillet 1985
 
-- Le droit de préférence de la victime sur la part d'indemnité correspondant aux préjudices non couverts par le recours (article 31 [À VÉRIFIER] de la loi Badinter)
+- Le droit de préférence de la victime sur la part d'indemnité correspondant aux préjudices non couverts par le recours (article 31 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] de la loi Badinter)
 
 **Référence chiffrée unique** : Rapport d'expertise du 29 mai 2027 — consolidation au 1er mars 2027 — DFP 12 % — SE 4/7.
 
@@ -364,9 +364,9 @@ Aide humaine temporaire pendant la période de convalescence.
 **PAR CES MOTIFS,**
 
 Vu les articles 1240, 1242 alinéa 1er du Code civil,
-Vu les articles L.4121-1 [À VÉRIFIER] à L.4121-5, R.4121-1 et suivants, R.4323-58 du Code du travail,
-Vu l'article L.124-3 [À VÉRIFIER] du Code des assurances,
-Vu les articles 29 [À VÉRIFIER] et 31 de la loi n° 85-677 du 5 juillet 1985,
+Vu les articles L.4121-1 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] à L.4121-5, R.4121-1 et suivants, R.4323-58 du Code du travail,
+Vu l'article L.124-3 [À VÉRIFIER] [À VÉRIFIER] du Code des assurances,
+Vu les articles 29 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] et 31 de la loi n° 85-677 du 5 juillet 1985,
 Vu le rapport d'expertise médicale déposé le 29 mai 2027,
 Vu les pièces versées aux débats,
 
@@ -400,7 +400,7 @@ Vu les pièces versées aux débats,
 
 - Au titre des pertes de gains professionnels futurs (PGPF) : **à évaluer (fourchette expertise 50 000 – 70 000 €)**
 
-**DÉDUIRE** de ces sommes la créance des tiers payeurs (CPAM) conformément aux articles 29 [À VÉRIFIER] et 31 de la loi du 5 juillet 1985 (créance estimée à ~790,23 € au titre des DSA) ;
+**DÉDUIRE** de ces sommes la créance des tiers payeurs (CPAM) conformément aux articles 29 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] et 31 de la loi du 5 juillet 1985 (créance estimée à ~790,23 € au titre des DSA) ;
 
 **CONDAMNER** la SAS SAS HB BARBER à payer à Sébastien GRAZIDE la somme de **3 000 €** au titre de l'article 700 du Code de procédure civile ;
 
@@ -419,7 +419,7 @@ Vu les pièces versées aux débats,
 **FAIT À Foix, LE [**[Date Dépôt Conclusions]**](../../../../Memory/STRICT%20VARIABLES.md%23dates-cles)**
 
 Sébastien GRAZIDE
-*(partie demanderesse, non assistée d'avocat — article 827 [À VÉRIFIER] CPC)*
+*(partie demanderesse, non assistée d'avocat — article 827 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] CPC)*
 <hr><hr>
 
 ## VIII — BORDEREAU DES PIÈCES COMMUNIQUÉES

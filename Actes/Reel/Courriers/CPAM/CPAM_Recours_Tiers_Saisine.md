@@ -123,7 +123,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 >
 > *Cette indemnité est établie et recouvrée par la caisse selon les règles et sous les garanties et sanctions, prévues au chapitre 3 du titre III et aux chapitres 2,3 et 4 du titre IV du livre Ier ainsi qu'aux chapitres 3 et 4 du titre IV du livre II applicables au recouvrement des cotisations de sécurité sociale.*
 >
-> *Lorsque l'assuré victime de l'accident est affilié au régime agricole, l'indemnité est recouvrée selon les règles et sous les garanties et sanctions prévues aux chapitres 2,3 et 4 du titre IV du livre Ier ainsi qu'aux articles L. 725-3 [À VÉRIFIER] à L. 725-4 du code rural et de la pêche maritime.*
+> *Lorsque l'assuré victime de l'accident est affilié au régime agricole, l'indemnité est recouvrée selon les règles et sous les garanties et sanctions prévues aux chapitres 2,3 et 4 du titre IV du livre Ier ainsi qu'aux articles L. 725-3 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] à L. 725-4 du code rural et de la pêche maritime.*
 >
 > *Pour l'exécution des recours subrogatoires prévus au présent article, les créances détenues par l'organisme qui a versé les prestations sont cédées définitivement à l'organisme chargé de cette mission en application du 3° de l'article L. 221-3-1 du présent code. »* <br>
 > [Article L376-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231) <br>
@@ -204,7 +204,7 @@ Je sollicite de vos services :
 >
 > *Cette indemnité est établie et recouvrée par la caisse selon les règles et sous les garanties et sanctions, prévues au chapitre 3 du titre III et aux chapitres 2,3 et 4 du titre IV du livre Ier ainsi qu'aux chapitres 3 et 4 du titre IV du livre II applicables au recouvrement des cotisations de sécurité sociale.*
 >
-> *Lorsque l'assuré victime de l'accident est affilié au régime agricole, l'indemnité est recouvrée selon les règles et sous les garanties et sanctions prévues aux chapitres 2,3 et 4 du titre IV du livre Ier ainsi qu'aux articles L. 725-3 [À VÉRIFIER] à L. 725-4 du code rural et de la pêche maritime.*
+> *Lorsque l'assuré victime de l'accident est affilié au régime agricole, l'indemnité est recouvrée selon les règles et sous les garanties et sanctions prévues aux chapitres 2,3 et 4 du titre IV du livre Ier ainsi qu'aux articles L. 725-3 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] à L. 725-4 du code rural et de la pêche maritime.*
 >
 > *Pour l'exécution des recours subrogatoires prévus au présent article, les créances détenues par l'organisme qui a versé les prestations sont cédées définitivement à l'organisme chargé de cette mission en application du 3° de l'article L. 221-3-1 du présent code. »* <br>
 > [Article L376-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231) <br>

@@ -20,9 +20,9 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 ### I.1 — 1.1 Code de commerce — procédures collectives
 
-- **Ancienne référence :** Article L. 654-6 du Code de commerce
+- **Ancienne référence :** Article L. 654-6 [À VÉRIFIER] du Code de commerce
 
-- **Nouvelle référence :** Article L. 654-7 du Code de commerce
+- **Nouvelle référence :** Article L. 654-7 [À VÉRIFIER] du Code de commerce
 
 - **Fichiers concernés :**
 
@@ -30,9 +30,9 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Raison :**
 
-  - L'article L. 654-6 (ancienne architecture des infractions de banqueroute, abrogé) ne correspond plus au découpage actuel des sanctions des personnes morales en procédure collective.
+  - L'article L. 654-6 [À VÉRIFIER] (ancienne architecture des infractions de banqueroute, abrogé) ne correspond plus au découpage actuel des sanctions des personnes morales en procédure collective.
 
-  - L'article L. 654-7 est le texte **en vigueur** qui vise les peines applicables aux personnes morales déclarées pénalement responsables des infractions de banqueroute (L. 654-3 et L. 654-4).
+  - L'article L. 654-7 [À VÉRIFIER] est le texte **en vigueur** qui vise les peines applicables aux personnes morales déclarées pénalement responsables des infractions de banqueroute (L. 654-3 et L. 654-4).
 
 - **Vérification :**
 
@@ -46,7 +46,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 ### I.2 — 1.2 Code de procédure pénale — réquisitions de vidéosurveillance
 
-- **Ancienne référence :** Article 56-1 du Code de procédure pénale
+- **Ancienne référence :** Article 56-1 [À VÉRIFIER] du Code de procédure pénale
 
 - **Nouvelle référence :** Article 77-1-1 du Code de procédure pénale
 
@@ -56,13 +56,13 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Raison :**
 
-  - L'article 56-1 CPP concerne les perquisitions dans les cabinets/domiciles d'avocats (présence obligatoire du bâtonnier) — totalement inadapté à une demande de réquisition de vidéosurveillance.
+  - L'article 56-1 [À VÉRIFIER] CPP concerne les perquisitions dans les cabinets/domiciles d'avocats (présence obligatoire du bâtonnier) — totalement inadapté à une demande de réquisition de vidéosurveillance.
 
   - L'article 77-1-1 CPP encadre les réquisitions de documents/informations en enquête préliminaire, et cite explicitement en 1° : *« la remise d'enregistrements issus d'un système de vidéoprotection concernant les lieux dans lesquels l'infraction a été commise »*.
 
 - **Vérification :**
 
-  - Légifrance : texte intégral des articles 56-1 et 77-1-1 CPP
+  - Légifrance : texte intégral des articles 56-1 [À VÉRIFIER] et 77-1-1 CPP
 
 - **Date :** 2026-07-13
 
@@ -70,7 +70,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 ### I.3 — 1.3 Code de la construction et de l'habitation — ERP
 
-- **Ancienne référence :** « Articles R. 123-1 et suivants du CCH » (régime ERP ancien)
+- **Ancienne référence :** « Articles R. 123-1 [À VÉRIFIER] et suivants du CCH » (régime ERP ancien)
 
 - **Nouvelle situation :** Référence supprimée (bloc ERP refondu en formulation descriptive)
 
@@ -82,7 +82,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
   - La numérotation ERP a été largement refondue ; R. 123-1 ne correspond plus au cœur du régime ERP.
 
-  - Le nouveau bloc ERP est rédigé en termes descriptifs (référence au règlement ERP du 25 juin 1980 et aux articles R. 143-1 et suivants).
+  - Le nouveau bloc ERP est rédigé en termes descriptifs (référence au règlement ERP du 25 juin 1980 et aux articles R. 143-1 [À VÉRIFIER] et suivants).
 
 - **Vérification :**
 
@@ -94,7 +94,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 ### I.4 — 1.4 Code monétaire et financier — suppression de L. 224-98
 
-- **Ancienne référence :** Article L. 224-98 du Code monétaire et financier
+- **Ancienne référence :** Article L. 224-98 [À VÉRIFIER] du Code monétaire et financier
 
 - **Nouvelle situation :** Référence supprimée
 
@@ -104,7 +104,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Raison :**
 
-  - Aucun article L. 224-98 n'est identifié dans la codification actuelle (ni CMF, ni C. consom.). Référence erronée supprimée.
+  - Aucun article L. 224-98 [À VÉRIFIER] n'est identifié dans la codification actuelle (ni CMF, ni C. consom.). Référence erronée supprimée.
 
 - **Vérification :**
 

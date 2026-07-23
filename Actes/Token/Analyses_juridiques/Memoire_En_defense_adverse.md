@@ -34,7 +34,7 @@ Or, une analyse rigoureuse des pièces du dossier démontre l'existence de conte
 
 > *« Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
 > [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000425972](../../../Lois/Code/LEGIARTI0000425972.md)84) <br>
-> **Code de procédure civile > Chapitre II : Les ordonnances de référé.[^1]**
+> **Code de procédure civile > Chapitre II : Les ordonnances de référé.**
 <hr><hr>
 
 ## II — SUR L'EXISTENCE DE CONTESTATIONS SÉRIEUSES (ART. 835 CPC)
@@ -56,11 +56,11 @@ De plus, les certificats médicaux initiaux faisaient état d'une ITT de 1 jour,
 
 ### II.2 — La faute de la victime comme cause d'exonération
 
-La victime reconnaît elle-même avoir « tendu la main droite par réflexe » et avoir volontairement interagi avec la chose (le meuble). Cette intervention active, précipitée et inopportune de la victime constitue une faute d'imprudence au sens de l'article 1241 du Code civil.
+La victime reconnaît elle-même avoir « tendu la main droite par réflexe » et avoir volontairement interagi avec la chose (le meuble). Cette intervention active, précipitée et inopportune de la victime constitue une faute d'imprudence au sens de l'article 1241 [À VÉRIFIER] du Code civil.
 
 > *« Chacun est responsable du dommage qu'il a causé non seulement par son fait, mais encore par sa négligence ou par son imprudence. »* <br>
 > [Article 1241 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000320415](../../../Lois/Code/LEGIARTI0000320415.md)71) <br>
-> **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.[^2]**
+> **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.**
 
 Cette imprudence est de nature à exonérer, au moins partiellement, la gardienne de la chose de sa responsabilité, rendant l'obligation de réparation intégralement contestable en référé.
 <hr><hr>
@@ -73,7 +73,7 @@ Cette argumentation est juridiquement infondée. L'écran de la personnalité mo
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
 > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
-> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^3]**
+> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
 
 Un prétendu défaut de signalisation d'une vasque ébréchée, à le supposer établi, relève tout au plus d'une négligence dans l'exploitation courante du salon, imputable à la seule [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md).
 

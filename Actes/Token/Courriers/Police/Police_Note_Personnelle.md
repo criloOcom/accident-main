@@ -154,7 +154,7 @@ J'envoie plusieurs lettres recommandées avec accusé de réception :
 
 3. **LRAR à **[L'Ancienne Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)** **, ancienne directrice générale de la SAS LES MAUVAIS GARÇONS : même objet, même fondement juridique.
 
-4. **LRAR à [Le Propriétaire des Murs]**, propriétaire bailleur (17 Rue de la Baïse, 31120 ROQUETTES) : demande de communication des coordonnées de l'assurance de l'exploitant, sur le fondement des articles 1719 et 1720 du Code civil[^loi-1][^loi-2] (obligations du bailleur) et de l'article L.124-3 [À VÉRIFIER] du Code des assurances.
+4. **LRAR à [Le Propriétaire des Murs]**, propriétaire bailleur (17 Rue de la Baïse, 31120 ROQUETTES) : demande de communication des coordonnées de l'assurance de l'exploitant, sur le fondement des articles 1719 et 1720 du Code civil[^loi-1][^loi-2] (obligations du bailleur) et de l'article L.124-3 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] du Code des assurances.
 
 **Récapitulatif des LRAR :**
 

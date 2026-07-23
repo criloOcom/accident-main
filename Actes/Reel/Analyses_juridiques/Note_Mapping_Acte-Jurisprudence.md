@@ -5,7 +5,7 @@ type: analyse
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Actes](../../README.md) › [Token](../README.md) › [Analyses_juridiques](README.md) › Note - Mapping Acte-Jurisprudence*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -141,7 +141,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [CA Versailles 22-01019](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA Versailles 22-01019.md)
 
 - **Citation extraite :**
-  > L'arrêt **[CA Versailles 22/01019](<../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA Versailles 22-01019.md>)** confirme que l'action directe de la victime contre l'assureur est soumise à la prescription de droit commun de l'action en responsabilité contre l'assuré, et non à la prescription biennale de l'article L. 114-1 du Code des assurances. Cette dernière est réservée aux actions nées du contrat d'assurance entre l'assureur et l'assuré.
+  > L'arrêt **[CA Versailles 22/01019](<../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA Versailles 22-01019.md>)** confirme que l'action directe de la victime contre l'assureur est soumise à la prescription de droit commun de l'action en responsabilité contre l'assuré, et non à la prescription biennale de l'article L. 114-1 [À VÉRIFIER] du Code des assurances. Cette dernière est réservée aux actions nées du contrat d'assurance entre l'assureur et l'assuré.
 
 - **Jurisprudence :** [TJ Nanterre 22-02447](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ Nanterre 22-02447.md)
 
@@ -173,7 +173,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [00-82.066_CourCassation](../../../Lois/Jurisprudence/Responsabilité_du_commettant/00-82.066_CourCassation.md)
 
 - **Citation extraite :**
-  > > **Cour de cassation, Assemblée plénière, 14 décembre 2001, n° 00-82.066[^8]**
+  > > **Cour de cassation, Assemblée plénière, 14 décembre 2001, n° 00-82.066**
 
 - **Jurisprudence :** [74-10.466_CourCassation](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/74-10.466_CourCassation.md)
 
@@ -198,7 +198,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [97-17.378_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/97-17.378_CourCassation.md)
 
 - **Citation extraite :**
-  > > **Cour de cassation, Assemblée plénière, 25 février 2000, n° 97-17.378[^7]**
+  > > **Cour de cassation, Assemblée plénière, 25 février 2000, n° 97-17.378**
 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
@@ -242,7 +242,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [00-82.066_CourCassation](../../../Lois/Jurisprudence/Responsabilité_du_commettant/00-82.066_CourCassation.md)
 
 - **Citation extraite :**
-  > - **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070713](../../../Lois/Jurisprudence/JURITEXT0000070713.md)51)[^5]. Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
+  > - **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070713](../../../Lois/Jurisprudence/JURITEXT0000070713.md)51). Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
 
 - **Jurisprudence :** [97-17.378_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/97-17.378_CourCassation.md)
 

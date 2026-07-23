@@ -32,14 +32,14 @@ Rédigé par : La Victime
 
 Le présent mémorandum est consacré à l'analyse de la responsabilité personnelle des dirigeants de SAS LES MAUVAIS GARCONS dans le cadre de l'accident corporel survenu le 29 mai 2026.
 
-Ce document examine les fondements juridiques de la mise en cause de la responsabilité des dirigeants sur le terrain du droit des sociétés, notamment sur le fondement des articles L. 223-22 et L. 225-251 du Code de commerce, ainsi que sur le terrain du droit commun de la responsabilité civile.
+Ce document examine les fondements juridiques de la mise en cause de la responsabilité des dirigeants sur le terrain du droit des sociétés, notamment sur le fondement des articles L. 223-22 [À VÉRIFIER] et L. 225-251 du Code de commerce, ainsi que sur le terrain du droit commun de la responsabilité civile.
 
 > *« Les gérants sont responsables, individuellement ou solidairement, selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés à responsabilité limitée, soit des violations des statuts, soit des fautes commises dans leur gestion. »* <br>
-> **Code de commerce > Partie législative > Livre V > Titre II > Chapitre Ier > Section 5 > Sous-section 3.[^1]** <br>
+> **Code de commerce > Partie législative > Livre V > Titre II > Chapitre Ier > Section 5 > Sous-section 3.** <br>
 > [Article L. 223-22](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062231](../../../Lois/Code/LEGIARTI0000062231.md)41) <br>
 
 > *« Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. »* <br>
-> **Code de commerce > Partie législative > Livre V > Titre III > Chapitre III > Section 6 > Sous-section 1.[^2]** <br>
+> **Code de commerce > Partie législative > Livre V > Titre III > Chapitre III > Section 6 > Sous-section 1.** <br>
 > [Article L. 225-251](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062263](../../../Lois/Code/LEGIARTI0000062263.md)29) <br>
 
 Il identifie les manquements aux obligations légales et réglementaires imputables aux dirigeants et évalue les perspectives d'engagement de leur responsabilité personnelle à l'égard de la victime.
@@ -65,19 +65,19 @@ Selon la jurisprudence constante Cass. Com., 20 mai 2003 (Arrêt SATI, n° 99-17
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
 > [Arrêt SATI — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69)<br>
-> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^3]**
+> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
 
 Le défaut de souscription d'une assurance légalement obligatoire, ou la dissimulation volontaire de celle-ci, entravant l'action directe de la victime, constitue typiquement une faute intentionnelle d'une particulière gravité, et peut être regardé comme une application de ce principe jurisprudentiel de faute détachable.
 
-Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SAS, dont le capital social statutaire s'élève au montant dérisoire de 1 000 € (article 25 des statuts), rendant la société structurellement incapable d'assumer la réparation d'un sinistre corporel grave sans assurance active.
+Cette mise en cause est renforcée par la sous-capitalisation manifeste de la SAS, dont le capital social statutaire s'élève au montant dérisoire de 1 000 € (article 25 [À VÉRIFIER] des statuts), rendant la société structurellement incapable d'assumer la réparation d'un sinistre corporel grave sans assurance active.
 
 ### III.2 — RESPONSABILITÉ PÉNALE ET FAUTE CARACTÉRISÉE DE SÉCURITÉ
 
-Ce manquement à l'obligation de sécurité est également codifié à l'article R. 143-2 du Code de la construction et de l'habitation, la vasque avec cassure préexistante faisant partie intégrante des installations d'accueil de l'ERP.
+Ce manquement à l'obligation de sécurité est également codifié à l'article R. 143-2 [À VÉRIFIER] du Code de la construction et de l'habitation, la vasque avec cassure préexistante faisant partie intégrante des installations d'accueil de l'ERP.
 
 > *« Dans les établissements soumis aux prescriptions du présent chapitre, les propriétaires, directeurs ou exploitants sont tenus, tant au moment de la construction qu'au cours de l'exploitation, de respecter les mesures de prévention et de sauvegarde propres à assurer la sécurité des personnes contre les risques d'incendie et de panique. »* <br>
 > [Article R. 143-2](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000438189](../../../Lois/Code/LEGIARTI0000438189.md)41) <br>
-> **Code de la construction et de l'habitation > Partie réglementaire > Titre Ier > Chapitre Ier.[^4]**
+> **Code de la construction et de l'habitation > Partie réglementaire > Titre Ier > Chapitre Ier.**
 
 À titre subsidiaire, face à toute allégation de partage de responsabilité, le réflexe naturel de protection de La Victime face à un danger imminent ne saurait caractériser une faute et exclut toute réduction d'indemnisation supérieure à 10 ou 20% au maximum.
 
@@ -87,13 +87,13 @@ Le maintien en service d'un équipement dangereux dans un établissement recevan
 
 > *« Les prestations de services doivent présenter, dans des conditions normales d'utilisation ou dans d'autres conditions raisonnablement prévisibles par le professionnel, la sécurité à laquelle on peut légitimement s'attendre et ne pas porter atteinte à la santé des personnes. »* <br>
 > [Article L. 421-3](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000494640](../../../Lois/Code/LEGIARTI0000494640.md)53) <br>
-> **Code de la consommation > Partie législative > Livre Ier > Titre II > Chapitre II > Section 1.[^5]**
+> **Code de la consommation > Partie législative > Livre Ier > Titre II > Chapitre II > Section 1.**
 
 Une condamnation pour blessures involontaires sur le fondement de l'article 222-20 du Code pénal permet de solliciter la réparation des préjudices directement sur les biens propres du dirigeant coupable, sans nécessité de prouver une faute détachable commerciale devant le juge répressif.
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 > [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000240426](../../../Lois/Code/LEGIARTI0000240426.md)40) <br>
-> **Code pénal > Partie législative > Livre II > Titre II > Chapitre II > Section 2.[^6]**
+> **Code pénal > Partie législative > Livre II > Titre II > Chapitre II > Section 2.**
 <hr><hr>
 
 ## IV — MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE
@@ -103,13 +103,13 @@ La Victime dispose d'un droit propre et autonome sur l'indemnité d'assurance en
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
-> **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier.[^7]**
+> **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier.**
 
-Cette action, dite "action directe", peut être exercée même si la société est radiée ou en liquidation, car la personnalité morale subsiste pour les besoins de la liquidation conformément à l'article L. 237-2 du Code de commerce.
+Cette action, dite "action directe", peut être exercée même si la société est radiée ou en liquidation, car la personnalité morale subsiste pour les besoins de la liquidation conformément à l'article L. 237-2 [À VÉRIFIER] du Code de commerce.
 
 > *« La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la clôture de celle-ci. »* <br>
 > [Article L. 237-2](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062300](../../../Lois/Code/LEGIARTI0000062300.md)63) <br>
-> **Code de commerce > Partie législative > Livre V > Titre IV > Chapitre IV > Section 3.[^8]**
+> **Code de commerce > Partie législative > Livre V > Titre IV > Chapitre IV > Section 3.**
 
 Des demandes formelles ont été initiées pour identifier l'assureur et solliciter une provision.
 
@@ -119,7 +119,7 @@ La réparation intégrale, pilier du droit français régi par l'article 1240 du
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
 > [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000320415](../../../Lois/Code/LEGIARTI0000320415.md)71) <br>
-> **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II.[^9]**
+> **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II.**
 
 Pour La Victime, informaticien indépendant, l'incidence professionnelle est majeure.
 
@@ -138,13 +138,11 @@ Enfin, des mises en demeure ont été adressées à L'Exploitant et à ses Dirig
 
 ## Sources Législation
 
-[^1]: [Article L. 223-22 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062231](../../../Lois/Code/LEGIARTI0000062231.md)41](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062231](../../../Lois/Code/LEGIARTI0000062231.md)41) ↩
-[^2]: [Article L. 225-251 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062263](../../../Lois/Code/LEGIARTI0000062263.md)29](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062263](../../../Lois/Code/LEGIARTI0000062263.md)29) ↩
-[^3]: [Arrêt SATI — n°99-17.092 — www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) ↩
-[^4]: [Article R. 143-2 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000438189](../../../Lois/Code/LEGIARTI0000438189.md)41](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000438189](../../../Lois/Code/LEGIARTI0000438189.md)41) ↩
-[^5]: [Article L. 421-3 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000494640](../../../Lois/Code/LEGIARTI0000494640.md)53](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000494640](../../../Lois/Code/LEGIARTI0000494640.md)53) ↩
-[^6]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000240426](../../../Lois/Code/LEGIARTI0000240426.md)40](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000240426](../../../Lois/Code/LEGIARTI0000240426.md)40) ↩
-[^7]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) ↩
-[^8]: [Article L. 237-2 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062300](../../../Lois/Code/LEGIARTI0000062300.md)63](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062300](../../../Lois/Code/LEGIARTI0000062300.md)63) ↩
-[^9]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000320415](../../../Lois/Code/LEGIARTI0000320415.md)71](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000320415](../../../Lois/Code/LEGIARTI0000320415.md)71) ↩
+[^n1]: > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
+    > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
+    > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+
+[^n2]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+    > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
+    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 <!-- /Source -->

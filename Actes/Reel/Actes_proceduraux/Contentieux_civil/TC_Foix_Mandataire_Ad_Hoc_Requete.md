@@ -106,7 +106,7 @@ Par conséquent, il est indispensable de faire ordonner la communication sous as
 Il est respectueusement demandé à Monsieur le Président du Tribunal de commerce de Foix de :
 
 **VU** les articles L.227-8 et L.611-3 du Code de commerce,
-**VU** l'article 873 [À VÉRIFIER] du Code de procédure civile,
+**VU** l'article 873 [À VÉRIFIER] [À VÉRIFIER] [À VÉRIFIER] du Code de procédure civile,
 
 > *« Le président peut, dans les mêmes limites, et même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
 > [Article 873 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463) <br>

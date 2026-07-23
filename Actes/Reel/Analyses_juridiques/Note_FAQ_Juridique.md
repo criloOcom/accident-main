@@ -34,10 +34,10 @@ Rédigé le 30 juin 2026
 
 La présente synthèse juridique et FAQ a été rédigée par Sébastien GRAZIDE dans le cadre du contentieux l'opposant à SAS LES MAUVAIS GARCONS à la suite de l'accident corporel du 29 mai 2026.
 
-Ce document examine les différents fondements juridiques sur lesquels la victime peut fonder son action en réparation, notamment la responsabilité contractuelle sur le fondement de l'article 1231-1 du Code civil, la responsabilité délictuelle sur le fondement de l'article 1240 du même code, ainsi que la garantie des vices cachés prévue à l'article 1641 du Code civil.
+Ce document examine les différents fondements juridiques sur lesquels la victime peut fonder son action en réparation, notamment la responsabilité contractuelle sur le fondement de l'article 1231-1 [À VÉRIFIER] du Code civil, la responsabilité délictuelle sur le fondement de l'article 1240 du même code, ainsi que la garantie des vices cachés prévue à l'article 1641 [À VÉRIFIER] du Code civil.
 
 > *« Le débiteur est condamné, s'il y a lieu, au paiement de dommages et intérêts soit à raison de l'inexécution de l'obligation, soit à raison du retard dans l'exécution, s'il ne justifie pas que l'exécution a été empêchée par la force majeure. »* <br>
-> **Code civil > Sous-section 5 : La réparation du préjudice résultant de l'inexécution du contrat.[^1]** <br>
+> **Code civil > Sous-section 5 : La réparation du préjudice résultant de l'inexécution du contrat.** <br>
 > *« Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine, ou qui diminuent tellement cet usage que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'il les avait connus. »* <br>
 > [Article 1641 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000064419](../../../Lois/Code/LEGIARTI0000064419.md)24) <br>
 
@@ -45,7 +45,7 @@ La présente synthèse répond en outre aux questions pratiques que la victime e
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
 > [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000320415](../../../Lois/Code/LEGIARTI0000320415.md)71) <br>
-> **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II.[^2]**
+> **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II.**
 
 <hr><hr>
 
@@ -96,13 +96,13 @@ Non, ce refus est abusif et contraire au principe de loyauté. La victime dispos
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
-> **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier.[^3]**
+> **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier.**
 
 Si le gérant fait obstruction, la victime peut obtenir du juge des référés (Art. 145 CPC) une injonction de communiquer l'attestation d'assurance sous astreinte financière quotidienne.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000518693](../../../Lois/Code/LEGIARTI0000518693.md)39) <br>
-> **Code de procédure civile > Partie législative > Livre II > Titre VII > Section I.[^4]**
+> **Code de procédure civile > Partie législative > Livre II > Titre VII > Section I.**
 
 ### III.4 — Q : QUELLES SONT LES OBLIGATIONS DE DÉCLARATION DE LA SOCIÉTÉ SUITE À L'ACCIDENT ?
 
@@ -114,7 +114,7 @@ Le fait de cacher l'accident à son assureur ou de refuser de communiquer les co
 
 > *« L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. »* <br>
 > [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000357313](../../../Lois/Code/LEGIARTI0000357313.md)02) <br>
-> **Code des assurances > Partie législative > Livre Ier > Titre Ier > Chapitre III.[^5]**
+> **Code des assurances > Partie législative > Livre Ier > Titre Ier > Chapitre III.**
 <hr><hr>
 
 ## IV — STRATÉGIE JURIDIQUE ET RESPONSABILITÉS
@@ -123,17 +123,17 @@ La stratégie repose sur une mise en cause plurielle pour garantir la réparatio
 
 > *« Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »* <br>
 > [Article 1242](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000517860](../../../Lois/Code/LEGIARTI0000517860.md)00) <br>
-> **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II.[^6]**
+> **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II.**
 
 Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
 > [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062270](../../../Lois/Code/LEGIARTI0000062270.md)36) <br>
-> **Code de commerce > Partie législative > Livre V > Titre II > Chapitre Ier > Section 5 > Sous-section 3.[^7]**
+> **Code de commerce > Partie législative > Livre V > Titre II > Chapitre Ier > Section 5 > Sous-section 3.**
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
 > [Arrêt Sati — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
-> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^8]**
+> **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
 
 Enfin, le propriétaire des murs, Romain DELRIEU, a été sollicité par LRAR le 29 juin 2026 non pas en tant que responsable de l'accident, mais comme source d'information : le bail commercial l'oblige à détenir l'attestation d'assurance RC Pro de son locataire (la SAS). À ce jour, l'AR a été retourné signé mais sans réponse sur le fond.
 <hr><hr>
@@ -154,7 +154,7 @@ Sur le plan civil, plusieurs mises en demeure ont été expédiées le 29 juin 2
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^3]**
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 <hr><hr>
 
 ## VI — CALENDRIER ET DÉLAIS DE PROCÉDURE
@@ -163,15 +163,15 @@ La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jour
 
 > *« Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
 > [Article 835](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000425972](../../../Lois/Code/LEGIARTI0000425972.md)84) <br>
-> **Code de procédure civile > Partie législative > Livre II > Titre III > Chapitre Ier.[^9]**
+> **Code de procédure civile > Partie législative > Livre II > Titre III > Chapitre Ier.**
 
 Une étape cruciale est fixée au 12 novembre 2026 pour l'expertise médicale à l'UMJ de Toulouse, qui permettra de chiffrer définitivement les préjudices (actuellement estimés à **~90 000 €**).
 
-À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation (Article 2226 du Code civil).
+À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation (Article 2226 [À VÉRIFIER] du Code civil).
 
 > *« L'action en responsabilité née d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices, se prescrit par dix ans à compter de la date de la consolidation du dommage corporel initial ou aggravé. »* <br>
 > [Article 2226](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000190172](../../../Lois/Code/LEGIARTI0000190172.md)59) <br>
-> **Code civil > Partie législative > Livre III > Titre XX > Chapitre II > Section 2.[^10]**
+> **Code civil > Partie législative > Livre III > Titre XX > Chapitre II > Section 2.**
 <hr><hr>
 
 ## VII — POINTS DE VIGILANCE ET CONCLUSION
@@ -184,27 +184,23 @@ Néanmoins, l'action directe et la responsabilité personnelle des dirigeants co
 
 *Q15 : Que se passe-t-il si SAS LES MAUVAIS GARCONS est mise en liquidation ou radiée pendant la procédure ?*
 
-*Réponse : La personnalité morale de la société survit pour les besoins de la liquidation (Art. L. 237-2 du Code de commerce).
+*Réponse : La personnalité morale de la société survit pour les besoins de la liquidation (Art. L. 237-2 [À VÉRIFIER] du Code de commerce).
 
 De plus, l'action directe contre l'assureur (Art. L. 124-3 du Code des assurances) est autonome et reste recevable même après la dissolution ou la liquidation de l'entreprise responsable, garantissant l'indemnisation finale par la compagnie d'assurance.*
 
 > *« La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la clôture de celle-ci. »* <br>
 > [Article L. 237-2](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062300](../../../Lois/Code/LEGIARTI0000062300.md)63) <br>
-> **Code de commerce > Partie législative > Livre V > Titre IV > Chapitre IV > Section 3.[^11]**
+> **Code de commerce > Partie législative > Livre V > Titre IV > Chapitre IV > Section 3.**
 <!-- Source -->
 <hr><hr>
 
 ## Sources Législation
 
-[^1]: [Article 1641 du Code civil — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000064419](../../../Lois/Code/LEGIARTI0000064419.md)24](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000064419](../../../Lois/Code/LEGIARTI0000064419.md)24) ↩
-[^2]: [Article 1240 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000320415](../../../Lois/Code/LEGIARTI0000320415.md)71](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000320415](../../../Lois/Code/LEGIARTI0000320415.md)71) ↩
-[^3]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) ↩
-[^4]: [Article 145 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000518693](../../../Lois/Code/LEGIARTI0000518693.md)39](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000518693](../../../Lois/Code/LEGIARTI0000518693.md)39) ↩
-[^5]: [Article L. 113-2 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000357313](../../../Lois/Code/LEGIARTI0000357313.md)02](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000357313](../../../Lois/Code/LEGIARTI0000357313.md)02) ↩
-[^6]: [Article 1242 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000517860](../../../Lois/Code/LEGIARTI0000517860.md)00](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000517860](../../../Lois/Code/LEGIARTI0000517860.md)00) ↩
-[^7]: [Article L. 227-8 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062270](../../../Lois/Code/LEGIARTI0000062270.md)36](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062270](../../../Lois/Code/LEGIARTI0000062270.md)36) ↩
-[^8]: [Arrêt Sati — n°99-17.092 — www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) ↩
-[^9]: [Article 835 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000425972](../../../Lois/Code/LEGIARTI0000425972.md)84](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000425972](../../../Lois/Code/LEGIARTI0000425972.md)84) ↩
-[^10]: [Article 2226 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000190172](../../../Lois/Code/LEGIARTI0000190172.md)59](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000190172](../../../Lois/Code/LEGIARTI0000190172.md)59) ↩
-[^11]: [Article L. 237-2 — www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062300](../../../Lois/Code/LEGIARTI0000062300.md)63](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062300](../../../Lois/Code/LEGIARTI0000062300.md)63) ↩
+[^n1]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+    > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
+    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+
+[^n2]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
+    > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
+    > [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
 <!-- /Source -->
