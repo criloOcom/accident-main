@@ -71,13 +71,13 @@ Aux fins d'exercice de votre recours subrogatoire, je vous notifie l'identité v
 Je vous informe que plusieurs mises en demeure formelles par lettre recommandée avec accusé de réception (LRAR) ont été adressées aux tiers responsables :
 
 - **SAS exploitante (SAS HB BARBER)** :  
-  *Mise en demeure expédiée le 18 juillet 2026 ([LRAR n° 870014282662911](../../Preuves_officielles/20260718_LR_SAS_HB-Barber/20260718_LR_SAS_HB_BARBER.md)) — Distribuée le 22/07/2026* ;
+  *Mise en demeure expédiée le 18 juillet 2026 ([LRAR n° 870014282662911](../../../Preuves_officielles/20260718_LR_SAS_HB-Barber/20260718_LR_SAS_HB-Barber.md)) — Distribuée le 22/07/2026* ;
 
 - **Président (Hamza El Hachemi BERGUIGA)** :  
-  *Mise en demeure expédiée le 18 juillet 2026 ([LRAR n° 870014282662912](../../Preuves_officielles/20260718_SAS_President/20260718_LR_SAS_President.md)) — Réceptionnée / Distribuée* ;
+  *Mise en demeure expédiée le 18 juillet 2026 ([LRAR n° 870014282662912](../../../Preuves_officielles/20260718_SAS_President/20260718_SAS_President.md)) — Réceptionnée / Distribuée* ;
 
 - **Propriétaire des murs / Bailleur (Romain DELRIEU)** :  
-  *Mise en demeure de relance n°3 expédiée le 19 juillet 2026 ([LRAR n° 870014282662913](../../Preuves_officielles/20260719_LR_Bailleur/20260719_LR_Bailleur.md)) — Réceptionnée / Distribuée*.
+  *Mise en demeure de relance n°3 expédiée le 19 juillet 2026 ([LRAR n° 870014282662913](../../../Preuves_officielles/20260719_LR_Bailleur/20260719_LR_Bailleur.md)) — Réceptionnée / Distribuée*.
 
 **À ce jour, aucun de ces tiers, ni aucun assureur de responsabilité civile professionnelle, ne s'est manifesté.** Cette carence caractérisée renforce la nécessité de l'intervention active de vos services au titre du recours contre tiers.
 
