@@ -216,8 +216,6 @@ Fait à 10 Avenue de Purpan, 31700 Blagnac, le 17 juillet 2026
 
 : **Variantes administratives de l'adresse** : Le procès-verbal de police n°[2026/015967] mentionne « 22, RUE DE LA FAURIE » — il s'agit d'une erreur de saisie des services de police. Le Registre National des Entreprises (INPI) enregistre le siège social sous « 22 Grande Rue La Faurie » — variante cadastrale. L'adresse postale et géographique exacte, seule à retenir dans le présent erratum, est **22 Rue Lafaurie, 09000 Foix**.
 
-: **Variantes administratives de l'adresse** : Le procès-verbal de police n°[2026/015967] mentionne « 22, RUE DE LA FAURIE » — il s'agit d'une erreur de saisie des services de police. Le Registre National des Entreprises (INPI) enregistre le siège social sous « 22 Grande Rue La Faurie » — variante cadastrale. L'adresse postale et géographique exacte, seule à retenir dans le présent erratum, est **22 Rue Lafaurie, 09000 Foix**.
-
 *Document à annexer à tout acte et courrier mentionnant SAS LES MAUVAIS GARÇONS comme société défenderesse. À distribuer par dépôt physique (Commissariat de Foix) et par lettre recommandée avec accusé de réception (autorités administratives et judiciaires).*
 
 <!-- Source -->
