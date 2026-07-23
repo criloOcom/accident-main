@@ -183,7 +183,7 @@ Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../Rapports/RAPPORT_AVOCAT_DINTILHAC
 ## Dates clés (⚠ précision absolue requise)
 - DATE_ACCIDENT : **29 mai 2026** (vendredi)
 
-- HEURE_ACCIDENT : 15h00
+- HEURE_ACCIDENT : **~15h25** (heure officielle du PV de police n° 2026/015967 : « Le 29/05/2026 à 15:20 » ; séquence actée dans la déclaration : paiement Wero à 15h20 → sortie → retour moins de 5 minutes après → accident. ⚠ La valeur historique « 15h00 » utilisée dans certains courriers anciens est une approximation à ne plus reproduire ; en cas de citation officielle, utiliser « le 29/05/2026 vers 15h20-15h30, immédiatement après le paiement de 15h20 »)
 
 - DATE_CHIRURGIE_SOS_MAIN : **30 mai 2026** (samedi — ⚠ JAMAIS 31 ; le 31/05 est la date du COMPTE-RENDU, pas de la chirurgie)
 
@@ -265,7 +265,7 @@ Les tokens `[N° LRAR Exploitant]`, `[N° LRAR Directrice]`, `[N° LRAR Préside
 
 ⚠ **Statut de l'exploitant au jour de l'accident vérifié (2026-07-17)** :
 
-**Exploitant réel au 29/05/2026** : SAS HB BARBER (SIREN 104 103 262, capital 1 000 €), créée le 22/04/2026, siège social au 22 Grande Rue La Faurie, 09000 Foix. Président : Hamza El Hachemi BERGUIGA. Directrice Générale : Catherine SORROCHE (ép. ANDISSAC). Active, immatriculée RCS Foix (source : INPI/RNE, extrait Kbis — pièces officielles du 17/07/2026).
+**Exploitant réel au 29/05/2026** : SAS HB BARBER (SIREN 104 103 262, capital 1 000 €), **début d'activité le 22/04/2026, immatriculée au RNE le 19/05/2026** (attestation RNE/INPI du 17/07/2026 — les deux dates coexistent : ne pas les confondre), siège social au 22 Grande Rue La Faurie, 09000 Foix. Président : Hamza El Hachemi BERGUIGA. Directrice Générale : Catherine SORROCHE (ép. ANDISSAC). Active, immatriculée RCS Foix (source : INPI/RNE, extrait Kbis — pièces officielles du 17/07/2026).
 
 **Ancien exploitant** : SAS LES MAUVAIS GARÇONS (SIREN 938 033 222), créée le 01/06/2024, a quitté les lieux le 10/03/2026 (état des lieux de sortie). Président : Sabir MOUNTASSER. Directrice Générale : Catherine ANDISSAC/SORROCHE.
 

@@ -29,9 +29,9 @@ tags:
 | E3 | 23/07 | « Bordereau inclut déjà les pièces 53-55 » | Faux au moment dit — fait au commit 83606aad |
 | E4 | 23/07 | LRAR SORROCHE présentée comme distribuée | Toujours « en cours de transport » (relevé La Poste 23/07) |
 | E5 | 24/07 | « gérance M. Sabir MOUNTASSER et M. Hamza BERGUIGA » (HB BARBER) | MOUNTASSER = ancien président de LES MAUVAIS GARÇONS, aucun lien avec HB BARBER |
-| E6 | 24/07 | « SAS HB BARBER immatriculée le 19 mai 2026 » | Créée le 22/04/2026 (INPI/RNE, Kbis 17/07) |
+| E6 | 24/07 | ~~« SAS HB BARBER immatriculée le 19 mai 2026 »~~ **RETIRÉE 24/07 : Gemini avait raison.** L'attestation RNE (pièce du 17/07) porte bien « Date d'immatriculation au RNE : 19/05/2026 » ET « Début d'activité : 22/04/2026 ». Notre STRICT VARIABLES confondait les deux dates — corrigé. | Attestation RNE/INPI ([pièce HB Barber](../../Actes/Preuves_officielles/20260716_💈_HB_Barber/20260717_Export_Portail_Data_HB_BARBERpdf.md)) |
 | E7 | 24/07 | « WhatsApp distribué/lu sans réponse » | Ligne validée : « distribué à 16h01, sans réponse » — AUCUNE spéculation sur la lecture |
-| E8 | 24/07 | « accident à 15h20 » | HEURE_ACCIDENT = 15h00 ; 15h20 = paiement Wero |
+| E8 | 24/07 | ~~« accident à 15h20 »~~ **RETIRÉE 24/07 : Gemini avait raison sur la source.** Le PV de police n° 2026/015967 mentionne « Le 29/05/2026 à 15:20 » comme horodatage officiel du fait ; la déclaration établit paiement Wero 15h20 → retour < 5 min → accident (~15h25). Le « 15h00 » de STRICT VARIABLES était l'approximation — corrigé. | PV n° 2026/015967 ([pièce Police](../../Actes/Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)) |
 | E9 | 24/07 | Conseil d'envoyer « les yeux fermés » la Relance 3 au bailleur | Courrier DÉJÀ ENVOYÉ le 19/07 (LRAR 87500152910287Q), DISTRIBUÉ le 23/07 |
 | E10 | 24/07 | « aucun lien mort dans ses références » (Relance 3) | 3 notes de bas de page recyclent le même LEGIARTI pour 3 articles différents |
 
@@ -93,9 +93,9 @@ tags:
 
 ```
 FAITS IMMUABLES (source : Memory/STRICT VARIABLES.md — interdiction de les reconstruire de mémoire) :
-- Accident : 29/05/2026 à 15h00, 22 Rue Lafaurie, 09000 Foix. Paiement Wero : 15h20.
+- Accident : 29/05/2026 vers 15h20-15h30 (PV police : « à 15:20 » ; paiement Wero 15h20 puis retour < 5 min), 22 Rue Lafaurie, 09000 Foix.
 - Victime : informaticien indépendant (SIREN 500 474 457). AUCUNE autre profession.
-- Exploitant au 29/05/2026 : SAS HB BARBER, SIREN 104 103 262, créée le 22/04/2026.
+- Exploitant au 29/05/2026 : SAS HB BARBER, SIREN 104 103 262 — début d'activité 22/04/2026, immatriculation RNE 19/05/2026 (deux dates distinctes, ne pas confondre).
   Président : Hamza El Hachemi BERGUIGA. DG : Catherine SORROCHE (ép. ANDISSAC).
 - Ancien exploitant (parti le 10/03/2026) : SAS LES MAUVAIS GARÇONS, SIREN 938 033 222.
   Président : Sabir MOUNTASSER. MOUNTASSER n'a AUCUN rôle chez HB BARBER.
