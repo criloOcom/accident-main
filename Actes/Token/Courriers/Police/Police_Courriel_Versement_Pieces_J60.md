@@ -50,7 +50,9 @@ Objet : Versement de pièces complémentaires — PV n° 2026/015967 — acciden
 
 Madame, Monsieur l'Officier de Police Judiciaire,
 
-Dans le cadre de la procédure référencée ci-dessus, ouverte à la suite de mon dépôt de plainte du 1er juin 2026[^1], je me permets de porter à votre connaissance des éléments factuels nouveaux, de nature à faciliter la poursuite de l'enquête. Je me présenterai physiquement au commissariat dans les prochains jours ; le présent envoi numérique vise à vous transmettre sans délai les pièces, à l'approche du cap des 60 jours suivant les faits (29 mai 2026).
+Dans le cadre de la procédure référencée ci-dessus, ouverte à la suite de mon dépôt de plainte du 1er juin 2026[^1], je me permets de porter à votre connaissance des éléments factuels nouveaux, de nature à faciliter la poursuite de l'enquête.
+
+Je précise que je me présenterai physiquement au commissariat dans les prochains jours. Si je me permets de vous adresser dès à présent le présent envoi numérique, c'est pour une double raison : d'une part, l'approche du cap des 60 jours suivant les faits (29 mai 2026) me conduit à ne pas différer la transmission de ces pièces ; d'autre part, je suis encore dans l'attente de plusieurs éléments que je souhaite pouvoir vous remettre en mains propres lors de ma venue — notamment la retranscription de mes échanges téléphoniques avec le SAMU 09, que j'ai formellement sollicitée, ainsi que les éventuelles réponses aux lettres recommandées récemment réceptionnées par les tiers mis en demeure. Je tiens en effet à me présenter avec un dossier aussi complet que possible, afin de ne pas faire perdre de temps à vos services. Cette démarche par courriel constitue donc une mise au point d'étape dans l'urgence, en attendant ma venue avec l'ensemble des pièces.
 
 ## I — ÉVOLUTION MÉDICALE (J+55)
 
