@@ -73,7 +73,7 @@ destinataire: Avocat de la Victime
 
 | Procédure | Statut |
 |-----------|--------|
-| **Plainte initiale** | ✅ Déposée 2 juin 2026 — PV n°[2026/015967] |
+| **Plainte initiale** | ✅ Déposée 2 juin 2026 — PV n°2026/015967 |
 | **Erratum correction société** | ✅ Déposé le 31 juillet 2026 — joint au dossier |
 | **Demande AJ Totale** | ✅ Déposée le [date] — récépissé n°[à remplir] |
 | **Requête Art. 145 CPC** | 🔴 En attente désignation avocat |
@@ -149,7 +149,7 @@ La victime n'est pas consolidée. L'état séquellaire actuel (douleurs neuropat
 | Question | Réponse |
 |----------|---------|
 | *Pourquoi 15 000 € ?* | ~10 % du préjudice global estimé (120-160k€). Provision standard en référé. |
-| *Pourquoi HB BARBER et pas LES MAUVAIS GARÇONS ?* | Erratum déposé. Visite des lieux le 16 juillet a révélé l'enseigne réelle. Les deux sociétés ont la même DG (Catherine ANDISSAC). |
+| *Pourquoi HB BARBER et pas LES MAUVAIS GARÇONS ?* | Erratum déposé. Visite des lieux le 16 juillet a révélé l'enseigne réelle. Les deux sociétés ont la même DG (Catherine SORROCHE, dite ANDISSAC). |
 | *Pourquoi pas d'avocat ?* | AJ déposée, en cours. Seul au-delà du plafond de 10k€ pour la représentation obligatoire, mais la procédure est engagée de bonne foi. |
 | *Avez-vous des revenus ?* | ~9 000 €/an micro-entrepreneur. Justificatifs URSSAF joints. |
 | *Quel est le préjudice professionnel ?* | Informaticien — main droite sectionnée. Arrêt complet depuis 55 jours. IP estimée à 28 000 €. |

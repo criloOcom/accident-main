@@ -23,7 +23,7 @@ sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**Procureur de la République près le Tribunal judiciaire de [La Ville de l'Accident]**
+**Procureur de la République près le Tribunal judiciaire de Foix**
 <!-- /Destinataire -->
 
 # ✉️⚖️ Procureur — Signalement Mairie — Suites Administratives
@@ -47,7 +47,7 @@ près le Tribunal judiciaire de Foix
 
 Monsieur le Procureur,
 
-Par plainte complémentaire déposée le [date] au commissariat de Foix, j'ai porté à votre connaissance l'accident dont j'ai été victime le 29 mai 2026 dans le salon de coiffure situé 22 Rue Lafaurie, 09000 Foix, exploité par SAS LES MAUVAIS GARCONS, et les éléments nouveaux découverts depuis mon premier dépôt de plainte.
+Par plainte complémentaire déposée le [date] au commissariat de Foix, j'ai porté à votre connaissance l'accident dont j'ai été victime le 29 mai 2026 dans le salon de coiffure situé 22 Rue Lafaurie, 09000 Foix, exploité par SAS HB BARBER, et les éléments nouveaux découverts depuis mon premier dépôt de plainte.
 
 Dès le 1er juin 2026, j'ai également signalé les faits à la mairie de Foix au titre de ses pouvoirs de police administrative (articles L.2212-1 et L.2212-2 du Code général des collectivités territoriales), l'établissement étant un établissement recevant du public et présentant, à ma connaissance, un danger avéré.
 

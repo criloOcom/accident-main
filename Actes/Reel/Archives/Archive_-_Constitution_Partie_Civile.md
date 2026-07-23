@@ -1,7 +1,7 @@
 ---
 uid: wLYtMiitJ
 title: "Constitution de Partie Civile"
-description: "Rédigé le **[J+32 Assignation référé]"
+description: "Rédigé le **30 juin 2026"
 type: readme
 date: 2026-06-30
 tags:
@@ -20,7 +20,7 @@ drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 **Table des matières**
 
@@ -28,36 +28,36 @@ drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 
 # CONSTITUTION DE PARTIE CIVILE
 > 🔗 Source Google Drive : [1tdFbDxNceGV…](https://drive.google.com/open?id=1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc)
-Rédigé le [30 juin 2026]
+Rédigé le 30 juin 2026
 ## INTRODUCTION
 
-La présente constitution de partie civile est formée par [Sébastien GRAZIDE] dans le cadre de la procédure pénale suivie devant le Tribunal Correctionnel de [Foix] à l'encontre de [SAS LES MAUVAIS GARCONS].
+La présente constitution de partie civile est formée par Sébastien GRAZIDE dans le cadre de la procédure pénale suivie devant le Tribunal Correctionnel de Foix à l'encontre de SAS HB BARBER.
 
-Par cet acte, fondé sur les articles 2 et suivants du Code de procédure pénale, la victime entend exercer les droits reconnus à la partie civile afin d'obtenir la réparation de l'intégralité des préjudices découlant de l'accident corporel dont elle a été victime le [29 mai 2026] : alors que l'employé [Ayoub BENNOURINE] (tél. [**[Le Téléphone du Préposé]**]) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé ; par réflexe, [Sébastien GRAZIDE] a tendu la main droite pour protéger [Ayoub BENNOURINE], et sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
+Par cet acte, fondé sur les articles 2 et suivants du Code de procédure pénale, la victime entend exercer les droits reconnus à la partie civile afin d'obtenir la réparation de l'intégralité des préjudices découlant de l'accident corporel dont elle a été victime le 29 mai 2026 : alors que l'employé Ayoub BENNOURINE (tél. 07 58 40 12 87) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé ; par réflexe, Sébastien GRAZIDE a tendu la main droite pour protéger Ayoub BENNOURINE, et sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
-Cette constitution de partie civile permet à [Sébastien GRAZIDE] de participer activement à la procédure pénale et de solliciter l'indemnisation de ses préjudices devant la juridiction répressive.
+Cette constitution de partie civile permet à Sébastien GRAZIDE de participer activement à la procédure pénale et de solliciter l'indemnisation de ses préjudices devant la juridiction répressive.
 
 À adresser par lettre recommandée ou par télécopie au tribunal ou à remettre au greffe.
 
 Adresse du tribunal :
 
-Tribunal Correctionnel de [Foix]
+Tribunal Correctionnel de Foix
 
 **[Adresse Tribunal Judiciaire]**
 
-[**[Code Postal de l'Accident]**] [Foix]
+09000 Foix
 
 Je soussigné(e) :
 
-[Sébastien GRAZIDE], né le 18 janvier 1982 à [Toulouse], demeurant au [10 Avenue de Purpan, 31700 Blagnac].
+Sébastien GRAZIDE, né le 18 janvier 1982 à Toulouse, demeurant au 10 Avenue de Purpan, 31700 Blagnac.
 
-Profession : Informaticien indépendant ([500 474 457])
+Profession : Informaticien indépendant (500 474 457)
 
 Agissant en mon nom personnel.
 
 Déclare me constituer partie civile contre :
 
-[SAS LES MAUVAIS GARCONS] ([Sabir MOUNTASSER], Président) et [Catherine ANDISSAC] (Directrice Générale).
+SAS HB BARBER (Hamza El Hachemi BERGUIGA, Président) et Catherine SORROCHE, dite ANDISSAC (Directrice Générale).
 
 Dans l'affaire qui doit être examinée par le tribunal :
 
@@ -91,7 +91,7 @@ Pour justifier le préjudice subi :
 
 **[X]** Je souhaite compléter l'information du tribunal par les explications ci-jointes (sur feuille libre à joindre) : Voir Conclusions de Partie Civile ci-jointes (3 pages).
 
-Fait à [Blagnac], le [30 juin 2026]
+Fait à Blagnac, le 30 juin 2026
 
 Signature :
 <!-- Source -->

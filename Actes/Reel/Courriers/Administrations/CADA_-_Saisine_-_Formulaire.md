@@ -35,14 +35,14 @@ sebastien.grazide@gmail.com
 **CADA (formulaire en ligne)**
 <!-- /Destinataire -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # SAISINE CADA<br>VERSION COURTE (FORMULAIRE EN LIGNE)
 
 > **Quand utiliser :** Formulaire en ligne CADA (https://www.cada.fr/) — copier-coller les blocs ci-dessous dans les champs correspondants.
 ## I — Champ « Objet de votre demande / Description »
 
-> Victime d'un accident corporel grave le 29 mai 2026 dans le salon de coiffure *« [SAS LES MAUVAIS GARCONS] »* (22 Rue Lafaurie, 09000 Foix), je sollicite l'avis de la CADA sur la communicabilité, à mon égard, des documents détenus par la Préfecture de l'Ariège et/ou la DDETS (Inspection du travail) concernant ce dossier. <br>
+> Victime d'un accident corporel grave le 29 mai 2026 dans le salon de coiffure *« SAS HB BARBER »* (22 Rue Lafaurie, 09000 Foix), je sollicite l'avis de la CADA sur la communicabilité, à mon égard, des documents détenus par la Préfecture de l'Ariège et/ou la DDETS (Inspection du travail) concernant ce dossier. <br>
 <hr><hr>
 
 ## II — Champ « Précisions sur les documents demandés »

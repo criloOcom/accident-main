@@ -43,7 +43,7 @@ Service du Registre National des Entreprises (RNE)
 Blagnac, le 9 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # OPPOSITION À IMMATRICULATION <br> AU REGISTRE NATIONAL DES ENTREPRISES
 
@@ -53,7 +53,7 @@ Blagnac, le 9 juillet 2026
 
 <hr><hr>
 
-**Objet :** Opposition à l'immatriculation de toute nouvelle société à 22 Rue Lafaurie, 09000 Foix présentant un lien avec les dirigeants de SAS LES MAUVAIS GARCONS
+**Objet :** Opposition à l'immatriculation de toute nouvelle société à 22 Rue Lafaurie, 09000 Foix présentant un lien avec les dirigeants de SAS HB BARBER
 
 <hr><hr>
 
@@ -61,7 +61,7 @@ Blagnac, le 9 juillet 2026
 
 <hr><hr>
 
-**Référence RCS :** 938 033 222 00010
+**Référence RCS :** 104 103 262 00010
 **Lettre Recommandée avec Accusé de Réception**
 
 Monsieur le Greffier,
@@ -69,7 +69,7 @@ Monsieur le Greffier,
 
 J'interviens dans les intérêts de Sébastien GRAZIDE.
 
-Il existe de sérieuses raisons de penser que la société SAS LES MAUVAIS GARCONS et ses dirigeants, Sabir MOUNTASSER et Catherine ANDISSAC, s'apprêtent à dissoudre ou à abandonner la structure actuelle pour recréer une nouvelle société exerçant la même activité à la même adresse, dans le but manifeste de se soustraire aux obligations indemnitaires nées de l'accident.
+Il existe de sérieuses raisons de penser que la société SAS HB BARBER et ses dirigeants, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC, s'apprêtent à dissoudre ou à abandonner la structure actuelle pour recréer une nouvelle société exerçant la même activité à la même adresse, dans le but manifeste de se soustraire aux obligations indemnitaires nées de l'accident.
 <hr><hr>
 
 ## II — FONDEMENTS JURIDIQUES
@@ -105,9 +105,9 @@ Si une nouvelle société est créée à la même adresse avec les mêmes dirige
 
 Je vous prie de bien vouloir :
 
-1. **Prendre acte** de la présente opposition à l'immatriculation de toute nouvelle société à 22 Rue Lafaurie, 09000 Foix dont les dirigeants seraient liés à Sabir MOUNTASSER ou Catherine ANDISSAC.
+1. **Prendre acte** de la présente opposition à l'immatriculation de toute nouvelle société à 22 Rue Lafaurie, 09000 Foix dont les dirigeants seraient liés à Hamza El Hachemi BERGUIGA ou Catherine SORROCHE, dite ANDISSAC.
 
-2. **Inscrire** une mention d'opposition provisoire au dossier de la société SAS LES MAUVAIS GARCONS.
+2. **Inscrire** une mention d'opposition provisoire au dossier de la société SAS HB BARBER.
 
 3. **M'informer** de tout dépôt de dossier d'immatriculation à cette adresse dans les six prochains mois.
 
@@ -126,7 +126,7 @@ Avocat au Barreau
 
 ## PIECES JOINTES
 
-- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de [La Ville de l'Accident]
+- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de Foix
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
 

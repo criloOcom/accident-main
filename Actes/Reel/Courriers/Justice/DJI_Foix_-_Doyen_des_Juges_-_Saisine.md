@@ -15,7 +15,7 @@ tags:
 - envoi
 calendar_event_id: smthlv0a5arakof0m4rv80qgkc
 statut: envoye
-destinataire: Doyen des Juges d'Instruction de [Foix]
+destinataire: Doyen des Juges d'Instruction de Foix
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Justice/DJI Foix - Doyen des Juges - Saisine.md
 source: drive
@@ -29,7 +29,7 @@ jx: J+38
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # ENVOI [CONSTITUTION DE PARTIE CIVILE](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
 > 🔗 Source Google Drive : [1nFSf3EDB_bV…](https://drive.google.com/open?id=1nFSf3EDB_bVudz5Xhf0NvXlibTesCL8M5hepEZqxd5w)
@@ -72,7 +72,7 @@ Monsieur le Doyen des Juges d'Instruction,
 
 Par la présente et conformément aux dispositions des articles 85 et suivants du Code de procédure pénale, j'ai l'honneur de me constituer partie civile entre vos mains, pour des faits de blessures involontaires (Articles 222-19 et 222-20 du Code pénal).
 
-Ces faits sont survenus le 29 mai 2026 dans les locaux de la SAS SAS LES MAUVAIS GARCONS, sise 22 Rue Lafaurie, 09000 Foix. Ils engagent la responsabilité pénale et civile de la personne morale ainsi que celle de ses dirigeants, Sabir MOUNTASSER et Catherine ANDISSAC, pour violation manifestement délibérée d'une obligation de prudence ou de sécurité et défaut d'assurance de responsabilité civile professionnelle.
+Ces faits sont survenus le 29 mai 2026 dans les locaux de la SAS SAS HB BARBER, sise 22 Rue Lafaurie, 09000 Foix. Ils engagent la responsabilité pénale et civile de la personne morale ainsi que celle de ses dirigeants, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC, pour violation manifestement délibérée d'une obligation de prudence ou de sécurité et défaut d'assurance de responsabilité civile professionnelle.
 
 À la suite du dépôt de ma plainte simple le 2 juin 2026 auprès du Commissariat de Foix (PV n° [ ... ]), et en l'absence de toute suite connue à ce jour et face au refus persistant des mis en cause de communiquer leurs informations d'assurance, je me vois contraint de saisir votre juridiction pour faire valoir mes droits.
 
@@ -107,7 +107,7 @@ Sébastien GRAZIDE
 
 - **[Mises en demeure J+31](../../../Reel/Courriers/SAS_&_Salon/SAS%20HB%20BARBER%20-%20SAS%20-%20Courrier.md)** — LRAR restees sans reponse
 
-- **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]
+- **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)
 <!-- /PJ -->
 
 <!-- Source -->

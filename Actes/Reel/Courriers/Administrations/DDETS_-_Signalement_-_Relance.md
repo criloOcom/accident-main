@@ -28,7 +28,7 @@ jx: J+47
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # RELANCE<br>INSPECTION DU TRAVAIL
 
@@ -60,7 +60,7 @@ Blagnac, le 15 juillet 2026
 
 <hr><hr>
 
-**Objet :** Demande d'information — Accident corporel du 29 mai 2026 — Salon « SAS LES MAUVAIS GARCONS » (22 Rue Lafaurie, 09000 Foix)
+**Objet :** Demande d'information — Accident corporel du 29 mai 2026 — Salon « SAS HB BARBER » (22 Rue Lafaurie, 09000 Foix)
 
 <hr><hr>
 
@@ -70,7 +70,7 @@ Blagnac, le 15 juillet 2026
 
 Madame, Monsieur,
 
-Je me permets de vous écrire en ma qualité de **victime directe** d'un accident corporel grave survenu le **29 mai 2026** dans le salon « SAS LES MAUVAIS GARCONS », 22 Rue Lafaurie, 09000 Foix (PV de police n°2026/015967 — Commissariat de Toulouse).
+Je me permets de vous écrire en ma qualité de **victime directe** d'un accident corporel grave survenu le **29 mai 2026** dans le salon « SAS HB BARBER », 22 Rue Lafaurie, 09000 Foix (PV de police n°2026/015967 — Commissariat de Toulouse).
 
 Par courriel du **1er juin 2026**, Monsieur TAVELLA, Adjoint au Maire de Foix, m'a confirmé avoir saisi la Préfecture, laquelle devait **diligenter vos services** et le CODAF afin d'examiner la situation de cet établissement.
 
@@ -99,7 +99,7 @@ Sébastien GRAZIDE
 <!-- PJ -->
 ## PIECES JOINTES
 
-- **[Mairie - ERP Tavella - Courrier.md](../../../Reel/Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel [L'Adjoint au Maire de la Commune] (1er juin 2026)
+- **[Mairie - ERP Tavella - Courrier.md](../../../Reel/Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel Monsieur TAVELLA (1er juin 2026)
 
 - **[PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
 

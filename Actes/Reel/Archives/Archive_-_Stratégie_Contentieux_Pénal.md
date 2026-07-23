@@ -1,7 +1,7 @@
 ---
 uid: Ka8dXt3ZD
 title: "STRATEGIE Contentieux Penal"
-description: "Rédigé le **[J+36 Lettre consolidation]"
+description: "Rédigé le **4 juillet 2026"
 type: readme
 date: 2026-07-04
 tags:
@@ -19,7 +19,7 @@ source: drive
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 **Table des matières**
 
@@ -50,22 +50,22 @@ source: drive
 - [5. RÉCAPITULATIF DES PIÈCES](#5-rcapitulatif-des-pices)
 
 # STRATEGIE CONTENTIEUX PENAL
-Rédigé le [**[J+36 Lettre consolidation]**]
+Rédigé le 4 juillet 2026
 ## I — PRÉSENTATION
 
-Le [29 mai 2026], [Sébastien GRAZIDE], informaticien indépendant, a subi un accident corporel grave dans le salon de coiffure exploité par [SAS LES MAUVAIS GARCONS] ([SAS LES MAUVAIS GARCONS], SIRET [938 033 222 00010]), situé [22 Rue Lafaurie, 09000 Foix].
+Le 29 mai 2026, Sébastien GRAZIDE, informaticien indépendant, a subi un accident corporel grave dans le salon de coiffure exploité par SAS HB BARBER (SAS HB BARBER, SIRET 104 103 262 00010), situé 22 Rue Lafaurie, 09000 Foix.
 
-Alors que l'employé [Ayoub BENNOURINE] (tél. [**[Le Téléphone du Préposé]**]) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé.
+Alors que l'employé Ayoub BENNOURINE (tél. 07 58 40 12 87) était monté sur la vasque en céramique d'un bac à shampoing instable, l'équipement a brutalement basculé.
 
-Par réflexe, [Sébastien GRAZIDE] a tendu la main droite — sa main dominante indispensable à son activité professionnelle — pour protéger [Ayoub BENNOURINE] ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une prise en charge chirurgicale en urgence par le service SOS Main.
+Par réflexe, Sébastien GRAZIDE a tendu la main droite — sa main dominante indispensable à son activité professionnelle — pour protéger Ayoub BENNOURINE ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit nécessitant une prise en charge chirurgicale en urgence par le service SOS Main.
 
-Le contentieux pénal a pour objet de faire reconnaître la culpabilité de [SAS LES MAUVAIS GARCONS] et de ses dirigeants, d'obtenir leur condamnation pénale, et d'exercer les droits de la partie civile pour obtenir réparation dans le cadre de la procédure répressive, y compris par la saisine du [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^1] via la CIVI en cas d'insolvabilité de l'auteur.
+Le contentieux pénal a pour objet de faire reconnaître la culpabilité de SAS HB BARBER et de ses dirigeants, d'obtenir leur condamnation pénale, et d'exercer les droits de la partie civile pour obtenir réparation dans le cadre de la procédure répressive, y compris par la saisine du [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^1] via la CIVI en cas d'insolvabilité de l'auteur.
 <hr><hr>
 
 ## II — INFRACTIONS CONSTITUÉES
 ### 2.1 BLESSURES INVOLONTAIRES
 
-Faits : le [29 mai 2026], [Sébastien GRAZIDE] a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes, au sein de l'établissement exploité par [SAS LES MAUVAIS GARCONS].
+Faits : le 29 mai 2026, Sébastien GRAZIDE a subi une section nerveuse et tendineuse profonde de l'index droit par le basculement brutal d'un bac à shampoing instable dont la vasque en céramique présentait une cassure majeure préexistante non signalée aux arêtes tranchantes, au sein de l'établissement exploité par SAS HB BARBER.
 
 Ces faits sont constitutifs de blessures involontaires ayant entraîné une incapacité totale de travail (ITT) prévisible inférieure ou égale à trois mois.
 
@@ -79,7 +79,7 @@ L'infraction est prévue et réprimée par [l'Article 222-20 du Code pénal](htt
 
 ### 2.2 ABSENCE D'ASSURANCE RESPONSABILITÉ CIVILE PROFESSIONNELLE
 
-[SAS LES MAUVAIS GARCONS] n'a pas communiqué d'attestation d'assurance de responsabilité civile professionnelle malgré les relances amiables de [Sébastien GRAZIDE].
+SAS HB BARBER n'a pas communiqué d'attestation d'assurance de responsabilité civile professionnelle malgré les relances amiables de Sébastien GRAZIDE.
 
 Cette absence d'assurance, si elle est confirmée, prive la victime de l'exercice de l'action directe contre l'assureur prévue à [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^3], et justifie une saisine du [Fonds de Garantie des Victimes d'Actes de Terrorisme et d'Autres Infractions (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418[^1]734) sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI00004[^4]8442345), qui prévoit l'indemnisation des victimes d'infractions lorsque l'auteur n'est pas assuré.
 
@@ -110,15 +110,15 @@ Cette qualification nécessite la démonstration d'une violation délibérée d'
 ## III — PROCÉDURE PÉNALE ENGAGÉE
 ### 3.1 SIGNALEMENT ADMINISTRATIF ET DÉPÔT DE PLAINTE
 
-Un signalement a été adressé à la préfecture par la Mairie de [Foix] dès le 1er juin 2026, selon le courriel de l'adjoint au maire ([**[L'Email de l'Adjoint au Maire]**]) en date du 1er juin 2026 à 16h15. La Mairie y indiquait avoir pris l'attache des services de la préfecture pour diligenter l'inspection du travail et le CODAF.
+Un signalement a été adressé à la préfecture par la Mairie de Foix dès le 1er juin 2026, selon le courriel de l'adjoint au maire (btavella@mairie-foix.fr) en date du 1er juin 2026 à 16h15. La Mairie y indiquait avoir pris l'attache des services de la préfecture pour diligenter l'inspection du travail et le CODAF.
 
-[Sébastien GRAZIDE] a parallèlement déposé une plainte officielle le 1er juin 2026 au commissariat de [Foix], retranscrite sous la référence PV n° [2026/015967] [🔗 Pièce](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view). Un procès-verbal de constat a été établi le [2 juin 2026] [🔗 Pièce](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view).
+Sébastien GRAZIDE a parallèlement déposé une plainte officielle le 1er juin 2026 au commissariat de Foix, retranscrite sous la référence PV n° 2026/015967 [🔗 Pièce](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view). Un procès-verbal de constat a été établi le 2 juin 2026 [🔗 Pièce](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view).
 
-**Note :** À ce jour, aucun accusé de réception officiel ni numéro de suivi de la préfecture n'a été communiqué à [Sébastien GRAZIDE]. Les informations relatives à la saisine de la préfecture proviennent exclusivement du courriel de la Mairie de [Foix].
+**Note :** À ce jour, aucun accusé de réception officiel ni numéro de suivi de la préfecture n'a été communiqué à Sébastien GRAZIDE. Les informations relatives à la saisine de la préfecture proviennent exclusivement du courriel de la Mairie de Foix.
 
 ### 3.2 CONSTITUTION DE PARTIE CIVILE
 
-Une constitution de partie civile a été formée par [Sébastien GRAZIDE] le [30 juin 2026] devant le Tribunal Correctionnel de [Foix]. Cette démarche, fondée sur les articles 2 et suivants du Code de procédure pénale, permet à [Sébastien GRAZIDE] de :
+Une constitution de partie civile a été formée par Sébastien GRAZIDE le 30 juin 2026 devant le Tribunal Correctionnel de Foix. Cette démarche, fondée sur les articles 2 et suivants du Code de procédure pénale, permet à Sébastien GRAZIDE de :
 
 - Participer activement à la procédure pénale
 
@@ -134,7 +134,7 @@ La constitution de partie civile peut être réalisée par déclaration au greff
 
 ### 3.3 COMPLÉMENT DE PLAINTE POUR ABSENCE D'ASSURANCE
 
-Un complément de plainte a été déposé le [30 juin 2026] auprès du Procureur de la République près le Tribunal Judiciaire de [Foix] pour signaler l'absence de communication d'attestation d'assurance de responsabilité civile professionnelle par [SAS LES MAUVAIS GARCONS].
+Un complément de plainte a été déposé le 30 juin 2026 auprès du Procureur de la République près le Tribunal Judiciaire de Foix pour signaler l'absence de communication d'attestation d'assurance de responsabilité civile professionnelle par SAS HB BARBER.
 
 Ce complément vise à porter à la connaissance de l'autorité judiciaire cette carence, qui constitue un obstacle à l'indemnisation de la victime et justifie, le cas échéant, la saisine du [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^1] sur le fondement de [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442[^4]345).
 
@@ -144,7 +144,7 @@ Ce complément vise à porter à la connaissance de l'autorité judiciaire cette
 
 ### 3.4 RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS
 
-Les dirigeants de [SAS LES MAUVAIS GARCONS], à savoir [Sabir MOUNTASSER] (Président) et [Catherine ANDISSAC] (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales, ainsi que sur le fondement de [Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928)[^8].
+Les dirigeants de SAS HB BARBER, à savoir Hamza El Hachemi BERGUIGA (Président) et Catherine SORROCHE, dite ANDISSAC (Directrice Générale), peuvent voir leur responsabilité pénale personnelle engagée sur le fondement de la faute détachable de leurs fonctions sociales, ainsi que sur le fondement de [Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006447928)[^8].
 
 > *« Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. Si plusieurs administrateurs ou plusieurs administrateurs et le directeur général ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du dommage. »* <br>
 > [Article L225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) <br>
@@ -158,7 +158,7 @@ Le défaut de souscription d'assurance responsabilité civile professionnelle co
 
 ### 3.5 INDEMNISATION PAR LE FGTI / CIVI
 
-L'absence d'assurance de [SAS LES MAUVAIS GARCONS] et son insolvabilité éventuelle justifient la mise en œuvre de la voie indemnitaire subsidiaire prévue aux [articles 706-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)[^11] et suivants du Code de procédure pénale.
+L'absence d'assurance de SAS HB BARBER et son insolvabilité éventuelle justifient la mise en œuvre de la voie indemnitaire subsidiaire prévue aux [articles 706-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577625)[^11] et suivants du Code de procédure pénale.
 
 Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418734)[^1] indemnise les victimes de dommages corporels résultant d'une infraction pénale lorsque l'auteur n'est pas assuré et que la réparation ne peut être obtenue à un autre titre.
 
@@ -177,11 +177,11 @@ Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LE
 > *« A peine de forclusion, la demande d'indemnité doit être présentée dans le délai de trois ans à compter de la date de l'infraction. Lorsque des poursuites pénales sont exercées, ce délai est prorogé et n'expire qu'un an après la décision de la juridiction qui a statué définitivement sur l'action publique ou sur l'action civile engagée devant la juridiction répressive. Toutefois, la commission relève le requérant de la forclusion lorsque l'information prévue à l'article 706-15 n'a pas été donnée, lorsque le requérant n'a pas été en mesure de faire valoir ses droits dans les délais requis ou lorsqu'il a subi une aggravation de son préjudice ou pour tout autre motif légitime. Lorsque l'infraction est commise à l'encontre d'un mineur, le délai de forclusion ne court qu'à compter de la majorité de ce dernier. Lorsqu'une décision d'une juridiction répressive a alloué des dommages et intérêts à la victime et que la demande est jugée irrecevable, le délai prévu au deuxième alinéa de l'article 706-15-2 ne court qu'à compter de la notification de la décision de la commission. »* <br>
 > [Article 706-5 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334) <br>
 > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction — abrogation différée.[^13]**
-- **3 ans** à compter de l'infraction ([29 mai 2026] → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
+- **3 ans** à compter de l'infraction (29 mai 2026 → 29 mai 2029) pour saisir la CIVI (Article 706-5 CPP).
 
 - Ou **1 an** après une décision pénale définitive si elle intervient avant l'expiration du délai de 3 ans.
 
-**Procédure :** Saisine de la Commission d'Indemnisation des Victimes d'Infractions (CIVI) du Tribunal Judiciaire de [Foix], qui notifie le FGTI et instruit la demande d'indemnisation.
+**Procédure :** Saisine de la Commission d'Indemnisation des Victimes d'Infractions (CIVI) du Tribunal Judiciaire de Foix, qui notifie le FGTI et instruit la demande d'indemnisation.
 
 Cette voie est indépendante de l'action pénale principale : la victime peut saisir la CIVI sans attendre l'issue de la procédure pénale, dès lors que les conditions de l'Article 706-3 sont réunies.
 <hr><hr>
@@ -201,27 +201,27 @@ Cette voie est indépendante de l'action pénale principale : la victime peut sa
 ## V — RÉCAPITULATIF DES PIÈCES
 
 Pièces pénales :
-- [1 juin 2026] — [Foix] Police — Dépôt de plainte officiel [🔗 Voir](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view)
+- 1 juin 2026 — Foix Police — Dépôt de plainte officiel [🔗 Voir](https://drive.google.com/file/d/1estaaOWMphbrt5VXhy6MsTfHqBGIdj22/view)
 
-- [2 juin 2026] — [Foix] Police — Procès-verbal constat n°[2026/015967] [🔗 Voir](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view)
+- 2 juin 2026 — Foix Police — Procès-verbal constat n°2026/015967 [🔗 Voir](https://drive.google.com/file/d/1YXaJE81FFPTKcrcShg9DI5jUZ82T988V/view)
 
-- [2 juin 2026] — [Foix] Police — Constitution de partie civile
+- 2 juin 2026 — Foix Police — Constitution de partie civile
 
-- [2 juin 2026] — [Foix] Police — Complément de plainte
+- 2 juin 2026 — Foix Police — Complément de plainte
 
 Pièces médicales (justificatifs du préjudice corporel) :
-- [29 mai 2026] — [Dr Julie JARDON] — Premiers soins urgence
+- 29 mai 2026 — Dr Julie JARDON — Premiers soins urgence
 
-- [30 mai 2026] — [Dr Iskander DJERBI] — CR opératoire
+- 30 mai 2026 — Dr Iskander DJERBI — CR opératoire
 
-- [19 juin 2026] — [Dr Iskander DJERBI] — CR contrôle J+20
+- 19 juin 2026 — Dr Iskander DJERBI — CR contrôle J+20
 
 Pièces administratives :
-- [3 juin 2026] — CPAM Haute-Garonne — Dossier RCT [31727387]
+- 3 juin 2026 — CPAM Haute-Garonne — Dossier RCT 31727387
 
-- [1 juin 2026] — INSEE — Avis de situation SAS
+- 1 juin 2026 — INSEE — Avis de situation SAS
 
-- [1 juin 2026] — INPI — Fiche identité SAS
+- 1 juin 2026 — INPI — Fiche identité SAS
 <!-- Source -->
 <hr><hr>
 

@@ -44,7 +44,7 @@ Service Recours Contre Tiers
 Blagnac, le 5 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # RELANCE CPAM<br>SUIVI DU DOSSIER DE RECOURS CONTRE TIERS
 > 🔗 Source Google Drive : [1MHhZf_KN4b3…](https://drive.google.com/open?id=1MHhZf_KN4b3jcym5DRJefVGCEjhHQm6ZHT1hOuJ-W4k)
@@ -55,11 +55,11 @@ Objet : Relance et demande d'etat d'avancement — Recours contre tiers n° [317
 
 <hr><hr>
 
-Ref : Accident du 29 mai 2026 — SAS SAS LES MAUVAIS GARCONS
+Ref : Accident du 29 mai 2026 — SAS SAS HB BARBER
 
 Madame, Monsieur,
 
-La presente est adressee a vos services par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS, immatriculee sous le SIREN 938 033 222.
+La presente est adressee a vos services par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS HB BARBER, immatriculee sous le SIREN 104 103 262.
 ## I — OBJET DE LA RELANCE
 
 Je me permets de solliciter de vos services :

@@ -2,7 +2,7 @@
 uid: u2yn9YAdU
 emoji: 📋
 title: 📧📋 Email Transmission Attestation Employé
-description: 'Objet : Attestation de témoin — Accident du [29 mai 2026] au **[L''Adresse
+description: 'Objet : Attestation de témoin — Accident du 29 mai 2026 au **[L''Adresse
   de l''Exploitation]'
 type: courrier
 date: 2026-07-06
@@ -13,7 +13,7 @@ tags:
 
 - temoin
 statut: brouillon
-destinataire: Employé(e) du salon présent(e) le [29 mai 2026]
+destinataire: Employé(e) du salon présent(e) le 29 mai 2026
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Témoins/SAS HB BARBER - Employé - Email Attestation.md
 source: local
@@ -31,7 +31,7 @@ sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**Employé(e) du salon présent(e) le [J+0 Accident]**
+**Employé(e) du salon présent(e) le 29 mai 2026**
 <!-- /Destinataire -->
 
 # TRANSMISSION<br>GABARIT D'ATTESTATION DE TÉMOIN (EMPLOYÉ)

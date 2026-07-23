@@ -14,7 +14,7 @@ reel_path: ../../Reel/Organisation/Synthèse - Actions et Audits.md
 # Note de Synthèse<br>Avancement des Audits & Recommandations
 
 Cette note récapitule l'analyse systématique de tous les rapports d'audit dans [Rapports](../README.md) et catégorise l'état d'avancement des tâches en suspens.
-## I — 🟥 CE QU'IL RESTE À FAIRE (Démarches Humaines — En attente d'action de [**[Prénom de la Victime]**])
+## I — 🟥 CE QU'IL RESTE À FAIRE (Démarches Humaines — En attente d'action de Sébastien)
 
 Ces tâches ne peuvent pas être automatisées par un agent d'IA et nécessitent vos démarches physiques auprès des tiers.
 
@@ -34,7 +34,7 @@ Ces tâches ne peuvent pas être automatisées par un agent d'IA et nécessitent
 
 - [ ] **Relancer le chirurgien SOS Main** : Transmettre la relance pour le certificat de consolidation de votre main droite (Pièce n°25) afin de pouvoir chiffrer précisément les préjudices fonctionnels permanents selon le barème Dintilhac.
 
-- [ ] UMJ **[L'Hôpital de Purpan (CHU Toulouse)]** (12 Novembre 2026 à 13h45) : Assurer votre présence à la convocation judiciaire d'évaluation de l'ITT avec un dossier médical complet.
+- [ ] UMJ CHU de Toulouse Purpan (12 Novembre 2026 à 13h45) : Assurer votre présence à la convocation judiciaire d'évaluation de l'ITT avec un dossier médical complet.
 
 ### I.4 — Assistance Juridique & Aide Juridictionnelle
 

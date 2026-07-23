@@ -8,7 +8,7 @@ type: courrier
 date: 2026-07-18
 calendar_event_id: 1mbqfdhq594llbiqb3b1thjn60
 statut: envoye
-lrar_number: '[**[N° LRAR DG]**]'
+lrar_number: '[87001424721856G]'
 destinataire: La Directrice Générale de l'Exploitation
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - Directrice Générale - Courrier.md
@@ -18,10 +18,10 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - Directrice Géné
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # LETTRE RECOMMANDÉE — MME LA DIRECTRICE GÉNÉRALE (DOMICILE PERSONNEL)
-> 🔗 Source Google Drive : [20260718 ✉️ LRAR [Catherine ANDISSAC] (DG)](https://docs.google.com/document/d/1g8I1hYbqsue4Q14iQBVkUsXM3uOgFOqRpg4Myp-frxE/edit?usp=sharing)
+> 🔗 Source Google Drive : [20260718 ✉️ LRAR Catherine SORROCHE, dite ANDISSAC (DG)](https://docs.google.com/document/d/1g8I1hYbqsue4Q14iQBVkUsXM3uOgFOqRpg4Myp-frxE/edit?usp=sharing)
 
 <!-- Auteur -->
 10 Avenue de Purpan, 31700 Blagnac
@@ -30,11 +30,11 @@ sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-Catherine ANDISSAC
+Catherine SORROCHE, dite ANDISSAC
 
-Directrice Générale de [SAS LES MAUVAIS GARCONS]
+Directrice Générale de SAS HB BARBER
 
-[**[L'Adresse de la Directrice Générale]**]
+351 route Impériale, 34670 Baillargues
 <!-- /Destinataire -->
 
 <!-- Date -->
@@ -42,7 +42,7 @@ Blagnac, le 18 juillet 2026
 <!-- /Date -->
 
 <hr><hr>
-Objet : Demande de communication de l'assurance RC professionnelle de [SAS LES MAUVAIS GARCONS] — Notification à la dirigeante à titre personnel et de représentant légal
+Objet : Demande de communication de l'assurance RC professionnelle de SAS HB BARBER — Notification à la dirigeante à titre personnel et de représentant légal
 <hr><hr>
 
 Mode d'envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
@@ -50,13 +50,13 @@ Mode d'envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 Madame la Directrice Générale,
 ## I — CONTEXTE ET EXCUSES SUR LE DÉLAI
 
-Par la présente, je me permets de vous écrire en votre qualité de Directrice Générale de [SAS LES MAUVAIS GARCONS], ainsi qu'à votre adresse personnelle, en raison des responsabilités qui incombent aux dirigeants de droit de sociétés commerciales.
+Par la présente, je me permets de vous écrire en votre qualité de Directrice Générale de SAS HB BARBER, ainsi qu'à votre adresse personnelle, en raison des responsabilités qui incombent aux dirigeants de droit de sociétés commerciales.
 
 Le vendredi 29 mai 2026 vers 15h20, j'ai subi un grave accident corporel au sein de l'établissement exploité au 22 Rue Lafaurie, 09000 Foix : un bac à shampoing lourd a basculé et ma main droite a percuté une partie de la vasque en céramique déjà brisée et tranchante, provoquant une plaie palmaire profonde de la main droite, avec atteinte tendineuse et nerveuse. Informaticien indépendant de profession, cette blessure à ma main dominante me paralyse totalement dans mon activité ([arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) de 55 jours en cours).
 
 Le jour même, j'ai été pris en charge en urgence au centre de soins immédiats de Foix par le Dr Julie JARDON, qui a constaté la plaie palmaire droite profonde, réalisé les [premiers soins](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (lavage, désinfection, exploration sous anesthésie locale) et m'a réorienté en urgence vers le service spécialisé « SOS Main » de Clinique de l'Union pour une exploration chirurgicale le lendemain matin. Le 30 mai 2026, j'ai été opéré par le Dr Iskander DJERBI (suture tendineuse, suture microchirurgicale des nerfs et vaisseaux, neurolyse, sutures cutanées).
 
-Veuillez agréer mes excuses pour le délai avec lequel je reviens vers vous. La constitution de [SAS LES MAUVAIS GARCONS] étant extrêmement récente au moment des faits (début d'activité au 22 avril 2026 et immatriculation au Registre national des entreprises le 19 mai 2026, soit quelques jours seulement avant l'accident), l'indexation de vos statuts et de vos mandats sociaux a connu les délais administratifs habituels avant de figurer publiquement sur les registres (INPI, RNE, SIRENE). Mes démarches initiales de juin, adressées par erreur à l'ancienne enseigne « LES MAUVAIS GARÇONS », n'avaient pu aboutir. Les informations officielles du bailleur et des registres d'immatriculation me permettent aujourd'hui d'adresser la présente demande aux dirigeants réels.
+Veuillez agréer mes excuses pour le délai avec lequel je reviens vers vous. La constitution de SAS HB BARBER étant extrêmement récente au moment des faits (début d'activité au 22 avril 2026 et immatriculation au Registre national des entreprises le 19 mai 2026, soit quelques jours seulement avant l'accident), l'indexation de vos statuts et de vos mandats sociaux a connu les délais administratifs habituels avant de figurer publiquement sur les registres (INPI, RNE, SIRENE). Mes démarches initiales de juin, adressées par erreur à l'ancienne enseigne « LES MAUVAIS GARÇONS », n'avaient pu aboutir. Les informations officielles du bailleur et des registres d'immatriculation me permettent aujourd'hui d'adresser la présente demande aux dirigeants réels.
 
 Je précise par ailleurs qu'une mise en demeure en date du 29 juin 2026 (LRAR n° 87001424721856G) vous avait déjà été adressée à une adresse antérieure, au titre de vos fonctions communes dans l'ancienne société. Cette lettre a fait l'objet d'un retour pour défaut d'adresse. Vous avez donc déjà eu connaissance de l'existence de ce litige, ce qui renforce l'urgence d'y apporter une solution amiable et conforme au droit.
 <hr><hr>
@@ -97,9 +97,9 @@ Quelle que soit l'interprétation que vous faites aujourd'hui de l'accident, cel
 
 ## IV — CE QUE JE VOUS DEMANDE CONCRÈTEMENT
 
-Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]), je vous remercie de bien vouloir me communiquer, sous un délai de quinze (15) jours à compter de la réception de la présente :
+Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)), je vous remercie de bien vouloir me communiquer, sous un délai de quinze (15) jours à compter de la réception de la présente :
 
-1. Le nom et les coordonnées complètes de l'assureur responsabilité civile de [SAS LES MAUVAIS GARCONS] au 29 mai 2026 ;
+1. Le nom et les coordonnées complètes de l'assureur responsabilité civile de SAS HB BARBER au 29 mai 2026 ;
 
 2. Le numéro de contrat ou de police associé ;
 

@@ -24,12 +24,12 @@ jx: J+53
 <hr>
 <!-- /Breadcrumb -->
 
-> **Contexte** : Accident de la main survenu le 29 mai 2026 dans un salon de coiffure (vasque céramique défectueuse ayant basculé). La SAS exploitante ([**[L'Exploitant du Commerce]**], capital ~5 000 €) est assurée, mais [Sabir MOUNTASSER] dissimule l'identité de l'assureur. Procédure en référé sur l'article 145 CPC en cours pour lever cette information. Objectif : action directe contre l'assureur RC pour obtenir une provision.
+> **Contexte** : Accident de la main survenu le 29 mai 2026 dans un salon de coiffure (vasque céramique défectueuse ayant basculé). La SAS exploitante (SAS LES MAUVAIS GARCONS, capital ~5 000 €) est assurée, mais Hamza El Hachemi BERGUIGA dissimule l'identité de l'assureur. Procédure en référé sur l'article 145 CPC en cours pour lever cette information. Objectif : action directe contre l'assureur RC pour obtenir une provision.
 
 # NOTE — PROCÉDURE ACTION DIRECTE<br>ASSURANCE — ART. L.124-3 C. ASSUR.
 ## I — OBJET ET CHAMP DE LA NOTE
 
-La présente note a pour objet d'analyser les conditions, la prescription et la stratégie procédurale de l'action directe que [Sébastien GRAZIDE] peut exercer contre l'assureur de responsabilité civile de la SAS exploitant le salon de coiffure, sur le fondement de l'article L.124-3 du Code des assurances.
+La présente note a pour objet d'analyser les conditions, la prescription et la stratégie procédurale de l'action directe que Sébastien GRAZIDE peut exercer contre l'assureur de responsabilité civile de la SAS exploitant le salon de coiffure, sur le fondement de l'article L.124-3 du Code des assurances.
 
 Elle s'inscrit dans le cadre d'une procédure en deux temps :
 
@@ -112,7 +112,7 @@ Il est impératif de ne pas confondre :
 > [CA Versailles, 2025, n°22/01019](https://www.doctrine.fr/) <br>
 > **Cour d'appel de Versailles**
 
-**Dans notre dossier :** L'accident étant survenu le 29 mai 2026, et [Sébastien GRAZIDE] n'étant pas encore consolidée, la prescription court à compter de la date de consolidation. L'assignation en référé sur l'article 145 CPC interrompt la prescription (art. 2241 C. civ.). Le délai pour agir est donc très large, mais il convient d'agir sans délai pour éviter tout débat dilatoire.
+**Dans notre dossier :** L'accident étant survenu le 29 mai 2026, et Sébastien GRAZIDE n'étant pas encore consolidée, la prescription court à compter de la date de consolidation. L'assignation en référé sur l'article 145 CPC interrompt la prescription (art. 2241 C. civ.). Le délai pour agir est donc très large, mais il convient d'agir sans délai pour éviter tout débat dilatoire.
 <hr><hr>
 
 ## IV — CONDITIONS DE MISE EN ŒUVRE DE L'ACTION DIRECTE
@@ -121,9 +121,9 @@ L'action directe contre l'assureur suppose la réunion de quatre conditions cumu
 
 ### IV.1 — Existence d'une assurance RC en vigueur au jour du sinistre
 
-La condition première est que la SAS exploitante ([**[L'Exploitant du Commerce]**] soit titulaire d'un contrat d'assurance de responsabilité civile professionnelle (RC Pro) en vigueur le 29 mai 2026. En tant qu'ERP recevant du public (salon de coiffure — activités de soins esthétiques), cette assurance est obligatoire en application de l'article L.1142-2 du Code de la santé publique pour les activités de soins, et en tout état de cause nécessaire à l'exploitation commerciale.
+La condition première est que la SAS exploitante (SAS LES MAUVAIS GARCONS soit titulaire d'un contrat d'assurance de responsabilité civile professionnelle (RC Pro) en vigueur le 29 mai 2026. En tant qu'ERP recevant du public (salon de coiffure — activités de soins esthétiques), cette assurance est obligatoire en application de l'article L.1142-2 du Code de la santé publique pour les activités de soins, et en tout état de cause nécessaire à l'exploitation commerciale.
 
-L'obstacle actuel est le refus de [Sabir MOUNTASSER] de communiquer les coordonnées de l'assureur. Cette rétention d'information est abusive et constitue un manquement à l'obligation de loyauté dans la procédure.
+L'obstacle actuel est le refus de Hamza El Hachemi BERGUIGA de communiquer les coordonnées de l'assureur. Cette rétention d'information est abusive et constitue un manquement à l'obligation de loyauté dans la procédure.
 
 ### IV.2 — Droit propre de la victime
 
@@ -162,7 +162,7 @@ Pour obtenir une **provision en référé** sur le fondement de l'article 835 CP
 
 ## V — CONTENTIEUX SUR L'IDENTITÉ DE L'ASSUREUR<br>RÉFÉRÉ ART. 145 CPC
 
-L'obstacle principal à l'exercice de l'action directe est l'absence d'identification de l'assureur. [Sabir MOUNTASSER] refuse obstinément de communiquer les coordonnées de la compagnie d'assurance de la SAS, malgré les demandes réitérées de [Sébastien GRAZIDE].
+L'obstacle principal à l'exercice de l'action directe est l'absence d'identification de l'assureur. Hamza El Hachemi BERGUIGA refuse obstinément de communiquer les coordonnées de la compagnie d'assurance de la SAS, malgré les demandes réitérées de Sébastien GRAZIDE.
 
 ### V.1 — Fondement de la demande : article 145 CPC
 
@@ -177,7 +177,7 @@ Le motif légitime est caractérisé par trois éléments cumulatifs :
 
 2. **L'impossibilité d'accéder à l'information** : le dirigeant refuse de communiquer l'identité de l'assureur malgré les demandes amiables écrites.
 
-3. **L'utilité de la mesure** : seule la communication des contrats d'assurance permettra à [Sébastien GRAZIDE] d'exercer son action directe.
+3. **L'utilité de la mesure** : seule la communication des contrats d'assurance permettra à Sébastien GRAZIDE d'exercer son action directe.
 
 ### V.3 — Mesures sollicitées
 
@@ -193,7 +193,7 @@ L'assignation en référé demande :
 
 ### V.4 — Risques et obstacles procéduraux
 
-- **Absence de comparution** : si [Sabir MOUNTASSER] ne comparait pas, l'ordonnance sera rendue par défaut mais son exécution sera difficile.
+- **Absence de comparution** : si Hamza El Hachemi BERGUIGA ne comparait pas, l'ordonnance sera rendue par défaut mais son exécution sera difficile.
 
 - **Opposition à la communication** : le dirigeant pourrait prétendre ne pas connaître l'assureur (défense peu crédible pour une société commerciale).
 
@@ -238,7 +238,7 @@ Cependant, la Cour de cassation a posé un principe d'exclusivité des régimes 
 
 - La CIVI pourrait alors être compétente pour les blessures involontaires (infraction pénale), sous réserve de remplir les conditions de l'article 706-3 CPP (préjudice corporel grave).
 
-- Par ailleurs, [Sébastien GRAZIDE] pourrait se constituer partie civile dans le cadre d'une éventuelle procédure pénale.
+- Par ailleurs, Sébastien GRAZIDE pourrait se constituer partie civile dans le cadre d'une éventuelle procédure pénale.
 <hr><hr>
 
 ## VII — RISQUES ET LIMITES
@@ -260,7 +260,7 @@ Si la SAS n'a pas déclaré le sinistre à son assureur, ce dernier pourrait lui
 
 ### VII.3 — Plafond de garantie
 
-Le contrat d'assurance peut prévoir un plafond de garantie (limite quantitative). Si le plafond est inférieur au préjudice, [Sébastien GRAZIDE] ne pourra réclamer que dans la limite du plafond. Il conviendra d'examiner attentivement les conditions générales du contrat dès qu'elles seront communiquées.
+Le contrat d'assurance peut prévoir un plafond de garantie (limite quantitative). Si le plafond est inférieur au préjudice, Sébastien GRAZIDE ne pourra réclamer que dans la limite du plafond. Il conviendra d'examiner attentivement les conditions générales du contrat dès qu'elles seront communiquées.
 
 ### VII.4 — Prescription quinquennale (art. 2224 C. civ.)
 
@@ -286,7 +286,7 @@ Si la SAS s'avère ne pas être assurée (hypothèse pessimiste mais envisageabl
 
 ### VII.6 — Dissimulation d'actifs et fraude
 
-Le comportement de [Sabir MOUNTASSER] (dissimulation de l'assureur, changement d'exploitant apparent) pourrait relever de manœuvres frauduleuses tendant à organiser l'insolvabilité. Ces faits constituent :
+Le comportement de Hamza El Hachemi BERGUIGA (dissimulation de l'assureur, changement d'exploitant apparent) pourrait relever de manœuvres frauduleuses tendant à organiser l'insolvabilité. Ces faits constituent :
 
 - Une violation de l'obligation de loyauté procédurale ;
 
@@ -366,7 +366,7 @@ Le comportement de [Sabir MOUNTASSER] (dissimulation de l'assureur, changement d
 
 ## IX — SYNTHÈSE ET RECOMMANDATIONS
 
-L'action directe contre l'assureur de [**[L'Exploitant du Commerce]**] sur le fondement de l'article L.124-3 du Code des assurances est juridiquement parfaitement fondée et constitue la voie procédurale principale pour obtenir l'indemnisation du préjudice corporel subi par [Sébastien GRAZIDE].
+L'action directe contre l'assureur de SAS LES MAUVAIS GARCONS sur le fondement de l'article L.124-3 du Code des assurances est juridiquement parfaitement fondée et constitue la voie procédurale principale pour obtenir l'indemnisation du préjudice corporel subi par Sébastien GRAZIDE.
 
 **Points forts :**
 - Droit propre de la victime, autonome et non affecté par les procédures collectives ;

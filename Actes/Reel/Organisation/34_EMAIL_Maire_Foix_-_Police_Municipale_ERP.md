@@ -5,14 +5,14 @@ date: 2026-07-10
 type: email
 categorie: urgence
 auteur: La Victime
-destinataire: '[L'Adjoint au Maire de la Commune]'
+destinataire: 'Monsieur TAVELLA'
 statut: brouillon
 ---
 
 # EMAIL — Demande d'intervention pour contrôle de sécurité et d'exploitation (22 Rue Lafaurie, 09000 Foix)
 
-**Destinataire** : `[**[Email Adjoint au Maire]**]`
-**Copie (Cc)** : `[**[Email Secrétariat Mairie]**]`
+**Destinataire** : `[b.tavella@mairie-foix.fr]`
+**Copie (Cc)** : `[secretariat.maire@mairie-foix.fr]`
 **Expéditeur** : `sebastien.grazide@gmail.com`
 **Objet** : Suite à nos échanges – Demande d'intervention pour contrôle de sécurité ERP (22 Rue Lafaurie, 09000 Foix)
 
@@ -34,7 +34,7 @@ Si je me permets de vous solliciter à nouveau aujourd'hui, c'est en raison d'un
 
 Sur le plan médical, lors de ma consultation de contrôle du 23 juin 2026, le Dr Iskander DJERBI (SOS Main — Clinique de l'Union) a prescrit un protocole de kinésithérapie stricte (3 séances par semaine) et certifié que la récupération de la sensibilité de mon index s'étendra sur une durée d'environ un an et restera probablement partielle après une suture nerveuse.
 
-Sur le plan administratif, résidant à 10 Avenue de Purpan, 31700 Blagnac, j'ai fait adresser des mises en demeure par courriers recommandés à SAS LES MAUVAIS GARCONS à l'adresse de son siège social (22 Rue Lafaurie, 09000 Foix) le 29 juin 2026. Or, ces courriers n'ont pas pu être distribués (mentions défaut d'adresse, distribution impossible).
+Sur le plan administratif, résidant à 10 Avenue de Purpan, 31700 Blagnac, j'ai fait adresser des mises en demeure par courriers recommandés à SAS HB BARBER à l'adresse de son siège social (22 Rue Lafaurie, 09000 Foix) le 29 juin 2026. Or, ces courriers n'ont pas pu être distribués (mentions défaut d'adresse, distribution impossible).
 
 Pourtant, le commerce a rouvert ses portes le 6 juillet 2026 et paraît en activité régulière. Les registres publics du RNE (INPI) indiquent par ailleurs que cette SAS est toujours officiellement active à cette même adresse, sans modification de siège social.
 

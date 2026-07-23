@@ -2,7 +2,7 @@
 uid: mbk8rpUuU
 emoji: 🔄
 title: Relance Préfecture / CODAF — Suite signalement Maire de Foix
-description: Suivi du signalement transmis par [Monsieur TAVELLA]
+description: Suivi du signalement transmis par Monsieur TAVELLA
   (Adjoint au Maire) le 1er juin 2026 — demande d'état d'avancement
 type: courrier
 date: 2026-07-15
@@ -30,7 +30,7 @@ jx: J+47
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # RELANCE<br>PRÉFECTURE / CODAF
 
@@ -62,7 +62,7 @@ Blagnac, le 15 juillet 2026
 
 <hr><hr>
 
-**Objet :** Suivi du signalement transmis par la Mairie de Foix — Salon « SAS LES MAUVAIS GARCONS » (22 Rue Lafaurie, 09000 Foix)
+**Objet :** Suivi du signalement transmis par la Mairie de Foix — Salon « SAS HB BARBER » (22 Rue Lafaurie, 09000 Foix)
 
 <hr><hr>
 
@@ -72,7 +72,7 @@ Blagnac, le 15 juillet 2026
 
 Monsieur le Préfet,
 
-Par courriel du **1er juin 2026**, Monsieur TAVELLA, Adjoint au Maire de Foix chargé de l'Urbanisme et des Travaux, m'a informé avoir pris l'attache de vos services afin de diligenter **l'Inspection du travail** et le **CODAF (Comité Opérationnel Départemental Anti-Fraude)** au sujet de l'accident corporel grave dont j'ai été victime le **29 mai 2026** dans le salon « SAS LES MAUVAIS GARCONS », 22 Rue Lafaurie, 09000 Foix.
+Par courriel du **1er juin 2026**, Monsieur TAVELLA, Adjoint au Maire de Foix chargé de l'Urbanisme et des Travaux, m'a informé avoir pris l'attache de vos services afin de diligenter **l'Inspection du travail** et le **CODAF (Comité Opérationnel Départemental Anti-Fraude)** au sujet de l'accident corporel grave dont j'ai été victime le **29 mai 2026** dans le salon « SAS HB BARBER », 22 Rue Lafaurie, 09000 Foix.
 
 Victime directe de cet accident — **plaie palmaire profonde de la main droite avec section du tendon fléchisseur, du nerf digital et de l'artère collatérale de l'index droit**, opéré en urgence le 30 mai 2026, **[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours** — je souhaiterais savoir :
 
@@ -99,7 +99,7 @@ Sébastien GRAZIDE
 <!-- PJ -->
 ## PIECES JOINTES
 
-- **[Mairie - ERP Tavella - Courrier.md](../../../Reel/Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel [L'Adjoint au Maire de la Commune] (1er juin 2026)
+- **[Mairie - ERP Tavella - Courrier.md](../../../Reel/Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel Monsieur TAVELLA (1er juin 2026)
 
 - **[PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
 

@@ -1,9 +1,9 @@
 ---
 uid: EyDZuysHj
 emoji: 🔄
-title: Relance [Dr Iskander DJERBI] - Certificat de Consolidation
+title: Relance Dr Iskander DJERBI - Certificat de Consolidation
 description: 'Objet : Demande de certificat médical de consolidation — Suite courrier
-  du **[J+37 Assignation 145]'
+  du **5 juillet 2026'
 type: courrier
 date: 2026-07-06
 tags:
@@ -45,7 +45,7 @@ Par courrier du 5 juillet 2026, je sollicitais la délivrance d'un certificat m�
 
 1. **L'évaluation de mon Déficit Fonctionnel Permanent (DFP / AIPP)** dans le cadre de l'indemnisation de mon préjudice corporel
 
-2. **La préparation du rendez-vous à l'Unité Médico-Judiciaire de [La Métropole Régionale]** le 12 novembre 2026 (réquisition judiciaire à personne)
+2. **La préparation du rendez-vous à l'Unité Médico-Judiciaire de Toulouse** le 12 novembre 2026 (réquisition judiciaire à personne)
 
 3. **La fixation de la date de consolidation** nécessaire à l'évaluation définitive de mes préjudices (Souffrances Endurées, Incidence Professionnelle, DFP, Préjudice Esthétique)
 

@@ -16,7 +16,7 @@ tags:
 
 - LRAR
 statut: projet
-destinataire: Service des Impôts des Entreprises de [Foix]
+destinataire: Service des Impôts des Entreprises de Foix
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Administrations/SIE - Signalement.md
 source: drive
@@ -28,7 +28,7 @@ jx: J+37
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # INFORMATION DE LITIGE <br> SERVICE DES IMPOTS DES ENTREPRISES
 > 🔗 Source Google Drive : [1yl55r__e8V0…](https://drive.google.com/open?id=1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA)
@@ -48,18 +48,18 @@ Blagnac, le 5 juillet 2026
 <!-- /Date -->
 
 <hr><hr>
-Objet : Information de litige en cours — SAS [SAS LES MAUVAIS GARCONS]
+Objet : Information de litige en cours — SAS SAS HB BARBER
 <hr><hr>
 
 <hr><hr>
 
-Ref : SIREN [938 033 222]
+Ref : SIREN 104 103 262
 
 Madame, Monsieur le Responsable,
 
-La presente est adressee a vos services par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS], immatriculee sous le SIREN [938 033 222].
+La presente est adressee a vos services par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS HB BARBER, immatriculee sous le SIREN 104 103 262.
 
-Je porte par la presente a votre connaissance l'existence d'un litige en cours engageant la responsabilite civile et penale de la SAS [SAS LES MAUVAIS GARCONS] et de ses dirigeants, pour des montants estimes a [**[Finance Evaluation Initiale]**] au titre de la reparation integrale de mes prejudices corporels, sans prejudice des procedures en cours devant les juridictions civiles et penales.
+Je porte par la presente a votre connaissance l'existence d'un litige en cours engageant la responsabilite civile et penale de la SAS SAS HB BARBER et de ses dirigeants, pour des montants estimes a 85 000 € au titre de la reparation integrale de mes prejudices corporels, sans prejudice des procedures en cours devant les juridictions civiles et penales.
 
 Les procedures suivantes ont ete engagees :
 

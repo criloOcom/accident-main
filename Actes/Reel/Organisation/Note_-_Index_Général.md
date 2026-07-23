@@ -1,7 +1,7 @@
 ---
 uid: Abvpx9fnj
 title: "Index de l'État Final du Dossier"
-description: "Rédigé le [30 juin 2026] — Mis à jour le [**[J+38 Mise à jour]**] (unification bordereau 43 pièces)"
+description: "Rédigé le 30 juin 2026 — Mis à jour le 6 juillet 2026 (unification bordereau 43 pièces)"
 type: readme
 date: 2026-07-07
 tags:
@@ -21,14 +21,14 @@ jx: J+39
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # INDEX DU DOSSIER Sébastien GRAZIDE
 > 🔗 Source Google Drive : [1Zp-JK9kz0V0…](https://drive.google.com/open?id=1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU)
-Rédigé le 30 juin 2026 — Mis à jour le **[J+38 Mise à jour]** (unification bordereau 43 pièces)
+Rédigé le 30 juin 2026 — Mis à jour le 6 juillet 2026 (unification bordereau 43 pièces)
 ## I — INTRODUCTION
 
-*Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire Sébastien GRAZIDE c/ SAS LES MAUVAIS GARCONS, à la suite de l'accident corporel grave survenu le 29 mai 2026. Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du 30 juin 2026 et reflète l'état final de la composition du dossier.*
+*Le présent index constitue la table structurée et exhaustive du dossier contentieux relatif à l'affaire Sébastien GRAZIDE c/ SAS HB BARBER, à la suite de l'accident corporel grave survenu le 29 mai 2026. Ce document répertorie l'ensemble des pièces constitutives du dossier, leur cote attribuée et leur classification par catégorie, afin de faciliter la navigation et la consultation de l'intégralité des éléments de preuve. L'index a été arrêté à la date du 30 juin 2026 et reflète l'état final de la composition du dossier.*
 
 *Structure finale au 29 mai 2026*
 
@@ -73,7 +73,7 @@ Partage depuis : sebastien.grazide@gmail.com
 
 ## IV — COURRIERS
 
-- 2026-06-29 - 03 ✉️ Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à SAS LES MAUVAIS GARCONS.
+- 2026-06-29 - 03 ✉️ Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à SAS HB BARBER.
 
 - 2026-06-29 - 04 ✉️ Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^2].
 
@@ -118,7 +118,7 @@ Partage depuis : sebastien.grazide@gmail.com
 
 - 2026-07-05 - ✉️ Employé - Attestation - V1 ✓ Vérifié : Gabarit d'attestation d'employé.
 
-- 2026-07-05 - 25 📧 Relance [Le Chirurgien SOS Main] - V1 ✓ Vérifié : Relance demande certificat médical de consolidation.
+- 2026-07-05 - 25 📧 Relance Dr Iskander DJERBI - V1 ✓ Vérifié : Relance demande certificat médical de consolidation.
 
 - 2026-07-05 - 26-28 📧📋s Témoin - V1 ✓ Vérifié : Gabarits d'attestations pour témoins potentiels (client, pompier, employé).
 <hr><hr>
@@ -217,7 +217,7 @@ Documents non indexés conservés dans `archives/` :
 
 ## X — MODIFICATIONS CLÉS
 
-1. Ayoub BENNOURINE (tél. [**[Le Téléphone du Préposé]**]) -> Sabir MOUNTASSER + Catherine ANDISSAC ✓
+1. Ayoub BENNOURINE (tél. 07 58 40 12 87) -> Hamza El Hachemi BERGUIGA + Catherine SORROCHE, dite ANDISSAC ✓
 
 1. Stratégie : faute détachable des dirigeants ✓
 
@@ -227,7 +227,7 @@ Documents non indexés conservés dans `archives/` :
 
 4. Conclusions PC mises à jour ✓
 
-5. Courrier 06 avec Catherine ANDISSAC ✓
+5. Courrier 06 avec Catherine SORROCHE, dite ANDISSAC ✓
 
 6. 4 doublons archivés ✓
 
@@ -281,7 +281,7 @@ Documents non indexés conservés dans `archives/` :
 > Résumé : Le principe de réparation intégrale exige une évaluation concrète et justifiée de chaque poste de préjudice corporel, proscrivant les indemnisations globales, forfaitaires ou imprécises.
 <hr><hr>
 
-## XII — STATISTIQUES DU DOSSIER (MÀJ **[J+38 Mise à jour]**)
+## XII — STATISTIQUES DU DOSSIER (MÀJ 6 juillet 2026)
 
 - Actes procéduraux : **7** (Assignation 01, Plainte 02, Constitution PC 02b, Assignation 145 03, Bordereau unifié 04, Conclusions 05, Constat Huissier 06)
 

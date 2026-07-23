@@ -29,13 +29,13 @@ sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-SAS LES MAUVAIS GARCONS
+SAS HB BARBER
 22 Rue Lafaurie, 09000 Foix
-**À l'attention de [Le Président de l'Exploitation]**
+**À l'attention de Hamza El Hachemi BERGUIGA**
 <!-- /Destinataire -->
 
 <!-- Date -->
-Blagnac, le **[J+53 Demande attestation préposé]**
+Blagnac, le 21 juillet 2026
 <!-- /Date -->
 
 <hr><hr>

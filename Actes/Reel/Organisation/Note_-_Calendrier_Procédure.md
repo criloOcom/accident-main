@@ -62,10 +62,10 @@ jx: J+32
 | 23 juin 2026 | EVT-29 | Consultation de contrôle post-opératoire (J+24) | Médical | Réalisé |
 | 24/06/2026 | EVT-14 | Transmission de pièces CPAM | Correspondance | Fait |
 | 24/06/2026 | EVT-30 | Démarche administrative / Email | Procédure | Envoyé |
-| **[J+27 Confirmation kiné]** | EVT-48 | Confirmation de rendez-vous Kinésithérapie | Médical |  |
+| 25 juin 2026 | EVT-48 | Confirmation de rendez-vous Kinésithérapie | Médical |  |
 | 29 juin 2026 | COR-01 | Envoi [Mise en demeure SAS](../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md) | Correspondance | Distribué |
-| 29 juin 2026 | COR-02 | Envoi Mise en demeure Président Sabir MOUNTASSER | Correspondance | Distribué |
-| 29 juin 2026 | COR-03 | Envoi Mise en demeure DG Catherine ANDISSAC | Correspondance | Distribué |
+| 29 juin 2026 | COR-02 | Envoi Mise en demeure Président Hamza El Hachemi BERGUIGA | Correspondance | Distribué |
+| 29 juin 2026 | COR-03 | Envoi Mise en demeure DG Catherine SORROCHE, dite ANDISSAC | Correspondance | Distribué |
 | 29 juin 2026 | COR-04 | Envoi Mise en demeure Bailleur | Correspondance | Distribué |
 | 29 juin 2026 | COR-07 | Action Directe Assureur RC | Correspondance | Envoi effectué |
 | 29 juin 2026 | COR-05 | Transmission plainte au Procureur | Procédure | Distribué |

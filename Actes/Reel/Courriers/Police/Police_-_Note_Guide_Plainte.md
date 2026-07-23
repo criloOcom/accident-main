@@ -39,7 +39,7 @@ Sébastien GRAZIDE (document personnel — aide-mémoire)
 Blagnac, le 11 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 > ⚠️ **DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER**
 > Aide-mémoire pour préparer l'audition. À lire avant, laisser chez soi.
@@ -99,7 +99,7 @@ Blagnac, le 11 juillet 2026
 
 ### II.1 — À l'accueil du commissariat
 
-**Vous :** "Bonjour Madame/Monsieur, je suis Sébastien GRAZIDE. J'ai déposé une plainte le 1er juin 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour un accident corporel grave survenu au salon de coiffure 'SAS LES MAUVAIS GARCONS'. Je souhaite déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves. Pouvez-vous me diriger vers le service compétent ?"
+**Vous :** "Bonjour Madame/Monsieur, je suis Sébastien GRAZIDE. J'ai déposé une plainte le 1er juin 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour un accident corporel grave survenu au salon de coiffure 'SAS HB BARBER'. Je souhaite déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves. Pouvez-vous me diriger vers le service compétent ?"
 
 **Si on vous demande d'attendre :**
 "Bien sûr, je comprends. Puis-je avoir un numéro ou un ticket pour suivre mon tour ? Combien de temps l'attente est-elle généralement ?"
@@ -113,7 +113,7 @@ Blagnac, le 11 juillet 2026
 
 ### III.1 — Introduction auprès de l'officier
 
-**Vous :** "Bonjour Monsieur/Madame l'Officier. Je m'appelle Sébastien GRAZIDE, je suis la victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiffure 'SAS LES MAUVAIS GARCONS' situé au 22 Rue Lafaurie, 09000 Foix. J'ai déjà déposé une plainte initiale le 1er juin ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)), et je souhaite aujourd'hui déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves par les dirigeants de l'établissement."
+**Vous :** "Bonjour Monsieur/Madame l'Officier. Je m'appelle Sébastien GRAZIDE, je suis la victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiffure 'SAS HB BARBER' situé au 22 Rue Lafaurie, 09000 Foix. J'ai déjà déposé une plainte initiale le 1er juin ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)), et je souhaite aujourd'hui déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves par les dirigeants de l'établissement."
 
 **Remettez votre dossier en disant :**
 "Voici le dossier complet que j'ai préparé. Il contient la plainte complémentaire détaillée avec toutes les références juridiques, ainsi que les pièces justificatives. Je peux vous en faire un résumé si vous le souhaitez, ou vous préférez le parcourir d'abord ?"

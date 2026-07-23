@@ -1,7 +1,7 @@
 ---
 uid: i4XC8fU9y
 title: "Plan : Constat par la Police Municipale vs Commissaire de Justice (Huissier)"
-description: "Ce plan analyse la possibilité juridique de demander au Maire de [Foix] d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à [22 Rue Lafaurie, 09000 Foix] , et définit la marche"
+description: "Ce plan analyse la possibilité juridique de demander au Maire de Foix d'envoyer la police municipale ou des agents préposés pour constater l'état des lieux du commerce à 22 Rue Lafaurie, 09000 Foix , et définit la marche"
 type: readme
 statut: brouillon
 reel_path: ../../Reel/Organisation/Note - Plan Constat Police Foix.md
@@ -47,7 +47,7 @@ Même si le Maire envoie la police, vous devez maintenir la démarche d'huissier
 
 ## III — Modèle de Mail Prêt pour le Maire de Foix (Demain matin)
 
- Voici le corps du mail à envoyer demain matin à 8h00 à l'adresse de la Mairie de Foix (généralement `**[L'Adresse de la Mairie de la Commune]**` ou via leur formulaire de contact) :
+ Voici le corps du mail à envoyer demain matin à 8h00 à l'adresse de la Mairie de Foix (généralement `Cour de l'Hôtel de Ville, 09000 Foix` ou via leur formulaire de contact) :
 
 ```markdown
 Objet : URGENCE - Signalement de sécurité ERP (salon de coiffure - 22 Rue Lafaurie, 09000 Foix) et demande de contrôle de conformité
@@ -70,9 +70,9 @@ Je vous remercie de votre proactivité pour la sécurité de vos administrés.
 
 Restant à votre entière disposition,
 
-[La Victime]
-[L'Adresse de la Victime]
-[L'Email de la Victime]
+Sébastien GRAZIDE
+10 Avenue de Purpan, 31700 Blagnac
+sebastien.grazide@gmail.com
 ```
 <!-- Source -->
 <hr><hr>

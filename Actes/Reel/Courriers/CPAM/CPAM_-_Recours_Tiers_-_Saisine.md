@@ -46,7 +46,7 @@ Direction des Recours Contre Tiers
 Blagnac, le 6 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # TRANSMISSION ET BORDEREAU RECAPITULATIF<br>RECOURS CONTRE TIERS
 > 🔗 Source Google Drive : [1_cHcprI9XKo…](https://drive.google.com/open?id=1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY)
@@ -55,12 +55,12 @@ Blagnac, le 6 juillet 2026
 Objet : Transmission d'elements et bordereau recapitulatif — Recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
 <hr><hr>
 
-Ref : Accident du 29 mai 2026 — SAS SAS LES MAUVAIS GARCONS — SIREN 938 033 222
+Ref : Accident du 29 mai 2026 — SAS SAS HB BARBER — SIREN 104 103 262
 
 Madame, Monsieur,
 ## I — INTRODUCTION
 
-La presente est adressee a vos services par Sébastien GRAZIDE afin de vous informer de l'etat d'avancement des procedures judiciaires engagees a la suite de l'accident corporel grave dont j'ai ete victime le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS, et de vous transmettre les elements actualises necessaires au suivi de mon dossier de recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
+La presente est adressee a vos services par Sébastien GRAZIDE afin de vous informer de l'etat d'avancement des procedures judiciaires engagees a la suite de l'accident corporel grave dont j'ai ete victime le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS HB BARBER, et de vous transmettre les elements actualises necessaires au suivi de mon dossier de recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
 <hr><hr>
 
 ## II — RAPPEL DU DOSSIER
@@ -76,9 +76,9 @@ Mon [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/2026060
 
 A ce jour, les procedures suivantes ont ete engagees :
 
-1. **Phase amiable** (29 mai 2026) : Mises en demeure LRAR adressees a la SAS SAS LES MAUVAIS GARCONS et a ses dirigeants, restees sans reponse a ce jour.
+1. **Phase amiable** (29 mai 2026) : Mises en demeure LRAR adressees a la SAS SAS HB BARBER et a ses dirigeants, restees sans reponse a ce jour.
 
-2. **Assignation en refere-provision** (30 juin 2026) : Saisine du Tribunal Judiciaire de Foix sur le fondement de l'Article 835 du Code de procedure civile, a l'encontre de SAS LES MAUVAIS GARCONS et de ses dirigeants, [Sabir MOUNTASSER] et [Catherine ANDISSAC], in solidum.
+2. **Assignation en refere-provision** (30 juin 2026) : Saisine du Tribunal Judiciaire de Foix sur le fondement de l'Article 835 du Code de procedure civile, a l'encontre de SAS HB BARBER et de ses dirigeants, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC, in solidum.
 
 > *« Le président du tribunal judiciaire ou le juge des contentieux de la protection dans les limites de sa compétence peuvent toujours, même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
 > [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
@@ -141,13 +141,13 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 
 - **Pièce n°5 :** Ordonnances et prescriptions médicales — 1 juin 2026
 
-- **Pièce n°6 :** Facture de chirurgie ([790,23 €]) — 10 juin 2026
+- **Pièce n°6 :** Facture de chirurgie (790,23 €) — 10 juin 2026
 
 - **Pièce n°7 :** Compte-rendu de contrôle chirurgical — 19 juin 2026
 
 **B. Pièces administratives**
 
-- **Pièce n°8 :** Reçu de dépôt de plainte (Police Nationale, PV n° [2026/015967]) — 2 juin 2026
+- **Pièce n°8 :** Reçu de dépôt de plainte (Police Nationale, PV n° 2026/015967) — 2 juin 2026
 
 - **Pièce n°9 :** Mises en demeure LRAR (SAS + dirigeants + propriétaire) — 29 juin 2026
 
@@ -212,7 +212,7 @@ Je sollicite de vos services :
 
 **3. L'information sur le suivi du dossier** et les demarches complementaires eventuellement necessaires de ma part.
 
-**4. L'identification de l'assureur** de la SAS SAS LES MAUVAIS GARCONS si vos services disposent de cette information dans le cadre de la gestion du [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md).
+**4. L'identification de l'assureur** de la SAS SAS HB BARBER si vos services disposent de cette information dans le cadre de la gestion du [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md).
 
 Mes coordonnees demeurent : 10 Avenue de Purpan, 31700 Blagnac — sebastien.grazide@gmail.com
 

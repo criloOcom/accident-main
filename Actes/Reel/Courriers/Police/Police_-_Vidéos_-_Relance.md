@@ -45,13 +45,13 @@ Place de la Préfecture
 Blagnac, le 5 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # RELANCE POLICE NATIONALE<br>SUIVI DE PLAINTE ET DEMANDE DE VIDEOS
 > 🔗 Source Google Drive : [171CF_LzNopY…](https://drive.google.com/open?id=171CF_LzNopYxIS6Tn4i3t3Ghx3ut14F1gh6-KjHevCA)
 
 <hr><hr>
-Objet : Relance pour suivi de plainte et demande de videosurveillance — PV n° [2026/015967]
+Objet : Relance pour suivi de plainte et demande de videosurveillance — PV n° 2026/015967
 <hr><hr>
 
 <hr><hr>
@@ -61,7 +61,7 @@ Ref : Depot de plainte du 2 juin 2026 — [Constitution de partie civile](../../
 Madame, Monsieur l'Officier de Police Judiciaire,
 ## I — OBJET DE LA RELANCE
 
-J'ai depose plainte en vos services le 2 juin 2026 (PV n° [2026/015967]) et me suis constitue partie civile le 2 juin 2026. Une requisition a personne qualifiee a ete delivree le meme jour aux fins d'examen medical.
+J'ai depose plainte en vos services le 2 juin 2026 (PV n° 2026/015967) et me suis constitue partie civile le 2 juin 2026. Une requisition a personne qualifiee a ete delivree le meme jour aux fins d'examen medical.
 
 Je me permets de solliciter de vos services :
 
@@ -94,7 +94,7 @@ Sébastien GRAZIDE
 
 - **[CPC 145 - Requête](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Demande de conservation des preuves et identification de l'assureur
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026 (PV n° [2026/015967])
+- **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026 (PV n° 2026/015967)
 <!-- /PJ -->
 
 <!-- Source -->

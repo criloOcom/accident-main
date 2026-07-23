@@ -20,9 +20,9 @@ reel_path: ../../Reel/Archives/33_Requête_-_Constat_Huissier_145_CPC.md
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-# REQUETE AU PRESIDENT DU TRIBUNAL JUDICIAIRE DE [Foix]
+# REQUETE AU PRESIDENT DU TRIBUNAL JUDICIAIRE DE Foix
 
 **AUX FINS DE DESIGNATION D'HUISSIER DE JUSTICE POUR CONSTAT**
 
@@ -32,30 +32,30 @@ reel_path: ../../Reel/Archives/33_Requête_-_Constat_Huissier_145_CPC.md
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.[^1]**
 
-[10 Avenue de Purpan, 31700 Blagnac]
+10 Avenue de Purpan, 31700 Blagnac
 
-[sebastien.grazide@gmail.com]
+sebastien.grazide@gmail.com
 
-**Tribunal Judiciaire de [La Ville de l'Accident]**
+**Tribunal Judiciaire de Foix**
 
 **A l'attention de Monsieur le President**
 
 **[Adresse du TJ à compléter]**
 
-[Foix], le [**[J+41 Requete Constat 145]**]
+Foix, le 9 juillet 2026
 
-Ref : Accident du [29 mai 2026] — SAS [SAS LES MAUVAIS GARCONS]
+Ref : Accident du 29 mai 2026 — SAS SAS HB BARBER
 
 <hr><hr>
 
 Madame, Monsieur le President,
 ## I — EXPOSE DES FAITS
 
-[Sébastien GRAZIDE] (ne le 18 janvier 1982, informaticien independant) a ete victime d'un accident corporel grave le [29 mai 2026] a 15h00 au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS] (SIREN [938 033 222]), sise [22 Rue Lafaurie, 09000 Foix].
+Sébastien GRAZIDE (ne le 18 janvier 1982, informaticien independant) a ete victime d'un accident corporel grave le 29 mai 2026 a 15h00 au sein du salon de coiffure exploite par la SAS SAS HB BARBER (SIREN 104 103 262), sise 22 Rue Lafaurie, 09000 Foix.
 
 Le prepose de l'exploitation, qui devait acceder a un poste de television installe en hauteur, a du monter sur un bac a shampoing en ceramique faute d'escabeau mis a disposition. En descendant, son poids a entraine le basculement de l'equipement, instable et presentant une cassure majeure preexistante non signalee sur son flanc.
 
-Par reflexe, le requerant a tendu la main droite pour proteger le coiffeur. Sa paume a heurte la cassure preexistante, entrainant une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence (30 mai 2026, SOS Main, [Clinique de l'Union]) et un arrêt de travail total de 55 jours.
+Par reflexe, le requerant a tendu la main droite pour proteger le coiffeur. Sa paume a heurte la cassure preexistante, entrainant une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence (30 mai 2026, SOS Main, **[L'Etablissement SOS Main]**) et un arrêt de travail total de 55 jours.
 <hr><hr>
 
 ## II — MOTIF LEGITIME (Art. 145 CPC)
@@ -97,7 +97,7 @@ Le constat d'huissier devra porter sur :
 
 Les procedures suivantes ont ete engagees a la date de la requete :
 
-1. Depot de plainte (1er juin 2026, PV n° [2026/015967])
+1. Depot de plainte (1er juin 2026, PV n° 2026/015967)
 
 2. Constitution de partie civile (6 juillet 2026) — chef de blessures involontaires (Art. 222-19 CP)
 
@@ -110,11 +110,11 @@ Les procedures suivantes ont ete engagees a la date de la requete :
 
 ## IV — DEMANDE
 
-Par ces motifs, le requerant sollicite de Monsieur le President du Tribunal Judiciaire de [Foix] de bien vouloir :
+Par ces motifs, le requerant sollicite de Monsieur le President du Tribunal Judiciaire de Foix de bien vouloir :
 
 **1. DESIGNER** tel Commissaire a l'execution de la preuve, Huissier de Justice de son ressort, avec mission de :
 
-- Se rendre au salon de coiffure situe [22 Rue Lafaurie, 09000 Foix]
+- Se rendre au salon de coiffure situe 22 Rue Lafaurie, 09000 Foix
 
 - Constater l'etat, les dimensions, la stabilite et les eventuelles cassures du bac a shampoing
 
@@ -134,13 +134,13 @@ Par ces motifs, le requerant sollicite de Monsieur le President du Tribunal Judi
 
 **3. DIRE** que l'huissier pourra se faire assister de tout technicien ou serrurier necessaire a l'accomplissement de sa mission
 
-**4. ORDONNER** la remise des enregistrements du systeme de videoprotection couvrant la periode du [29 mai 2026] a la date du constat
+**4. ORDONNER** la remise des enregistrements du systeme de videoprotection couvrant la periode du 29 mai 2026 a la date du constat
 
 **5. DIRE** que les frais de constat seront mis a la charge du requerant dans un premier temps, pour etre repartis lors de l'instance au fond
 
 Fait pour valoir ce que de droit.
 
-[Sébastien GRAZIDE]
+Sébastien GRAZIDE
 <!-- Source -->
 <hr><hr>
 

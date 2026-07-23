@@ -31,7 +31,7 @@ jx: J+47
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MODÈLE<br>SAISINE CADA
 
@@ -61,7 +61,7 @@ Blagnac, le 15 juillet 2026
 
 <hr><hr>
 
-**Objet : Saisine de la CADA — Refus de communication de documents administratifs concernant un accident corporel (salon « [SAS LES MAUVAIS GARCONS] », Foix)**
+**Objet : Saisine de la CADA — Refus de communication de documents administratifs concernant un accident corporel (salon « SAS HB BARBER », Foix)**
 
 <hr><hr>
 
@@ -76,7 +76,7 @@ Madame, Monsieur,
 Je saisis la Commission d'accès aux documents administratifs, en application du Code des relations entre le public et l'administration (CRPA), à la suite du refus de communication de documents opposé par **[la Préfecture de l'Ariège / la DDETS de l'Ariège — Inspection du travail]**.
 ## I — Identité du demandeur
 
-Je soussigné(e) Sébastien GRAZIDE, demeurant 10 Avenue de Purpan, 31700 Blagnac, victime d'un accident corporel grave survenu le **29 mai 2026** dans le salon de coiffure « [SAS LES MAUVAIS GARCONS] », 22 Rue Lafaurie, 09000 Foix (plaie palmaire profonde de la main droite, section partielle tendon fléchisseur + paquet vasculo-nerveux, [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 55 jours — PV de police n°2026/015967).
+Je soussigné(e) Sébastien GRAZIDE, demeurant 10 Avenue de Purpan, 31700 Blagnac, victime d'un accident corporel grave survenu le **29 mai 2026** dans le salon de coiffure « SAS HB BARBER », 22 Rue Lafaurie, 09000 Foix (plaie palmaire profonde de la main droite, section partielle tendon fléchisseur + paquet vasculo-nerveux, [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 55 jours — PV de police n°2026/015967).
 <hr><hr>
 
 ## II — Administration(s) concernée(s)
@@ -141,7 +141,7 @@ Sébastien GRAZIDE
 
 - Copie des réponses reçues (si refus exprès) — **À VERSER**
 
-- **[Mairie - ERP Tavella - Courrier.md](../../../Reel/Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel [L'Adjoint au Maire de la Commune] (1er juin 2026)
+- **[Mairie - ERP Tavella - Courrier.md](../../../Reel/Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel Monsieur TAVELLA (1er juin 2026)
 
 - **[PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
 <!-- /PJ -->

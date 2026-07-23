@@ -40,7 +40,7 @@ reel_path: ../../Reel/Archives/Archive - Checklist Déplacement Foix.md
 
 - **Commissariat** : Rue du Capitaine Ferber, 09000 Foix (tél : 05 61 65 08 22)
 
-- **22 Rue Lafaurie** : Lieu de l'accident — salon "[L'Exploitant du Commerce (La SAS)]" (OBSOLÈTE — HB BARBER est le véritable exploitant)
+- **22 Rue Lafaurie** : Lieu de l'accident — salon "SAS HB BARBER" (OBSOLÈTE — HB BARBER est le véritable exploitant)
 
 > **⚠️ CE PROGRAMME EST OBSOLÈTE — UTILISER LA CHECKLIST 20/07 QUI REMPLACE CE DOCUMENT**
 <hr><hr>

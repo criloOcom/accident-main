@@ -30,7 +30,7 @@ jx: J+37
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # DEMANDE D'INFORMATION <br> INSPECTION DU TRAVAIL
 > 🔗 Source Google Drive : [1tStFiBk8gxB…](https://drive.google.com/open?id=1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM)
@@ -59,7 +59,7 @@ Blagnac, le 5 juillet 2026
 
 <hr><hr>
 
-**Objet : Demande d'information sur les diligences d'enquête et communication du rapport – Accident du 29 mai 2026 au salon [SAS LES MAUVAIS GARCONS]**
+**Objet : Demande d'information sur les diligences d'enquête et communication du rapport – Accident du 29 mai 2026 au salon SAS HB BARBER**
 
 <hr><hr>
 
@@ -72,7 +72,7 @@ Réf : Signalement effectué par la mairie de Foix auprès de la Préfecture de 
 Madame, Monsieur l'Inspecteur du Travail,  
 ## I — INTRODUCTION
 
-La présente lettre a pour objet de connaître les diligences accomplies par vos services à la suite de l'accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS] (sise 22 Rue Lafaurie, 09000 Foix), et de porter à votre attention plusieurs éléments matériels susceptibles de caractériser des manquements à la réglementation du travail.
+La présente lettre a pour objet de connaître les diligences accomplies par vos services à la suite de l'accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploité par la SAS SAS HB BARBER (sise 22 Rue Lafaurie, 09000 Foix), et de porter à votre attention plusieurs éléments matériels susceptibles de caractériser des manquements à la réglementation du travail.
 
 Cet accident a été causé par le **basculement** de la vasque en céramique du bac à shampoing sous le poids du préposé de l'exploitation, lequel était monté physiquement sur l'équipement pour régler le poste de télévision, en l'absence totale de tout équipement d'accès en hauteur (escabeau, marchepied) mis à disposition par l'employeur. Sous le poids du préposé, la vasque a basculé violemment ; la victime a instinctivement tendu la main droite pour protéger le préposé, et sa paume a heurté une **cassure majeure préexistante non signalée** sur le flanc de la vasque. **La vasque ne s'est pas effondrée** — il n'y a pas de débris de céramique.
 
@@ -84,16 +84,16 @@ Cette blessure a entraîné une plaie palmaire profonde de la main droite avec s
 Les procédures suivantes ont été engagées :
 
 **1. Procédure pénale**
-- Dépôt de plainte le 2 juin 2026 (PV n° [2026/015967])
+- Dépôt de plainte le 2 juin 2026 (PV n° 2026/015967)
 
 - [Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) transmise le 29 juin 2026
 
 - Plainte complémentaire pour défaut d'assurance RC professionnelle et travail dissimulé présumé
 
 **2. Mises en demeure LRAR** du 29 juin 2026
-- Mise en demeure à la SAS [SAS LES MAUVAIS GARCONS]
+- Mise en demeure à la SAS SAS HB BARBER
 
-- Mise en demeure à Sabir MOUNTASSER et à Catherine ANDISSAC
+- Mise en demeure à Hamza El Hachemi BERGUIGA et à Catherine SORROCHE, dite ANDISSAC
 
 - Action directe contre l'assureur RC ([Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1])
 
@@ -172,7 +172,7 @@ Cette situation est susceptible de méconnaître l'obligation de sécurité de l
 - **Travail dissimulé présumé** :  
 Il existe une possibilité que le préposé exerçant dans l'établissement ne soit pas déclaré.
 
-Cet indice est étayé par le fait que la SAS [SAS LES MAUVAIS GARCONS] déclare officiellement zéro salarié au Registre National des Entreprises, alors que l'activité commerciale du salon est continue et requiert la présence physique de ce préposé.
+Cet indice est étayé par le fait que la SAS SAS HB BARBER déclare officiellement zéro salarié au Registre National des Entreprises, alors que l'activité commerciale du salon est continue et requiert la présence physique de ce préposé.
 
 ### III.4 — TRANSMISSION AU PARQUET
 
@@ -192,7 +192,7 @@ Sébastien GRAZIDE
 
 ## PIECES JOINTES
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026 (PV n° [2026/015967])
+- **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026 (PV n° 2026/015967)
 
 - **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de Foix
 

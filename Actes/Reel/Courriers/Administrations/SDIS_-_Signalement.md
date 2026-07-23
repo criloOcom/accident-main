@@ -28,7 +28,7 @@ jx: J+37
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 **Table des matieres**
 
@@ -55,16 +55,16 @@ Blagnac, le 5 juillet 2026
 <!-- /Date -->
 
 <hr><hr>
-Objet : Signalement de securite — ERP SAS [SAS LES MAUVAIS GARCONS]
+Objet : Signalement de securite — ERP SAS SAS HB BARBER
 <hr><hr>
 
 <hr><hr>
 
-Ref : SIREN [938 033 222]
+Ref : SIREN 104 103 262
 
 Madame, Monsieur le Directeur,
 
-La presente est adressee a vos services par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS], situe 22 Rue Lafaurie, 09000 Foix a Foix.
+La presente est adressee a vos services par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS HB BARBER, situe 22 Rue Lafaurie, 09000 Foix a Foix.
 
 Cet accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte (escabeau) mis a disposition par l'employeur.
 ## I — OBJET DU SIGNALEMENT

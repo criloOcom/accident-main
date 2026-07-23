@@ -31,7 +31,7 @@ jx: J+31
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MISE EN DEMEURE<br>DEMANDE D'INFORMATION ASSURANCE RC
 > 🔗 Source Google Drive : [1EcEmT59OVPS…](https://drive.google.com/open?id=1EcEmT59OVPSiVTf9pK9gKwCYcBHSJ_93)
@@ -43,7 +43,7 @@ sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-Catherine ANDISSAC
+Catherine SORROCHE, dite ANDISSAC
 22 Rue Lafaurie, 09000 Foix
 <!-- /Destinataire -->
 
@@ -71,7 +71,7 @@ Le défaut d'information de la victime sur l'identité de l'assureur constitue u
 
 <hr><hr>
 
-Je me permets de vous adresser la présente lettre dans une démarche constructive, préalable à toute action contentieuse, afin d'obtenir les informations nécessaires à la régularisation du sinistre dont j'ai été victime le [29 mai 2026] dans les locaux de [SAS LES MAUVAIS GARCONS], société au sein de laquelle vous exercez les fonctions de Directrice Générale.
+Je me permets de vous adresser la présente lettre dans une démarche constructive, préalable à toute action contentieuse, afin d'obtenir les informations nécessaires à la régularisation du sinistre dont j'ai été victime le [29 mai 2026] dans les locaux de [SAS HB BARBER], société au sein de laquelle vous exercez les fonctions de Directrice Générale.
 
 En application de l'article L. 124-3 du Code des assurances[^3], la victime dispose d'une action directe contre l'assureur de responsabilité civile de l'auteur du dommage.
 
@@ -81,7 +81,7 @@ En application de l'article L. 124-3 du Code des assurances[^3], la victime disp
 
 Je vous remercie de bien vouloir me communiquer, dans les meilleurs délais, les informations suivantes :
 
-1. Le nom et les coordonnées complètes de la compagnie d'assurance couvrant la responsabilité civile professionnelle de [SAS LES MAUVAIS GARCONS] au titre de la police en vigueur le [29 mai 2026] ;
+1. Le nom et les coordonnées complètes de la compagnie d'assurance couvrant la responsabilité civile professionnelle de [SAS HB BARBER] au titre de la police en vigueur le [29 mai 2026] ;
 
 2. Le numéro de contrat d'assurance souscrit ;
 
@@ -132,7 +132,7 @@ Comptant sur votre diligence, je vous prie d'agréer, Madame la Directrice Gén�
 
 - **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du [J+1]
 
-- **[Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]
+- **[Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)
 <!-- /PJ -->
 
 <!-- Source -->

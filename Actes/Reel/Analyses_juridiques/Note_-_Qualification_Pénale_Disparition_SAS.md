@@ -1,7 +1,7 @@
 ---
 uid: g2h8DMG3n
 title: "Note juridique : Qualification pénale — Disparition de la SAS"
-description: "Dossier :** [Sébastien GRAZIDE] c/ **[L'Exploitant du Commerce (La SAS)]"
+description: "Dossier :** Sébastien GRAZIDE c/ **SAS HB BARBER"
 type: analyse_juridique
 statut: brouillon
 reel_path: ../../Reel/Analyses_juridiques/Note - Qualification Pénale Disparition SAS.md
@@ -11,15 +11,15 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Qualification Pénale Dispariti
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce]**] au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # Note juridique : Qualification pénale<br>Disparition de la SAS
 
-**Dossier :** [Sébastien GRAZIDE] c/ [**[L'Exploitant du Commerce]**]
-**Rédacteur :** [Nom Prénom de l'Avocat]
+**Dossier :** Sébastien GRAZIDE c/ SAS LES MAUVAIS GARCONS
+**Rédacteur :** Nom Prénom de l'Avocat
 ## I — INTRODUCTION
 
-La présente note vise à analyser les qualifications pénales applicables dans l'hypothèse où [Sabir MOUNTASSER] et [Catherine ANDISSAC] procéderaient à la liquidation, la dissolution ou la cession des actifs de [**[L'Exploitant du Commerce]**] (dont le [**[Capital Social de l'Exploitation]**] dans le but d'échapper au paiement des condamnations civiles à intervenir au profit de [Sébastien GRAZIDE].
+La présente note vise à analyser les qualifications pénales applicables dans l'hypothèse où Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC procéderaient à la liquidation, la dissolution ou la cession des actifs de SAS LES MAUVAIS GARCONS (dont le 1 000 € dans le but d'échapper au paiement des condamnations civiles à intervenir au profit de Sébastien GRAZIDE.
 
 **Trois qualifications pénales majeures peuvent être soulevées devant le Parquet :**
 
@@ -40,10 +40,10 @@ La présente note vise à analyser les qualifications pénales applicables dans 
 > Code pénal[^1] <br>
 
 **Problématique :**
-La société [**[L'Exploitant du Commerce]**] pourrait être vidée de ses actifs par ses dirigeants avant même que notre action en responsabilité civile n'aboutisse.
+La société SAS LES MAUVAIS GARCONS pourrait être vidée de ses actifs par ses dirigeants avant même que notre action en responsabilité civile n'aboutisse.
 
 **Argumentation :**
-L'article 314-7 du Code pénal permet expressément d'appréhender le comportement du débiteur qui organise son insolvabilité *avant même* que la décision de justice ne soit rendue. Si [Sabir MOUNTASSER] et [Catherine ANDISSAC] décident de dissoudre la structure ou de transférer le fonds de commerce à une autre entité sans provisionner le passif latent lié à l'accident du 29 mai 2026, l'infraction sera pleinement constituée. La peine encourue (jusqu'à 5 ans de prison et 375 000 € d'amende avec circonstances aggravantes) justifie la saisine du Parquet.
+L'article 314-7 du Code pénal permet expressément d'appréhender le comportement du débiteur qui organise son insolvabilité *avant même* que la décision de justice ne soit rendue. Si Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC décident de dissoudre la structure ou de transférer le fonds de commerce à une autre entité sans provisionner le passif latent lié à l'accident du 29 mai 2026, l'infraction sera pleinement constituée. La peine encourue (jusqu'à 5 ans de prison et 375 000 € d'amende avec circonstances aggravantes) justifie la saisine du Parquet.
 
 > *« Le fait, par un débiteur, même avant la décision judiciaire constatant sa dette, d'organiser ou d'aggraver son insolvabilité soit en augmentant le passif ou en diminuant l'actif de son patrimoine, soit en diminuant ou en dissimulant tout ou partie de ses revenus, soit en dissimulant certains de ses biens, en vue de se soustraire à l'exécution d'une condamnation de nature patrimoniale prononcée par une juridiction répressive ou, en matière délictuelle, quasi délictuelle ou d'aliments, prononcée par une juridiction civile, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. Commet le même délit le dirigeant de droit ou de fait d'une personne morale qui organise ou aggrave l'insolvabilité de celle-ci dans les conditions définies à l'alinéa précédent en vue de la soustraire aux obligations pécuniaires résultant d'une condamnation prononcée en matière pénale, délictuelle ou quasi délictuelle. »* <br>
 > [Article 314-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000064182](../../../Lois/Code/LEGIARTI0000064182.md)26) <br>
@@ -60,10 +60,10 @@ L'article 314-7 du Code pénal permet expressément d'appréhender le comporteme
 > Code pénal[^2] <br>
 
 **Problématique :**
-Dans l'hypothèse où une nouvelle société serait créée par [Sabir MOUNTASSER] ou [Catherine ANDISSAC] pour reprendre les actifs de [**[L'Exploitant du Commerce]**] sans en reprendre le passif.
+Dans l'hypothèse où une nouvelle société serait créée par Hamza El Hachemi BERGUIGA ou Catherine SORROCHE, dite ANDISSAC pour reprendre les actifs de SAS LES MAUVAIS GARCONS sans en reprendre le passif.
 
 **Argumentation :**
-Le montage juridique consistant à recréer une entité miroir (même activité, même clientèle, mêmes dirigeants) pour transférer frauduleusement le fonds de commerce, tout en laissant la coquille vide [**[L'Exploitant du Commerce]**] faire face aux dettes indemnitaires, constitue une manœuvre frauduleuse. Cette manœuvre visant à tromper les créanciers (ici, [Sébastien GRAZIDE] pour obtenir une décharge d'obligation caractérise le délit d'escroquerie, puni de 5 ans d'emprisonnement et 375 000 € d'amende.
+Le montage juridique consistant à recréer une entité miroir (même activité, même clientèle, mêmes dirigeants) pour transférer frauduleusement le fonds de commerce, tout en laissant la coquille vide SAS LES MAUVAIS GARCONS faire face aux dettes indemnitaires, constitue une manœuvre frauduleuse. Cette manœuvre visant à tromper les créanciers (ici, Sébastien GRAZIDE pour obtenir une décharge d'obligation caractérise le délit d'escroquerie, puni de 5 ans d'emprisonnement et 375 000 € d'amende.
 <hr><hr>
 
 ## IV — BANQUEROUTE PAR DISSIMULATION D'ACTIFS
@@ -79,12 +79,12 @@ Le montage juridique consistant à recréer une entité miroir (même activité,
 L'ouverture d'une procédure de liquidation ou de redressement judiciaire à la suite de l'insolvabilité provoquée de la SAS.
 
 **Argumentation :**
-Si [**[L'Exploitant du Commerce]**] fait l'objet d'une procédure collective, les actes de dissipation du patrimoine social accomplis par [Sabir MOUNTASSER] ou [Catherine ANDISSAC] tomberont sous le coup des dispositions relatives à la banqueroute. La dissimulation d'actifs, le détournement ou l'emploi ruineux des fonds sociaux (notamment en fuyant le passif) justifieront un signalement au Procureur de la République.
+Si SAS LES MAUVAIS GARCONS fait l'objet d'une procédure collective, les actes de dissipation du patrimoine social accomplis par Hamza El Hachemi BERGUIGA ou Catherine SORROCHE, dite ANDISSAC tomberont sous le coup des dispositions relatives à la banqueroute. La dissimulation d'actifs, le détournement ou l'emploi ruineux des fonds sociaux (notamment en fuyant le passif) justifieront un signalement au Procureur de la République.
 <hr><hr>
 
 ## V — CONCLUSION
 
-La faiblesse du [**[Capital Social de l'Exploitation]**] de [**[L'Exploitant du Commerce]**] impose une vigilance extrême. Si la société vient à disparaître ou à être vidée de sa substance, une plainte avec [**[constitution de partie civile]**] et [Catherine ANDISSAC].
+La faiblesse du 1 000 € de SAS LES MAUVAIS GARCONS impose une vigilance extrême. Si la société vient à disparaître ou à être vidée de sa substance, une plainte avec **[constitution de partie civile]** et Catherine SORROCHE, dite ANDISSAC.
 <!-- Source -->
 <hr><hr>
 

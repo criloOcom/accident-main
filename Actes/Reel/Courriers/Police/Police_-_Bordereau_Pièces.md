@@ -1,13 +1,13 @@
 ---
 uid: d4AJnTFKc
 emoji: 📋
-title: Bordereau de pièces — Dépôt Commissariat [La Ville de l'Accident]
+title: Bordereau de pièces — Dépôt Commissariat Foix
 description: Liste des documents physiques à apporter au Commissariat de [La Ville
   de l'Accident] le lundi 27 juillet 2026
 type: document
 date: 2026-07-27
 statut: final
-destinataire: Commissariat de Police de [La Ville de l'Accident]
+destinataire: Commissariat de Police de Foix
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Police/Police - Bordereau Pièces.md
 ---
@@ -32,7 +32,7 @@ Place de la Préfecture
 Blagnac, le 27 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # BORDEREAU DE PIÈCES
 ## Dépôt au Commissariat de Foix — Lundi 27 juillet 2026
@@ -57,7 +57,7 @@ Blagnac, le 27 juillet 2026
 
 7. ☐ **Photos état des lieux de sortie** (3 fichiers joints au mail de Romain DELRIEU) — 3 pages
 
-8. ☐ **Fiche RNE SAS [SAS LES MAUVAIS GARCONS] (SIREN [938 033 222])** — DATA INPI — 2 pages
+8. ☐ **Fiche RNE SAS SAS HB BARBER (SIREN 104 103 262)** — DATA INPI — 2 pages
 
 9. ☐ **Note de constatations du 16/07/2026 (visite des lieux 22 rue Lafaurie)** — 2 pages
 
@@ -77,13 +77,13 @@ Blagnac, le 27 juillet 2026
 
 16. ☐ **Captures d'écran Wero (débit 15 € + crédit remboursement)** — 2 pages
 
-17. ☐ **Kbis / extrait RNE SAS LES MAUVAIS GARCONS (SIRET 938 033 222 00010)** — 2 pages
+17. ☐ **Kbis / extrait RNE SAS HB BARBER (SIRET 104 103 262 00010)** — 2 pages
 
 **CORRESPONDANCES**
 
-18. ☐ **Échanges de courriels avec Mairie de Foix ([**[La Secrétaire Générale de la Mairie]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) / Monsieur TAVELLA)** — 4 pages
+18. ☐ **Échanges de courriels avec Mairie de Foix ([Secrétariat Général de la Mairie de Foix](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) / Monsieur TAVELLA)** — 4 pages
 
-19. ☐ **Accusés de réception LRAR (29/06/2026 — adressés à l'ancien exploitant LMG) : **[L'Ancien Président de l'Exploitation]**, **[L'Ancienne Directrice Générale de l'Exploitation]**, Romain DELRIEU** — 3 pages
+19. ☐ **Accusés de réception LRAR (29/06/2026 — adressés à l'ancien exploitant LMG) : Sabir MOUNTASSER, Catherine ANDISSAC, Romain DELRIEU** — 3 pages
 
 20. ☐ **Copies LRAR adressées au salon le 29/06/2026** — 4 pages
 

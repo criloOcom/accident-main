@@ -3,7 +3,7 @@ uid: DGhctJmLP
 emoji: 🚨
 title: Confirmation Officielle de Signalement à la Préfecture
 description: Signalement à la Préfecture de l'Ariège / CODAF — Accident du 29 mai
-  2026 au salon [SAS LES MAUVAIS GARCONS]
+  2026 au salon SAS HB BARBER
 type: courrier
 date: 2026-07-05
 tags:
@@ -48,13 +48,13 @@ Préfecture de l'Ariège — Référent CODAF
 Blagnac, le 5 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # CONFIRMATION OFFICIELLE DE SIGNALEMENT <br> A LA PREFECTURE DE L'ARIEGE
 > 🔗 Source Google Drive : [1sIkiScOSFZy…](https://drive.google.com/open?id=1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM)
 
 <hr><hr>
-Objet : Confirmation officielle de signalement — Accident du 29 mai 2026 au salon [SAS LES MAUVAIS GARCONS]
+Objet : Confirmation officielle de signalement — Accident du 29 mai 2026 au salon SAS HB BARBER
 <hr><hr>
 
 Ref : Signalement effectué par la Mairie de Foix le 1er juin 2026
@@ -80,7 +80,7 @@ Le 29 mai 2026, le préposé de l'exploitation est monté sur la vasque en céra
 
 Plusieurs procédures ont été engagées à ce jour :
 
-1. Dépôt de plainte au commissariat de Foix (PV n° [2026/015967])
+1. Dépôt de plainte au commissariat de Foix (PV n° 2026/015967)
 
 2. [Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) transmise au Tribunal Judiciaire de Foix
 

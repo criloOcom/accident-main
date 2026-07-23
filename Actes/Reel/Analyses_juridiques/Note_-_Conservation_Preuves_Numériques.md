@@ -1,7 +1,7 @@
 ---
 uid: Xxi344t6B
 title: "Note - Conservation Preuves Numériques"
-description: "Dans le cadre du litige opposant [Sébastien GRAZIDE] à [**[L'Exploitant du Commerce]**], il convient de se prémunir contre le risque de disparition, de dissimulation ou de destruction des preuves numériques attestant de l'existence et de l'exploi"
+description: "Dans le cadre du litige opposant Sébastien GRAZIDE à SAS LES MAUVAIS GARCONS, il convient de se prémunir contre le risque de disparition, de dissimulation ou de destruction des preuves numériques attestant de l'existence et de l'exploi"
 type: analyse_juridique
 date: 2026-07-09
 tags:
@@ -18,12 +18,12 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Conservation Preuves Numérique
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce]**] au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # NOTE SUR LA CONSERVATION DES PREUVES EXTÉRIEURES ET NUMÉRIQUES
 ## I — PROBLÉMATIQUE
 
-Dans le cadre du litige opposant [Sébastien GRAZIDE] à [**[L'Exploitant du Commerce]**], il convient de se prémunir contre le risque de disparition, de dissimulation ou de destruction des preuves numériques attestant de l'existence et de l'exploitation réelle du commerce à [22 Rue Lafaurie, 09000 Foix].
+Dans le cadre du litige opposant Sébastien GRAZIDE à SAS LES MAUVAIS GARCONS, il convient de se prémunir contre le risque de disparition, de dissimulation ou de destruction des preuves numériques attestant de l'existence et de l'exploitation réelle du commerce à 22 Rue Lafaurie, 09000 Foix.
 
 La société exploitante pourrait tenter de supprimer sa présence en ligne ou d'altérer ses informations publiques pour organiser son insolvabilité ou contester la matérialité des faits.
 
@@ -69,7 +69,7 @@ Afin de garantir l'admissibilité et l'incontestabilité de ces preuves, il conv
 
 ### III.1 — Conservation des réseaux sociaux (Facebook, Instagram)
 
-Les pages de [**[L'Exploitant du Commerce]**] sur les réseaux sociaux peuvent démontrer l'activité récente, la configuration des lieux (photos de l'intérieur du commerce, présence du téléviseur ou des bacs à shampoing) et les horaires d'ouverture.
+Les pages de SAS LES MAUVAIS GARCONS sur les réseaux sociaux peuvent démontrer l'activité récente, la configuration des lieux (photos de l'intérieur du commerce, présence du téléviseur ou des bacs à shampoing) et les horaires d'ouverture.
 
 - **Action** : Réaliser des captures d'écran horodatées et enregistrer les pages web complètes.
 
@@ -77,8 +77,8 @@ Les pages de [**[L'Exploitant du Commerce]**] sur les réseaux sociaux peuvent d
 
 ### III.2 — Plateformes d'annuaires et d'information sur les sociétés
 
-Ces plateformes prouvent que la société était bien référencée et active à [22 Rue Lafaurie, 09000 Foix] :
-- **Societe.com** / **Infogreffe** : Permet de prouver l'immatriculation de [**[L'Exploitant du Commerce]**] sous son identifiant, l'identité de ses dirigeants ([Sabir MOUNTASSER], [Catherine ANDISSAC], et l'adresse de son siège.
+Ces plateformes prouvent que la société était bien référencée et active à 22 Rue Lafaurie, 09000 Foix :
+- **Societe.com** / **Infogreffe** : Permet de prouver l'immatriculation de SAS LES MAUVAIS GARCONS sous son identifiant, l'identité de ses dirigeants (Hamza El Hachemi BERGUIGA, Catherine SORROCHE, dite ANDISSAC, et l'adresse de son siège.
 
 - **Kompass** / **Pages Jaunes** : Prouve l'inscription commerciale et les coordonnées publiques de l'établissement au moment de l'accident.
 
@@ -99,7 +99,7 @@ Conformément à la norme AFNOR Z67-147, le Commissaire de Justice dressera un p
 
 ## IV — CONCLUSION ET RECOMMANDATIONS
 
-Il est impératif d'agir de manière proactive, avant même l'introduction de la procédure judiciaire formelle contre [**[L'Exploitant du Commerce]**].
+Il est impératif d'agir de manière proactive, avant même l'introduction de la procédure judiciaire formelle contre SAS LES MAUVAIS GARCONS.
 
 1. **Réaliser immédiatement** des sauvegardes via Wayback Machine (Archive.org) pour les réseaux sociaux, annuaires et avis Google.
 

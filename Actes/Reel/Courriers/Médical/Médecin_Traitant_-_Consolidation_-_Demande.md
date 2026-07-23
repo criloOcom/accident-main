@@ -74,7 +74,7 @@ Etat actuel et demande
 
 A ce jour, Sébastien GRAZIDE suit toujours sa kinesitherapie de facon assidue.
 
-L'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total initialement prescrit par [Dr Oxybel] court jusqu'au 23 juillet 2026 (55 jours).
+L'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total initialement prescrit par Dr Oxybel court jusqu'au 23 juillet 2026 (55 jours).
 
 La sensibilite de l'index droit reste partiellement alteree, la flexion active est limitee, et la douleur neuropathique persiste.
 

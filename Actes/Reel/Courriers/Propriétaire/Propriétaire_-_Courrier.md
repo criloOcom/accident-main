@@ -27,7 +27,7 @@ jx: J+31
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # DEMANDE DE COMMUNICATION <br> D'ASSURANCE RC
 > 🔗 Source Google Drive : [1W-C6nM5G_GU…](https://drive.google.com/open?id=1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4)
@@ -70,7 +70,7 @@ L'article 1720 du même code impose au bailleur d'entretenir les lieux en bon é
 
 <hr><hr>
 
-Je me permets de prendre contact avec vous en votre qualité de propriétaire bailleur des locaux commerciaux situés au 22 Rue Lafaurie, 09000 Foix, actuellement loués et exploités sous l'enseigne de coiffure SAS LES MAUVAIS GARCONS.
+Je me permets de prendre contact avec vous en votre qualité de propriétaire bailleur des locaux commerciaux situés au 22 Rue Lafaurie, 09000 Foix, actuellement loués et exploités sous l'enseigne de coiffure SAS HB BARBER.
 
 Le vendredi 29 mai 2026 à 15h00, j'ai été victime d'un accident corporel grave au sein de cet établissement, causé par le basculement d'un équipement lourd (bac à shampoing) défectueux et avec cassure préexistante, entraînant une section profonde de 8,5 cm au niveau de ma main droite dominante (section tendineuse et nerveuse de l'index droit opérée en urgence sous anesthésie le 30 mai 2026) avec un pronostic de récupération neurologique évalué à un an minimum par le chirurgien (récupération souvent partielle s'agissant d'une suture nerveuse).
 
@@ -80,11 +80,11 @@ Le vendredi 29 mai 2026 à 15h00, j'ai été victime d'un accident corporel grav
 
 Je mets en œuvre l'action directe contre l'assureur de responsabilité civile de l'exploitant commercial.
 
-N'ayant pu, en raison de mon [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et de mon incapacité à utiliser ma main droite dominante, effectuer plus tôt les démarches nécessaires, je sollicite aujourd'hui votre aide afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de SAS LES MAUVAIS GARCONS.
+N'ayant pu, en raison de mon [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et de mon incapacité à utiliser ma main droite dominante, effectuer plus tôt les démarches nécessaires, je sollicite aujourd'hui votre aide afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de SAS HB BARBER.
 
-En tant que propriétaire bailleur, vous disposez d'un exemplaire du bail commercial liant votre propriété à SAS LES MAUVAIS GARCONS, lequel impose réglementairement à l'exploitant de justifier chaque année de sa couverture d'assurance de responsabilité civile en cours de validité (attestation d'assurance obligatoire).
+En tant que propriétaire bailleur, vous disposez d'un exemplaire du bail commercial liant votre propriété à SAS HB BARBER, lequel impose réglementairement à l'exploitant de justifier chaque année de sa couverture d'assurance de responsabilité civile en cours de validité (attestation d'assurance obligatoire).
 
-Afin d'éviter toute mise en cause indirecte ou toute procédure de référé d'heure à heure visant à la production forcée de ces pièces, je vous demande de bien vouloir me transmettre par retour de courrier ou par courriel les coordonnées de l'assureur de SAS LES MAUVAIS GARCONS, telles qu'elles figurent dans vos dossiers et annexes de gestion du bail commercial.
+Afin d'éviter toute mise en cause indirecte ou toute procédure de référé d'heure à heure visant à la production forcée de ces pièces, je vous demande de bien vouloir me transmettre par retour de courrier ou par courriel les coordonnées de l'assureur de SAS HB BARBER, telles qu'elles figurent dans vos dossiers et annexes de gestion du bail commercial.
 
 Mes coordonnées pour réponse : 10 Avenue de Purpan, 31700 Blagnac / sebastien.grazide@gmail.com
 
@@ -133,7 +133,7 @@ Sébastien GRAZIDE
 
 - **[Certificat medical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation des blessures par le Dr Dr Julie JARDON
 
-- **[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SAS SAS LES MAUVAIS GARCONS (SIREN 938 033 222)
+- **[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SAS SAS HB BARBER (SIREN 104 103 262)
 
 - **[Mise en demeure SAS](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mise en demeure adressee a l'exploitant le 29 juin 2026
 

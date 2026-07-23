@@ -1,7 +1,7 @@
 ---
 uid: AML8FU5pz
 title: "05 Dossier Spécial CERFA"
-description: "Dans le cadre du dossier d'accident corporel de [Sébastien GRAZIDE], plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditi"
+description: "Dans le cadre du dossier d'accident corporel de Sébastien GRAZIDE, plusieurs démarches administratives et judiciaires nécessitent le remplissage de formulaires officiels (CERFA). Ce dossier spécial répertorie et détaille ces formulaires, leurs conditi"
 type: readme
 date: 2026-07-08
 tags:
@@ -62,11 +62,11 @@ Conformément à l'Article 202 du Code de procédure civile, ce document permet 
 
 Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infractions afin d'obtenir du **FGTI** le versement de provisions ou de l'indemnisation définitive suite aux blessures involontaires subies.
 
-### III.1 — Conditions d'éligibilité pour [**[Prénom de la Victime]**]
+### III.1 — Conditions d'éligibilité pour Sébastien
 
 - **Nature des faits** : Blessures involontaires par manquement délibéré ou négligence (caractère pénal de l'accident).
 
-- **Seuil d'ITT** : [**[Prénom de la Victime]**] présente un [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) continu de **55 jours**, ce qui dépasse largement le critère légal de **30 jours** (1 mois) d'ITT requis pour la saisine.
+- **Seuil d'ITT** : Sébastien présente un [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) continu de **55 jours**, ce qui dépasse largement le critère légal de **30 jours** (1 mois) d'ITT requis pour la saisine.
 
 - **Nationalité/Lieu** : Victime française, accident survenu en France.
 
@@ -74,7 +74,7 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 
 1. Le formulaire **CERFA n° 16160*01** dûment rempli, daté et signé.
 
-2. Une copie du dépôt de plainte et du Procès-Verbal de police n° [2026/015967].
+2. Une copie du dépôt de plainte et du Procès-Verbal de police n° 2026/015967.
 
 3. Le [certificat médical initial](../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (CMI) constatant les blessures de Sébastien GRAZIDE.
 
@@ -89,7 +89,7 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 
 ## IV — DÉTAIL DU CERFA N° 16146*03 (DEMANDE D'AIDE JURIDICTIONNELLE)
 
-Si [**[Prénom de la Victime]**] souhaite solliciter l'aide de l'État pour couvrir les frais de justice (avocat pour les audiences de référé, huissier pour le constat physique du salon, médecin-conseil ou expert judiciaire), il peut déposer ce formulaire.
+Si Sébastien souhaite solliciter l'aide de l'État pour couvrir les frais de justice (avocat pour les audiences de référé, huissier pour le constat physique du salon, médecin-conseil ou expert judiciaire), il peut déposer ce formulaire.
 
 ### IV.1 — Conditions d'accès (Aide Juridictionnelle)
 
@@ -97,7 +97,7 @@ Si [**[Prénom de la Victime]**] souhaite solliciter l'aide de l'État pour couv
 
 - Les plafonds de ressources sont revalorisés annuellement. Si les ressources mensuelles ou le RFR sont inférieurs aux limites fixées, l'aide est accordée à 100% ou à un taux partiel (55% ou 25%).
 
-- **Attention** : L'aide juridictionnelle n'est pas applicable si [**[Prénom de la Victime]**] dispose d'une garantie de Protection Juridique (PJ) dans le cadre de ses contrats d'assurance personnels qui couvre déjà ces frais.
+- **Attention** : L'aide juridictionnelle n'est pas applicable si Sébastien dispose d'une garantie de Protection Juridique (PJ) dans le cadre de ses contrats d'assurance personnels qui couvre déjà ces frais.
 
 ### IV.2 — Pièces justificatives requises
 

@@ -60,7 +60,7 @@ La presente lettre fait suite a votre courriel du 1er juin 2026 par lequel vous 
 
 Je vous remercie chaleureusement pour votre diligence et votre soutien.
 
-Dans le cadre de la procedure judiciaire que j'ai engagee a l'encontre de l'exploitant (plainte deposee au commissariat de Foix le 1er juin 2026, PV n° [2026/015967]), je constitue un dossier d'indemnisation complet et permanent.
+Dans le cadre de la procedure judiciaire que j'ai engagee a l'encontre de l'exploitant (plainte deposee au commissariat de Foix le 1er juin 2026, PV n° 2026/015967), je constitue un dossier d'indemnisation complet et permanent.
 
 A ce titre, les elements suivants me seraient d'une grande utilite pour etayer mon dossier civil et penal :
 

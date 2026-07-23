@@ -18,7 +18,7 @@ tags:
 
 - LRAR
 statut: projet
-destinataire: Service des Impôts des Entreprises de [Foix] et
+destinataire: Service des Impôts des Entreprises de Foix et
   URSSAF Midi-Pyrenees
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Administrations/URSSAF - SIE URSSAF - Mutualisation - Courrier.md
@@ -31,7 +31,7 @@ calendar_event_id: 9ortbnkvp8it8hnebif5fr4bec
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # DEMANDE DE MUTUALISATION <br> FISCALE ET SOCIALE URGENTE
 
@@ -52,10 +52,10 @@ Blagnac, le 9 juillet 2026
 <!-- /Date -->
 
 <hr><hr>
-Objet : Demande de mutualisation fiscale et sociale urgente — SAS [SAS LES MAUVAIS GARCONS]
+Objet : Demande de mutualisation fiscale et sociale urgente — SAS SAS HB BARBER
 <hr><hr>
 
-Ref : SIREN [938 033 222]
+Ref : SIREN 104 103 262
 
 Madame, Monsieur le Responsable,
 ## I — OBJET DE LA DEMANDE
@@ -69,7 +69,7 @@ L'accident, cause par la chute du prepose depuis un bac a shampoing en ceramique
 
 ## II — RISQUE FISCAL ET SOCIAL IDENTIFIE
 
-La SAS [SAS LES MAUVAIS GARCONS] presente les caracteristiques suivantes, revelatrices d'un risque eleve de disparition frauduleuse :
+La SAS SAS HB BARBER presente les caracteristiques suivantes, revelatrices d'un risque eleve de disparition frauduleuse :
 
 1. **Capital social derisoire** : 200 € (2 000 actions de 0,10 €) — insuffisant pour faire face a toute creance significative
 

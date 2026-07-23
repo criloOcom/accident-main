@@ -3,7 +3,7 @@ uid: yVwi2PdSX
 
 emoji: 🚔
 title: Plainte Complément — Défaut d'Assurance RC
-description: Rédigé le **[J+32 Assignation référé]
+description: Rédigé le **30 juin 2026
 type: readme
 date: 2026-06-30
 tags:
@@ -31,29 +31,29 @@ jx: J+32
 
 # COMPLÉMENT DE PLAINTE PÉNALE<br>DÉFAUT D'ASSURANCE RC
 > 🔗 Source Google Drive : [1TVN7SyAWgTL…](https://drive.google.com/open?id=1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc)
-Rédigé le [30 juin 2026]
+Rédigé le 30 juin 2026
 
 <!-- Auteur -->
-[10 Avenue de Purpan, 31700 Blagnac]
+10 Avenue de Purpan, 31700 Blagnac
 
-[Blagnac]
+Blagnac
 
-[sebastien.grazide@gmail.com]
+sebastien.grazide@gmail.com
 
-[500 474 457]
+500 474 457
 <!-- /Auteur -->
 
 <!-- Destinataire -->
 À l'attention de Monsieur le Procureur de la République
 
-Tribunal Judiciaire de [Foix]
+Tribunal Judiciaire de Foix
 
 **Adresse Tribunal Judiciaire**
 
-09008 [Foix] Cedex
+09008 Foix Cedex
 <!-- /Destinataire -->
 
-[Blagnac], le [30 juin 2026]
+Blagnac, le 30 juin 2026
 
 OBJET : COMPLÉMENT DE PLAINTE PÉNALE
 
@@ -62,9 +62,9 @@ Dénonciation de défaut d'assurance de responsabilité civile professionnelle e
 RÉFÉRENCE : Dossier 
 ## I — INTRODUCTION
 
-Le présent complément de plainte pénale est déposé par [Sébastien GRAZIDE] auprès de Monsieur le Procureur de la République près le Tribunal Judiciaire de [Foix] afin de signaler l'absence d'assurance de responsabilité civile professionnelle de [SAS LES MAUVAIS GARCONS].
+Le présent complément de plainte pénale est déposé par Sébastien GRAZIDE auprès de Monsieur le Procureur de la République près le Tribunal Judiciaire de Foix afin de signaler l'absence d'assurance de responsabilité civile professionnelle de SAS HB BARBER.
 
-Malgré les demandes amiables répétées, [SAS LES MAUVAIS GARCONS] n'a jamais communiqué d'attestation d'assurance RC Pro, laissant présumer une absence de couverture assurantielle.
+Malgré les demandes amiables répétées, SAS HB BARBER n'a jamais communiqué d'attestation d'assurance RC Pro, laissant présumer une absence de couverture assurantielle.
 
 Cette carence constitue un obstacle majeur à l'exercice de l'action directe de la victime contre l'assureur ([Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1]) et entrave gravement ses droits à indemnisation.
 
@@ -83,9 +83,9 @@ En l'absence d'assurance, l'indemnisation de la victime pourrait être prise en 
 
 ## II — EXPOSÉ DES FAITS
 
-Le [29 mai 2026], alors qu'il se trouvait dans le salon de coiffure exploité par [SAS LES MAUVAIS GARCONS] en qualité de client, **[Sébastien GRAZIDE] a été victime d'un accident corporel grave au sein de l'établissement, sise [22 Rue Lafaurie, 09000 Foix]. 
+Le 29 mai 2026, alors qu'il se trouvait dans le salon de coiffure exploité par SAS HB BARBER en qualité de client, **Sébastien GRAZIDE a été victime d'un accident corporel grave au sein de l'établissement, sise 22 Rue Lafaurie, 09000 Foix. 
 
-Alors que [Ayoub BENNOURINE] (tel : [**[Le Telephone du Prepose]**]) etait monte sur la vasque en ceramique d'un bac a shampoing instable, l'equipement a brutalement bascule. Par reflexe, **[Sébastien GRAZIDE] a tendu la main droite pour proteger [Ayoub BENNOURINE] ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
+Alors que Ayoub BENNOURINE (tel : 07 58 40 12 87) etait monte sur la vasque en ceramique d'un bac a shampoing instable, l'equipement a brutalement bascule. Par reflexe, **Sébastien GRAZIDE a tendu la main droite pour proteger Ayoub BENNOURINE ; sa paume a percuté une cassure majeure préexistante non signalée aux arêtes tranchantes sur le flanc de la vasque, provoquant une section nerveuse et tendineuse profonde de l'index droit.
 
 Ces faits, constitutifs de blessures involontaires au sens de l'[Article 222-19 du Code pénal](../../../../Lois/Code/Code_pénal/Article_222-19_CodePenal_Legifrance.md)[^5], ont fait l'objet d'une plainte initiale enregistrée sous le numéro .
 
@@ -93,21 +93,21 @@ Ces faits, constitutifs de blessures involontaires au sens de l'[Article 222-19 
 > [Article 222-19 du Code pénal](../../../../Lois/Code/Code_pénal/Article_222-19_CodePenal_Legifrance.md) <br>
 > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^5]**
 
-Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de [SAS LES MAUVAIS GARCONS].
+Depuis la survenance de ce sinistre, le plaignant a vainement sollicité la communication des coordonnées de l'assureur de responsabilité civile professionnelle de SAS HB BARBER.
 
-Ni le Président de la SAS, [Sabir MOUNTASSER], ni la co-dirigeante, [Catherine ANDISSAC], n'ont déféré aux demandes amiables de [Sébastien GRAZIDE], ni à celles adressées au propriétaire des murs, [Romain DELRIEU]. 
+Ni le Président de la SAS, Hamza El Hachemi BERGUIGA, ni la co-dirigeante, Catherine SORROCHE, dite ANDISSAC, n'ont déféré aux demandes amiables de Sébastien GRAZIDE, ni à celles adressées au propriétaire des murs, Romain DELRIEU. 
 
-Ce silence persistant, malgré l'envoi de courriers recommandés le [29 juin 2026], laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
+Ce silence persistant, malgré l'envoi de courriers recommandés le 29 juin 2026, laisse présumer soit une absence de couverture assurantielle, soit une volonté délibérée de paralyser l'indemnisation de la victime.
 <hr><hr>
 
 ## III — DISCUSSION JURIDIQUE
 ### III.1 — SUR L'ABSENCE D'ASSURANCE DE RESPONSABILITÉ CIVILE
 
-Malgré les demandes amiables de [Sébastien GRAZIDE], [SAS LES MAUVAIS GARCONS] n'a jamais communiqué d'attestation d'assurance de responsabilité civile professionnelle.
+Malgré les demandes amiables de Sébastien GRAZIDE, SAS HB BARBER n'a jamais communiqué d'attestation d'assurance de responsabilité civile professionnelle.
 
 Cette absence de réponse laisse présumer soit une absence de couverture assurantielle, soit une volonté de dissimulation.
 
-En l'absence d'assurance, l'indemnisation de la victime au titre de l'action directe prévue à l'[**[Article L. 124-3 du Code des assurances]**](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1] est gravement compromise. Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418[^2]734), sur le fondement de l'[Article 706-3 du Code de procédure pénale](../../../../Lois/Code/Code_procédure_pénale/Article_706-3_CodeProcedurePenale_Legifrance.md), pourrait alors être saisi pour assurer l'indemnisation de [Sébastien GRAZIDE].
+En l'absence d'assurance, l'indemnisation de la victime au titre de l'action directe prévue à l'[**[Article L. 124-3 du Code des assurances]**](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^1] est gravement compromise. Le [Fonds de Garantie (FGTI)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418[^2]734), sur le fondement de l'[Article 706-3 du Code de procédure pénale](../../../../Lois/Code/Code_procédure_pénale/Article_706-3_CodeProcedurePenale_Legifrance.md), pourrait alors être saisi pour assurer l'indemnisation de Sébastien GRAZIDE.
 
 > *« Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : 1° Ces atteintes n'entrent pas dans le champ d'application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ni de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux susceptibles d'occasionner des dégâts ; 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois ; -soit sont prévus et réprimés par les articles 222-22 à 222-30 , 224-1 A à 224-1 C, 225-4-1 à 225-4-5,225-5 à 225-10, 225-14-1 et 225-14-2 et 227-25 à 227-27 du code pénal ; -soit ont été commis sur un mineur ou par le conjoint ou le concubin de la victime, par le partenaire lié à la victime par un pacte civil de solidarité, par un ancien conjoint ou concubin de la victime ou par un ancien partenaire lié à la victime par un pacte civil de solidarité et sont prévus et réprimés par l'article 222-12 du code pénal ou par le 3° et l'avant-dernier alinéa de l'article 222-14 du même code, y compris lorsque ces faits ont été commis avec d'autres circonstances aggravantes. Par exception au premier alinéa du présent article, le montant maximal de la réparation des dommages subis en raison de ces faits, lorsqu'ils ont entraîné une incapacité totale de travail inférieure à un mois, est défini par voie réglementaire. 3° La personne lésée est de nationalité française ou les faits ont été commis sur le territoire national. La réparation peut être refusée ou son montant réduit à raison de la faute de la victime. »* <br>
 > [Article 706-3 du Code de procédure pénale](../../../../Lois/Code/Code_procédure_pénale/Article_706-3_CodeProcedurePenale_Legifrance.md) <br>
@@ -148,13 +148,13 @@ Par ailleurs, ce défaut de souscription ou d'information peut constituer une fa
 
 ## IV — CONSÉQUENCES ET PRÉJUDICES
 
-Le préjudice subi par [Sébastien GRAZIDE] est d'une particulière gravité.
+Le préjudice subi par Sébastien GRAZIDE est d'une particulière gravité.
 
 En sa qualité d'informaticien indépendant, l'usage de sa main dominante est indispensable à son activité professionnelle.
 
 La section complète du nerf collatéral radial et du tendon fléchisseur a entraîné un blocage mécanique de la flexion et une insensibilité thermique totale de l'index droit.
 
-Le pronostic de récupération est réservé, avec un délai minimal d'un an évalué par [Dr Iskander DJERBI].
+Le pronostic de récupération est réservé, avec un délai minimal d'un an évalué par Dr Iskander DJERBI.
 
 Sur le plan financier, le plaignant est privé de revenus depuis l'accident.
 
@@ -165,22 +165,22 @@ L'absence de communication de l'assurance bloque toute offre d'indemnisation ami
 
 ## V — DEMANDES
 
-Par ces motifs, [Sébastien GRAZIDE] sollicite qu'il plaise à Monsieur le Procureur de la République d'ordonner une enquête complémentaire visant à :
+Par ces motifs, Sébastien GRAZIDE sollicite qu'il plaise à Monsieur le Procureur de la République d'ordonner une enquête complémentaire visant à :
 
-1. **VÉRIFIER** l'existence et la validité du contrat d'assurance de responsabilité civile de [SAS LES MAUVAIS GARCONS] au jour du sinistre ;
+1. **VÉRIFIER** l'existence et la validité du contrat d'assurance de responsabilité civile de SAS HB BARBER au jour du sinistre ;
 
 2. **IDENTIFIER** la compagnie d'assurance concernée par tout moyen d'investigation (Fichier Central des Assurances, ORIAS) ;
 
 3. **RECUEILLIR** les explications des mis en cause sur la dissimulation des informations d'assurance ;
 
-4. **ORDONNER** la préservation urgente et la saisie des enregistrements de vidéosurveillance du salon pour la journée du [29 mai 2026], afin de prévenir toute destruction de preuve.
+4. **ORDONNER** la préservation urgente et la saisie des enregistrements de vidéosurveillance du salon pour la journée du 29 mai 2026, afin de prévenir toute destruction de preuve.
 
 Le plaignant se constitue partie civile et se tient à la disposition de la justice pour toute mesure d'expertise ou audition nécessaire à la manifestation de la vérité.
 
-[Sébastien GRAZIDE]
+Sébastien GRAZIDE
 
 <!-- NoteAdministrative -->
-> **Note administrative :** Ayant subi une section nerveuse et tendineuse profonde de l'index droit le [29 mai 2026] sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
+> **Note administrative :** Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 > 
 > Cette situation de handicap physique temporaire justifie la prolongation involontaire de mes démarches administratives et les délais d'acheminement du présent document.
 <!-- /NoteAdministrative -->

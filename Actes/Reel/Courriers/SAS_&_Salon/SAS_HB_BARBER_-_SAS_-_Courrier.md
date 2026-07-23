@@ -27,7 +27,7 @@ jx: J+31
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 **Table des matières**
 
@@ -42,7 +42,7 @@ sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-Direction de SAS LES MAUVAIS GARCONS
+Direction de SAS HB BARBER
 
 22 Rue Lafaurie, 09000 Foix
 <!-- /Destinataire -->
@@ -55,7 +55,7 @@ Foix, le 29 juin 2026
 Objet : Déclaration d'accident corporel — Demande d'information assurance RC — L.R.A.R.
 <hr><hr>
 
-La présente lettre de mise en demeure est adressée par Sébastien GRAZIDE à SAS LES MAUVAIS GARCONS afin de déclarer officiellement l'accident corporel survenu le 29 mai 2026 dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
+La présente lettre de mise en demeure est adressée par Sébastien GRAZIDE à SAS HB BARBER afin de déclarer officiellement l'accident corporel survenu le 29 mai 2026 dans l'établissement et de solliciter les coordonnées de l'assureur de responsabilité civile professionnelle.
 
 Ce courrier constitue la première étape amiable préalable à toute action contentieuse, conformément aux usages de la procédure civile.
 
@@ -107,7 +107,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 > [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.[^3]**
 
-3. De procéder au versement d'une provision amiable d'un montant de [15 000 €] à valoir sur la réparation de mes préjudices, au titre de l'incidence professionnelle de l'accident ;
+3. De procéder au versement d'une provision amiable d'un montant de 15 000 € à valoir sur la réparation de mes préjudices, au titre de l'incidence professionnelle de l'accident ;
 
 4. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 

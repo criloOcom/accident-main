@@ -25,7 +25,7 @@ jx: J+44
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # TRANSMISSION DE PREUVES COMPLEMENTAIRES <br> AU TRIBUNAL JUDICIAIRE DE FOIX
 
@@ -60,12 +60,12 @@ Foix, le 12 juillet 2026
 
 <hr><hr>
 
-**Ref : SIREN 938 033 222 — [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
+**Ref : SIREN 104 103 262 — [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
 
 Monsieur le President,
 ## I — INTRODUCTION
 
-La presente a pour objet de transmettre au Tribunal Judiciaire de Foix des elements de preuve complementaires dans le cadre de l'enquete preliminaire ouverte suite a l'accident corporel grave dont j'ai ete victime le 29 mai 2026 au sein de l'etablissement exploite par la SAS SAS LES MAUVAIS GARCONS, sise 22 Rue Lafaurie, 09000 Foix a Foix.
+La presente a pour objet de transmettre au Tribunal Judiciaire de Foix des elements de preuve complementaires dans le cadre de l'enquete preliminaire ouverte suite a l'accident corporel grave dont j'ai ete victime le 29 mai 2026 au sein de l'etablissement exploite par la SAS SAS HB BARBER, sise 22 Rue Lafaurie, 09000 Foix a Foix.
 
 Le 29 juin 2026, j'ai adresse des courriers recommandes avec accuse de reception a la SAS et a ses dirigeants. Ces courriers m'ont ete retournes avec la mention **"defaut d'adresse / distribution impossible"**, alors meme que le commerce a rouvert ses portes le 6 juillet 2026 et parait en activite reguliere.
 
@@ -74,7 +74,7 @@ Ces elements sont de nature a etablir que la SAS et ses dirigeants se soustraien
 
 ## II — RAPPEL DE LA PROCEDURE
 
-Le 29 mai 2026, j'ai ete victime d'un accident corporel grave au sein du salon de coiffure exploite par la SAS SAS LES MAUVAIS GARCONS. Un prepose est monte sur un bac a shampoing en ceramique instable et casse pour acceder au poste de television, faute d'escabeau. La vasque a bascule sous son poids, et ma main droite a heurte la cassure preexistante, entrainant une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence.
+Le 29 mai 2026, j'ai ete victime d'un accident corporel grave au sein du salon de coiffure exploite par la SAS SAS HB BARBER. Un prepose est monte sur un bac a shampoing en ceramique instable et casse pour acceder au poste de television, faute d'escabeau. La vasque a bascule sous son poids, et ma main droite a heurte la cassure preexistante, entrainant une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence.
 
 Les procedures suivantes ont ete engagees :
 
@@ -95,7 +95,7 @@ Je transmets par la presente les pieces suivantes :
 
 2. **Copie du [PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — procedure penale en cours
 
-3. **[[[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS [SAS LES MAUVAIS GARCONS](../../../../Memory/TOKEN%20MAP.md%23personnes-morales)](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — confirmant le siege social au 22 Rue Lafaurie, 09000 Foix
+3. **[[[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS [SAS HB BARBER](../../../../Memory/TOKEN%20MAP.md%23personnes-morales)](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — confirmant le siege social au 22 Rue Lafaurie, 09000 Foix
 
 4. **Note d'audit RNE/INPI** du 10 juillet 2026 — confirmant que la SAS est toujours active a la meme adresse, sans modification de siege
 <hr><hr>
@@ -105,7 +105,7 @@ Je transmets par la presente les pieces suivantes :
 Je sollicite de votre bienveillance que les pieces ci-jointes soient **integrees au dossier de l'enquete preliminaire** en cours sous le [PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md).
 
 Ces elements etablissent que :
-- La SAS SAS LES MAUVAIS GARCONS ne peut etre notifiee a son siege social declare
+- La SAS SAS HB BARBER ne peut etre notifiee a son siege social declare
 
 - Les dirigeants ne repondent a aucune sollicitation
 
@@ -130,7 +130,7 @@ Sébastien GRAZIDE
 
 - **[PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
 
-- **[[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) SAS [L'Exploitant du Commerce (La SAS)]](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN 938 033 222
+- **[[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) SAS SAS HB BARBER](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN 104 103 262
 
 - **[Note - Audit RNE NPAI SAS.md](../../../Reel/Analyses_juridiques/Note%20-%20Audit%20RNE%20NPAI%20SAS.md)** — Note d'audit RNE/INPI du 10 juillet 2026
 <!-- /PJ -->

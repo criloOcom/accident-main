@@ -11,7 +11,7 @@ reel_path: ../../Reel/Organisation/Note - Modification Email Maire Foix.md
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # Plan : Ajustement du courriel à l'Adjoint au Maire (Police Municipale et ERP)
 
@@ -40,7 +40,7 @@ Je me permets de vous recontacter à la suite de notre échange du 1 juin 2026, 
 
 Je tiens à vous apporter des nouvelles de mon état de santé : à la suite de la microchirurgie subie pour les sections tendineuses et nerveuses de ma main droite dominante, je poursuis une rééducation lourde (3 séances par semaine), mon [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) ayant été fixé à 55 jours.
 
-Habitant à Blagnac, je constate que les courriers recommandés adressés à SAS LES MAUVAIS GARCONS à l'adresse de son siège social (22 Rue Lafaurie, 09000 Foix) me sont retournés avec la mention NPAI. Pourtant, le commerce semble avoir rouvert ses portes et être en activité régulière.
+Habitant à Blagnac, je constate que les courriers recommandés adressés à SAS HB BARBER à l'adresse de son siège social (22 Rue Lafaurie, 09000 Foix) me sont retournés avec la mention NPAI. Pourtant, le commerce semble avoir rouvert ses portes et être en activité régulière.
 
 Dans ce contexte, et afin d'assurer la sécurité publique au sein de cet établissement recevant du public (ERP), je sollicite l'intervention de vos services de police municipale afin que des agents assermentés puissent se rendre sur place pour procéder à des vérifications indispensables :
 1. Identifier précisément la structure juridique et l'identité de l'exploitant physique actuellement en activité dans les locaux (contrôle de l'affichage légal obligatoire, [extrait Kbis](../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)).

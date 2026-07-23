@@ -20,7 +20,7 @@ jx: J+60
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce]**] au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # **DOSSIER DE PLAIDOIRIE POUR L'AUDIENCE DE RÉFÉRÉ DU 31 JUILLET 2026**
 ## I — FICHE SYNTHÉTIQUE
@@ -29,9 +29,9 @@ jx: J+60
 **DATE DE L'AUDIENCE :** Date non fixée (à planifier)
 
 **PARTIES AU LITIGE :**
-- **Demandeur :** [Sébastien GRAZIDE], informaticien indépendant
+- **Demandeur :** Sébastien GRAZIDE, informaticien indépendant
 
-- **Défendeurs :** [**[L'Exploitant du Commerce]**], ainsi que ses dirigeants [Sabir MOUNTASSER] et [Catherine ANDISSAC]
+- **Défendeurs :** SAS LES MAUVAIS GARCONS, ainsi que ses dirigeants Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC
 
 **OBJET DE LA DEMANDE :**
 - Allocation d'une provision ad litem à valoir sur la réparation du préjudice corporel
@@ -40,7 +40,7 @@ jx: J+60
 
 - Condamnation in solidum des défendeurs
 
-**ÉVÉNEMENT :** Accident corporel grave survenu le [29 mai 2026]. Basculement d'un équipement défectueux causant une section nerveuse et tendineuse à la main droite de [Sébastien GRAZIDE].
+**ÉVÉNEMENT :** Accident corporel grave survenu le 29 mai 2026. Basculement d'un équipement défectueux causant une section nerveuse et tendineuse à la main droite de Sébastien GRAZIDE.
 
 **MONTANTS EN JEU :**
 - Évaluation globale provisoire du préjudice : ~90 000 €
@@ -50,28 +50,28 @@ jx: J+60
 - Frais irrépétibles (Article 700 du CPC) : 3 000 €
 
 **PIÈCES CLÉS DU DOSSIER :**
-- **Pièce ACQ-10 :** Procès-verbal de constat de police confirmant les circonstances matérielles ([2 juin 2026]
+- **Pièce ACQ-10 :** Procès-verbal de constat de police confirmant les circonstances matérielles (2 juin 2026
 
-- **Pièce ACQ-09 :** Dépôt de plainte officiel formalisant l'infraction pénale ([1 juin 2026]
+- **Pièce ACQ-09 :** Dépôt de plainte officiel formalisant l'infraction pénale (1 juin 2026
 
-- **Pièce ACQ-04 :** [**[Compte-rendu opératoire]**]
+- **Pièce ACQ-04 :** **[Compte-rendu opératoire]**
 
-- **Pièce ACQ-17 :** Mises en demeure par Lettres Recommandées avec Accusé de Réception ([29 juin 2026]
+- **Pièce ACQ-17 :** Mises en demeure par Lettres Recommandées avec Accusé de Réception (29 juin 2026
 <hr><hr>
 
 ## II — CHRONOLOGIE DES FAITS
 
 *Rappel des dates clés démontrant l'urgence et la gravité de la situation.*
 
-- **[J+0 Accident] :** Date de l'accident au sein de l'établissement [**[L'Exploitant du Commerce]**]. Le préposé [Ayoub BENNOURINE] (tél. [**[Le Téléphone du Préposé]**] monte sur la vasque du bac à shampoing qui bascule. En tentant de le protéger par réflexe, [Sébastien GRAZIDE] heurte une cassure tranchante préexistante de la vasque. Section des tendons et nerfs de l'index droit.
+- **29 mai 2026 :** Date de l'accident au sein de l'établissement SAS LES MAUVAIS GARCONS. Le préposé Ayoub BENNOURINE (tél. 07 58 40 12 87 monte sur la vasque du bac à shampoing qui bascule. En tentant de le protéger par réflexe, Sébastien GRAZIDE heurte une cassure tranchante préexistante de la vasque. Section des tendons et nerfs de l'index droit.
 
-- **[J+1 Chirurgie] :** Intervention en urgence de microchirurgie à la [Clinique de l'Union] par [Dr Iskander DJERBI].
+- **30 mai 2026 :** Intervention en urgence de microchirurgie à la Clinique de l'Union par Dr Iskander DJERBI.
 
 - **1er juin 2026 :** Dépôt de plainte officiel par la victime (Pièce ACQ-09).
 
-- **[J+31 Mises en demeure] :** Envoi des Mises en demeure (LRAR) visant à obtenir l'attestation d'assurance de la SAS (Pièce ACQ-17). Silence radio des dirigeants.
+- **29 juin 2026 :** Envoi des Mises en demeure (LRAR) visant à obtenir l'attestation d'assurance de la SAS (Pièce ACQ-17). Silence radio des dirigeants.
 
-- **[J+37 Assignation 145] :** Signalements administratifs effectués auprès des diverses autorités (Inspection du Travail, CODAF, etc.) face au refus persistant de coopération de l'employeur.
+- **5 juillet 2026 :** Signalements administratifs effectués auprès des diverses autorités (Inspection du Travail, CODAF, etc.) face au refus persistant de coopération de l'employeur.
 
 - **Date non fixée (à planifier) :** Date de la présente audience de référé pour obtenir l'indemnisation provisionnelle et forcer la communication de la couverture assurantielle.
 <hr><hr>
@@ -82,9 +82,9 @@ jx: J+60
 Sur le fondement de l'[Article 1242 alinéa 1er du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000517860](../../../Lois/Code/LEGIARTI0000517860.md)00)[^1], le gardien de la chose instrument du dommage est responsable de plein droit.
 - **La vasque = chose instrument du dommage :** Son état de délabrement (cassure préexistante tranchante) et son basculement constituent le rôle actif incontestable dans la réalisation du dommage.
 
-- **La garde :** [**[L'Exploitant du Commerce]**] est le propriétaire et l'exploitant du matériel défectueux.
+- **La garde :** SAS LES MAUVAIS GARCONS est le propriétaire et l'exploitant du matériel défectueux.
 
-- **Absence d'exonération :** La réaction réflexe de sauvegarde de [Sébastien GRAZIDE] pour éviter la chute du préposé ne constitue en aucun cas une faute. Il n'y a pas non plus de force majeure invocable.
+- **Absence d'exonération :** La réaction réflexe de sauvegarde de Sébastien GRAZIDE pour éviter la chute du préposé ne constitue en aucun cas une faute. Il n'y a pas non plus de force majeure invocable.
 
 ### III.2 — ACTION DIRECTE CONTRE L'ASSUREUR (ART. L.124-3 C. ASSUR.)
 
@@ -106,15 +106,15 @@ Il en résulte que le régime de responsabilité des dirigeants de SA, et notamm
 
 La jurisprudence constante de la Cour de cassation précise, avec l'arrêt SATI (Cass. com., 20 mai 2003, n° 99-17.092), que la responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions, et qu'« il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales ».
 
-En l'espèce, plusieurs éléments laissent présumer une telle faute détachable de la part de [Sabir MOUNTASSER] et [Catherine ANDISSAC] :
+En l'espèce, plusieurs éléments laissent présumer une telle faute détachable de la part de Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC :
 
-- la succession rapide de deux SAS exerçant la même activité de coiffure-barbier dans les mêmes locaux du 22 rue Lafaurie à [**[Foix]**], avec une direction commune (Directrice Générale présente dans les deux structures), sans qu'aucune information claire n'ait été donnée à la victime sur l'identité de l'exploitant réel au 29 mai 2026 ;
+- la succession rapide de deux SAS exerçant la même activité de coiffure-barbier dans les mêmes locaux du 22 rue Lafaurie à **[Foix]**, avec une direction commune (Directrice Générale présente dans les deux structures), sans qu'aucune information claire n'ait été donnée à la victime sur l'identité de l'exploitant réel au 29 mai 2026 ;
 
 - le défaut de déclaration d'accident et l'absence de communication spontanée des coordonnées de l'assurance responsabilité civile professionnelle, malgré les sollicitations écrites de la victime ;
 
 - le refus persistant de produire un justificatif d'assurance ou, à tout le moins, de confirmer l'existence d'une police couvrant l'activité, alors même que la société reçoit du public pour des prestations comportant un risque corporel évident ;
 
-- la sous-capitalisation manifeste de la SAS ([**[Capital Social de l'Exploitation]**] de capital social), structurellement inapte à indemniser un dommage corporel grave sans assurance effective, combinée au jeu de sociétés successives sur le même fonds.
+- la sous-capitalisation manifeste de la SAS (1 000 € de capital social), structurellement inapte à indemniser un dommage corporel grave sans assurance effective, combinée au jeu de sociétés successives sur le même fonds.
 
 Le défaut délibéré de souscription d'une assurance légalement obligatoire, ou la dissimulation volontaire de cette assurance, entravant l'action directe de la victime, constitue typiquement une faute intentionnelle d'une particulière gravité et peut être regardé comme une application du principe jurisprudentiel de faute détachable.
 
@@ -137,13 +137,13 @@ Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant 
 
 L'argumentation développée s'appuie sur une jurisprudence constante :
 
-- **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** [**[N° 97-17.378]**] ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
+- **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** **[N° 97-17.378]** ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
 
 - **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070713](../../../Lois/Jurisprudence/JURITEXT0000070713.md)51)[^5]. Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
 
 - **Faute détachable du dirigeant (Arrêt SATI - Cass. Com., 20 mai 2003) :** [N° 99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69)[^6]. Le dirigeant qui commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions engage sa responsabilité personnelle. En l'espèce, l'obstruction des dirigeants et le défaut de communication caractérisent une faute détachable.
 
-- **Principe de réparation intégrale (Art. 1240 C. civ.) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour [Sébastien GRAZIDE], informaticien indépendant, l'incidence professionnelle est majeure.
+- **Principe de réparation intégrale (Art. 1240 C. civ.) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour Sébastien GRAZIDE, informaticien indépendant, l'incidence professionnelle est majeure.
 <hr><hr>
 
 ## V — PIÈCES À CITER IMPÉRATIVEMENT
@@ -151,7 +151,7 @@ L'argumentation développée s'appuie sur une jurisprudence constante :
 Monsieur le Juge, je vous renvoie aux pièces listées dans notre bordereau, et tout particulièrement à :
 - **Pièce ACQ-10** (PV de Police) établissant sans ambiguïté les constations factuelles de l'événement.
   
-- **Pièce ACQ-04** ([**[Compte-rendu opératoire]**] pour mesurer la gravité médicale de l'atteinte tendineuse et nerveuse.
+- **Pièce ACQ-04** (**[Compte-rendu opératoire]** pour mesurer la gravité médicale de l'atteinte tendineuse et nerveuse.
   
 - **Pièce ACQ-17** (AR des mises en demeure) prouvant notre démarche de conciliation restée lettre morte de la part des défendeurs.
   
@@ -176,13 +176,13 @@ La présente procédure de référé ne vise pas à solder définitivement le do
 ## VI — QUESTIONS PROBABLES DU JUGE ET RÉPONSES PRÉPARÉES
 
 **Q1 : "Pourquoi demandez-vous seulement 15 000 € en provision alors que vous estimez le préjudice à près de 90 000 € ?"** <br>
-Monsieur le Juge, l'audience de référé vise à allouer une indemnisation provisionnelle d'urgence pour faire face aux premiers frais et à la perte immédiate d'exploitation. L'évaluation définitive du déficit fonctionnel et de l'incidence professionnelle de [Sébastien GRAZIDE] nécessite une consolidation médicale (expertise de novembre), justifiant de limiter la demande immédiate à une somme incontestable.
+Monsieur le Juge, l'audience de référé vise à allouer une indemnisation provisionnelle d'urgence pour faire face aux premiers frais et à la perte immédiate d'exploitation. L'évaluation définitive du déficit fonctionnel et de l'incidence professionnelle de Sébastien GRAZIDE nécessite une consolidation médicale (expertise de novembre), justifiant de limiter la demande immédiate à une somme incontestable.
 
-**Q2 : "Avez-vous l'attestation d'assurance de la société [**[L'Exploitant du Commerce]**] ?"** <br>
+**Q2 : "Avez-vous l'attestation d'assurance de la société SAS LES MAUVAIS GARCONS ?"** <br>
 Non, Monsieur le Juge. C'est précisément l'une des raisons de notre présence aujourd'hui. Malgré nos lettres recommandées de mise en demeure, les dirigeants font une obstruction manifeste. Nous vous demandons, sur le fondement de l'article 145 du CPC, de contraindre la partie adverse à fournir ce document sous astreinte financière journalière.
 
 **Q3 : "Le préposé était-il véritablement dans l'exercice de ses fonctions lorsqu'il est monté sur le bac ?"** <br>
-Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'enceinte de l'établissement pendant ses horaires de travail pour accomplir une tâche au profit de l'exploitation. Il bénéficie donc de l'immunité civile selon la jurisprudence Costedoat, et la responsabilité de [**[L'Exploitant du Commerce]**] en tant que commettant est pleinement engagée.
+Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'enceinte de l'établissement pendant ses horaires de travail pour accomplir une tâche au profit de l'exploitation. Il bénéficie donc de l'immunité civile selon la jurisprudence Costedoat, et la responsabilité de SAS LES MAUVAIS GARCONS en tant que commettant est pleinement engagée.
 <!-- Source -->
 <hr><hr>
 

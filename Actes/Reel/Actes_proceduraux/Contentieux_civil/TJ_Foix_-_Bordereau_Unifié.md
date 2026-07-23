@@ -41,57 +41,57 @@ jx: J+39
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [SAS LES MAUVAIS GARCONS] au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # BORDEREAU DE PIÈCES
 
-> **Procédure :** Référé (Art. 835 CPC, Art. 145 CPC) — <!-- Auteur -->**Demandeur :** [Sébastien GRAZIDE]<!-- /Auteur --> — <!-- Destinataire -->**Défendeur :** [SAS LES MAUVAIS GARCONS]<!-- /Destinataire -->
+> **Procédure :** Référé (Art. 835 CPC, Art. 145 CPC) — <!-- Auteur -->**Demandeur :** Sébastien GRAZIDE<!-- /Auteur --> — <!-- Destinataire -->**Défendeur :** SAS HB BARBER<!-- /Destinataire -->
 ## I — GROUPE A — PREUVES DE L'ACCIDENT
 ### PIÈCE N° 1
 
-- [2 juin 2026] — Procès-verbal de police n° [2026/015967] (Police Nationale **[Toulouse]) : Dépôt de plainte de [Sébastien GRAZIDE] pour blessures involontaires. Description de l'accident : montée du coiffeur sur la vasque en céramique, basculement, cassure préexistante. PV complet 3 pages.
+- 2 juin 2026 — Procès-verbal de police n° 2026/015967 (Police Nationale **Toulouse) : Dépôt de plainte de Sébastien GRAZIDE pour blessures involontaires. Description de l'accident : montée du coiffeur sur la vasque en céramique, basculement, cassure préexistante. PV complet 3 pages.
 
 ### PIÈCE N° 2
 
-- [29 mai 2026] 16h30** — [**[Certificat médical initial]**](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) ([Dr Julie JARDON], Centre Ariégeois de Soins Immédiats) : Exploration de plaie palmaire profonde, lavage et désinfection sous anesthésie locale. Référence d'urgence chirurgicale.
+- 29 mai 2026 16h30** — [**[Certificat médical initial]**](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (Dr Julie JARDON, Centre Ariégeois de Soins Immédiats) : Exploration de plaie palmaire profonde, lavage et désinfection sous anesthésie locale. Référence d'urgence chirurgicale.
 
 ### PIÈCE N° 3
 
-- [30 mai 2026] — Compte rendu opératoire ([Dr Iskander DJERBI], SOS Main [Clinique de l'Union]) : Suture du tendon fléchisseur superficiel index droit (6 brins), suture des paquets collatéraux, neurolyse du nerf palmaire. [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
+- 30 mai 2026 — Compte rendu opératoire (Dr Iskander DJERBI, SOS Main Clinique de l'Union) : Suture du tendon fléchisseur superficiel index droit (6 brins), suture des paquets collatéraux, neurolyse du nerf palmaire. [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
 
 ### PIÈCE N° 4
 
-- [1 juin 2026] au [23 juillet 2026] — [**[Arrêts de travail]**](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et prolongations ([**[Le Médecin Traitant]**]) : [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 29 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.
+- 1 juin 2026 au 23 juillet 2026 — [**[Arrêts de travail]**](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et prolongations (Dr Oxybel) : [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 29 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.
 
 ### PIÈCE N° 5
 
-- [2 juin 2026] — Réquisition judiciaire à personne (Police Nationale, Agent [**[Agent PJ, dépôt de plainte) : Réquisition pour examen médical par l'UMJ de La Métropole Régionale]**] sur le fondement des Art. 41 et 77-1 CPP. Rendez-vous fixé au [12 novembre 2026] à 13h45**.
+- 2 juin 2026 — Réquisition judiciaire à personne (Police Nationale, Agent **[Agent PJ, dépôt de plainte) : Réquisition pour examen médical par l'UMJ de La Métropole Régionale]** sur le fondement des Art. 41 et 77-1 CPP. Rendez-vous fixé au 12 novembre 2026 à 13h45**.
 
-- [2 juin 2026] — Retranscription téléphonique de la prise de rendez-vous UMJ : Confirmation du rendez-vous du [12 novembre 2026] à [Toulouse], instructions sur les documents à apporter.
+- 2 juin 2026 — Retranscription téléphonique de la prise de rendez-vous UMJ : Confirmation du rendez-vous du 12 novembre 2026 à Toulouse, instructions sur les documents à apporter.
 <hr><hr>
 
 ## II — GROUPE B — PREUVES FINANCIÈRES
 ### PIÈCE N° 6
 
-- [29 mai 2026] — Paiement et remboursement Wero : Paiement de 15 € pour la prestation de coiffure (**N° Transaction Wero**), suivi d'un remboursement immédiat des 15 € par [Ayoub BENNOURINE] (tél. [**[Le Téléphone du Préposé]**]) (preuve de présence matérielle dans les lieux et de relation contractuelle de prestation).
+- 29 mai 2026 — Paiement et remboursement Wero : Paiement de 15 € pour la prestation de coiffure (**N° Transaction Wero**), suivi d'un remboursement immédiat des 15 € par Ayoub BENNOURINE (tél. 07 58 40 12 87) (preuve de présence matérielle dans les lieux et de relation contractuelle de prestation).
 
 ### PIÈCE N° 7
 
-- [29 mai 2026] — Facture de pharmacie (Pharmacie de [Foix]) : Médicaments post-opératoires prescrits en urgence.
+- 29 mai 2026 — Facture de pharmacie (Pharmacie de Foix) : Médicaments post-opératoires prescrits en urgence.
 
 ### PIÈCE N° 8
 
-- [10 juin 2026] — Facture de chirurgie ([Dr Iskander DJERBI], SOS Main [Clinique de l'Union]) : Acte chirurgical d'un montant de 790,23 € pris en charge à 100 % par la CSS.
+- 10 juin 2026 — Facture de chirurgie (Dr Iskander DJERBI, SOS Main Clinique de l'Union) : Acte chirurgical d'un montant de 790,23 € pris en charge à 100 % par la CSS.
 
 ### PIÈCE N° 9
 
-- [3 juin 2026] — Dossier Recours Contre Tiers CPAM n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** (CPAM de la Haute-Garonne) : Ouverture du [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) suite au signalement sur Ameli. Active la subrogation de l'assurance maladie pour récupération des débours (frais d'hospitalisation, soins, indemnités).
+- 3 juin 2026 — Dossier Recours Contre Tiers CPAM n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** (CPAM de la Haute-Garonne) : Ouverture du [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) suite au signalement sur Ameli. Active la subrogation de l'assurance maladie pour récupération des débours (frais d'hospitalisation, soins, indemnités).
 <hr><hr>
 
 ## III — GROUPE C — CORRESPONDANCES ET MISES EN DEMEURE
 ### PIÈCE N° 10
 
-- [29 juin 2026] — Mise en demeure de la SAS [SAS LES MAUVAIS GARCONS] (LRAR n° **N° LRAR Exploitant**) : Demande de communication de l'attestation d'assurance RC Pro et de la somme de 5 000 € à titre de provision. Distribué. Échéance au [14 juillet 2026].
+- 29 juin 2026 — Mise en demeure de la SAS SAS HB BARBER (LRAR n° **N° LRAR Exploitant**) : Demande de communication de l'attestation d'assurance RC Pro et de la somme de 5 000 € à titre de provision. Distribué. Échéance au 14 juillet 2026.
 
 ### PIÈCE N° 10b
 
@@ -99,109 +99,109 @@ jx: J+39
 
 ### PIÈCE N° 11
 
-- [29 juin 2026] — Mise en demeure de [Sabir MOUNTASSER] (LRAR n° **N° LRAR Président**) : Mise en cause personnelle pour faute détachable (absence d'assurance, défaut de sécurité). Distribué.
+- 29 juin 2026 — Mise en demeure de Hamza El Hachemi BERGUIGA (LRAR n° **N° LRAR Président**) : Mise en cause personnelle pour faute détachable (absence d'assurance, défaut de sécurité). Distribué.
 
 ### PIÈCE N° 12
 
-- [29 juin 2026] — Mise en demeure de [Catherine ANDISSAC] (LRAR n° **N° LRAR Directrice**) : Mise en cause personnelle pour faute détachable. Distribué.
+- 29 juin 2026 — Mise en demeure de Catherine SORROCHE, dite ANDISSAC (LRAR n° **N° LRAR Directrice**) : Mise en cause personnelle pour faute détachable. Distribué.
 
 ### PIÈCE N° 13
 
-- [29 juin 2026] — Mise en demeure de [Romain DELRIEU] (LRAR n° **N° LRAR Propriétaire**) : Demande de communication de son contrat d'assurance propriétaire non-occupant. Distribué.
+- 29 juin 2026 — Mise en demeure de Romain DELRIEU (LRAR n° **N° LRAR Propriétaire**) : Demande de communication de son contrat d'assurance propriétaire non-occupant. Distribué.
 
 ### PIÈCE N° 14
 
-- [29 juin 2026] — Action directe contre l'assureur RC (Art. L. 124-3 du Code des assurances) : Courrier visant le paiement de l'indemnité globale. Envoi effectué.
+- 29 juin 2026 — Action directe contre l'assureur RC (Art. L. 124-3 du Code des assurances) : Courrier visant le paiement de l'indemnité globale. Envoi effectué.
 
 ### PIÈCE N° 15
 
-- [29 juin 2026] — Transmission de la plainte au Procureur de la République (LRAR n° **N° LRAR Parquet**) : Dossier pénal complet transmis au Parquet de [Foix]. Distribué.
+- 29 juin 2026 — Transmission de la plainte au Procureur de la République (LRAR n° **N° LRAR Parquet**) : Dossier pénal complet transmis au Parquet de Foix. Distribué.
 <hr><hr>
 
 ## IV — GROUPE D — ACTES DE PROCÉDURE
 ### PIÈCE N° 16
 
-- [30 juin 2026] — Assignation en référé-provision et demande d'expertise médicale : Fondée sur les Art. 835 CPC et 145 CPC. Demande de provision de 5 000 € et désignation d'un expert médical.
+- 30 juin 2026 — Assignation en référé-provision et demande d'expertise médicale : Fondée sur les Art. 835 CPC et 145 CPC. Demande de provision de 5 000 € et désignation d'un expert médical.
 
 ### PIÈCE N° 17
 
-- [5 juillet 2026] — Assignation Article 145 CPC (communication d'assurance) : Demande de communication forcée de la police d'assurance RC Pro sous astreinte de [150 €]/jour. Dédiée à l'identification de l'assureur inconnu.
+- 5 juillet 2026 — Assignation Article 145 CPC (communication d'assurance) : Demande de communication forcée de la police d'assurance RC Pro sous astreinte de 150 €/jour. Dédiée à l'identification de l'assureur inconnu.
 
 ### PIÈCE N° 18
 
-- [1 juillet 2026] — Plainte complémentaire pour défaut d'assurance RC Pro : Signalement au Parquet de l'absence d'assurance de l'exploitant. Voie pénale.
+- 1 juillet 2026 — Plainte complémentaire pour défaut d'assurance RC Pro : Signalement au Parquet de l'absence d'assurance de l'exploitant. Voie pénale.
 <hr><hr>
 
 ## V — GROUPE E — GABARITS DE PREUVES À CONSTITUER
 ### PIÈCE N° 19
 
-- [30 juin 2026] — Gabarit d'attestation de témoin — Client présent (Cerfa n° 11527\*03) : Attestation Cerfa destinée aux clients présents le [29 mai 2026]. Témoignage sur la montée du préposé sur la vasque, le basculement, et la cassure préexistante.
+- 30 juin 2026 — Gabarit d'attestation de témoin — Client présent (Cerfa n° 11527\*03) : Attestation Cerfa destinée aux clients présents le 29 mai 2026. Témoignage sur la montée du préposé sur la vasque, le basculement, et la cassure préexistante.
 
 ### PIÈCE N° 20
 
-- [30 juin 2026] — Gabarit d'attestation de témoin — Pompier / SAMU (Cerfa n° 11527\*03) : Attestation destinée aux services de secours intervenus. Constat de la blessure grave (section tendineuse) et du saignement abondant.
+- 30 juin 2026 — Gabarit d'attestation de témoin — Pompier / SAMU (Cerfa n° 11527\*03) : Attestation destinée aux services de secours intervenus. Constat de la blessure grave (section tendineuse) et du saignement abondant.
 
 ### PIÈCE N° 21
 
-- [30 juin 2026] — Gabarit d'attestation de témoin — Employé du salon (Cerfa n° 11527\*03) : Attestation destinée aux employés. Précise la cassure préexistante de la vasque, l'absence de consigne de sécurité, et l'absence d'escabeau pour accès en hauteur.
+- 30 juin 2026 — Gabarit d'attestation de témoin — Employé du salon (Cerfa n° 11527\*03) : Attestation destinée aux employés. Précise la cassure préexistante de la vasque, l'absence de consigne de sécurité, et l'absence d'escabeau pour accès en hauteur.
 <hr><hr>
 
 ## VI — GROUPE F — DOCUMENTS ADMINISTRATIFS
 ### PIÈCE N° 22
 
-- [5 juillet 2026] — Courrier à l'Inspection du Travail (DDETS/DREETS) : Signalement des manquements (DUERP, équipement d'accès en hauteur, formation sécurité, assurance RC Pro). Envoi effectué.
+- 5 juillet 2026 — Courrier à l'Inspection du Travail (DDETS/DREETS) : Signalement des manquements (DUERP, équipement d'accès en hauteur, formation sécurité, assurance RC Pro). Envoi effectué.
 
 ### PIÈCE N° 23
 
-- [5 juillet 2026] — Courrier au CODAF 09 : Signalement officiel des manquements. Envoi effectué.
+- 5 juillet 2026 — Courrier au CODAF 09 : Signalement officiel des manquements. Envoi effectué.
 
 ### PIÈCE N° 24
 
-- [5 juillet 2026] — Relance Police : Suivi de la plainte et demande de transmission des vidéos de vidéosurveillance. Email envoyé.
+- 5 juillet 2026 — Relance Police : Suivi de la plainte et demande de transmission des vidéos de vidéosurveillance. Email envoyé.
 
 ### PIÈCE N° 25
 
-- [5 juillet 2026] — Relance CPAM : Suivi du [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** et demande de mise à jour. Email envoyé.
+- 5 juillet 2026 — Relance CPAM : Suivi du [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** et demande de mise à jour. Email envoyé.
 <hr><hr>
 
 ## VII — GROUPE G — PIÈCES COMPLÉMENTAIRES
 ### PIÈCE N° 26
 
-- [3 juin 2026] — Déclaration d'accident CPAM (Ameli) : Déclaration de recours contre tiers enregistrée sous le n° [**[N° Dossier CPAM Victime]**] contre la SAS [SAS LES MAUVAIS GARCONS].
+- 3 juin 2026 — Déclaration d'accident CPAM (Ameli) : Déclaration de recours contre tiers enregistrée sous le n° 31727387 contre la SAS SAS HB BARBER.
 
 ### PIÈCE N° 27
 
-- [30 mai 2026] — Frais de séjour SOS Main (GHS) : Frais de séjour et soins [dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
+- 30 mai 2026 — Frais de séjour SOS Main (GHS) : Frais de séjour et soins [dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
 
-- [10 juin 2026] — Relevé de prestations CPAM : Enregistrement de l'acte de chirurgie (ADC) du [30 mai 2026].
+- 10 juin 2026 — Relevé de prestations CPAM : Enregistrement de l'acte de chirurgie (ADC) du 30 mai 2026.
 
 ### PIÈCE N° 28
 
-- [16 juin 2026] — Demande de renseignements CPAM ([Sigrid DESBOIS]) : INCOHÉRENCE — dossier n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) erroné]** au lieu du n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
+- 16 juin 2026 — Demande de renseignements CPAM (Sigrid DESBOIS) : INCOHÉRENCE — dossier n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) erroné]** au lieu du n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
 
 - **18/06/2026** — Note de cadrage médico-légale : Confirmation de la zone lésée (index droit) et du [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md).
 
-- [19 juin 2026] — Rectification du [**[compte-rendu opératoire]**](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) : Index droit rétabli, date du [30 mai 2026] confirmée.
+- 19 juin 2026 — Rectification du [**[compte-rendu opératoire]**](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) : Index droit rétabli, date du 30 mai 2026 confirmée.
 
 ### PIÈCE N° 29
 
-- [3 juin 2026] — Envoi des volets 1 et 2 d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) : Correction manuelle de l'erreur de date.
+- 3 juin 2026 — Envoi des volets 1 et 2 d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) : Correction manuelle de l'erreur de date.
 
 - **05/06/2026** — Déclaration de sinistre corporel aux assurances privées (limite légale de 5 jours).
 
-- [23 juin 2026] — Première séance de rééducation spécialisée de la main (SOS Main).
+- 23 juin 2026 — Première séance de rééducation spécialisée de la main (SOS Main).
 
 ### PIÈCE N° 30
 
-- **Sans date** — Pansements post-chirurgicaux lourds toutes les 48 heures (Cabinet infirmier [Toulouse]).
+- **Sans date** — Pansements post-chirurgicaux lourds toutes les 48 heures (Cabinet infirmier Toulouse).
 
-- **12/06/2026** — Consultation de contrôle ([Dr Oxybel]) : Planification de la prolongation d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
+- **12/06/2026** — Consultation de contrôle (Dr Oxybel) : Planification de la prolongation d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
 
-- [23 juin 2026] — Consultation de contrôle post-opératoire ([Dr Iskander DJERBI]) : Bonne évolution cicatricielle, déficit neurologique noté.
+- 23 juin 2026 — Consultation de contrôle post-opératoire (Dr Iskander DJERBI) : Bonne évolution cicatricielle, déficit neurologique noté.
 
 ### PIÈCE N° 31
 
-- [29 mai 2026] — Prescription initiale de 25 jours d'[**[arrêt de travail]**](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) ([Dr Oxybel]).
+- 29 mai 2026 — Prescription initiale de 25 jours d'[**[arrêt de travail]**](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (Dr Oxybel).
 
 ### PIÈCE N° 32
 
@@ -209,7 +209,7 @@ jx: J+39
 
 ### PIÈCE N° 33
 
-- [2 juin 2026] — Relevés de prestations CPAM Tiers Payant : Dossier **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** (seul le NIR présent).
+- 2 juin 2026 — Relevés de prestations CPAM Tiers Payant : Dossier **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** (seul le NIR présent).
 
 ### PIÈCE N° 34
 
@@ -217,13 +217,13 @@ jx: J+39
 
 ### PIÈCE N° 35
 
-- [2 juin 2026] — Information droits des victimes (Ministère de l'Intérieur) : Récépissé et note d'information (avocat, indemnisation, aide juridictionnelle).
+- 2 juin 2026 — Information droits des victimes (Ministère de l'Intérieur) : Récépissé et note d'information (avocat, indemnisation, aide juridictionnelle).
 
 ### PIÈCE N° 36
 
 - **Sans date** — Analyse de sinistre corporel : Vasque céramique avec cassure préexistante tranchante (index droit impacté).
 
-- [2 juin 2026] — Remboursement de prestations CPAM : Part complémentaire pour les soins du [29 mai 2026].
+- 2 juin 2026 — Remboursement de prestations CPAM : Part complémentaire pour les soins du 29 mai 2026.
 
 ### PIÈCE N° 37
 
@@ -257,7 +257,7 @@ jx: J+39
 
 ### PIÈCE N° 41
 
-- [**[J+27 Confirmation kiné]**] — Confirmation de rendez-vous de rééducation (Doctolib).
+- 25 juin 2026 — Confirmation de rendez-vous de rééducation (Doctolib).
 
 ### PIÈCE N° 42
 
@@ -265,7 +265,7 @@ jx: J+39
 
 ### PIÈCE N° 43
 
-- **05/06/2026** — Preuve de dépôt LRAR [**[arrêt de travail]**](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (La Poste, [Blagnac]) : Décalage de date constaté (vignette 03/06, flash postal 05/06).
+- **05/06/2026** — Preuve de dépôt LRAR [**[arrêt de travail]**](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (La Poste, Blagnac) : Décalage de date constaté (vignette 03/06, flash postal 05/06).
 <!-- Source -->
 <hr><hr>
 

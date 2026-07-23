@@ -19,7 +19,7 @@ date: '2026-07-22'
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [SAS LES MAUVAIS GARCONS] au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # REQUÊTE AUX FINS DE DÉSIGNATION D'UN MANDATAIRE AD HOC <br> ET MESURES CONSERVATOIRES
 
@@ -28,21 +28,21 @@ date: '2026-07-22'
 <!-- Auteur -->
 **POUR :**
 
-Monsieur [Sébastien GRAZIDE],
-Né le [**[Date de naissance à compléter, de nationalité Nationalité à compléter, profession : L'Identifiant Professionnel de la Victime]**],
-Demeurant [10 Avenue de Purpan, 31700 Blagnac]
+Monsieur Sébastien GRAZIDE,
+Né le **[Date de naissance à compléter, de nationalité Nationalité à compléter, profession : L'Identifiant Professionnel de la Victime]**,
+Demeurant 10 Avenue de Purpan, 31700 Blagnac
 
-Ayant pour Avocat : [Nom Prénom de l'Avocat]
+Ayant pour Avocat : Nom Prénom de l'Avocat
 <!-- /Auteur -->
 
 <!-- Destinataire -->
 **CONTRE :**
 
-La société [SAS LES MAUVAIS GARCONS], société par actions simplifiée,
-Sise [22 Rue Lafaurie, 09000 Foix],
-Immatriculée sous le numéro [938 033 222 00010],
-Prise en la personne de son Président, Monsieur [Sabir MOUNTASSER],
-Et de sa Directrice Générale, Madame [Catherine ANDISSAC]
+La société SAS HB BARBER, société par actions simplifiée,
+Sise 22 Rue Lafaurie, 09000 Foix,
+Immatriculée sous le numéro 104 103 262 00010,
+Prise en la personne de son Président, Monsieur Hamza El Hachemi BERGUIGA,
+Et de sa Directrice Générale, Madame Catherine SORROCHE, dite ANDISSAC
 <!-- /Destinataire -->
 
 Monsieur le Président,
@@ -50,13 +50,13 @@ Monsieur le Président,
 Par la présente, il vous est respectueusement exposé ce qui suit :
 ## I — EXPOSÉ DES FAITS
 
-Monsieur [Sébastien GRAZIDE] a été victime d'un accident particulièrement grave dans les locaux de la société [SAS LES MAUVAIS GARCONS], exploitée par Monsieur [Sabir MOUNTASSER] et Madame **[Catherine ANDISSAC].
+Monsieur Sébastien GRAZIDE a été victime d'un accident particulièrement grave dans les locaux de la société SAS HB BARBER, exploitée par Monsieur Hamza El Hachemi BERGUIGA et Madame **Catherine SORROCHE, dite ANDISSAC.
 
 Il apparaît de manière manifeste que de graves irrégularités, tant sur le plan pénal (violences volontaires, mise en danger de la vie d'autrui, non-assistance à personne en danger) que sur le plan de la gestion de la société, ont été commises.
 
-À la suite de ces événements, Monsieur [Sébastien GRAZIDE] a subi des dommages corporels majeurs nécessitant son admission en urgence à [Clinique de l'Union].
+À la suite de ces événements, Monsieur Sébastien GRAZIDE a subi des dommages corporels majeurs nécessitant son admission en urgence à Clinique de l'Union.
 
-Or, au lieu d'assumer leurs responsabilités, les dirigeants de la société [SAS LES MAUVAIS GARCONS] semblent organiser l'opacité et l'insolvabilité de leur structure afin d'échapper à l'indemnisation inéluctable du préjudice subi par la victime.
+Or, au lieu d'assumer leurs responsabilités, les dirigeants de la société SAS HB BARBER semblent organiser l'opacité et l'insolvabilité de leur structure afin d'échapper à l'indemnisation inéluctable du préjudice subi par la victime.
 
 Il existe en l'espèce un risque d'organisation frauduleuse d'insolvabilité ou de cession d'actifs au détriment des créanciers.
 <hr><hr>
@@ -71,7 +71,7 @@ Il convient de rappeler que la responsabilité des dirigeants d'une Société pa
 > [Article L227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
 > Code de commerce[^1] <br>
 
-Le comportement de Monsieur [Sabir MOUNTASSER] et de Madame **[Catherine ANDISSAC] caractérise des fautes d'une gravité exceptionnelle, justifiant que des mesures de sauvegarde du patrimoine de la société [SAS LES MAUVAIS GARCONS] soient ordonnées pour garantir la créance indemnitaire à naître.
+Le comportement de Monsieur Hamza El Hachemi BERGUIGA et de Madame **Catherine SORROCHE, dite ANDISSAC caractérise des fautes d'une gravité exceptionnelle, justifiant que des mesures de sauvegarde du patrimoine de la société SAS HB BARBER soient ordonnées pour garantir la créance indemnitaire à naître.
 
 ### II.2 — Sur la nomination d'un mandataire ad hoc
 
@@ -85,20 +85,20 @@ Le requérant sollicite la nomination d'un mandataire ad hoc avec pour mission d
 
 - Se faire communiquer les comptes sociaux des trois dernières années.
 
-- Auditer l'état actuel de la trésorerie et de l'actif immobilisé de la société [SAS LES MAUVAIS GARCONS].
+- Auditer l'état actuel de la trésorerie et de l'actif immobilisé de la société SAS HB BARBER.
 
 - Suspendre tout acte de disposition non essentiel à l'activité courante.
 
 ### II.3 — Sur les mesures conservatoires et la prévention d'un dommage imminent
 
-L'organisation de l'insolvabilité de la société par ses dirigeants constitue un trouble manifestement illicite et un dommage imminent pour Monsieur [Sébastien GRAZIDE]. Le juge des référés dispose de pouvoirs étendus pour prévenir une telle issue.
+L'organisation de l'insolvabilité de la société par ses dirigeants constitue un trouble manifestement illicite et un dommage imminent pour Monsieur Sébastien GRAZIDE. Le juge des référés dispose de pouvoirs étendus pour prévenir une telle issue.
 
 > *« Le président peut, dans les mêmes limites, et même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite.
 > Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
 > [Article 873](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463) <br>
 > Code de procédure civile[^3] <br>
 
-Par conséquent, il est indispensable de faire ordonner la communication sous astreinte de tous les documents sociaux (bilans, comptes de résultats, grands livres) et contrats d'assurance pertinents, et de prendre toute mesure conservatoire sur les comptes bancaires de la société [SAS LES MAUVAIS GARCONS].
+Par conséquent, il est indispensable de faire ordonner la communication sous astreinte de tous les documents sociaux (bilans, comptes de résultats, grands livres) et contrats d'assurance pertinents, et de prendre toute mesure conservatoire sur les comptes bancaires de la société SAS HB BARBER.
 <hr><hr>
 
 ## PAR CES MOTIFS
@@ -114,13 +114,13 @@ Il est respectueusement demandé à Monsieur le Président du Tribunal de commer
 
 **ORDONNER** la désignation d'un mandataire ad hoc ayant pour mission de :
 
-- Surveiller la gestion de la société [SAS LES MAUVAIS GARCONS].
+- Surveiller la gestion de la société SAS HB BARBER.
 
 - Prévenir toute dissipation des actifs.
 
 - Auditer l'état du patrimoine de l'entreprise.
 
-**ORDONNER** à titre de mesure conservatoire, l'interdiction pour la société [SAS LES MAUVAIS GARCONS] et pour Monsieur [Sabir MOUNTASSER] et Madame **[Catherine ANDISSAC] de procéder à toute cession d'éléments de l'actif ou d'effectuer des retraits massifs de liquidités.
+**ORDONNER** à titre de mesure conservatoire, l'interdiction pour la société SAS HB BARBER et pour Monsieur Hamza El Hachemi BERGUIGA et Madame **Catherine SORROCHE, dite ANDISSAC de procéder à toute cession d'éléments de l'actif ou d'effectuer des retraits massifs de liquidités.
 
 **ORDONNER** sous astreinte de 500 euros par jour de retard à compter de la signification de la présente ordonnance, la communication intégrale :
 
@@ -128,13 +128,13 @@ Il est respectueusement demandé à Monsieur le Président du Tribunal de commer
 
 - Des polices d'assurance responsabilité civile professionnelle en cours de validité.
 
-**CONDAMNER** in solidum la société [SAS LES MAUVAIS GARCONS], Monsieur [Sabir MOUNTASSER] et Madame **[Catherine ANDISSAC] au paiement de la somme de 3.000 euros au titre de l'article 700 du Code de procédure civile ainsi qu'aux entiers dépens de l'instance.
+**CONDAMNER** in solidum la société SAS HB BARBER, Monsieur Hamza El Hachemi BERGUIGA et Madame **Catherine SORROCHE, dite ANDISSAC au paiement de la somme de 3.000 euros au titre de l'article 700 du Code de procédure civile ainsi qu'aux entiers dépens de l'instance.
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au terme du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
 > [Article 700 du Code de procédure civile](../../../../Lois/Code/Code_procédure_civile/Article_700_Codeproc_Legifrance.md) <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.[^4]**
 
-[Nom Prénom de l'Avocat]
+Nom Prénom de l'Avocat
 Avocat à la Cour
 Le [Date de signature]
 <!-- PJ -->

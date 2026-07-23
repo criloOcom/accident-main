@@ -14,7 +14,7 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 <!-- /Breadcrumb -->
 
 # MÉMO AXES JURIDIQUES
-## Pour l'avocat — Accident main 29 mai 2026 — Victime : [Sébastien GRAZIDE]
+## Pour l'avocat — Accident main 29 mai 2026 — Victime : Sébastien GRAZIDE
 
 <hr><hr>
 
@@ -26,7 +26,7 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 | **C. pén. art. 121-3** | Principe de la responsabilité pénale — faute simple suffit (imprudence, négligence, manquement obligation sécurité) |
 | **C. pén. art. 223-1** | Mise en danger délibérée d'autrui — bac déjà brisé maintenu en service dans un ERP (condition : violation délibérée d'une obligation de sécurité) |
 
-**Cibles :** [Ayoub BENNOURINE] (tél. [**[Le Téléphone du Préposé]**] (manœuvre dangereuse) + [**[L'Exploitant du Commerce]**] (matériel dangereux maintenu en service)
+**Cibles :** Ayoub BENNOURINE (tél. 07 58 40 12 87 (manœuvre dangereuse) + SAS LES MAUVAIS GARCONS (matériel dangereux maintenu en service)
 
 <hr><hr>
 
@@ -35,10 +35,10 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 | Article | Usage |
 |---------|-------|
 | **C. civ. art. 1242 al. 1** | Responsabilité du fait des choses sous garde — présomption de responsabilité du gardien (bac à shampoing = instrument du dommage) — arrêts fondateurs (Cass. ass. plén. 9 mai 1984 - arrêt Desmares ; ch. mixte 28 mars 1997) |
-| **C. civ. art. 1242 al. 5** | Responsabilité du commettant du fait de ses préposés — [**[L'Exploitant du Commerce]**] responsable des fautes du coiffeur |
+| **C. civ. art. 1242 al. 5** | Responsabilité du commettant du fait de ses préposés — SAS LES MAUVAIS GARCONS responsable des fautes du coiffeur |
 | **C. civ. art. 1240** | Principe général de responsabilité pour faute |
 
-**Gardien identifié :** [**[L'Exploitant du Commerce]**] (SAS) — exploitant au 29/05/2026
+**Gardien identifié :** SAS LES MAUVAIS GARCONS (SAS) — exploitant au 29/05/2026
 
 <hr><hr>
 
@@ -50,7 +50,7 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 | **Cass. Com. 20 mai 2003 n°99-17.092 (arrêt SATI)** | Principe : faute intentionnelle d'une particulière gravité = faute détachable. Peut constituer une application en cas d'assurance légalement obligatoire. |
 | **C. com. art. L.210-6, L.237-2** | Responsabilité en cas de manquement, dissolution |
 
-**Cibles :** [Catherine ANDISSAC] (DG commune aux 2 sociétés), [Sabir MOUNTASSER] (président [**[L'Exploitant du Commerce]**]
+**Cibles :** Catherine SORROCHE, dite ANDISSAC (DG commune aux 2 sociétés), Hamza El Hachemi BERGUIGA (président SAS LES MAUVAIS GARCONS
 
 <hr><hr>
 
@@ -87,6 +87,6 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 
 | Point | Usage |
 |-------|-------|
-| **Lien de subordination** | Le paiement de 15 € via Wero effectué par [**[Prénom de la Victime]**](../../../Memory/TOKEN%20MAP.md%23personnes-physiques) le 29/05/2026 à 15h20 au profit d'[Ayoub BENNOURINE](../../../Memory/TOKEN%20MAP.md%23personnes-physiques) atteste de la relation de préposition et de subordination entre le coiffeur (salarié encaisseur) et la société exploitante. |
-| **Preuve de présence** | La transaction Wero est une preuve matérielle, infalsifiable et horodatée de la présence physique de [**[Prénom de la Victime]**](../../../Memory/TOKEN%20MAP.md%23personnes-physiques) au salon de coiffure immédiatement avant la survenue de l'accident. |
+| **Lien de subordination** | Le paiement de 15 € via Wero effectué par [Sébastien](../../../Memory/TOKEN%20MAP.md%23personnes-physiques) le 29/05/2026 à 15h20 au profit d'[Ayoub BENNOURINE](../../../Memory/TOKEN%20MAP.md%23personnes-physiques) atteste de la relation de préposition et de subordination entre le coiffeur (salarié encaisseur) et la société exploitante. |
+| **Preuve de présence** | La transaction Wero est une preuve matérielle, infalsifiable et horodatée de la présence physique de [Sébastien](../../../Memory/TOKEN%20MAP.md%23personnes-physiques) au salon de coiffure immédiatement avant la survenue de l'accident. |
 | **Tiers détenteur (Wero)** | Wero détient en tant que Prestataire de Services de Paiement (PSP) des données KYC de l'utilisateur bénéficiaire ainsi que des logs de connexion. Ces éléments pourront être sollicités par voie de réquisition pénale ou sur le fondement de l'art. 145 du CPC. |

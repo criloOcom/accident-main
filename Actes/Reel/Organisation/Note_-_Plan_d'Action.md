@@ -1,7 +1,7 @@
 ---
 uid: 63SGeXbkc
 title: "Plan d'Action et Chronologie de la Procédure"
-description: "Rédigé le **[J+32 Assignation référé]"
+description: "Rédigé le **30 juin 2026"
 type: readme
 date: 2026-06-30
 tags:
@@ -21,14 +21,14 @@ jx: J+32
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # PLAN D'ACTION ET CHRONOLOGIE DE LA PROCÉDURE
 > 🔗 Source Google Drive : [153cOANMpw-O…](https://drive.google.com/open?id=153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s)
 Rédigé le 30 juin 2026
 ## I — INTRODUCTION
 
-Le présent plan d'action et chronologie de la procédure a été établi par Sébastien GRAZIDE afin de structurer et de piloter l'ensemble des démarches juridiques entreprises à la suite de l'accident corporel du 29 mai 2026. Ce document de travail récapitule les étapes procédurales déjà accomplies, les actions prioritaires à engager et les échéances à respecter dans le cadre du contentieux opposant Sébastien GRAZIDE à SAS LES MAUVAIS GARCONS. Il constitue un outil de pilotage et de suivi permettant d'assurer la coordination efficace de la stratégie contentieuse et le respect des délais de procédure.
+Le présent plan d'action et chronologie de la procédure a été établi par Sébastien GRAZIDE afin de structurer et de piloter l'ensemble des démarches juridiques entreprises à la suite de l'accident corporel du 29 mai 2026. Ce document de travail récapitule les étapes procédurales déjà accomplies, les actions prioritaires à engager et les échéances à respecter dans le cadre du contentieux opposant Sébastien GRAZIDE à SAS HB BARBER. Il constitue un outil de pilotage et de suivi permettant d'assurer la coordination efficace de la stratégie contentieuse et le respect des délais de procédure.
 
 <hr><hr>
 
@@ -62,7 +62,7 @@ Le présent plan d'action et chronologie de la procédure a été établi par S�
 
 ## III — ACTIONS URGENTES ET PHASE AMIABLE (JUIN 2026)
 
-La première étape consiste en l'envoi de mises en demeure par lettre recommandée avec accusé de réception (LRAR) à SAS LES MAUVAIS GARCONS et à ses dirigeants.
+La première étape consiste en l'envoi de mises en demeure par lettre recommandée avec accusé de réception (LRAR) à SAS HB BARBER et à ses dirigeants.
 
 Ces courriers, expédiés le 29 juin 2026, visent à obtenir les coordonnées de l'assurance responsabilité civile professionnelle, étape préalable obligatoire avant toute action au fond.
 
@@ -139,7 +139,7 @@ Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel
 ## IX — CONTACTS ET ANNUAIRES
 <hr><hr>
 
-## X — AUTORITÉS JUDICIAIRES ET POLICIÈRES À **[LA VILLE DE L'ACCIDENT]**
+## X — AUTORITÉS JUDICIAIRES ET POLICIÈRES À Foix
 
 - Tribunal Judiciaire : **Adresse Tribunal Judiciaire** (**Téléphone Tribunal Judiciaire**) / Commissariat : **[Adresse Commissariat]** (**Téléphone Commissariat**).
 <hr><hr>

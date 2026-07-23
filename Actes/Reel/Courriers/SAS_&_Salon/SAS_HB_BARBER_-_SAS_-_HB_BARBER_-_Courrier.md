@@ -18,7 +18,7 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - SAS - HB BARBER -
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # LETTRE RECOMMANDÉE — SAS HB BARBER (SIÈGE SOCIAL)
 > 🔗 Source Google Drive : [20260718 ✉️ LRAR SAS HB BARBER (Societe)](https://docs.google.com/document/d/1mcrXdWAJM2TPbyp03NnhJeTCaKDp4b2WfuTUPtdBk-I/edit?usp=sharing)
@@ -32,7 +32,7 @@ SIREN : 500 474 457
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-Direction de [SAS LES MAUVAIS GARCONS]
+Direction de SAS HB BARBER
 
 22 Rue Lafaurie, 09000 Foix
 <!-- /Destinataire -->
@@ -67,18 +67,18 @@ Je vous informe officiellement de l’accident corporel grave dont j’ai été 
 
 Lors de ma venue pour une retouche de coupe de cheveux, le basculement accidentel d’un bac à shampoing défectueux a provoqué une coupure profonde de 8,5 cm au niveau de ma main droite dominante (index droit), avec section tendineuse et nerveuse. 
 
-Le jour même, j’ai été pris en charge en urgence au [Centre Ariégeois de Soins Immédiats], [**[L'Adresse du Centre de soins immédiats]**], par le Dr Dr Julie JARDON (RPPS [**[Le RPPS du Médecin en Urgence]**]), qui a constaté une plaie palmaire droite profonde, réalisé les [premiers soins](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (lavage, désinfection, exploration sous anesthésie locale) et m’a réorienté en urgence vers le service spécialisé « SOS Main » de Clinique de l'Union pour une exploration chirurgicale le lendemain matin.
+Le jour même, j’ai été pris en charge en urgence au Centre Ariégeois de Soins Immédiats, Foix, par le Dr Dr Julie JARDON (RPPS 10107654321), qui a constaté une plaie palmaire droite profonde, réalisé les [premiers soins](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (lavage, désinfection, exploration sous anesthésie locale) et m’a réorienté en urgence vers le service spécialisé « SOS Main » de Clinique de l'Union pour une exploration chirurgicale le lendemain matin.
 
 Le 30 mai 2026, j’ai été opéré par le Dr Dr Iskander DJERBI dans ce service de chirurgie de la main (suture tendineuse, suture microchirurgicale des nerfs et vaisseaux, neurolyse, sutures cutanées), comme l’attestent les comptes-rendus opératoires.
 
-Exerçant une activité d’informaticien indépendant (SIREN 500 474 457), cette incapacité m’empêche d’exercer normalement mon travail et me place dans une situation financière très fragile. Un recours contre tiers a été ouvert par la CPAM sous la référence [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**].
+Exerçant une activité d’informaticien indépendant (SIREN 500 474 457), cette incapacité m’empêche d’exercer normalement mon travail et me place dans une situation financière très fragile. Un recours contre tiers a été ouvert par la CPAM sous la référence [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md).
 <hr><hr>
 
 ## III — EXCUSES SUR LE DÉLAI ET IDENTIFICATION RÉCENTE DE VOTRE SOCIÉTÉ
 
 Je tiens à m’excuser du délai écoulé avant de vous contacter.
 
-Votre société [SAS LES MAUVAIS GARCONS] étant de constitution très récente au moment des faits (début d’activité au 22 avril 2026 et immatriculation au Registre national des entreprises le 19 mai 2026, soit quelques jours seulement avant l’accident), les délais habituels de publication et d’indexation sur les registres officiels (RNE / INPI / SIRENE) ont rendu difficile, dans un premier temps, l’identification de l’exploitant réel des locaux au 29 mai 2026.
+Votre société SAS HB BARBER étant de constitution très récente au moment des faits (début d’activité au 22 avril 2026 et immatriculation au Registre national des entreprises le 19 mai 2026, soit quelques jours seulement avant l’accident), les délais habituels de publication et d’indexation sur les registres officiels (RNE / INPI / SIRENE) ont rendu difficile, dans un premier temps, l’identification de l’exploitant réel des locaux au 29 mai 2026.
 
 Ce n’est qu’après réception des informations officielles communiquées par le bailleur et vérification des données d'immatriculation que j’ai pu vous identifier clairement comme l'exploitant en titre des locaux au jour du sinistre.
 <hr><hr>
@@ -93,7 +93,7 @@ En France, lorsqu’un client est victime d’un accident dans un commerce, le r
 
 - coopérer de bonne foi avec ces organismes et, si nécessaire, avec la police ou la justice, en donnant des informations exactes sur les circonstances de l’accident.
 
-Dans mon cas, malgré la gravité des blessures, la prise en charge en urgence à Foix puis l’intervention chirurgicale spécialisée sur la main, je n’ai reçu à ce jour aucune information de la part de la SAS [SAS LES MAUVAIS GARCONS] sur votre assureur ni sur les déclarations qui auraient été faites, ce qui bloque le travail des assurances et complique inutilement une situation déjà très difficile pour moi.
+Dans mon cas, malgré la gravité des blessures, la prise en charge en urgence à Foix puis l’intervention chirurgicale spécialisée sur la main, je n’ai reçu à ce jour aucune information de la part de la SAS SAS HB BARBER sur votre assureur ni sur les déclarations qui auraient été faites, ce qui bloque le travail des assurances et complique inutilement une situation déjà très difficile pour moi.
 
 Lors de ma venue à Foix le 16 juillet 2026, pour essayer d’obtenir calmement ces informations directement sur place, j’ai été confronté à une situation très déroutante :
 
@@ -110,7 +110,7 @@ Quelle que soit l’interprétation que vous faites aujourd’hui de l’acciden
 
 ## V — CE QUE JE VOUS DEMANDE CONCRÈTEMENT
 
-Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]), je vous remercie de bien vouloir me transmettre, dans un délai de **quinze (15) jours** à compter de la réception de la présente :
+Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)), je vous remercie de bien vouloir me transmettre, dans un délai de **quinze (15) jours** à compter de la réception de la présente :
 
 1. Le nom et les coordonnées complètes de votre **assureur de responsabilité civile professionnelle** couvrant l’activité de votre établissement au 29 mai 2026 ;
 
@@ -151,7 +151,7 @@ Téléphone : 06 30 51 67 75
 
 - **[Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Intervention chirurgicale d'urgence SOS Main du 30 mai 2026
 
-- **[Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Accusé de dépôt du recours tiers CPAM (n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**])
+- **[Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Accusé de dépôt du recours tiers CPAM (n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md))
 <!-- /PJ -->
 
 <!-- Source -->

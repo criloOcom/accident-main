@@ -42,30 +42,30 @@ jx: J+38
 **Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants**
 
 <!-- Auteur -->
-[10 Avenue de Purpan, 31700 Blagnac]
+10 Avenue de Purpan, 31700 Blagnac
 
-[sebastien.grazide@gmail.com]
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
 A l'attention de Monsieur le Doyen des Juges d'Instruction
 
-Tribunal Judiciaire de [Foix]
+Tribunal Judiciaire de Foix
 <!-- /Destinataire -->
 
-[Blagnac], le **[6 juillet 2026]
+Blagnac, le **6 juillet 2026
 ## I — INTRODUCTION
 
-La presente [**[constitution de partie civile]**](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) est formee par [Sébastien GRAZIDE] dans le cadre de la procedure penale suivie a l'encontre de la SAS [SAS LES MAUVAIS GARCONS], de son President [Sabir MOUNTASSER] et de sa Directrice Generale [Catherine ANDISSAC], en application des articles 2 et suivants du Code de procedure penale.
+La presente [**[constitution de partie civile]**](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) est formee par Sébastien GRAZIDE dans le cadre de la procedure penale suivie a l'encontre de la SAS SAS HB BARBER, de son President Hamza El Hachemi BERGUIGA et de sa Directrice Generale Catherine SORROCHE, dite ANDISSAC, en application des articles 2 et suivants du Code de procedure penale.
 
-Par cet acte, la victime entend exercer les droits reconnus a la partie civile afin d'obtenir la reparation de l'integralite des prejudices corporels, materiels et moraux decoulant de l'accident survenu le [29 mai 2026] au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS].
+Par cet acte, la victime entend exercer les droits reconnus a la partie civile afin d'obtenir la reparation de l'integralite des prejudices corporels, materiels et moraux decoulant de l'accident survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS HB BARBER.
 <hr><hr>
 
 ## II — EXPOSE DES FAITS
 
-Le [29 mai 2026], alors que [Sébastien GRAZIDE] se trouvait en qualite de client au sein du salon de coiffure exploite par la SAS [SAS LES MAUVAIS GARCONS] sis **[22 Rue Lafaurie, 09000 Foix], un grave accident corporel est survenu.
+Le 29 mai 2026, alors que Sébastien GRAZIDE se trouvait en qualite de client au sein du salon de coiffure exploite par la SAS SAS HB BARBER sis **22 Rue Lafaurie, 09000 Foix, un grave accident corporel est survenu.
 
-Le prepose de l'exploitation, [Ayoub BENNOURINE] (tel : [**[Le Telephone du Prepose]**]), a escalade la vasque en ceramique du bac a shampoing pour acceder au poste de television. Cet equipement, instable et presentant une cassure majeure preexistante non signalee aux aretes tranchantes, a bascule sous son poids. Par reflexe, **[Sébastien GRAZIDE] a tendu la main droite pour proteger le prepose ; sa paume a heurte la cassure tranchante, provoquant :
+Le prepose de l'exploitation, Ayoub BENNOURINE (tel : 07 58 40 12 87), a escalade la vasque en ceramique du bac a shampoing pour acceder au poste de television. Cet equipement, instable et presentant une cassure majeure preexistante non signalee aux aretes tranchantes, a bascule sous son poids. Par reflexe, **Sébastien GRAZIDE a tendu la main droite pour proteger le prepose ; sa paume a heurte la cassure tranchante, provoquant :
 
 - Une **section complete du tendon flechisseur profond (FDP)** de l'index droit en zone II de Verdan
 
@@ -79,13 +79,13 @@ Le prepose de l'exploitation, [Ayoub BENNOURINE] (tel : [**[Le Telephone du Prep
 
 - Un [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de **55 jours** (du 29 mai au 23 juillet 2026)
 
-Une microchirurgie d'urgence a ete pratiquee le [30 mai 2026] par [Dr Iskander DJERBI] au centre SOS Main de [Foix]. L'etat de la victime a ete declare **consolide au 1er mars 2027** par l'expert judiciaire designe par ordonnance de refere du 31 juillet 2026, conformément au rapport d'expertise depose le 12 juin 2027.
+Une microchirurgie d'urgence a ete pratiquee le 30 mai 2026 par Dr Iskander DJERBI au centre SOS Main de Foix. L'etat de la victime a ete declare **consolide au 1er mars 2027** par l'expert judiciaire designe par ordonnance de refere du 31 juillet 2026, conformément au rapport d'expertise depose le 12 juin 2027.
 
 ### II.1 — ANTECEDENTS ET CARENCES DES MIS EN CAUSE
 
-La SAS [SAS LES MAUVAIS GARCONS], immatriculee au RCS sous le SIREN **[938 033 222], a ete constituee avec un capital social de 200 € seulement. Son President, [Sabir MOUNTASSER], et sa Directrice Generale, [Catherine ANDISSAC], n'ont souscrit aucune assurance de responsabilite civile professionnelle pour l'exploitation du salon, en violation des obligations legales et reglementaires applicables aux etablissements recevant du public (ERP).
+La SAS SAS HB BARBER, immatriculee au RCS sous le SIREN **104 103 262, a ete constituee avec un capital social de 200 € seulement. Son President, Hamza El Hachemi BERGUIGA, et sa Directrice Generale, Catherine SORROCHE, dite ANDISSAC, n'ont souscrit aucune assurance de responsabilite civile professionnelle pour l'exploitation du salon, en violation des obligations legales et reglementaires applicables aux etablissements recevant du public (ERP).
 
-Malgre des mises en demeure recommandees adressees le [29 juin 2026] a la SAS, au President et a la Directrice Generale, aucun des mis en cause n'a communique les coordonnees d'un assureur, laissant presumer une absence totale de couverture.
+Malgre des mises en demeure recommandees adressees le 29 juin 2026 a la SAS, au President et a la Directrice Generale, aucun des mis en cause n'a communique les coordonnees d'un assureur, laissant presumer une absence totale de couverture.
 <hr><hr>
 
 ## III — FONDEMENTS JURIDIQUES
@@ -178,7 +178,7 @@ En l'absence d'assurance, l'indemnisation de la victime est gravement compromise
 
 ## IV — PREJUDICES
 
-Les prejudices subis par [Sébastien GRAZIDE], evalues par expertise judiciaire (rapport depose le 12 juin 2027, consolidation au 1er mars 2027), sont les suivants :
+Les prejudices subis par Sébastien GRAZIDE, evalues par expertise judiciaire (rapport depose le 12 juin 2027, consolidation au 1er mars 2027), sont les suivants :
 
 | Categorie | Poste de prejudice | Evaluation expertise | Observations |
 |-----------|-------------------|---------------------|--------------|
@@ -199,15 +199,15 @@ Les prejudices subis par [Sébastien GRAZIDE], evalues par expertise judiciaire 
 
 ## V — DEMANDES
 
-Par ces motifs, [Sébastien GRAZIDE] sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction de :
+Par ces motifs, Sébastien GRAZIDE sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction de :
 
 1. **DECLARER** recevable la presente [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) ;
 
 2. **PRENDRE ACTE** du depot du rapport d'expertise medicale judiciaire en date du 12 juin 2027, ayant fixe la consolidation au 1er mars 2027, le DFP a 12 % et les souffrances endurees a 4/7 ;
 
-3. **ACCORDER** a [Sébastien GRAZIDE] une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS [SAS LES MAUVAIS GARCONS], de [Sabir MOUNTASSER] et de [Catherine ANDISSAC] ;
+3. **ACCORDER** a Sébastien GRAZIDE une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS SAS HB BARBER, de Hamza El Hachemi BERGUIGA et de Catherine SORROCHE, dite ANDISSAC ;
 
-4. **CONDAMNER IN SOLIDUM** la SAS [SAS LES MAUVAIS GARCONS], [Sabir MOUNTASSER] et [Catherine ANDISSAC] a payer a **[Sébastien GRAZIDE] la somme de [3 000 €] sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens.
+4. **CONDAMNER IN SOLIDUM** la SAS SAS HB BARBER, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC a payer a **Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens.
 
 > *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
 > [Article 475-1 du Code de procédure pénale](../../../../Lois/Code/Code_procédure_pénale/Article475-1_CodeProcedurePenale.md) <br>
@@ -231,52 +231,52 @@ Vu les articles 706-3 et 706-14 du Code de procedure penale,
 Vu la jurisprudence de la Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092 (arret SATI),
 Vu les pieces versees aux debats,
 
-[Sébastien GRAZIDE] se constitue partie civile et sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction, ou a tout magistrat compose le Tribunal Judiciaire de [Foix], de :
+Sébastien GRAZIDE se constitue partie civile et sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction, ou a tout magistrat compose le Tribunal Judiciaire de Foix, de :
 
 1. **RECEVOIR** la presente [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) ;
 
 2. **PRENDRE ACTE** du depot du rapport d'expertise medicale judiciaire en date du 12 juin 2027 (consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure) ;
 
-3. **CONDAMNER IN SOLIDUM** la SAS [SAS LES MAUVAIS GARCONS], [Sabir MOUNTASSER] et [Catherine ANDISSAC] a verser a **[Sébastien GRAZIDE] une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices ;
+3. **CONDAMNER IN SOLIDUM** la SAS SAS HB BARBER, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC a verser a **Sébastien GRAZIDE une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices ;
 
-4. **CONDAMNER IN SOLIDUM** la SAS [SAS LES MAUVAIS GARCONS], [Sabir MOUNTASSER] et [Catherine ANDISSAC] a payer a **[Sébastien GRAZIDE] la somme de [3 000 €] sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens ;
+4. **CONDAMNER IN SOLIDUM** la SAS SAS HB BARBER, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC a payer a **Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens ;
 
 > *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
 
 5. **FIXER** la provision definitives sur dommages et interets a hauteur du prejudice extra-patrimonial constate par l'expert (49 231 €), et **SE RESERVER** la liquidation definitive de l'astreinte et des postes patrimoniaux (PGPF, DSA) sur production des justificatifs CPAM.
 
-Fait a [Blagnac], le **[6 juillet 2026]
+Fait a Blagnac, le **6 juillet 2026
 
-[Sébastien GRAZIDE]
+Sébastien GRAZIDE
 <hr><hr>
 
 ## BORDEREAU DE PIÈCES ANNEXÉES
 
-1. Procès-verbal de police n° [2026/015967] — dépôt de plainte pour blessures involontaires
+1. Procès-verbal de police n° 2026/015967 — dépôt de plainte pour blessures involontaires
 
-2. [**[Certificat médical initial]**](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) de constatation des blessures rédigé par [Dr Julie JARDON] ([29 mai 2026])
+2. [**[Certificat médical initial]**](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) de constatation des blessures rédigé par Dr Julie JARDON (29 mai 2026)
 
-3. [**[Compte-rendu opératoire]**](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie d'urgence (suture nerveuse et tendineuse) rédigé par [Dr Iskander DJERBI] ([30 mai 2026])
+3. [**[Compte-rendu opératoire]**](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie d'urgence (suture nerveuse et tendineuse) rédigé par Dr Iskander DJERBI (30 mai 2026)
 
 4. Certificats médicaux d'[arrêts de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 55 jours d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total
 
 5. Réquisition judiciaire UMJ et retranscription téléphonique de prise de rendez-vous
 
-6. Preuves de l'opération de paiement Wero de [15,00 €] (**[29 mai 2026]) démontrant la présence dans les lieux
+6. Preuves de l'opération de paiement Wero de 15,00 € (**29 mai 2026) démontrant la présence dans les lieux
 
-7. Facture de pharmacie post-opératoire ([29 mai 2026])
+7. Facture de pharmacie post-opératoire (29 mai 2026)
 
-8. Facture de chirurgie SOS Main ([790,23 €]) (**[10 juin 2026])
+8. Facture de chirurgie SOS Main (790,23 €) (**10 juin 2026)
 
 9. Dossier de Recours Contre Tiers (RCT) CPAM
 
-10. LRAR de mise en demeure adressée à [SAS LES MAUVAIS GARCONS] (**[29 juin 2026])
+10. LRAR de mise en demeure adressée à SAS HB BARBER (**29 juin 2026)
 
-11. LRAR de mise en demeure adressée à [Sabir MOUNTASSER] ([29 juin 2026])
+11. LRAR de mise en demeure adressée à Hamza El Hachemi BERGUIGA (29 juin 2026)
 
-12. LRAR de mise en demeure adressée à [Catherine ANDISSAC] ([29 juin 2026])
+12. LRAR de mise en demeure adressée à Catherine SORROCHE, dite ANDISSAC (29 juin 2026)
 
-13. LRAR adressée à [Romain DELRIEU] et son AR signé ([3 juillet 2026])
+13. LRAR adressée à Romain DELRIEU et son AR signé (3 juillet 2026)
 
 14. Rapport d'expertise médicale judiciaire du 12 juin 2027 — consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure
 <!-- Source -->
@@ -315,7 +315,7 @@ Les fondements juridiques (Section II) restent inchangés — le rapport d'exper
 
 - Provision : 15 000 € (inchangée, cohérente avec le total extra-patrimonial de 49 231 €)
 
-- Article 475-1 CPP : montant à définir via le token [3 000 €] (remplacé par [3 000 €] dans la nomenclature pénale)
+- Article 475-1 CPP : montant à définir via le token 3 000 € (remplacé par 3 000 € dans la nomenclature pénale)
 
 **Documents liés :**
 - Rapport d'expertise médicale : [`20270529_Rapport_Expertise_Médicale.md`](../../Preuves_officielles/20270529_Rapport_Expertise_Médicale.md)

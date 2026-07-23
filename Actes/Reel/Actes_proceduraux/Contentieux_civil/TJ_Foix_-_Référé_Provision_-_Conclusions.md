@@ -32,7 +32,7 @@ jx: J+39
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [SAS LES MAUVAIS GARCONS] au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # AU JUGE DES RÉFÉRÉS DU TRIBUNAL JUDICIAIRE
 
@@ -43,7 +43,7 @@ jx: J+39
 <!-- Auteur -->
 **POUR :**
 
-[Sébastien GRAZIDE], né le [**[Date de naissance de la Victime]**], de nationalité française, demeurant au **[10 Avenue de Purpan, 31700 Blagnac], exerçant la profession d'informaticien indépendant.
+Sébastien GRAZIDE, né le **[Date de naissance de la Victime]**, de nationalité française, demeurant au **10 Avenue de Purpan, 31700 Blagnac, exerçant la profession d'informaticien indépendant.
 
 *Demandeur*
 <!-- /Auteur -->
@@ -51,18 +51,18 @@ jx: J+39
 <!-- Destinataire -->
 **CONTRE :**
 
-[SAS LES MAUVAIS GARCONS], Société par Actions Simplifiée, immatriculée au RCS de [Foix] sous le numéro SIRET [938 033 222 00010], ayant son siège social au [22 Rue Lafaurie, 09000 Foix], représentée par ses co-dirigeants [Sabir MOUNTASSER] et [Catherine ANDISSAC].
+SAS HB BARBER, Société par Actions Simplifiée, immatriculée au RCS de Foix sous le numéro SIRET 104 103 262 00010, ayant son siège social au 22 Rue Lafaurie, 09000 Foix, représentée par ses co-dirigeants Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC.
 
 *Défenderesse*
 <!-- /Destinataire -->
 ## I — EXPOSÉ DU LITIGE
 ### I.1 — LE SINISTRE ET SES CONSÉQUENCES MATÉRIELLES
 
-Le **29 mai 2026**, aux environs de 15 heures, [Sébastien GRAZIDE], informaticien indépendant âgé de [**[Âge de la Victime]**], se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
+Le **29 mai 2026**, aux environs de 15 heures, Sébastien GRAZIDE, informaticien indépendant âgé de 44 ans, se trouvait en qualité de client dans le salon de coiffure exploité par la société défenderesse.
 
 Le coiffeur préposé de la défenderesse, dans l'exercice de ses fonctions et agissant par nécessité de service, est monté sur la vasque en céramique d'un bac à shampoing installé à demeure pour régler un poste de télévision, **faute d'avoir à sa disposition un équipement d'accès en hauteur** (escabeau, échelle ou marchepied).
 
-Au cours de cette manipulation, la vasque a **basculé** brutalement et s'est brisée. Par réflexe de protection, [Sébastien GRAZIDE] a tendu sa main droite — sa main dominante — pour protéger le préposé.
+Au cours de cette manipulation, la vasque a **basculé** brutalement et s'est brisée. Par réflexe de protection, Sébastien GRAZIDE a tendu sa main droite — sa main dominante — pour protéger le préposé.
 
 Sa paume a heurté violemment le flanc de la vasque qui présentait depuis une date indéterminée une **cassure majeure préexistante**, non signalée, aux arêtes extrêmement tranchantes.
 
@@ -82,7 +82,7 @@ Une intervention chirurgicale a été réalisée en urgence le 30 mai 2026 par u
 Le paiement électronique (Wero) de 15,00 € effectué par la victime au salon le jour même, puis remboursé par le salon postérieurement à l'accident, constitue une preuve irréfutable de la présence de la victime et de la relation contractuelle.
 
 #### I.2.b — Le procès-verbal de police
-Le commissariat de police a dressé le procès-verbal n°[2026/015967] qui confirme le basculement de la vasque. Ce procès-verbal constitue une pièce décisive établissant le mécanisme de l'accident.
+Le commissariat de police a dressé le procès-verbal n°2026/015967 qui confirme le basculement de la vasque. Ce procès-verbal constitue une pièce décisive établissant le mécanisme de l'accident.
 
 #### I.2.c — Le constat d'huissier
 Par l'intermédiaire d'un huissier de justice, il a été constaté la présence d'une **cassure majeure préexistante** sur la vasque, présentant des arêtes tranchantes constituant un danger manifeste pour toute personne se trouvant à proximité. Ce vice de la chose était **indécelable de l'extérieur** et n'avait fait l'objet d'aucune signalisation.
@@ -112,7 +112,7 @@ Elle caractérise une faute de l'exploitant au sens de l'article 1240 du Code ci
 
 Au sens de l'article 1242 alinéa 1er du Code civil, « on est responsable […] du dommage […] causé […] par le fait des choses que l'on a sous sa garde ». La société défenderesse est gardienne de la vasque en céramique installée dans son salon.
 
-Le **basculement brutal** de cette chose a été l'**instrument actif** du dommage subi par la victime. Ce basculement est établi par le procès-verbal de police n°[2026/015967].
+Le **basculement brutal** de cette chose a été l'**instrument actif** du dommage subi par la victime. Ce basculement est établi par le procès-verbal de police n°2026/015967.
 
 La Cour de cassation, dans un arrêt de principe, a retenu qu'une échelle installée par un préposé qui bascule et blesse un tiers engage la responsabilité du gardien, qui ne peut s'exonérer qu'en prouvant une cause étrangère (force majeure, faute de la victime, fait d'un tiers).
 
@@ -167,7 +167,7 @@ Le demandeur subit des pertes financières immédiates du fait de son [arrêt de
 
 **EN CONSÉQUENCE**, il est demandé au juge des référés :
 
-S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'évaluation indemnitaire barémique Dintilhac du 13 juillet 2026 (pièce n° 44). Ce rapport, établi sur la base de la situation réelle de [Sébastien GRAZIDE] (informaticien indépendant, 9 000 € de revenus annuels, atteinte de la main droite dominante, 55 jours d'interruption d'activité), retient deux hypothèses de déficit fonctionnel permanent (10 % et 15 %) et chiffre le préjudice global en droit commun, avant imputation du recours de la CPAM, à environ 126 000 € dans le scénario prudent et 161 500 € dans le scénario médian. La provision sollicitée à hauteur de **15 000 €** s'inscrit ainsi très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.
+S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'évaluation indemnitaire barémique Dintilhac du 13 juillet 2026 (pièce n° 44). Ce rapport, établi sur la base de la situation réelle de Sébastien GRAZIDE (informaticien indépendant, 9 000 € de revenus annuels, atteinte de la main droite dominante, 55 jours d'interruption d'activité), retient deux hypothèses de déficit fonctionnel permanent (10 % et 15 %) et chiffre le préjudice global en droit commun, avant imputation du recours de la CPAM, à environ 126 000 € dans le scénario prudent et 161 500 € dans le scénario médian. La provision sollicitée à hauteur de **15 000 €** s'inscrit ainsi très largement en-deçà de l'indemnisation finale prévisible, ce qui la rend parfaitement proportionnée et même prudente au regard de la gravité du dommage.
 
 **PRINCIPALEMENT,**
 
@@ -205,7 +205,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 **[Ville]**, le **[date]**
 
-[Sébastien GRAZIDE]
+Sébastien GRAZIDE
 <!-- PJ -->
 <hr><hr>
 

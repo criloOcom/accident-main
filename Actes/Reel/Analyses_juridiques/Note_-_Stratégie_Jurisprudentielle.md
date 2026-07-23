@@ -130,7 +130,7 @@ Voir détails : [Note - Évaluation Dintilhac Consolidée.md](../../Reel/Etudes_
 
 1. **Assureur RC** (si identifié) → action directe L.124-3 C. Assurances
 
-2. **FGTI/CIVI** → voie principale si insolvabilité ([**[Capital Social de l'Exploitation]**]. Art. 706-3 CPP.
+2. **FGTI/CIVI** → voie principale si insolvabilité (1 000 €. Art. 706-3 CPP.
 
 3. **Dirigeants** → faute détachable (subsidiaire)
 
@@ -162,4 +162,4 @@ Fondement : art. 835 al.2 CPC — obligation non sérieusement contestable.
 
 - Validation ordalie : ~~20260707 Validation juridique ordalie.md — supprimé (RGPD)~~
 
-- Preuves : PV police n°[2026/015967] (basculement), constat huissier (cassure préexistante)
+- Preuves : PV police n°2026/015967 (basculement), constat huissier (cassure préexistante)

@@ -29,7 +29,7 @@ jx: J+37
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # SIGNALEMENT OFFICIEL <br> AU COMITÉ DÉPARTEMENTAL ANTI-FRAUDE DE L'ARIÈGE
 > 🔗 Source Google Drive : [1Lva-hW9g9d6…](https://drive.google.com/open?id=1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY)
@@ -58,7 +58,7 @@ Blagnac, le 5 juillet 2026
 
 <hr><hr>
 
-**Objet : Signalement officiel de manquements et demandes d'enquête (travail dissimulé présumé et manquements sociaux) — SAS [SAS LES MAUVAIS GARCONS]**
+**Objet : Signalement officiel de manquements et demandes d'enquête (travail dissimulé présumé et manquements sociaux) — SAS SAS HB BARBER**
 
 <hr><hr>
 
@@ -66,12 +66,12 @@ Blagnac, le 5 juillet 2026
 
 <hr><hr>
 
-Réf : SIREN [938 033 222] — Signalement Mairie de Foix du 1er juin 2026  
+Réf : SIREN 104 103 262 — Signalement Mairie de Foix du 1er juin 2026  
 
 Madame, Monsieur le Président du CODAF,  
 ## I — INTRODUCTION
 
-La présente est adressée au CODAF de l'Ariège par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploité par la SAS [SAS LES MAUVAIS GARCONS], immatriculée sous le SIREN [938 033 222].
+La présente est adressée au CODAF de l'Ariège par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploité par la SAS SAS HB BARBER, immatriculée sous le SIREN 104 103 262.
 
 Cet accident a été causé par la chute brutale du préposé de l'exploitation depuis un bac à shampoing en céramique instable et cassé, sur lequel il avait dû monter pour accéder au poste de télévision, faute d'équipement d'accès adapté (escabeau) mis à disposition par l'employeur.
 
@@ -80,7 +80,7 @@ Sa chute a entraîné sur ma main droite une plaie palmaire profonde avec lésio
 
 ## II — RAPPEL DES FAITS
 
-La SAS [SAS LES MAUVAIS GARCONS] a été immatriculée le 1er juin 2024 avec un capital social de 200 €. Selon les informations publiques disponibles du Registre National des Entreprises, elle déclare ne disposer d'aucun salarié. Pourtant, le 29 mai 2026, un préposé exerçait de manière visible une activité de coiffure continue au sein de l'établissement.
+La SAS SAS HB BARBER a été immatriculée le 1er juin 2024 avec un capital social de 200 €. Selon les informations publiques disponibles du Registre National des Entreprises, elle déclare ne disposer d'aucun salarié. Pourtant, le 29 mai 2026, un préposé exerçait de manière visible une activité de coiffure continue au sein de l'établissement.
 
 L'accident est survenu dans les conditions suivantes :
 - Le préposé est monté sur le bac à shampoing pour accéder au poste de télévision, en l'absence de tout escabeau ou marchepied adapté.
@@ -169,7 +169,7 @@ Sébastien GRAZIDE
 
 - Accusés de réception des courriers recommandés retournés (29 mai 2026 — mentions NPAI)
 
-- [[[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS SAS LES MAUVAIS GARCONS](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) ([938 033 222])
+- [[[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS SAS HB BARBER](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) (104 103 262)
 
 - Dossier médical complet (11 pièces)
 <!-- /PJ -->

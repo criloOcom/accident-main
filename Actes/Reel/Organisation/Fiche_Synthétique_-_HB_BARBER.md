@@ -37,13 +37,13 @@ date: 2026-07-22
 
 - **Président de la SAS** :
 
-  - **Nom & Prénom** : [Sabir MOUNTASSER]
+  - **Nom & Prénom** : Hamza El Hachemi BERGUIGA
   - **Date de naissance** : Juillet 1998
   - **Commune de résidence** : Saint-Girons (09200)
 
 - **Directrice Générale** :
 
-  - **Nom & Prénom** : [Catherine ANDISSAC]
+  - **Nom & Prénom** : Catherine SORROCHE, dite ANDISSAC
   - **Date de naissance** : Avril 1970
   - **Commune de résidence** : Baillargues (34670)
 <hr><hr>
@@ -52,14 +52,14 @@ date: 2026-07-22
 
 1. **Localisation identique** : Exploitation continue du même local commercial d'Établissement Recevant du Public (ERP) situé au 22 Rue Lafaurie à Foix.
 
-2. **Dirigeante commune** : Catherine ANDISSAC occupait simultanément/successivement des fonctions de direction au sein de la SAS LES MAUVAIS GARÇONS (ancienne entité) et de la SAS HB BARBER (nouvelle entité).
+2. **Dirigeante commune** : Catherine SORROCHE, dite ANDISSAC occupait simultanément/successivement des fonctions de direction au sein de la SAS LES MAUVAIS GARÇONS (ancienne entité) et de la SAS HB BARBER (nouvelle entité).
 
 3. **Cessation & Reprise** : Cessation de l'ancienne entité au 10/03/2026 suivie immédiatement de la création et reprise d'activité par HB BARBER au 22/04/2026.
 <hr><hr>
 
 ## IV — CADRE DE VERSEMENT PROCÉDURAL (27/07/2026)
 
-Document versé au **Commissariat de Police de Foix** le 27 juillet 2026 à l'appui du complément de plainte (PV initial n° [2026/015967]) aux fins de :
+Document versé au **Commissariat de Police de Foix** le 27 juillet 2026 à l'appui du complément de plainte (PV initial n° 2026/015967) aux fins de :
 - Fixer formellement l'identité de l'exploitant au jour de l'accident du 29/05/2026.
 
 - Solliciter les vérifications d'usage (réquisition d'attestation d'assurance RC Pro sous l'Art. 77-1-1 CPP).

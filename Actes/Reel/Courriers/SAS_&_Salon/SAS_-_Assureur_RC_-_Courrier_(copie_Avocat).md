@@ -33,7 +33,7 @@ jx: J+50-bis
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MISE EN DEMEURE ASSUREUR RC
 **Action directe — Réserve de droits — Volet pénal expressément réservé**
@@ -53,7 +53,7 @@ Avocat au Barreau de Foix
 À
 
 L'assureur responsabilité civile professionnelle de
-SAS LES MAUVAIS GARCONS
+SAS HB BARBER
 [Adresse à compléter]
 **Service Sinistres**
 <!-- /Destinataire -->
@@ -63,17 +63,17 @@ Fait à Foix, le **[date à compléter]**
 **Lettre recommandée avec accusé de réception**
 
 <hr><hr>
-**Objet :** Mise en demeure — Action directe (art. L. 124-3 C. assur.) — Sinistre corporel du 29 mai 2026 — SAS SAS LES MAUVAIS GARCONS — Expertise médicale consolidée — Réserves expresses
+**Objet :** Mise en demeure — Action directe (art. L. 124-3 C. assur.) — Sinistre corporel du 29 mai 2026 — SAS SAS HB BARBER — Expertise médicale consolidée — Réserves expresses
 <hr><hr>
 
-**Réf. :** Dossier Sébastien GRAZIDE / SAS SAS LES MAUVAIS GARCONS
+**Réf. :** Dossier Sébastien GRAZIDE / SAS SAS HB BARBER
 
 Madame, Monsieur,
 
 J'interviens aux présentes en ma qualité de conseil de Sébastien GRAZIDE]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), sis 22 Rue Lafaurie, 09000 Foix à Foix.
 ## I — RAPPEL DES FAITS ET DE LEUR GRAVITÉ
 
-Le 29 mai 2026, ma cliente se trouvait installée au bac à shampoing lorsque Ayoub BENNOURINE (tél. [**[Le Téléphone du Préposé]**]), salarié de l'établissement, est monté sur la vasque en céramique pour régler un téléviseur, en l'absence de tout équipement adapté (escabeau ou marchepied). Sous son poids, la vasque — instable et fragilisée par une cassure préexistante non signalée — a basculé. Ma cliente a instinctivement tendu sa main droite dominante pour protéger le salarié, heurtant de plein fouet l'arête tranchante de la cassure.
+Le 29 mai 2026, ma cliente se trouvait installée au bac à shampoing lorsque Ayoub BENNOURINE (tél. 07 58 40 12 87), salarié de l'établissement, est monté sur la vasque en céramique pour régler un téléviseur, en l'absence de tout équipement adapté (escabeau ou marchepied). Sous son poids, la vasque — instable et fragilisée par une cassure préexistante non signalée — a basculé. Ma cliente a instinctivement tendu sa main droite dominante pour protéger le salarié, heurtant de plein fouet l'arête tranchante de la cassure.
 
 Cet accident a provoqué une **section complète du tendon fléchisseur profond (FDP) de l'index droit** ainsi qu'une **section du paquet vasculo-nerveux collatéral radial**, nécessitant une intervention de microchirurgie d'urgence le 30 mai 2026. Une seconde intervention de neurolyse du nerf palmaire a été requise en raison des complications cicatricielles.
 
@@ -98,12 +98,12 @@ L'article L. 124-3 du Code des assurances dispose :
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^1]**
 
-Ce texte institue un droit propre de la victime à l'encontre de l'assureur, indépendant des relations contractuelles entre l'assureur et son assuré. Il vous appartient donc, en votre qualité d'assureur potentiel de la SAS SAS LES MAUVAIS GARCONS, de prendre position sans équivoque sur la garantie de ce sinistre.
+Ce texte institue un droit propre de la victime à l'encontre de l'assureur, indépendant des relations contractuelles entre l'assureur et son assuré. Il vous appartient donc, en votre qualité d'assureur potentiel de la SAS SAS HB BARBER, de prendre position sans équivoque sur la garantie de ce sinistre.
 <hr><hr>
 
 ## III — CARENCE DE L'ASSURÉE ET PROCÉDURE PÉNALE EN COURS
 
-Je dois porter à votre connaissance que, malgré des démarches amiables et judiciaires répétées, la SAS SAS LES MAUVAIS GARCONS et ses dirigeants se refusent à communiquer la moindre attestation d'assurance responsabilité civile professionnelle. Ce silence fait obstacle à l'exercice de l'action directe et constitue une entrave caractérisée aux droits de ma cliente.
+Je dois porter à votre connaissance que, malgré des démarches amiables et judiciaires répétées, la SAS SAS HB BARBER et ses dirigeants se refusent à communiquer la moindre attestation d'assurance responsabilité civile professionnelle. Ce silence fait obstacle à l'exercice de l'action directe et constitue une entrave caractérisée aux droits de ma cliente.
 
 Une **information judiciaire** a été ouverte par réquisitoire introductif du Parquet de Foix en date du 15 juillet 2026 ([**J+47**](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md)), des chefs de blessures involontaires et mise en danger d'autrui, avec mission expresse d'investigation sur les conditions d'assurance de la société. Les réquisitions auprès des organismes d'assurance sont en cours.
 
@@ -114,7 +114,7 @@ L'obstruction persistante de l'assurée, conjuguée à l'absence de réponse de 
 
 En conséquence de ce qui précède, je vous mets formellement en demeure, au nom et pour le compte de ma cliente, de :
 
-1. **Confirmer par écrit**, dans un délai impératif de **15 jours** à compter de la réception de la présente, que vous garantissez la responsabilité civile de la SAS SAS LES MAUVAIS GARCONS au titre de l'exploitation du salon de coiffure sis 22 Rue Lafaurie, 09000 Foix, pour la période incluant le 29 mai 2026 ;
+1. **Confirmer par écrit**, dans un délai impératif de **15 jours** à compter de la réception de la présente, que vous garantissez la responsabilité civile de la SAS SAS HB BARBER au titre de l'exploitation du salon de coiffure sis 22 Rue Lafaurie, 09000 Foix, pour la période incluant le 29 mai 2026 ;
 
 2. **Me communiquer**, dans le même délai, **copie intégrale** de la police d'assurance concernée (conditions générales et particulières) comportant :
 
@@ -136,7 +136,7 @@ Sous réserve de tous droits et moyens, y compris pénaux, expressément réserv
 
 - Solliciter la condamnation de votre compagnie aux intérêts au taux légal majoré à compter de la présente mise en demeure, conformément à l'article L. 211-9 du Code des assurances ;
 
-- Demander au juge d'instruction d'étendre les réquisitions pénales aux relations contractuelles entre la SAS SAS LES MAUVAIS GARCONS et votre compagnie ;
+- Demander au juge d'instruction d'étendre les réquisitions pénales aux relations contractuelles entre la SAS SAS HB BARBER et votre compagnie ;
 
 - Engager toute action en responsabilité contre votre compagnie pour manquement à l'obligation de répondre dans le délai légal.
 

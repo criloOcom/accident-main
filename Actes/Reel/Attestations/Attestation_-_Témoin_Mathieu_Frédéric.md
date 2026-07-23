@@ -13,7 +13,7 @@ tags:
 
 - preuve
 statut: recueillie
-auteur: [**[Le Témoin Clé Mathieu]**]
+auteur: [Mathieu FRÉDÉRICK]
 destinataire: Dossier procédure Foix
 reel_path: ../../Reel/Attestations/Attestation - Témoin Mathieu Frédéric.md
 source: drive
@@ -31,14 +31,14 @@ jx: J+50
 
 **Référence :** Pièce n° 5 du bordereau Foix
 **Date de recueil :** 18 juillet 2026
-**Témoin :** **[**[Le Témoin Clé Mathieu]**]** (commerçant, indépendant)
+**Témoin :** **Mathieu FRÉDÉRICK** (commerçant, indépendant)
 **Qualité :** Témoin direct — présent dans son magasin adjacent au salon de coiffure
 ## I. IDENTITÉ DU TÉMOIN
 
 | Champ | Information |
 |-------|-------------|
 | **Civilité** | Monsieur |
-| **Nom de famille** | [**[Le Témoin Clé Mathieu]**] |
+| **Nom de famille** | Mathieu FRÉDÉRICK |
 | **Nom d'usage** | — |
 | **Prénoms** | [**[Prénom Témoin Mathieu]**] |
 | **Date de naissance** | [**[Date Naissance Témoin Mathieu]**] |
@@ -50,19 +50,19 @@ jx: J+50
 
 ## II. FAITS ATTESTÉS (Transcription intégrale)
 
-> **Le 29 mai 2026, suite à un entretien concernant ma formation professionnelle avec [Sébastien GRAZIDE], dans mon magasin, situé 14 rue de lafaurie à Foix, celui-ci est parti se faire couper les cheveux chez le barber shop un peu plus loin que mon établissement.**
+> **Le 29 mai 2026, suite à un entretien concernant ma formation professionnelle avec Sébastien GRAZIDE, dans mon magasin, situé 14 rue de lafaurie à Foix, celui-ci est parti se faire couper les cheveux chez le barber shop un peu plus loin que mon établissement.**
 >
 > **Lorsqu'il est revenu, j'ai constaté un raté et lui ai suggéré d'aller demander une retouche, ce qu'il a fait.**
 >
 > **Il est revenu quelques minutes plus tard la main ensanglantée et j'ai pris la décision d'appeler le 15 pour demander assistance.**
 >
-> **Il était 15H25 (enregistrement sur mon téléphone), le médecin m'a demandé de faire une vidéo et à conseiller à [Sébastien GRAZIDE] d'aller rapidement voir les urgences.**
+> **Il était 15H25 (enregistrement sur mon téléphone), le médecin m'a demandé de faire une vidéo et à conseiller à Sébastien GRAZIDE d'aller rapidement voir les urgences.**
 >
 > **Dans le même temps, puisque nous étions dehors, le coiffeur est venu prendre des nouvelles et a constaté également que le sang coulait beaucoup.**
 >
-> **Au retour de la consultation des médecins, [Sébastien GRAZIDE] m'a indiqué être allé se faire rembourser.**
+> **Au retour de la consultation des médecins, Sébastien GRAZIDE m'a indiqué être allé se faire rembourser.**
 >
-> **Il semble que l'accident se soit produit dans les locaux du coiffeur en raison d'une vasque instable que [Sébastien GRAZIDE] a rattrapé par ce qu'elle tombait, ce que semble ne pas avoir nié le coiffeur.**
+> **Il semble que l'accident se soit produit dans les locaux du coiffeur en raison d'une vasque instable que Sébastien GRAZIDE a rattrapé par ce qu'elle tombait, ce que semble ne pas avoir nié le coiffeur.**
 <hr><hr>
 
 ## III. ANALYSE JURIDIQUE DE LA PREUVE
@@ -74,7 +74,7 @@ jx: J+50
 | **Date** | 29 mai 2026 | 29 mai 2026 | ✅ |
 | **Heure** | ~15h00 | 15h25 (enregistrement téléphone) | ✅ |
 | **Lieu** | 22 Rue Lafaurie, Foix | 14 Rue Lafaurie, Foix (magasin adjacent) | ✅ |
-| **Mécanisme** | Vasque instable, basculement, rattrapage | Vasque instable, [Sébastien GRAZIDE] l'a rattrapée car elle tombait | ✅ |
+| **Mécanisme** | Vasque instable, basculement, rattrapage | Vasque instable, Sébastien GRAZIDE l'a rattrapée car elle tombait | ✅ |
 | **Coiffeur** | Préposé monte sur vasque | Coiffeur présent, n'a pas nié | ✅ |
 | **Blessure** | Main droite, section tendineuse/nerfs, saignement | Main ensanglantée, sang qui coulait beaucoup | ✅ |
 | **Intervention** | SAMU 15, urgence, chirurgie | Appel 15, vidéo médecin, conseil urgence | ✅ |
@@ -113,7 +113,7 @@ jx: J+50
 
 | Document | Action |
 |----------|--------|
-| **📋 Bordereau de Pièces Foix.md** | Ajout pièce n° 5 : "Attestation [**[Le Témoin Clé Mathieu]**] (Cerfa 11527*03)" |
+| **📋 Bordereau de Pièces Foix.md** | Ajout pièce n° 5 : "Attestation Mathieu FRÉDÉRICK (Cerfa 11527*03)" |
 | **📇 Index Général.md** | Ligne attestation Mathieu |
 | **Note%20-%20Changelog%20Juridique.md** | Entrée 18/07/2026 |
 | **STRICT VARIABLES.md** | Variable `N° ATTESTATION MATHIEU : 11527*03-20260718` |
@@ -129,7 +129,7 @@ jx: J+50
 
 4. **BAJ Foix** — Dépôt — Pièce justificative urgence AJ
 
-5. **CPAM** ([**[N° Dossier CPAM Victime]**]) — RCT — Preuve accident tiers responsable
+5. **CPAM** (31727387) — RCT — Preuve accident tiers responsable
 
 6. **Assureur RC** (si identifié) — LRAR — Mise en cause Art. L.124-3 C.assur.
 

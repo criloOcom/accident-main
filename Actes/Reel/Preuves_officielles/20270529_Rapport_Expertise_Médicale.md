@@ -22,7 +22,7 @@ jx: J+365
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # RAPPORT D'EXPERTISE MÉDICALE
 
@@ -48,7 +48,7 @@ L'expert a convoqué Sébastien GRAZIDE par lettre recommandée du 24 avril 2027
 
 - Ordonnance de référé du 31 juillet 2026 (mission)
 
-- Procès-verbal de police n°[2026/015967] (28 juin 2026)
+- Procès-verbal de police n°2026/015967 (28 juin 2026)
 
 - [Certificat médical initial](../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du Dr Dr Julie JARDON (SMUR), 29 mai 2026
 
@@ -70,7 +70,7 @@ L'expert a convoqué Sébastien GRAZIDE par lettre recommandée du 24 avril 2027
 
 ### I.3 — RAPPEL DES FAITS ET DES SOINS REÇUS
 
-Le **29 mai 2026**, vers 15 heures, Sébastien GRAZIDE, alors âgé de 44 ans et exerçant la profession d'informaticien indépendant, se trouvait en qualité de client dans le salon de coiffure exploité par SAS LES MAUVAIS GARCONS au 22 Rue Lafaurie, 09000 Foix.
+Le **29 mai 2026**, vers 15 heures, Sébastien GRAZIDE, alors âgé de 44 ans et exerçant la profession d'informaticien indépendant, se trouvait en qualité de client dans le salon de coiffure exploité par SAS HB BARBER au 22 Rue Lafaurie, 09000 Foix.
 
 Le préposé de l'établissement a entrepris de régler un téléviseur fixé en hauteur. En l'absence de tout équipement d'accès (escabeau, marchepied), il est monté sur la vasque en céramique du bac à shampoing. Sous le poids, la vasque a basculé et s'est descellée du mur. Par réflexe, Sébastien GRAZIDE a tendu la main droite pour protéger le préposé et a heurté une cassure majeure préexistante non signalée aux arêtes tranchantes, située sur le rebord de la vasque fracturée.
 

@@ -2,7 +2,7 @@
 uid: KznUJSDTK
 emoji: 📋
 title: 📧📋 Email Transmission Attestation Témoin Client
-description: 'Objet : Attestation de témoin — Accident du [29 mai 2026] au salon
+description: 'Objet : Attestation de témoin — Accident du 29 mai 2026 au salon
   **[L''Adresse de l''Exploitation]'
 type: courrier
 date: 2026-07-06
@@ -13,7 +13,7 @@ tags:
 
 - temoin
 statut: brouillon
-destinataire: Témoin client présent le [29 mai 2026]
+destinataire: Témoin client présent le 29 mai 2026
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/Témoins/Témoin Client - Email Attestation.md
 source: local

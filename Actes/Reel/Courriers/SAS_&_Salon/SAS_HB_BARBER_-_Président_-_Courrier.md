@@ -18,7 +18,7 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - Président - Cour
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # LETTRE RECOMMANDÉE — M. LE PRÉSIDENT (DOMICILE PERSONNEL)
 > 🔗 [**[Source Google Drive LRAR Président]**](https://docs.google.com/document/d/1D5UTW7pYf5smzSC5NHE_hsHuya2B-b4UuwDpDe1_C8Y/edit?usp=sharing)
@@ -30,11 +30,11 @@ sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-[Sabir MOUNTASSER]
+Hamza El Hachemi BERGUIGA
 
-Président de [SAS LES MAUVAIS GARCONS]
+Président de SAS HB BARBER
 
-[108 Avenue Paul Bert, 09000 Foix]
+115 avenue Fernand Loubet, 09200 Saint-Girons
 <!-- /Destinataire -->
 
 <!-- Date -->
@@ -42,7 +42,7 @@ Blagnac, le 18 juillet 2026
 <!-- /Date -->
 
 <hr><hr>
-Objet : Demande de communication de l'assurance RC professionnelle de [SAS LES MAUVAIS GARCONS] — Notification au Président à titre personnel et de représentant légal
+Objet : Demande de communication de l'assurance RC professionnelle de SAS HB BARBER — Notification au Président à titre personnel et de représentant légal
 <hr><hr>
 
 Mode d'envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
@@ -50,13 +50,13 @@ Mode d'envoi : Lettre Recommandée avec Accusé de Réception (L.R.A.R.)
 Monsieur le Président,
 ## I — CONTEXTE ET EXCUSES SUR LE DÉLAI
 
-Par la présente, je me permets de vous écrire en votre qualité de Président et représentant légal de [SAS LES MAUVAIS GARCONS], ainsi qu'à votre adresse personnelle, en raison des responsabilités qui incombent aux dirigeants de droit de sociétés commerciales.
+Par la présente, je me permets de vous écrire en votre qualité de Président et représentant légal de SAS HB BARBER, ainsi qu'à votre adresse personnelle, en raison des responsabilités qui incombent aux dirigeants de droit de sociétés commerciales.
 
 Le vendredi 29 mai 2026 vers 15h20, j'ai subi un grave accident corporel au sein de l'établissement exploité au 22 Rue Lafaurie, 09000 Foix : un bac à shampoing lourd a basculé et ma main droite a percuté une partie de la vasque en céramique déjà brisée et tranchante, provoquant une plaie palmaire profonde de la main droite, avec atteinte tendineuse et nerveuse. Informaticien indépendant de profession, cette blessure à ma main dominante me paralyse totalement dans mon activité ([arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) de 55 jours en cours).
 
 Le jour même, j'ai été pris en charge en urgence au centre de soins immédiats de Foix par le Dr Julie JARDON, qui a constaté la plaie palmaire droite profonde, réalisé les [premiers soins](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (lavage, désinfection, exploration sous anesthésie locale) et m'a réorienté en urgence vers le service spécialisé « SOS Main » de Clinique de l'Union pour une exploration chirurgicale le lendemain matin. Le 30 mai 2026, j'ai été opéré par le Dr Iskander DJERBI (suture tendineuse, suture microchirurgicale des nerfs et vaisseaux, neurolyse, sutures cutanées).
 
-Veuillez agréer mes excuses pour le délai avec lequel je reviens vers vous. La constitution de [SAS LES MAUVAIS GARCONS] étant extrêmement récente au moment des faits (début d'activité au 22 avril 2026 et immatriculation au Registre national des entreprises le 19 mai 2026, soit quelques jours seulement avant l'accident), l'indexation de vos statuts et de vos mandats sociaux a connu les délais administratifs habituels avant de figurer publiquement sur les registres (INPI, RNE, SIRENE). Mes démarches initiales de juin ont donc été adressées, par erreur, à l'ancienne enseigne « LES MAUVAIS GARÇONS » et à ses dirigeants, faute d'avoir connaissance de l'existence de [SAS LES MAUVAIS GARCONS]. Ce n'est qu'à la suite des informations communiquées par le bailleur et de la consultation des registres officiels que j'ai pu identifier [SAS LES MAUVAIS GARCONS] comme véritable exploitant des locaux au 29 mai 2026 et, par conséquent, vous écrire aujourd'hui en votre qualité de Président.
+Veuillez agréer mes excuses pour le délai avec lequel je reviens vers vous. La constitution de SAS HB BARBER étant extrêmement récente au moment des faits (début d'activité au 22 avril 2026 et immatriculation au Registre national des entreprises le 19 mai 2026, soit quelques jours seulement avant l'accident), l'indexation de vos statuts et de vos mandats sociaux a connu les délais administratifs habituels avant de figurer publiquement sur les registres (INPI, RNE, SIRENE). Mes démarches initiales de juin ont donc été adressées, par erreur, à l'ancienne enseigne « LES MAUVAIS GARÇONS » et à ses dirigeants, faute d'avoir connaissance de l'existence de SAS HB BARBER. Ce n'est qu'à la suite des informations communiquées par le bailleur et de la consultation des registres officiels que j'ai pu identifier SAS HB BARBER comme véritable exploitant des locaux au 29 mai 2026 et, par conséquent, vous écrire aujourd'hui en votre qualité de Président.
 <hr><hr>
 
 ## II — LE RÔLE DE L'ASSURANCE DE LA SOCIÉTÉ
@@ -95,9 +95,9 @@ Quelle que soit l'interprétation que vous faites aujourd'hui de l'accident, cel
 
 ## IV — CE QUE JE VOUS DEMANDE CONCRÈTEMENT
 
-Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]), je vous remercie de bien vouloir me communiquer, sous un délai de quinze (15) jours à compter de la réception de la présente :
+Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)), je vous remercie de bien vouloir me communiquer, sous un délai de quinze (15) jours à compter de la réception de la présente :
 
-1. Le nom et les coordonnées complètes de l'assureur responsabilité civile de [SAS LES MAUVAIS GARCONS] au 29 mai 2026 ;
+1. Le nom et les coordonnées complètes de l'assureur responsabilité civile de SAS HB BARBER au 29 mai 2026 ;
 
 2. Le numéro de contrat ou de police associé ;
 

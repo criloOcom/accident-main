@@ -23,7 +23,7 @@ calendar_event_id: gqu5r7mbuh6570913b2nisi7t8
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # LETTRE RECOMMANDÉE <br> ACCUSÉ DE RÉCEPTION
 
@@ -50,7 +50,7 @@ Blagnac, le 9 juillet 2026
 
 <hr><hr>
 
-**Objet : Demande d'intervention au titre de vos pouvoirs de police administrative – Mise en péril de la sécurité publique au sein de l'établissement [SAS LES MAUVAIS GARCONS]**
+**Objet : Demande d'intervention au titre de vos pouvoirs de police administrative – Mise en péril de la sécurité publique au sein de l'établissement SAS HB BARBER**
 
 <hr><hr>
 
@@ -60,7 +60,7 @@ Blagnac, le 9 juillet 2026
 
 Monsieur le Maire,
 
-Par la présente, je me permets d'attirer votre attention sur une situation constitutive d'un péril grave et imminent pour la sécurité de vos administrés, au sein de l'établissement exploité par la société [SAS LES MAUVAIS GARCONS], sis 22 Rue Lafaurie, 09000 Foix à Foix.
+Par la présente, je me permets d'attirer votre attention sur une situation constitutive d'un péril grave et imminent pour la sécurité de vos administrés, au sein de l'établissement exploité par la société SAS HB BARBER, sis 22 Rue Lafaurie, 09000 Foix à Foix.
 
 Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein de cet établissement recevant du public (ERP).
 
@@ -80,7 +80,7 @@ Par ailleurs, conformément à l'[article L. 2212-4 du Code général des collec
 
 Face à la gravité des faits et à la probabilité de réitération d'un tel accident sur d'autres usagers de cet établissement, je vous demande formellement, au titre de l'exercice de vos pouvoirs de police administrative :
 
-1. De mandater les services compétents de la Mairie afin de procéder à une **vérification approfondie des installations** de l'établissement exploité par [SAS LES MAUVAIS GARCONS], et notamment de contrôler la conformité des équipements.
+1. De mandater les services compétents de la Mairie afin de procéder à une **vérification approfondie des installations** de l'établissement exploité par SAS HB BARBER, et notamment de contrôler la conformité des équipements.
 
 2. De procéder à un **signalement au Comité de Sécurité (COMSUR)** ou à la Commission de Sécurité compétente pour les ERP, afin d'évaluer la conformité des locaux et équipements.
 
@@ -88,7 +88,7 @@ Face à la gravité des faits et à la probabilité de réitération d'un tel ac
 
 Il est de la responsabilité de la commune de prévenir tout dommage prévisible découlant de l'exploitation d'un ERP dangereux sur son territoire.
 
-J'attire votre attention sur le fait qu'une procédure pénale est d'ores et déjà ouverte suite à un dépôt de plainte, et qu'une action visant à engager la responsabilité civile de [SAS LES MAUVAIS GARCONS] et de ses dirigeants, Sabir MOUNTASSER et Catherine ANDISSAC, est en cours.
+J'attire votre attention sur le fait qu'une procédure pénale est d'ores et déjà ouverte suite à un dépôt de plainte, et qu'une action visant à engager la responsabilité civile de SAS HB BARBER et de ses dirigeants, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC, est en cours.
 
 Je vous remercie par avance des diligences que vous voudrez bien accomplir pour garantir la sécurité du public.
 

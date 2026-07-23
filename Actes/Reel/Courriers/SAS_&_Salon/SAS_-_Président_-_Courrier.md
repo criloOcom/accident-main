@@ -29,7 +29,7 @@ jx: J+31
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MISE EN DEMEURE AUX DIRIGEANTS<br>DEMANDE D'INFORMATION ASSURANCE RC
 > 🔗 Source Google Drive : [1pheN3_rudxy…](https://drive.google.com/open?id=1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I)
@@ -39,9 +39,9 @@ sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-Sabir MOUNTASSER et Catherine ANDISSAC
+Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC
 
-SAS LES MAUVAIS GARCONS <br>
+SAS HB BARBER <br>
 22 Rue Lafaurie, 09000 Foix
 <!-- /Destinataire -->
 
@@ -55,7 +55,7 @@ Objet : Demande d'information et communication d'assurance — Accident 29 mai 2
 
 <hr><hr>
 
-La présente lettre de mise en demeure est adressée conjointement par Sébastien GRAZIDE à Sabir MOUNTASSER et Catherine ANDISSAC, en leur qualité de dirigeants de SAS LES MAUVAIS GARCONS, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le 29 mai 2026.
+La présente lettre de mise en demeure est adressée conjointement par Sébastien GRAZIDE à Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC, en leur qualité de dirigeants de SAS HB BARBER, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le 29 mai 2026.
 
 **Ce courrier constitue une démarche constructive et préalable à toute action contentieuse, conformément aux obligations légales et à la jurisprudence applicable en matière de responsabilité personnelle des dirigeants.**
 ## II — RAPPEL DES OBLIGATIONS LÉGALES
@@ -116,7 +116,7 @@ La victime dispose d'une action directe contre l'assureur de responsabilité civ
 
 Je vous remercie de bien vouloir me communiquer, dans les meilleurs délais, les informations suivantes :
 
-1. Le nom et les coordonnées complètes de la compagnie d'assurance couvrant la responsabilité civile professionnelle de SAS LES MAUVAIS GARCONS au titre de la police en vigueur le 29 mai 2026 ;
+1. Le nom et les coordonnées complètes de la compagnie d'assurance couvrant la responsabilité civile professionnelle de SAS HB BARBER au titre de la police en vigueur le 29 mai 2026 ;
 
 2. Le numéro de contrat d'assurance souscrit ;
 
@@ -158,7 +158,7 @@ Elle permet :
 > [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.[^7]**
 
-3. De procéder au versement d'une provision amiable d'un montant de [15 000 €] à valoir sur la réparation de mes préjudices, au titre de l'incidence professionnelle de l'accident ;
+3. De procéder au versement d'une provision amiable d'un montant de 15 000 € à valoir sur la réparation de mes préjudices, au titre de l'incidence professionnelle de l'accident ;
 
 4. Le cas échéant, de démontrer au juge que j'ai tenté une résolution amiable préalable.
 

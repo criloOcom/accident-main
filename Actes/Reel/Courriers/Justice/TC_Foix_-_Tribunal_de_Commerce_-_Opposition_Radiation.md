@@ -16,7 +16,7 @@ tags:
 
 - LRAR
 statut: final
-destinataire: Tribunal de Commerce de [Foix]
+destinataire: Tribunal de Commerce de Foix
 auteur: Nom de l'Avocat de la Victime
 reel_path: ../../../Reel/Courriers/Justice/TC Foix - Tribunal de Commerce - Opposition Radiation.md
 jx: J+41
@@ -26,7 +26,7 @@ jx: J+41
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # OPPOSITION CONSERVATOIRE <br> RADIATION DE SOCIÉTÉ
 
@@ -49,22 +49,22 @@ Foix, le 9 juillet 2026
 
 <hr><hr>
 
-**Objet :** Demande d'opposition conservatoire à la radiation d'office ou volontaire de la société SAS LES MAUVAIS GARCONS
+**Objet :** Demande d'opposition conservatoire à la radiation d'office ou volontaire de la société SAS HB BARBER
 
 <hr><hr>
 
 <!-- /Objet -->
 
 <hr><hr>
-**Référence RCS :** 938 033 222 00010
+**Référence RCS :** 104 103 262 00010
 **Lettre Recommandée avec Accusé de Réception**
 
 Monsieur le Président,
 
-J'interviens dans les intérêts de Monsieur Sébastien GRAZIDE, victime d'un accident corporel grave survenu au sein des locaux exploités par la société SAS LES MAUVAIS GARCONS.
+J'interviens dans les intérêts de Monsieur Sébastien GRAZIDE, victime d'un accident corporel grave survenu au sein des locaux exploités par la société SAS HB BARBER.
 ## I — PROBLÉMATIQUE : RISQUE DE DISPARITION DE LA PERSONNE MORALE
 
-À la suite de ce grave sinistre, de multiples manquements aux règles de sécurité, constitutifs d'infractions pénales, ont été constatés à l'encontre de la société SAS LES MAUVAIS GARCONS.
+À la suite de ce grave sinistre, de multiples manquements aux règles de sécurité, constitutifs d'infractions pénales, ont été constatés à l'encontre de la société SAS HB BARBER.
 
 Des procédures civiles et pénales sont actuellement en cours d'engagement pour faire valoir les droits de mon client et obtenir la réparation intégrale de son préjudice corporel, ainsi que la condamnation des responsables.
 
@@ -89,7 +89,7 @@ Le Code de commerce encadre strictement les conditions de radiation d'office d'u
 
 Les dispositions précitées, si elles permettent l'assainissement du registre, ne sauraient être instrumentalisées par une entreprise débitrice d'obligations indemnitaires pour organiser son insolvabilité ou échapper à la justice.
 
-Dans le cas d'espèce, la disparition de la société SAS LES MAUVAIS GARCONS créerait un préjudice irréparable pour Sébastien GRAZIDE.
+Dans le cas d'espèce, la disparition de la société SAS HB BARBER créerait un préjudice irréparable pour Sébastien GRAZIDE.
 
 Il est de jurisprudence constante que les créanciers justifiant d'un intérêt légitime peuvent former opposition à une radiation pour préserver leurs droits, le temps que la juridiction saisie du fond statue sur les responsabilités et les indemnisations.
 
@@ -100,7 +100,7 @@ L'intérêt à agir de mon client est ici caractérisé et actuel, fondé sur un
 
 Au vu de l'urgence et du risque avéré de dissipation des garanties, je vous prie de bien vouloir, par la présente :
 
-1. **Prendre acte** de l'opposition formelle de Sébastien GRAZIDE à toute demande de radiation, qu'elle soit amiable, consécutive à une dissolution anticipée, ou d'office, concernant la société SAS LES MAUVAIS GARCONS (RCS 938 033 222 00010).
+1. **Prendre acte** de l'opposition formelle de Sébastien GRAZIDE à toute demande de radiation, qu'elle soit amiable, consécutive à une dissolution anticipée, ou d'office, concernant la société SAS HB BARBER (RCS 104 103 262 00010).
 
 2. **Inscrire** une mention de cette opposition au dossier de la société.
 
@@ -115,7 +115,7 @@ Avocat au Barreau
 
 ## PIECES JOINTES
 
-- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de [La Ville de l'Accident]
+- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de Foix
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
 
@@ -123,7 +123,7 @@ Avocat au Barreau
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]
 
-- **[Mise en demeure J+31 — SAS](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR n° [N° LRAR Exploitant] restee sans reponse
+- **[Mise en demeure J+31 — SAS](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR n° 87001424863012T restee sans reponse
 <!-- /PJ -->
 
 <!-- Source -->
