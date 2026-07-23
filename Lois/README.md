@@ -220,7 +220,7 @@ Tous les arrêts sont disponibles dans le dossier [Jurisprudence/README.md](Juri
 
 ### [Mise_en_danger_d'autrui (1 arrêt)](../Actes/Token/README.md)
 
-### [Jurisprudence_du_fond_(CA-TJ) — 7 décisions](Jurisprudence/Jurisprudence_du_fond_(CA-TJ))/README.md)
+### [Jurisprudence_du_fond_(CA-TJ) — 7 décisions](Jurisprudence/Jurisprudence_du_fond_%28CA-TJ%29))/README.md)
 Décisions de cours d'appel et tribunaux judiciaires sur les thèmes ERP, action directe, transaction et incidence professionnelle.
 
 ## 🔧 Documents techniques
@@ -229,7 +229,7 @@ Décisions de cours d'appel et tribunaux judiciaires sur les thèmes ERP, action
 
 - **[RAPPORT_ORGANISATION_20260711](RAPPORT_ORGANISATION_20260711.md)** — Rapport d'organisation et d'audit (11 juillet 2026).
 
-- **[Note - Changelog Juridique](../Actes/Reel/Analyses_juridiques/Note%20-%20Changelog%20Juridique.md)** — Historique des modifications.
+- **[Note - Changelog Juridique](../Actes/Reel/Analyses_juridiques/Note_Changelog_Juridique.md)** — Historique des modifications.
 
 - **[CHANGELOG_JURIDIQUE](CHANGELOG_JURIDIQUE.md)**
 

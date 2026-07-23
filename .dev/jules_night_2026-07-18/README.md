@@ -1,5 +1,5 @@
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [.dev](../README.md) › jules_night_2026-07-18*
+*[🏠](../../README.md) › [🛠️ Dev](../README.md) › jules night 2026-07-18*
 <hr>
 <!-- /Breadcrumb -->
 

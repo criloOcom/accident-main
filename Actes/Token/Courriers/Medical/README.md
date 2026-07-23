@@ -6,7 +6,7 @@ type: readme
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › Médical*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › Medical*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -14,6 +14,6 @@ type: readme
 
 
 
-- [CHIVA_Dossier_Médical_Demande](CHIVA_Dossier_Médical_Demande.md)
-- [Médecin_Traitant_Consolidation_Demande](Médecin_Traitant_Consolidation_Demande.md)
-- [Médecin_Traitant_Consolidation_Relance](Médecin_Traitant_Consolidation_Relance.md)
+- [CHIVA_Dossier_Médical_Demande](CHIVA_Dossier_Medical_Demande.md)
+- [Médecin_Traitant_Consolidation_Demande](Medecin_Traitant_Consolidation_Demande.md)
+- [Médecin_Traitant_Consolidation_Relance](Medecin_Traitant_Consolidation_Relance.md)

@@ -6,12 +6,12 @@ type: readme
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › Propriétaire*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › Proprietaire*
 <hr>
 <!-- /Breadcrumb -->
 
 # Index — Propriétaire (Token)
 
 
-- [Propriétaire_Courrier](Propriétaire_Courrier.md)
-- [Propriétaire_Courrier_Relance_3](Propriétaire_Courrier_Relance_3.md)
+- [Propriétaire_Courrier](Proprietaire_Courrier.md)
+- [Propriétaire_Courrier_Relance_3](Proprietaire_Courrier_Relance_3.md)

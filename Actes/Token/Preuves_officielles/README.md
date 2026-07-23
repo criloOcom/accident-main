@@ -24,7 +24,7 @@ Ces pièces constituent le socle factuel du litige : constats, comptes rendus m�
 | [**[J+4 Dépôt de plainte]**](../../../Memory/Tokens/token-j-4-depot-de-plainte.md) | PV de constat | Procès-verbal n°[...] | ✅ Reçu |
 | [**[J+21 Contrôle chirurgical]**](../../../Memory/Tokens/token-j-21-controle-chirurgical.md) | CR de contrôle J+20 | Consultation de suivi [**[Le Chirurgien SOS Main]**](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md) | ✅ Reçu |
 | [**[J+31 Mises en demeure]**](../../../Memory/Tokens/token-j-31-mises-en-demeure.md) | Forensic Evidence File | Dossier de preuves numériques | ✅ Constitué |
-| [**[J+167 Expertise UMJ]**](../../../Memory/Tokens/token-j-167-expertise-umj.md) | [Rapport Expertise Médicale](20270529_Rapport_Expertise_Médicale.md) | Rapport d'expertise médicale | ✅ Reçu |
+| [**[J+167 Expertise UMJ]**](../../../Memory/Tokens/token-j-167-expertise-umj.md) | [Rapport Expertise Médicale](20270529_Rapport_Expertise_Medicale.md) | Rapport d'expertise médicale | ✅ Reçu |
 
 > ⚠️ Les fichiers physiques sont en attente d'insertion dans ce dossier.  
 > Consulter [Memory/PIECES MAP.md](../../../Memory/PIECES%20MAP.md) pour la cotation détaillée.
