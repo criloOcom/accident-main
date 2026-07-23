@@ -28,7 +28,7 @@ legal_basis:
   - Code civil
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📋 Rapports](./README.md) › Rapport Jules #14*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

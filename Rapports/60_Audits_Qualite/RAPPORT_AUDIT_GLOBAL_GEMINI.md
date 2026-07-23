@@ -27,7 +27,7 @@ key_points:
 # Audit Global du Projet "Accident Main"
 
 ## 1 — Structure générale & Organisation du projet (Q1–Q5)
-**Q1.** Structure cohérente, mais il y a des fichiers orphelins et des dossiers sans `README.md`. Fichiers orphelins : [Actes/Preuves officielles/20260716_Email_Bailleur_DELRIEU](../../Actes/Preuves officielles/20260716_Email_Bailleur_DELRIEU/README.md) et [Actes/Preuves officielles/20260716_Visite_Lieux_Foix](../../Actes/Preuves officielles/20260716_Visite_Lieux_Foix/README.md) et [Actes/Token/Preuves_officielles/20260715_Police_PV_Foix](../../Actes/Token/Preuves_officielles/20260715_Police_PV_Foix).
+**Q1.** Structure cohérente, mais il y a des fichiers orphelins et des dossiers sans `README.md`. Fichiers orphelins : [Actes/Preuves officielles/20260716_Email_Bailleur_DELRIEU](../../Actes/Token/README.md) et [Actes/Preuves officielles/20260716_Visite_Lieux_Foix](../../Actes/Token/README.md) et [Actes/Token/Preuves_officielles/20260715_Police_PV_Foix](../../Actes/Token/Preuves_officielles/20260715_Police_PV_Foix).
 **Q2.** Le fichier `AGENTS.md` n'est pas à jour. Des chemins fictifs ou obsolètes s'y trouvent, comme `/home/crilocom/accident-main/`, `/tmp/opencode/`, et `projects/crilo-prod-automation/secrets/GITHUB_TOKEN` (l. 34-45).
 **Q3.** Le `README.md` racine liste les dossiers majeurs mais omet le dossier `Status/` récemment ajouté (bien qu'il figure sur le lien hypertexte, sa description est minimale, l. 25).
 **Q4.** Contradiction dans [Memory](../../Memory/README.md) : `CARNET_RDV_UTILISATEUR.md` (l. 8) mentionne en clair "Ayoub Bennourine" et "SAS LES MAUVAIS GARCONS", tandis que `TOKEN MAP.md` (l. 92, 159) impose l'usage de tokens pour ces variables sensibles.

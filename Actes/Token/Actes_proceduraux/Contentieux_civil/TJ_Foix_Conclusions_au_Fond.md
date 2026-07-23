@@ -223,9 +223,9 @@ L'indemnisation du préjudice corporel est régie par les principes suivants :
 
 - La réparation doit être intégrale, sans perte ni profit pour la victime
 
-- Le recours des tiers payeurs (CPAM, mutuelle) s'impute poste par poste conformément à l'article 29 [À VÉRIFIER] de la loi n° 85-677 du 5 juillet 1985
+- Le recours des tiers payeurs (CPAM, mutuelle) s'impute poste par poste conformément à l'article 29 de la loi n° 85-677 du 5 juillet 1985
 
-- Le droit de préférence de la victime sur la part d'indemnité correspondant aux préjudices non couverts par le recours (article 31 [À VÉRIFIER] de la loi Badinter)
+- Le droit de préférence de la victime sur la part d'indemnité correspondant aux préjudices non couverts par le recours (article 31 de la loi Badinter)
 
 **Référence chiffrée unique** : Rapport d'expertise du 29 mai 2027 — consolidation au 1er mars 2027 — DFP 12 % — SE 4/7.
 
@@ -366,7 +366,7 @@ Aide humaine temporaire pendant la période de convalescence.
 Vu les articles 1240, 1242[^n7][^n1] alinéa 1er du Code civil,
 Vu les articles L.4121-1 à L.4121-5, R.4121-1 et suivants, R.4323-58 du Code du travail,
 Vu l'article L.124-3 du Code des assurances,
-Vu les articles 29 [À VÉRIFIER] et 31 de la loi n° 85-677 du 5 juillet 1985,
+Vu les articles 29 et 31 de la loi n° 85-677 du 5 juillet 1985,
 Vu le rapport d'expertise médicale déposé le 29 mai 2027,
 Vu les pièces versées aux débats,
 
@@ -400,7 +400,7 @@ Vu les pièces versées aux débats,
 
 - Au titre des pertes de gains professionnels futurs (PGPF) : **à évaluer (fourchette expertise 50 000 – 70 000 €)**
 
-**DÉDUIRE** de ces sommes la créance des tiers payeurs (CPAM) conformément aux articles 29 [À VÉRIFIER] et 31 de la loi du 5 juillet 1985 (créance estimée à ~790,23 € au titre des DSA) ;
+**DÉDUIRE** de ces sommes la créance des tiers payeurs (CPAM) conformément aux articles 29 et 31 de la loi du 5 juillet 1985 (créance estimée à ~790,23 € au titre des DSA) ;
 
 **CONDAMNER** la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) à payer à [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) la somme de **3 000 €** au titre de l'article 700 du Code de procédure civile ;
 

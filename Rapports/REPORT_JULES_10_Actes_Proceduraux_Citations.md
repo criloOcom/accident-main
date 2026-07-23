@@ -26,7 +26,7 @@ tags:
   - legifrance
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📋 Rapports](./README.md) › Rapport Jules #10*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

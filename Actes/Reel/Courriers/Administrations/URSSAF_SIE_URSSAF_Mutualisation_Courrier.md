@@ -86,9 +86,9 @@ L'absence totale de reponse des dirigeants laisse presager un risque de **dissol
 
 ## III — FONDEMENTS JURIDIQUES
 
-**Article L.252 [À VÉRIFIER] du Livre des procedures fiscales** (LEGIARTI000006316012) : le recouvrement des impot est confie aux comptables publics competents, qui exercent les actions liees au recouvrement des creances fiscales et celles indirectement liees n'ayant pas une cause etrangere a l'impot (article 38 de la loi n° 55-366 du 3 avril 1955).
+**Article L.252 du Livre des procedures fiscales** (LEGIARTI000006316012) : le recouvrement des impot est confie aux comptables publics competents, qui exercent les actions liees au recouvrement des creances fiscales et celles indirectement liees n'ayant pas une cause etrangere a l'impot (article 38 de la loi n° 55-366 du 3 avril 1955).
 
-**Article L.274 [À VÉRIFIER] du Livre des procedures fiscales** (LEGIARTI000042914471) : l'action en recouvrement des creances de toute nature dont la perception incombe aux comptables publics se prescrit a l'issue d'un delai de quatre ans a compter de la date de mise en recouvrement du titre.
+**Article L.274 du Livre des procedures fiscales** (LEGIARTI000042914471) : l'action en recouvrement des creances de toute nature dont la perception incombe aux comptables publics se prescrit a l'issue d'un delai de quatre ans a compter de la date de mise en recouvrement du titre.
 
 **Article L.8221-1[^n1] et suivants du Code du travail** : interdiction du travail dissimule, facilite par l'absence de declaration de salarie au sein de la societe exploitant un commerce de coiffure.
 

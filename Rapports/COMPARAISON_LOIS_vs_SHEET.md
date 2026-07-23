@@ -4,6 +4,11 @@ date: "2026-07-22"
 type: rapport
 ---
 
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [Rapports](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # Comparaison : dossier `Lois/` vs Google Sheet des sources juridiques
 
 Sheet analysé : https://docs.google.com/spreadsheets/d/14wbJajn-Vmz_lnNwiJuYSnT70hcozN7AnzvOVyuF1sQ

@@ -26,7 +26,7 @@ tags:
   - preuve
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📋 Rapports](./README.md) › Rapport Jules #13*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -63,7 +63,7 @@ Ce rapport documente la révision du graphe de dépendances logiques des actes (
 
 ## 1. Contexte de l'audit
 
-L'analyse de l'arborescence [Actes/Preuves officielles](../Actes/Preuves officielles/README.md) a révélé un afflux de nouvelles pièces probantes et procédurales nécessitant leur intégration dans le graphe de dépendance :
+L'analyse de l'arborescence [Actes/Preuves officielles](../Actes/Token/README.md) a révélé un afflux de nouvelles pièces probantes et procédurales nécessitant leur intégration dans le graphe de dépendance :
 
 - **INPI / INSEE (01/06/2026 - J+3) :** Documents d'identification légale de la SAS et de ses dirigeants.
 

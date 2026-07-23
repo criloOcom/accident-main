@@ -26,7 +26,7 @@ legal_basis:
   - Code de la consommation
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📋 Rapports](./README.md) › Rapport Jules #09*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

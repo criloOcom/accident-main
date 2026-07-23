@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [Rapports](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # 📊 Rapport de Validation des URLs Légifrance
 
 **Date :** 11 juillet 2026

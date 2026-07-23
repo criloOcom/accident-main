@@ -22,7 +22,7 @@ legal_basis:
   - Code civil
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📁 Rapports](./README.md) › FAQ_JURIDIQUE_GLOBALE*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 

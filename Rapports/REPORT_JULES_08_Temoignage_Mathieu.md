@@ -25,7 +25,7 @@ tags:
   - preuve
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [📋 Rapports](./README.md) › Rapport Jules #08*
+*[🏠](../README.md) › [Rapports](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -42,7 +42,7 @@ tags:
 
 **Date :** 22 Juillet 2026
 
-**Objet :** Évaluation de la valeur probante de l'attestation de témoin oculaire [Cerfa_11527.pdf](../Actes/Preuves%20officielles/20260719%20Temoins%20MrMATHIEU/Cerfa_11527pdf.md) rédigée le 18/07/2026 par M. Frédéric MATHIEU.
+**Objet :** Évaluation de la valeur probante de l'attestation de témoin oculaire [Cerfa_11527.pdf](../Actes/Preuves_officielles/20260719_Temoins_MrMATHIEU/Cerfa_11527pdf.md) rédigée le 18/07/2026 par M. Frédéric MATHIEU.
 
 - **Témoin direct des suites immédiates :** Bien que M. MATHIEU ne soit pas témoin de l'accident lui-même (la victime, Sébastien GRAZIDE, informaticien indépendant SIREN 500 474 457, est allée se faire couper les cheveux chez le "barber shop" un peu plus loin), il est le premier témoin oculaire de l'état de la victime à son retour (la "main ensanglantée").
 

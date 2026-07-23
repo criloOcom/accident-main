@@ -20,7 +20,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 ### I.1 — 1.1 Code de commerce — procédures collectives
 
-- **Ancienne référence :** Article L. 654-6 [À VÉRIFIER] du Code de commerce
+- **Ancienne référence :** Article L. 654-6 du Code de commerce
 
 - **Nouvelle référence :** Article L. 654-7[^n1] du Code de commerce
 
@@ -30,7 +30,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Raison :**
 
-  - L'article L. 654-6 [À VÉRIFIER] (ancienne architecture des infractions de banqueroute, abrogé) ne correspond plus au découpage actuel des sanctions des personnes morales en procédure collective.
+  - L'article L. 654-6 (ancienne architecture des infractions de banqueroute, abrogé) ne correspond plus au découpage actuel des sanctions des personnes morales en procédure collective.
 
   - L'article L. 654-7 est le texte **en vigueur** qui vise les peines applicables aux personnes morales déclarées pénalement responsables des infractions de banqueroute (L. 654-3 et L. 654-4).
 
@@ -94,7 +94,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 ### I.4 — 1.4 Code monétaire et financier — suppression de L. 224-98
 
-- **Ancienne référence :** Article L. 224-98 [À VÉRIFIER] du Code monétaire et financier
+- **Ancienne référence :** Article L. 224-98 du Code monétaire et financier
 
 - **Nouvelle situation :** Référence supprimée
 
@@ -104,7 +104,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Raison :**
 
-  - Aucun article L. 224-98 [À VÉRIFIER] n'est identifié dans la codification actuelle (ni CMF, ni C. consom.). Référence erronée supprimée.
+  - Aucun article L. 224-98 n'est identifié dans la codification actuelle (ni CMF, ni C. consom.). Référence erronée supprimée.
 
 - **Vérification :**
 

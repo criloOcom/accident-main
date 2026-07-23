@@ -48,7 +48,7 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 |-------|-------|
 | **C. com. art. L.227-8** | Responsabilité des dirigeants de SAS envers les tiers — faute détachable des fonctions |
 | **Cass. Com. 20 mai 2003 n°99-17.092 (arrêt SATI)** | Principe : faute intentionnelle d'une particulière gravité = faute détachable. Peut constituer une application en cas d'assurance légalement obligatoire. |
-| **C. com. art. L.210-6 [À VÉRIFIER], L.237-2** | Responsabilité en cas de manquement, dissolution |
+| **C. com. art. L.210-6, L.237-2** | Responsabilité en cas de manquement, dissolution |
 
 **Cibles :** [**[La Directrice Générale de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-dg-nom.md) (DG commune aux 2 sociétés), [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) (président [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md)
 
@@ -68,7 +68,7 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 
 | Texte | Usage |
 |-------|-------|
-| **C. civ. art. 1719-1720 [À VÉRIFIER]** | Obligations du bailleur : délivrance, entretien, jouissance paisible |
+| **C. civ. art. 1719-1720** | Obligations du bailleur : délivrance, entretien, jouissance paisible |
 | **C. consom. art. L.421-3** | Obligation générale de sécurité des produits et services |
 | **CCH art. R.143-2** | Définition des ERP |
 | **CGCT art. L.2212-2 et L.2212-4** | Pouvoirs du maire en matière de sécurité publique |

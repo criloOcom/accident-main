@@ -19,7 +19,7 @@ tags:
   - token
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 2026-07-15](./README.md)*
+*[🏠](../../README.md) › [Rapports](../README.md) › [85 Coherence 20260715](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -108,7 +108,7 @@ Selon les règles, aucun token d'anonymisation ne doit se retrouver dans les fic
 
 ### III.2 — RÉGLEMENTATION DU DOSSIER REEL (INTERDICTION #3)
 L'`INTERDICTION #3` dans `AGENTS.md` stipule formellement qu'aucun README d'index n'est maintenu dans `Reel/`.
-- [ ] **MAJEUR** - [Actes/Reel/Courriers/Archivé/README.md](../../Actes/Reel/Courriers/Archivé/README.md):ligne 1
+- [ ] **MAJEUR** - [Actes/Reel/Courriers/Archivé/README.md](../../Actes/Token/README.md):ligne 1
 
 - [ ] **MAJEUR** - `Actes/Reel/Courriers/📋s/README.md`:ligne 1
 

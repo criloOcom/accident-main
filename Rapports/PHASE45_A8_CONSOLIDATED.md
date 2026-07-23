@@ -19,6 +19,11 @@ tags:
   - token
 ---
 
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [Rapports](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # PHASE 45 — A8<br>Rapport Consolidé des Anomalies
 
 > **Source** : Rapports A1-A7 (détection + cross-validation)

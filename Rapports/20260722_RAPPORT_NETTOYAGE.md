@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [Rapports](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # Rapport de Nettoyage
 
 - Suppression des dossiers `__pycache__/`, `.pytest_cache/` et fichiers `*.pyc`.

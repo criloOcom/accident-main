@@ -24,6 +24,11 @@ statut: final
 format: Arial JUSTIFIED
 ---
 
+<!-- Breadcrumb -->
+*[🏠](../../../README.md) › [Rapports](../../README.md) › Archives › [audit](./README.md)*
+<hr>
+<!-- /Breadcrumb -->
+
 # RAPPORT DE VÉRIFICATION STATUTAIRE — [La Ville de l'Accident] — 9 juillet 2026
 
 ## INTRODUCTION

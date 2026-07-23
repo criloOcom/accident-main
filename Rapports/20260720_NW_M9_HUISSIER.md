@@ -38,7 +38,7 @@ L'analyse des fichiers procéduraux révèle qu'une requête aux fins de constat
 Cette requête figure également dans les archives sous le nom `33_Requête_-_Constat_Huissier_145_CPC.md`, marquée comme obsolète et remplacée par la requête ci-dessus et/ou `03 🔍 Assignation Article 145.md`.
 
 ## 2. Preuve du constat dans le dossier officiel
-Aucun rapport officiel ou procès-verbal de constat d'huissier (Commissaire de justice) n'a été trouvé dans le répertoire [Actes/Preuves officielles](../Actes/Preuves officielles/README.md).
+Aucun rapport officiel ou procès-verbal de constat d'huissier (Commissaire de justice) n'a été trouvé dans le répertoire [Actes/Preuves officielles](../Actes/Token/README.md).
 Cependant, un constat matériel a été effectué **par la victime elle-même** (Note de constatations du 16 juillet 2026, située dans [Actes/Preuves officielles/20260716_Visite_Lieux_Foix/20260716 Note Constatations Visite Lieux.md](../Actes/Preuves officielles/20260716_Visite_Lieux_Foix/20260716 Note Constatations Visite Lieux.md)).
 - Ce document indique que : *« Le bac à shampoing en céramique cassé... n'était plus présent... À sa place se trouvait un nouveau bac. »* et que *« Le meuble / étagère murale... avait également disparu. »*
 
