@@ -761,3 +761,9 @@ Si une profession ou activité erronée est découverte dans un fichier :
 - **Schéma JSON** : `.dev/app/yaml_schema.json` décrit la structure complète. Utilisable par les IDE pour l'autocomplétion.
 
 - **Sanctions** : toute modification qui introduit une violation YAML sera bloquée par le pre-commit hook. Pour passer outre : `git commit --no-verify` (déconseillé).
+
+## #31 — NORMES DE SECRÉTARIAT ET DE TYPOGRAPHIE GOOGLE DOCS (RÈGLE PERMANENTE)
+
+- **Taille maximale des titres de section (H2)** : La taille de police des titres de section majeurs est fixée à **20 pt** maximum (en **gras**). Il est formellement interdit d'utiliser des polices démesurées (comme 26 pt ou plus).
+- **Aération et sauts de ligne d'en-tête** : Dans tous les courriers générés/injectés sur Google Docs, chaque bloc d'en-tête (Expéditeur en gras, Destinataire en gras, Date, Objet en gras) DOIT être séparé par un saut de paragraphe/ligne clair (utilisation explicite de `&nbsp;` lors de l'injection Markdown) pour garantir des espaces bien visibles à l'impression.
+- **Conformité multi-agents** : Cette norme de secrétariat est obligatoire pour tout agent intervenant sur le dossier.

@@ -565,3 +565,17 @@ Texte du paragraphe.
 > « Citation... » <br>
 > [Article X](url)
 ```
+
+<hr><hr>
+
+## XV — RÈGLES DE MISE EN PAGE ET TYPOGRAPHIE GOOGLE DOCS
+
+### 1. En-tête des courriers (Mise en forme)
+- **Bloc Expéditeur / Destinataire / Date / Objet** : séparés par des saut de lignes explicites (`&nbsp;` en Markdown lors de l'injection) pour garantir des espaces bien visibles à l'impression.
+- **Mise en gras** : le nom de l'expéditeur, le nom de l'organisme destinataire et la ligne **Objet** doivent être systématiquement en **gras**.
+
+### 2. Taille des titres et typographie (Secrétariat canonique)
+- **Titres de sections (H2 / `##`)** : la taille maximale des titres majeurs est fixée à **20 pt** (jamais 26 pt ou plus), en **gras**.
+- **Titres secondaires (H3 / `###`)** : taille **14-16 pt**, en **gras**.
+- **Corps de texte** : police standard 11 pt ou 12 pt, texte justifié, avec saut de paragraphe clair.
+- **Règle générale** : tous les agents doivent s'y conformer pour garantir l'uniformité des documents générés.
