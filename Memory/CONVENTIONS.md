@@ -571,7 +571,7 @@ Texte du paragraphe.
 ## XV — RÈGLES DE MISE EN PAGE ET TYPOGRAPHIE GOOGLE DOCS (CHARTE CANONIQUE)
 
 ### 1. En-tête des courriers
-- **Bloc Expéditeur** : Seul le **Nom Prénom** est en **gras**. L'adresse postale (voie et CP/ville sur une seule ligne séparées par une virgule) et l'adresse email sont en **texte normal (non gras)**. Retours à la ligne au sein du bloc gérés par des sauts doux (**Shift+Entrée** / 2 espaces) pour maintenir un interlignage compact.
+- **Bloc Expéditeur** : Seul le **Nom Prénom** est en **gras**. L'adresse postale (voie et CP/ville sur une seule ligne séparées par une virgule) et l'adresse email (transformée en **hyperlien cliquable `mailto:` en Bleu Lien Google + Souligné**) sont en **texte normal (non gras)**. Retours à la ligne au sein du bloc gérés par des sauts doux (**Shift+Entrée** / 2 espaces) pour maintenir un interlignage compact.
 - **Bloc Destinataire** : Seule la **Raison sociale / Organisme** est en **gras**. Les lignes de service et d'adresse postale (voie et CP/ville sur la même ligne séparées par une virgule) sont en **texte normal (non gras)**. Retours à la ligne au sein du bloc gérés par **Shift+Entrée**.
 - **Séparation des blocs** : Séparer le bloc Expéditeur, Destinataire, Date et Objet par des sauts de paragraphe clairs (`&nbsp;` en Markdown).
 - **Ligne Objet** : L'intitulé de la ligne **Objet : ...** est intégralement en **gras**. La ligne *Ref : ...* qui suit est en texte normal.
