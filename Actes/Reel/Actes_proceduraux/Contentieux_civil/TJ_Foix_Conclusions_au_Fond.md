@@ -419,7 +419,7 @@ Vu les pièces versées aux débats,
 **FAIT À Foix, LE [**[Date Dépôt Conclusions]**](../../../../Memory/STRICT%20VARIABLES.md%23dates-cles)**
 
 Sébastien GRAZIDE
-*(partie demanderesse, non assistée d'avocat — article 827 [À VÉRIFIER] CPC)*
+*(partie demanderesse, non assistée d'avocat — article 853 du Code de procédure civile)*
 <hr><hr>
 
 ## VIII — BORDEREAU DES PIÈCES COMMUNIQUÉES

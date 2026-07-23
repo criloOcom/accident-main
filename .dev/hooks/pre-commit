@@ -123,6 +123,22 @@ else
     WARN=$((WARN + 1))
 fi
 
+# ── Audit Règle #11 (durcie) : citations d'articles sans note de bas de page ──
+echo ""
+echo "━━━ 🔍 Footnote citations (Règle #11 durcie) ━━━"
+FOOT_EC=0
+STAGED="$STAGED" python3 .dev/app/audit_footnote_citations.py || FOOT_EC=$?
+if [ "$FOOT_EC" -eq 1 ]; then
+    echo "❌ Footnote citations : ÉCHEC — citation d'article sans note dans un fichier modifié"
+    FAIL=$((FAIL + 1))
+elif [ "$FOOT_EC" -eq 2 ]; then
+    echo "⚠️  Footnote citations : avertissement (legacy, hors staged)"
+    WARN=$((WARN + 1))
+else
+    echo "✅ Footnote citations : OK"
+    PASS=$((PASS + 1))
+fi
+
 echo ""
 echo "━━━ BILAN ━━━"
 if [ "$FAIL" -gt 0 ]; then

@@ -419,7 +419,7 @@ Vu les pièces versées aux débats,
 **FAIT À [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md), LE [**[Date Dépôt Conclusions]**](../../../../Memory/STRICT%20VARIABLES.md%23dates-cles)**
 
 [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md)
-*(partie demanderesse, non assistée d'avocat — article 827 [À VÉRIFIER] CPC)*
+*(partie demanderesse, non assistée d'avocat — article 853 du Code de procédure civile)*
 <hr><hr>
 
 ## VIII — BORDEREAU DES PIÈCES COMMUNIQUÉES
