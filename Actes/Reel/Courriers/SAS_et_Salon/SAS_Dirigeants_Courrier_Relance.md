@@ -103,7 +103,7 @@ Je vous demande donc de me communiquer sous 15 jours :
 
 3. Le numéro de police associé ainsi que le contact du gestionnaire de sinistres.
 
-Cette démarche a pour but de déclarer le sinistre et de permettre un règlement amiable par votre assureur, conformément au droit d'action directe de la victime (article L. 124-3 du Code des assurances). Je reste pleinement ouvert à une médiation ou à un échange amiable.
+Cette démarche a pour but de déclarer le sinistre et de permettre un règlement amiable par votre assureur, conformément au droit d'action directe de la victime (article L. 124-3 du Code des assurances[^n2]). Je reste pleinement ouvert à une médiation ou à un échange amiable.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
@@ -111,7 +111,7 @@ Cette démarche a pour but de déclarer le sinistre et de permettre un règlemen
 
 ### II.1 — Signalements administratifs
 
-Compte tenu de la gravité de l'accident et des manquements flagrants à l'obligation de sécurité des locaux, je me réserve le droit de procéder à des signalements auprès de l'Inspection du travail (DREETS - article L. 4121-1 du Code du[^n2] travail) et de la commission de sécurité des ERP.
+Compte tenu de la gravité de l'accident et des manquements flagrants à l'obligation de sécurité des locaux, je me réserve le droit de procéder à des signalements auprès de l'Inspection du travail (DREETS - article L. 4121-1 du Code du travail[^n3]) et de la commission de sécurité des ERP.
 
 > *« L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. »* <br>
 > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) <br>
@@ -126,7 +126,7 @@ Face aux difficultés de distribution postale à votre siège social, je vous de
 
 1. Faire signifier mes actes officiels par la voie d'un **Commissaire de Justice (ex-huissier)** à vos frais, ce qui figerait votre refus de coopérer devant les tribunaux ;
 
-2. Saisir le juge des référés du tribunal judiciaire de Foix par voie de **requête** (non contradictoire, afin de préserver l'effet de surprise) sur le fondement de l'article 145 du Code de procédure civile, pour ordonner sous astreinte la communication des documents ;
+2. Saisir le juge des référés du tribunal judiciaire de Foix par voie de **requête** (non contradictoire, afin de préserver l'effet de surprise) sur le fondement de l'article 145 du Code de procédure civile[^n4], pour ordonner sous astreinte la communication des documents ;
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. »* <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
@@ -156,7 +156,7 @@ Sébastien GRAZIDE
 
 ### IV.2 — Annexe 2 : Responsabilité personnelle des dirigeants de SAS
 
-La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l'égard des tiers pour faute détachable de leurs fonctions, caractérisée par un manquement délibéré d'une particulière gravité (renvois des articles L. 227-1 et L. 227-8 du Code de commerce).
+La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l'égard des tiers pour faute détachable de leurs fonctions, caractérisée par un manquement délibéré d'une particulière gravité (renvois des articles L. 227-1 et L. 227-8 du Code de commerce[^n5][^n6]).
 **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092 (arrêt SATI)** :
 > *« La faute du dirigeant social, même lorsqu'elle est commise dans l'exercice de ses fonctions, est séparable de celles-ci lorsqu'elle constitue un manquement délibéré à ses obligations et engage sa responsabilité personnelle. »* <br>
 <hr><hr>
@@ -198,7 +198,28 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
     > **Code pénal > Section 1 : Des entraves à la saisine de la justice.** <br>
     > [Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) ↩
 
-[^n2]: > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. » <br>
+[^n2]: > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+    > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+    > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+    📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
+
+[^n3]: > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. » <br>
     > **Code du travail > Chapitre Ier : Obligations de l'employeur.** <br>
-    > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) ↩
+    > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)
+    📚 Bibliothèque locale : [Article_L4121-1_CodeTravail](Lois/Code/Code_du_travail/Article_L4121-1_CodeTravail.md) ↩
+
+[^n4]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+    > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+    📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
+
+[^n5]: > « Une société par actions simplifiée peut être instituée par une ou plusieurs personnes qui ne supportent les pertes qu'à concurrence de leur apport. Lorsque cette société ne comporte qu'une seule personne, celle-ci est dénommée " associé unique ". L'associé unique exerce les pouvoirs dévolus aux associés lorsque le présent chapitre prévoit une prise de décision collective. Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes, à l'exception de l'article L. 224-2 , du second alinéa de l'article L. 225-14 , des articles L. 225-17 à L. 225-102, L. 225-103 à L. 225-126 , L. 225-243 , du I de l'article L. 233-8 et de l'article L. 236-17, sont applicables à la société par actions simplifiée. Pour l'application de ces règles, les attributions du conseil d'administration ou de son président sont exercées par le président de la société par actions simplifiée ou celui ou ceux de ses dirigeants que les statuts désignent à cet effet. La société par actions simplifiée peut émettre des actions inaliénables résultant d'apports en industrie tels que définis à l'article 1843-2 du code civil. Les statuts déterminent les modalités de souscription et de répartition de ces actions. Par dérogation au premier alinéa de l'article L. 225-14, les futurs associés peuvent décider à l'unanimité que le recours à un commissaire aux apports ne sera pas obligatoire, lorsque la valeur d'aucun apport en nature n'excède un montant fixé par décret et si la valeur totale de l'ensemble des apports en nature non soumis à l'évaluation d'un commissaire aux apports n'excède pas la moitié du capital. Lorsque la société est constituée par une seule personne, le commissaire aux apports est désigné par l'associé unique. Toutefois le recours à un commissaire aux apports n'est pas obligatoire si les conditions prévues au cinquième alinéa du présent article sont réunies ou si l'associé unique, personne physique, exerçant son activité professionnelle en nom propre avant la constitution de la société, y compris sous le régime prévu aux articles L. 526-6 à L. 526-21 , apporte des éléments qui figuraient dans le bilan de son dernier exercice. Lorsqu'il n'y a pas eu de commissaire aux apports ou lorsque la valeur retenue est différente de celle proposée par le commissaire aux apports, les associés sont solidairement responsables pendant cinq ans, à l'égard des tiers, de la valeur attribuée aux apports en nature lors de la constitution de la société. La société par actions simplifiée dont l'associé unique, personne physique, assume personnellement la présidence est soumise à des formalités de publicité allégées déterminées par décret en Conseil d'Etat. Ce décret prévoit les conditions de dispense d'insertion au Bulletin officiel des annonces civiles et commerciales. » <br>
+    > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
+    > [Article L227-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177)
+    📚 Bibliothèque locale : [Article_L227-1_Code_Legifrance](Lois/Code/Code_commerce/Article_L227-1_Code_Legifrance.md) ↩
+
+[^n6]: > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
+    > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
+    > [Article L227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
+    📚 Bibliothèque locale : [Article_L227-8_Codecommerce_Legifrance](Lois/Code/Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) ↩
 <!-- /Source -->

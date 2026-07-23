@@ -141,7 +141,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [CA Versailles 22-01019](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA Versailles 22-01019.md)
 
 - **Citation extraite :**
-  > L'arrêt **[CA Versailles 22/01019](<../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA Versailles 22-01019.md>)** confirme que l'action directe de la victime contre l'assureur est soumise à la prescription de droit commun de l'action en responsabilité contre l'assuré, et non à la prescription biennale de l'article L. 114-1[^n1] du Code des assurances. Cette dernière est réservée aux actions nées du contrat d'assurance entre l'assureur et l'assuré.
+  > L'arrêt **[CA Versailles 22/01019](<../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA Versailles 22-01019.md>)** confirme que l'action directe de la victime contre l'assureur est soumise à la prescription de droit commun de l'action en responsabilité contre l'assuré, et non à la prescription biennale de l'article L. 114-1 du Code des assurances[^n1]. Cette dernière est réservée aux actions nées du contrat d'assurance entre l'assureur et l'assuré.
 
 - **Jurisprudence :** [TJ Nanterre 22-02447](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ Nanterre 22-02447.md)
 
@@ -266,7 +266,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce.
+  > Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce[^n2].
 
 ### Note - Mémo Axes Juridiques Avocat
 
@@ -853,5 +853,11 @@ Pour chaque argument clé qui N'A PAS de jurisprudence de support :
 
 [^n1]: > « Toutes actions dérivant d'un contrat d'assurance sont prescrites par deux ans à compter de l'événement qui y donne naissance. Par exception, les actions dérivant d'un contrat d'assurance relatives à des dommages résultant de mouvements de terrain consécutifs à la sécheresse-réhydratation des sols, reconnus comme une catastrophe naturelle dans les conditions prévues à l'article L. 125-1, sont prescrites par cinq ans à compter de l'événement qui y donne naissance. Toutefois, ce délai ne court : 1° En cas de réticence, omission, déclaration fausse ou inexacte sur le risque couru, que du jour où l'assureur en a eu connaissance ; 2° En cas de sinistre, que du jour où les intéressés en ont eu connaissance, s'ils prouvent qu'ils l'ont ignoré jusque-là. Quand l'action de l'assuré contre l'assureur a pour cause le recours d'un tiers, le délai de la prescription ne court que du jour où ce tiers a exercé une action en justice contre l'assuré ou a été indemnisé par ce dernier. La prescription est portée à dix ans dans les contrats d'assurance sur la vie lorsque le bénéficiaire est une personne distincte du souscripteur et, dans les contrats d'assurance contre les accidents atteignant les personnes, lorsque les bénéficiaires sont les ayants droit de l'assuré décédé. Pour les contrats d'assurance sur la vie, nonobstant les dispositions du 2°, les actions du bénéficiaire sont prescrites au plus tard trente ans à compter du décès de l'assuré. » <br>
     > **Code des assurances > Chapitre IV : Compétence et prescription.** <br>
-    > [Article L114-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044607740) ↩
+    > [Article L114-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044607740)
+    📚 Bibliothèque locale : [Article_L114-1_Codesassurances](Lois/Code/Code_assurances/Article_L114-1_Codesassurances.md) ↩
+
+[^n2]: > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
+    > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
+    > [Article L227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
+    📚 Bibliothèque locale : [Article_L227-8_Codecommerce_Legifrance](Lois/Code/Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) ↩
 <!-- /Source -->

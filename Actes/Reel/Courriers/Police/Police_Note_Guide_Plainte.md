@@ -127,7 +127,7 @@ Blagnac, le 11 juillet 2026
 "Le 29 mai dernier, alors que je me trouvais en qualité de client dans ce salon, un employé est monté sur une vasque en céramique instable pour régler la télévision. La vasque a basculé, et ma main droite a heurté une cassure préexistante aux arêtes tranchantes. Résultat : une section nerveuse et tendineuse de l'index droit, une microchirurgie d'urgence, et 55 jours d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) avec des séquelles durables."
 
 **2. Obstruction caractérisée (45 secondes) :**
-"Depuis l'accident, j'ai tenté à plusieurs reprises d'obtenir les coordonnées de l'assurance responsabilité civile de l'établissement, comme la loi l'exige (Article L. 124-3 du Code des assurances). J'ai envoyé des mises en demeure par LRAR aux dirigeants le 29 juin. Ces courriers m'ont été retournés 'défaut d'adresse', alors que la société est toujours officiellement immatriculée à cette adresse. Personne ne répond, ni aux courriers, ni aux appels. C'est une obstruction claire à mon droit d'agir contre l'assureur."
+"Depuis l'accident, j'ai tenté à plusieurs reprises d'obtenir les coordonnées de l'assurance responsabilité civile de l'établissement, comme la loi l'exige (Article L. 124-3 du Code des assurances[^n1]). J'ai envoyé des mises en demeure par LRAR aux dirigeants le 29 juin. Ces courriers m'ont été retournés 'défaut d'adresse', alors que la société est toujours officiellement immatriculée à cette adresse. Personne ne répond, ni aux courriers, ni aux appels. C'est une obstruction claire à mon droit d'agir contre l'assureur."
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
@@ -196,7 +196,7 @@ Blagnac, le 11 juillet 2026
 
 **Objection : "C'est un litige civil, pas pénal"**
 **Réponse :**
-"Je comprends votre point de vue, mais permettez-moi de vous rappeler que l'obstruction à la justice (Article 434-15 du Code pénal[^n1]) et la dissimulation de preuves (Article 434-15-1[^n2]) sont des infractions pénales caractérisées. Ce n'est pas une simple affaire de responsabilité civile, mais bien une entrave délibérée à la manifestation de la vérité et à l'exercice de mes droits. La jurisprudence est claire sur ce point."
+"Je comprends votre point de vue, mais permettez-moi de vous rappeler que l'obstruction à la justice (Article 434-15 du Code pénal[^n2]) et la dissimulation de preuves (Article 434-15-1[^n3]) sont des infractions pénales caractérisées. Ce n'est pas une simple affaire de responsabilité civile, mais bien une entrave délibérée à la manifestation de la vérité et à l'exercice de mes droits. La jurisprudence est claire sur ce point."
 
 > *« Le fait d'user de promesses, offres, présents, pressions, menaces, voies de fait, manoeuvres ou artifices au cours d'une procédure ou en vue d'une demande ou défense en justice afin de déterminer autrui soit à faire ou délivrer une déposition, une déclaration ou une attestation mensongère, soit à s'abstenir de faire ou délivrer une déposition, une déclaration ou une attestation, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende, même si la subornation n'est pas suivie d'effet. »* <br>
 > [Article 434-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641) <br>
@@ -319,17 +319,17 @@ Blagnac, le 11 juillet 2026
 ### XI.2 — Textes clés à citer
 
 **Code pénal :**
-- Art. 434-15[^n1] : "Le fait de détruire, de dégrader ou de détériorer un objet de quelque nature qu'il soit, de nature à faciliter la découverte d'une vérité ou la preuve d'un crime ou d'un délit..."
+- Art. 434-15[^n2] : "Le fait de détruire, de dégrader ou de détériorer un objet de quelque nature qu'il soit, de nature à faciliter la découverte d'une vérité ou la preuve d'un crime ou d'un délit..."
 
 - Art. 434-15-1 : "Le fait, pour quiconque ayant connaissance d'un crime ou d'un délit... de ne pas en informer les autorités judiciaires ou administratives..."
 
 **Code du travail :**
-- Art. L. 4121-1[^n3] : "L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs."
+- Art. L. 4121-1[^n4] : "L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs."
 
 - Art. L. 8221-1 : "Est réputé travail dissimulé par dissimulation d'activité l'exercice à but lucratif d'une activité... sans déclaration aux organismes sociaux."
 
 **Code des assurances :**
-- Art. L. 124-3[^n4] : "Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile."
+- Art. L. 124-3[^n1] : "Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile."
 <hr><hr>
 
 ## XII — CHECKLIST FINALE AVANT DE PARTIR
@@ -386,19 +386,21 @@ Blagnac, le 11 juillet 2026
 
 ## Sources Législation
 
-[^n1]: > « Le fait d'user de promesses, offres, présents, pressions, menaces, voies de fait, manoeuvres ou artifices au cours d'une procédure ou en vue d'une demande ou défense en justice afin de déterminer autrui soit à faire ou délivrer une déposition, une déclaration ou une attestation mensongère, soit à s'abstenir de faire ou délivrer une déposition, une déclaration ou une attestation, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende, même si la subornation n'est pas suivie d'effet. » <br>
+[^n1]: > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+    > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+    > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+    📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
+
+[^n2]: > « Le fait d'user de promesses, offres, présents, pressions, menaces, voies de fait, manoeuvres ou artifices au cours d'une procédure ou en vue d'une demande ou défense en justice afin de déterminer autrui soit à faire ou délivrer une déposition, une déclaration ou une attestation mensongère, soit à s'abstenir de faire ou délivrer une déposition, une déclaration ou une attestation, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende, même si la subornation n'est pas suivie d'effet. » <br>
     > **Code pénal > Section 2 : Des entraves à l'exercice de la justice.** <br>
     > [Article 434-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641) ↩
 
-[^n2]: > « Le fait de ne pas comparaître, de ne pas prêter serment ou de ne pas déposer, sans excuse ni justification, devant le juge d'instruction ou devant un officier de police judiciaire agissant sur commission rogatoire par une personne qui a été citée par lui pour y être entendue comme témoin est puni de 3 750 euros d'amende. » <br>
+[^n3]: > « Le fait de ne pas comparaître, de ne pas prêter serment ou de ne pas déposer, sans excuse ni justification, devant le juge d'instruction ou devant un officier de police judiciaire agissant sur commission rogatoire par une personne qui a été citée par lui pour y être entendue comme témoin est puni de 3 750 euros d'amende. » <br>
     > **Code pénal > Section 2 : Des entraves à l'exercice de la justice.** <br>
     > [Article 434-15-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418645) ↩
 
-[^n3]: > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. » <br>
+[^n4]: > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. » <br>
     > **Code du travail > Chapitre Ier : Obligations de l'employeur.** <br>
-    > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) ↩
-
-[^n4]: > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
-    > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
-    > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
+    > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)
+    📚 Bibliothèque locale : [Article_L4121-1_CodeTravail](Lois/Code/Code_du_travail/Article_L4121-1_CodeTravail.md) ↩
 <!-- /Source -->

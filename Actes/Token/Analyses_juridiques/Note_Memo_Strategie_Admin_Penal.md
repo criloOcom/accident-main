@@ -76,7 +76,7 @@ ACCIDENT 29/05/2026
 | Action | Fondement | Risque juridique |
 |--------|-----------|------------------|
 | Relancer le **Maire** pour suivre ses saisines | Art. L. 2212-2 CGCT | Aucun |
-| Écrire à la **Préfecture / CODAF** pour état d'avancement | CRPA Art. L. 300-1 | Aucun (si poli et factuel) |
+| Écrire à la **Préfecture / CODAF** pour état d'avancement | CRPA Art. L. 300-1[^n1] | Aucun (si poli et factuel) |
 | Écrire à l'**Inspection du travail** pour état d'avancement | CRPA + jurisprudence CE favorable aux victimes | Aucun |
 | Demander communication des **rapports d'enquête** nous concernant | CRPA + CE, victime d'accident du travail → droit d'accès au rapport | Peut être refusé si enquête en cours |
 | Saisir la **CADA** après refus | CRPA Art. L. 342-1 | Aucun (mais long) |
@@ -116,7 +116,7 @@ ACCIDENT 29/05/2026
 |---------|--------|
 | PV initial n°2026/015967 | ✅ Déposé (Toulouse, 02/06) |
 | Plainte complémentaire | ⏳ PROJET PRÊT (non déposé — dépôt prévu lundi 20/07) |
-| Requête Art. 145[^n1] CPC | ⏳ PROJET PRÊT (non déposé — dépôt prévu lundi 20/07) |
+| Requête Art. 145[^n2] CPC | ⏳ PROJET PRÊT (non déposé — dépôt prévu lundi 20/07) |
 | Demande d'AJ totale | ⏳ PROJET PRÊT (non déposé — dépôt prévu lundi 20/07) |
 | Constitution partie civile | ⏳ En attente (nécessite AJ + avocat désigné) |
 <hr><hr>
@@ -160,7 +160,7 @@ ACCIDENT 29/05/2026
 | **Art. 10-2 CPP** | Droit de la victime à l'information sur l'état de la procédure pénale |
 | **Art. 40-2 CPP** | Information de la victime sur les suites de sa plainte |
 | **Art. L. 300-1 CRPA** | Droit d'accès aux documents administratifs |
-| **Art. 145[^n1] CPC** | Mesure d'instruction in futurum (requête prête, dépôt prévu après obtention AJ) |
+| **Art. 145[^n2] CPC** | Mesure d'instruction in futurum (requête prête, dépôt prévu après obtention AJ) |
 | **Jurisprudence CE** | Droit de la victime d'accéder au rapport d'enquête de l'Inspection du travail la concernant |
 
 <hr><hr>
@@ -172,7 +172,12 @@ ACCIDENT 29/05/2026
 
 ## Sources Législation
 
-[^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+[^n1]: > « Le droit de toute personne à l'information est précisé et garanti par les dispositions des titres Ier, III et IV du présent livre en ce qui concerne la liberté d'accès aux documents administratifs. » <br>
+    > **Code des relations entre le public et l'administration > Livre III : L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET LA RÉUTILISATION DES INFORMATIONS PUBLIQUES.** <br>
+    > [Article L300-1 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367687) ↩
+
+[^n2]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
     > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
-    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+    📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 <!-- /Source -->

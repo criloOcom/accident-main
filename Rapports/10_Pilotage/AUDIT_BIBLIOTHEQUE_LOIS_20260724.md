@@ -11,8 +11,11 @@ supprimé par erreur.
 
 RÉPONSE : NON. Le dépôt local est PLUS RICHE que le Sheet.
 - Dépôt local : 268 LEGIARTI + 92 JURITEXT cités.
+
 - Google Sheet : 71 LEGIARTI + 39 JURITEXT.
+
 - Références du Sheet ABSENTES du dépôt : seulement 3 LEGIARTI + 6 JURITEXT.
+
   - LEGIARTI manquants : 121-2 CP, 475-1 CPP, 121-1 à 121-7 CP → TOUS déjà présents
     dans le dictionnaire Légifrance local et utilisés ailleurs (pas « perdus »).
   - JURITEXT manquants : Cass. Com. 11-15.700, Civ. 3e 14-15.326, Civ. 2e 16-24.631,
@@ -23,6 +26,7 @@ RÉPONSE : NON. Le dépôt local est PLUS RICHE que le Sheet.
 ## 2. Bibliothèque Lois/ — taux d'utilisation
 
 - 150 fichiers Lois/ (dont 73 contiennent un LEGIARTI).
+
 - 55 fichiers Lois/ sont référencés par les docs (via LEGIARTI dans les notes de
   bas de page) → 73 % des fichiers « sourced » sont exploités.
 - 95 fichiers Lois/ NON référencés du tout (dont 18 pertinents contenant un
@@ -30,10 +34,15 @@ RÉPONSE : NON. Le dépôt local est PLUS RICHE que le Sheet.
 
 ### 18 fichiers Lois/ pertinents NON liés depuis les notes (à connecter) :
 - Code_assurances : L113-1, L121-1 à 121-7
+
 - Code_civil : 1359, 1382, 1383, 2044
+
 - Code_commerce : L123-2, L210-6, L223-22, L227-1, L622-24
+
 - Code_procédure_civile : 144, 263, 655
+
 - Code_procédure_pénale : 8, 80
+
 - Code_pénal : 121-1 à 121-7
 
 Ces articles sont DÉJÀ cités dans les notes de bas de page (via Légifrance), mais

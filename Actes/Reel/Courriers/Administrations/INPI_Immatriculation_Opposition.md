@@ -78,7 +78,7 @@ Il existe de sérieuses raisons de penser que la société SAS HB BARBER et ses 
 
 > *« À la demande de tout intéressé ou du ministère public, le président du tribunal, statuant en référé, peut enjoindre sous astreinte au dirigeant de toute personne morale de procéder au dépôt des pièces et actes au registre du commerce et des sociétés auquel celle-ci est tenue par des dispositions législatives ou réglementaires. »* <br>
 > [Article L.123-5-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291) <br>
-> Code de commerce[^1] <br>
+> Code de commerce <br>
 
 Cet article permet à tout intéressé — ici Sébastien GRAZIDE, créancière d'une obligation indemnitaire — de solliciter du président du tribunal, statuant en référé, qu'il enjoigne sous astreinte aux dirigeants de régulariser leur situation au registre.
 
@@ -90,7 +90,7 @@ Par la présente, je sollicite que le Parquet soit saisi pour exercer ce pouvoir
 
 > *« Faute par un commerçant personne physique de requérir son immatriculation dans le délai prescrit, le juge commis soit d'office, soit à la requête du procureur de la République ou de toute personne justifiant y avoir intérêt, rend une ordonnance lui enjoignant, le cas échéant sous astreinte, de demander son immatriculation. Dans les mêmes conditions, le juge peut enjoindre, le cas échéant sous astreinte, à toute personne immatriculée au registre du commerce et des sociétés [...] de faire procéder [...] à la radiation. »* <br>
 > [Article L.123-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422) <br>
-> Code de commerce[^2] <br>
+> Code de commerce <br>
 
 Cet article permet à un tiers justifiant d'un intérêt légitime — ici Sébastien GRAZIDE, créancière d'une obligation indemnitaire — de solliciter du juge commis à la surveillance du registre qu'il enjoigne aux dirigeants de régulariser l'immatriculation ou de procéder à la radiation de toute inscription irrégulière.
 
@@ -111,11 +111,11 @@ Je vous prie de bien vouloir :
 
 3. **M'informer** de tout dépôt de dossier d'immatriculation à cette adresse dans les six prochains mois.
 
-4. **Transmettre** la présente opposition au ministère public aux fins d'exercice du pouvoir prévu à l'article L.123-5-1 du Code de commerce.
+4. **Transmettre** la présente opposition au ministère public aux fins d'exercice du pouvoir prévu à l'article L.123-5-1 du Code de commerce[^n1].
 
 > *« A la demande de tout intéressé ou du ministère public, le président du tribunal, statuant en référé, peut enjoindre sous astreinte au dirigeant de toute personne morale de procéder au dépôt des pièces et actes au registre du commerce et des sociétés auquel celle-ci est tenue par des dispositions législatives ou réglementaires. Le président peut, dans les mêmes conditions et à cette même fin, désigner un mandataire chargé d'effectuer ces formalités. »* <br>
 > [Article L123-5-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291) <br>
-> **Code de commerce > Sous-section 1 : Des personnes tenues à l'immatriculation.[^1]**
+> **Code de commerce > Sous-section 1 : Des personnes tenues à l'immatriculation.**
 
 Je vous remercie de l'attention que vous porterez à cette demande et vous prie de croire, Monsieur le Greffier, en l'expression de mes salutations distinguées.
 
@@ -140,6 +140,8 @@ Avocat au Barreau
 
 ## Sources Législation
 
-[^1]: [Article L.123-5-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291) ↩
-[^2]: [Article L.123-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422) ↩
+[^n1]: > « A la demande de tout intéressé ou du ministère public, le président du tribunal, statuant en référé, peut enjoindre sous astreinte au dirigeant de toute personne morale de procéder au dépôt des pièces et actes au registre du commerce et des sociétés auquel celle-ci est tenue par des dispositions législatives ou réglementaires. Le président peut, dans les mêmes conditions et à cette même fin, désigner un mandataire chargé d'effectuer ces formalités. » <br>
+    > **Code de commerce > Sous-section 1 : Des personnes tenues à l'immatriculation.** <br>
+    > [Article L123-5-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291)
+    📚 Bibliothèque locale : [Article_L123-5-1_Codecommerce](Lois/Code/Code_commerce/Article_L123-5-1_Codecommerce.md) ↩
 <!-- /Source -->

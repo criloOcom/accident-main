@@ -7,8 +7,11 @@ type: courrier
 date: 2026-07-21
 tags:
 - LRAR
+
 - demande attestation
+
 - préposé
+
 - témoin
 statut: projet
 destinataire: L'Exploitant du Commerce (La SAS)
@@ -54,13 +57,18 @@ Par la présente, je sollicite votre coopération pour que **[Le Préposé de l'
 
 Son témoignage est essentiel pour établir :
 - Les circonstances exactes de l'accident
+
 - L'absence d'escabeau ou d'équipement adapté
+
 - L'état de la vasque en céramique et sa cassure préexistante
+
 - Les consignes de sécurité (ou leur absence)
 
 **Procédure :**
 1. Vous trouverez ci-joint le formulaire Cerfa n° 11527\*03 pré-rempli aux mentions d'identité
+
 2. Il suffit de le dater, le signer et joindre une copie recto-verso de la pièce d'identité
+
 3. Retour par email à **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)** ou par courrier à **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
 
 Je vous remercie de votre coopération. Cette démarche purement amiable et facultative vise à établir la réalité des faits dans l'intérêt de tous.

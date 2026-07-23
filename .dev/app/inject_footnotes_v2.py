@@ -62,7 +62,7 @@ KEYWORDS = {
 ART = re.compile(
     r'\b(articles?|art\.)\s+'
     r'((?:(?:L|R|D)\.?\s?)?\d+[\-\d]*(?:\s*(?:et|,)\s*(?:(?:L|R|D)\.?\s?)?\d+[\-\d]*)*)'
-    r'(?:\s+(?:du|de la|des|de l\')\s+(Code[\w\sé\'’]{3,55}?|CPC|CPP|CGCT|CRPA))?'
+    r'(?:\s+(?:du|de la|des|de l\')\s+(Code\s+(?:de\s+procédure\s+civile|de\s+procédure\s+pénale|des\s+assurances|de\s+la\s+sécurité\s+sociale|du\s+travail|de\s+commerce|de\s+la\s+santé\s+publique|général\s+des\s+collectivités|des\s+relations\s+entre\s+le\s+public\s+et\s+l\'administration|civil|pénal|penal)|CPC|CPP|CGCT|CRPA))?'
     r'(?=[\s,.;:\)\]«]|$)',
     re.IGNORECASE)
 

@@ -572,21 +572,28 @@ Texte du paragraphe.
 
 ### 1. En-tête des courriers
 - **Bloc Expéditeur** : Seul le **Nom Prénom** est en **gras**. L'adresse postale (voie et CP/ville sur une seule ligne séparées par une virgule) et l'adresse email (transformée en **hyperlien cliquable `mailto:` en Bleu Lien Google + Souligné**) sont en **texte normal (non gras)**. Retours à la ligne au sein du bloc gérés par des sauts doux (**Shift+Entrée** / 2 espaces) pour maintenir un interlignage compact.
+
 - **Bloc Destinataire** : Seule la **Raison sociale / Organisme** est en **gras**. Les lignes de service et d'adresse postale (voie et CP/ville sur la même ligne séparées par une virgule) sont en **texte normal (non gras)**. Retours à la ligne au sein du bloc gérés par **Shift+Entrée**.
+
 - **Séparation des blocs** : Séparer le bloc Expéditeur, Destinataire, Date et Objet par des sauts de paragraphe clairs (`&nbsp;` en Markdown).
+
 - **Ligne Objet** : L'intitulé de la ligne **Objet : ...** est intégralement en **gras**. La ligne *Ref : ...* qui suit est en texte normal.
 
 ### 2. Taille des titres et typographie
 - **Titres majeurs de sections** : La taille de police des titres de section (ex. `I — OBJET DE LA RELANCE`) est fixée à **16 pt** en **GRAS (BOLD)** (structure H3 / Heading 3).
+
 - **Corps de texte** : Police standard 11 pt ou 12 pt, texte justifié.
 
 ### 3. Notes de bas de page (Footnotes)
 - **Fonctionnalité native obligatoire** : Toute référence jurisprudentielle ou légale citée en note doit être insérée avec le composant native **Footnote** de Google Docs (`createFootnote` avec segment dédié).
+
 - **Interdiction** : Ne jamais recréer de section factice "Sources" en simple texte au bas du document.
 
 ### 4. Section PIECES JOINTES
 - **Titre de la section** : `PIECES JOINTES` en **16 pt GRAS**.
+
 - **Puces de pièces jointes** :
+
   - **Intitulé de la pièce** (à gauche du tiret ` — `) : En **Bleu Lien Google + GRAS + Souligné + Hyperlien cliquable vers le fichier Google Drive**.
   - **Description explicative** (après le tiret ` — `) : Strictement en **Texte Noir normal (non gras, non souligné, non bleu)**.
 - **Règle absolue** : Tous les agents (AntiGravity, OpenCode, Hermès, Jules) DOIVENT appliquer ce standard sans dérogation.
@@ -616,8 +623,11 @@ Le Google Sheet **PJ** (`1cwb8L5fc7HqsAHP6IH32gSFwKRIdSztcYk1XmfbaYIg`) est l'in
 
 ### 3. Règles de mapping
 - Token et Reel partagent toujours le **même uid** (colonne G = colonne J).
+
 - Les URLs GitHub sont dans la branche `main`.
+
 - Les drive_id vides (colonne C/E vides) = document non encore lié à Google Drive.
+
 - La ligne 1 du sheet contient le titre de la feuille. Les données commencent ligne 3 (en-têtes ligne 2).
 
 ## XVII — Protocole UID→YAML Cross-Reference Sheet
@@ -627,9 +637,13 @@ Garantir que toute URL écrite dans le Sheet PJ correspond à un fichier réel s
 
 ### Workflow
 1. **Scan** : Parcourir `Actes/Token/` récursivement, extraire `uid:` du YAML front matter de chaque `.md`.
+
 2. **Mapping** : Produire `{uid: chemin_relatif}`.
+
 3. **Vérification** : Avant d'écrire A–C ou G–K, vérifier que l'uid cible existe dans le mapping.
+
 4. **Écriture** : URL GitHub = `https://github.com/criloOcom/accident-main/blob/main/Actes/Token/{chemin}`.
+
 5. **Orphelins** : Tout uid sheet sans fichier .md est un orphelin — ne PAS écrire A–C.
 
 ### Colonnes concernées

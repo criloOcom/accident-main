@@ -55,7 +55,7 @@ destinataire: Tribunal Judiciaire de Foix
 
 [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md), demeurant [**[L'Adresse de la Victime]**](../../../../Memory/Tokens/token-victime-adresse.md), informaticien indépendant,
 
-tendant à voir ordonner, avant tout procès, des mesures d'instruction sur le fondement de l'article 145 du Code de procédure civile ;
+tendant à voir ordonner, avant tout procès, des mesures d'instruction sur le fondement de l'article 145 du Code de procédure civile[^n1] ;
 <!-- /Destinataire -->
 
 **Vu les pièces produites à l'appui de la requête**, et notamment :
@@ -82,7 +82,7 @@ tendant à voir ordonner, avant tout procès, des mesures d'instruction sur le f
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* ;
 
-**Vu l'article L.124-3 du Code des assurances** relatif au droit d'action directe de la victime contre l'assureur de la personne responsable ;
+**Vu l'article L.124-3[^n2] du Code des assurances** relatif au droit d'action directe de la victime contre l'assureur de la personne responsable ;
 
 **Considérant** que [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) expose avoir été victime, le [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) vers 15h20, d'un accident corporel grave dans un salon de coiffure situé [**[L'Adresse de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-adresse.md), au cours duquel le basculement d'un bac à shampoing brisé a provoqué une coupure profonde de la main droite (index), ayant nécessité une intervention de microchirurgie en urgence le [**[J+1 Chirurgie]**](../../../../Memory/Tokens/token-j-1-chirurgie.md) et entraînant une incapacité professionnelle importante ;
 
@@ -110,11 +110,11 @@ que la liste des souscripteurs et le certificat de dépôt de fonds établissent
 
 - ni, le cas échéant, les enregistrements de vidéosurveillance permettant de retracer précisément les circonstances de l'accident ;
 
-**Considérant** que l'identification de la personne responsable et de son ou ses assureurs est déterminante pour la solution du futur litige civil relatif à l'indemnisation du dommage corporel ; que le requérant entend notamment exercer, le cas échéant, son droit d'action directe contre l'assureur de la personne responsable, en application de l'article L.124-3 du Code des assurances ;
+**Considérant** que l'identification de la personne responsable et de son ou ses assureurs est déterminante pour la solution du futur litige civil relatif à l'indemnisation du dommage corporel ; que le requérant entend notamment exercer, le cas échéant, son droit d'action directe contre l'assureur de la personne responsable, en application de l'article L.124-3 du Code des assurances[^n2] ;
 
 **Considérant** que le requérant a constaté, lors d'une visite sur place le 16 juillet 2026, que le bac à shampoing brisé à l'origine de l'accident avait été remplacé par un bac neuf et que le meuble de télévision mural avait été démonté, sans qu'aucune explication ne lui ait été fournie ; que ces modifications, intervenues postérieurement à l'accident, caractérisent un risque avéré de dépérissement ou de disparition des preuves, au-delà du simple risque théorique, en particulier s'agissant du bac à shampoing, des enregistrements de vidéosurveillance et des documents contractuels ;
 
-**Considérant** qu'il existe, dans ces conditions, un motif légitime, au sens de l'article 145 du Code de procédure civile, d'ordonner avant tout procès les mesures d'instruction sollicitées, légalement admissibles, afin de conserver et d'établir la preuve de faits dont pourrait dépendre la solution du litige ; qu'il est proportionné de faire droit aux demandes de communication formées à l'encontre :
+**Considérant** qu'il existe, dans ces conditions, un motif légitime, au sens de l'article 145 du Code de procédure civile[^n1], d'ordonner avant tout procès les mesures d'instruction sollicitées, légalement admissibles, afin de conserver et d'établir la preuve de faits dont pourrait dépendre la solution du litige ; qu'il est proportionné de faire droit aux demandes de communication formées à l'encontre :
 
 - de [**[Le Propriétaire des Murs]**](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md), en sa qualité de propriétaire bailleur,
 
@@ -127,7 +127,7 @@ que la liste des souscripteurs et le certificat de dépôt de fonds établissent
 
 Statuant sur requête, hors la présence des parties,
 
-**DIT** qu'il existe un motif légitime, au sens de l'article 145 du Code de procédure civile, de conserver et d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution du litige relatif à l'accident corporel dont a été victime [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) le [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) dans le salon de coiffure exploité au [**[L'Adresse de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-adresse.md) ;
+**DIT** qu'il existe un motif légitime, au sens de l'article 145 du Code de procédure civile[^n1], de conserver et d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution du litige relatif à l'accident corporel dont a été victime [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) le [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) dans le salon de coiffure exploité au [**[L'Adresse de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-adresse.md) ;
 
 **ORDONNE** à [**[Le Propriétaire des Murs]**](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md), propriétaire des locaux sis [**[L'Adresse de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-adresse.md), de communiquer à [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md), par l'intermédiaire de son conseil, dans un délai de **30 jours** à compter de la signification de la présente ordonnance :
 
@@ -181,5 +181,11 @@ Fait à [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-
 
 [^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
     > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
-    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+    📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
+
+[^n2]: > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+    > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+    > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+    📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
 <!-- /Source -->

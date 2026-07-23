@@ -14,9 +14,9 @@ key_points:
 recipient: Monsieur le Président du Tribunal Judiciaire de Foix
 jurisdiction: Tribunal Judiciaire de Foix
 legal_basis:
-  - Article 145 du Code de procédure civile
-  - Article L. 124-3 du Code des assurances
-  - Article 1240 du Code civil[^n2]
+  - Article 145 du Code de procédure civile[^n1]
+  - Article L. 124-3 du Code des assurances[^n2]
+  - Article 1240 du Code civil[^n3]
 description: À déposer au greffe du TJ de Foix — REQUÊTE (pas d'assignation). Imprimer 2 exemplaires, demander récépissé.
 type: document
 date: 2026-07-20
@@ -66,7 +66,7 @@ Cabinet du Juge des Référés
 [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md), le 20 juillet 2026
 ## I — INTRODUCTION
 
-La présente requête est introduite par [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) sur le fondement de l'article 145 du Code de procédure civile.
+La présente requête est introduite par [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) sur le fondement de l'article 145 du Code de procédure civile[^n1].
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »*
 > [Article 145 du Code de procédure civile](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md)
@@ -117,13 +117,13 @@ Par ailleurs, l'établissement est resté fermé environ 30 jours après l'accid
 
 ### III.1 — Sur le motif légitime de l'article 145[^n1] CPC
 
-L'article 145 du Code de procédure civile dispose :
+L'article 145 du Code de procédure civile[^n1] dispose :
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »*
 
 En l'espèce, le motif légitime est caractérisé par l'impossibilité pour le requérant d'accéder aux documents et pièces nécessaires à la préparation de son action indemnitaire, détenus exclusivement par [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), ses dirigeants et le bailleur.
 
-Le requérant a, en amont de la présente requête, entrepris l'ensemble des démarches amiables à sa portée (déclarations et plaintes auprès des services de police, lettres recommandées à l'exploitant initialement identifié et à son bailleur, signalement auprès de la mairie de [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md) et échanges avec [**[L'Adjoint au Maire de la Commune]**](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)), demeurées sans réponse satisfaisante et sans clarification effective de l'identité de l'exploitant et de son assureur, ce qui justifie à ce stade le recours aux mesures d'instruction sollicitées sur le fondement de l'article 145 du Code de procédure civile.
+Le requérant a, en amont de la présente requête, entrepris l'ensemble des démarches amiables à sa portée (déclarations et plaintes auprès des services de police, lettres recommandées à l'exploitant initialement identifié et à son bailleur, signalement auprès de la mairie de [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md) et échanges avec [**[L'Adjoint au Maire de la Commune]**](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)), demeurées sans réponse satisfaisante et sans clarification effective de l'identité de l'exploitant et de son assureur, ce qui justifie à ce stade le recours aux mesures d'instruction sollicitées sur le fondement de l'article 145 du Code de procédure civile[^n1].
 
 La jurisprudence admet que la communication forcée de documents contractuels constitue une mesure d'instruction licite au sens de l'article 145[^n1] CPC, dès lors qu'elle est nécessaire à la préparation d'un procès futur.
 
@@ -133,7 +133,7 @@ La jurisprudence admet que la communication forcée de documents contractuels co
 
 ### III.2 — Sur le droit d'action directe de la victime (L.124-3)
 
-L'article L.124-3 du Code des assurances consacre le droit de la victime d'agir directement contre l'assureur de la personne responsable :
+L'article L.124-3 du Code des assurances[^n2] consacre le droit de la victime d'agir directement contre l'assureur de la personne responsable :
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »*
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
@@ -212,11 +212,11 @@ Eu égard au silence délibéré des défendeurs et à l'urgence tenant au risqu
 
 ## PAR CES MOTIFS
 
-Vu l'article 145 du Code de procédure civile,
+Vu l'article 145 du Code de procédure civile[^n1],
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »*
 > [Article 145 du Code de procédure civile](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md)
 
-Vu l'article L.124-3 du Code des assurances,
+Vu l'article L.124-3 du Code des assurances[^n2],
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »*
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
@@ -295,9 +295,15 @@ Fait à [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-
 
 [^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
     > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
-    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+    📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 
-[^n2]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+[^n2]: > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+    > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+    > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+    📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
+
+[^n3]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
     > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 <!-- /Source -->

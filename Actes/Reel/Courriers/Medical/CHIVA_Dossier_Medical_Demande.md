@@ -54,7 +54,7 @@ Blagnac, le 18 juillet 2026
 
 <hr><hr>
 
-**Objet : Demande de communication de mon dossier médical personnel (Loi du 4 mars 2002 — article L. 1111-7 du Code de[^n1] la santé publique)**
+**Objet : Demande de communication de mon dossier médical personnel (Loi du 4 mars 2002 — article L. 1111-7 du Code de la santé publique[^n1])**
 
 <hr><hr>
 
@@ -67,7 +67,7 @@ Blagnac, le 18 juillet 2026
 
 Monsieur le Directeur,
 
-En application des dispositions de l'article L. 1111-7 du Code de[^n1] la santé publique (Loi Kouchner du 4 mars 2002), je sollicite par la présente la communication de l'intégralité de mon dossier médical relatif à mon admission aux urgences de votre établissement le **29 mai 2026**.
+En application des dispositions de l'article L. 1111-7 du Code de la santé publique[^n1] (Loi Kouchner du 4 mars 2002), je sollicite par la présente la communication de l'intégralité de mon dossier médical relatif à mon admission aux urgences de votre établissement le **29 mai 2026**.
 
 J'ai été admis aux urgences le **29 mai 2026** suite à un accident corporel de la main droite survenu dans un commerce de Foix, nécessitant des soins d'urgence de la part du docteur Dr Julie JARDON.
 

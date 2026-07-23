@@ -140,5 +140,6 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
 
 [^n1]: > « Sont interdits : 1° Le travail totalement ou partiellement dissimulé, défini et exercé dans les conditions prévues aux articles L. 8221-3 et L. 8221-5 ; 2° La publicité, par quelque moyen que ce soit, tendant à favoriser, en toute connaissance de cause, le travail dissimulé ; 3° Le fait de recourir sciemment, directement ou par personne interposée, aux services de celui qui exerce un travail dissimulé. » <br>
     > **Code du travail > Section 1 : Dispositions générales.** <br>
-    > [Article L8221-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815) ↩
+    > [Article L8221-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815)
+    📚 Bibliothèque locale : [Article_L8221-1_CodeTravail](Lois/Code/Code_du_travail/Article_L8221-1_CodeTravail.md) ↩
 <!-- /Source -->

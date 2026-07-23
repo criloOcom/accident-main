@@ -148,13 +148,13 @@ _Séances de kiné : 30 juin, 1er, 3, 4, 7, 8, 10, 11, 14, 15, 17 juillet 2026 (
 
 J'envoie plusieurs lettres recommandées avec accusé de réception :
 
-1. **LRAR à [L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** (22 Rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**) : déclaration d'accident, demande des coordonnées de l'assurance responsabilité civile professionnelle, sur le fondement de l'article L.124-3 du Code des assurances (action directe de la victime).
+1. **LRAR à [L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** (22 Rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**) : déclaration d'accident, demande des coordonnées de l'assurance responsabilité civile professionnelle, sur le fondement de l'article L.124-3 du Code des assurances[^n1] (action directe de la victime).
 
 2. **LRAR à **[L'Ancien Président de l'Exploitation](../../../../Memory/Tokens/token-ancien-president-exploitation.md)****, ancien président de la SAS LES MAUVAIS GARÇONS : mise en demeure de communiquer les informations d'assurance, rappel du principe de la faute détachable (arrêt SATI, Cass. Com., 20 mai 2003) et de l'application de ce principe au défaut d'assurance obligatoire.
 
 3. **LRAR à **[L'Ancienne Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-ancienne-directrice-generale-exploitation.md)** **, ancienne directrice générale de la SAS LES MAUVAIS GARÇONS : même objet, même fondement juridique.
 
-4. **LRAR à [Le Propriétaire des Murs]**, propriétaire bailleur (17 Rue de la Baïse, 31120 ROQUETTES) : demande de communication des coordonnées de l'assurance de l'exploitant, sur le fondement des articles 1719 et 1720[^n1][^n2] du Code civil[^loi-1][^loi-2] (obligations du bailleur) et de l'article L.124-3 du Code des assurances.
+4. **LRAR à [Le Propriétaire des Murs]**, propriétaire bailleur (17 Rue de la Baïse, 31120 ROQUETTES) : demande de communication des coordonnées de l'assurance de l'exploitant, sur le fondement des articles 1719 et 1720[^n2][^n3] du Code civil[^loi-1][^loi-2] (obligations du bailleur) et de l'article L.124-3 du Code des assurances[^n1].
 
 **Récapitulatif des LRAR :**
 
@@ -351,11 +351,16 @@ Fait à **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-vill
 
 ## Sources Législation
 
-[^n1]: > « Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière : 1° De délivrer au preneur la chose louée et, s'il s'agit de son habitation principale, un logement décent. Lorsque des locaux loués à usage d'habitation sont impropres à cet usage, le bailleur ne peut se prévaloir de la nullité du bail ou de sa résiliation pour demander l'expulsion de l'occupant ; 2° D'entretenir cette chose en état de servir à l'usage pour lequel elle a été louée ; 3° D'en faire jouir paisiblement le preneur pendant la durée du bail ; 4° D'assurer également la permanence et la qualité des plantations. » <br>
+[^n1]: > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+    > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+    > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+    📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
+
+[^n2]: > « Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière : 1° De délivrer au preneur la chose louée et, s'il s'agit de son habitation principale, un logement décent. Lorsque des locaux loués à usage d'habitation sont impropres à cet usage, le bailleur ne peut se prévaloir de la nullité du bail ou de sa résiliation pour demander l'expulsion de l'occupant ; 2° D'entretenir cette chose en état de servir à l'usage pour lequel elle a été louée ; 3° D'en faire jouir paisiblement le preneur pendant la durée du bail ; 4° D'assurer également la permanence et la qualité des plantations. » <br>
     > **Code civil > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.** <br>
     > [Article 1719 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) ↩
 
-[^n2]: > « Le bailleur est tenu de délivrer la chose en bon état de réparations de toute espèce. Il doit y faire, pendant la durée du bail, toutes les réparations qui peuvent devenir nécessaires, autres que les locatives. » <br>
+[^n3]: > « Le bailleur est tenu de délivrer la chose en bon état de réparations de toute espèce. Il doit y faire, pendant la durée du bail, toutes les réparations qui peuvent devenir nécessaires, autres que les locatives. » <br>
     > **Code civil > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.** <br>
     > [Article 1720 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784) ↩
 <!-- /Source -->

@@ -7,8 +7,11 @@ type: courrier
 date: 2026-07-21
 tags:
 - LRAR
+
 - demande attestation
+
 - président
+
 - témoin
 statut: projet
 destinataire: Le Président de l'Exploitation
@@ -53,12 +56,16 @@ Par la présente, je sollicite votre témoignage via le **formulaire Cerfa n° 1
 
 Votre témoignage est important pour établir :
 - Votre présence sur les lieux au moment des faits
+
 - Les circonstances de l'accident
+
 - La tentative de remboursement amiable
 
 **Procédure :**
 1. Remplir le formulaire Cerfa n° 11527\*03 ci-joint
+
 2. Joindre une copie recto-verso de votre pièce d'identité
+
 3. Retour par email à sebastien.grazide@gmail.com ou par courrier à 10 Avenue de Purpan, 31700 Blagnac
 
 Je vous remercie par avance de votre coopération.

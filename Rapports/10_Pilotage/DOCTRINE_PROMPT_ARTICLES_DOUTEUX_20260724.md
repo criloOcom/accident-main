@@ -21,11 +21,13 @@ Pour chaque question ci-dessous, je veux de vous :
    Code général des impôts, Code de commerce, Code de la construction et de
    l'habitation, Code des relations entre le public et l'administration, etc.).
 2. Le **numéro d'article exact** (avec son préfixe L./R./D. si applicable).
+
 3. Le **lien Légifrance** vers l'article (format
    `https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTIxxxxxxxx` — le numéro
    LEGIARTI est trouvable dans la barre d'adresse de Légifrance quand on ouvre
    l'article).
 4. Le **texte de loi pertinent** (1 à 2 phrases).
+
 5. Si l'article concerne une responsabilité / une infraction / une prescription,
    citez **un arrêt de la Cour de cassation** récent (moins de 10 ans) illustrant
    l'application de cet article, avec sa référence (ex. : Civ. 2e, 15 mai 1992,

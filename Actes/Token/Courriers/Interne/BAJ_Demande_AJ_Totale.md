@@ -132,7 +132,7 @@ Le demandeur sollicite un **traitement accéléré** de sa demande d'AJ pour le 
 >
 > Une fois ces enregistrements effacés, la preuve des circonstances exactes de l'accident (basculement du préposé sur la vasque en céramique, absence de matériel de sécurité adapté) sera irrémédiablement perdue.
 >
-> Une requête sur le fondement de l'article 145 du Code de procédure civile a été préparée à cette fin, mais ne pourra être déposée **qu'après désignation d'un avocat**, laquelle est subordonnée à l'obtention de la présente AJ.
+> Une requête sur le fondement de l'article 145 du Code de procédure civile[^n2] a été préparée à cette fin, mais ne pourra être déposée **qu'après désignation d'un avocat**, laquelle est subordonnée à l'obtention de la présente AJ.
 >
 > **L'audience de référé-provision a été fixée au 31 juillet 2026**, ce qui rend impérative l'obtention rapide de l'AJ pour permettre la signification de l'assignation par avocat.
 <hr><hr>
@@ -228,5 +228,6 @@ Avenue Paul Laffont, 09000 Foix
 
 [^n2]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
     > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
-    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+    📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 <!-- /Source -->

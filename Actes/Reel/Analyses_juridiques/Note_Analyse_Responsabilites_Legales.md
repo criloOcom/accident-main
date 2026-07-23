@@ -125,7 +125,7 @@ Il convient de noter que le préposé bénéficie d'une immunité civile selon l
 
 ### IV.1 — ACTION DIRECTE CONTRE L'ASSUREUR
 
-Le levier le plus efficace demeure l'action directe contre l'assureur RC de la SAS, fondée sur l'article L. 124-3 du Code des assurances, garantissant la réparation intégrale des préjudices (pertes de revenus, préjudice corporel et moral) estimés à ce jour à **~90 000 €** (selon l'étude d'indemnisation détaillée).
+Le levier le plus efficace demeure l'action directe contre l'assureur RC de la SAS, fondée sur l'article L. 124-3 du Code des assurances[^n5], garantissant la réparation intégrale des préjudices (pertes de revenus, préjudice corporel et moral) estimés à ce jour à **~90 000 €** (selon l'étude d'indemnisation détaillée).
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
@@ -133,7 +133,7 @@ Le levier le plus efficace demeure l'action directe contre l'assureur RC de la S
 
 ### IV.2 — PREUVES ET PROCÉDURES
 
-La consolidation des preuves médicales (comptes rendus du Dr Iskander DJERBI et matérielles est impérative. En cas de rétention d'informations sur l'assureur, l'article 145 du Code de procédure civile permet de saisir le juge des référés pour obtenir les pièces nécessaires.
+La consolidation des preuves médicales (comptes rendus du Dr Iskander DJERBI et matérielles est impérative. En cas de rétention d'informations sur l'assureur, l'article 145 du Code de procédure civile[^n6] permet de saisir le juge des référés pour obtenir les pièces nécessaires.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
 > [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000518693](../../../Lois/Code/LEGIARTI0000518693.md)39) <br>
@@ -141,13 +141,13 @@ La consolidation des preuves médicales (comptes rendus du Dr Iskander DJERBI et
 
 ### IV.3 — OBLIGATION D'INFORMATION DE L'ASSURANCE ET RÉFÉRÉ-COMMUNICATION
 
-En vertu de l'article L. 113-2[^n5], 4° du Code des assurances, l'assuré (la SAS) a l'obligation légale de déclarer tout sinistre à son assureur dans un délai de 5 jours ouvrés.
+En vertu de l'article L. 113-2[^n7], 4° du Code des assurances, l'assuré (la SAS) a l'obligation légale de déclarer tout sinistre à son assureur dans un délai de 5 jours ouvrés.
 
 > *« L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. »* <br>
 > [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000357313](../../../Lois/Code/LEGIARTI0000357313.md)02) <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre Ier > Chapitre III.**
 
-De plus, bien que le gérant tente de dissimuler l'identité de son assurance pour faire obstruction, l'article L. 124-3 du Code des assurances consacre le droit d'action directe autonome de la victime.
+De plus, bien que le gérant tente de dissimuler l'identité de son assurance pour faire obstruction, l'article L. 124-3 du Code des assurances[^n5] consacre le droit d'action directe autonome de la victime.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
@@ -155,7 +155,7 @@ De plus, bien que le gérant tente de dissimuler l'identité de son assurance po
 
 Pour rendre ce droit effectif, le gérant a un devoir de bonne foi de communiquer ses coordonnées d'assurance.
 
-En cas de refus persistant de transmettre les coordonnées de l'assureur RC, la victime peut saisir en urgence le Président du Tribunal judiciaire en référé sur le fondement de l'article 145 du Code de procédure civile.
+En cas de refus persistant de transmettre les coordonnées de l'assureur RC, la victime peut saisir en urgence le Président du Tribunal judiciaire en référé sur le fondement de l'article 145 du Code de procédure civile[^n6].
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. »* <br>
 > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000518693](../../../Lois/Code/LEGIARTI0000518693.md)39) <br>
@@ -261,11 +261,18 @@ La difficulté centrale est le **recouvrement** : 1 000 € seulement. La voie p
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
     > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 
-[^n5]: > « L'assuré est obligé : 1° De payer la prime ou cotisation aux époques convenues ; 2° De répondre exactement aux questions posées par l'assureur, notamment dans le formulaire de déclaration du risque par lequel l'assureur l'interroge lors de la conclusion du contrat, sur les circonstances qui sont de nature à faire apprécier par l'assureur les risques qu'il prend en charge ; 3° De déclarer, en cours de contrat, les circonstances nouvelles qui ont pour conséquence soit d'aggraver les risques, soit d'en créer de nouveaux et rendent de ce fait inexactes ou caduques les réponses faites à l'assureur, notamment dans le formulaire mentionné au 2° ci-dessus. L'assuré doit, par lettre recommandée ou par envoi recommandé électronique, déclarer ces circonstances à l'assureur dans un délai de quinze jours à partir du moment où il en a eu connaissance ; 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai fixé par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. Ce délai minimal est ramené à deux jours ouvrés en cas de vol et à vingt-quatre heures en cas de mortalité du bétail. Les délais ci-dessus peuvent être prolongés d'un commun accord entre les parties contractantes. Lorsqu'elle est prévue par une clause du contrat, la déchéance pour déclaration tardive au regard des délais prévus au 3° et au 4° ci-dessus ne peut être opposée à l'assuré que si l'assureur établit que le retard dans la déclaration lui a causé un préjudice. Elle ne peut également être opposée dans tous les cas où le retard est dû à un cas fortuit ou de force majeure. Les dispositions mentionnées aux 1°, 3° et 4° ci-dessus ne sont pas applicables aux assurances sur la vie. » <br>
-    > **Code des assurances > Chapitre III : Obligations de l'assureur et de l'assuré.** <br>
-    > [Article L113-2 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) ↩
+[^n5]: > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+    > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+    > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+    📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
 
 [^n6]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
     > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
-    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) ↩
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+    📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
+
+[^n7]: > « L'assuré est obligé : 1° De payer la prime ou cotisation aux époques convenues ; 2° De répondre exactement aux questions posées par l'assureur, notamment dans le formulaire de déclaration du risque par lequel l'assureur l'interroge lors de la conclusion du contrat, sur les circonstances qui sont de nature à faire apprécier par l'assureur les risques qu'il prend en charge ; 3° De déclarer, en cours de contrat, les circonstances nouvelles qui ont pour conséquence soit d'aggraver les risques, soit d'en créer de nouveaux et rendent de ce fait inexactes ou caduques les réponses faites à l'assureur, notamment dans le formulaire mentionné au 2° ci-dessus. L'assuré doit, par lettre recommandée ou par envoi recommandé électronique, déclarer ces circonstances à l'assureur dans un délai de quinze jours à partir du moment où il en a eu connaissance ; 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai fixé par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. Ce délai minimal est ramené à deux jours ouvrés en cas de vol et à vingt-quatre heures en cas de mortalité du bétail. Les délais ci-dessus peuvent être prolongés d'un commun accord entre les parties contractantes. Lorsqu'elle est prévue par une clause du contrat, la déchéance pour déclaration tardive au regard des délais prévus au 3° et au 4° ci-dessus ne peut être opposée à l'assuré que si l'assureur établit que le retard dans la déclaration lui a causé un préjudice. Elle ne peut également être opposée dans tous les cas où le retard est dû à un cas fortuit ou de force majeure. Les dispositions mentionnées aux 1°, 3° et 4° ci-dessus ne sont pas applicables aux assurances sur la vie. » <br>
+    > **Code des assurances > Chapitre III : Obligations de l'assureur et de l'assuré.** <br>
+    > [Article L113-2 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)
+    📚 Bibliothèque locale : [Article_L113-2_Codesassurances_Legifrance](Lois/Code/Code_assurances/Article_L113-2_Codesassurances_Legifrance.md) ↩
 <!-- /Source -->

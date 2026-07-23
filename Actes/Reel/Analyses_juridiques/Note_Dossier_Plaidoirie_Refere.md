@@ -96,13 +96,13 @@ La victime bénéficie d'un droit d'action directe et autonome contre l'assureur
 
 ### III.3 — FONDEMENT DE LA RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS (L.227-8, L.225-251, FAUTE DÉTACHABLE SATI)
 
-En droit, l'article L.227-8 du Code de commerce dispose que :
+En droit, l'article L.227-8 du Code de commerce[^n2] dispose que :
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
 > [Article L.227-8](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062270](../../../Lois/Code/LEGIARTI0000062270.md)36) <br>
 > **Code de commerce**
 
-Il en résulte que le régime de responsabilité des dirigeants de SA, et notamment l'article L.225-251 du Code de commerce, est applicable au Président et à la Directrice Générale de la SAS : ils peuvent être déclarés responsables, envers la société et envers les tiers, des fautes commises dans leur gestion, des infractions aux dispositions légales et des violations des statuts.
+Il en résulte que le régime de responsabilité des dirigeants de SA, et notamment l'article L.225-251 du Code de commerce[^n3], est applicable au Président et à la Directrice Générale de la SAS : ils peuvent être déclarés responsables, envers la société et envers les tiers, des fautes commises dans leur gestion, des infractions aux dispositions légales et des violations des statuts.
 
 La jurisprudence constante de la Cour de cassation précise, avec l'arrêt SATI (Cass. com., 20 mai 2003, n° 99-17.092), que la responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions, et qu'« il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales ».
 
@@ -120,7 +120,7 @@ Le défaut délibéré de souscription d'une assurance légalement obligatoire, 
 
 Sans préjuger de l'appréciation du juge du fond, ces éléments sont de nature à engager la responsabilité personnelle des dirigeants à l'égard de la victime. Ils justifient que, dès ce stade du référé, le tribunal prenne en compte le risque sérieux de faute détachable pour :
 
-- caractériser le motif légitime au sens de l'article 145 du Code de procédure civile et ordonner les mesures d'instruction demandées ;
+- caractériser le motif légitime au sens de l'article 145 du Code de procédure civile[^n4] et ordonner les mesures d'instruction demandées ;
 
 - et, le cas échéant, apprécier le bien-fondé d'une provision mise à la charge solidaire de la société et de ses dirigeants.
 
@@ -143,7 +143,7 @@ L'argumentation développée s'appuie sur une jurisprudence constante :
 
 - **Faute détachable du dirigeant (Arrêt SATI - Cass. Com., 20 mai 2003) :** [N° 99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69). Le dirigeant qui commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions engage sa responsabilité personnelle. En l'espèce, l'obstruction des dirigeants et le défaut de communication caractérisent une faute détachable.
 
-- **Principe de réparation intégrale (Art. 1240[^n2] C. civ.) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour Sébastien GRAZIDE, informaticien indépendant, l'incidence professionnelle est majeure.
+- **Principe de réparation intégrale (Art. 1240[^n5] C. civ.) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour Sébastien GRAZIDE, informaticien indépendant, l'incidence professionnelle est majeure.
 <hr><hr>
 
 ## V — PIÈCES À CITER IMPÉRATIVEMENT
@@ -193,7 +193,22 @@ Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'encei
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
     > [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
 
-[^n2]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+[^n2]: > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
+    > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
+    > [Article L227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
+    📚 Bibliothèque locale : [Article_L227-8_Codecommerce_Legifrance](Lois/Code/Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) ↩
+
+[^n3]: > « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. Si plusieurs administrateurs ou plusieurs administrateurs et le directeur général ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du dommage. » <br>
+    > **Code de commerce > Section 8 : De la responsabilité civile.** <br>
+    > [Article L225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
+    📚 Bibliothèque locale : [Article_L225-251_Codecommerce_Legifrance](Lois/Code/Code_commerce/Article_L225-251_Codecommerce_Legifrance.md) ↩
+
+[^n4]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+    > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+    📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
+
+[^n5]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
     > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 <!-- /Source -->

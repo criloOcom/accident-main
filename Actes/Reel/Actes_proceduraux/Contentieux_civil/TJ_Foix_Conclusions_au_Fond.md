@@ -106,7 +106,7 @@ Par ordonnance de référé du [**[Date Ordonnance Référé]**](../../../../Mem
 
 ### IV.1 — 2.1 Rappel de l'instance
 
-Par exploit d'huissier en date du **[J+63 Assignation 145]**, la demanderesse a fait assigner la SAS **SAS HB BARBER devant le Tribunal Judiciaire de Foix sur le fondement de l'article 145 du Code de procédure civile aux fins de voir ordonner une expertise médicale et d'obtenir une provision à valoir sur l'indemnisation de son préjudice corporel.
+Par exploit d'huissier en date du **[J+63 Assignation 145]**, la demanderesse a fait assigner la SAS **SAS HB BARBER devant le Tribunal Judiciaire de Foix sur le fondement de l'article 145 du Code de procédure civile[^n1] aux fins de voir ordonner une expertise médicale et d'obtenir une provision à valoir sur l'indemnisation de son préjudice corporel.
 
 Par ordonnance du [**[Date Ordonnance Référé]**](../../../../Memory/STRICT%20VARIABLES.md%23dates-cles), le juge des référés a :
 - Ordonné une expertise médicale confiée à [**[Expert Désigné]**](../../../../Memory/STRICT%20VARIABLES.md%23expert-1)
@@ -119,9 +119,9 @@ Le rapport d'expertise a été déposé au greffe le 29 mai 2027 et a fixé la c
 
 ### IV.2 — 2.2 Qualité et recevabilité de l'action
 
-La demanderesse, en sa qualité de tiers lésé par l'accident survenu dans un établissement recevant du public, agit sur le fondement cumulé des articles 1242[^n1] alinéa 1er et 1240 du Code civil, ainsi que des articles L.4121-1 à L.4121-5 et R.4323-58 du Code du travail.
+La demanderesse, en sa qualité de tiers lésé par l'accident survenu dans un établissement recevant du public, agit sur le fondement cumulé des articles 1242[^n2] alinéa 1er et 1240 du Code civil, ainsi que des articles L.4121-1 à L.4121-5 et R.4323-58 du Code du travail.
 
-L'action est recevable et non prescrite, le délai de droit commun de cinq ans (article 2224 du Code civil[^n2]) courant à compter de la consolidation du 1er mars 2027.
+L'action est recevable et non prescrite, le délai de droit commun de cinq ans (article 2224 du Code civil[^n3]) courant à compter de la consolidation du 1er mars 2027.
 
 ### IV.3 — 2.3 Compétence du Tribunal Judiciaire de Foix
 
@@ -134,9 +134,9 @@ Il n'y a pas lieu à sursis à statuer dans l'attente de l'issue de l'informatio
 
 ## V — RESPONSABILITÉ
 
-### V.1 — 3.1 Responsabilité du fait des choses (article 1242[^n1] alinéa 1er du Code civil)
+### V.1 — 3.1 Responsabilité du fait des choses (article 1242[^n2] alinéa 1er du Code civil)
 
-L'article 1242[^n1] alinéa 1er du Code civil dispose :
+L'article 1242[^n2] alinéa 1er du Code civil dispose :
 
 > *« On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des choses que l'on a sous sa garde. »*
 
@@ -160,13 +160,13 @@ La responsabilité du fait des choses repose sur trois conditions cumulatives :
 
 À titre subsidiaire, la SAS SAS HB BARBER a méconnu plusieurs obligations légales et réglementaires :
 
-**Articles L.4121-1[^n3] à L.4121-5 du Code du travail** — obligation générale de sécurité et de protection de la santé :
+**Articles L.4121-1[^n4] à L.4121-5 du Code du travail** — obligation générale de sécurité et de protection de la santé :
 
 > *« L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. »* (Article L.4121-1)
 
-> *« Ces mesures comprennent : 1° Des actions de prévention des risques professionnels ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. »* (Article L.4121-2[^n4])
+> *« Ces mesures comprennent : 1° Des actions de prévention des risques professionnels ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. »* (Article L.4121-2[^n5])
 
-**Article R.4323-58 du Code du[^n5] travail** — obligation de fournir un équipement d'accès en hauteur :
+**Article R.4323-58[^n6] du Code du travail** — obligation de fournir un équipement d'accès en hauteur :
 
 > *« Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. »*
 
@@ -176,13 +176,13 @@ La responsabilité du fait des choses repose sur trois conditions cumulatives :
 
 2. **État défectueux de l'équipement** : la vasque présentait une cassure préexistante non signalée, constituant un danger pour les clients et les salariés
 
-3. **Absence présumée de DUERP** : à ce jour, aucun Document Unique d'Évaluation des Risques Professionnels n'a été communiqué, en violation des articles R.4121-1[^n6] et suivants du Code du travail
+3. **Absence présumée de DUERP** : à ce jour, aucun Document Unique d'Évaluation des Risques Professionnels n'a été communiqué, en violation des articles R.4121-1[^n7] et suivants du Code du travail
 
 4. **Défaut de formation et d'information** : le préposé n'a pas été formé aux risques liés au travail en hauteur ni informé de l'état dangereux de l'équipement
 
-### V.3 — 3.3 Faute de la SAS (article 1240 du Code civil[^n7] — très subsidiaire)
+### V.3 — 3.3 Faute de la SAS (article 1240 du Code civil[^n8] — très subsidiaire)
 
-À titre infiniment subsidiaire, la SAS SAS HB BARBER a commis une faute civile engageant sa responsabilité délictuelle sur le fondement de l'article 1240 du Code civil[^n7].
+À titre infiniment subsidiaire, la SAS SAS HB BARBER a commis une faute civile engageant sa responsabilité délictuelle sur le fondement de l'article 1240 du Code civil[^n8].
 
 Cette faute résulte du cumul de négligences inexcusables :
 - Défaut de signalement et de réparation de la cassure préexistante de la vasque
@@ -193,7 +193,7 @@ Cette faute résulte du cumul de négligences inexcusables :
 
 - Défaut d'entretien des équipements
 
-> **Note méthodologique — Responsabilité des dirigeants** : La responsabilité in solidum des dirigeants de la SAS pourrait être recherchée sur le fondement de l'article L.227-8 du Code de commerce (faute de gestion détachable), si la carence dans la gestion des risques et le défaut d'entretien des équipements étaient établis. Cette voie, conservée comme scénario offensif, n'est pas développée dans le corps des présentes conclusions afin de ne pas fragiliser le fondement principal (1242). Cf. note méthodologique annexée.
+> **Note méthodologique — Responsabilité des dirigeants** : La responsabilité in solidum des dirigeants de la SAS pourrait être recherchée sur le fondement de l'article L.227-8 du Code de commerce[^n9] (faute de gestion détachable), si la carence dans la gestion des risques et le défaut d'entretien des équipements étaient établis. Cette voie, conservée comme scénario offensif, n'est pas développée dans le corps des présentes conclusions afin de ne pas fragiliser le fondement principal (1242). Cf. note méthodologique annexée.
 
 ### V.4 — 3.4 Lien de causalité et absence de cause étrangère
 
@@ -209,7 +209,7 @@ La SAS SAS HB BARBER ne peut invoquer aucune cause étrangère exonératoire :
 
 - **Faute de la victime** : la demanderesse était passivement installée au bac à shampoing, dans le cadre normal de la prestation de services ; son geste réflexe de protection ne constitue pas une faute (Civ. 2e, 11 janvier 1995, n° 92-21.788 : le geste instinctif de protection n'est pas une faute exonératoire)
 
-- **Fait du tiers** : le préposé était dans l'exercice de ses fonctions ; son fait est celui du commettant (article 1242[^n1] al. 5 C. civ.)
+- **Fait du tiers** : le préposé était dans l'exercice de ses fonctions ; son fait est celui du commettant (article 1242[^n2] al. 5 C. civ.)
 
 > *« Les commettants sont responsables des dommages causés par leurs préposés dans les fonctions auxquelles ils les ont employés. »*
 <hr><hr>
@@ -363,9 +363,9 @@ Aide humaine temporaire pendant la période de convalescence.
 
 **PAR CES MOTIFS,**
 
-Vu les articles 1240, 1242[^n7][^n1] alinéa 1er du Code civil,
+Vu les articles 1240, 1242[^n8][^n2] alinéa 1er du Code civil,
 Vu les articles L.4121-1 à L.4121-5, R.4121-1 et suivants, R.4323-58 du Code du travail,
-Vu l'article L.124-3 du Code des assurances,
+Vu l'article L.124-3 du Code des assurances[^n10],
 Vu les articles 29 et 31 de la loi n° 85-677 du 5 juillet 1985,
 Vu le rapport d'expertise médicale déposé le 29 mai 2027,
 Vu les pièces versées aux débats,
@@ -374,7 +374,7 @@ Vu les pièces versées aux débats,
 
 **RECEVOIR** la demanderesse en ses demandes et les dire bien fondées ;
 
-**DIRE ET JUGER** que la SAS SAS HB BARBER est entièrement responsable du préjudice corporel subi par Sébastien GRAZIDE sur le fondement de l'article 1242[^n1] alinéa 1er du Code civil, subsidiairement sur celui de l'article 1240[^n7] du même code ;
+**DIRE ET JUGER** que la SAS SAS HB BARBER est entièrement responsable du préjudice corporel subi par Sébastien GRAZIDE sur le fondement de l'article 1242[^n2] alinéa 1er du Code civil, subsidiairement sur celui de l'article 1240[^n8] du même code ;
 
 **CONDAMNER** en conséquence la SAS SAS HB BARBER les sommes suivantes :
 
@@ -406,7 +406,7 @@ Vu les pièces versées aux débats,
 
 **CONDAMNER** la même aux entiers dépens, en ce compris les frais d'expertise judiciaire ;
 
-**DIRE** que les sommes allouées porteront intérêts au taux légal à compter de la présente décision, avec anatocisme (article 1343-2 du Code civil[^n8]) ;
+**DIRE** que les sommes allouées porteront intérêts au taux légal à compter de la présente décision, avec anatocisme (article 1343-2 du Code civil[^n11]) ;
 
 **ORDONNER** l'exécution provisoire de la décision à intervenir, nonobstant appel et sans constitution de garantie.
 
@@ -419,7 +419,7 @@ Vu les pièces versées aux débats,
 **FAIT À Foix, LE [**[Date Dépôt Conclusions]**](../../../../Memory/STRICT%20VARIABLES.md%23dates-cles)**
 
 Sébastien GRAZIDE
-*(partie demanderesse, non assistée d'avocat — article 853 du Code de procédure civile)*
+*(partie demanderesse, non assistée d'avocat — article 853 du Code de procédure civile[^n12])*
 <hr><hr>
 
 ## VIII — BORDEREAU DES PIÈCES COMMUNIQUÉES
@@ -452,35 +452,58 @@ Sébastien GRAZIDE
 
 ## Sources Législation
 
-[^n1]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
+[^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
+    > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
+    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+    📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
+
+[^n2]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
     > [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
 
-[^n2]: > « Les actions personnelles ou mobilières se prescrivent par cinq ans à compter du jour où le titulaire d'un droit a connu ou aurait dû connaître les faits lui permettant de l'exercer. » <br>
+[^n3]: > « Les actions personnelles ou mobilières se prescrivent par cinq ans à compter du jour où le titulaire d'un droit a connu ou aurait dû connaître les faits lui permettant de l'exercer. » <br>
     > **Code civil > Section 1 : Du délai de droit commun et de son point de départ.** <br>
-    > [Article 2224 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112) ↩
+    > [Article 2224 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112)
+    📚 Bibliothèque locale : [Article_2224_CodeCivil](Lois/Code/Code_civil/Article_2224_CodeCivil.md) ↩
 
-[^n3]: > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. » <br>
+[^n4]: > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. » <br>
     > **Code du travail > Chapitre Ier : Obligations de l'employeur.** <br>
-    > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) ↩
+    > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)
+    📚 Bibliothèque locale : [Article_L4121-1_CodeTravail](Lois/Code/Code_du_travail/Article_L4121-1_CodeTravail.md) ↩
 
-[^n4]: > « L'employeur met en oeuvre les mesures prévues à l'article L. 4121-1 sur le fondement des principes généraux de prévention suivants : 1° Eviter les risques ; 2° Evaluer les risques qui ne peuvent pas être évités ; 3° Combattre les risques à la source ; 4° Adapter le travail à l'homme, en particulier en ce qui concerne la conception des postes de travail ainsi que le choix des équipements de travail et des méthodes de travail et de production, en vue notamment de limiter le travail monotone et le travail cadencé et de réduire les effets de ceux-ci sur la santé ; 5° Tenir compte de l'état d'évolution de la technique ; 6° Remplacer ce qui est dangereux par ce qui n'est pas dangereux ou par ce qui est moins dangereux ; 7° Planifier la prévention en y intégrant, dans un ensemble cohérent, la technique, l'organisation du travail, les conditions de travail, les relations sociales et l'influence des facteurs ambiants, notamment les risques liés au harcèlement moral et au harcèlement sexuel, tels qu'ils sont définis aux articles L. 1152-1 et L. 1153-1 , ainsi que ceux liés aux agissements sexistes définis à l'article L. 1142-2-1 ; 8° Prendre des mesures de protection collective en leur donnant la priorité sur les mesures de protection individuelle ; 9° Donner les instructions appropriées aux travailleurs. » <br>
+[^n5]: > « L'employeur met en oeuvre les mesures prévues à l'article L. 4121-1 sur le fondement des principes généraux de prévention suivants : 1° Eviter les risques ; 2° Evaluer les risques qui ne peuvent pas être évités ; 3° Combattre les risques à la source ; 4° Adapter le travail à l'homme, en particulier en ce qui concerne la conception des postes de travail ainsi que le choix des équipements de travail et des méthodes de travail et de production, en vue notamment de limiter le travail monotone et le travail cadencé et de réduire les effets de ceux-ci sur la santé ; 5° Tenir compte de l'état d'évolution de la technique ; 6° Remplacer ce qui est dangereux par ce qui n'est pas dangereux ou par ce qui est moins dangereux ; 7° Planifier la prévention en y intégrant, dans un ensemble cohérent, la technique, l'organisation du travail, les conditions de travail, les relations sociales et l'influence des facteurs ambiants, notamment les risques liés au harcèlement moral et au harcèlement sexuel, tels qu'ils sont définis aux articles L. 1152-1 et L. 1153-1 , ainsi que ceux liés aux agissements sexistes définis à l'article L. 1142-2-1 ; 8° Prendre des mesures de protection collective en leur donnant la priorité sur les mesures de protection individuelle ; 9° Donner les instructions appropriées aux travailleurs. » <br>
     > **Code du travail > Chapitre Ier : Obligations de l'employeur.** <br>
     > [Article L4121-2 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033019913) ↩
 
-[^n5]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
+[^n6]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
     > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.** <br>
-    > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) ↩
+    > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
+    📚 Bibliothèque locale : [Article_R4323-58_CodeTravail](Lois/Code/Code_du_travail/Article_R4323-58_CodeTravail.md) ↩
 
-[^n6]: > « L'employeur transcrit et met à jour dans un document unique les résultats de l'évaluation des risques pour la santé et la sécurité des travailleurs à laquelle il procède en application de l'article L. 4121-3 . Cette évaluation comporte un inventaire des risques identifiés dans chaque unité de travail de l'entreprise ou de l'établissement, y compris ceux liés aux ambiances thermiques. » <br>
+[^n7]: > « L'employeur transcrit et met à jour dans un document unique les résultats de l'évaluation des risques pour la santé et la sécurité des travailleurs à laquelle il procède en application de l'article L. 4121-3 . Cette évaluation comporte un inventaire des risques identifiés dans chaque unité de travail de l'entreprise ou de l'établissement, y compris ceux liés aux ambiances thermiques. » <br>
     > **Code du travail > Section 1 : Document unique d'évaluation des risques.** <br>
-    > [Article R4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023795562) ↩
+    > [Article R4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023795562)
+    📚 Bibliothèque locale : [Article_R4121-1_CodeTravail](Lois/Code/Code_du_travail/Article_R4121-1_CodeTravail.md) ↩
 
-[^n7]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+[^n8]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
     > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 
-[^n8]: > « Les intérêts échus, dus au moins pour une année entière, produisent intérêt si le contrat l'a prévu ou si une décision de justice le précise. » <br>
+[^n9]: > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
+    > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
+    > [Article L227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
+    📚 Bibliothèque locale : [Article_L227-8_Codecommerce_Legifrance](Lois/Code/Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) ↩
+
+[^n10]: > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+    > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+    > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+    📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
+
+[^n11]: > « Les intérêts échus, dus au moins pour une année entière, produisent intérêt si le contrat l'a prévu ou si une décision de justice le précise. » <br>
     > **Code civil > Sous-section 2 : Dispositions particulières aux obligations de sommes d'argent.** <br>
     > [Article 1343-2 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035261) ↩
+
+[^n12]: > « Les parties sont, sauf disposition contraire, tenues de constituer avocat devant le tribunal de commerce. La constitution de l'avocat emporte élection de domicile. Les parties sont dispensées de l'obligation de constituer avocat dans les cas prévus par la loi ou le règlement, lorsque la demande porte sur un montant inférieur ou égal à 10 000 euros ou qu'elle a pour origine l'exécution d'une obligation dont le montant n'excède pas 10 000 euros, dans le cadre des procédures instituées par le livre VI du code de commerce ou pour les litiges relatifs à la tenue du registre du commerce et des sociétés. Le montant de la demande est apprécié conformément aux dispositions des articles 35 à 37 . Dans ces cas, elles ont la faculté de se faire assister ou représenter par toute personne de leur choix. Le représentant, s'il n'est avocat, doit justifier d'un pouvoir spécial. L'Etat, les régions, les départements, les communes et leurs établissements publics peuvent se faire assister ou représenter par un fonctionnaire ou un agent de leur administration. » <br>
+    > **Code de procédure civile > Titre III : Dispositions particulières au tribunal de commerce.** <br>
+    > [Article 853 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044200291) ↩
 <!-- /Source -->

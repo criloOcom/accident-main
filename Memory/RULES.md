@@ -69,6 +69,7 @@ type: memory
 - **MODIFICATIONS COURANTES** : Pour la consultation de fichiers, la mise à jour, la création ou l'édition de documents de travail en local, tu disposes de plein droit pour exécuter les scripts et commandes nécessaires sans interrompre inutilement l'utilisateur.
 
 - **INTERDICTION STRICTE DE SUPPRESSION EN MASSE ET COMPORTEMENT DESTRUCTEUR** :
+
   1. Il est **STRICTEMENT INTERDIT** d'exécuter des commandes de suppression en masse (`rm -rf`, nettoyage massif de dossiers, suppression de fichiers importants sur le local ou sur le Google Drive) sans demander **EXPLICITEMENT** une confirmation préalable avec le détail précis des fichiers impactés.
   2. Toute action destructrice sur des données distantes (Google Drive, Google Docs, APIs externes) nécessitant la suppression définitive de ressources doit obligatoirement faire l'objet d'une validation utilisateur explicite.
   3. En cas de doute sur la portée d'une commande de nettoyage ou de suppression, la prudence et le contrôle par l'utilisateur prévalent toujours.
@@ -765,19 +766,29 @@ Si une profession ou activité erronée est découverte dans un fichier :
 ## #31 — NORMES DE SECRÉTARIAT ET DE TYPOGRAPHIE GOOGLE DOCS (RÈGLE PERMANENTE)
 
 - **Taille des titres de section majeurs** : La taille de police des titres majeurs est fixée à **16 pt** (en **gras**). Il est formellement interdit d'utiliser des polices démesurées (comme 26 pt ou plus).
+
 - **Aération et sauts de ligne d'en-tête (Shift+Entrée / Line Breaks)** :
+
   1. Au sein d'un même bloc (Expéditeur, Destinataire), utiliser des **retours à la ligne simples / sauts de ligne doux (Shift+Entrée)** (2 espaces en fin de ligne en Markdown) afin que le bloc conserve un interlignage compact d'adresse.
   2. Entre les différents blocs distincts (Expéditeur, Destinataire, Date, Objet), séparer par des sauts de paragraphe/ligne nets (`&nbsp;` en Markdown).
 - **Couleurs d'hyperliens par défaut** : Ne JAMAIS forcer de couleur personnalisée (ex. bleu forcé) sur les hyperliens. Laisser la couleur par défaut de Google Docs s'appliquer automatiquement lors de la création d'un lien.
+
 - **Notes de bas de page natives** : Utiliser exclusivement la fonctionnalité native de notes de bas de page de Google Docs (`createFootnote` avec segment dédié), et ne jamais créer de sections factices "Sources" en simple texte en bas de document.
+
 - **Hyperliens de pièces officielles (ex. N° PV Police)** : Lors de la conversion de tokens de preuves officielles (ex. `[N° PV Police]` $\rightarrow$ `2026/015967`), la valeur réelle citée dans le corps du texte DOIT être transformée en **hyperlien cliquable en Bleu Lien Google + Gras + Souligné** pointant vers la pièce officielle hébergée sur Google Drive (ex. `1YXaJE81FFPTKcrcShg9DI5jUZ82T988V`).
+
 - **Conservation stricte des mots en gras issus du Markdown** : Les passages mis en gras dans le document Markdown source (notamment les intitulés ou débuts d'éléments de listes à puces ou numérotées, ex. `1. **Le rapport...**`) DOIVENT impérativement être restitués en **GRAS** dans le Google Doc final.
+
 - **Formatage des Listes à Puces et Numérotées NATIVES** : Il est formellement INTERDIT de simuler des puces par du texte brut (ex. écrire `1. Le rapport...` ou `- Si l'inspection...` en début de paragraphe). Chaque liste du Markdown doit être convertie via la commande API Google Docs `createParagraphBullets` :
+
   - **Listes numérotées** (`1.`, `2.`, `3.`) $\rightarrow$ `bulletPreset: NUMBERED_DECIMAL_ALPHA_ROMAN`
   - **Listes à puces** (`- `) $\rightarrow$ `bulletPreset: BULLET_DISC_CIRCLE_SQUARE` (ou `BULLET_ARROW_DIAMOND_DISC`)
 - **Ligne d'adresse postale unique dans les en-têtes** : Dans les blocs d'en-tête Expéditeur et Destinataire, la rue et la ville/CP (ex. `10 Avenue de Purpan, 31700 Blagnac` ou `45 Cours Gabriel Fauré, 09000 Foix`) DOIVENT figurer sur une **seule et même ligne** (séparées par une virgule), afin de maintenir une présentation compacte et harmonieuse.
+
 - **Restitution NATIVE des séparateurs `<hr>` (Bordures de paragraphe)** : Il est strictement INTERDIT de simuler des lignes de séparation avec du texte (ex. suites de tirets `───`). Dans l'API Google Docs, les balises `<hr>` entourant des blocs (ex. Objet / Ref) DOIVENT être générées avec les propriétés natives de bordure de paragraphe `borderTop` et `borderBottom` (`updateParagraphStyle` avec `dashStyle: SOLID`, `width: 1PT`), qui tracent des lignes horizontales d'en-tête natifs parfaites et propres sans bricolage textuel.
+
 - **Hyperliens mailto: sur les adresses email d'en-tête** : Dans le bloc Expéditeur (et tout bloc citant une adresse email), l'adresse email (ex. `sebastien.grazide@gmail.com`) DOIT être transformée en **hyperlien cliquable de type `mailto:`** (`mailto:sebastien.grazide@gmail.com`) en **Bleu Lien Google + Souligné**, permettant l'ouverture directe du client de messagerie.
+
 - **Conformité multi-agents** : Cette norme de secrétariat est obligatoire pour tout agent intervenant sur le dossier.
 
 ## #32 — GOOGLE SHEET PJ — INDEX CENTRALISÉ DES DOCUMENTS (RÈGLE PERMANENTE)
@@ -785,21 +796,31 @@ Si une profession ou activité erronée est découverte dans un fichier :
 ### Périmètre
 Le Google Sheet **PJ** (`1cwb8L5fc7HqsAHP6IH32gSFwKRIdSztcYk1XmfbaYIg`) feuille `@` est l'index unique faisant le lien entre :
 - **Colonnes A–E** : les fichiers source (Preuves officielles)
+
 - **Colonnes G–K** : les fichiers Token et Reel (Actes/Token/ et Actes/Reel/)
 
 ### Structure des lignes Token/Reel (G–K)
 - **G** : uid TOKEN (identifiant court du fichier dans `Actes/Token/`)
+
 - **H** : URL GitHub complète du fichier Token (branche `main`)
+
 - **J** : uid REEL (identique à G — un uid unique par paire Token+Reel)
+
 - **K** : URL GitHub complète du fichier Reel
 
 ### Règles
 1. **Tout fichier créé dans Actes/Token/** DOIT avoir son uid et URL ajoutés dans le sheet (colonne G–H).
+
 2. **Tout fichier Reel généré** DOIT avoir sa ligne correspondante (même uid que Token, colonne J–K).
+
 3. **L'uid est unique** et identique pour Token et Reel d'un même document.
+
 4. **Les drive_id (colonne C/E)** sont optionnels. Un champ vide signifie que le document n'a pas encore de lien- **Google Sheet PJ (Feuille `@`)** : Ne JAMAIS recopier les UIDs d'une colonne à l'autre (laisser vides les colonnes G ou J si l'utilisateur ne les a pas remplies). Ne JAMAIS altérer la colonne C (`ID Drive`). Toute intervention doit suivre strictement [Memory/GOOGLE_SHEET_PJ_PROTOCOL.md](GOOGLE_SHEET_PJ_PROTOCOL.md) (résolution exclusive des liens GitHub en B, H, K pour les UIDs déjà saisis).
+
 - **Google Sheets — RÈGLE ABSOLUE** : ne JAMAIS supposer la structure des colonnes. Avant d'écrire dans une feuille, **lis la ligne d'en-tête** et **3 lignes de données** pour valider le mapping exact. Supposer = cracher à la gueule de l'utilisateur.
+
 6. **Ne JAMAIS écrire dans le sheet** sans vérifier au préalable que l'uid n'y est pas déjà présent.
+
 7. Le fichier `CBEdW5mRW` (Police_Plainte_Complémentaire) a un uid présent en colonne G mais **sans drive_id dans son YAML** et sans ligne complète — ne pas dupliquer.
 
 ## #33 — UID→YAML CROSS-REFERENCE — VÉRIFICATION OBLIGATOIRE AVANT ÉCRITURE SHEET
@@ -809,10 +830,15 @@ Avant toute écriture d'URL ou d'uid dans le Sheet PJ, l'agent DOIT d'abord scan
 
 ### Protocole
 1. **Scanner** : Lire le YAML front matter de TOUS les fichiers `.md` dans `Actes/Token/` (récursif).
+
 2. **Extraire** : Pour chaque fichier, capturer la valeur `uid:`.
+
 3. **Mapper** : Construire la correspondance `uid → chemin_relatif_fichier`.
+
 4. **Cross-ref** : Pour chaque uid présent dans le sheet (colonnes G ou J), vérifier qu'il existe dans le mapping YAML.
+
 5. **Écrire** : N'écrire A–C (uid + URL + drive_id) que pour les uids confirmés existants.
+
 6. **Signaler** : Tout uid sheet sans fichier .md correspondant DOIT être signalé comme orphelin (marquer dans la colonne L ou commentaire).
 
 ### Script outil
@@ -820,4 +846,5 @@ Avant toute écriture d'URL ou d'uid dans le Sheet PJ, l'agent DOIT d'abord scan
 
 ### Cas particuliers (constaté)
 - Les lignes 282+ du sheet contiennent 119 uids pré-remplis en G–K dont **107 sont orphelins** (aucun fichier `.md` avec cet uid). Ces lignes sont des vestiges d'un index précédent — ne pas écrire A–C pour ces uids.
+
 - Les 12 uids valides dans cette zone (28BvPqLVz, 2EJvkmpmT, 2ZYi7VuiS, 33Ci3V5C2, 3F7kxsjHG, 3uWAc2Y38, 49rnkLCd5, 4WdjkXxL5, 5ijq4mw7b, MLE2ZEQAE, MmRsSGqvB, NGmmU6ELy) ont déjà A–C écrits.

@@ -41,14 +41,17 @@ Chaque bloc de colonnes répond à un rôle précis défini en ligne 2 :
 ## 2. INTERDICTIONS ET RÈGLES STRICTES POUR LES AGENTS
 
 1. **INTERDISION DE COPIER LES UIDs D'UNE COLONNE À L'AUTRE** :
+
    - Si la colonne `G` ou `J` est vide dans le travail d'origine (`@ Backup AvantInterventionAgent IA`), **LAISSER VIDE**.
    - Ne JAMAIS recopier l'UID de la colonne `A` vers la colonne `G` ou `J` automatiquement.
 
 2. **PROTECTION ABSOLUE DE LA COLONNE C** :
+
    - La colonne `C` contient les identifiants Google Drive saisis manuellement.
    - Ne JAMAIS modifier, tronquer ou supprimer ces valeurs.
 
 3. **MISSION EXCLUSIVE DE L'AGENT** :
+
    - Prendre la structure et les UIDs **exacts** du tableau d'origine.
    - Si un UID existe en colonne `A` mais que la colonne `B` est vide ➔ Résoudre l'URL GitHub dans `Actes/Preuves_officielles/` et la mettre en `B`.
    - Si un UID existe en colonne `G` mais que la colonne `H` est vide ➔ Résoudre l'URL GitHub sous `Actes/Token/` et la mettre en `H` (et le titre en `I`).
@@ -59,7 +62,9 @@ Chaque bloc de colonnes répond à un rôle précis défini en ligne 2 :
 ## 3. WORKFLOW ET OUTILS TECHNIQUE
 
 - **Lecture préalable obligatoire** : Lire la feuille `@ Backup AvantInterventionAgent IA` pour obtenir le baseline exact.
+
 - **Indexation locale** : Scanner les fichiers `.md` du dépôt pour associer chaque `uid` à son chemin GitHub exact (`https://github.com/criloOcom/accident-main/blob/main/Actes/...`).
+
 - **Écriture par API Google Sheets MCP** : Utiliser l'outil `writeSpreadsheet` par tranches/chunks (e.g. `A3:C52`, `G3:L52`) pour éviter tout problème de quota ou de timeout.
 
 ---

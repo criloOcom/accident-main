@@ -46,7 +46,9 @@ graph TD
 - **WORKFLOW.md** - Processus et workflows du projet
 
 - **[Mémo_Stratégie_Bailleur_HB_BARBER](Mémo_Stratégie_Bailleur_HB_BARBER.md)**
+
 - **[PIECES_A_AJOUTER_DOC](PIECES_A_AJOUTER_DOC.md)**
+
 - **[SESSION_AUDIT_DATES_JUILLET2026](SESSION_AUDIT_DATES_JUILLET2026.md)**
 
 - **[GEMINI](GEMINI.md)**
