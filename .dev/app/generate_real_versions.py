@@ -85,6 +85,8 @@ def load_tokens_map():
         "RPPS Médecin Urgence": "10107654321",
         "Le RPPS du Médecin en Urgence": "10107654321",
         "Le Médecin Généraliste": "Dr Oxybel",
+        "Le Médecin de Suivi": "Dr Prisca AKUÉ",
+        "Le Medecin de Suivi": "Dr Prisca AKUÉ",
         "Le Medecin Generaliste": "Dr Oxybel",
         "Le Médecin Traitant": "Dr Oxybel",
         "RPPS Médecin Traitant": "10109876543",

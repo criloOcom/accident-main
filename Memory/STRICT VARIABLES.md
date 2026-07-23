@@ -195,6 +195,8 @@ Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../Rapports/RAPPORT_AVOCAT_DINTILHAC
 
 - ITT_TOTAL : 55 jours (29/05/2026 → 23/07/2026)
 
+- TEMPS_PARTIEL_THERAPEUTIQUE : **24/07/2026 → 23/08/2026** (temps partiel / travail aménagé pour raison médicale, prescrit le 23/07/2026 par le Dr Prisca AKUÉ, Centre Médical L'Orangerie, Blagnac — pièce 54 ; fin de l'arrêt total au 23/07/2026, transition vers reprise aménagée)
+
 - ⚠ ITT_INITIALE_ERREUR : [**[Le Médecin Généraliste]**](../Memory/Tokens/token-victime-medecin-generaliste.md) a noté 1 jour le 01/06 (erreur matérielle ; l'arrêt de travail total est de 55 jours)
 
 - PV_POLICE : 2026/015967 (⚠ info non confirmée par retour officiel — source : courriel Mairie de [**[La Ville de l'Accident]**](../Memory/Tokens/token-accident-ville.md) du 01/06/2026 + dossier de plainte déposé par [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md))
@@ -241,10 +243,10 @@ Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../Rapports/RAPPORT_AVOCAT_DINTILHAC
 | `87001421903907I` | CPAM de Toulouse (dossier RCT) | 24/06/2026 | Avis de réception numérique disponible |
 | `870014282662911` | [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) (Relance Dirigeants J+40, V2) | 08/07/2026 | En attente de retrait (FOIX R P, jusqu'au 28/07) |
 | `87500152771696F` | [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) (mise en demeure J+51) | 18/07/2026 | 🟢 **Avis de réception numérique disponible** (Distribué le 22/07/2026) |
-| `875001528942001` | [**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md) (Hamza BERGUIGA, J+51) | 18/07/2026 | 🟡 **Non distribué** (Avisé / En instance La Poste au 22/07/2026) |
+| `875001528942001` | [**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md) (Hamza BERGUIGA, J+51) | 18/07/2026 | 🟢 **Récupéré** (retiré par le destinataire — déclaré par la victime le 23/07/2026) — aucun retour à ce jour |
 | `875001528942010` | [**[La Directrice Générale de l'Exploitation]**](../Memory/Tokens/token-exploitation-dg-nom.md) (Catherine SORROCHE, J+51) | 18/07/2026 | 🔵 **En cours de transport** (Pris en charge La Poste au 18/07/2026) |
 | `87500152888336B` | GHT des Pyrénées Ariégeoises CHIVA (Hôpital de Foix) | 18/07/2026 | 🟢 **Avis de réception numérique disponible** (Distribué le 22/07/2026) |
-| `87500152910287Q` | [**[Le Propriétaire des Murs]**](../Memory/Tokens/token-exploitation-bailleur-nom.md) (Relance 3, J+52) | 19/07/2026 | 🟡 **Non distribué** (Avisé / En instance La Poste au 22/07/2026) |
+| `87500152910287Q` | [**[Le Propriétaire des Murs]**](../Memory/Tokens/token-exploitation-bailleur-nom.md) (Relance 3, J+52) | 19/07/2026 | 🟢 **Récupéré** (retiré par le destinataire — déclaré par la victime le 23/07/2026) — aucun retour à ce jour |
 
 Les tokens `[N° LRAR Exploitant]`, `[N° LRAR Directrice]`, `[N° LRAR Président]` (et équivalents) dans les courriers Token résolvent vers ces valeurs réelles via la strate Reel.
 

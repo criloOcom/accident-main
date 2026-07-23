@@ -36,6 +36,8 @@ auteur: La Victime
 | **15/07/2026 (midi)** | **Visite des lieux** + constat photo | Faits / preuve | ✅ FAIT (16/07) | Effectuée le **16 juillet**, pas le 15. |
 | **15/07/2026 (après-midi)** | **Plainte complémentaire** Commissariat Foix | Pénal | 🏗️ EN COURS | Complément PV reprogrammé semaine 27/07. |
 | 15/07/2026 | **Consultation avocat Jimini** | Support | ✅ FAIT | Validation stratégie admin/pénal + courriers 41/42. |
+| 23/07/2026 | **Consultation Dr Prisca AKUÉ** (Centre Médical L'Orangerie, Blagnac) — note de suivi + avis temps partiel thérapeutique | Médical | ✅ FAIT | Fin de l'arrêt total (55 j). Cicatrice indurée, flexion MCP ~120°, douleurs palpation/hyperextension. Pièces 53-55. |
+| 24/07/2026 | **Début temps partiel thérapeutique** (travail aménagé) jusqu'au 23/08/2026 | Médical / indemnisation | ✅ PRESCRIT | Impact PGPA / incidence professionnelle / IJ CPAM (indépendant). |
 
 ---
 
@@ -52,6 +54,7 @@ auteur: La Victime
 | +2 mois après AR 41 | **Échéance silence Préfecture** (CADA possible) | Admin/CADA | ⏳ À SURVEILLER | Si silence ou refus → courrier 43 ou 44. |
 | +2 mois après AR 42 | **Échéance silence IT** (CADA possible) | Admin/CADA | ⏳ À SURVEILLER | Idem ci-dessus. |
 | ~Août-Sept 2026 | **Décision AJ** + désignation avocat | AJ | ⏳ À VENIR | Transmission dossier complet + mémo 21. |
+| **23/08/2026** | **Fin du temps partiel thérapeutique** (prescrit 24/07 → 23/08 par Dr AKUÉ) — réévaluation médicale à prévoir | Médical | ⏳ À SURVEILLER | Prolongation, reprise complète ou consolidation. |
 | **12/11/2026 13h45** | **RDV UMJ Purpan** (réquisition police) | Pénal/médical | ✅ FIXÉ | Évaluation ITT + séquelles. |
 
 ---

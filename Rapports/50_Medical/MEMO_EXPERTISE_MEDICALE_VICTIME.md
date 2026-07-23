@@ -45,7 +45,7 @@ L'expert basera son évaluation sur les documents médicaux que vous lui fournir
 
 - Carte de mutuelle.
 
-- Dossier CPAM (numéro d'accident du travail : **[N° [Dossier CPAM](../../Actes/Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**).
+- Dossier CPAM (numéro d'accident du travail : **[N° [Dossier CPAM](../../Actes/Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**).
 
 - Copie de votre dépôt de plainte et du PV de police.
 
@@ -60,7 +60,11 @@ L'expert basera son évaluation sur les documents médicaux que vous lui fournir
 
 - Les comptes-rendus de consultations de suivi chirurgical (J+24, etc.).
 
-- Les prescriptions et bilans de rééducation kinésithérapique et ergothérapique.
+- Les prescriptions et bilans de rééducation kinésithérapique et ergothérapique — notamment le **compte-rendu détaillé du cabinet de kinésithérapie de Blagnac transmis le 23/07/2026** (mesures d'amplitudes : extension MP droite 30° contre 80° à gauche, adhérences cicatricielles, appréhension à l'effort, PSFS 5,0/10).
+
+- **La note de suivi clinique du Dr Prisca AKUÉ du 23/07/2026** (Centre Médical L'Orangerie, Blagnac) : cicatrice propre, fermée, indurée ; flexion MCP de l'index limitée à ~120° ; flexion IPP presque complète ; douleurs à la palpation, à l'hyperextension et à la flexion.
+
+- **L'avis de temps partiel thérapeutique (travail aménagé) du 24/07/2026 au 23/08/2026** prescrit le 23/07/2026 par le Dr Prisca AKUÉ — preuve de la transition arrêt total (55 jours) → reprise aménagée.
 
 - Toute imagerie médicale (radios, scanner, écho-doppler).
 

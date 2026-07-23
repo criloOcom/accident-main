@@ -71,12 +71,15 @@ type: memory
 | 2026-07-22 | — | 📋 Pièces 22-24 attestations témoins | `gaitgj8isroeqorobg9j9ghf4c` |
 | 2026-07-22 | — | 💳 Preuves Wero (PSP) | `jncdk9j4r2022bj9hentqe36oc` |
 | 2026-07-22 | — | 📱 Adresses emails témoins + Dr DJERBI | `ri26kq27dah4q9o5qtm11qfo08` |
+| 2026-07-23 | 20260723-1730_DrPrisca_NoteDeSuivipdf.md, 20260723-1730_DrPrisca_ArretDeTravail_TempsPartiel_24072026au23082026pdf.md, 20260723-1544_Kine_CompteRendu_SebastienGrazidepdf.md | 🏥 Consultation Dr Prisca AKUÉ — note de suivi + avis temps partiel thérapeutique + CR kiné | ⚠️ À CRÉER (scope Calendar insuffisant le 23/07) |
+| 2026-07-24 | — | 🔄 Début temps partiel thérapeutique (→ 23/08/2026) | ⚠️ À CRÉER (scope Calendar insuffisant le 23/07) |
 | 2026-07-25 | ✉️🔄 Consolidation.md, 🔄 DrDJERBI Consolidation ✉️Mail.md | 🔄 Relance Dr DJERBI certificat consolidation | `mub8b2p6evslc099cbq9lobcas` |
 | 2026-07-26 | — | 📂 Scanner/télécharger justificatifs | `68tpri9aef5dhtnep20jjdofh0` |
 | 2026-07-28 | Mairie - Tavella - Courrier - Relance.md | 📧 Relance Maire Tavella — Suivi saisines | `3cru4itc30uql1k7pr1k6327bs` |
 | 2026-08-01 | BAJ - Demande AJ - Totale.md | ⚖️ Décision AJ + Désignation avocat BAJ | `ipivj4ul5rls1hrk1kqh9b0c6c` |
 | 2026-08-01 | — | 📑 Préparer pièces CIVI (CERFA 16160*01) | `5fi5nr1ugats4kag8ivgu58shs` |
 | 2026-08-15 | Police - Vidéos - Relance.md | 🔴🔴 Conservation vidéos (Art. 145 + réquisition) | `shbeqvnj9pp504anq8h8uk6pdc` |
+| 2026-08-23 | — | ⏰ Fin temps partiel thérapeutique — réévaluation médicale | ⚠️ À CRÉER (scope Calendar insuffisant le 23/07) |
 | 2026-11-12 | — | 🏥 RDV UMJ Purpan — Expertise médico-légale | `suohciave37olojiq54vulo3mo` |
 | 2027-05-29 | — | 🏥 Consolidation médicale — Référence | `o82igf5le11srkp0aji8v8gogc` |
 

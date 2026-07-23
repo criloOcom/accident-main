@@ -36,6 +36,7 @@ Chaque fiche regroupe :
 | `**[Le Chirurgien SOS Main]**` | [token-hopital-sosmain-chirurgien.md](token-hopital-sosmain-chirurgien.md) |
 | `**[Le Médecin en Urgence]**` | [token-hopital-urgence-medecin.md](token-hopital-urgence-medecin.md) |
 | `**[Le Médecin Généraliste]**` | [token-victime-medecin-generaliste.md](token-victime-medecin-generaliste.md) |
+| `**[Le Médecin de Suivi]**` | [token-medecin-de-suivi.md](token-medecin-de-suivi.md) |
 | `**[La Gestionnaire CPAM]**` | [token-cpam-gestionnaire-nom.md](token-cpam-gestionnaire-nom.md) |
 | `**[Nom de l'Avocat de la Victime]**` | [token-victime-avocat-nom.md](token-victime-avocat-nom.md) |
 | `**[L'Adjoint au Maire de la Commune]**` | [token-mairie-adjoint-nom.md](token-mairie-adjoint-nom.md) |

@@ -108,3 +108,19 @@ Si le médecin d'assurance ou l'expert tend à minimiser le DFP (par ex. <5%) ou
 - **Le Préjudice d'Agrément :** Bien circonscrire que le développement logiciel *hors activité rémunérée* constitue un loisir régulier désormais entravé, fondé sur la jurisprudence (Cass. 2e civ., 29 mars 2018, n° 17-14.499).
 
 L'audit démontre que l'architecture indemnitaire du dossier (basée sur l'avis du 13 juillet 2026) est rigoureusement conforme à la doctrine Dintilhac et prête à soutenir l'épreuve judiciaire.
+
+<hr><hr>
+
+## V — ACTUALISATION DU 23 JUILLET 2026 — TEMPS PARTIEL THÉRAPEUTIQUE
+
+Le 23 juillet 2026 (J+55, dernier jour de l'arrêt de travail total de 55 jours), le Dr Prisca AKUÉ (Centre Médical L'Orangerie, Blagnac) a prescrit un **temps partiel / travail aménagé pour raison médicale du 24/07/2026 au 23/08/2026** ([avis d'arrêt de travail](../../Actes/Preuves_officielles/20260723-1730_DrPrisca_ArretDeTravail_TempsPartiel/20260723-1730_DrPrisca_ArretDeTravail_TempsPartiel_24072026au23082026pdf.md)), corroboré par sa [note de suivi clinique](../../Actes/Preuves_officielles/20260723-1730_DrPrisca_NoteDeSuivi/20260723-1730_DrPrisca_NoteDeSuivipdf.md) (cicatrice indurée, flexion MCP ~120°, douleurs à la palpation et à l'hyperextension) et par le [compte-rendu de kinésithérapie détaillé](../../Actes/Preuves_officielles/20260723-1544_Kine_CompteRendu/20260723-1544_Kine_CompteRendu_SebastienGrazidepdf.md) (extension MP droite 30° contre 80° à gauche, PSFS 5,0/10).
+
+Impacts sur les postes de préjudice :
+
+- **DFT** : la période 24/07 → 23/08/2026 (31 jours) constitue un **DFT partiel** documenté médicalement — cohérent avec le détail canonique de l'expertise (56 j × 100 % + 35 j × 50 % + 95 j × 25 %, DFT_CANONIQUE 2 031 €). L'avis de temps partiel thérapeutique en est désormais la pièce justificative directe (pièce 54).
+
+- **PGPA** : la reprise n'est qu'**aménagée et partielle** pour un travailleur indépendant — la perte de gains se poursuit au-delà du 23/07/2026 à hauteur de la réduction d'activité ; à articuler avec les IJ CPAM au titre du temps partiel thérapeutique (dossier RCT 31727387).
+
+- **Incidence Professionnelle** : la nécessité d'un poste aménagé (dictée vocale, outils adaptés, limitation clavier/souris) objective la pénibilité accrue et la dévalorisation sur le marché du travail dès la reprise.
+
+- **Consolidation** : la prescription confirme l'absence de consolidation au 23/07/2026 — la réévaluation médicale du 23/08/2026 est le prochain jalon.

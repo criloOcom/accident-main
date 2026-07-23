@@ -33,6 +33,14 @@ Date de fin de l'arrêt de travail total — correspond à la date de fin de la 
 
 - Passage de la phase **ITT** (préjudices temporaires) à la phase **DFP** (préjudices permanents) dans l'évaluation Dintilhac
 
+## Suite immédiate — Temps partiel thérapeutique (constaté le 23/07/2026)
+
+Le 23 juillet 2026, le Dr Prisca AKUÉ (Centre Médical L'Orangerie, Blagnac) a :
+
+- dressé une **note de suivi clinique** (cicatrice propre, fermée, indurée ; flexion MCP de l'index limitée à ~120° ; flexion IPP presque complète ; douleurs à la palpation, à l'hyperextension et à la flexion) ;
+
+- prescrit un **temps partiel / travail aménagé pour raison médicale du 24/07/2026 au 23/08/2026** — la fin d'ITT ne correspond donc PAS à une reprise complète mais à une **reprise aménagée** (DFT partiel, PGPA et incidence professionnelle à ajuster).
+
 ⚠ ITT initiale erronée : **[Le Médecin Généraliste]** a noté 1 jour le 01/06/2026 — l'arrêt de travail total est de 55 jours (correspondant à la réalité clinique).
 
 ## Acteurs concernés
@@ -51,9 +59,9 @@ Date de fin de l'arrêt de travail total — correspond à la date de fin de la 
 
 ## Documents liés
 
-- [Arrêt de travail Dr OXYBEL 01/06/2026](../../Actes/Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)
+- [Arrêt de travail Dr OXYBEL 01/06/2026](../../Actes/Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md)
 
-- [Évaluation Dintilhac consolidée](../../Actes/Reel/Etudes_indemnisation/Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md)
+- [Évaluation Dintilhac consolidée](../../Actes/Reel/Etudes_indemnisation/Note_Evaluation_Dintilhac_Consolidee.md)
 
 ## Source
 

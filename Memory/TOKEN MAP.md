@@ -37,6 +37,8 @@ type: memory
 | Dr Julie Jardon / JARDON | [**[Le Médecin en Urgence]**](Tokens/token-hopital-urgence-medecin.md) |
 <a id="token-le-medecin-generaliste"></a>
 | Dr Oxybel / Oxybel | [**[Le Médecin Généraliste]**](Tokens/token-victime-medecin-generaliste.md) |
+<a id="token-le-medecin-de-suivi"></a>
+| Dr Prisca AKUÉ / AKUÉ / AKUE | [**[Le Médecin de Suivi]**](Tokens/token-medecin-de-suivi.md) |
 <a id="token-la-gestionnaire-cpam"></a>
 | Sigrid DESBOIS / DESBOIS | [**[La Gestionnaire CPAM]**](Tokens/token-cpam-gestionnaire-nom.md) |
 <a id="token-nom-de-l-avocat-de-la-victime"></a>

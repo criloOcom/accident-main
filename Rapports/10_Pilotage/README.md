@@ -19,6 +19,8 @@ Ce dossier contient ce que tu ouvres en premier pour savoir *quoi faire maintena
 
 - [`FRISE_CHRONOLOGIQUE_MULTI_VOLETS.md`](FRISE_CHRONOLOGIQUE_MULTI_VOLETS.md) — Frise chronologique multi-volet (J+0 → J+368)
 
+- [`RAPPORT_EXECUTION_INTEGRATION_20260723_TPT.md`](RAPPORT_EXECUTION_INTEGRATION_20260723_TPT.md) — Rapport d'exécution : intégration des pièces médicales du 23/07/2026 (temps partiel thérapeutique)
+
 - [`CARTOGRAPHIE_RISQUES.md`](CARTOGRAPHIE_RISQUES.md) — Matrice des 28 risques
 
 

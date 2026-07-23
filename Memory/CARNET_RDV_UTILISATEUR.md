@@ -6,6 +6,15 @@
 ﻿pj
 
 
+20260723-1730 DrPrisca AKUÉ
+20260723-1730 DrPrisca NoteDeSuivi.pdf
+20260723-1730 DrPrisca ArreteDeTravail TempsPartiel 24072026au23082026.pdf
+Jeudi 23 juillet 16h15 Consultation Dr Prisca AKUÉ (Centre Médical L'Orangerie, 2 bis rue de Bûches, Blagnac) — Note de suivi (cicatrice indurée, flexion MCP ~120°, douleurs) + Avis de temps partiel thérapeutique / travail aménagé du 24/07/2026 au 23/08/2026
+20260723-1544 Kine CompteRendu
+20260723-1544 Kine CompteRendu SebastienGrazide.pdf
+Jeudi 23 juillet 15h00 Séance kiné + remise du compte-rendu détaillé M. Antoine Teissier Remplaçant de Mme Julie MILAS Masseur-kinésithérapeute
+
+
 20260717 🖖 Kiné
 x
 x
