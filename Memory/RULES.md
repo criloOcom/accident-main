@@ -775,4 +775,5 @@ Si une profession ou activité erronée est découverte dans un fichier :
 - **Formatage des Listes à Puces et Numérotées NATIVES** : Il est formellement INTERDIT de simuler des puces par du texte brut (ex. écrire `1. Le rapport...` ou `- Si l'inspection...` en début de paragraphe). Chaque liste du Markdown doit être convertie via la commande API Google Docs `createParagraphBullets` :
   - **Listes numérotées** (`1.`, `2.`, `3.`) $\rightarrow$ `bulletPreset: NUMBERED_DECIMAL_ALPHA_ROMAN`
   - **Listes à puces** (`- `) $\rightarrow$ `bulletPreset: BULLET_DISC_CIRCLE_SQUARE` (ou `BULLET_ARROW_DIAMOND_DISC`)
+- **Ligne d'adresse postale unique dans les en-têtes** : Dans les blocs d'en-tête Expéditeur et Destinataire, la rue et la ville/CP (ex. `10 Avenue de Purpan, 31700 Blagnac` ou `45 Cours Gabriel Fauré, 09000 Foix`) DOIVENT figurer sur une **seule et même ligne** (séparées par une virgule), afin de maintenir une présentation compacte et harmonieuse.
 - **Conformité multi-agents** : Cette norme de secrétariat est obligatoire pour tout agent intervenant sur le dossier.
