@@ -17,7 +17,7 @@ tags:
 - personnel
 statut: archive
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Police/Police - Note Guide Plainte.md
+reel_path: ../../../Reel/Courriers/Police/Police_Plainte_Note_Guide.md
 jx: J+47
 ---
 <!-- Breadcrumb -->
@@ -26,20 +26,20 @@ jx: J+47
 <!-- /Breadcrumb -->
 
 <!-- Auteur -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)  
-[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)
+Sébastien GRAZIDE  
+10 Avenue de Purpan, 31700 Blagnac  
+sebastien.grazide@gmail.com
 <!-- /Auteur -->
 
 <!-- Destinataire -->
-**[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** (document personnel — aide-mémoire)
+Sébastien GRAZIDE (document personnel — aide-mémoire)
 <!-- /Destinataire -->
 
 <!-- Date -->
-**[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 11 juillet 2026
+Blagnac, le 11 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 > ⚠️ **DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER**
 > Aide-mémoire pour préparer l'audition. À lire avant, laisser chez soi.
@@ -99,7 +99,7 @@ jx: J+47
 
 ### II.1 — À l'accueil du commissariat
 
-**Vous :** "Bonjour Madame/Monsieur, je suis **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**. J'ai déposé une plainte le 1er juin 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour un accident corporel grave survenu au salon de coiffure '**[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**'. Je souhaite déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves. Pouvez-vous me diriger vers le service compétent ?"
+**Vous :** "Bonjour Madame/Monsieur, je suis Sébastien GRAZIDE. J'ai déposé une plainte le 1er juin 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour un accident corporel grave survenu au salon de coiffure 'SAS HB BARBER'. Je souhaite déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves. Pouvez-vous me diriger vers le service compétent ?"
 
 **Si on vous demande d'attendre :**
 "Bien sûr, je comprends. Puis-je avoir un numéro ou un ticket pour suivre mon tour ? Combien de temps l'attente est-elle généralement ?"
@@ -113,7 +113,7 @@ jx: J+47
 
 ### III.1 — Introduction auprès de l'officier
 
-**Vous :** "Bonjour Monsieur/Madame l'Officier. Je m'appelle **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**, je suis la victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiffure '**[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**' situé au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**. J'ai déjà déposé une plainte initiale le 1er juin ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)), et je souhaite aujourd'hui déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves par les dirigeants de l'établissement."
+**Vous :** "Bonjour Monsieur/Madame l'Officier. Je m'appelle Sébastien GRAZIDE, je suis la victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiffure 'SAS HB BARBER' situé au 22 Rue Lafaurie, 09000 Foix. J'ai déjà déposé une plainte initiale le 1er juin ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)), et je souhaite aujourd'hui déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves par les dirigeants de l'établissement."
 
 **Remettez votre dossier en disant :**
 "Voici le dossier complet que j'ai préparé. Il contient la plainte complémentaire détaillée avec toutes les références juridiques, ainsi que les pièces justificatives. Je peux vous en faire un résumé si vous le souhaitez, ou vous préférez le parcourir d'abord ?"
@@ -229,7 +229,7 @@ jx: J+47
 4. "Dans quels délais puis-je espérer avoir un retour sur les premières investigations ?"
 
 **Sur les investigations :**
-5. "Une vérification sur place au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** peut-elle être effectuée rapidement ?"
+5. "Une vérification sur place au 22 Rue Lafaurie, 09000 Foix peut-elle être effectuée rapidement ?"
 
 6. "Une perquisition pour rechercher les enregistrements de vidéosurveillance est-elle envisageable ?"
 
