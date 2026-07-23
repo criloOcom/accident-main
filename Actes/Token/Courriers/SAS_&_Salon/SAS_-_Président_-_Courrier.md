@@ -34,8 +34,8 @@ jx: J+31
 # MISE EN DEMEURE AUX DIRIGEANTS<br>DEMANDE D'INFORMATION ASSURANCE RC
 > 🔗 Source Google Drive : [1pheN3_rudxy…](https://drive.google.com/open?id=1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I)
 <!-- Auteur -->
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** <br>
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md) <br>
+[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)
 <!-- /Auteur -->
 
 <!-- Destinataire -->

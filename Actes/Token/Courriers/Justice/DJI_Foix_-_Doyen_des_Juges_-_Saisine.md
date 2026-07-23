@@ -35,9 +35,9 @@ jx: J+38
 > 🔗 Source Google Drive : [1nFSf3EDB_bV…](https://drive.google.com/open?id=1nFSf3EDB_bVudz5Xhf0NvXlibTesCL8M5hepEZqxd5w)
 <!-- Auteur -->
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
+[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)
 **[L'Identifiant Professionnel de la Victime](../../../../Memory/Tokens/token-victime-id-professionnel.md)**
 <!-- /Auteur -->
 

@@ -35,8 +35,8 @@ jx: J+40
 # RELANCE<br>DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE
 
 <!-- Auteur -->
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)
+[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)
 <!-- /Auteur -->
 
 <!-- Destinataire -->

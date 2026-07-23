@@ -33,8 +33,8 @@ jx: J+31
 > 🔗 Source Google Drive : [1W-C6nM5G_GU…](https://drive.google.com/open?id=1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4)
 <!-- Auteur -->
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**  
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**  
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)  
+[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)
 <!-- /Auteur -->
 
 <!-- Destinataire -->

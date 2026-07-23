@@ -24,9 +24,9 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - Président - Cour
 > 🔗 [**[Source Google Drive LRAR Président]**](https://docs.google.com/document/d/1D5UTW7pYf5smzSC5NHE_hsHuya2B-b4UuwDpDe1_C8Y/edit?usp=sharing)
 
 <!-- Auteur -->
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
+[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)
 
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)
 <!-- /Auteur -->
 
 <!-- Destinataire -->

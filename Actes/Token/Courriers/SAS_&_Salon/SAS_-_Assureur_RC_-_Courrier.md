@@ -40,7 +40,7 @@ jx: J+50
 
 <!-- Auteur -->
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
+[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)
 <!-- /Auteur -->
 
 <!-- Destinataire -->

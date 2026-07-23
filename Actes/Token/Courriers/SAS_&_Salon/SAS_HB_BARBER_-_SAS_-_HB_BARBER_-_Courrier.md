@@ -24,9 +24,9 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - SAS - HB BARBER -
 > 🔗 Source Google Drive : [20260718 ✉️ LRAR SAS HB BARBER (Societe)](https://docs.google.com/document/d/1mcrXdWAJM2TPbyp03NnhJeTCaKDp4b2WfuTUPtdBk-I/edit?usp=sharing)
 
 <!-- Auteur -->
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
+[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)
 
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)
 
 SIREN : **[L'Identifiant Professionnel de la Victime](../../../../Memory/Tokens/token-victime-id-professionnel.md)**
 <!-- /Auteur -->

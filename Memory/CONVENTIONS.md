@@ -432,8 +432,8 @@ Chaque fichier de type `courrier` DOIT avoir trois blocs séparés dans l'en-tê
 ```markdown
 <!-- Auteur -->
 [**[La Victime]**](...)  
-[**[L'Adresse de la Victime]**](../Memory/Tokens/token-victime-adresse.md)  
-[**[L'Email de la Victime]**](../Memory/Tokens/token-victime-email.md)
+[L'Adresse de la Victime](../Memory/Tokens/token-victime-adresse.md)  
+[L'Email de la Victime](../Memory/Tokens/token-victime-email.md)
 <!-- /Auteur -->
 
 <!-- Destinataire -->

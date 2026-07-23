@@ -24,9 +24,9 @@ reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - Directrice Géné
 > 🔗 Source Google Drive : [20260718 ✉️ LRAR [**[La Directrice Générale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md) (DG)](https://docs.google.com/document/d/1g8I1hYbqsue4Q14iQBVkUsXM3uOgFOqRpg4Myp-frxE/edit?usp=sharing)
 
 <!-- Auteur -->
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
+[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)
 
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)
 <!-- /Auteur -->
 
 <!-- Destinataire -->

@@ -37,9 +37,9 @@ jx: J+37
 # DEMANDE DE CERTIFICAT MEDICAL <br> CONSOLIDATION
 > 🔗 Source Google Drive : [1PSv6c0YFvLa…](https://drive.google.com/open?id=1PSv6c0YFvLa0WDEbwc3AVxL14z7ARi5ne50ctJgCvWI)
 <!-- Auteur -->
-**[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)**
+[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)
 
-**[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)
 <!-- /Auteur -->
 
 <!-- Destinataire -->
