@@ -46,6 +46,7 @@ graph TD
 - **WORKFLOW.md** - Processus et workflows du projet
 
 - **[GOOGLE_SHEET_PJ_PROTOCOL](GOOGLE_SHEET_PJ_PROTOCOL.md)**
+
 - **[Mémo_Stratégie_Bailleur_HB_BARBER](Mémo_Stratégie_Bailleur_HB_BARBER.md)**
 
 - **[PIECES_A_AJOUTER_DOC](PIECES_A_AJOUTER_DOC.md)**
