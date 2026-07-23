@@ -13,7 +13,8 @@ type: readme
 
 ## 📄 Contenu
 
-- **[RELANCE — DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE](06_V2_Relance_Dirigeants_-_Réel.md)** — Mr Sébastien GRAZIDE
+- **[RELANCE — DEMANDE D'INFORMATION ASSURANCE RC ET D'ADRESSE DE CORRESPONDANCE](06_V2_Relance_Dirigeants_R%C3%A9el.md)** — Mr Sébastien GRAZIDE
 
+- **[06_V2_Relance_Dirigeants_Réel](06_V2_Relance_Dirigeants_Réel.md)**
 ---
 *README généré automatiquement le 11 juillet 2026*

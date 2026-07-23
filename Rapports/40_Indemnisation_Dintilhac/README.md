@@ -27,6 +27,7 @@ Ce dossier rassemble tout ce qui parle d'argent, barèmes et indemnisation.
 
 - [`note_frais_estimative.md`](note_frais_estimative.md) — Note de frais estimative
 
+- [20260714_RAPPORT_EVALUATION_DINTILHAC](20260714_RAPPORT_EVALUATION_DINTILHAC.md)
 ## Ordre de lecture
 
 1. `SCENARIOS_DINTILHAC.md` — les 3 scénarios
