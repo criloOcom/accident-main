@@ -16,7 +16,7 @@ jurisdiction: Tribunal Judiciaire de Foix
 legal_basis:
   - Article 145 du Code de procédure civile
   - Article L. 124-3 du Code des assurances
-  - Article 1240 du Code civil
+  - Article 1240 du Code civil[^n1]
 description: À déposer au greffe du TJ de Foix — REQUÊTE (pas d'assignation). Imprimer 2 exemplaires, demander récépissé.
 type: document
 date: 2026-07-20
@@ -256,7 +256,7 @@ Fait à [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-
 
 1. Copie du procès-verbal de police n°[**[N° PV Police]**](../../../../Memory/Tokens/token-pv-police-numero.md) établi par le Commissariat de [**[La Ville de l'Accident]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)
 
-2. [**[Certificat médical initial]**](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du [**[Le Médecin en Urgence]**](../../../../Memory/Tokens/token-hopital-urgence-medecin.md) (SMUR 09) en date du [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md)
+2. [**[Certificat médical initial]**](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) du [**[Le Médecin en Urgence]**](../../../../Memory/Tokens/token-hopital-urgence-medecin.md) (SMUR 09) en date du [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md)
 
 3. [**[Compte-rendu opératoire]**](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) du [**[Le Chirurgien SOS Main]**](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md) (SOS Main) en date du [**[J+1 Chirurgie]**](../../../../Memory/Tokens/token-j-1-chirurgie.md)
 
@@ -287,13 +287,13 @@ Fait à [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-
 16. Note de constatations du 16 juillet 2026 (visite des lieux), photos des lieux modifiés
 
 17. Échange de courriels avec [**[L'Adjoint au Maire de la Commune]**](../../../../Memory/Tokens/token-mairie-adjoint-nom.md), adjoint au maire de [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md) (signalement du 1er juin 2026 et réponse indiquant la saisine de la préfecture / inspection du travail / CODAF)
+
 <!-- Source -->
 <hr><hr>
 
 ## Sources Législation
 
-[^1]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md)
-[^2]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-[^3]: [Arrêt n°20-16.463 — www.legifrance.gouv.fr/juri/id/JURITEXT000044482848](../../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/20-16.463_CourCassation.md)
-[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](../../../../Lois/Code/Code_procédure_civile/Article_700_Codeproc_Legifrance.md)
+[^n1]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+    > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
+    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 <!-- /Source -->

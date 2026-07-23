@@ -67,7 +67,7 @@ En tentant par réflexe de retenir le préposé, Sébastien GRAZIDE a heurté de
 
 Ce choc a provoqué une section complète du tendon fléchisseur profond (FDP) de l'index droit en zone II de Verdan, associée à une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une microchirurgie d'urgence le 30 mai 2026, puis une neurolyse secondaire du nerf palmaire.
 
-L'ITT pénale a été fixée à **1 jour** par le [certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du Dr OXYBEL du 1er juin 2026, sous réserve de la réévaluation globale programmée à l'UMJ de Purpan le 12 novembre 2026. L'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total est de **55 jours** (du 29/05/2026 au 23/07/2026). Une expertise médicale judiciaire ultérieure a conclu à une consolidation au 1er mars 2027 (12 mois), avec un Déficit Fonctionnel Permanent (DFP) de 12 % et des Souffrances Endurées (SE) de 4/7. La main droite dominante de la victime, informaticienne de profession, conserve une séquelle sensitive et fonctionnelle définitive dans le territoire du nerf collatéral radial de l'index, limitant sa dextérité fine et sa capacité de travail.
+L'ITT pénale a été fixée à **1 jour** par le [certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) du Dr OXYBEL du 1er juin 2026, sous réserve de la réévaluation globale programmée à l'UMJ de Purpan le 12 novembre 2026. L'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total est de **55 jours** (du 29/05/2026 au 23/07/2026). Une expertise médicale judiciaire ultérieure a conclu à une consolidation au 1er mars 2027 (12 mois), avec un Déficit Fonctionnel Permanent (DFP) de 12 % et des Souffrances Endurées (SE) de 4/7. La main droite dominante de la victime, informaticienne de profession, conserve une séquelle sensitive et fonctionnelle définitive dans le territoire du nerf collatéral radial de l'index, limitant sa dextérité fine et sa capacité de travail.
 
 Par ailleurs, malgré des mises en demeure répétées, la société et ses dirigeants n'ont justifié d'aucune assurance de responsabilité civile professionnelle pour l'exploitation du salon.
 
@@ -78,7 +78,7 @@ Il convient de déterminer si ces faits sont constitutifs d'infractions pénales
 
 ### II.1 — SUR LES BLESSURES INVOLONTAIRES
 
-La fixation de la durée de l'ITT pénale conditionne le seuil de qualification pénale. En l'espèce, le [certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) a fixé l'ITT pénale à 1 jour (≤ 3 mois), tandis que l'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total est de 55 jours. Toutefois, le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 retient une consolidation au 1er mars 2027, un DFP de 12 % et des SE de 4/7, caractérisant une atteinte fonctionnelle définitive de la main dominante.
+La fixation de la durée de l'ITT pénale conditionne le seuil de qualification pénale. En l'espèce, le [certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) a fixé l'ITT pénale à 1 jour (≤ 3 mois), tandis que l'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total est de 55 jours. Toutefois, le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 retient une consolidation au 1er mars 2027, un DFP de 12 % et des SE de 4/7, caractérisant une atteinte fonctionnelle définitive de la main dominante.
 
 Deux scenarii se présentent :
 
@@ -86,13 +86,13 @@ Deux scenarii se présentent :
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 > [Article 222-20](../../../../Lois/Code/Code_pénal/Article222-20_CodePenal_LegiFrance.md) <br>
-> **Code pénal > Partie législative > Livre II > Titre II > Chapitre II > Section 2.[^2]**
+> **Code pénal > Partie législative > Livre II > Titre II > Chapitre II > Section 2.**
 
 **Scénario B (offensif)** : l'expertise fait état d'une consolidation à 12 mois et d'une impossibilité pour la victime, informaticienne, d'utiliser sa main dominante pour le travail pendant la quasi-totalité de cette période. Si l'ITT pénale est étendue à la période d'incapacité fonctionnelle totale constatée par l'expert (au-delà de 3 mois), la qualification de l'article **222-19** du Code pénal (ITT > 3 mois) devient encourue, avec des peines portées à 3 ans d'emprisonnement et 45 000 € d'amende en cas de violation manifestement délibérée — ce qui est le cas en présence d'un défaut d'entretien d'un ERP.
 
 > *« Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. »* <br>
 > [Article 222-19 du Code pénal](../../../../Lois/Code/Code_pénal/Article_222-19_CodePenal_Legifrance.md) <br>
-> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^1]**
+> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.**
 
 À défaut d'une violation manifestement délibérée, les faits s'analysent a minima en une contravention de la 5ème classe sur le fondement des articles R. 625-2 ou R. 622-1 du Code pénal.
 
@@ -102,7 +102,7 @@ La qualification de mise en danger délibérée nécessite la violation d'une ob
 
 > *« Le fait d'exposer directement autrui à un risque immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 > [Article 223-1](../../../../Lois/Code/Code_pénal/Article_223-1_Code_Legifrance.md) <br>
-> **Code pénal > Partie législative > Livre II > Titre II > Chapitre III.[^3]**
+> **Code pénal > Partie législative > Livre II > Titre II > Chapitre III.**
 
 Le défaut d'entretien des équipements au sein d'un Établissement Recevant du Public (ERP), matérialisé par la présence d'une vasque cassée aux arêtes tranchantes, est susceptible de constituer cette violation.
 
@@ -110,15 +110,15 @@ Le défaut d'entretien des équipements au sein d'un Établissement Recevant du 
 
 L'article 121-2 du Code pénal dispose que les personnes morales sont pénalement responsables des infractions commises, pour leur compte, par leurs organes ou représentants.
 
-> *« Les personnes morales, à l'exclusion de l'Etat, sont responsables pénalement, selon les distinctions des articles 121-4 à 121-7 , des infractions commises, pour leur compte, par leurs organes ou représentants. Toutefois, les collectivités territoriales et leurs groupements ne sont responsables pénalement que des infractions commises dans l'exercice d'activités susceptibles de faire l'objet de conventions de délégation de service public. La responsabilité pénale des personnes morales n'exclut pas celle des personnes physiques auteurs ou complices des mêmes faits, sous réserve des dispositions du quatrième alinéa de l'article 121-3 . »* <br>
+> *« Les personnes morales, à l'exclusion de l'Etat, sont responsables pénalement, selon les distinctions des articles 121-4 à 121-7 , des infractions commises, pour leur compte, par leurs organes ou représentants. Toutefois, les collectivités territoriales et leurs groupements ne sont responsables pénalement que des infractions commises dans l'exercice d'activités susceptibles de faire l'objet de conventions de délégation de service public. La responsabilité pénale des personnes morales n'exclut pas celle des personnes physiques auteurs ou complices des mêmes faits, sous réserve des dispositions du quatrième alinéa de l'article 121-3[^n1] . »* <br>
 > [Article 121-2 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204) <br>
-> **Code pénal > Chapitre Ier : Dispositions générales.[^4]**
+> **Code pénal > Chapitre Ier : Dispositions générales.**
 
 S'agissant des personnes physiques qui n'ont pas causé directement le dommage (les dirigeants), l'article 121-3 alinéa 4 exige la preuve d'une faute qualifiée.
 
 > *« Dans le cas prévu par l'alinéa qui précède, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particulière gravité qu'elles ne pouvaient ignorer. »* <br>
 > [Article 121-3](../../../../Lois/Code/Code_pénal/Article_121-3_Code_Legifrance.md) <br>
-> **Code pénal > Partie législative > Livre Ier > Titre II > Chapitre Ier.[^5]**
+> **Code pénal > Partie législative > Livre Ier > Titre II > Chapitre Ier.**
 
 Le défaut de souscription d'assurance et le maintien en service d'un équipement gravement défectueux caractérisent l'absence de diligence normale et peuvent constituer une telle faute caractérisée incombant à Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC.
 
@@ -128,7 +128,7 @@ Conformément à l'article 8 du Code de procédure pénale, l'action publique po
 
 > *« L'action publique des délits se prescrit par six années révolues à compter du jour où l'infraction a été commise. L'action publique des délits mentionnés aux articles 223-15-2 et 223-15-3 du code pénal et à l'article 706-47 du présent code, lorsqu'ils sont commis sur des mineurs, à l'exception de ceux mentionnés aux articles 222-29-1 et 227-26 du code pénal, se prescrit par dix années révolues à compter de la majorité de ces derniers. L'action publique des délits mentionnés aux articles 222-12 , 222-29-1 et 227-26 du même code, lorsqu'ils sont commis sur des mineurs, se prescrit par vingt années révolues à compter de la majorité de ces derniers. Toutefois, s'il s'agit d'une agression sexuelle ou d'une atteinte sexuelle commise sur un mineur, en cas de commission sur un autre mineur par la même personne, avant l'expiration des délais prévus aux deuxième et troisième alinéas du présent article, d'une agression sexuelle ou d'une atteinte sexuelle, le délai de prescription de la première infraction est prolongé, le cas échéant, jusqu'à la date de prescription de la nouvelle infraction. L'action publique du délit mentionné à l' article 434-3 du code pénal se prescrit, lorsque le défaut d'information concerne une agression ou un atteinte sexuelle commise sur un mineur, par dix années révolues à compter de la majorité de la victime et, lorsque le défaut d'information concerne un viol commis sur un mineur, par vingt années révolues à compter de la majorité de la victime. L'action publique des délits mentionnés à l'article 706-167 du présent code, lorsqu'ils sont punis de dix ans d'emprisonnement, ainsi que celle des délits mentionnés aux articles 706-16 du présent code, à l'exclusion de ceux définis aux articles 421-2-5 à 421-2-5-2 du code pénal, et 706-26 du présent code et au livre IV bis du code pénal se prescrivent par vingt années révolues à compter du jour où l'infraction a été commise. »* <br>
 > [Article 8 du Code de procédure pénale](../../../../Lois/RGPD_Articles7_9_82.md) <br>
-> **Code de procédure pénale > Sous-titre Ier : De l'action publique et de l'action civile — abrogation différée.[^6]**
+> **Code de procédure pénale > Sous-titre Ier : De l'action publique et de l'action civile — abrogation différée.**
 <hr><hr>
 
 ## III — ARGUMENTATION DU MINISTÈRE PUBLIC
@@ -141,7 +141,7 @@ L'enquête préliminaire se heurte actuellement à l'obstruction manifeste de la
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^7]**
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 
 Ces carences multiples :
 1. Défaut de sécurité d'un équipement (vasque cassée et tranchante),
@@ -150,11 +150,11 @@ Ces carences multiples :
 
 3. Silence administratif obstiné et suspicion de défaut d'assurance de l'ERP,
 
-justifient de rechercher si une "violation manifestement délibérée d'une obligation particulière de sécurité", ou une "faute caractérisée", imputable aux dirigeants, est constituée pour asseoir la qualification délictuelle (article 222-20 du Code pénal).
+justifient de rechercher si une "violation manifestement délibérée d'une obligation particulière de sécurité", ou une "faute caractérisée", imputable aux dirigeants, est constituée pour asseoir la qualification délictuelle (article 222-20 du Code pénal[^n2]).
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 > [Article 222-20 du Code pénal](../../../../Lois/Code/Code_pénal/Article222-20_CodePenal_LegiFrance.md) <br>
-> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^2]**
+> **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.**
 
 La saisine d'une juridiction de jugement par voie de citation directe apparaît, à ce stade, prématurée en l'absence de vérification complète des contrats d'assurance, des règles internes de sécurité de l'entreprise, et des responsabilités individuelles exactes des dirigeants dans la gestion des équipements.
 
@@ -212,7 +212,7 @@ Concernant les sanctions encourues, la requalification délictuelles (Art. 222-2
 
 > *« Lorsqu'elle est encourue à titre de peine complémentaire pour un crime ou un délit, l'interdiction d'exercer une fonction publique ou d'exercer une activité professionnelle ou sociale est soit définitive, soit temporaire ; dans ce dernier cas, elle ne peut excéder une durée de cinq ans. L'interdiction d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale est soit définitive, soit temporaire ; dans ce dernier cas, elle ne peut excéder une durée de quinze ans. Cette interdiction n'est pas applicable à l'exercice d'un mandat électif ou de responsabilités syndicales. Elle n'est pas non plus applicable en matière de délit de presse. »* <br>
 > [Article 131-27 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887) <br>
-> **Code pénal > Sous-section 5 : Du contenu et des modalités d'application de certaines peines.[^8]**
+> **Code pénal > Sous-section 5 : Du contenu et des modalités d'application de certaines peines.**
 
 Les chances d'aboutissement de la présente procédure d'information sont jugées **fortes**, compte tenu de l'existence de blessures objectivées par l'expertise médicale (DFP 12 %, SE 4/7, consolidation à 12 mois), de la matérialité de l'accident (PV de police), et de la carence caractérisée en matière de sécurité (vasque cassée non signalée) au sein d'un ERP. L'expertise médicale a également évalué le préjudice extra-patrimonial à environ 49 231 €, fourchette basse d'une estimation globale de 120 000 à 160 000 € incluant les postes patrimoniaux (PGPF, DSA, incidence professionnelle).
 ### NOTE MÉTHODOLOGIQUE
@@ -234,17 +234,21 @@ Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19
 - Ordonnance Art. 145 CPC (vidéos) : [`TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Ordonnance%20sur%20Requ%C3%AAte.md)
 
 - Ordonnance de référé provision : [`TJ Foix - Référé Provision - Ordonnance Projet.md`](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)
+
 <!-- Source -->
 <hr><hr>
 
 ## Sources Législation
 
-[^1]: [Article 222-19 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](../../../../Lois/Code/Code_pénal/Article_222-19_CodePenal_Legifrance.md) ↩
-[^2]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](../../../../Lois/Code/Code_pénal/Article222-20_CodePenal_LegiFrance.md) ↩
-[^3]: [Article 223-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417759](../../../../Lois/Code/Code_pénal/Article_223-1_Code_Legifrance.md) ↩
-[^4]: [Article 121-2 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204) ↩
-[^5]: [Article 121-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](../../../../Lois/Code/Code_pénal/Article_121-3_Code_Legifrance.md) ↩
-[^6]: [Article 8 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911](../../../../Lois/RGPD_Articles7_9_82.md) ↩
-[^7]: [Article L124-3 du Code des assurances — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
-[^8]: [Article 131-27 du Code pénal — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887) ↩
+[^n1]: > « Il n'y a point de crime ou de délit sans intention de le commettre. Toutefois, lorsque la loi le prévoit, il y a délit en cas de mise en danger délibérée de la personne d'autrui. Il y a également délit, lorsque la loi le prévoit, en cas de faute d'imprudence, de négligence ou de manquement à une obligation de prudence ou de sécurité prévue par la loi ou le règlement, s'il est établi que l'auteur des faits n'a pas accompli les diligences normales compte tenu, le cas échéant, de la nature de ses missions ou de ses fonctions, de ses compétences ainsi que du pouvoir et des moyens dont il disposait. Dans le cas prévu par l'alinéa qui précède, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particulière gravité qu'elles ne pouvaient ignorer. Il n'y a point de contravention en cas de force majeure. » <br>
+    > **Code pénal > Chapitre Ier : Dispositions générales.** <br>
+    > [Article 121-3 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) ↩
+
+[^n2]: > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
+    > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
+    > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+
+[^n3]: > « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. » <br>
+    > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
+    > [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
 <!-- /Source -->

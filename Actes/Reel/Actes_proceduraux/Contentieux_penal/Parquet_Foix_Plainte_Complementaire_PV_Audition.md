@@ -87,9 +87,9 @@ Sébastien GRAZIDE nous déclare :
 >
 > Plus grave encore, le 5 juillet 2026, j'ai adressé une demande formelle de conservation des enregistrements de vidéosurveillance du salon pour la période de l'accident, craignant que ces preuves capitales ne soient détruites ou écrasées. Le 6 juillet, j'ai pu constater visuellement que le salon avait rouvert dans des conditions suspectes. Il semblerait que le bac à shampoing défectueux, cause principale de mon accident, ait été purement et simplement remplacé ou dissimulé.
 >
-> Ces éléments constituent à mon sens une destruction ou dissimulation de preuves, réprimée par l'article 434-4 du Code pénal, visant à faire obstacle à la manifestation de la vérité.
+> Ces éléments constituent à mon sens une destruction ou dissimulation de preuves, réprimée par l'article 434-4 du Code pénal[^n1], visant à faire obstacle à la manifestation de la vérité.
 >
-> Par conséquent, je dépose formellement plainte aujourd'hui contre les dirigeants de la société SAS HB BARBER pour ces nouveaux faits d'obstruction à la justice et de destruction de preuves, venant s'ajouter aux blessures involontaires par violation d'une obligation de sécurité (article 222-20 du Code pénal).
+> Par conséquent, je dépose formellement plainte aujourd'hui contre les dirigeants de la société SAS HB BARBER pour ces nouveaux faits d'obstruction à la justice et de destruction de preuves, venant s'ajouter aux blessures involontaires par violation d'une obligation de sécurité (article 222-20 du Code pénal[^n2]).
 >
 > Je vous remets en mains propres un dossier complet comprenant mon courrier de plainte complémentaire écrit, résumant les faits, les fondements juridiques, et détaillant des pistes d'enquête (notamment sur la vidéosurveillance et la dissimulation d'activité), ainsi que toutes les pièces justificatives (retours des LRAR, constats, etc.). »
 <hr><hr>
@@ -107,3 +107,17 @@ Après lecture faite par lui-même, le déclarant persiste et signe avec nous le
 Sébastien GRAZIDE
 
 **L'Officier de Police Judiciaire**
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^n1]: > « Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ; 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables. Lorsque les faits prévus au présent article sont commis par une personne qui, par ses fonctions, est appelée à concourir à la manifestation de la vérité, la peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende. » <br>
+    > **Code pénal > Section 1 : Des entraves à la saisine de la justice.** <br>
+    > [Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) ↩
+
+[^n2]: > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
+    > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
+    > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+<!-- /Source -->

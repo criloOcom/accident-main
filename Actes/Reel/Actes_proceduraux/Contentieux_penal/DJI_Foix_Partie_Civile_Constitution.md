@@ -75,7 +75,7 @@ Le prepose de l'exploitation, Ayoub BENNOURINE (tel : 07 58 40 12 87), a escalad
 
 - Une plaie palmaire profonde de 5,2 cm
 
-- Une ITT pénale de **1 jour** selon le [certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du Dr OXYBEL du 1er juin 2026, sous réserve de la réévaluation globale programmée à l'UMJ de Purpan le 12 novembre 2026
+- Une ITT pénale de **1 jour** selon le [certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) du Dr OXYBEL du 1er juin 2026, sous réserve de la réévaluation globale programmée à l'UMJ de Purpan le 12 novembre 2026
 
 - Un [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de **55 jours** (du 29 mai au 23 juillet 2026)
 
@@ -91,25 +91,25 @@ Malgre des mises en demeure recommandees adressees le 29 juin 2026 a la SAS, au 
 ## III — FONDEMENTS JURIDIQUES
 ### III.1 — SUR LA QUALIFICATION PENALE — BLESSURES INVOLONTAIRES
 
-Les faits decrits ci-dessus sont constitutifs du delit de blessures involontaires prevu et reprime par les articles 222-19 et 222-20 du Code penal.
+Les faits decrits ci-dessus sont constitutifs du delit de blessures involontaires prevu et reprime par les articles 222-19 et 222-20 du Code penal[^n1][^n2].
 
-> *« Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. »* <br>
+> *« Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3[^n3], par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. »* <br>
 > [Article 222-19](../../../../Lois/Code/Code_pénal/Article_222-19_CodePenal_Legifrance.md) <br>
-> **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^1]**
+> **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne.**
 
 En l'espece :
 
-- **La maladresse et l'imprudence** sont caracterisees par le fait de laisser un employe monter sur une vasque en ceramique instable et cassee, faute d'equipement d'acces adapte (escabeau), en violation des articles R. 4323-58 et suivants du Code du travail imposant la mise a disposition d'equipements de travail en hauteur.
+- **La maladresse et l'imprudence** sont caracterisees par le fait de laisser un employe monter sur une vasque en ceramique instable et cassee, faute d'equipement d'acces adapte (escabeau), en violation des articles R. 4323-58[^n4] et suivants du Code du travail imposant la mise a disposition d'equipements de travail en hauteur.
   
 - **Le manquement a une obligation de securite** resulte de l'absence de signalement et de protection de la cassure preexistante aux aretes tranchantes de la vasque, constituant un danger manifeste pour la clientele.
   
 - **L'inobservation des regles de securite** applicables aux ERP (etablissements recevant du public) est caracterisee par le defaut d'entretien du materiel et l'absence de verification des installations.
 
-L'ITT pénale, fixée à 1 jour par le [certificat médical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) du Dr OXYBEL, est inférieure à 3 mois, ce qui conduit à la qualification suivante — étant précisé que l'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total est de 55 jours et qu'une réévaluation globale est programmée à l'UMJ de Purpan le 12 novembre 2026 :
+L'ITT pénale, fixée à 1 jour par le [certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) du Dr OXYBEL, est inférieure à 3 mois, ce qui conduit à la qualification suivante — étant précisé que l'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total est de 55 jours et qu'une réévaluation globale est programmée à l'UMJ de Purpan le 12 novembre 2026 :
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 > [Article 222-20](../../../../Lois/Code/Code_pénal/Article222-20_CodePenal_LegiFrance.md) <br>
-> **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^2]**
+> **Code pénal > Partie législative > Livre II : Des crimes et délits contre les personnes > Titre II : Des atteintes à la personne humaine > Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne > Section 2 : Des atteintes involontaires à l'intégrité de la personne.**
 
 La **violation manifestement deliberee** est caracterisee par :
 
@@ -123,7 +123,7 @@ La **violation manifestement deliberee** est caracterisee par :
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
 > [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
-> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.[^3]**
+> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.**
 
 Cette disposition constitue le fondement de la responsabilite personnelle des dirigeants de SAS, qui peut etre engagee pour des fautes commises dans l'exercice de leurs fonctions.
 
@@ -131,17 +131,17 @@ L'article L. 227-1 du Code de commerce dispose que les règles des sociétés an
 
 > *« Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes  sont applicables à la société par actions simplifiée. »* <br>
 > [Article L. 227-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177) <br>
-> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.[^4]**
+> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.**
 
 En application de ce renvoi, l'article L. 225-251 du même code fixe le régime détaillé de cette responsabilité dans les termes suivants :
 
 > *« Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. »* <br>
 > [Article L. 225-251](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) <br>
-> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre III : Des sociétés anonymes > Section 8 : De la responsabilité.[^5]**
+> **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre III : Des sociétés anonymes > Section 8 : De la responsabilité.**
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
 > [Arrêt n°99-17.092](../../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md) <br>
-> **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092[^6]**
+> **Cour de cassation, Chambre commerciale, 20 mai 2003, n° 99-17.092**
 
 En l'espece, les fautes separables des dirigeants sont caracterisees par :
 
@@ -159,11 +159,11 @@ Ces fautes, commises personnellement par le President et la Directrice Generale,
 
 > *« Le professionnel de vente est tenu d'une obligation d'information précontractuelle sur les caractéristiques essentielles du bien ou du service. »* <br>
 > [Article L. 111-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438) <br>
-> **Code de la consommation > Partie réglementaire > Livre Ier : Information et education des consommateurs > Titre II : Information des consommateurs > Chapitre Ier : Obligation générale d'information précontractuelle.[^7]**
+> **Code de la consommation > Partie réglementaire > Livre Ier : Information et education des consommateurs > Titre II : Information des consommateurs > Chapitre Ier : Obligation générale d'information précontractuelle.**
 
 > *« Le professionnel de vente est tenu de livrer un bien conforme au contrat. »* <br>
 > [Article L. 217-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587) <br>
-> **Code de la consommation > Partie législative > Livre Ier : Dispositions générales > Titre Ier : Objet et champ d'application.[^8]**
+> **Code de la consommation > Partie législative > Livre Ier : Dispositions générales > Titre Ier : Objet et champ d'application.**
 
 Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'information precontractuelle et a une obligation de conformite du service fourni. La prestation realisee n'etait manifestement pas conforme aux exigences de securite legitimes d'un consommateur, ce qui constitue un fondement complementaire a l'action civile et renforce l'absence de contestation serieuse.
 
@@ -171,7 +171,7 @@ Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'inf
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
-> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité.[^9]**
+> **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité.**
 
 En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement des articles 706-3 et 706-14 du Code de procédure pénale (Titre XIV), pourra être directement saisi par la partie civile pour assurer l'indemnisation de la victime a defaut d'assureur. La presente [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) sollicite formellement la designation du FGTI comme garant subrogatoire.
 <hr><hr>
@@ -211,14 +211,14 @@ Par ces motifs, Sébastien GRAZIDE sollicite qu'il plaise a Monsieur le Doyen de
 
 > *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
 > [Article 475-1 du Code de procédure pénale](../../../../Lois/Code/Code_procédure_pénale/Article475-1_CodeProcedurePenale.md) <br>
-> **Code de procédure pénale > Paragraphe 1 : Dispositions générales — abrogation différée.[^10]**
+> **Code de procédure pénale > Paragraphe 1 : Dispositions générales — abrogation différée.**
 <hr><hr>
 
 ## PAR CES MOTIFS
 
 Vu les articles 2, 3, 85 et suivants du Code de procedure penale,
-Vu les articles 222-19 et 222-20 du Code penal (ce dernier confirme en vigueur depuis le 19 mai 2011, LEGIARTI000024042640),
-Vu les articles 1240 et 1242 du Code civil,
+Vu les articles 222-19 et 222-20 du Code penal[^n1][^n2] (ce dernier confirme en vigueur depuis le 19 mai 2011, LEGIARTI000024042640),
+Vu les articles 1240 et 1242 du Code civil[^n5][^n6],
 Vu les articles R. 4323-58 et suivants du Code du travail,
 Vu les articles L. 111-1 et L. 217-1 du Code de la consommation,
 Vu l'article L. 227-8 du Code de commerce,
@@ -226,7 +226,7 @@ Vu l'article L. 124-3 du Code des assurances,
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
-> **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^9]**
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 Vu les articles 706-3 et 706-14 du Code de procedure penale,
 Vu la jurisprudence de la Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092 (arret SATI),
 Vu les pieces versees aux debats,
@@ -254,7 +254,7 @@ Sébastien GRAZIDE
 
 1. Procès-verbal de police n° 2026/015967 — dépôt de plainte pour blessures involontaires
 
-2. [**[Certificat médical initial]**](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) de constatation des blessures rédigé par Dr Julie JARDON (29 mai 2026)
+2. [**[Certificat médical initial]**](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) de constatation des blessures rédigé par Dr Julie JARDON (29 mai 2026)
 
 3. [**[Compte-rendu opératoire]**](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie d'urgence (suture nerveuse et tendineuse) rédigé par Dr Iskander DJERBI (30 mai 2026)
 
@@ -279,48 +279,33 @@ Sébastien GRAZIDE
 13. LRAR adressée à Romain DELRIEU et son AR signé (3 juillet 2026)
 
 14. Rapport d'expertise médicale judiciaire du 12 juin 2027 — consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure
+
 <!-- Source -->
 <hr><hr>
 
 ## Sources Législation
 
-[^1]: [Article 222-19 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](../../../../Lois/Code/Code_pénal/Article_222-19_CodePenal_Legifrance.md) ↩
-[^2]: [Article 222-20 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](../../../../Lois/Code/Code_pénal/Article222-20_CodePenal_LegiFrance.md) ↩
-[^3]: [Article L. 227-8 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) ↩
-[^4]: [Article L. 227-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177) ↩
-[^5]: [Article L. 225-251 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) ↩
-[^6]: [Arrêt n°99-17.092 — www.legifrance.gouv.fr/juri/id/JURITEXT000007047369](../../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md) ↩
-[^7]: [Article L. 111-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438) ↩
-[^8]: [Article L. 217-1 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587) ↩
-[^9]: [Article L. 124-3 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) ↩
-[^10]: [Article 475-1 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107](../../../../Lois/Code/Code_procédure_pénale/Article475-1_CodeProcedurePenale.md) ↩
+[^n1]: > « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. » <br>
+    > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
+    > [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
 
-### NOTE MÉTHODOLOGIQUE
+[^n2]: > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
+    > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
+    > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
 
-Cette version de la [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) est une **version consolidée** intégrant les données du rapport d'expertise médicale simulé (déposé le 12 juin 2027, consolidation au 1er mars 2027).
+[^n3]: > « Il n'y a point de crime ou de délit sans intention de le commettre. Toutefois, lorsque la loi le prévoit, il y a délit en cas de mise en danger délibérée de la personne d'autrui. Il y a également délit, lorsque la loi le prévoit, en cas de faute d'imprudence, de négligence ou de manquement à une obligation de prudence ou de sécurité prévue par la loi ou le règlement, s'il est établi que l'auteur des faits n'a pas accompli les diligences normales compte tenu, le cas échéant, de la nature de ses missions ou de ses fonctions, de ses compétences ainsi que du pouvoir et des moyens dont il disposait. Dans le cas prévu par l'alinéa qui précède, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particulière gravité qu'elles ne pouvaient ignorer. Il n'y a point de contravention en cas de force majeure. » <br>
+    > **Code pénal > Chapitre Ier : Dispositions générales.** <br>
+    > [Article 121-3 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) ↩
 
-Les sections mises à jour :
-- **Section I** : description lésionnelle harmonisée avec le rapport d'expertise, ajout de la consolidation
+[^n4]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
+    > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.** <br>
+    > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) ↩
 
-- **Section III** : tableau Dintilhac remplacé par les chiffres de l'expert (DFP 12 % = 25 200 €, SE 4/7 = 14 000 €, IP = 28 000 €, etc.)
+[^n5]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+    > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
+    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 
-- **Section IV + PAR CES MOTIFS** : la demande d'expertise est remplacée par une demande de prise d'acte du rapport déposé
-
-- **Pièce n°14** : rapport d'expertise ajouté au bordereau
-
-Les fondements juridiques (Section II) restent inchangés — le rapport d'expertise n'affecte pas la qualification pénale ni les arguments de responsabilité.
-
-**Calibrage :**
-- Fourchette globale : 120 000 — 160 000 € (conforme au rapport d'expertise)
-
-- Provision : 15 000 € (inchangée, cohérente avec le total extra-patrimonial de 49 231 €)
-
-- Article 475-1 CPP : montant à définir via le token 3 000 € (remplacé par 3 000 € dans la nomenclature pénale)
-
-**Documents liés :**
-- Rapport d'expertise médicale : [`20270529_Rapport_Expertise_Médicale.md`](../../Preuves_officielles/20270529_Rapport_Expertise_Médicale.md)
-
-- Ordonnance de référé (mission expertise) : [`TJ Foix - Référé Provision - Ordonnance Projet.md`](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)
-
-- Avis Dintilhac externe : [`Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`](../../../../Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md)
+[^n6]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
+    > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
+    > [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
 <!-- /Source -->

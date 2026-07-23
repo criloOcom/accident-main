@@ -30,7 +30,7 @@ date: '2026-07-22'
 <hr><hr>
 
 **OBJET :** Signalement pour tentative d'organisation frauduleuse d'insolvabilité et dissimulation frauduleuse.
-**BASE LÉGALE :** Articles 434-4 et 314-7 du Code pénal.
+**BASE LÉGALE :** Articles 434-4 et 314-7 du Code pénal[^n1][^n2].
 ### I.1 — EXPOSÉ DES FAITS
 
 Monsieur le Procureur de la République,
@@ -39,7 +39,7 @@ J'ai l'honneur de porter à votre connaissance les faits suivants, conformément
 
 > *« Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner conformément aux dispositions de l'article 40-1. Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs. »* <br>
 > [Article 40 du Code de procédure pénale](../../../../Lois/Code/Code_civil/Article1240_CodeCivil.md) <br>
-> **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.[^1]**
+> **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.**
 
 J'ai été informé que la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), immatriculée au Registre du Commerce et des Sociétés et dont le siège social est situé à **[**[L'Adresse de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-adresse.md), pourrait avoir cessé son activité.
 
@@ -58,13 +58,13 @@ Ces agissements, s'ils étaient confirmés, pourraient recevoir la qualification
 > 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ;
 > 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables.  »* <br>
 > [Article 434-4](../../../../Lois/Code/Code_pénal/Article_434-4_CodePenal_Legifrance.md) <br>
-> **Code pénal.[^2]**
+> **Code pénal.**
 
 **Sur l'organisation frauduleuse d'insolvabilité :**
 
 > *« Le fait, par un débiteur, même avant la décision judiciaire constatant sa dette, d'organiser ou d'aggraver son insolvabilité soit en augmentant le passif ou en diminuant l'actif de son patrimoine, soit en diminuant ou en dissimulant tout ou partie de ses revenus, soit en dissimulant certains de ses biens, en vue de se soustraire à l'exécution d'une condamnation de nature patrimoniale prononcée par une juridiction répressive ou, en matière délictuelle, quasi délictuelle ou d'aliments, prononcée par une juridiction civile, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. »* <br>
 > [Article 314-7](../../../../Lois/Code/Code_pénal/Article_314-7_CodePenal_Legifrance.md) <br>
-> **Code pénal.[^3]**
+> **Code pénal.**
 ### I.3 — DEMANDES
 
 Au regard de la gravité de ces faits, qui semblent orchestrés dans le but manifeste d'échapper à d'éventuelles condamnations indemnitaires au préjudice de [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md), je vous prie de bien vouloir faire diligenter toute enquête utile afin :
@@ -103,7 +103,11 @@ Avocat de [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet
 
 ## Sources Législation
 
-[^1]: [Article 40 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](../../../../Lois/Code/Code_civil/Article1240_CodeCivil.md) ↩
-[^2]: [Article 434-4 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608](../../../../Lois/Code/Code_pénal/Article_434-4_CodePenal_Legifrance.md) ↩
-[^3]: [Article 314-7 — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226](../../../../Lois/Code/Code_pénal/Article_314-7_CodePenal_Legifrance.md) ↩
+[^n1]: > « Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ; 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables. Lorsque les faits prévus au présent article sont commis par une personne qui, par ses fonctions, est appelée à concourir à la manifestation de la vérité, la peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende. » <br>
+    > **Code pénal > Section 1 : Des entraves à la saisine de la justice.** <br>
+    > [Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) ↩
+
+[^n2]: > « Le fait, par un débiteur, même avant la décision judiciaire constatant sa dette, d'organiser ou d'aggraver son insolvabilité soit en augmentant le passif ou en diminuant l'actif de son patrimoine, soit en diminuant ou en dissimulant tout ou partie de ses revenus, soit en dissimulant certains de ses biens, en vue de se soustraire à l'exécution d'une condamnation de nature patrimoniale prononcée par une juridiction répressive ou, en matière délictuelle, quasi délictuelle ou d'aliments, prononcée par une juridiction civile, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. Commet le même délit le dirigeant de droit ou de fait d'une personne morale qui organise ou aggrave l'insolvabilité de celle-ci dans les conditions définies à l'alinéa précédent en vue de la soustraire aux obligations pécuniaires résultant d'une condamnation prononcée en matière pénale, délictuelle ou quasi délictuelle. » <br>
+    > **Code pénal > Section 3 : De l'organisation frauduleuse de l'insolvabilité.** <br>
+    > [Article 314-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226) ↩
 <!-- /Source -->

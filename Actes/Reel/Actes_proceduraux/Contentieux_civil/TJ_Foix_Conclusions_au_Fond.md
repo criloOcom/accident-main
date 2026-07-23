@@ -119,7 +119,7 @@ Le rapport d'expertise a été déposé au greffe le 29 mai 2027 et a fixé la c
 
 ### IV.2 — 2.2 Qualité et recevabilité de l'action
 
-La demanderesse, en sa qualité de tiers lésé par l'accident survenu dans un établissement recevant du public, agit sur le fondement cumulé des articles 1242 alinéa 1er et 1240 du Code civil, ainsi que des articles L.4121-1 à L.4121-5 et R.4323-58 du Code du travail.
+La demanderesse, en sa qualité de tiers lésé par l'accident survenu dans un établissement recevant du public, agit sur le fondement cumulé des articles 1242[^n1] alinéa 1er et 1240 du Code civil, ainsi que des articles L.4121-1 à L.4121-5 et R.4323-58 du Code du travail.
 
 L'action est recevable et non prescrite, le délai de droit commun de cinq ans (article 2224 du Code civil) courant à compter de la consolidation du 1er mars 2027.
 
@@ -134,9 +134,9 @@ Il n'y a pas lieu à sursis à statuer dans l'attente de l'issue de l'informatio
 
 ## V — RESPONSABILITÉ
 
-### V.1 — 3.1 Responsabilité du fait des choses (article 1242 alinéa 1er du Code civil)
+### V.1 — 3.1 Responsabilité du fait des choses (article 1242[^n1] alinéa 1er du Code civil)
 
-L'article 1242 alinéa 1er du Code civil dispose :
+L'article 1242[^n1] alinéa 1er du Code civil dispose :
 
 > *« On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des choses que l'on a sous sa garde. »*
 
@@ -160,13 +160,13 @@ La responsabilité du fait des choses repose sur trois conditions cumulatives :
 
 À titre subsidiaire, la SAS SAS HB BARBER a méconnu plusieurs obligations légales et réglementaires :
 
-**Articles L.4121-1 à L.4121-5 du Code du travail** — obligation générale de sécurité et de protection de la santé :
+**Articles L.4121-1[^n2] à L.4121-5 du Code du travail** — obligation générale de sécurité et de protection de la santé :
 
 > *« L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. »* (Article L.4121-1)
 
 > *« Ces mesures comprennent : 1° Des actions de prévention des risques professionnels ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. »* (Article L.4121-2)
 
-**Article R.4323-58 du Code du travail** — obligation de fournir un équipement d'accès en hauteur :
+**Article R.4323-58 du Code du[^n3] travail** — obligation de fournir un équipement d'accès en hauteur :
 
 > *« Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. »*
 
@@ -176,13 +176,13 @@ La responsabilité du fait des choses repose sur trois conditions cumulatives :
 
 2. **État défectueux de l'équipement** : la vasque présentait une cassure préexistante non signalée, constituant un danger pour les clients et les salariés
 
-3. **Absence présumée de DUERP** : à ce jour, aucun Document Unique d'Évaluation des Risques Professionnels n'a été communiqué, en violation des articles R.4121-1 et suivants du Code du travail
+3. **Absence présumée de DUERP** : à ce jour, aucun Document Unique d'Évaluation des Risques Professionnels n'a été communiqué, en violation des articles R.4121-1[^n4] et suivants du Code du travail
 
 4. **Défaut de formation et d'information** : le préposé n'a pas été formé aux risques liés au travail en hauteur ni informé de l'état dangereux de l'équipement
 
-### V.3 — 3.3 Faute de la SAS (article 1240 du Code civil — très subsidiaire)
+### V.3 — 3.3 Faute de la SAS (article 1240 du Code civil[^n5] — très subsidiaire)
 
-À titre infiniment subsidiaire, la SAS SAS HB BARBER a commis une faute civile engageant sa responsabilité délictuelle sur le fondement de l'article 1240 du Code civil.
+À titre infiniment subsidiaire, la SAS SAS HB BARBER a commis une faute civile engageant sa responsabilité délictuelle sur le fondement de l'article 1240 du Code civil[^n5].
 
 Cette faute résulte du cumul de négligences inexcusables :
 - Défaut de signalement et de réparation de la cassure préexistante de la vasque
@@ -363,7 +363,7 @@ Aide humaine temporaire pendant la période de convalescence.
 
 **PAR CES MOTIFS,**
 
-Vu les articles 1240, 1242 alinéa 1er du Code civil,
+Vu les articles 1240, 1242[^n5][^n1] alinéa 1er du Code civil,
 Vu les articles L.4121-1 à L.4121-5, R.4121-1 et suivants, R.4323-58 du Code du travail,
 Vu l'article L.124-3 du Code des assurances,
 Vu les articles 29 et 31 de la loi n° 85-677 du 5 juillet 1985,
@@ -374,7 +374,7 @@ Vu les pièces versées aux débats,
 
 **RECEVOIR** la demanderesse en ses demandes et les dire bien fondées ;
 
-**DIRE ET JUGER** que la SAS SAS HB BARBER est entièrement responsable du préjudice corporel subi par Sébastien GRAZIDE sur le fondement de l'article 1242 alinéa 1er du Code civil, subsidiairement sur celui de l'article 1240 du même code ;
+**DIRE ET JUGER** que la SAS SAS HB BARBER est entièrement responsable du préjudice corporel subi par Sébastien GRAZIDE sur le fondement de l'article 1242[^n1] alinéa 1er du Code civil, subsidiairement sur celui de l'article 1240[^n5] du même code ;
 
 **CONDAMNER** en conséquence la SAS SAS HB BARBER les sommes suivantes :
 
@@ -446,3 +446,29 @@ Sébastien GRAZIDE
 
 <hr><hr>
 <sup>*Document à jour au [**[Date Dépôt Conclusions]**](../../../../Memory/STRICT%20VARIABLES.md%23dates-cles) — Simulation à vocation pédagogique.*</sup>
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^n1]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
+    > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
+    > [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
+
+[^n2]: > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. » <br>
+    > **Code du travail > Chapitre Ier : Obligations de l'employeur.** <br>
+    > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) ↩
+
+[^n3]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
+    > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.** <br>
+    > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) ↩
+
+[^n4]: > « L'employeur transcrit et met à jour dans un document unique les résultats de l'évaluation des risques pour la santé et la sécurité des travailleurs à laquelle il procède en application de l'article L. 4121-3 . Cette évaluation comporte un inventaire des risques identifiés dans chaque unité de travail de l'entreprise ou de l'établissement, y compris ceux liés aux ambiances thermiques. » <br>
+    > **Code du travail > Section 1 : Document unique d'évaluation des risques.** <br>
+    > [Article R4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023795562) ↩
+
+[^n5]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+    > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
+    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+<!-- /Source -->

@@ -98,27 +98,27 @@ Il n'existait dans le salon **aucun équipement d'accès en hauteur** (pas d'esc
 #### II.1.a — Faute caractérisée
 Violation des obligations de sécurité (articles 1240 CC et R. 4323-58 et suivants du Code du travail)**
 
-L'absence d'équipement d'accès en hauteur (escabeau, marchepied, échelle) constitue une violation des articles R. 4323-58 et suivants du Code du travail, qui imposent à l'employeur de mettre à disposition des travailleurs les équipements nécessaires à la réalisation des travaux en hauteur. 
+L'absence d'équipement d'accès en hauteur (escabeau, marchepied, échelle) constitue une violation des articles R. 4323-58[^n1] et suivants du Code du travail, qui imposent à l'employeur de mettre à disposition des travailleurs les équipements nécessaires à la réalisation des travaux en hauteur. 
 
 Cette carence structurelle a contraint le préposé à escalader la vasque, créant la condition de l'accident.
 
-Elle caractérise une faute de l'exploitant au sens de l'article 1240 du Code civil.
+Elle caractérise une faute de l'exploitant au sens de l'article 1240 du Code civil[^n2].
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »*
 > [Article 1240 du Code civil](../../../../Lois/Code/Code_civil/Article1240_CodeCivil.md)
-> **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.[^1]**
+> **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.**
 
 #### II.1.b — Responsabilité du fait des choses
 
-Au sens de l'article 1242 alinéa 1er du Code civil, « on est responsable […] du dommage […] causé […] par le fait des choses que l'on a sous sa garde ». La société défenderesse est gardienne de la vasque en céramique installée dans son salon.
+Au sens de l'article 1242[^n3] alinéa 1er du Code civil, « on est responsable […] du dommage […] causé […] par le fait des choses que l'on a sous sa garde ». La société défenderesse est gardienne de la vasque en céramique installée dans son salon.
 
 Le **basculement brutal** de cette chose a été l'**instrument actif** du dommage subi par la victime. Ce basculement est établi par le procès-verbal de police n°[**[N° PV Police]**](../../../../Memory/Tokens/token-pv-police-numero.md).
 
 La Cour de cassation, dans un arrêt de principe, a retenu qu'une échelle installée par un préposé qui bascule et blesse un tiers engage la responsabilité du gardien, qui ne peut s'exonérer qu'en prouvant une cause étrangère (force majeure, faute de la victime, fait d'un tiers).
 
-> *« La Cour de cassation rappelle qu'une échelle installée par un préposé du commettant qui bascule et blesse un tiers engage la responsabilité du gardien sur le fondement de l'article 1242 alinéa 1er du Code civil. »*
+> *« La Cour de cassation rappelle qu'une échelle installée par un préposé du commettant qui bascule et blesse un tiers engage la responsabilité du gardien sur le fondement de l'article 1242[^n3] alinéa 1er du Code civil. »*
 > [Arrêt n°89-18.422](../../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md)
-> **Cour de cassation, 2e chambre civile, 13 février 1991, n° 89-18.422[^2]**
+> **Cour de cassation, 2e chambre civile, 13 février 1991, n° 89-18.422**
 
 En l'espèce, la victime n'a commis aucune faute : elle n'a pas provoqué le basculement, n'était pas montée sur la vasque, et n'avait aucun moyen de connaître le vice caché de la chose. Il n'existe aucun fait d'un tiers ni force majeure.
 
@@ -126,11 +126,11 @@ Par ailleurs, la **cassure préexistante** constitue un **vice inhérent** de la
 
 > *« Le vice inhérent à la chose, même indécelable, ne constitue pas un cas de force majeure ou une cause étrangère exonératoire. »*
 > [Arrêt n°74-10.466](../../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/74-10.466_CourCassation.md)
-> **Cour de cassation, 2e chambre civile, 5 mai 1975, n° 74-10.466[^3]**
+> **Cour de cassation, 2e chambre civile, 5 mai 1975, n° 74-10.466**
 
 #### II.1.c — Responsabilité du commettant du fait du préposé
 
-Aux termes de l'article 1242 alinéa 5 du Code civil, « les maîtres et les commettants […] du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés ».
+Aux termes de l'article 1242[^n3] alinéa 5 du Code civil, « les maîtres et les commettants […] du dommage causé par leurs préposés dans les fonctions auxquelles ils les ont employés ».
 
 Le coiffeur préposé agissait bien au service de l'exploitation du salon en tentant de régler le poste de télévision, acte entrant dans le cadre normal de ses fonctions.
 
@@ -138,7 +138,7 @@ L'Assemblée plénière de la Cour de cassation, dans l'arrêt Costedoat (25 fé
 
 #### II.1.d — Faute aggravée de l'exploitant
 
-Outre la violation des articles R. 4323-58 et suivants du Code du travail (cf. point 1 ci-dessus), la société défenderesse a commis des fautes caractérisées par :
+Outre la violation des articles R. 4323-58[^n1] et suivants du Code du travail (cf. point 1 ci-dessus), la société défenderesse a commis des fautes caractérisées par :
 
 - l'**absence totale d'équipement d'accès en hauteur**, créant une situation de danger manifeste ;
 
@@ -185,7 +185,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »*
 > [Article 700 du Code de procédure civile](../../../../Lois/Code/Code_procédure_civile/Article_700_Codeproc_Legifrance.md)
-> **Code de procédure civile > Chapitre Ier : La charge des dépens.[^4]**
+> **Code de procédure civile > Chapitre Ier : La charge des dépens.**
 
 **II.** De condamner la société défenderesse au paiement d'une **astreinte de 100 € par jour de retard** à compter de l'expiration d'un délai de huit jours à compter de la signification de l'ordonnance.
 
@@ -197,7 +197,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. »*
 > [Article 145 du Code de procédure civile](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md)
-> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.[^5]**
+> **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.**
 
 - de prescrire une **expertise médico-légale** visant à déterminer la consolidation du dommage corporel, le taux d'incapacité permanente partielle, et le préjudice esthétique ;
 
@@ -215,7 +215,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 - **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Preuve des lesions et de l'intervention d'urgence
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)** — Constatation initiale des blessures
+- **[Certificat medical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation initiale des blessures
 
 - **[Arrets de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — [Arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) de 55 jours
 
@@ -224,18 +224,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 - **[Mises en demeure J+31](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR restees sans reponse
 <!-- /PJ -->
 
-<!-- Source -->
-<hr><hr>
 
-## Sources Législation
-
-[^1]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](../../../../Lois/Code/Code_civil/Article1240_CodeCivil.md) ↩
-[^2]: [Arrêt n°89-18.422 — www.legifrance.gouv.fr/juri/id/JURITEXT000007026411](../../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md) ↩
-[^3]: [Arrêt n°74-10.466 — www.legifrance.gouv.fr/juri/id/JURITEXT000006993485](../../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/74-10.466_CourCassation.md) ↩
-[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](../../../../Lois/Code/Code_procédure_civile/Article_700_Codeproc_Legifrance.md) ↩
-[^5]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
-<hr><hr>
-<!-- /Source -->
 <hr><hr>
 
 ## NOTE DE RÉFÉRENCE
@@ -258,8 +247,26 @@ Voir les mémoires complets :
 
 ## Sources Législation
 
-[^1]: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](../../../../Lois/Code/Code_civil/Article1240_CodeCivil.md) ↩
-[^2]: [Arrêt n°89-18.422 — www.legifrance.gouv.fr/juri/id/JURITEXT000007026411](../../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md) ↩
-[^3]: [Arrêt n°74-10.466 — www.legifrance.gouv.fr/juri/id/JURITEXT000006993485](../../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/74-10.466_CourCassation.md) ↩
-[^4]: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](../../../../Lois/Code/Code_procédure_civile/Article_700_Codeproc_Legifrance.md) ↩
-[^5]: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
+: [Article 1240 du Code civil — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](../../../../Lois/Code/Code_civil/Article1240_CodeCivil.md) ↩
+: [Arrêt n°89-18.422 — www.legifrance.gouv.fr/juri/id/JURITEXT000007026411](../../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md) ↩
+: [Arrêt n°74-10.466 — www.legifrance.gouv.fr/juri/id/JURITEXT000006993485](../../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/74-10.466_CourCassation.md) ↩
+: [Article 700 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](../../../../Lois/Code/Code_procédure_civile/Article_700_Codeproc_Legifrance.md) ↩
+: [Article 145 du Code de procédure civile — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^n1]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
+    > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.** <br>
+    > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) ↩
+
+[^n2]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+    > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
+    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+
+[^n3]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
+    > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
+    > [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
+<!-- /Source -->

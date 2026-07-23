@@ -79,7 +79,7 @@ Premièrement, face au silence de l'exploitant le jour de l'accident, j'ai envoy
 
 Deuxièmement, je suis extrêmement inquiet quant à la disparition des preuves matérielles. J'ai constaté que le salon avait discrètement rouvert ses portes le 6 juillet dernier. Je crains fortement que le bac à shampoing en céramique cassé qui m'a blessé ait été remplacé, détruisant ainsi la preuve de sa dangerosité et de son état défectueux au moment de l'accident. De plus, j'ai demandé formellement, par courrier du 5 juillet, la conservation des enregistrements de la vidéosurveillance du salon, qui a capté toute la scène. Sans intervention rapide de vos services, je redoute que ces vidéos soient écrasées ou supprimées intentionnellement d'ici peu.
 
-Je vous remets aujourd'hui un document écrit complet, intitulé "PLAINTE COMPLÉMENTAIRE - BLESSURES INVOLONTAIRES ET OBSTRUCTION À LA JUSTICE", daté de ce jour. Ce document détaille l'ensemble des fondements juridiques que j'invoque (notamment l'article 434-4 du Code pénal sur l'obstruction à la justice et l'entrave à la manifestation de la vérité) et fournit la chronologie précise.
+Je vous remets aujourd'hui un document écrit complet, intitulé "PLAINTE COMPLÉMENTAIRE - BLESSURES INVOLONTAIRES ET OBSTRUCTION À LA JUSTICE", daté de ce jour. Ce document détaille l'ensemble des fondements juridiques que j'invoque (notamment l'article 434-4 du Code pénal[^n1] sur l'obstruction à la justice et l'entrave à la manifestation de la vérité) et fournit la chronologie précise.
 
 Je joins également à cette plainte écrite toutes les pièces justificatives, notamment la copie de mes lettres recommandées revenues NPAI, la note d'audit prouvant l'immatriculation active de la société, et le récépissé du dépôt de ma requête en référé (Article 145 CPC) que j'ai déposée ce matin même au Tribunal de Foix pour exiger la communication de l'assurance et la conservation des vidéos.
 
@@ -112,3 +112,13 @@ Sébastien GRAZIDE
 **L'Officier de Police Judiciaire,**
 *[Signature]*
 [Nom de l'OPJ de permanence]
+
+<!-- Source -->
+<hr><hr>
+
+## Sources Législation
+
+[^n1]: > « Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ; 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables. Lorsque les faits prévus au présent article sont commis par une personne qui, par ses fonctions, est appelée à concourir à la manifestation de la vérité, la peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende. » <br>
+    > **Code pénal > Section 1 : Des entraves à la saisine de la justice.** <br>
+    > [Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) ↩
+<!-- /Source -->
