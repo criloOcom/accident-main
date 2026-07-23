@@ -61,9 +61,17 @@ type: memory
 
 - Si l'information existe dans les fichiers, tu la lis et tu décides.
 
-- Si une action est possible, tu l'exécutes, pas la demandes.
+- Si une action me permet d'éditer ou de consulter des fichiers de travail, tu l'exécutes de plein droit.
 
 - La question à l'humain est le dernier recours quand l'information n'existe nulle part.
+
+## #29 — PROTOCOLE STRICT DE PERMISSIONS & INTERDICTION DE SUPPRESSION EN MASSE
+- **MODIFICATIONS COURANTES** : Pour la consultation de fichiers, la mise à jour, la création ou l'édition de documents de travail en local, tu disposes de plein droit pour exécuter les scripts et commandes nécessaires sans interrompre inutilement l'utilisateur.
+
+- **INTERDICTION STRICTE DE SUPPRESSION EN MASSE ET COMPORTEMENT DESTRUCTEUR** :
+  1. Il est **STRICTEMENT INTERDIT** d'exécuter des commandes de suppression en masse (`rm -rf`, nettoyage massif de dossiers, suppression de fichiers importants sur le local ou sur le Google Drive) sans demander **EXPLICITEMENT** une confirmation préalable avec le détail précis des fichiers impactés.
+  2. Toute action destructrice sur des données distantes (Google Drive, Google Docs, APIs externes) nécessitant la suppression définitive de ressources doit obligatoirement faire l'objet d'une validation utilisateur explicite.
+  3. En cas de doute sur la portée d'une commande de nettoyage ou de suppression, la prudence et le contrôle par l'utilisateur prévalent toujours.
 
 ## PRIORITÉ MCP — Toujours utiliser les outils MCP en premier
 - Tout appel à Légifrance, Judilibre ou Google Docs DOIT passer par les outils MCP dédiés
