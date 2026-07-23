@@ -4,10 +4,10 @@ uid: pKnCZS3Vb
 emoji: 📑
 title: Bordereau de pièces (unifié)
 subtitle: Liste des pièces jointes à la procédure de référé (Art. 835 CPC, Art. 145 CPC)
-objective: Rassembler et lister les 25 pièces versées à l'appui de l'assignation en référé-provision et de la requête 145 CPC
+objective: Rassembler et lister les 46 pièces versées à l'appui de l'assignation en référé-provision et de la requête 145 CPC
 summary: Bordereau de pièces unifié listant l'ensemble des documents versés à la procédure de référé-provision et d'article 145 CPC devant le TJ de Foix, incluant pièces médicales, administratives, correspondances et preuves matérielles.
 key_points:
-  - 25 pièces listées séquentiellement
+  - 46 pièces listées séquentiellement (dont pièces 44-46 : suivi médical du 23/07/2026 — temps partiel thérapeutique)
   - Pièces 1-10 : constatations et pièces médicales
   - Pièces 11-20 : correspondances et démarches amiables
   - Pièces 21-25 : preuves matérielles et éléments complémentaires
@@ -30,7 +30,7 @@ tags:
 statut: final
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - Bordereau Unifié.md
+reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/TJ_Foix_Bordereau_Unifie.md
 source: drive
 jx: J+39
 ---
@@ -41,7 +41,7 @@ jx: J+39
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police_Note_Erratum_Identite.md).
 
 # BORDEREAU DE PIÈCES
 
@@ -53,15 +53,15 @@ jx: J+39
 
 ### PIÈCE N° 2
 
-- 29 mai 2026 16h30** — [**[Certificat médical initial]**](../../../Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md) (Dr Julie JARDON, Centre Ariégeois de Soins Immédiats) : Exploration de plaie palmaire profonde, lavage et désinfection sous anesthésie locale. Référence d'urgence chirurgicale.
+- 29 mai 2026 16h30** — [**[Certificat médical initial]**](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md) (Dr Julie JARDON, Centre Ariégeois de Soins Immédiats) : Exploration de plaie palmaire profonde, lavage et désinfection sous anesthésie locale. Référence d'urgence chirurgicale.
 
 ### PIÈCE N° 3
 
-- 30 mai 2026 — Compte rendu opératoire (Dr Iskander DJERBI, SOS Main Clinique de l'Union) : Suture du tendon fléchisseur superficiel index droit (6 brins), suture des paquets collatéraux, neurolyse du nerf palmaire. [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
+- 30 mai 2026 — Compte rendu opératoire (Dr Iskander DJERBI, SOS Main Clinique de l'Union) : Suture du tendon fléchisseur superficiel index droit (6 brins), suture des paquets collatéraux, neurolyse du nerf palmaire. [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**.
 
 ### PIÈCE N° 4
 
-- 1 juin 2026 au 23 juillet 2026 — [**[Arrêts de travail]**](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et prolongations (Dr Oxybel) : [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 29 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.
+- 1 juin 2026 au 23 juillet 2026 — [**[Arrêts de travail]**](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) et prolongations (Dr Oxybel) : [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total de 55 jours (arrêt initial 15 jours + prolongation 11 jours + prolongation 29 jours), justifiée par l'incapacité d'utiliser la main droite dominante pour l'activité d'informaticien indépendant.
 
 ### PIÈCE N° 5
 
@@ -85,7 +85,7 @@ jx: J+39
 
 ### PIÈCE N° 9
 
-- 3 juin 2026 — Dossier Recours Contre Tiers CPAM n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** (CPAM de la Haute-Garonne) : Ouverture du [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) suite au signalement sur Ameli. Active la subrogation de l'assurance maladie pour récupération des débours (frais d'hospitalisation, soins, indemnités).
+- 3 juin 2026 — Dossier Recours Contre Tiers CPAM n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]** (CPAM de la Haute-Garonne) : Ouverture du [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) suite au signalement sur Ameli. Active la subrogation de l'assurance maladie pour récupération des débours (frais d'hospitalisation, soins, indemnités).
 <hr><hr>
 
 ## III — GROUPE C — CORRESPONDANCES ET MISES EN DEMEURE
@@ -95,7 +95,7 @@ jx: J+39
 
 ### PIÈCE N° 10b
 
-- **08/07/2026** — LRAR [relance V2 dirigeants](../../../Reel/Courriers/SAS_%26_Salon/SAS%20-%20Dirigeants%20-%20Courrier%20-%20Relance.md) : Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf). Preuve du renouvellement des demandes et de l'obstruction.
+- **08/07/2026** — LRAR [relance V2 dirigeants](../../../Reel/Courriers/SAS_et_Salon/SAS_Dirigeants_Courrier_Relance.md) : Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf). Preuve du renouvellement des demandes et de l'obstruction.
 
 ### PIÈCE N° 11
 
@@ -161,7 +161,7 @@ jx: J+39
 
 ### PIÈCE N° 25
 
-- 5 juillet 2026 — Relance CPAM : Suivi du [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** et demande de mise à jour. Email envoyé.
+- 5 juillet 2026 — Relance CPAM : Suivi du [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]** et demande de mise à jour. Email envoyé.
 <hr><hr>
 
 ## VII — GROUPE G — PIÈCES COMPLÉMENTAIRES
@@ -171,21 +171,21 @@ jx: J+39
 
 ### PIÈCE N° 27
 
-- 30 mai 2026 — Frais de séjour SOS Main (GHS) : Frais de séjour et soins [dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
+- 30 mai 2026 — Frais de séjour SOS Main (GHS) : Frais de séjour et soins [dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**.
 
 - 10 juin 2026 — Relevé de prestations CPAM : Enregistrement de l'acte de chirurgie (ADC) du 30 mai 2026.
 
 ### PIÈCE N° 28
 
-- 16 juin 2026 — Demande de renseignements CPAM (Sigrid DESBOIS) : INCOHÉRENCE — dossier n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) erroné]** au lieu du n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
+- 16 juin 2026 — Demande de renseignements CPAM (Sigrid DESBOIS) : INCOHÉRENCE — dossier n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) erroné]** au lieu du n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**.
 
-- **18/06/2026** — Note de cadrage médico-légale : Confirmation de la zone lésée (index droit) et du [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md).
+- **18/06/2026** — Note de cadrage médico-légale : Confirmation de la zone lésée (index droit) et du [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md).
 
-- 19 juin 2026 — Rectification du [**[compte-rendu opératoire]**](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) : Index droit rétabli, date du 30 mai 2026 confirmée.
+- 19 juin 2026 — Rectification du [**[compte-rendu opératoire]**](../../../Preuves_officielles/20260530_%F0%9F%86%98_SOSMain/20260530_CR_Op%C3%A9ratoire_RapportInterventionMainDroite.md) : Index droit rétabli, date du 30 mai 2026 confirmée.
 
 ### PIÈCE N° 29
 
-- 3 juin 2026 — Envoi des volets 1 et 2 d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) : Correction manuelle de l'erreur de date.
+- 3 juin 2026 — Envoi des volets 1 et 2 d'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) : Correction manuelle de l'erreur de date.
 
 - **05/06/2026** — Déclaration de sinistre corporel aux assurances privées (limite légale de 5 jours).
 
@@ -195,25 +195,25 @@ jx: J+39
 
 - **Sans date** — Pansements post-chirurgicaux lourds toutes les 48 heures (Cabinet infirmier Toulouse).
 
-- **12/06/2026** — Consultation de contrôle (Dr Oxybel) : Planification de la prolongation d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
+- **12/06/2026** — Consultation de contrôle (Dr Oxybel) : Planification de la prolongation d'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md).
 
 - 23 juin 2026 — Consultation de contrôle post-opératoire (Dr Iskander DJERBI) : Bonne évolution cicatricielle, déficit neurologique noté.
 
 ### PIÈCE N° 31
 
-- 29 mai 2026 — Prescription initiale de 25 jours d'[**[arrêt de travail]**](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (Dr Oxybel).
+- 29 mai 2026 — Prescription initiale de 25 jours d'[**[arrêt de travail]**](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) (Dr Oxybel).
 
 ### PIÈCE N° 32
 
-- **05/06/2026** — Envoi recommandé d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (LR n° [**[N° LRAR Arrêt de Travail]**](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes)).
+- **05/06/2026** — Envoi recommandé d'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) (LR n° [**[N° LRAR Arrêt de Travail]**](../../../../Memory/TOKEN%20MAP.md#donnees-localisantes)).
 
 ### PIÈCE N° 33
 
-- 2 juin 2026 — Relevés de prestations CPAM Tiers Payant : Dossier **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** (seul le NIR présent).
+- 2 juin 2026 — Relevés de prestations CPAM Tiers Payant : Dossier **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]** (seul le NIR présent).
 
 ### PIÈCE N° 34
 
-- **Sans date** — Soins et remboursements CPAM (dossier n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]** et **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) erroné]**) : Frais pharmaceutiques, hospitalisation et [arrêts de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
+- **Sans date** — Soins et remboursements CPAM (dossier n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]** et **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) erroné]**) : Frais pharmaceutiques, hospitalisation et [arrêts de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md).
 
 ### PIÈCE N° 35
 
@@ -265,7 +265,19 @@ jx: J+39
 
 ### PIÈCE N° 43
 
-- **05/06/2026** — Preuve de dépôt LRAR [**[arrêt de travail]**](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (La Poste, Blagnac) : Décalage de date constaté (vignette 03/06, flash postal 05/06).
+- **05/06/2026** — Preuve de dépôt LRAR [**[arrêt de travail]**](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) (La Poste, Blagnac) : Décalage de date constaté (vignette 03/06, flash postal 05/06).
+
+### PIÈCE N° 44
+
+- **23/07/2026** — [Note de suivi clinique](../../../Preuves_officielles/20260723-1730_DrPrisca_NoteDeSuivi/20260723-1730_DrPrisca_NoteDeSuivipdf.md) de Dr Prisca AKUÉ — Bilan de l'index droit à J+55 : cicatrice indurée, flexion MCP limitée à ~120°, douleurs à la palpation, à l'hyperextension et à la flexion. (PIECES MAP n° 53.)
+
+### PIÈCE N° 45
+
+- **23/07/2026** — [Avis d'arrêt de travail — temps partiel thérapeutique](../../../Preuves_officielles/20260723-1730_DrPrisca_ArretDeTravail_TempsPartiel/20260723-1730_DrPrisca_ArretDeTravail_TempsPartiel_24072026au23082026pdf.md) (travail aménagé pour raison médicale) du **24/07/2026 au 23/08/2026**, prescrit par Dr Prisca AKUÉ — fin de l'arrêt total de 55 jours, absence de consolidation. (PIECES MAP n° 54.)
+
+### PIÈCE N° 46
+
+- **23/07/2026** — [Compte-rendu de kinésithérapie détaillé](../../../Preuves_officielles/20260723-1544_Kine_CompteRendu/20260723-1544_Kine_CompteRendu_SebastienGrazidepdf.md) (cabinet de kinésithérapie de Blagnac) — amplitudes articulaires (extension MP droite 30° contre 80° à gauche), adhérences cicatricielles, appréhension à l'effort, PSFS 5,0/10. (PIECES MAP n° 55.)
 <!-- Source -->
 <hr><hr>
 

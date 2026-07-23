@@ -17,7 +17,7 @@ tags:
 
 - obstruction
 statut: preparation
-reel_path: ../../../Reel/Preuves_officielles/20260715_Police_PV_Foix/20260715 PV Police PV Complementaire AccidentSalonCoiffure.md
+reel_path: ../../../Reel/Preuves_officielles/20260715_Police_PV_Foix/20260715_PV_Police_PV_Complementaire_AccidentSalonCoiffure.md
 auteur: La Victime
 ---
 <!-- Breadcrumb -->
@@ -25,7 +25,7 @@ auteur: La Victime
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police_Note_Erratum_Identite.md).
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**
 > Ce fichier est une transcription du procès-verbal d'audition (Plainte Complémentaire).
@@ -60,7 +60,7 @@ Le quinze juillet, à dix heures.
 
 Nous, Officier de Police Judiciaire,
 
---- Constatons que se présente M. Sébastien GRAZIDE, qui souhaite déposer une plainte complémentaire suite aux faits dénoncés le 02/06/2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)). ---
+--- Constatons que se présente M. Sébastien GRAZIDE, qui souhaite déposer une plainte complémentaire suite aux faits dénoncés le 02/06/2026 ([PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n%C2%B02026-015967_AccidentSalonCoiffure.md)). ---
 
 --- Information reçue des droits mentionnés à l'article 10-2 du code de procédure pénale. ---
 
@@ -76,7 +76,9 @@ Troisièmement, j'ai pu constater visuellement que le salon a rouvert ses portes
 
 Enfin, il est fort probable que la vasque cassée sur laquelle je me suis blessé ait été remplacée pour faire disparaître l'élément matériel dangereux qui a causé ma blessure.
 
-Je vous remets ce jour mon dossier complet de plainte complémentaire comprenant 15 pages d'exposé des faits et de fondements juridiques (Articles 434-4 et 222-20 du Code pénal, L. 4121-1 et L. 8221-1 du Code du travail), ainsi que l'ensemble des pièces jointes justificatives (accusés de réception NPAI, [extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md), note d'audit).
+S'agissant de mon état de santé, je vous précise que mon arrêt de travail total, débuté le 29 mai 2026, s'est achevé le 23 juillet 2026, soit un cumul de 55 jours d'arrêt total. Lors de la consultation du 23 juillet 2026, Dr Prisca AKUÉ m'a prescrit un temps partiel thérapeutique (travail aménagé pour raison médicale) du 24 juillet 2026 au 23 août 2026. Les constats cliniques à J+55 restent significatifs : cicatrice indurée, flexion de l'articulation métacarpophalangienne de l'index droit limitée à environ 120°, extension MP limitée à 30° (contre 80° du côté sain, selon le bilan de kinésithérapie), douleurs vives à la palpation, à l'hyperextension et à la flexion. Mon état n'est pas consolidé ; une réévaluation médicale est prévue à l'échéance du 23 août 2026. Je verse au dossier la note de suivi médicale, l'avis de temps partiel thérapeutique et le compte-rendu de kinésithérapie du 23 juillet 2026.
+
+Je vous remets ce jour mon dossier complet de plainte complémentaire comprenant 15 pages d'exposé des faits et de fondements juridiques (Articles 434-4 et 222-20 du Code pénal, L. 4121-1 et L. 8221-1 du Code du travail), ainsi que l'ensemble des pièces jointes justificatives (accusés de réception NPAI, [extrait Kbis](../../../Preuves_officielles/20260601_Kbis/20260601-xxxx_Extrait_Kbis_SAS_MauvaisGarcons.md), note d'audit).
 
 Je sollicite qu'une enquête approfondie soit menée, avec si possible une vérification sur place rapide pour constater l'état actuel des lieux, saisir les éventuels enregistrements vidéos restants, et entendre le personnel présent.
 
