@@ -4,10 +4,10 @@ uid: pKnCZS3Vb
 emoji: 📑
 title: Bordereau de pièces (unifié)
 subtitle: Liste des pièces jointes à la procédure de référé (Art. 835 CPC, Art. 145 CPC)
-objective: Rassembler et lister les 46 pièces versées à l'appui de l'assignation en référé-provision et de la requête 145 CPC
+objective: Rassembler et lister les 47 pièces versées à l'appui de l'assignation en référé-provision et de la requête 145 CPC
 summary: Bordereau de pièces unifié listant l'ensemble des documents versés à la procédure de référé-provision et d'article 145 CPC devant le TJ de Foix, incluant pièces médicales, administratives, correspondances et preuves matérielles.
 key_points:
-  - 46 pièces listées séquentiellement (dont pièces 44-46 : suivi médical du 23/07/2026 — temps partiel thérapeutique)
+  - 47 pièces listées séquentiellement (dont pièces 44-46 : suivi médical du 23/07/2026 — temps partiel thérapeutique)
   - Pièces 1-10 : constatations et pièces médicales
   - Pièces 11-20 : correspondances et démarches amiables
   - Pièces 21-25 : preuves matérielles et éléments complémentaires
@@ -278,6 +278,10 @@ jx: J+39
 ### PIÈCE N° 46
 
 - **23/07/2026** — [Compte-rendu de kinésithérapie détaillé](../../../Preuves_officielles/20260723-1544_Kine_CompteRendu/20260723-1544_Kine_CompteRendu_SebastienGrazidepdf.md) (cabinet de kinésithérapie de Blagnac) — amplitudes articulaires (extension MP droite 30° contre 80° à gauche), adhérences cicatricielles, appréhension à l'effort, PSFS 5,0/10. (PIECES MAP n° 55.)
+
+### PIÈCE N° 47
+
+- **18/07/2026** — [Captures d'écran WhatsApp](../../../Preuves_officielles/20260718-1601_Demande_AttestationDeTemoin_Ayoub_SANSreponse/20260718-1601_Demande_AttestationDeTemoin_Ayoub_SANSreponse.md) : demande formelle d'attestation de témoin (CERFA 11527*03 joint) adressée au **[Préposé de l'Exploitation]** (coiffeur présent le jour de l'accident), **distribuée le 18/07/2026 à 16h01** — **sans aucune réponse à ce jour**. Matérialise la carence du témoin principal et la mauvaise volonté persistante de l'exploitant et de son personnel. (PIECES MAP n° 56.)
 <!-- Source -->
 <hr><hr>
 

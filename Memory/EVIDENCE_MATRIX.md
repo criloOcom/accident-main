@@ -48,6 +48,7 @@ Ce document répertorie l'ensemble des preuves acquises et à obtenir dans le ca
 | ACQ-19 | Note de suivi clinique J+55 (cicatrice indurée, flexion MCP ~120°, douleurs) | Dr Prisca AKUÉ — Centre Médical L'Orangerie, Blagnac (23/07/2026) | 🔗 [Drive](https://drive.google.com/file/d/1-nd07QdUAjUtusTTYoSOCGiRWgCI95kV/view) | Élevée | Constat objectif des séquelles à J+55 — base DFT/DFP. |
 | ACQ-20 | Avis de temps partiel thérapeutique (travail aménagé) 24/07 → 23/08/2026 | Dr Prisca AKUÉ (23/07/2026) | 🔗 [Drive](https://drive.google.com/file/d/1QTGk0dI16Lo09uqq44iF0heUWyWS3NM7/view) | Élevée | Transition ITT → reprise aménagée ; base PGPA/incidence professionnelle et IJ CPAM (indépendant). |
 | ACQ-21 | Compte-rendu kinésithérapie détaillé (amplitudes, adhérences, appréhension) | Cabinet kiné Blagnac — A. Teissier / J. Milas (23/07/2026) | 🔗 [Drive](https://drive.google.com/file/d/1c7I1pepe5FVsGnrAQmeoi2UMLPKKG5ew/view) | Élevée | Mesures articulaires objectives (extension MP droite 30° vs 80° à gauche) — corrobore le déficit fonctionnel. |
+| ACQ-22 | Captures WhatsApp — demande d'attestation de témoin (CERFA 11527*03) au préposé, distribuée le 18/07/2026 16h01, SANS réponse | [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) (18/07/2026) | 🔗 [Drive 1](https://drive.google.com/file/d/1uzAFcXJZzmtjiaQgRrH_8f1CVF4RAFIi/view) · [Drive 2](https://drive.google.com/file/d/1TdBP_kmk8oX8izM2laBK-kiB7y0gjFlM/view) | Élevée | Carence du témoin principal — volet obstruction/mauvaise volonté ; justifie réquisition OPJ + Art. 145 CPC. |
 
 <hr><hr>
 

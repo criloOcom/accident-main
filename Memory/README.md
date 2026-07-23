@@ -59,7 +59,7 @@ graph TD
 
 - **[RECOVERY_CHECKPOINT](RECOVERY_CHECKPOINT.md)** - Point de reprise après perte mémoire (18/07)
 
-- **[Mémo Stratégie Bailleur HB BARBER](M%C3%A9mo%20Strat%C3%A9gie%20Bailleur%20HB%20BARBER.md)**
+- **[Mémo Stratégie Bailleur HB BARBER](M%C3%A9mo_Strat%C3%A9gie_Bailleur_HB_BARBER.md)**
 
 - **[CARNET_RDV_UTILISATEUR](CARNET_RDV_UTILISATEUR.md)**
 
@@ -84,6 +84,8 @@ graph TD
 - **[JUSTIFICATION_PROVISION_15000](JUSTIFICATION_PROVISION_15000.md)**
 
 - **[NOTE_SYNTHESE_AVOCAT](NOTE_SYNTHESE_AVOCAT.md)**
+
+- **[NOTE_CONFIDENTIELLE_20260716_Constat_Salon](NOTE_CONFIDENTIELLE_20260716_Constat_Salon.md)** 🔒 — dossier de travail avocat uniquement
 
 - **[PIECES MAP](PIECES%20MAP.md)**
 
