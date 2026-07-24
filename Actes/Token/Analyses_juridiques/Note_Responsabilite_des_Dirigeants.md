@@ -88,7 +88,7 @@ La jurisprudence constante de la Cour de cassation (chambre commerciale, arrêt 
 [^n1]: > « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. Si plusieurs administrateurs ou plusieurs administrateurs et le directeur général ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du dommage. » <br>
     > **Code de commerce > Section 8 : De la responsabilité civile.** <br>
     > [Article L225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
-    📚 Bibliothèque locale : [Article_L225-251_Codecommerce_Legifrance](Lois/Code/Code_commerce/Article_L225-251_Codecommerce_Legifrance.md) ↩
+    📚 Bibliothèque locale : [Article_L225-251_Codecommerce_Legifrance](../../../Lois/Code/Code_commerce/Article_L225-251_Codecommerce_Legifrance.md) ↩
 
 [^n2]: > « Le taux maximum de l'amende applicable aux personnes morales est égal au quintuple de celui prévu pour les personnes physiques par la loi qui réprime l'infraction. Lorsqu'il s'agit d'un crime pour lequel aucune peine d'amende n'est prévue à l'encontre des personnes physiques, l'amende encourue par les personnes morales est de 1 000 000 euros. » <br>
     > **Code pénal > Sous-section 1 : Des peines criminelles et délictuelles.** <br>

@@ -32,29 +32,29 @@ Le présent plan d'action et chronologie de la procédure a été établi par **
 
 <hr><hr>
 
-- [I. CHRONOLOGIE ET PLAN D'ACTION](#i-chronologie-et-plan-daction)
+- [I. CHRONOLOGIE ET PLAN D'ACTION](../../..)
 
-- [ACTIONS URGENTES ET PHASE AMIABLE (JUIN 2026)](#actions-urgentes-et-phase-amiable-juin-2026)
+- [ACTIONS URGENTES ET PHASE AMIABLE (JUIN 2026)](../../..)
 
-- [PROCÉDURES JUDICIAIRES ET EXPERTISE (JUILLET - DÉCEMBRE 2026)](#procdures-judiciaires-et-expertise-juillet---dcembre-2026)
+- [PROCÉDURES JUDICIAIRES ET EXPERTISE (JUILLET - DÉCEMBRE 2026)](../../..)
 
-- [II. FONDEMENTS JURIDIQUES](#ii-fondements-juridiques)
+- [II. FONDEMENTS JURIDIQUES](../../..)
 
-- [RESPONSABILITÉ CIVILE ET ACTION DIRECTE](#responsabilit-civile-et-action-directe)
+- [RESPONSABILITÉ CIVILE ET ACTION DIRECTE](../../..)
 
-- [RESPONSABILITÉ DES DIRIGEANTS ET MESURES D'INSTRUCTION](#responsabilit-des-dirigeants-et-mesures-dinstruction)
+- [RESPONSABILITÉ DES DIRIGEANTS ET MESURES D'INSTRUCTION](../../..)
 
-- [III. INVENTAIRE DES PIÈCES](#iii-inventaire-des-pices)
+- [III. INVENTAIRE DES PIÈCES](../../..)
 
-  - [A. PREUVES MÉDICALES ET ADMINISTRATIVES](#a-preuves-mdicales-et-administratives)
+  - [A. PREUVES MÉDICALES ET ADMINISTRATIVES](../../..)
 
-  - [B. PREUVES MATÉRIELLES ET TÉMOIGNAGES](#b-preuves-matrielles-et-tmoignages)
+  - [B. PREUVES MATÉRIELLES ET TÉMOIGNAGES](../../..)
 
-- [IV. CONTACTS ET ANNUAIRES](#iv-contacts-et-annuaires)
+- [IV. CONTACTS ET ANNUAIRES](../../..)
 
 - [Autorités Judiciaires et Policières à **[La Ville de l'Accident](../../../Memory/Tokens/token-accident-ville.md)**](#autorits-judiciaires-et-policires-la-ville-de-laccident)
 
-- [SERVICES JURIDIQUES ET DE SANTÉ](#services-juridiques-et-de-sant)
+- [SERVICES JURIDIQUES ET DE SANTÉ](../../..)
 <hr><hr>
 
 ## II — CHRONOLOGIE ET PLAN D'ACTION

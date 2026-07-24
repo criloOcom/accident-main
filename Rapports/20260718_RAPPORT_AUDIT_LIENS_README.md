@@ -71,7 +71,7 @@ Ces liens pointent vers des fichiers ou tokens qui n'existent pas ou plus à l'e
 
   - `token-exploitation-nom-commercial.md` et `token-exploitation-prepose-nom.md` sont appelés mais introuvables.
 
-- **Fichiers manquants dans [Rapports](README.md)** :
+- **Fichiers manquants dans [Rapports](../README.md)** :
 
   - `RAPPORT_NAVIGATION_INTERACTIVE_20260711.md` manque dans plusieurs audits.
 
@@ -111,9 +111,9 @@ L'audit d'intégrité des fichiers README montre des désynchronisations mineure
 
 - **`Actes/Token/Actes_proceduraux/📋 Preparation Foix/`** : `Police - Note Erratum Identité.md` n'est pas listé.
 
-- **[Rapports](README.md) et sous-dossiers** :
+- **[Rapports](../README.md) et sous-dossiers** :
 
-  - `85_RESTANT_A_FAIRE_2026-07-15.md` n'est pas listé dans [Rapports/README.md](README.md).
+  - `85_RESTANT_A_FAIRE_2026-07-15.md` n'est pas listé dans [Rapports/README.md](../README.md).
 
   - `00_META_SYNTHESE_MULTI_ANGLE.md` n'est pas listé dans `30_Analyses_Multi_Angle/README.md`.
 

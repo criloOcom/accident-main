@@ -196,17 +196,17 @@ Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'encei
 [^n2]: > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
     > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
     > [Article L227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
-    📚 Bibliothèque locale : [Article_L227-8_Codecommerce_Legifrance](Lois/Code/Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) ↩
+    📚 Bibliothèque locale : [Article_L227-8_Codecommerce_Legifrance](../../../Lois/Code/Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) ↩
 
 [^n3]: > « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. Si plusieurs administrateurs ou plusieurs administrateurs et le directeur général ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du dommage. » <br>
     > **Code de commerce > Section 8 : De la responsabilité civile.** <br>
     > [Article L225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
-    📚 Bibliothèque locale : [Article_L225-251_Codecommerce_Legifrance](Lois/Code/Code_commerce/Article_L225-251_Codecommerce_Legifrance.md) ↩
+    📚 Bibliothèque locale : [Article_L225-251_Codecommerce_Legifrance](../../../Lois/Code/Code_commerce/Article_L225-251_Codecommerce_Legifrance.md) ↩
 
 [^n4]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
     > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
     > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
-    📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
+    📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 
 [^n5]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>

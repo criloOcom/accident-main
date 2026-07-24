@@ -143,5 +143,5 @@ Avocat au Barreau
 [^n1]: > « A la demande de tout intéressé ou du ministère public, le président du tribunal, statuant en référé, peut enjoindre sous astreinte au dirigeant de toute personne morale de procéder au dépôt des pièces et actes au registre du commerce et des sociétés auquel celle-ci est tenue par des dispositions législatives ou réglementaires. Le président peut, dans les mêmes conditions et à cette même fin, désigner un mandataire chargé d'effectuer ces formalités. » <br>
     > **Code de commerce > Sous-section 1 : Des personnes tenues à l'immatriculation.** <br>
     > [Article L123-5-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291)
-    📚 Bibliothèque locale : [Article_L123-5-1_Codecommerce](Lois/Code/Code_commerce/Article_L123-5-1_Codecommerce.md) ↩
+    📚 Bibliothèque locale : [Article_L123-5-1_Codecommerce](../../../../Lois/Code/Code_commerce/Article_L123-5-1_Codecommerce.md) ↩
 <!-- /Source -->

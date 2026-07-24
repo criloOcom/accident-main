@@ -129,7 +129,7 @@ Ce dépôt est conçu pour être exploité par des agents IA. Le point d'entrée
 
 ## Accès rapide
 
-- [🧭 Vos prochaines démarches (section ci-dessus)](#-victime--par-où-commencer--vos-prochaines-démarches)
+- [🧭 Vos prochaines démarches (section ci-dessus)](.)
 
 - [Procès-verbal Police (PV n° 2026/015967)](./Actes/Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)
 

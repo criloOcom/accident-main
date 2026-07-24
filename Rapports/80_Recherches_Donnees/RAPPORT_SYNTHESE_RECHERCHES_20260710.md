@@ -36,7 +36,7 @@ tags:
 
 ## Sommaire
 
-1. [Recherches Jurisprudence Pertinente](#1-recherches-jurisprudence-pertinente)
+1. [Recherches Jurisprudence Pertinente](../..)
 
 2. [Vérification des Articles de Loi](%232-v%C3%A9rification-des-articles-de-loi)
 
@@ -44,9 +44,9 @@ tags:
 
 4. [Recherche Responsabilité Dirigeants](%234-recherche-responsabilit%C3%A9-dirigeants)
 
-5. [Recherche Accidents du Travail](#5-recherche-accidents-du-travail)
+5. [Recherche Accidents du Travail](../..)
 
-6. [Recommandations](#6-recommandations)
+6. [Recommandations](../..)
 
 ---
 

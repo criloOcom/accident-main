@@ -17,7 +17,7 @@ tags:
 - travail dissimulé
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](README.md) › Note confidentielle 16/07/2026*
+*[🏠](../README.md) › [🧠 Memory](../README.md) › Note confidentielle 16/07/2026*
 <hr>
 <!-- /Breadcrumb -->
 

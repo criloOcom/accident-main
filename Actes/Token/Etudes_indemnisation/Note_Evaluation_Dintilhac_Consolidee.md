@@ -39,9 +39,9 @@ Rédigé le [**[J+32 Assignation référé]**](../../../Memory/Tokens/token-j-32
 
 - [2. SYNTHÈSE DES ÉVALUATIONS](%232-synth%C3%A8se-des-%C3%A9valuations)
 
-- [3. ANALYSE POSTE PAR POSTE](#3-analyse-poste-par-poste)
+- [3. ANALYSE POSTE PAR POSTE](../../..)
 
-  - [3.1 PGPA — Pertes de Gains Professionnels Actuels](#31-pgpa--pertes-de-gains-professionnels-actuels)
+  - [3.1 PGPA — Pertes de Gains Professionnels Actuels](../../..)
 
   - [3.2 DFT — Déficit Fonctionnel Temporaire](%2332-dft--d%C3%A9ficit-fonctionnel-temporaire)
 
@@ -49,7 +49,7 @@ Rédigé le [**[J+32 Assignation référé]**](../../../Memory/Tokens/token-j-32
 
   - [3.4 SE — Souffrances Endurées](%2334-se--souffrances-endur%C3%A9es)
 
-  - [3.5 IP — Incidence Professionnelle](#35-ip--incidence-professionnelle)
+  - [3.5 IP — Incidence Professionnelle](../../..)
 
   - [3.6 Préjudice d'Agrément](%2336-pr%C3%A9judice-dagr%C3%A9ment)
 
@@ -57,11 +57,11 @@ Rédigé le [**[J+32 Assignation référé]**](../../../Memory/Tokens/token-j-32
 
    - [3.8 DEP — Dévalorisation Professionnelle Future](%2338-dep--d%C3%A9valorisation-professionnelle-future)
 
-   - [3.9 ATP — Assistance par Tierce Personne](#39-atp--assistance-par-tierce-personne)
+   - [3.9 ATP — Assistance par Tierce Personne](../../..)
 
-   - [3.10 Frais Divers](#310-frais-divers)
+   - [3.10 Frais Divers](../../..)
 
-   - [3.11 Article 700 CPC](#311-article-700-cpc)
+   - [3.11 Article 700 CPC](../../..)
 
 - [4. STRATÉGIE DE RECOUVREMENT](%234-strat%C3%A9gie-de-recouvrement)
 

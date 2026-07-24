@@ -180,7 +180,7 @@ type: memory
 - Ne JAMAIS inventer une date, un montant ou un identifiant — utiliser uniquement les valeurs de STRICT VARIABLES.md
 
 ## ANTI-RÉGRESSION — VÉRIFICATION CROSS-DOCUMENT OBLIGATOIRE
-- Après TOUTE modification d'un fichier dans [Actes](../Actes/README.md), [Memory](README.md), ou `annexes/`, lancer impérativement : `python3 app/check_consistency.py`
+- Après TOUTE modification d'un fichier dans [Actes](../Actes/README.md), [Memory](../README.md), ou `annexes/`, lancer impérativement : `python3 app/check_consistency.py`
 
 - Ce script vérifie : liens internes valides, tokens connus, LEGIARTI/JURITEXT joignables, frontmatter cohérent
 

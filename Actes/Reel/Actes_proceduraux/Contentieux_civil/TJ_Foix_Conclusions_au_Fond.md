@@ -455,7 +455,7 @@ Sébastien GRAZIDE
 [^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
     > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
     > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
-    📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
+    📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 
 [^n2]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
@@ -464,12 +464,12 @@ Sébastien GRAZIDE
 [^n3]: > « Les actions personnelles ou mobilières se prescrivent par cinq ans à compter du jour où le titulaire d'un droit a connu ou aurait dû connaître les faits lui permettant de l'exercer. » <br>
     > **Code civil > Section 1 : Du délai de droit commun et de son point de départ.** <br>
     > [Article 2224 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112)
-    📚 Bibliothèque locale : [Article_2224_CodeCivil](Lois/Code/Code_civil/Article_2224_CodeCivil.md) ↩
+    📚 Bibliothèque locale : [Article_2224_CodeCivil](../../../../Lois/Code/Code_civil/Article_2224_CodeCivil.md) ↩
 
 [^n4]: > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. » <br>
     > **Code du travail > Chapitre Ier : Obligations de l'employeur.** <br>
     > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)
-    📚 Bibliothèque locale : [Article_L4121-1_CodeTravail](Lois/Code/Code_du_travail/Article_L4121-1_CodeTravail.md) ↩
+    📚 Bibliothèque locale : [Article_L4121-1_CodeTravail](../../../../Lois/Code/Code_du_travail/Article_L4121-1_CodeTravail.md) ↩
 
 [^n5]: > « L'employeur met en oeuvre les mesures prévues à l'article L. 4121-1 sur le fondement des principes généraux de prévention suivants : 1° Eviter les risques ; 2° Evaluer les risques qui ne peuvent pas être évités ; 3° Combattre les risques à la source ; 4° Adapter le travail à l'homme, en particulier en ce qui concerne la conception des postes de travail ainsi que le choix des équipements de travail et des méthodes de travail et de production, en vue notamment de limiter le travail monotone et le travail cadencé et de réduire les effets de ceux-ci sur la santé ; 5° Tenir compte de l'état d'évolution de la technique ; 6° Remplacer ce qui est dangereux par ce qui n'est pas dangereux ou par ce qui est moins dangereux ; 7° Planifier la prévention en y intégrant, dans un ensemble cohérent, la technique, l'organisation du travail, les conditions de travail, les relations sociales et l'influence des facteurs ambiants, notamment les risques liés au harcèlement moral et au harcèlement sexuel, tels qu'ils sont définis aux articles L. 1152-1 et L. 1153-1 , ainsi que ceux liés aux agissements sexistes définis à l'article L. 1142-2-1 ; 8° Prendre des mesures de protection collective en leur donnant la priorité sur les mesures de protection individuelle ; 9° Donner les instructions appropriées aux travailleurs. » <br>
     > **Code du travail > Chapitre Ier : Obligations de l'employeur.** <br>
@@ -478,12 +478,12 @@ Sébastien GRAZIDE
 [^n6]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
     > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.** <br>
     > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
-    📚 Bibliothèque locale : [Article_R4323-58_CodeTravail](Lois/Code/Code_du_travail/Article_R4323-58_CodeTravail.md) ↩
+    📚 Bibliothèque locale : [Article_R4323-58_CodeTravail](../../../../Lois/Code/Code_du_travail/Article_R4323-58_CodeTravail.md) ↩
 
 [^n7]: > « L'employeur transcrit et met à jour dans un document unique les résultats de l'évaluation des risques pour la santé et la sécurité des travailleurs à laquelle il procède en application de l'article L. 4121-3 . Cette évaluation comporte un inventaire des risques identifiés dans chaque unité de travail de l'entreprise ou de l'établissement, y compris ceux liés aux ambiances thermiques. » <br>
     > **Code du travail > Section 1 : Document unique d'évaluation des risques.** <br>
     > [Article R4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023795562)
-    📚 Bibliothèque locale : [Article_R4121-1_CodeTravail](Lois/Code/Code_du_travail/Article_R4121-1_CodeTravail.md) ↩
+    📚 Bibliothèque locale : [Article_R4121-1_CodeTravail](../../../../Lois/Code/Code_du_travail/Article_R4121-1_CodeTravail.md) ↩
 
 [^n8]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
@@ -492,12 +492,12 @@ Sébastien GRAZIDE
 [^n9]: > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
     > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
     > [Article L227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
-    📚 Bibliothèque locale : [Article_L227-8_Codecommerce_Legifrance](Lois/Code/Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) ↩
+    📚 Bibliothèque locale : [Article_L227-8_Codecommerce_Legifrance](../../../../Lois/Code/Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) ↩
 
 [^n10]: > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
     > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
     > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-    📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
+    📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](../../../../Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
 
 [^n11]: > « Les intérêts échus, dus au moins pour une année entière, produisent intérêt si le contrat l'a prévu ou si une décision de justice le précise. » <br>
     > **Code civil > Sous-section 2 : Dispositions particulières aux obligations de sommes d'argent.** <br>

@@ -25,15 +25,15 @@ drive_id: 1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU
 
 **Table des matières**
 
-- [INTRODUCTION](#introduction)
+- [INTRODUCTION](../../..)
 
 - [Synthèse des faits, pièces administratives et stratégie de recouvrement - Affaire [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md)](#synthse-des-faits-pices-administratives-et-stratgie-de-recouvrement---affaire-la-victime)
 
-- [I. STRATÉGIE DE RECOUVREMENT DES HONORAIRES PAR SUBROGATION ET PROTECTION FINANCIÈRE DE LA VICTIME](#i-stratgie-de-recouvrement-des-honoraires-par-subrogation-et-protection-financire-de-la-victime)
+- [I. STRATÉGIE DE RECOUVREMENT DES HONORAIRES PAR SUBROGATION ET PROTECTION FINANCIÈRE DE LA VICTIME](../../..)
 
-- [II. EXPOSÉ FACTUEL DES FAITS ET DE LA PROCÉDURE CHRONOLOGIQUE](#ii-expos-factuel-des-faits-et-de-la-procdure-chronologique)
+- [II. EXPOSÉ FACTUEL DES FAITS ET DE LA PROCÉDURE CHRONOLOGIQUE](../../..)
 
-- [III. ACTIONS ENGAGÉES ET BORDEREAU DES PIÈCES](#iii-actions-engages-et-bordereau-des-pices)
+- [III. ACTIONS ENGAGÉES ET BORDEREAU DES PIÈCES](../../..)
 
 # DOSSIER DE PRÉSENTATION : DESTINÉ AU CONSEIL JURIDIQUE
 > 🔗 Source Google Drive : [1DdpbOypghzt…](https://drive.google.com/open?id=1DdpbOypghzt9XE09oxtzx46ngPdU4pnc4gayLQEZ_TU)

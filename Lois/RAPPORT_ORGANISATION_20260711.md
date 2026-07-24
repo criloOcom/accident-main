@@ -144,7 +144,7 @@ Lois/
 - ✅ Vérification de l'intégrité des liens et références
 
 ### 2. Création de la documentation
-- ✅ [README.md principal](README.md) - Vue d'ensemble complète
+- ✅ [README.md principal](../README.md) - Vue d'ensemble complète
 
 - ✅ README.md pour chaque sous-dossier de code
 

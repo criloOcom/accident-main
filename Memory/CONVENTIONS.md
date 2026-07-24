@@ -286,7 +286,7 @@ Contenu...
 ### Liens internes (dans le dépôt)
 - **Toujours relatifs** : `[texte](chemin/relatif.md)`, jamais `file://` ou `/absolu/`
 
-- **Toujours cliquables** : pas de chemin entre backticks sans lien — `[Rapports](Rapports/README.md)` ✓, `` [Rapports](../Rapports/README.md) `` ✗
+- **Toujours cliquables** : pas de chemin entre backticks sans lien — `[Rapports](../Rapports/README.md)` ✓, `` [Rapports](../Rapports/README.md) `` ✗
 
 - **Dossier cité** → lien vers son `README.md`
 

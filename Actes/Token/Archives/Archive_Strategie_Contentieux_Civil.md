@@ -23,31 +23,31 @@ source: drive
 
 **Table des matières**
 
-- [1. PRÉSENTATION](#1-prsentation)
+- [1. PRÉSENTATION](../../..)
 
-- [2. FONDEMENTS JURIDIQUES](#2-fondements-juridiques)
+- [2. FONDEMENTS JURIDIQUES](../../..)
 
-  - [2.1 RESPONSABILITÉ DU COMMETTANT](#21-responsabilit-du-commettant)
+  - [2.1 RESPONSABILITÉ DU COMMETTANT](../../..)
 
-  - [2.2 ACTION DIRECTE CONTRE L'ASSUREUR](#22-action-directe-contre-lassureur)
+  - [2.2 ACTION DIRECTE CONTRE L'ASSUREUR](../../..)
 
-  - [2.3 SURVIE DE LA PERSONNALITÉ MORALE](#23-survie-de-la-personnalit-morale)
+  - [2.3 SURVIE DE LA PERSONNALITÉ MORALE](../../..)
 
-  - [2.4 RESPONSABILITÉ POUR FAUTE](#24-responsabilit-pour-faute)
+  - [2.4 RESPONSABILITÉ POUR FAUTE](../../..)
 
-- [3. VOIES DE PROCÉDURE ENGAGÉES](#3-voies-de-procdure-engages)
+- [3. VOIES DE PROCÉDURE ENGAGÉES](../../..)
 
-  - [3.1 RÉFÉRÉ-PROVISION](#31-rfr-provision)
+  - [3.1 RÉFÉRÉ-PROVISION](../../..)
 
-  - [3.2 RÉFÉRÉ-COMMUNICATION DE PIÈCES](#32-rfr-communication-de-pices)
+  - [3.2 RÉFÉRÉ-COMMUNICATION DE PIÈCES](../../..)
 
-  - [3.3 VOIE CIVI / FGTI (SUBSIDIAIRE)](#33-voie-civi-fgti-subsidiaire)
+  - [3.3 VOIE CIVI / FGTI (SUBSIDIAIRE)](../../..)
 
-- [4. ÉVALUATION DES PRÉJUDICES](#4-valuation-des-prjudices)
+- [4. ÉVALUATION DES PRÉJUDICES](../../..)
 
-- [5. CALENDRIER PROCÉDURAL](#5-calendrier-procdural)
+- [5. CALENDRIER PROCÉDURAL](../../..)
 
-- [6. RÉCAPITULATIF DES PIÈCES](#6-rcapitulatif-des-pices)
+- [6. RÉCAPITULATIF DES PIÈCES](../../..)
 
 # STRATEGIE CONTENTIEUX CIVIL
 Rédigé le [**[J+36 Lettre consolidation]**](../../../Memory/Tokens/token-j-36-lettre-consolidation.md)

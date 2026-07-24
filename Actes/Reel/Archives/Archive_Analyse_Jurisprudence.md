@@ -24,25 +24,25 @@ drive_id: 1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU
 
 **Table des matières**
 
-- [INTRODUCTION](#introduction)
+- [INTRODUCTION](../../..)
 
-- [I. INTRODUCTION ET CONTEXTE](#i-introduction-et-contexte)
+- [I. INTRODUCTION ET CONTEXTE](../../..)
 
-- [II. ANALYSE DES FAITS GÉNÉRATEURS DE RESPONSABILITÉ](#ii-analyse-des-faits-gnrateurs-de-responsabilit)
+- [II. ANALYSE DES FAITS GÉNÉRATEURS DE RESPONSABILITÉ](../../..)
 
-- [III. BILAN MÉDICAL ET PRÉJUDICES IDENTIFIÉS](#iii-bilan-mdical-et-prjudices-identifis)
+- [III. BILAN MÉDICAL ET PRÉJUDICES IDENTIFIÉS](../../..)
 
-- [IV. STRATÉGIE DE RECOURS ET FONDEMENTS JURIDIQUES](#iv-stratgie-de-recours-et-fondements-juridiques)
+- [IV. STRATÉGIE DE RECOURS ET FONDEMENTS JURIDIQUES](../../..)
 
-  - [A. ACTION DIRECTE CONTRE L'ASSUREUR ET SURVIE DE LA PERSONNALITÉ MORALE](#a-action-directe-contre-lassureur-et-survie-de-la-personnalit-morale)
+  - [A. ACTION DIRECTE CONTRE L'ASSUREUR ET SURVIE DE LA PERSONNALITÉ MORALE](../../..)
 
-  - [B. RESPONSABILITÉ DES DIRIGEANTS POUR FAUTE DÉTACHABLE](#b-responsabilit-des-dirigeants-pour-faute-dtachable)
+  - [B. RESPONSABILITÉ DES DIRIGEANTS POUR FAUTE DÉTACHABLE](../../..)
 
-  - [C. SITUATION JURIDIQUE DU PRÉPOSÉ](#c-situation-juridique-du-prpos)
+  - [C. SITUATION JURIDIQUE DU PRÉPOSÉ](../../..)
 
-- [V. RECOMMANDATIONS ET CONCLUSION](#v-recommandations-et-conclusion)
+- [V. RECOMMANDATIONS ET CONCLUSION](../../..)
 
-- [CONCLUSION](#conclusion)
+- [CONCLUSION](../../..)
 
 # RAPPORT D'EXPERTISE JURIDIQUE : ACCIDENT CORPOREL DE LA VICTIME
 > 🔗 Source Google Drive : [1AO7GLNpbNGa…](https://drive.google.com/open?id=1AO7GLNpbNGa9ChiUVa5rbbhLtmppzMTgOcg9qCIJBRU)

@@ -23,31 +23,31 @@ source: drive
 
 **Table des matières**
 
-- [1. PRÉSENTATION](#1-prsentation)
+- [1. PRÉSENTATION](../../..)
 
-- [2. INFRACTIONS CONSTITUÉES](#2-infractions-constitues)
+- [2. INFRACTIONS CONSTITUÉES](../../..)
 
-  - [2.1 BLESSURES INVOLONTAIRES](#21-blessures-involontaires)
+  - [2.1 BLESSURES INVOLONTAIRES](../../..)
 
-  - [2.2 ABSENCE D'ASSURANCE RESPONSABILITÉ CIVILE PROFESSIONNELLE](#22-absence-dassurance-responsabilit-civile-professionnelle)
+  - [2.2 ABSENCE D'ASSURANCE RESPONSABILITÉ CIVILE PROFESSIONNELLE](../../..)
 
-  - [2.3 MISE EN DANGER DE LA VIE D'AUTRUI](#23-mise-en-danger-de-la-vie-dautrui)
+  - [2.3 MISE EN DANGER DE LA VIE D'AUTRUI](../../..)
 
-- [3. PROCÉDURE PÉNALE ENGAGÉE](#3-procdure-pnale-engage)
+- [3. PROCÉDURE PÉNALE ENGAGÉE](../../..)
 
-  - [3.1 SIGNALEMENT ADMINISTRATIF ET DÉPÔT DE PLAINTE](#31-signalement-administratif-et-dpt-de-plainte)
+  - [3.1 SIGNALEMENT ADMINISTRATIF ET DÉPÔT DE PLAINTE](../../..)
 
-  - [3.2 CONSTITUTION DE PARTIE CIVILE](#32-constitution-de-partie-civile)
+  - [3.2 CONSTITUTION DE PARTIE CIVILE](../../..)
 
-  - [3.3 COMPLÉMENT DE PLAINTE POUR ABSENCE D'ASSURANCE](#33-complment-de-plainte-pour-absence-dassurance)
+  - [3.3 COMPLÉMENT DE PLAINTE POUR ABSENCE D'ASSURANCE](../../..)
 
-  - [3.4 RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS](#34-responsabilit-personnelle-des-dirigeants)
+  - [3.4 RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS](../../..)
 
-  - [3.5 INDEMNISATION PAR LE FGTI / CIVI](#35-indemnisation-par-le-fgti-civi)
+  - [3.5 INDEMNISATION PAR LE FGTI / CIVI](../../..)
 
-- [4. CALENDRIER PROCÉDURAL](#4-calendrier-procdural)
+- [4. CALENDRIER PROCÉDURAL](../../..)
 
-- [5. RÉCAPITULATIF DES PIÈCES](#5-rcapitulatif-des-pices)
+- [5. RÉCAPITULATIF DES PIÈCES](../../..)
 
 # STRATEGIE CONTENTIEUX PENAL
 Rédigé le 4 juillet 2026

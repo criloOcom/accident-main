@@ -28,7 +28,7 @@ tags:
 
 # MISSION 13 — AUDIT TYPOS ET ORTHOGRAPHE
 
-Ce rapport détaille les anomalies orthographiques, grammaticales et typographiques détectées dans les fichiers Markdown de [Actes/Token](../../Actes/Token/README.md) et [Rapports/85_Coherence_2026-07-15](README.md).
+Ce rapport détaille les anomalies orthographiques, grammaticales et typographiques détectées dans les fichiers Markdown de [Actes/Token](../../Actes/Token/README.md) et [Rapports/85_Coherence_2026-07-15](../../README.md).
 
 <hr><hr>
 

@@ -72,7 +72,7 @@ Cet audit valide la conformité absolue de toutes les références juridiques ci
 - **Arrêt Costedoat (Cass. Assemblée Plénière, 25 fév. 2000, n° 97-17.378)** : `JURITEXT000007041793` — Vérifié.
 
 ### 3. Purge des Liens Non Officiels
-- **Sites tiers (`doctrine.fr`)** : **0 lien résiduel** dans l'ensemble des dossiers [Rapports](README.md), [Actes](../Actes/README.md) et [Lois](../Lois/README.md). Tous les liens externes ont été migrés vers Légifrance ou HUDOC/CEDH.
+- **Sites tiers (`doctrine.fr`)** : **0 lien résiduel** dans l'ensemble des dossiers [Rapports](../README.md), [Actes](../Actes/README.md) et [Lois](../Lois/README.md). Tous les liens externes ont été migrés vers Légifrance ou HUDOC/CEDH.
 
 <hr><hr>
 

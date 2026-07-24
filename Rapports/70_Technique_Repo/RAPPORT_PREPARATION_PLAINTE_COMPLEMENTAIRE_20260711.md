@@ -35,11 +35,11 @@ tags:
 
 ## Sommaire
 
-1. [Contexte et Objectifs](#1-contexte-et-objectifs)
+1. [Contexte et Objectifs](../..)
 
 2. [Documents Créés](%232-documents-cr%C3%A9%C3%A9s)
 
-3. [Contenu des Documents](#3-contenu-des-documents)
+3. [Contenu des Documents](../..)
 
 4. [Stratégie de Présentation](%234-strat%C3%A9gie-de-pr%C3%A9sentation)
 
@@ -47,7 +47,7 @@ tags:
 
 6. [Prochaines Étapes](%236-prochaines-%C3%A9tapes)
 
-7. [Recommandations Finales](#7-recommandations-finales)
+7. [Recommandations Finales](../..)
 
 ---
 

@@ -24,25 +24,25 @@ drive_id: 1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes
 
 **Table des matières**
 
-- [INTRODUCTION](#introduction)
+- [INTRODUCTION](../../..)
 
-- [*AUDIT STRATÉGIQUE ET RESTRUCTURATION DE L'ARSENAL CONTENTIEUX*](#audit-stratgique-et-restructuration-de-larsenal-contentieux)
+- [*AUDIT STRATÉGIQUE ET RESTRUCTURATION DE L'ARSENAL CONTENTIEUX*](../../..)
 
-- [I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL](#i-prsentation-du-litige-et-contexte-factuel)
+- [I. PRÉSENTATION DU LITIGE ET CONTEXTE FACTUEL](../../..)
 
-- [II. CADRE JURIDIQUE DE LA RESPONSABILITÉ](#ii-cadre-juridique-de-la-responsabilit)
+- [II. CADRE JURIDIQUE DE LA RESPONSABILITÉ](../../..)
 
-  - [A. RESPONSABILITÉ DE PLEIN DROIT ET OBLIGATION DE SÉCURITÉ](#a-responsabilit-de-plein-droit-et-obligation-de-scurit)
+  - [A. RESPONSABILITÉ DE PLEIN DROIT ET OBLIGATION DE SÉCURITÉ](../../..)
 
-  - [B. LA FAUTE DÉTACHABLE DES DIRIGEANTS](#b-la-faute-dtachable-des-dirigeants)
+  - [B. LA FAUTE DÉTACHABLE DES DIRIGEANTS](../../..)
 
-- [III. MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE](#iii-mcanismes-dindemnisation-et-action-directe)
+- [III. MÉCANISMES D'INDEMNISATION ET ACTION DIRECTE](../../..)
 
-  - [A. SURVIE DE LA PERSONNALITÉ MORALE ET ACTION DIRECTE](#a-survie-de-la-personnalit-morale-et-action-directe)
+  - [A. SURVIE DE LA PERSONNALITÉ MORALE ET ACTION DIRECTE](../../..)
 
-  - [B. ÉVALUATION DU PRÉJUDICE ET LIBRE DISPOSITION DES FONDS](#b-valuation-du-prjudice-et-libre-disposition-des-fonds)
+  - [B. ÉVALUATION DU PRÉJUDICE ET LIBRE DISPOSITION DES FONDS](../../..)
 
-- [IV. PLAN D'ACTION CONTENTIEUX](#iv-plan-daction-contentieux)
+- [IV. PLAN D'ACTION CONTENTIEUX](../../..)
 
 # **MÉMORANDUM JURIDIQUE : AFFAIRE [LA VICTIME]**
 > 🔗 Source Google Drive : [1Ikk9wlfyLuF…](https://drive.google.com/open?id=1Ikk9wlfyLuFlTofsyLiz6836bHM5g4_ejQhGuRdUkes)

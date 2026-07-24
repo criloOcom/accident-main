@@ -142,12 +142,12 @@ Enfin, des mises en demeure ont été adressées à L'Exploitant et à ses Dirig
 [^n1]: > « Les gérants sont responsables, individuellement ou solidairement, selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés à responsabilité limitée, soit des violations des statuts, soit des fautes commises dans leur gestion. Si plusieurs gérants ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du dommage. Outre l'action en réparation du préjudice subi personnellement, les associés peuvent, soit individuellement, soit en se groupant dans les conditions fixées par décret en Conseil d'Etat, intenter l'action sociale en responsabilité contre les gérants. Les demandeurs sont habilités à poursuivre la réparation de l'entier préjudice subi par la société à laquelle, le cas échéant, les dommages-intérêts sont alloués. Est réputée non écrite toute clause des statuts ayant pour effet de subordonner l'exercice de l'action sociale à l'avis préalable ou à l'autorisation de l'assemblée, ou qui comporterait par avance renonciation à l'exercice de cette action. Aucune décision de l'assemblée ne peut avoir pour effet d'éteindre une action en responsabilité contre les gérants pour faute commise dans l'accomplissement de leur mandat. » <br>
     > **Code de commerce > Chapitre III : Des sociétés à responsabilité limitée.** <br>
     > [Article L223-22 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141)
-    📚 Bibliothèque locale : [Article_L223-22_Codecommerce_Legifrance](Lois/Code/Code_commerce/Article_L223-22_Codecommerce_Legifrance.md) ↩
+    📚 Bibliothèque locale : [Article_L223-22_Codecommerce_Legifrance](../../../Lois/Code/Code_commerce/Article_L223-22_Codecommerce_Legifrance.md) ↩
 
 [^n2]: > « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. Si plusieurs administrateurs ou plusieurs administrateurs et le directeur général ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du dommage. » <br>
     > **Code de commerce > Section 8 : De la responsabilité civile.** <br>
     > [Article L225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
-    📚 Bibliothèque locale : [Article_L225-251_Codecommerce_Legifrance](Lois/Code/Code_commerce/Article_L225-251_Codecommerce_Legifrance.md) ↩
+    📚 Bibliothèque locale : [Article_L225-251_Codecommerce_Legifrance](../../../Lois/Code/Code_commerce/Article_L225-251_Codecommerce_Legifrance.md) ↩
 
 [^n3]: > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
     > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
@@ -156,12 +156,12 @@ Enfin, des mises en demeure ont été adressées à L'Exploitant et à ses Dirig
 [^n4]: > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
     > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
     > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-    📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
+    📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](../../../Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
 
 [^n5]: > « La société est en liquidation dès l'instant de sa dissolution pour quelque cause que ce soit sauf dans le cas prévu au troisième alinéa de l'article 1844-5 du code civil. Sa dénomination sociale est suivie de la mention " société en liquidation ". La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la clôture de celle-ci. La dissolution d'une société ne produit ses effets à l'égard des tiers qu'à compter de la date à laquelle elle est publiée au registre du commerce et des sociétés. » <br>
     > **Code de commerce > Section 1 : Dispositions générales.** <br>
     > [Article L237-2 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063)
-    📚 Bibliothèque locale : [Article_L237-2_Codecommerce_Legifrance](Lois/Code/Code_commerce/Article_L237-2_Codecommerce_Legifrance.md) ↩
+    📚 Bibliothèque locale : [Article_L237-2_Codecommerce_Legifrance](../../../Lois/Code/Code_commerce/Article_L237-2_Codecommerce_Legifrance.md) ↩
 
 [^n6]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>

@@ -46,7 +46,7 @@ legal_basis:
 
 - [ ] Dossier [./Rapports/10_Pilotage](../10_Pilotage/README.md) : Emoji manquant dans le nom du dossier (Gravité: MINEUR)
 
-- [ ] Dossier [./Rapports/85_Coherence_2026-07-15](README.md) : Emoji manquant dans le nom du dossier (Gravité: MINEUR)
+- [ ] Dossier [./Rapports/85_Coherence_2026-07-15](../../README.md) : Emoji manquant dans le nom du dossier (Gravité: MINEUR)
 
 - [ ] Dossier [./Rapports/30_Analyses_Multi_Angle](../30_Analyses_Multi_Angle/README.md) : Emoji manquant dans le nom du dossier (Gravité: MINEUR)
 

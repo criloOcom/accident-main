@@ -34,11 +34,11 @@ tags:
 
 ## Sommaire
 
-1. [Description du Nouveau Dossier](#1-description-du-nouveau-dossier)
+1. [Description du Nouveau Dossier](../..)
 
 2. [Contenu Détaillé](%232-contenu-d%C3%A9taill%C3%A9)
 
-3. [Liens avec le Projet](#3-liens-avec-le-projet)
+3. [Liens avec le Projet](../..)
 
 4. [Mises à Jour Effectuées](%234-mises-%C3%A0-jour-effectu%C3%A9es)
 

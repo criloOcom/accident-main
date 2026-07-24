@@ -47,13 +47,13 @@ legal_basis:
 
 2. [Références Juridiques Citées dans les Actes](%232-r%C3%A9f%C3%A9rences-juridiques-cit%C3%A9es-dans-les-actes)
 
-3. [Analyse Comparative](#3-analyse-comparative)
+3. [Analyse Comparative](../..)
 
 4. [Lois Manquantes Identifiées](%234-lois-manquantes-identifi%C3%A9es)
 
-5. [Recommandations](#5-recommandations)
+5. [Recommandations](../..)
 
-6. [Conclusion](#6-conclusion)
+6. [Conclusion](../..)
 
 ---
 

@@ -680,7 +680,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 ## Phase 3 — Annexe C ajoutée aux 14 documents ✅
 
 ### Ce qui a été fait
-- PIECES MAP.md créé dans [Memory](README.md) avec mapping complet document→pièces
+- PIECES MAP.md créé dans [Memory](../README.md) avec mapping complet document→pièces
 
 - Annexe C générée sur mesure pour chaque document (listes à puces, liens Drive cliquables)
 

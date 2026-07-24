@@ -36,7 +36,7 @@ Le rapport [Rapports/NIGHTWATCH_2026-07-20.md](NIGHTWATCH_2026-07-20.md) existe 
 
 ## 3. Vérification du `README.md` racine
 
-Le `README.md` racine a été vérifié. Tous les dossiers principaux ([Memory](../Memory/README.md), [Actes](../Actes/README.md), [Rapports](README.md), [Lois](../Lois/README.md)) y sont bien listés.
+Le `README.md` racine a été vérifié. Tous les dossiers principaux ([Memory](../Memory/README.md), [Actes](../Actes/README.md), [Rapports](../README.md), [Lois](../Lois/README.md)) y sont bien listés.
 
 ## 4. Exécution de `python3 .dev/app/audit_internal_links.py`
 

@@ -38,13 +38,13 @@ tags:
 
 1. [Nouvelle Structure Identifiée](%231-nouvelle-structure-identifi%C3%A9e)
 
-2. [Analyse des Impacts](#2-analyse-des-impacts)
+2. [Analyse des Impacts](../..)
 
 3. [Vérification des Références](%233-v%C3%A9rification-des-r%C3%A9f%C3%A9rences)
 
-4. [Recommandations](#4-recommandations)
+4. [Recommandations](../..)
 
-5. [Actions Correctives](#5-actions-correctives)
+5. [Actions Correctives](../..)
 
 ---
 

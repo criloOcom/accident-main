@@ -120,7 +120,7 @@ La résistance abusive des dirigeants et la multiplication des démarches induit
 
 - [ ] **Action 10** — S'assurer qu'aucun lien vers des sites tiers non officiels (type doctrine.fr) ne figure dans les actes.
 
-- [ ] **Action 11** — Indexer ce rapport dans [Rapports/README.md](README.md).
+- [ ] **Action 11** — Indexer ce rapport dans [Rapports/README.md](../README.md).
 
 - [ ] **Action 12** — Proposer une mise à jour des conclusions pénales (constitution de partie civile) visant la faute détachable.
 

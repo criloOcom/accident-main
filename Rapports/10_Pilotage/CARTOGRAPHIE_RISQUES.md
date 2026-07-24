@@ -49,12 +49,12 @@ tags:
 
    - [Risques stratégiques (R1–R5)](%2331-risques-strat%C3%A9giques)
    - [Risques procéduraux (R6–R10)](%2332-risques-proc%C3%A9duraux)
-   - [Risques documentaires et preuves (R11–R15)](#33-risques-documentaires-et-preuves)
-   - [Risques financiers (R16–R18)](#34-risques-financiers)
-   - [Risques transverses (R19–R21)](#35-risques-transverses)
+   - [Risques documentaires et preuves (R11–R15)](../..)
+   - [Risques financiers (R16–R18)](../..)
+   - [Risques transverses (R19–R21)](../..)
 4. [Plan d'atténuation global](%234-plan-datt%C3%A9nuation-global)
 
-5. [Vigilances permanentes](#5-vigilances-permanentes)
+5. [Vigilances permanentes](../..)
 
 ---
 

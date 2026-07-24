@@ -213,10 +213,10 @@ Détail :
   •      `Rapports/RAPPORT_QUALITE_ACTES_2026-07-14.md` (INTROUVABLE)
   •      `Rapports/RAPPORT_COHERENCE_JURIDIQUE_2026-07-14.md` (INTROUVABLE)
   •      [Actes/Token](../Actes/Token/README.md) (existe)
-  •      [Rapports](README.md) (existe)
+  •      [Rapports](../README.md) (existe)
   •      `Rapports/RAPPORT_CONFORMITE_RGPD_2026-07-14.md` (INTROUVABLE)
   •      `Rapports/RAPPORT_ORGANISATION_DEPOT_2026-07-14.md` (INTROUVABLE)
-  •      [Rapports](README.md) (existe)
+  •      [Rapports](../README.md) (existe)
   •      `Rapports/RAPPORT_VOIES_INDEMNISATION_2026-07-14.md` (INTROUVABLE)
   •      `Rapports/RAPPORT_STRATEGIE_PENALE_2026-07-14.md` (INTROUVABLE)
   •      `Rapports/RAPPORT_EVALUATION_DINTILHAC_2026-07-14.md` (INTROUVABLE)
@@ -229,7 +229,7 @@ Détail :
   •      `Rapports/RAPPORT_SECURITE_TOKENS_2026-07-14.md` (INTROUVABLE)
   •      [Memory/STRICT VARIABLES.md](../Memory/STRICT VARIABLES.md) (existe)
   •      [Actes/Token](../Actes/Token/README.md) (existe)
-  •      [Rapports](README.md) (existe)
+  •      [Rapports](../README.md) (existe)
   •      [Memory](../Memory/README.md) (existe)
 
 <hr>

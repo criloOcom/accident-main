@@ -19,7 +19,7 @@ Les identités réelles (noms, adresses, email, immatriculations) y sont remplac
 
 - **Toute modification se fait ici.** Ne jamais modifier les fichiers dans [`reel/`](../Reel/README.md).
 
-- Un fichier créé ou modifié dans [`token/`](README.md) doit être propagé dans [`reel/`](../Reel/README.md) via le script.
+- Un fichier créé ou modifié dans [`token/`](../../README.md) doit être propagé dans [`reel/`](../Reel/README.md) via le script.
 
 - Les tokens sont définis dans [[Memory/TOKEN MAP.md](../../Memory/TOKEN MAP.md)](../../Memory/TOKEN%20MAP.md) et [Memory/STRICT VARIABLES.md](../../Memory/STRICT%20VARIABLES.md).
 

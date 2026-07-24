@@ -49,23 +49,23 @@ La présente synthèse répond en outre aux questions pratiques que la victime e
 
 <hr><hr>
 
-- [I. PRÉSENTATION GÉNÉRALE DE L'AFFAIRE](#i-prsentation-gnrale-de-laffaire)
+- [I. PRÉSENTATION GÉNÉRALE DE L'AFFAIRE](../../..)
 
-- [II. FOIRE AUX QUESTIONS (FAQ) DÉTAILLÉE](#ii-foire-aux-questions-faq-dtaille)
+- [II. FOIRE AUX QUESTIONS (FAQ) DÉTAILLÉE](../../..)
 
-  - [Q : DANS QUELLES CIRCONSTANCES L'ACCIDENT S'EST-IL PRODUIT ?](#q-dans-quelles-circonstances-laccident-sest-il-produit)
+  - [Q : DANS QUELLES CIRCONSTANCES L'ACCIDENT S'EST-IL PRODUIT ?](../../..)
 
-  - [Q : QUELLE EST LA GRAVITÉ DES LÉSIONS SUBIES ?](#q-quelle-est-la-gravit-des-lsions-subies)
+  - [Q : QUELLE EST LA GRAVITÉ DES LÉSIONS SUBIES ?](../../..)
 
-  - [Q : LE GÉRANT PEUT-IL REFUSER DE ME DONNER LE NOM DE SA COMPAGNIE D'ASSURANCE ?](#q-le-grant-peut-il-refuser-de-me-donner-le-nom-de-sa-compagnie-dassurance)
+  - [Q : LE GÉRANT PEUT-IL REFUSER DE ME DONNER LE NOM DE SA COMPAGNIE D'ASSURANCE ?](../../..)
 
-  - [Q : QUELLES SONT LES OBLIGATIONS DE DÉCLARATION DE LA SOCIÉTÉ SUITE À L'ACCIDENT ?](#q-quelles-sont-les-obligations-de-dclaration-de-la-socit-suite-laccident)
+  - [Q : QUELLES SONT LES OBLIGATIONS DE DÉCLARATION DE LA SOCIÉTÉ SUITE À L'ACCIDENT ?](../../..)
 
-- [III. STRATÉGIE JURIDIQUE ET RESPONSABILITÉS](#iii-stratgie-juridique-et-responsabilits)
+- [III. STRATÉGIE JURIDIQUE ET RESPONSABILITÉS](../../..)
 
-- [IV. DÉMARCHES ET PROCÉDURES ENGAGÉES](#iv-dmarches-et-procdures-engages)
-  [V. CALENDRIER ET DÉLAIS DE PROCÉDURE](#v-calendrier-et-dlais-de-procdure)
-- [VI. POINTS DE VIGILANCE ET CONCLUSION](#vi-points-de-vigilance-et-conclusion)
+- [IV. DÉMARCHES ET PROCÉDURES ENGAGÉES](../../..)
+  [V. CALENDRIER ET DÉLAIS DE PROCÉDURE](../../..)
+- [VI. POINTS DE VIGILANCE ET CONCLUSION](../../..)
 <hr><hr>
 
 ## II — PRÉSENTATION GÉNÉRALE DE L'AFFAIRE
@@ -208,22 +208,22 @@ De plus, l'action directe contre l'assureur (Art. L. 124-3 du Code des assurance
 [^n3]: > « Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine, ou qui diminuent tellement cet usage que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'il les avait connus. » <br>
     > **Code civil > Paragraphe 2 : De la garantie des défauts de la chose vendue.** <br>
     > [Article 1641 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924)
-    📚 Bibliothèque locale : [Article_1641_CodeCivil](Lois/Code/Code_civil/Article_1641_CodeCivil.md) ↩
+    📚 Bibliothèque locale : [Article_1641_CodeCivil](../../../Lois/Code/Code_civil/Article_1641_CodeCivil.md) ↩
 
 [^n4]: > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
     > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
     > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
-    📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
+    📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](../../../Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
 
 [^n5]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
     > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
     > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
-    📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
+    📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 
 [^n6]: > « L'assuré est obligé : 1° De payer la prime ou cotisation aux époques convenues ; 2° De répondre exactement aux questions posées par l'assureur, notamment dans le formulaire de déclaration du risque par lequel l'assureur l'interroge lors de la conclusion du contrat, sur les circonstances qui sont de nature à faire apprécier par l'assureur les risques qu'il prend en charge ; 3° De déclarer, en cours de contrat, les circonstances nouvelles qui ont pour conséquence soit d'aggraver les risques, soit d'en créer de nouveaux et rendent de ce fait inexactes ou caduques les réponses faites à l'assureur, notamment dans le formulaire mentionné au 2° ci-dessus. L'assuré doit, par lettre recommandée ou par envoi recommandé électronique, déclarer ces circonstances à l'assureur dans un délai de quinze jours à partir du moment où il en a eu connaissance ; 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai fixé par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. Ce délai minimal est ramené à deux jours ouvrés en cas de vol et à vingt-quatre heures en cas de mortalité du bétail. Les délais ci-dessus peuvent être prolongés d'un commun accord entre les parties contractantes. Lorsqu'elle est prévue par une clause du contrat, la déchéance pour déclaration tardive au regard des délais prévus au 3° et au 4° ci-dessus ne peut être opposée à l'assuré que si l'assureur établit que le retard dans la déclaration lui a causé un préjudice. Elle ne peut également être opposée dans tous les cas où le retard est dû à un cas fortuit ou de force majeure. Les dispositions mentionnées aux 1°, 3° et 4° ci-dessus ne sont pas applicables aux assurances sur la vie. » <br>
     > **Code des assurances > Chapitre III : Obligations de l'assureur et de l'assuré.** <br>
     > [Article L113-2 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)
-    📚 Bibliothèque locale : [Article_L113-2_Codesassurances_Legifrance](Lois/Code/Code_assurances/Article_L113-2_Codesassurances_Legifrance.md) ↩
+    📚 Bibliothèque locale : [Article_L113-2_Codesassurances_Legifrance](../../../Lois/Code/Code_assurances/Article_L113-2_Codesassurances_Legifrance.md) ↩
 
 [^n7]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
@@ -232,15 +232,15 @@ De plus, l'action directe contre l'assureur (Art. L. 124-3 du Code des assurance
 [^n8]: > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
     > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
     > [Article L227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
-    📚 Bibliothèque locale : [Article_L227-8_Codecommerce_Legifrance](Lois/Code/Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) ↩
+    📚 Bibliothèque locale : [Article_L227-8_Codecommerce_Legifrance](../../../Lois/Code/Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) ↩
 
 [^n9]: > « L'action en responsabilité née à raison d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices qui en résultent, se prescrit par dix ans à compter de la date de la consolidation du dommage initial ou aggravé. Toutefois, en cas de préjudice causé par des tortures ou des actes de barbarie, ou par des violences ou des agressions sexuelles commises contre un mineur, l'action en responsabilité civile est prescrite par vingt ans. » <br>
     > **Code civil > Section 2 : De quelques délais et points de départ particuliers.** <br>
     > [Article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259)
-    📚 Bibliothèque locale : [Article_2226_Code_Legifrance](Lois/Code/Code_civil/Article_2226_Code_Legifrance.md) ↩
+    📚 Bibliothèque locale : [Article_2226_Code_Legifrance](../../../Lois/Code/Code_civil/Article_2226_Code_Legifrance.md) ↩
 
 [^n10]: > « La société est en liquidation dès l'instant de sa dissolution pour quelque cause que ce soit sauf dans le cas prévu au troisième alinéa de l'article 1844-5 du code civil. Sa dénomination sociale est suivie de la mention " société en liquidation ". La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la clôture de celle-ci. La dissolution d'une société ne produit ses effets à l'égard des tiers qu'à compter de la date à laquelle elle est publiée au registre du commerce et des sociétés. » <br>
     > **Code de commerce > Section 1 : Dispositions générales.** <br>
     > [Article L237-2 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063)
-    📚 Bibliothèque locale : [Article_L237-2_Codecommerce_Legifrance](Lois/Code/Code_commerce/Article_L237-2_Codecommerce_Legifrance.md) ↩
+    📚 Bibliothèque locale : [Article_L237-2_Codecommerce_Legifrance](../../../Lois/Code/Code_commerce/Article_L237-2_Codecommerce_Legifrance.md) ↩
 <!-- /Source -->

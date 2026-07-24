@@ -215,20 +215,20 @@ Sébastien GRAZIDE
 [^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
     > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
     > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
-    📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
+    📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 
 [^n2]: > « Les équipements de travail et les moyens de protection mis en service ou utilisés dans les établissements destinés à recevoir des travailleurs sont équipés, installés, utilisés, réglés et maintenus de manière à préserver la santé et la sécurité des travailleurs, y compris en cas de modification de ces équipements de travail et de ces moyens de protection. » <br>
     > **Code du travail > Section 1 : Principes.** <br>
     > [Article L4321-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209)
-    📚 Bibliothèque locale : [Article_L4321-1_CodeTravail](Lois/Code/Code_du_travail/Article_L4321-1_CodeTravail.md) ↩
+    📚 Bibliothèque locale : [Article_L4321-1_CodeTravail](../../../../Lois/Code/Code_du_travail/Article_L4321-1_CodeTravail.md) ↩
 
 [^n3]: > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. » <br>
     > **Code du travail > Chapitre Ier : Obligations de l'employeur.** <br>
     > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)
-    📚 Bibliothèque locale : [Article_L4121-1_CodeTravail](Lois/Code/Code_du_travail/Article_L4121-1_CodeTravail.md) ↩
+    📚 Bibliothèque locale : [Article_L4121-1_CodeTravail](../../../../Lois/Code/Code_du_travail/Article_L4121-1_CodeTravail.md) ↩
 
 [^n4]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
     > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.** <br>
     > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
-    📚 Bibliothèque locale : [Article_R4323-58_CodeTravail](Lois/Code/Code_du_travail/Article_R4323-58_CodeTravail.md) ↩
+    📚 Bibliothèque locale : [Article_R4323-58_CodeTravail](../../../../Lois/Code/Code_du_travail/Article_R4323-58_CodeTravail.md) ↩
 <!-- /Source -->

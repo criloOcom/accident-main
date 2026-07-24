@@ -35,13 +35,13 @@ tags:
 
 1. [Bilan des Actions Réalisées](%231-bilan-des-actions-r%C3%A9alis%C3%A9es)
 
-2. [Situation Actuelle](#2-situation-actuelle)
+2. [Situation Actuelle](../..)
 
 3. [Prochaines Étapes Critiques](%233-prochaines-%C3%A9tapes-critiques)
 
 4. [Stratégie Juridique Renforcée](%234-strat%C3%A9gie-juridique-renforc%C3%A9e)
 
-5. [Risques et Mitigations](#5-risques-et-mitigations)
+5. [Risques et Mitigations](../..)
 
 6. [Calendrier Prévisionnel](%236-calendrier-pr%C3%A9visionnel)
 

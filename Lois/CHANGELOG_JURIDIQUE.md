@@ -81,7 +81,7 @@ tags:
 |---|---|
 | `Code_commerce/README.md` | L.123-3 corrigé (lien vers fichier correct) + L.123-5-1 ajouté |
 | `Code_du_travail/README.md` | L.8221-1 ajouté |
-| [Lois/README.md](README.md) | Code du travail ajouté à la structure + listing (6 articles). Code commerce : 8→13 articles. L.123-3, L.123-5-1 ajoutés. |
+| [Lois/README.md](../README.md) | Code du travail ajouté à la structure + listing (6 articles). Code commerce : 8→13 articles. L.123-3, L.123-5-1 ajoutés. |
 
 ### Méthode
 
@@ -117,7 +117,7 @@ tags:
 
 | Fichier | Modification |
 |---|---|
-| [Lois/README.md](README.md) | LEGIARTI mis à jour pour 434-15-1 (L76), 706-3 (L86), L227-1 (L97). Mermaid J2 : "Arrêt 17-26.282" → "17-26.282 ⚠️ non trouvé". Description 19-15.659 corrigée. Footnote `[^1]` de vérification ajoutée. |
+| [Lois/README.md](../README.md) | LEGIARTI mis à jour pour 434-15-1 (L76), 706-3 (L86), L227-1 (L97). Mermaid J2 : "Arrêt 17-26.282" → "17-26.282 ⚠️ non trouvé". Description 19-15.659 corrigée. Footnote `[^1]` de vérification ajoutée. |
 | `Jurisprudence/README.md` | 19-15.659 documenté (RNSM). 17-26.282 marqué non trouvé. Footnote `[^1]` de vérification ajoutée. |
 | `Jurisprudence/Action_directe_et_obligation_d'assurance/README.md` | Date 19-15.659 corrigée (14 mai → 28 mai 2020). Description corrigée ("Action directe contre l'assureur" → "Rejet RNSM URSSAF") |
 
@@ -133,7 +133,7 @@ tags:
 
 ## 2026-07-11 — Création initiale de l'inventaire juridique
 
-- Inventaire complet des 27 articles et 27 arrêts dans [Lois](README.md)
+- Inventaire complet des 27 articles et 27 arrêts dans [Lois](../README.md)
 
 - Compilation des anomalies (10 signalées)
 

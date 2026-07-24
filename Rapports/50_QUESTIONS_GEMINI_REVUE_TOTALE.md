@@ -121,7 +121,7 @@ legal_basis:
 
 **Q25.** Le fichier [Memory/Tokens/README.md](../Memory/Tokens/README.md) indique « 88 fiches individuelles (66 identité + 17 financiers + 5 HB BARBER) ». Compte le nombre réel de fichiers .md dans le dossier. Correspond-il ? Si non, mets à jour le chiffre.
 
-**Q26.** Tous les fichiers du dossier [Rapports](README.md) ont-ils un `README.md` dans leur sous-dossier respectif ? Y a-t-il des rapports orphelins à la racine qui devraient être dans un sous-dossier ?
+**Q26.** Tous les fichiers du dossier [Rapports](../README.md) ont-ils un `README.md` dans leur sous-dossier respectif ? Y a-t-il des rapports orphelins à la racine qui devraient être dans un sous-dossier ?
 
 **Q27.** Le dossier `.dev/app/` contient-il des fichiers Python obsolètes (non utilisés, scripts de test, etc.) qui devraient être nettoyés ?
 

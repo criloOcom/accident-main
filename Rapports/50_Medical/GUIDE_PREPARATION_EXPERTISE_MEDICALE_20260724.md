@@ -5,7 +5,7 @@ description: "Fiche réflexe et inventaire des pièces pour l'expertise médical
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports](../README.md) › [50_Medical](README.md) › GUIDE PREPARATION EXPERTISE MEDICALE*
+*[🏠](../../README.md) › [Rapports](../README.md) › [50_Medical](../../README.md) › GUIDE PREPARATION EXPERTISE MEDICALE*
 <hr>
 <!-- /Breadcrumb -->
 
