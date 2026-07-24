@@ -23,7 +23,7 @@ Conformément à l'article **L. 227-8 du Code de commerce**, les règles fixant 
 La responsabilité civile personnelle d'un dirigeant à l'égard des tiers ne peut être engagée que s'il a commis une faute séparable de ses fonctions. La Cour de cassation (Cass. Com., 20 mai 2003, n° 99-17.092, arrêt SATI) définit la faute détachable comme :
 > « une faute d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales, commise intentionnellement. »
 
-### B. Application au Président (Hamza El Hachemi BERGUIGA) et à la Directrice Générale (Catherine SORROCHE)
+### B. Application au Président ([Le Président de l'Exploitation]) et à la Directrice Générale ([La Directrice Générale de l'Exploitation])
 
 Dans le présent dossier, plusieurs éléments caractérisent une faute d'une particulière gravité :
 
@@ -33,17 +33,17 @@ Dans le présent dossier, plusieurs éléments caractérisent une faute d'une pa
 2.  **Dissimulation de l'exploitant réel** :
     L'opacité sur l'identité de l'exploitant réel au moment de l'accident complique la mise en œuvre de l'action en responsabilité et caractérise une volonté d'échapper aux conséquences de l'accident.
 
-Ces agissements, par leur nature intentionnelle et leur gravité (privation de garantie pour la victime), excèdent l'exercice normal des fonctions dirigeantes et fondent la qualification de **faute détachable**. Ils justifient l'engagement de la responsabilité personnelle des dirigeants, *in solidum* avec la SAS HB BARBER, sur le fondement de l'article 1240 du Code civil.
+Ces agissements, par leur nature intentionnelle et leur gravité (privation de garantie pour la victime), excèdent l'exercice normal des fonctions dirigeantes et fondent la qualification de **faute détachable**. Ils justifient l'engagement de la responsabilité personnelle des dirigeants, *in solidum* avec la [L'Exploitant du Commerce (La SAS)], sur le fondement de l'article 1240 du Code civil.
 
 <hr><hr>
 
-## II — RESPONSABILITÉ DU BAILLEUR (ROMAIN DELRIEU)
+## II — RESPONSABILITÉ DU BAILLEUR (ROMAIN [Le Propriétaire des Murs])
 
 ### A. Vices cachés et défaut d'entretien
 
 L'article **1721 du Code civil** dispose que le bailleur est tenu de garantir le preneur de tous les vices ou défauts de la chose louée qui en empêchent l'usage, quand bien même le bailleur ne les aurait pas connus lors du bail. S'il résulte de ces vices ou défauts quelque perte pour le preneur, le bailleur est tenu de l'indemniser.
 
-Dans le cas présent, la responsabilité du bailleur, M. Romain DELRIEU, est recherchée au titre du **défaut d'entretien des éléments de structure** :
+Dans le cas présent, la responsabilité du bailleur, M. [Le Propriétaire des Murs], est recherchée au titre du **défaut d'entretien des éléments de structure** :
 
 1.  **Installation inadaptée dans un ERP** :
     La fixation d'un téléviseur nécessitant qu'un préposé monte sur une vasque en céramique démontre un défaut de conception ou d'entretien des installations.

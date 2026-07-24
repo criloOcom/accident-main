@@ -32,7 +32,7 @@ tags:
 
 - **J+0 (mai 2026)** : Plainte initiale.
 
-- **J+31 (juin 2026)** : Mises en demeure (La Poste) envoyées à l'exploitant (SAS), l'ancienne direction (Sabir MOUNTASSER), le propriétaire des murs (Romain DELRIEU), et tribunal de Foix (constitution de partie civile).
+- **J+31 (juin 2026)** : Mises en demeure (La Poste) envoyées à l'exploitant (SAS), l'ancienne direction ([L'Ancien Président de l'Exploitation]), le propriétaire des murs ([Le Propriétaire des Murs]), et tribunal de Foix (constitution de partie civile).
 
 - **J+47 à J+70 (août 2026)** : Suivi Aide Juridictionnelle (AJ), Dépôt plainte complémentaire et Réquisitoire introductif.
 

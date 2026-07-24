@@ -1,7 +1,7 @@
 ---
 uid: 3qR8bKj9v
 title: OPPOSITION RADIATION RNE ET PROTECTION CREANCE
-description: "Mémorandum sur l'opposition formelle aux tentatives de radiation du RNE et liquidation amiable de la SAS HB BARBER."
+description: "Mémorandum sur l'opposition formelle aux tentatives de radiation du RNE et liquidation amiable de la [L'Exploitant du Commerce (La SAS)]."
 type: analyse
 date: 2026-07-24
 tags:
@@ -24,7 +24,7 @@ tags:
 
 Afin de bloquer toute tentative de dissolution sans apurement du passif lié au sinistre (capital social de 1 000 €), il est impératif d'intervenir auprès des organismes d'enregistrement.
 
-- **Saisine du Greffe du TC de Foix** : Il convient de signifier une opposition conservatoire à toute demande de radiation (d'office ou volontaire) de la SAS HB BARBER, en s'appuyant sur notre créance indemnitaire.
+- **Saisine du Greffe du TC de Foix** : Il convient de signifier une opposition conservatoire à toute demande de radiation (d'office ou volontaire) de la [L'Exploitant du Commerce (La SAS)], en s'appuyant sur notre créance indemnitaire.
 
 - **Blocage INPI / RNE** : En parallèle, une démarche similaire est effectuée auprès de l'INPI pour geler l'immatriculation au RNE. L'article L.123-3 du Code de commerce permet à toute personne justifiant d'un intérêt (la victime, créancier) de solliciter du juge commis à la surveillance du registre une injonction contre les dirigeants pour régulariser ou geler la situation.
 

@@ -19,7 +19,7 @@ auteur: La Victime
 
 # NOTE - TABLEAU DINTILHAC COMPARATIF DÉFINITIF
 
-Ce document présente l'évaluation Dintilhac finalisée selon trois scénarios : Optimiste (revendication haute), Médian/Compromis (socle transactionnel), et Glose/Conservative (plancher bas). Les montants de référence stricts sont consolidés dans [STRICT VARIABLES.md](../../../Memory/STRICT VARIABLES.md).
+Ce document présente l'évaluation Dintilhac finalisée selon trois scénarios : Optimiste (revendication haute), Médian/Compromis (socle transactionnel), et Glose/Conservative (plancher bas). **L'évaluation globale consolidée du préjudice (incluant PGPF et assistance par tierce personne) s'établit dans une fourchette globale canonique de 120 000 € à 160 000 €** (*sous réserve d'aggravation*). Les montants de référence stricts sont consolidés dans [STRICT VARIABLES.md](../../../Memory/STRICT VARIABLES.md).
 ## A. TABLEAU COMPARATIF PRINCIPAL
 
 | Poste Dintilhac | Optimiste | Médian / Compromis | Glose / Conservative |
