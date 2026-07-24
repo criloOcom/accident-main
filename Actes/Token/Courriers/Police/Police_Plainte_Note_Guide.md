@@ -40,8 +40,6 @@ reel_drive_id: 14aAysWvvHfGYKM0j8XwJyBscrJvLhblBEngsFtndUV0
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 11 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 > ⚠️ **DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER**
 > Aide-mémoire pour préparer l'audition. À lire avant, laisser chez soi.
 
@@ -405,3 +403,7 @@ reel_drive_id: 14aAysWvvHfGYKM0j8XwJyBscrJvLhblBEngsFtndUV0
     > [Article L4121-1 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)
     📚 Bibliothèque locale : [Article_L4121-1_CodeTravail](../../../../Lois/Code/Code_du_travail/Article_L4121-1_CodeTravail.md) ↩
 <!-- /Source -->
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993

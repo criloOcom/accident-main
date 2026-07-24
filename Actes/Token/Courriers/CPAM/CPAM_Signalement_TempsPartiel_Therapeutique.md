@@ -25,10 +25,6 @@ reel_drive_id: 1OWmamQE4jYAoFtvegQm3z0K_z6InGxq3CLua6waNgcw
 <hr>
 <!-- /Breadcrumb -->
 
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [CPAM](./README.md)*
-
-
 <!-- Objet -->
 <hr>
 
@@ -97,9 +93,9 @@ En ma qualité de travailleur indépendant, je vous remercie de bien vouloir :
 
 **3. Intégrer ces débours** dans l'état des débours provisoires opposables au tiers responsable.
 
-Mes coordonnees : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnées : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
-Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
+Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma considération distinguee.
 
 <!-- Signature -->
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**

@@ -32,7 +32,7 @@ reel_drive_id: 1RbX7Jj46sIiuAsOV8zKJ7YoqfqQHXdMCGylADwrYZnw
 
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux civil](./README.md) › TJ Foix CPC 145 Ordonnance sur Requete ([🎭](../../../Token/Actes_proceduraux/Contentieux_civil/TJ_Foix_CPC_145_Ordonnance_sur_Requete.md)) [📄](https://drive.google.com/file/d/1RbX7Jj46sIiuAsOV8zKJ7YoqfqQHXdMCGylADwrYZnw/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux civil](./README.md) › TJ Foix CPC 145 Ordonnance sur Requete ([👤](../../../Actes_proceduraux/Contentieux_civil/TJ_Foix_CPC_145_Ordonnance_sur_Requete.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -91,7 +91,7 @@ tendant à voir ordonner, avant tout procès, des mesures d'instruction sur le f
 
 **Considérant** qu'il résulte toutefois du courriel de Romain DELRIEU, propriétaire bailleur des locaux, en date du 16 juillet 2026, et des états des lieux de sortie produits, que SAS LES MAUVAIS GARÇONS a quitté les lieux le 10 mars 2026, de sorte qu'elle n'occupait plus les locaux au jour de l'accident du 29 mai 2026 ; qu'ainsi, la responsabilité de cette société, en tant qu'exploitant du salon au jour des faits, apparaît exclue ;
 
-**Considérant** qu'au vu des extraits RNE / DATA INPI et de l'avis de situation SIRENE produits, il ressort qu'une autre société, SAS HB BARBER, immatriculée sous le SIREN 104 103 262, exploite l'établissement situé à la même adresse (**22 Rue Lafaurie, 09000 Foix) depuis le 22 avril 2026, sous la direction de :
+**Considérant** qu'au vu des extraits RNE / DATA INPI et de l'avis de situation SIRENE produits, il ressort qu'une autre société, SAS HB BARBER, immatriculée sous le SIREN 104 103 262, exploité l'établissement situé à la même adresse (**22 Rue Lafaurie, 09000 Foix) depuis le 22 avril 2026, sous la direction de :
 
 - Hamza El Hachemi BERGUIGA, Président,
 
@@ -190,3 +190,9 @@ Fait à Foix, le 20 juillet 2026.
     > [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
     📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](../../../../Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
 <!-- /Source -->
+
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

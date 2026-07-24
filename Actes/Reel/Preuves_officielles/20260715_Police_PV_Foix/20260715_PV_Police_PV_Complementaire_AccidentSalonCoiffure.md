@@ -23,11 +23,9 @@ reel_drive_id: 1_ktTaG_59ZzMS9x9GU9-8LAcrOOlOXZnJcKMvzl9Cmw
 drive_id: 1_ktTaG_59ZzMS9x9GU9-8LAcrOOlOXZnJcKMvzl9Cmw
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [Preuves officielles](../README.md) › [20260715 Police PV Foix](./README.md) › 20260715 PV Police PV Complementaire AccidentSalonCoiffure ([🎭](../../../Token/Preuves_officielles/20260715_Police_PV_Foix/20260715_PV_Police_PV_Complementaire_AccidentSalonCoiffure.md)) [📄](https://drive.google.com/file/d/1_ktTaG_59ZzMS9x9GU9-8LAcrOOlOXZnJcKMvzl9Cmw/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [Preuves officielles](../README.md) › 20260715 Police PV Foix › 20260715 PV Police PV Complementaire AccidentSalonCoiffure ([👤](../../../Preuves_officielles/20260715_Police_PV_Foix/20260715_PV_Police_PV_Complementaire_AccidentSalonCoiffure.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police_Note_Erratum_Identite.md).
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**
 > Ce fichier est une transcription du procès-verbal d'audition (Plainte Complémentaire).
@@ -39,7 +37,7 @@ POLICE NATIONALE
 DIRECTION INTERDEPARTEMENTALE DE LA POLICE NATIONALE DE L'ARIEGE
 
 COMMISSARIAT DE POLICE DE FOIX
-SERVICE LOCAL DE SECURITE D'INFRACTION
+SERVICE LOCAL DE SÉCURITÉ D'INFRACTION
 
 PV n° 2026/015967/COMP
 
@@ -117,3 +115,5 @@ L'Officier de Police Judiciaire
     > **Code du travail > Section 1 : Dispositions générales.** <br>
     > [Article L8221-1 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815) ↩
 <!-- /Source -->
+
+: Article 434-4 du Code pénal — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608

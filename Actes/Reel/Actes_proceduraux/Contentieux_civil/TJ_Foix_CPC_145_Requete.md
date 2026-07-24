@@ -44,11 +44,9 @@ reel_drive_id: 1XFGMJKXSuEYvrvksESBoGj2gKniS5pzFMmyPOfVuYBQ
 
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux civil](./README.md) › TJ Foix CPC 145 Requete ([🎭](../../../Token/Actes_proceduraux/Contentieux_civil/TJ_Foix_CPC_145_Requete.md)) [📄](https://drive.google.com/file/d/1XFGMJKXSuEYvrvksESBoGj2gKniS5pzFMmyPOfVuYBQ/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux civil](./README.md) › TJ Foix CPC 145 Requete ([👤](../../../Actes_proceduraux/Contentieux_civil/TJ_Foix_CPC_145_Requete.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident.
 
 # REQUÊTE<br>Communication d'assurances, conservation de vidéos et mesures d'instruction
 
@@ -308,3 +306,16 @@ Sébastien GRAZIDE
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
     > [Article 1240 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 <!-- /Source -->
+
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

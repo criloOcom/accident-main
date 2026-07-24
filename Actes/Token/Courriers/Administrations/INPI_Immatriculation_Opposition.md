@@ -44,8 +44,6 @@ Service du Registre National des Entreprises (RNE)
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 9 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # OPPOSITION À IMMATRICULATION <br> AU REGISTRE NATIONAL DES ENTREPRISES
 
 <hr><hr>
@@ -59,8 +57,6 @@ Service du Registre National des Entreprises (RNE)
 <hr><hr>
 
 <!-- /Objet -->
-
-<hr><hr>
 
 **Référence RCS :** **[L'Identifiant de l'Exploitation](../../../../Memory/Tokens/token-exploitation-id.md)**
 **Lettre Recommandée avec Accusé de Réception**
@@ -127,13 +123,13 @@ Avocat au Barreau
 
 ## PIECES JOINTES
 
-- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de [La Ville de l'Accident]
+- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procédure pénale engagée devant le TJ de [La Ville de l'Accident]
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
+- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte du 2 juin 2026
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Blessure grave documentee par SOS Main
 
-- **[Attestation de depot CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Recours contre tiers n° [N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]
+- **[Attestation de dépôt CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Recours contre tiers n° [**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)
 <!-- /PJ -->
 
 <!-- Source -->

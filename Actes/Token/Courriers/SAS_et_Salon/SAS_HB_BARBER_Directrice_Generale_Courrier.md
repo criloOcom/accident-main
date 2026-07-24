@@ -19,10 +19,6 @@ reel_drive_id: 1QJyJKSKgZHFnkjmchRhnZR34nFL58nhayXEmXh2X1zo
 <hr>
 <!-- /Breadcrumb -->
 
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
-
-
 <!-- Objet -->
 <hr>
 
@@ -83,7 +79,7 @@ Quelle que soit l'interprétation que vous faites aujourd'hui de l'accident, cel
 
 ## IV — CE QUE JE VOUS DEMANDE CONCRÈTEMENT
 
-Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)), je vous remercie de bien vouloir me communiquer, sous un délai de quinze (15) jours à compter de la réception de la présente :
+Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours contre tiers n° [[**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)](../../../../Memory/Tokens/token-cpam-dossier-numero.md)), je vous remercie de bien vouloir me communiquer, sous un délai de quinze (15) jours à compter de la réception de la présente :
 
 1. Le nom et les coordonnées complètes de l'assureur responsabilité civile de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) au **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** ;
 
@@ -122,3 +118,5 @@ Téléphone : **[Le Téléphone de la Victime](../../../../Memory/Tokens/token-v
     > [Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
     📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 <!-- /Source -->
+
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

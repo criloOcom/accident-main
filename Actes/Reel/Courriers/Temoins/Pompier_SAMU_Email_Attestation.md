@@ -21,13 +21,9 @@ jx: J+38
 reel_drive_id: 1gDUOs2kLQ7fVkIh_hFxPTDQ_70ZsQ4TfVhmGey0Uh6c
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Temoins](./README.md) › Pompier SAMU Email Attestation ([🎭](../../../Token/Courriers/Temoins/Pompier_SAMU_Email_Attestation.md)) [📄](https://drive.google.com/file/d/1gDUOs2kLQ7fVkIh_hFxPTDQ_70ZsQ4TfVhmGey0Uh6c/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Temoins](./README.md) › Pompier SAMU Email Attestation ([👤](../../../Courriers/Temoins/Pompier_SAMU_Email_Attestation.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Temoins](./README.md)*
-
 
 <!-- Objet -->
 <hr>
@@ -36,8 +32,6 @@ Objet : Attestation de témoin — Intervention du 29 mai 2026 au 22 Rue Lafauri
 
 <hr>
 <!-- /Objet -->
-
-<hr><hr>
 
 Bonjour,
 

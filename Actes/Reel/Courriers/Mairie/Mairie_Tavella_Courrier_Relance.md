@@ -25,13 +25,9 @@ jx: J+37
 reel_drive_id: 1jlVZceucLtUwG7gMgqCtQPeJwKiJU9x3aFl5g02PFcc
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Mairie](./README.md) › Mairie Tavella Courrier Relance ([🎭](../../../Token/Courriers/Mairie/Mairie_Tavella_Courrier_Relance.md)) [📄](https://drive.google.com/file/d/1jlVZceucLtUwG7gMgqCtQPeJwKiJU9x3aFl5g02PFcc/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Mairie](./README.md) › Mairie Tavella Courrier Relance ([👤](../../../Courriers/Mairie/Mairie_Tavella_Courrier_Relance.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Mairie](./README.md)*
-
 
 <!-- Objet -->
 <hr>
@@ -45,31 +41,31 @@ Ref : [Votre courriel du 1er juin 2026 à 16h15](../../Preuves%20officielles/202
 
 Monsieur l'Adjoint au Maire,
 
-La presente lettre fait suite a votre courriel du 1er juin 2026 par lequel vous m'informiez avoir pris l'attache des services de la prefecture afin de diligenter l'inspection du travail et le CODAF (Comite Operationnel Departemental Anti Fraude) a la suite de l'accident corporel grave dont j'ai ete victime le 29 mai 2026 au sein du salon de coiffure SAS LES MAUVAIS GARCONS.
+La présente lettre fait suite a votre courriel du 1er juin 2026 par lequel vous m'informiez avoir pris l'attache des services de la prefecture afin de diligenter l'inspection du travail et le CODAF (Comite Operationnel Departemental Anti Fraude) a la suite de l'accident corporel grave dont j'ai été victime le 29 mai 2026 au sein du salon de coiffure SAS LES MAUVAIS GARCONS.
 
 Je vous remercie chaleureusement pour votre diligence et votre soutien.
 
-Dans le cadre de la procedure judiciaire que j'ai engagee a l'encontre de l'exploitant (plainte deposee au commissariat de Foix le 1er juin 2026, PV n° 2026/015967), je constitue un dossier d'indemnisation complet et permanent.
+Dans le cadre de la procédure judiciaire que j'ai engagée a l'encontre de l'exploitant (plainte déposée au commissariat de Foix le 1er juin 2026, PV n° 2026/015967), je constitue un dossier d'indemnisation complet et permanent.
 
-A ce titre, les elements suivants me seraient d'une grande utilite pour etayer mon dossier civil et penal :
+A ce titre, les éléments suivants me seraient d'une grande utilite pour etayer mon dossier civil et pénal :
 
-1. **Le rapport d'enquete de l'Inspection du Travail** concernant les conditions de securite au sein du salon de coiffure (equipements defectueux, DUERP non tenu, absence de formation securite des employes, absence d'assurance RC professionnelle) ;
+1. **Le rapport d'enquete de l'Inspection du Travail** concernant les conditions de sécurité au sein du salon de coiffure (equipements defectueux, DUERP non tenu, absence de formation sécurité des employes, absence d'assurance RC professionnelle) ;
 
-2. **Les conclusions du CODAF** si une enquete a ete menee (travail dissimule, fraude fiscale ou sociale) ;
+2. **Les conclusions du CODAF** si une enquete a été menee (travail dissimule, fraude fiscale ou sociale) ;
 
-3. **Tout element** en votre possession ou transmissible par la prefecture pouvant etablir les manquements de l'exploitant a ses obligations legales de securite.
+3. **Tout élément** en votre possession ou transmissible par la prefecture pouvant etablir les manquements de l'exploitant a ses obligations legales de sécurité.
 
 Je me permets de solliciter votre intervention afin de savoir :
 
-- Si l'inspection du travail a ete menee et, le cas echeant, si je peux en obtenir une copie en qualite de victime directe
+- Si l'inspection du travail a été menee et, le cas echeant, si je peux en obtenir une copie en qualite de victime directe
 
 - Si le CODAF s'est saisi du dossier et s'il est possible d'obtenir les conclusions de ses travaux
 
-- Si d'autres services (DDPP, DREETS) ont ete saisis
+- Si d'autres services (DDPP, DREETS) ont été saisis
 
-Je vous rappelle que l'Article L. 311-1 du Code des[^loi-1] relations entre le public et l'administration (CRPA) me reconnait le droit de communiquer avec les documents administratifs emis par l'Etat et ses etablissements publics, sous reserve du secret de l'enquete et de l'instruction. Passes ces delais, je pourrai saisir la CADA le cas echeant.
+Je vous rappelle que l'Article L. 311-1 du Code des[^loi-1] relations entre le public et l'administration (CRPA) me reconnait le droit de communiquer avec les documents administratifs emis par l'État et ses etablissements publics, sous réserve du secret de l'enquete et de l'instruction. Passes ces delais, je pourrai saisir la CADA le cas echeant.
 
-Dans l'attente de votre retour, je vous prie de croire, Monsieur l'Adjoint au Maire, a l'expression de ma consideration distinguee.
+Dans l'attente de votre retour, je vous prie de croire, Monsieur l'Adjoint au Maire, a l'expression de ma considération distinguee.
 
 <!-- Signature -->
 Sébastien GRAZIDE

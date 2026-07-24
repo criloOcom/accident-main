@@ -59,8 +59,6 @@ Place de la Préfecture
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 20 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident. La présente plainte corrige formellement l'identité de la société exploitante.
-
 # PLAINTE COMPLÉMENTAIRE — Correction de l'identité de la société exploitante — **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**
 
  Monsieur le Commissaire de Police,

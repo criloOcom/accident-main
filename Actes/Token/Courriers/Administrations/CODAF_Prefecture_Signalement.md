@@ -33,10 +33,6 @@ reel_drive_id: 1duVqn_jbLZxvacZ_bX22Vz3mHnafUT1KqdknZQ1RD9Q
 <hr>
 <!-- /Breadcrumb -->
 
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
-
-
 <!-- Objet -->
 <hr>
 
@@ -80,7 +76,7 @@ Plusieurs procédures ont été engagées à ce jour :
 > [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 
-5. Dossier de recours contre tiers à la CPAM (n° [**[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**])
+5. Dossier de recours contre tiers à la CPAM (n° [[**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)])
 
 6. Demande d'enquête à l'Inspection du Travail (DDETS 09 / DREETS Occitanie)
 
@@ -151,7 +147,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
 
 - **[Ordonnance de référé provision](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)** — Assignation à jour fixe, provision 15 000 € (art. 145[^n2] CPC)
 
-- **[Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**]
+- **[Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Recours contre tiers n° [[**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]
 <!-- /PJ -->
 
 <!-- Source -->
@@ -174,3 +170,8 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Pré
     > [Article R4323-58 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
     📚 Bibliothèque locale : [Article_R4323-58_CodeTravail](../../../../Lois/Code/Code_du_travail/Article_R4323-58_CodeTravail.md) ↩
 <!-- /Source -->
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

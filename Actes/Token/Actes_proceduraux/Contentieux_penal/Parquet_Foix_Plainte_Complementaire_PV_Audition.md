@@ -122,3 +122,7 @@ Après lecture faite par lui-même, le déclarant persiste et signe avec nous le
     > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
     > [Article 222-20 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
 <!-- /Source -->
+
+
+: Article 434-4 du Code pénal — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608
+: Article 434-4 du Code pénal — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608

@@ -28,11 +28,9 @@ reel_drive_id: 1bTgd7HcNqedNI4-eRUN4HjR8zrpvxqh08PRWTEn0GMM
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › CADA Saisine Modele ([🎭](../../../Token/Courriers/Administrations/CADA_Saisine_Modele.md)) [📄](https://drive.google.com/file/d/1bTgd7HcNqedNI4-eRUN4HjR8zrpvxqh08PRWTEn0GMM/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › CADA Saisine Modele ([👤](../../../Courriers/Administrations/CADA_Saisine_Modele.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MODÈLE<br>SAISINE CADA
 
@@ -67,10 +65,6 @@ Blagnac, le 15 juillet 2026
 <hr><hr>
 
 <!-- /Objet -->
-
-<hr><hr>
-
-<hr><hr>
 
 Madame, Monsieur,
 
@@ -119,7 +113,7 @@ Je sollicite l'avis de la Commission sur la communicabilité, à mon égard, des
 
 3. **Tout document administratif achevé** produit ou reçu par l'administration dans le cadre de ce dossier et me concernant personnellement.
 
-En ma qualité de victime directement concernée, j'estime que ces documents entrent dans le champ des **articles L. 300-1[^n1] et suivants et L. 311-1 et suivants du CRPA** et qu'ils sont en principe communicables, sous réserve des occultations nécessaires pour la protection des tiers (secret des affaires, données personnelles).
+En ma qualité de victime directement concernée, j'estimé que ces documents entrent dans le champ des **articles L. 300-1[^n1] et suivants et L. 311-1 et suivants du CRPA** et qu'ils sont en principe communicables, sous réserve des occultations nécessaires pour la protection des tiers (secret des affaires, données personnelles).
 
 Je suis conscient que certains éléments peuvent être couverts par le secret de la prévention des infractions. Dans cette hypothèse, je sollicite que l'administration procède aux **occultations nécessaires** plutôt qu'à un refus pur et simple.
 
@@ -144,7 +138,7 @@ Sébastien GRAZIDE
 
 - **[Mairie - ERP Tavella - Courrier.md](../../../Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel Monsieur TAVELLA (1er juin 2026)
 
-- **[PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
+- **[PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte et circonstances de l'accident
 <!-- /PJ -->
 
 <!-- Source -->

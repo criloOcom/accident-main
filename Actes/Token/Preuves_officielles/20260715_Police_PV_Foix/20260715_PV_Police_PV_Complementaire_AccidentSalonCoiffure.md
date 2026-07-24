@@ -27,8 +27,6 @@ drive_id: 1_ktTaG_59ZzMS9x9GU9-8LAcrOOlOXZnJcKMvzl9Cmw
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police_Note_Erratum_Identite.md).
-
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**
 > Ce fichier est une transcription du procès-verbal d'audition (Plainte Complémentaire).
 
@@ -39,7 +37,7 @@ POLICE NATIONALE
 DIRECTION INTERDEPARTEMENTALE DE LA POLICE NATIONALE DE L'ARIEGE
 
 COMMISSARIAT DE POLICE DE FOIX
-SERVICE LOCAL DE SECURITE D'INFRACTION
+SERVICE LOCAL DE SÉCURITÉ D'INFRACTION
 
 PV n° 2026/015967/COMP
 
@@ -117,3 +115,5 @@ L'Officier de Police Judiciaire
     > **Code du travail > Section 1 : Dispositions générales.** <br>
     > [Article L8221-1 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815) ↩
 <!-- /Source -->
+
+: Article 434-4 du Code pénal — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608

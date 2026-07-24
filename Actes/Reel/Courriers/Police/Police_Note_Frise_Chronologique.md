@@ -12,7 +12,7 @@ reel_path: ../../../Courriers/Police/Police - Note Frise Chronologique.md
 reel_drive_id: 1ONrkLK7T2mn_NTJtxiegnOatcOZ1EJ0tGsmQqr6E7ac
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Note Frise Chronologique ([🎭](../../../Token/Courriers/Police/Police_Note_Frise_Chronologique.md)) [📄](https://drive.google.com/file/d/1ONrkLK7T2mn_NTJtxiegnOatcOZ1EJ0tGsmQqr6E7ac/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Note Frise Chronologique ([👤](../../../Courriers/Police/Police_Note_Frise_Chronologique.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -31,8 +31,6 @@ Place de la Préfecture
 <!-- Date -->
 Blagnac, le 17 juillet 2026
 <!-- /Date -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # FRISE CHRONOLOGIQUE SIMPLIFIÉE
 ## Dossier Sébastien GRAZIDE — Accident du 29 mai 2026

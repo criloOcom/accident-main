@@ -35,8 +35,6 @@ reel_drive_id: 1lG-nZifmKsLtwab-PitbmkkOUzRYBsDOxsZsxjk4g6U
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # REQUÊTE AUX FINS DE CONSTAT D'HUISSIER
 **À l'attention de :** Tel huissier de justice territorialement compétent
 ## I — IDENTIFICATION DES PARTIES
@@ -138,11 +136,11 @@ Le ****
 
 ## PIECES JOINTES
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
+- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte et circonstances de l'accident
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Preuve des blessures et de l'intervention chirurgicale
 
-- **[Certificat medical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Premiere constatation médicale des lesions
+- **[Certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Première constatation médicale des lesions
 <!-- /PJ -->
 
 <!-- Source -->
@@ -159,3 +157,8 @@ Le ****
     > **Code de procédure civile > Section I : Les ordonnances de référé.** <br>
     > [Article 873 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463) ↩
 <!-- /Source -->
+
+
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

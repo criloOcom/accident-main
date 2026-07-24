@@ -161,7 +161,7 @@ reel_drive_id: 1whbz4H9DJHN9crmP_-sxkIiAL36xOZR3pG6mTn7tu9E
 > **Code général des collectivités territoriales > CHAPITRE II : Police municipale.** <br>
 > [Article L2212-2 du Code général des collectivités territoriales - legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370)
 
-> « En cas de danger grave ou imminent, tel que les accidents naturels prévus au 5° de l'article L. 2212-2 , le maire prescrit l'exécution des mesures de sûreté exigées par les circonstances. Il informe d'urgence le représentant de l'Etat dans le département et lui fait connaître les mesures qu'il a prescrites. » <br>
+> « En cas de danger grave ou imminent, tel que les accidents naturels prévus au 5° de l'article L. 2212-2 , le maire prescrit l'exécution des mesures de sûreté exigées par les circonstances. Il informe d'urgence le représentant de l'État dans le département et lui fait connaître les mesures qu'il a prescrites. » <br>
 > **Code général des collectivités territoriales > CHAPITRE II : Police municipale.** <br>
 > [Article L2212-4 du Code général des collectivités territoriales - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390155](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390155)
 
@@ -177,10 +177,18 @@ reel_drive_id: 1whbz4H9DJHN9crmP_-sxkIiAL36xOZR3pG6mTn7tu9E
 > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction.** (abrogation différée — en vigueur jusqu'au 01/01/2029) <br>
 > [Article 706-3 du Code de procédure pénale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)
 
-> « Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. » <br>
+> « Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'État et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. » <br>
 > **Code de procédure pénale > Paragraphe 1 : Dispositions générales.** (abrogation différée — en vigueur jusqu'au 01/01/2029) <br>
 > [Article 475-1 du Code de procédure pénale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107)
 
 > « Faute par un commerçant personne physique de requérir son immatriculation dans le délai prescrit, le juge commis soit d'office, soit à la requête du procureur de la République ou de toute personne justifiant y avoir intérêt, rend une ordonnance lui enjoignant, le cas échéant sous astreinte, de demander son immatriculation. Dans les mêmes conditions, le juge peut enjoindre, le cas échéant sous astreinte, à toute personne immatriculée au registre du commerce et des sociétés qui ne les aurait pas requises dans les délais prescrits, de faire procéder soit aux mentions complémentaires ou rectifications qu'elle doit y faire porter, soit aux mentions ou rectifications nécessaires en cas de déclarations inexactes ou incomplètes, soit à la radiation. Le greffier d'une juridiction qui rend une décision impliquant l'obligation pour une personne de s'immatriculer doit notifier cette décision au greffier du tribunal de commerce dans le ressort duquel l'intéressé a son siège ou son établissement principal. Le greffier du tribunal de commerce destinataire de la décision saisit le juge commis à la surveillance du registre. » <br>
 > **Code de commerce > Sous-section 1 : Des personnes tenues à l'immatriculation.** <br>
 > [Article L123-3 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422)
+
+
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1242 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264
+: Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI) — https://www.legifrance.gouv.fr/juri/id/JURITEXT000007466847

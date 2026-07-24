@@ -29,11 +29,9 @@ reel_drive_id: 1wegYj5cU3FUMZT5vtk0WISkVZEE2T5cqWvnE68Xo0Ys
 
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux civil](./README.md) › TJ Foix Refere Provision Conclusions ([🎭](../../../Token/Actes_proceduraux/Contentieux_civil/TJ_Foix_Refere_Provision_Conclusions.md)) [📄](https://drive.google.com/file/d/1wegYj5cU3FUMZT5vtk0WISkVZEE2T5cqWvnE68Xo0Ys/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux civil](./README.md) › TJ Foix Refere Provision Conclusions ([👤](../../../Actes_proceduraux/Contentieux_civil/TJ_Foix_Refere_Provision_Conclusions.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # AU JUGE DES RÉFÉRÉS DU TRIBUNAL JUDICIAIRE
 
@@ -184,7 +182,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 - les frais irrépétibles au sens de l'article 700 du Code de procédure civile : 3 000 €.
 
-> *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »*
+> *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'État majorée de 50 %. »*
 > [Article 700 du Code de procédure civile](../../../../Lois/Code/Code_procédure_civile/Article_700_Codeproc_Legifrance.md)
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.**
 
@@ -216,11 +214,11 @@ Sébastien GRAZIDE
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Preuve des lesions et de l'intervention d'urgence
 
-- **[Certificat medical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation initiale des blessures
+- **[Certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation initiale des blessures
 
 - **[Arrets de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md)** — [Arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) de 55 jours
 
-- **[Constat d'huissier](../../../Actes_proceduraux/Contentieux_civil/Constat%20Huissier%20-%20Requ%C3%AAte.md)** — Etat des lieux de la vasque litigieuse
+- **[Constat d'huissier](../../../Actes_proceduraux/Contentieux_civil/Constat%20Huissier%20-%20Requ%C3%AAte.md)** — État des lieux de la vasque litigieuse
 
 - **[Mises en demeure J+31](../../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR restees sans reponse
 <!-- /PJ -->
@@ -276,3 +274,13 @@ Voir les mémoires complets :
     > [Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
     📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 <!-- /Source -->
+
+
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1242 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

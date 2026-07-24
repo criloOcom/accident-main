@@ -15,11 +15,9 @@ reel_path: ../../Analyses_juridiques/Note - Conservation Preuves Numériques.md
 reel_drive_id: 1Sl19DIxJNTMxeKc98PSFawnT-NwZSUcMVxU_jV4PBCk
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Conservation Preuves Numeriques ([🎭](../../Token/Analyses_juridiques/Note_Conservation_Preuves_Numeriques.md)) [📄](https://drive.google.com/file/d/1Sl19DIxJNTMxeKc98PSFawnT-NwZSUcMVxU_jV4PBCk/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note Conservation Preuves Numeriques ([👤](../../Analyses_juridiques/Note_Conservation_Preuves_Numeriques.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # NOTE SUR LA CONSERVATION DES PREUVES EXTÉRIEURES ET NUMÉRIQUES
 ## I — PROBLÉMATIQUE
@@ -79,7 +77,7 @@ Les pages de SAS LES MAUVAIS GARCONS sur les réseaux sociaux peuvent démontrer
 ### III.2 — Plateformes d'annuaires et d'information sur les sociétés
 
 Ces plateformes prouvent que la société était bien référencée et active à 22 Rue Lafaurie, 09000 Foix :
-- **Societe.com** / **Infogreffe** : Permet de prouver l'immatriculation de SAS LES MAUVAIS GARCONS sous son identifiant, l'identité de ses dirigeants (Hamza El Hachemi BERGUIGA, Catherine SORROCHE, dite ANDISSAC, et l'adresse de son siège.
+- **Société.com** / **Infogreffe** : Permet de prouver l'immatriculation de SAS LES MAUVAIS GARCONS sous son identifiant, l'identité de ses dirigeants (Hamza El Hachemi BERGUIGA, Catherine SORROCHE, dite ANDISSAC, et l'adresse de son siège.
 
 - **Kompass** / **Pages Jaunes** : Prouve l'inscription commerciale et les coordonnées publiques de l'établissement au moment de l'accident.
 

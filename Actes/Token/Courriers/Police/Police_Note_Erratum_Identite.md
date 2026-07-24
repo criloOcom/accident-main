@@ -44,8 +44,6 @@ Destinataires des actes et autorités judiciaires
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 17 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # ERRATUM
 ## Correction de l'identité de la société exploitante
 
@@ -66,7 +64,7 @@ Destinataires des actes et autorités judiciaires
 
 Dans l'ensemble des actes, courriers et démarches engagés entre le 2 juin 2026 et le 17 juillet 2026, j'ai désigné comme société exploitante du fonds de commerce situé au 22 Rue Lafaurie, 09000 **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, la société **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)**.
 
-Cette désignation était fondée sur les seules informations disponibles au moment de mes premières recherches (bases INPI, societe.com, annuaires en ligne). Lesdites bases ne mentionnaient alors que la société **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** à l'adresse précitée.
+Cette désignation était fondée sur les seules informations disponibles au moment de mes premières recherches (bases INPI, société.com, annuaires en ligne). Lesdites bases ne mentionnaient alors que la société **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** à l'adresse précitée.
 
 **Il s'avère aujourd'hui que cette désignation est erronée.**
 <hr><hr>
@@ -75,7 +73,7 @@ Cette désignation était fondée sur les seules informations disponibles au mom
 
 ### Juin 2026 — Premières recherches infructueuses
 
-Immédiatement après l'accident du 29 mai 2026, j'ai entrepris des recherches en ligne pour identifier la société exploitant le salon de coiffure au 22 Rue Lafaurie, **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**. Les bases de données publiques consultées (INPI, societe.com, etc.) ne référençaient que **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** à cette adresse, sous le SIRET **[L'Ancien Identifiant de l'Exploitation](../../../../Memory/Tokens/token-ancien-exploitation-id.md)**.
+Immédiatement après l'accident du 29 mai 2026, j'ai entrepris des recherches en ligne pour identifier la société exploitant le salon de coiffure au 22 Rue Lafaurie, **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**. Les bases de données publiques consultées (INPI, société.com, etc.) ne référençaient que **[L'Ancien Exploitant du Commerce](../../../../Memory/Tokens/token-ancien-exploitant.md)** à cette adresse, sous le SIRET **[L'Ancien Identifiant de l'Exploitation](../../../../Memory/Tokens/token-ancien-exploitation-id.md)**.
 
 J'ai donc, de bonne foi, établi l'ensemble de mes démarches en désignant cette société comme responsable.
 
@@ -158,7 +156,7 @@ La présente rectification s'applique à l'ensemble des actes, courriers et dém
 - Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
 
 **D. Suivi administratif et judiciaire :**
-- Dossier Recours contre Tiers CPAM (n° [**[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md))
+- Dossier Recours contre Tiers CPAM (n° [[**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)](../../../../Memory/Tokens/token-cpam-dossier-numero.md))
 
 - Saisine du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
 
@@ -228,3 +226,5 @@ Fait à **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adre
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
     > [Article 1240 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 <!-- /Source -->
+
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571

@@ -14,7 +14,7 @@ reel_path: ../../../Courriers/Police/Police - Note Personnelle.md
 reel_drive_id: 1E3Yzo-QLX3FxewvrNo0Ycx0i9DaCTqeKYS4hJsFk0oc
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Note Personnelle ([🎭](../../../Token/Courriers/Police/Police_Note_Personnelle.md)) [📄](https://drive.google.com/file/d/1E3Yzo-QLX3FxewvrNo0Ycx0i9DaCTqeKYS4hJsFk0oc/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Note Personnelle ([👤](../../../Courriers/Police/Police_Note_Personnelle.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -33,8 +33,6 @@ Place de la Préfecture
 <!-- Date -->
 Blagnac, le 17 juillet 2026
 <!-- /Date -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # NOTE PERSONNELLE
 ## Complément de plainte — Commissariat de Foix
@@ -226,11 +224,11 @@ En effectuant des recherches par l'adresse exacte 22 Rue Lafaurie, 09000 Foix su
 > *Romain DELRIEU.* »
 
 **Pièces jointes au courriel (3 fichiers) :**
-1. `Etat des lieux de sortie Hamza El Hachemi BERGUIGA 1 001.jpg` (412 Ko)
+1. `Etat des lieux de sortie **[Le Président de l'Exploitation 81 ** 1 001.jpg` (412 Ko)
 
-2. `Etat des lieux de sortie Hamza El Hachemi BERGUIGA 2 001.jpg` (314 Ko)
+2. `Etat des lieux de sortie **[Le Président de l'Exploitation 82 ** 2 001.jpg` (314 Ko)
 
-3. `Etat des lieux sortie Hamza El Hachemi BERGUIGA 3 001.jpg` (183 Ko)
+3. `Etat des lieux sortie **[Le Président de l'Exploitation 83 ** 3 001.jpg` (183 Ko)
 
 Ces photos de l'état des lieux de sortie signé par le représentant de SAS HB BARBER à la date du **10 mars 2026** n'ont pas encore pu être exploitées en l'état.
 
@@ -246,7 +244,7 @@ Ces photos de l'état des lieux de sortie signé par le représentant de SAS HB 
 
 ### Déroulement
 
-Le **16 juillet 2026**, je me rends physiquement au **22 rue Lafaurie, 09000 Foix**, dans le même local où s'est produit l'accident du 29 mai 2026. Mon objectif : constater l'état des lieux, vérifier quelle société exploite actuellement le salon, et tenter d'obtenir des informations.
+Le **16 juillet 2026**, je me rends physiquement au **22 rue Lafaurie, 09000 Foix**, dans le même local où s'est produit l'accident du 29 mai 2026. Mon objectif : constater l'état des lieux, vérifier quelle société exploité actuellement le salon, et tenter d'obtenir des informations.
 
 ### Constatations visuelles
 
@@ -365,3 +363,7 @@ Fait à Foix, le _____ juillet 2026
     > **Code civil > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.** <br>
     > [Article 1720 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784) ↩
 <!-- /Source -->
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993

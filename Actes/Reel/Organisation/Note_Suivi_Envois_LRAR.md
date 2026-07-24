@@ -16,7 +16,7 @@ jx: J+43
 reel_drive_id: 1sOczNYDzvzmSZ6wWrgTCrPsuifqBdBgPi2OjIEFtCYw
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Note Suivi Envois LRAR ([🎭](../../Token/Organisation/Note_Suivi_Envois_LRAR.md)) [📄](https://drive.google.com/file/d/1sOczNYDzvzmSZ6wWrgTCrPsuifqBdBgPi2OjIEFtCYw/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md) › Note Suivi Envois LRAR ([👤](../../Organisation/Note_Suivi_Envois_LRAR.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -58,4 +58,4 @@ reel_drive_id: 1sOczNYDzvzmSZ6wWrgTCrPsuifqBdBgPi2OjIEFtCYw
 | NPAI | Courrier retourne (nouvelle adresse a trouver) |
 | Relance | Relance envoyee |
 > ---
-> Mettre a jour chaque ligne apres chaque envoi ou reception de reponse.
+> Mettre a jour chaque ligne après chaque envoi ou réception de reponse.

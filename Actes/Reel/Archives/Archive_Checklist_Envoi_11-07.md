@@ -13,15 +13,13 @@ reel_path: ../../Archives/Archive - Checklist Envoi 11-07.md
 reel_drive_id: 1eg7Qh6aRJltQZKHSzuAyXUq-QhkB1weLS3DTZuMvoCo
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Archives](./README.md) › Archive Checklist Envoi 11-07 ([🎭](../../Token/Archives/Archive_Checklist_Envoi_11-07.md)) [📄](https://drive.google.com/file/d/1eg7Qh6aRJltQZKHSzuAyXUq-QhkB1weLS3DTZuMvoCo/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Archives](./README.md) › Archive Checklist Envoi 11-07 ([👤](../../Archives/Archive_Checklist_Envoi_11-07.md))*
 <hr>
 <!-- /Breadcrumb -->
 
 # CHECKLIST ENVOI LRAR<br>11 JUILLET 2026 (ARCHIVÉ — EXÉCUTÉ)
 
 > **✅ EXÉCUTÉ LE 11 JUILLET 2026** — Ce document est archivé pour traçabilité.
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 ## I — AVANT DÉPART — PRÉPARATION
 
 ### I.1 — Courriers à imprimer (Reel/Courriers/)
@@ -38,17 +36,17 @@ reel_drive_id: 1eg7Qh6aRJltQZKHSzuAyXUq-QhkB1weLS3DTZuMvoCo
 
 - [x] Copie [PV n°2026/015967](../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md) (x3)
 
-- [x] Accuses de reception NPAI 29/06 (x3)
+- [x] Accuses de réception NPAI 29/06 (x3)
 
 - [x] [Extrait Kbis de la SAS SAS HB BARBER](../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) (x3)
 
-- [x] Dossier medical complet 11 pieces (x3)
+- [x] Dossier médical complet 11 pieces (x3)
 
 ### I.3 — 1 jeu de pièces jointes spécifique (courrier 35 TJ)
 
 - [x] Copie [PV n°2026/015967](../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)
 
-- [x] Accuses de reception NPAI 29/06
+- [x] Accuses de réception NPAI 29/06
 
 - [x] [Extrait Kbis de la SAS SAS HB BARBER](../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)
 
@@ -77,9 +75,9 @@ reel_drive_id: 1eg7Qh6aRJltQZKHSzuAyXUq-QhkB1weLS3DTZuMvoCo
   - Courrier 14 (CODAF) : ___________________
   - Courrier 19 (FGTI) : ___________________
   - Courrier 35 (President TJ) : ___________________
-- [x] Prendre photo de chaque courrier + PJ avant depot
+- [x] Prendre photo de chaque courrier + PJ avant dépôt
 
-- [x] Conserver les reçus de depot
+- [x] Conserver les reçus de dépôt
 <hr><hr>
 
 ## III — EMAILS (APRÈS RETOUR)
@@ -90,7 +88,7 @@ reel_drive_id: 1eg7Qh6aRJltQZKHSzuAyXUq-QhkB1weLS3DTZuMvoCo
 
 - [x] Objet : [PV n°2026/015967](../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md) — Transmission de preuves — Sébastien GRAZIDE
 
-- [x] Joindre PV, NPAI, Kbis, dossier medical en PDF
+- [x] Joindre PV, NPAI, Kbis, dossier médical en PDF
 
 - [x] Demander AR de lecture
 
@@ -102,7 +100,7 @@ reel_drive_id: 1eg7Qh6aRJltQZKHSzuAyXUq-QhkB1weLS3DTZuMvoCo
 
 - [x] Objet : [PV n°2026/015967](../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md) — Transmission de preuves — Sébastien GRAZIDE
 
-- [x] Joindre PV, NPAI, Kbis, dossier medical en PDF
+- [x] Joindre PV, NPAI, Kbis, dossier médical en PDF
 
 - [x] Demander AR de lecture
 
@@ -127,7 +125,7 @@ reel_drive_id: 1eg7Qh6aRJltQZKHSzuAyXUq-QhkB1weLS3DTZuMvoCo
 | PJ manquante ? | Ne pas envoyer sans — revenir plus tard |
 | Adresse erronnee ? | Verifier sur le courrier reel avant de poster |
 | Timbres ? | Inclus dans le tarif LRAR (guichet) |
-| Photos | Faire avant depot, pas apres |
+| Photos | Faire avant dépôt, pas après |
 | Prochaine vague | 13-14 juillet : courriers 11-13-15-16-18-20-21 |
 
 > **📌 CE DOCUMENT EST ARCHIVÉ — OPÉRATION TERMINÉE LE 11/07/2026**

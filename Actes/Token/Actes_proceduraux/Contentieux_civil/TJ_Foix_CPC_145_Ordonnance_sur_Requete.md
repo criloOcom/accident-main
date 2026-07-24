@@ -91,7 +91,7 @@ tendant à voir ordonner, avant tout procès, des mesures d'instruction sur le f
 
 **Considérant** qu'il résulte toutefois du courriel de [**[Le Propriétaire des Murs]**](../../../../Memory/Tokens/token-exploitation-bailleur-nom.md), propriétaire bailleur des locaux, en date du 16 juillet 2026, et des états des lieux de sortie produits, que [**[L'Ancien Exploitant du Commerce]**](../../../../Memory/Tokens/token-ancien-exploitant.md) a quitté les lieux le 10 mars 2026, de sorte qu'elle n'occupait plus les locaux au jour de l'accident du [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) ; qu'ainsi, la responsabilité de cette société, en tant qu'exploitant du salon au jour des faits, apparaît exclue ;
 
-**Considérant** qu'au vu des extraits RNE / DATA INPI et de l'avis de situation SIRENE produits, il ressort qu'une autre société, [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), immatriculée sous le SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md), exploite l'établissement situé à la même adresse (**[**[L'Adresse de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-adresse.md)) depuis le 22 avril 2026, sous la direction de :
+**Considérant** qu'au vu des extraits RNE / DATA INPI et de l'avis de situation SIRENE produits, il ressort qu'une autre société, [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), immatriculée sous le SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md), exploité l'établissement situé à la même adresse (**[**[L'Adresse de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-adresse.md)) depuis le 22 avril 2026, sous la direction de :
 
 - [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md), Président,
 
@@ -190,3 +190,9 @@ Fait à [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-
     > [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
     📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](../../../../Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
 <!-- /Source -->
+
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

@@ -11,7 +11,7 @@ statut: brouillon
 reel_drive_id: 1rh0G02mwBqnx9oszvhdTrWOZqXRlWdKKcXyRSuHpTm0
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Etudes indemnisation](./README.md) › Protocole Transactionnel Dintilhac 13-07-2026 ([🎭](../../Token/Etudes_indemnisation/Protocole_Transactionnel_Dintilhac_13-07-2026.md)) [📄](https://drive.google.com/file/d/1rh0G02mwBqnx9oszvhdTrWOZqXRlWdKKcXyRSuHpTm0/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Etudes indemnisation](./README.md) › Protocole Transactionnel Dintilhac 13-07-2026 ([👤](../../Etudes_indemnisation/Protocole_Transactionnel_Dintilhac_13-07-2026.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -96,3 +96,5 @@ En 3 exemplaires originaux.
 | | |
 | **Me **[L'Avocat de la Victime]** | **La Compagnie [Assureur RC Exploitant](../../../Memory/STRICT VARIABLES.md)** |
 | *(Pour assistance et visa d'avocat)* | *(Pour acceptation de la garantie et du règlement)* |
+
+: Article 1242 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565

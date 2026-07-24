@@ -27,8 +27,6 @@ reel_drive_id: 1-Yz9nJlpy0AE-77Tw3d5Saue-ab1kBhqJdChYY34p_s
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # OPPOSITION CONSERVATOIRE <br> RADIATION DE SOCIÉTÉ
 
 <!-- Auteur -->
@@ -55,8 +53,6 @@ Service du Registre du Commerce et des Sociétés
 <hr><hr>
 
 <!-- /Objet -->
-
-<hr><hr>
 **Référence RCS :** **[L'Identifiant de l'Exploitation](../../../../Memory/Tokens/token-exploitation-id.md)**
 **Lettre Recommandée avec Accusé de Réception**
 
@@ -116,13 +112,13 @@ Avocat au Barreau
 
 ## PIECES JOINTES
 
-- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de [La Ville de l'Accident]
+- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procédure pénale engagée devant le TJ de [La Ville de l'Accident]
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
+- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte du 2 juin 2026
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Blessure grave documentee par SOS Main
 
-- **[Attestation de depot CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Recours contre tiers n° [N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]
+- **[Attestation de dépôt CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Recours contre tiers n° [**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)
 
 - **[Mise en demeure J+31 — SAS](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR n° [N° LRAR Exploitant] restee sans reponse
 <!-- /PJ -->
@@ -132,7 +128,7 @@ Avocat au Barreau
 
 ## Sources Législation
 
-[^n1]: > « A défaut de chiffre d'affaires ou de recettes ou de déclaration de chiffre d'affaires ou de revenus au cours d'une période d'au moins deux années civiles consécutives, un travailleur indépendant est présumé ne plus exercer d'activité professionnelle justifiant son affiliation à la sécurité sociale. Dans ce cas, sa radiation peut être décidée par l'organisme de sécurité sociale dont il relève après que l'intéressé a été informé de cette éventualité, sauf opposition de sa part dans un délai fixé par décret. La radiation prend effet au terme de la dernière année au titre de laquelle le revenu ou le chiffre d'affaires est connu. En outre : 1° Si le travailleur indépendant est entrepreneur individuel, la radiation prononcée en application du premier alinéa emporte de plein droit celle des fichiers, registres ou répertoires tenus par les autres administrations, personnes et organismes destinataires des informations relatives à la cessation d'activité prévues à l'article L. 123-33 du code de commerce ; 2° Si le travailleur indépendant n'est pas un entrepreneur individuel, l'organisme qui prononce cette radiation en informe les administrations, personnes et organismes mentionnés au 1° ; 3° Si le travailleur indépendant est inscrit à un ordre professionnel, l'organisme qui prononce cette radiation informe l'ordre concerné. Un décret en Conseil d'Etat détermine les conditions d'application du présent article. » <br>
+[^n1]: > « A défaut de chiffre d'affaires ou de recettes ou de déclaration de chiffre d'affaires ou de revenus au cours d'une période d'au moins deux années civiles consécutives, un travailleur indépendant est présumé ne plus exercer d'activité professionnelle justifiant son affiliation à la sécurité sociale. Dans ce cas, sa radiation peut être décidée par l'organisme de sécurité sociale dont il relève après que l'intéressé a été informé de cette éventualité, sauf opposition de sa part dans un délai fixé par décret. La radiation prend effet au terme de la dernière année au titre de laquelle le revenu ou le chiffre d'affaires est connu. En outre : 1° Si le travailleur indépendant est entrepreneur individuel, la radiation prononcée en application du premier alinéa emporte de plein droit celle des fichiers, registres ou répertoires tenus par les autres administrations, personnes et organismes destinataires des informations relatives à la cessation d'activité prévues à l'article L. 123-33 du code de commerce ; 2° Si le travailleur indépendant n'est pas un entrepreneur individuel, l'organisme qui prononce cette radiation en informe les administrations, personnes et organismes mentionnés au 1° ; 3° Si le travailleur indépendant est inscrit à un ordre professionnel, l'organisme qui prononce cette radiation informe l'ordre concerné. Un décret en Conseil d'État détermine les conditions d'application du présent article. » <br>
     > **Code de la sécurité sociale > Section 2 : Modernisation et simplification des formalités.** <br>
     > [Article L613-4 du Code de la sécurité sociale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000038595817](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038595817) ↩
 <!-- /Source -->

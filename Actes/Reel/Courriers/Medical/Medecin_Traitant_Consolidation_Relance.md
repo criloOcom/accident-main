@@ -22,13 +22,9 @@ jx: J+38
 reel_drive_id: 1PWFsEJjcvaQUAeDV_tvzt134lVseD7O6LGclRz03Z5w
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Medical](./README.md) › Medecin Traitant Consolidation Relance ([🎭](../../../Token/Courriers/Medical/Medecin_Traitant_Consolidation_Relance.md)) [📄](https://drive.google.com/file/d/1PWFsEJjcvaQUAeDV_tvzt134lVseD7O6LGclRz03Z5w/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Medical](./README.md) › Medecin Traitant Consolidation Relance ([👤](../../../Courriers/Medical/Medecin_Traitant_Consolidation_Relance.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Medical](./README.md)*
-
 
 <!-- Objet -->
 <hr>

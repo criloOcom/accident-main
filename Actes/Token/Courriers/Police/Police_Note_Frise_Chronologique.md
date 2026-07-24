@@ -32,8 +32,6 @@ Place de la Préfecture
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 17 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # FRISE CHRONOLOGIQUE SIMPLIFIÉE
 ## Dossier **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** — Accident du 29 mai 2026
 

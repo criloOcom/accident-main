@@ -20,8 +20,6 @@ reel_drive_id: 1kegVyMrwSFvukEFRGwMC2ceshuKnLCSsQNuduP5xRO4
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 **Table des matières**
 
 - [1. PRÉSENTATION](../../..)
@@ -50,7 +48,7 @@ reel_drive_id: 1kegVyMrwSFvukEFRGwMC2ceshuKnLCSsQNuduP5xRO4
 
 - [5. RÉCAPITULATIF DES PIÈCES](../../..)
 
-# STRATEGIE CONTENTIEUX PENAL
+# STRATEGIE CONTENTIEUX PÉNAL
 Rédigé le [**[J+36 Lettre consolidation]**](../../../Memory/Tokens/token-j-36-lettre-consolidation.md)
 ## I — PRÉSENTATION
 
@@ -242,3 +240,6 @@ Pièces administratives :
 [^12]: [Article 706-5 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577627) ↩
 [^13]: [Article 706-5 du Code de procédure pénale — www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334) ↩
 <!-- /Source -->
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993

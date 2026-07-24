@@ -24,8 +24,6 @@ drive_id: 1NL3DBn5x5nLNtgG0RVVAbub5bAStfOwhFoG7eKgi-Ng
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # RAPPORT D'EXPERTISE MÉDICALE
 
 **N° de mission :** RG [N° RG TJ Foix]
@@ -139,7 +137,7 @@ Le préposé de l'établissement a entrepris de régler un téléviseur fixé en
 
 - Recours à la dictée vocale pour le code et les emails longs (solution partiellement satisfaisante)
 
-- Perte d'un contrat de maintenance (client régulier) en décembre 2026, motif officiel : "délais non tenus" — le requérant estime que ses difficultés de dextérité ont ralenti l'exécution des prestations
+- Perte d'un contrat de maintenance (client régulier) en décembre 2026, motif officiel : "délais non tenus" — le requérant estimé que ses difficultés de dextérité ont ralenti l'exécution des prestations
 
 - Revenus 2026 : **11 200 €** (dont 6 800 € de chiffre d'affaires post-accident sur 5 mois partiels, soit ~1 360 €/mois à temps partiel, contre 9 600 € annuels estimés avant accident)
 

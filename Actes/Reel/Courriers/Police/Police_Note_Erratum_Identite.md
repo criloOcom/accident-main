@@ -26,7 +26,7 @@ reel_path: ../../../Courriers/Police/Police - Note Erratum Identité.md
 reel_drive_id: 10V_f2QNSqoWHfXh_CSFLkg9elSqrphXcMg-BZLrBCHg
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Note Erratum Identite ([🎭](../../../Token/Courriers/Police/Police_Note_Erratum_Identite.md)) [📄](https://drive.google.com/file/d/10V_f2QNSqoWHfXh_CSFLkg9elSqrphXcMg-BZLrBCHg/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Note Erratum Identite ([👤](../../../Courriers/Police/Police_Note_Erratum_Identite.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -43,8 +43,6 @@ Destinataires des actes et autorités judiciaires
 <!-- Date -->
 Blagnac, le 17 juillet 2026
 <!-- /Date -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # ERRATUM
 ## Correction de l'identité de la société exploitante
@@ -66,7 +64,7 @@ Blagnac, le 17 juillet 2026
 
 Dans l'ensemble des actes, courriers et démarches engagés entre le 2 juin 2026 et le 17 juillet 2026, j'ai désigné comme société exploitante du fonds de commerce situé au 22 Rue Lafaurie, 09000 Foix, la société SAS LES MAUVAIS GARÇONS.
 
-Cette désignation était fondée sur les seules informations disponibles au moment de mes premières recherches (bases INPI, societe.com, annuaires en ligne). Lesdites bases ne mentionnaient alors que la société SAS LES MAUVAIS GARÇONS à l'adresse précitée.
+Cette désignation était fondée sur les seules informations disponibles au moment de mes premières recherches (bases INPI, société.com, annuaires en ligne). Lesdites bases ne mentionnaient alors que la société SAS LES MAUVAIS GARÇONS à l'adresse précitée.
 
 **Il s'avère aujourd'hui que cette désignation est erronée.**
 <hr><hr>
@@ -75,7 +73,7 @@ Cette désignation était fondée sur les seules informations disponibles au mom
 
 ### Juin 2026 — Premières recherches infructueuses
 
-Immédiatement après l'accident du 29 mai 2026, j'ai entrepris des recherches en ligne pour identifier la société exploitant le salon de coiffure au 22 Rue Lafaurie, Foix. Les bases de données publiques consultées (INPI, societe.com, etc.) ne référençaient que SAS LES MAUVAIS GARÇONS à cette adresse, sous le SIRET 938 033 222 00010.
+Immédiatement après l'accident du 29 mai 2026, j'ai entrepris des recherches en ligne pour identifier la société exploitant le salon de coiffure au 22 Rue Lafaurie, Foix. Les bases de données publiques consultées (INPI, société.com, etc.) ne référençaient que SAS LES MAUVAIS GARÇONS à cette adresse, sous le SIRET 938 033 222 00010.
 
 J'ai donc, de bonne foi, établi l'ensemble de mes démarches en désignant cette société comme responsable.
 
@@ -158,7 +156,7 @@ La présente rectification s'applique à l'ensemble des actes, courriers et dém
 - Mairie de Foix
 
 **D. Suivi administratif et judiciaire :**
-- Dossier Recours contre Tiers CPAM (n° [**[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md))
+- Dossier Recours contre Tiers CPAM (n° [[31727387](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)](../../../../Memory/Tokens/token-cpam-dossier-numero.md))
 
 - Saisine du Tribunal Judiciaire de Foix
 
@@ -228,3 +226,5 @@ Fait à 10 Avenue de Purpan, 31700 Blagnac, le 17 juillet 2026
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
     > [Article 1240 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 <!-- /Source -->
+
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571

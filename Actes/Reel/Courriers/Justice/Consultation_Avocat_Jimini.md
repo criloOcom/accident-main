@@ -25,7 +25,7 @@ reel_path: ../../../Courriers/Justice/Consultation - Avocat Jimini.md
 reel_drive_id: 1qhwW2CWnSZjdZ5fk0-7VRhIsaGG9G7HL2Z8DUmH9P_E
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md) › Consultation Avocat Jimini ([🎭](../../../Token/Courriers/Justice/Consultation_Avocat_Jimini.md)) [📄](https://drive.google.com/file/d/1qhwW2CWnSZjdZ5fk0-7VRhIsaGG9G7HL2Z8DUmH9P_E/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md) › Consultation Avocat Jimini ([👤](../../../Courriers/Justice/Consultation_Avocat_Jimini.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -38,8 +38,6 @@ sebastien.grazide@gmail.com
 <!-- Destinataire -->
 **Avocat**
 <!-- /Destinataire -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # EMAIL<br>CONSULTATION PROACTIVITÉ VICTIME
 
@@ -58,8 +56,6 @@ sebastien.grazide@gmail.com
 <hr><hr>
 
 <!-- /Objet -->
-
-<hr><hr>
 
 Bonjour Maître,
 
@@ -114,3 +110,5 @@ Cordialement,
     > [Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
     📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 <!-- /Source -->
+
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

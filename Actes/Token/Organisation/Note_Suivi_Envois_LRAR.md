@@ -58,4 +58,4 @@ reel_drive_id: 1sOczNYDzvzmSZ6wWrgTCrPsuifqBdBgPi2OjIEFtCYw
 | NPAI | Courrier retourne (nouvelle adresse a trouver) |
 | Relance | Relance envoyee |
 > ---
-> Mettre a jour chaque ligne apres chaque envoi ou reception de reponse.
+> Mettre a jour chaque ligne après chaque envoi ou réception de reponse.

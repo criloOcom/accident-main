@@ -18,11 +18,9 @@ jx: J+32
 reel_drive_id: 1_zbMW9ju_fGg3-lq9cwi9i6mKX6td4B_eoJb18m2LF8
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Analyse Responsabilites Legales ([🎭](../../Token/Analyses_juridiques/Note_Analyse_Responsabilites_Legales.md)) [📄](https://drive.google.com/file/d/1_zbMW9ju_fGg3-lq9cwi9i6mKX6td4B_eoJb18m2LF8/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note Analyse Responsabilites Legales ([👤](../../Analyses_juridiques/Note_Analyse_Responsabilites_Legales.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE SAS LES MAUVAIS GARCONS
 > 🔗 Source Google Drive : [1lUKoGE8kozm…](https://drive.google.com/open?id=1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34)
@@ -277,3 +275,17 @@ La difficulté centrale est le **recouvrement** : 1 000 € seulement. La voie p
     > [Article L113-2 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)
     📚 Bibliothèque locale : [Article_L113-2_Codesassurances_Legifrance](../../../Lois/Code/Code_assurances/Article_L113-2_Codesassurances_Legifrance.md) ↩
 <!-- /Source -->
+
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1242 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565
+: Article 1242 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

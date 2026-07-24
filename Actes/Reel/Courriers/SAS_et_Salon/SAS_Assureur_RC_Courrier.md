@@ -30,11 +30,9 @@ jx: J+50
 reel_drive_id: 1E-Lt5uiEfj6P4l4Jk85zNitwYELX8uq2HMiS4mrHRtQ
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS Assureur RC Courrier ([🎭](../../../Token/Courriers/SAS_et_Salon/SAS_Assureur_RC_Courrier.md)) [📄](https://drive.google.com/file/d/1E-Lt5uiEfj6P4l4Jk85zNitwYELX8uq2HMiS4mrHRtQ/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS Assureur RC Courrier ([👤](../../../Courriers/SAS_et_Salon/SAS_Assureur_RC_Courrier.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MISE EN DEMEURE ASSUREUR RC
 **Déclaration de sinistre — Action directe (Art. L. 124-3 C. assur.) — Expertise médicale consolidée**
@@ -160,3 +158,7 @@ Ce courrier est une **simulation** reprenant la structure du draft fourni par l'
     > [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
     📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](../../../../Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
 <!-- /Source -->
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993

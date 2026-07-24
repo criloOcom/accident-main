@@ -17,11 +17,9 @@ jx: J+60
 reel_drive_id: 1yCatou86pOMV8Bgy_98eJ_Yh_XtiwZXlXpSGhFJRWmM
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Dossier Plaidoirie Refere ([🎭](../../Token/Analyses_juridiques/Note_Dossier_Plaidoirie_Refere.md)) [📄](https://drive.google.com/file/d/1yCatou86pOMV8Bgy_98eJ_Yh_XtiwZXlXpSGhFJRWmM/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note Dossier Plaidoirie Refere ([👤](../../Analyses_juridiques/Note_Dossier_Plaidoirie_Refere.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # **DOSSIER DE PLAIDOIRIE POUR L'AUDIENCE DE RÉFÉRÉ DU 31 JUILLET 2026**
 ## I — FICHE SYNTHÉTIQUE
@@ -169,7 +167,7 @@ La présente procédure de référé ne vise pas à solder définitivement le do
   
 - **Demande au titre de l'Article 700 du Code de procédure civile :** 3 000 € (frais de justice, avocat et constats)
 
-> *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
+> *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'État majorée de 50 %. »* <br>
 > [Article 700 du Code de procédure civile](../../../Lois/Code/LEGIARTI0000452684.md)36) <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.**
 <hr><hr>
@@ -213,3 +211,16 @@ Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'encei
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
     > [Article 1240 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 <!-- /Source -->
+
+
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1242 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565
+: Article 1242 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264
+: Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI) — https://www.legifrance.gouv.fr/juri/id/JURITEXT000007466847
+: Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI) — https://www.legifrance.gouv.fr/juri/id/JURITEXT000007466847

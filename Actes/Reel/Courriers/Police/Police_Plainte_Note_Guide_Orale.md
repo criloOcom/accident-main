@@ -13,7 +13,7 @@ auteur: La Victime
 reel_drive_id: 1S7pSfvTVairRsA6zgPdH6b6B-mAUCOzd_ZswZ-iq-Ns
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Plainte Note Guide Orale ([🎭](../../../Token/Courriers/Police/Police_Plainte_Note_Guide_Orale.md)) [📄](https://drive.google.com/file/d/1S7pSfvTVairRsA6zgPdH6b6B-mAUCOzd_ZswZ-iq-Ns/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Plainte Note Guide Orale ([👤](../../../Courriers/Police/Police_Plainte_Note_Guide_Orale.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -30,8 +30,6 @@ Sébastien GRAZIDE (document personnel — aide-mémoire)
 <!-- Date -->
 Blagnac, le 20 juillet 2026
 <!-- /Date -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # ⚠️ DOCUMENT PERSONNEL<br>NE PAS VERSER AU DOSSIER
 > Antisèche orale : aide-mémoire pour l'audition libre au Commissariat de Foix.
@@ -341,3 +339,15 @@ Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../
     > **Code pénal > Chapitre Ier : Dispositions générales.** <br>
     > [Article 121-3 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) ↩
 <!-- /Source -->
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264
+: Article 434-4 du Code pénal — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608
+: Article 434-4 du Code pénal — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608
+: Article 434-4 du Code pénal — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608
+: Article 434-4 du Code pénal — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608
+: Article 434-4 du Code pénal — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608

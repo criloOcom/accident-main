@@ -94,7 +94,7 @@ Ce principe exige que la victime soit replacée dans la situation exacte où ell
 
 ## III — I.3 — CONSTAT DE SOUS-ÉVALUATION
 
-L'évaluation initiale du dossier s'établissait à [**[Finance Evaluation Initiale]**](../../../Memory/Tokens/token-finance-evaluation-initiale.md). Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**, pour cinq raisons principales :
+L'évaluation initiale du dossier s'établissait à [**[Finance Évaluation Initiale]**](../../../Memory/Tokens/token-finance-evaluation-initiale.md). Après analyse détaillée, ce montant est **sous-évalué d'environ 25 à 35 %**, pour cinq raisons principales :
 
 1. **DFT** non chiffré (55 jours × 25-30 €/jour = 1 375-1 650 €)
 
@@ -691,3 +691,10 @@ La provision de [**[Finance Provision Référé]**](../../../Memory/Tokens/token
 [^21]: [Arrêt n°20-15.106 — www.legifrance.gouv.fr/juri/id/[JURITEXT0000437821](../../../Lois/Jurisprudence/JURITEXT0000437821.md)26](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000437821](../../../Lois/Jurisprudence/JURITEXT0000437821.md)26) ↩
 [^22]: [Arrêt n°20-16.463 — www.legifrance.gouv.fr/juri/id/[JURITEXT0000444828](../../../Lois/Jurisprudence/JURITEXT0000444828.md)48](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000444828](../../../Lois/Jurisprudence/JURITEXT0000444828.md)48) ↩
 <!-- /Source -->
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571

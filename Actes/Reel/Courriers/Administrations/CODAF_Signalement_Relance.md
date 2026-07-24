@@ -27,11 +27,9 @@ reel_drive_id: 1cUKDob0StTJVpixUYLe2HCRYDLfxSrVdQMLscMYBWEI
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › CODAF Signalement Relance ([🎭](../../../Token/Courriers/Administrations/CODAF_Signalement_Relance.md)) [📄](https://drive.google.com/file/d/1cUKDob0StTJVpixUYLe2HCRYDLfxSrVdQMLscMYBWEI/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › CODAF Signalement Relance ([👤](../../../Courriers/Administrations/CODAF_Signalement_Relance.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # RELANCE<br>PRÉFECTURE / CODAF
 
@@ -69,8 +67,6 @@ Blagnac, le 15 juillet 2026
 
 <!-- /Objet -->
 
-<hr><hr>
-
 Monsieur le Préfet,
 
 Par courriel du **1er juin 2026**, Monsieur TAVELLA, Adjoint au Maire de Foix chargé de l'Urbanisme et des Travaux, m'a informé avoir pris l'attache de vos services afin de diligenter **l'Inspection du travail** et le **CODAF (Comité Opérationnel Départemental Anti-Fraude)** au sujet de l'accident corporel grave dont j'ai été victime le **29 mai 2026** dans le salon « SAS HB BARBER », 22 Rue Lafaurie, 09000 Foix.
@@ -102,7 +98,7 @@ Sébastien GRAZIDE
 
 - **[Mairie - ERP Tavella - Courrier.md](../../../Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel Monsieur TAVELLA (1er juin 2026)
 
-- **[PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
+- **[PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte et circonstances de l'accident
 
 - **[Certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures aux urgences
 

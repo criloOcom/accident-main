@@ -9,11 +9,9 @@ auteur: La Victime
 reel_drive_id: 1u7WGe0GdJJyRbiG9dwmrMkXaRnMpKop7SKEGD9c3Vog
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [Archives](../README.md) › [annexes](./README.md) › ANNEXE C Pieces ([🎭](../../../Token/Archives/annexes/ANNEXE_C_Pieces.md)) [📄](https://drive.google.com/file/d/1u7WGe0GdJJyRbiG9dwmrMkXaRnMpKop7SKEGD9c3Vog/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [Archives](../README.md) › [annexes](./README.md) › ANNEXE C Pieces ([👤](../../../Archives/annexes/ANNEXE_C_Pieces.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 statut: annexe
 

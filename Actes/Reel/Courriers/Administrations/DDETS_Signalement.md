@@ -27,11 +27,9 @@ reel_drive_id: 1zf1aGE9trMR53WikveJulEynHrcA4RV9ne3aO-TzmSs
 <!-- LRAR -->
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › DDETS Signalement ([🎭](../../../Token/Courriers/Administrations/DDETS_Signalement.md)) [📄](https://drive.google.com/file/d/1zf1aGE9trMR53WikveJulEynHrcA4RV9ne3aO-TzmSs/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › DDETS Signalement ([👤](../../../Courriers/Administrations/DDETS_Signalement.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # DEMANDE D'INFORMATION <br> INSPECTION DU TRAVAIL
 > 🔗 Source Google Drive : [1tStFiBk8gxB…](https://drive.google.com/open?id=1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM)
@@ -65,8 +63,6 @@ Blagnac, le 5 juillet 2026
 <hr><hr>
 
 <!-- /Objet -->
-
-<hr><hr>
 
 Réf : Signalement effectué par la mairie de Foix auprès de la Préfecture de l'Ariège le 1er juin 2026  
 
@@ -193,13 +189,13 @@ Sébastien GRAZIDE
 
 ## PIECES JOINTES
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026 (PV n° 2026/015967)
+- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte du 2 juin 2026 (PV n° 2026/015967)
 
-- **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de Foix
+- **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procédure pénale transmise au TJ de Foix
 
-- **[Mises en demeure LRAR](../../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mises en demeure du 29 juin 2026 a la SAS, a son president et a sa directrice generale
+- **[Mises en demeure LRAR](../../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mises en demeure du 29 juin 2026 a la SAS, a son president et a sa directrice générale
 
-- **[Certificat medical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures par le Dr Dr Julie JARDON
+- **[Certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures par le Dr Dr Julie JARDON
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du 30 mai 2026
 
@@ -233,3 +229,6 @@ Sébastien GRAZIDE
     > [Article R4323-58 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
     📚 Bibliothèque locale : [Article_R4323-58_CodeTravail](../../../../Lois/Code/Code_du_travail/Article_R4323-58_CodeTravail.md) ↩
 <!-- /Source -->
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

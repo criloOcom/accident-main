@@ -31,11 +31,9 @@ reel_drive_id: 1l2SW9Vq0ERrPDvtjXPKJWk2ldyf2kTZjJ5ghaU-2WyU
 <!-- LRAR -->
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md) › FGTI Saisine ([🎭](../../../Token/Courriers/Justice/FGTI_Saisine.md)) [📄](https://drive.google.com/file/d/1l2SW9Vq0ERrPDvtjXPKJWk2ldyf2kTZjJ5ghaU-2WyU/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md) › FGTI Saisine ([👤](../../../Courriers/Justice/FGTI_Saisine.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # DEMANDE D'INFORMATION ET DE PRÉ-ENREGISTREMENT<br>ARTICLE 706-3 DU CPP
 > 🔗 Source Google Drive : [13jocmpqETy6…](https://drive.google.com/open?id=13jocmpqETy64lldco9LGCKLJZp_ml_9u53NB7OySmrs)
@@ -69,9 +67,7 @@ Blagnac, le 12 juillet 2026
 
 <!-- /Objet -->
 
-<hr><hr>
-
-Réf : SIREN 104 103 262 — [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**  
+Réf : SIREN 104 103 262 — [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) n° [31727387](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)  
 
 Madame, Monsieur le Directeur,  
 ## I — INTRODUCTION
@@ -209,3 +205,5 @@ Sébastien GRAZIDE
     > **Code pénal > Paragraphe 2 : Des violences.** <br>
     > [Article 222-14 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531806](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531806) ↩
 <!-- /Source -->
+
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

@@ -42,8 +42,6 @@ reel_drive_id: 1L81VUJuq3DkwFbNOvGuShYVcZ6unDnDVb4BAHKUXVBE
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police_Note_Erratum_Identite.md).
-
 # BORDEREAU DE PIÈCES
 
 > **Procédure :** Référé (Art. 835 CPC, Art. 145[^n1] CPC) — <!-- Auteur -->**Demandeur :** [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md)<!-- /Auteur --> — <!-- Destinataire -->**Défendeur :** [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)<!-- /Destinataire -->
@@ -58,7 +56,7 @@ reel_drive_id: 1L81VUJuq3DkwFbNOvGuShYVcZ6unDnDVb4BAHKUXVBE
 
 ### PIÈCE N° 3
 
-- [**[J+1 Chirurgie]**](../../../../Memory/Tokens/token-j-1-chirurgie.md) — Compte rendu opératoire ([**[Le Chirurgien SOS Main]**](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md), SOS Main [**[L'Établissement SOS Main]**](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)) : Suture du tendon fléchisseur superficiel index droit (6 brins), suture des paquets collatéraux, neurolyse du nerf palmaire. [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**.
+- [**[J+1 Chirurgie]**](../../../../Memory/Tokens/token-j-1-chirurgie.md) — Compte rendu opératoire ([**[Le Chirurgien SOS Main]**](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md), SOS Main [**[L'Établissement SOS Main]**](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)) : Suture du tendon fléchisseur superficiel index droit (6 brins), suture des paquets collatéraux, neurolyse du nerf palmaire. [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) n° [**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md).
 
 ### PIÈCE N° 4
 
@@ -86,7 +84,7 @@ reel_drive_id: 1L81VUJuq3DkwFbNOvGuShYVcZ6unDnDVb4BAHKUXVBE
 
 ### PIÈCE N° 9
 
-- [**[J+5 Ouverture CPAM]**](../../../../Memory/Tokens/token-j-5-ouverture-cpam.md) — Dossier Recours Contre Tiers CPAM n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]** (CPAM de la Haute-Garonne) : Ouverture du [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) suite au signalement sur Ameli. Active la subrogation de l'assurance maladie pour récupération des débours (frais d'hospitalisation, soins, indemnités).
+- [**[J+5 Ouverture CPAM]**](../../../../Memory/Tokens/token-j-5-ouverture-cpam.md) — Dossier Recours Contre Tiers CPAM n° [**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) (CPAM de la Haute-Garonne) : Ouverture du [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) suite au signalement sur Ameli. Active la subrogation de l'assurance maladie pour récupération des débours (frais d'hospitalisation, soins, indemnités).
 <hr><hr>
 
 ## III — GROUPE C — CORRESPONDANCES ET MISES EN DEMEURE
@@ -162,7 +160,7 @@ reel_drive_id: 1L81VUJuq3DkwFbNOvGuShYVcZ6unDnDVb4BAHKUXVBE
 
 ### PIÈCE N° 25
 
-- [**[J+37 Assignation 145]**](../../../../Memory/Tokens/token-j-37-assignation-145.md) — Relance CPAM : Suivi du [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]** et demande de mise à jour. Email envoyé.
+- [**[J+37 Assignation 145]**](../../../../Memory/Tokens/token-j-37-assignation-145.md) — Relance CPAM : Suivi du [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) n° [**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) et demande de mise à jour. Email envoyé.
 <hr><hr>
 
 ## VII — GROUPE G — PIÈCES COMPLÉMENTAIRES
@@ -172,13 +170,13 @@ reel_drive_id: 1L81VUJuq3DkwFbNOvGuShYVcZ6unDnDVb4BAHKUXVBE
 
 ### PIÈCE N° 27
 
-- [**[J+1 Chirurgie]**](../../../../Memory/Tokens/token-j-1-chirurgie.md) — Frais de séjour SOS Main (GHS) : Frais de séjour et soins [dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**.
+- [**[J+1 Chirurgie]**](../../../../Memory/Tokens/token-j-1-chirurgie.md) — Frais de séjour SOS Main (GHS) : Frais de séjour et soins [dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) n° [**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md).
 
 - [**[J+12 Facture]**](../../../../Memory/Tokens/token-j-12-facture.md) — Relevé de prestations CPAM : Enregistrement de l'acte de chirurgie (ADC) du [**[J+1 Chirurgie]**](../../../../Memory/Tokens/token-j-1-chirurgie.md).
 
 ### PIÈCE N° 28
 
-- [**[J+18 Incohérence CPAM]**](../../../../Memory/Tokens/token-j-18-incoherence-cpam.md) — Demande de renseignements CPAM ([**[La Gestionnaire CPAM]**](../../../../Memory/Tokens/token-cpam-gestionnaire-nom.md)) : INCOHÉRENCE — dossier n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) erroné]** au lieu du n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**.
+- [**[J+18 Incohérence CPAM]**](../../../../Memory/Tokens/token-j-18-incoherence-cpam.md) — Demande de renseignements CPAM ([**[La Gestionnaire CPAM]**](../../../../Memory/Tokens/token-cpam-gestionnaire-nom.md)) : INCOHÉRENCE — dossier n° [**[N° Dossier CPAM erroné]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) au lieu du n° [**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md).
 
 - **18/06/2026** — Note de cadrage médico-légale : Confirmation de la zone lésée (index droit) et du [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md).
 
@@ -210,11 +208,11 @@ reel_drive_id: 1L81VUJuq3DkwFbNOvGuShYVcZ6unDnDVb4BAHKUXVBE
 
 ### PIÈCE N° 33
 
-- [**[J+4 Dépôt de plainte]**](../../../../Memory/Tokens/token-j-4-depot-de-plainte.md) — Relevés de prestations CPAM Tiers Payant : Dossier **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]** (seul le NIR présent).
+- [**[J+4 Dépôt de plainte]**](../../../../Memory/Tokens/token-j-4-depot-de-plainte.md) — Relevés de prestations CPAM Tiers Payant : Dossier [**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) (seul le NIR présent).
 
 ### PIÈCE N° 34
 
-- **Sans date** — Soins et remboursements CPAM (dossier n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]** et **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) erroné]**) : Frais pharmaceutiques, hospitalisation et [arrêts de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md).
+- **Sans date** — Soins et remboursements CPAM (dossier n° [**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) et [**[N° Dossier CPAM erroné]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)) : Frais pharmaceutiques, hospitalisation et [arrêts de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md).
 
 ### PIÈCE N° 35
 
@@ -299,3 +297,7 @@ reel_drive_id: 1L81VUJuq3DkwFbNOvGuShYVcZ6unDnDVb4BAHKUXVBE
     > [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
     📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](../../../../Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
 <!-- /Source -->
+
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

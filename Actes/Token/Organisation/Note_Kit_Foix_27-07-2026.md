@@ -101,3 +101,5 @@ reel_drive_id: 1WP1fk0ZcZ2eepgsrJ6Jl9yOjZ48RTEe2SLLEPlzhpNI
 - **Commissariat Foix** : 05 61 05 44 44
 
 - **BAJ Foix** : 05 61 02 30 30
+
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

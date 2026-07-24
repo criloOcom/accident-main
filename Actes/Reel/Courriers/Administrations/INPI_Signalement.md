@@ -25,13 +25,9 @@ jx: J+37
 reel_drive_id: 1zu4zLKxAo_ItkL_glD2haOFTBVzC4MBnoG8QOmSu28w
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › INPI Signalement ([🎭](../../../Token/Courriers/Administrations/INPI_Signalement.md)) [📄](https://drive.google.com/file/d/1zu4zLKxAo_ItkL_glD2haOFTBVzC4MBnoG8QOmSu28w/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › INPI Signalement ([👤](../../../Courriers/Administrations/INPI_Signalement.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md)*
-
 
 <!-- Objet -->
 <hr>
@@ -46,7 +42,7 @@ Ref : SIREN 104 103 262 — SAS SAS HB BARBER
 Madame, Monsieur,
 ## I — INTRODUCTION
 
-La presente est adressee a l'INPI par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS HB BARBER, immatriculee au RNE sous le SIREN 104 103 262.
+La présente est adressée a l'INPI par Sébastien GRAZIDE, victime d'un accident corporel grave survenu le 29 mai 2026 au sein du salon de coiffure exploité par la SAS SAS HB BARBER, immatriculée au RNE sous le SIREN 104 103 262.
 
 Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main.
 <hr><hr>
@@ -60,16 +56,16 @@ Cet equipement etait instable et presentait une cassure majeure preexistante non
 En descendant, le poids du prepose a provoque le basculement de l'equipement, et ma main droite, tendue par reflexe pour le proteger, a heurte la cassure preexistante, entrainant une plaie palmaire profonde et une section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant.
 <hr><hr>
 
-## III — PROCEDURES EN COURS
+## III — PROCÉDURES EN COURS
 
-Les procedures suivantes ont ete engagees :
+Les procédures suivantes ont été engagées :
 
-**1. Procedure penale**
-- Depot de plainte le 2 juin 2026 (PV n° 2026/015967)
+**1. Procédure pénale**
+- Dépôt de plainte le 2 juin 2026 (PV n° 2026/015967)
 
 - [Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) transmise le 29 juin 2026
 
-- Plainte complementaire pour defaut d'assurance RC professionnelle et travail dissimule presume
+- Plainte complémentaire pour defaut d'assurance RC professionnelle et travail dissimule presume
 
 **2. Mises en demeure LRAR** du 29 juin 2026
 
@@ -94,13 +90,13 @@ Les procedures suivantes ont ete engagees :
 
 Conformement aux dispositions du Code de commerce relatives au Registre National des Entreprises, je sollicite l'inscription d'un signalement au dossier RNE de la SAS SAS HB BARBER (SIREN 104 103 262) afin de porter a la connaissance des tiers et de l'administration l'existence du litige en cours.
 
-Cette demande est motivee par la necessite de prevenir toute modification de la situation juridique de la societe (dissolution, liquidation, radiation ou cession) qui pourrait intervenir sans que les autorites et les tiers aient connaissance des creances et actions en justice en cours a l'encontre de la societe.
+Cette demande est motivee par la necessite de prevenir toute modification de la situation juridique de la société (dissolution, liquidation, radiation ou cession) qui pourrait intervenir sans que les autorites et les tiers aient connaissance des creances et actions en justice en cours a l'encontre de la société.
 
-Les montants en jeu sont estimes a **~126 000 € (plancher, avis Dintilhac du 13/07/2026 ; fourchette 126 000-161 500 €)** au titre de la reparation integrale des prejudices corporels. (Réf. obsolète 59 600 € écartée — voir Memory/STRICT VARIABLES.md.)
+Les montants en jeu sont estimés a **~126 000 € (plancher, avis Dintilhac du 13/07/2026 ; fourchette 126 000-161 500 €)** au titre de la réparation integrale des préjudices corporels. (Réf. obsolète 59 600 € écartée — voir Memory/STRICT VARIABLES.md.)
 
-Mes coordonnees : 10 Avenue de Purpan, 31700 Blagnac — sebastien.grazide@gmail.com
+Mes coordonnées : 10 Avenue de Purpan, 31700 Blagnac — sebastien.grazide@gmail.com
 
-Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
+Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma considération distinguee.
 
 <!-- Signature -->
 Sébastien GRAZIDE
@@ -111,13 +107,13 @@ Sébastien GRAZIDE
 
 ## PIECES JOINTES
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
+- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte du 2 juin 2026
 
-- **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de Foix
+- **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procédure pénale engagée devant le TJ de Foix
 
 - **[Mises en demeure LRAR](../../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mises en demeure du 29 juin 2026
 
-- **[Signalement Inspection du Travail](../../../Courriers/Administrations/DDETS%20-%20Signalement.md)** — Demande d'enquete aupres de la DDETS 09
+- **[Signalement Inspection du Travail](../../../Courriers/Administrations/DDETS%20-%20Signalement.md)** — Demande d'enquete auprès de la DDETS 09
 
 - **[Signalement CODAF](../../../Courriers/Administrations/CODAF%20-%20Signalement.md)** — Saisine du CODAF
 
@@ -134,3 +130,7 @@ Sébastien GRAZIDE
     > [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
     📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](../../../../Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
 <!-- /Source -->
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993

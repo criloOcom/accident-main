@@ -39,8 +39,6 @@ reel_drive_id: 1qhwW2CWnSZjdZ5fk0-7VRhIsaGG9G7HL2Z8DUmH9P_E
 **Avocat**
 <!-- /Destinataire -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # EMAIL<br>CONSULTATION PROACTIVITÉ VICTIME
 
 > **Temporalité :** version pour envoi **avant** le 15 juillet. Si envoyé après, remplacer « Demain 15 juillet » par « Le 15 juillet ».
@@ -58,8 +56,6 @@ reel_drive_id: 1qhwW2CWnSZjdZ5fk0-7VRhIsaGG9G7HL2Z8DUmH9P_E
 <hr><hr>
 
 <!-- /Objet -->
-
-<hr><hr>
 
 Bonjour Maître,
 
@@ -114,3 +110,5 @@ Cordialement,
     > [Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
     📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 <!-- /Source -->
+
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

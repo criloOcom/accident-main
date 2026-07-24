@@ -6,7 +6,7 @@ type: organisation
 reel_drive_id: 1WP1fk0ZcZ2eepgsrJ6Jl9yOjZ48RTEe2SLLEPlzhpNI
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Note Kit Foix 27-07-2026 ([🎭](../../Token/Organisation/Note_Kit_Foix_27-07-2026.md)) [📄](https://drive.google.com/file/d/1WP1fk0ZcZ2eepgsrJ6Jl9yOjZ48RTEe2SLLEPlzhpNI/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md) › Note Kit Foix 27-07-2026 ([👤](../../Organisation/Note_Kit_Foix_27-07-2026.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -101,3 +101,5 @@ reel_drive_id: 1WP1fk0ZcZ2eepgsrJ6Jl9yOjZ48RTEe2SLLEPlzhpNI
 - **Commissariat Foix** : 05 61 05 44 44
 
 - **BAJ Foix** : 05 61 02 30 30
+
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

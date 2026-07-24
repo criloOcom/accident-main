@@ -24,13 +24,9 @@ jx: J+31
 reel_drive_id: 1V0GPjalMzog1LPpzHEoDrdGo0MeB_apYkusehsDqom4
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS HB BARBER SAS Courrier ([🎭](../../../Token/Courriers/SAS_et_Salon/SAS_HB_BARBER_SAS_Courrier.md)) [📄](https://drive.google.com/file/d/1V0GPjalMzog1LPpzHEoDrdGo0MeB_apYkusehsDqom4/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS HB BARBER SAS Courrier ([👤](../../../Courriers/SAS_et_Salon/SAS_HB_BARBER_SAS_Courrier.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
-
 
 <!-- Objet -->
 <hr>
@@ -70,7 +66,7 @@ Le chirurgien a évalué le pronostic de récupération neurologique à un an mi
 
 Travaillant à mon compte en tant qu'informaticien indépendant (500 474 457), cet accident me paralyse professionnellement et financièrement.
 
-Mon dossier de recours contre tiers (n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**) est actuellement ouvert auprès de la Caisse Primaire d'Assurance Maladie (CPAM).
+Mon dossier de recours contre tiers (n° [31727387](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)) est actuellement ouvert auprès de la Caisse Primaire d'Assurance Maladie (CPAM).
 
 Afin que les différents organismes de santé puissent entrer en contact direct avec votre compagnie d'assurance de responsabilité civile professionnelle pour la gestion de ce sinistre, je vous remercie de bien vouloir me transmettre par retour de courrier ou par courriel les coordonnées de votre assureur ainsi que votre numéro de police d'assurance.
 
@@ -114,15 +110,15 @@ Sébastien GRAZIDE
 <!-- PJ -->
 ## PIECES JOINTES
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
+- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte du 2 juin 2026
 
-- **[Certificat medical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures par le Dr Dr Julie JARDON
+- **[Certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures par le Dr Dr Julie JARDON
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du 30 mai 2026
 
 - **[Arrets de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md)** — [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total de 55 jours
 
-- **[Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Recours contre tiers ouvert a la CPAM (n° [**[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**])
+- **[Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Recours contre tiers ouvert a la CPAM (n° [[31727387](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)])
 <!-- /PJ -->
 
 <!-- Source -->
@@ -145,3 +141,10 @@ Sébastien GRAZIDE
     > [Article L113-2 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)
     📚 Bibliothèque locale : [Article_L113-2_Codesassurances_Legifrance](../../../../Lois/Code/Code_assurances/Article_L113-2_Codesassurances_Legifrance.md) ↩
 <!-- /Source -->
+
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993

@@ -24,13 +24,9 @@ jx: J+31
 reel_drive_id: 19Z2e_caZsjdU61uybBdz53ZRhjn6VMtzPYY7LXNeN0A
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Proprietaire](./README.md) › Proprietaire Courrier ([🎭](../../../Token/Courriers/Proprietaire/Proprietaire_Courrier.md)) [📄](https://drive.google.com/file/d/19Z2e_caZsjdU61uybBdz53ZRhjn6VMtzPYY7LXNeN0A/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Proprietaire](./README.md) › Proprietaire Courrier ([👤](../../../Courriers/Proprietaire/Proprietaire_Courrier.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Proprietaire](./README.md)*
-
 
 <!-- Objet -->
 <hr>
@@ -118,13 +114,13 @@ Sébastien GRAZIDE
 
 ## PIECES JOINTES
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
+- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte du 2 juin 2026
 
-- **[Certificat medical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures par le Dr Dr Julie JARDON
+- **[Certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures par le Dr Dr Julie JARDON
 
 - **[Extrait Kbis](../../../Preuves_officielles/20260601_Kbis/20260601-xxxx_Extrait_Kbis_SAS_MauvaisGarcons.md)** — SAS SAS HB BARBER (SIREN 104 103 262)
 
-- **[Mise en demeure SAS](../../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mise en demeure adressee a l'exploitant le 29 juin 2026
+- **[Mise en demeure SAS](../../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mise en demeure adressée a l'exploitant le 29 juin 2026
 
 > NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >
@@ -140,3 +136,5 @@ Sébastien GRAZIDE
     > **Code civil > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.** <br>
     > [Article 1719 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) ↩
 <!-- /Source -->
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993

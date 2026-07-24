@@ -18,11 +18,9 @@ jx: J+32
 reel_drive_id: 14m7MMvOKV_pH_qO79755N7yqMhLy0x2uU69nqNLMm0Q
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note FAQ Juridique ([🎭](../../Token/Analyses_juridiques/Note_FAQ_Juridique.md)) [📄](https://drive.google.com/file/d/14m7MMvOKV_pH_qO79755N7yqMhLy0x2uU69nqNLMm0Q/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note FAQ Juridique ([👤](../../Analyses_juridiques/Note_FAQ_Juridique.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # SYNTHÈSE JURIDIQUE ET FAQ AFFAIRE Sébastien GRAZIDE C/ SAS LES MAUVAIS GARCONS
 > 🔗 Source Google Drive : [1eoOJ-bcHBNn…](https://drive.google.com/open?id=1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM)
@@ -245,3 +243,19 @@ De plus, l'action directe contre l'assureur (Art. L. 124-3 du Code des assurance
     > [Article L237-2 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063)
     📚 Bibliothèque locale : [Article_L237-2_Codecommerce_Legifrance](../../../Lois/Code/Code_commerce/Article_L237-2_Codecommerce_Legifrance.md) ↩
 <!-- /Source -->
+
+
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1242 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565
+: Article 1242 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565
+: Article 1242 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264
+: Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI) — https://www.legifrance.gouv.fr/juri/id/JURITEXT000007466847

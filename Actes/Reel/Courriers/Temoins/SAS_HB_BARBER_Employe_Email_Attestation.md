@@ -21,13 +21,9 @@ jx: J+38
 reel_drive_id: 16Ax0GHtOeVHfcN_LxIDuIVPvxxKS5JjbOjGIsnxni18
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Temoins](./README.md) › SAS HB BARBER Employe Email Attestation ([🎭](../../../Token/Courriers/Temoins/SAS_HB_BARBER_Employe_Email_Attestation.md)) [📄](https://drive.google.com/file/d/16Ax0GHtOeVHfcN_LxIDuIVPvxxKS5JjbOjGIsnxni18/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Temoins](./README.md) › SAS HB BARBER Employe Email Attestation ([👤](../../../Courriers/Temoins/SAS_HB_BARBER_Employe_Email_Attestation.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Temoins](./README.md)*
-
 
 <!-- Objet -->
 <hr>
@@ -36,8 +32,6 @@ Objet : Attestation de témoin — Accident du 29 mai 2026 au 22 Rue Lafaurie, 0
 
 <hr>
 <!-- /Objet -->
-
-<hr><hr>
 
 Bonjour,
 

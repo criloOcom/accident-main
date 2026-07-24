@@ -19,8 +19,6 @@ reel_drive_id: 1Sl19DIxJNTMxeKc98PSFawnT-NwZSUcMVxU_jV4PBCk
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # NOTE SUR LA CONSERVATION DES PREUVES EXTÉRIEURES ET NUMÉRIQUES
 ## I — PROBLÉMATIQUE
 
@@ -79,7 +77,7 @@ Les pages de [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-explo
 ### III.2 — Plateformes d'annuaires et d'information sur les sociétés
 
 Ces plateformes prouvent que la société était bien référencée et active à [**[L'Adresse de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-adresse.md) :
-- **Societe.com** / **Infogreffe** : Permet de prouver l'immatriculation de [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) sous son identifiant, l'identité de ses dirigeants ([**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md), [**[La Directrice Générale de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-dg-nom.md), et l'adresse de son siège.
+- **Société.com** / **Infogreffe** : Permet de prouver l'immatriculation de [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) sous son identifiant, l'identité de ses dirigeants ([**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md), [**[La Directrice Générale de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-dg-nom.md), et l'adresse de son siège.
 
 - **Kompass** / **Pages Jaunes** : Prouve l'inscription commerciale et les coordonnées publiques de l'établissement au moment de l'accident.
 

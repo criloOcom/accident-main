@@ -29,7 +29,7 @@ signataire: 'Sébastien GRAZIDE (envoi sans signature manuscrite)'
 reel_drive_id: 1qoWSWcKfTG_ur4DJGO7LGuz0PRlmZmFA20zKCIzvTQk
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Proprietaire](./README.md) › Proprietaire Courrier Relance 3 ([🎭](../../../Token/Courriers/Proprietaire/Proprietaire_Courrier_Relance_3.md)) [📄](https://drive.google.com/file/d/1qoWSWcKfTG_ur4DJGO7LGuz0PRlmZmFA20zKCIzvTQk/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Proprietaire](./README.md) › Proprietaire Courrier Relance 3 ([👤](../../../Courriers/Proprietaire/Proprietaire_Courrier_Relance_3.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -66,8 +66,6 @@ Blagnac, le 19 juillet 2026
 <hr><hr>
 
 <!-- /Objet -->
-
-<hr><hr>
 
 Par la présente, je me permets de revenir vers vous pour la troisième fois concernant l'accident corporel dont j'ai été victime le **vendredi 29 mai 2026 à 15h00** dans vos locaux du **22 Rue Lafaurie à Foix (09000)**.
 
@@ -213,3 +211,8 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
     > **Code civil > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.** <br>
     > [Article 1719 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) ↩
 <!-- /Source -->
+
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1242 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

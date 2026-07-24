@@ -26,10 +26,6 @@ reel_drive_id: 1PiQM_fzQ_7onIIzJKVcu148B66l5CVXmhTmP_1uJdck
 <hr>
 <!-- /Breadcrumb -->
 
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
-
-
 <!-- Objet -->
 <hr>
 

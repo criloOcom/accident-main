@@ -17,7 +17,7 @@ destinataire: Tribunal Judiciaire de Foix / Commissariat de Foix
 reel_drive_id: 1vSl3wKtihn-ZK0c2XNWPGHtjF2Flt1ARxWwmWGfTGjs
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Temoins](./README.md) › TJ Foix Employe Attestation ([🎭](../../../Token/Courriers/Temoins/TJ_Foix_Employe_Attestation.md)) [📄](https://drive.google.com/file/d/1vSl3wKtihn-ZK0c2XNWPGHtjF2Flt1ARxWwmWGfTGjs/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Temoins](./README.md) › TJ Foix Employe Attestation ([👤](../../../Courriers/Temoins/TJ_Foix_Employe_Attestation.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -30,8 +30,6 @@ sebastien.grazide@gmail.com
 <!-- Destinataire -->
 **Tribunal Judiciaire de Foix / Commissariat de Foix**
 <!-- /Destinataire -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # ATTESTATION DE TÉMOIN (CERFA N° 11527*03)Article 202 du Code de procédure civile
 > 🔗 Source Google Drive : [1Icvl9wM3-Xr…](https://drive.google.com/open?id=1Icvl9wM3-XrrgSkLUAObecWiEvjkvk9Lj6AvWCakv2o)

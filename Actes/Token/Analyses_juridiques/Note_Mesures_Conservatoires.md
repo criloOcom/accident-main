@@ -19,8 +19,6 @@ reel_drive_id: 1UtaDRx9sqz719JS8O9TqcRd_7dCy9HfE-j3VD838kX0
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # NOTE JURIDIQUE : MESURES CONSERVATOIRES AVANT DISPARITION
 ## I — PROBLÉMATIQUE
 

@@ -21,13 +21,9 @@ jx: J+55
 reel_drive_id: 1OWmamQE4jYAoFtvegQm3z0K_z6InGxq3CLua6waNgcw
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [CPAM](./README.md) › CPAM Signalement TempsPartiel Therapeutique ([🎭](../../../Token/Courriers/CPAM/CPAM_Signalement_TempsPartiel_Therapeutique.md)) [📄](https://drive.google.com/file/d/1OWmamQE4jYAoFtvegQm3z0K_z6InGxq3CLua6waNgcw/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [CPAM](./README.md) › CPAM Signalement TempsPartiel Therapeutique ([👤](../../../Courriers/CPAM/CPAM_Signalement_TempsPartiel_Therapeutique.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [CPAM](./README.md)*
-
 
 <!-- Objet -->
 <hr>
@@ -97,9 +93,9 @@ En ma qualité de travailleur indépendant, je vous remercie de bien vouloir :
 
 **3. Intégrer ces débours** dans l'état des débours provisoires opposables au tiers responsable.
 
-Mes coordonnees : 10 Avenue de Purpan, 31700 Blagnac — sebastien.grazide@gmail.com
+Mes coordonnées : 10 Avenue de Purpan, 31700 Blagnac — sebastien.grazide@gmail.com
 
-Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
+Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma considération distinguee.
 
 <!-- Signature -->
 Sébastien GRAZIDE

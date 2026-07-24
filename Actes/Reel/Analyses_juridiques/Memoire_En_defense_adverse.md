@@ -16,11 +16,9 @@ reel_path: ../../Analyses_juridiques/Mémoire - En défense adverse.md
 reel_drive_id: 1QTh2zcC2DeAWdQDWs_Ywer3w_V8Bars81DfnH2i37lE
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Memoire En defense adverse ([🎭](../../Token/Analyses_juridiques/Memoire_En_defense_adverse.md)) [📄](https://drive.google.com/file/d/1QTh2zcC2DeAWdQDWs_Ywer3w_V8Bars81DfnH2i37lE/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Memoire En defense adverse ([👤](../../Analyses_juridiques/Memoire_En_defense_adverse.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MÉMOIRE EN DÉFENSE ADVERSE
 **Pour :** SAS LES MAUVAIS GARCONS, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC (Partie Défenderesse)
@@ -135,3 +133,9 @@ Fait pour valoir ce que de droit.
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
     > [Article 1241 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565) ↩
 <!-- /Source -->
+
+
+: Article 1241 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041567
+: Article 1241 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041567
+: Article 1241 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041567
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

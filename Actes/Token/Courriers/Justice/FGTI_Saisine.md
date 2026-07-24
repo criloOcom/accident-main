@@ -35,8 +35,6 @@ reel_drive_id: 1l2SW9Vq0ERrPDvtjXPKJWk2ldyf2kTZjJ5ghaU-2WyU
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # DEMANDE D'INFORMATION ET DE PRÉ-ENREGISTREMENT<br>ARTICLE 706-3 DU CPP
 > 🔗 Source Google Drive : [13jocmpqETy6…](https://drive.google.com/open?id=13jocmpqETy64lldco9LGCKLJZp_ml_9u53NB7OySmrs)
 
@@ -69,9 +67,7 @@ reel_drive_id: 1l2SW9Vq0ERrPDvtjXPKJWk2ldyf2kTZjJ5ghaU-2WyU
 
 <!-- /Objet -->
 
-<hr><hr>
-
-Réf : SIREN **[SIREN de l'Exploitation](../../../../Memory/Tokens/token-exploitation-siren.md)** — [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**  
+Réf : SIREN **[SIREN de l'Exploitation](../../../../Memory/Tokens/token-exploitation-siren.md)** — [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) n° [**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)  
 
 Madame, Monsieur le Directeur,  
 ## I — INTRODUCTION
@@ -209,3 +205,5 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur le Dire
     > **Code pénal > Paragraphe 2 : Des violences.** <br>
     > [Article 222-14 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531806](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531806) ↩
 <!-- /Source -->
+
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

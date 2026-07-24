@@ -18,11 +18,9 @@ jx: J+32
 reel_drive_id: 1AQWX_KQKT1sVCl-DKSLTRg0Tmohik-5XmrTVRYbRVAA
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Plaidoirie Responsabilite Dirigeants ([🎭](../../Token/Analyses_juridiques/Note_Plaidoirie_Responsabilite_Dirigeants.md)) [📄](https://drive.google.com/file/d/1AQWX_KQKT1sVCl-DKSLTRg0Tmohik-5XmrTVRYbRVAA/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note Plaidoirie Responsabilite Dirigeants ([👤](../../Analyses_juridiques/Note_Plaidoirie_Responsabilite_Dirigeants.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # **MÉMORANDUM JURIDIQUE : RESPONSABILITÉ DES DIRIGEANTS ET RÉPARATION DES PRÉJUDICES**
 > 🔗 Source Google Drive : [1uHOesWZrUf1…](https://drive.google.com/open?id=1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90)
@@ -140,7 +138,7 @@ Enfin, des mises en demeure ont été adressées à L'Exploitant et à ses Dirig
 
 ## Sources Législation
 
-[^n1]: > « Les gérants sont responsables, individuellement ou solidairement, selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés à responsabilité limitée, soit des violations des statuts, soit des fautes commises dans leur gestion. Si plusieurs gérants ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du dommage. Outre l'action en réparation du préjudice subi personnellement, les associés peuvent, soit individuellement, soit en se groupant dans les conditions fixées par décret en Conseil d'Etat, intenter l'action sociale en responsabilité contre les gérants. Les demandeurs sont habilités à poursuivre la réparation de l'entier préjudice subi par la société à laquelle, le cas échéant, les dommages-intérêts sont alloués. Est réputée non écrite toute clause des statuts ayant pour effet de subordonner l'exercice de l'action sociale à l'avis préalable ou à l'autorisation de l'assemblée, ou qui comporterait par avance renonciation à l'exercice de cette action. Aucune décision de l'assemblée ne peut avoir pour effet d'éteindre une action en responsabilité contre les gérants pour faute commise dans l'accomplissement de leur mandat. » <br>
+[^n1]: > « Les gérants sont responsables, individuellement ou solidairement, selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés à responsabilité limitée, soit des violations des statuts, soit des fautes commises dans leur gestion. Si plusieurs gérants ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du dommage. Outre l'action en réparation du préjudice subi personnellement, les associés peuvent, soit individuellement, soit en se groupant dans les conditions fixées par décret en Conseil d'État, intenter l'action sociale en responsabilité contre les gérants. Les demandeurs sont habilités à poursuivre la réparation de l'entier préjudice subi par la société à laquelle, le cas échéant, les dommages-intérêts sont alloués. Est réputée non écrite toute clause des statuts ayant pour effet de subordonner l'exercice de l'action sociale à l'avis préalable ou à l'autorisation de l'assemblée, ou qui comporterait par avance renonciation à l'exercice de cette action. Aucune décision de l'assemblée ne peut avoir pour effet d'éteindre une action en responsabilité contre les gérants pour faute commise dans l'accomplissement de leur mandat. » <br>
     > **Code de commerce > Chapitre III : Des sociétés à responsabilité limitée.** <br>
     > [Article L223-22 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006223141)
     📚 Bibliothèque locale : [Article_L223-22_Codecommerce_Legifrance](../../../Lois/Code/Code_commerce/Article_L223-22_Codecommerce_Legifrance.md) ↩
@@ -168,3 +166,12 @@ Enfin, des mises en demeure ont été adressées à L'Exploitant et à ses Dirig
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
     > [Article 1240 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 <!-- /Source -->
+
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI) — https://www.legifrance.gouv.fr/juri/id/JURITEXT000007466847

@@ -26,11 +26,9 @@ reel_drive_id: 1SQBL9vpYJu2ZhIwnD4O2Y1tthLlHuJHqA1ULmUq7hdU
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › Conseil Departemental Signalement ([🎭](../../../Token/Courriers/Administrations/Conseil_Departemental_Signalement.md)) [📄](https://drive.google.com/file/d/1SQBL9vpYJu2ZhIwnD4O2Y1tthLlHuJHqA1ULmUq7hdU/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › Conseil Departemental Signalement ([👤](../../../Courriers/Administrations/Conseil_Departemental_Signalement.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # SIGNALEMENT DE NON-CONFORMITÉ D'ERP <br> CONSEIL DÉPARTEMENTAL
 > 🔗 Source Google Drive : [1pBi3ofZ86aG…](https://drive.google.com/open?id=1pBi3ofZ86aGKRkL9X367bHZvHj0fU55iMC_Izmz6gHQ)
@@ -66,8 +64,6 @@ Blagnac, le 5 juillet 2026
 <hr><hr>
 
 <!-- /Objet -->
-
-<hr><hr>
 
 Réf : SIREN 104 103 262  
 
@@ -118,7 +114,7 @@ Sébastien GRAZIDE
 
 ## PIECES JOINTES
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
+- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte du 2 juin 2026
 
 - **[Signalement Préfecture](../../../Courriers/Administrations/Pr%C3%A9fecture%20-%20Signalement.md)** — Confirmation officielle transmise à la Préfecture de l'Ariège
 <!-- /PJ -->

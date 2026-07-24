@@ -19,11 +19,9 @@ reel_path: ../../Analyses_juridiques/Note - Mémo Stratégie Admin Pénal.md
 reel_drive_id: 1XvzGFvneAKliRGtFADpLgBD3wQRG3E0XYVur7ZZSFgU
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Memo Strategie Admin Penal ([🎭](../../Token/Analyses_juridiques/Note_Memo_Strategie_Admin_Penal.md)) [📄](https://drive.google.com/file/d/1XvzGFvneAKliRGtFADpLgBD3wQRG3E0XYVur7ZZSFgU/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note Memo Strategie Admin Penal ([👤](../../Analyses_juridiques/Note_Memo_Strategie_Admin_Penal.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MÉMO STRATÉGIQUE<br>VOIES ADMINISTRATIVE ET PÉNALE
 
@@ -182,3 +180,6 @@ ACCIDENT 29/05/2026
     > [Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
     📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 <!-- /Source -->
+
+
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

@@ -30,11 +30,9 @@ jx: J+50-bis
 reel_drive_id: 1fl_J8Sz840xnjAq4J_PIAdR3zt6vQ9q8_5pG77BYpQo
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS Assureur RC Courrier copie Avocat ([🎭](../../../Token/Courriers/SAS_et_Salon/SAS_Assureur_RC_Courrier_copie_Avocat_.md)) [📄](https://drive.google.com/file/d/1fl_J8Sz840xnjAq4J_PIAdR3zt6vQ9q8_5pG77BYpQo/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS Assureur RC Courrier copie Avocat ([👤](../../../Courriers/SAS_et_Salon/SAS_Assureur_RC_Courrier_copie_Avocat_.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MISE EN DEMEURE ASSUREUR RC
 **Action directe — Réserve de droits — Volet pénal expressément réservé**
@@ -199,3 +197,7 @@ Variante « avocat » de la mise en demeure adressée à l'assureur RC, destiné
     > **Code des assurances > Section VI : Procédures d'indemnisation.** <br>
     > [Article L211-9 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795447](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795447) ↩
 <!-- /Source -->
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993

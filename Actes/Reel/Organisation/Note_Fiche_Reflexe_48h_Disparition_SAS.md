@@ -16,11 +16,9 @@ reel_path: ../../Organisation/Note - Fiche Réflexe 48h Disparition SAS.md
 reel_drive_id: 1X6wBvK0eTc3wMnMVAUSZmbSsnUM9__agWJfKzK_5W9Y
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Note Fiche Reflexe 48h Disparition SAS ([🎭](../../Token/Organisation/Note_Fiche_Reflexe_48h_Disparition_SAS.md)) [📄](https://drive.google.com/file/d/1X6wBvK0eTc3wMnMVAUSZmbSsnUM9__agWJfKzK_5W9Y/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md) › Note Fiche Reflexe 48h Disparition SAS ([👤](../../Organisation/Note_Fiche_Reflexe_48h_Disparition_SAS.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # FICHE RÉFLEXE 48H : DISPARITION DE LA SAS
 ## I — PROBLÉMATIQUE

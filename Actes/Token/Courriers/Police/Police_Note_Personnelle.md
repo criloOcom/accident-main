@@ -34,8 +34,6 @@ Place de la Préfecture
 **[La Ville de Résidence de la Victime](../../../../Memory/Tokens/token-victime-ville-residence.md)**, le 17 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # NOTE PERSONNELLE
 ## Complément de plainte — Commissariat de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**
 
@@ -226,11 +224,11 @@ En effectuant des recherches par l'adresse exacte **[L'Adresse de l'Exploitation
 > *[Le Propriétaire des Murs].* »
 
 **Pièces jointes au courriel (3 fichiers) :**
-1. `Etat des lieux de sortie **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** 1 001.jpg` (412 Ko)
+1. `Etat des lieux de sortie **[Le Président de l'Exploitation 81 ** 1 001.jpg` (412 Ko)
 
-2. `Etat des lieux de sortie **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** 2 001.jpg` (314 Ko)
+2. `Etat des lieux de sortie **[Le Président de l'Exploitation 82 ** 2 001.jpg` (314 Ko)
 
-3. `Etat des lieux sortie **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** 3 001.jpg` (183 Ko)
+3. `Etat des lieux sortie **[Le Président de l'Exploitation 83 ** 3 001.jpg` (183 Ko)
 
 Ces photos de l'état des lieux de sortie signé par le représentant de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** à la date du **10 mars 2026** n'ont pas encore pu être exploitées en l'état.
 
@@ -246,7 +244,7 @@ Ces photos de l'état des lieux de sortie signé par le représentant de **[L'Ex
 
 ### Déroulement
 
-Le **16 juillet 2026**, je me rends physiquement au **22 rue Lafaurie, 09000 [La Ville de l'Accident]**, dans le même local où s'est produit l'accident du 29 mai 2026. Mon objectif : constater l'état des lieux, vérifier quelle société exploite actuellement le salon, et tenter d'obtenir des informations.
+Le **16 juillet 2026**, je me rends physiquement au **22 rue Lafaurie, 09000 [La Ville de l'Accident]**, dans le même local où s'est produit l'accident du 29 mai 2026. Mon objectif : constater l'état des lieux, vérifier quelle société exploité actuellement le salon, et tenter d'obtenir des informations.
 
 ### Constatations visuelles
 
@@ -365,3 +363,7 @@ Fait à **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-vill
     > **Code civil > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.** <br>
     > [Article 1720 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784) ↩
 <!-- /Source -->
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993

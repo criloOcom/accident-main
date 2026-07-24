@@ -25,11 +25,9 @@ reel_drive_id: 1wUoIui2t22g6HCadw6ywxM_a4ve3CwHDI8YxWXZqNuI
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › DDETS Signalement Relance ([🎭](../../../Token/Courriers/Administrations/DDETS_Signalement_Relance.md)) [📄](https://drive.google.com/file/d/1wUoIui2t22g6HCadw6ywxM_a4ve3CwHDI8YxWXZqNuI/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › DDETS Signalement Relance ([👤](../../../Courriers/Administrations/DDETS_Signalement_Relance.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # RELANCE<br>INSPECTION DU TRAVAIL
 
@@ -67,8 +65,6 @@ Blagnac, le 15 juillet 2026
 
 <!-- /Objet -->
 
-<hr><hr>
-
 Madame, Monsieur,
 
 Je me permets de vous écrire en ma qualité de **victime directe** d'un accident corporel grave survenu le **29 mai 2026** dans le salon « SAS HB BARBER », 22 Rue Lafaurie, 09000 Foix (PV de police n°2026/015967 — Commissariat de Toulouse).
@@ -102,7 +98,7 @@ Sébastien GRAZIDE
 
 - **[Mairie - ERP Tavella - Courrier.md](../../../Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel Monsieur TAVELLA (1er juin 2026)
 
-- **[PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
+- **[PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte et circonstances de l'accident
 
 - **[Compte-rendu opératoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du [J+1]
 

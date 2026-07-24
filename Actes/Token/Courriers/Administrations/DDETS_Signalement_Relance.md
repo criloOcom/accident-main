@@ -29,8 +29,6 @@ reel_drive_id: 1wUoIui2t22g6HCadw6ywxM_a4ve3CwHDI8YxWXZqNuI
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # RELANCE<br>INSPECTION DU TRAVAIL
 
 > Courrier recommandé avec accusé de réception
@@ -67,8 +65,6 @@ Cité Administrative
 
 <!-- /Objet -->
 
-<hr><hr>
-
 Madame, Monsieur,
 
 Je me permets de vous écrire en ma qualité de **victime directe** d'un accident corporel grave survenu le **29 mai 2026** dans le salon « **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** », **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** (PV de police n°2026/015967 — Commissariat de Toulouse).
@@ -102,7 +98,7 @@ Veuillez agréer, Madame, Monsieur, l'expression de ma considération distingué
 
 - **[Mairie - ERP Tavella - Courrier.md](../../../Reel/Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel [L'Adjoint au Maire de la Commune] (1er juin 2026)
 
-- **[PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
+- **[PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte et circonstances de l'accident
 
 - **[Compte-rendu opératoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du [J+1]
 

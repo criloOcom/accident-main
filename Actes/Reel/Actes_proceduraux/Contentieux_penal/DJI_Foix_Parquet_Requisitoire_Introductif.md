@@ -37,7 +37,7 @@ reel_drive_id: 1H8JQa1k808hbFxc3ThFwI7TpkgFfDJxu1QPBfjd057Y
 
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux penal](./README.md) › DJI Foix Parquet Requisitoire Introductif ([🎭](../../../Token/Actes_proceduraux/Contentieux_penal/DJI_Foix_Parquet_Requisitoire_Introductif.md)) [📄](https://drive.google.com/file/d/1H8JQa1k808hbFxc3ThFwI7TpkgFfDJxu1QPBfjd057Y/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux penal](./README.md) › DJI Foix Parquet Requisitoire Introductif ([👤](../../../Actes_proceduraux/Contentieux_penal/DJI_Foix_Parquet_Requisitoire_Introductif.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -62,7 +62,7 @@ Le Ministère Public a été saisi par la plainte, puis par la [**[constitution 
 
 Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, Sébastien GRAZIDE, qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS SAS HB BARBER, sis **22 Rue Lafaurie, 09000 Foix, a été victime d'un grave accident corporel.
 
-Alors que Ayoub BENNOURINE (tel : 07 58 40 12 87), faute d'equipement d'acces en hauteur (escabeau, marchepied) mis a sa disposition, etait monte sur la vasque en ceramique d'un bac a shampoing pour regler un poste de television situe en hauteur, cet equipement, deja fragilise par une cassure majeure preexistante et non signalee aux aretes tranchantes, a bascule sous son poids.
+Alors que Ayoub BENNOURINE (tel : 07 58 40 12 87), faute d'equipement d'acces en hauteur (escabeau, marchepied) mis a sa disposition, etait monte sur la vasque en ceramique d'un bac a shampoing pour regler un poste de television situe en hauteur, cet equipement, déjà fragilise par une cassure majeure preexistante et non signalee aux aretes tranchantes, a bascule sous son poids.
 
 En tentant par réflexe de retenir le préposé, Sébastien GRAZIDE a heurté de la main droite — sa main dominante — la cassure tranchante.
 
@@ -111,7 +111,7 @@ Le défaut d'entretien des équipements au sein d'un Établissement Recevant du 
 
 L'article 121-2 du Code pénal[^n2] dispose que les personnes morales sont pénalement responsables des infractions commises, pour leur compte, par leurs organes ou représentants.
 
-> *« Les personnes morales, à l'exclusion de l'Etat, sont responsables pénalement, selon les distinctions des articles 121-4 à 121-7 , des infractions commises, pour leur compte, par leurs organes ou représentants. Toutefois, les collectivités territoriales et leurs groupements ne sont responsables pénalement que des infractions commises dans l'exercice d'activités susceptibles de faire l'objet de conventions de délégation de service public. La responsabilité pénale des personnes morales n'exclut pas celle des personnes physiques auteurs ou complices des mêmes faits, sous réserve des dispositions du quatrième alinéa de l'article 121-3[^n3] . »* <br>
+> *« Les personnes morales, à l'exclusion de l'État, sont responsables pénalement, selon les distinctions des articles 121-4 à 121-7 , des infractions commises, pour leur compte, par leurs organes ou représentants. Toutefois, les collectivités territoriales et leurs groupements ne sont responsables pénalement que des infractions commises dans l'exercice d'activités susceptibles de faire l'objet de conventions de délégation de service public. La responsabilité pénale des personnes morales n'exclut pas celle des personnes physiques auteurs ou complices des mêmes faits, sous réserve des dispositions du quatrième alinéa de l'article 121-3[^n3] . »* <br>
 > [Article 121-2 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204) <br>
 > **Code pénal > Chapitre Ier : Dispositions générales.**
 
@@ -245,7 +245,7 @@ Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19
     > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
     > [Article R625-2 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419514](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419514) ↩
 
-[^n2]: > « Les personnes morales, à l'exclusion de l'Etat, sont responsables pénalement, selon les distinctions des articles 121-4 à 121-7 , des infractions commises, pour leur compte, par leurs organes ou représentants. Toutefois, les collectivités territoriales et leurs groupements ne sont responsables pénalement que des infractions commises dans l'exercice d'activités susceptibles de faire l'objet de conventions de délégation de service public. La responsabilité pénale des personnes morales n'exclut pas celle des personnes physiques auteurs ou complices des mêmes faits, sous réserve des dispositions du quatrième alinéa de l'article 121-3 . » <br>
+[^n2]: > « Les personnes morales, à l'exclusion de l'État, sont responsables pénalement, selon les distinctions des articles 121-4 à 121-7 , des infractions commises, pour leur compte, par leurs organes ou représentants. Toutefois, les collectivités territoriales et leurs groupements ne sont responsables pénalement que des infractions commises dans l'exercice d'activités susceptibles de faire l'objet de conventions de délégation de service public. La responsabilité pénale des personnes morales n'exclut pas celle des personnes physiques auteurs ou complices des mêmes faits, sous réserve des dispositions du quatrième alinéa de l'article 121-3 . » <br>
     > **Code pénal > Chapitre Ier : Dispositions générales.** <br>
     > [Article 121-2 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417204) ↩
 
@@ -304,3 +304,10 @@ Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19
     > **Code pénal > Sous-section 5 : Du contenu et des modalités d'application de certaines peines.** <br>
     > [Article 131-27 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028311887) ↩
 <!-- /Source -->
+
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264
+: Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI) — https://www.legifrance.gouv.fr/juri/id/JURITEXT000007466847

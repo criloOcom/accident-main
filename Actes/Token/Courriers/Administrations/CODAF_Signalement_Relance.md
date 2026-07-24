@@ -31,8 +31,6 @@ reel_drive_id: 1cUKDob0StTJVpixUYLe2HCRYDLfxSrVdQMLscMYBWEI
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # RELANCE<br>PRÉFECTURE / CODAF
 
 > Courrier recommandé avec accusé de réception
@@ -69,8 +67,6 @@ Préfecture de l'Ariège
 
 <!-- /Objet -->
 
-<hr><hr>
-
 Monsieur le Préfet,
 
 Par courriel du **1er juin 2026**, **[L'Adjoint au Maire de la Commune](../../../../Memory/Tokens/token-mairie-adjoint-nom.md)**, Adjoint au Maire de Foix chargé de l'Urbanisme et des Travaux, m'a informé avoir pris l'attache de vos services afin de diligenter **l'Inspection du travail** et le **CODAF (Comité Opérationnel Départemental Anti-Fraude)** au sujet de l'accident corporel grave dont j'ai été victime le **29 mai 2026** dans le salon « **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** », **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**.
@@ -102,7 +98,7 @@ Je vous remercie de l'attention portée à la présente et vous prie d'agréer, 
 
 - **[Mairie - ERP Tavella - Courrier.md](../../../Reel/Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel [L'Adjoint au Maire de la Commune] (1er juin 2026)
 
-- **[PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
+- **[PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte et circonstances de l'accident
 
 - **[Certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures aux urgences
 

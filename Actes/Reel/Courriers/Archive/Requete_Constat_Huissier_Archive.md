@@ -18,7 +18,7 @@ destinataire: Inconnu
 reel_drive_id: 1pa5L1CUvEGclnSqQMl9Uio9BN3qXIXMDFmgXXmCU8-U
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Archive](./README.md) › Requete Constat Huissier Archive ([🎭](../../../Token/Courriers/Archive/Requete_Constat_Huissier_Archive.md)) [📄](https://drive.google.com/file/d/1pa5L1CUvEGclnSqQMl9Uio9BN3qXIXMDFmgXXmCU8-U/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Archive](./README.md) › Requete Constat Huissier Archive ([👤](../../../Courriers/Archive/Requete_Constat_Huissier_Archive.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -52,3 +52,5 @@ Le contenu de cette requête (demande de constat d'huissier au titre de l'articl
     > [Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
     📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 <!-- /Source -->
+
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

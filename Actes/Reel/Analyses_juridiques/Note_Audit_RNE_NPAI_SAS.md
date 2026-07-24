@@ -11,7 +11,7 @@ jx: J+42
 reel_drive_id: 1Eb-aKjedpNc7QdBRTRSaq9mkn-lfaHK8AYHMYkKVftA
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Audit RNE NPAI SAS ([🎭](../../Token/Analyses_juridiques/Note_Audit_RNE_NPAI_SAS.md)) [📄](https://drive.google.com/file/d/1Eb-aKjedpNc7QdBRTRSaq9mkn-lfaHK8AYHMYkKVftA/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note Audit RNE NPAI SAS ([👤](../../Analyses_juridiques/Note_Audit_RNE_NPAI_SAS.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -20,7 +20,7 @@ reel_drive_id: 1Eb-aKjedpNc7QdBRTRSaq9mkn-lfaHK8AYHMYkKVftA
 
 - Annuaire-entreprises.data.gouv.fr (INSEE)
 
-- Societe.com (RNE, mis à jour 08/07/2026)
+- Société.com (RNE, mis à jour 08/07/2026)
 
 - Annonce JAL 14/11/2024 (création)
 
@@ -111,3 +111,6 @@ Signalement fiscal
     > [Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
     📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 <!-- /Source -->
+
+
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

@@ -12,8 +12,6 @@ reel_drive_id: 1iDS9cfF0YwGdiALkEh9Bw8BZL7_JYjMHxx_m8y2Sawg
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # Note juridique : Qualification pénale<br>Disparition de la SAS
 
 **Dossier :** [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) c/ [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md)

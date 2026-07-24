@@ -10,7 +10,7 @@ reel_drive_id: 1UHRCdxpPImFCqSQ6e2MPbBuJm_Ck8qC5fy5P_LD34rU
 drive_id: 1UHRCdxpPImFCqSQ6e2MPbBuJm_Ck8qC5fy5P_LD34rU
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Preuves officielles](./README.md) › Preparation Expertise UMJ ([🎭](../../Token/Preuves_officielles/Preparation_Expertise_UMJ.md)) [📄](https://drive.google.com/file/d/1UHRCdxpPImFCqSQ6e2MPbBuJm_Ck8qC5fy5P_LD34rU/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Preuves officielles](./README.md) › Preparation Expertise UMJ ([👤](../../Preuves_officielles/Preparation_Expertise_UMJ.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -59,12 +59,13 @@ drive_id: 1UHRCdxpPImFCqSQ6e2MPbBuJm_Ck8qC5fy5P_LD34rU
 
 - [ ] Photos lésions initiales (si disponibles)
 
-- [ ] [Dossier CPAM](../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) (RCT **[N° [Dossier CPAM](../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**)
+- [ ] [Dossier CPAM](../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) (RCT [31727387](../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md))
 
 ---
 
-<hr><hr>
-## II — DOCUMENTS DÉJÀ DISPONIBLES SUR DRIVE| Pièce | Drive |
+## II — DOCUMENTS DÉJÀ DISPONIBLES SUR DRIVE
+
+| Pièce | Drive |
 
 |-------|-------|
 | [CR opératoire](../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) Dr Iskander DJERBI | [Lien](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |

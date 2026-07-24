@@ -30,8 +30,6 @@ reel_drive_id: 17nQGdiG8a6F38FqFQVsKcKDOz5qCIJG-doItI5ppf4Q
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # ENVOI [CONSTITUTION DE PARTIE CIVILE](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
 > 🔗 Source Google Drive : [1nFSf3EDB_bV…](https://drive.google.com/open?id=1nFSf3EDB_bVudz5Xhf0NvXlibTesCL8M5hepEZqxd5w)
 <!-- Auteur -->
@@ -65,8 +63,6 @@ Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/toke
 
 <!-- /Objet -->
 
-<hr><hr>
-
 **Réf. Parquet : Plainte initiale n° [ ... ] (dépôt du **[J+4 Dépôt de plainte](../../../../Memory/Tokens/token-j-4-depot-de-plainte.md)**)**
 
 Monsieur le Doyen des Juges d'Instruction,
@@ -98,17 +94,17 @@ Je vous prie d'agréer, Monsieur le Doyen des Juges d'Instruction, l'expression 
 
 - **[Plainte avec constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — datée du **[J+38 Constitution PC](../../../../Memory/Tokens/token-j-38-constitution-pc.md)**
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte du [J+4]
+- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte du [J+4]
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Intervention de microchirurgie d'urgence du [J+1]
 
-- **[Certificat medical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures aux urgences
+- **[Certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures aux urgences
 
 - **[Arrets de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md)** — [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total de 55 jours
 
 - **[Mises en demeure J+31](../../../Reel/Courriers/SAS_&_Salon/SAS%20HB%20BARBER%20-%20SAS%20-%20Courrier.md)** — LRAR restees sans reponse
 
-- **[Attestation de depot CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)
+- **[Attestation de dépôt CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Recours contre tiers n° [[**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)](../../../../Memory/Tokens/token-cpam-dossier-numero.md)
 <!-- /PJ -->
 
 <!-- Source -->

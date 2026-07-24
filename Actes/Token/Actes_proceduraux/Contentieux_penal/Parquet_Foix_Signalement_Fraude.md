@@ -92,9 +92,9 @@ Avocat de [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet
 
 ## PIECES JOINTES
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
+- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte et circonstances de l'accident
 
-- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale en cours
+- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procédure pénale en cours
 
 - **[Mises en demeure J+31](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR restees sans reponse
 <!-- /PJ -->
@@ -112,3 +112,7 @@ Avocat de [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet
     > **Code pénal > Section 3 : De l'organisation frauduleuse de l'insolvabilité.** <br>
     > [Article 314-7 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226) ↩
 <!-- /Source -->
+
+
+: Article 434-4 du Code pénal — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608
+: Article 434-4 du Code pénal — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608

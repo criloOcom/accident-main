@@ -24,8 +24,6 @@ reel_drive_id: 1JRo8kGNNkdEooXhwb7S4YNLwQLn2ygA4TOlb83yfpRo
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # LETTRE RECOMMANDÉE <br> ACCUSÉ DE RÉCEPTION
 
 <!-- Auteur -->
@@ -57,8 +55,6 @@ Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-vi
 
 <!-- /Objet -->
 
-<hr><hr>
-
 Monsieur le Maire,
 
 Par la présente, je me permets d'attirer votre attention sur une situation constitutive d'un péril grave et imminent pour la sécurité de vos administrés, au sein de l'établissement exploité par la société [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), sis **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)** à **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**.
@@ -75,7 +71,7 @@ En votre qualité de premier magistrat de la commune, il vous appartient d'assur
 
 Par ailleurs, conformément à l'[article L. 2212-4 du Code général des collectivités territoriales - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390155](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390155), en cas de danger grave ou imminent, il vous incombe de prescrire l'exécution des mesures de sûreté exigées par les circonstances.
 
-> *« En cas de danger grave ou imminent, tel que les accidents naturels prévus au 5° de l'article L. 2212-2 , le maire prescrit l'exécution des mesures de sûreté exigées par les circonstances. Il informe d'urgence le représentant de l'Etat dans le département et lui fait connaître les mesures qu'il a prescrites. »* <br>
+> *« En cas de danger grave ou imminent, tel que les accidents naturels prévus au 5° de l'article L. 2212-2 , le maire prescrit l'exécution des mesures de sûreté exigées par les circonstances. Il informe d'urgence le représentant de l'État dans le département et lui fait connaître les mesures qu'il a prescrites. »* <br>
 > [Article L2212-4 du Code général des collectivités territoriales - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390155](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390155) <br>
 > **Code général des collectivités territoriales > CHAPITRE II : Police municipale.[^2]**
 
@@ -102,11 +98,11 @@ Je vous prie de croire, Monsieur le Maire, à l'expression de ma considération 
 <!-- PJ -->
 ## PIECES JOINTES
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
+- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte du 2 juin 2026
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Blessures documentees par SOS Main
 
-- **[Certificat medical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures par le Dr [**[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**]
+- **[Certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures par le Dr [**[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**]
 
 - **[Arrets de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md)** — [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total de 55 jours
 <!-- /PJ -->

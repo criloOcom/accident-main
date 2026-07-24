@@ -30,14 +30,10 @@ reel_drive_id: 15lzPU27MPiFqGPCGtJ1WB16X7sLtFN7Nvcp8ZbUdPxk
 <hr>
 <!-- /Breadcrumb -->
 
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [CPAM](./README.md)*
-
-
 <!-- Objet -->
 <hr>
 
-Objet : Transmission d'elements et bordereau recapitulatif — Recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**
+Objet : Transmission d'éléments et bordereau recapitulatif — Recours contre tiers n° [**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)
 
 <hr>
 <!-- /Objet -->
@@ -47,25 +43,25 @@ Ref : Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.
 Madame, Monsieur,
 ## I — INTRODUCTION
 
-La presente est adressee a vos services par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** afin de vous informer de l'etat d'avancement des procedures judiciaires engagees a la suite de l'accident corporel grave dont j'ai ete victime le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, et de vous transmettre les elements actualises necessaires au suivi de mon dossier de recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**.
+La présente est adressée a vos services par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** afin de vous informer de l'état d'avancement des procédures judiciaires engagées a la suite de l'accident corporel grave dont j'ai été victime le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploité par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, et de vous transmettre les éléments actualises nécessaires au suivi de mon dossier de recours contre tiers n° [**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md).
 <hr><hr>
 
 ## II — RAPPEL DU DOSSIER
 
-Mon dossier de recours contre tiers a ete ouvert par vos services le **[J+5 Ouverture CPAM](../../../../Memory/Tokens/token-j-5-ouverture-cpam.md)** sous le numero **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**, suite a l'accident corporel survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**.
+Mon dossier de recours contre tiers a été ouvert par vos services le **[J+5 Ouverture CPAM](../../../../Memory/Tokens/token-j-5-ouverture-cpam.md)** sous le numéro [**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md), suite a l'accident corporel survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**.
 
-L'accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte mis a disposition par l'employeur. Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main le **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)** par **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**.
+L'accident a été cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte mis a disposition par l'employeur. Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main le **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)** par **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**.
 
-Mon [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total a ete evalue a 55 jours (du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au **[J+55 Fin d'ITT](../../../../Memory/Tokens/token-j-55-fin-d-itt.md)**).
+Mon [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total a été evalue a 55 jours (du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au **[J+55 Fin d'ITT](../../../../Memory/Tokens/token-j-55-fin-d-itt.md)**).
 <hr><hr>
 
-## III — PROCEDURES JUDICIAIRES ENGAGEES
+## III — PROCÉDURES JUDICIAIRES ENGAGÉES
 
-A ce jour, les procedures suivantes ont ete engagees :
+A ce jour, les procédures suivantes ont été engagées :
 
-1. **Phase amiable** (29 mai 2026) : Mises en demeure LRAR adressees a la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et a ses dirigeants, restees sans reponse a ce jour.
+1. **Phase amiable** (29 mai 2026) : Mises en demeure LRAR adressées a la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et a ses dirigeants, restees sans reponse a ce jour.
 
-2. **Assignation en refere-provision** (30 juin 2026) : Saisine du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** sur le fondement de l'Article 835 du Code de procedure civile, a l'encontre de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et de ses dirigeants, [**[Le President de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Generale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md), in solidum.
+2. **Assignation en référé-provision** (30 juin 2026) : Saisine du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** sur le fondement de l'Article 835 du Code de procédure civile, a l'encontre de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et de ses dirigeants, [**[Le President de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md), in solidum.
 
 > *« Le président du tribunal judiciaire ou le juge des contentieux de la protection dans les limites de sa compétence peuvent toujours, même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
 > [Article 835 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
@@ -73,12 +69,12 @@ A ce jour, les procedures suivantes ont ete engagees :
 
 3. **Assignation Article 145[^n1] CPC** (5 juillet 2026) : Saisine du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** pour communication forcee de la police d'assurance RC professionnelle sous astreinte.
 
-4. **[Constitution de Partie Civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : Depot d'une plainte avec [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) aupres du Doyen des Juges d'Instruction du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, fondee sur les articles 222-19 et 222-20 du Code penal[^n2][^n3] (blessures involontaires), et engageant la responsabilite penale de la SAS et de ses dirigeants.
+4. **[Constitution de Partie Civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : Dépôt d'une plainte avec [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) auprès du Doyen des Juges d'Instruction du Tribunal Judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)**, fondee sur les articles 222-19 et 222-20 du Code pénal[^n2][^n3] (blessures involontaires), et engageant la responsabilité pénale de la SAS et de ses dirigeants.
 <hr><hr>
 
 ## IV — BORDEREAU RECAPITULATIF DES PIECES
 
-Conformement a l'article L.376-1 du Code de la securite sociale, je vous transmets par la presente l'etat actualise des pieces constitutives de mon dossier :
+Conformement a l'article L.376-1 du Code de la sécurité sociale, je vous transmets par la présente l'état actualise des pieces constitutives de mon dossier :
 
 > *« Lorsque, sans entrer dans les cas régis par les dispositions législatives applicables aux accidents du travail, la lésion dont l'assuré social ou son ayant droit est atteint est imputable à un tiers, l'assuré ou ses ayants droit conserve contre l'auteur de l'accident le droit de demander la réparation du préjudice causé, conformément aux règles du droit commun, dans la mesure où ce préjudice n'est pas réparé par application du présent livre ou du livre Ier.*
 >
@@ -148,7 +144,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 
 **C. Pièces administratives CPAM**
 
-- **Pièce n°14 :** Accusé de réception d'ouverture de [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) — Dossier n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**
+- **Pièce n°14 :** Accusé de réception d'ouverture de [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) — Dossier n° [**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)
 
 - **Pièce n°15 :** Courriers échangés avec la gestionnaire de dossier — **[La Gestionnaire CPAM](../../../../Memory/Tokens/token-cpam-gestionnaire-nom.md)**
 <hr><hr>
@@ -157,9 +153,9 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 
 Je sollicite de vos services :
 
-**1. La confirmation de la bonne reception** des elements transmis par la presente et leur integration a mon [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**.
+**1. La confirmation de la bonne réception** des éléments transmis par la présente et leur intégration a mon [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) n° [**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md).
 
-**2. Le montant des debours definitifs** conformement a l'article L.376-1 du Code de la securite sociale, necessaire a l'evaluation globale de mon prejudice dans le cadre des procedures judiciaires en cours.
+**2. Le montant des debours definitifs** conformement a l'article L.376-1 du Code de la sécurité sociale, nécessaire a l'évaluation globale de mon préjudice dans le cadre des procédures judiciaires en cours.
 
 > *« Lorsque, sans entrer dans les cas régis par les dispositions législatives applicables aux accidents du travail, la lésion dont l'assuré social ou son ayant droit est atteint est imputable à un tiers, l'assuré ou ses ayants droit conserve contre l'auteur de l'accident le droit de demander la réparation du préjudice causé, conformément aux règles du droit commun, dans la mesure où ce préjudice n'est pas réparé par application du présent livre ou du livre Ier.*
 >
@@ -197,13 +193,13 @@ Je sollicite de vos services :
 > [Article L376-1 du Code de la sécurité sociale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231) <br>
 > **Code de la sécurité sociale > Chapitre 6 : Recours des caisses contre les tiers.**
 
-**3. L'information sur le suivi du dossier** et les demarches complementaires eventuellement necessaires de ma part.
+**3. L'information sur le suivi du dossier** et les demarches complémentaires eventuellement nécessaires de ma part.
 
 **4. L'identification de l'assureur** de la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** si vos services disposent de cette information dans le cadre de la gestion du [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md).
 
-Mes coordonnees demeurent : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
+Mes coordonnées demeurent : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 
-Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma consideration distinguee.
+Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expression de ma considération distinguee.
 
 <!-- Signature -->
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
@@ -231,3 +227,5 @@ Dans l'attente de votre retour, je vous prie d'agreer, Madame, Monsieur, l'expre
     > **Code civil > Sous-section 4 : Le paiement avec subrogation.** <br>
     > [Article 1346-3 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035291](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035291) ↩
 <!-- /Source -->
+
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

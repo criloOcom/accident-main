@@ -34,7 +34,7 @@ reel_drive_id: 1X6SJhNU_Q3IqMScMbL1TF53HC4BLHeyw274ULuo8CKY
 
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux penal](./README.md) › DJI Foix Partie Civile Constitution ([🎭](../../../Token/Actes_proceduraux/Contentieux_penal/DJI_Foix_Partie_Civile_Constitution.md)) [📄](https://drive.google.com/file/d/1X6SJhNU_Q3IqMScMbL1TF53HC4BLHeyw274ULuo8CKY/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux penal](./README.md) › DJI Foix Partie Civile Constitution ([👤](../../../Actes_proceduraux/Contentieux_penal/DJI_Foix_Partie_Civile_Constitution.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -57,14 +57,14 @@ Tribunal Judiciaire de Foix
 Blagnac, le **6 juillet 2026
 ## I — INTRODUCTION
 
-La presente [**[constitution de partie civile]**](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) est formee par Sébastien GRAZIDE dans le cadre de la procedure penale suivie a l'encontre de la SAS SAS HB BARBER, de son President Hamza El Hachemi BERGUIGA et de sa Directrice Generale Catherine SORROCHE, dite ANDISSAC, en application des articles 2 et suivants du Code de procedure penale.
+La présente [**[constitution de partie civile]**](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) est formee par Sébastien GRAZIDE dans le cadre de la procédure pénale suivie a l'encontre de la SAS SAS HB BARBER, de son President Hamza El Hachemi BERGUIGA et de sa Directrice Générale Catherine SORROCHE, dite ANDISSAC, en application des articles 2 et suivants du Code de procédure pénale.
 
-Par cet acte, la victime entend exercer les droits reconnus a la partie civile afin d'obtenir la reparation de l'integralite des prejudices corporels, materiels et moraux decoulant de l'accident survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS HB BARBER.
+Par cet acte, la victime entend exercer les droits reconnus a la partie civile afin d'obtenir la réparation de l'integralite des préjudices corporels, materiels et moraux decoulant de l'accident survenu le 29 mai 2026 au sein du salon de coiffure exploité par la SAS SAS HB BARBER.
 <hr><hr>
 
 ## II — EXPOSE DES FAITS
 
-Le 29 mai 2026, alors que Sébastien GRAZIDE se trouvait en qualite de client au sein du salon de coiffure exploite par la SAS SAS HB BARBER sis **22 Rue Lafaurie, 09000 Foix, un grave accident corporel est survenu.
+Le 29 mai 2026, alors que Sébastien GRAZIDE se trouvait en qualite de client au sein du salon de coiffure exploité par la SAS SAS HB BARBER sis **22 Rue Lafaurie, 09000 Foix, un grave accident corporel est survenu.
 
 Le prepose de l'exploitation, Ayoub BENNOURINE (tel : 07 58 40 12 87), a escalade la vasque en ceramique du bac a shampoing pour acceder au poste de television. Cet equipement, instable et presentant une cassure majeure preexistante non signalee aux aretes tranchantes, a bascule sous son poids. Par reflexe, **Sébastien GRAZIDE a tendu la main droite pour proteger le prepose ; sa paume a heurte la cassure tranchante, provoquant :
 
@@ -80,19 +80,19 @@ Le prepose de l'exploitation, Ayoub BENNOURINE (tel : 07 58 40 12 87), a escalad
 
 - Un [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total de **55 jours** (du 29 mai au 23 juillet 2026)
 
-Une microchirurgie d'urgence a ete pratiquee le 30 mai 2026 par Dr Iskander DJERBI au centre SOS Main de Foix. L'etat de la victime a ete declare **consolide au 1er mars 2027** par l'expert judiciaire designe par ordonnance de refere du 31 juillet 2026, conformément au rapport d'expertise depose le 12 juin 2027.
+Une microchirurgie d'urgence a été pratiquee le 30 mai 2026 par Dr Iskander DJERBI au centre SOS Main de Foix. L'état de la victime a été declare **consolide au 1er mars 2027** par l'expert judiciaire designe par ordonnance de référé du 31 juillet 2026, conformément au rapport d'expertise depose le 12 juin 2027.
 
 ### II.1 — ANTECEDENTS ET CARENCES DES MIS EN CAUSE
 
-La SAS SAS HB BARBER, immatriculee au RCS sous le SIREN **104 103 262, a ete constituee avec un capital social de 200 € seulement. Son President, Hamza El Hachemi BERGUIGA, et sa Directrice Generale, Catherine SORROCHE, dite ANDISSAC, n'ont souscrit aucune assurance de responsabilite civile professionnelle pour l'exploitation du salon, en violation des obligations legales et reglementaires applicables aux etablissements recevant du public (ERP).
+La SAS SAS HB BARBER, immatriculée au RCS sous le SIREN **104 103 262, a été constituee avec un capital social de 200 € seulement. Son President, Hamza El Hachemi BERGUIGA, et sa Directrice Générale, Catherine SORROCHE, dite ANDISSAC, n'ont souscrit aucune assurance de responsabilité civile professionnelle pour l'exploitation du salon, en violation des obligations legales et reglementaires applicables aux etablissements recevant du public (ERP).
 
-Malgre des mises en demeure recommandees adressees le 29 juin 2026 a la SAS, au President et a la Directrice Generale, aucun des mis en cause n'a communique les coordonnees d'un assureur, laissant presumer une absence totale de couverture.
+Malgre des mises en demeure recommandees adressées le 29 juin 2026 a la SAS, au President et a la Directrice Générale, aucun des mis en cause n'a communique les coordonnées d'un assureur, laissant presumer une absence totale de couverture.
 <hr><hr>
 
 ## III — FONDEMENTS JURIDIQUES
-### III.1 — SUR LA QUALIFICATION PENALE — BLESSURES INVOLONTAIRES
+### III.1 — SUR LA QUALIFICATION PÉNALE — BLESSURES INVOLONTAIRES
 
-Les faits decrits ci-dessus sont constitutifs du delit de blessures involontaires prevu et reprime par les articles 222-19 et 222-20 du Code penal[^n1][^n2].
+Les faits decrits ci-dessus sont constitutifs du delit de blessures involontaires prévu et reprime par les articles 222-19 et 222-20 du Code pénal[^n1][^n2].
 
 > *« Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3[^n3], par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. »* <br>
 > [Article 222-19](../../../../Lois/Code/Code_pénal/Article_222-19_CodePenal_Legifrance.md) <br>
@@ -102,9 +102,9 @@ En l'espece :
 
 - **La maladresse et l'imprudence** sont caracterisees par le fait de laisser un employe monter sur une vasque en ceramique instable et cassee, faute d'equipement d'acces adapte (escabeau), en violation des articles R. 4323-58[^n4] et suivants du Code du travail imposant la mise a disposition d'equipements de travail en hauteur.
   
-- **Le manquement a une obligation de securite** resulte de l'absence de signalement et de protection de la cassure preexistante aux aretes tranchantes de la vasque, constituant un danger manifeste pour la clientele.
+- **Le manquement a une obligation de sécurité** resulte de l'absence de signalement et de protection de la cassure preexistante aux aretes tranchantes de la vasque, constituant un danger manifeste pour la clientele.
   
-- **L'inobservation des regles de securite** applicables aux ERP (etablissements recevant du public) est caracterisee par le defaut d'entretien du materiel et l'absence de verification des installations.
+- **L'inobservation des regles de sécurité** applicables aux ERP (etablissements recevant du public) est caracterisee par le defaut d'entretien du materiel et l'absence de verification des installations.
 
 L'ITT pénale, fixée à 1 jour par le [certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md) du Dr OXYBEL, est inférieure à 3 mois, ce qui conduit à la qualification suivante — étant précisé que l'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total est de 55 jours et qu'une réévaluation globale est programmée à l'UMJ de Purpan le 12 novembre 2026 :
 
@@ -120,13 +120,13 @@ La **violation manifestement deliberee** est caracterisee par :
   
 - L'absence de mise a disposition d'un escabeau, contraignant le prepose a escalader la vasque
 
-### III.2 — SUR LA RESPONSABILITE CIVILE PERSONNELLE DES DIRIGEANTS
+### III.2 — SUR LA RESPONSABILITÉ CIVILE PERSONNELLE DES DIRIGEANTS
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
 > [Article L. 227-8 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.**
 
-Cette disposition constitue le fondement de la responsabilite personnelle des dirigeants de SAS, qui peut etre engagee pour des fautes commises dans l'exercice de leurs fonctions.
+Cette disposition constitue le fondement de la responsabilité personnelle des dirigeants de SAS, qui peut être engagée pour des fautes commises dans l'exercice de leurs fonctions.
 
 L'article L. 227-1 du Code de commerce[^n5] dispose que les règles des sociétés anonymes sont applicables aux SAS :
 
@@ -146,15 +146,15 @@ En application de ce renvoi, l'article L. 225-251 du même code fixe le régime 
 
 En l'espece, les fautes separables des dirigeants sont caracterisees par :
 
-1. **Le defaut de souscription d'une assurance RC professionnelle** pour l'exploitation, exposant la clientele a un risque d'insolvabilite de la societe au capital derisoire de 200 € ;
+1. **Le defaut de souscription d'une assurance RC professionnelle** pour l'exploitation, exposant la clientele a un risque d'insolvabilite de la société au capital derisoire de 200 € ;
 
 2. **Le defaut d'entretien et de verification des equipements** (vasque en ceramique cassee non signalee, absence d'escabeau), exposant la clientele a un risque de blessure ;
 
 3. **Le silence oppose aux demandes amiables de la victime**, caracterisant une volonte deliberee de faire obstacle a l'indemnisation ;
 
-4. **L'absence de tout controle ou inspection** des conditions de securite au sein de l'etablissement malgre les obligations legales applicables aux ERP.
+4. **L'absence de tout controle ou inspection** des conditions de sécurité au sein de l'etablissement malgre les obligations legales applicables aux ERP.
 
-Ces fautes, commises personnellement par le President et la Directrice Generale, sont detachables de leurs fonctions sociales et engagent leur responsabilite sur leur patrimoine propre.
+Ces fautes, commises personnellement par le President et la Directrice Générale, sont detachables de leurs fonctions sociales et engagent leur responsabilité sur leur patrimoine propre.
 
 ### III.3 — SUR LE FONDEMENT DU DROIT DE LA CONSOMMATION
 
@@ -166,22 +166,22 @@ Ces fautes, commises personnellement par le President et la Directrice Generale,
 > [Article L. 217-1 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587) <br>
 > **Code de la consommation > Partie législative > Livre Ier : Dispositions générales > Titre Ier : Objet et champ d'application.**
 
-Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'information precontractuelle et a une obligation de conformite du service fourni. La prestation realisee n'etait manifestement pas conforme aux exigences de securite legitimes d'un consommateur, ce qui constitue un fondement complementaire a l'action civile et renforce l'absence de contestation serieuse.
+Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'information precontractuelle et a une obligation de conformite du service fourni. La prestation realisee n'etait manifestement pas conforme aux exigences de sécurité legitimes d'un consommateur, ce qui constitue un fondement complémentaire a l'action civile et renforce l'absence de contestation serieuse.
 
-### III.4 — SUR LE DEFAUT D'ASSURANCE DE RESPONSABILITE CIVILE
+### III.4 — SUR LE DEFAUT D'ASSURANCE DE RESPONSABILITÉ CIVILE
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
 > [Article L. 124-3 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité.**
 
-En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement des articles 706-3 et 706-14 du Code de procédure pénale (Titre XIV), pourra être directement saisi par la partie civile pour assurer l'indemnisation de la victime a defaut d'assureur. La presente [constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) sollicite formellement la designation du FGTI comme garant subrogatoire.
+En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement des articles 706-3 et 706-14 du Code de procédure pénale (Titre XIV), pourra être directement saisi par la partie civile pour assurer l'indemnisation de la victime a defaut d'assureur. La présente [constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) sollicite formellement la designation du FGTI comme garant subrogatoire.
 <hr><hr>
 
-## IV — PREJUDICES
+## IV — PRÉJUDICES
 
-Les prejudices subis par Sébastien GRAZIDE, evalues par expertise judiciaire (rapport depose le 12 juin 2027, consolidation au 1er mars 2027), sont les suivants :
+Les préjudices subis par Sébastien GRAZIDE, evalues par expertise judiciaire (rapport depose le 12 juin 2027, consolidation au 1er mars 2027), sont les suivants :
 
-| Categorie | Poste de prejudice | Evaluation expertise | Observations |
+| Categorie | Poste de préjudice | Évaluation expertise | Observations |
 |-----------|-------------------|---------------------|--------------|
 | **Temporaire** | DFT (56 j 100% + 35 j 50% + 95 j 25%) | **2 031 €** | 81,25 j equivalents plein x 25 €/j |
 | | Aide humaine temporaire | **800 €** | Entourage, ITT totale |
@@ -192,7 +192,7 @@ Les prejudices subis par Sébastien GRAZIDE, evalues par expertise judiciaire (r
 | | PEP (2,5/7) | **3 500 €** | Cicatrice palmaire longitudinale 5,2 cm |
 | | Incidence professionnelle | **28 000 €** | BIBAL : 9 000 x 12 % x coeff 25 = 27 000 € |
 | | PGPF | *(projection)* | 50 000 — 70 000 € (fourchette) |
-| | Prejudice d'agrement | **4 500 €** | Codage loisir reduit (8-10 h -> 2-3 h/semaine) |
+| | Préjudice d'agrement | **4 500 €** | Codage loisir reduit (8-10 h -> 2-3 h/semaine) |
 | | Depenses de sante futures | **3 000 €** | Suivi, ergonomie, renouvellement matériel |
 | **Total extra-patrimonial** | | **49 231 €** | DFT + DFP + SE + PEP |
 | **Total estimatif global** | | **120 000 — 160 000 €** | Avant recours CPAM — conforme au rapport d'expertise |
@@ -202,23 +202,23 @@ Les prejudices subis par Sébastien GRAZIDE, evalues par expertise judiciaire (r
 
 Par ces motifs, Sébastien GRAZIDE sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction de :
 
-1. **DECLARER** recevable la presente [constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) ;
+1. **DECLARER** recevable la présente [constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) ;
 
-2. **PRENDRE ACTE** du depot du rapport d'expertise medicale judiciaire en date du 12 juin 2027, ayant fixe la consolidation au 1er mars 2027, le DFP a 12 % et les souffrances endurees a 4/7 ;
+2. **PRENDRE ACTE** du dépôt du rapport d'expertise médicale judiciaire en date du 12 juin 2027, ayant fixe la consolidation au 1er mars 2027, le DFP a 12 % et les souffrances endurees a 4/7 ;
 
-3. **ACCORDER** a Sébastien GRAZIDE une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices, a la charge in solidum de la SAS SAS HB BARBER, de Hamza El Hachemi BERGUIGA et de Catherine SORROCHE, dite ANDISSAC ;
+3. **ACCORDER** a Sébastien GRAZIDE une provision conservatoire de 15 000 € a valoir sur la réparation définitive de ses préjudices, a la charge in solidum de la SAS SAS HB BARBER, de Hamza El Hachemi BERGUIGA et de Catherine SORROCHE, dite ANDISSAC ;
 
-4. **CONDAMNER IN SOLIDUM** la SAS SAS HB BARBER, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC a payer a **Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens.
+4. **CONDAMNER IN SOLIDUM** la SAS SAS HB BARBER, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC a payer a **Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'Article 475-1 du Code de procédure pénale, ainsi qu'aux entiers depens.
 
-> *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
+> *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'État et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
 > [Article 475-1 du Code de procédure pénale](../../../../Lois/Code/Code_procédure_pénale/Article475-1_CodeProcedurePenale.md) <br>
 > **Code de procédure pénale > Paragraphe 1 : Dispositions générales — abrogation différée.**
 <hr><hr>
 
 ## PAR CES MOTIFS
 
-Vu les articles 2, 3, 85 et suivants du Code de procedure penale,
-Vu les articles 222-19 et 222-20 du Code penal[^n1][^n2] (ce dernier confirme en vigueur depuis le 19 mai 2011, LEGIARTI000024042640),
+Vu les articles 2, 3, 85 et suivants du Code de procédure pénale,
+Vu les articles 222-19 et 222-20 du Code pénal[^n1][^n2] (ce dernier confirme en vigueur depuis le 19 mai 2011, LEGIARTI000024042640),
 Vu les articles 1240 et 1242 du Code civil[^n7][^n8],
 Vu les articles R. 4323-58 et suivants du Code du travail,
 Vu les articles L. 111-1 et L. 217-1 du Code de la consommation,
@@ -228,23 +228,23 @@ Vu l'article L. 124-3 du Code des assurances[^n10],
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
-Vu les articles 706-3 et 706-14 du Code de procedure penale,
+Vu les articles 706-3 et 706-14 du Code de procédure pénale,
 Vu la jurisprudence de la Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092 (arret SATI),
 Vu les pieces versees aux debats,
 
 Sébastien GRAZIDE se constitue partie civile et sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction, ou a tout magistrat compose le Tribunal Judiciaire de Foix, de :
 
-1. **RECEVOIR** la presente [constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) ;
+1. **RECEVOIR** la présente [constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) ;
 
-2. **PRENDRE ACTE** du depot du rapport d'expertise medicale judiciaire en date du 12 juin 2027 (consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure) ;
+2. **PRENDRE ACTE** du dépôt du rapport d'expertise médicale judiciaire en date du 12 juin 2027 (consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure) ;
 
-3. **CONDAMNER IN SOLIDUM** la SAS SAS HB BARBER, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC a verser a **Sébastien GRAZIDE une provision conservatoire de 15 000 € a valoir sur la reparation definitive de ses prejudices ;
+3. **CONDAMNER IN SOLIDUM** la SAS SAS HB BARBER, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC a verser a **Sébastien GRAZIDE une provision conservatoire de 15 000 € a valoir sur la réparation définitive de ses préjudices ;
 
-4. **CONDAMNER IN SOLIDUM** la SAS SAS HB BARBER, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC a payer a **Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'Article 475-1 du Code de procedure penale, ainsi qu'aux entiers depens ;
+4. **CONDAMNER IN SOLIDUM** la SAS SAS HB BARBER, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC a payer a **Sébastien GRAZIDE la somme de 3 000 € sur le fondement de l'Article 475-1 du Code de procédure pénale, ainsi qu'aux entiers depens ;
 
-> *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
+> *« Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'État et exposés par celle-ci. Les parties peuvent produire les justificatifs des sommes qu'elles demandent et le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance. »* <br>
 
-5. **FIXER** la provision definitives sur dommages et interets a hauteur du prejudice extra-patrimonial constate par l'expert (49 231 €), et **SE RESERVER** la liquidation definitive de l'astreinte et des postes patrimoniaux (PGPF, DSA) sur production des justificatifs CPAM.
+5. **FIXER** la provision definitives sur dommages et interets a hauteur du préjudice extra-patrimonial constate par l'expert (49 231 €), et **SE RESERVER** la liquidation définitive de l'astreinte et des postes patrimoniaux (PGPF, DSA) sur production des justificatifs CPAM.
 
 Fait a Blagnac, le **6 juillet 2026
 
@@ -303,7 +303,7 @@ Sébastien GRAZIDE
     > [Article R4323-58 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
     📚 Bibliothèque locale : [Article_R4323-58_CodeTravail](../../../../Lois/Code/Code_du_travail/Article_R4323-58_CodeTravail.md) ↩
 
-[^n5]: > « Une société par actions simplifiée peut être instituée par une ou plusieurs personnes qui ne supportent les pertes qu'à concurrence de leur apport. Lorsque cette société ne comporte qu'une seule personne, celle-ci est dénommée " associé unique ". L'associé unique exerce les pouvoirs dévolus aux associés lorsque le présent chapitre prévoit une prise de décision collective. Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes, à l'exception de l'article L. 224-2 , du second alinéa de l'article L. 225-14 , des articles L. 225-17 à L. 225-102, L. 225-103 à L. 225-126 , L. 225-243 , du I de l'article L. 233-8 et de l'article L. 236-17, sont applicables à la société par actions simplifiée. Pour l'application de ces règles, les attributions du conseil d'administration ou de son président sont exercées par le président de la société par actions simplifiée ou celui ou ceux de ses dirigeants que les statuts désignent à cet effet. La société par actions simplifiée peut émettre des actions inaliénables résultant d'apports en industrie tels que définis à l'article 1843-2 du code civil. Les statuts déterminent les modalités de souscription et de répartition de ces actions. Par dérogation au premier alinéa de l'article L. 225-14, les futurs associés peuvent décider à l'unanimité que le recours à un commissaire aux apports ne sera pas obligatoire, lorsque la valeur d'aucun apport en nature n'excède un montant fixé par décret et si la valeur totale de l'ensemble des apports en nature non soumis à l'évaluation d'un commissaire aux apports n'excède pas la moitié du capital. Lorsque la société est constituée par une seule personne, le commissaire aux apports est désigné par l'associé unique. Toutefois le recours à un commissaire aux apports n'est pas obligatoire si les conditions prévues au cinquième alinéa du présent article sont réunies ou si l'associé unique, personne physique, exerçant son activité professionnelle en nom propre avant la constitution de la société, y compris sous le régime prévu aux articles L. 526-6 à L. 526-21 , apporte des éléments qui figuraient dans le bilan de son dernier exercice. Lorsqu'il n'y a pas eu de commissaire aux apports ou lorsque la valeur retenue est différente de celle proposée par le commissaire aux apports, les associés sont solidairement responsables pendant cinq ans, à l'égard des tiers, de la valeur attribuée aux apports en nature lors de la constitution de la société. La société par actions simplifiée dont l'associé unique, personne physique, assume personnellement la présidence est soumise à des formalités de publicité allégées déterminées par décret en Conseil d'Etat. Ce décret prévoit les conditions de dispense d'insertion au Bulletin officiel des annonces civiles et commerciales. » <br>
+[^n5]: > « Une société par actions simplifiée peut être instituée par une ou plusieurs personnes qui ne supportent les pertes qu'à concurrence de leur apport. Lorsque cette société ne comporte qu'une seule personne, celle-ci est dénommée " associé unique ". L'associé unique exerce les pouvoirs dévolus aux associés lorsque le présent chapitre prévoit une prise de décision collective. Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes, à l'exception de l'article L. 224-2 , du second alinéa de l'article L. 225-14 , des articles L. 225-17 à L. 225-102, L. 225-103 à L. 225-126 , L. 225-243 , du I de l'article L. 233-8 et de l'article L. 236-17, sont applicables à la société par actions simplifiée. Pour l'application de ces règles, les attributions du conseil d'administration ou de son président sont exercées par le président de la société par actions simplifiée ou celui ou ceux de ses dirigeants que les statuts désignent à cet effet. La société par actions simplifiée peut émettre des actions inaliénables résultant d'apports en industrie tels que définis à l'article 1843-2 du code civil. Les statuts déterminent les modalités de souscription et de répartition de ces actions. Par dérogation au premier alinéa de l'article L. 225-14, les futurs associés peuvent décider à l'unanimité que le recours à un commissaire aux apports ne sera pas obligatoire, lorsque la valeur d'aucun apport en nature n'excède un montant fixé par décret et si la valeur totale de l'ensemble des apports en nature non soumis à l'évaluation d'un commissaire aux apports n'excède pas la moitié du capital. Lorsque la société est constituée par une seule personne, le commissaire aux apports est désigné par l'associé unique. Toutefois le recours à un commissaire aux apports n'est pas obligatoire si les conditions prévues au cinquième alinéa du présent article sont réunies ou si l'associé unique, personne physique, exerçant son activité professionnelle en nom propre avant la constitution de la société, y compris sous le régime prévu aux articles L. 526-6 à L. 526-21 , apporte des éléments qui figuraient dans le bilan de son dernier exercice. Lorsqu'il n'y a pas eu de commissaire aux apports ou lorsque la valeur retenue est différente de celle proposée par le commissaire aux apports, les associés sont solidairement responsables pendant cinq ans, à l'égard des tiers, de la valeur attribuée aux apports en nature lors de la constitution de la société. La société par actions simplifiée dont l'associé unique, personne physique, assume personnellement la présidence est soumise à des formalités de publicité allégées déterminées par décret en Conseil d'État. Ce décret prévoit les conditions de dispense d'insertion au Bulletin officiel des annonces civiles et commerciales. » <br>
     > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
     > [Article L227-1 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177)
     📚 Bibliothèque locale : [Article_L227-1_Code_Legifrance](../../../../Lois/Code/Code_commerce/Article_L227-1_Code_Legifrance.md) ↩
@@ -331,3 +331,14 @@ Sébastien GRAZIDE
     > [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
     📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](../../../../Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
 <!-- /Source -->
+
+
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1242 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565

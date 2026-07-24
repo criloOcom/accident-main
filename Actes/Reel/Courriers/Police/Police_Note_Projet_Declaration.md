@@ -14,7 +14,7 @@ reel_path: ../../../Courriers/Police/Police - Note Projet Déclaration.md
 reel_drive_id: 1jPHRKjaqVBb2XsJyiwV37Xg4c1EUhHq-aiOGryvgAPM
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Note Projet Declaration ([🎭](../../../Token/Courriers/Police/Police_Note_Projet_Declaration.md)) [📄](https://drive.google.com/file/d/1jPHRKjaqVBb2XsJyiwV37Xg4c1EUhHq-aiOGryvgAPM/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Note Projet Declaration ([👤](../../../Courriers/Police/Police_Note_Projet_Declaration.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -33,8 +33,6 @@ Place de la Préfecture
 <!-- Date -->
 Blagnac, le 17 juillet 2026
 <!-- /Date -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # PROJET DE DÉCLARATION POUR PV
 ## Bloc continu — prêt à recopier par l'OPJ

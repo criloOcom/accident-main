@@ -31,8 +31,6 @@ reel_drive_id: 1UYoNQKdqkUPayVpZQfjWsgOMb5LTgsZ0_HzYt4aV918
 **Tribunal Judiciaire de Foix / Commissariat de Foix**
 <!-- /Destinataire -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # ATTESTATION DE TÉMOIN (CERFA N° 11527*03)Article 202 du Code de procédure civile
 > 🔗 Source Google Drive : [1mLVji0_j8CT…](https://drive.google.com/open?id=1mLVji0_j8CTh2TjPr7bXAkoBaR2NmWEH89KXTk7Xbk4)
 

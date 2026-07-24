@@ -25,10 +25,6 @@ reel_drive_id: 1wtmlUFMzkkFJtu-Hp4TPFq8IHRQZjM257TTxUauj14Q
 <hr>
 <!-- /Breadcrumb -->
 
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Temoins](./README.md)*
-
-
 <!-- Objet -->
 <hr>
 
@@ -36,8 +32,6 @@ Objet : Attestation de témoin — Accident du **[J+0 Accident](../../../../Memo
 
 <hr>
 <!-- /Objet -->
-
-<hr><hr>
 
 Bonjour,
 

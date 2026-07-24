@@ -39,7 +39,7 @@ jx: J+52
 reel_drive_id: 1gNkX1luX_hmwWyemnOp6xxR5YmFlBUmbwPBu7DiMRlg
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Plainte Complementaire ([🎭](../../../Token/Courriers/Police/Police_Plainte_Complementaire.md)) [📄](https://drive.google.com/file/d/1gNkX1luX_hmwWyemnOp6xxR5YmFlBUmbwPBu7DiMRlg/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Plainte Complementaire ([👤](../../../Courriers/Police/Police_Plainte_Complementaire.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -58,8 +58,6 @@ Place de la Préfecture
 <!-- Date -->
 Blagnac, le 20 juillet 2026
 <!-- /Date -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident. La présente plainte corrige formellement l'identité de la société exploitante.
 
 # PLAINTE COMPLÉMENTAIRE — Correction de l'identité de la société exploitante — SAS HB BARBER
 

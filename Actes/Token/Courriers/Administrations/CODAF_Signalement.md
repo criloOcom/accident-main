@@ -30,8 +30,6 @@ reel_drive_id: 181sE7f-6nQx1agRIvfAMyDpJiqk2h1uDLSX2AA3PGug
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # SIGNALEMENT OFFICIEL <br> AU COMITÉ DÉPARTEMENTAL ANTI-FRAUDE DE L'ARIÈGE
 > 🔗 Source Google Drive : [1Lva-hW9g9d6…](https://drive.google.com/open?id=1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY)
 
@@ -64,8 +62,6 @@ BP 40087
 <hr><hr>
 
 <!-- /Objet -->
-
-<hr><hr>
 
 Réf : SIREN [**[SIREN de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-siren.md) — Signalement Mairie de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** du 1er juin 2026  
 

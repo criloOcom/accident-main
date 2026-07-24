@@ -96,3 +96,5 @@ En 3 exemplaires originaux.
 | | |
 | **Me [**[L'Avocat de la Victime]**](../../../Memory/Tokens/token-victime-avocat-nom.md) | **La Compagnie [Assureur RC Exploitant](../../../Memory/STRICT VARIABLES.md)** |
 | *(Pour assistance et visa d'avocat)* | *(Pour acceptation de la garantie et du règlement)* |
+
+: Article 1242 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565

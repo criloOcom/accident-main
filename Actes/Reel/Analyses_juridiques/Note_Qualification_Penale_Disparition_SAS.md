@@ -8,11 +8,9 @@ reel_path: ../../Analyses_juridiques/Note - Qualification Pénale Disparition SA
 reel_drive_id: 1iDS9cfF0YwGdiALkEh9Bw8BZL7_JYjMHxx_m8y2Sawg
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Qualification Penale Disparition SAS ([🎭](../../Token/Analyses_juridiques/Note_Qualification_Penale_Disparition_SAS.md)) [📄](https://drive.google.com/file/d/1iDS9cfF0YwGdiALkEh9Bw8BZL7_JYjMHxx_m8y2Sawg/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note Qualification Penale Disparition SAS ([👤](../../Analyses_juridiques/Note_Qualification_Penale_Disparition_SAS.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # Note juridique : Qualification pénale<br>Disparition de la SAS
 

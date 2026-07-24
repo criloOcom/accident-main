@@ -67,8 +67,6 @@ Monsieur **[Le Propriétaire des Murs](../../../../Memory/Tokens/token-exploitat
 
 <!-- /Objet -->
 
-<hr><hr>
-
 Par la présente, je me permets de revenir vers vous pour la troisième fois concernant l'accident corporel dont j'ai été victime le **vendredi 29 mai 2026 à 15h00** dans vos locaux du **22 Rue Lafaurie à Foix (09000)**.
 
 Cette lettre fait suite à :
@@ -213,3 +211,8 @@ Je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.
     > **Code civil > Section 1 : Des règles communes aux baux des maisons et des biens ruraux.** <br>
     > [Article 1719 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127) ↩
 <!-- /Source -->
+
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1242 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

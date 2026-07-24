@@ -22,7 +22,7 @@ jx: J+47
 reel_drive_id: 1hXSXresLu5NsJ_4U16ux5M7jJG47AX0YIrAACvDR2KM
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › CADA Saisine Formulaire ([🎭](../../../Token/Courriers/Administrations/CADA_Saisine_Formulaire.md)) [📄](https://drive.google.com/file/d/1hXSXresLu5NsJ_4U16ux5M7jJG47AX0YIrAACvDR2KM/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › CADA Saisine Formulaire ([👤](../../../Courriers/Administrations/CADA_Saisine_Formulaire.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -35,8 +35,6 @@ sebastien.grazide@gmail.com
 <!-- Destinataire -->
 **CADA (formulaire en ligne)**
 <!-- /Destinataire -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # SAISINE CADA<br>VERSION COURTE (FORMULAIRE EN LIGNE)
 

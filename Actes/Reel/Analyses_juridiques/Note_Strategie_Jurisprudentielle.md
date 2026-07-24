@@ -15,7 +15,7 @@ source: local
 reel_drive_id: 12LkSxXq18U32VtBkC4lO9yEFTOY21BJbnOYVPgNKUCw
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Strategie Jurisprudentielle ([🎭](../../Token/Analyses_juridiques/Note_Strategie_Jurisprudentielle.md)) [📄](https://drive.google.com/file/d/12LkSxXq18U32VtBkC4lO9yEFTOY21BJbnOYVPgNKUCw/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note Strategie Jurisprudentielle ([👤](../../Analyses_juridiques/Note_Strategie_Jurisprudentielle.md))*
 <hr>
 <!-- /Breadcrumb -->
 

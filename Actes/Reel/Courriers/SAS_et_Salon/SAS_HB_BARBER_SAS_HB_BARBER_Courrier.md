@@ -15,13 +15,9 @@ reel_path: ../../../Courriers/SAS_&_Salon/SAS HB BARBER - SAS - HB BARBER - Cour
 reel_drive_id: 1fIvCMP3Bn5ohK9lBWQGd8fC0GX2HooQ-yi8OeeEa-cI
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS HB BARBER SAS HB BARBER Courrier ([🎭](../../../Token/Courriers/SAS_et_Salon/SAS_HB_BARBER_SAS_HB_BARBER_Courrier.md)) [📄](https://drive.google.com/file/d/1fIvCMP3Bn5ohK9lBWQGd8fC0GX2HooQ-yi8OeeEa-cI/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS HB BARBER SAS HB BARBER Courrier ([👤](../../../Courriers/SAS_et_Salon/SAS_HB_BARBER_SAS_HB_BARBER_Courrier.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
-
 
 <!-- Objet -->
 <hr>
@@ -57,7 +53,7 @@ Le jour même, j’ai été pris en charge en urgence au Centre Ariégeois de So
 
 Le 30 mai 2026, j’ai été opéré par le Dr Dr Iskander DJERBI dans ce service de chirurgie de la main (suture tendineuse, suture microchirurgicale des nerfs et vaisseaux, neurolyse, sutures cutanées), comme l’attestent les comptes-rendus opératoires.
 
-Exerçant une activité d’informaticien indépendant (SIREN 500 474 457), cette incapacité m’empêche d’exercer normalement mon travail et me place dans une situation financière très fragile. Un recours contre tiers a été ouvert par la CPAM sous la référence [**[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md).
+Exerçant une activité d’informaticien indépendant (SIREN 500 474 457), cette incapacité m’empêche d’exercer normalement mon travail et me place dans une situation financière très fragile. Un recours contre tiers a été ouvert par la CPAM sous la référence [[31727387](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)](../../../../Memory/Tokens/token-cpam-dossier-numero.md).
 <hr><hr>
 
 ## III — EXCUSES SUR LE DÉLAI ET IDENTIFICATION RÉCENTE DE VOTRE SOCIÉTÉ
@@ -96,7 +92,7 @@ Quelle que soit l’interprétation que vous faites aujourd’hui de l’acciden
 
 ## V — CE QUE JE VOUS DEMANDE CONCRÈTEMENT
 
-Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)), je vous remercie de bien vouloir me transmettre, dans un délai de **quinze (15) jours** à compter de la réception de la présente :
+Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours contre tiers n° [[31727387](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)](../../../../Memory/Tokens/token-cpam-dossier-numero.md)), je vous remercie de bien vouloir me transmettre, dans un délai de **quinze (15) jours** à compter de la réception de la présente :
 
 1. Le nom et les coordonnées complètes de votre **assureur de responsabilité civile professionnelle** couvrant l’activité de votre établissement au 29 mai 2026 ;
 
@@ -137,7 +133,7 @@ Téléphone : 06 30 51 67 75
 
 - **[Compte-rendu opératoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Intervention chirurgicale d'urgence SOS Main du 30 mai 2026
 
-- **[Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Accusé de dépôt du recours tiers CPAM (n° [**[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md))
+- **[Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Accusé de dépôt du recours tiers CPAM (n° [[31727387](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)](../../../../Memory/Tokens/token-cpam-dossier-numero.md))
 <!-- /PJ -->
 
 <!-- Source -->
@@ -155,3 +151,8 @@ Téléphone : 06 30 51 67 75
     > [Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
     📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 <!-- /Source -->
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

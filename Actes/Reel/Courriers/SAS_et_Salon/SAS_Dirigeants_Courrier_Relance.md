@@ -27,13 +27,9 @@ jx: J+40
 reel_drive_id: 1VBsnMGYT3bJ4mB2hCvz21xDiyNsUeJ47gcRzftra_PI
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS Dirigeants Courrier Relance ([🎭](../../../Token/Courriers/SAS_et_Salon/SAS_Dirigeants_Courrier_Relance.md)) [📄](https://drive.google.com/file/d/1VBsnMGYT3bJ4mB2hCvz21xDiyNsUeJ47gcRzftra_PI/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS Dirigeants Courrier Relance ([👤](../../../Courriers/SAS_et_Salon/SAS_Dirigeants_Courrier_Relance.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
-
 
 <!-- Objet -->
 <hr>
@@ -122,7 +118,7 @@ Face aux difficultés de distribution postale à votre siège social, je vous de
 > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.**
 3. Solliciter devant ce juge votre condamnation solidaire au remboursement intégral de l'ensemble de mes frais d'avocat et de procédure sur le fondement de l'article 700 du Code de procédure civile.
 
-> *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
+> *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'État majorée de 50 %. »* <br>
 > [Article 700 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436) <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.**
 
@@ -163,7 +159,7 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
 
 ## PIECES JOINTES
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte du [J+4]
+- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte du [J+4]
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Intervention de microchirurgie d'urgence du [J+1]
 
@@ -173,9 +169,9 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
 
 - **[Mise en demeure J+31 — Directrice Générale](../../../Courriers/SAS_&_Salon/SAS%20-%20Directrice%20G%C3%A9n%C3%A9rale%20-%20Courrier.md)** — LRAR n° 87001424721856G
 
-- **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de Foix
+- **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procédure pénale transmise au TJ de Foix
 
-- **[Attestation de depot CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Recours contre tiers n° [N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]
+- **[Attestation de dépôt CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Recours contre tiers n° [31727387](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)
 <!-- /PJ -->
 
 <!-- Source -->
@@ -202,7 +198,7 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
     > [Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
     📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 
-[^n5]: > « Une société par actions simplifiée peut être instituée par une ou plusieurs personnes qui ne supportent les pertes qu'à concurrence de leur apport. Lorsque cette société ne comporte qu'une seule personne, celle-ci est dénommée " associé unique ". L'associé unique exerce les pouvoirs dévolus aux associés lorsque le présent chapitre prévoit une prise de décision collective. Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes, à l'exception de l'article L. 224-2 , du second alinéa de l'article L. 225-14 , des articles L. 225-17 à L. 225-102, L. 225-103 à L. 225-126 , L. 225-243 , du I de l'article L. 233-8 et de l'article L. 236-17, sont applicables à la société par actions simplifiée. Pour l'application de ces règles, les attributions du conseil d'administration ou de son président sont exercées par le président de la société par actions simplifiée ou celui ou ceux de ses dirigeants que les statuts désignent à cet effet. La société par actions simplifiée peut émettre des actions inaliénables résultant d'apports en industrie tels que définis à l'article 1843-2 du code civil. Les statuts déterminent les modalités de souscription et de répartition de ces actions. Par dérogation au premier alinéa de l'article L. 225-14, les futurs associés peuvent décider à l'unanimité que le recours à un commissaire aux apports ne sera pas obligatoire, lorsque la valeur d'aucun apport en nature n'excède un montant fixé par décret et si la valeur totale de l'ensemble des apports en nature non soumis à l'évaluation d'un commissaire aux apports n'excède pas la moitié du capital. Lorsque la société est constituée par une seule personne, le commissaire aux apports est désigné par l'associé unique. Toutefois le recours à un commissaire aux apports n'est pas obligatoire si les conditions prévues au cinquième alinéa du présent article sont réunies ou si l'associé unique, personne physique, exerçant son activité professionnelle en nom propre avant la constitution de la société, y compris sous le régime prévu aux articles L. 526-6 à L. 526-21 , apporte des éléments qui figuraient dans le bilan de son dernier exercice. Lorsqu'il n'y a pas eu de commissaire aux apports ou lorsque la valeur retenue est différente de celle proposée par le commissaire aux apports, les associés sont solidairement responsables pendant cinq ans, à l'égard des tiers, de la valeur attribuée aux apports en nature lors de la constitution de la société. La société par actions simplifiée dont l'associé unique, personne physique, assume personnellement la présidence est soumise à des formalités de publicité allégées déterminées par décret en Conseil d'Etat. Ce décret prévoit les conditions de dispense d'insertion au Bulletin officiel des annonces civiles et commerciales. » <br>
+[^n5]: > « Une société par actions simplifiée peut être instituée par une ou plusieurs personnes qui ne supportent les pertes qu'à concurrence de leur apport. Lorsque cette société ne comporte qu'une seule personne, celle-ci est dénommée " associé unique ". L'associé unique exerce les pouvoirs dévolus aux associés lorsque le présent chapitre prévoit une prise de décision collective. Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes, à l'exception de l'article L. 224-2 , du second alinéa de l'article L. 225-14 , des articles L. 225-17 à L. 225-102, L. 225-103 à L. 225-126 , L. 225-243 , du I de l'article L. 233-8 et de l'article L. 236-17, sont applicables à la société par actions simplifiée. Pour l'application de ces règles, les attributions du conseil d'administration ou de son président sont exercées par le président de la société par actions simplifiée ou celui ou ceux de ses dirigeants que les statuts désignent à cet effet. La société par actions simplifiée peut émettre des actions inaliénables résultant d'apports en industrie tels que définis à l'article 1843-2 du code civil. Les statuts déterminent les modalités de souscription et de répartition de ces actions. Par dérogation au premier alinéa de l'article L. 225-14, les futurs associés peuvent décider à l'unanimité que le recours à un commissaire aux apports ne sera pas obligatoire, lorsque la valeur d'aucun apport en nature n'excède un montant fixé par décret et si la valeur totale de l'ensemble des apports en nature non soumis à l'évaluation d'un commissaire aux apports n'excède pas la moitié du capital. Lorsque la société est constituée par une seule personne, le commissaire aux apports est désigné par l'associé unique. Toutefois le recours à un commissaire aux apports n'est pas obligatoire si les conditions prévues au cinquième alinéa du présent article sont réunies ou si l'associé unique, personne physique, exerçant son activité professionnelle en nom propre avant la constitution de la société, y compris sous le régime prévu aux articles L. 526-6 à L. 526-21 , apporte des éléments qui figuraient dans le bilan de son dernier exercice. Lorsqu'il n'y a pas eu de commissaire aux apports ou lorsque la valeur retenue est différente de celle proposée par le commissaire aux apports, les associés sont solidairement responsables pendant cinq ans, à l'égard des tiers, de la valeur attribuée aux apports en nature lors de la constitution de la société. La société par actions simplifiée dont l'associé unique, personne physique, assume personnellement la présidence est soumise à des formalités de publicité allégées déterminées par décret en Conseil d'État. Ce décret prévoit les conditions de dispense d'insertion au Bulletin officiel des annonces civiles et commerciales. » <br>
     > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
     > [Article L227-1 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177)
     📚 Bibliothèque locale : [Article_L227-1_Code_Legifrance](../../../../Lois/Code/Code_commerce/Article_L227-1_Code_Legifrance.md) ↩
@@ -212,3 +208,17 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
     > [Article L227-8 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
     📚 Bibliothèque locale : [Article_L227-8_Codecommerce_Legifrance](../../../../Lois/Code/Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) ↩
 <!-- /Source -->
+
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264
+: Article 434-4 du Code pénal — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608
+: Article 434-4 du Code pénal — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608
+: Article 434-4 du Code pénal — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608
+: Article 434-4 du Code pénal — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608
+: Article 434-4 du Code pénal — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608

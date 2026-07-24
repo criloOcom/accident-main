@@ -21,13 +21,9 @@ jx: J+38
 reel_drive_id: 1wtmlUFMzkkFJtu-Hp4TPFq8IHRQZjM257TTxUauj14Q
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Temoins](./README.md) › Temoin Client Email Attestation ([🎭](../../../Token/Courriers/Temoins/Temoin_Client_Email_Attestation.md)) [📄](https://drive.google.com/file/d/1wtmlUFMzkkFJtu-Hp4TPFq8IHRQZjM257TTxUauj14Q/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Temoins](./README.md) › Temoin Client Email Attestation ([👤](../../../Courriers/Temoins/Temoin_Client_Email_Attestation.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Temoins](./README.md)*
-
 
 <!-- Objet -->
 <hr>
@@ -36,8 +32,6 @@ Objet : Attestation de témoin — Accident du 29 mai 2026 au salon 22 Rue Lafau
 
 <hr>
 <!-- /Objet -->
-
-<hr><hr>
 
 Bonjour,
 

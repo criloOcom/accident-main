@@ -30,10 +30,6 @@ reel_drive_id: 1pcNk0btgi2hm9wCDciveUYV0zrwgFNOMbUVpTUGSnz0
 <hr>
 <!-- /Breadcrumb -->
 
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
-
-
 <!-- Objet -->
 <hr>
 
@@ -41,8 +37,6 @@ Objet : Demande d'information et communication d'assurance — Accident **[J+0 A
 
 <hr>
 <!-- /Objet -->
-
-<hr><hr>
 
 La présente lettre de mise en demeure est adressée conjointement par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** à **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)** et **[La Directrice Générale de l'Exploitation](../../../../Memory/Tokens/token-exploitation-dg-nom.md)**, en leur qualité de dirigeants de **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, afin d'obtenir les coordonnées de l'assureur de responsabilité civile professionnelle de la société et de les informer des conséquences juridiques de l'accident survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**.
 
@@ -91,7 +85,7 @@ Du fait de mon activité d'informaticien indépendant (**[L'Identifiant Professi
 
 En tant que citoyen, je ne connaissais pas les formalités nécessaires dans ce type de situation.
 
-C'est à la suite de mes démarches administratives auprès de la CPAM (recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**) et des services de police que j'ai été informé de l'obligation de recueillir les coordonnées de l'assureur de responsabilité civile professionnelle de votre salon afin de lui transmettre mon dossier médical.
+C'est à la suite de mes démarches administratives auprès de la CPAM (recours contre tiers n° [**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)) et des services de police que j'ai été informé de l'obligation de recueillir les coordonnées de l'assureur de responsabilité civile professionnelle de votre salon afin de lui transmettre mon dossier médical.
 
 C'est ce même assureur qui prendra en charge et indemnisera les conséquences matérielles et corporelles de ce sinistre, protégeant ainsi l'équilibre de votre propre entreprise.
 
@@ -171,15 +165,15 @@ je vous prie d'agréer, Madame la Directrice Générale, Monsieur le Président,
 
 ## PIECES JOINTES
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
+- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte du 2 juin 2026
 
-- **[Certificat medical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures par le Dr **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**
+- **[Certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures par le Dr **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du 30 mai 2026
 
-- **[Mise en demeure SAS](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mise en demeure adressee a la societe le **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
+- **[Mise en demeure SAS](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mise en demeure adressée a la société le **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)**
 
-- **[Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**]
+- **[Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Recours contre tiers n° [[**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]
 
 Comptant sur votre diligence,
 <!-- /PJ -->
@@ -194,8 +188,14 @@ Comptant sur votre diligence,
     > [Article L227-8 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
     📚 Bibliothèque locale : [Article_L227-8_Codecommerce_Legifrance](../../../../Lois/Code/Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) ↩
 
-[^n2]: > « Une société par actions simplifiée peut être instituée par une ou plusieurs personnes qui ne supportent les pertes qu'à concurrence de leur apport. Lorsque cette société ne comporte qu'une seule personne, celle-ci est dénommée " associé unique ". L'associé unique exerce les pouvoirs dévolus aux associés lorsque le présent chapitre prévoit une prise de décision collective. Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes, à l'exception de l'article L. 224-2 , du second alinéa de l'article L. 225-14 , des articles L. 225-17 à L. 225-102, L. 225-103 à L. 225-126 , L. 225-243 , du I de l'article L. 233-8 et de l'article L. 236-17, sont applicables à la société par actions simplifiée. Pour l'application de ces règles, les attributions du conseil d'administration ou de son président sont exercées par le président de la société par actions simplifiée ou celui ou ceux de ses dirigeants que les statuts désignent à cet effet. La société par actions simplifiée peut émettre des actions inaliénables résultant d'apports en industrie tels que définis à l'article 1843-2 du code civil. Les statuts déterminent les modalités de souscription et de répartition de ces actions. Par dérogation au premier alinéa de l'article L. 225-14, les futurs associés peuvent décider à l'unanimité que le recours à un commissaire aux apports ne sera pas obligatoire, lorsque la valeur d'aucun apport en nature n'excède un montant fixé par décret et si la valeur totale de l'ensemble des apports en nature non soumis à l'évaluation d'un commissaire aux apports n'excède pas la moitié du capital. Lorsque la société est constituée par une seule personne, le commissaire aux apports est désigné par l'associé unique. Toutefois le recours à un commissaire aux apports n'est pas obligatoire si les conditions prévues au cinquième alinéa du présent article sont réunies ou si l'associé unique, personne physique, exerçant son activité professionnelle en nom propre avant la constitution de la société, y compris sous le régime prévu aux articles L. 526-6 à L. 526-21 , apporte des éléments qui figuraient dans le bilan de son dernier exercice. Lorsqu'il n'y a pas eu de commissaire aux apports ou lorsque la valeur retenue est différente de celle proposée par le commissaire aux apports, les associés sont solidairement responsables pendant cinq ans, à l'égard des tiers, de la valeur attribuée aux apports en nature lors de la constitution de la société. La société par actions simplifiée dont l'associé unique, personne physique, assume personnellement la présidence est soumise à des formalités de publicité allégées déterminées par décret en Conseil d'Etat. Ce décret prévoit les conditions de dispense d'insertion au Bulletin officiel des annonces civiles et commerciales. » <br>
+[^n2]: > « Une société par actions simplifiée peut être instituée par une ou plusieurs personnes qui ne supportent les pertes qu'à concurrence de leur apport. Lorsque cette société ne comporte qu'une seule personne, celle-ci est dénommée " associé unique ". L'associé unique exerce les pouvoirs dévolus aux associés lorsque le présent chapitre prévoit une prise de décision collective. Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes, à l'exception de l'article L. 224-2 , du second alinéa de l'article L. 225-14 , des articles L. 225-17 à L. 225-102, L. 225-103 à L. 225-126 , L. 225-243 , du I de l'article L. 233-8 et de l'article L. 236-17, sont applicables à la société par actions simplifiée. Pour l'application de ces règles, les attributions du conseil d'administration ou de son président sont exercées par le président de la société par actions simplifiée ou celui ou ceux de ses dirigeants que les statuts désignent à cet effet. La société par actions simplifiée peut émettre des actions inaliénables résultant d'apports en industrie tels que définis à l'article 1843-2 du code civil. Les statuts déterminent les modalités de souscription et de répartition de ces actions. Par dérogation au premier alinéa de l'article L. 225-14, les futurs associés peuvent décider à l'unanimité que le recours à un commissaire aux apports ne sera pas obligatoire, lorsque la valeur d'aucun apport en nature n'excède un montant fixé par décret et si la valeur totale de l'ensemble des apports en nature non soumis à l'évaluation d'un commissaire aux apports n'excède pas la moitié du capital. Lorsque la société est constituée par une seule personne, le commissaire aux apports est désigné par l'associé unique. Toutefois le recours à un commissaire aux apports n'est pas obligatoire si les conditions prévues au cinquième alinéa du présent article sont réunies ou si l'associé unique, personne physique, exerçant son activité professionnelle en nom propre avant la constitution de la société, y compris sous le régime prévu aux articles L. 526-6 à L. 526-21 , apporte des éléments qui figuraient dans le bilan de son dernier exercice. Lorsqu'il n'y a pas eu de commissaire aux apports ou lorsque la valeur retenue est différente de celle proposée par le commissaire aux apports, les associés sont solidairement responsables pendant cinq ans, à l'égard des tiers, de la valeur attribuée aux apports en nature lors de la constitution de la société. La société par actions simplifiée dont l'associé unique, personne physique, assume personnellement la présidence est soumise à des formalités de publicité allégées déterminées par décret en Conseil d'État. Ce décret prévoit les conditions de dispense d'insertion au Bulletin officiel des annonces civiles et commerciales. » <br>
     > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
     > [Article L227-1 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177)
     📚 Bibliothèque locale : [Article_L227-1_Code_Legifrance](../../../../Lois/Code/Code_commerce/Article_L227-1_Code_Legifrance.md) ↩
 <!-- /Source -->
+
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Cass. Com., 20 mai 2003, n° 99-17.092 (Arrêt SATI) — https://www.legifrance.gouv.fr/juri/id/JURITEXT000007466847

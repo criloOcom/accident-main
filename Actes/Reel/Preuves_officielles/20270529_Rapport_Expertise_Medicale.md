@@ -20,11 +20,9 @@ reel_drive_id: 1NL3DBn5x5nLNtgG0RVVAbub5bAStfOwhFoG7eKgi-Ng
 drive_id: 1NL3DBn5x5nLNtgG0RVVAbub5bAStfOwhFoG7eKgi-Ng
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Preuves officielles](./README.md) › 20270529 Rapport Expertise Medicale ([🎭](../../Token/Preuves_officielles/20270529_Rapport_Expertise_Medicale.md)) [📄](https://drive.google.com/file/d/1NL3DBn5x5nLNtgG0RVVAbub5bAStfOwhFoG7eKgi-Ng/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Preuves officielles](./README.md) › 20270529 Rapport Expertise Medicale ([👤](../../Preuves_officielles/20270529_Rapport_Expertise_Medicale.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # RAPPORT D'EXPERTISE MÉDICALE
 
@@ -139,7 +137,7 @@ Sébastien GRAZIDE, droitier, déclare :
 
 - Recours à la dictée vocale pour le code et les emails longs (solution partiellement satisfaisante)
 
-- Perte d'un contrat de maintenance (client régulier) en décembre 2026, motif officiel : "délais non tenus" — le requérant estime que ses difficultés de dextérité ont ralenti l'exécution des prestations
+- Perte d'un contrat de maintenance (client régulier) en décembre 2026, motif officiel : "délais non tenus" — le requérant estimé que ses difficultés de dextérité ont ralenti l'exécution des prestations
 
 - Revenus 2026 : **11 200 €** (dont 6 800 € de chiffre d'affaires post-accident sur 5 mois partiels, soit ~1 360 €/mois à temps partiel, contre 9 600 € annuels estimés avant accident)
 

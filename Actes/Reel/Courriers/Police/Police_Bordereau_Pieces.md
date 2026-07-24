@@ -13,7 +13,7 @@ reel_path: ../../../Courriers/Police/Police - Bordereau Pièces.md
 reel_drive_id: 1ixUyEgZC8Gz2eGFVbpfSwmjEIx2LxErC_k7VqY8KA9I
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Bordereau Pieces ([🎭](../../../Token/Courriers/Police/Police_Bordereau_Pieces.md)) [📄](https://drive.google.com/file/d/1ixUyEgZC8Gz2eGFVbpfSwmjEIx2LxErC_k7VqY8KA9I/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Bordereau Pieces ([👤](../../../Courriers/Police/Police_Bordereau_Pieces.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -32,8 +32,6 @@ Place de la Préfecture
 <!-- Date -->
 Blagnac, le 27 juillet 2026
 <!-- /Date -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # BORDEREAU DE PIÈCES
 ## Dépôt au Commissariat de Foix — Lundi 27 juillet 2026

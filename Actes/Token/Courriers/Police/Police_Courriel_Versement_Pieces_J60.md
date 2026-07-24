@@ -27,10 +27,6 @@ reel_drive_id: 1GX3i5h_61d9Z47_tQkSdheX6AQeb_bU-8S4WhVX0tgA
 <hr>
 <!-- /Breadcrumb -->
 
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md)*
-
-
 <!-- Objet -->
 <hr>
 

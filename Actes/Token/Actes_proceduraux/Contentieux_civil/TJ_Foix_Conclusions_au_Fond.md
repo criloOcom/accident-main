@@ -34,8 +34,6 @@ reel_drive_id: 1kNkhc1HiUXSAQHwcWCmIWtzUSvoSJ40lO4rQHU0oCfE
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # CONCLUSIONS AU FOND
 <!-- Auteur -->
 ## I — POUR :
@@ -441,7 +439,7 @@ Vu les pièces versées aux débats,
 
 8. Mise en demeure assureur RC du J+50
 
-9. Attestation de dépôt CPAM n° [**[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**](../../../../Memory/STRICT%20VARIABLES.md%23cpam)
+9. Attestation de dépôt CPAM n° [[**[N° Dossier CPAM]**](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)](../../../../Memory/STRICT%20VARIABLES.md%23cpam)
 
 10. Réquisitoire introductif du Parquet de Foix (J+47)
 
@@ -504,7 +502,19 @@ Vu les pièces versées aux débats,
     > **Code civil > Sous-section 2 : Dispositions particulières aux obligations de sommes d'argent.** <br>
     > [Article 1343-2 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035261](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035261) ↩
 
-[^n12]: > « Les parties sont, sauf disposition contraire, tenues de constituer avocat devant le tribunal de commerce. La constitution de l'avocat emporte élection de domicile. Les parties sont dispensées de l'obligation de constituer avocat dans les cas prévus par la loi ou le règlement, lorsque la demande porte sur un montant inférieur ou égal à 10 000 euros ou qu'elle a pour origine l'exécution d'une obligation dont le montant n'excède pas 10 000 euros, dans le cadre des procédures instituées par le livre VI du code de commerce ou pour les litiges relatifs à la tenue du registre du commerce et des sociétés. Le montant de la demande est apprécié conformément aux dispositions des articles 35 à 37 . Dans ces cas, elles ont la faculté de se faire assister ou représenter par toute personne de leur choix. Le représentant, s'il n'est avocat, doit justifier d'un pouvoir spécial. L'Etat, les régions, les départements, les communes et leurs établissements publics peuvent se faire assister ou représenter par un fonctionnaire ou un agent de leur administration. » <br>
+[^n12]: > « Les parties sont, sauf disposition contraire, tenues de constituer avocat devant le tribunal de commerce. La constitution de l'avocat emporte élection de domicile. Les parties sont dispensées de l'obligation de constituer avocat dans les cas prévus par la loi ou le règlement, lorsque la demande porte sur un montant inférieur ou égal à 10 000 euros ou qu'elle a pour origine l'exécution d'une obligation dont le montant n'excède pas 10 000 euros, dans le cadre des procédures instituées par le livre VI du code de commerce ou pour les litiges relatifs à la tenue du registre du commerce et des sociétés. Le montant de la demande est apprécié conformément aux dispositions des articles 35 à 37 . Dans ces cas, elles ont la faculté de se faire assister ou représenter par toute personne de leur choix. Le représentant, s'il n'est avocat, doit justifier d'un pouvoir spécial. L'État, les régions, les départements, les communes et leurs établissements publics peuvent se faire assister ou représenter par un fonctionnaire ou un agent de leur administration. » <br>
     > **Code de procédure civile > Titre III : Dispositions particulières au tribunal de commerce.** <br>
     > [Article 853 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000044200291](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044200291) ↩
 <!-- /Source -->
+
+
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L227-8 du Code de commerce — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423238
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1240 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571
+: Article 1242 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565
+: Article 1242 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

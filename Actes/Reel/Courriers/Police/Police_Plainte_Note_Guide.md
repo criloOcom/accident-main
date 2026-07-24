@@ -22,7 +22,7 @@ jx: J+47
 reel_drive_id: 14aAysWvvHfGYKM0j8XwJyBscrJvLhblBEngsFtndUV0
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Plainte Note Guide ([🎭](../../../Token/Courriers/Police/Police_Plainte_Note_Guide.md)) [📄](https://drive.google.com/file/d/14aAysWvvHfGYKM0j8XwJyBscrJvLhblBEngsFtndUV0/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Plainte Note Guide ([👤](../../../Courriers/Police/Police_Plainte_Note_Guide.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -39,8 +39,6 @@ Sébastien GRAZIDE (document personnel — aide-mémoire)
 <!-- Date -->
 Blagnac, le 11 juillet 2026
 <!-- /Date -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 > ⚠️ **DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER**
 > Aide-mémoire pour préparer l'audition. À lire avant, laisser chez soi.
@@ -405,3 +403,7 @@ Blagnac, le 11 juillet 2026
     > [Article L4121-1 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)
     📚 Bibliothèque locale : [Article_L4121-1_CodeTravail](../../../../Lois/Code/Code_du_travail/Article_L4121-1_CodeTravail.md) ↩
 <!-- /Source -->
+
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993
+: Article L124-3 du Code des assurances — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411993

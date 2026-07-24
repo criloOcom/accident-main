@@ -36,8 +36,6 @@ reel_drive_id: 1hXSXresLu5NsJ_4U16ux5M7jJG47AX0YIrAACvDR2KM
 **CADA (formulaire en ligne)**
 <!-- /Destinataire -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # SAISINE CADA<br>VERSION COURTE (FORMULAIRE EN LIGNE)
 
 > **Quand utiliser :** Formulaire en ligne CADA (https://www.cada.fr/) — copier-coller les blocs ci-dessous dans les champs correspondants.

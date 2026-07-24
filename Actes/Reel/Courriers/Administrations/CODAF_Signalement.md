@@ -26,11 +26,9 @@ reel_drive_id: 181sE7f-6nQx1agRIvfAMyDpJiqk2h1uDLSX2AA3PGug
 <!-- LRAR -->
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › CODAF Signalement ([🎭](../../../Token/Courriers/Administrations/CODAF_Signalement.md)) [📄](https://drive.google.com/file/d/181sE7f-6nQx1agRIvfAMyDpJiqk2h1uDLSX2AA3PGug/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › CODAF Signalement ([👤](../../../Courriers/Administrations/CODAF_Signalement.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # SIGNALEMENT OFFICIEL <br> AU COMITÉ DÉPARTEMENTAL ANTI-FRAUDE DE L'ARIÈGE
 > 🔗 Source Google Drive : [1Lva-hW9g9d6…](https://drive.google.com/open?id=1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY)
@@ -64,8 +62,6 @@ Blagnac, le 5 juillet 2026
 <hr><hr>
 
 <!-- /Objet -->
-
-<hr><hr>
 
 Réf : SIREN 104 103 262 — Signalement Mairie de Foix du 1er juin 2026  
 

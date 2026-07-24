@@ -31,10 +31,6 @@ reel_drive_id: 18fYrmGmBw-OkhSbOEFH821vGOcjU1fF2qwcYbYIvzpk
 <hr>
 <!-- /Breadcrumb -->
 
-<!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [CPAM](./README.md)*
-
-
 <!-- Objet -->
 <hr>
 

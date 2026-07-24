@@ -13,7 +13,7 @@ destinataire: Avocat de la Victime
 reel_drive_id: 1Hnim0e0DMqQgWluTUbCYYsho9FLP0ERHGg9fFRCYd9U
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md) › TJ Foix Memo Audience 31-07-2026 ([🎭](../../../Token/Courriers/Justice/TJ_Foix_Memo_Audience_31-07-2026.md)) [📄](https://drive.google.com/file/d/1Hnim0e0DMqQgWluTUbCYYsho9FLP0ERHGg9fFRCYd9U/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md) › TJ Foix Memo Audience 31-07-2026 ([👤](../../../Courriers/Justice/TJ_Foix_Memo_Audience_31-07-2026.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -191,3 +191,6 @@ La victime n'est pas consolidée. L'état séquellaire actuel (douleurs neuropat
     > [Article R4323-58 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
     📚 Bibliothèque locale : [Article_R4323-58_CodeTravail](../../../../Lois/Code/Code_du_travail/Article_R4323-58_CodeTravail.md) ↩
 <!-- /Source -->
+
+: Article 1242 du Code civil — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565
+: Article 145 du Code de procédure civile — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410264

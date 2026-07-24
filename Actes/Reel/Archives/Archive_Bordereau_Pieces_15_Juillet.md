@@ -13,7 +13,7 @@ reel_path: ../../Archives/Archive - Bordereau Pièces 15 Juillet.md
 reel_drive_id: 1RKg56SzsbCVxRWCdu6CD9YQxf7zck6VEewl602s5Z5M
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Archives](./README.md) › Archive Bordereau Pieces 15 Juillet ([🎭](../../Token/Archives/Archive_Bordereau_Pieces_15_Juillet.md)) [📄](https://drive.google.com/file/d/1RKg56SzsbCVxRWCdu6CD9YQxf7zck6VEewl602s5Z5M/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Archives](./README.md) › Archive Bordereau Pieces 15 Juillet ([👤](../../Archives/Archive_Bordereau_Pieces_15_Juillet.md))*
 <hr>
 <!-- /Breadcrumb -->
 

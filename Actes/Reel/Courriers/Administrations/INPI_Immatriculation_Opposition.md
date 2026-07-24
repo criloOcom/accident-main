@@ -27,7 +27,7 @@ reel_drive_id: 1ZbRjh1R0OoJ77DtlYpUjrchetUv0OAz9wQ5k1qWraR8
 
 <hr><hr>
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › INPI Immatriculation Opposition ([🎭](../../../Token/Courriers/Administrations/INPI_Immatriculation_Opposition.md)) [📄](https://drive.google.com/file/d/1ZbRjh1R0OoJ77DtlYpUjrchetUv0OAz9wQ5k1qWraR8/preview)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › INPI Immatriculation Opposition ([👤](../../../Courriers/Administrations/INPI_Immatriculation_Opposition.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -44,8 +44,6 @@ Service du Registre National des Entreprises (RNE)
 Blagnac, le 9 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # OPPOSITION À IMMATRICULATION <br> AU REGISTRE NATIONAL DES ENTREPRISES
 
 <hr><hr>
@@ -59,8 +57,6 @@ Blagnac, le 9 juillet 2026
 <hr><hr>
 
 <!-- /Objet -->
-
-<hr><hr>
 
 **Référence RCS :** 104 103 262 00010
 **Lettre Recommandée avec Accusé de Réception**
@@ -127,13 +123,13 @@ Avocat au Barreau
 
 ## PIECES JOINTES
 
-- **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de Foix
+- **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procédure pénale engagée devant le TJ de Foix
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
+- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte du 2 juin 2026
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Blessure grave documentee par SOS Main
 
-- **[Attestation de depot CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Recours contre tiers n° [N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]
+- **[Attestation de dépôt CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Recours contre tiers n° [31727387](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)
 <!-- /PJ -->
 
 <!-- Source -->

@@ -8,11 +8,9 @@ reel_path: ../../Organisation/Note - Modification Email Maire Foix.md
 reel_drive_id: 1T4UMZdHvMS_2TZs0-d-2sWwhHRgqcawuVlNZxFkQ3Po
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Note Modification Email Maire Foix ([🎭](../../Token/Organisation/Note_Modification_Email_Maire_Foix.md)) [📄](https://drive.google.com/file/d/1T4UMZdHvMS_2TZs0-d-2sWwhHRgqcawuVlNZxFkQ3Po/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md) › Note Modification Email Maire Foix ([👤](../../Organisation/Note_Modification_Email_Maire_Foix.md))*
 <hr>
 <!-- /Breadcrumb -->
-
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # Plan : Ajustement du courriel à l'Adjoint au Maire (Police Municipale et ERP)
 

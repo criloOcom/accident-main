@@ -70,7 +70,7 @@ Je vous remercie par avance de l'attention que vous voudrez bien porter à la pr
 
 ## Sources Législation
 
-[^loi-1]: > « Le maire est chargé, sous le contrôle administratif du représentant de l'Etat dans le département, de la police municipale, de la police rurale et de l'exécution des actes de l'Etat qui y sont relatifs. » <br>
+[^loi-1]: > « Le maire est chargé, sous le contrôle administratif du représentant de l'État dans le département, de la police municipale, de la police rurale et de l'exécution des actes de l'État qui y sont relatifs. » <br>
     > **Code général des collectivités territoriales > CHAPITRE II : Police municipale.** <br>
     > [Article L2212-1 du Code général des collectivités territoriales - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390149](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390149) ↩
 

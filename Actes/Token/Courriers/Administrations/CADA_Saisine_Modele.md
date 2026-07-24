@@ -32,8 +32,6 @@ reel_drive_id: 1bTgd7HcNqedNI4-eRUN4HjR8zrpvxqh08PRWTEn0GMM
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
-
 # MODÈLE<br>SAISINE CADA
 
 > **Quand utiliser ce courrier :** Si la Préfecture ou l'Inspection du travail refuse (expressément ou par silence de 2 mois) de communiquer des documents suite aux courriers n°41 ou n°42.
@@ -67,10 +65,6 @@ Commission d'accès aux documents administratifs (CADA)
 <hr><hr>
 
 <!-- /Objet -->
-
-<hr><hr>
-
-<hr><hr>
 
 Madame, Monsieur,
 
@@ -119,7 +113,7 @@ Je sollicite l'avis de la Commission sur la communicabilité, à mon égard, des
 
 3. **Tout document administratif achevé** produit ou reçu par l'administration dans le cadre de ce dossier et me concernant personnellement.
 
-En ma qualité de victime directement concernée, j'estime que ces documents entrent dans le champ des **articles L. 300-1[^n1] et suivants et L. 311-1 et suivants du CRPA** et qu'ils sont en principe communicables, sous réserve des occultations nécessaires pour la protection des tiers (secret des affaires, données personnelles).
+En ma qualité de victime directement concernée, j'estimé que ces documents entrent dans le champ des **articles L. 300-1[^n1] et suivants et L. 311-1 et suivants du CRPA** et qu'ils sont en principe communicables, sous réserve des occultations nécessaires pour la protection des tiers (secret des affaires, données personnelles).
 
 Je suis conscient que certains éléments peuvent être couverts par le secret de la prévention des infractions. Dans cette hypothèse, je sollicite que l'administration procède aux **occultations nécessaires** plutôt qu'à un refus pur et simple.
 
@@ -144,7 +138,7 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération dist
 
 - **[Mairie - ERP Tavella - Courrier.md](../../../Reel/Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel [L'Adjoint au Maire de la Commune] (1er juin 2026)
 
-- **[PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
+- **[PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte et circonstances de l'accident
 <!-- /PJ -->
 
 <!-- Source -->
