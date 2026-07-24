@@ -18,7 +18,7 @@ tags:
 statut: projet
 destinataire: INPI
 auteur: Nom de l'Avocat de la Victime
-reel_path: ../../../Reel/Courriers/Administrations/INPI - Immatriculation - Opposition.md
+reel_path: ../../../Courriers/Administrations/INPI - Immatriculation - Opposition.md
 jx: J+41
 ---
 <!-- Signature -->
@@ -43,7 +43,7 @@ Service du Registre National des Entreprises (RNE)
 Blagnac, le 9 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # OPPOSITION À IMMATRICULATION <br> AU REGISTRE NATIONAL DES ENTREPRISES
 
@@ -126,7 +126,7 @@ Avocat au Barreau
 
 ## PIECES JOINTES
 
-- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de Foix
+- **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de Foix
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
 

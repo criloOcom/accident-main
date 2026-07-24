@@ -9,7 +9,7 @@ date_archive: 2026-07-19
 raison_archive: "Exécutée le 11/07/2026. Courriers envoyés : URSSAF, CODAF, FGTI, Président TJ Foix."
 auteur: La Victime
 jx: J+43
-reel_path: ../../Reel/Archives/Archive - Checklist Envoi 11-07.md
+reel_path: ../../Archives/Archive - Checklist Envoi 11-07.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Archives](./README.md)*
@@ -20,7 +20,7 @@ reel_path: ../../Reel/Archives/Archive - Checklist Envoi 11-07.md
 
 > **✅ EXÉCUTÉ LE 11 JUILLET 2026** — Ce document est archivé pour traçabilité.
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 ## I — AVANT DÉPART — PRÉPARATION
 
 ### I.1 — Courriers à imprimer (Reel/Courriers/)

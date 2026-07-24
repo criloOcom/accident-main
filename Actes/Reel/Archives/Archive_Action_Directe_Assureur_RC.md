@@ -12,7 +12,7 @@ tags:
 statut: projet
 destinataire: Compagnie d'Assurance de l'Exploitant du Commerce
 auteur: La Victime
-reel_path: ../../Reel/Archives/Archive - Action Directe Assureur RC.md
+reel_path: ../../Archives/Archive - Action Directe Assureur RC.md
 source: drive
 drive_id: 1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY
 ---
@@ -21,7 +21,7 @@ drive_id: 1_tNTGHf1VGnx1zD0PvyrdvqHLAyYDBU_7wRibBwWlJY
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 **Table des matières**
 

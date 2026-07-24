@@ -17,7 +17,7 @@ tags:
 statut: brouillon
 destinataire: CADA (formulaire en ligne)
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Administrations/CADA - Saisine - Formulaire.md
+reel_path: ../../../Courriers/Administrations/CADA - Saisine - Formulaire.md
 jx: J+47
 ---
 <!-- Breadcrumb -->
@@ -35,7 +35,7 @@ sebastien.grazide@gmail.com
 **CADA (formulaire en ligne)**
 <!-- /Destinataire -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # SAISINE CADA<br>VERSION COURTE (FORMULAIRE EN LIGNE)
 

@@ -16,7 +16,7 @@ tags:
 statut: projet
 destinataire: CPAM Haute-Garonne
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/CPAM/CPAM_Signalement_TempsPartiel_Therapeutique.md
+reel_path: ../../../Courriers/CPAM/CPAM_Signalement_TempsPartiel_Therapeutique.md
 jx: J+55
 ---
 <!-- Breadcrumb -->

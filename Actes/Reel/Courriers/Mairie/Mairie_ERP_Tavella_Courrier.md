@@ -9,7 +9,7 @@ date: 2026-07-10
 statut: brouillon
 destinataire: Adjoint au Maire de Foix (Monsieur TAVELLA)
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Mairie/Mairie - ERP Tavella - Courrier.md
+reel_path: ../../../Courriers/Mairie/Mairie - ERP Tavella - Courrier.md
 jx: J+42
 ---
 <!-- Breadcrumb -->
@@ -32,7 +32,7 @@ Mairie de Foix
 Blagnac, le 10 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # EMAIL<br>Éléments d'actualisation sur le dossier ERP (22 Rue Lafaurie, 09000 Foix)
 
@@ -70,7 +70,7 @@ Sur le plan médical, lors de ma consultation de contrôle du 23 juin 2026, le D
 
 Sur le plan administratif, résidant à 10 Avenue de Purpan, 31700 Blagnac, j'ai fait adresser des mises en demeure par courriers recommandés à SAS HB BARBER à l'adresse de son siège social (22 Rue Lafaurie, 09000 Foix) le 29 mai 2026. Or, ces courriers m'ont été retournés (mentions défaut d'adresse, distribution impossible).
 
-Par souci de complète transparence avec vos services, je vous informe qu'à cette même date du 29 mai 2026, j'ai également transmis l'intégralité de mon dossier médical (11 pièces — comptes rendus opératoires, certificats médicaux, [arrêts de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md), notes médico-légales) ainsi que ma [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) et mes conclusions au Procureur de la République près le Tribunal Judiciaire de Foix (PV n° 2026/015967), afin de permettre à l'autorité judiciaire d'apprécier la réalité et l'étendue de mon préjudice corporel dans le cadre de l'enquête préliminaire ouverte.
+Par souci de complète transparence avec vos services, je vous informe qu'à cette même date du 29 mai 2026, j'ai également transmis l'intégralité de mon dossier médical (11 pièces — comptes rendus opératoires, certificats médicaux, [arrêts de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md), notes médico-légales) ainsi que ma [constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) et mes conclusions au Procureur de la République près le Tribunal Judiciaire de Foix (PV n° 2026/015967), afin de permettre à l'autorité judiciaire d'apprécier la réalité et l'étendue de mon préjudice corporel dans le cadre de l'enquête préliminaire ouverte.
 
 Pourtant, le commerce a rouvert ses portes le 6 juillet 2026 et paraît en activité régulière, alors même que les registres du RNE (INPI) indiquent que cette SAS est toujours officiellement domiciliée à cette adresse.
 
@@ -83,9 +83,9 @@ Je vous remercie par avance de l'attention que vous voudrez bien porter à ces �
 <!-- PJ -->
 ## PIECES JOINTES
 
-- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de Foix
+- **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de Foix
 
-- **[Mises en demeure J+31](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR retournees a l'expediteur (defaut d'adresse)
+- **[Mises en demeure J+31](../../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR retournees a l'expediteur (defaut d'adresse)
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]
 <!-- /PJ -->

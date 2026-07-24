@@ -38,7 +38,7 @@ Ce document présente l'évaluation Dintilhac finalisée selon trois scénarios 
 ## B. JUSTIFICATION DE CHAQUE POSTE
 
 - **PGPA (Pertinence Gêne Perte d'Agrément / Pertes de Gains Professionnels Actuels)** :
-  Calculé sur la période d'ITT de 55 jours. Le compromis s'établit à 1 380 €. La version Glose (conservative) retient 1 355 € et la version optimiste 1 900 € (incluant une perte de chance). Base : [STRICT VARIABLES.md](../../../Memory/STRICT VARIABLES.md) et [Note - Évaluation Dintilhac Consolidée.md](../../Reel/Etudes_indemnisation/Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md).
+  Calculé sur la période d'ITT de 55 jours. Le compromis s'établit à 1 380 €. La version Glose (conservative) retient 1 355 € et la version optimiste 1 900 € (incluant une perte de chance). Base : [STRICT VARIABLES.md](../../../Memory/STRICT VARIABLES.md) et [Note - Évaluation Dintilhac Consolidée.md](../../Etudes_indemnisation/Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md).
 
 - **DFT (Déficit Fonctionnel Temporaire)** :
   Évalue la gêne pendant les 55 jours d'ITT. Fixé canoniquement à 2 031 € suite à l'expertise (81,25 j équivalents × 25 €). Glose propose 1 375 € et le scénario optimiste 2 500 €. Base : [STRICT VARIABLES.md](../../../Memory/STRICT VARIABLES.md).
@@ -50,7 +50,7 @@ Ce document présente l'évaluation Dintilhac finalisée selon trois scénarios 
   Coté à 4/7. Le montant canonique retenu au compromis est de 14 000 € (contre 24 000 € en historique optimiste et 8 500 € en conservateur Glose). Base : [STRICT VARIABLES.md](../../../Memory/STRICT VARIABLES.md).
 
 - **IP (Incidence Professionnelle)** :
-  Calculé selon la méthode BIBAL (dévalorisation sur le marché). Fixé à 28 000 € canoniquement (contre 30 000 € en historique optimiste et seulement 2 250 € pour Glose). Base : [STRICT VARIABLES.md](../../../Memory/STRICT VARIABLES.md) et [Note - Évaluation Dintilhac Consolidée.md](../../Reel/Etudes_indemnisation/Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md).
+  Calculé selon la méthode BIBAL (dévalorisation sur le marché). Fixé à 28 000 € canoniquement (contre 30 000 € en historique optimiste et seulement 2 250 € pour Glose). Base : [STRICT VARIABLES.md](../../../Memory/STRICT VARIABLES.md) et [Note - Évaluation Dintilhac Consolidée.md](../../Etudes_indemnisation/Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md).
 
 - **PEP (Préjudice Esthétique Permanent)** :
   Cicatrice visible. Évalué à 3 500 € canoniquement (fourchette basse 2 000 € / haute 5 000 €). Base : [STRICT VARIABLES.md](../../../Memory/STRICT VARIABLES.md).
@@ -62,7 +62,7 @@ Ce document présente l'évaluation Dintilhac finalisée selon trois scénarios 
   Le compromis globalisé s'établit autour de 3 800 € (dont ATP temporaire fixée à 800 € canoniquement, plus frais divers à 3 000 €). Glose estimait à 3 500 €. L'approche optimiste revendiquait 5 000 €. Base : [STRICT VARIABLES.md](../../../Memory/STRICT VARIABLES.md).
 
 - **Art. 700 CPC** :
-  Frais irrépétibles. Le compromis est arrêté à 3 000 € (fourchette 2 250 € - 4 000 €). Base : [Note - Évaluation Dintilhac Consolidée.md](../../Reel/Etudes_indemnisation/Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md).
+  Frais irrépétibles. Le compromis est arrêté à 3 000 € (fourchette 2 250 € - 4 000 €). Base : [Note - Évaluation Dintilhac Consolidée.md](../../Etudes_indemnisation/Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md).
 <hr><hr>
 
 ## C. PROVISION RÉFÉRÉ (15 000 €)

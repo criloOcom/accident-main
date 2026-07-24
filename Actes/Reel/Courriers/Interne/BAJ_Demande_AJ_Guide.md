@@ -15,7 +15,7 @@ tags:
 - procedure
 statut: final
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Interne/BAJ - Demande AJ - Guide.md
+reel_path: ../../../Courriers/Interne/BAJ - Demande AJ - Guide.md
 jx: J+47
 destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 ---

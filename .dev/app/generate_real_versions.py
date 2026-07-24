@@ -232,6 +232,12 @@ def main():
         # 2. Adapt Actes/Token/ relative links to Actes/Reel/
         content = content.replace('/Actes/Token/', '/Actes/Reel/')
 
+        # 2b. Fix redundant '/Reel/' segment in relative links.
+        # Token files legitimately link to '../../../Reel/Courriers/X.md' (the real mirror).
+        # In the Reel mirror, that same relative path would resolve to 'Actes/Reel/Reel/Courriers/X.md'
+        # (broken). Since the mirror is already under Actes/Reel, drop the redundant '/Reel/' segment.
+        content = re.sub(r'(\.\./)+Reel/', lambda m: m.group(0).replace('Reel/', '', 1), content)
+
         # 3. Second pass: Replace token strings with real values
         for token_name, real_val in sorted_tokens:
             content = content.replace(f'**[{token_name}]**', real_val)

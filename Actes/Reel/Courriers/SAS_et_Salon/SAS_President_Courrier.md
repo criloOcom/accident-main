@@ -18,7 +18,7 @@ tags:
 statut: envoye
 destinataire: Dirigeants de l'Exploitant du Commerce
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS - Président - Courrier.md
+reel_path: ../../../Courriers/SAS_&_Salon/SAS - Président - Courrier.md
 source: drive
 drive_id: 1pheN3_rudxydYS2AQI7a1KGeFRr3PKD5Zett6Ac899I
 calendar_event_id: dd8qkuvg1t3jquofh93ccnl0lg
@@ -171,7 +171,7 @@ Sébastien GRAZIDE
 
 - **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du 30 mai 2026
 
-- **[Mise en demeure SAS](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mise en demeure adressee a la societe le 29 juin 2026
+- **[Mise en demeure SAS](../../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mise en demeure adressee a la societe le 29 juin 2026
 
 - **[Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]
 

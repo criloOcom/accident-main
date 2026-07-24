@@ -7,7 +7,7 @@ type: preuve
 date: 2026-07-18
 statut: final
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Justice/TJ Foix - Mémo - Audience 31-07-2026.md
+reel_path: ../../../Courriers/Justice/TJ Foix - Mémo - Audience 31-07-2026.md
 jx: J+63
 destinataire: Avocat de la Victime
 ---
@@ -18,7 +18,7 @@ destinataire: Avocat de la Victime
 
 # MÉMO D'AUDIENCE<br>Audience de Référé-Provision du 31 juillet 2026
 
-> **🔴 Version révisée 18/07/2026** — Correction exploitant : voir [erratum formel](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md)
+> **🔴 Version révisée 18/07/2026** — Correction exploitant : voir [erratum formel](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md)
 ## 1 — LOGISTIQUE JOUR J
 
 ### 1.1 — Horaires et lieu

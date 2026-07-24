@@ -21,7 +21,7 @@ tags:
 statut: final
 destinataire: Avocat
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Justice/Consultation - Avocat Jimini.md
+reel_path: ../../../Courriers/Justice/Consultation - Avocat Jimini.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md)*
@@ -38,7 +38,7 @@ sebastien.grazide@gmail.com
 **Avocat**
 <!-- /Destinataire -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # EMAIL<br>CONSULTATION PROACTIVITÉ VICTIME
 

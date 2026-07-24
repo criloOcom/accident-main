@@ -16,7 +16,7 @@ calendar_event_id: mub8b2p6evslc099cbq9lobcas
 statut: brouillon
 destinataire: Le Chirurgien SOS Main
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Médical/Médecin Traitant - Consolidation - Relance.md
+reel_path: ../../../Courriers/Médical/Médecin Traitant - Consolidation - Relance.md
 source: local
 jx: J+38
 ---

@@ -7,7 +7,7 @@ description: Courrier au Procureur de la République près le TJ de la Ville de 
   — saisine préfecture / IT / CODAF)
 type: document
 status: brouillon
-reel_path: ../../../Reel/Courriers/Justice/Parquet Foix - Signalement - Procureur de Foix.md
+reel_path: ../../../Courriers/Justice/Parquet Foix - Signalement - Procureur de Foix.md
 destinataire: Procureur de la République
 auteur: Antoine
 ---

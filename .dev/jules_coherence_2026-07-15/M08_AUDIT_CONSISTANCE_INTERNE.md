@@ -24,4 +24,4 @@ Vérifier la cohérence interne de CHAQUE acte juridique (pas de contradiction e
 
 ## LIVRABLE
 
-[Rapports/85_Coherence_2026-07-15/M08_AUDIT_CONSISTANCE_INTERNE.md](../../Rapports/85_Coherence_2026-07-15/M08_AUDIT_CONSISTANCE_INTERNE.md)
+[Rapports/85_Coherence_20260715/M08_AUDIT_CONSISTANCE_INTERNE.md](../../Rapports/85_Coherence_20260715/M08_AUDIT_CONSISTANCE_INTERNE.md)

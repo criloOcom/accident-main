@@ -22,7 +22,7 @@ tags:
 statut: projet
 destinataire: Tribunal Judiciaire de Foix
 auteur: La Victime
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - Conclusions
+reel_path: ../../../Actes_proceduraux/Contentieux_civil/TJ Foix - Conclusions
   au Fond.md
 jx: J+368
 ---
@@ -33,7 +33,7 @@ jx: J+368
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # CONCLUSIONS AU FOND
 <!-- Auteur -->
@@ -430,7 +430,7 @@ Sébastien GRAZIDE
 
 3. Ordonnance de référé du [**[Date Ordonnance Référé]**](../../../../Memory/STRICT%20VARIABLES.md%23dates-cles) (provision 15 000 €)
 
-4. [Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) du [**[J+38 Date CPC]**](../../../../Memory/STRICT%20VARIABLES.md%23dates-cles)
+4. [Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) du [**[J+38 Date CPC]**](../../../../Memory/STRICT%20VARIABLES.md%23dates-cles)
 
 5. Certificats médicaux et comptes rendus opératoires (SOS Main)
 

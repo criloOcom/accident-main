@@ -13,7 +13,7 @@ tags:
 statut: final
 destinataire: La Victime
 auteur: L'Expert Juridique
-reel_path: ../../Reel/Organisation/Note - Dossier Spécial CERFA.md
+reel_path: ../../Organisation/Note - Dossier Spécial CERFA.md
 jx: J+40
 ---
 <!-- Breadcrumb -->
@@ -44,14 +44,14 @@ Conformément à l'Article 202 du Code de procédure civile, ce document permet 
 ### II.1 — Témoins identifiés et documents associés
 
 #### II.1.a — **Le Témoin Client (Présent le jour J)**
-[Témoin Client - Attestation.md](../../Reel/Attestations/T%C3%A9moin%20Client%20-%20Attestation.md)
-(Email de relance : [26 📧Témoin Client - Attestation.md](../../Reel/Courriers/Témoins/Email%20Attestation.md))
+[Témoin Client - Attestation.md](../../Attestations/T%C3%A9moin%20Client%20-%20Attestation.md)
+(Email de relance : [26 📧Témoin Client - Attestation.md](../../Courriers/Témoins/Email%20Attestation.md))
 
 #### II.1.b — **Le Secouriste / Pompier (Intervenant d'urgence)**
-[23 Pompier SAMU - Attestation.md](../../Reel/Courriers/Témoins/Email%20Attestation.md) (Email de relance : [27 📧Pompier SAMU - Attestation.md](../../Reel/Courriers/Témoins/Email%20Attestation.md))
+[23 Pompier SAMU - Attestation.md](../../Courriers/Témoins/Email%20Attestation.md) (Email de relance : [27 📧Pompier SAMU - Attestation.md](../../Courriers/Témoins/Email%20Attestation.md))
 
 #### II.1.c — **L'Employé du Salon (Témoin de la défectuosité préalable)**
-[✉️ Employé - Attestation.md](../../Reel/Attestations/Employ%C3%A9%20-%20Attestation.md) (Email de relance : [28 📧✉️ Employé - Attestation.md](../../Reel/Courriers/Témoins/Email%20Attestation.md))
+[✉️ Employé - Attestation.md](../../Attestations/Employ%C3%A9%20-%20Attestation.md) (Email de relance : [28 📧✉️ Employé - Attestation.md](../../Courriers/Témoins/Email%20Attestation.md))
 
 ### II.2 — Pièce obligatoire à joindre
 

@@ -12,14 +12,14 @@ tags:
 statut: final
 destinataire: La Victime
 auteur: Avocat de la défense
-reel_path: ../../Reel/Analyses_juridiques/Mémoire - En défense adverse.md
+reel_path: ../../Analyses_juridiques/Mémoire - En défense adverse.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MÉMOIRE EN DÉFENSE ADVERSE
 **Pour :** SAS LES MAUVAIS GARCONS, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC (Partie Défenderesse)

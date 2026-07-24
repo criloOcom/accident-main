@@ -19,7 +19,7 @@ tags:
 statut: final
 destinataire: DDETS de l'Ariège — Inspection du Travail
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Administrations/DDETS - Signalement - Relance.md
+reel_path: ../../../Courriers/Administrations/DDETS - Signalement - Relance.md
 jx: J+47
 ---
 
@@ -28,7 +28,7 @@ jx: J+47
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # RELANCE<br>INSPECTION DU TRAVAIL
 
@@ -99,7 +99,7 @@ Sébastien GRAZIDE
 <!-- PJ -->
 ## PIECES JOINTES
 
-- **[Mairie - ERP Tavella - Courrier.md](../../../Reel/Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel Monsieur TAVELLA (1er juin 2026)
+- **[Mairie - ERP Tavella - Courrier.md](../../../Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel Monsieur TAVELLA (1er juin 2026)
 
 - **[PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
 

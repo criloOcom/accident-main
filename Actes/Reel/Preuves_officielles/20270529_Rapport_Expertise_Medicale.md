@@ -14,7 +14,7 @@ tags:
   - consolidation
 statut: projet
 auteur: Simulation — Expert Judiciaire désigné
-reel_path: ../../Reel/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md
+reel_path: ../../Preuves_officielles/20270529_Rapport_Expertise_Medicale.md
 jx: J+365
 ---
 <!-- Breadcrumb -->
@@ -22,7 +22,7 @@ jx: J+365
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # RAPPORT D'EXPERTISE MÉDICALE
 

@@ -6,7 +6,7 @@ title: REQUÊTE AUX FINS DE DÉSIGNATION D'UN MANDATAIRE AD HOC ET MESURES CONSE
 description: 'POUR :'
 type: readme
 statut: projet
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/TC Foix - Mandataire
+reel_path: ../../../Actes_proceduraux/Contentieux_civil/TC Foix - Mandataire
   Ad Hoc - Requête.md
 destinataire: Président du Tribunal de Commerce de Foix
 auteur: Antoine
@@ -19,7 +19,7 @@ date: '2026-07-22'
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # REQUÊTE AUX FINS DE DÉSIGNATION D'UN MANDATAIRE AD HOC <br> ET MESURES CONSERVATOIRES
 
@@ -148,7 +148,7 @@ Le [Date de signature]
 
 - **[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — Situation juridique et capital social de la SAS
 
-- **[Mises en demeure J+31](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR restees sans reponse
+- **[Mises en demeure J+31](../../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR restees sans reponse
 <!-- /PJ -->
 
 <!-- Source -->

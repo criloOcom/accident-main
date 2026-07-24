@@ -17,7 +17,7 @@ calendar_event_id: ncdv7eqhn6njck42v7sdcuelak
 statut: final
 destinataire: DDETS de la Region
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Administrations/DDETS - Signalement.md
+reel_path: ../../../Courriers/Administrations/DDETS - Signalement.md
 source: drive
 drive_id: 1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM
 jx: J+37
@@ -30,7 +30,7 @@ jx: J+37
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # DEMANDE D'INFORMATION <br> INSPECTION DU TRAVAIL
 > 🔗 Source Google Drive : [1tStFiBk8gxB…](https://drive.google.com/open?id=1tStFiBk8gxB6kWk_HQGPSLH2-QCQVxkARBz7SDer2gM)
@@ -86,7 +86,7 @@ Les procédures suivantes ont été engagées :
 **1. Procédure pénale**
 - Dépôt de plainte le 2 juin 2026 (PV n° 2026/015967)
 
-- [Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) transmise le 29 juin 2026
+- [Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) transmise le 29 juin 2026
 
 - Plainte complémentaire pour défaut d'assurance RC professionnelle et travail dissimulé présumé
 
@@ -194,9 +194,9 @@ Sébastien GRAZIDE
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026 (PV n° 2026/015967)
 
-- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de Foix
+- **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de Foix
 
-- **[Mises en demeure LRAR](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mises en demeure du 29 juin 2026 a la SAS, a son president et a sa directrice generale
+- **[Mises en demeure LRAR](../../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mises en demeure du 29 juin 2026 a la SAS, a son president et a sa directrice generale
 
 - **[Certificat medical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures par le Dr Dr Julie JARDON
 
@@ -204,7 +204,7 @@ Sébastien GRAZIDE
 
 - **[Arrets de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — [Arrêts de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) prescrits (55 jours)
 
-- **[Rapport d'expertise médicale](../../Preuves_officielles/20270529_Rapport_Expertise_Médicale.md)** — Expertise judiciaire déposée le 29 mai 2027
+- **[Rapport d'expertise médicale](../../Preuves_officielles/20270529_Rapport_Expertise_Medicale.md)** — Expertise judiciaire déposée le 29 mai 2027
 <!-- /PJ -->
 
 <!-- Source -->

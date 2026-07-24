@@ -13,14 +13,14 @@ tags:
 - remplace_par_03
 statut: archive
 auteur: La Victime
-reel_path: ../../Reel/Archives/33_Requête_-_Constat_Huissier_145_CPC.md
+reel_path: ../../Archives/33_Requête_-_Constat_Huissier_145_CPC.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Archives](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # REQUETE AU PRESIDENT DU TRIBUNAL JUDICIAIRE DE Foix
 

@@ -13,7 +13,7 @@ tags:
   - FGTI
 statut: final
 auteur: La Victime
-reel_path: ../../Reel/Etudes_indemnisation/Note - Évaluation Dintilhac Consolidée.md
+reel_path: ../../Etudes_indemnisation/Note - Évaluation Dintilhac Consolidée.md
 source: local
 jx: J+39
 ---
@@ -496,7 +496,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 **Avantage décisif :** Le FGTI verse l'indemnisation même si la SAS est insolvable, puis exerce son recours subrogatoire contre les responsables.
 <hr><hr>
 
-## XX — IV.4 — [CONSTITUTION DE PARTIE CIVILE](../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (VOIE PÉNALE)
+## XX — IV.4 — [CONSTITUTION DE PARTIE CIVILE](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (VOIE PÉNALE)
 
 **Avantages :**
 - Déclenche l'action publique

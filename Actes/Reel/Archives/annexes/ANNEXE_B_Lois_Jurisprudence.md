@@ -4,7 +4,7 @@ title: ANNEXE B — TEXTES DE LOI ET JURISPRUDENCE CITÉS
 description: • **Article 1240 du Code civil**
   — Responsabilité pour faute
 type: readme
-reel_path: ../../../Reel/Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md
+reel_path: ../../../Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md
 auteur: La Victime
 ---
 <!-- Breadcrumb -->

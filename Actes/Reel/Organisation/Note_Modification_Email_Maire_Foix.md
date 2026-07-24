@@ -4,14 +4,14 @@ title: "Plan : Ajustement du courriel à l'Adjoint au Maire (Police Municipale e
 description: "Ce plan vise à corriger la formulation de l'e-mail pour éliminer tout terme inapproprié (« bruits de couloir ») et poser une demande d'intervention factuelle d'agents assermentés de la police municipale pour contrôler la situation sur place."
 type: readme
 statut: brouillon
-reel_path: ../../Reel/Organisation/Note - Modification Email Maire Foix.md
+reel_path: ../../Organisation/Note - Modification Email Maire Foix.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # Plan : Ajustement du courriel à l'Adjoint au Maire (Police Municipale et ERP)
 

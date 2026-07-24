@@ -17,7 +17,7 @@ calendar_event_id: smthlv0a5arakof0m4rv80qgkc
 statut: envoye
 destinataire: Doyen des Juges d'Instruction de Foix
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Justice/DJI Foix - Doyen des Juges - Saisine.md
+reel_path: ../../../Courriers/Justice/DJI Foix - Doyen des Juges - Saisine.md
 source: drive
 drive_id: 1nFSf3EDB_bVudz5Xhf0NvXlibTesCL8M5hepEZqxd5w
 jx: J+38
@@ -29,9 +29,9 @@ jx: J+38
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
-# ENVOI [CONSTITUTION DE PARTIE CIVILE](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
+# ENVOI [CONSTITUTION DE PARTIE CIVILE](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
 > 🔗 Source Google Drive : [1nFSf3EDB_bV…](https://drive.google.com/open?id=1nFSf3EDB_bVudz5Xhf0NvXlibTesCL8M5hepEZqxd5w)
 <!-- Auteur -->
 Sébastien GRAZIDE
@@ -58,7 +58,7 @@ Blagnac, le 6 juillet 2026
 
 <hr><hr>
 
-**Objet : Dépôt d'une plainte avec [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) pour blessures involontaires**
+**Objet : Dépôt d'une plainte avec [constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) pour blessures involontaires**
 
 <hr><hr>
 
@@ -76,7 +76,7 @@ Ces faits sont survenus le 29 mai 2026 dans les locaux de la SAS SAS HB BARBER, 
 
 À la suite du dépôt de ma plainte simple le 2 juin 2026 auprès du Commissariat de Foix (PV n° [ ... ]), et en l'absence de toute suite connue à ce jour et face au refus persistant des mis en cause de communiquer leurs informations d'assurance, je me vois contraint de saisir votre juridiction pour faire valoir mes droits.
 
-Vous trouverez ci-joint la plainte avec [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) formelle détaillant les faits et les fondements juridiques, ainsi qu'un bordereau récapitulant les pièces justificatives que je verse au débat.
+Vous trouverez ci-joint la plainte avec [constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) formelle détaillant les faits et les fondements juridiques, ainsi qu'un bordereau récapitulant les pièces justificatives que je verse au débat.
 
 Dans l'attente que vous fixiez, le cas échéant, le montant de la consignation prévue à l'article 88 du Code de procédure pénale (dont je sollicite toutefois l'exemption ou la modération compte tenu de ma situation financière actuelle liée à mon [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) prolongé),
 
@@ -95,7 +95,7 @@ Sébastien GRAZIDE
 <!-- PJ -->
 ## PIECES JOINTES
 
-- **[Plainte avec constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — datée du 6 juillet 2026
+- **[Plainte avec constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — datée du 6 juillet 2026
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du [J+4]
 
@@ -105,7 +105,7 @@ Sébastien GRAZIDE
 
 - **[Arrets de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours
 
-- **[Mises en demeure J+31](../../../Reel/Courriers/SAS_&_Salon/SAS%20HB%20BARBER%20-%20SAS%20-%20Courrier.md)** — LRAR restees sans reponse
+- **[Mises en demeure J+31](../../../Courriers/SAS_&_Salon/SAS%20HB%20BARBER%20-%20SAS%20-%20Courrier.md)** — LRAR restees sans reponse
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)
 <!-- /PJ -->

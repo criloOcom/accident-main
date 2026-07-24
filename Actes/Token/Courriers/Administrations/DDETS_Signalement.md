@@ -204,7 +204,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur l'Inspe
 
 - **[Arrets de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — [Arrêts de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) prescrits (55 jours)
 
-- **[Rapport d'expertise médicale](../../Preuves_officielles/20270529_Rapport_Expertise_Médicale.md)** — Expertise judiciaire déposée le 29 mai 2027
+- **[Rapport d'expertise médicale](../../Preuves_officielles/20270529_Rapport_Expertise_Medicale.md)** — Expertise judiciaire déposée le 29 mai 2027
 <!-- /PJ -->
 
 <!-- Source -->

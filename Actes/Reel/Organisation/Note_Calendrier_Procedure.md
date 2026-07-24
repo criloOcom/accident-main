@@ -8,7 +8,7 @@ tags:
   - dossier
 statut: final
 auteur: La Victime
-reel_path: ../../Reel/Organisation/Note - Calendrier Procédure.md
+reel_path: ../../Organisation/Note - Calendrier Procédure.md
 source: drive
 jx: J+32
 ---
@@ -63,7 +63,7 @@ jx: J+32
 | 24/06/2026 | EVT-14 | Transmission de pièces CPAM | Correspondance | Fait |
 | 24/06/2026 | EVT-30 | Démarche administrative / Email | Procédure | Envoyé |
 | 25 juin 2026 | EVT-48 | Confirmation de rendez-vous Kinésithérapie | Médical |  |
-| 29 juin 2026 | COR-01 | Envoi [Mise en demeure SAS](../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md) | Correspondance | Distribué |
+| 29 juin 2026 | COR-01 | Envoi [Mise en demeure SAS](../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md) | Correspondance | Distribué |
 | 29 juin 2026 | COR-02 | Envoi Mise en demeure Président Hamza El Hachemi BERGUIGA | Correspondance | Distribué |
 | 29 juin 2026 | COR-03 | Envoi Mise en demeure DG Catherine SORROCHE, dite ANDISSAC | Correspondance | Distribué |
 | 29 juin 2026 | COR-04 | Envoi Mise en demeure Bailleur | Correspondance | Distribué |

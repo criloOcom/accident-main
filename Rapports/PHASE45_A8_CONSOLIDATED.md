@@ -82,7 +82,7 @@ Tous les fichiers listés par A2. Solution : supprimer la première occurrence d
 - `Police - Note Guide Plainte Orale.md` (l.34,38,39)
 
 ### P1d — `---` dans le corps (4 fichiers)
-- `Archives/annexes/README.md`, `Attestations/README.md`, `Preuves_officielles/20270529_Rapport_Expertise_Médicale.md`, `Preuves_officielles/Preparation_Expertise_UMJ.md`
+- `Archives/annexes/README.md`, `Attestations/README.md`, `Preuves_officielles/20270529_Rapport_Expertise_Medicale.md`, `Preuves_officielles/Preparation_Expertise_UMJ.md`
 
 ---
 

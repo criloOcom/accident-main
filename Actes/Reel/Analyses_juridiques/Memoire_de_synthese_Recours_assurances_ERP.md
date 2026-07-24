@@ -15,7 +15,7 @@ tags:
   - préjudice corporel
 statut: brouillon
 auteur: La Victime
-reel_path: ../../Reel/Analyses_juridiques/Mémoire_de_synthèse_—_Recours_assurances_ERP.md
+reel_path: ../../Analyses_juridiques/Mémoire_de_synthèse_—_Recours_assurances_ERP.md
 source: local
 jx: J+53
 ---
@@ -52,13 +52,13 @@ Le 29 mai 2026, alors que Sébastien GRAZIDE se trouvait dans l'établissement e
 
 ### Documents de référence
 
-- **[Note d'Analyse Juridique — Droit des Assurances](../../Reel/Analyses_juridiques/Note%20-%20Droit%20des%20Assurances.md)**
+- **[Note d'Analyse Juridique — Droit des Assurances](../../Analyses_juridiques/Note%20-%20Droit%20des%20Assurances.md)**
 
-- **[Analyse des Responsabilités Légales](../../Reel/Analyses_juridiques/Note%20-%20Analyse%20Responsabilit%C3%A9s%20L%C3%A9gales.md)**
+- **[Analyse des Responsabilités Légales](../../Analyses_juridiques/Note%20-%20Analyse%20Responsabilit%C3%A9s%20L%C3%A9gales.md)**
 
-- **[Stratégie Jurisprudentielle](../../Reel/Analyses_juridiques/Note%20-%20Strat%C3%A9gie%20Jurisprudentielle.md)**
+- **[Stratégie Jurisprudentielle](../../Analyses_juridiques/Note%20-%20Strat%C3%A9gie%20Jurisprudentielle.md)**
 
-- **[Memo Axes Juridiques Avocat](../../Reel/Analyses_juridiques/Note%20-%20M%C3%A9mo%20Axes%20Juridiques%20Avocat.md)**
+- **[Memo Axes Juridiques Avocat](../../Analyses_juridiques/Note%20-%20M%C3%A9mo%20Axes%20Juridiques%20Avocat.md)**
 
 - **[🧠 STRICT VARIABLES](../../../Memory/STRICT VARIABLES.md)** (Source Unique de Vérité des montants)
 
@@ -275,11 +275,11 @@ L'arrêt **[22-18.089 CourCassation](../../../Lois/Jurisprudence/Transaction_sou
 
 **Documents connexes :**
 
-- **[Note d'Analyse Juridique — Droit des Assurances](../../Reel/Analyses_juridiques/Note%20-%20Droit%20des%20Assurances.md)**
+- **[Note d'Analyse Juridique — Droit des Assurances](../../Analyses_juridiques/Note%20-%20Droit%20des%20Assurances.md)**
 
-- **[Analyse des Responsabilités Légales](../../Reel/Analyses_juridiques/Note%20-%20Analyse%20Responsabilit%C3%A9s%20L%C3%A9gales.md)**
+- **[Analyse des Responsabilités Légales](../../Analyses_juridiques/Note%20-%20Analyse%20Responsabilit%C3%A9s%20L%C3%A9gales.md)**
 
-- **[Stratégie Jurisprudentielle](../../Reel/Analyses_juridiques/Note%20-%20Strat%C3%A9gie%20Jurisprudentielle.md)**
+- **[Stratégie Jurisprudentielle](../../Analyses_juridiques/Note%20-%20Strat%C3%A9gie%20Jurisprudentielle.md)**
 
 - **[Note - Mémo Axes Juridiques Avocat](%F0%9F%93%9C%20Memo%20Axes%20Juridiques%20Avocat.md)**
 

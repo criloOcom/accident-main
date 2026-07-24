@@ -21,7 +21,7 @@ statut: projet
 destinataire: Service des Impôts des Entreprises de Foix et
   URSSAF Midi-Pyrenees
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Administrations/URSSAF - SIE URSSAF - Mutualisation - Courrier.md
+reel_path: ../../../Courriers/Administrations/URSSAF - SIE URSSAF - Mutualisation - Courrier.md
 source: local
 jx: J+41
 calendar_event_id: 9ortbnkvp8it8hnebif5fr4bec
@@ -111,9 +111,9 @@ Sébastien GRAZIDE
 
 - **[Arrets de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours
 
-- **[Signalement SIE](../../../Reel/Courriers/Administrations/SIE%20-%20Signalement.md)** — Signalement fiscal adresse au SIE
+- **[Signalement SIE](../../../Courriers/Administrations/SIE%20-%20Signalement.md)** — Signalement fiscal adresse au SIE
 
-- **[Signalement Inspection du Travail](../../../Reel/Courriers/Administrations/DDETS%20-%20Signalement.md)** — Signalement social adresse a la DREETS
+- **[Signalement Inspection du Travail](../../../Courriers/Administrations/DDETS%20-%20Signalement.md)** — Signalement social adresse a la DREETS
 <!-- /PJ -->
 
 <!-- Source -->

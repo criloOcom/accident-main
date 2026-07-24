@@ -9,7 +9,7 @@ date: 2026-07-27
 statut: final
 destinataire: Commissariat de Police de Foix
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Police/Police - Bordereau Pièces.md
+reel_path: ../../../Courriers/Police/Police - Bordereau Pièces.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md)*
@@ -32,7 +32,7 @@ Place de la Préfecture
 Blagnac, le 27 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # BORDEREAU DE PIÈCES
 ## Dépôt au Commissariat de Foix — Lundi 27 juillet 2026

@@ -15,9 +15,9 @@ type: organisation
 | Document | Pages | Impression | Recto-verso | Coche |
 |---|---|---|---|---|
 | [Formulaire AJ Totale](<lien>) | 4 | N&B | Non | [ ] |
-| [TJ Foix - CPC 145 - Requête](../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md) | 5 | N&B | Non | [ ] |
-| [TJ Foix - Bordereau Unifié](../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md) | 2 | N&B | Non | [ ] |
-| [Parquet Foix - Plainte Complémentaire - Correction](../../Reel/Actes_proceduraux/Contentieux_penal/Parquet%20Foix%20-%20Plainte%20Compl%C3%A9mentaire%20-%20Correction.md) | 3 | N&B | Non | [ ] |
+| [TJ Foix - CPC 145 - Requête](../../Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md) | 5 | N&B | Non | [ ] |
+| [TJ Foix - Bordereau Unifié](../../Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md) | 2 | N&B | Non | [ ] |
+| [Parquet Foix - Plainte Complémentaire - Correction](../../Actes_proceduraux/Contentieux_penal/Parquet%20Foix%20-%20Plainte%20Compl%C3%A9mentaire%20-%20Correction.md) | 3 | N&B | Non | [ ] |
 | Fiche INPI/INSEE HB BARBER | 2 | Couleur | Non | [ ] |
 <hr><hr>
 

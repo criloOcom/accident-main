@@ -11,7 +11,7 @@ tags:
   - prescription
 statut: final
 auteur: La Victime
-reel_path: ../../Reel/Analyses_juridiques/Note - Droit des Assurances.md
+reel_path: ../../Analyses_juridiques/Note - Droit des Assurances.md
 source: local
 jx: J+40
 ---
@@ -20,7 +20,7 @@ jx: J+40
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # NOTE D'ANALYSE JURIDIQUE SPÉCIALE - DROIT DES ASSURANCES
 ## I — INTRODUCTION

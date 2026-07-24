@@ -11,7 +11,7 @@ tags:
   - stratégie
 statut: final
 auteur: La Victime
-reel_path: ../../Reel/Organisation/Note - Plan d'Action.md
+reel_path: ../../Organisation/Note - Plan d'Action.md
 source: drive
 drive_id: 153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s
 jx: J+32
@@ -21,7 +21,7 @@ jx: J+32
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # PLAN D'ACTION ET CHRONOLOGIE DE LA PROCÉDURE
 > 🔗 Source Google Drive : [153cOANMpw-O…](https://drive.google.com/open?id=153cOANMpw-OoxZqq3jgo34NsWHPY_-cRXZntM_Ydf9s)

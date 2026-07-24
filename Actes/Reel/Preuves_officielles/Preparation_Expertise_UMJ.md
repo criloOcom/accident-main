@@ -5,7 +5,7 @@ date: 2026-11-12
 description: "Date :** 12 novembre 2026 à 13h45"
 type: preuve
 statut: brouillon
-reel_path: ../../Reel/Preuves_officielles/Preparation_Expertise_UMJ.md
+reel_path: ../../Preuves_officielles/Preparation_Expertise_UMJ.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Preuves officielles](./README.md)*

@@ -6,7 +6,7 @@ type: analyse_juridique
 date: 2026-07-17
 statut: final
 auteur: La Victime
-reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
+reel_path: ../../Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md)*
@@ -83,7 +83,7 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
 | **CPC art. 835** | Référé-provision (demande de 15 000 € d'acompte) |
 | **CPP art. 706-3** | Saisine de la CIVI / FGTI — filet de sécurité indemnitaire (ITT > 1 mois et carence de l'assureur adverse) |
 | **C. com. art. L. 123-3 / RNE** | Opposition à la radiation amiable du RNE/INPI auprès du Greffe du Tribunal de Commerce |
-| **CPP art. 475-1** | Frais d'avocat en cas de [constitution de partie civile](../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) |
+| **CPP art. 475-1** | Frais d'avocat en cas de [constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) |
 
 ### ⑦ TRACE DE PAIEMENT – WERO
 

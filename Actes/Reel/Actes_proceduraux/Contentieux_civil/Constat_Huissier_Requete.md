@@ -23,7 +23,7 @@ tags:
 statut: projet
 destinataire: Tel huissier de justice territorialement compétent
 auteur: La Victime
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/Constat Huissier - Requête.md
+reel_path: ../../../Actes_proceduraux/Contentieux_civil/Constat Huissier - Requête.md
 jx: J+38
 calendar_event_id: 9pkmrn8fadbta67drfub7dssec
 ---
@@ -34,7 +34,7 @@ calendar_event_id: 9pkmrn8fadbta67drfub7dssec
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # REQUÊTE AUX FINS DE CONSTAT D'HUISSIER
 **À l'attention de :** Tel huissier de justice territorialement compétent

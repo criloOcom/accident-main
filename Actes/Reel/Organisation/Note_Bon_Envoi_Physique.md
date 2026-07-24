@@ -12,7 +12,7 @@ tags:
   - check-list
 statut: preparation
 auteur: La Victime
-reel_path: ../../Reel/Organisation/Note - Bon Envoi Physique.md
+reel_path: ../../Organisation/Note - Bon Envoi Physique.md
 jx: J+38
 ---
 <!-- Breadcrumb -->
@@ -25,7 +25,7 @@ jx: J+38
 
 - **Courrier au Doyen des Juges d'Instruction** — *`reel/Courriers/10 ✉️ Courrier Doyen Juges Instruction.md`* — 2 (1 envoi + 1 copie)
 
-- **[Constitution de Partie Civile](../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — *`reel/Actes_proceduraux/DJI Foix - DJI Foix - Partie Civile - Constitution.md`* — 2 (1 envoi + 1 copie)
+- **[Constitution de Partie Civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — *`reel/Actes_proceduraux/DJI Foix - DJI Foix - Partie Civile - Constitution.md`* — 2 (1 envoi + 1 copie)
 
 - **Bordereau de pièces CPC** — *(inclus dans le document #2)*
 

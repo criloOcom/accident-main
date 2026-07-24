@@ -18,7 +18,7 @@ calendar_event_id: 3cru4itc30uql1k7pr1k6327bs
 statut: final
 destinataire: L'Adjoint au Maire de la Commune
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Mairie/Mairie - Tavella - Courrier - Relance.md
+reel_path: ../../../Courriers/Mairie/Mairie - Tavella - Courrier - Relance.md
 source: drive
 drive_id: 1Xj4wf-v-ShCeq44vjb6XulUM_y2WnuLKO68flsuPKNw
 jx: J+37

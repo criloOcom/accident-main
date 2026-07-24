@@ -21,7 +21,7 @@ tags:
 statut: final
 destinataire: Juge des Référés du Tribunal Judiciaire
 auteur: La Victime
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision
+reel_path: ../../../Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision
   - Conclusions.md
 jx: J+39
 ---
@@ -32,7 +32,7 @@ jx: J+39
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # AU JUGE DES RÉFÉRÉS DU TRIBUNAL JUDICIAIRE
 
@@ -219,9 +219,9 @@ Sébastien GRAZIDE
 
 - **[Arrets de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — [Arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) de 55 jours
 
-- **[Constat d'huissier](../../../Reel/Actes_proceduraux/Contentieux_civil/Constat%20Huissier%20-%20Requ%C3%AAte.md)** — Etat des lieux de la vasque litigieuse
+- **[Constat d'huissier](../../../Actes_proceduraux/Contentieux_civil/Constat%20Huissier%20-%20Requ%C3%AAte.md)** — Etat des lieux de la vasque litigieuse
 
-- **[Mises en demeure J+31](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR restees sans reponse
+- **[Mises en demeure J+31](../../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR restees sans reponse
 <!-- /PJ -->
 
 

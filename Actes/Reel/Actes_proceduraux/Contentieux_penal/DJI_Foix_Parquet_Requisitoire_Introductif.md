@@ -27,7 +27,7 @@ tags:
 statut: projet
 destinataire: Doyen des Juges d'Instruction
 auteur: Procureur de la République
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_penal/DJI Foix - Parquet -
+reel_path: ../../../Actes_proceduraux/Contentieux_penal/DJI Foix - Parquet -
   Réquisitoire Introductif.md
 source: drive
 drive_id: À compléter
@@ -57,7 +57,7 @@ Tribunal Judiciaire de Foix
 <!-- /Destinataire -->
 ## I — PROBLÉMATIQUE ET EXPOSÉ DES FAITS
 
-Le Ministère Public a été saisi par la plainte, puis par la [**[constitution de partie civile]**](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) en date du 6 juillet 2026, déposées par Sébastien GRAZIDE à l'encontre de la SAS SAS HB BARBER, ainsi que de ses dirigeants, **Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC.
+Le Ministère Public a été saisi par la plainte, puis par la [**[constitution de partie civile]**](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) en date du 6 juillet 2026, déposées par Sébastien GRAZIDE à l'encontre de la SAS SAS HB BARBER, ainsi que de ses dirigeants, **Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC.
 
 Il résulte des pièces de la procédure que le 29 mai 2026, à 15h00, Sébastien GRAZIDE, qui se trouvait en qualité de client au sein du salon de coiffure exploité par la SAS SAS HB BARBER, sis **22 Rue Lafaurie, 09000 Foix, a été victime d'un grave accident corporel.
 
@@ -167,7 +167,7 @@ Par ces motifs,
 
 Vu les articles 222-19, 222-20, 223-1, 121-2 et 121-3 du Code pénal[^n11][^n10][^n12][^n2][^n3] ;
 Vu les articles 80 et suivants du Code de procédure pénale ;
-Vu la plainte et la [**[constitution de partie civile]**](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) de Sébastien GRAZIDE ;
+Vu la plainte et la [**[constitution de partie civile]**](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) de Sébastien GRAZIDE ;
 Vu le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 (consolidation 01/03/2027, DFP 12 %, SE 4/7) ;
 
 Nous requérons qu'il plaise à Monsieur le Doyen des Juges d'Instruction de :
@@ -187,7 +187,7 @@ Et de tous autres chefs qui viendraient à être révélés par l'instruction.
 
 - Audition de Ayoub BENNOURINE en qualité de témoin ;
 
-- Saisie des enregistrements vidéo de surveillance (sous séquestre par [**[ordonnance sur requête Art. 145[^n13] CPC]**](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Ordonnance%20sur%20Requ%C3%AAte.md) du **[J+54]**) ;
+- Saisie des enregistrements vidéo de surveillance (sous séquestre par [**[ordonnance sur requête Art. 145[^n13] CPC]**](../../../Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Ordonnance%20sur%20Requ%C3%AAte.md) du **[J+54]**) ;
 
 - Réquisitions auprès des organismes d'assurance pour identifier le ou les assureurs RC en vigueur au jour du sinistre ;
 
@@ -217,7 +217,7 @@ Concernant les sanctions encourues, la requalification délictuelles (Art. 222-2
 Les chances d'aboutissement de la présente procédure d'information sont jugées **fortes**, compte tenu de l'existence de blessures objectivées par l'expertise médicale (DFP 12 %, SE 4/7, consolidation à 12 mois), de la matérialité de l'accident (PV de police), et de la carence caractérisée en matière de sécurité (vasque cassée non signalée) au sein d'un ERP. L'expertise médicale a également évalué le préjudice extra-patrimonial à environ 49 231 €, fourchette basse d'une estimation globale de 120 000 à 160 000 € incluant les postes patrimoniaux (PGPF, DSA, incidence professionnelle).
 ### NOTE MÉTHODOLOGIQUE
 
-Ce réquisitoire introductif est une **simulation** à vocation pédagogique et stratégique, s'inscrivant dans la continuité de la [Constitution de Partie Civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (J+38) et du [Rapport d'Expertise Médicale](../../Preuves_officielles/20270529_Rapport_Expertise_Médicale.md) (déposé le 12 juin 2027).
+Ce réquisitoire introductif est une **simulation** à vocation pédagogique et stratégique, s'inscrivant dans la continuité de la [Constitution de Partie Civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (J+38) et du [Rapport d'Expertise Médicale](../../Preuves_officielles/20270529_Rapport_Expertise_Medicale.md) (déposé le 12 juin 2027).
 
 **Scénarios de qualification :**
 - *Scénario A (prudent)* — ITT pénale limitée au certificat initial (1 jour ≤ 3 mois) → Art. 222-20 CP (délit)
@@ -227,13 +227,13 @@ Ce réquisitoire introductif est une **simulation** à vocation pédagogique et 
 Le dispositif retient la rédaction prudente (222-20) tout en mentionnant 222-19 comme qualification alternative à vérifier par l'instruction. L'articulation avec la jurisprudence SATI (Cass. com. 20 mai 2003) est maintenue pour la responsabilité personnelle des dirigeants in solidum.
 
 **Documents liés :**
-- [Constitution de Partie Civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) consolidée : [`DJI Foix - DJI Foix - Partie Civile - Constitution.md`](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
+- [Constitution de Partie Civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) consolidée : [`DJI Foix - DJI Foix - Partie Civile - Constitution.md`](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
 
-- Rapport d'expertise médicale : [`20270529_Rapport_Expertise_Médicale.md`](../../Preuves_officielles/20270529_Rapport_Expertise_Médicale.md)
+- Rapport d'expertise médicale : [`20270529_Rapport_Expertise_Medicale.md`](../../Preuves_officielles/20270529_Rapport_Expertise_Medicale.md)
 
-- Ordonnance Art. 145[^n13] CPC (vidéos) : [`TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Ordonnance%20sur%20Requ%C3%AAte.md)
+- Ordonnance Art. 145[^n13] CPC (vidéos) : [`TJ Foix - TJ Foix - CPC 145 - Ordonnance sur Requête.md`](../../../Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Ordonnance%20sur%20Requ%C3%AAte.md)
 
-- Ordonnance de référé provision : [`TJ Foix - Référé Provision - Ordonnance Projet.md`](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)
+- Ordonnance de référé provision : [`TJ Foix - Référé Provision - Ordonnance Projet.md`](../../../Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)
 
 <!-- Source -->
 <hr><hr>

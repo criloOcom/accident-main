@@ -18,7 +18,7 @@ tags:
 statut: final
 destinataire: Tribunal de Commerce de Foix
 auteur: Nom de l'Avocat de la Victime
-reel_path: ../../../Reel/Courriers/Justice/TC Foix - Tribunal de Commerce - Opposition Radiation.md
+reel_path: ../../../Courriers/Justice/TC Foix - Tribunal de Commerce - Opposition Radiation.md
 jx: J+41
 ---
 <!-- Breadcrumb -->
@@ -26,7 +26,7 @@ jx: J+41
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # OPPOSITION CONSERVATOIRE <br> RADIATION DE SOCIÉTÉ
 
@@ -115,7 +115,7 @@ Avocat au Barreau
 
 ## PIECES JOINTES
 
-- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de Foix
+- **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de Foix
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
 
@@ -123,7 +123,7 @@ Avocat au Barreau
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]
 
-- **[Mise en demeure J+31 — SAS](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR n° 87001424863012T restee sans reponse
+- **[Mise en demeure J+31 — SAS](../../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR n° 87001424863012T restee sans reponse
 <!-- /PJ -->
 
 <!-- Source -->

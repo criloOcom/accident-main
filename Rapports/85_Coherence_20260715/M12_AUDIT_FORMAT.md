@@ -648,7 +648,7 @@ legal_basis:
 
 - [ ] `./Actes/Token/Etudes_indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md` : Nom de fichier non conforme au pattern MAJUSCULES_UNDERSCORE (Gravité: MINEUR)
 
-- [ ] [./Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md](../../Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Medicale.md](../../Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Medicale.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] [./Actes/Token/Preuves_officielles/Preparation_Expertise_UMJ.md](../../Actes/Token/Preuves_officielles/Preparation_Expertise_UMJ.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -904,7 +904,7 @@ legal_basis:
 
 - [ ] `./Actes/Reel/Etudes_indemnisation/Protocole%20-%20Transactionnel%20Dintilhac%2013-07-2026.md` : Nom de fichier non conforme au pattern MAJUSCULES_UNDERSCORE (Gravité: MINEUR)
 
-- [ ] [./Actes/Reel/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md](../../Actes/Reel/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Reel/Preuves_officielles/20270529_Rapport_Expertise_Medicale.md](../../Actes/Reel/Preuves_officielles/20270529_Rapport_Expertise_Medicale.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] [./Actes/Reel/Preuves_officielles/README.md](../../Actes/Reel/Preuves_officielles/README.md) : YAML front matter manquant ou mal formaté (Gravité: MAJEUR)
 

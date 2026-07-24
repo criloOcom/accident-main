@@ -17,7 +17,7 @@ tags:
 
 - obstruction
 statut: preparation
-reel_path: ../../../Reel/Preuves_officielles/20260715_Police_PV_Foix/20260715_PV_Police_PV_Complementaire_AccidentSalonCoiffure.md
+reel_path: ../../../Preuves_officielles/20260715_Police_PV_Foix/20260715_PV_Police_PV_Complementaire_AccidentSalonCoiffure.md
 auteur: La Victime
 ---
 <!-- Breadcrumb -->
@@ -25,7 +25,7 @@ auteur: La Victime
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police_Note_Erratum_Identite.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police_Note_Erratum_Identite.md).
 
 > **🔒 PIÈCE ORIGINALE — NE PAS MODIFIER**
 > Ce fichier est une transcription du procès-verbal d'audition (Plainte Complémentaire).

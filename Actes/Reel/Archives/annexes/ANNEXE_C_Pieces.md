@@ -4,7 +4,7 @@ title: ANNEXE C — LISTE DES PIÈCES
 description: '- **J+0 Accident** — **Le Médecin en Urgence** — Premiers soins
   urgence — 🔗 Drive'
 type: readme
-reel_path: ../../../Reel/Archives/annexes/ANNEXE_C_Pieces.md
+reel_path: ../../../Archives/annexes/ANNEXE_C_Pieces.md
 auteur: La Victime
 ---
 <!-- Breadcrumb -->
@@ -12,7 +12,7 @@ auteur: La Victime
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 statut: annexe
 

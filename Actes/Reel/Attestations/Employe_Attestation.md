@@ -5,7 +5,7 @@ description: "Cerfa 11527*03 — Attestation de l'employé du salon présent lor
 type: attestation
 date: 
 status: brouillon
-reel_path: ../../Reel/Attestations/Employé - Attestation.md
+reel_path: ../../Attestations/Employé - Attestation.md
 statut: brouillon
 ---
 <!-- Breadcrumb -->

@@ -11,7 +11,7 @@ tags:
   - tableau
 statut: preparation
 auteur: La Victime
-reel_path: ../../Reel/Organisation/Note - Suivi Envois LRAR.md
+reel_path: ../../Organisation/Note - Suivi Envois LRAR.md
 jx: J+43
 ---
 <!-- Breadcrumb -->

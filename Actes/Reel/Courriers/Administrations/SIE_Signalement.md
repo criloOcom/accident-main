@@ -18,7 +18,7 @@ tags:
 statut: projet
 destinataire: Service des Impôts des Entreprises de Foix
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Administrations/SIE - Signalement.md
+reel_path: ../../../Courriers/Administrations/SIE - Signalement.md
 source: drive
 drive_id: 1yl55r__e8V0Rjnf3DETzaOCuhNX1CedEvcJo8FVIxAA
 jx: J+37
@@ -47,7 +47,7 @@ Je porte par la presente a votre connaissance l'existence d'un litige en cours e
 
 Les procedures suivantes ont ete engagees :
 
-- Depot de plainte et [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (TJ de Foix)
+- Depot de plainte et [constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (TJ de Foix)
 
 - Mises en demeure LRAR a la societe et a ses dirigeants (29 juin 2026)
 
@@ -68,13 +68,13 @@ Sébastien GRAZIDE
 <!-- PJ -->
 ## PIECES JOINTES
 
-- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale en cours devant le TJ de Foix
+- **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale en cours devant le TJ de Foix
 
-- **[Mises en demeure LRAR](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Mises en demeure du 29 juin 2026 a la SAS et a ses dirigeants
+- **[Mises en demeure LRAR](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Mises en demeure du 29 juin 2026 a la SAS et a ses dirigeants
 
-- **[Signalement Inspection du Travail](../../../Reel/Courriers/Administrations/DDETS%20-%20Signalement.md)** — Demande d'enquete aupres de la DDETS 09
+- **[Signalement Inspection du Travail](../../../Courriers/Administrations/DDETS%20-%20Signalement.md)** — Demande d'enquete aupres de la DDETS 09
 
-- **[Signalement CODAF](../../../Reel/Courriers/Administrations/CODAF%20-%20Signalement.md)** — Saisine du CODAF via la Prefecture de l'Ariege
+- **[Signalement CODAF](../../../Courriers/Administrations/CODAF%20-%20Signalement.md)** — Saisine du CODAF via la Prefecture de l'Ariege
 
 - **[Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]
 <!-- /PJ -->

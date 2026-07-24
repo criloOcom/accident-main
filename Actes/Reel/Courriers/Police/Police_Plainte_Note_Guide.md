@@ -17,7 +17,7 @@ tags:
 - personnel
 statut: archive
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Police/Police_Plainte_Note_Guide.md
+reel_path: ../../../Courriers/Police/Police_Plainte_Note_Guide.md
 jx: J+47
 ---
 <!-- Breadcrumb -->
@@ -39,7 +39,7 @@ Sébastien GRAZIDE (document personnel — aide-mémoire)
 Blagnac, le 11 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 > ⚠️ **DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER**
 > Aide-mémoire pour préparer l'audition. À lire avant, laisser chez soi.
@@ -185,7 +185,7 @@ Blagnac, le 11 juillet 2026
 **5. Accusé de réception :**
 "Pouvez-vous me remettre un accusé de réception de ma plainte complémentaire, avec mention des suites qui seront données, conformément à l'article 15-3 du Code de procédure pénale ?"
 
-> *« Les officiers et agents de police judiciaire sont tenus de recevoir les plaintes déposées par les victimes d'infractions à la loi pénale, y compris lorsque ces plaintes sont déposées dans un service ou une unité de police judiciaire territorialement incompétents. Dans ce cas, la plainte est, s'il y a lieu, transmise au service ou à l'unité territorialement compétents. Tout dépôt de plainte fait l'objet d'un procès-verbal et donne lieu à la délivrance immédiate d'un récépissé à la victime, qui mentionne les délais de prescription de l'action publique définis aux articles 7 à 9 ainsi que la possibilité d'interrompre le délai de prescription par le dépôt d'une plainte avec [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md), en application de l'article 85 . Si elle en fait la demande, une copie du procès-verbal lui est immédiatement remise. Les officiers ou agents de police judiciaire peuvent s'identifier dans ce procès-verbal par leur numéro d'immatriculation administrative. »* <br>
+> *« Les officiers et agents de police judiciaire sont tenus de recevoir les plaintes déposées par les victimes d'infractions à la loi pénale, y compris lorsque ces plaintes sont déposées dans un service ou une unité de police judiciaire territorialement incompétents. Dans ce cas, la plainte est, s'il y a lieu, transmise au service ou à l'unité territorialement compétents. Tout dépôt de plainte fait l'objet d'un procès-verbal et donne lieu à la délivrance immédiate d'un récépissé à la victime, qui mentionne les délais de prescription de l'action publique définis aux articles 7 à 9 ainsi que la possibilité d'interrompre le délai de prescription par le dépôt d'une plainte avec [constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md), en application de l'article 85 . Si elle en fait la demande, une copie du procès-verbal lui est immédiatement remise. Les officiers ou agents de police judiciaire peuvent s'identifier dans ce procès-verbal par leur numéro d'immatriculation administrative. »* <br>
 > [Article 15-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) <br>
 > **Code de procédure pénale > Section 1 : Dispositions générales — abrogation différée.**
 <hr><hr>

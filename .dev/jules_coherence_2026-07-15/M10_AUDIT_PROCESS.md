@@ -30,4 +30,4 @@ Vérifier que les règles définies dans `AGENTS.md`, `CONVENTIONS.md`, `RULES.m
 
 ## LIVRABLE
 
-[Rapports/85_Coherence_2026-07-15/M10_AUDIT_PROCESS.md](../../Rapports/85_Coherence_2026-07-15/M10_AUDIT_PROCESS.md)
+[Rapports/85_Coherence_20260715/M10_AUDIT_PROCESS.md](../../Rapports/85_Coherence_20260715/M10_AUDIT_PROCESS.md)

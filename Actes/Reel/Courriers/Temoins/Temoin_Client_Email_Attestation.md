@@ -15,7 +15,7 @@ tags:
 statut: brouillon
 destinataire: Témoin client présent le 29 mai 2026
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Témoins/Témoin Client - Email Attestation.md
+reel_path: ../../../Courriers/Témoins/Témoin Client - Email Attestation.md
 source: local
 jx: J+38
 ---

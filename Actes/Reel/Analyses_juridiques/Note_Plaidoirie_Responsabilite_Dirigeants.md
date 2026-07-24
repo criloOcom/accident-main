@@ -11,7 +11,7 @@ tags:
   - sociétés
 statut: final
 auteur: La Victime
-reel_path: ../../Reel/Analyses_juridiques/Note - Plaidoirie Responsabilité Dirigeants.md
+reel_path: ../../Analyses_juridiques/Note - Plaidoirie Responsabilité Dirigeants.md
 source: drive
 drive_id: 1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90
 jx: J+32
@@ -21,7 +21,7 @@ jx: J+32
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # **MÉMORANDUM JURIDIQUE : RESPONSABILITÉ DES DIRIGEANTS ET RÉPARATION DES PRÉJUDICES**
 > 🔗 Source Google Drive : [1uHOesWZrUf1…](https://drive.google.com/open?id=1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90)

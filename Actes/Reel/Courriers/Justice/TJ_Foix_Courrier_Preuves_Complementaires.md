@@ -16,7 +16,7 @@ tags:
 statut: final
 destinataire: President du Tribunal Judiciaire de Foix
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Justice/TJ Foix - Courrier - Preuves Complémentaires.md
+reel_path: ../../../Courriers/Justice/TJ Foix - Courrier - Preuves Complémentaires.md
 jx: J+44
 ---
 
@@ -25,7 +25,7 @@ jx: J+44
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # TRANSMISSION DE PREUVES COMPLEMENTAIRES <br> AU TRIBUNAL JUDICIAIRE DE FOIX
 
@@ -82,7 +82,7 @@ Les procedures suivantes ont ete engagees :
 
 2. **Mises en demeure LRAR** (29 mai 2026) : retournees NPAI
 
-3. **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** deposee aupres du Doyen des Juges d'Instruction de Foix
+3. **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** deposee aupres du Doyen des Juges d'Instruction de Foix
 
 4. **Dossier medical complet** transmis au Procureur de la Republique
 <hr><hr>
@@ -126,11 +126,11 @@ Sébastien GRAZIDE
 
 ## PIECES JOINTES
 
-- **[Note - Suivi Envois LRAR.md](../../../Reel/Organisation/Note%20-%20Suivi%20Envois%20LRAR.md)** — Accusés de réception des courriers recommandés retournés
+- **[Note - Suivi Envois LRAR.md](../../../Organisation/Note%20-%20Suivi%20Envois%20LRAR.md)** — Accusés de réception des courriers recommandés retournés
 
 - **[PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
 
 - **[[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) SAS SAS HB BARBER](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN 104 103 262
 
-- **[Note - Audit RNE NPAI SAS.md](../../../Reel/Analyses_juridiques/Note%20-%20Audit%20RNE%20NPAI%20SAS.md)** — Note d'audit RNE/INPI du 10 juillet 2026
+- **[Note - Audit RNE NPAI SAS.md](../../../Analyses_juridiques/Note%20-%20Audit%20RNE%20NPAI%20SAS.md)** — Note d'audit RNE/INPI du 10 juillet 2026
 <!-- /PJ -->

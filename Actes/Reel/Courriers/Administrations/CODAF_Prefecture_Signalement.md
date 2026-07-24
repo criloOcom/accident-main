@@ -22,7 +22,7 @@ calendar_event_id: ncdv7eqhn6njck42v7sdcuelak
 statut: final
 destinataire: Préfecture de l'Ariège — Référent CODAF
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Administrations/CODAF - Préfecture - Signalement.md
+reel_path: ../../../Courriers/Administrations/CODAF - Préfecture - Signalement.md
 source: drive
 drive_id: 1sIkiScOSFZyXcfEqyuxEW8q0NC_g4YoAYLmEBsuYXbM
 jx: J+37
@@ -64,7 +64,7 @@ Plusieurs procédures ont été engagées à ce jour :
 
 1. Dépôt de plainte au commissariat de Foix (PV n° 2026/015967)
 
-2. [Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) transmise au Tribunal Judiciaire de Foix
+2. [Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) transmise au Tribunal Judiciaire de Foix
 
 3. Mises en demeure LRAR à la SAS, à ses dirigeants et au propriétaire des murs (29 juin 2026)
 
@@ -135,15 +135,15 @@ Sébastien GRAZIDE
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Dépôt de plainte du 2 juin 2026
 
-- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procédure pénale engagée devant le TJ de Foix
+- **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procédure pénale engagée devant le TJ de Foix
 
-- **[Mises en demeure LRAR](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mises en demeure du 29 juin 2026
+- **[Mises en demeure LRAR](../../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mises en demeure du 29 juin 2026
 
-- **[Signalement Inspection du Travail](../../../Reel/Courriers/Administrations/DDETS%20-%20Signalement.md)** — Demande d'enquête auprès de la DDETS 09
+- **[Signalement Inspection du Travail](../../../Courriers/Administrations/DDETS%20-%20Signalement.md)** — Demande d'enquête auprès de la DDETS 09
 
-- **[Rapport d'expertise médicale](../../Preuves_officielles/20270529_Rapport_Expertise_Médicale.md)** — Expertise contradictoire du 29 mai 2027 (consolidation J+10 mois, DFP 12 %, SE 4/7)
+- **[Rapport d'expertise médicale](../../Preuves_officielles/20270529_Rapport_Expertise_Medicale.md)** — Expertise contradictoire du 29 mai 2027 (consolidation J+10 mois, DFP 12 %, SE 4/7)
 
-- **[Ordonnance de référé provision](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)** — Assignation à jour fixe, provision 15 000 € (art. 145[^n2] CPC)
+- **[Ordonnance de référé provision](../../../Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)** — Assignation à jour fixe, provision 15 000 € (art. 145[^n2] CPC)
 
 - **[Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]
 <!-- /PJ -->

@@ -15,14 +15,14 @@ tags:
 statut: final
 auteur: La Victime
 jx: J+47
-reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Stratégie Admin Pénal.md
+reel_path: ../../Analyses_juridiques/Note - Mémo Stratégie Admin Pénal.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MÉMO STRATÉGIQUE<br>VOIES ADMINISTRATIVE ET PÉNALE
 
@@ -139,7 +139,7 @@ ACCIDENT 29/05/2026
 | N° | Action |
 |----|--------|
 | 1 | Vérifier la recevabilité de la requête 145 CPC |
-| 2 | [Constitution de partie civile](../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) si pertinent |
+| 2 | [Constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) si pertinent |
 | 3 | Référé-provision (15 000 €) |
 | 4 | Expertise médicale judiciaire |
 | 5 | Instance au fond |

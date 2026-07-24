@@ -11,7 +11,7 @@ tags:
   - stratégie
 statut: final
 auteur: La Victime
-reel_path: ../../Reel/Etudes_indemnisation/Note - Dossier CIVI Filet Sécurité.md
+reel_path: ../../Etudes_indemnisation/Note - Dossier CIVI Filet Sécurité.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Etudes indemnisation](./README.md)*

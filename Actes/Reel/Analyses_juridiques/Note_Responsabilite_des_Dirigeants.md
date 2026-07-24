@@ -13,7 +13,7 @@ tags:
 statut: final
 destinataire: La Victime
 auteur: L'Avocat de la Victime
-reel_path: ../../Reel/Analyses_juridiques/Note - Responsabilité des Dirigeants.md
+reel_path: ../../Analyses_juridiques/Note - Responsabilité des Dirigeants.md
 jx: J+41
 ---
 <!-- Breadcrumb -->
@@ -21,7 +21,7 @@ jx: J+41
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # NOTE JURIDIQUE <br> SUR LA RESPONSABILITÉ DES DIRIGEANTS EN CAS DE DISSOLUTION FRAUDULEUSE
 ## I — PROBLÉMATIQUE

@@ -22,7 +22,7 @@ urgency: haute
 statut: final
 destinataire: Destinataires des actes et autorités judiciaires
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Police/Police - Note Erratum Identité.md
+reel_path: ../../../Courriers/Police/Police - Note Erratum Identité.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md)*
@@ -43,7 +43,7 @@ Destinataires des actes et autorités judiciaires
 Blagnac, le 17 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # ERRATUM
 ## Correction de l'identité de la société exploitante

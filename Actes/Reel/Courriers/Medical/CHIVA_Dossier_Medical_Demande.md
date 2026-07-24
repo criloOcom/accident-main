@@ -20,7 +20,7 @@ statut: envoye
 lrar_number: 87500152888336B
 destinataire: GHT des Pyrénées Ariégeoises CHIVA
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Médical/CHIVA - Dossier Médical - Demande.md
+reel_path: ../../../Courriers/Médical/CHIVA - Dossier Médical - Demande.md
 jx: J+50
 ---
 

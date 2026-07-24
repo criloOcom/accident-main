@@ -17,7 +17,7 @@ calendar_event_id: ncdv7eqhn6njck42v7sdcuelak
 statut: final
 destinataire: CODAF de l'Ariege
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Administrations/CODAF - Signalement.md
+reel_path: ../../../Courriers/Administrations/CODAF - Signalement.md
 source: drive
 drive_id: 1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY
 jx: J+37
@@ -29,7 +29,7 @@ jx: J+37
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # SIGNALEMENT OFFICIEL <br> AU COMITÉ DÉPARTEMENTAL ANTI-FRAUDE DE L'ARIÈGE
 > 🔗 Source Google Drive : [1Lva-hW9g9d6…](https://drive.google.com/open?id=1Lva-hW9g9d6B4TITlttg28HD6y06MxaUtjzSVQyC4EY)

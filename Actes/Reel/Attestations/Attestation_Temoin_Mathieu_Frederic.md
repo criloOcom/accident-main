@@ -15,7 +15,7 @@ tags:
 statut: recueillie
 auteur: [Mathieu FRÉDÉRICK]
 destinataire: Dossier procédure Foix
-reel_path: ../../Reel/Attestations/Attestation - Témoin Mathieu Frédéric.md
+reel_path: ../../Attestations/Attestation - Témoin Mathieu Frédéric.md
 source: drive
 drive_id: 1ilezniEqbZrhb1YgPVAZbPdGYJyFNFkC
 jx: J+50
@@ -142,7 +142,7 @@ jx: J+50
 
 - **Pièce brute Drive** : `20260718 📋 Attestation Mathieu Frédéric Cerfa 11527.md` (Preuves_officielles)
 
-- **Version Reel** : [Actes/Reel/Attestations/Attestation - Témoin Mathieu Frédéric.md](../../Reel/Attestations/Attestation - Témoin Mathieu Frédéric.md) (générée auto)
+- **Version Reel** : [Actes/Reel/Attestations/Attestation - Témoin Mathieu Frédéric.md](../../Attestations/Attestation - Témoin Mathieu Frédéric.md) (générée auto)
 
 - **Autres attestations** : Client, Pompier/SAMU, Employé (même dossier)
 

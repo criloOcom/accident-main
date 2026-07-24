@@ -3,7 +3,7 @@ uid: 7TvsKbpKs
 title: "Changelog juridique<br>Dossier « Accident de la main »"
 description: "Enregistrement des corrections et mises à jour **juridiques** apportées aux actes et notes du dossier, avec date, type de correction et outils de vérification utilisés (Légifrance, OpenLegi)."
 type: analyse_juridique
-reel_path: ../../Reel/Analyses_juridiques/Note - Changelog Juridique.md
+reel_path: ../../Analyses_juridiques/Note - Changelog Juridique.md
 statut: brouillon
 ---
 <!-- Breadcrumb -->
@@ -26,7 +26,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Fichiers concernés :**
 
-  - [`Note - Responsabilité des Dirigeants.md`](../../Reel/Analyses_juridiques/Note%20-%20Responsabilit%C3%A9%20des%20Dirigeants.md) (titre section + tableau synthèse)
+  - [`Note - Responsabilité des Dirigeants.md`](../../Analyses_juridiques/Note%20-%20Responsabilit%C3%A9%20des%20Dirigeants.md) (titre section + tableau synthèse)
 
 - **Raison :**
 
@@ -52,7 +52,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Fichiers concernés :**
 
-  - [`Police - Vidéos - Relance.md`](../../Reel/Courriers/Police/Police%20-%20Vid%C3%A9os%20-%20Relance.md) (corps du courrier + blockquote)
+  - [`Police - Vidéos - Relance.md`](../../Courriers/Police/Police%20-%20Vid%C3%A9os%20-%20Relance.md) (corps du courrier + blockquote)
 
 - **Raison :**
 
@@ -123,7 +123,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Fichiers concernés :**
 
-  - [`Note - Droit des Assurances.md`](../../Reel/Analyses_juridiques/Note%20-%20Droit%20des%20Assurances.md)
+  - [`Note - Droit des Assurances.md`](../../Analyses_juridiques/Note%20-%20Droit%20des%20Assurances.md)
 
 - **Raison :** Utiliser l'identifiant correspondant à la version post-réforme des référés (décret 2019).
 
@@ -139,9 +139,9 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Fichiers concernés :**
 
-  - [`Archive - Stratégie Contentieux Civil.md`](../../Reel/Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20Civil.md)
+  - [`Archive - Stratégie Contentieux Civil.md`](../../Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20Civil.md)
 
-  - [`Archive - Stratégie Contentieux Pénal.md`](../../Reel/Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20P%C3%A9nal.md)
+  - [`Archive - Stratégie Contentieux Pénal.md`](../../Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20P%C3%A9nal.md)
 
 - **Raison :** S'aligner sur l'identifiant correspondant à la rédaction en vigueur de l'article 706-3[^n2] CPP (version 2023).
 
@@ -160,7 +160,7 @@ Enregistrement des corrections et mises à jour **juridiques** apportées aux ac
 
 - **Fichiers concernés :**
 
-  - [`Note - Stratégie Jurisprudentielle.md`](../../Reel/Analyses_juridiques/Note%20-%20Strat%C3%A9gie%20Jurisprudentielle.md)
+  - [`Note - Stratégie Jurisprudentielle.md`](../../Analyses_juridiques/Note%20-%20Strat%C3%A9gie%20Jurisprudentielle.md)
 
 - **Raison :** Honnêteté intellectuelle : signaler l'absence de pourvoi vérifiable. Les arrêts Costedoat (Ass. plén., 25 fév. 2000, n° 97-17.378) et Cousin (Ass. plén., 14 déc. 2001, n° 00-82.066), déjà cités dans le même document, couvrent le même principe de manière plus actuelle.
 

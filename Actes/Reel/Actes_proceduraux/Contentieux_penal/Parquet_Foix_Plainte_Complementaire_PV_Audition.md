@@ -25,7 +25,7 @@ destinataire: Procureur de la République
 personnes:
 - 'Sébastien GRAZIDE'
 jx: J+47
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_penal/Parquet Foix - Plainte
+reel_path: ../../../Actes_proceduraux/Contentieux_penal/Parquet Foix - Plainte
   Complémentaire - PV Audition.md
 ---
 

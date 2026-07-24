@@ -18,7 +18,7 @@ tags:
 statut: projet
 destinataire: INPI
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Administrations/INPI - Signalement.md
+reel_path: ../../../Courriers/Administrations/INPI - Signalement.md
 source: drive
 drive_id: 1gFhTi6GhD6uDRW_XZcbk13JgpaJOOfGxEXb9ZX0KV4E
 jx: J+37
@@ -61,7 +61,7 @@ Les procedures suivantes ont ete engagees :
 **1. Procedure penale**
 - Depot de plainte le 2 juin 2026 (PV n° 2026/015967)
 
-- [Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) transmise le 29 juin 2026
+- [Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) transmise le 29 juin 2026
 
 - Plainte complementaire pour defaut d'assurance RC professionnelle et travail dissimule presume
 
@@ -107,13 +107,13 @@ Sébastien GRAZIDE
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
 
-- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de Foix
+- **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale engagee devant le TJ de Foix
 
-- **[Mises en demeure LRAR](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mises en demeure du 29 juin 2026
+- **[Mises en demeure LRAR](../../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mises en demeure du 29 juin 2026
 
-- **[Signalement Inspection du Travail](../../../Reel/Courriers/Administrations/DDETS%20-%20Signalement.md)** — Demande d'enquete aupres de la DDETS 09
+- **[Signalement Inspection du Travail](../../../Courriers/Administrations/DDETS%20-%20Signalement.md)** — Demande d'enquete aupres de la DDETS 09
 
-- **[Signalement CODAF](../../../Reel/Courriers/Administrations/CODAF%20-%20Signalement.md)** — Saisine du CODAF
+- **[Signalement CODAF](../../../Courriers/Administrations/CODAF%20-%20Signalement.md)** — Saisine du CODAF
 
 - **[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SAS SAS HB BARBER (SIREN 104 103 262)
 <!-- /PJ -->

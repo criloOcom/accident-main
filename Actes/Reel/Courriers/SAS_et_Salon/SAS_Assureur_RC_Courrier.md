@@ -25,7 +25,7 @@ tags:
 statut: projet
 destinataire: Assureur RC de l'Exploitant du Commerce
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS - Assureur RC - Courrier.md
+reel_path: ../../../Courriers/SAS_&_Salon/SAS - Assureur RC - Courrier.md
 jx: J+50
 ---
 <!-- Breadcrumb -->
@@ -33,7 +33,7 @@ jx: J+50
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MISE EN DEMEURE ASSUREUR RC
 **Déclaration de sinistre — Action directe (Art. L. 124-3 C. assur.) — Expertise médicale consolidée**
@@ -116,7 +116,7 @@ Je joins à la présente, pour bonne information :
 
 - copie du rapport d'expertise médicale du 12 juin 2027 ;
 
-- copie de ma [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) et des actes de procédure déjà engagés ([référé provision](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md), [ordonnance sur requête art. 145 CPC](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Ordonnance%20sur%20Requ%C3%AAte.md)).
+- copie de ma [constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) et des actes de procédure déjà engagés ([référé provision](../../../Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md), [ordonnance sur requête art. 145 CPC](../../../Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Ordonnance%20sur%20Requ%C3%AAte.md)).
 
 À défaut de réponse écrite et motivée de votre part dans le délai de 30 jours, ou en cas de refus injustifié de garantie, je me verrai contraint de faire valoir l'ensemble de mes droits devant les juridictions compétentes, tant civiles que pénales, en sollicitant notamment l'extension des investigations aux conditions d'assurance de la société SAS HB BARBER et la mise en cause de votre responsabilité d'assureur au titre de l'action directe.
 
@@ -141,11 +141,11 @@ Ce courrier est une **simulation** reprenant la structure du draft fourni par l'
 **Document remplacé :** ce document (J+50) se substitue à la précédente mise en demeure assureur (J+31, pré-expertise, désormais archivée).
 
 **Documents liés :**
-- [Constitution de Partie Civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) consolidée : [`DJI Foix - DJI Foix - Partie Civile - Constitution.md`](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
+- [Constitution de Partie Civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) consolidée : [`DJI Foix - DJI Foix - Partie Civile - Constitution.md`](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
 
-- Rapport d'expertise médicale : [`20270529_Rapport_Expertise_Médicale.md`](../../Preuves_officielles/20270529_Rapport_Expertise_Médicale.md)
+- Rapport d'expertise médicale : [`20270529_Rapport_Expertise_Medicale.md`](../../Preuves_officielles/20270529_Rapport_Expertise_Medicale.md)
 
-- Ordonnance de référé provision : [`TJ Foix - Référé Provision - Ordonnance Projet.md`](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)
+- Ordonnance de référé provision : [`TJ Foix - Référé Provision - Ordonnance Projet.md`](../../../Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md)
 
 - Avis Dintilhac externe : [`Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md`](../../../../Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md)
 

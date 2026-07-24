@@ -21,7 +21,7 @@ calendar_event_id: hj1d12jfdubeuoavj7sq548i2o
 statut: envoye
 destinataire: Dirigeants de l'Exploitant du Commerce
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS - Dirigeants - Courrier - Relance.md
+reel_path: ../../../Courriers/SAS_&_Salon/SAS - Dirigeants - Courrier - Relance.md
 source: local
 jx: J+40
 ---
@@ -161,13 +161,13 @@ La responsabilité personnelle des dirigeants d'une SAS peut être engagée à l
 
 - **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Intervention de microchirurgie d'urgence du [J+1]
 
-- **[Mise en demeure J+31 — SAS](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR n° 87001424863012T
+- **[Mise en demeure J+31 — SAS](../../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR n° 87001424863012T
 
-- **[Mise en demeure J+31 — Président](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Pr%C3%A9sident%20-%20Courrier.md)** — LRAR n° 87001424862879J
+- **[Mise en demeure J+31 — Président](../../../Courriers/SAS_&_Salon/SAS%20-%20Pr%C3%A9sident%20-%20Courrier.md)** — LRAR n° 87001424862879J
 
-- **[Mise en demeure J+31 — Directrice Générale](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Directrice%20G%C3%A9n%C3%A9rale%20-%20Courrier.md)** — LRAR n° 87001424721856G
+- **[Mise en demeure J+31 — Directrice Générale](../../../Courriers/SAS_&_Salon/SAS%20-%20Directrice%20G%C3%A9n%C3%A9rale%20-%20Courrier.md)** — LRAR n° 87001424721856G
 
-- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de Foix
+- **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de Foix
 
 - **[Attestation de depot CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]
 <!-- /PJ -->

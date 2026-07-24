@@ -26,7 +26,7 @@ tags:
 statut: final
 destinataire: Procureur de la République
 auteur: Commissariat de Police de Foix
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_penal/Parquet Foix - Plainte
+reel_path: ../../../Actes_proceduraux/Contentieux_penal/Parquet Foix - Plainte
   Complémentaire - PV Audition Foix.md
 jx: J+47
 ---

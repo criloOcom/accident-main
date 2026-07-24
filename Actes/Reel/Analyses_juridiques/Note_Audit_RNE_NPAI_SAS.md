@@ -6,7 +6,7 @@ type: analyse_juridique
 date: 2026-07-10
 statut: final
 auteur: La Victime
-reel_path: ../../Reel/Analyses_juridiques/Note - Audit RNE NPAI SAS.md
+reel_path: ../../Analyses_juridiques/Note - Audit RNE NPAI SAS.md
 jx: J+42
 ---
 <!-- Breadcrumb -->

@@ -25,7 +25,7 @@ tags:
 statut: projet
 destinataire: Assureur RC de l'Exploitant du Commerce
 auteur: Conseil de la Victime
-reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS - Assureur RC - Courrier (copie Avocat).md
+reel_path: ../../../Courriers/SAS_&_Salon/SAS - Assureur RC - Courrier (copie Avocat).md
 jx: J+50-bis
 ---
 <!-- Breadcrumb -->
@@ -33,7 +33,7 @@ jx: J+50-bis
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MISE EN DEMEURE ASSUREUR RC
 **Action directe — Réserve de droits — Volet pénal expressément réservé**
@@ -105,7 +105,7 @@ Ce texte institue un droit propre de la victime à l'encontre de l'assureur, ind
 
 Je dois porter à votre connaissance que, malgré des démarches amiables et judiciaires répétées, la SAS SAS HB BARBER et ses dirigeants se refusent à communiquer la moindre attestation d'assurance responsabilité civile professionnelle. Ce silence fait obstacle à l'exercice de l'action directe et constitue une entrave caractérisée aux droits de ma cliente.
 
-Une **information judiciaire** a été ouverte par réquisitoire introductif du Parquet de Foix en date du 15 juillet 2026 ([**J+47**](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md)), des chefs de blessures involontaires et mise en danger d'autrui, avec mission expresse d'investigation sur les conditions d'assurance de la société. Les réquisitions auprès des organismes d'assurance sont en cours.
+Une **information judiciaire** a été ouverte par réquisitoire introductif du Parquet de Foix en date du 15 juillet 2026 ([**J+47**](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md)), des chefs de blessures involontaires et mise en danger d'autrui, avec mission expresse d'investigation sur les conditions d'assurance de la société. Les réquisitions auprès des organismes d'assurance sont en cours.
 
 L'obstruction persistante de l'assurée, conjuguée à l'absence de réponse de votre part, justifierait le cas échéant des réquisitions pénales complémentaires visant directement votre compagnie.
 <hr><hr>
@@ -148,11 +148,11 @@ Je joins à la présente l'intégralité des pièces déjà communiquées dans l
 
 - Rapport d'expertise médicale judiciaire du 12 juin 2027 ;
 
-- [Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) ;
+- [Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) ;
 
-- [Réquisitoire introductif du Parquet](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md) ;
+- [Réquisitoire introductif du Parquet](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md) ;
 
-- [Ordonnance de référé provision](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md) et [ordonnance sur requête art. 145 CPC](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Ordonnance%20sur%20Requ%C3%AAte.md).
+- [Ordonnance de référé provision](../../../Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20R%C3%A9f%C3%A9r%C3%A9%20Provision%20-%20Ordonnance%20Projet.md) et [ordonnance sur requête art. 145 CPC](../../../Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Ordonnance%20sur%20Requ%C3%AAte.md).
 
 Dans l'attente de votre retour écrit et circonstancié dans le délai imparti, je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.
 
@@ -161,7 +161,7 @@ Dans l'attente de votre retour écrit et circonstancié dans le délai imparti, 
 <hr><hr>
 ### NOTE MÉTHODOLOGIQUE
 
-Variante « avocat » de la mise en demeure adressée à l'assureur RC, destinée à être émise dès la désignation d'un conseil. Principales différences avec la version victime ([J+50](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Assureur%20RC%20-%20Courrier.md)) :
+Variante « avocat » de la mise en demeure adressée à l'assureur RC, destinée à être émise dès la désignation d'un conseil. Principales différences avec la version victime ([J+50](../../../Courriers/SAS_&_Salon/SAS%20-%20Assureur%20RC%20-%20Courrier.md)) :
 
 | Élément | Version victime (J+50) | Version avocat (J+50-bis) |
 |---------|----------------------|--------------------------|
@@ -180,9 +180,9 @@ Variante « avocat » de la mise en demeure adressée à l'assureur RC, destiné
 - Référence explicite au réquisitoire J+47 et à l'information judiciaire en cours
 
 **Documents liés :**
-- Version victime : [`SAS - Assureur RC - Courrier.md`](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Assureur%20RC%20-%20Courrier.md)
+- Version victime : [`SAS - Assureur RC - Courrier.md`](../../../Courriers/SAS_&_Salon/SAS%20-%20Assureur%20RC%20-%20Courrier.md)
 
-- Réquisitoire introductif : [`DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md)
+- Réquisitoire introductif : [`DJI Foix - DJI Foix - Parquet - Réquisitoire Introductif.md`](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md)
 
 <!-- Source -->
 <hr><hr>

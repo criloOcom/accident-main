@@ -11,7 +11,7 @@ tags:
 statut: final
 destinataire: Tribunal Correctionnel
 auteur: La Victime
-reel_path: ../../Reel/Archives/Archive - Constitution Partie Civile.md
+reel_path: ../../Archives/Archive - Constitution Partie Civile.md
 source: drive
 drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 ---
@@ -20,7 +20,7 @@ drive_id: 1tdFbDxNceGVjaABoYiHkUR1jxd8y0OaezWUOoV3ZDGc
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 **Table des matières**
 

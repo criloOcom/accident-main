@@ -10,7 +10,7 @@ tags:
   - cour de cassation
 statut: final
 auteur: La Victime
-reel_path: ../../Reel/Analyses_juridiques/Note - Stratégie Jurisprudentielle.md
+reel_path: ../../Analyses_juridiques/Note - Stratégie Jurisprudentielle.md
 source: local
 ---
 <!-- Breadcrumb -->
@@ -124,7 +124,7 @@ source: local
 | Art. 700 | 4 000 € | Frais procédure |
 | **Total** | **~105 000 €** | |
 
-Voir détails : [Note - Évaluation Dintilhac Consolidée.md](../../Reel/Etudes_indemnisation/Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md)
+Voir détails : [Note - Évaluation Dintilhac Consolidée.md](../../Etudes_indemnisation/Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md)
 
 ### VI.2 — QUI PAIE ?
 
@@ -156,9 +156,9 @@ Fondement : art. 835 al.2 CPC — obligation non sérieusement contestable.
 
 - Fiches jurisprudence : [70-12.124](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/70-12.124_CourCassation.md), [74-10.466](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/74-10.466_CourCassation.md), [89-18.422](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md), [91-13.580](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/91-13.580_CourCassation.md), [91-15.035](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/91-15.035_CourCassation.md), [24-21.702](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/24-21.702_CourCassation.md)
 
-- Note responsabilités légales : [Note - Analyse Responsabilités Légales.md](../../Reel/Analyses_juridiques/Note%20-%20Analyse%20Responsabilit%C3%A9s%20L%C3%A9gales.md)
+- Note responsabilités légales : [Note - Analyse Responsabilités Légales.md](../../Analyses_juridiques/Note%20-%20Analyse%20Responsabilit%C3%A9s%20L%C3%A9gales.md)
 
-- Évaluation financière : [Note - Évaluation Dintilhac Consolidée.md](../../Reel/Etudes_indemnisation/Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md)
+- Évaluation financière : [Note - Évaluation Dintilhac Consolidée.md](../../Etudes_indemnisation/Note%20-%20%C3%89valuation%20Dintilhac%20Consolid%C3%A9e.md)
 
 - Validation ordalie : ~~20260707 Validation juridique ordalie.md — supprimé (RGPD)~~
 

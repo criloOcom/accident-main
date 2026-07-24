@@ -22,7 +22,7 @@ tags:
 statut: archive
 destinataire: FGTI
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Justice/FGTI - Saisine.md
+reel_path: ../../../Courriers/Justice/FGTI - Saisine.md
 source: drive
 drive_id: 13jocmpqETy64lldco9LGCKLJZp_ml_9u53NB7OySmrs
 jx: J+38
@@ -34,7 +34,7 @@ jx: J+38
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # DEMANDE D'INFORMATION ET DE PRÉ-ENREGISTREMENT<br>ARTICLE 706-3 DU CPP
 > 🔗 Source Google Drive : [13jocmpqETy6…](https://drive.google.com/open?id=13jocmpqETy64lldco9LGCKLJZp_ml_9u53NB7OySmrs)
@@ -92,7 +92,7 @@ Sa chute a entraîné sur ma main droite une plaie palmaire profonde de 8,5 cm a
 
 3. **Assignation Article 145[^n1] CPC** : projet rédigé, dépôt prévu après obtention de l'AJ.
 
-4. **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : déposée auprès du Doyen des Juges d'Instruction de Foix sur le fondement des articles 222-19 et 222-20 du Code pénal[^n2][^n3].
+4. **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : déposée auprès du Doyen des Juges d'Instruction de Foix sur le fondement des articles 222-19 et 222-20 du Code pénal[^n2][^n3].
 
 Ces démarches visent à identifier les débiteurs civils et à faire reconnaître les infractions, en vue, le cas échéant, d'une demande d'indemnisation au titre de l'article 706-3 du Code de procédure pénale[^n4].
 

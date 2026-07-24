@@ -14,7 +14,7 @@ tags:
   - 145-cpc
 statut: final
 auteur: La Victime
-reel_path: ../../Reel/Organisation/Checklist - Déplacement 20-07.md
+reel_path: ../../Organisation/Checklist - Déplacement 20-07.md
 source: local
 jx: J+52
 ---

@@ -19,7 +19,7 @@ calendar_event_id: sb31r6e24kpkbfngc7prgq6em8
 statut: projet
 destinataire: CPAM Haute-Garonne
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/CPAM/CPAM - Recours Tiers - Saisine.md
+reel_path: ../../../Courriers/CPAM/CPAM - Recours Tiers - Saisine.md
 source: drive
 drive_id: 1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY
 jx: J+38
@@ -67,7 +67,7 @@ A ce jour, les procedures suivantes ont ete engagees :
 
 3. **Assignation Article 145[^n1] CPC** (5 juillet 2026) : Saisine du Tribunal Judiciaire de Foix pour communication forcee de la police d'assurance RC professionnelle sous astreinte.
 
-4. **[Constitution de Partie Civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : Depot d'une plainte avec [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) aupres du Doyen des Juges d'Instruction du Tribunal Judiciaire de Foix, fondee sur les articles 222-19 et 222-20 du Code penal[^n2][^n3] (blessures involontaires), et engageant la responsabilite penale de la SAS et de ses dirigeants.
+4. **[Constitution de Partie Civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** (6 juillet 2026) : Depot d'une plainte avec [constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) aupres du Doyen des Juges d'Instruction du Tribunal Judiciaire de Foix, fondee sur les articles 222-19 et 222-20 du Code penal[^n2][^n3] (blessures involontaires), et engageant la responsabilite penale de la SAS et de ses dirigeants.
 <hr><hr>
 
 ## IV — BORDEREAU RECAPITULATIF DES PIECES
@@ -138,7 +138,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 
 - **Pièce n°12 :** Assignation Article 145[^n1] CPC (communication assurance) — 5 juillet 2026
 
-- **Pièce n°13 :** [Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (Art. 222-19/222-20 CP) — 6 juillet 2026
+- **Pièce n°13 :** [Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) (Art. 222-19/222-20 CP) — 6 juillet 2026
 
 **C. Pièces administratives CPAM**
 

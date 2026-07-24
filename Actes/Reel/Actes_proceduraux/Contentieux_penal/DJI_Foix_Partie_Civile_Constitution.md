@@ -24,7 +24,7 @@ calendar_event_id: smthlv0a5arakof0m4rv80qgkc
 statut: final
 destinataire: Doyen des Juges d'Instruction
 auteur: La Victime
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_penal/DJI Foix - Partie Civile
+reel_path: ../../../Actes_proceduraux/Contentieux_penal/DJI Foix - Partie Civile
   - Constitution.md
 source: drive
 drive_id: 1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg
@@ -37,7 +37,7 @@ jx: J+38
 <hr>
 <!-- /Breadcrumb -->
 
-# [CONSTITUTION DE PARTIE CIVILE](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
+# [CONSTITUTION DE PARTIE CIVILE](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
 > 🔗 Source Google Drive : [1FNHNbCe5WUH…](https://drive.google.com/open?id=1FNHNbCe5WUHuX9u58QPC9eNhDXiNca7GWdkBOVFT6Zg)
 **Blessures involontaires — Défaut d'assurance — Responsabilité personnelle des dirigeants**
 
@@ -56,7 +56,7 @@ Tribunal Judiciaire de Foix
 Blagnac, le **6 juillet 2026
 ## I — INTRODUCTION
 
-La presente [**[constitution de partie civile]**](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) est formee par Sébastien GRAZIDE dans le cadre de la procedure penale suivie a l'encontre de la SAS SAS HB BARBER, de son President Hamza El Hachemi BERGUIGA et de sa Directrice Generale Catherine SORROCHE, dite ANDISSAC, en application des articles 2 et suivants du Code de procedure penale.
+La presente [**[constitution de partie civile]**](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) est formee par Sébastien GRAZIDE dans le cadre de la procedure penale suivie a l'encontre de la SAS SAS HB BARBER, de son President Hamza El Hachemi BERGUIGA et de sa Directrice Generale Catherine SORROCHE, dite ANDISSAC, en application des articles 2 et suivants du Code de procedure penale.
 
 Par cet acte, la victime entend exercer les droits reconnus a la partie civile afin d'obtenir la reparation de l'integralite des prejudices corporels, materiels et moraux decoulant de l'accident survenu le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS HB BARBER.
 <hr><hr>
@@ -173,7 +173,7 @@ Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'inf
 > [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité.**
 
-En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement des articles 706-3 et 706-14 du Code de procédure pénale (Titre XIV), pourra être directement saisi par la partie civile pour assurer l'indemnisation de la victime a defaut d'assureur. La presente [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) sollicite formellement la designation du FGTI comme garant subrogatoire.
+En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement des articles 706-3 et 706-14 du Code de procédure pénale (Titre XIV), pourra être directement saisi par la partie civile pour assurer l'indemnisation de la victime a defaut d'assureur. La presente [constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) sollicite formellement la designation du FGTI comme garant subrogatoire.
 <hr><hr>
 
 ## IV — PREJUDICES
@@ -201,7 +201,7 @@ Les prejudices subis par Sébastien GRAZIDE, evalues par expertise judiciaire (r
 
 Par ces motifs, Sébastien GRAZIDE sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction de :
 
-1. **DECLARER** recevable la presente [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) ;
+1. **DECLARER** recevable la presente [constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) ;
 
 2. **PRENDRE ACTE** du depot du rapport d'expertise medicale judiciaire en date du 12 juin 2027, ayant fixe la consolidation au 1er mars 2027, le DFP a 12 % et les souffrances endurees a 4/7 ;
 
@@ -233,7 +233,7 @@ Vu les pieces versees aux debats,
 
 Sébastien GRAZIDE se constitue partie civile et sollicite qu'il plaise a Monsieur le Doyen des Juges d'Instruction, ou a tout magistrat compose le Tribunal Judiciaire de Foix, de :
 
-1. **RECEVOIR** la presente [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) ;
+1. **RECEVOIR** la presente [constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) ;
 
 2. **PRENDRE ACTE** du depot du rapport d'expertise medicale judiciaire en date du 12 juin 2027 (consolidation 01/03/2027, DFP 12 %, SE 4/7, IP majeure) ;
 

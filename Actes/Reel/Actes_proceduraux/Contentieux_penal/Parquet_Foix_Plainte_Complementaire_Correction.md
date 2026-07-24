@@ -11,7 +11,7 @@ statut: final
 destinataire: Procureur de la République près le TJ de Foix
 depose: false
 auteur: La Victime
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_penal/Parquet Foix - Plainte
+reel_path: ../../../Actes_proceduraux/Contentieux_penal/Parquet Foix - Plainte
   Complémentaire - Correction.md
 ---
 

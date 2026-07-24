@@ -35,7 +35,7 @@ tags:
 calendar_event_id: ipivj4ul5rls1hrk1kqh9b0c6c
 statut: final
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Interne/BAJ - Demande AJ - Totale.md
+reel_path: ../../../Courriers/Interne/BAJ - Demande AJ - Totale.md
 jx: J+50
 destinataire: Bureau d'Aide Juridictionnelle (BAJ)
 ---

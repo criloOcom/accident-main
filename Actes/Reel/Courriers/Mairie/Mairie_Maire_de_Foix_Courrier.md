@@ -14,7 +14,7 @@ tags:
 statut: final
 destinataire: Le Maire
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Mairie/Mairie - Maire de Foix - Courrier.md
+reel_path: ../../../Courriers/Mairie/Mairie - Maire de Foix - Courrier.md
 jx: J+41
 calendar_event_id: gqu5r7mbuh6570913b2nisi7t8
 ---
@@ -23,7 +23,7 @@ calendar_event_id: gqu5r7mbuh6570913b2nisi7t8
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # LETTRE RECOMMANDÉE <br> ACCUSÉ DE RÉCEPTION
 

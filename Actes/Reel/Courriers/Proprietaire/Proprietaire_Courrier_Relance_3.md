@@ -22,7 +22,7 @@ statut: envoye
 lrar_number: 87500152910287Q
 destinataire: Le Propriétaire des Murs
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Propriétaire/Propriétaire - Courrier - Relance 3.md
+reel_path: ../../../Courriers/Propriétaire/Propriétaire - Courrier - Relance 3.md
 source: local
 jx: J+51
 signataire: 'Sébastien GRAZIDE (envoi sans signature manuscrite)'

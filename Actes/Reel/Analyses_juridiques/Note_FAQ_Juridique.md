@@ -11,7 +11,7 @@ tags:
   - questions
 statut: final
 auteur: La Victime
-reel_path: ../../Reel/Analyses_juridiques/Note - FAQ Juridique.md
+reel_path: ../../Analyses_juridiques/Note - FAQ Juridique.md
 source: drive
 drive_id: 1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM
 jx: J+32
@@ -21,7 +21,7 @@ jx: J+32
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # SYNTHÈSE JURIDIQUE ET FAQ AFFAIRE Sébastien GRAZIDE C/ SAS LES MAUVAIS GARCONS
 > 🔗 Source Google Drive : [1eoOJ-bcHBNn…](https://drive.google.com/open?id=1eoOJ-bcHBNnLsKYo7_mVz7K1w0gFfhZE_NHdUj3CBoM)

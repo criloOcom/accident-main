@@ -27,6 +27,6 @@ Vérifier que CHAQUE article de loi, code ou règlement cité dans le dépôt EX
 
 ## LIVRABLE
 
-[Rapports/85_Coherence_2026-07-15/M03_AUDIT_FONDEMENTS_JURIDIQUES.md](../../Rapports/85_Coherence_20260715/M03_AUDIT_FONDEMENTS_JURIDIQUES.md)
+[Rapports/85_Coherence_20260715/M03_AUDIT_FONDEMENTS_JURIDIQUES.md](../../Rapports/85_Coherence_20260715/M03_AUDIT_FONDEMENTS_JURIDIQUES.md)
 
 Format : TODO list. Chaque item = fondement à vérifier ou corriger. Statut vérifié/non vérifié/inexistant.

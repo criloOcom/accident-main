@@ -6,14 +6,14 @@ type: analyse_juridique
 date: 2026-07-17
 statut: preparation
 auteur: Conseil externe (Jimini) + Sébastien GRAZIDE
-reel_path: ../../Reel/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md
+reel_path: ../../Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # Note de synthèse pour l'avocat
 ## Bascule SAS LES MAUVAIS GARCONS → SAS LES MAUVAIS GARCONS

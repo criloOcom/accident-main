@@ -21,7 +21,7 @@ tags:
 statut: projet
 destinataire: CPAM Haute-Garonne — Pôle Recours Contre Tiers
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/CPAM/CPAM - Rectification Identité - Relance.md
+reel_path: ../../../Courriers/CPAM/CPAM - Rectification Identité - Relance.md
 ---
 
 <!-- Breadcrumb -->

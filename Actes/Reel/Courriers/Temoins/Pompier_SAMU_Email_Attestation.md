@@ -15,7 +15,7 @@ tags:
 statut: brouillon
 destinataire: Services de secours intervenus le 29 mai 2026
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Témoins/Pompier SAMU - Email Attestation.md
+reel_path: ../../../Courriers/Témoins/Pompier SAMU - Email Attestation.md
 source: local
 jx: J+38
 ---

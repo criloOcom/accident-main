@@ -12,7 +12,7 @@ tags:
 statut: brouillon
 destinataire: La Victime
 auteur: Expert FGTI/CIVI
-reel_path: ../../Reel/Etudes_indemnisation/Note - Stratégique FGTI CIVI.md
+reel_path: ../../Etudes_indemnisation/Note - Stratégique FGTI CIVI.md
 jx: J+40
 ---
 <!-- Breadcrumb -->
@@ -45,7 +45,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 
 - **Si la SAS possède une assurance RC** : La victime peut, et doit, privilégier l'action directe contre l'assureur (art. L.124-3 C. assur.), qui est généralement plus rapide qu'une procédure CIVI/FGTI si la garantie est acquise sans contestation. Toutefois, la saisine de la CIVI reste possible en parallèle. Le FGTI n'a pas vocation à se substituer à un assureur solvable, mais la CIVI peut accorder une provision si le processus amiable s'enlise.
 
-- **Voie pénale et civile** : La [constitution de partie civile](../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) a l'avantage de faire constater officiellement l'infraction (qui est le fait générateur de l'intervention du FGTI). Néanmoins, l'action civile devant la juridiction répressive (ou au civil) et la procédure CIVI sont autonomes. Il est possible, et même recommandé, de saisir la CIVI avant l'issue du procès pénal pour obtenir rapidement une provision, le jugement pénal n'étant pas un préalable obligatoire (la CIVI apprécie elle-même la matérialité de l'infraction).
+- **Voie pénale et civile** : La [constitution de partie civile](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) a l'avantage de faire constater officiellement l'infraction (qui est le fait générateur de l'intervention du FGTI). Néanmoins, l'action civile devant la juridiction répressive (ou au civil) et la procédure CIVI sont autonomes. Il est possible, et même recommandé, de saisir la CIVI avant l'issue du procès pénal pour obtenir rapidement une provision, le jugement pénal n'étant pas un préalable obligatoire (la CIVI apprécie elle-même la matérialité de l'infraction).
 <hr><hr>
 
 ## III — PROCÉDURE DÉTAILLÉE DEVANT LA CIVI

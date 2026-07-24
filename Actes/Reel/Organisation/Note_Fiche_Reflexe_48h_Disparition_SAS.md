@@ -12,14 +12,14 @@ tags:
   - constat
 statut: brouillon
 auteur: Nom de l'Avocat de la Victime
-reel_path: ../../Reel/Organisation/Note - Fiche Réflexe 48h Disparition SAS.md
+reel_path: ../../Organisation/Note - Fiche Réflexe 48h Disparition SAS.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # FICHE RÉFLEXE 48H : DISPARITION DE LA SAS
 ## I — PROBLÉMATIQUE

@@ -7,7 +7,7 @@ date: 2026-07-15
 statut: final
 auteur: La Victime
 jx: J+47
-reel_path: ../../Reel/Analyses_juridiques/Note - Tableau Défense Réponse.md
+reel_path: ../../Analyses_juridiques/Note - Tableau Défense Réponse.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md)*

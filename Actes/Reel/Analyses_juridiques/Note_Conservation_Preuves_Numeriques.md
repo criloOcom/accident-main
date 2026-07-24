@@ -11,14 +11,14 @@ tags:
 statut: final
 destinataire: La Victime
 auteur: L'Avocat de la Victime
-reel_path: ../../Reel/Analyses_juridiques/Note - Conservation Preuves Numériques.md
+reel_path: ../../Analyses_juridiques/Note - Conservation Preuves Numériques.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md)*
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # NOTE SUR LA CONSERVATION DES PREUVES EXTÉRIEURES ET NUMÉRIQUES
 ## I — PROBLÉMATIQUE

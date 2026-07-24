@@ -19,7 +19,7 @@ calendar_event_id: shbeqvnj9pp504anq8h8uk6pdc
 statut: projet
 destinataire: Police Nationale de La Ville de l'Accident
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Police/Police - Vidéos - Relance.md
+reel_path: ../../../Courriers/Police/Police - Vidéos - Relance.md
 source: drive
 drive_id: 171CF_LzNopYxIS6Tn4i3t3Ghx3ut14F1gh6-KjHevCA
 jx: J+37
@@ -38,7 +38,7 @@ Objet : Relance pour suivi de plainte et demande de videosurveillance — PV n°
 
 <hr><hr>
 
-Ref : Depot de plainte du 2 juin 2026 — [Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) du 2 juin 2026
+Ref : Depot de plainte du 2 juin 2026 — [Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) du 2 juin 2026
 
 Madame, Monsieur l'Officier de Police Judiciaire,
 ## I — OBJET DE LA RELANCE
@@ -72,7 +72,7 @@ Sébastien GRAZIDE
 
 ## PIECES JOINTES
 
-- **[Constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de Foix
+- **[Constitution de partie civile](../../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)** — Procedure penale transmise au TJ de Foix
 
 - **[CPC 145 - Requête](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Demande de conservation des preuves et identification de l'assureur
 

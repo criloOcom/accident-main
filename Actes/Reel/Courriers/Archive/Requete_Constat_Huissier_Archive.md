@@ -13,7 +13,7 @@ tags:
 statut: archive
 auteur: La Victime
 jx: J+41
-reel_path: ../../../Reel/Courriers/Archivé/Requête - Constat Huissier Archive.md
+reel_path: ../../../Courriers/Archivé/Requête - Constat Huissier Archive.md
 destinataire: Inconnu
 ---
 <!-- Breadcrumb -->
@@ -21,11 +21,11 @@ destinataire: Inconnu
 <hr>
 <!-- /Breadcrumb -->
 
-reel_path: ../../../Reel/Courriers/Archivé/Requête - Constat Huissier Archive.md
+reel_path: ../../../Courriers/Archivé/Requête - Constat Huissier Archive.md
 
 # ⚠️ FICHIER OBSOLÈTE<br>NE PLUS UTILISER
 
-> Ce fichier a été remplacé par **[TJ Foix - TJ Foix - CPC 145 - Requête.md](../../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md)** dans `Actes_proceduraux/`.
+> Ce fichier a été remplacé par **[TJ Foix - TJ Foix - CPC 145 - Requête.md](../../../Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20CPC%20145%20-%20Requ%C3%AAte.md)** dans `Actes_proceduraux/`.
 >
 > La version archivée est conservée dans **[Archives/33 ✉️ Constat Huissier - Requête Archive 145 CPC.md](../../Archives/33%20%E2%9C%89%EF%B8%8F%20Constat%20Huissier%20-%20Requ%C3%AAte%20145%20CPC.md)**.
 >

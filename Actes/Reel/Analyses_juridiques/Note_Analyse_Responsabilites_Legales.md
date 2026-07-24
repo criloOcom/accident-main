@@ -11,7 +11,7 @@ tags:
   - juridique
 statut: final
 auteur: La Victime
-reel_path: ../../Reel/Analyses_juridiques/Note - Analyse Responsabilités Légales.md
+reel_path: ../../Analyses_juridiques/Note - Analyse Responsabilités Légales.md
 source: drive
 drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
 jx: J+32
@@ -21,7 +21,7 @@ jx: J+32
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # ANALYSE DES FONDEMENTS DE LA RESPONSABILITÉ JURIDIQUE SAS LES MAUVAIS GARCONS
 > 🔗 Source Google Drive : [1lUKoGE8kozm…](https://drive.google.com/open?id=1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34)

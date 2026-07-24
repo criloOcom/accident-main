@@ -11,7 +11,7 @@ tags:
   - dossier
 statut: final
 auteur: La Victime
-reel_path: ../../Reel/Organisation/Note - Index Général.md
+reel_path: ../../Organisation/Note - Index Général.md
 source: drive
 drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 jx: J+39
@@ -21,7 +21,7 @@ jx: J+39
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # INDEX DU DOSSIER Sébastien GRAZIDE
 > 🔗 Source Google Drive : [1Zp-JK9kz0V0…](https://drive.google.com/open?id=1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU)
@@ -200,19 +200,19 @@ Documents non indexés conservés dans `archives/` :
 
 - [archives/annexes/](../README.md) — ~~📚 ANNEXE A Lexique Tokens (supprimé — RGPD)~~, [⚖️ ANNEXE B Lois Jurisprudence](../Archives/annexes/ANNEXE_B_Lois_Jurisprudence.md), [📑 ANNEXE C Pièces](../Archives/annexes/ANNEXE_C_Pieces.md)
 
-- [archives/../Actes_proceduraux/Contentieux_penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md](../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
+- [archives/../Actes_proceduraux/Contentieux_penal/DJI Foix - DJI Foix - Partie Civile - Constitution.md](../../Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md)
 
-- [archives/Archive - Action Directe Assureur RC.md](../../Reel/Archives/Archive%20-%20Action%20Directe%20Assureur%20RC.md)
+- [archives/Archive - Action Directe Assureur RC.md](../../Archives/Archive%20-%20Action%20Directe%20Assureur%20RC.md)
 
-- [archives/Archive - Analyse Correction Juridique.md](../../Reel/Archives/Archive%20-%20Analyse%20Correction%20Juridique.md)
+- [archives/Archive - Analyse Correction Juridique.md](../../Archives/Archive%20-%20Analyse%20Correction%20Juridique.md)
 
-- [archives/Archive - Analyse Jurisprudence.md](../../Reel/Archives/Archive%20-%20Analyse%20Jurisprudence.md)
+- [archives/Archive - Analyse Jurisprudence.md](../../Archives/Archive%20-%20Analyse%20Jurisprudence.md)
 
-- [archives/Archive - Stratégie Contentieux Civil.md](../../Reel/Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20Civil.md)
+- [archives/Archive - Stratégie Contentieux Civil.md](../../Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20Civil.md)
 
-- [archives/Archive - Stratégie Contentieux Pénal.md](../../Reel/Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20P%C3%A9nal.md)
+- [archives/Archive - Stratégie Contentieux Pénal.md](../../Archives/Archive%20-%20Strat%C3%A9gie%20Contentieux%20P%C3%A9nal.md)
 
-- [archives/Archive - Dossier Présentation.md](../../Reel/Archives/Archive%20-%20Dossier%20Pr%C3%A9sentation.md)
+- [archives/Archive - Dossier Présentation.md](../../Archives/Archive%20-%20Dossier%20Pr%C3%A9sentation.md)
 <hr><hr>
 
 ## X — MODIFICATIONS CLÉS

@@ -38,7 +38,7 @@ statut: final
 destinataire: Tribunal Judiciaire de Foix
 audience: 2026-07-31
 auteur: La Victime
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision - Assignation.md
+reel_path: ../../../Actes_proceduraux/Contentieux_civil/TJ Foix - Référé Provision - Assignation.md
 source: drive
 drive_id: 1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg
 calendar_event_id: sr9bmf225pfn9fjfn6r4d740a8
@@ -51,7 +51,7 @@ jx: J+32
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # ASSIGNATION EN RÉFÉRÉ-PROVISION <br> ET <br> DEMANDE D'EXPERTISE MÉDICALE
 > 🔗 Source Google Drive : [1ZIfWjszjl5V…](https://drive.google.com/open?id=1ZIfWjszjl5VoxBxourQiDeRATbkckkWPzbU9tYmg5yg)

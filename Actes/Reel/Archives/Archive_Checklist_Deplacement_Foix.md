@@ -9,7 +9,7 @@ date_archive: 2026-07-19
 raison_archive: "Date 15/07 passée, jamais exécuté le 15/07 (visite faite le 16/07). Remplacé par checklist unifiée 20/07 incluant HB BARBER, attestation Mathieu, erratum."
 auteur: La Victime
 jx: J+47
-reel_path: ../../Reel/Archives/Archive - Checklist Déplacement Foix.md
+reel_path: ../../Archives/Archive - Checklist Déplacement Foix.md
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Archives](./README.md)*

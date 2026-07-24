@@ -16,7 +16,7 @@ tags:
 statut: envoye
 destinataire: Le Propriétaire des Murs
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Propriétaire/Propriétaire - Courrier.md
+reel_path: ../../../Courriers/Propriétaire/Propriétaire - Courrier.md
 source: drive
 drive_id: 1W-C6nM5G_GUPzHjnaq56kRzdHwMuwTfaWQE8nNS9hj4
 calendar_event_id: qrvadub2s8gekuhgpn0knq8130
@@ -118,7 +118,7 @@ Sébastien GRAZIDE
 
 - **[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SAS SAS HB BARBER (SIREN 104 103 262)
 
-- **[Mise en demeure SAS](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mise en demeure adressee a l'exploitant le 29 juin 2026
+- **[Mise en demeure SAS](../../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mise en demeure adressee a l'exploitant le 29 juin 2026
 
 > NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le 29 mai 2026 sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement.
 >

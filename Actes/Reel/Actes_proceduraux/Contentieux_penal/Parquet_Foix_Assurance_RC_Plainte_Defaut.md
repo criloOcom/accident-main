@@ -16,7 +16,7 @@ calendar_event_id: pj485q1bbc1oq8h9olnschnt4k
 statut: final
 destinataire: Procureur de la République
 auteur: La Victime
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_penal/Parquet Foix - Assurance
+reel_path: ../../../Actes_proceduraux/Contentieux_penal/Parquet Foix - Assurance
   RC - Plainte Défaut.md
 source: drive
 drive_id: 1TVN7SyAWgTLQtOvUzpWqqlfF7fyzT8H8yLziKLQhelc
@@ -198,7 +198,7 @@ Sébastien GRAZIDE
 
 - **[Arrets de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours
 
-- **[Mises en demeure J+31](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR restees sans reponse
+- **[Mises en demeure J+31](../../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — LRAR restees sans reponse
 
 <!-- /PJ -->
 

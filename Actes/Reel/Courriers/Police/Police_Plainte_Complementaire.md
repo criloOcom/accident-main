@@ -34,7 +34,7 @@ statut: envoye
 destinataire: Commissariat de Police de Foix
 auteur: La Victime
 description: Plainte complémentaire corrigeant l'identité de la société exploitante du salon de coiffure
-reel_path: ../../../Reel/Courriers/Police/Police - Plainte Complémentaire.md
+reel_path: ../../../Courriers/Police/Police - Plainte Complémentaire.md
 jx: J+52
 ---
 <!-- Breadcrumb -->

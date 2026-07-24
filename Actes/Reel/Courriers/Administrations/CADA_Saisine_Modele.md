@@ -22,7 +22,7 @@ tags:
 statut: brouillon
 destinataire: Commission d'accès aux documents administratifs (CADA)
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Administrations/CADA - Saisine - Modèle.md
+reel_path: ../../../Courriers/Administrations/CADA - Saisine - Modèle.md
 jx: J+47
 ---
 
@@ -31,7 +31,7 @@ jx: J+47
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # MODÈLE<br>SAISINE CADA
 
@@ -135,13 +135,13 @@ Sébastien GRAZIDE
 
 ## PIECES JOINTES
 
-- **[CODAF - Signalement - Relance.md](../../../Reel/Courriers/Administrations/CODAF%20-%20Signalement%20-%20Relance.md)** — Courrier n°41 — Préfecture de l'Ariège
+- **[CODAF - Signalement - Relance.md](../../../Courriers/Administrations/CODAF%20-%20Signalement%20-%20Relance.md)** — Courrier n°41 — Préfecture de l'Ariège
 
-- **[DDETS - Signalement - Relance.md](../../../Reel/Courriers/Administrations/DDETS%20-%20Signalement%20-%20Relance.md)** — Courrier n°42 — DDETS / Inspection du travail
+- **[DDETS - Signalement - Relance.md](../../../Courriers/Administrations/DDETS%20-%20Signalement%20-%20Relance.md)** — Courrier n°42 — DDETS / Inspection du travail
 
 - Copie des réponses reçues (si refus exprès) — **À VERSER**
 
-- **[Mairie - ERP Tavella - Courrier.md](../../../Reel/Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel Monsieur TAVELLA (1er juin 2026)
+- **[Mairie - ERP Tavella - Courrier.md](../../../Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel Monsieur TAVELLA (1er juin 2026)
 
 - **[PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
 <!-- /PJ -->

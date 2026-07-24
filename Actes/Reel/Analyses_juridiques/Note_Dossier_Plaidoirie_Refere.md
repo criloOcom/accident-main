@@ -12,7 +12,7 @@ tags:
 statut: final
 destinataire: Juge des Référés
 auteur: La Victime
-reel_path: ../../Reel/Analyses_juridiques/Note - Dossier Plaidoirie Référé.md
+reel_path: ../../Analyses_juridiques/Note - Dossier Plaidoirie Référé.md
 jx: J+60
 ---
 <!-- Breadcrumb -->
@@ -20,7 +20,7 @@ jx: J+60
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS LES MAUVAIS GARCONS au jour de l'accident [l'erratum](../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # **DOSSIER DE PLAIDOIRIE POUR L'AUDIENCE DE RÉFÉRÉ DU 31 JUILLET 2026**
 ## I — FICHE SYNTHÉTIQUE

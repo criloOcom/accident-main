@@ -30,7 +30,7 @@ tags:
 statut: final
 destinataire: Tribunal Judiciaire de la Ville de l'Accident
 auteur: La Victime
-reel_path: ../../../Reel/Actes_proceduraux/Contentieux_civil/TJ_Foix_Bordereau_Unifie.md
+reel_path: ../../../Actes_proceduraux/Contentieux_civil/TJ_Foix_Bordereau_Unifie.md
 source: drive
 jx: J+39
 ---
@@ -41,7 +41,7 @@ jx: J+39
 <hr>
 <!-- /Breadcrumb -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police_Note_Erratum_Identite.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police_Note_Erratum_Identite.md).
 
 # BORDEREAU DE PIÈCES
 
@@ -95,7 +95,7 @@ jx: J+39
 
 ### PIÈCE N° 10b
 
-- **08/07/2026** — LRAR [relance V2 dirigeants](../../../Reel/Courriers/SAS_et_Salon/SAS_Dirigeants_Courrier_Relance.md) : Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf). Preuve du renouvellement des demandes et de l'obstruction.
+- **08/07/2026** — LRAR [relance V2 dirigeants](../../../Courriers/SAS_et_Salon/SAS_Dirigeants_Courrier_Relance.md) : Suivi 870014282662911 (Preuve dépôt: L000000146730066_204022699.pdf / Facture: Z0132713629-cel.pdf). Preuve du renouvellement des demandes et de l'obstruction.
 
 ### PIÈCE N° 11
 

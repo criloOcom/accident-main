@@ -8,7 +8,7 @@ description: DOCUMENT PERSONNEL — NE PAS VERSER AU DOSSIER. Aide-mémoire pour
 type: courrier
 destinataire: La Victime
 statut: archive
-reel_path: ../../../Reel/Courriers/Police/Police_Plainte_Note_Guide_Orale.md
+reel_path: ../../../Courriers/Police/Police_Plainte_Note_Guide_Orale.md
 auteur: La Victime
 ---
 <!-- Breadcrumb -->
@@ -30,7 +30,7 @@ Sébastien GRAZIDE (document personnel — aide-mémoire)
 Blagnac, le 20 juillet 2026
 <!-- /Date -->
 
-> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
+> **Mise à jour — Identification du véritable exploitant :** L'enquête a révélé que l'établissement était en réalité exploité par SAS HB BARBER au jour de l'accident [l'erratum](../../../Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md).
 
 # ⚠️ DOCUMENT PERSONNEL<br>NE PAS VERSER AU DOSSIER
 > Antisèche orale : aide-mémoire pour l'audition libre au Commissariat de Foix.

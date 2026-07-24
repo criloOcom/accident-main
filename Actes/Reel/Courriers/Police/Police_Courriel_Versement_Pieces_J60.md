@@ -18,7 +18,7 @@ tags:
 statut: projet
 destinataire: Commissariat de Police de Foix
 auteur: La Victime
-reel_path: ../../../Reel/Courriers/Police/Police_Courriel_Versement_Pieces_J60.md
+reel_path: ../../../Courriers/Police/Police_Courriel_Versement_Pieces_J60.md
 jx: J+56
 ---
 <!-- Breadcrumb -->
