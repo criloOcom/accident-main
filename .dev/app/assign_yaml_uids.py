@@ -13,7 +13,7 @@ sans ambiguite) a chaque fichier .md du depot qui possede un YAML frontmatter.
 - Aucune saisie manuelle : tout est automatique, souverain via 'souverain'.
 
 Usage :
-    python3 .dev/app/assign_yaml_uids.py [--apply] [--sheet] [--sheet-id ID]
+    python3 .dev/home/crilocom/accident-main/assign_yaml_uids.py [--apply] [--sheet] [--sheet-id ID]
 """
 
 import os
