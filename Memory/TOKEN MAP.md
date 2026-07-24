@@ -45,6 +45,8 @@ type: memory
 | (Avocat de la victime — nom réel à définir) | [**[Nom de l'Avocat de la Victime]**](Tokens/token-victime-avocat-nom.md) |
 <a id="token-l-adjoint-au-maire-de-la-commune"></a>
 | Bernard TAVELLA / TAVELLA / M. TAVELLA | [**[L'Adjoint au Maire de la Commune]**](Tokens/token-mairie-adjoint-nom.md) |
+<a id="token-temoin-assistant-appelant-samu"></a>
+| Frédéric MATHIEU / MATHIEU | [**[Le Témoin Assistant (Appelant SAMU)]**](Tokens/token-temoin-assistant-appelant-samu.md) | Témoin ayant porté assistance et appelé le SAMU 09 |
 <a id="token-prenom-de-la-victime"></a>
 | Sébastien | [**[Prénom de la Victime]**](Tokens/token-victime-prenom.md) |
 
@@ -82,6 +84,8 @@ type: memory
 | 06 30 51 67 75 | [**[Le Téléphone de la Victime]**](Tokens/token-victime-telephone.md) |
 <a id="token-le-telephone-du-prepose"></a>
 | 07 58 40 12 87 | [**[Le Téléphone du Préposé]**](Tokens/token-exploitation-prepose-telephone.md) |
+<a id="token-le-telephone-de-l-appelant-samu"></a>
+| 06 08 31 96 63 | [**[Le Téléphone de l'Appelant SAMU]**](Tokens/token-appelant-samu-telephone.md) |
 <a id="token-code-postal-de-l-accident"></a>
 | 09000 | [**[Code Postal de l'Accident]**](Tokens/token-accident-code-postal.md) |
 <a id="token-date-de-naissance-de-la-victime"></a>

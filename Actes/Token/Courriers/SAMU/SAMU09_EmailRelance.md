@@ -44,7 +44,7 @@ Ce pli vous étant parvenu le 22 juillet 2026, je me permets, à ce jour sans r�
 
 ## I — Prise en charge du [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) : mes remerciements
 
-Je tiens à vous remercier pour la prise en charge dont j'ai bénéficié le [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) à 15 h 25, à la suite de l'appel passé par un témoin de l'accident. Votre service a su orienter avec pertinence et réactivité vers le médecin d'urgence de [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md), où les premiers soins ont été dispensés avant mon transfert vers [**[L'Établissement SOS Main]**](../../../../Memory/Tokens/token-hopital-sosmain-nom.md) pour une prise en charge microchirurgicale le [**[J+1 Chirurgie]**](../../../../Memory/Tokens/token-j-1-chirurgie.md).
+Je tiens à vous remercier pour la prise en charge dont j'ai bénéficié le [**[J+0 Accident]**](../../../../Memory/Tokens/token-j-0-accident.md) à 15 h 25, à la suite de l'appel passé par [**[Le Témoin Assistant (Appelant SAMU)]**](../../../../Memory/Tokens/token-temoin-assistant-appelant-samu.md) depuis le [**[Le Téléphone de l'Appelant SAMU]**](../../../../Memory/Tokens/token-appelant-samu-telephone.md). Votre service a su orienter avec pertinence et réactivité vers le médecin d'urgence de [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-ville.md), où les premiers soins ont été dispensés avant mon transfert vers [**[L'Établissement SOS Main]**](../../../../Memory/Tokens/token-hopital-sosmain-nom.md) pour une prise en charge microchirurgicale le [**[J+1 Chirurgie]**](../../../../Memory/Tokens/token-j-1-chirurgie.md).
 
 Cette orientation adaptée a permis une prise en charge rapide d'une blessure engageant le pronostic fonctionnel de ma main dominante.
 
@@ -68,13 +68,15 @@ Dans ces conditions, il m'apparaît que l'absence de constatation directe sur le
 
 C'est précisément pourquoi les éléments sollicités auprès de votre service (fiche de régulation, retranscription ou enregistrement des échanges, photographie transmise) revêtent une importance déterminante pour la manifestation de la vérité : ils constituent la seule trace objective et contemporaine de l'appel, de la description des lésions et des circonstances communiquées au moment des faits.
 
+À cet égard, si l'appel a été passé par un tiers — ce qui restreint le périmètre de l'article L.1111-7 du Code de la santé publique aux seules informations médicales me concernant — le double fondement offert par les articles L.300-2 et L.311-1 du Code des relations entre le public et l'administration, lequel reconnaît aux enregistrements des SAMU le caractère de documents administratifs communicables (CADA, avis n°20194336 du 26 mars 2020), est de nature à lever toute ambiguïté sur le droit de la personne concernée à en obtenir communication.
+
 ---
 
 ## IV — Demande
 
 Dans l'attente de la communication des pièces sollicitées, je vous saurais gré de bien vouloir m'indiquer, ne serait-ce qu'à titre indicatif, l'état d'avancement du traitement de ma demande et les délais envisageables.
 
-Si vos services disposent d'un accès aux systèmes permettant de consulter mon dossier santé (INS 182013155540278, adresse MSSanté 182013155540278@patient.mssante.fr) ou les références de la procédure judiciaire (PV n° [**[N° PV Police]**](../../../../Memory/Tokens/token-pv-police-numero.md), dossier CPAM n° [**[N° Dossier CPAM]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)), ces éléments vous sont naturellement communiqués pour faciliter vos éventuelles vérifications.
+Si vos services disposent d'un accès aux systèmes permettant de consulter mon dossier santé (INS 182013155540278, adresse MSSanté 182013155540278@patient.mssante.fr) ou les références de la procédure judiciaire (PV n° [**[N° PV Police]**](../../../../Memory/Tokens/token-pv-police-numero.md), dossier CPAM n° [**[N° Dossier CPAM]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)), ces éléments vous sont naturellement communiqués pour faciliter vos éventuelles vérifications. À toutes fins utiles, le numéro depuis lequel l'appel a été passé est le [**[Le Téléphone de l'Appelant SAMU]**](../../../../Memory/Tokens/token-appelant-samu-telephone.md).
 
 Je vous remercie par avance de l'attention que vous voudrez bien porter à la présente et vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.
 
