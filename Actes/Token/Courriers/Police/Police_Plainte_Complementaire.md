@@ -73,7 +73,9 @@ Dans ma déclaration initiale du 2 juin 2026, j'ai désigné la société **[L'A
 Or, à la suite d'un déplacement physique sur place le 16 juillet 2026 et de la consultation du Registre National des Entreprises (INPI), il apparaît de manière certaine que :
 
 1. Le salon de coiffure est en réalité exploité par la **SAS [L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** (SIREN **[SIREN de l'Exploitation](../../../../Memory/Tokens/token-exploitation-siren.md)**), immatriculée le 22 avril 2026 (soit 37 jours avant l'accident).
+
 2. La présidente et dirigeante effective de cette structure est **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)**.
+
 3. L'établissement n'a fait l'objet d'aucune modification de vitrine ou d'affichage légal, maintenant en apparence l'ancienne enseigne.
 
 ## II — MAINTIEN DE L'ENSEMBLE DES MOYENS ET ACCUSATIONS
@@ -81,6 +83,7 @@ Or, à la suite d'un déplacement physique sur place le 16 juillet 2026 et de la
 Je confirme expressément que :
 
 - **L'intégralité des faits, blessures et circonstances** exposés dans le PV initial du 2 juin 2026 et la plainte complémentaire du 29 juin 2026 restent rigoureusement identiques et inchangés.
+
 - Les poursuites pénale du chef de **blessures involontaires** (Article 222-19 du Code pénal) et **mise en danger d'autrui** (Article 223-1 du Code pénal) doivent être valablement dirigées à l'encontre de la **SAS [L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** et de sa dirigeante **[Le Président de l'Exploitation](../../../../Memory/Tokens/token-exploitation-president-nom.md)**.
 
 Je vous prie de bien vouloir joindre la présente plainte complémentaire à la procédure pénale n° **[N° PV Police]** et de la transmettre à Monsieur le Procureur de la République près le Tribunal Judiciaire de Foix.
@@ -97,7 +100,9 @@ Veuillez agréer, Monsieur le Commissaire, l'assurance de ma haute considératio
 ## PIÈCES JOINTES
 
 - **[Procès-verbal de plainte initiale n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)**
+
 - **[Note d'Erratum Identité du 17 juillet 2026](./Police_Note_Erratum_Identite.md)**
+
 - **[Extrait RNE / INPI SAS HB BARBER](../../../Preuves%20officielles/20260601_%F0%9F%87%AB%F0%9F%87%B7_INSEE_INPI/20260601-0945_RNE_Extrait_INPI_SAS.md)**
 <!-- /PJ -->
 

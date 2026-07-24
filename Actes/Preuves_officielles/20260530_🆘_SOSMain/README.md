@@ -26,6 +26,7 @@ type: readme
 - **[20260530_CROpératoire_RapportInterventionMainDroite_p1jpg](20260530_CROpératoire_RapportInterventionMainDroite_p1jpg.md)**
 
 - **[20260530_CROpératoire_RapportInterventionMainDroite_p2jpg](20260530_CROpératoire_RapportInterventionMainDroite_p2jpg.md)**
+
 - **[20260530_CR_Opératoire_RapportInterventionMainDroite](20260530_CR_Opératoire_RapportInterventionMainDroite.md)**
 ---
 *README généré automatiquement le 11 juillet 2026*

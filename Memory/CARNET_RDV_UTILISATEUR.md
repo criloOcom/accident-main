@@ -154,8 +154,13 @@ date: "2026-07-24"
 
 ## 🔗 Liens et Références Systèmes
 - **Dossier souverain des Preuves** : [Actes/Preuves officielles](../Actes/Preuves_officielles/README.md)
+
 - **Mapping Google Drive `drive_id` & Google Sheet PJ** : [PIECES MAP.md](./PIECES%20MAP.md) | [Feuille PJ Google Sheet](https://docs.google.com/spreadsheets/d/1cwb8L5fc7HqsAHP6IH32gSFwKRIdSztcYk1XmfbaYIg/edit?usp=sharing)
+
 - **Dossier Google Drive complet** : [Dossier Drive Pièces](https://drive.google.com/drive/folders/1dQlB-56-h1AUDH3o5xpQw1c1PaehHoMP?usp=drive_link)
+
 - **Calendrier officiel partagé** : Google Calendar `[AM]`
+
 - **Variables factuelles strictes** : [STRICT VARIABLES.md](./STRICT_VARIABLES.md)
+
 - **Archive brute intégrale** : [CARNET RDV UTILISATEUR BRUT.md](./Archives/CARNET_RDV_UTILISATEUR_BRUT.md)
