@@ -9,7 +9,7 @@ source: drive
 drive_id: 1t-DHwIZUyJgWwQGOAFHtNvNC2xVtMozp
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260623 🩺 DrDJERBI](./README.md) › 20260623-1731 DrDJERBI Ordonnance Kinesitherapeutepdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260623 🩺 DrDJERBI](./README.md) › 20260623-1731 DrDJERBI Ordonnance Kinesitherapeutepdf [📄](https://drive.google.com/file/d/1t-DHwIZUyJgWwQGOAFHtNvNC2xVtMozp/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

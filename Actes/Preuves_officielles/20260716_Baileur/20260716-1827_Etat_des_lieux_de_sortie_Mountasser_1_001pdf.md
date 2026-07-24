@@ -9,7 +9,7 @@ source: drive
 drive_id: 1wO0OtT-nO3JXFN9izmApkCwB_b47SRzD
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260716 Baileur](./README.md) › 20260716-1827 Etat des lieux de sortie Mountasser 1 001pdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260716 Baileur](./README.md) › 20260716-1827 Etat des lieux de sortie Mountasser 1 001pdf [📄](https://drive.google.com/file/d/1wO0OtT-nO3JXFN9izmApkCwB_b47SRzD/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

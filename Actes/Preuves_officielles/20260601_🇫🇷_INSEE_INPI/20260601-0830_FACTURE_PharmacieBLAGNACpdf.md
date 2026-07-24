@@ -9,7 +9,7 @@ source: drive
 drive_id: 1nSS3zv3L9W6PoWrFIR7ai6YOOROPUBUp
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260601 🇫🇷 INSEE INPI](./README.md) › 20260601-0830 FACTURE PharmacieBLAGNACpdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260601 🇫🇷 INSEE INPI](./README.md) › 20260601-0830 FACTURE PharmacieBLAGNACpdf [📄](https://drive.google.com/file/d/1nSS3zv3L9W6PoWrFIR7ai6YOOROPUBUp/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

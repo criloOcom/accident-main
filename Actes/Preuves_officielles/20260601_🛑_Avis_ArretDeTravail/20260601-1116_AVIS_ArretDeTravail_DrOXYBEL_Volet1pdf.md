@@ -9,7 +9,7 @@ source: drive
 drive_id: 1SLKUX5cDm2cuATQS3ya7_7WQYI_sjZPm
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260601 🛑 Avis ArretDeTravail](./README.md) › 20260601-1116 AVIS ArretDeTravail DrOXYBEL Volet1pdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260601 🛑 Avis ArretDeTravail](./README.md) › 20260601-1116 AVIS ArretDeTravail DrOXYBEL Volet1pdf [📄](https://drive.google.com/file/d/1SLKUX5cDm2cuATQS3ya7_7WQYI_sjZPm/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

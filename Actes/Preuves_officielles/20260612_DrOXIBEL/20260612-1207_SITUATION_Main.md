@@ -13,7 +13,7 @@ source: drive
 drive_id: 1gezULqgCQwUWSAJXePpLpTxUQ3A9u6bm
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260612 DrOXIBEL](./README.md) › 20260612-1207 SITUATION Main*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260612 DrOXIBEL](./README.md) › 20260612-1207 SITUATION Main [📄](https://drive.google.com/file/d/1gezULqgCQwUWSAJXePpLpTxUQ3A9u6bm/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

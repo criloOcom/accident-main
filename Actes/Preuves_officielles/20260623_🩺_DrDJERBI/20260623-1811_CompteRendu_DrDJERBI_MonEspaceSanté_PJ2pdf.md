@@ -9,7 +9,7 @@ source: drive
 drive_id: 1HaQVZh_Dsj2sbebvp6zHnps_6q791duR
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260623 🩺 DrDJERBI](./README.md) › 20260623-1811 CompteRendu DrDJERBI MonEspaceSanté PJ2pdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260623 🩺 DrDJERBI](./README.md) › 20260623-1811 CompteRendu DrDJERBI MonEspaceSanté PJ2pdf [📄](https://drive.google.com/file/d/1HaQVZh_Dsj2sbebvp6zHnps_6q791duR/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

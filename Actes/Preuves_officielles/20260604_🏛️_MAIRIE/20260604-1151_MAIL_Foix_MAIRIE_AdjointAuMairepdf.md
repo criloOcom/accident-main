@@ -9,7 +9,7 @@ source: drive
 drive_id: 1ec-DKYBJVURco0OKtf0gVHzqw7lCo8Ct
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260604 🏛️ MAIRIE](./README.md) › 20260604-1151 MAIL Foix MAIRIE AdjointAuMairepdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260604 🏛️ MAIRIE](./README.md) › 20260604-1151 MAIL Foix MAIRIE AdjointAuMairepdf [📄](https://drive.google.com/file/d/1ec-DKYBJVURco0OKtf0gVHzqw7lCo8Ct/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

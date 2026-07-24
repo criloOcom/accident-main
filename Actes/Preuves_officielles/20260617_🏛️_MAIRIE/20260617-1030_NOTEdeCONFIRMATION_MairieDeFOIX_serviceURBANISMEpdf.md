@@ -9,7 +9,7 @@ source: drive
 drive_id: 1IuDrK7_9KC_iSI2iY0snccVOEO6RG8of
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260617 🏛️ MAIRIE](./README.md) › 20260617-1030 NOTEdeCONFIRMATION MairieDeFOIX serviceURBANISMEpdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260617 🏛️ MAIRIE](./README.md) › 20260617-1030 NOTEdeCONFIRMATION MairieDeFOIX serviceURBANISMEpdf [📄](https://drive.google.com/file/d/1IuDrK7_9KC_iSI2iY0snccVOEO6RG8of/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

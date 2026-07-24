@@ -9,7 +9,7 @@ source: drive
 drive_id: 1eoGtUL5XfeyP0DqRsBRzehGjxxZQdfm5
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260602 🏛️ MAIRIE](./README.md) › 20260602-1132 MAIL Foix MAIRIE AdjointAuMairepdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260602 🏛️ MAIRIE](./README.md) › 20260602-1132 MAIL Foix MAIRIE AdjointAuMairepdf [📄](https://drive.google.com/file/d/1eoGtUL5XfeyP0DqRsBRzehGjxxZQdfm5/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

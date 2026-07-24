@@ -9,7 +9,7 @@ source: drive
 drive_id: 19spgxZ5N7ZlJZewAUgPywTQsV9oLt6xE
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260617](./README.md) › 20260617-0100 MAIL AssuranceMaladiepdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260617](./README.md) › 20260617-0100 MAIL AssuranceMaladiepdf [📄](https://drive.google.com/file/d/19spgxZ5N7ZlJZewAUgPywTQsV9oLt6xE/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -17,7 +17,7 @@ drive_id: 1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90
 jx: J+32
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Plaidoirie Responsabilite Dirigeants ([🎭](../../Token/Analyses_juridiques/Note_Plaidoirie_Responsabilite_Dirigeants.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Plaidoirie Responsabilite Dirigeants ([🎭](../../Token/Analyses_juridiques/Note_Plaidoirie_Responsabilite_Dirigeants.md)) [📄](https://drive.google.com/file/d/1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

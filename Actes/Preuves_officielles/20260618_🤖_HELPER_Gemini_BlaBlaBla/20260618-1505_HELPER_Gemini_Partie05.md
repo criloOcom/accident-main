@@ -9,7 +9,7 @@ source: drive
 drive_id: 1z9JzG7zjarm1gDuhunLZA377MZPZOLkq7qh7g9P4n9M
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260618 🤖 HELPER Gemini BlaBlaBla](./README.md) › 20260618-1505 HELPER Gemini Partie05*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260618 🤖 HELPER Gemini BlaBlaBla](./README.md) › 20260618-1505 HELPER Gemini Partie05 [📄](https://drive.google.com/file/d/1z9JzG7zjarm1gDuhunLZA377MZPZOLkq7qh7g9P4n9M/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -9,7 +9,7 @@ source: drive
 drive_id: 18DmsapvdxuMHUXsIjJU_5KVRn4UfyUhU
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260623 🩺 DrDJERBI](./README.md) › 20260623-1615  RDV DrDJERBIpdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260623 🩺 DrDJERBI](./README.md) › 20260623-1615  RDV DrDJERBIpdf [📄](https://drive.google.com/file/d/18DmsapvdxuMHUXsIjJU_5KVRn4UfyUhU/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

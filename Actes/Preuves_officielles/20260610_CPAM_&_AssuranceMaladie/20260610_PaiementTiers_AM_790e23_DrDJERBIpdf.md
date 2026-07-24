@@ -9,7 +9,7 @@ source: drive
 drive_id: 10vU_UlMgUnCuyao6D_6GlUTmdt5VOf-n
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260610 CPAM & AssuranceMaladie](./README.md) › 20260610 PaiementTiers AM 790e23 DrDJERBIpdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260610 CPAM & AssuranceMaladie](./README.md) › 20260610 PaiementTiers AM 790e23 DrDJERBIpdf [📄](https://drive.google.com/file/d/10vU_UlMgUnCuyao6D_6GlUTmdt5VOf-n/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

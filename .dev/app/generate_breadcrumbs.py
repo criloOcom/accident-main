@@ -97,6 +97,30 @@ def cross_world_link(rel_md_path):
     return (emoji, rel_link)
 
 
+def read_drive_preview_url(rel_md_path):
+    """Pour la strate Réelle (Actes/Reel/ ou Actes/Preuves_officielles/) :
+    extrait drive_id / docs_id du YAML frontmatter du fichier lui-même,
+    sinon du fichier Token miroir. Retourne l'URL preview Google ou None.
+    """
+    parts = rel_md_path.split("/")
+    if not (rel_md_path.startswith("Actes/Reel/") or rel_md_path.startswith("Actes/Preuves_officielles/")):
+        return None
+    candidates = [os.path.join(ROOT, rel_md_path)]
+    # Fichier Token miroir correspondant
+    if rel_md_path.startswith("Actes/Reel/"):
+        candidates.append(os.path.join(ROOT, "Actes", "Token", *parts[2:]))
+    else:  # Actes/Preuves_officielles/
+        candidates.append(os.path.join(ROOT, "Actes", "Token", "Preuves_officielles", *parts[2:]))
+    for cand in candidates:
+        docs_id = read_yaml_field(cand, "docs_id")
+        if docs_id:
+            return f"https://docs.google.com/document/d/{docs_id}/preview"
+        drive_id = read_yaml_field(cand, "drive_id")
+        if drive_id:
+            return f"https://drive.google.com/file/d/{drive_id}/preview"
+    return None
+
+
 def build_breadcrumb(rel_md_path):
     abs_p = os.path.join(ROOT, rel_md_path)
     d = os.path.dirname(abs_p)
@@ -155,6 +179,10 @@ def build_breadcrumb(rel_md_path):
         else:
             parts.append(leaf_label)
     line = SEP.join(parts)
+    # Strate Réelle : lien 📄 vers la prévisualisation Google Drive/Docs
+    preview_url = read_drive_preview_url(rel_md_path)
+    if preview_url:
+        line += f" [📄]({preview_url})"
     return f"<!-- Breadcrumb -->\n*{line}*\n<hr>\n<!-- /Breadcrumb -->"
 
 

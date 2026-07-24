@@ -9,7 +9,7 @@ source: drive
 drive_id: 1pjOMplDbTc6RwJbZolsUutgV8eDYBhLi
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260716 💈 HB Barber](./README.md) › 20260717 HB Liste Souscripteurspdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260716 💈 HB Barber](./README.md) › 20260717 HB Liste Souscripteurspdf [📄](https://drive.google.com/file/d/1pjOMplDbTc6RwJbZolsUutgV8eDYBhLi/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

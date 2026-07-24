@@ -9,7 +9,7 @@ source: drive
 drive_id: 1_Fw2u6Nk7d5F29jGHApRQJAIQgOIPShn
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260716 💈 HB Barber](./README.md) › 20260717 HB Barber 09000   siret siren TVA adresse pdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260716 💈 HB Barber](./README.md) › 20260717 HB Barber 09000   siret siren TVA adresse pdf [📄](https://drive.google.com/file/d/1_Fw2u6Nk7d5F29jGHApRQJAIQgOIPShn/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

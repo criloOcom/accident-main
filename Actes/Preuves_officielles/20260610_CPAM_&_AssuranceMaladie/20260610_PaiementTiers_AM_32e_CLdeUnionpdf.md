@@ -9,7 +9,7 @@ source: drive
 drive_id: 12WRHmSqh4sV6JDKmwT67ZmsAaFfs6hYh
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260610 CPAM & AssuranceMaladie](./README.md) › 20260610 PaiementTiers AM 32e CLdeUnionpdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260610 CPAM & AssuranceMaladie](./README.md) › 20260610 PaiementTiers AM 32e CLdeUnionpdf [📄](https://drive.google.com/file/d/12WRHmSqh4sV6JDKmwT67ZmsAaFfs6hYh/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

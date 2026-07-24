@@ -9,7 +9,7 @@ source: drive
 drive_id: 1ydamGe7cFzgoI6YfCnsZBBqiouBM1JO5i9LSr_SDVwY
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260623 🩺 DrDJERBI](./README.md) › 20260623-1730 DrDJERBI Bilan*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260623 🩺 DrDJERBI](./README.md) › 20260623-1730 DrDJERBI Bilan [📄](https://drive.google.com/file/d/1ydamGe7cFzgoI6YfCnsZBBqiouBM1JO5i9LSr_SDVwY/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -9,7 +9,7 @@ source: drive
 drive_id: 1UncZuL15nT8l5Xgg2cWDe2eAFpBix6y4
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260612 🩺 DrOXIBEL](./README.md) › 20260612-1208 RDV DrOXYBEL ConsultationVideo PJlistepdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260612 🩺 DrOXIBEL](./README.md) › 20260612-1208 RDV DrOXYBEL ConsultationVideo PJlistepdf [📄](https://drive.google.com/file/d/1UncZuL15nT8l5Xgg2cWDe2eAFpBix6y4/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

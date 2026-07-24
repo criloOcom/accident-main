@@ -9,7 +9,7 @@ source: drive
 drive_id: 1DNuaJr1DCfzAsxLpc-S3cKzuugXJySOO
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260619 DrDJERBI MAIL](./README.md) › 20260619-1459 MAIL DrDJERBIpdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260619 DrDJERBI MAIL](./README.md) › 20260619-1459 MAIL DrDJERBIpdf [📄](https://drive.google.com/file/d/1DNuaJr1DCfzAsxLpc-S3cKzuugXJySOO/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

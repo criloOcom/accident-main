@@ -9,7 +9,7 @@ source: drive
 drive_id: 1cQAyNWW54kH7Fgig5H00DY0SFqYZlUI9
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260716 💈 HB Barber](./README.md) › 20260717 HBBarber CertificationDeDepotDeFondspdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260716 💈 HB Barber](./README.md) › 20260717 HBBarber CertificationDeDepotDeFondspdf [📄](https://drive.google.com/file/d/1cQAyNWW54kH7Fgig5H00DY0SFqYZlUI9/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -9,7 +9,7 @@ source: drive
 drive_id: 1L-fFv79YSxtNGGsRiBliyxlC_Vn9JanG
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260623 🩺 DrDJERBI](./README.md) › 20260623-1732 DrDJERBI Ordonnance Pommade pdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260623 🩺 DrDJERBI](./README.md) › 20260623-1732 DrDJERBI Ordonnance Pommade pdf [📄](https://drive.google.com/file/d/1L-fFv79YSxtNGGsRiBliyxlC_Vn9JanG/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

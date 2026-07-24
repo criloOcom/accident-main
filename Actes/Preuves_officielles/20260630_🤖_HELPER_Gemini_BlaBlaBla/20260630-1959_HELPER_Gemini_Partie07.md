@@ -9,7 +9,7 @@ source: drive
 drive_id: 1fILBV0GedDqJ1dKP_lefzgwgKOdeuPpr-Gyg_73Sv0M
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260630 🤖 HELPER Gemini BlaBlaBla](./README.md) › 20260630-1959 HELPER Gemini Partie07*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260630 🤖 HELPER Gemini BlaBlaBla](./README.md) › 20260630-1959 HELPER Gemini Partie07 [📄](https://drive.google.com/file/d/1fILBV0GedDqJ1dKP_lefzgwgKOdeuPpr-Gyg_73Sv0M/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

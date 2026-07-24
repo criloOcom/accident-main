@@ -9,7 +9,7 @@ source: drive
 drive_id: 16YvTQkJr_9AD7Flsl8dUDZP2WTqc8Whl
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260601 🇫🇷 INSEE INPI](./README.md) › 20260601-1019 MAIL UrgenceMAIN SecretariatDJERBIpdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260601 🇫🇷 INSEE INPI](./README.md) › 20260601-1019 MAIL UrgenceMAIN SecretariatDJERBIpdf [📄](https://drive.google.com/file/d/16YvTQkJr_9AD7Flsl8dUDZP2WTqc8Whl/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

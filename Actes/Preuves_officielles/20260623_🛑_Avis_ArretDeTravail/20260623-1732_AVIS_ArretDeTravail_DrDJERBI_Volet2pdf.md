@@ -9,7 +9,7 @@ source: drive
 drive_id: 1JsCpS2od3Z5GMWYIe-jeE73F0DPKzlmj
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260623 🛑 Avis ArretDeTravail](./README.md) › 20260623-1732 AVIS ArretDeTravail DrDJERBI Volet2pdf*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260623 🛑 Avis ArretDeTravail](./README.md) › 20260623-1732 AVIS ArretDeTravail DrDJERBI Volet2pdf [📄](https://drive.google.com/file/d/1JsCpS2od3Z5GMWYIe-jeE73F0DPKzlmj/preview)*
 <hr>
 <!-- /Breadcrumb -->
 
