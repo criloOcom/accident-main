@@ -111,12 +111,13 @@ def read_drive_preview_url(rel_md_path):
         candidates.append(os.path.join(ROOT, "Actes", "Token", *parts[2:]))
     else:  # Actes/Preuves_officielles/
         candidates.append(os.path.join(ROOT, "Actes", "Token", "Preuves_officielles", *parts[2:]))
+    valid_id = re.compile(r'^[A-Za-z0-9_-]{10,}$')  # écarte placeholders ("À compléter", etc.)
     for cand in candidates:
         docs_id = read_yaml_field(cand, "docs_id")
-        if docs_id:
+        if docs_id and valid_id.match(docs_id):
             return f"https://docs.google.com/document/d/{docs_id}/preview"
         drive_id = read_yaml_field(cand, "drive_id")
-        if drive_id:
+        if drive_id and valid_id.match(drive_id):
             return f"https://drive.google.com/file/d/{drive_id}/preview"
     return None
 
