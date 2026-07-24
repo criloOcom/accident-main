@@ -38,3 +38,18 @@ L'article L. 124-3 du Code des assurances prévoit que le tiers lésé dispose d
 - **Recherche de l'assureur :** Si l'assuré refuse de donner le nom de sa compagnie, une requête ou assignation peut être effectuée pour ordonner sous astreinte la communication de l'attestation d'assurance et forcer l'intervention de la compagnie.
 
 - **Phase contentieuse — Assignation directe :** Dès lors que l'assureur est identifié, la victime peut l'assigner directement en réparation (fond) ou en provision (référé), avec ou sans mise en cause (intervention forcée) de l'assuré. En pratique, il est fréquent d'assigner l'assuré et son assureur pour s'assurer que la décision soit opposable à tous.
+<hr><hr>
+
+## Sources Législation
+
+> « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
+> **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
+> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+
+> « L'assuré est obligé : 1° De payer la prime ou cotisation aux époques convenues ; 2° De répondre exactement aux questions posées par l'assureur, notamment dans le formulaire de déclaration du risque par lequel l'assureur l'interroge lors de la conclusion du contrat, sur les circonstances qui sont de nature à faire apprécier par l'assureur les risques qu'il prend en charge ; 3° De déclarer, en cours de contrat, les circonstances nouvelles qui ont pour conséquence soit d'aggraver les risques, soit d'en créer de nouveaux et rendent de ce fait inexactes ou caduques les réponses faites à l'assureur, notamment dans le formulaire mentionné au 2° ci-dessus. L'assuré doit, par lettre recommandée ou par envoi recommandé électronique, déclarer ces circonstances à l'assureur dans un délai de quinze jours à partir du moment où il en a eu connaissance ; 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai fixé par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. Ce délai minimal est ramené à deux jours ouvrés en cas de vol et à vingt-quatre heures en cas de mortalité du bétail. Les délais ci-dessus peuvent être prolongés d'un commun accord entre les parties contractantes. Lorsqu'elle est prévue par une clause du contrat, la déchéance pour déclaration tardive au regard des délais prévus au 3° et au 4° ci-dessus ne peut être opposée à l'assuré que si l'assureur établit que le retard dans la déclaration lui a causé un préjudice. Elle ne peut également être opposée dans tous les cas où le retard est dû à un cas fortuit ou de force majeure. Les dispositions mentionnées aux 1°, 3° et 4° ci-dessus ne sont pas applicables aux assurances sur la vie. » <br>
+> **Code des assurances > Chapitre III : Obligations de l'assureur et de l'assuré.** <br>
+> [Article L113-2 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)
+
+> « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+> **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
+> [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
