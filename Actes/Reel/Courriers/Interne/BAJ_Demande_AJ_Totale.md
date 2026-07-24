@@ -38,9 +38,10 @@ auteur: La Victime
 reel_path: ../../../Courriers/Interne/BAJ - Demande AJ - Totale.md
 jx: J+50
 destinataire: Bureau d'Aide Juridictionnelle (BAJ)
+reel_drive_id: 1GYoBDXmQllfjAnt4MZsxwsD5mFnKnLBes1nYp2s2Qg8
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Interne](./README.md) › BAJ Demande AJ Totale ([🎭](../../../Token/Courriers/Interne/BAJ_Demande_AJ_Totale.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Interne](./README.md) › BAJ Demande AJ Totale ([🎭](../../../Token/Courriers/Interne/BAJ_Demande_AJ_Totale.md)) [📄](https://drive.google.com/file/d/1GYoBDXmQllfjAnt4MZsxwsD5mFnKnLBes1nYp2s2Qg8/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -12,6 +12,7 @@ statut: final
 auteur: La Victime
 reel_path: ../../Reel/Analyses_juridiques/Note - Stratégie Jurisprudentielle.md
 source: local
+reel_drive_id: 12LkSxXq18U32VtBkC4lO9yEFTOY21BJbnOYVPgNKUCw
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note Strategie Jurisprudentielle ([👤](../../Reel/Analyses_juridiques/Note_Strategie_Jurisprudentielle.md))*

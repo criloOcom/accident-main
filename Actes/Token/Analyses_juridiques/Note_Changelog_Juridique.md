@@ -5,6 +5,7 @@ description: "Enregistrement des corrections et mises à jour **juridiques** app
 type: analyse_juridique
 reel_path: ../../Reel/Analyses_juridiques/Note - Changelog Juridique.md
 statut: brouillon
+reel_drive_id: 1bcUquLveeHu1Hn7XYnazpRlUVuMNlYrVCunPuSvm2YY
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note Changelog Juridique ([👤](../../Reel/Analyses_juridiques/Note_Changelog_Juridique.md))*

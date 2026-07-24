@@ -27,6 +27,7 @@ destinataire: Assureur RC de l'Exploitant du Commerce
 auteur: Conseil de la Victime
 reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS - Assureur RC - Courrier (copie Avocat).md
 jx: J+50-bis
+reel_drive_id: 1fl_J8Sz840xnjAq4J_PIAdR3zt6vQ9q8_5pG77BYpQo
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS Assureur RC Courrier copie Avocat ([👤](../../../Reel/Courriers/SAS_et_Salon/SAS_Assureur_RC_Courrier_copie_Avocat_.md))*

@@ -3,6 +3,7 @@ uid: PBS3TCuEW
 title: "Kit Foix 27/07/2026"
 description: "Kit complet pour le déplacement à Foix du 27 juillet 2026"
 type: organisation
+reel_drive_id: 1WP1fk0ZcZ2eepgsrJ6Jl9yOjZ48RTEe2SLLEPlzhpNI
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md) › Note Kit Foix 27-07-2026 ([👤](../../Reel/Organisation/Note_Kit_Foix_27-07-2026.md))*

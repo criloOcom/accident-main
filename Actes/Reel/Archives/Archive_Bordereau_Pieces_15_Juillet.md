@@ -10,9 +10,10 @@ raison_archive: "L'opération du 15/07 n'a jamais eu lieu. Visite faite le 16/07
 auteur: La Victime
 jx: J+47
 reel_path: ../../Archives/Archive - Bordereau Pièces 15 Juillet.md
+reel_drive_id: 1RKg56SzsbCVxRWCdu6CD9YQxf7zck6VEewl602s5Z5M
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Archives](./README.md) › Archive Bordereau Pieces 15 Juillet ([🎭](../../Token/Archives/Archive_Bordereau_Pieces_15_Juillet.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Archives](./README.md) › Archive Bordereau Pieces 15 Juillet ([🎭](../../Token/Archives/Archive_Bordereau_Pieces_15_Juillet.md)) [📄](https://drive.google.com/file/d/1RKg56SzsbCVxRWCdu6CD9YQxf7zck6VEewl602s5Z5M/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

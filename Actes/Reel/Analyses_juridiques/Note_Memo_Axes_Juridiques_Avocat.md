@@ -7,9 +7,10 @@ date: 2026-07-17
 statut: final
 auteur: La Victime
 reel_path: ../../Analyses_juridiques/Note - Mémo Axes Juridiques Avocat.md
+reel_drive_id: 1whbz4H9DJHN9crmP_-sxkIiAL36xOZR3pG6mTn7tu9E
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Memo Axes Juridiques Avocat ([🎭](../../Token/Analyses_juridiques/Note_Memo_Axes_Juridiques_Avocat.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Memo Axes Juridiques Avocat ([🎭](../../Token/Analyses_juridiques/Note_Memo_Axes_Juridiques_Avocat.md)) [📄](https://drive.google.com/file/d/1whbz4H9DJHN9crmP_-sxkIiAL36xOZR3pG6mTn7tu9E/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

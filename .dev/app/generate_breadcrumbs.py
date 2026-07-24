@@ -99,7 +99,7 @@ def cross_world_link(rel_md_path):
 
 def read_drive_preview_url(rel_md_path):
     """Pour la strate Réelle (Actes/Reel/ ou Actes/Preuves_officielles/) :
-    extrait drive_id / docs_id du YAML frontmatter du fichier lui-même,
+    extrait drive_id / docs_id / reel_drive_id du YAML frontmatter du fichier lui-même,
     sinon du fichier Token miroir. Retourne l'URL preview Google ou None.
     """
     parts = rel_md_path.split("/")
@@ -112,6 +112,12 @@ def read_drive_preview_url(rel_md_path):
     else:  # Actes/Preuves_officielles/
         candidates.append(os.path.join(ROOT, "Actes", "Token", "Preuves_officielles", *parts[2:]))
     valid_id = re.compile(r'^[A-Za-z0-9_-]{10,}$')  # écarte placeholders ("À compléter", etc.)
+    if rel_md_path.startswith("Actes/Reel/"):
+        for cand in candidates:
+            reel_id = read_yaml_field(cand, "reel_drive_id") or read_yaml_field(cand, "drive_id")
+            if reel_id and valid_id.match(reel_id):
+                return f"https://drive.google.com/file/d/{reel_id}/preview"
+        return None
     for cand in candidates:
         docs_id = read_yaml_field(cand, "docs_id")
         if docs_id and valid_id.match(docs_id):

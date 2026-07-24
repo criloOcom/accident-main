@@ -5,9 +5,10 @@ description: "Ce plan vise à corriger la formulation de l'e-mail pour éliminer
 type: readme
 statut: brouillon
 reel_path: ../../Organisation/Note - Modification Email Maire Foix.md
+reel_drive_id: 1T4UMZdHvMS_2TZs0-d-2sWwhHRgqcawuVlNZxFkQ3Po
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Note Modification Email Maire Foix ([🎭](../../Token/Organisation/Note_Modification_Email_Maire_Foix.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Note Modification Email Maire Foix ([🎭](../../Token/Organisation/Note_Modification_Email_Maire_Foix.md)) [📄](https://drive.google.com/file/d/1T4UMZdHvMS_2TZs0-d-2sWwhHRgqcawuVlNZxFkQ3Po/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

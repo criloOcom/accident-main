@@ -5,9 +5,11 @@ description: "Cette note récapitule l'analyse systématique de tous les rapport
 type: readme
 statut: brouillon
 reel_path: ../../Organisation/Synthèse - Actions et Audits.md
+reel_drive_id: 1O8CKN2B4eBBD_GxnYQkesP41tU3IQ9q7ytS_fMvWeVc
+drive_id: 1O8CKN2B4eBBD_GxnYQkesP41tU3IQ9q7ytS_fMvWeVc
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Synthese Actions et Audits ([🎭](../../Token/Organisation/Synthese_Actions_et_Audits.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Synthese Actions et Audits ([🎭](../../Token/Organisation/Synthese_Actions_et_Audits.md)) [📄](https://drive.google.com/file/d/1O8CKN2B4eBBD_GxnYQkesP41tU3IQ9q7ytS_fMvWeVc/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

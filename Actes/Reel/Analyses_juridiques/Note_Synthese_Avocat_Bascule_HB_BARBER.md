@@ -7,9 +7,10 @@ date: 2026-07-17
 statut: preparation
 auteur: Conseil externe (Jimini) + Sébastien GRAZIDE
 reel_path: ../../Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md
+reel_drive_id: 13izCBCdJfmlzYHy0vaktm__yZ7daXUCXCoUoxO6lVFM
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Synthese Avocat Bascule HB BARBER ([🎭](../../Token/Analyses_juridiques/Note_Synthese_Avocat_Bascule_HB_BARBER.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Synthese Avocat Bascule HB BARBER ([🎭](../../Token/Analyses_juridiques/Note_Synthese_Avocat_Bascule_HB_BARBER.md)) [📄](https://drive.google.com/file/d/13izCBCdJfmlzYHy0vaktm__yZ7daXUCXCoUoxO6lVFM/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

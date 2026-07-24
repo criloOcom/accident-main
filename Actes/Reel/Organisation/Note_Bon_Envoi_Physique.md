@@ -14,9 +14,10 @@ statut: preparation
 auteur: La Victime
 reel_path: ../../Organisation/Note - Bon Envoi Physique.md
 jx: J+38
+reel_drive_id: 1OT5yapMONfTeaMyrcLREyFjq2tFDcjxtFT5NFe1JeS0
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Note Bon Envoi Physique ([🎭](../../Token/Organisation/Note_Bon_Envoi_Physique.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Note Bon Envoi Physique ([🎭](../../Token/Organisation/Note_Bon_Envoi_Physique.md)) [📄](https://drive.google.com/file/d/1OT5yapMONfTeaMyrcLREyFjq2tFDcjxtFT5NFe1JeS0/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

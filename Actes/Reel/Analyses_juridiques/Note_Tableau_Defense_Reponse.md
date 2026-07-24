@@ -8,9 +8,10 @@ statut: final
 auteur: La Victime
 jx: J+47
 reel_path: ../../Analyses_juridiques/Note - Tableau Défense Réponse.md
+reel_drive_id: 1bGvoqt107HzPcriUBv-XlE6HVBHYYd09yPRraFqnF2g
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Tableau Defense Reponse ([🎭](../../Token/Analyses_juridiques/Note_Tableau_Defense_Reponse.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Tableau Defense Reponse ([🎭](../../Token/Analyses_juridiques/Note_Tableau_Defense_Reponse.md)) [📄](https://drive.google.com/file/d/1bGvoqt107HzPcriUBv-XlE6HVBHYYd09yPRraFqnF2g/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

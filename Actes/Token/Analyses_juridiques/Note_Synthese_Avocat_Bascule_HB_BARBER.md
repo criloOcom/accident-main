@@ -7,6 +7,7 @@ date: 2026-07-17
 statut: preparation
 auteur: Conseil externe (Jimini) + [La Victime]
 reel_path: ../../Reel/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md
+reel_drive_id: 13izCBCdJfmlzYHy0vaktm__yZ7daXUCXCoUoxO6lVFM
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note Synthese Avocat Bascule HB BARBER ([👤](../../Reel/Analyses_juridiques/Note_Synthese_Avocat_Bascule_HB_BARBER.md))*

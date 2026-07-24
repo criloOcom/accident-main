@@ -13,9 +13,10 @@ statut: final
 destinataire: La Victime
 auteur: Avocat de la défense
 reel_path: ../../Analyses_juridiques/Mémoire - En défense adverse.md
+reel_drive_id: 1QTh2zcC2DeAWdQDWs_Ywer3w_V8Bars81DfnH2i37lE
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Memoire En defense adverse ([🎭](../../Token/Analyses_juridiques/Memoire_En_defense_adverse.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Memoire En defense adverse ([🎭](../../Token/Analyses_juridiques/Memoire_En_defense_adverse.md)) [📄](https://drive.google.com/file/d/1QTh2zcC2DeAWdQDWs_Ywer3w_V8Bars81DfnH2i37lE/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -15,9 +15,10 @@ reel_path: ../../Analyses_juridiques/Note - Plaidoirie Responsabilité Dirigeant
 source: drive
 drive_id: 1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90
 jx: J+32
+reel_drive_id: 1AQWX_KQKT1sVCl-DKSLTRg0Tmohik-5XmrTVRYbRVAA
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Plaidoirie Responsabilite Dirigeants ([🎭](../../Token/Analyses_juridiques/Note_Plaidoirie_Responsabilite_Dirigeants.md)) [📄](https://drive.google.com/file/d/1uHOesWZrUf16NVs7kC_dr15JtthOfaJnUNo6e3Z7W90/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Plaidoirie Responsabilite Dirigeants ([🎭](../../Token/Analyses_juridiques/Note_Plaidoirie_Responsabilite_Dirigeants.md)) [📄](https://drive.google.com/file/d/1AQWX_KQKT1sVCl-DKSLTRg0Tmohik-5XmrTVRYbRVAA/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -13,9 +13,10 @@ statut: final
 auteur: La Victime
 reel_path: ../../Archives/Archive - Stratégie Contentieux Pénal.md
 source: drive
+reel_drive_id: 1kegVyMrwSFvukEFRGwMC2ceshuKnLCSsQNuduP5xRO4
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Archives](./README.md) › Archive Strategie Contentieux Penal ([🎭](../../Token/Archives/Archive_Strategie_Contentieux_Penal.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Archives](./README.md) › Archive Strategie Contentieux Penal ([🎭](../../Token/Archives/Archive_Strategie_Contentieux_Penal.md)) [📄](https://drive.google.com/file/d/1kegVyMrwSFvukEFRGwMC2ceshuKnLCSsQNuduP5xRO4/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

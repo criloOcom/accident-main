@@ -5,9 +5,10 @@ description: "Enregistrement des corrections et mises à jour **juridiques** app
 type: analyse_juridique
 reel_path: ../../Analyses_juridiques/Note - Changelog Juridique.md
 statut: brouillon
+reel_drive_id: 1bcUquLveeHu1Hn7XYnazpRlUVuMNlYrVCunPuSvm2YY
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Changelog Juridique ([🎭](../../Token/Analyses_juridiques/Note_Changelog_Juridique.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Changelog Juridique ([🎭](../../Token/Analyses_juridiques/Note_Changelog_Juridique.md)) [📄](https://drive.google.com/file/d/1bcUquLveeHu1Hn7XYnazpRlUVuMNlYrVCunPuSvm2YY/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

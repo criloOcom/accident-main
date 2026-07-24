@@ -16,9 +16,10 @@ statut: final
 auteur: La Victime
 jx: J+47
 reel_path: ../../Analyses_juridiques/Note - Mémo Stratégie Admin Pénal.md
+reel_drive_id: 1XvzGFvneAKliRGtFADpLgBD3wQRG3E0XYVur7ZZSFgU
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Memo Strategie Admin Penal ([🎭](../../Token/Analyses_juridiques/Note_Memo_Strategie_Admin_Penal.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Memo Strategie Admin Penal ([🎭](../../Token/Analyses_juridiques/Note_Memo_Strategie_Admin_Penal.md)) [📄](https://drive.google.com/file/d/1XvzGFvneAKliRGtFADpLgBD3wQRG3E0XYVur7ZZSFgU/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

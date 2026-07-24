@@ -19,6 +19,7 @@ auteur: La Victime
 reel_path: ../../../Reel/Courriers/Médical/Médecin Traitant - Consolidation - Relance.md
 source: local
 jx: J+38
+reel_drive_id: 1PWFsEJjcvaQUAeDV_tvzt134lVseD7O6LGclRz03Z5w
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Medical](./README.md) › Medecin Traitant Consolidation Relance ([👤](../../../Reel/Courriers/Medical/Medecin_Traitant_Consolidation_Relance.md))*

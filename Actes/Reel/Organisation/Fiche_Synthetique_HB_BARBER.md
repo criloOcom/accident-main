@@ -4,9 +4,10 @@ title: "Fiche Synthétique — SAS HB BARBER"
 description: "Fiche récapitulative des données INPI/RNE/SIRENE de la SAS HB BARBER à verser au Commissariat et au BAJ de Foix le 27/07/2026."
 type: organisation
 date: 2026-07-22
+reel_drive_id: 1sJo8XDoRVL3JMvz3sBvwXFUeGNykZ5_oxy2H_8Faa0M
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Fiche Synthetique HB BARBER ([🎭](../../Token/Organisation/Fiche_Synthetique_HB_BARBER.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Fiche Synthetique HB BARBER ([🎭](../../Token/Organisation/Fiche_Synthetique_HB_BARBER.md)) [📄](https://drive.google.com/file/d/1sJo8XDoRVL3JMvz3sBvwXFUeGNykZ5_oxy2H_8Faa0M/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

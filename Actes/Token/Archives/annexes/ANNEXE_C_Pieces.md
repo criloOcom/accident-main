@@ -6,6 +6,7 @@ description: '- **J+0 Accident** — **Le Médecin en Urgence** — Premiers soi
 type: readme
 reel_path: ../../../Reel/Archives/annexes/ANNEXE_C_Pieces.md
 auteur: La Victime
+reel_drive_id: 1u7WGe0GdJJyRbiG9dwmrMkXaRnMpKop7SKEGD9c3Vog
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [Archives](../README.md) › [annexes](./README.md) › ANNEXE C Pieces ([👤](../../../Reel/Archives/annexes/ANNEXE_C_Pieces.md))*

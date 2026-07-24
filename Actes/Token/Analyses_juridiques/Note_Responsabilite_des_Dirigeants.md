@@ -15,6 +15,7 @@ destinataire: La Victime
 auteur: L'Avocat de la Victime
 reel_path: ../../Reel/Analyses_juridiques/Note - Responsabilité des Dirigeants.md
 jx: J+41
+reel_drive_id: 1JcbYNaW5MZXaSgiUh0icmWOlEXIozRlduUYbAepOJE4
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note Responsabilite des Dirigeants ([👤](../../Reel/Analyses_juridiques/Note_Responsabilite_des_Dirigeants.md))*

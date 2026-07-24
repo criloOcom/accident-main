@@ -15,6 +15,7 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Analyse Responsabilités Légal
 source: drive
 drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
 jx: J+32
+reel_drive_id: 1_zbMW9ju_fGg3-lq9cwi9i6mKX6td4B_eoJb18m2LF8
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note Analyse Responsabilites Legales ([👤](../../Reel/Analyses_juridiques/Note_Analyse_Responsabilites_Legales.md))*

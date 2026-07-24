@@ -12,9 +12,10 @@ lrar_number: '[87001424721856G]'
 destinataire: La Directrice Générale de l'Exploitation
 auteur: La Victime
 reel_path: ../../../Courriers/SAS_&_Salon/SAS HB BARBER - Directrice Générale - Courrier.md
+reel_drive_id: 1QJyJKSKgZHFnkjmchRhnZR34nFL58nhayXEmXh2X1zo
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS HB BARBER Directrice Generale Courrier ([🎭](../../../Token/Courriers/SAS_et_Salon/SAS_HB_BARBER_Directrice_Generale_Courrier.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS HB BARBER Directrice Generale Courrier ([🎭](../../../Token/Courriers/SAS_et_Salon/SAS_HB_BARBER_Directrice_Generale_Courrier.md)) [📄](https://drive.google.com/file/d/1QJyJKSKgZHFnkjmchRhnZR34nFL58nhayXEmXh2X1zo/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

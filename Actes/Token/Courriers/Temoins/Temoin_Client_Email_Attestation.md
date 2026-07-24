@@ -18,6 +18,7 @@ auteur: La Victime
 reel_path: ../../../Reel/Courriers/Témoins/Témoin Client - Email Attestation.md
 source: local
 jx: J+38
+reel_drive_id: 1wtmlUFMzkkFJtu-Hp4TPFq8IHRQZjM257TTxUauj14Q
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Temoins](./README.md) › Temoin Client Email Attestation ([👤](../../../Reel/Courriers/Temoins/Temoin_Client_Email_Attestation.md))*

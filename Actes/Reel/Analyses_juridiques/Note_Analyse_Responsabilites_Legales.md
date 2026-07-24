@@ -15,9 +15,10 @@ reel_path: ../../Analyses_juridiques/Note - Analyse Responsabilités Légales.md
 source: drive
 drive_id: 1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34
 jx: J+32
+reel_drive_id: 1_zbMW9ju_fGg3-lq9cwi9i6mKX6td4B_eoJb18m2LF8
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Analyse Responsabilites Legales ([🎭](../../Token/Analyses_juridiques/Note_Analyse_Responsabilites_Legales.md)) [📄](https://drive.google.com/file/d/1lUKoGE8kozmE3KA4zErv9GYmJZ0yctOk9tn92O8KT34/preview)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Analyse Responsabilites Legales ([🎭](../../Token/Analyses_juridiques/Note_Analyse_Responsabilites_Legales.md)) [📄](https://drive.google.com/file/d/1_zbMW9ju_fGg3-lq9cwi9i6mKX6td4B_eoJb18m2LF8/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

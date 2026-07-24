@@ -4,6 +4,8 @@ title: "Analyse des responsabilités : Dirigeants, Bailleur et Qualification Pé
 description: "Rapport d'analyse de la responsabilité pénale et civile des dirigeants et du bailleur"
 type: "analyse_juridique"
 statut: "projet"
+reel_drive_id: 1D5G7rWzHLbt5R0_kQOrJQb9EkCHqh2iuo4tJXKks60Q
+drive_id: 1D5G7rWzHLbt5R0_kQOrJQb9EkCHqh2iuo4tJXKks60Q
 ---
 
 <!-- Breadcrumb -->

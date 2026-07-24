@@ -13,9 +13,10 @@ statut: final
 auteur: La Victime
 reel_path: ../../Archives/Archive - Stratégie Contentieux Civil.md
 source: drive
+reel_drive_id: 1erRBY6vUkahwArGbWUPpDFRE8fCVnUdLHvGm4WUOiAQ
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Archives](./README.md) › Archive Strategie Contentieux Civil ([🎭](../../Token/Archives/Archive_Strategie_Contentieux_Civil.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Archives](./README.md) › Archive Strategie Contentieux Civil ([🎭](../../Token/Archives/Archive_Strategie_Contentieux_Civil.md)) [📄](https://drive.google.com/file/d/1erRBY6vUkahwArGbWUPpDFRE8fCVnUdLHvGm4WUOiAQ/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -4,10 +4,12 @@ title: "Analyse des responsabilités : Dirigeants, Bailleur et Qualification Pé
 description: "Rapport d'analyse de la responsabilité pénale et civile des dirigeants et du bailleur"
 type: "analyse_juridique"
 statut: "projet"
+reel_drive_id: 1D5G7rWzHLbt5R0_kQOrJQb9EkCHqh2iuo4tJXKks60Q
+drive_id: 1D5G7rWzHLbt5R0_kQOrJQb9EkCHqh2iuo4tJXKks60Q
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › Rapports › 30 Analyses Multi Angle › RESPONSABILITE DIRIGEANTS ET BAILLEUR 20260724 ([🎭](../../../Token/Rapports/30_Analyses_Multi_Angle/RESPONSABILITE_DIRIGEANTS_ET_BAILLEUR_20260724.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › Rapports › 30 Analyses Multi Angle › RESPONSABILITE DIRIGEANTS ET BAILLEUR 20260724 ([🎭](../../../Token/Rapports/30_Analyses_Multi_Angle/RESPONSABILITE_DIRIGEANTS_ET_BAILLEUR_20260724.md)) [📄](https://drive.google.com/file/d/1D5G7rWzHLbt5R0_kQOrJQb9EkCHqh2iuo4tJXKks60Q/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

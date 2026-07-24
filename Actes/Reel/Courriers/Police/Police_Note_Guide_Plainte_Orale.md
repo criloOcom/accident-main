@@ -10,9 +10,10 @@ destinataire: La Victime
 statut: archive
 reel_path: ../../../Reel/Courriers/Police/Police - Note Guide Plainte Orale.md
 auteur: La Victime
+reel_drive_id: 1NGWYfLA4HmkVezwjLSoDKh109cfdahMMrN8lJuDGQtk
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Note Guide Plainte Orale*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Note Guide Plainte Orale [📄](https://drive.google.com/file/d/1NGWYfLA4HmkVezwjLSoDKh109cfdahMMrN8lJuDGQtk/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

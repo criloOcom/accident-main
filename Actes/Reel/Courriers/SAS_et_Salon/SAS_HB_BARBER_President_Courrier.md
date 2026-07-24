@@ -12,9 +12,10 @@ lrar_number: '[87001424862879J]'
 destinataire: Le Président de l'Exploitation
 auteur: La Victime
 reel_path: ../../../Courriers/SAS_&_Salon/SAS HB BARBER - Président - Courrier.md
+reel_drive_id: 1lBD2-QxQnAQvep5pimHAPaMwKMlK9O3zenybY1X3l2E
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS HB BARBER President Courrier ([🎭](../../../Token/Courriers/SAS_et_Salon/SAS_HB_BARBER_President_Courrier.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS HB BARBER President Courrier ([🎭](../../../Token/Courriers/SAS_et_Salon/SAS_HB_BARBER_President_Courrier.md)) [📄](https://drive.google.com/file/d/1lBD2-QxQnAQvep5pimHAPaMwKMlK9O3zenybY1X3l2E/preview)*
 <hr>
 <!-- /Breadcrumb -->
 

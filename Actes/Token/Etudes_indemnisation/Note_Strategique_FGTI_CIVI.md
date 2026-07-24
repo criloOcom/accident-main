@@ -14,6 +14,7 @@ destinataire: La Victime
 auteur: Expert FGTI/CIVI
 reel_path: ../../Reel/Etudes_indemnisation/Note - Stratégique FGTI CIVI.md
 jx: J+40
+reel_drive_id: 1MSCxy5BO5T7KeAoG3gO1Fbsi5wc9khOYmTIFCji2puQ
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Etudes indemnisation](./README.md) › Note Strategique FGTI CIVI ([👤](../../Reel/Etudes_indemnisation/Note_Strategique_FGTI_CIVI.md))*

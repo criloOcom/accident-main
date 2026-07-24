@@ -12,6 +12,7 @@ lrar_number: 87500152771696F
 destinataire: L'Exploitant du Commerce (La SAS)
 auteur: La Victime
 reel_path: ../../../Reel/Courriers/SAS_&_Salon/SAS HB BARBER - SAS - HB BARBER - Courrier.md
+reel_drive_id: 1fIvCMP3Bn5ohK9lBWQGd8fC0GX2HooQ-yi8OeeEa-cI
 ---
 <!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS HB BARBER SAS HB BARBER Courrier ([👤](../../../Reel/Courriers/SAS_et_Salon/SAS_HB_BARBER_SAS_HB_BARBER_Courrier.md))*

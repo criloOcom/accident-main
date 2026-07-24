@@ -3,9 +3,10 @@ uid: PBS3TCuEW
 title: "Kit Foix 27/07/2026"
 description: "Kit complet pour le déplacement à Foix du 27 juillet 2026"
 type: organisation
+reel_drive_id: 1WP1fk0ZcZ2eepgsrJ6Jl9yOjZ48RTEe2SLLEPlzhpNI
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Note Kit Foix 27-07-2026 ([🎭](../../Token/Organisation/Note_Kit_Foix_27-07-2026.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Note Kit Foix 27-07-2026 ([🎭](../../Token/Organisation/Note_Kit_Foix_27-07-2026.md)) [📄](https://drive.google.com/file/d/1WP1fk0ZcZ2eepgsrJ6Jl9yOjZ48RTEe2SLLEPlzhpNI/preview)*
 <hr>
 <!-- /Breadcrumb -->
 
