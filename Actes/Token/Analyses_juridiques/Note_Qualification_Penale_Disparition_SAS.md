@@ -32,11 +32,11 @@ La présente note vise à analyser les qualifications pénales applicables dans 
 
 ## II — ORGANISATION FRAUDULEUSE D'INSOLVABILITÉ
 
-**Fondement** : [Article 314-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000064182](../../../Lois/Code/LEGIARTI0000064182.md)26)
+**Fondement** : [Article 314-7 du Code pénal](../../../Lois/Code/LEGIARTI0000064182.md)26)
 
 > *« Le fait, par un débiteur, même avant la décision judiciaire constatant sa dette, d'organiser ou d'aggraver son insolvabilité soit en augmentant le passif ou en diminuant l'actif de son patrimoine, soit en diminuant ou en dissimulant tout ou partie de ses revenus, soit en dissimulant certains de ses biens, en vue de se soustraire à l'exécution d'une condamnation de nature patrimoniale prononcée par une juridiction répressive ou, en matière délictuelle, quasi délictuelle ou d'aliments, prononcée par une juridiction civile, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende.
 > Commet le même délit le dirigeant de droit ou de fait d'une personne morale qui organise ou aggrave l'insolvabilité de celle-ci dans les conditions définies à l'alinéa précédent en vue de la soustraire aux obligations patrimoniales résultant d'une condamnation prononcée contre elle. »* <br>
-> [Article 314-7](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000064182](../../../Lois/Code/LEGIARTI0000064182.md)26) <br>
+> [Article 314-7](../../../Lois/Code/LEGIARTI0000064182.md)26) <br>
 > Code pénal <br>
 
 **Problématique :**
@@ -46,17 +46,17 @@ La société [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-explo
 L'article 314-7 du Code pénal[^n1] permet expressément d'appréhender le comportement du débiteur qui organise son insolvabilité *avant même* que la décision de justice ne soit rendue. Si [**[Le Président de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-president-nom.md) et [**[La Directrice Générale de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-dg-nom.md) décident de dissoudre la structure ou de transférer le fonds de commerce à une autre entité sans provisionner le passif latent lié à l'accident du 29 mai 2026, l'infraction sera pleinement constituée. La peine encourue (jusqu'à 5 ans de prison et 375 000 € d'amende avec circonstances aggravantes) justifie la saisine du Parquet.
 
 > *« Le fait, par un débiteur, même avant la décision judiciaire constatant sa dette, d'organiser ou d'aggraver son insolvabilité soit en augmentant le passif ou en diminuant l'actif de son patrimoine, soit en diminuant ou en dissimulant tout ou partie de ses revenus, soit en dissimulant certains de ses biens, en vue de se soustraire à l'exécution d'une condamnation de nature patrimoniale prononcée par une juridiction répressive ou, en matière délictuelle, quasi délictuelle ou d'aliments, prononcée par une juridiction civile, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. Commet le même délit le dirigeant de droit ou de fait d'une personne morale qui organise ou aggrave l'insolvabilité de celle-ci dans les conditions définies à l'alinéa précédent en vue de la soustraire aux obligations pécuniaires résultant d'une condamnation prononcée en matière pénale, délictuelle ou quasi délictuelle. »* <br>
-> [Article 314-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000064182](../../../Lois/Code/LEGIARTI0000064182.md)26) <br>
+> [Article 314-7 du Code pénal](../../../Lois/Code/LEGIARTI0000064182.md)26) <br>
 > **Code pénal > Section 3 : De l'organisation frauduleuse de l'insolvabilité.**
 <hr><hr>
 
 ## III — ESCROQUERIE
 
-**Fondement** : [Article 313-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000064181](../../../Lois/Code/LEGIARTI0000064181.md)92)
+**Fondement** : [Article 313-1 du Code pénal](../../../Lois/Code/LEGIARTI0000064181.md)92)
 
 > *« L'escroquerie est le fait, soit par l'usage d'un faux nom ou d'une fausse qualité, soit par l'abus d'une qualité vraie, soit par l'emploi de manoeuvres frauduleuses, de tromper une personne physique ou morale et de la déterminer ainsi, à son préjudice ou au préjudice d'un tiers, à remettre des fonds, des valeurs ou un bien quelconque, à fournir un service ou à consentir un acte opérant obligation ou décharge. L'escroquerie est punie de cinq ans d'emprisonnement et de 375 000 euros d'amende. »* <br>
 > *« L'escroquerie est le fait, soit par l'usage d'un faux nom ou d'une fausse qualité, soit par l'abus d'une qualité vraie, soit par l'emploi de manoeuvres frauduleuses, de tromper une personne physique ou morale et de la déterminer ainsi, à son préjudice ou au préjudice d'un tiers, à remettre des fonds, des valeurs ou un bien quelconque, à fournir un service ou à consentir un acte opérant obligation ou décharge. L'escroquerie est punie de cinq ans d'emprisonnement et de 375 000 euros d'amende. »* <br>
-> [Article 313-1](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000064181](../../../Lois/Code/LEGIARTI0000064181.md)92) <br>
+> [Article 313-1](../../../Lois/Code/LEGIARTI0000064181.md)92) <br>
 > Code pénal <br>
 
 **Problématique :**
@@ -68,11 +68,11 @@ Le montage juridique consistant à recréer une entité miroir (même activité,
 
 ## IV — BANQUEROUTE PAR DISSIMULATION D'ACTIFS
 
-**Fondement** : [Article L.654-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000199844](../../../Lois/Code/LEGIARTI0000199844.md)72) (et suivants)
+**Fondement** : [Article L.654-1 du Code de commerce](../../../Lois/Code/LEGIARTI0000199844.md)72) (et suivants)
 
 > *« Les dispositions de la présente section sont applicables : 1° A toute personne exerçant une activité commerciale ou artisanale, à tout agriculteur et à toute autre personne physique exerçant une activité professionnelle indépendante y compris une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé ; 2° A toute personne qui a, directement ou indirectement, en droit ou en fait, dirigé ou liquidé une personne morale de droit privé ; 3° Aux personnes physiques représentants permanents des personnes morales dirigeants des personnes morales définies au 2° ci-dessus. »* <br>
 > *« Les dispositions de la présente section sont applicables : 1° A toute personne exerçant une activité commerciale ou artisanale, à tout agriculteur et à toute autre personne physique exerçant une activité professionnelle indépendante y compris une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé ; 2° A toute personne qui a, directement ou indirectement, en droit ou en fait, dirigé ou liquidé une personne morale de droit privé ; 3° Aux personnes physiques représentants permanents des personnes morales dirigeants des personnes morales définies au 2° ci-dessus. »* <br>
-> [Article L.654-1](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000199844](../../../Lois/Code/LEGIARTI0000199844.md)72) <br>
+> [Article L.654-1](../../../Lois/Code/LEGIARTI0000199844.md)72) <br>
 > Code de commerce <br>
 
 **Problématique :**

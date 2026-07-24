@@ -33,7 +33,7 @@ La partie demanderesse réclame une provision de 15 000 € sur le fondement de 
 Or, une analyse rigoureuse des pièces du dossier démontre l'existence de contestations sérieuses tant sur la matérialité des faits, le lien de causalité, que sur l'évaluation particulièrement exagérée des préjudices.
 
 > *« Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
-> [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000425972](../../../Lois/Code/LEGIARTI0000425972.md)84) <br>
+> [Article 835 du Code de procédure civile](../../../Lois/Code/LEGIARTI0000425972.md)84) <br>
 > **Code de procédure civile > Chapitre II : Les ordonnances de référé.**
 <hr><hr>
 
@@ -59,7 +59,7 @@ De plus, les certificats médicaux initiaux faisaient état d'une ITT de 1 jour,
 La victime reconnaît elle-même avoir « tendu la main droite par réflexe » et avoir volontairement interagi avec la chose (le meuble). Cette intervention active, précipitée et inopportune de la victime constitue une faute d'imprudence au sens de l'article 1241 du Code civil[^n2].
 
 > *« Chacun est responsable du dommage qu'il a causé non seulement par son fait, mais encore par sa négligence ou par son imprudence. »* <br>
-> [Article 1241 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000320415](../../../Lois/Code/LEGIARTI0000320415.md)71) <br>
+> [Article 1241 du Code civil](../../../Lois/Code/LEGIARTI0000320415.md)71) <br>
 > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.**
 
 Cette imprudence est de nature à exonérer, au moins partiellement, la gardienne de la chose de sa responsabilité, rendant l'obligation de réparation intégralement contestable en référé.

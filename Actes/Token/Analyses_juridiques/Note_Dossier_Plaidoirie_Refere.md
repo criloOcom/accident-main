@@ -79,7 +79,7 @@ jx: J+60
 ## III — DISCUSSION JURIDIQUE STRUCTURÉE
 ### III.1 — RESPONSABILITÉ DE PLEIN DROIT DU GARDIEN (ART. 1242[^n1] C. CIV.)
 
-Sur le fondement de l'[Article 1242 alinéa 1er du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000517860](../../../Lois/Code/LEGIARTI0000517860.md)00), le gardien de la chose instrument du dommage est responsable de plein droit.
+Sur le fondement de l'[Article 1242 alinéa 1er du Code civil](../../../Lois/Code/LEGIARTI0000517860.md)00), le gardien de la chose instrument du dommage est responsable de plein droit.
 - **La vasque = chose instrument du dommage :** Son état de délabrement (cassure préexistante tranchante) et son basculement constituent le rôle actif incontestable dans la réalisation du dommage.
 
 - **La garde :** [**[L'Exploitant du Commerce]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) est le propriétaire et l'exploitant du matériel défectueux.
@@ -88,10 +88,10 @@ Sur le fondement de l'[Article 1242 alinéa 1er du Code civil](https://www.legif
 
 ### III.2 — ACTION DIRECTE CONTRE L'ASSUREUR (ART. L.124-3 C. ASSUR.)
 
-La victime bénéficie d'un droit d'action directe et autonome contre l'assureur de responsabilité civile du responsable, selon l'[Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49). L'obstruction de la direction de la SAS à communiquer le nom de cet assureur justifie pleinement cette saisine en référé pour obtenir les informations sous astreinte.
+La victime bénéficie d'un droit d'action directe et autonome contre l'assureur de responsabilité civile du responsable, selon l'[Article L. 124-3 du Code des assurances](../../../Lois/Code/LEGIARTI0000177354.md)49). L'obstruction de la direction de la SAS à communiquer le nom de cet assureur justifie pleinement cette saisine en référé pour obtenir les informations sous astreinte.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
+> [Article L124-3 du Code des assurances](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 
 ### III.3 — FONDEMENT DE LA RESPONSABILITÉ PERSONNELLE DES DIRIGEANTS (L.227-8, L.225-251, FAUTE DÉTACHABLE SATI)
@@ -99,7 +99,7 @@ La victime bénéficie d'un droit d'action directe et autonome contre l'assureur
 En droit, l'article L.227-8 du Code de commerce[^n2] dispose que :
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
-> [Article L.227-8](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062270](../../../Lois/Code/LEGIARTI0000062270.md)36) <br>
+> [Article L.227-8](../../../Lois/Code/LEGIARTI0000062270.md)36) <br>
 > **Code de commerce**
 
 Il en résulte que le régime de responsabilité des dirigeants de SA, et notamment l'article L.225-251 du Code de commerce[^n3], est applicable au Président et à la Directrice Générale de la SAS : ils peuvent être déclarés responsables, envers la société et envers les tiers, des fautes commises dans leur gestion, des infractions aux dispositions légales et des violations des statuts.
@@ -126,10 +126,10 @@ Sans préjuger de l'appréciation du juge du fond, ces éléments sont de nature
 
 ### III.4 — MANQUEMENT À L'OBLIGATION DE SÉCURITÉ
 
-Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant est tenu par une obligation générale de sécurité prévue à l'[Article L. 421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000494640](../../../Lois/Code/LEGIARTI0000494640.md)53) et aux règles des ERP. Maintenir une vasque brisée et tranchante dans un tel espace constitue une négligence coupable d'une extrême gravité.
+Les locaux constituant un Établissement Recevant du Public (ERP), l'exploitant est tenu par une obligation générale de sécurité prévue à l'[Article L. 421-3 du Code de la consommation](../../../Lois/Code/LEGIARTI0000494640.md)53) et aux règles des ERP. Maintenir une vasque brisée et tranchante dans un tel espace constitue une négligence coupable d'une extrême gravité.
 
 > *« Les prestations de services doivent présenter, dans des conditions normales d'utilisation ou dans d'autres conditions raisonnablement prévisibles par le professionnel, la sécurité à laquelle on peut légitimement s'attendre et ne pas porter atteinte à la santé des personnes. »* <br>
-> [Article L421-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000494640](../../../Lois/Code/LEGIARTI0000494640.md)53) <br>
+> [Article L421-3 du Code de la consommation](../../../Lois/Code/LEGIARTI0000494640.md)53) <br>
 > **Code de la consommation > Chapitre Ier : Obligation générale de sécurité.**
 <hr><hr>
 
@@ -169,7 +169,7 @@ La présente procédure de référé ne vise pas à solder définitivement le do
 - **Demande au titre de l'Article 700 du Code de procédure civile :** 3 000 € (frais de justice, avocat et constats)
 
 > *« Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet 1991 . Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Les parties peuvent produire les justificatifs des sommes qu'elles demandent. La somme allouée au titre du 2° ne peut être inférieure à la part contributive de l'Etat majorée de 50 %. »* <br>
-> [Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000452684](../../../Lois/Code/LEGIARTI0000452684.md)36) <br>
+> [Article 700 du Code de procédure civile](../../../Lois/Code/LEGIARTI0000452684.md)36) <br>
 > **Code de procédure civile > Chapitre Ier : La charge des dépens.**
 <hr><hr>
 

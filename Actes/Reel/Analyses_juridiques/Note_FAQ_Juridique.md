@@ -39,12 +39,12 @@ Ce document examine les différents fondements juridiques sur lesquels la victim
 > *« Le débiteur est condamné, s'il y a lieu, au paiement de dommages et intérêts soit à raison de l'inexécution de l'obligation, soit à raison du retard dans l'exécution, s'il ne justifie pas que l'exécution a été empêchée par la force majeure. »* <br>
 > **Code civil > Sous-section 5 : La réparation du préjudice résultant de l'inexécution du contrat.** <br>
 > *« Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine, ou qui diminuent tellement cet usage que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'il les avait connus. »* <br>
-> [Article 1641 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000064419](../../../Lois/Code/LEGIARTI0000064419.md)24) <br>
+> [Article 1641 du Code civil](../../../Lois/Code/LEGIARTI0000064419.md)24) <br>
 
 La présente synthèse répond en outre aux questions pratiques que la victime est susceptible de se poser dans le cadre de la conduite de son dossier.
 
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
-> [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000320415](../../../Lois/Code/LEGIARTI0000320415.md)71) <br>
+> [Article 1240](../../../Lois/Code/LEGIARTI0000320415.md)71) <br>
 > **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II.**
 
 <hr><hr>
@@ -95,13 +95,13 @@ Malgré une intervention de microchirurgie réalisée le 30 mai 2026 à la Clini
 Non, ce refus est abusif et contraire au principe de loyauté. La victime dispose d'un droit d'action directe contre l'assureur (Art. L. 124-3 du Code des assurances[^n4]).
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
-> [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
+> [Article L. 124-3](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre II > Chapitre Ier.**
 
 Si le gérant fait obstruction, la victime peut obtenir du juge des référés (Art. 145[^n5] CPC) une injonction de communiquer l'attestation d'assurance sous astreinte financière quotidienne.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
-> [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000518693](../../../Lois/Code/LEGIARTI0000518693.md)39) <br>
+> [Article 145](../../../Lois/Code/LEGIARTI0000518693.md)39) <br>
 > **Code de procédure civile > Partie législative > Livre II > Titre VII > Section I.**
 
 ### III.4 — Q : QUELLES SONT LES OBLIGATIONS DE DÉCLARATION DE LA SOCIÉTÉ SUITE À L'ACCIDENT ?
@@ -113,7 +113,7 @@ De plus, elle doit consigner l'incident dans son registre de sécurité interne 
 Le fait de cacher l'accident à son assureur ou de refuser de communiquer les coordonnées constitue une faute de gestion caractérisée des dirigeants.
 
 > *« L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. »* <br>
-> [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000357313](../../../Lois/Code/LEGIARTI0000357313.md)02) <br>
+> [Article L. 113-2](../../../Lois/Code/LEGIARTI0000357313.md)02) <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre Ier > Chapitre III.**
 <hr><hr>
 
@@ -122,13 +122,13 @@ Le fait de cacher l'accident à son assureur ou de refuser de communiquer les co
 La stratégie repose sur une mise en cause plurielle pour garantir la réparation intégrale du préjudice. En premier lieu, la responsabilité de la SAS LES MAUVAIS GARCONS est engagée en tant que commettant du fait de son préposé, sur le fondement de l'article 1242 du Code civil[^n7], mais aussi en sa qualité de gardienne de la chose (le bac défectueux).
 
 > *« Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »* <br>
-> [Article 1242](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000517860](../../../Lois/Code/LEGIARTI0000517860.md)00) <br>
+> [Article 1242](../../../Lois/Code/LEGIARTI0000517860.md)00) <br>
 > **Code civil > Partie législative > Livre III > Titre IV > Sous-titre II > Chapitre II.**
 
 Par ailleurs, une attention particulière est portée à la faute détachable des dirigeants. Conformément à la jurisprudence Cass. Com., 20 mai 2003 (Arrêt Sati, n° 99-17.092), Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC engagent leur responsabilité personnelle s'ils ont maintenu en service un équipement dangereux ou manqué à leur obligation de souscrire une assurance conforme, tel que prévu par l'article L. 227-8 du Code de commerce[^n8].
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
-> [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062270](../../../Lois/Code/LEGIARTI0000062270.md)36) <br>
+> [Article L. 227-8](../../../Lois/Code/LEGIARTI0000062270.md)36) <br>
 > **Code de commerce > Partie législative > Livre V > Titre II > Chapitre Ier > Section 5 > Sous-section 3.**
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
@@ -153,7 +153,7 @@ Sur le plan civil, plusieurs mises en demeure ont été expédiées le 29 juin 2
 - Action directe contre **[l'assureur de responsabilité civile]** (fondée sur l'article L. 124-3 du Code des assurances[^n4]).
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
+> [Article L124-3 du Code des assurances](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 <hr><hr>
 
@@ -162,7 +162,7 @@ Sur le plan civil, plusieurs mises en demeure ont été expédiées le 29 juin 2
 La procédure suit un calendrier rigoureux. Les adversaires disposent de 15 jours pour répondre aux mises en demeure avant l'engagement d'un référé-provision sur le fondement de l'article 835 du Code de procédure civile.
 
 > *« Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils [le président du tribunal ou le juge] peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
-> [Article 835](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000425972](../../../Lois/Code/LEGIARTI0000425972.md)84) <br>
+> [Article 835](../../../Lois/Code/LEGIARTI0000425972.md)84) <br>
 > **Code de procédure civile > Partie législative > Livre II > Titre III > Chapitre Ier.**
 
 Une étape cruciale est fixée au 12 novembre 2026 pour l'expertise médicale à l'UMJ de Toulouse, qui permettra de chiffrer définitivement les préjudices (actuellement estimés à **~90 000 €**).
@@ -170,7 +170,7 @@ Une étape cruciale est fixée au 12 novembre 2026 pour l'expertise médicale à
 À noter que l'action en réparation d'un dommage corporel se prescrit par 10 ans à compter de la consolidation (Article 2226 du Code civil[^n9]).
 
 > *« L'action en responsabilité née d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices, se prescrit par dix ans à compter de la date de la consolidation du dommage corporel initial ou aggravé. »* <br>
-> [Article 2226](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000190172](../../../Lois/Code/LEGIARTI0000190172.md)59) <br>
+> [Article 2226](../../../Lois/Code/LEGIARTI0000190172.md)59) <br>
 > **Code civil > Partie législative > Livre III > Titre XX > Chapitre II > Section 2.**
 <hr><hr>
 
@@ -189,7 +189,7 @@ Néanmoins, l'action directe et la responsabilité personnelle des dirigeants co
 De plus, l'action directe contre l'assureur (Art. L. 124-3 du Code des assurances[^n4]) est autonome et reste recevable même après la dissolution ou la liquidation de l'entreprise responsable, garantissant l'indemnisation finale par la compagnie d'assurance.*
 
 > *« La personnalité morale de la société subsiste pour les besoins de la liquidation, jusqu'à la clôture de celle-ci. »* <br>
-> [Article L. 237-2](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000062300](../../../Lois/Code/LEGIARTI0000062300.md)63) <br>
+> [Article L. 237-2](../../../Lois/Code/LEGIARTI0000062300.md)63) <br>
 > **Code de commerce > Partie législative > Livre V > Titre IV > Chapitre IV > Section 3.**
 
 <!-- Source -->

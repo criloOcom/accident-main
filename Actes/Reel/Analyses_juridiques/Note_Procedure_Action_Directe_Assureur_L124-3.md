@@ -45,11 +45,11 @@ Sont examinés : le fondement textuel, le régime de prescription, les condition
 L'article L.124-3 du Code des assurances[^n1] constitue le socle juridique de l'action directe de la victime contre l'assureur de responsabilité civile du responsable.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
-> [Article L.124-3, alinéa 1er](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
+> [Article L.124-3, alinéa 1er](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
 > **Code des assurances — Partie législative — Livre Ier — Titre II — Chapitre IV**
 
 > *« L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
-> [Article L.124-3, alinéa 2](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
+> [Article L.124-3, alinéa 2](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
 > **Code des assurances — Partie législative — Livre Ier — Titre II — Chapitre IV**
 
 **Nature juridique :** L'action directe est un droit propre de la victime, distinct de l'action contractuelle de l'assuré contre son assureur. Elle est reconnue comme un droit autonome, même si elle prend sa source dans la responsabilité de l'assuré.
@@ -67,15 +67,15 @@ Ce caractère autonome emporte des conséquences fondamentales :
 
 **Textes connexes :**
 
-- **[Article L.113-1](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000067919](../../../Lois/Code/LEGIARTI0000067919.md)86)** — Exclusion des fautes intentionnelles et dolosives (limite à l'action directe).
+- **[Article L.113-1](../../../Lois/Code/LEGIARTI0000067919.md)86)** — Exclusion des fautes intentionnelles et dolosives (limite à l'action directe).
 
-- **[Article L.113-2](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000357313](../../../Lois/Code/LEGIARTI0000357313.md)02)** — Obligation de déclaration du sinistre par l'assuré.
+- **[Article L.113-2](../../../Lois/Code/LEGIARTI0000357313.md)02)** — Obligation de déclaration du sinistre par l'assuré.
 
-- **[Article L.114-1](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000446077](../../../Lois/Code/LEGIARTI0000446077.md)40)** — Prescription biennale des actions dérivant du contrat d'assurance (inapplicable à la victime).
+- **[Article L.114-1](../../../Lois/Code/LEGIARTI0000446077.md)40)** — Prescription biennale des actions dérivant du contrat d'assurance (inapplicable à la victime).
 
-- **[Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000064388](../../../Lois/Code/LEGIARTI0000064388.md)27)** — Responsabilité du fait des choses (fondement de la responsabilité de l'ERP).
+- **[Article 1242 du Code civil](../../../Lois/Code/LEGIARTI0000064388.md)27)** — Responsabilité du fait des choses (fondement de la responsabilité de l'ERP).
 
-- **[Article 835 CPC](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000425972](../../../Lois/Code/LEGIARTI0000425972.md)84)** — Référé-provision (voie procédurale pour obtenir une provision).
+- **[Article 835 CPC](../../../Lois/Code/LEGIARTI0000425972.md)84)** — Référé-provision (voie procédurale pour obtenir une provision).
 <hr><hr>
 
 ## III — PRESCRIPTION DE L'ACTION DIRECTE<br>5 ANS, PAS 2 ANS (ARRÊT 80-16.679)
@@ -95,10 +95,10 @@ La Cour de cassation a ainsi cassé l'arrêt de la cour d'appel de Chambéry qui
 Pour les dommages corporels, la prescription de l'action en responsabilité est fixée à **dix ans** à compter de la consolidation, en application de l'article 2226 du Code civil[^n3]. Toutefois, la prescription est de **cinq ans** si l'action est fondée sur la responsabilité contractuelle de l'ERP (obligation de sécurité — art. 2224[^n4] C. civ.), ou de **dix ans** si fondée sur la responsabilité délictuelle (art. 2226[^n3] C. civ.).
 
 > *« L'action en responsabilité née à raison d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices qui en résultent, se prescrit par dix ans à compter de la date de la consolidation du dommage initial ou aggravé. »* <br>
-> [Article 2226 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000190172](../../../Lois/Code/LEGIARTI0000190172.md)59)
+> [Article 2226 du Code civil](../../../Lois/Code/LEGIARTI0000190172.md)59)
 
 > *« Les actions personnelles ou mobilières se prescrivent par cinq ans à compter du jour où le titulaire d'un droit a connu ou aurait dû connaître les faits lui permettant de l'exercer. »* <br>
-> [Article 2224 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000064392](../../../Lois/Code/LEGIARTI0000064392.md)70)
+> [Article 2224 du Code civil](../../../Lois/Code/LEGIARTI0000064392.md)70)
 
 **Distinction avec la prescription biennale (L.114-1) :**
 
@@ -130,7 +130,7 @@ L'obstacle actuel est le refus de Hamza El Hachemi BERGUIGA de communiquer les c
 Le droit d'action directe est un droit propre, qui n'est ni l'exercice par subrogation des droits de l'assuré, ni une cession de créance. Il prend sa source dans le préjudice subi par la victime.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
-> [Article L.124-3, alinéa 1er](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49)
+> [Article L.124-3, alinéa 1er](../../../Lois/Code/LEGIARTI0000177354.md)49)
 
 Conséquences :
 - La victime peut agir contre l'assureur sans avoir à poursuivre préalablement l'assuré ;
@@ -167,7 +167,7 @@ L'obstacle principal à l'exercice de l'action directe est l'absence d'identific
 ### V.1 — Fondement de la demande : article 145[^n2] CPC
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
-> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000518693](../../../Lois/Code/LEGIARTI0000518693.md)39)
+> [Article 145 du Code de procédure civile](../../../Lois/Code/LEGIARTI0000518693.md)39)
 
 ### V.2 — Motif légitime
 
@@ -248,7 +248,7 @@ Cependant, la Cour de cassation a posé un principe d'exclusivité des régimes 
 Le principal risque est que l'assureur tente d'opposer une exclusion de garantie fondée sur l'article L.113-1 du Code des assurances[^n10].
 
 > *« Les pertes et les dommages occasionnés par des cas fortuits ou causés par la faute de l'assuré sont à la charge de l'assureur, sauf exclusion formelle et limitée contenue dans la police. Toutefois, l'assureur ne répond pas des pertes et dommages provenant d'une faute intentionnelle ou dolosive de l'assuré. »* <br>
-> [Article L.113-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000067919](../../../Lois/Code/LEGIARTI0000067919.md)86)
+> [Article L.113-1 du Code des assurances](../../../Lois/Code/LEGIARTI0000067919.md)86)
 
 **Analyse :** La faute dolosive suppose la conscience, chez l'assuré, de la réalisation certaine ou quasi-certaine du dommage. En l'espèce, la chute de la vasque résulte d'une combinaison de facteurs (défaut de fixation, manœuvre du préposé, usure de l'équipement) qui ne caractérise pas une faute intentionnelle ou dolosive. L'assureur ne pourra donc pas valablement opposer cette exclusion.
 

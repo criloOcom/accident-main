@@ -5,7 +5,7 @@ description: CRPA — Étendue du droit à communication des documents administr
 type: loi
 date: 2026-07-19
 source: Légifrance/LEGIARTI000033218946
-legiarti: LEGIARTI000031367683
+legiarti: LEGIARTI000033218946
 code: Code des relations entre le public et l'administration
 article: L311-1
 subtitle: Code des relations entre le public et l'administration — Art. L.311-1
