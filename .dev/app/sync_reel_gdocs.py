@@ -24,7 +24,13 @@ import re
 import sys
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
-from app.drive_auth import get_drive_service  # noqa: E402
+from app.drive_auth import (  # noqa: E402
+    get_credentials_from_adc,
+    get_credentials_from_env,
+    get_credentials_from_file,
+    get_drive_service,
+)
+from googleapiclient.discovery import build  # noqa: E402
 from googleapiclient.http import MediaIoBaseUpload  # noqa: E402
 
 ROOT = "/home/crilocom/accident-main"
@@ -90,17 +96,40 @@ def find_or_create_folder(svc, name, parent_id, cache, dry):
     return fid
 
 
+import time
+from googleapiclient.errors import HttpError
+
+
+def call_with_retry(fn, *args, max_retries=5, **kwargs):
+    """Exécute une fonction d'API Google avec retry exponentiel en cas de rate limit (429)."""
+    for attempt in range(max_retries):
+        try:
+            return fn(*args, **kwargs)
+        except HttpError as e:
+            if e.resp.status == 429 and attempt < max_retries - 1:
+                wait_time = (2 ** attempt) + 1
+                time.sleep(wait_time)
+            else:
+                raise
+
+
 def clean_markdown_for_gdocs(txt: str) -> str:
-    """Purge le bloc YAML frontmatter, le fil d'Ariane et les icônes de bibliothèque locale [📚] avant l'export vers Google Docs."""
+    """Purge le bloc YAML frontmatter, le fil d'Ariane, les icônes 📚 et flèches ↩ avant l'export vers Google Docs."""
     # 1. Purger le bloc YAML frontmatter au début (--- ... ---)
     txt = re.sub(r"^---\s*\n.*?\n---\s*\n?", "", txt, flags=re.DOTALL)
     # 2. Purger le bloc fil d'Ariane (<!-- Breadcrumb --> ... <!-- /Breadcrumb -->) et les <hr> éventuels qui suivent
     txt = re.sub(r"<!-- Breadcrumb -->.*?<!-- /Breadcrumb -->\s*(<hr>\s*)?", "", txt, flags=re.DOTALL)
     # 3. Purger toute ligne de fil d'Ariane Markdown non balisée (*[🏠...)
     txt = re.sub(r"^\*?\[?🏠.*?\n", "", txt, flags=re.MULTILINE)
-    # 4. Purger les icônes de bibliothèque locale [📚](...) et leurs liens locaux Markdown
+    # 4. Purger les références de bibliothèque locale et flèches de retour ↩
+    txt = re.sub(r"📚 Bibliothèque locale :.*?↩\n?", "", txt)
     txt = re.sub(r"\s*\[📚\]\(.*?\)", "", txt)
-    # 5. Nettoyer les sauts de ligne initiaux
+    txt = re.sub(r"↩", "", txt)
+    # 5. Convertir les sauts de page <hr><hr> en marqueur [[PAGE_BREAK]] pour l'API Docs
+    txt = re.sub(r"<hr>\s*<hr>", "\n\n[[PAGE_BREAK]]\n\n", txt, flags=re.IGNORECASE)
+    # 6. Convertir les intitulés de titres (#, ##, ###) en MAJUSCULES
+    txt = re.sub(r'^(#{1,3}\s+)(.+)$', lambda m: m.group(1) + m.group(2).upper(), txt, flags=re.MULTILINE)
+    # 7. Nettoyer les sauts de ligne initiaux
     txt = txt.lstrip("\n")
     return txt
 
@@ -112,9 +141,177 @@ def md_media(path):
     return MediaIoBaseUpload(io.BytesIO(data), mimetype="text/markdown", resumable=False)
 
 
+def replace_page_break_markers(docs_svc, doc_id):
+    """Post-traitement API Google Docs : remplace les marqueurs [[PAGE_BREAK]] par de vrais sauts de page (insertPageBreak)."""
+    try:
+        doc = call_with_retry(docs_svc.documents().get(documentId=doc_id).execute)
+        content = doc.get("body", {}).get("content", [])
+        markers = []
+        for element in content:
+            if "paragraph" in element:
+                for pe in element["paragraph"].get("elements", []):
+                    if "textRun" in pe:
+                        text = pe["textRun"].get("content", "")
+                        if "[[PAGE_BREAK]]" in text:
+                            start_idx = pe.get("startIndex")
+                            end_idx = pe.get("endIndex")
+                            markers.append((start_idx, end_idx))
+        if not markers:
+            return
+        # Remplacer chaque marqueur en partant de la fin pour ne pas invalider les index précédents
+        for start_idx, end_idx in reversed(markers):
+            try:
+                requests = [
+                    {"insertPageBreak": {"location": {"index": start_idx}}},
+                    {"deleteContentRange": {"range": {"startIndex": start_idx + 1, "endIndex": end_idx + 1}}}
+                ]
+                call_with_retry(docs_svc.documents().batchUpdate(documentId=doc_id, body={"requests": requests}).execute)
+            except Exception:
+                pass
+    except Exception as e:
+        print(f"    ⚠️ Erreur conversion saut de page sur {doc_id}: {e}")
+
+
+def apply_document_styles(docs_svc, doc_id):
+    """Applique les marges globales (14pt header/footer), le texte JUSTIFIÉ et le formatage des titres en GRAS sur tout le document."""
+    try:
+        doc = call_with_retry(docs_svc.documents().get(documentId=doc_id).execute)
+        body_content = doc.get("body", {}).get("content", [])
+        reqs = [
+            {
+                "updateDocumentStyle": {
+                    "documentStyle": {
+                        "marginTop": {"magnitude": 72, "unit": "PT"},
+                        "marginBottom": {"magnitude": 72, "unit": "PT"},
+                        "marginHeader": {"magnitude": 14, "unit": "PT"},
+                        "marginFooter": {"magnitude": 14, "unit": "PT"}
+                    },
+                    "fields": "marginTop,marginBottom,marginHeader,marginFooter"
+                }
+            }
+        ]
+        for element in body_content:
+            if "paragraph" in element:
+                para = element["paragraph"]
+                style_name = para.get("paragraphStyle", {}).get("namedStyleType", "NORMAL_TEXT")
+                start_idx = element.get("startIndex")
+                end_idx = element.get("endIndex")
+                if not start_idx or not end_idx or start_idx >= end_idx:
+                    continue
+                
+                # 1. Texte normal -> JUSTIFIÉ
+                if style_name == "NORMAL_TEXT":
+                    reqs.append({
+                        "updateParagraphStyle": {
+                            "range": {"startIndex": start_idx, "endIndex": end_idx},
+                            "paragraphStyle": {"alignment": "JUSTIFIED"},
+                            "fields": "alignment"
+                        }
+                    })
+                # 2. Titres (HEADING_1, HEADING_2, etc.) -> GRAS + Taille
+                elif "HEADING" in style_name:
+                    font_size = 16 if style_name == "HEADING_1" else (14 if style_name == "HEADING_2" else 12)
+                    reqs.append({
+                        "updateTextStyle": {
+                            "range": {"startIndex": start_idx, "endIndex": end_idx},
+                            "textStyle": {
+                                "bold": True,
+                                "fontSize": {"magnitude": font_size, "unit": "PT"}
+                            },
+                            "fields": "bold,fontSize"
+                        }
+                    })
+        if reqs:
+            call_with_retry(docs_svc.documents().batchUpdate(documentId=doc_id, body={"requests": reqs}).execute)
+    except Exception as e:
+        print(f"    ⚠️ Erreur styles document sur {doc_id}: {e}")
+
+
+def apply_header_footer(docs_svc, doc_id, rel_path, reel_path):
+    """Ajoute des en-têtes et pieds de page discrets A4 uniquement sur les documents de type courrier."""
+    if not (rel_path.startswith("Courriers/") or "/Courriers/" in rel_path):
+        return
+
+    try:
+        doc = call_with_retry(docs_svc.documents().get(documentId=doc_id).execute)
+        headers = doc.get("headers", {})
+        footers = doc.get("footers", {})
+        
+        # 1. Obtenir / Créer Header et Footer de manière idempotente
+        header_id = list(headers.keys())[0] if headers else None
+        if not header_id:
+            try:
+                res_h = call_with_retry(docs_svc.documents().batchUpdate(
+                    documentId=doc_id,
+                    body={"requests": [{"createHeader": {"type": "DEFAULT"}}]}
+                ).execute)
+                header_id = res_h.get("replies", [{}])[0].get("createHeader", {}).get("headerId")
+            except Exception:
+                fresh_doc = call_with_retry(docs_svc.documents().get(documentId=doc_id).execute)
+                h_map = fresh_doc.get("headers", {})
+                if h_map:
+                    header_id = list(h_map.keys())[0]
+
+        footer_id = list(footers.keys())[0] if footers else None
+        if not footer_id:
+            try:
+                res_f = call_with_retry(docs_svc.documents().batchUpdate(
+                    documentId=doc_id,
+                    body={"requests": [{"createFooter": {"type": "DEFAULT"}}]}
+                ).execute)
+                footer_id = res_f.get("replies", [{}])[0].get("createFooter", {}).get("footerId")
+            except Exception:
+                fresh_doc = call_with_retry(docs_svc.documents().get(documentId=doc_id).execute)
+                f_map = fresh_doc.get("footers", {})
+                if f_map:
+                    footer_id = list(f_map.keys())[0]
+
+        # 3. Écriture Header
+        h_doc = call_with_retry(docs_svc.documents().get(documentId=doc_id).execute)
+        h_content = h_doc.get("headers", {}).get(header_id, {}).get("content", [])
+        h_text_len = sum(len(e.get("paragraph", {}).get("elements", [{}])[0].get("textRun", {}).get("content", "")) for e in h_content if "paragraph" in e)
+        
+        if h_text_len <= 1:
+            raw_auteur = read_yaml_field(reel_path, "expediteur") or read_yaml_field(reel_path, "auteur") or read_yaml_field(reel_path, "redacteur") or "Sébastien GRAZIDE"
+            clean_auteur = raw_auteur.strip().strip("[").strip("]")
+            auteur = "Sébastien GRAZIDE" if clean_auteur in ("La Victime", "la victime", "LA VICTIME") else clean_auteur
+            h_text = f"{auteur}\tAccident Main — Document confidentiel\n"
+            h_reqs = [
+                {"insertText": {"location": {"segmentId": header_id, "index": 0}, "text": h_text}},
+                {"updateParagraphStyle": {"range": {"segmentId": header_id, "startIndex": 0, "endIndex": len(h_text)}, "paragraphStyle": {"alignment": "START"}, "fields": "alignment"}},
+                {"updateTextStyle": {"range": {"segmentId": header_id, "startIndex": 0, "endIndex": len(h_text)}, "textStyle": {"fontSize": {"magnitude": 8, "unit": "PT"}, "foregroundColor": {"color": {"rgbColor": {"red": 0.4, "green": 0.4, "blue": 0.4}}}}, "fields": "fontSize,foregroundColor"}}
+            ]
+            call_with_retry(docs_svc.documents().batchUpdate(documentId=doc_id, body={"requests": h_reqs}).execute)
+
+        # 4. Écriture Footer avec numéro de page dynamique (\u0001) si vide
+        f_doc = call_with_retry(docs_svc.documents().get(documentId=doc_id).execute)
+        f_content = f_doc.get("footers", {}).get(footer_id, {}).get("content", [])
+        f_text_len = sum(len(e.get("paragraph", {}).get("elements", [{}])[0].get("textRun", {}).get("content", "")) for e in f_content if "paragraph" in e)
+
+        if f_text_len <= 1:
+            f_text_static = "Accident de la Main — Document confidentiel — Page "
+            f_text_dynamic = "\u0001"
+            f_text = f"{f_text_static}{f_text_dynamic}\n"
+            f_reqs = [
+                {"insertText": {"location": {"segmentId": footer_id, "index": 0}, "text": f_text}},
+                {"updateParagraphStyle": {"range": {"segmentId": footer_id, "startIndex": 0, "endIndex": len(f_text)}, "paragraphStyle": {"alignment": "CENTER"}, "fields": "alignment"}},
+                {"updateTextStyle": {"range": {"segmentId": footer_id, "startIndex": 0, "endIndex": len(f_text)}, "textStyle": {"fontSize": {"magnitude": 8, "unit": "PT"}, "foregroundColor": {"color": {"rgbColor": {"red": 0.4, "green": 0.4, "blue": 0.4}}}}, "fields": "fontSize,foregroundColor"}}
+            ]
+            call_with_retry(docs_svc.documents().batchUpdate(documentId=doc_id, body={"requests": f_reqs}).execute)
+
+    except Exception as e:
+        print(f"    ⚠️ Erreur header/footer sur {doc_id}: {e}")
+
+
+def get_creds():
+    return get_credentials_from_env() or get_credentials_from_file() or get_credentials_from_adc()
+
+
 def main():
     dry = "--apply" not in sys.argv
-    svc = get_drive_service()
+    creds = get_creds()
+    svc = build("drive", "v3", credentials=creds)
+    docs_svc = build("docs", "v1", credentials=creds) if not dry else None
     cache = {}
     root_id = find_or_create_folder(svc, DRIVE_ROOT_NAME, None, cache, dry)
 
@@ -151,7 +348,11 @@ def main():
                     if dry:
                         skipped += 1
                     else:
-                        svc.files().update(fileId=rid, media_body=md_media(reel_path)).execute()
+                        call_with_retry(svc.files().update(fileId=rid, media_body=md_media(reel_path)).execute)
+                        replace_page_break_markers(docs_svc, rid)
+                        apply_document_styles(docs_svc, rid)
+                        apply_header_footer(docs_svc, rid, rel, reel_path)
+                        time.sleep(0.5)
                         updated += 1
                 else:
                     if dry:
@@ -168,9 +369,13 @@ def main():
                         "mimeType": DOC_MIME,
                         "parents": [parent],
                     }
-                    new_id = svc.files().create(
+                    new_id = call_with_retry(svc.files().create(
                         body=body, media_body=md_media(reel_path), fields="id"
-                    ).execute()["id"]
+                    ).execute)["id"]
+                    replace_page_break_markers(docs_svc, new_id)
+                    apply_document_styles(docs_svc, new_id)
+                    apply_header_footer(docs_svc, new_id, rel, reel_path)
+                    time.sleep(0.5)
                     # Token-first : écrire dans le Token miroir, puis refléter dans le Reel
                     if os.path.isfile(token_path):
                         set_yaml_field(token_path, "reel_drive_id", new_id)

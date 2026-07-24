@@ -626,6 +626,16 @@ Texte du paragraphe.
   - **Description explicative** (après le tiret ` — `) : Strictement en **Texte Noir normal (non gras, non souligné, non bleu)**.
 - **Règle absolue** : Tous les agents (AntiGravity, OpenCode, Hermès, Jules) DOIVENT appliquer ce standard sans dérogation.
 
+### 5. Règles de synchronisation et mise en page Google Docs (sync_reel_gdocs.py)
+- **Marges header/footer** = **14 pt (0,5 cm)** exactement (configuré via `updateDocumentStyle` au niveau global du document).
+- **Marges de page** = **72 pt (2,54 cm / 1 in)** haut/bas.
+- **Corps de texte** = **JUSTIFIÉ** (`alignment: JUSTIFIED`) pour tous les paragraphes `NORMAL_TEXT`.
+- **Titres** = Intitulés convertis en **MAJUSCULES** et formatés en **GRAS** (`bold: True`) avec tailles hiérarchisées (H1=16pt, H2=14pt, H3=12pt).
+- **Header courriers** = `"Nom Prénom Auteur\tAccident Main — Document confidentiel"` + bordure `borderBottom` sous le texte.
+- **Pied de page courriers** = `"Accident de la Main — Document confidentiel — Page \u0001"` (caractère `\u0001` natif pour le numéro de page dynamique) + bordure `borderTop` au-dessus du texte.
+- **Auteur du courrier** = Lu depuis le YAML frontmatter (`expediteur` / `auteur` / `redacteur`). Si le champ vaut `"La Victime"`, le script résout vers le nom réel (`"Sébastien GRAZIDE"`).
+- **Documents non-courriers** (analyses juridiques, études d'indemnisation, organisation) = **SANS en-tête ni pied de page**.
+
 <hr><hr>
 
 ## XVI — GOOGLE SHEET PJ (PIÈCES JOINTES) — MAPPING CENTRALISÉ
