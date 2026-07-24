@@ -435,6 +435,7 @@ Le dossier `/Status/` à la racine contient 3 index classés par statut :
 - **RÈGLE ABSOLUE DE LA STRATE** : toute correction de lien interne se fait **DANS LE TOKEN** (et les sources non-Reel : `Rapports/`, `Memory/`, `Lois/`, `Status/`). **JAMAIS dans `Actes/Reel/`** — le Reel est un artifact de `generate_real_versions.py` (Règle #22 INTERDICTION #1) ; corriger le Reel à la main est du travail perdu (écrasé au prochain run) ET une violation. Corriger le Token PUIS lancer `generate_real_versions.py` suffit à propager la correction dans tous les miroirs Reel.
 
 - **UID unique obligatoire** : chaque fichier `.md` DOIT porter un champ `uid:` dans son YAML (Règle #30/#33). C'est la clé de la double strate (même `uid` pour la paire Token+Reel), de l'indexation (Google Sheet PJ) et du repérage. Un fichier sans `uid:` est en violation.
+- **Métrique de santé des liens** : `audit_internal_links.py` EXCLUT volontairement (a) les fichiers méta/graphes listant des chemins (`Memory/DEPENDENCIES.md`, `Memory/TOKEN MAP.md`, `Memory/PIECES MAP.md`, `Memory/CALENDAR_MAP.md`, cartographies, `00_META_SYNTHESE_*`, `REPORT_JULES_06_*`) et (b) les liens `Actes/Reel/` depuis la strate Token (design double strate, rendus valides par `generate_real_versions.py`). Un agent qui relance l'audit et voit un compte élevé doit d'abord vérifier qu'il ne s'agit pas de ces exclusions légitimes avant de traiter les liens restants.
 
 ## #16 — PRINCIPE DE PRÉCISION ABSOLUE (RÈGLE PERMANENTE)
 
