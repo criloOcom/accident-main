@@ -15,7 +15,7 @@ auteur: Avocat de la défense
 reel_path: ../../Reel/Analyses_juridiques/Mémoire - En défense adverse.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Memoire En defense adverse ([👤](../../Reel/Analyses_juridiques/Memoire_En_defense_adverse.md))*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -16,7 +16,7 @@ tags:
   - rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [⚖️ Lois](./README.md)*
+*[🏠](../README.md) › [⚖️ Lois](./README.md) › CHANGELOG JURIDIQUE*
 <hr>
 <!-- /Breadcrumb -->
 

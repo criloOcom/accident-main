@@ -17,7 +17,7 @@ tags:
   - legifrance
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure pénale](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code procédure pénale](./README.md) › Article 15-3 CodeProcedurePenale*
 <hr>
 <!-- /Breadcrumb -->
 

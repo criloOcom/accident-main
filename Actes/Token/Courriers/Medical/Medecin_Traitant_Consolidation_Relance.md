@@ -21,6 +21,11 @@ source: local
 jx: J+38
 ---
 <!-- Breadcrumb -->
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Medical](./README.md) › Medecin Traitant Consolidation Relance ([👤](../../../Reel/Courriers/Medical/Medecin_Traitant_Consolidation_Relance.md))*
+<hr>
+<!-- /Breadcrumb -->
+
+<!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Medical](./README.md)*
 
 

@@ -4,7 +4,7 @@ description: "Réfutation des allégations de la partie adverse (ivresse/faute) 
 type: analyse_juridique
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md)*
+*[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md) › STRATEGIE DEFENSE PÉNALE ET REPOSTE 20260724*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -5,7 +5,7 @@ description: "Source : Spreadsheet — https://drive.google.com/file/d/1KNRJpDE2
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › PIECES MAP*
 <hr>
 <!-- /Breadcrumb -->
 

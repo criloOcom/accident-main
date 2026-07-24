@@ -7,7 +7,7 @@ real_value: "btavella@mairie-foix.fr"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md)*
+*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md) › token-mairie-adjoint-email*
 <hr>
 <!-- /Breadcrumb -->
 

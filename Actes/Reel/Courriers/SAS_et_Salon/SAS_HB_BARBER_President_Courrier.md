@@ -14,6 +14,11 @@ auteur: La Victime
 reel_path: ../../../Courriers/SAS_&_Salon/SAS HB BARBER - Président - Courrier.md
 ---
 <!-- Breadcrumb -->
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS HB BARBER President Courrier ([🎭](../../../Token/Courriers/SAS_et_Salon/SAS_HB_BARBER_President_Courrier.md))*
+<hr>
+<!-- /Breadcrumb -->
+
+<!-- Breadcrumb -->
 *[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md)*
 
 

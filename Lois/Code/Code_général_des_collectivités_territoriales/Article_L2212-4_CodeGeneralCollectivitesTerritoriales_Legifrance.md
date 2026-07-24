@@ -25,7 +25,7 @@ tags:
   - legifrance
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code général des collectivités territoriales](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code général des collectivités territoriales](./README.md) › Article L2212-4 CodeGeneralCollectivitesTerritoriales Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

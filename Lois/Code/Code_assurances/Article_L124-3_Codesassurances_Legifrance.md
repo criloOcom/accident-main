@@ -17,7 +17,7 @@ tags:
   - legifrance
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code assurances](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code assurances](./README.md) › Article L124-3 Codesassurances Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -6,7 +6,7 @@ token: "Finance PGPA"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md)*
+*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md) › token-finance-pgpa*
 <hr>
 <!-- /Breadcrumb -->
 

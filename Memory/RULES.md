@@ -5,7 +5,7 @@ description: "- **INTERDICTION D'INVENTER** : Il est interdit d'inventer des fai
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › RULES*
 <hr>
 <!-- /Breadcrumb -->
 

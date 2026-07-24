@@ -9,7 +9,7 @@ source_doc: "1LQCFXEyGj7VWD92ccdh6JRwFQgKl2THT131YbrnemoE"
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › PIECES A AJOUTER DOC*
 <hr>
 <!-- /Breadcrumb -->
 

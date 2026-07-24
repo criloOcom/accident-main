@@ -16,7 +16,7 @@ tags:
   - legifrance
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md) › Article L210-6 Codecommerce Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

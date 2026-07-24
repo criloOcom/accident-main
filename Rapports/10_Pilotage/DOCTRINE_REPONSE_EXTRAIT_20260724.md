@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [Rapports](../README.md) › [10 Pilotage](./README.md) › DOCTRINE REPONSE EXTRAIT 20260724*
+<hr>
+<!-- /Breadcrumb -->
+
 # Extrait utile de la réponse Doctrine.fr (2026-07-24) — À VÉRIFIER SUR LÉGIFRANCE
 
 > ⚠️ La réponse complète de Doctrine.fr contenait une HALLUCINATION majeure

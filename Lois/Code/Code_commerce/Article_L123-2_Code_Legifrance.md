@@ -16,7 +16,7 @@ tags:
   - legifrance
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md) › Article L123-2 Code Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

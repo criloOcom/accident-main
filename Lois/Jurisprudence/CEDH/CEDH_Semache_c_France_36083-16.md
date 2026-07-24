@@ -17,7 +17,7 @@ tags:
   - preuve
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › [CEDH](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › [CEDH](./README.md) › CEDH Semache c France 36083-16*
 <hr>
 <!-- /Breadcrumb -->
 

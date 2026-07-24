@@ -15,7 +15,7 @@ tags:
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code civil](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code civil](./README.md) › Article 1359 CodeCivil*
 <hr>
 <!-- /Breadcrumb -->
 

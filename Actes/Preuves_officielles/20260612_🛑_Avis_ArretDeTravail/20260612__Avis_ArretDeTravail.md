@@ -6,7 +6,7 @@ type: preuve
 date: 2026-06-12
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260612 🛑 Avis ArretDeTravail](./README.md)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260612 🛑 Avis ArretDeTravail](./README.md) › 20260612  Avis ArretDeTravail*
 <hr>
 <!-- /Breadcrumb -->
 

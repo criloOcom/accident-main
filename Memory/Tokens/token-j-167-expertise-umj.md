@@ -7,7 +7,7 @@ real_value: "12 novembre 2026"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md)*
+*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md) › token-j-167-expertise-umj*
 <hr>
 <!-- /Breadcrumb -->
 

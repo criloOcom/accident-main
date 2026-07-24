@@ -18,7 +18,7 @@ jx: J+47
 reel_path: ../../Reel/Analyses_juridiques/Note - Mémo Stratégie Admin Pénal.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note Memo Strategie Admin Penal ([👤](../../Reel/Analyses_juridiques/Note_Memo_Strategie_Admin_Penal.md))*
 <hr>
 <!-- /Breadcrumb -->
 

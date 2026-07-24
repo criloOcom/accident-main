@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [Rapports](../README.md) › [10 Pilotage](./README.md) › DOCTRINE PROMPT ARTICLES DOUTEUX 20260724*
+<hr>
+<!-- /Breadcrumb -->
+
 # PROMPT À TRANSMETTRE À DOCTRINE.FR (agent tiers « blanc »)
 
 > Copier-coller intégralement le bloc ci-dessous dans Doctrine.fr.

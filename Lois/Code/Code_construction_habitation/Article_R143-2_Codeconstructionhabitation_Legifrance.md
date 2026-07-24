@@ -16,7 +16,7 @@ tags:
   - legifrance
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code construction habitation](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code construction habitation](./README.md) › Article R143-2 Codeconstructionhabitation Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

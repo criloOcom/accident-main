@@ -5,7 +5,7 @@ description: "- [ ] `/home/crilocom/accident-main/` est le SEUL répertoire — 
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › VACCIN*
 <hr>
 <!-- /Breadcrumb -->
 

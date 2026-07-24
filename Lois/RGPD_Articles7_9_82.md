@@ -18,7 +18,7 @@ tags:
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [⚖️ Lois](./README.md)*
+*[🏠](../README.md) › [⚖️ Lois](./README.md) › RGPD Articles7 9 82*
 <hr>
 <!-- /Breadcrumb -->
 

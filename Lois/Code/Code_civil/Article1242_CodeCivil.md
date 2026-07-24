@@ -18,7 +18,7 @@ legal_basis:
   - Code civil
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code civil](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code civil](./README.md) › Article1242 CodeCivil*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -5,7 +5,7 @@ description: "Ordre logique de création, de dépendance et d'expédition des ac
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › DEPENDANCES*
 <hr>
 <!-- /Breadcrumb -->
 

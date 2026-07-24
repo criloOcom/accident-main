@@ -7,7 +7,7 @@ role: Gendarme (OPJ)
 date: 2026-07-14
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Simulations](./README.md)*
+*[🏠](../README.md) › [Simulations](./README.md) › 06 Gendarme OPJ*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -5,7 +5,7 @@ description: "Snapshot d'état pour reprise après compression mémoire. Contien
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › RECOVERY CHECKPOINT*
 <hr>
 <!-- /Breadcrumb -->
 

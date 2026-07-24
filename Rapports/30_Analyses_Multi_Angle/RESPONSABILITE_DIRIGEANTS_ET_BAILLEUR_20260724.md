@@ -6,7 +6,7 @@ statut: "projet"
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports](../README.md)*
+*[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md) › RESPONSABILITE DIRIGEANTS ET BAILLEUR 20260724*
 <hr>
 <!-- /Breadcrumb -->
 

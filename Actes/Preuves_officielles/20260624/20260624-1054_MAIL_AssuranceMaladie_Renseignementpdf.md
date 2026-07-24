@@ -9,7 +9,7 @@ source: drive
 drive_id: 109JXkJjnRmxwjdCWoHoh-wJIZFr88V1u
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260624](./README.md)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260624](./README.md) › 20260624-1054 MAIL AssuranceMaladie Renseignementpdf*
 <hr>
 <!-- /Breadcrumb -->
 

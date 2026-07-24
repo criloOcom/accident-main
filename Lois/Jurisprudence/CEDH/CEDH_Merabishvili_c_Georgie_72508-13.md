@@ -18,7 +18,7 @@ tags:
   - preuve
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › [CEDH](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Jurisprudence](../README.md) › [CEDH](./README.md) › CEDH Merabishvili c Georgie 72508-13*
 <hr>
 <!-- /Breadcrumb -->
 

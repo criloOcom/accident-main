@@ -69,6 +69,34 @@ def file_label(fname):
     return base.replace("_", " ").strip()
 
 
+def cross_world_link(rel_md_path):
+    """Retourne (emoji, lien_relatif) pour basculer Token<->Reel, ou (None, None).
+
+    Le dépôt maintient une double strate symétrique : Actes/Token/X <-> Actes/Reel/X.
+    Depuis un fichier Token, on ajoute un lien (👤) vers le miroir Reel.
+    Depuis un fichier Reel, on ajoute un lien (🎭) vers le fichier Token.
+    Le lien n'est rendu cliquable QUE si la cible existe (zéro lien mort, Règle #16).
+    """
+    parts = rel_md_path.split("/")
+    # On cherche un segment 'Token' ou 'Reel' à la même profondeur que le dossier Actes/Token ou Actes/Reel
+    if len(parts) < 3:
+        return (None, None)
+    # parts[0]='Actes', parts[1] in ('Token','Reel')
+    if parts[0] != "Actes" or parts[1] not in ("Token", "Reel"):
+        return (None, None)
+    src_world = parts[1]
+    dst_world = "Reel" if src_world == "Token" else "Token"
+    dst_rel = ["Actes", dst_world] + parts[2:]
+    dst_abs = os.path.normpath(os.path.join(ROOT, *dst_rel))
+    if not os.path.exists(dst_abs):
+        return (None, None)
+    # lien relatif depuis le dossier du fichier courant vers la cible
+    src_dir = os.path.dirname(os.path.join(ROOT, rel_md_path))
+    rel_link = os.path.relpath(dst_abs, src_dir)
+    emoji = "👤" if src_world == "Token" else "🎭"
+    return (emoji, rel_link)
+
+
 def build_breadcrumb(rel_md_path):
     abs_p = os.path.join(ROOT, rel_md_path)
     d = os.path.dirname(abs_p)
@@ -114,8 +142,18 @@ def build_breadcrumb(rel_md_path):
         leaf_label = file_label(os.path.basename(rel_md_path))
 
     parts = [f"[{lab}]({lnk})" if lnk else lab for lab, lnk in levels]
+    emoji, xlink = cross_world_link(rel_md_path)
     if is_readme:
-        parts.append(leaf_label)
+        if emoji and xlink:
+            parts.append(f"{leaf_label} ([{emoji}]({xlink}))")
+        else:
+            parts.append(leaf_label)
+    else:
+        # Fichier normal : ajouter le lien croisé Token<->Reel à la fin (si la cible existe)
+        if emoji and xlink:
+            parts.append(f"{leaf_label} ([{emoji}]({xlink}))")
+        else:
+            parts.append(leaf_label)
     line = SEP.join(parts)
     return f"<!-- Breadcrumb -->\n*{line}*\n<hr>\n<!-- /Breadcrumb -->"
 

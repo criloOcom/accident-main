@@ -24,7 +24,7 @@ tags:
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports](../README.md) › [audit](./README.md)*
+*[🏠](../../README.md) › [Rapports](../README.md) › [audit](./README.md) › 20260713 audit faits canoniques*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -23,7 +23,7 @@ tags:
   - legifrance
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code pénal](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code pénal](./README.md) › Article 434-15 CodePenal Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

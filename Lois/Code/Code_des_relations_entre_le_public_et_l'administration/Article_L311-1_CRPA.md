@@ -16,7 +16,7 @@ tags:
   - legifrance
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code des relations entre le public et l'administration](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code des relations entre le public et l'administration](./README.md) › Article L311-1 CRPA*
 <hr>
 <!-- /Breadcrumb -->
 

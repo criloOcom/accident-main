@@ -6,7 +6,7 @@ type: memory
 date: "2026-07-23"
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › GOOGLE SHEET PJ PROTOCOL*
 <hr>
 <!-- /Breadcrumb -->
 

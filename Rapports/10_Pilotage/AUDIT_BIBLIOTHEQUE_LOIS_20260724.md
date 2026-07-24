@@ -1,3 +1,8 @@
+<!-- Breadcrumb -->
+*[🏠](../../README.md) › [Rapports](../README.md) › [10 Pilotage](./README.md) › AUDIT BIBLIOTHEQUE LOIS 20260724*
+<hr>
+<!-- /Breadcrumb -->
+
 # Audit d'exploitation de la bibliothèque de lois (Lois/) + Google Sheet
 Date : 2026-07-24 — Audit post Étape 4 (pré-commit durci Règle #11)
 

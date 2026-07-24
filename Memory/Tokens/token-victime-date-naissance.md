@@ -7,7 +7,7 @@ real_value: "18 janvier 1982"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md)*
+*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md) › token-victime-date-naissance*
 <hr>
 <!-- /Breadcrumb -->
 

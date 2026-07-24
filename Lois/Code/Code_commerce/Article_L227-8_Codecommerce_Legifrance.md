@@ -19,7 +19,7 @@ legal_basis:
   - Code de commerce
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md) › Article L227-8 Codecommerce Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

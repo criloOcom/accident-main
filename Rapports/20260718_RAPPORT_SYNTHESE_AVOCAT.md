@@ -24,7 +24,7 @@ legal_basis:
   - Code de procédure civile
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports](./README.md)*
+*[🏠](../README.md) › [Rapports](./README.md) › 20260718 RAPPORT SYNTHESE AVOCAT*
 <hr>
 <!-- /Breadcrumb -->
 

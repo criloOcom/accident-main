@@ -16,7 +16,7 @@ reel_path: ../../Reel/Etudes_indemnisation/Note - Stratégique FGTI CIVI.md
 jx: J+40
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Etudes indemnisation](./README.md)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Etudes indemnisation](./README.md) › Note Strategique FGTI CIVI ([👤](../../Reel/Etudes_indemnisation/Note_Strategique_FGTI_CIVI.md))*
 <hr>
 <!-- /Breadcrumb -->
 

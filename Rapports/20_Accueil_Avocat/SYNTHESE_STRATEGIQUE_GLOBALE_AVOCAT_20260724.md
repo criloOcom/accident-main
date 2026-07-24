@@ -5,7 +5,7 @@ date: 2026-07-24
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports](../README.md) › [20_Accueil_Avocat](./README.md)*
+*[🏠](../../README.md) › [Rapports](../README.md) › [20 Accueil Avocat](./README.md) › SYNTHESE STRATEGIQUE GLOBALE AVOCAT 20260724*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -5,7 +5,7 @@ description: "Quand tu dois insérer ou vérifier une JURITEXT :"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › JURITEXT PROTOCOL*
 <hr>
 <!-- /Breadcrumb -->
 

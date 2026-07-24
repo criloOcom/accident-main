@@ -6,7 +6,7 @@ type: organisation
 date: 2026-07-22
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md) › Fiche Synthetique HB BARBER ([👤](../../Reel/Organisation/Fiche_Synthetique_HB_BARBER.md))*
 <hr>
 <!-- /Breadcrumb -->
 

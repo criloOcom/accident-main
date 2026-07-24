@@ -6,7 +6,7 @@ type: preuve
 date: "2026-07-20"
 ---
 <!-- Breadcrumb -->
-*[🏠](./README.md)*
+*[🏠](./README.md) › AGENTS*
 <hr>
 <!-- /Breadcrumb -->
 

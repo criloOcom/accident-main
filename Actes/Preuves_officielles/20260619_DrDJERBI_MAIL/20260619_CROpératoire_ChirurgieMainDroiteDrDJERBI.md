@@ -9,7 +9,7 @@ source: drive
 drive_id: 1CSoaFFL8CJknPxeQKlYHAh3viPR2zPYa
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260619 DrDJERBI MAIL](./README.md)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260619 DrDJERBI MAIL](./README.md) › 20260619 CROpératoire ChirurgieMainDroiteDrDJERBI*
 <hr>
 <!-- /Breadcrumb -->
 

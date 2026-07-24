@@ -17,7 +17,7 @@ reel_path: ../../Reel/Analyses_juridiques/Note - Responsabilité des Dirigeants.
 jx: J+41
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note Responsabilite des Dirigeants ([👤](../../Reel/Analyses_juridiques/Note_Responsabilite_des_Dirigeants.md))*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -16,7 +16,7 @@ tags:
   - legifrance
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Livre des procédures fiscales](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Livre des procédures fiscales](./README.md) › Article L252 LivreProceduresFiscales*
 <hr>
 <!-- /Breadcrumb -->
 

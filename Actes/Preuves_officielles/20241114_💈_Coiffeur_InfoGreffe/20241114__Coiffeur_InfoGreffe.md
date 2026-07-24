@@ -6,7 +6,7 @@ type: preuve
 date: 2024-11-14
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20241114 💈 Coiffeur InfoGreffe](./README.md)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20241114 💈 Coiffeur InfoGreffe](./README.md) › 20241114  Coiffeur InfoGreffe*
 <hr>
 <!-- /Breadcrumb -->
 

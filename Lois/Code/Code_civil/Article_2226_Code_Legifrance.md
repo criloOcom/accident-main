@@ -17,7 +17,7 @@ tags:
   - legifrance
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code civil](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code civil](./README.md) › Article 2226 Code Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

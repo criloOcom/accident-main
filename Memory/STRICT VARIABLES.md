@@ -5,7 +5,7 @@ description: "NE JAMAIS MODIFIER NI INVENTER.** Ces valeurs prévalent sur tout 
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › STRICT VARIABLES*
 <hr>
 <!-- /Breadcrumb -->
 

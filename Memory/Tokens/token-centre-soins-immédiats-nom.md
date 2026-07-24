@@ -8,7 +8,7 @@ date: FIXME
 status: brouillon
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md)*
+*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md) › token-centre-soins-immédiats-nom*
 <hr>
 <!-- /Breadcrumb -->
 

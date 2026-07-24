@@ -7,7 +7,7 @@ date: 2026-07-17
 statut: preparation
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › Mémo Stratégie Bailleur HB BARBER*
 <hr>
 <!-- /Breadcrumb -->
 

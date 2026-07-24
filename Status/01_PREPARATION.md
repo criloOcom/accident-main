@@ -5,7 +5,7 @@ description: "Documents en cours de rédaction ou en projet — statuts brouillo
 type: readme
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Status](./README.md)*
+*[🏠](../README.md) › [Status](./README.md) › 01 PREPARATION*
 <hr>
 <!-- /Breadcrumb -->
 

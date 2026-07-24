@@ -7,7 +7,7 @@ statut: brouillon
 reel_path: ../../Reel/Organisation/Synthèse - Actions et Audits.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md) › Synthese Actions et Audits ([👤](../../Reel/Organisation/Synthese_Actions_et_Audits.md))*
 <hr>
 <!-- /Breadcrumb -->
 

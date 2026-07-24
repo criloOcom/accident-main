@@ -5,7 +5,7 @@ description: "Graphe orienté des liens internes entre fichiers .md"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › DEPENDENCIES*
 <hr>
 <!-- /Breadcrumb -->
 

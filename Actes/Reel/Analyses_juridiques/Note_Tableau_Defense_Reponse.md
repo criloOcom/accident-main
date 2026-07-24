@@ -10,7 +10,7 @@ jx: J+47
 reel_path: ../../Analyses_juridiques/Note - Tableau Défense Réponse.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Tableau Defense Reponse ([🎭](../../Token/Analyses_juridiques/Note_Tableau_Defense_Reponse.md))*
 <hr>
 <!-- /Breadcrumb -->
 

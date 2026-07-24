@@ -18,7 +18,7 @@ legal_basis:
   - Code du travail
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code du travail](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code du travail](./README.md) › Article L4121-1 CodeTravail*
 <hr>
 <!-- /Breadcrumb -->
 

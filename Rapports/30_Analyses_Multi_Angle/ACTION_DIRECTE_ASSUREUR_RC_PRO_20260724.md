@@ -5,7 +5,7 @@ type: analyse_juridique
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › Rapports › 30 Analyses Multi Angle*
+*[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md) › ACTION DIRECTE ASSUREUR RC PRO 20260724*
 <hr>
 <!-- /Breadcrumb -->
 

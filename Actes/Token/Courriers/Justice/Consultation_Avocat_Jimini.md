@@ -24,7 +24,7 @@ auteur: La Victime
 reel_path: ../../../Reel/Courriers/Justice/Consultation - Avocat Jimini.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md)*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md) › Consultation Avocat Jimini ([👤](../../../Reel/Courriers/Justice/Consultation_Avocat_Jimini.md))*
 <hr>
 <!-- /Breadcrumb -->
 

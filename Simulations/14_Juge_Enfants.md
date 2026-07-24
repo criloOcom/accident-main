@@ -7,7 +7,7 @@ role: Juge des Enfants / Juge aux Affaires Familiales
 date: 2026-07-14
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Simulations](./README.md)*
+*[🏠](../README.md) › [Simulations](./README.md) › 14 Juge Enfants*
 <hr>
 <!-- /Breadcrumb -->
 

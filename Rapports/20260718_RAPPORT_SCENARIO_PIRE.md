@@ -21,7 +21,7 @@ tags:
   - penal
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports](./README.md)*
+*[🏠](../README.md) › [Rapports](./README.md) › 20260718 RAPPORT SCENARIO PIRE*
 <hr>
 <!-- /Breadcrumb -->
 

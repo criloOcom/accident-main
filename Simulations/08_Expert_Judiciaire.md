@@ -7,7 +7,7 @@ role: Expert Judiciaire (Chirurgie main)
 date: 2026-07-14
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Simulations](./README.md)*
+*[🏠](../README.md) › [Simulations](./README.md) › 08 Expert Judiciaire*
 <hr>
 <!-- /Breadcrumb -->
 

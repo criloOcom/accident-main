@@ -6,7 +6,7 @@ token: "J+27 Confirmation kiné"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md)*
+*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md) › token-j-27-confirmation-kine*
 <hr>
 <!-- /Breadcrumb -->
 

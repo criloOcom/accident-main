@@ -18,7 +18,7 @@ tags:
   - legifrance
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md) › Article L223-22 Codecommerce Legifrance*
 <hr>
 <!-- /Breadcrumb -->
 

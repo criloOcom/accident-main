@@ -20,7 +20,7 @@ legal_basis:
   - Code de commerce
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports](./README.md)*
+*[🏠](../README.md) › [Rapports](./README.md) › RAPPORT VERIFICATION JURIDIQUE PLANNING 20260720*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -22,7 +22,7 @@ legal_basis:
   - Code civil
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [⚖️ Lois](./README.md)*
+*[🏠](../README.md) › [⚖️ Lois](./README.md) › EXEMPLES REQUETES MCP*
 <hr>
 <!-- /Breadcrumb -->
 

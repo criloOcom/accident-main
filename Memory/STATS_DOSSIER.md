@@ -5,7 +5,7 @@ description: "Le dossier comporte **62 fichiers .md** répartis dans les sous-do
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › STATS DOSSIER*
 <hr>
 <!-- /Breadcrumb -->
 

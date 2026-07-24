@@ -5,7 +5,7 @@ description: "Document unique et souverain définissant toutes les règles de fo
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › CONVENTIONS*
 <hr>
 <!-- /Breadcrumb -->
 

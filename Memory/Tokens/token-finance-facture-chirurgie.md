@@ -6,7 +6,7 @@ token: "Finance Facture Chirurgie"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md)*
+*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md) › token-finance-facture-chirurgie*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -9,7 +9,7 @@ source: drive
 drive_id: 1ZrkG7pdHFsIrOVgz0OiKVjqVmDvxe_gX
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260716 💈 HB Barber](./README.md)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260716 💈 HB Barber](./README.md) › 20260717 HB Liste StatutsConstitutifspdf*
 <hr>
 <!-- /Breadcrumb -->
 

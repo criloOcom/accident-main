@@ -5,7 +5,7 @@ description: "<hr><hr>"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › NOTE SYNTHESE AVOCAT*
 <hr>
 <!-- /Breadcrumb -->
 

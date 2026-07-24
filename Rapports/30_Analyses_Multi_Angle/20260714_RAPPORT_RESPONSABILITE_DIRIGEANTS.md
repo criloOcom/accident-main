@@ -21,7 +21,7 @@ legal_basis:
   - Code civil
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md)*
+*[🏠](../../README.md) › [Rapports](../README.md) › [30 Analyses Multi Angle](./README.md) › 20260714 RAPPORT RESPONSABILITE DIRIGEANTS*
 <hr>
 <!-- /Breadcrumb -->
 

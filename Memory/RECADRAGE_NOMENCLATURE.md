@@ -5,7 +5,7 @@ description: "Date** : 10 juillet 2026"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › RECADRAGE NOMENCLATURE*
 <hr>
 <!-- /Breadcrumb -->
 

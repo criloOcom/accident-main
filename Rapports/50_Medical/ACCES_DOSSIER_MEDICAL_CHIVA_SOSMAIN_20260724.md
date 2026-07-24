@@ -4,7 +4,7 @@ title: "Guide Pratique : Secret Médical et Accès au Dossier Médical (Article 
 type: rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports](../README.md) › [50 Medical](./README.md)*
+*[🏠](../../README.md) › [Rapports](../README.md) › [50 Medical](./README.md) › ACCES DOSSIER MEDICAL CHIVA SOSMAIN 20260724*
 <hr>
 <!-- /Breadcrumb -->
 

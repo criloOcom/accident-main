@@ -14,7 +14,7 @@ tags:
   - token
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [Rapports](../README.md) › [expertise](./README.md)*
+*[🏠](../../README.md) › [Rapports](../README.md) › [expertise](./README.md) › 20260707 Analyse critique Glose*
 <hr>
 <!-- /Breadcrumb -->
 

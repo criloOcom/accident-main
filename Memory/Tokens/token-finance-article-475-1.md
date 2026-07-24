@@ -6,7 +6,7 @@ token: "Finance Article 475-1"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md)*
+*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md) › token-finance-article-475-1*
 <hr>
 <!-- /Breadcrumb -->
 

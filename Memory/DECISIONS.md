@@ -5,7 +5,7 @@ description: "- Utiliser le bon français avec articles : `[**[La Victime]**](..
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › DECISIONS*
 <hr>
 <!-- /Breadcrumb -->
 

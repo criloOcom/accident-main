@@ -6,7 +6,7 @@ token: "J+38 Mise à jour"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md)*
+*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md) › token-j-38-mise-a-jour*
 <hr>
 <!-- /Breadcrumb -->
 

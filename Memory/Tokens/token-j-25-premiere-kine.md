@@ -7,7 +7,7 @@ real_value: "23 juin 2026"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md)*
+*[🏠](../../README.md) › [🧠 Memory](../README.md) › [Tokens](./README.md) › token-j-25-premiere-kine*
 <hr>
 <!-- /Breadcrumb -->
 

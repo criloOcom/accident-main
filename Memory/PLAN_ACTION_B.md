@@ -5,7 +5,7 @@ description: "| Action | Détail | Documents nécessaires | Destinataire | Statu
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › PLAN ACTION B*
 <hr>
 <!-- /Breadcrumb -->
 

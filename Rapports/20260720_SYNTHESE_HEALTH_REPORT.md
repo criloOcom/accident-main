@@ -23,7 +23,7 @@ tags:
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports](./README.md)*
+*[🏠](../README.md) › [Rapports](./README.md) › 20260720 SYNTHESE HEALTH REPORT*
 <hr>
 <!-- /Breadcrumb -->
 

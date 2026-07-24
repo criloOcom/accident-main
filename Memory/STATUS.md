@@ -5,7 +5,7 @@ description: "- **Phase 1a** Purge des 5 fuites token : 0 fuite résiduelle (✅
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › STATUS*
 <hr>
 <!-- /Breadcrumb -->
 

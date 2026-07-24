@@ -9,7 +9,7 @@ auteur: Conseil externe (Jimini) + Sébastien GRAZIDE
 reel_path: ../../Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Synthese Avocat Bascule HB BARBER ([🎭](../../Token/Analyses_juridiques/Note_Synthese_Avocat_Bascule_HB_BARBER.md))*
 <hr>
 <!-- /Breadcrumb -->
 

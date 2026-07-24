@@ -20,7 +20,7 @@ legal_basis:
   - Code du travail
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [Rapports](../../README.md) › [30 Analyses Multi Angle](../README.md) › [analyse-multi-angle](./README.md)*
+*[🏠](../../../README.md) › [Rapports](../../README.md) › [30 Analyses Multi Angle](../README.md) › [analyse-multi-angle](./README.md) › 10 Rapport Inspecteur Travail*
 <hr>
 <!-- /Breadcrumb -->
 

@@ -16,7 +16,7 @@ tags:
   - rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md) › Article L622-24 Codecommerce*
 <hr>
 <!-- /Breadcrumb -->
 

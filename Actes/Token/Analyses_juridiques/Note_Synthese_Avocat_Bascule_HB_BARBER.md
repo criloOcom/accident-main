@@ -9,7 +9,7 @@ auteur: Conseil externe (Jimini) + [La Victime]
 reel_path: ../../Reel/Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note Synthese Avocat Bascule HB BARBER ([👤](../../Reel/Analyses_juridiques/Note_Synthese_Avocat_Bascule_HB_BARBER.md))*
 <hr>
 <!-- /Breadcrumb -->
 

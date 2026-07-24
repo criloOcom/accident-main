@@ -29,7 +29,7 @@ legal_basis:
   - Code civil
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [Rapports](./README.md)*
+*[🏠](../README.md) › [Rapports](./README.md) › REPORT JULES 02 Responsabilite Dirigeants*
 <hr>
 <!-- /Breadcrumb -->
 

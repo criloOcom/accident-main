@@ -5,7 +5,7 @@ description: "| Texte original | Token |"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › TOKEN MAP*
 <hr>
 <!-- /Breadcrumb -->
 

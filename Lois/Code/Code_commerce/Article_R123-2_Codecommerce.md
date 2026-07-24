@@ -15,7 +15,7 @@ tags:
   - rapport
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md)*
+*[🏠](../../../README.md) › [⚖️ Lois](../../README.md) › [Code](../README.md) › [Code commerce](./README.md) › Article R123-2 Codecommerce*
 <hr>
 <!-- /Breadcrumb -->
 

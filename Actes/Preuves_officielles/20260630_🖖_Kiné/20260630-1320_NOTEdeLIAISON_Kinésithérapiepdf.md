@@ -9,7 +9,7 @@ source: drive
 drive_id: 1G7c-Rd16BmxyVboSELcWMWUf2LkI7BWB
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260630 🖖 Kiné](./README.md)*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [Preuves officielles](../README.md) › [20260630 🖖 Kiné](./README.md) › 20260630-1320 NOTEdeLIAISON Kinésithérapiepdf*
 <hr>
 <!-- /Breadcrumb -->
 

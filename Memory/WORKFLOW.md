@@ -5,7 +5,7 @@ description: "1. **Lire** l'original avec `readDocument` (format text)"
 type: memory
 ---
 <!-- Breadcrumb -->
-*[🏠](../README.md) › [🧠 Memory](./README.md)*
+*[🏠](../README.md) › [🧠 Memory](./README.md) › WORKFLOW*
 <hr>
 <!-- /Breadcrumb -->
 
