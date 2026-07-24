@@ -51,7 +51,7 @@ En effet, le droit d'action directe de la victime contre l'assureur du responsab
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. » <br>
 > **[Code des assurances > Article L124-3]** <br>
-> [Article L124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+> [Article L124-3 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
 Cependant, en pratique, cette dépendance est **factuelle et opérationnelle**. Sans connaître l'identité de l'assureur ni les termes du contrat (plafonds, franchises, exclusions), l'action directe ne peut être matériellement dirigée. L'article 145 CPC (révélation forcée sous astreinte) est donc un prérequis tactique indispensable.
 
@@ -63,11 +63,11 @@ Les dispositions du Code de procédure civile imposent la représentation par av
 
 > « Les parties sont, sauf disposition contraire, tenues de constituer avocat devant le tribunal judiciaire. » <br>
 > **[Code de procédure civile > Article 760]** <br>
-> [Article 760](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623478)
+> [Article 760 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623478](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623478)
 
 > « Les parties sont dispensées de constituer avocat dans les cas prévus par la loi ou le règlement et dans les cas suivants : [...] 3° A l'exclusion des matières relevant de la compétence exclusive du tribunal judiciaire, lorsque la demande porte sur un montant inférieur ou égal à 10 000 euros » <br>
 > **[Code de procédure civile > Article 761]** <br>
-> [Article 761](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869371)
+> [Article 761 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869371](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869371)
 
 En l'absence de ressources financières suffisantes de la part de [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md), l'octroi de l'Aide Juridictionnelle (totale ou partielle) est donc une dépendance critique absolue pour pouvoir engager l'action en référé-provision.
 
@@ -101,7 +101,7 @@ Le dossier s'expose à plusieurs points de défaillance unique. Pour chacun, un 
 
 > « Toute personne [...] ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne [...] » <br>
 > **[Code de procédure pénale > Article 706-3]** <br>
-> [Article 706-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312693)
+> [Article 706-3 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312693](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312693)
 
 ### III.2 — L'Aide Juridictionnelle est refusée
 
@@ -126,7 +126,7 @@ Le fondement du droit commun de la responsabilité du fait des choses pallié à
 
 > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé [...] par les choses que l'on a sous sa garde. » <br>
 > **[Code civil > Article 1242]** <br>
-> [Article 1242](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041559)
+> [Article 1242 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041559](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041559)
 
 ### III.5 — E. L'expertise UMJ est repoussée ou annulée
 
@@ -149,7 +149,7 @@ L'action en responsabilité pour dommage corporel se prescrit par dix ans à com
 
 > « L'action en responsabilité née à raison d'un événement ayant entraîné un dommage corporel, engagée par la victime directe ou indirecte des préjudices qui en résultent, se prescrit par dix ans à compter de la date de la consolidation du dommage initial ou aggravé. » <br>
 > **[Code civil > Article 2226]** <br>
-> [Article 2226](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259)
+> [Article 2226 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259)
 
 ### IV.2 — Au pénal : 6 ans
 
@@ -157,7 +157,7 @@ L'infraction pénale pertinente en l'espèce est le délit de blessures involont
 
 > « L'action publique des délits se prescrit par six années révolues à compter du jour où l'infraction a été commise. » <br>
 > **[Code de procédure pénale > Article 8]** <br>
-> [Article 8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911)
+> [Article 8 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911)
 
 *(Note technique : bien que l'article 222-25 du Code pénal soit parfois cité à tort dans certaines documentations génériques relatives aux délais trentenaires, il concerne expressément le viol ayant entraîné la mort. Ce fondement est donc totalement inapplicable et écarté pour le présent dossier d'accident.)*
 

@@ -103,9 +103,9 @@ Conformément aux arrêts *Merabishvili c. Géorgie* (28 nov. 2017, n° 72508/13
 ## IV — SOURCES & CITATIONS (SOURCES OFFICIELLES GOVERNEMENTALES)
 
 - **Article 434-4 du Code pénal** (Entrave à la vérité et altération de preuves)  
-  [Consulter sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608/)
+  [Consulter sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608/)
 - **Article 1382 du Code civil** (Présomptions judiciaires graves, précises et concordantes)  
-  [Consulter sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041440/)
+  [Consulter sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041440/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041440/)
 - **CEDH Merabishvili c. Géorgie (n° 72508/13)**  
   [Consulter l'arrêt sur HUDOC](https://hudoc.echr.coe.int/eng?i=001-179262)
 - **CEDH Semache c. France (n° 36083/16)**  

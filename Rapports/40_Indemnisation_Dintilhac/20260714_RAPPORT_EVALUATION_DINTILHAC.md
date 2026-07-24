@@ -86,7 +86,7 @@ La demande de provision de **15 000 €** en référé-provision est fondée sur
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. » <br>
 > **[Code de procédure civile > Article 873]** <br>
-> [Article 873](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463)
+> [Article 873 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411463)
 
 **Justification :** La responsabilité de [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Tokens/token-exploitation-raison-sociale.md) (chute de la vasque) est incontestable. La provision de 15 000 € correspond à peine à 11% du montant plancher (130 000 €) attendu. Elle couvrira a minima les dépenses de santé actuelles (DSA), les pertes de gains actuels (PGPA) et une partie du déficit fonctionnel temporaire (DFT) et des souffrances endurées (SE). La demande est par conséquent parfaitement proportionnée et juridiquement imparable.
 

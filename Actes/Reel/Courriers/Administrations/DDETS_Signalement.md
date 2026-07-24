@@ -95,7 +95,7 @@ Les procédures suivantes ont été engagées :
 
 - Mise en demeure à Hamza El Hachemi BERGUIGA et à Catherine SORROCHE, dite ANDISSAC
 
-- Action directe contre l'assureur RC ([Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449))
+- Action directe contre l'assureur RC ([Article L. 124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449))
 
 **3. Réquisitoire introductif** (J+47 — Parquet de Foix)
 - Transmission au doyen des juges d'instruction le 15 juillet 2026
@@ -139,7 +139,7 @@ Je souhaiterais être informé de l'état d'avancement de votre enquête et, le 
 
 ### III.2 — COMMUNICATION DU RAPPORT D'INSPECTION
 
-En qualité de personne directement concernée par les faits, je sollicite la transmission du rapport d'inspection sur le fondement de [l'article L. 311-1 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367683), sous réserve du secret de l'enquête en cours.
+En qualité de personne directement concernée par les faits, je sollicite la transmission du rapport d'inspection sur le fondement de [l'article L. 311-1 du Code des relations entre le public et l'administration - legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367683](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367683), sous réserve du secret de l'enquête en cours.
 
 ### III.3 — VÉRIFICATION DES ÉLÉMENTS DE SÉCURITÉ SUIVANTS
 
@@ -149,7 +149,7 @@ Je porte à votre attention les faits suivants, susceptibles de caractériser de
 Le bac à shampoing en céramique, instable et présentant une cassure préexistante non signalée, est susceptible de caractériser un manquement à l'obligation de sécurité et de conformité des équipements de travail (Article L. 4321-1 du Code du travail[^n2]).
 
 > *« Les équipements de travail et les moyens de protection mis en service ou utilisés dans les établissements destinés à recevoir des travailleurs sont équipés, installés, utilisés, réglés et maintenus de manière à préserver la santé et la sécurité des travailleurs, y compris en cas de modification de ces équipements de travail et de ces moyens de protection. »* <br>
-> [Article L4321-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209)  
+> [Article L4321-1 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209)  
 > **Code du travail > Section 1 : Principes.**
 
 - **Absence de DUERP** :  
@@ -166,7 +166,7 @@ Le préposé a dû monter sur le bac à shampoing pour accéder au poste de tél
 Cette situation est susceptible de méconnaître l'obligation de sécurité de l'employeur (Article L. 4121-1 du Code du travail[^n3]) et les règles relatives aux travaux en hauteur (Articles R. 4323-58[^n4] et suivants du Code du travail), l'employeur devant fournir un plan de travail ou un équipement d'accès approprié permettant l'intervention en sécurité.
 
 > *« L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. »* <br>
-> [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)  
+> [Article L4121-1 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)  
 > **Code du travail > Chapitre Ier : Obligations de l'employeur.**
 
 - **Travail dissimulé présumé** :  
@@ -179,7 +179,7 @@ Cet indice est étayé par le fait que la SAS SAS HB BARBER déclare officiellem
 Si les faits constatés par vos contrôles s'avèrent constitutifs d'infractions pénales, je vous remercie par avance de bien vouloir transmettre votre rapport au Procureur de la République près le Tribunal Judiciaire de Foix conformément à l'Article 40 du Code de procédure pénale.
 
 > *« Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner conformément aux dispositions de l'article 40-1. Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs. »* <br>
-> [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)  
+> [Article 40 du Code de procédure pénale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)  
 > **Code de procédure pénale > Section 3 : Des attributions du procureur de la République — abrogation différée.**
 
 Je vous remercie de bien vouloir me faire parvenir un accusé de réception écrit de la présente.
@@ -214,21 +214,21 @@ Sébastien GRAZIDE
 
 [^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
     > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
-    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+    > [Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
     📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 
 [^n2]: > « Les équipements de travail et les moyens de protection mis en service ou utilisés dans les établissements destinés à recevoir des travailleurs sont équipés, installés, utilisés, réglés et maintenus de manière à préserver la santé et la sécurité des travailleurs, y compris en cas de modification de ces équipements de travail et de ces moyens de protection. » <br>
     > **Code du travail > Section 1 : Principes.** <br>
-    > [Article L4321-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209)
+    > [Article L4321-1 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209)
     📚 Bibliothèque locale : [Article_L4321-1_CodeTravail](../../../../Lois/Code/Code_du_travail/Article_L4321-1_CodeTravail.md) ↩
 
 [^n3]: > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels, y compris ceux mentionnés à l'article L. 4161-1 ; 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. L'employeur veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes. » <br>
     > **Code du travail > Chapitre Ier : Obligations de l'employeur.** <br>
-    > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)
+    > [Article L4121-1 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)
     📚 Bibliothèque locale : [Article_L4121-1_CodeTravail](../../../../Lois/Code/Code_du_travail/Article_L4121-1_CodeTravail.md) ↩
 
 [^n4]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
     > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.** <br>
-    > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
+    > [Article R4323-58 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
     📚 Bibliothèque locale : [Article_R4323-58_CodeTravail](../../../../Lois/Code/Code_du_travail/Article_R4323-58_CodeTravail.md) ↩
 <!-- /Source -->

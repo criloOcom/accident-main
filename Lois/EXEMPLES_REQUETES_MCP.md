@@ -333,14 +333,14 @@ def verifier_article_loi(article_id):
 ## Jurisprudence Pertinente
 
 ### Accident en salon de coiffure
-- [Cass. Civ. 2ème, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
-- [Cass. Civ. 1ère, 8 décembre 2021, n° 20-16.463](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
+- [Cass. Civ. 2ème, 8 juillet 2021, n° 20-15.106 - legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)
+- [Cass. Civ. 1ère, 8 décembre 2021, n° 20-16.463 - legifrance.gouv.fr/juri/id/JURITEXT000044482848](https://www.legifrance.gouv.fr/juri/id/JURITEXT000044482848)
 
 ## Articles de Loi
 
-- [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) (Responsabilité civile)
-- [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) (Gardien de la chose)
-- [Article 145 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) (Mesures d'instruction)
+- [Article 1240 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) (Responsabilité civile)
+- [Article 1242 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) (Gardien de la chose)
+- [Article 145 du CPC - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) (Mesures d'instruction)
 ```
 
 ---

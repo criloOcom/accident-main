@@ -120,10 +120,10 @@ Dont acte, clôturé par nous, [Nom de l'OPJ de permanence], OPJ, et signé avec
 
 [^n1]: > « Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ; 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables. Lorsque les faits prévus au présent article sont commis par une personne qui, par ses fonctions, est appelée à concourir à la manifestation de la vérité, la peine est portée à cinq ans d'emprisonnement et à 75 000 euros d'amende. » <br>
     > **Code pénal > Section 1 : Des entraves à la saisine de la justice.** <br>
-    > [Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) ↩
+    > [Article 434-4 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) ↩
 
 [^n2]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
     > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
-    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+    > [Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
     📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 <!-- /Source -->

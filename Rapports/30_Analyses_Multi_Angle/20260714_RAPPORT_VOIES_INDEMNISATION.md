@@ -36,13 +36,13 @@ Le recours devant la Commission d'Indemnisation des Victimes d'Infractions (CIVI
 
 Dans le cas présent, [**[La Victime]**](../../Memory/Tokens/token-victime-nom-complet.md) a subi un préjudice corporel évalué à ~109 500 € (évaluation Dintilhac principale) avec une Incapacité Totale de Travail (ITT) de 55 jours et un Déficit Fonctionnel Permanent (DFP) évalué à 12 %.
 
-Les conditions d'ouverture du droit à l'indemnisation intégrale par la CIVI sont définies par l'[Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312693). Toute personne ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages si les faits ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail d'au moins un mois. Les seuils sont donc franchis en l'espèce (ITT > 1 mois, DFP prévisible).
+Les conditions d'ouverture du droit à l'indemnisation intégrale par la CIVI sont définies par l'[Article 706-3 du Code de procédure pénale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312693](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312693). Toute personne ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages si les faits ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail d'au moins un mois. Les seuils sont donc franchis en l'espèce (ITT > 1 mois, DFP prévisible).
 
 -   **Condition** : Infraction caractérisée ayant entraîné une ITT ≥ 1 mois ou une IP.
 
 -   **Délai** : 3 ans à compter de la date de l'infraction, prorogé d'un an après la décision définitive de la juridiction répressive.
 
--   **Montant max** : Réparation intégrale (pas de plafond strict en principe, mais provisions soumises à appréciation). L'[Article L422-7 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797916) (souvent cité par analogie pour des plafonds dans d'autres cadres) n'est pas applicable directement au FGTI, qui obéit au régime du CPP.
+-   **Montant max** : Réparation intégrale (pas de plafond strict en principe, mais provisions soumises à appréciation). L'[Article L422-7 du Code de l'action sociale et des familles - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797916](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797916) (souvent cité par analogie pour des plafonds dans d'autres cadres) n'est pas applicable directement au FGTI, qui obéit au régime du CPP.
 
 -   **Risque** : Nécessite la preuve du caractère matériel de l'infraction. Le FGTI peut être subrogé dans les droits de la victime contre le responsable (la SAS au capital de 200 € ou ses dirigeants).
 
@@ -61,11 +61,11 @@ Les conditions d'ouverture du droit à l'indemnisation intégrale par la CIVI so
 
 La voie la plus classique et protectrice pour la victime est de rechercher l'indemnisation auprès de l'assureur de Responsabilité Civile Professionnelle (RC Pro) du responsable de l'accident.
 
-Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable, conformément à l'[Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
+Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable, conformément à l'[Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449).
 
 Toutefois, la difficulté actuelle réside dans l'identification de cet assureur, la SAS (au capital dérisoire de 200 €) n'ayant pas communiqué ses coordonnées d'assurance.
 
-Pour pallier cette carence, une mesure d'instruction in futurum est nécessaire. S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé sur requête ou en référé, en vertu de l'[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339).
+Pour pallier cette carence, une mesure d'instruction in futurum est nécessaire. S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé sur requête ou en référé, en vertu de l'[Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339).
 
 -   **Condition** : Identification préalable de l'assureur.
 
@@ -81,7 +81,7 @@ Pour pallier cette carence, une mesure d'instruction in futurum est nécessaire.
 
 Dans l'hypothèse où le responsable est insolvable (risque majeur vu le capital social de 200 €) et non assuré, et si les conditions de la CIVI n'étaient finalement pas réunies (hypothèse d'école ici vu l'ITT de 55 jours), des mécanismes subsidiaires liés au recouvrement des dommages et intérêts alloués par une juridiction pénale existent (ex: SARVI), plafonnés à 3 000 €.
 
-La responsabilité de l'État pour fonctionnement défectueux du service public de la justice pourrait être envisagée en cas de carence caractérisée dans le traitement de la plainte, sur le fondement de l'[Article L141-1 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029760280). L'État est tenu de réparer le dommage causé par le fonctionnement défectueux du service de la justice (faute lourde ou déni de justice). Toutefois, l'indemnisation par la CIVI reste la voie privilégiée dans notre cas.
+La responsabilité de l'État pour fonctionnement défectueux du service public de la justice pourrait être envisagée en cas de carence caractérisée dans le traitement de la plainte, sur le fondement de l'[Article L141-1 du Code de l'organisation judiciaire - legifrance.gouv.fr/codes/article_lc/LEGIARTI000029760280](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029760280). L'État est tenu de réparer le dommage causé par le fonctionnement défectueux du service de la justice (faute lourde ou déni de justice). Toutefois, l'indemnisation par la CIVI reste la voie privilégiée dans notre cas.
 
 -   **Condition** : Décision de justice accordant des D&I. Refus de paiement du condamné.
 
@@ -95,7 +95,7 @@ La responsabilité de l'État pour fonctionnement défectueux du service public 
 
 Le recouvrement des frais d'avocat, d'expertise (hors dépens) et des autres frais exposés par la victime non compris dans les dépens est fondamental pour une réparation réellement intégrale.
 
-Comme le prévoit l'[Article 700 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436), le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens.
+Comme le prévoit l'[Article 700 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045268436), le juge condamne la partie tenue aux dépens ou qui perd son procès à payer à l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens.
 
 -   **Condition** : Condamnation de la partie adverse.
 

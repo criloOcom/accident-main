@@ -54,7 +54,7 @@ Partage depuis : **[L'Email de la Victime](../../../Memory/Tokens/token-victime-
 
 ## III — ACTES PROCÉDURAUX
 
-- 2026-06-29 - 01 ⚖️ Assignation - V1 ✓ Vérifié : Projet d'assignation en référé-provision (5 000 €) fondé sur [Article 835 du CPC](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)[^1].
+- 2026-06-29 - 01 ⚖️ Assignation - V1 ✓ Vérifié : Projet d'assignation en référé-provision (5 000 €) fondé sur [Article 835 du CPC - legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284)[^1].
 
 - 2026-06-01 - 02 🚔 Plainte - V1 ✓ Vérifié : Plainte complémentaire défaut assurance RC (victime agissant en qualité de client).
 
@@ -75,12 +75,12 @@ Partage depuis : **[L'Email de la Victime](../../../Memory/Tokens/token-victime-
 
 - 2026-06-29 - 03 ✉️ Courrier SAS - V1 ✓ Vérifié : Mise en demeure LRAR à **[L'Exploitant du Commerce (La SAS)](../../../Memory/Tokens/token-exploitation-raison-sociale.md)**.
 
-- 2026-06-29 - 04 ✉️ Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de [Article L. 124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^2].
+- 2026-06-29 - 04 ✉️ Courrier Assureur - V1 ✓ Vérifié : Déclaration de sinistre et mise en demeure assureur RC sur le fondement de [Article L. 124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)[^2].
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.[^2]** <br>
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 
 - 2026-06-01 - 05 ✉️ Courrier Proprietaire - V1 ✓ Vérifié : Demande d'information au propriétaire des murs (détient l'attestation d'assurance RC Pro du locataire via le bail commercial).
 
@@ -125,18 +125,18 @@ Partage depuis : **[L'Email de la Victime](../../../Memory/Tokens/token-victime-
 
 ## V — ANALYSES JURIDIQUES
 
-- 2026-06-29 - 07 🎤 Plaidoirie dirigeants - V1 ✓ Vérifié : Analyse de la responsabilité pour faute détachable selon l'Arrêt SATI juridique invoquant [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^3] du Code civil
+- 2026-06-29 - 07 🎤 Plaidoirie dirigeants - V1 ✓ Vérifié : Analyse de la responsabilité pour faute détachable selon l'Arrêt SATI juridique invoquant [Article 1240 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)[^3] du Code civil
 > *« Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »* <br>
 
-Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^4].
+Et, article [1242 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000)[^4].
 > *« Le gardien de la chose instrument du dommage ne peut s'exonérer de la responsabilité de plein droit pesant sur lui qu'en prouvant un cas de force majeure, un cas fortuit ou une cause étrangère qui ne lui soit pas imputable. »* <br>
 
 - 2026-06-29 - 09 ❓ FAQ - V1 ✓ Vérifié : Synthèse juridique et questions-réponses.
 
-- 2026-06-02 - 13 📜 Responsabilites legales - V1 ✓ Vérifié : Analyse sur [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)[^5].
+- 2026-06-02 - 13 📜 Responsabilites legales - V1 ✓ Vérifié : Analyse sur [Article 222-20 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)[^5].
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
-> [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
+> [Article 222-20 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) <br>
 > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.[^5]**
 - 2026-07-05 - 12 📁 Dossier Plaidoirie - V1 ✓ Vérifié : Dossier complet de plaidoirie pour l'audience.
 
@@ -252,31 +252,31 @@ Documents non indexés conservés dans `archives/` :
 
 ## XI — RÉFÉRENCES JURISPRUDENTIELLES
 
-- [Arrêt Costedoat : Ass. Plén., 25 février 2000, n° 97-17.378](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)[^6]
+- [Arrêt Costedoat : Ass. Plén., 25 février 2000, n° 97-17.378 - legifrance.gouv.fr/juri/id/JURITEXT000007043704](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)[^6]
 > Attendu : *« N'engage pas sa responsabilité civile à l'égard des tiers le préposé qui agit dans les limites de la mission à lui impartie par son commettant. »* <br>
 > Résumé : Le salarié agissant dans le cadre de ses fonctions professionnelles bénéficie d'une immunité civile de principe. Seul l'employeur (commettant) est responsable des dommages causés aux tiers.
 
-- [Arrêt Cousin : Ass. Plén., 14 décembre 2001, n° 00-82.066](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351)[^7]
+- [Arrêt Cousin : Ass. Plén., 14 décembre 2001, n° 00-82.066 - legifrance.gouv.fr/juri/id/JURITEXT000007071351](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007071351)[^7]
 > Attendu : *« Le préposé qui agit dans les limites de la mission qui lui a été impartie n'engage sa responsabilité personnelle à l'égard des tiers que s'il a commis une faute pénale intentionnelle. »* <br>
 > Résumé : Le salarié commettant une infraction pénale intentionnelle perd son immunité de préposé (dite jurisprudence Costedoat) et engage sa responsabilité civile personnelle solidairement avec l'employeur.
 
-- [Arrêt SATI : Cass. Com., 20 mai 2003, n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)[^8]
+- [Arrêt SATI : Cass. Com., 20 mai 2003, n° 99-17.092 - legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)[^8]
 > Attendu : *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
 > Résumé : Le dirigeant qui commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions engage sa responsabilité personnelle. Application au cas de dirigeant qui trompe délibérément un cocontractant sur la solvabilité de la société.
 
-- [Cass. Crim., 27 mai 2014, n° 13-80.849](https://www.legifrance.gouv.fr/juri/id/JURITEXT000029014493)[^9]
+- [Cass. Crim., 27 mai 2014, n° 13-80.849 - legifrance.gouv.fr/juri/id/JURITEXT000029014493](https://www.legifrance.gouv.fr/juri/id/JURITEXT000029014493)[^9]
 > Attendu : *« Les personnes morales sont responsables pénalement des infractions commises pour leur compte par leurs organes ou représentants, y compris par le biais de délégations de pouvoirs. »* <br>
 > Résumé : Les infractions commises par les salariés ou préposés dans l'exercice de leurs fonctions engagent la responsabilité pénale de la personne morale s'ils ont agi pour le compte de cette dernière.
 
-- [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)[^10]
+- [Cass. Civ. 2e, 4 avril 2024, n° 22-19.307 - legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278)[^10]
 > Attendu : *« L'incidence professionnelle est un poste de préjudice distinct des pertes de gains professionnels futurs qui indemnise la dévalorisation sur le marché du travail, l'exclusion du monde du travail, la pénibilité accrue de l'emploi ou la perte de chance d'une évolution professionnelle. »* <br>
 > Résumé : L'indemnisation au titre de l'incidence professionnelle est cumulable avec la perte de gains professionnels futurs et répare la dévalorisation sur le marché de l'emploi et l'exclusion sociale qui en découlent.
 
-- [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)[^11]
+- [Cass. Civ. 2e, 6 mai 2021, n° 19-23.173 - legifrance.gouv.fr/juri/id/JURITEXT000043489943](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043489943)[^11]
 > Attendu :  — texte de l'arrêt à confirmer depuis Légifrance (JURITEXT000043489943).
 > Résumé : .
 
-- [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)[^12]
+- [Cass. Civ. 2e, 8 juillet 2021, n° 20-15.106 - legifrance.gouv.fr/juri/id/JURITEXT000043782126](https://www.legifrance.gouv.fr/juri/id/JURITEXT000043782126)[^12]
 > Attendu : *« Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »* <br>
 > Résumé : Le principe de réparation intégrale exige une évaluation concrète et justifiée de chaque poste de préjudice corporel, proscrivant les indemnisations globales, forfaitaires ou imprécises.
 <hr><hr>

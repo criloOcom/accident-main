@@ -76,7 +76,7 @@ Plusieurs procédures ont été engagées à ce jour :
 4. Action directe contre l'assureur RC professionnelle (Article L.124-3 du Code des assurances[^n1])
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 
 5. Dossier de recours contre tiers à la CPAM (n° [**[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**])
@@ -101,7 +101,7 @@ Je porte par ailleurs à votre connaissance les manquements suivants, constatés
 - Absence d'équipement d'accès en hauteur (escabeau) pour les interventions en hauteur (Articles R.4323-58 du Code du travail[^n3])
 
 > *« Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. »* <br>
-> [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) <br>
+> [Article R4323-58 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397) <br>
 > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.**
 
 - Équipement défectueux (vasque en céramique instable avec cassure préexistante non signalée)
@@ -160,16 +160,16 @@ Sébastien GRAZIDE
 
 [^n1]: > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
     > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
-    > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+    > [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
     📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](../../../../Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
 
 [^n2]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
     > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
-    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+    > [Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
     📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 
 [^n3]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
     > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.** <br>
-    > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
+    > [Article R4323-58 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
     📚 Bibliothèque locale : [Article_R4323-58_CodeTravail](../../../../Lois/Code/Code_du_travail/Article_R4323-58_CodeTravail.md) ↩
 <!-- /Source -->

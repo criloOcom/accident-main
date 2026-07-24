@@ -47,7 +47,7 @@ Notes : Conformément au III de l'article 25 de la loi n° 2023-1059 du 20 novem
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442334)
 
 ### Articles cités
 - Code de procédure pénale - art. 706-14

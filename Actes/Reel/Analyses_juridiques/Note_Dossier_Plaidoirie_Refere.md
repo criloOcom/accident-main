@@ -139,9 +139,9 @@ L'argumentation développée s'appuie sur une jurisprudence constante :
 
 - **Immunité du préposé (Arrêt Costedoat - Ass. Plén., 25 février 2000) :** **[N° 97-17.378]** ayant agi dans le cadre de ses fonctions, il bénéficie d'une immunité civile de principe. Seul l'employeur (le commettant) engage sa responsabilité.
 
-- **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070713](../../../Lois/Jurisprudence/JURITEXT0000070713.md)51). Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
+- **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066 - legifrance.gouv.fr/juri/id/[JURITEXT0000070713](../../../Lois/Jurisprudence/JURITEXT0000070713.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070713](../../../Lois/Jurisprudence/JURITEXT0000070713.md)51). Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
 
-- **Faute détachable du dirigeant (Arrêt SATI - Cass. Com., 20 mai 2003) :** [N° 99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69). Le dirigeant qui commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions engage sa responsabilité personnelle. En l'espèce, l'obstruction des dirigeants et le défaut de communication caractérisent une faute détachable.
+- **Faute détachable du dirigeant (Arrêt SATI - Cass. Com., 20 mai 2003) :** [N° 99-17.092 - legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69). Le dirigeant qui commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal de ses fonctions engage sa responsabilité personnelle. En l'espèce, l'obstruction des dirigeants et le défaut de communication caractérisent une faute détachable.
 
 - **Principe de réparation intégrale (Art. 1240[^n5] C. civ.) :** La victime doit être replacée dans la situation qui était la sienne avant le dommage, sans perte ni profit. Pour Sébastien GRAZIDE, informaticien indépendant, l'incidence professionnelle est majeure.
 <hr><hr>
@@ -191,24 +191,24 @@ Oui, parfaitement. Bien que son action fût imprudente, il agissait dans l'encei
 
 [^n1]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
-    > [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
+    > [Article 1242 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
 
 [^n2]: > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
     > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
-    > [Article L227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
+    > [Article L227-8 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
     📚 Bibliothèque locale : [Article_L227-8_Codecommerce_Legifrance](../../../Lois/Code/Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) ↩
 
 [^n3]: > « Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. Si plusieurs administrateurs ou plusieurs administrateurs et le directeur général ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du dommage. » <br>
     > **Code de commerce > Section 8 : De la responsabilité civile.** <br>
-    > [Article L225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
+    > [Article L225-251 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
     📚 Bibliothèque locale : [Article_L225-251_Codecommerce_Legifrance](../../../Lois/Code/Code_commerce/Article_L225-251_Codecommerce_Legifrance.md) ↩
 
 [^n4]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
     > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
-    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+    > [Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
     📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 
 [^n5]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
-    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+    > [Article 1240 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 <!-- /Source -->

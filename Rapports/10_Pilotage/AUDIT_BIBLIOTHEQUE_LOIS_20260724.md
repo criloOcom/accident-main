@@ -58,7 +58,7 @@ annoté. C'est un manque d'exploitation de la bibliothèque.
 
 R1. Enrichir le format de note de bas de page pour qu'il lie AUSSI le fichier
     Lois/ local correspondant (outre Légifrance). Exemple :
-    > [Article L113-1 du Code des assurances](https://www.legifrance.gouv.fr/...LEGIARTI)
+    > [Article L113-1 du Code des assurances - legifrance.gouv.fr/...LEGIARTI](https://www.legifrance.gouv.fr/...LEGIARTI)
     > **Code des assurances > Chapitre Ier**
     > Texte + lien bibliothèque locale : [Lois/Code/Code_assurances/Article_L113-1...md](lien relatif)
 

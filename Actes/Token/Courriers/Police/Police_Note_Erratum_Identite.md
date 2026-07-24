@@ -225,5 +225,5 @@ Fait à **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adre
 
 [^n1]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
-    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+    > [Article 1240 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 <!-- /Source -->

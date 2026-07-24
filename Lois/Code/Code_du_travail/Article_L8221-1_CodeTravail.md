@@ -43,4 +43,4 @@ Sont interdits :
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815)

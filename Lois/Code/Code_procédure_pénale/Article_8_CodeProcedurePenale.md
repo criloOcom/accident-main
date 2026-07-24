@@ -46,7 +46,7 @@ L'action publique des délits mentionnés à l'article 706-167 du présent code,
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911)
 
 ### Articles cités
 - Loi n°98-468 du 17 juin 1998 - art. 50 (V)

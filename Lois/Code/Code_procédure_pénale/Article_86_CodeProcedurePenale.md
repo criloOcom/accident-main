@@ -55,7 +55,7 @@ Lorsque le juge d'instruction rend une ordonnance de refus d'informer, il peut f
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312062)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312062](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038312062)
 
 ### Articles cités
 - Loi n°1908-08-05 du 5 août 1908 - art. 2 (V)

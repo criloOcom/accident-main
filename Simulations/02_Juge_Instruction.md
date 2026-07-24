@@ -36,12 +36,12 @@ L'absence d'équipement adapté (escabeau) contraignant le préposé à une man�
 Les blessures ayant entraîné une ITT inférieure ou égale à trois mois, les faits sont susceptibles de recevoir la qualification de blessures involontaires :
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
-> **[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)**
+> **[Article 222-20 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)**
 
 Ou, à tout le moins, de blessures par imprudence :
 
 > « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. » <br>
-> **[Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)**
+> **[Article 222-19 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)**
 
 ### B. RESPONSABILITÉ DES DIRIGEANTS ET DÉFAUT D'ASSURANCE
 
@@ -50,7 +50,7 @@ Il ressort par ailleurs que le Président, [**[Le Président de l'Exploitation]*
 Leur responsabilité civile personnelle peut dès lors être engagée sur le fondement des dispositions applicables aux SAS :
 
 > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
-> **[Article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)**
+> **[Article L. 227-8 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)**
 
 <hr><hr>
 
@@ -77,7 +77,7 @@ L'accident datant du 29 mai 2026, l'action publique se prescrira en mai 2032. La
 Enfin, s'agissant des frais exposés par la partie civile pour faire valoir ses droits, ils pourront être pris en compte au stade du jugement :
 
 > « Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. » <br>
-> **[Article 475-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107)**
+> **[Article 475-1 du Code de procédure pénale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107)**
 
 Fait au Tribunal Judiciaire de Foix,
 Le Juge d'Instruction

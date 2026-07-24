@@ -81,7 +81,7 @@ Le Code de commerce encadre strictement les conditions de radiation d'office d'u
 > 1° Frappé d'une interdiction d'exercer une activité commerciale en vertu d'une décision judiciaire passée en force de chose jugée ou d'une décision administrative exécutoire ;
 > 2° Décédé depuis plus d'un an, sauf déclaration faite dans les conditions prévues aux 6° et 7° de l'article R. 123-46. Dans ce dernier cas, la radiation est faite dans le délai d'un an à compter de la mention de la déclaration ou de son renouvellement ; notification en est faite à l'exploitant avec invitation d'avoir à requérir son immatriculation.
 > En application des deux premiers alinéas de l'article L. 613-4 du code de la sécurité sociale[^n1] , est également radié d'office, dès que le greffier est informé de la radiation prononcée par un organisme de sécurité sociale, tout commerçant qui n'est plus affilié à cet organisme en sa qualité de travailleur indépendant. »* <br>
-> [Art. R.123-128](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214) <br>
+> [Art. R.123-128 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214) <br>
 > Code de commerce <br>
 <hr><hr>
 
@@ -133,5 +133,5 @@ Avocat au Barreau
 
 [^n1]: > « A défaut de chiffre d'affaires ou de recettes ou de déclaration de chiffre d'affaires ou de revenus au cours d'une période d'au moins deux années civiles consécutives, un travailleur indépendant est présumé ne plus exercer d'activité professionnelle justifiant son affiliation à la sécurité sociale. Dans ce cas, sa radiation peut être décidée par l'organisme de sécurité sociale dont il relève après que l'intéressé a été informé de cette éventualité, sauf opposition de sa part dans un délai fixé par décret. La radiation prend effet au terme de la dernière année au titre de laquelle le revenu ou le chiffre d'affaires est connu. En outre : 1° Si le travailleur indépendant est entrepreneur individuel, la radiation prononcée en application du premier alinéa emporte de plein droit celle des fichiers, registres ou répertoires tenus par les autres administrations, personnes et organismes destinataires des informations relatives à la cessation d'activité prévues à l'article L. 123-33 du code de commerce ; 2° Si le travailleur indépendant n'est pas un entrepreneur individuel, l'organisme qui prononce cette radiation en informe les administrations, personnes et organismes mentionnés au 1° ; 3° Si le travailleur indépendant est inscrit à un ordre professionnel, l'organisme qui prononce cette radiation informe l'ordre concerné. Un décret en Conseil d'Etat détermine les conditions d'application du présent article. » <br>
     > **Code de la sécurité sociale > Section 2 : Modernisation et simplification des formalités.** <br>
-    > [Article L613-4 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038595817) ↩
+    > [Article L613-4 du Code de la sécurité sociale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000038595817](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038595817) ↩
 <!-- /Source -->

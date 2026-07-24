@@ -40,7 +40,7 @@ Le président peut, dans les mêmes conditions et à cette même fin, désigner 
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219291)
 
 ### Articles cités
 - Décret n°78-704 du 3 juillet 1978 - art. 52

@@ -38,7 +38,7 @@ Toutefois, l'assureur ne répond pas des pertes et dommages provenant d'une faut
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006791984)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006791984](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006791984)
 
 ### Articles cités
 - Code des assurances - art. R220-3 (M)

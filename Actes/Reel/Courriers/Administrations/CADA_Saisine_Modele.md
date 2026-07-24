@@ -153,9 +153,9 @@ Sébastien GRAZIDE
 
 [^n1]: > « Le droit de toute personne à l'information est précisé et garanti par les dispositions des titres Ier, III et IV du présent livre en ce qui concerne la liberté d'accès aux documents administratifs. » <br>
     > **Code des relations entre le public et l'administration > Livre III : L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET LA RÉUTILISATION DES INFORMATIONS PUBLIQUES.** <br>
-    > [Article L300-1 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367687) ↩
+    > [Article L300-1 du Code des relations entre le public et l'administration - legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367687](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367687) ↩
 
 [^n2]: > « Sous réserve des dispositions des articles L. 311-5 et L. 311-6 , les administrations mentionnées à l'article L. 300-2 sont tenues de publier en ligne ou de communiquer les documents administratifs qu'elles détiennent aux personnes qui en font la demande, dans les conditions prévues par le présent livre. » <br>
     > **Code des relations entre le public et l'administration > Section 1 : Etendue du droit à communication.** <br>
-    > [Article L311-1 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033218946) ↩
+    > [Article L311-1 du Code des relations entre le public et l'administration - legifrance.gouv.fr/codes/article_lc/LEGIARTI000033218946](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033218946) ↩
 <!-- /Source -->

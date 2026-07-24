@@ -41,7 +41,7 @@ L'enquête devra confirmer les responsabilités de la personne morale, [**[L'Exp
 
 ### I.1 — 1.1 Blessures involontaires (ITT inférieure ou égale à 3 mois)
 L'ITT initiale de 55 jours fixée médicalement qualifie l'infraction délictuelle.
-- **Fondement juridique :** [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
+- **Fondement juridique :** [Article 222-20 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640).
 
 - **Incrimination :** Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois.
 
@@ -49,7 +49,7 @@ L'ITT initiale de 55 jours fixée médicalement qualifie l'infraction délictuel
 
 ### I.2 — 1.2 Mise en danger délibérée de la vie d'autrui
 Cette qualification peut se cumuler ou se substituer selon l'établissement de la causalité.
-- **Fondement juridique :** [Article 223-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637).
+- **Fondement juridique :** [Article 223-1 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637).
 
 - **Incrimination :** L'exposition directe d'autrui à un risque immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente par la violation manifestement délibérée d'une obligation de sécurité.
 
@@ -57,7 +57,7 @@ Cette qualification peut se cumuler ou se substituer selon l'établissement de l
 
 ### I.3 — 1.3 Responsabilité pénale des dirigeants (Causalité indirecte)
 L'engagement de la responsabilité des dirigeants non présents matériellement requiert la démonstration d'une faute qualifiée.
-- **Fondement juridique :** [Article 121-3 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208).
+- **Fondement juridique :** [Article 121-3 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208).
 
 - **Incrimination :** Les personnes physiques qui n'ont pas causé directement le dommage mais ont créé la situation ou n'ont pas pris les mesures pour l'éviter sont responsables si elles ont commis une faute caractérisée exposant autrui à un risque d'une particulière gravité.
 
@@ -74,9 +74,9 @@ L'engagement de la responsabilité des dirigeants non présents matériellement 
 
 En vertu du principe de l'opportunité des poursuites, le Parquet dispose de plusieurs leviers pour traiter cette plainte.
 
-- **Réception de la plainte :** [Article 40 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) - Le procureur de la République reçoit les plaintes et dénonciations et apprécie la suite à leur donner.
+- **Réception de la plainte :** [Article 40 du Code de procédure pénale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933) - Le procureur de la République reçoit les plaintes et dénonciations et apprécie la suite à leur donner.
 
-- **Orientation (Art. 40-1 CPP) :** Au vu des faits ([Article 40-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033611483)), le Parquet peut :
+- **Orientation (Art. 40-1 CPP) :** Au vu des faits ([Article 40-1 du Code de procédure pénale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000033611483](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033611483)), le Parquet peut :
 
   - Ordonner une enquête préliminaire confiée aux services de police (notamment pour entendre les dirigeants de la SAS et saisir les éventuelles vidéos via réquisitions).
   - Mettre en œuvre une procédure alternative aux poursuites.
@@ -95,7 +95,7 @@ La citation directe (ou la saisine suite à enquête préliminaire) devant le Tr
 L'intervention de [**[La Victime]**](../../../Memory/Tokens/token-victime-nom-complet.md) en tant que partie civile est centrale dans ce dossier pénal.
 
 ### III.1 — 3.1 Droit à se constituer partie civile
-- **Fondement juridique :** [Article 2 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024496925) - L'action civile en réparation du dommage appartient à tous ceux qui ont personnellement souffert du dommage directement causé par l'infraction.
+- **Fondement juridique :** [Article 2 du Code de procédure pénale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024496925](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024496925) - L'action civile en réparation du dommage appartient à tous ceux qui ont personnellement souffert du dommage directement causé par l'infraction.
 
 - La constitution de partie civile (CITC) peut intervenir par voie d'intervention (pendant l'instruction ou à l'audience) ou par voie d'action (Citation Directe par la victime ou plainte avec constitution de partie civile devant le doyen des juges d'instruction après 3 mois sans réponse du Parquet ou un classement sans suite).
 

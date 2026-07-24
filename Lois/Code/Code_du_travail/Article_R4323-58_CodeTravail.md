@@ -36,7 +36,7 @@ Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travai
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
 
 ### Articles cités
 - Arrêté du 13 février 2018 - art. (V)

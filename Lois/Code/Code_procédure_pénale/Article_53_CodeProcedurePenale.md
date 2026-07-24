@@ -44,7 +44,7 @@ Lorsque des investigations nécessaires à la manifestation de la vérité pour 
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575016)
 
 ### Articles cités
 - LOI n°2009-1674 du 30 décembre 2009 - art. 19, v. init.

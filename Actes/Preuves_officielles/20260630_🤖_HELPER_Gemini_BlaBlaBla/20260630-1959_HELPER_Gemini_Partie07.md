@@ -4605,7 +4605,7 @@ graph TD
 
 ### **Textes légaux** :
 
-- Code des assurances : [Légifrance - Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449/)
+- Code des assurances : [Légifrance - Article L. 124-3 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449/)
 
 - Code civil : Articles 1242 al. 5, 1844-8
 
@@ -4617,13 +4617,13 @@ graph TD
 
 ### **Jurisprudence** :
 
-- **Costedoat** : Cass. Ass. plén., 25 février 2000, n° 97-17.378 - [Légifrance](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704/)
+- **Costedoat** : Cass. Ass. plén., 25 février 2000, n° 97-17.378 - [Légifrance - legifrance.gouv.fr/juri/id/JURITEXT000007043704/](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704/)
 
-- **Cousin** : Cass. Ass. plén., 14 décembre 2001, n° 00-82.066 - [Légifrance](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007045753/)
+- **Cousin** : Cass. Ass. plén., 14 décembre 2001, n° 00-82.066 - [Légifrance - legifrance.gouv.fr/juri/id/JURITEXT000007045753/](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007045753/)
 
-- **Faute détachable** : Cass. Com., 20 mai 2003, n° 99-17.092 - [Légifrance](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369/)
+- **Faute détachable** : Cass. Com., 20 mai 2003, n° 99-17.092 - [Légifrance - legifrance.gouv.fr/juri/id/JURITEXT000007047369/](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369/)
 
-- **Faute détachable (2)** : Cass. Com., 7 mars 2006, n° 04-16.536 - [Légifrance](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007051486/)
+- **Faute détachable (2)** : Cass. Com., 7 mars 2006, n° 04-16.536 - [Légifrance - legifrance.gouv.fr/juri/id/JURITEXT000007051486/](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007051486/)
 
 ### **Doctrine** :
 

@@ -175,7 +175,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 - Référentiel Mornet 2024
 
 > *« Le caractère intégral de la réparation du préjudice implique que la victime puisse obtenir la réparation de l'ensemble des postes de préjudices, y compris ceux qui n'ont pas été expressément prévus dans l'offre de l'assureur. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000212717](../../../Lois/Jurisprudence/JURITEXT0000212717.md)86) <br>
+> [Arrêt - legifrance.gouv.fr/juri/id/[JURITEXT0000212717](../../../Lois/Jurisprudence/JURITEXT0000212717.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000212717](../../../Lois/Jurisprudence/JURITEXT0000212717.md)86) <br>
 > **Cour de cassation, 2e chambre civile, 10 novembre 2009, n° 08-17.959[^2]**
 <hr><hr>
 
@@ -218,7 +218,7 @@ L'estimation médiane révisée est de **~85 000 à 109 500 €** (fourchette co
 - Tableau de capitalisation des cours d'appel (Lexbase, actualisation 2024)
 
 > *« Le juge du fond dispose d'un pouvoir souverain pour fixer le montant de l'indemnisation allouée à la victime d'un dommage corporel, sans être tenu de se référer à un barème ou à un référentiel, dès lors qu'il justifie sa décision par des éléments objectifs. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000391228](../../../Lois/Jurisprudence/JURITEXT0000391228.md)27) <br>
+> [Arrêt - legifrance.gouv.fr/juri/id/[JURITEXT0000391228](../../../Lois/Jurisprudence/JURITEXT0000391228.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000391228](../../../Lois/Jurisprudence/JURITEXT0000391228.md)27) <br>
 > **Cour de cassation, 2e chambre civile, 12 septembre 2019, n° 18-13.791[^3]**
 <hr><hr>
 
@@ -292,15 +292,15 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 - Méthode BIBAL (Maître Frédéric BIBAL)
 
 > *« La victime d'un dommage corporel peut demander la capitalisation de sa perte de revenus professionnels futurs, sans que l'assureur ne puisse imposer un placement ou un mode de gestion particulier des sommes allouées. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000538596](../../../Lois/Jurisprudence/JURITEXT0000538596.md)71) <br>
+> [Arrêt - legifrance.gouv.fr/juri/id/[JURITEXT0000538596](../../../Lois/Jurisprudence/JURITEXT0000538596.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000538596](../../../Lois/Jurisprudence/JURITEXT0000538596.md)71) <br>
 > **Cour de cassation, 2e chambre civile, 2 avril 2026, n° 24-20.972[^4]**
 
 > *« L'incidence professionnelle constitue un poste de préjudice distinct des pertes de gains professionnels futurs et doit être évaluée de manière autonome. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000434899](../../../Lois/Jurisprudence/JURITEXT0000434899.md)43) <br>
+> [Arrêt - legifrance.gouv.fr/juri/id/[JURITEXT0000434899](../../../Lois/Jurisprudence/JURITEXT0000434899.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000434899](../../../Lois/Jurisprudence/JURITEXT0000434899.md)43) <br>
 > **Cour de cassation, 2e chambre civile, 6 mai 2021, n° 19-23.173[^5]**
 
 > *« La part personnelle de l'incidence professionnelle ne peut être prise en compte par les tiers payeurs dans le cadre de leur recours. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/ceta/id/CETATEXT000049375170) <br>
+> [Arrêt - legifrance.gouv.fr/ceta/id/CETATEXT000049375170](https://www.legifrance.gouv.fr/ceta/id/CETATEXT000049375170) <br>
 > **Cour administrative d'appel de Lyon, 4 avril 2024[^6]**
 <hr><hr>
 
@@ -326,15 +326,15 @@ IP = 9 000 € × 12 % × 27,5 (euro de rente temporaire jusqu'à 62 ans) = 29 7
 **Sources :**
 
 > *« Le préjudice d'agrément correspond à la perte ou à la diminution des plaisirs et des occupations de la victime. Ce préjudice est distinct du préjudice moral et du préjudice esthétique. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070472](../../../Lois/Jurisprudence/JURITEXT0000070472.md)23) <br>
+> [Arrêt - legifrance.gouv.fr/juri/id/[JURITEXT0000070472](../../../Lois/Jurisprudence/JURITEXT0000070472.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070472](../../../Lois/Jurisprudence/JURITEXT0000070472.md)23) <br>
 > **Cour de cassation, Assemblée plénière, 19 décembre 2003, n° 02-14.783[^7]**
 
 > *« La victime qui ne peut plus pratiquer une activité de loisir de manière aussi satisfaisante qu'avant l'accident peut obtenir réparation de son préjudice d'agrément, sans avoir à établir une impossibilité totale de pratique. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000367800](../../../Lois/Jurisprudence/JURITEXT0000367800.md)68) <br>
+> [Arrêt - legifrance.gouv.fr/juri/id/[JURITEXT0000367800](../../../Lois/Jurisprudence/JURITEXT0000367800.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000367800](../../../Lois/Jurisprudence/JURITEXT0000367800.md)68) <br>
 > **Cour de cassation, 2e chambre civile, 29 mars 2018, n° 17-14.499[^8]**
 
 > *« La Cour de cassation confirme que la limitation de la pratique d'une activité de loisir suffit à caractériser le préjudice d'agrément. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000441057](../../../Lois/Jurisprudence/JURITEXT0000441057.md)39) <br>
+> [Arrêt - legifrance.gouv.fr/juri/id/[JURITEXT0000441057](../../../Lois/Jurisprudence/JURITEXT0000441057.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000441057](../../../Lois/Jurisprudence/JURITEXT0000441057.md)39) <br>
 > **Cour de cassation, 1re chambre civile, 26 juin 2024, n° 23-15.345[^9]**
 <hr><hr>
 
@@ -410,7 +410,7 @@ Ce poste avait été omis dans le dossier initial.
 Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'action contre l'assuré. Même si la SAS disparaît, l'action subsiste contre l'assureur. L'assureur ne peut opposer à la victime les exceptions qu'il pourrait opposer à l'assuré (sauf faute intentionnelle).
 
 > *« L'action directe de la victime contre l'assureur de la responsabilité civile de la personne responsable est indépendante de l'action que la victime peut exercer contre cette dernière. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000458227](../../../Lois/Jurisprudence/JURITEXT0000458227.md)70) <br>
+> [Arrêt - legifrance.gouv.fr/juri/id/[JURITEXT0000458227](../../../Lois/Jurisprudence/JURITEXT0000458227.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000458227](../../../Lois/Jurisprudence/JURITEXT0000458227.md)70) <br>
 > **Cour de cassation, 3e chambre civile, 11 mai 2022, n° 21-12.478[^12]**
 
 > *« Les pertes et les dommages occasionnés par des cas fortuits ou causés par la faute de l'assuré sont à la charge de l'assureur, sauf exclusion formelle et limitée contenue dans la police. Toutefois, l'assureur ne répond pas des pertes et dommages provenant d'une faute intentionnelle ou dolosive de l'assuré. »* <br>
@@ -438,7 +438,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 **Fondement :** Faute détachable des fonctions.
 
 > *« La faute personnelle du dirigeant, détachable des fonctions, ouvre droit à réparation contre celui-ci, indépendamment de la responsabilité de la personne morale. »* <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
+> [Arrêt - legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092[^15]**
 
 **Fondements potentiels :**
@@ -602,7 +602,7 @@ Trois évaluations convergent vers une provision minimale de **10 000 à 15 000 
 ## XXVI — V.3 — FONDEMENTS JURIDIQUES
 
 > *« Le principe de la réparation intégrale sans perte ni profit pour la victime implique que celle-ci a la libre disposition des dommages-intérêts alloués, le responsable ne pouvant en contrôler l'usage. »* <br>
-> [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000494182](../../../Lois/Jurisprudence/JURITEXT0000494182.md)78) <br>
+> [Arrêt n°22-19.307 - legifrance.gouv.fr/juri/id/[JURITEXT0000494182](../../../Lois/Jurisprudence/JURITEXT0000494182.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000494182](../../../Lois/Jurisprudence/JURITEXT0000494182.md)78) <br>
 > **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307[^20]**
 <hr><hr>
 
@@ -630,7 +630,7 @@ La provision de [**[Finance Provision Référé]**](../../../Memory/Tokens/token
 ## XXVIII — VI.1 — AGGRAVATION DU DOMMAGE (RÉÉVALUATION)
 
 > *« Le juge ne peut allouer une indemnité forfaitaire pour un préjudice corporel et doit en évaluer le montant selon les exigences probatoires requises, sans pouvoir se fonder sur une simple approximation. »* <br>
-> [Arrêt n°20-15.106](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000437821](../../../Lois/Jurisprudence/JURITEXT0000437821.md)26) <br>
+> [Arrêt n°20-15.106 - legifrance.gouv.fr/juri/id/[JURITEXT0000437821](../../../Lois/Jurisprudence/JURITEXT0000437821.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000437821](../../../Lois/Jurisprudence/JURITEXT0000437821.md)26) <br>
 > **Cour de cassation, 2e chambre civile, 8 juillet 2021, n° 20-15.106[^21]**
 
 **Application au dossier :** Cet arrêt fonde la possibilité de réévaluer l'indemnisation en cas d'aggravation médicale constatée après l'expertise initiale. Il sécurise la demande de provision et la demande au fond, le préjudice pouvant être revu à la hausse à mesure que les séquelles neurologiques de l'index droit se précisent (cf. expertise UMJ du 12 novembre 2026).
@@ -639,7 +639,7 @@ La provision de [**[Finance Provision Référé]**](../../../Memory/Tokens/token
 ## XXIX — VI.2 — LIBRE DISPOSITION DES INDEMNITÉS
 
 > *« La victime d'un dommage corporel dispose librement des sommes qui lui sont allouées à titre de réparation, sans avoir à justifier de l'usage qu'elle en fait, dès lors que l'indemnisation a été fixée selon les règles de la réparation intégrale. »* <br>
-> [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000444828](../../../Lois/Jurisprudence/JURITEXT0000444828.md)48) <br>
+> [Arrêt n°20-16.463 - legifrance.gouv.fr/juri/id/[JURITEXT0000444828](../../../Lois/Jurisprudence/JURITEXT0000444828.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000444828](../../../Lois/Jurisprudence/JURITEXT0000444828.md)48) <br>
 > **Cour de cassation, 1re chambre civile, 8 décembre 2021, n° 20-16.463[^22]**
 
 **Application au dossier :** Cet arrêt justifie que les ~92 000 € demandés (ainsi que la provision de 15 000 €) peuvent être librement affectés par la victime (rééducation, matériel ergonomique, adaptation du poste de travail) sans être soumis au contrôle du responsable ou de l'assureur. ⚠ *Vérification JURITEXT recommandée : l'audit du 11/07/2026 signale une date apparemment contradictoire (13 mai 2021) pour ce numéro d'arrêt — à confirmer sur Légifrance avant citation définitive.*

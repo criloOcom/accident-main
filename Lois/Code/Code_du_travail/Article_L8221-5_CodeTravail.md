@@ -39,7 +39,7 @@ Est réputé travail dissimulé par dissimulation d'emploi salarié le fait pour
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024966)
 
 ### Articles cités
 - Décret n°2008-657 du 2 juillet 2008 - art. 2, v. init.

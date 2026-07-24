@@ -50,13 +50,13 @@ Ce courrier constitue la première étape amiable préalable à toute action con
 L'article L. 124-3 du Code des assurances[^n1] reconnaît à la victime une action directe contre l'assureur du responsable.
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
-> [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> [Article L. 124-3 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Partie législative > Livre Ier > Titre II : L'assurance de responsabilité > Chapitre Ier : La garantie de l'assureur.**
 
 L'article L. 227-8 du Code de commerce[^n2] dispose que les règles de responsabilité applicables aux sociétés anonymes s'imposent aux dirigeants de la SAS, renvoyant ainsi au régime de responsabilité de droit commun des sociétés anonymes. Le défaut d'information sur l'assurance constitue un manquement à l'obligation de loyauté contractuelle.
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
-> [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
+> [Article L. 227-8 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.**
 
 Ces dispositions sont d'ordre public : elles s'imposent à la société et à ses dirigeants.
@@ -88,7 +88,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 2. De déclarer le sinistre à l'assureur dans les délais prévus par le contrat (Article L. 113-2[^n3], 4° du Code des assurances), lequel devra répondre dans un délai raisonnable ;
 
 > *« L'assuré est obligé : (...) 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai prévu par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. »* <br>
-> [Article L. 113-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>
+> [Article L. 113-2 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302) <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre Ier : Règles communes aux assurances de dommages et aux assurances de personnes > Chapitre III : Obligations de l'assureur et de l'assuré.**
 
 3. De procéder au versement d'une provision amiable d'un montant de 15 000 € à valoir sur la réparation de mes préjudices, au titre de l'incidence professionnelle de l'accident ;
@@ -98,7 +98,7 @@ La présente lettre constitue une première démarche amiable. Conformément à 
 À défaut de réponse dans un délai de quinze (15) jours à compter de la réception de la présente, je serai contraint de saisir le tribunal judiciaire de Foix — d'abord en référé pour obtenir les informations, puis au fond pour l'indemnisation intégrale de mes préjudices.
 
 > *« S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »* <br>
-> [Article 145](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
+> [Article 145 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339) <br>
 > **Code de procédure civile > Partie législative > Livre II : Devant les juridictions du premier ressort > Titre VII : Les mesures d'instruction > Section I : Les mesures d'instruction in futurum.**
 
 L'ensemble des pièces et de la procédure vous sera communiqué par transparence.
@@ -131,16 +131,16 @@ Sébastien GRAZIDE
 
 [^n1]: > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
     > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
-    > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+    > [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
     📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](../../../../Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
 
 [^n2]: > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
     > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
-    > [Article L227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
+    > [Article L227-8 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
     📚 Bibliothèque locale : [Article_L227-8_Codecommerce_Legifrance](../../../../Lois/Code/Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) ↩
 
 [^n3]: > « L'assuré est obligé : 1° De payer la prime ou cotisation aux époques convenues ; 2° De répondre exactement aux questions posées par l'assureur, notamment dans le formulaire de déclaration du risque par lequel l'assureur l'interroge lors de la conclusion du contrat, sur les circonstances qui sont de nature à faire apprécier par l'assureur les risques qu'il prend en charge ; 3° De déclarer, en cours de contrat, les circonstances nouvelles qui ont pour conséquence soit d'aggraver les risques, soit d'en créer de nouveaux et rendent de ce fait inexactes ou caduques les réponses faites à l'assureur, notamment dans le formulaire mentionné au 2° ci-dessus. L'assuré doit, par lettre recommandée ou par envoi recommandé électronique, déclarer ces circonstances à l'assureur dans un délai de quinze jours à partir du moment où il en a eu connaissance ; 4° De donner avis à l'assureur, dès qu'il en a eu connaissance et au plus tard dans le délai fixé par le contrat, de tout sinistre de nature à entraîner la garantie de l'assureur. Ce délai ne peut être inférieur à cinq jours ouvrés. Ce délai minimal est ramené à deux jours ouvrés en cas de vol et à vingt-quatre heures en cas de mortalité du bétail. Les délais ci-dessus peuvent être prolongés d'un commun accord entre les parties contractantes. Lorsqu'elle est prévue par une clause du contrat, la déchéance pour déclaration tardive au regard des délais prévus au 3° et au 4° ci-dessus ne peut être opposée à l'assuré que si l'assureur établit que le retard dans la déclaration lui a causé un préjudice. Elle ne peut également être opposée dans tous les cas où le retard est dû à un cas fortuit ou de force majeure. Les dispositions mentionnées aux 1°, 3° et 4° ci-dessus ne sont pas applicables aux assurances sur la vie. » <br>
     > **Code des assurances > Chapitre III : Obligations de l'assureur et de l'assuré.** <br>
-    > [Article L113-2 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)
+    > [Article L113-2 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731302)
     📚 Bibliothèque locale : [Article_L113-2_Codesassurances_Legifrance](../../../../Lois/Code/Code_assurances/Article_L113-2_Codesassurances_Legifrance.md) ↩
 <!-- /Source -->

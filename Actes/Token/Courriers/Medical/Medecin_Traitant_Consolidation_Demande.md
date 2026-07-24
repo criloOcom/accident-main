@@ -83,7 +83,7 @@ Je sollicite donc votre bienveillance afin de :
 Ce certificat permettra a mon conseil de finaliser l'evaluation indemnitaire et, le cas echeant, de saisir le tribunal judiciaire de **[La Ville de l'Accident](../../../../Memory/Tokens/token-accident-ville.md)** pour obtenir la reparation integrale de mon prejudice corporel, conformement au principe degage par la Cour de cassation.
 
 > *« La libre disposition de son corps par la victime ne fait pas obstacle à ce que soit réparé le préjudice corporel subi. »* <br>
-> [Arrêt n°22-19.307](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) <br>
+> [Arrêt n°22-19.307 - legifrance.gouv.fr/juri/id/JURITEXT000049418278](https://www.legifrance.gouv.fr/juri/id/JURITEXT000049418278) <br>
 > **Cour de cassation, 2e chambre civile, 4 avril 2024, n° 22-19.307[^1]**
 
 Transparence sur la suite donnee au dossier

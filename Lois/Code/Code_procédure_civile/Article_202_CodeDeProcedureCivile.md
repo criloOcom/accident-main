@@ -43,7 +43,7 @@ L'attestation est écrite, datée et signée de la main de son auteur. Celui-ci 
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410330)
 
 ### Articles cités
 - Décision n°14-38-21 du 8 février 2022

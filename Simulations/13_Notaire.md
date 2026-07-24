@@ -49,7 +49,7 @@ En présence d'un capital social très faible (200 €), la question de la confu
 ### B. Responsabilité civile des dirigeants
 
 > « Les dirigeants d'une personne morale sont responsables, conformément au droit commun, soit des infractions pénales commises par leur société, soit des manquements commis dans leur gestion. »<br>
-> **[Article L.227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031608106)**
+> **[Article L.227-8 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000031608106](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031608106)**
 
 En l'espèce, les manquements à l'obligation de sécurité (maintien d'une vasque dangereuse, absence de DUERP, absence de formation) engagent la responsabilité personnelle des dirigeants pour **faute détachable de leurs fonctions** ou pour **violation des obligations légales** (Code du travail, Code de la construction).
 

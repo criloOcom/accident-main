@@ -60,7 +60,7 @@ Cependant, en matière numérique, la force probante dépend des modalités de r
 
 > La Cour de cassation admet la production de captures d'écran comme mode de preuve, sous réserve que leur authenticité et leur intégrité ne soient pas utilement remises en cause par la partie adverse, notamment au moyen d'un constat de commissaire de justice pour en figer le contenu.
 > **Cour de cassation, civile, Chambre commerciale, 17 mars 2021[^10]**
-> [Arrêt n°19-25.198](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000433022](../../../Lois/Jurisprudence/JURITEXT0000433022.md)80)
+> [Arrêt n°19-25.198 - legifrance.gouv.fr/juri/id/[JURITEXT0000433022](../../../Lois/Jurisprudence/JURITEXT0000433022.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000433022](../../../Lois/Jurisprudence/JURITEXT0000433022.md)80)
 
 Afin de garantir l'admissibilité et l'incontestabilité de ces preuves, il convient de les sécuriser via des outils d'archivage certifiés et, si nécessaire, par des constats de commissaires de justice.
 <hr><hr>

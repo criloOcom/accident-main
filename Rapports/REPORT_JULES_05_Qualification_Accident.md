@@ -103,8 +103,8 @@ La fermeture de 30 jours et l'effacement vidéo ne permettent pas à l'exploitan
 ## IV — SOURCES & CITATIONS (SOURCES OFFICIELLES GOVERNEMENTALES)
 
 - **Article L. 411-1 du Code de la sécurité sociale** (Définition de l'accident du travail)  
-  [Consulter sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006742982/)
+  [Consulter sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006742982/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006742982/)
 - **Article 1240 du Code civil** (Responsabilité civile délictuelle)  
-  [Consulter sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571/)
+  [Consulter sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571/)
 - **Article 1242 alinéa 1 du Code civil** (Responsabilité du fait des choses)  
-  [Consulter sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565/)
+  [Consulter sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565/)

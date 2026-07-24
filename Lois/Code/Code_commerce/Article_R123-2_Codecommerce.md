@@ -66,7 +66,7 @@ Notes : Conformément à l'article 45 du décret n° 2022-1014 du 19 juillet 202
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046073350)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000046073350](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046073350)
 
 ### Articles cités
 - ARRÊTÉ du 22 avril 2015 - art. 2 (VT)

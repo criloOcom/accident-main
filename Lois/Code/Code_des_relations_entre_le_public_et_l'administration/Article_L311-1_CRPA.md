@@ -36,7 +36,7 @@ Sous réserve des dispositions des articles L. 311-5 et L. 311-6, les administra
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033218946)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000033218946](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033218946)
 
 ### Articles cités
 - Arrêté du 25 juillet 2013 - art. 7 (V)

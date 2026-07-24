@@ -136,7 +136,7 @@ La jurisprudence admet que la communication forcée de documents contractuels co
 L'article L.124-3 du Code des assurances[^n2] consacre le droit de la victime d'agir directement contre l'assureur de la personne responsable :
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »*
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+> [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
 Ce droit est autonome et ne peut être paralysé par la carence du responsable à communiquer les coordonnées de son assureur. L'obstruction de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) prive le requérant de son droit d'agir et constitue une entrave à ses droits les plus fondamentaux.
 
@@ -218,7 +218,7 @@ Vu l'article 145 du Code de procédure civile[^n1],
 
 Vu l'article L.124-3 du Code des assurances[^n2],
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »*
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+> [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
 Vu les pièces versées aux débats,
 
@@ -295,15 +295,15 @@ Fait à [**[La Ville de l'Accident]**](../../../../Memory/Tokens/token-accident-
 
 [^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
     > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
-    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+    > [Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
     📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 
 [^n2]: > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
     > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
-    > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+    > [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
     📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](../../../../Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
 
 [^n3]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
-    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+    > [Article 1240 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 <!-- /Source -->

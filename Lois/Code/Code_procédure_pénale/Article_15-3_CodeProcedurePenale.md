@@ -45,7 +45,7 @@ Les officiers ou agents de police judiciaire peuvent s'identifier dans ce procè
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441)
 
 ### Articles cités
 - Loi n°2004-204 du 9 mars 2004 - art. 207 (V)

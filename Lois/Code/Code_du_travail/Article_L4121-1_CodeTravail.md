@@ -45,7 +45,7 @@ L'employeur veille à l'adaptation de ces mesures pour tenir compte du changemen
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828)
 
 ### Articles cités
 - Avis du - art., v. init.

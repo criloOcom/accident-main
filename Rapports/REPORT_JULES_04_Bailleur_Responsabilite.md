@@ -98,13 +98,13 @@ Le refus délibéré du bailleur de communiquer les éléments d'assurance et le
 ## IV — SOURCES & CITATIONS (SOURCES OFFICIELLES GOVERNEMENTALES)
 
 - **Article 1719 du Code civil** (Obligations du bailleur)  
-  [Consulter sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442750/)
+  [Consulter sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442750/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442750/)
 - **Article 1720 du Code civil** (Obligation de réparations du bailleur)  
-  [Consulter sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442769/)
+  [Consulter sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442769/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442769/)
 - **Article 1244 du Code civil** (Responsabilité du fait des bâtiments en ruine)  
-  [Consulter sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041549/)
+  [Consulter sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041549/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041549/)
 - **Article 1240 du Code civil** (Responsabilité civile délictuelle pour faute)  
-  [Consulter sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571/)
+  [Consulter sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571/)
 
 ---
 

@@ -23,7 +23,7 @@ date: 2026-07-14
 ## I — SUR L'URGENCE ET LE MOTIF LÉGITIME (ART. 145 CPC)
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. »
-> **[Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)**
+> **[Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)**
 
 ### A. Caractérisation du motif légitime
 
@@ -38,7 +38,7 @@ La nature volatile des enregistrements vidéo justifie l'intervention en référ
 ## II — SUR L'OBLIGATION NON SÉRIEUSEMENT CONTESTABLE (ART. 835 CPC)
 
 > « Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »
-> **[Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039502287)**
+> **[Article 835 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000039502287](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039502287)**
 
 La responsabilité de la SAS défenderesse ne souffre aucune contestation sérieuse au vu des pièces produites (PV de police, constat d'huissier, certificat du SMUR, paiement par carte bancaire). L'obligation à réparation repose sur un double fondement solide :
 

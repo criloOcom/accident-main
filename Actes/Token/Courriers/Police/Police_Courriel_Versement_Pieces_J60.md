@@ -95,9 +95,9 @@ Je vous prie d'agréer, Madame, Monsieur l'Officier de Police Judiciaire, l'expr
 
 [^1]: > « Les officiers et agents de police judiciaire sont tenus de recevoir les plaintes déposées par les victimes d'infractions à la loi pénale [...] Tout dépôt de plainte fait l'objet d'un procès-verbal et donne lieu à la délivrance immédiate d'un récépissé à la victime. » <br>
     > **Code de procédure pénale > Section 1 : Dispositions générales.** <br>
-    > [Article 15-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) ↩
+    > [Article 15-3 du Code de procédure pénale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311441) ↩
 
 [^2]: > « Le procureur de la République ou, sur autorisation de celui-ci, l'officier ou l'agent de police judiciaire [...] peut, par tout moyen, requérir de toute personne, de tout établissement ou organisme privé ou public [...] de lui remettre ces informations, notamment sous forme numérique [...] 1° La remise d'enregistrements issus d'un système de vidéoprotection concernant les lieux dans lesquels l'infraction a été commise [...] » <br>
     > **Code de procédure pénale > Chapitre II : De l'enquête préliminaire.** <br>
-    > [Article 77-1-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052915) ↩
+    > [Article 77-1-1 du Code de procédure pénale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052915](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052915) ↩
 <!-- /Source -->

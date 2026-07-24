@@ -117,5 +117,5 @@ Je vous remercie de l'attention portée à la présente et vous prie d'agréer, 
 
 [^n1]: > « Le droit de toute personne à l'information est précisé et garanti par les dispositions des titres Ier, III et IV du présent livre en ce qui concerne la liberté d'accès aux documents administratifs. » <br>
     > **Code des relations entre le public et l'administration > Livre III : L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET LA RÉUTILISATION DES INFORMATIONS PUBLIQUES.** <br>
-    > [Article L300-1 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367687) ↩
+    > [Article L300-1 du Code des relations entre le public et l'administration - legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367687](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367687) ↩
 <!-- /Source -->

@@ -124,7 +124,7 @@ Besoin : insérer la JURITEXT pour l'arrêt n° 13-80.849
 
 3. Les 2 outils concordent → JURITEXT000029014493 est validé
 
-4. Insérer : [Arrêt n°13-80.849](https://www.legifrance.gouv.fr/juri/id/JURITEXT000029014493)
+4. Insérer : [Arrêt n°13-80.849 - legifrance.gouv.fr/juri/id/JURITEXT000029014493](https://www.legifrance.gouv.fr/juri/id/JURITEXT000029014493)
 ```
 
 ---

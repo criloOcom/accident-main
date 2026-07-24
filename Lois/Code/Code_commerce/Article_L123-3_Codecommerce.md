@@ -44,7 +44,7 @@ Le greffier du tribunal de commerce destinataire de la décision saisit le juge 
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559422)
 
 ### Articles cités
 - Code de commerce - art. R123-164

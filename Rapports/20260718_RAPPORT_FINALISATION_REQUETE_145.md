@@ -71,18 +71,18 @@ Le Code de procédure civile dispose :
 
 > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. » <br>
 > **[Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction]** <br>
-> [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+> [Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
 
 L'obstruction avérée de la SAS **[Le Nouvel Exploitant (HB BARBER)]** et le silence gardé suite à la visite du 16 juillet caractérisent incontestablement ce motif légitime. Cette communication est le seul moyen pour [**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md) d'exercer son droit propre contre l'assureur, prévu par le Code des assurances :
 
 > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
 > **[Code des assurances > Chapitre IV : Les assurances de responsabilité]** <br>
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+> [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
 
 La jurisprudence confirme que l'injonction de produire des documents adressée à des tiers ou à l'auteur potentiel du dommage est fondée lorsque cela est indispensable pour engager des poursuites ou des pourparlers amiables :
 
 > « [...] qu'il résulte de la combinaison des articles 10 du code civil, 11 et 145 du code de procédure civile qu'il peut être ordonné à des tiers, sur requête ou en référé, de produire tous documents qu'ils détiennent, s'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige. » <br>
-> **Cour de cassation, civile, Chambre civile 2, 26 mai 2011, 10-20.048** [Arrêt](https://www.legifrance.gouv.fr/juri/id/JURITEXT000024084457)
+> **Cour de cassation, civile, Chambre civile 2, 26 mai 2011, 10-20.048** [Arrêt - legifrance.gouv.fr/juri/id/JURITEXT000024084457](https://www.legifrance.gouv.fr/juri/id/JURITEXT000024084457)
 
 L'absence présumée d'assurance de la nouvelle société (déduite de son mutisme lors de la confrontation du 16 juillet) justifie pleinement l'urgence de cette requête et l'application d'une astreinte de [**[Finance Astreinte 145]**](../Memory/Tokens/token-finance-astreinte-145.md).
 

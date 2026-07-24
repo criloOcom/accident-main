@@ -67,7 +67,7 @@ A ce jour, les procedures suivantes ont ete engagees :
 2. **Assignation en refere-provision** (30 juin 2026) : Saisine du Tribunal Judiciaire de Foix sur le fondement de l'Article 835 du Code de procedure civile, a l'encontre de SAS HB BARBER et de ses dirigeants, Hamza El Hachemi BERGUIGA et Catherine SORROCHE, dite ANDISSAC, in solidum.
 
 > *« Le président du tribunal judiciaire ou le juge des contentieux de la protection dans les limites de sa compétence peuvent toujours, même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite. Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils peuvent accorder une provision au créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. »* <br>
-> [Article 835 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
+> [Article 835 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597284) <br>
 > **Code de procédure civile > Chapitre II : Les ordonnances de référé.**
 
 3. **Assignation Article 145[^n1] CPC** (5 juillet 2026) : Saisine du Tribunal Judiciaire de Foix pour communication forcee de la police d'assurance RC professionnelle sous astreinte.
@@ -112,7 +112,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 > *Lorsque l'assuré victime de l'accident est affilié au régime agricole, l'indemnité est recouvrée selon les règles et sous les garanties et sanctions prévues aux chapitres 2,3 et 4 du titre IV du livre Ier ainsi qu'aux articles L. 725-3 à L. 725-4 du code rural et de la pêche maritime.*
 >
 > *Pour l'exécution des recours subrogatoires prévus au présent article, les créances détenues par l'organisme qui a versé les prestations sont cédées définitivement à l'organisme chargé de cette mission en application du 3° de l'article L. 221-3-1 du présent code. »* <br>
-> [Article L376-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231) <br>
+> [Article L376-1 du Code de la sécurité sociale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231) <br>
 > **Code de la sécurité sociale > Chapitre 6 : Recours des caisses contre les tiers.**
 
 **A. Pièces médicales**
@@ -193,7 +193,7 @@ Je sollicite de vos services :
 > *Lorsque l'assuré victime de l'accident est affilié au régime agricole, l'indemnité est recouvrée selon les règles et sous les garanties et sanctions prévues aux chapitres 2,3 et 4 du titre IV du livre Ier ainsi qu'aux articles L. 725-3 à L. 725-4 du code rural et de la pêche maritime.*
 >
 > *Pour l'exécution des recours subrogatoires prévus au présent article, les créances détenues par l'organisme qui a versé les prestations sont cédées définitivement à l'organisme chargé de cette mission en application du 3° de l'article L. 221-3-1 du présent code. »* <br>
-> [Article L376-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231) <br>
+> [Article L376-1 du Code de la sécurité sociale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393231) <br>
 > **Code de la sécurité sociale > Chapitre 6 : Recours des caisses contre les tiers.**
 
 **3. L'information sur le suivi du dossier** et les demarches complementaires eventuellement necessaires de ma part.
@@ -215,18 +215,18 @@ Sébastien GRAZIDE
 
 [^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
     > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
-    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+    > [Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
     📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 
 [^n2]: > « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. » <br>
     > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
-    > [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
+    > [Article 222-19 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
 
 [^n3]: > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
     > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
-    > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+    > [Article 222-20 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
 
 [^n4]: > « La subrogation ne peut nuire au créancier lorsqu'il n'a été payé qu'en partie ; en ce cas, il peut exercer ses droits, pour ce qui lui reste dû, par préférence à celui dont il n'a reçu qu'un paiement partiel. » <br>
     > **Code civil > Sous-section 4 : Le paiement avec subrogation.** <br>
-    > [Article 1346-3 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035291) ↩
+    > [Article 1346-3 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035291](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035291) ↩
 <!-- /Source -->

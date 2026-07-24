@@ -46,7 +46,7 @@ L'employeur est tenu à une obligation de sécurité de résultat (ou de moyens 
 
 > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. » <br>
 > **[Code du travail > Article L. 4121-1]** <br>
-> [Article L4121-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023032086)
+> [Article L4121-1 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000023032086](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023032086)
 
 Cette obligation n'a manifestement pas été respectée, la défaillance matérielle (cassure majeure préexistante sur la vasque en céramique) n'ayant pas été réparée ou signalée, exposant les salariés et les tiers à un danger grave.
 
@@ -54,7 +54,7 @@ Cette obligation n'a manifestement pas été respectée, la défaillance matéri
 
 > « L'employeur met en oeuvre les mesures prévues à l'article L. 4121-1 sur le fondement des principes généraux de prévention suivants : 1° Eviter les risques ; 2° Evaluer les risques qui ne peuvent pas être évités ; 3° Combattre les risques à la source [...] » <br>
 > **[Code du travail > Article L. 4121-2]** <br>
-> [Article L4121-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026268393)
+> [Article L4121-2 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000026268393](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026268393)
 
 Le fait que [**[Le Préposé de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-prepose-nom.md) ait dû monter physiquement sur une vasque en céramique instable pour régler un téléviseur démontre l'absence d'évaluation des risques liés aux interventions en hauteur dans le salon (Document Unique d'Évaluation des Risques Professionnels - DUERP manifestement lacunaire ou inexistant), et un défaut de mise à disposition d'équipements de travail adaptés (escabeau sécurisé).
 
@@ -62,7 +62,7 @@ Le fait que [**[Le Préposé de l'Exploitation]**](../../../Memory/Tokens/token-
 
 > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
 > **[Code du travail > Article R. 4323-58]** <br>
-> [Article R4323-58](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
+> [Article R4323-58 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
 
 Le réglage d'un téléviseur en hauteur constitue une tâche professionnelle. L'utilisation d'une vasque de bac à shampoing comme plan de travail improvisé constitue une infraction directe à l'article R. 4323-58 du Code du travail.
 
@@ -88,7 +88,7 @@ La constatation des infractions pénales au Code du travail relève de la compé
 
 > « Les inspecteurs du travail, les contrôleurs du travail et les fonctionnaires de contrôle assimilés constatent les infractions par des procès-verbaux qui font foi jusqu'à preuve du contraire. Ces procès-verbaux sont transmis au procureur de la République. » <br>
 > **[Code du travail > Article L. 8113-7]** <br>
-> [Article L8113-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904799)
+> [Article L8113-7 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904799](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904799)
 
 Au vu de la gravité du résultat (bien que la blessure concerne un tiers, le salarié a été mis dans une situation de danger de mort ou de blessure grave), la rédaction d'un PV visant les articles L.4121-1, L.4121-2 et R.4323-58 est opportune et justifiée. Ce PV sera transmis au Procureur de la République de Foix, et pourra utilement être versé aux débats par la partie civile pour démontrer la faute de l'exploitant et de ses dirigeants.
 
@@ -98,7 +98,7 @@ L'autorité administrative peut intervenir directement pour empêcher la répét
 
 > « Le directeur départemental [...] sur le rapport de l'inspecteur du travail constatant une situation dangereuse, peut mettre en demeure l'employeur de prendre toutes mesures utiles pour y remédier, si ce constat résulte : 1° D'un non-respect par l'employeur des principes généraux de prévention [...] » <br>
 > **[Code du travail > Article L. 4721-1]** <br>
-> [Article L4721-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903390)
+> [Article L4721-1 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903390](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903390)
 
 Une mise en demeure de l'inspection du travail à l'encontre de [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) s'impose afin d'exiger :
 - La vérification immédiate de la solidité et de l'intégrité de l'ensemble du mobilier professionnel et des vasques.

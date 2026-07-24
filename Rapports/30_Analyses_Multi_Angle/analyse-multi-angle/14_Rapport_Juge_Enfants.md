@@ -60,7 +60,7 @@ L'accident a entraîné une Incapacité Totale de Travail (ITT) du 29 mai 2026 a
 
 > « Les dispositions contenues dans la convention homologuée ou dans la convention de divorce par consentement mutuel prenant la forme d'un acte sous signature privée contresigné par avocats déposé au rang des minutes d'un notaire ainsi que les décisions relatives à l'exercice de l'autorité parentale peuvent être modifiées ou complétées à tout moment par le juge, à la demande des ou d'un parent ou du ministère public, qui peut lui-même être saisi par un tiers, parent ou non. » <br>
 > **[Code civil > Livre Ier > Titre IX > Chapitre Ier > Section 1 > Paragraphe 3 > Article 373-2-13]** <br>
-> [Article 373-2-13](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460816)
+> [Article 373-2-13 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460816](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460816)
 
 ### III.2 — MESURES DE PROTECTION DE L'ENFANCE
 
@@ -69,7 +69,7 @@ En l'espèce, les atteintes corporelles (main droite) n'induisent pas *per se* u
 
 > « Si la santé, la sécurité ou la moralité d'un mineur non émancipé sont en danger, ou si les conditions de son éducation ou de son développement physique, affectif, intellectuel et social sont gravement compromises, des mesures d'assistance éducative peuvent être ordonnées par justice à la requête des père et mère conjointement, ou de l'un d'eux, de la personne ou du service à qui l'enfant a été confié ou du tuteur, du mineur lui-même ou du ministère public. » <br>
 > **[Code civil > Livre Ier > Titre IX > Chapitre Ier > Section 2 > Article 375]** <br>
-> [Article 375](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045136798)
+> [Article 375 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000045136798](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045136798)
 
 <hr><hr>
 

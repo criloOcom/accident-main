@@ -45,7 +45,7 @@ L'évaluation de la solidité du dossier se décompose en 5 dimensions, notées 
   *Marge de progression* : L'absence de réponse des administrations (Inspection du travail, Mairie) laisse encore quelques zones d'ombre sur la qualification pénale d'infractions aux règles d'urbanisme ou d'hygiène.
 
 - **Conformité Procédurale : 17/20**
-  Le respect du principe du contradictoire ([Article 15 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410118)) est assuré par les envois en LRAR dont les preuves de dépôt (ex: `87001424863012T`) sont réelles. L'enchaînement référé in futurum (Article 145) puis référé-provision est stratégiquement optimal face au risque de dépérissement des preuves (vidéosurveillance).
+  Le respect du principe du contradictoire ([Article 15 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410118](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410118)) est assuré par les envois en LRAR dont les preuves de dépôt (ex: `87001424863012T`) sont réelles. L'enchaînement référé in futurum (Article 145) puis référé-provision est stratégiquement optimal face au risque de dépérissement des preuves (vidéosurveillance).
   *Marge de progression* : L'obtention de l'Aide Juridictionnelle (AJ) totale est en attente, conditionnant la désignation de l'avocat et l'assignation au fond.
 
 - **Conformité Organisationnelle : 19/20**
@@ -217,10 +217,10 @@ Le dossier est construit dans le respect absolu des principes fondamentaux de la
 - **La charge de la preuve**
   La stratégie probatoire (photos, factures, certificats, requête 145 CPC) satisfait strictement aux exigences de l'Article 9 du Code de procédure civile :
   > *« Il incombe à chaque partie de prouver conformément à la loi les faits nécessaires au succès de sa prétention. »*
-  > [Article 9 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410102) (Vérifié Légifrance).
+  > [Article 9 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410102](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410102) (Vérifié Légifrance).
 
 - **Le principe du contradictoire**
-  Toutes les demandes (mises en demeure) ont été adressées par LRAR avec suivi, garantissant le respect des droits de la défense et du principe du contradictoire ([Article 15 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410118)).
+  Toutes les demandes (mises en demeure) ont été adressées par LRAR avec suivi, garantissant le respect des droits de la défense et du principe du contradictoire ([Article 15 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410118](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410118)).
 
 - **Droit à un procès équitable (CEDH)**
   Les délais d'action et les sollicitations via l'Aide Juridictionnelle garantissent l'accès au juge et l'égalité des armes, conformément à l'Article 6 de la Convention Européenne des Droits de l'Homme :

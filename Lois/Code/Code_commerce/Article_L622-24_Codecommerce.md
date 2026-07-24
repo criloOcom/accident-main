@@ -68,7 +68,7 @@ Notes : Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 d�
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281573)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281573](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281573)
 
 ### Articles cités
 - Décret n°85-1388 du 27 décembre 1985 - art. 122 (Ab)

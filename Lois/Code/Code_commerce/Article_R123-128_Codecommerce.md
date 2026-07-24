@@ -40,7 +40,7 @@ En application des deux premiers alinéas de l'article L. 613-4 du code de la s�
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278214)
 
 ### Articles cités
 - Code de commerce - art. R123-125 (V)

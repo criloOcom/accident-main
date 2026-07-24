@@ -37,4 +37,4 @@ Les mesures d'instruction peuvent être ordonnées en tout état de cause, dès 
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410267)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410267](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410267)

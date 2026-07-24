@@ -38,7 +38,7 @@ Ces comptables exercent également les actions liées indirectement au recouvrem
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006316012)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006316012](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006316012)
 
 ### Articles cités
 - Loi n°55-366 du 3 avril 1955 - art. 38 (V)

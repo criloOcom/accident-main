@@ -236,7 +236,7 @@ Contenu...
 ```markdown
 > « Texte de l'article ou extrait de jurisprudence » <br>
 > **[Code > Article/Section > Alinéa]** <br>
-> [Article X du Code Y](https://www.legifrance.gouv.fr/...)
+> [Article X du Code Y - legifrance.gouv.fr/...](https://www.legifrance.gouv.fr/...)
 ```
 
 ### Ordre des lignes

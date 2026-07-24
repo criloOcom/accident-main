@@ -40,7 +40,7 @@ Notes : Conformément au A du XI de l'article 160 de la loi n° 2020-1721 du 29 
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042914471)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000042914471](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042914471)
 
 ### Articles cités
 - Loi n°84-1208 du 29 décembre 1984 - art. 104 (P)

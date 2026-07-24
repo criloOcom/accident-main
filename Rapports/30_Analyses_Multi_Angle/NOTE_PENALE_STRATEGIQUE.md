@@ -40,7 +40,7 @@ La plainte initiale déposée le 2 juin 2026 ([PV n°2026/015967](../../Actes/To
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
 > **[Code pénal > Article 222-20]** <br>
-> [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
+> [Article 222-20 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
 
 Le [réquisitoire introductif (J+47)](../../Actes/Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md) vise subsidiairement l'article 222-19 du Code pénal en cas de reconnaissance d'une ITT supérieure à trois mois au regard de l'évolution des séquelles.
 
@@ -52,7 +52,7 @@ La [plainte complémentaire (J+47)](../../Actes/Token/Actes_proceduraux/Contenti
 > 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques ;
 > 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables. » <br>
 > **[Code pénal > Article 434-4]** <br>
-> [Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608)
+> [Article 434-4 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608)
 
 Le délit de mise en danger de la vie d'autrui (article 223-1 du Code pénal) est également évoqué, renforçant le caractère intentionnel ou, à tout le moins, d'une extrême négligence de la part des exploitants, particulièrement dans le cadre d'un Établissement Recevant du Public (ERP).
 
@@ -74,7 +74,7 @@ Selon l'article 121-3 du Code pénal, les dirigeants peuvent être tenus personn
 > Toutefois, lorsque la loi le prévoit, il y a délit en cas de mise en danger délibérée de la personne d'autrui.
 > Il y a également délit, lorsque la loi le prévoit, en cas de faute d'imprudence, de négligence ou de manquement à une obligation de prudence ou de sécurité prévue par la loi ou le règlement, s'il est établi que l'auteur des faits n'a pas accompli les diligences normales compte tenu, le cas échéant, de la nature de ses missions ou de ses fonctions, de ses compétences ainsi que du pouvoir et des moyens dont il disposait. » <br>
 > **[Code pénal > Article 121-3]** <br>
-> [Article 121-3 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
+> [Article 121-3 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208)
 
 La jurisprudence "Sati" (Cass. com. 20 mai 2003) exige, pour engager la responsabilité personnelle du dirigeant à l'égard d'un tiers, une faute séparable des fonctions, c'est-à-dire une faute intentionnelle d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales. La dissimulation délibérée d'informations sur l'assurance, cumulée à l'altération des lieux (remplacement de la vasque) et au possible effacement des bandes de vidéosurveillance, constitue un faisceau d'indices sérieux pointant vers une telle faute séparable.
 
@@ -108,7 +108,7 @@ L'attitude de la SAS [**[L'Exploitant du Commerce (La SAS)]**](../../Memory/Toke
 
 > « Le fait, par un débiteur, même avant la décision judiciaire constatant sa dette, d'organiser ou d'aggraver son insolvabilité soit en augmentant le passif ou en diminuant l'actif de son patrimoine, soit en diminuant ou en dissimulant tout ou partie de ses revenus, soit en dissimulant certains de ses biens, en vue de se soustraire à l'exécution d'une condamnation de nature patrimoniale prononcée par une juridiction répressive ou, en matière délictuelle, quasi délictuelle ou d'aliments, prononcée par une juridiction civile, est puni de trois ans d'emprisonnement et de 45 000 euros d'amende. » <br>
 > **[Code pénal > Article 314-7]** <br>
-> [Article 314-7 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226)
+> [Article 314-7 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418226)
 
 Si une procédure de liquidation ou l'organisation de l'insolvabilité de la SAS venaient à être avérées, la faute pénale personnelle des dirigeants (notamment pour obstruction et mise en danger) constituerait un fondement robuste pour engager leur responsabilité sur leurs deniers personnels au civil (au titre de la faute détachable).
 

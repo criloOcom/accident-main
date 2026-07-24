@@ -27,14 +27,14 @@ L'enjeu principal du litige consiste à déterminer le fondement juridique de la
 
 ### A. Rejet de la responsabilité pour faute (Article 1240)
 
-Le demandeur pourrait être tenté d'invoquer une faute ou une négligence dans l'entretien de la vasque. L'[Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) dispose :
+Le demandeur pourrait être tenté d'invoquer une faute ou une négligence dans l'entretien de la vasque. L'[Article 1240 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) dispose :
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. »
 
 Toutefois, prouver une faute positive ou une négligence de la part de [**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md) imposerait une charge probatoire lourde au demandeur.
 
 ### B. Application de la responsabilité du fait des choses (Article 1242, alinéa 1)
 
-Le fondement le plus pertinent en l'espèce est la responsabilité de plein droit du fait des choses. L'[Article 1242 alinéa 1 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041559) prévoit :
+Le fondement le plus pertinent en l'espèce est la responsabilité de plein droit du fait des choses. L'[Article 1242 alinéa 1 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041559](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041559) prévoit :
 > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait [...] des choses que l'on a sous sa garde. »
 
 Pour retenir cette responsabilité, trois conditions sont requises :

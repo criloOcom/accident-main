@@ -71,4 +71,4 @@ Cet article n'est pas applicable directement à notre phase actuelle mais sert d
 
 ---
 
-> **Source officielle :** [Légifrance - Article 434-15-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418645/)
+> **Source officielle :** [Légifrance - Article 434-15-1 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418645/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418645/)

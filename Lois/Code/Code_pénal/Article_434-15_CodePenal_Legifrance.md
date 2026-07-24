@@ -86,4 +86,4 @@ Pour caractériser l'infraction, l'accusation doit démontrer :
 
 ---
 
-> **Source officielle :** [Légifrance - Article 434-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641/)
+> **Source officielle :** [Légifrance - Article 434-15 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418641/)

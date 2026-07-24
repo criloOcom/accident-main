@@ -49,7 +49,7 @@ Notes : Conformément au premier alinéa de l'article 10 de la loi n° 2021-1837
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044607740)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000044607740](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044607740)
 
 ### Articles cités
 - Assurance maladie et action sociale - art. 7 (VNE)

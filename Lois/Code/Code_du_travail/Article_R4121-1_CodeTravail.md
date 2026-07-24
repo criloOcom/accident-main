@@ -38,7 +38,7 @@ Cette évaluation comporte un inventaire des risques identifiés dans chaque uni
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023795562)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000023795562](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023795562)
 
 ### Articles cités
 - Décret n°2006-649 du 2 juin 2006 - art. 16-1 (Ab)

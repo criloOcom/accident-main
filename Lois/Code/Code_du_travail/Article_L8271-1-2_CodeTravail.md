@@ -45,7 +45,7 @@ Les agents de contrôle compétents en application de l'article L. 8271-1 sont :
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054334961)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000054334961](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054334961)
 
 ### Articles cités
 - Décret n°2005-455 du 12 mai 2005 - art. 1 (V)

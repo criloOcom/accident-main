@@ -82,14 +82,14 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
+  > > [Arrêt n°99-17.092 - legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 
 ### Mémoire - En défense adverse
 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
+  > > [Arrêt n°99-17.092 - legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 
 ### Mémoire_de_synthèse_Recours_assurances_ERP
 
@@ -203,7 +203,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt SATI — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
+  > > [Arrêt SATI — n°99-17.092 - legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 
 ### Note - Changelog Juridique
 
@@ -242,7 +242,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [00-82.066_CourCassation](../../../Lois/Jurisprudence/Responsabilité_du_commettant/00-82.066_CourCassation.md)
 
 - **Citation extraite :**
-  > - **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070713](../../../Lois/Jurisprudence/JURITEXT0000070713.md)51). Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
+  > - **Exception à l'immunité (Arrêt Cousin - Ass. Plén., 14 décembre 2001) :** [N° 00-82.066 - legifrance.gouv.fr/juri/id/[JURITEXT0000070713](../../../Lois/Jurisprudence/JURITEXT0000070713.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070713](../../../Lois/Jurisprudence/JURITEXT0000070713.md)51). Le préposé ne perd son immunité que s'il commet une faute pénale intentionnelle. En l'espèce, il s'agit d'une maladresse, l'immunité est donc préservée.
 
 - **Jurisprudence :** [97-17.378_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/97-17.378_CourCassation.md)
 
@@ -259,7 +259,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt SATI — n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
+  > > [Arrêt SATI — n°99-17.092 - legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 
 ### Note - FAQ Juridique
 
@@ -297,7 +297,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Pourvoi n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69)
+  > > [Pourvoi n°99-17.092 - legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69)
 
 ### Note - Stratégie Jurisprudentielle
 
@@ -371,7 +371,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [20-23.462_CourCassation](../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/20-23.462_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Civ. 2e, 24 novembre 2022, n°20-23.462](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000466520](../../../Lois/Jurisprudence/JURITEXT0000466520.md)27) <br>
+  > > [Civ. 2e, 24 novembre 2022, n°20-23.462 - legifrance.gouv.fr/juri/id/[JURITEXT0000466520](../../../Lois/Jurisprudence/JURITEXT0000466520.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000466520](../../../Lois/Jurisprudence/JURITEXT0000466520.md)27) <br>
 
 - **Jurisprudence :** [TJ Nanterre 22-02447](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/TJ Nanterre 22-02447.md)
 
@@ -386,19 +386,19 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt SATI — Com., 20 mai 2003, n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
+  > > [Arrêt SATI — Com., 20 mai 2003, n°99-17.092 - legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 
 ### Parquet Foix - Assurance RC - Plainte Défaut
 
 - **Jurisprudence :** [20-16.463_CourCassation](../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/20-16.463_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000444828](../../../Lois/Jurisprudence/JURITEXT0000444828.md)48) <br>
+  > > [Arrêt n°20-16.463 - legifrance.gouv.fr/juri/id/[JURITEXT0000444828](../../../Lois/Jurisprudence/JURITEXT0000444828.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000444828](../../../Lois/Jurisprudence/JURITEXT0000444828.md)48) <br>
 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
+  > > [Arrêt n°99-17.092 - legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 
 ### TJ Foix - Bordereau Unifié
 
@@ -422,7 +422,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [20-16.463_CourCassation](../../../Lois/Jurisprudence/Action_directe_et_obligation_d'assurance/20-16.463_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt n°20-16.463](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000444828](../../../Lois/Jurisprudence/JURITEXT0000444828.md)48)
+  > > [Arrêt n°20-16.463 - legifrance.gouv.fr/juri/id/[JURITEXT0000444828](../../../Lois/Jurisprudence/JURITEXT0000444828.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000444828](../../../Lois/Jurisprudence/JURITEXT0000444828.md)48)
 
 ### TJ Foix - Référé Provision - Assignation
 
@@ -434,19 +434,19 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Jurisprudence :** [99-17.092_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/99-17.092_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
+  > > [Arrêt n°99-17.092 - legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 
 ### TJ Foix - Référé Provision - Conclusions
 
 - **Jurisprudence :** [74-10.466_CourCassation](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/74-10.466_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt n°74-10.466](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000069934](../../../Lois/Jurisprudence/JURITEXT0000069934.md)85)
+  > > [Arrêt n°74-10.466 - legifrance.gouv.fr/juri/id/[JURITEXT0000069934](../../../Lois/Jurisprudence/JURITEXT0000069934.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000069934](../../../Lois/Jurisprudence/JURITEXT0000069934.md)85)
 
 - **Jurisprudence :** [89-18.422_CourCassation](../../../Lois/Jurisprudence/Responsabilité_du_fait_des_choses/89-18.422_CourCassation.md)
 
 - **Citation extraite :**
-  > > [Arrêt n°89-18.422](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070264](../../../Lois/Jurisprudence/JURITEXT0000070264.md)11)
+  > > [Arrêt n°89-18.422 - legifrance.gouv.fr/juri/id/[JURITEXT0000070264](../../../Lois/Jurisprudence/JURITEXT0000070264.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070264](../../../Lois/Jurisprudence/JURITEXT0000070264.md)11)
 
 - **Jurisprudence :** [97-17.378_CourCassation](../../../Lois/Jurisprudence/Responsabilité_des_dirigeants/97-17.378_CourCassation.md)
 
@@ -853,11 +853,11 @@ Pour chaque argument clé qui N'A PAS de jurisprudence de support :
 
 [^n1]: > « Toutes actions dérivant d'un contrat d'assurance sont prescrites par deux ans à compter de l'événement qui y donne naissance. Par exception, les actions dérivant d'un contrat d'assurance relatives à des dommages résultant de mouvements de terrain consécutifs à la sécheresse-réhydratation des sols, reconnus comme une catastrophe naturelle dans les conditions prévues à l'article L. 125-1, sont prescrites par cinq ans à compter de l'événement qui y donne naissance. Toutefois, ce délai ne court : 1° En cas de réticence, omission, déclaration fausse ou inexacte sur le risque couru, que du jour où l'assureur en a eu connaissance ; 2° En cas de sinistre, que du jour où les intéressés en ont eu connaissance, s'ils prouvent qu'ils l'ont ignoré jusque-là. Quand l'action de l'assuré contre l'assureur a pour cause le recours d'un tiers, le délai de la prescription ne court que du jour où ce tiers a exercé une action en justice contre l'assuré ou a été indemnisé par ce dernier. La prescription est portée à dix ans dans les contrats d'assurance sur la vie lorsque le bénéficiaire est une personne distincte du souscripteur et, dans les contrats d'assurance contre les accidents atteignant les personnes, lorsque les bénéficiaires sont les ayants droit de l'assuré décédé. Pour les contrats d'assurance sur la vie, nonobstant les dispositions du 2°, les actions du bénéficiaire sont prescrites au plus tard trente ans à compter du décès de l'assuré. » <br>
     > **Code des assurances > Chapitre IV : Compétence et prescription.** <br>
-    > [Article L114-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044607740)
+    > [Article L114-1 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000044607740](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044607740)
     📚 Bibliothèque locale : [Article_L114-1_Codesassurances](../../../Lois/Code/Code_assurances/Article_L114-1_Codesassurances.md) ↩
 
 [^n2]: > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
     > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
-    > [Article L227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
+    > [Article L227-8 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
     📚 Bibliothèque locale : [Article_L227-8_Codecommerce_Legifrance](../../../Lois/Code/Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) ↩
 <!-- /Source -->

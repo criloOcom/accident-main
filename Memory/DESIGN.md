@@ -35,7 +35,7 @@ type: memory
 
 - **Tokens d'anonymisation** (`[**[La Victime]**](../Memory/Tokens/token-victime-nom-complet.md)`, `[**[L'Exploitant du Commerce (La SAS)]**](../Memory/Tokens/token-exploitation-raison-sociale.md)`, `[**[Le Président de l'Exploitation]**](../Memory/Tokens/token-exploitation-president-nom.md)`…) : appliquer **Bold** (`textStyle.bold = true`) dans le corps du texte. Ne pas mettre en gras les guillemets, parenthèses ou texte autour.
 
-- **Références législatives et jurisprudentielles** (ex. `article 1240 du Code civil`, `Cass. Com., 20 mai 2003, [n° 99-17.092](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)`) : appliquer **souligné** + **couleur bleue `#1166CC`** + **`linkUrl`** pointant vers Légifrance ou Judilibre.
+- **Références législatives et jurisprudentielles** (ex. `article 1240 du Code civil`, `Cass. Com., 20 mai 2003, [n° 99-17.092 - legifrance.gouv.fr/juri/id/JURITEXT000007047369](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007047369)`) : appliquer **souligné** + **couleur bleue `#1166CC`** + **`linkUrl`** pointant vers Légifrance ou Judilibre.
 
 - **Puces et listes** : alignement JUSTIFIED, même police Arial 11 pt.
 
@@ -55,7 +55,7 @@ Tout article de code cité dans un document DOIT être présenté sous forme de 
 ```
 > « [Texte exact de l'article extrait via Légifrance MCP]... » <br>
 > **[Nom du Code] > [Chemin hiérarchique complet]** <br>
-> [Article XXX](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI...)
+> [Article XXX - legifrance.gouv.fr/codes/article_lc/LEGIARTI...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI...)
 ```
 
 **Règles :**
@@ -83,7 +83,7 @@ Tout article de code cité dans un document DOIT être présenté sous forme de 
 ```
 > « [Ratio decidendi extrait du texte intégral de la décision]... » <br>
 > **Cour de [juridiction], [chambre], [date], n° [numéro de pourvoi]** <br>
-> [Arrêt](https://www.legifrance.gouv.fr/juri/id/...)
+> [Arrêt - legifrance.gouv.fr/juri/id/...](https://www.legifrance.gouv.fr/juri/id/...)
 ```
 
 **Règles :**

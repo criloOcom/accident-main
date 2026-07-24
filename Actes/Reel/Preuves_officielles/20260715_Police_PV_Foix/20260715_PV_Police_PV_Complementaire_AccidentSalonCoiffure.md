@@ -97,21 +97,21 @@ L'Officier de Police Judiciaire
 
 [^1]: > « Les officiers et les agents de police judiciaire ou, sous leur contrôle, les assistants d'enquête informent par tout moyen les victimes de leur droit : 1° D'obtenir la réparation de leur préjudice [...] 2° De se constituer partie civile [...] 3° D'être, si elles souhaitent se constituer partie civile, assistées d'un avocat [...] 5° De saisir, le cas échéant, la commission d'indemnisation des victimes d'infraction, lorsqu'il s'agit d'une infraction mentionnée aux articles 706-3 ou 706-14 du présent code [...] » <br>
     > **Code de procédure pénale > Sous-titre III : Des droits des victimes.** <br>
-    > [Article 10-2 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051876482) ↩
+    > [Article 10-2 du Code de procédure pénale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051876482](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051876482) ↩
 
 [^2]: > « Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices [...] 2° De détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d'un crime ou d'un délit, la recherche des preuves ou la condamnation des coupables. [...] » <br>
     > **Code pénal > Section 1 : Des entraves à la saisine de la justice.** <br>
-    > [Article 434-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) ↩
+    > [Article 434-4 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418608) ↩
 
 [^3]: > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
     > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
-    > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+    > [Article 222-20 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
 
 [^4]: > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. Ces mesures comprennent : 1° Des actions de prévention des risques professionnels [...] 2° Des actions d'information et de formation ; 3° La mise en place d'une organisation et de moyens adaptés. [...] » <br>
     > **Code du travail > Chapitre Ier : Obligations de l'employeur.** <br>
-    > [Article L4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) ↩
+    > [Article L4121-1 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035640828) ↩
 
 [^5]: > « Sont interdits : 1° Le travail totalement ou partiellement dissimulé, défini et exercé dans les conditions prévues aux articles L. 8221-3 et L. 8221-5 ; 2° La publicité, par quelque moyen que ce soit, tendant à favoriser, en toute connaissance de cause, le travail dissimulé ; 3° Le fait de recourir sciemment, directement ou par personne interposée, aux services de celui qui exerce un travail dissimulé. » <br>
     > **Code du travail > Section 1 : Dispositions générales.** <br>
-    > [Article L8221-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815) ↩
+    > [Article L8221-1 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904815) ↩
 <!-- /Source -->

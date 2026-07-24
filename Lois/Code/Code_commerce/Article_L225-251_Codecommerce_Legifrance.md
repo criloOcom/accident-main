@@ -42,7 +42,7 @@ Si plusieurs administrateurs ou plusieurs administrateurs et le directeur géné
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329)
 
 ### Articles cités
 - Décret n°67-236 du 23 mars 1967 - art. 199 (Ab)

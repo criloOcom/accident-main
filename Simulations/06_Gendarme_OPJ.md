@@ -90,12 +90,12 @@ Les éléments recueillis établissent que la SAS [**[L'Exploitant du Commerce (
 La violation manifestement délibérée des obligations de sécurité imposées par le Code du travail (articles L.4121-1 et suivants) et le Code de la construction et de l'habitation (ERP) est caractérisée.
 
 > « [...] par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois [...] »<br>
-> **[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)**
+> **[Article 222-20 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)**
 
 **Mise en danger de la vie d'autrui (Article 223-1 du Code pénal) :**
 Le maintien d'une vasque lourdement endommagée dans un ERP fréquenté par le public constitue une exposition délibérée des clients à un risque de blessure grave.
 
-> **[Article 223-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637)**
+> **[Article 223-1 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637)**
 
 <hr><hr>
 

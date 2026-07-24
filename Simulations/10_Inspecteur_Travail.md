@@ -33,7 +33,7 @@ Faisant suite aux faits survenus le 29 mai 2026 au sein de l'établissement de c
 ### A. Obligation générale de sécurité
 
 > « L'employeur prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs. »<br>
-> **[Article L.4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033017917)**
+> **[Article L.4121-1 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000033017917](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033017917)**
 
 Ces mesures comprennent :
 - Des actions de prévention des risques professionnels
@@ -45,12 +45,12 @@ Ces mesures comprennent :
 ### B. Obligation d'évaluation des risques
 
 > « L'employeur transcrit et met à jour dans un document unique d'évaluation des risques professionnels (DUERP) les résultats de l'évaluation des risques pour la santé et la sécurité des travailleurs. »<br>
-> **[Article R.4121-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042779503)**
+> **[Article R.4121-1 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000042779503](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042779503)**
 
 ### C. Équipements de travail
 
 > « L'employeur met à la disposition des travailleurs les équipements de travail nécessaires à l'exécution de leur travail, appropriés aux travaux à effectuer ou convenablement adaptés à cet effet. »<br>
-> **[Article R.4323-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039750923)**
+> **[Article R.4323-1 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000039750923](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039750923)**
 
 L'accès en hauteur impose l'utilisation d'un équipement de travail conforme (escabeau ou marchepied aux normes NF EN 131).
 

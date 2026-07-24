@@ -122,7 +122,7 @@ La **violation manifestement deliberee** est caracterisee par :
 ### III.2 — SUR LA RESPONSABILITE CIVILE PERSONNELLE DES DIRIGEANTS
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
-> [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
+> [Article L. 227-8 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.**
 
 Cette disposition constitue le fondement de la responsabilite personnelle des dirigeants de SAS, qui peut etre engagee pour des fautes commises dans l'exercice de leurs fonctions.
@@ -130,13 +130,13 @@ Cette disposition constitue le fondement de la responsabilite personnelle des di
 L'article L. 227-1 du Code de commerce[^n5] dispose que les règles des sociétés anonymes sont applicables aux SAS :
 
 > *« Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes  sont applicables à la société par actions simplifiée. »* <br>
-> [Article L. 227-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177) <br>
+> [Article L. 227-1 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177) <br>
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.**
 
 En application de ce renvoi, l'article L. 225-251 du même code fixe le régime détaillé de cette responsabilité dans les termes suivants :
 
 > *« Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. »* <br>
-> [Article L. 225-251](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) <br>
+> [Article L. 225-251 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) <br>
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre III : Des sociétés anonymes > Section 8 : De la responsabilité.**
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
@@ -158,11 +158,11 @@ Ces fautes, commises personnellement par le President et la Directrice Generale,
 ### III.3 — SUR LE FONDEMENT DU DROIT DE LA CONSOMMATION
 
 > *« Le professionnel de vente est tenu d'une obligation d'information précontractuelle sur les caractéristiques essentielles du bien ou du service. »* <br>
-> [Article L. 111-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438) <br>
+> [Article L. 111-1 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438) <br>
 > **Code de la consommation > Partie réglementaire > Livre Ier : Information et education des consommateurs > Titre II : Information des consommateurs > Chapitre Ier : Obligation générale d'information précontractuelle.**
 
 > *« Le professionnel de vente est tenu de livrer un bien conforme au contrat. »* <br>
-> [Article L. 217-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587) <br>
+> [Article L. 217-1 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587) <br>
 > **Code de la consommation > Partie législative > Livre Ier : Dispositions générales > Titre Ier : Objet et champ d'application.**
 
 Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'information precontractuelle et a une obligation de conformite du service fourni. La prestation realisee n'etait manifestement pas conforme aux exigences de securite legitimes d'un consommateur, ce qui constitue un fondement complementaire a l'action civile et renforce l'absence de contestation serieuse.
@@ -170,7 +170,7 @@ Le salon de coiffure, en tant que professionnel, est tenu a une obligation d'inf
 ### III.4 — SUR LE DEFAUT D'ASSURANCE DE RESPONSABILITE CIVILE
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. »* <br>
-> [Article L. 124-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> [Article L. 124-3 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité.**
 
 En l'absence d'assurance, l'indemnisation de la victime est gravement compromise. Le Fonds de Garantie des Victimes (FGTI), sur le fondement des articles 706-3 et 706-14 du Code de procédure pénale (Titre XIV), pourra être directement saisi par la partie civile pour assurer l'indemnisation de la victime a defaut d'assureur. La presente [constitution de partie civile](../../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) sollicite formellement la designation du FGTI comme garant subrogatoire.
@@ -225,7 +225,7 @@ Vu l'article L. 227-8 du Code de commerce[^n9],
 Vu l'article L. 124-3 du Code des assurances[^n10],
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 Vu les articles 706-3 et 706-14 du Code de procedure penale,
 Vu la jurisprudence de la Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092 (arret SATI),
@@ -287,46 +287,46 @@ Fait a [**[La Ville de Residence de la Victime]**](../../../../Memory/Tokens/tok
 
 [^n1]: > « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. » <br>
     > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
-    > [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
+    > [Article 222-19 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
 
 [^n2]: > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
     > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
-    > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+    > [Article 222-20 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
 
 [^n3]: > « Il n'y a point de crime ou de délit sans intention de le commettre. Toutefois, lorsque la loi le prévoit, il y a délit en cas de mise en danger délibérée de la personne d'autrui. Il y a également délit, lorsque la loi le prévoit, en cas de faute d'imprudence, de négligence ou de manquement à une obligation de prudence ou de sécurité prévue par la loi ou le règlement, s'il est établi que l'auteur des faits n'a pas accompli les diligences normales compte tenu, le cas échéant, de la nature de ses missions ou de ses fonctions, de ses compétences ainsi que du pouvoir et des moyens dont il disposait. Dans le cas prévu par l'alinéa qui précède, les personnes physiques qui n'ont pas causé directement le dommage, mais qui ont créé ou contribué à créer la situation qui a permis la réalisation du dommage ou qui n'ont pas pris les mesures permettant de l'éviter, sont responsables pénalement s'il est établi qu'elles ont, soit violé de façon manifestement délibérée une obligation particulière de prudence ou de sécurité prévue par la loi ou le règlement, soit commis une faute caractérisée et qui exposait autrui à un risque d'une particulière gravité qu'elles ne pouvaient ignorer. Il n'y a point de contravention en cas de force majeure. » <br>
     > **Code pénal > Chapitre Ier : Dispositions générales.** <br>
-    > [Article 121-3 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) ↩
+    > [Article 121-3 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417208) ↩
 
 [^n4]: > « Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs. Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques. » <br>
     > **Code du travail > Sous-section 1 : Travaux réalisés à partir d'un plan de travail.** <br>
-    > [Article R4323-58 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
+    > [Article R4323-58 du Code du travail - legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397)
     📚 Bibliothèque locale : [Article_R4323-58_CodeTravail](../../../../Lois/Code/Code_du_travail/Article_R4323-58_CodeTravail.md) ↩
 
 [^n5]: > « Une société par actions simplifiée peut être instituée par une ou plusieurs personnes qui ne supportent les pertes qu'à concurrence de leur apport. Lorsque cette société ne comporte qu'une seule personne, celle-ci est dénommée " associé unique ". L'associé unique exerce les pouvoirs dévolus aux associés lorsque le présent chapitre prévoit une prise de décision collective. Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes, à l'exception de l'article L. 224-2 , du second alinéa de l'article L. 225-14 , des articles L. 225-17 à L. 225-102, L. 225-103 à L. 225-126 , L. 225-243 , du I de l'article L. 233-8 et de l'article L. 236-17, sont applicables à la société par actions simplifiée. Pour l'application de ces règles, les attributions du conseil d'administration ou de son président sont exercées par le président de la société par actions simplifiée ou celui ou ceux de ses dirigeants que les statuts désignent à cet effet. La société par actions simplifiée peut émettre des actions inaliénables résultant d'apports en industrie tels que définis à l'article 1843-2 du code civil. Les statuts déterminent les modalités de souscription et de répartition de ces actions. Par dérogation au premier alinéa de l'article L. 225-14, les futurs associés peuvent décider à l'unanimité que le recours à un commissaire aux apports ne sera pas obligatoire, lorsque la valeur d'aucun apport en nature n'excède un montant fixé par décret et si la valeur totale de l'ensemble des apports en nature non soumis à l'évaluation d'un commissaire aux apports n'excède pas la moitié du capital. Lorsque la société est constituée par une seule personne, le commissaire aux apports est désigné par l'associé unique. Toutefois le recours à un commissaire aux apports n'est pas obligatoire si les conditions prévues au cinquième alinéa du présent article sont réunies ou si l'associé unique, personne physique, exerçant son activité professionnelle en nom propre avant la constitution de la société, y compris sous le régime prévu aux articles L. 526-6 à L. 526-21 , apporte des éléments qui figuraient dans le bilan de son dernier exercice. Lorsqu'il n'y a pas eu de commissaire aux apports ou lorsque la valeur retenue est différente de celle proposée par le commissaire aux apports, les associés sont solidairement responsables pendant cinq ans, à l'égard des tiers, de la valeur attribuée aux apports en nature lors de la constitution de la société. La société par actions simplifiée dont l'associé unique, personne physique, assume personnellement la présidence est soumise à des formalités de publicité allégées déterminées par décret en Conseil d'Etat. Ce décret prévoit les conditions de dispense d'insertion au Bulletin officiel des annonces civiles et commerciales. » <br>
     > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
-    > [Article L227-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177)
+    > [Article L227-1 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177)
     📚 Bibliothèque locale : [Article_L227-1_Code_Legifrance](../../../../Lois/Code/Code_commerce/Article_L227-1_Code_Legifrance.md) ↩
 
 [^n6]: > « Toute personne, y compris tout agent public ou tout militaire, ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes : 1° Ces atteintes n'entrent pas dans le champ d'application de l'article 53 de la loi de financement de la sécurité sociale pour 2001 (n° 2000-1257 du 23 décembre 2000) ni de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux susceptibles d'occasionner des dégâts ; 2° Ces faits : -soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois ; -soit sont prévus et réprimés par les articles 222-22 à 222-30 , 224-1 A à 224-1 C, 225-4-1 à 225-4-5,225-5 à 225-10, 225-14-1 et 225-14-2 et 227-25 à 227-27 du code pénal ; -soit ont été commis sur un mineur ou par le conjoint ou le concubin de la victime, par le partenaire lié à la victime par un pacte civil de solidarité, par un ancien conjoint ou concubin de la victime ou par un ancien partenaire lié à la victime par un pacte civil de solidarité et sont prévus et réprimés par l'article 222-12 du code pénal ou par le 3° et l'avant-dernier alinéa de l'article 222-14 du même code, y compris lorsque ces faits ont été commis avec d'autres circonstances aggravantes. Par exception au premier alinéa du présent article, le montant maximal de la réparation des dommages subis en raison de ces faits, lorsqu'ils ont entraîné une incapacité totale de travail inférieure à un mois, est défini par voie réglementaire. 3° La personne lésée est de nationalité française ou les faits ont été commis sur le territoire national. La réparation peut être refusée ou son montant réduit à raison de la faute de la victime. » <br>
     > **Code de procédure pénale > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction.** <br>
-    > [Article 706-3 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)
+    > [Article 706-3 du Code de procédure pénale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048442345)
     📚 Bibliothèque locale : [Article_706-3_CodeProcedurePenale_Legifrance](../../../../Lois/Code/Code_procédure_pénale/Article_706-3_CodeProcedurePenale_Legifrance.md) ↩
 
 [^n7]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
-    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+    > [Article 1240 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 
 [^n8]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
-    > [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
+    > [Article 1242 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
 
 [^n9]: > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
     > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
-    > [Article L227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
+    > [Article L227-8 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
     📚 Bibliothèque locale : [Article_L227-8_Codecommerce_Legifrance](../../../../Lois/Code/Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) ↩
 
 [^n10]: > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
     > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
-    > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+    > [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
     📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](../../../../Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
 <!-- /Source -->

@@ -40,7 +40,7 @@ Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'e
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006574933)
 
 ### Articles cités
 - Loi n°51-711 du 7 juin 1951 - art. 6 (V)

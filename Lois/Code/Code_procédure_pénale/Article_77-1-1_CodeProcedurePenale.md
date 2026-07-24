@@ -67,7 +67,7 @@ Le procureur de la République peut ordonner que cette réquisition soit rapport
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052915)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052915](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052915)
 
 ### Articles cités
 - DÉLIBÉRATION n°2014-483 du 4 décembre 2014 - art., v. init.

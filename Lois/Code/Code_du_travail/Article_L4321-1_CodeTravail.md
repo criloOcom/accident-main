@@ -36,7 +36,7 @@ Les équipements de travail et les moyens de protection mis en service ou utilis
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903209)
 
 ### Articles cités
 - Décret n°2005-1325 du 26 octobre 2005 - art. 17 (V)

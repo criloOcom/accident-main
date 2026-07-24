@@ -110,6 +110,6 @@ Une indemnisation transactionnelle globale autour de **85 000 € à 100 000 €
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
 > **[Code civil > Titre III > Sous-titre II > Chapitre II > Section 1 > Sous-section 1 > Article 1240]** <br>
-> [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
+> [Article 1240 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 
 En conclusion, la résolution amiable de ce litige est non seulement souhaitable mais **matériellement possible**, à la condition d'un changement de posture de la partie défenderesse face aux preuves irréfutables du mécanisme de l'accident et des préjudices subis.

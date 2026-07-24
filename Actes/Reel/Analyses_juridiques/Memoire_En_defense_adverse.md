@@ -72,7 +72,7 @@ La demanderesse tente d'engager la responsabilité personnelle in solidum de Ham
 Cette argumentation est juridiquement infondée. L'écran de la personnalité morale protège les dirigeants. Pour que leur responsabilité civile personnelle soit engagée à l'égard des tiers, la Cour de cassation exige la preuve d'une faute intentionnelle d'une particulière gravité, incompatible avec l'exercice normal des fonctions sociales (Arrêt SATI).
 
 > *« La responsabilité personnelle d'un dirigeant à l'égard des tiers ne peut être retenue que s'il a commis une faute séparable de ses fonctions ; qu'il en est ainsi lorsque le dirigeant commet intentionnellement une faute d'une particulière gravité incompatible avec l'exercice normal des fonctions sociales. »* <br>
-> [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
+> [Arrêt n°99-17.092 - legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
 
 Un prétendu défaut de signalisation d'une vasque ébréchée, à le supposer établi, relève tout au plus d'une négligence dans l'exploitation courante du salon, imputable à la seule SAS LES MAUVAIS GARCONS.
@@ -127,10 +127,10 @@ Fait pour valoir ce que de droit.
 
 [^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
     > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
-    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+    > [Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
     📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 
 [^n2]: > « Chacun est responsable du dommage qu'il a causé non seulement par son fait, mais encore par sa négligence ou par son imprudence. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
-    > [Article 1241 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565) ↩
+    > [Article 1241 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041565) ↩
 <!-- /Source -->

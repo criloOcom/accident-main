@@ -106,12 +106,12 @@ Au vu des éléments recueillis, je propose de retenir les qualifications suivan
 ### A. Blessures involontaires
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »<br>
-> **[Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)**
+> **[Article 222-20 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)**
 
 ### B. Mise en danger délibérée
 
 > « Le fait d'exposer directement autrui à un risque immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »<br>
-> **[Article 223-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637)**
+> **[Article 223-1 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042637)**
 
 ### C. Non-assistance à personne en danger (à vérifier)
 

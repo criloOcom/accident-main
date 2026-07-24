@@ -36,7 +36,7 @@ Le vendeur est tenu de la garantie à raison des défauts cachés de la chose ve
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441924)
 
 ### Articles cités
 - Décret n°87-1045 du 22 décembre 1987 - art. Annexe (Ab)

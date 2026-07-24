@@ -52,11 +52,11 @@ L'action principale vise à engager la responsabilité de [**[L'Exploitant du Co
 
 > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
 > **[Code civil > Article 1240]** <br>
-> [Article 1240](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
+> [Article 1240 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)
 
 > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. » <br>
 > **[Code civil > Article 1242]** <br>
-> [Article 1242](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041559)
+> [Article 1242 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041559](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041559)
 
 La garde de la chose (la vasque) par [**[L'Exploitant du Commerce (La SAS)]**](../../../Memory/Tokens/token-exploitation-raison-sociale.md) au moment des faits est incontestable. Sa responsabilité de plein droit (art. 1242 al. 1) est acquise. En outre, le défaut d'entretien ou de sécurisation caractérise une faute (art. 1240).
 
@@ -66,7 +66,7 @@ En cas d'insolvabilité de [**[L'Exploitant du Commerce (La SAS)]**](../../../Me
 
 > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
 > **[Code de commerce > Article L227-8]** <br>
-> [Article L227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
+> [Article L227-8 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
 
 L'engagement de la responsabilité personnelle du dirigeant suppose de prouver une **faute détachable** de ses fonctions (ex: abstention délibérée de respecter des normes de sécurité impératives ayant directement causé le dommage corporel). Cette voie, bien que plus complexe, est indispensable pour contourner le voile social si la société fait défaut et n'est pas assurée.
 

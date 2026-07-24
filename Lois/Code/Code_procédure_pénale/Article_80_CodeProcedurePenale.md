@@ -63,7 +63,7 @@ Si la personne est placée en détention provisoire, elle doit comparaître deva
 ---
 
 ### Liens officiels
-- [Article sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568319)
+- [Article sur Légifrance - legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568319](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568319)
 
 ### Articles cités
 - Loi n°2007-291 du 5 mars 2007 - art. 30 (V)

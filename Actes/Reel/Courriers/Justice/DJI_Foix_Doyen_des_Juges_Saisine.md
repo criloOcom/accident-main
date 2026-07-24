@@ -81,7 +81,7 @@ Vous trouverez ci-joint la plainte avec [constitution de partie civile](../../..
 Dans l'attente que vous fixiez, le cas échéant, le montant de la consignation prévue à l'article 88 du Code de procédure pénale (dont je sollicite toutefois l'exemption ou la modération compte tenu de ma situation financière actuelle liée à mon [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) prolongé),
 
 > *« Le juge d'instruction constate, par ordonnance, le dépôt de la plainte. En fonction des ressources de la partie civile, il fixe le montant de la consignation que celle-ci doit, si elle n'a obtenu l'aide juridictionnelle, déposer au greffe et le délai dans lequel elle devra être faite sous peine de non-recevabilité de la plainte. Il peut dispenser de consignation la partie civile. »* <br>
-> [Article 88 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575469) <br>
+> [Article 88 du Code de procédure pénale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575469](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006575469) <br>
 > **Code de procédure pénale > Section 2 : De la constitution de la partie civile et de ses effets — abrogation différée.**
 
 Je me tiens à votre entière disposition pour être entendu et participer à toute expertise médicale que vous jugerez utile d'ordonner.
@@ -117,9 +117,9 @@ Sébastien GRAZIDE
 
 [^n1]: > « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l' article 121-3 , par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. En cas de violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, les peines encourues sont portées à trois ans d'emprisonnement et à 45 000 euros d'amende. » <br>
     > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
-    > [Article 222-19 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
+    > [Article 222-19 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643) ↩
 
 [^n2]: > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
     > **Code pénal > Section 2 : Des atteintes involontaires à l'intégrité de la personne.** <br>
-    > [Article 222-20 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
+    > [Article 222-20 du Code pénal - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640) ↩
 <!-- /Source -->

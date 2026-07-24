@@ -98,5 +98,5 @@ Je vous remercie par avance de l'attention que vous voudrez bien porter à ces �
 
 [^loi-1]: > « Sous réserve des dispositions des articles L. 311-5 et L. 311-6 , les administrations mentionnées à l'article L. 300-2 sont tenues de publier en ligne ou de communiquer les documents administratifs qu'elles détiennent aux personnes qui en font la demande, dans les conditions prévues par le présent livre. » <br>
     > **Code des relations entre le public et l'administration > Section 1 : Etendue du droit à communication.** <br>
-    > [Article L311-1 du Code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033218946) ↩
+    > [Article L311-1 du Code des relations entre le public et l'administration - legifrance.gouv.fr/codes/article_lc/LEGIARTI000033218946](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033218946) ↩
 <!-- /Source -->

@@ -33,7 +33,7 @@ L'accident survenu le 29 mai 2026, dans lequel [**[La Victime]**](../Memory/Toke
 Les ERP de 5e catégorie (type L) sont soumis aux dispositions générales de sécurité du Code de la construction et de l'habitation (anciennement Code de la construction) :
 
 > « Les établissements recevant du public doivent être construits, aménagés, exploités et entretenus de manière à assurer la sécurité des personnes. »<br>
-> **[Article R.143-5 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043825022)**
+> **[Article R.143-5 du Code de la construction et de l'habitation - legifrance.gouv.fr/codes/article_lc/LEGIARTI000043825022](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043825022)**
 
 Cette obligation générale englobe la sécurité des équipements sanitaires, mobiliers et installations accessibles au public, qu'ils soient ou non destinés à un usage direct par la clientèle.
 

@@ -124,7 +124,7 @@ Les décisions suivantes établissent des précédents juridiques pertinents pou
 
 - **Résumé** : Cet arrêt pose le principe de la responsabilité de plein droit pesant sur le gardien de la chose instrument du dommage. La victime n'a pas à prouver la faute du gardien, la garde de la chose (le meuble de bac à shampoing et sa vasque en céramique) suffisant à engager sa responsabilité civile.
 
-- **Lien** : *JURITEXT000006927230 invalide (arrêt antérieur à la numérotation numérique) / Arrêt Jand'heur (Ch. réunies, 13 février 1930) — voir également [2e Civ., 24 février 2005 (chose inerte)](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007052698)
+- **Lien** : *JURITEXT000006927230 invalide (arrêt antérieur à la numérotation numérique) / Arrêt Jand'heur (Ch. réunies, 13 février 1930) — voir également [2e Civ., 24 février 2005 (chose inerte) - legifrance.gouv.fr/juri/id/JURITEXT000007052698](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007052698)
 
 **Pertinence** : Cette décision de principe établit que la SAS exploitante, en tant que gardienne du bac à shampoing et de la vasque en céramique instrument du dommage, est responsable de plein droit des blessures subies par le client du seul fait du basculement et du caractère tranchant de l'équipement.
 
@@ -132,7 +132,7 @@ Les décisions suivantes établissent des précédents juridiques pertinents pou
 
 - **Résumé** : Cet arrêt confirme qu'une chose inerte peut être qualifiée d'instrument du dommage si la victime démontre que cette chose présentait un état anormal ou un danger. En l'espèce, la présence d'une cassure tranchante non protégée et non signalée sur le flanc de la vasque caractérise cet état anormal.
 
-- **Lien** : [Consulter sur Légifrance](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007052698)
+- **Lien** : [Consulter sur Légifrance - legifrance.gouv.fr/juri/id/JURITEXT000007052698](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007052698)
 
 **Pertinence** : La vasque en céramique brisée, bien qu'inerte avant le basculement, présentait un état anormal et dangereux (éclats tranchants non sécurisés), ce qui suffit à établir son rôle actif et causal dans la section des tendons de la main de la victime.
 
@@ -140,7 +140,7 @@ Les décisions suivantes établissent des précédents juridiques pertinents pou
 
 - **Résumé** : Cet arrêt consacre l'immunité civile du préposé (le salarié) qui agit dans les limites de la mission qui lui a été impartie par son commettant. Par conséquent, la responsabilité civile du fait du dommage incombe exclusivement au commettant (l'employeur).
 
-- **Lien** : [Consulter sur Légifrance](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)
+- **Lien** : [Consulter sur Légifrance - legifrance.gouv.fr/juri/id/JURITEXT000007043704](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007043704)
 
 **Pertinence** : Le coiffeur salarié (préposé) ayant agi dans le cadre de ses fonctions au salon de coiffure, seule la SAS exploitante (commettant) est civilement responsable du dommage provoqué par son préposé, justifiant la mise hors de cause personnelle du salarié et l'assignation de la SAS.
 
@@ -163,19 +163,19 @@ De surcroît, les faits se sont produits sous le contrôle du préposé de l'ét
 **Sur la responsabilité personnelle des dirigeants :**
 
 > *« Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. »* <br>
-> [Article L. 227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
+> [Article L. 227-8 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036) <br>
 > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.**
 
 L'article L. 227-1 du Code de commerce[^n4] dispose que les règles des sociétés anonymes sont applicables aux SAS :
 
 > *« Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes  sont applicables à la société par actions simplifiée. »* <br>
-> [Article L. 227-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177) <br>
+> [Article L. 227-1 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177) <br>
 > **Code de commerce > Partie législative > Livre II : Des sociétés commerciales et des groupements d'intérêt économique > Titre II : Dispositions particulières aux diverses sociétés commerciales > Chapitre VII : Des sociétés par actions simplifiées.**
 
 En application de ce renvoi, l'article L. 225-251 du même code précise le régime de responsabilité des dirigeants dans les termes suivants :
 
 > *« Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion. Si plusieurs administrateurs ou plusieurs administrateurs et le directeur général ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la réparation du dommage. »* <br>
-> [Article L. 225-251 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) <br>
+> [Article L. 225-251 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006226329) <br>
 > **Code de commerce > Section 8 : De la responsabilité civile.**
 
 Les administrateurs et le directeur général sont responsables, individuellement ou solidairement, envers la société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion.
@@ -187,7 +187,7 @@ Constitue une faute personnelle séparable des fonctions sociales engageant la r
 > **Cour de cassation, chambre commerciale, 20 mai 2003, n° 99-17.092**
 
 > *« Le dirigeant d'une société en procédure collective peut engager sa responsabilité personnelle s'il a commis une faute de gestion ayant contribué à l'insuffisance d'actif. »* <br>
-> [Arrêt n°20-20.404](https://www.legifrance.gouv.fr/juri/id/JURITEXT000046282365) <br>
+> [Arrêt n°20-20.404 - legifrance.gouv.fr/juri/id/JURITEXT000046282365](https://www.legifrance.gouv.fr/juri/id/JURITEXT000046282365) <br>
 > **Cour de cassation, chambre commerciale, 7 septembre 2022, n° 20-20.404**
 
 En l'espèce, le défaut d'entretien des locaux et de sécurisation de la vasque céramique présentant une cassure préexistante non signalée, le défaut d'assurance de responsabilité civile professionnelle et le silence systématique opposé aux demandes de la victime caractérisent une méconnaissance des obligations essentielles de sécurité dont le caractère réitéré et l'absence de toute mesure corrective excluent qu'ils aient pu légitimement ignorer le risque pour la clientèle. Une telle carence est de nature à engager la responsabilité personnelle in solidum de [**[Le Président de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-president-nom.md) et de [**[La Directrice Générale de l'Exploitation]**](../../../../Memory/Tokens/token-exploitation-dg-nom.md) avec la personne morale.
@@ -199,13 +199,13 @@ L'extrême sous-capitalisation de la société (capital social de 200 €), ne l
 Le salon de coiffure, en tant que professionnel, est tenu à une obligation d'information précontractuelle.
 
 > *« Avant que le consommateur ne soit lié par un contrat à titre onéreux, le professionnel communique au consommateur, de manière lisible et compréhensible, les informations suivantes :  4° Les informations relatives à l'identité du professionnel, à ses coordonnées postales, téléphoniques et électroniques et à ses activités, pour autant qu'elles ne ressortent pas du contexte ;  »* <br>
-> [Article L.111-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438) <br>
+> [Article L.111-1 du Code de la consommation - legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142438) <br>
 > **Code de la consommation > Partie législative > Livre Ier > Titre Ier > Chapitre Ier : Obligation générale d'information précontractuelle.**
 
 Il est imposé une obligation de conformité du service fourni.
 
 > *« Les dispositions du présent chapitre sont applicables aux contrats de vente de biens meubles corporels entre un vendeur professionnel, ou toute personne se présentant ou se comportant comme tel, et un acheteur agissant en qualité de consommateur. »* <br>
-> [Article L.217-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587) <br>
+> [Article L.217-1 du Code de la consommation - legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587) <br>
 > **Code de la consommation > Partie législative > Livre II > Titre Ier > Chapitre VII > Section 1 : Champ d'application.**
 
 La prestation de coiffure réalisée n'était manifestement pas conforme aux exigences de sécurité légitimes d'un consommateur :
@@ -250,7 +250,7 @@ S'agissant de l'évaluation des préjudices corporels de [**[La Victime]**](../.
 La demande inclut implicitement une provision *ad litem* destinée à couvrir les frais irrépétibles immédiats (honoraires d'avocat, frais de médecin-conseil, constat d'huissier, envois LRAR, déplacements). Cette pratique est validée par la jurisprudence dès lors que l'obligation n'est pas sérieusement contestable.
 
 > *« L'autorisation de licenciement est requise pendant six mois pour le candidat au premier ou au second tour des élections aux fonctions de délégué du personnel à compter de l'envoi à l'employeur de la lettre du syndicat lui notifiant cette candidature, sans que son retrait ultérieur de la liste à l'occasion du report des élections n'ait d'incidence sur cette protection. »* <br>
-> [Arrêt n°11-14.339](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026432928) <br>
+> [Arrêt n°11-14.339 - legifrance.gouv.fr/juri/id/JURITEXT000026432928](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026432928) <br>
 > **Cour de cassation, chambre sociale, 26 septembre 2012, n° 11-14.339**
 
 **4. Absence de contestation sérieuse établie par les faits**
@@ -260,15 +260,15 @@ Aucun élément versé aux débats ne permet de contester sérieusement ni la ma
 **5. Jurisprudence**
 
 > *« L'offre d'indemnité faite à la victime qui a subi une atteinte à sa personne par l'assureur qui garantit la responsabilité du fait d'un véhicule terrestre à moteur n'interdit pas au juge des référés de lui accorder une provision supérieure au montant de cette offre. »* <br>
-> [Arrêt n°90-14.261](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007028156) <br>
+> [Arrêt n°90-14.261 - legifrance.gouv.fr/juri/id/JURITEXT000007028156](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007028156) <br>
 > **Cour de cassation, 2e chambre civile, 15 mai 1992, n° 90-14.261**
 
 > *« Il résulte de l'article L. 455-1-1 du code de la sécurité sociale[^n6] que la victime d'un accident du travail peut prétendre à une indemnisation complémentaire sur le fondement de la loi n° 85-677 du 5 juillet 1985 lorsque l'accident survient sur une voie ouverte à la circulation publique et qu'il implique un véhicule terrestre à moteur conduit par l'employeur, un préposé ou une personne appartenant à la même entreprise qu'elle. »* <br>
-> [Arrêt n°15-15.306](https://www.legifrance.gouv.fr/juri/id/JURITEXT000032312857) <br>
+> [Arrêt n°15-15.306 - legifrance.gouv.fr/juri/id/JURITEXT000032312857](https://www.legifrance.gouv.fr/juri/id/JURITEXT000032312857) <br>
 > **Cour de cassation, 2e chambre civile, 24 mars 2016, n° 15-15.306**
 
 > *« C'est à bon droit que la cour d'appel énonce que le paiement d'une provision en exécution d'une ordonnance de référé n'exonère pas l'assureur de son obligation de présenter une offre d'indemnisation dans le délai prévu par l'article L. 211-9 du Code des assurances[^n7]. »* <br>
-> [Arrêt n°96-16.128](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007037753) <br>
+> [Arrêt n°96-16.128 - legifrance.gouv.fr/juri/id/JURITEXT000007037753](https://www.legifrance.gouv.fr/juri/id/JURITEXT000007037753) <br>
 > **Cour de cassation, 2e chambre civile, 19 novembre 1998, n° 96-16.128**
 
 ### III.10 — F. SUR LA COMMUNICATION FORCÉE DE LA POLICE D'ASSURANCE
@@ -280,13 +280,13 @@ Aucun élément versé aux débats ne permet de contester sérieusement ni la ma
 [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md) sollicite la communication forcée de la police d'assurance de responsabilité civile professionnelle de [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md), dont l'identité demeure inconnue malgré les mises en demeure restées sans réponse ([**[J+31 Mises en demeure]**](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)).
 
 > *« L'action directe de la victime contre l'assureur garantissant la responsabilité civile de la personne responsable est soumise à la prescription de deux ans à compter du jour où la victime a connu ou aurait dû connaître les faits motivant son action. »* <br>
-> [Article L.124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> [Article L.124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Partie législative > Livre Ier : Le contrat > Titre II : Règles relatives aux assurances de dommages non maritimes > Chapitre IV : Les assurances de responsabilité.**
 
 Le motif légitime est caractérisé par l'impossibilité pour la victime d'exercer son action directe (Art. L.124-3 du Code des assurances[^n3]) sans connaître l'identité de l'assureur. La jurisprudence admet que la communication forcée d'un document contractuel constitue une mesure d'instruction licite au sens de l'Article 145[^n1] CPC.
 
 > *« L'autorisation de licenciement est requise pendant six mois pour le candidat au premier ou au second tour des élections aux fonctions de délégué du personnel à compter de l'envoi à l'employeur de la lettre du syndicat lui notifiant cette candidature, sans que son retrait ultérieur de la liste à l'occasion du report des élections n'ait d'incidence sur cette protection. »* <br>
-> [Arrêt n°11-14.339](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026432928) <br>
+> [Arrêt n°11-14.339 - legifrance.gouv.fr/juri/id/JURITEXT000026432928](https://www.legifrance.gouv.fr/juri/id/JURITEXT000026432928) <br>
 > **Cour de cassation, chambre sociale, 26 septembre 2012, n° 11-14.339**
 
 Il est donc demandé au juge des référés d'ordonner à [**[L'Exploitant du Commerce (La SAS)]**](../../../../Memory/Tokens/token-exploitation-raison-sociale.md) de communiquer sa police d'assurance sous astreinte de [**[Finance Astreinte 145]**](../../../../Memory/Tokens/token-finance-astreinte-145.md) par jour de retard.
@@ -330,7 +330,7 @@ Vu les articles 1240 et 1242 du Code civil[^n2][^n5],
 Vu l'article L. 124-3 du Code des assurances[^n3],
 
 > *« Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. »* <br>
-> [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
+> [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 Vu les articles L. 111-1 et L. 217-1 du Code de la consommation,
 Vu l'article L. 227-8 du Code de commerce[^n9],
@@ -399,41 +399,41 @@ Pour [**[La Victime]**](../../../../Memory/Tokens/token-victime-nom-complet.md)
 
 [^n1]: > « S'il existe un motif légitime de conserver ou d'établir avant tout procès la preuve de faits dont pourrait dépendre la solution d'un litige, les mesures d'instruction légalement admissibles peuvent être ordonnées à la demande de tout intéressé, sur requête ou en référé. La juridiction territorialement compétente pour statuer sur une demande formée en application du premier alinéa est, au choix du demandeur, celle susceptible de connaître de l'affaire au fond ou, s'il y a lieu, celle dans le ressort de laquelle la mesure d'instruction doit être exécutée. Par dérogation au deuxième alinéa, lorsque la mesure d'instruction porte sur un immeuble, la juridiction du lieu où est situé l'immeuble est seule compétente. » <br>
     > **Code de procédure civile > Section I : Décisions ordonnant des mesures d'instruction.** <br>
-    > [Article 145 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
+    > [Article 145 du Code de procédure civile - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869339)
     📚 Bibliothèque locale : [Article_145_CodeDeProcédureCivile_Legifrance](../../../../Lois/Code/Code_procédure_civile/Article_145_CodeDeProcédureCivile_Legifrance.md) ↩
 
 [^n2]: > « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
-    > [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
+    > [Article 1240 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571) ↩
 
 [^n3]: > « Le tiers lésé dispose d'un droit d'action directe à l'encontre de l'assureur garantissant la responsabilité civile de la personne responsable. L'assureur ne peut payer à un autre que le tiers lésé tout ou partie de la somme due par lui, tant que ce tiers n'a pas été désintéressé, jusqu'à concurrence de ladite somme, des conséquences pécuniaires du fait dommageable ayant entraîné la responsabilité de l'assuré. » <br>
     > **Code des assurances > Chapitre IV : Les assurances de responsabilité.** <br>
-    > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
+    > [Article L124-3 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017735449)
     📚 Bibliothèque locale : [Article_L124-3_Codesassurances_Legifrance](../../../../Lois/Code/Code_assurances/Article_L124-3_Codesassurances_Legifrance.md) ↩
 
 [^n4]: > « Une société par actions simplifiée peut être instituée par une ou plusieurs personnes qui ne supportent les pertes qu'à concurrence de leur apport. Lorsque cette société ne comporte qu'une seule personne, celle-ci est dénommée " associé unique ". L'associé unique exerce les pouvoirs dévolus aux associés lorsque le présent chapitre prévoit une prise de décision collective. Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles concernant les sociétés anonymes, à l'exception de l'article L. 224-2 , du second alinéa de l'article L. 225-14 , des articles L. 225-17 à L. 225-102, L. 225-103 à L. 225-126 , L. 225-243 , du I de l'article L. 233-8 et de l'article L. 236-17, sont applicables à la société par actions simplifiée. Pour l'application de ces règles, les attributions du conseil d'administration ou de son président sont exercées par le président de la société par actions simplifiée ou celui ou ceux de ses dirigeants que les statuts désignent à cet effet. La société par actions simplifiée peut émettre des actions inaliénables résultant d'apports en industrie tels que définis à l'article 1843-2 du code civil. Les statuts déterminent les modalités de souscription et de répartition de ces actions. Par dérogation au premier alinéa de l'article L. 225-14, les futurs associés peuvent décider à l'unanimité que le recours à un commissaire aux apports ne sera pas obligatoire, lorsque la valeur d'aucun apport en nature n'excède un montant fixé par décret et si la valeur totale de l'ensemble des apports en nature non soumis à l'évaluation d'un commissaire aux apports n'excède pas la moitié du capital. Lorsque la société est constituée par une seule personne, le commissaire aux apports est désigné par l'associé unique. Toutefois le recours à un commissaire aux apports n'est pas obligatoire si les conditions prévues au cinquième alinéa du présent article sont réunies ou si l'associé unique, personne physique, exerçant son activité professionnelle en nom propre avant la constitution de la société, y compris sous le régime prévu aux articles L. 526-6 à L. 526-21 , apporte des éléments qui figuraient dans le bilan de son dernier exercice. Lorsqu'il n'y a pas eu de commissaire aux apports ou lorsque la valeur retenue est différente de celle proposée par le commissaire aux apports, les associés sont solidairement responsables pendant cinq ans, à l'égard des tiers, de la valeur attribuée aux apports en nature lors de la constitution de la société. La société par actions simplifiée dont l'associé unique, personne physique, assume personnellement la présidence est soumise à des formalités de publicité allégées déterminées par décret en Conseil d'Etat. Ce décret prévoit les conditions de dispense d'insertion au Bulletin officiel des annonces civiles et commerciales. » <br>
     > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
-    > [Article L227-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177)
+    > [Article L227-1 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177)
     📚 Bibliothèque locale : [Article_L227-1_Code_Legifrance](../../../../Lois/Code/Code_commerce/Article_L227-1_Code_Legifrance.md) ↩
 
 [^n5]: > « On est responsable non seulement du dommage que l'on cause par son propre fait, mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou des choses que l'on a sous sa garde. Toutefois, celui qui détient, à un titre quelconque, tout ou partie de l'immeuble ou des biens mobiliers dans lesquels un incendie a pris naissance ne sera responsable, vis-à-vis des tiers, des dommages causés par cet incendie que s'il est prouvé qu'il doit être attribué à sa faute ou à la faute des personnes dont il est responsable. Cette disposition ne s'applique pas aux rapports entre propriétaires et locataires, qui demeurent régis par les articles 1733 et 1734 du code civil . Les parents, en tant qu'ils exercent l'autorité parentale, sont, de plein droit, solidairement responsables du dommage causé par leurs enfants mineurs, sauf lorsque que ceux-ci ont été confiés à un tiers par une décision administrative ou judiciaire. Les maîtres et les commettants, du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés ; Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance. La responsabilité ci-dessus a lieu, à moins que les parents et les artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité. En ce qui concerne les instituteurs, les fautes, imprudences ou négligences invoquées contre eux comme ayant causé le fait dommageable, devront être prouvées, conformément au droit commun, par le demandeur, à l'instance. » <br>
     > **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
-    > [Article 1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
+    > [Article 1242 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051786000) ↩
 
 [^n6]: > « La victime, ou ses ayants droit et la caisse peuvent se prévaloir des dispositions des articles L. 454-1 et L. 455-2 lorsque l'accident défini à l'article L. 411-1 survient sur une voie ouverte à la circulation publique et implique un véhicule terrestre à moteur conduit par l'employeur, un préposé ou une personne appartenant à la même entreprise que la victime. La réparation complémentaire prévue au premier alinéa est régie par les dispositions de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation. » <br>
     > **Code de la sécurité sociale > Chapitre 5 : Dispositions diverses.** <br>
-    > [Article L455-1-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006743123) ↩
+    > [Article L455-1-1 du Code de la sécurité sociale - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006743123](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006743123) ↩
 
 [^n7]: > « Quelle que soit la nature du dommage, dans le cas où la responsabilité n'est pas contestée et où le dommage a été entièrement quantifié, l'assureur qui garantit la responsabilité civile du fait d'un véhicule terrestre à moteur est tenu de présenter à la victime une offre d'indemnité motivée dans le délai de trois mois à compter de la demande d'indemnisation qui lui est présentée. Lorsque la responsabilité est rejetée ou n'est pas clairement établie, ou lorsque le dommage n'a pas été entièrement quantifié, l'assureur doit, dans le même délai, donner une réponse motivée aux éléments invoqués dans la demande. Une offre d'indemnité doit être faite à la victime qui a subi une atteinte à sa personne dans le délai maximum de huit mois à compter de l'accident. En cas de décès de la victime, l'offre est faite à ses héritiers et, s'il y a lieu, à son conjoint. L'offre comprend alors tous les éléments indemnisables du préjudice, y compris les éléments relatifs aux dommages aux biens lorsqu'ils n'ont pas fait l'objet d'un règlement préalable. Cette offre peut avoir un caractère provisionnel lorsque l'assureur n'a pas, dans les trois mois de l'accident, été informé de la consolidation de l'état de la victime. L'offre définitive d'indemnisation doit alors être faite dans un délai de cinq mois suivant la date à laquelle l'assureur a été informé de cette consolidation. En tout état de cause, le délai le plus favorable à la victime s'applique. En cas de pluralité de véhicules, et s'il y a plusieurs assureurs, l'offre est faite par l'assureur mandaté par les autres. » <br>
     > **Code des assurances > Section VI : Procédures d'indemnisation.** <br>
-    > [Article L211-9 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795447) ↩
+    > [Article L211-9 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795447](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795447) ↩
 
 [^n8]: > « Les titres Ier, II et III du présent livre ne concernent que les assurances terrestres. A l'exception des articles L. 111-6 , L. 112-2 , L. 112-4 , L. 112-7 et L. 113-4-1 , ils ne sont applicables ni aux contrats d'assurance régis par le titre VII du présent livre ni aux opérations d'assurance crédit ; les opérations de réassurance conclues entre assureurs et réassureurs sont exclues de leur champ d'application. Il n'est pas dérogé aux dispositions des lois et règlements relatifs aux sociétés à forme tontinière ; aux assurances contractées par les chefs d'entreprise, à raison de la responsabilité des accidents de travail survenus à leurs ouvriers et employés ; aux sociétés ou caisses d'assurances et de réassurances mutuelles agricoles. » <br>
     > **Code des assurances > Chapitre Ier : Dispositions générales.** <br>
-    > [Article L111-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024376802) ↩
+    > [Article L111-1 du Code des assurances - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024376802](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024376802) ↩
 
 [^n9]: > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
     > **Code de commerce > Chapitre VII : Des sociétés par actions simplifiées.** <br>
-    > [Article L227-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
+    > [Article L227-8 du Code de commerce - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
     📚 Bibliothèque locale : [Article_L227-8_Codecommerce_Legifrance](../../../../Lois/Code/Code_commerce/Article_L227-8_Codecommerce_Legifrance.md) ↩
 <!-- /Source -->

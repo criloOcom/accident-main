@@ -46,7 +46,7 @@ Dans l'hypothèse où des obligations alimentaires existeraient :
 L'accident a entraîné une Incapacité Totale de Travail (ITT) du 29 mai 2026 au 23 juillet 2026, ainsi qu'une incidence professionnelle (évaluée prudemment à 20 000 € / 30 000 €). Cette altération des capacités professionnelles et cette perte de revenus potentielle pourraient constituer un « changement important dans les ressources ou les besoins » justifiant une demande de révision, conformément aux dispositions du Code civil :
 
 > « Les dispositions [...], ainsi que les décisions relatives à l'exercice de l'autorité parentale peuvent être modifiées ou complétées à tout moment par le juge, à la demande des ou d'un parent ou du ministère public [...] »<br>
-> **[Article 373-2-13 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460816)**
+> **[Article 373-2-13 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460816](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460816)**
 
 ### B. Mesures de protection de l'enfance
 
@@ -54,7 +54,7 @@ Le juge des enfants n'a vocation à intervenir que si les conditions de l'articl
 En l'espèce, les atteintes corporelles (main droite) n'induisent pas *per se* un danger éducatif.
 
 > « Si la santé, la sécurité ou la moralité d'un mineur non émancipé sont en danger, ou si les conditions de son éducation ou de son développement physique, affectif, intellectuel et social sont gravement compromises, des mesures d'assistance éducative peuvent être ordonnées par justice [...] »<br>
-> **[Article 375 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045136798)**
+> **[Article 375 du Code civil - legifrance.gouv.fr/codes/article_lc/LEGIARTI000045136798](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045136798)**
 
 <hr><hr>
 

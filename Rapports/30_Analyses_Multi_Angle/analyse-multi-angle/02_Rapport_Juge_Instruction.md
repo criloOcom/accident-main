@@ -51,13 +51,13 @@ Les blessures ayant entraîné une ITT inférieure ou égale à trois mois, les 
 
 > « Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. » <br>
 > **[Code pénal > Partie législative > Livre II > Titre II > Chapitre II > Section 2]** <br>
-> [Article 222-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
+> [Article 222-20 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042640)
 
 Ou, à tout le moins, de blessures par imprudence :
 
 > « Le fait de causer à autrui, dans les conditions et selon les distinctions prévues à l'article 121-3, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail pendant plus de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. » <br>
 > **[Code pénal > Partie législative > Livre II > Titre II > Chapitre II > Section 2]** <br>
-> [Article 222-19](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
+> [Article 222-19 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042643)
 
 ### II.2 — RESPONSABILITÉ DES DIRIGEANTS ET DÉFAUT D'ASSURANCE
 
@@ -67,7 +67,7 @@ Leur responsabilité civile personnelle peut dès lors être engagée sur le fon
 
 > « Les règles fixant la responsabilité des membres du conseil d'administration et du directoire des sociétés anonymes sont applicables au président et aux dirigeants de la société par actions simplifiée. » <br>
 > **[Code de commerce > Partie législative > Livre II > Titre II > Chapitre VII]** <br>
-> [Article L. 227-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
+> [Article L. 227-8 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227036)
 
 <hr><hr>
 
@@ -97,7 +97,7 @@ Enfin, s'agissant des frais exposés par la partie civile pour faire valoir ses 
 
 > « Le tribunal condamne l'auteur de l'infraction ou la personne condamnée civilement en application de l'article 470-1 à payer à la partie civile la somme qu'il détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. » <br>
 > **[Code de procédure pénale > Partie législative > Livre III > Titre I]** <br>
-> [Article 475-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107)
+> [Article 475-1 - legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570107)
 
 Fait au Tribunal Judiciaire de Foix,
 Le Juge d'Instruction
