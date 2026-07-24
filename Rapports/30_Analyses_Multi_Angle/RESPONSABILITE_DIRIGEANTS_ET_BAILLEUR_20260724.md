@@ -69,3 +69,10 @@ L'article **434-4 du Code pénal** sanctionne l'entrave à l'exercice de la just
 > « Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait, en vue de faire obstacle à la manifestation de la vérité : 1° De modifier l'état des lieux d'un crime ou d'un délit soit par l'altération, la falsification ou l'effacement des traces ou indices, soit par l'apport, le déplacement ou la suppression d'objets quelconques. »
 
 Si le matériel défectueux (la vasque brisée) a été volontairement supprimé, dissimulé ou remplacé après l'accident pour empêcher son examen technique, cela constitue le délit de modification de l'état des lieux d'un délit, aggravant la responsabilité pénale des dirigeants de la SAS.
+<hr><hr>
+
+## Sources Législation
+
+> « Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer. » <br>
+> **Code civil > Chapitre Ier : La responsabilité extracontractuelle en général.** <br>
+> [Article 1240 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041571)

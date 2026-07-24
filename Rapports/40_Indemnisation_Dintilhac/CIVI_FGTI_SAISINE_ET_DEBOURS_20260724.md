@@ -194,7 +194,7 @@ Fait à **[Lieu à compléter]**, le **[Date à compléter]**
 
 ## PIECES JOINTES
 
-- **[Expertise médicale](../../Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Médicale.md)** — Rapport d'expertise médicale du 29 mai 2027
+- **[Expertise médicale](../../Actes/Token/Preuves_officielles/20270529_Rapport_Expertise_Medicale.md)** — Rapport d'expertise médicale du 29 mai 2027
 
 
 ## Sources Législation
