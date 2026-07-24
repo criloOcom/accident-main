@@ -29,7 +29,7 @@ reel_path: ../../../Courriers/SAS_&_Salon/SAS - Assureur RC - Courrier (copie Av
 jx: J+50-bis
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS Assureur RC Courrier copie Avocat ([👤](../../../Courriers/SAS_et_Salon/SAS_Assureur_RC_Courrier_copie_Avocat_.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS Assureur RC Courrier copie Avocat ([🎭](../../../Token/Courriers/SAS_et_Salon/SAS_Assureur_RC_Courrier_copie_Avocat_.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -144,7 +144,7 @@ Je joins à la présente l'intégralité des pièces déjà communiquées dans l
 
 - Procès-verbal de police relatif à l'accident ;
 
-- [Certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) du 29 mai 2026 et [compte-rendu opératoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) du 30 mai 2026 ;
+- [Certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md) du 29 mai 2026 et [compte-rendu opératoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) du 30 mai 2026 ;
 
 - Rapport d'expertise médicale judiciaire du 12 juin 2027 ;
 

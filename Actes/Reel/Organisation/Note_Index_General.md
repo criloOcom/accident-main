@@ -17,7 +17,7 @@ drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 jx: J+39
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md) › Note Index General ([👤](../../Organisation/Note_Index_General.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Note Index General ([🎭](../../Token/Organisation/Note_Index_General.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -187,11 +187,11 @@ Et, article [1242 du Code civil](https://www.legifrance.gouv.fr/codes/article_lc
 
 - ~~SYNCHRO_TOKENS.md — supprimé (RGPD)~~ ✓ Vérifié : État de la synchronisation des tokens.
 
-- [TOKEN MAP.md](../../../Memory/TOKEN%20MAP.md) ✓ Vérifié : Table de correspondance des tokens.
+- [TOKEN MAP.md](../../../Memory/TOKEN MAP.md) ✓ Vérifié : Table de correspondance des tokens.
 
-- [STRICT VARIABLES.md](../../../Memory/STRICT%20VARIABLES.md) ✓ Vérifié : Variables et faits inaltérables.
+- [STRICT VARIABLES.md](../../../Memory/STRICT VARIABLES.md) ✓ Vérifié : Variables et faits inaltérables.
 
-- [PIECES MAP.md](../../../Memory/PIECES%20MAP.md) ✓ Vérifié : Correspondance documents et pièces.
+- [PIECES MAP.md](../../../Memory/PIECES MAP.md) ✓ Vérifié : Correspondance documents et pièces.
 <hr><hr>
 
 ## IX — ARCHIVES

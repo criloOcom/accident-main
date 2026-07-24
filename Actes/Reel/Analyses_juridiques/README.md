@@ -5,9 +5,9 @@
 
 # Index — Analyses_juridiques (Versions Réelles)
 
-- [Mémoire_de_synthèse_—_Recours_assurances_ERP.md](Memoire_de_synthese_Recours_assurances_ERP.md)
+- [Mémoire_de_synthèse_Recours_assurances_ERP.md](Memoire_de_synthese_Recours_assurances_ERP.md)
 
-- [Note_—_Procédure_Action_Directe_Assureur_L124-3.md](Note_Procedure_Action_Directe_Assureur_L124-3.md)
+- [Note_Procédure_Action_Directe_Assureur_L124-3.md](Note_Procedure_Action_Directe_Assureur_L124-3.md)
 
 - [Mémoire_En_défense_adverse](Memoire_En_defense_adverse.md)
 

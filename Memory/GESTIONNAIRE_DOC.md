@@ -45,7 +45,7 @@ Le gestionnaire de documentation :
 
 4. **Contrôle de cohérence**  
 
-   - vérification des dates, des numéros de PV, des références d'articles, des noms de personnes (en se basant sur [`STRICT VARIABLES.md`](STRICT%20VARIABLES.md)) ;
+   - vérification des dates, des numéros de PV, des références d'articles, des noms de personnes (en se basant sur [`STRICT VARIABLES.md`](STRICT VARIABLES.md)) ;
    - signalement de toute contradiction détectée dans [`STATUS.md`](STATUS.md) ou [`TODO.md`](TODO.md).
 
 ## 3. Périmètre d'autonomie

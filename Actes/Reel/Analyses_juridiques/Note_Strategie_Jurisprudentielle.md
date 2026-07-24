@@ -14,7 +14,7 @@ reel_path: ../../Analyses_juridiques/Note - Stratégie Jurisprudentielle.md
 source: local
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note Strategie Jurisprudentielle ([👤](../../Analyses_juridiques/Note_Strategie_Jurisprudentielle.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Strategie Jurisprudentielle ([🎭](../../Token/Analyses_juridiques/Note_Strategie_Jurisprudentielle.md))*
 <hr>
 <!-- /Breadcrumb -->
 

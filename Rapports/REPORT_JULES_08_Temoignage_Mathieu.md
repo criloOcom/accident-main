@@ -50,7 +50,7 @@ tags:
 
 - **Intervention médicale d'urgence :** L'appel au 15 (SAMU) est rapporté et justifié.
 
-- **Heure de l'accident vs Appel SAMU :** L'accident s'est produit aux alentours de 15h00 (selon les [STRICT VARIABLES.md](../Memory/STRICT%20VARIABLES.md)). Le témoignage atteste d'un appel au 15 à 15h25. Ce délai de 25 minutes est cohérent avec la chronologie décrite par le témoin.
+- **Heure de l'accident vs Appel SAMU :** L'accident s'est produit aux alentours de 15h00 (selon les [STRICT VARIABLES.md](../Memory/STRICT VARIABLES.md)). Le témoignage atteste d'un appel au 15 à 15h25. Ce délai de 25 minutes est cohérent avec la chronologie décrite par le témoin.
 
 ## II — ANALYSE JURIDIQUE ET VALEUR PROBANTE DU TÉMOIGNAGE
 
@@ -60,7 +60,7 @@ tags:
 
 - **Corroboration :** Suivant la jurisprudence européenne (ex: arrêt CEDH Merabishvili c. Géorgie), le témoignage oculaire de M. Mathieu prend une force probante accrue pour corroborer les faits, particulièrement face à l'éventuelle perte ou non-conservation des preuves vidéo de l'incident.
 
-- **Preuves médico-légales :** La forte hémorragie constatée par le témoin correspond cliniquement à la blessure diagnostiquée (section partielle du tendon fléchisseur, du paquet collatéral et du nerf palmaire selon [STRICT VARIABLES.md](../Memory/STRICT%20VARIABLES.md)).
+- **Preuves médico-légales :** La forte hémorragie constatée par le témoin correspond cliniquement à la blessure diagnostiquée (section partielle du tendon fléchisseur, du paquet collatéral et du nerf palmaire selon [STRICT VARIABLES.md](../Memory/STRICT VARIABLES.md)).
 
 ## III — FEUILLE DE ROUTE D'EXPLOITATION (TO-DO LIST INTERACTIVE)
 

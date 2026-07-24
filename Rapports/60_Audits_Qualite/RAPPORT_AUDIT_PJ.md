@@ -31,7 +31,7 @@ tags:
 
 **Date :** 10 juillet 2026
 **Périmètre :** 33 courriers dans [Actes/Token/Courriers](../../Actes/Token/README.md) (03 à 35)
-**Référentiel :** [Memory/PIECES MAP.md](../../Memory/PIECES%20MAP.md) + `Actes/Preuves_officielles/` (physique)
+**Référentiel :** [Memory/PIECES MAP.md](../../Memory/PIECES MAP.md) + `Actes/Preuves_officielles/` (physique)
 
 ---
 

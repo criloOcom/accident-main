@@ -16,7 +16,7 @@ reel_path: ../../Organisation/Note - Bon Envoi Physique.md
 jx: J+38
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md) › Note Bon Envoi Physique ([👤](../../Organisation/Note_Bon_Envoi_Physique.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Note Bon Envoi Physique ([🎭](../../Token/Organisation/Note_Bon_Envoi_Physique.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -45,7 +45,7 @@ jx: J+38
 
 - **Pièce n°1 :** Preuve de paiement Wero 15,00 € (29 mai 2026) — Impression relevé bancaire
 
-- **Pièce n°2 :** [Certificat médical initial](../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) Dr [Médecin Généraliste] (29 mai 2026) — Scan/copie
+- **Pièce n°2 :** [Certificat médical initial](../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md) Dr [Médecin Généraliste] (29 mai 2026) — Scan/copie
 
 - **Pièce n°3 :** [Compte-rendu opératoire](../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) Dr [Chirurgien SOS Main] (30 mai 2026) — Scan/copie
 

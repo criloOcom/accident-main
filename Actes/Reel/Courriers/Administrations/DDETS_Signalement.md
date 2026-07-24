@@ -26,7 +26,7 @@ jx: J+37
 <!-- LRAR -->
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › DDETS Signalement ([👤](../../../Courriers/Administrations/DDETS_Signalement.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › DDETS Signalement ([🎭](../../../Token/Courriers/Administrations/DDETS_Signalement.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -198,7 +198,7 @@ Sébastien GRAZIDE
 
 - **[Mises en demeure LRAR](../../../Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mises en demeure du 29 juin 2026 a la SAS, a son president et a sa directrice generale
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures par le Dr Dr Julie JARDON
+- **[Certificat medical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures par le Dr Dr Julie JARDON
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du 30 mai 2026
 

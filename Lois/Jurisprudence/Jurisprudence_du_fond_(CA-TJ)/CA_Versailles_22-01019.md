@@ -44,7 +44,7 @@ Cet arrêt confirme la distinction essentielle entre la prescription de l'action
 
 ## Traçabilité
 
-Décision citée dans la ](../../../Actes/Token/Analyses_juridiques/Note_—_Procédure_Action_Directe_Assureur_L124-3.md).
+Décision citée dans la ](../../../Actes/Token/Analyses_juridiques/Note_Procédure_Action_Directe_Assureur_L124-3.md).
 
 ## Lien vers la décision
 

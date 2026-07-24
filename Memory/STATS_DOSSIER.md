@@ -35,7 +35,7 @@ La timeline des faits couvre la période du 29/05/2026 (accident) au 12/11/2026 
 Étapes clés : accident → chirurgie → plainte → mises en demeure → assignation référé → expertise.
 La chronologie détaillée est intégrée dans les actes (notamment `Actes_proceduraux`).
 
-## 4. Pièces Justificatives ([Memory/PIECES MAP.md](PIECES%20MAP.md))
+## 4. Pièces Justificatives ([Memory/PIECES MAP.md](PIECES MAP.md))
 La cartographie des pièces totalise **44 pièces uniques** (liens Google Drive uniques).
 
 ## 5. Aspects Financiers

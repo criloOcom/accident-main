@@ -12,14 +12,14 @@ type: memory
 # RÈGLES PERMANENTES<br>Dossier Accident de la Main
 
 ## 🛑 PROTOCOLE ANTI-HALLUCINATION STRICT (ZÉRO INVENTIONS)
-- **INTERDICTION D'INVENTER** : Il est interdit d'inventer des faits, des dates, des montants financiers ou des citations juridiques. Tout fait écrit doit s'appuyer strictement sur les données locales du projet ([Memory/STRICT VARIABLES.md](STRICT%20VARIABLES.md) ou [Memory/KNOWLEDGE_GRAPH.json](KNOWLEDGE_GRAPH.json)).
+- **INTERDICTION D'INVENTER** : Il est interdit d'inventer des faits, des dates, des montants financiers ou des citations juridiques. Tout fait écrit doit s'appuyer strictement sur les données locales du projet ([Memory/STRICT VARIABLES.md](STRICT VARIABLES.md) ou [Memory/KNOWLEDGE_GRAPH.json](KNOWLEDGE_GRAPH.json)).
 
 - **LE DOUTE SYSTÉMATIQUE** : Si une information (statut de l'entreprise, décision, nom, date) n'est pas explicitement documentée, l'agent doit indiquer que la donnée est "inconnue en l'état" au lieu de l'extrapoler ou de la deviner.
 
 - **RÈGLE DU DOUBLE-PASS (RELECTURE)** : Avant de finaliser une action ou de proposer un document, l'agent doit relire son propre travail en extrayant individuellement toutes les dates, sommes et citations pour les comparer une par une avec les variables de référence.
 
 ## VÉRIFICATION SUR PIÈCES SOURCE AVANT TOUTE RÉDACTION (Règle n°14)
-- **RÈGLE ABSOLUE** : Avant de rédiger ou modifier un acte, courrier ou email mentionnant une date, un lieu, un numéro de PV ou une information procédurale, l'agent DOIT retrouver et vérifier l'information sur la pièce source originale dans [Actes/Preuves officielles](../Actes/Preuves%20officielles/README.md)
+- **RÈGLE ABSOLUE** : Avant de rédiger ou modifier un acte, courrier ou email mentionnant une date, un lieu, un numéro de PV ou une information procédurale, l'agent DOIT retrouver et vérifier l'information sur la pièce source originale dans [Actes/Preuves officielles](../Actes/Preuves_officielles/README.md)
 
 - **Ne JAMAIS** reproduire une information procédurale (date de plainte, lieu de dépôt, numéro de PV, date de chirurgie) depuis une version antérieure d'un document sans la recouper avec la pièce source
 
@@ -173,7 +173,7 @@ type: memory
 ## VÉRIFICATION OBLIGATOIRE AVANT FINALISATION (DOUBLE-PASS)
 - Avant de finaliser l'écriture de tout document, extraire toutes les dates, montants et identifiants
 
-- Comparer UN PAR UN avec le fichier [Memory/STRICT VARIABLES.md](STRICT%20VARIABLES.md)
+- Comparer UN PAR UN avec le fichier [Memory/STRICT VARIABLES.md](STRICT VARIABLES.md)
 
 - Si une seule donnée diffère, CORRIGER le document avant de le présenter
 

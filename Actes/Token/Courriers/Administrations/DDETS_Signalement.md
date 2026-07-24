@@ -198,7 +198,7 @@ Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur l'Inspe
 
 - **[Mises en demeure LRAR](../../../Reel/Courriers/SAS_&_Salon/SAS%20-%20Courrier.md)** — Mises en demeure du **[J+31 Mises en demeure](../../../../Memory/Tokens/token-j-31-mises-en-demeure.md)** a la SAS, a son president et a sa directrice generale
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures par le Dr **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**
+- **[Certificat medical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures par le Dr **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du 30 mai 2026
 

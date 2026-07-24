@@ -44,7 +44,7 @@ Cet arrêt est crucial car la victime a signé une transaction avec réserve d'a
 
 ## Traçabilité
 
-Décision citée dans le ](../../../Actes/Token/Analyses_juridiques/Mémoire_de_synthèse_—_Recours_assurances_ERP.md).
+Décision citée dans le ](../../../Actes/Token/Analyses_juridiques/Mémoire_de_synthèse_Recours_assurances_ERP.md).
 
 ## Lien vers la décision
 

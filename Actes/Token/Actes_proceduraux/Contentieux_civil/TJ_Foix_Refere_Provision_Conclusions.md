@@ -215,7 +215,7 @@ S'agissant de l'évaluation des préjudices, il sera renvoyé au rapport d'éval
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Preuve des lesions et de l'intervention d'urgence
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation initiale des blessures
+- **[Certificat medical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation initiale des blessures
 
 - **[Arrets de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md)** — [Arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) de 55 jours
 

@@ -101,7 +101,7 @@ Je vous prie d'agréer, Monsieur le Doyen des Juges d'Instruction, l'expression 
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Intervention de microchirurgie d'urgence du [J+1]
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures aux urgences
+- **[Certificat medical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures aux urgences
 
 - **[Arrets de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md)** — [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total de 55 jours
 

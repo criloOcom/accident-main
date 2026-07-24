@@ -105,7 +105,7 @@ Veuillez agréer, Madame, Monsieur, l'expression de ma considération distingué
 
 - **[Compte-rendu opératoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du [J+1]
 
-- **[Certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures aux urgences
+- **[Certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures aux urgences
 <!-- /PJ -->
 
 <!-- Source -->

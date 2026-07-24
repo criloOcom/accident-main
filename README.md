@@ -73,9 +73,9 @@ Le dépôt est organisé en dossiers cliquables :
 
   - [TODO.md](./Memory/TODO.md) (tâches restantes et priorités)
 
-  - [STRICT VARIABLES.md](./Memory/STRICT%20VARIABLES.md) (source unique de vérité — faits, montants, dates)
+  - [STRICT VARIABLES.md](./Memory/STRICT VARIABLES.md) (source unique de vérité — faits, montants, dates)
 
-  - [TOKEN MAP.md](./Memory/TOKEN%20MAP.md) (correspondance token ↔ réel)
+  - [TOKEN MAP.md](./Memory/TOKEN MAP.md) (correspondance token ↔ réel)
 
   - [RULES.md](./Memory/RULES.md) (règles permanentes)
 
@@ -137,7 +137,7 @@ Ce dépôt est conçu pour être exploité par des agents IA. Le point d'entrée
 
 - [Tâches restantes (TODO)](./Memory/TODO.md)
 
-- [Faits vérifiés — source unique de vérité](./Memory/STRICT%20VARIABLES.md)
+- [Faits vérifiés — source unique de vérité](./Memory/STRICT VARIABLES.md)
 
 - [Carnet de rendez-vous](./Memory/CARNET_RDV_UTILISATEUR.md)
 

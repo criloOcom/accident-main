@@ -27,6 +27,6 @@ Ces pièces constituent le socle factuel du litige : constats, comptes rendus m�
 | [**[J+167 Expertise UMJ]**](../../../Memory/Tokens/token-j-167-expertise-umj.md) | [Rapport Expertise Médicale](20270529_Rapport_Expertise_Medicale.md) | Rapport d'expertise médicale | ✅ Reçu |
 
 > ⚠️ Les fichiers physiques sont en attente d'insertion dans ce dossier.  
-> Consulter [Memory/PIECES MAP.md](../../../Memory/PIECES%20MAP.md) pour la cotation détaillée.
+> Consulter [Memory/PIECES MAP.md](../../../Memory/PIECES MAP.md) pour la cotation détaillée.
 
 - [📁 Preparation Expertise UMJ](Preparation_Expertise_UMJ.md)

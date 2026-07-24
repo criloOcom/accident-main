@@ -15,12 +15,12 @@ tags:
   - préjudice corporel
 statut: brouillon
 auteur: La Victime
-reel_path: ../../Analyses_juridiques/Mémoire_de_synthèse_—_Recours_assurances_ERP.md
+reel_path: ../../Analyses_juridiques/Mémoire_de_synthèse_Recours_assurances_ERP.md
 source: local
 jx: J+53
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Memoire de synthese Recours assurances ERP ([👤](../../Analyses_juridiques/Memoire_de_synthese_Recours_assurances_ERP.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Memoire de synthese Recours assurances ERP ([🎭](../../Token/Analyses_juridiques/Memoire_de_synthese_Recours_assurances_ERP.md))*
 <hr>
 <!-- /Breadcrumb -->
 

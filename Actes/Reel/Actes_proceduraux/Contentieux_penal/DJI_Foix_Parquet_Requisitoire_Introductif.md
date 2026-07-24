@@ -36,7 +36,7 @@ jx: J+47
 
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux penal](./README.md) › DJI Foix Parquet Requisitoire Introductif ([👤](../../../Actes_proceduraux/Contentieux_penal/DJI_Foix_Parquet_Requisitoire_Introductif.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux penal](./README.md) › DJI Foix Parquet Requisitoire Introductif ([🎭](../../../Token/Actes_proceduraux/Contentieux_penal/DJI_Foix_Parquet_Requisitoire_Introductif.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -67,7 +67,7 @@ En tentant par réflexe de retenir le préposé, Sébastien GRAZIDE a heurté de
 
 Ce choc a provoqué une section complète du tendon fléchisseur profond (FDP) de l'index droit en zone II de Verdan, associée à une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une microchirurgie d'urgence le 30 mai 2026, puis une neurolyse secondaire du nerf palmaire.
 
-L'ITT pénale a été fixée à **1 jour** par le [certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) du Dr OXYBEL du 1er juin 2026, sous réserve de la réévaluation globale programmée à l'UMJ de Purpan le 12 novembre 2026. L'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total est de **55 jours** (du 29/05/2026 au 23/07/2026). Une expertise médicale judiciaire ultérieure a conclu à une consolidation au 1er mars 2027 (12 mois), avec un Déficit Fonctionnel Permanent (DFP) de 12 % et des Souffrances Endurées (SE) de 4/7. La main droite dominante de la victime, informaticienne de profession, conserve une séquelle sensitive et fonctionnelle définitive dans le territoire du nerf collatéral radial de l'index, limitant sa dextérité fine et sa capacité de travail.
+L'ITT pénale a été fixée à **1 jour** par le [certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md) du Dr OXYBEL du 1er juin 2026, sous réserve de la réévaluation globale programmée à l'UMJ de Purpan le 12 novembre 2026. L'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total est de **55 jours** (du 29/05/2026 au 23/07/2026). Une expertise médicale judiciaire ultérieure a conclu à une consolidation au 1er mars 2027 (12 mois), avec un Déficit Fonctionnel Permanent (DFP) de 12 % et des Souffrances Endurées (SE) de 4/7. La main droite dominante de la victime, informaticienne de profession, conserve une séquelle sensitive et fonctionnelle définitive dans le territoire du nerf collatéral radial de l'index, limitant sa dextérité fine et sa capacité de travail.
 
 Par ailleurs, malgré des mises en demeure répétées, la société et ses dirigeants n'ont justifié d'aucune assurance de responsabilité civile professionnelle pour l'exploitation du salon.
 
@@ -78,7 +78,7 @@ Il convient de déterminer si ces faits sont constitutifs d'infractions pénales
 
 ### II.1 — SUR LES BLESSURES INVOLONTAIRES
 
-La fixation de la durée de l'ITT pénale conditionne le seuil de qualification pénale. En l'espèce, le [certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) a fixé l'ITT pénale à 1 jour (≤ 3 mois), tandis que l'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total est de 55 jours. Toutefois, le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 retient une consolidation au 1er mars 2027, un DFP de 12 % et des SE de 4/7, caractérisant une atteinte fonctionnelle définitive de la main dominante.
+La fixation de la durée de l'ITT pénale conditionne le seuil de qualification pénale. En l'espèce, le [certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md) a fixé l'ITT pénale à 1 jour (≤ 3 mois), tandis que l'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total est de 55 jours. Toutefois, le rapport d'expertise médicale judiciaire déposé le 12 juin 2027 retient une consolidation au 1er mars 2027, un DFP de 12 % et des SE de 4/7, caractérisant une atteinte fonctionnelle définitive de la main dominante.
 
 Deux scenarii se présentent :
 

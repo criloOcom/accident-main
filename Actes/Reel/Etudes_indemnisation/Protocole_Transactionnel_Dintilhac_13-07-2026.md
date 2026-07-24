@@ -10,7 +10,7 @@ auteur: La Victime
 statut: brouillon
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Etudes indemnisation](./README.md) › Protocole Transactionnel Dintilhac 13-07-2026 ([👤](../../Etudes_indemnisation/Protocole_Transactionnel_Dintilhac_13-07-2026.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Etudes indemnisation](./README.md) › Protocole Transactionnel Dintilhac 13-07-2026 ([🎭](../../Token/Etudes_indemnisation/Protocole_Transactionnel_Dintilhac_13-07-2026.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -19,7 +19,7 @@ statut: brouillon
 **ENTRE LES SOUSSIGNÉS :**
 
 1. **M. Sébastien GRAZIDE, né le 18 janvier 1982,
-   Assisté de **Me **[L'Avocat de la Victime]**, Avocat au Barreau de [Barreau Avocat Victime](../../../Memory/STRICT%20VARIABLES.md),
+   Assisté de **Me **[L'Avocat de la Victime]**, Avocat au Barreau de [Barreau Avocat Victime](../../../Memory/STRICT VARIABLES.md),
 
    *Ci-après désigné « la Victime »,*
 
@@ -28,7 +28,7 @@ statut: brouillon
 **ET :**
 
 2. **La société SAS LES MAUVAIS GARCONS, SAS au capital de 1 000 €, prise en la personne de son représentant légal en exercice,
-   Assistée de son assureur responsabilité civile, **la compagnie [Assureur RC Exploitant](../../../Memory/STRICT%20VARIABLES.md)**, prise en son agence de [Ville Agence Assureur RC](../../../Memory/STRICT%20VARIABLES.md) sous le numéro de police [Numéro Contrat RC Exploitant](../../../Memory/STRICT%20VARIABLES.md),
+   Assistée de son assureur responsabilité civile, **la compagnie [Assureur RC Exploitant](../../../Memory/STRICT VARIABLES.md)**, prise en son agence de [Ville Agence Assureur RC](../../../Memory/STRICT VARIABLES.md) sous le numéro de police [Numéro Contrat RC Exploitant](../../../Memory/STRICT VARIABLES.md),
 
    *Ci-après désignés collectivement « l'Exploitant »,*
 
@@ -49,7 +49,7 @@ Afin de prévenir ou de mettre fin à tout litige judiciaire afférent à l'inde
 
 ### I.2 — ARTICLE 1 — PRINCIPE DU RÈGLEMENT ET RECONNAISSANCE DE RESPONSABILITÉ
 
-La société SAS LES MAUVAIS GARCONS (et par délégation son assureur la compagnie [Assureur RC Exploitant](../../../Memory/STRICT%20VARIABLES.md) reconnaît son entière et exclusive responsabilité dans la survenance du sinistre du 29 mai 2026(../../../Memory/STRICT%20VARIABLES.md) sur le fondement de la responsabilité du fait des choses que l'on a sous sa garde (article 1242 alinéa 1er du Code civil).
+La société SAS LES MAUVAIS GARCONS (et par délégation son assureur la compagnie [Assureur RC Exploitant](../../../Memory/STRICT VARIABLES.md) reconnaît son entière et exclusive responsabilité dans la survenance du sinistre du 29 mai 2026(../../../Memory/STRICT VARIABLES.md) sur le fondement de la responsabilité du fait des choses que l'on a sous sa garde (article 1242 alinéa 1er du Code civil).
 
 En conséquence, l'indemnisation intégrale des préjudices corporels subis par la Victime s'effectuera en droit commun, sans aucune réduction de son droit à indemnisation.
 
@@ -71,13 +71,13 @@ Ce versement interviendra par virement bancaire sur le compte CARPA de Me **[L'A
 
 Il est expressément rappelé que le règlement ci-dessus s'effectue sous réserve des décomptes définitifs de créance de la Caisse Primaire d'Assurance Maladie (CPAM) au titre des prestations servies à la Victime (frais médicaux, indemnités journalières).
 
-La compagnie [Assureur RC Exploitant](../../../Memory/STRICT%20VARIABLES.md) déclare faire son affaire personnelle du règlement direct de la créance de la CPAM, de sorte que la somme versée à la Victime au titre du présent protocole restera intégralement acquise à cette dernière pour ses préjudices personnels extra-patrimoniaux et sa part de préjudices patrimoniaux non soumise à recours.
+La compagnie [Assureur RC Exploitant](../../../Memory/STRICT VARIABLES.md) déclare faire son affaire personnelle du règlement direct de la créance de la CPAM, de sorte que la somme versée à la Victime au titre du présent protocole restera intégralement acquise à cette dernière pour ses préjudices personnels extra-patrimoniaux et sa part de préjudices patrimoniaux non soumise à recours.
 
 ### I.6 — ARTICLE 5 — RÉSERVE EXPLICITE D'AGGRAVATION
 
 Conformément au droit commun de la réparation du préjudice corporel et aux dispositions de l'article 2226 du Code civil, le présent protocole ne couvre que les préjudices en l'état actuel des séquelles documentées.
 
-La Victime conserve expressément le droit de solliciter une indemnisation complémentaire en cas d'aggravation future de son état de santé liée aux suites directes de l'accident du 29 mai 2026(../../../Memory/STRICT%20VARIABLES.md), dûment constatée par un médecin expert.
+La Victime conserve expressément le droit de solliciter une indemnisation complémentaire en cas d'aggravation future de son état de santé liée aux suites directes de l'accident du 29 mai 2026(../../../Memory/STRICT VARIABLES.md), dûment constatée par un médecin expert.
 
 ### I.7 — ARTICLE 6 — DÉSISTEMENT ET EFFETS DE LA TRANSACTION
 
@@ -93,5 +93,5 @@ En 3 exemplaires originaux.
 | **M. Sébastien GRAZIDE | **Le Représentant de SAS LES MAUVAIS GARCONS |
 | *(Signature précédée de la mention manuscrite « Bon pour transaction »)* | *(Signature précédée de la mention manuscrite « Bon pour transaction »)* |
 | | |
-| **Me **[L'Avocat de la Victime]** | **La Compagnie [Assureur RC Exploitant](../../../Memory/STRICT%20VARIABLES.md)** |
+| **Me **[L'Avocat de la Victime]** | **La Compagnie [Assureur RC Exploitant](../../../Memory/STRICT VARIABLES.md)** |
 | *(Pour assistance et visa d'avocat)* | *(Pour acceptation de la garantie et du règlement)* |

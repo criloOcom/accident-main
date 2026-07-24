@@ -141,7 +141,7 @@ Le ****
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Preuve des blessures et de l'intervention chirurgicale
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Premiere constatation médicale des lesions
+- **[Certificat medical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Premiere constatation médicale des lesions
 <!-- /PJ -->
 
 <!-- Source -->

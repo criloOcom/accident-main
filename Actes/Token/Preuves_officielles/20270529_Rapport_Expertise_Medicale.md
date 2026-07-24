@@ -50,7 +50,7 @@ L'expert a convoqué **[La Victime](../../../Memory/Tokens/token-victime-nom-com
 
 - Procès-verbal de police n°[**[N° PV Police]**](../../../Memory/Tokens/token-pv-police-numero.md) (28 juin 2026)
 
-- [Certificat médical initial](../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) du Dr **[Le Médecin en Urgence](../../../Memory/Tokens/token-hopital-urgence-medecin.md)** (SMUR), 29 mai 2026
+- [Certificat médical initial](../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md) du Dr **[Le Médecin en Urgence](../../../Memory/Tokens/token-hopital-urgence-medecin.md)** (SMUR), 29 mai 2026
 
 - [Compte-rendu opératoire](../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) du **[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** (SOS Main), 30 mai 2026
 

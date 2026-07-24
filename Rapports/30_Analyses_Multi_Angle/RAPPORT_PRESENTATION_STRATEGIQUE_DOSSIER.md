@@ -213,7 +213,7 @@ Le [**[J+0 Accident]**](../../Memory/Tokens/token-j-0-accident.md), la victime �
 | 6 | [MED Assureur RC](../../Actes/Reel/Courriers/SAS_&_Salon/SAS%20-%20Assureur%20RC%20-%20Courrier.md) | J+50 + version avocat J+50-bis |
 | 7 | [Signalement Inspection Travail](../../Actes/Reel/Courriers/Administrations/DDETS%20-%20Signalement.md) | J+37 — DDETS 09 |
 | 8 | [Signalement Préfecture/CODAF](../../Actes/Reel/Courriers/Administrations/Pr%C3%A9fecture%20-%20Signalement.md) | J+37 — Préfecture / CODAF |
-| 9 | [STRICT VARIABLES canoniques](../../Memory/STRICT%20VARIABLES.md) | §1 expertise — §2 historique SUPERSEDED |
+| 9 | [STRICT VARIABLES canoniques](../../Memory/STRICT VARIABLES.md) | §1 expertise — §2 historique SUPERSEDED |
 
 <hr>
 <sup>*Document généré le 14 juillet 2026 — Version 1.0 — Simulation à vocation pédagogique et préparatoire.*</sup>

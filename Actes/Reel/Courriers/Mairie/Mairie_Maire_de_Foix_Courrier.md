@@ -19,7 +19,7 @@ jx: J+41
 calendar_event_id: gqu5r7mbuh6570913b2nisi7t8
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Mairie](./README.md) › Mairie Maire de Foix Courrier ([👤](../../../Courriers/Mairie/Mairie_Maire_de_Foix_Courrier.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Mairie](./README.md) › Mairie Maire de Foix Courrier ([🎭](../../../Token/Courriers/Mairie/Mairie_Maire_de_Foix_Courrier.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -105,7 +105,7 @@ Sébastien GRAZIDE
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Blessures documentees par SOS Main
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures par le Dr [Dr Julie JARDON]
+- **[Certificat medical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures par le Dr [Dr Julie JARDON]
 
 - **[Arrets de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md)** — [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total de 55 jours
 <!-- /PJ -->

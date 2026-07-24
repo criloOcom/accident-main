@@ -115,7 +115,7 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures par le Dr **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**
+- **[Certificat medical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures par le Dr **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du 30 mai 2026
 

@@ -17,7 +17,7 @@ reel_path: ../../Organisation/Note - Dossier Spécial CERFA.md
 jx: J+40
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md) › Note Dossier Special CERFA ([👤](../../Organisation/Note_Dossier_Special_CERFA.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Note Dossier Special CERFA ([🎭](../../Token/Organisation/Note_Dossier_Special_CERFA.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -76,7 +76,7 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 
 2. Une copie du dépôt de plainte et du Procès-Verbal de police n° 2026/015967.
 
-3. Le [certificat médical initial](../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) (CMI) constatant les blessures de Sébastien GRAZIDE.
+3. Le [certificat médical initial](../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md) (CMI) constatant les blessures de Sébastien GRAZIDE.
 
 4. Les certificats de prolongation et de reprise d'activité justifiant l'[arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md).
 

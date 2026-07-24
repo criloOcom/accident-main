@@ -18,10 +18,11 @@ tags:
 statut: brouillon
 destinataire: DPO du GHT des Pyrénées Ariégeoises (dpo@ght09.fr)
 auteur: La Victime
+reel_path: ../../../Courriers/SAMU/SAMU09_EmailRelance.md
 jx: J+56
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAMU](./README.md) › SAMU09 Email Relance ([🎭](../../../Token/Courriers/SAMU/SAMU09_EmailRelance.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAMU](./README.md) › SAMU09 EmailRelance ([🎭](../../../Token/Courriers/SAMU/SAMU09_EmailRelance.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -35,7 +36,7 @@ jx: J+56
 
 Madame, Monsieur,
 
-Je fais suite à ma demande du 18 juillet 2026, adressée par courrier recommandé avec accusé de réception (n° 87500152888336B) à Monsieur le Directeur du GHT des Pyrénées Ariégeoises – CHIVA, ainsi que par courriel du même jour à votre service.
+Je fais suite à ma demande du 18 juillet 2026, adressée par courrier recommandé avec accusé de réception (n° 87001424998811A) à Monsieur le Directeur du GHT des Pyrénées Ariégeoises – CHIVA, ainsi que par courriel du même jour à votre service.
 
 Ce pli vous étant parvenu le 22 juillet 2026, je me permets, à ce jour sans réponse, de solliciter un état d'avancement de ma demande et, dans le même temps, de vous informer de l'évolution de ma situation médicale.
 
@@ -43,7 +44,7 @@ Ce pli vous étant parvenu le 22 juillet 2026, je me permets, à ce jour sans r�
 
 ## I — Prise en charge du 29 mai 2026 : mes remerciements
 
-Je tiens à vous remercier pour la prise en charge dont j'ai bénéficié le 29 mai 2026 à 15 h 25, à la suite de l'appel passé par Frédéric MATHIEU depuis le 06 08 31 96 63. Votre service a su orienter avec pertinence et réactivité vers le médecin d'urgence de Foix, où les premiers soins ont été dispensés avant mon transfert vers la Clinique de l'Union (SOS Main) pour une prise en charge microchirurgicale le 30 mai 2026.
+Je tiens à vous remercier pour la prise en charge dont j'ai bénéficié le 29 mai 2026 à 15 h 25, à la suite de l'appel passé par Frédéric MATHIEU depuis le 06 08 31 96 63. Votre service a su orienter avec pertinence et réactivité vers le médecin d'urgence de Foix, où les premiers soins ont été dispensés avant mon transfert vers Clinique de l'Union pour une prise en charge microchirurgicale le 30 mai 2026.
 
 Cette orientation adaptée a permis une prise en charge rapide d'une blessure engageant le pronostic fonctionnel de ma main dominante.
 
@@ -51,7 +52,7 @@ Cette orientation adaptée a permis une prise en charge rapide d'une blessure en
 
 ## II — Évolution médicale
 
-Mon arrêt de travail total a cessé le 23 juillet 2026, après 55 jours consécutifs. Le Dr Prisca AKUÉ m'a prescrit un temps partiel thérapeutique à compter du 24 juillet 2026 pour une durée d'un mois.
+Mon arrêt de travail total a cessé le 23 juillet 2026, après 55 jours consécutifs. Dr Prisca AKUÉ m'a prescrit un temps partiel thérapeutique à compter du 24 juillet 2026 pour une durée d'un mois.
 
 Le dernier bilan du kinésithérapeute objective des séquelles fonctionnelles persistantes de l'index droit (raideur, limitation de la flexion). L'état n'est pas consolidé. Une expertise médico-légale est d'ores et déjà fixée au 12 novembre 2026 dans le cadre de la procédure judiciaire en cours.
 

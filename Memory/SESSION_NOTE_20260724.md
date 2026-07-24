@@ -5,6 +5,11 @@ description: "Note de coordination entre agents — Travail en cours sur la rela
 type: memory
 ---
 
+<!-- Breadcrumb -->
+*[🏠](../README.md) › [🧠 Memory](./README.md) › SESSION NOTE 20260724*
+<hr>
+<!-- /Breadcrumb -->
+
 # SESSION NOTE — Coordination multi-agent
 
 **Agent** : opencode

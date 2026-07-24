@@ -33,7 +33,7 @@ jx: J+38
 
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux penal](./README.md) › DJI Foix Partie Civile Constitution ([👤](../../../Actes_proceduraux/Contentieux_penal/DJI_Foix_Partie_Civile_Constitution.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux penal](./README.md) › DJI Foix Partie Civile Constitution ([🎭](../../../Token/Actes_proceduraux/Contentieux_penal/DJI_Foix_Partie_Civile_Constitution.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -75,7 +75,7 @@ Le prepose de l'exploitation, Ayoub BENNOURINE (tel : 07 58 40 12 87), a escalad
 
 - Une plaie palmaire profonde de 5,2 cm
 
-- Une ITT pénale de **1 jour** selon le [certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) du Dr OXYBEL du 1er juin 2026, sous réserve de la réévaluation globale programmée à l'UMJ de Purpan le 12 novembre 2026
+- Une ITT pénale de **1 jour** selon le [certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md) du Dr OXYBEL du 1er juin 2026, sous réserve de la réévaluation globale programmée à l'UMJ de Purpan le 12 novembre 2026
 
 - Un [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total de **55 jours** (du 29 mai au 23 juillet 2026)
 
@@ -105,7 +105,7 @@ En l'espece :
   
 - **L'inobservation des regles de securite** applicables aux ERP (etablissements recevant du public) est caracterisee par le defaut d'entretien du materiel et l'absence de verification des installations.
 
-L'ITT pénale, fixée à 1 jour par le [certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) du Dr OXYBEL, est inférieure à 3 mois, ce qui conduit à la qualification suivante — étant précisé que l'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total est de 55 jours et qu'une réévaluation globale est programmée à l'UMJ de Purpan le 12 novembre 2026 :
+L'ITT pénale, fixée à 1 jour par le [certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md) du Dr OXYBEL, est inférieure à 3 mois, ce qui conduit à la qualification suivante — étant précisé que l'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total est de 55 jours et qu'une réévaluation globale est programmée à l'UMJ de Purpan le 12 novembre 2026 :
 
 > *« Le fait de causer à autrui, par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement, une incapacité totale de travail d'une durée inférieure ou égale à trois mois, est puni d'un an d'emprisonnement et de 15 000 euros d'amende. »* <br>
 > [Article 222-20](../../../../Lois/Code/Code_pénal/Article222-20_CodePenal_LegiFrance.md) <br>

@@ -14,7 +14,7 @@ auteur: La Victime
 reel_path: ../../../Courriers/SAS_&_Salon/SAS HB BARBER - SAS - HB BARBER - Courrier.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS HB BARBER SAS HB BARBER Courrier ([👤](../../../Courriers/SAS_et_Salon/SAS_HB_BARBER_SAS_HB_BARBER_Courrier.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS HB BARBER SAS HB BARBER Courrier ([🎭](../../../Token/Courriers/SAS_et_Salon/SAS_HB_BARBER_SAS_HB_BARBER_Courrier.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -52,7 +52,7 @@ Je vous informe officiellement de l’accident corporel grave dont j’ai été 
 
 Lors de ma venue pour une retouche de coupe de cheveux, le basculement accidentel d’un bac à shampoing défectueux a provoqué une coupure profonde de 8,5 cm au niveau de ma main droite dominante (index droit), avec section tendineuse et nerveuse. 
 
-Le jour même, j’ai été pris en charge en urgence au Centre Ariégeois de Soins Immédiats, Foix, par le Dr Dr Julie JARDON (RPPS 10107654321), qui a constaté une plaie palmaire droite profonde, réalisé les [premiers soins](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) (lavage, désinfection, exploration sous anesthésie locale) et m’a réorienté en urgence vers le service spécialisé « SOS Main » de Clinique de l'Union pour une exploration chirurgicale le lendemain matin.
+Le jour même, j’ai été pris en charge en urgence au Centre Ariégeois de Soins Immédiats, Foix, par le Dr Dr Julie JARDON (RPPS 10107654321), qui a constaté une plaie palmaire droite profonde, réalisé les [premiers soins](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md) (lavage, désinfection, exploration sous anesthésie locale) et m’a réorienté en urgence vers le service spécialisé « SOS Main » de Clinique de l'Union pour une exploration chirurgicale le lendemain matin.
 
 Le 30 mai 2026, j’ai été opéré par le Dr Dr Iskander DJERBI dans ce service de chirurgie de la main (suture tendineuse, suture microchirurgicale des nerfs et vaisseaux, neurolyse, sutures cutanées), comme l’attestent les comptes-rendus opératoires.
 
@@ -132,7 +132,7 @@ Téléphone : 06 30 51 67 75
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte initial du 2 juin 2026
 
-- **[Certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures par le Dr Dr Julie JARDON
+- **[Certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures par le Dr Dr Julie JARDON
 
 - **[Compte-rendu opératoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Intervention chirurgicale d'urgence SOS Main du 30 mai 2026
 

@@ -11,7 +11,7 @@ type: readme
 
 # Tokens<br>Fiches individuelles
 
-Ce dossier contient **83 fiches individuelles** (66 identité + 17 financiers). Les fiches identité sont listées dans la `[TOKEN MAP.md](../TOKEN%20MAP.md)` ; les fiches financières sont documentées ci-dessous.
+Ce dossier contient **83 fiches individuelles** (66 identité + 17 financiers). Les fiches identité sont listées dans la `[TOKEN MAP.md](../TOKEN MAP.md)` ; les fiches financières sont documentées ci-dessous.
 
 Chaque fiche regroupe :
 - **Identité** : le token et la valeur réelle substituée

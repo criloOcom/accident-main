@@ -117,7 +117,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 
 **A. Pièces médicales**
 
-- **Pièce n°1 :** [Certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) (Dr **[Le Médecin Généraliste](../../../../Memory/Tokens/token-victime-medecin-generaliste.md)**) — **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**
+- **Pièce n°1 :** [Certificat médical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md) (Dr **[Le Médecin Généraliste](../../../../Memory/Tokens/token-victime-medecin-generaliste.md)**) — **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**
 
 - **Pièce n°2 :** [Compte-rendu opératoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) SOS Main (Dr **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**) — **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)**
 

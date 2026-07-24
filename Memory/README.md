@@ -91,7 +91,7 @@ graph TD
 
 - **[NOTE_CONFIDENTIELLE_20260716_Constat_Salon](NOTE_CONFIDENTIELLE_20260716_Constat_Salon.md)** 🔒 — dossier de travail avocat uniquement
 
-- **[PIECES MAP](PIECES%20MAP.md)**
+- **[PIECES MAP](PIECES MAP.md)**
 
 - **[PLAN_ACTION_B](PLAN_ACTION_B.md)**
 
@@ -103,7 +103,7 @@ graph TD
 
 - **[STATUS](STATUS.md)**
 
-- **[TOKEN MAP](TOKEN%20MAP.md)**
+- **[TOKEN MAP](TOKEN MAP.md)**
 
 - **[VACCIN](VACCIN.md)**
 

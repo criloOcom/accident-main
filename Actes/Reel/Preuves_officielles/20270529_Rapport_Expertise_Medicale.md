@@ -18,7 +18,7 @@ reel_path: ../../Preuves_officielles/20270529_Rapport_Expertise_Medicale.md
 jx: J+365
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Preuves officielles](./README.md) › 20270529 Rapport Expertise Medicale ([👤](../../Preuves_officielles/20270529_Rapport_Expertise_Medicale.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Preuves officielles](./README.md) › 20270529 Rapport Expertise Medicale ([🎭](../../Token/Preuves_officielles/20270529_Rapport_Expertise_Medicale.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -50,7 +50,7 @@ L'expert a convoqué Sébastien GRAZIDE par lettre recommandée du 24 avril 2027
 
 - Procès-verbal de police n°2026/015967 (28 juin 2026)
 
-- [Certificat médical initial](../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) du Dr Dr Julie JARDON (SMUR), 29 mai 2026
+- [Certificat médical initial](../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md) du Dr Dr Julie JARDON (SMUR), 29 mai 2026
 
 - [Compte-rendu opératoire](../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) du Dr Iskander DJERBI (SOS Main), 30 mai 2026
 

@@ -36,11 +36,11 @@ auteur: Hermès (agent)
 
 ## 3 — Fichiers modifiés
 
-- [Memory/PIECES MAP.md](../../Memory/PIECES%20MAP.md) — pièces **53, 54, 55**
+- [Memory/PIECES MAP.md](../../Memory/PIECES MAP.md) — pièces **53, 54, 55**
 
 - [Memory/EVIDENCE_MATRIX.md](../../Memory/EVIDENCE_MATRIX.md) — lignes **ACQ-19, ACQ-20, ACQ-21** (avec liens Drive)
 
-- [Memory/STRICT VARIABLES.md](../../Memory/STRICT%20VARIABLES.md) — nouvelle variable `TEMPS_PARTIEL_THERAPEUTIQUE : 24/07/2026 → 23/08/2026`
+- [Memory/STRICT VARIABLES.md](../../Memory/STRICT VARIABLES.md) — nouvelle variable `TEMPS_PARTIEL_THERAPEUTIQUE : 24/07/2026 → 23/08/2026`
 
 - [Memory/Mini_Calendrier_Procedure.md](../../Memory/Mini_Calendrier_Procedure.md) — consultation 23/07, début TPT 24/07, jalon fin TPT 23/08 (réévaluation)
 
@@ -50,7 +50,7 @@ auteur: Hermès (agent)
 
 - [Memory/Tokens/token-j-55-fin-d-itt.md](../../Memory/Tokens/token-j-55-fin-d-itt.md) — section « Suite immédiate — temps partiel thérapeutique »
 
-- [Memory/TOKEN MAP.md](../../Memory/TOKEN%20MAP.md) — entrée `[Le Médecin de Suivi]`
+- [Memory/TOKEN MAP.md](../../Memory/TOKEN MAP.md) — entrée `[Le Médecin de Suivi]`
 
 - [.dev/app/batch_anonymize.py](../../.dev/app/batch_anonymize.py) + [.dev/app/generate_real_versions.py](../../.dev/app/generate_real_versions.py) — mapping AKUÉ ↔ `[Le Médecin de Suivi]` (dans les DEUX sens, Règle #3)
 

@@ -37,7 +37,7 @@ type: memory
 
 - [ ] [Memory/RULES.md](RULES.md) — règles permanentes, interdictions
 
-- [ ] [Memory/STRICT VARIABLES.md](STRICT%20VARIABLES.md) — source unique de vérité (montants, dates)
+- [ ] [Memory/STRICT VARIABLES.md](STRICT VARIABLES.md) — source unique de vérité (montants, dates)
 
 ### 2. ANALYSE ce qui existe déjà
 

@@ -35,7 +35,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 | [DJI Foix - Parquet - Réquisitoire Introductif](../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Parquet%20-%20R%C3%A9quisitoire%20Introductif.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | [DJI Foix - Partie Civile - Constitution](../../Reel/Actes_proceduraux/Contentieux_penal/DJI%20Foix%20-%20Partie%20Civile%20-%20Constitution.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | [Mémoire - En défense adverse](../../Reel/Analyses_juridiques/M%C3%A9moire%20-%20En%20d%C3%A9fense%20adverse.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| [Mémoire_de_synthèse_—_Recours_assurances_ERP](Mémoire_de_synthèse_—_Recours_assurances_ERP.md) | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Mémoire_de_synthèse_Recours_assurances_ERP](Mémoire_de_synthèse_Recours_assurances_ERP.md) | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Note - Analyse Responsabilités Légales](../../Reel/Analyses_juridiques/Note%20-%20Analyse%20Responsabilit%C3%A9s%20L%C3%A9gales.md) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ |
 | [Note - Audit RNE NPAI SAS](../../Reel/Analyses_juridiques/Note%20-%20Audit%20RNE%20NPAI%20SAS.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Note - Changelog Juridique](../../Reel/Analyses_juridiques/Note%20-%20Changelog%20Juridique.md) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ |
@@ -52,7 +52,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 | [Note - Stratégie Jurisprudentielle](../../Reel/Analyses_juridiques/Note%20-%20Strat%C3%A9gie%20Jurisprudentielle.md) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ |
 | [Note - Synthèse Avocat Bascule HB BARBER](../../Reel/Analyses_juridiques/Note%20-%20Synth%C3%A8se%20Avocat%20Bascule%20HB%20BARBER.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Note - Tableau Défense Réponse](../../Reel/Analyses_juridiques/Note%20-%20Tableau%20D%C3%A9fense%20R%C3%A9ponse.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Note_—_Procédure_Action_Directe_Assureur_L124-3](Note_—_Procédure_Action_Directe_Assureur_L124-3.md) | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| [Note_Procédure_Action_Directe_Assureur_L124-3](Note_Procédure_Action_Directe_Assureur_L124-3.md) | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | [Parquet Foix - Assurance RC - Plainte Défaut](../../Reel/Actes_proceduraux/Contentieux_penal/Parquet%20Foix%20-%20Assurance%20RC%20-%20Plainte%20D%C3%A9faut.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | [Parquet Foix - Plainte Complémentaire - Correction](../../Reel/Actes_proceduraux/Contentieux_penal/Parquet%20Foix%20-%20Plainte%20Compl%C3%A9mentaire%20-%20Correction.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Parquet Foix - Plainte Complémentaire - PV Audition](../../Reel/Actes_proceduraux/Contentieux_penal/Parquet%20Foix%20-%20Plainte%20Compl%C3%A9mentaire%20-%20PV%20Audition.md) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -91,7 +91,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Citation extraite :**
   > > [Arrêt n°99-17.092](https://www.legifrance.gouv.fr/juri/id/[JURITEXT0000070473](../../../Lois/Jurisprudence/JURITEXT0000070473.md)69) <br>
 
-### Mémoire_de_synthèse_—_Recours_assurances_ERP
+### Mémoire_de_synthèse_Recours_assurances_ERP
 
 - **Jurisprudence :** [CA Toulouse 11-03512](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA Toulouse 11-03512.md)
 
@@ -341,7 +341,7 @@ Ce document référence toutes les citations de jurisprudence au sein des actes 
 - **Citation extraite :**
   > | Le préposé n'a pas commis de faute intentionnelle | Il bénéficie de l'immunité civile Costedoat | **Ass. Plén., 25 fév. 2000, n° 97-17.378** (Costedoat) |
 
-### Note_—_Procédure_Action_Directe_Assureur_L124-3
+### Note_Procédure_Action_Directe_Assureur_L124-3
 
 - **Jurisprudence :** [CA Toulouse 11-03512](../../../Lois/Jurisprudence/Jurisprudence_du_fond_(CA-TJ)/CA Toulouse 11-03512.md)
 
@@ -755,7 +755,7 @@ Pour chaque argument clé qui N'A PAS de jurisprudence de support :
 
 ### Actes les mieux étayés juridiquement
 
-- **[Mémoire_de_synthèse_—_Recours_assurances_ERP](Mémoire_de_synthèse_—_Recours_assurances_ERP.md)** (15 citations) : L'argumentation est particulièrement solide, appuyée par plusieurs arrêts de principe.
+- **[Mémoire_de_synthèse_Recours_assurances_ERP](Mémoire_de_synthèse_Recours_assurances_ERP.md)** (15 citations) : L'argumentation est particulièrement solide, appuyée par plusieurs arrêts de principe.
 
 - **[Note - Analyse Responsabilités Légales](../../Reel/Analyses_juridiques/Note%20-%20Analyse%20Responsabilit%C3%A9s%20L%C3%A9gales.md)** (7 citations) : L'argumentation est particulièrement solide, appuyée par plusieurs arrêts de principe.
 
@@ -767,7 +767,7 @@ Pour chaque argument clé qui N'A PAS de jurisprudence de support :
 
 - **[Note - Stratégie Jurisprudentielle](../../Reel/Analyses_juridiques/Note%20-%20Strat%C3%A9gie%20Jurisprudentielle.md)** (8 citations) : L'argumentation est particulièrement solide, appuyée par plusieurs arrêts de principe.
 
-- **[Note_—_Procédure_Action_Directe_Assureur_L124-3](Note_—_Procédure_Action_Directe_Assureur_L124-3.md)** (9 citations) : L'argumentation est particulièrement solide, appuyée par plusieurs arrêts de principe.
+- **[Note_Procédure_Action_Directe_Assureur_L124-3](Note_Procédure_Action_Directe_Assureur_L124-3.md)** (9 citations) : L'argumentation est particulièrement solide, appuyée par plusieurs arrêts de principe.
 
 - **[TJ Foix - Bordereau Unifié](../../Reel/Actes_proceduraux/Contentieux_civil/TJ%20Foix%20-%20Bordereau%20Unifi%C3%A9.md)** (3 citations) : L'argumentation est particulièrement solide, appuyée par plusieurs arrêts de principe.
 

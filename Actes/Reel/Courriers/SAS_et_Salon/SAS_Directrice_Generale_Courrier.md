@@ -27,7 +27,7 @@ calendar_event_id: eicgcrnb2ir9bf072kennpm1ls
 jx: J+31
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS Directrice Generale Courrier ([👤](../../../Courriers/SAS_et_Salon/SAS_Directrice_Generale_Courrier.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS Directrice Generale Courrier ([🎭](../../../Token/Courriers/SAS_et_Salon/SAS_Directrice_Generale_Courrier.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -115,7 +115,7 @@ Comptant sur votre diligence, je vous prie d'agréer, Madame la Directrice Gén�
 
 - **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte du [J+4]
 
-- **[Certificat medical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures
+- **[Certificat medical initial](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)** — Constatation des blessures
 
 - **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Microchirurgie d'urgence SOS Main du [J+1]
 

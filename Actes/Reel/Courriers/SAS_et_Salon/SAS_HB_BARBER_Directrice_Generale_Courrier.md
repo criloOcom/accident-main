@@ -14,7 +14,7 @@ auteur: La Victime
 reel_path: ../../../Courriers/SAS_&_Salon/SAS HB BARBER - Directrice Générale - Courrier.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS HB BARBER Directrice Generale Courrier ([👤](../../../Courriers/SAS_et_Salon/SAS_HB_BARBER_Directrice_Generale_Courrier.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS HB BARBER Directrice Generale Courrier ([🎭](../../../Token/Courriers/SAS_et_Salon/SAS_HB_BARBER_Directrice_Generale_Courrier.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -39,7 +39,7 @@ Par la présente, je me permets de vous écrire en votre qualité de Directrice 
 
 Le vendredi 29 mai 2026 vers 15h20, j'ai subi un grave accident corporel au sein de l'établissement exploité au 22 Rue Lafaurie, 09000 Foix : un bac à shampoing lourd a basculé et ma main droite a percuté une partie de la vasque en céramique déjà brisée et tranchante, provoquant une plaie palmaire profonde de la main droite, avec atteinte tendineuse et nerveuse. Informaticien indépendant de profession, cette blessure à ma main dominante me paralyse totalement dans mon activité ([arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) de 55 jours en cours).
 
-Le jour même, j'ai été pris en charge en urgence au centre de soins immédiats de Foix par le Dr Julie JARDON, qui a constaté la plaie palmaire droite profonde, réalisé les [premiers soins](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) (lavage, désinfection, exploration sous anesthésie locale) et m'a réorienté en urgence vers le service spécialisé « SOS Main » de Clinique de l'Union pour une exploration chirurgicale le lendemain matin. Le 30 mai 2026, j'ai été opéré par le Dr Iskander DJERBI (suture tendineuse, suture microchirurgicale des nerfs et vaisseaux, neurolyse, sutures cutanées).
+Le jour même, j'ai été pris en charge en urgence au centre de soins immédiats de Foix par le Dr Julie JARDON, qui a constaté la plaie palmaire droite profonde, réalisé les [premiers soins](../../../Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md) (lavage, désinfection, exploration sous anesthésie locale) et m'a réorienté en urgence vers le service spécialisé « SOS Main » de Clinique de l'Union pour une exploration chirurgicale le lendemain matin. Le 30 mai 2026, j'ai été opéré par le Dr Iskander DJERBI (suture tendineuse, suture microchirurgicale des nerfs et vaisseaux, neurolyse, sutures cutanées).
 
 Veuillez agréer mes excuses pour le délai avec lequel je reviens vers vous. La constitution de SAS HB BARBER étant extrêmement récente au moment des faits (début d'activité au 22 avril 2026 et immatriculation au Registre national des entreprises le 19 mai 2026, soit quelques jours seulement avant l'accident), l'indexation de vos statuts et de vos mandats sociaux a connu les délais administratifs habituels avant de figurer publiquement sur les registres (INPI, RNE, SIRENE). Mes démarches initiales de juin, adressées par erreur à l'ancienne enseigne « LES MAUVAIS GARÇONS », n'avaient pu aboutir. Les informations officielles du bailleur et des registres d'immatriculation me permettent aujourd'hui d'adresser la présente demande aux dirigeants réels.
 

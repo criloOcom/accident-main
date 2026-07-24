@@ -51,9 +51,9 @@ tags:
 
 ### Documents stratégiques (2)
 
-- `Mémoire_de_synthèse_—_Recours_assurances_ERP.md` (277 lignes, 6 sections) — Synthèse transversale
+- `Mémoire_de_synthèse_Recours_assurances_ERP.md` (277 lignes, 6 sections) — Synthèse transversale
 
-- `Note_—_Procédure_Action_Directe_Assureur_L124-3.md` (358 lignes, 9 sections) — Feuille de route procédurale
+- `Note_Procédure_Action_Directe_Assureur_L124-3.md` (358 lignes, 9 sections) — Feuille de route procédurale
 
 **Dossier** : `Analyses_juridiques/` — versions Reel générées
 

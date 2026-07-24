@@ -24,7 +24,7 @@ tags:
 
 | # | Date | Erreur commise par l'IA tierce | Vérité du dépôt (source) |
 |---|------|-------------------------------|--------------------------|
-| E1 | 23/07 | « Statuts LRAR récupérés » présentés avant confirmation officielle | Relevé La Poste = seule source ([Memory/STRICT VARIABLES.md](../../Memory/STRICT%20VARIABLES.md)) |
+| E1 | 23/07 | « Statuts LRAR récupérés » présentés avant confirmation officielle | Relevé La Poste = seule source ([Memory/STRICT VARIABLES.md](../../Memory/STRICT VARIABLES.md)) |
 | E2 | 23/07 | « PV complémentaire mentionne déjà le TPT » | Faux au moment dit — mis à jour seulement au commit 83606aad |
 | E3 | 23/07 | « Bordereau inclut déjà les pièces 53-55 » | Faux au moment dit — fait au commit 83606aad |
 | E4 | 23/07 | LRAR SORROCHE présentée comme distribuée | Toujours « en cours de transport » (relevé La Poste 23/07) |

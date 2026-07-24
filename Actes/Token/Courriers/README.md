@@ -13,7 +13,7 @@ type: readme
 # 📨 Courriers<br>Version Token
 
 **Correspondance avec les tiers** — version de travail anonymisée.
-Les identités réelles sont remplacées par des tokens (cf. [TOKEN MAP.md](../../../Memory/TOKEN%20MAP.md)).
+Les identités réelles sont remplacées par des tokens (cf. [TOKEN MAP.md](../../../Memory/TOKEN MAP.md)).
 
 <hr><hr>
 ## 📂 Contenu
