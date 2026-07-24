@@ -411,21 +411,29 @@ Le dossier `/Status/` à la racine contient 3 index classés par statut :
 
 ### Principe du chemin relatif correct
 - **Tout lien interne `Actes/...`, `Lois/...`, `Memory/...`, `Rapports/...` écrit SANS `../` devant (ex. `Lois/Code/Code_civil/Article_X.md` ou `../../Reel/Courriers/Y.md`) est CASSÉ** dès qu'il se trouve dans un fichier profond (ex. `Actes/Token/Actes_proceduraux/Contentieux_civil/X.md`). GitHub résout un lien sans `../` à partir du dossier du fichier courant, pas de la racine du dépôt.
+
 - **Règle stricte** : un lien interne DOIT être un chemin relatif calculé DEPUIS le fichier qui le contient (ex. depuis `Actes/Token/Actes_proceduraux/Contentieux_civil/X.md`, pointer vers `Lois/Code/...` s'écrit `../../../../Lois/Code/...`). Jamais un chemin « racine projet » collé tel quel.
+
 - **Exception admise (design double strate)** : dans les fichiers **Token**, un lien peut légitimement pointer vers le miroir **Reel** via `../../../Reel/Courriers/Y.md`. Ce lien est volontairement « cassé » dans le fichier Token car c'est le pont vers la strate Réelle ; le générateur `generate_real_versions.py` le transforme en chemin valide dans le miroir Reel. Ce n'est PAS une régression — c'est le modèle du projet (Règle #22).
 
 ### Lien croisé Token↔Reel automatique dans le fil d'ariane (OBLIGATOIRE)
 - Le fil d'ariane de chaque fichier de la double strate (`Actes/Token/X` ↔ `Actes/Reel/X`) DOIT exposer à sa fin un **lien croisé cliquable** :
+
   - Dans un fichier **Token** : suffixe `([👤](chemin-vers-Reel))` — l'emoji `👤` pointe vers le miroir Réel correspondant.
   - Dans un fichier **Reel** : suffixe `([🎭](chemin-vers-Token))` — l'emoji `🎭` pointe vers la version Token.
 - **Généré automatiquement** par `.dev/app/generate_breadcrumbs.py` (fonction `cross_world_link`) — il calcule dynamiquement la correspondance symétrique `Actes/Token/X ↔ Actes/Reel/X` SANS dépendre d'un champ YAML `reel_path`. Le lien n'est rendu cliquable QUE si la cible existe (zéro lien mort, Règle #16).
+
 - **Ne JAMAIS éditer un breadcrumb à la main** (Règle #14) : tout passage de `generate_breadcrumbs.py --apply` régénère ce lien croisé pour tout le dépôt.
+
 - **Ordre d'exécution** après création/modification de fichiers Token : `generate_real_versions.py` (crée les miroirs Reel) PUIS `generate_breadcrumbs.py --apply` (ajoute le lien croisé 🎭 dans les Reel et 👤 dans les Token).
 
 ### Anti-régression
 - Après TOUTE modification de liens internes, relancer `python3 .dev/app/check_consistency.py` et l'audit `audit_internal_links.py`. Tout nouveau lien cassé introduit doit être corrigé avant commit (Règle #23).
+
 - Un agent qui crée un lien interne DOIT le tester en résolvant le chemin relatif depuis le fichier cible, pas le supposer depuis la racine.
+
 - **RÈGLE ABSOLUE DE LA STRATE** : toute correction de lien interne se fait **DANS LE TOKEN** (et les sources non-Reel : `Rapports/`, `Memory/`, `Lois/`, `Status/`). **JAMAIS dans `Actes/Reel/`** — le Reel est un artifact de `generate_real_versions.py` (Règle #22 INTERDICTION #1) ; corriger le Reel à la main est du travail perdu (écrasé au prochain run) ET une violation. Corriger le Token PUIS lancer `generate_real_versions.py` suffit à propager la correction dans tous les miroirs Reel.
+
 - **UID unique obligatoire** : chaque fichier `.md` DOIT porter un champ `uid:` dans son YAML (Règle #30/#33). C'est la clé de la double strate (même `uid` pour la paire Token+Reel), de l'indexation (Google Sheet PJ) et du repérage. Un fichier sans `uid:` est en violation.
 
 ## #16 — PRINCIPE DE PRÉCISION ABSOLUE (RÈGLE PERMANENTE)

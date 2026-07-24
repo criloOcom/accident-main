@@ -37,9 +37,11 @@ Ces éléments factuels et médicaux démontrent que la victime était lucide et
 Face à ces allégations infondées, il convient de caractériser les infractions :
 
 1. **Dénonciation Calomnieuse (Article 226-10 du Code pénal)** :
+
    - Si la partie adverse a formellement dénoncé ces faits (ivresse, faute) auprès des services de police ou de la justice, la fausseté de ces allégations étant démontrée par les pièces médicales, la qualification de dénonciation calomnieuse peut être retenue.
 
 2. **Diffamation** :
+
    - L'imputation d'un état d'ivresse ou d'un comportement fautif porte atteinte à l'honneur et à la considération de la victime, justifiant une action en diffamation si ces propos ont été tenus publiquement ou dans des écritures non couvertes par l'immunité.
 
 <hr><hr>
@@ -49,6 +51,7 @@ Face à ces allégations infondées, il convient de caractériser les infraction
 Afin de contrer ces manœuvres et de faire valoir les droits de la victime :
 
 1. **Plainte avec Constitution de Partie Civile** :
+
    - Dépôt devant le Doyen des Juges d'Instruction de Foix.
    - **Objectif** : Mettre en mouvement l'action publique, forcer l'instruction sur les faits de blessures involontaires et neutraliser les faux arguments de la défense.
    - **Pièces à joindre** : PV de police, certificat du Dr Jardon (29/05/2026), compte-rendu opératoire du Dr Djerbi (30/05/2026).

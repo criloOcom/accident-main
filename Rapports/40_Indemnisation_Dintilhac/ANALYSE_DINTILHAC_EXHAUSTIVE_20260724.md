@@ -46,7 +46,9 @@ La demande de provision devant la CIVI / FGTI s'établit à 15 000 €.
 
 Ce montant s'appuie sur :
 - Le total extra-patrimonial strict de 47 200 €.
+
 - Le total patrimonial minimal (hors PGPF) évalué à environ 36 000 €.
+
 - Le total estimatif global canonique compris entre 120 000 € et 160 000 €.
 
 La provision sollicitée (15 000 €) représente ainsi une part très mesurée (moins de 15%) de l'indemnisation globale prévisible, justifiant amplement sa provision au stade actuel de la procédure.

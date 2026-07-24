@@ -344,10 +344,15 @@ Généré automatiquement par `.dev/app/add_drive_links.py`.
 
 ### Fils d'Ariane (breadcrumbs)
 - Commentaire HTML `<!-- Breadcrumb -->...<!-- /Breadcrumb -->`
+
 - Toujours après YAML, avant `# Titre`
+
 - `[🏠](../README.md)` comme lien racine (pas le mot "Accueil")
+
 - Généré par `.dev/app/generate_breadcrumbs.py` — ne pas éditer à la main
+
 - **Lien croisé Token↔Reel (OBLIGATOIRE)** : dans la double strate `Actes/Token/X ↔ Actes/Reel/X`, le fil d'ariane se termine par un lien cliquable vers l'autre monde :
+
   - Fichier **Token** : `... › Nom du dossier (👤)` où `👤` pointe vers `Actes/Reel/X` correspondant
   - Fichier **Reel** : `... › Nom du dossier (🎭)` où `🎭` pointe vers `Actes/Token/X` correspondant
   - Calculé dynamiquement par `cross_world_link()` (symétrie `Token`↔`Reel`, sans champ YAML `reel_path`). Lien cliquable UNIQUEMENT si la cible existe (zéro lien mort, Règle #16).
@@ -374,8 +379,11 @@ python3 .dev/app/check_consistency.py                    # validation finale
 
 ### Règle d'or des liens internes (NON-RÉGRESSION)
 - **TOUTE correction de lien interne se fait DANS LE TOKEN** (et les sources non-Reel : `Rapports/`, `Memory/`, `Lois/`, `Status/`). **JAMAIS dans `Actes/Reel/`** (Règle #22 INTERDICTION #1 : le Reel est un artifact généré, toute édition manuelle est écrasée au prochain `generate_real_versions.py` et constitue une violation).
+
 - Après avoir corrigé les liens dans les fichiers Token, lancer `generate_real_versions.py` : les miroirs Reel sont recréés avec les liens corrigés. Corriger le Reel à la main est DU TRAVAIL PERDU + une violation de Règle #22.
+
 - Un lien interne DOIT être un chemin relatif calculé DEPUIS le fichier le contenant (jamais un chemin « racine projet » collé tel quel, ex. `Lois/Code/X.md` sans `../`). Voir Règle #15-bis.
+
 - **UID unique obligatoire** : chaque fichier `.md` du dépôt DOIT porter un champ `uid:` dans son YAML (source unique de vérité, voir Règle #33). Le fil d'ariane de chaque fichier se termine par l'élément entre parenthèses `(👤)` / `(🎭)` (lien croisé Token↔Reel, Règle #15-bis) ; l'UID sert au cross-référencement et à l'indexation (Google Sheet PJ, Règle #32/#33). Un fichier sans `uid:` est en violation.
 
 <hr><hr>

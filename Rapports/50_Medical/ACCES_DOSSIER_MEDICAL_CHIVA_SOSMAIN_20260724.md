@@ -57,7 +57,9 @@ La saisine de la CADA intervient après un "refus tacite". Si l'établissement d
 La saisine est simple et gratuite. Elle doit être effectuée dans un délai de deux mois suivant la naissance du refus tacite.
 
 1. **Format :** Courrier simple, LRAR (recommandé pour la traçabilité), ou saisine par voie électronique (via le formulaire en ligne sur le site de la CADA).
+
 2. **Contenu de la saisine :**
+
    - L'identité complète et les coordonnées du demandeur.
    - L'objet clair de la demande : « Saisine de la CADA suite au refus tacite de communication de mon dossier médical par [Nom de l'établissement] ».
    - La copie de la demande initiale de communication du dossier.
@@ -79,18 +81,23 @@ Les comptes-rendus de rééducation (kinésithérapie, ergothérapie) ne sont pa
 
 Les bilans détaillés des séances de rééducation documentent précisément :
 - **L'intensité et la fréquence des douleurs :** (ex: Évaluation sur l'échelle EVA, douleurs au réveil, à l'effort).
+
 - **La limitation des amplitudes articulaires :** (ex: Flexion/extension mesurées en degrés, témoignant de la perte de mobilité fonctionnelle).
+
 - **L'évolution de la récupération :** L'absence d'amélioration sur plusieurs semaines/mois permet de dater la consolidation et d'évaluer le Déficit Fonctionnel Permanent (DFP).
 
 ### B. Justifier l'Incidence Professionnelle (IP) et les Frais Divers
 
 Pour un informaticien, la rééducation d'une main dominante (droite) est cruciale. Les comptes-rendus peuvent attester :
 - De la **fatigabilité** à l'effort répétitif (frappe au clavier).
+
 - Des **difficultés de préhension** fine (utilisation de la souris).
 Ces éléments concrets justifient une demande d'indemnisation pour l'Incidence Professionnelle (perte de rendement, nécessité d'aménagements). De plus, les factures des séances non remboursées ou les frais de déplacement (trajets A/R vers le cabinet) viennent alimenter le poste des Frais Divers.
 
 ### C. Méthode d'exploitation en masse
 
 1. **Centralisation :** Rassembler chronologiquement toutes les prescriptions, bilans initiaux, bilans intermédiaires et bilans finaux.
+
 2. **Extraction de données :** Extraire les mesures objectives récurrentes (angles de flexion, force de préhension au dynamomètre JAMAR, scores fonctionnels type QuickDASH).
+
 3. **Mise en perspective :** Croiser ces données avec les doléances du "Journal des Douleurs" pour fournir à l'expert un dossier solide, structuré, qui ne laisse aucune place à l'interprétation subjective.

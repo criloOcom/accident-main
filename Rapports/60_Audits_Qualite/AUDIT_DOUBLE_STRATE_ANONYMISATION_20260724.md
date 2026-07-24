@@ -17,6 +17,7 @@ type: rapport
 L'audit de la structure de l'anonymisation a révélé un total de 109 fichiers dans le répertoire `Memory/Tokens/` (dont 106 fichiers réguliers) et une table de substitution centrale `TOKEN MAP.md`.
 
 - **Cohérence des Tokens** : La majorité des tokens sont correctement liés aux variables réelles définies dans `STRICT VARIABLES.md`. Des vérifications croisées confirment l'utilisation correcte de `STRICT VARIABLES` comme source de vérité. 21 fichiers Token font explicitement référence à `STRICT VARIABLES.md`.
+
 - **Table de Substitution** : Le fichier `TOKEN MAP.md` répertorie méticuleusement les correspondances entre les valeurs réelles et leurs tokens respectifs, garantissant l'anonymat tout en permettant la conversion pour les correspondances officielles via le générateur de version réelle.
 
 <hr><hr>
@@ -37,6 +38,7 @@ Toutefois, le script intègre des **fallbacks hardcodés**, ce qui présente un 
 Des recherches globales sur les noms réels dans la strate `Actes/Token/` ont révélé quelques **fuites résiduelles potentielles**.
 
 - **Analyse des fuites** : Le nom "OXYBEL" apparait dans les textes de certains documents ou chemins de fichiers.
+
   - *Exemple* : `Actes/Token/Actes_proceduraux/Contentieux_penal/Parquet_Foix_Plainte_Complementaire_PV_Audition_Foix.md` mentionne explicitement `Dr OXYBEL` et le lien vers la preuve officielle contient le nom réel.
 
 Ces occurrences nécessitent un nettoyage approfondi. Bien que la strate des "Preuves officielles" ne soit pas soumise à la même sévérité de tokenisation, les textes rédigés (courriers, requêtes) de `Actes/Token/` ne devraient en aucun cas contenir ces identités.
