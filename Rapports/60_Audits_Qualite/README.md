@@ -61,6 +61,7 @@ Ce dossier contient les outils internes d'audit et de vérification. Destiné à
 
 - [20260714_RAPPORT_QUALITE_ACTES](20260714_RAPPORT_QUALITE_ACTES.md)
 
+- [AUDIT_DOUBLE_STRATE_ANONYMISATION_20260724](AUDIT_DOUBLE_STRATE_ANONYMISATION_20260724.md)
 - [`audit/`](audit/) — Audits préexistants (juritext, faits canoniques, documentaire)
 
 ## Ordre de lecture
