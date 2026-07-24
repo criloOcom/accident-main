@@ -34,14 +34,27 @@ SKIP_LINKS = {
     'chemin/relatif/NOM.md',  # placeholder dans PLAN_CORRECTION_HERMES
     'RAPPORT_NAVIGATION_INTERACTIVE_20260711.md',  # rapport non trouvé, cité dans audits
 }
-# Fichiers sources auto-générés dont les liens ne sont pas à vérifier
+# Fichiers sources auto-générés / méta / graphes dont les liens ne sont pas à vérifier
+# (listes de chemins, cartographies, index — ne sont pas une documentation de liens réels)
 SKIP_SOURCES = {
     'Memory/DEPENDENCIES.md',
+    'Memory/TOKEN MAP.md',
+    'Memory/PIECES MAP.md',
+    'Memory/CALENDAR_MAP.md',
+    'Rapports/10_Pilotage/CARTOGRAPHIE_RISQUES.md',
+    'Rapports/30_Analyses_Multi_Angle/00_META_SYNTHESE_MULTI_ANGLE.md',
+    'Rapports/REPORT_JULES_06_Pieces_Map_Audit.md',
     'Rapports/audit/20260713_audit_faits_canoniques.md',
     'Rapports/30_Analyses_Multi_Angle/RAPPORT_FINAL_INTEGRATION_20260710.md',
     'Rapports/60_Audits_Qualite/RAPPORT_AUDIT_HERMES_20260711.md',
     'Rapports/60_Audits_Qualite/RAPPORT_AUDIT_REORGANISATION_PREUVES_20260711.md',
     'Rapports/60_Audits_Qualite/RAPPORT_DOCUMENTATION_NOUVEAU_DOSSIER_20260711.md',
+}
+# Liens vers la strate Reel depuis la strate Token : design voulu (pont double strate).
+# Le générateur generate_real_versions.py rend ces liens valides dans la strate Reel.
+# Ils sont donc exclus du comptage des liens cassés (non représentatifs de la santé doc).
+SKIP_LINK_TARGET_PREFIXES = {
+    'Actes/Reel/',
 }
 # Fichiers sources contenant des exemples techniques (placeholders)
 SKIP_SOURCE_PREFIXES = {
@@ -103,6 +116,11 @@ def check_link(link: str, source_file: str, basename_index: dict) -> dict:
 
     decoded = unquote(link.split('#')[0])
     exists = os.path.exists(resolved)
+
+    # Design double strate : lien Token -> Reel est volontaire (pont vers la strate Réel).
+    # Le générateur rend ces liens valides dans la strate Reel ; on les exclut du comptage.
+    if any(decoded.startswith(p) or resolved.endswith(p.rstrip('/')) or ('/Reel/' in decoded) for p in SKIP_LINK_TARGET_PREFIXES):
+        exists = True
 
     candidates = None
     if not exists:

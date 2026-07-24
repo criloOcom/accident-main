@@ -68,7 +68,7 @@ Dans ces conditions, il m'apparaît que l'absence de constatation directe sur le
 
 C'est précisément pourquoi les éléments sollicités auprès de votre service (fiche de régulation, retranscription ou enregistrement des échanges, photographie transmise) revêtent une importance déterminante pour la manifestation de la vérité : ils constituent la seule trace objective et contemporaine de l'appel, de la description des lésions et des circonstances communiquées au moment des faits.
 
-À cet égard, si l'appel a été passé par un tiers — ce qui restreint le périmètre de l'article L.1111-7 du Code de la santé publique aux seules informations médicales me concernant — le double fondement offert par les articles L.300-2 et L.311-1 du Code des relations entre le public et l'administration, lequel reconnaît aux enregistrements des SAMU le caractère de documents administratifs communicables (CADA, avis n°20194336 du 26 mars 2020), est de nature à lever toute ambiguïté sur le droit de la personne concernée à en obtenir communication.
+À cet égard, si l'appel a été passé par un tiers — ce qui restreint le périmètre de l'article L.1111-7 du Code de la santé publique[^n1] aux seules informations médicales me concernant — le double fondement offert par les articles L.300-2[^n2] et L.311-1[^n3] du Code des relations entre le public et l'administration, lequel reconnaît aux enregistrements des SAMU le caractère de documents administratifs communicables (CADA, avis n°20194336 du 26 mars 2020[^n4]), est de nature à lever toute ambiguïté sur le droit de la personne concernée à en obtenir communication.
 
 ---
 
@@ -79,6 +79,18 @@ Dans l'attente de la communication des pièces sollicitées, je vous saurais gr�
 Si vos services disposent d'un accès aux systèmes permettant de consulter mon dossier santé (INS 182013155540278, adresse MSSanté 182013155540278@patient.mssante.fr) ou les références de la procédure judiciaire (PV n° 2026/015967, dossier CPAM n° 31727387), ces éléments vous sont naturellement communiqués pour faciliter vos éventuelles vérifications. À toutes fins utiles, le numéro depuis lequel l'appel a été passé est le 06 08 31 96 63.
 
 Je vous remercie par avance de l'attention que vous voudrez bien porter à la présente et vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée.
+
+<hr>
+
+## Sources Législation
+
+[^n1]: > « Toute personne a accès à l'ensemble des informations concernant sa santé détenues, à quelque titre que ce soit, par des professionnels et établissements de santé... » (extrait). Ce droit s'exerce directement ou par l'intermédiaire d'un médecin, sous réserve des exceptions légales.<br>    > **Code de la santé publique** > Première partie > Livre Ier > Titre Ier > Chapitre Ier > Section 1<br>    > [Article L.1111-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042685313)
+
+[^n2]: > « Sont considérés comme documents administratifs [...] les documents produits ou reçus, dans le cadre de leur mission de service public, par l'État, les collectivités territoriales ainsi que par les autres personnes de droit public ou les personnes de droit privé chargées d'une telle mission. »<br>    > **Code des relations entre le public et l'administration** > Livre III<br>    > [Article L.300-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033218936)
+
+[^n3]: > « Sous réserve des dispositions des articles L. 311-5 et L. 311-6, les administrations mentionnées à l'article L. 300-2 sont tenues de publier en ligne ou de communiquer les documents administratifs qu'elles détiennent aux personnes qui en font la demande, dans les conditions prévues par le présent livre. »<br>    > **Code des relations entre le public et l'administration** > Livre III > Titre Ier > Chapitre Ier > Section 1<br>    > [Article L.311-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033218946)
+
+[^n4]: > CADA, avis n°20194336 du 26 mars 2020 : les enregistrements détenus par un SAMU « présentent dès lors le caractère d'un document administratif au sens de l'article L.300-2 du code des relations entre le public et l'administration » et sont communicables sous réserve des secrets protégés par les articles L.311-5 et L.311-6 du même code.<br>    > **CADA** > Avis<br>    > [Avis n°20194336](https://cada.data.gouv.fr/20194336/)
 
 <!-- Signature -->
 Sébastien GRAZIDE  
