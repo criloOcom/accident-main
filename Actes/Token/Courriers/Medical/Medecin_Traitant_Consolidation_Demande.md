@@ -58,11 +58,11 @@ Etat actuel et demande
 
 A ce jour, **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** suit toujours sa kinesitherapie de facon assidue.
 
-L'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total initialement prescrit par [**[Le Medecin Generaliste]**](../../../../Memory/Tokens/token-victime-medecin-generaliste.md) court jusqu'au **[J+55 Fin d'ITT](../../../../Memory/Tokens/token-j-55-fin-d-itt.md)** (55 jours).
+L'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total initialement prescrit par [**[Le Medecin Generaliste]**](../../../../Memory/Tokens/token-victime-medecin-generaliste.md) court jusqu'au **[J+55 Fin d'ITT](../../../../Memory/Tokens/token-j-55-fin-d-itt.md)** (55 jours).
 
 La sensibilite de l'index droit reste partiellement alteree, la flexion active est limitee, et la douleur neuropathique persiste.
 
-Dans le cadre de la procedure judiciaire en cours (recours contre tiers aupres de la CPAM, dossier n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**), l'evaluation definitive des postes de prejudice — notamment le Defficit Fonctionnel Permanent (DFP), l'Incidence Professionnelle (IP) et les Souffrances Endurees (SE) — necessite la fixation prealable d'une **date de consolidation** par certificat medical.
+Dans le cadre de la procedure judiciaire en cours (recours contre tiers aupres de la CPAM, dossier n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**), l'evaluation definitive des postes de prejudice — notamment le Defficit Fonctionnel Permanent (DFP), l'Incidence Professionnelle (IP) et les Souffrances Endurees (SE) — necessite la fixation prealable d'une **date de consolidation** par certificat medical.
 
 Je sollicite donc votre bienveillance afin de :
 
@@ -102,17 +102,17 @@ Je vous prie d'agreer, Madame, Docteur, l'expression de ma consideration disting
 **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)**
 <!-- /Signature -->
 
-NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l'incapacite d'utiliser normalement un clavier d'ordinateur ou d'ecrire manuellement. Cette situation de handicap physique temporaire explique le delai de transmission de mes demandes administratives.
+NOTE ADMINISTRATIVE : Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total de 55 jours et dans l'incapacite d'utiliser normalement un clavier d'ordinateur ou d'ecrire manuellement. Cette situation de handicap physique temporaire explique le delai de transmission de mes demandes administratives.
 <!-- PJ -->
 ## PIECES JOINTES
 
 - **[Certificat medical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures par le Dr **[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**
 
-- **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Intervention de microchirurgie d'urgence du **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)**
+- **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Intervention de microchirurgie d'urgence du **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)**
 
-- **[Arrets de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours
+- **[Arrets de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md)** — [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total de 55 jours
 
-- **[Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**]
+- **[Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**]
 <!-- /PJ -->
 
 <!-- Source -->

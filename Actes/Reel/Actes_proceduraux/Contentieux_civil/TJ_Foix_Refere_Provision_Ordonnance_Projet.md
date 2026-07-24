@@ -30,7 +30,7 @@ destinataire: Président du Tribunal Judiciaire de Foix
 
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux civil](./README.md) › TJ Foix Refere Provision Ordonnance Projet ([🎭](../../../Token/Actes_proceduraux/Contentieux_civil/TJ_Foix_Refere_Provision_Ordonnance_Projet.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux civil](./README.md) › TJ Foix Refere Provision Ordonnance Projet ([👤](../../../Actes_proceduraux/Contentieux_civil/TJ_Foix_Refere_Provision_Ordonnance_Projet.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -95,7 +95,7 @@ Les défendeurs, régulièrement cités par procès-verbal de recherches infruct
 
 **Considérant** qu'aux termes de l'article 835 alinéa 2 du Code de procédure civile, le président du tribunal judiciaire peut accorder une provision au créancier lorsque l'existence de l'obligation n'est pas sérieusement contestable ;
 
-**Considérant** qu'il résulte des pièces produites — procès-verbal de police, [certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md), [compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) — que le demandeur a été blessé le 29 mai 2026 dans l'établissement de la SAS défenderesse par le basculement d'une vasque en céramique sur laquelle le préposé était monté, et qu'il a subi des lésions graves à la main droite nécessitant une intervention chirurgicale d'urgence ;
+**Considérant** qu'il résulte des pièces produites — procès-verbal de police, [certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md), [compte-rendu opératoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) — que le demandeur a été blessé le 29 mai 2026 dans l'établissement de la SAS défenderesse par le basculement d'une vasque en céramique sur laquelle le préposé était monté, et qu'il a subi des lésions graves à la main droite nécessitant une intervention chirurgicale d'urgence ;
 
 **Considérant** que la responsabilité de SAS HB BARBER est engagée de plein droit sur le fondement de l'article **1242 alinéa 1er** du Code civil en qualité de gardienne de la vasque, qui a été l'instrument actif du dommage (Civ. 2e, 13 février 1991, n° 89-18.422) ; que la société est également engagée en qualité de commettant sur le fondement de l'article 1242 alinéa 5 du même code, le préposé ayant agi dans le cadre de ses fonctions ;
 

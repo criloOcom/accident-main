@@ -25,7 +25,7 @@ reel_path: ../../../Courriers/CPAM/CPAM - Rectification Identité - Relance.md
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [CPAM](./README.md) › CPAM Rectification Identite Relance ([🎭](../../../Token/Courriers/CPAM/CPAM_Rectification_Identite_Relance.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [CPAM](./README.md) › CPAM Rectification Identite Relance ([👤](../../../Courriers/CPAM/CPAM_Rectification_Identite_Relance.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -87,7 +87,7 @@ Sébastien GRAZIDE
 
 ## PIÈCES JOINTES
 
-- **[Attestation de dépôt CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Dossier RCT n° [31727387](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)
+- **[Attestation de dépôt CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Dossier RCT n° [31727387](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)
 
 - **[Note d'Erratum Identité du 17 juillet 2026](../Police/Police_Note_Erratum_Identite.md)** — Notification aux autorités judiciaires
 

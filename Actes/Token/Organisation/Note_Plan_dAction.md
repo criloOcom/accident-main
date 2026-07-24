@@ -129,7 +129,7 @@ En cas de blocage sur l'identité de l'assureur, [Article 145 du Code de procéd
 ## VIII — INVENTAIRE DES PIÈCES
 ### VIII.1 — PREUVES MÉDICALES ET ADMINISTRATIVES
 
-Le dossier comprend les comptes rendus opératoires du **[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**, les certificats médicaux initiaux, les avis d'[arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) et la note de synthèse médico-légale. Le [dossier CPAM](../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) "Recours contre Tiers" n° [ ... ] est également ouvert.
+Le dossier comprend les comptes rendus opératoires du **[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**, les certificats médicaux initiaux, les avis d'[arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) et la note de synthèse médico-légale. Le [dossier CPAM](../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) "Recours contre Tiers" n° [ ... ] est également ouvert.
 
 ### VIII.2 — PREUVES MATÉRIELLES ET TÉMOIGNAGES
 
@@ -150,7 +150,7 @@ Les preuves incluent le PV de police [ ... ], le constat d'huissier du matériel
 
 **Note administrative :** Dès le 1**[J+37 Assignation 145](../../../Memory/Tokens/token-j-37-assignation-145.md)** (le lendemain de la fin du délai amiable de mise en demeure), délivrance immédiate de l'assignation en référé par commissaire de justice, matérialisant la fin de la phase comminatoire amiable.
 
-*Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[J+0 Accident](../../../Memory/Tokens/token-j-0-accident.md)** sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) ([arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la prolongation involontaire de certaines démarches.*
+*Ayant subi une section nerveuse et tendineuse profonde de l'index droit le **[J+0 Accident](../../../Memory/Tokens/token-j-0-accident.md)** sur ma main droite dominante, je suis actuellement en [arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) ([arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total de 55 jours) et dans l'incapacité d'utiliser normalement un clavier d'ordinateur ou d'écrire manuellement. Cette situation de handicap physique temporaire justifie la prolongation involontaire de certaines démarches.*
 <!-- Source -->
 <hr><hr>
 

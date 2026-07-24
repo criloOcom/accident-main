@@ -438,33 +438,33 @@ legal_basis:
 
 - [ ] [./Actes/README.md](../../Actes/README.md) : Breadcrumb mal formaté (attendu ../../ pour les actes) (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260529_Pharmacie_Foix/20260529-1800 Facture Medicaments PharmacieFoix.md](../../Actes/Preuves officielles/20260529_Pharmacie_Foix/20260529-1800 Facture Medicaments PharmacieFoix.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260529_Pharmacie_Foix/20260529-1800 Facture Medicaments PharmacieFoix.md](../../Actes/Preuves_officielles/20260529_Pharmacie_Foix/20260529-1800_Facture_Medicaments_PharmacieFoix.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260618_Assurance_INFORMATION/20260618-1406 DOC AssuranceMaladie DemandeDeRenseignement.md](../../Actes/Preuves officielles/20260618_Assurance_INFORMATION/20260618-1406 DOC AssuranceMaladie DemandeDeRenseignement.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260618_Assurance_INFORMATION/20260618-1406 DOC AssuranceMaladie DemandeDeRenseignement.md](../../Actes/Preuves_officielles/20260618_Assurance_INFORMATION/20260618-1406_DOC_AssuranceMaladie_DemandeDeRenseignement.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260601_DrOXYBEL/20260601-1115 ARRET Travail Volet1 DrOXYBEL.md](../../Actes/Preuves officielles/20260601_DrOXYBEL/20260601-1115 ARRET Travail Volet1 DrOXYBEL.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260601_DrOXYBEL/20260601-1115 ARRET Travail Volet1 DrOXYBEL.md](../../Actes/Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260601_DrOXYBEL/20260601-1115 CERTIFICAT medical DrOXYBEL.md](../../Actes/Preuves officielles/20260601_DrOXYBEL/20260601-1115 CERTIFICAT medical DrOXYBEL.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260601_DrOXYBEL/20260601-1115 CERTIFICAT medical DrOXYBEL.md](../../Actes/Preuves_officielles/20260601_DrOXYBEL/20260601-1115_CERTIFICAT_medical_DrOXYBEL.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260601_DrOXYBEL/20260601-1105 NOTE DrOXYBEL.md](../../Actes/Preuves officielles/20260601_DrOXYBEL/20260601-1105 NOTE DrOXYBEL.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260601_DrOXYBEL/20260601-1105 NOTE DrOXYBEL.md](../../Actes/Preuves_officielles/20260601_DrOXYBEL/20260601-1105_NOTE_DrOXYBEL.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260610_SOSMain_Facture/20260610-xxxx Facture Chirurgie SOSMain 790euros.md](../../Actes/Preuves officielles/20260610_SOSMain_Facture/20260610-xxxx Facture Chirurgie SOSMain 790euros.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260610_SOSMain_Facture/20260610-xxxx Facture Chirurgie SOSMain 790euros.md](../../Actes/Preuves_officielles/20260610_SOSMain_Facture/20260610-xxxx_Facture_Chirurgie_SOSMain_790euros.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260619_DrDJERBI_MAIL/20260619-1528 MAIL DrDjerbi.md](../../Actes/Preuves officielles/20260619_DrDJERBI_MAIL/20260619-1528 MAIL DrDjerbi.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260619_DrDJERBI_MAIL/20260619-1528 MAIL DrDjerbi.md](../../Actes/Preuves_officielles/20260619_DrDJERBI_MAIL/20260619-1528_MAIL_DrDjerbi.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260601 🇫🇷 INSEE INPI/20260601-xxxx Avis Situation SAS INSEE.md](../../Actes/Preuves officielles/20260601 🇫🇷 INSEE INPI/20260601-xxxx Avis Situation SAS INSEE.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260601 🇫🇷 INSEE INPI/20260601-xxxx Avis Situation SAS INSEE.md](../../Actes/Preuves_officielles/20260601_🇫🇷_INSEE_INPI/20260601-xxxx_Avis_Situation_SAS_INSEE.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260601 🇫🇷 INSEE INPI/20260601-xxxx Fiche Identite SAS INPI.md](../../Actes/Preuves officielles/20260601 🇫🇷 INSEE INPI/20260601-xxxx Fiche Identite SAS INPI.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260601 🇫🇷 INSEE INPI/20260601-xxxx Fiche Identite SAS INPI.md](../../Actes/Preuves_officielles/20260601_🇫🇷_INSEE_INPI/20260601-xxxx_Fiche_Identite_SAS_INPI.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260603_Attestation_DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md](../../Actes/Preuves officielles/20260603_Attestation_DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260603_Attestation_DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md](../../Actes/Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260530 🆘 SOSMain/20260530-1700 Ordonnance Sortie DrDJERBI.md](../../Actes/Preuves officielles/20260530 🆘 SOSMain/20260530-1700 Ordonnance Sortie DrDJERBI.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260530 🆘 SOSMain/20260530-1700 Ordonnance Sortie DrDJERBI.md](../../Actes/Preuves_officielles/20260530_🆘_SOSMain/20260530-1700_Ordonnance_Sortie_DrDJERBI.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire RapportInterventionMainDroite.md](../../Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire RapportInterventionMainDroite.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260530 🆘 SOSMain/20260530 CR Opératoire RapportInterventionMainDroite.md](../../Actes/Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./Actes/Preuves officielles/20260708_LR_Relance_ASSURANCE/06 V2 ✉️ SAS - Dirigeants - Courrier - Relance - Réel.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260529_DrJARDON/20260529-1630 SITUATION DrJulieJARDON.md](../../Actes/Preuves officielles/20260529_DrJARDON/20260529-1630 SITUATION DrJulieJARDON.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260529_DrJARDON/20260529-1630 SITUATION DrJulieJARDON.md](../../Actes/Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] [./Actes/Preuves officielles/20260629_LR_Demande_ASSURANCE/20260629_LR_MiseEnDemeure_SAS_President_MrSABIR.md](../../Actes/Preuves_officielles/20260629_LR_Demande_ASSURANCE/20260629_LR_MiseEnDemeure_SAS_President_MrSABIR.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
@@ -474,29 +474,29 @@ legal_basis:
 
 - [ ] [./Actes/Preuves officielles/20260629_LR_Demande_ASSURANCE/20260629_LR_MiseEnDemeure_Bailleur_MrDELRIEU.md](../../Actes/Preuves_officielles/20260629_LR_Demande_ASSURANCE/20260629_LR_MiseEnDemeure_Bailleur_MrDELRIEU.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260604_URSSAF_Attestations/20260604-xxxx Attestation Vigilance URSSAF 1.md](../../Actes/Preuves officielles/20260604_URSSAF_Attestations/20260604-xxxx Attestation Vigilance URSSAF 1.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260604_URSSAF_Attestations/20260604-xxxx Attestation Vigilance URSSAF 1.md](../../Actes/Preuves_officielles/20260604_URSSAF_Attestations/20260604-xxxx_Attestation_Vigilance_URSSAF_1.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260604_URSSAF_Attestations/20260604-xxxx Attestation Vigilance URSSAF 2.md](../../Actes/Preuves officielles/20260604_URSSAF_Attestations/20260604-xxxx Attestation Vigilance URSSAF 2.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260604_URSSAF_Attestations/20260604-xxxx Attestation Vigilance URSSAF 2.md](../../Actes/Preuves_officielles/20260604_URSSAF_Attestations/20260604-xxxx_Attestation_Vigilance_URSSAF_2.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260602_Police_PV/20260601 DOSSIER Plainte PlainteOfficiellePV n°2026-015967.md](../../Actes/Preuves officielles/20260602_Police_PV/20260601 DOSSIER Plainte PlainteOfficiellePV n°2026-015967.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260602_Police_PV/20260601 DOSSIER Plainte PlainteOfficiellePV n°2026-015967.md](../../Actes/Preuves_officielles/20260602_Police_PV/20260601_DOSSIER_Plainte_PlainteOfficiellePV_n°2026-015967.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260602_Police_PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md](../../Actes/Preuves officielles/20260602_Police_PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260602_Police_PV/20260602 PV Police PV n°2026-015967 AccidentSalonCoiffure.md](../../Actes/Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] [./Actes/Preuves officielles/20260710_Actualisation_Dossier_ERP/20260710-0916 MAIL Actualisation Dossier ERP.md](../../Actes/Preuves officielles/20260710_Actualisation_Dossier_ERP/20260710-0916 MAIL Actualisation Dossier ERP.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260623_DrDJERBI_RDV/20260623-1730 DR DJERBI Bilan.md](../../Actes/Preuves officielles/20260623_DrDJERBI_RDV/20260623-1730 DR DJERBI Bilan.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260623_DrDJERBI_RDV/20260623-1730 DR DJERBI Bilan.md](../../Actes/Preuves_officielles/20260623_DrDJERBI_RDV/20260623-1730_DR_DJERBI_Bilan.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260623_DrDJERBI_RDV/20260623-1731 DR DJERBI Ordonnance Kinesitherapeute.md](../../Actes/Preuves officielles/20260623_DrDJERBI_RDV/20260623-1731 DR DJERBI Ordonnance Kinesitherapeute.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260623_DrDJERBI_RDV/20260623-1731 DR DJERBI Ordonnance Kinesitherapeute.md](../../Actes/Preuves_officielles/20260623_DrDJERBI_RDV/20260623-1731_DR_DJERBI_Ordonnance_Kinesitherapeute.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260623_DrDJERBI_RDV/20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ2.md](../../Actes/Preuves officielles/20260623_DrDJERBI_RDV/20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ2.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260623_DrDJERBI_RDV/20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ2.md](../../Actes/Preuves_officielles/20260623_DrDJERBI_RDV/20260623-1811_COMPTE_Rendu_DrDJERBI_MonEspaceSanté_PJ2.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260623_DrDJERBI_RDV/20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ1.md](../../Actes/Preuves officielles/20260623_DrDJERBI_RDV/20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ1.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260623_DrDJERBI_RDV/20260623-1811 COMPTE Rendu DrDJERBI MonEspaceSanté PJ1.md](../../Actes/Preuves_officielles/20260623_DrDJERBI_RDV/20260623-1811_COMPTE_Rendu_DrDJERBI_MonEspaceSanté_PJ1.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260601_Kbis/20260601-xxxx Extrait Kbis SAS MauvaisGarcons.md](../../Actes/Preuves officielles/20260601_Kbis/20260601-xxxx Extrait Kbis SAS MauvaisGarcons.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260601_Kbis/20260601-xxxx Extrait Kbis SAS MauvaisGarcons.md](../../Actes/Preuves_officielles/20260601_Kbis/20260601-xxxx_Extrait_Kbis_SAS_MauvaisGarcons.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260612_DrOXIBEL/20260612-xxxx ARRET Travail Prolongation DrOXIBEL.md](../../Actes/Preuves officielles/20260612_DrOXIBEL/20260612-xxxx ARRET Travail Prolongation DrOXIBEL.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260612_DrOXIBEL/20260612-xxxx ARRET Travail Prolongation DrOXIBEL.md](../../Actes/Preuves_officielles/20260612_DrOXIBEL/20260612-xxxx_ARRET_Travail_Prolongation_DrOXIBEL.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
-- [ ] [./Actes/Preuves officielles/20260612_DrOXIBEL/20260612-1207 SITUATION Main.md](../../Actes/Preuves officielles/20260612_DrOXIBEL/20260612-1207 SITUATION Main.md) : Espace dans le nom du fichier (Gravité: MINEUR)
+- [ ] [./Actes/Preuves officielles/20260612_DrOXIBEL/20260612-1207 SITUATION Main.md](../../Actes/Preuves_officielles/20260612_DrOXIBEL/20260612-1207_SITUATION_Main.md) : Espace dans le nom du fichier (Gravité: MINEUR)
 
 - [ ] `./Actes/Preuves officielles/20260629_LR_Transmission_TribunalFOIX/20260629_LR_Transmission_TribunalFOIX ProcureurDeLaRépublique.md` : Espace dans le nom du fichier (Gravité: MINEUR)
 

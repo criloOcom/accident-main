@@ -10,7 +10,7 @@ auteur: La Victime
 statut: brouillon
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Etudes indemnisation](./README.md) › Protocole Transactionnel Dintilhac 13-07-2026 ([🎭](../../Token/Etudes_indemnisation/Protocole_Transactionnel_Dintilhac_13-07-2026.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Etudes indemnisation](./README.md) › Protocole Transactionnel Dintilhac 13-07-2026 ([👤](../../Etudes_indemnisation/Protocole_Transactionnel_Dintilhac_13-07-2026.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -39,7 +39,7 @@ statut: brouillon
 
 Le 29 mai 2026 a été victime d'un accident corporel grave alors qu'il se trouvait dans les locaux d'exploitation commerciale de la société SAS LES MAUVAIS GARCONS situés au **[Adresse Exploitant]**.
 
-M. Sébastien GRAZIDE a subi l'effondrement brutal d'une vasque suspendue en céramique défectueuse, lui occasionnant des lésions cutanées, tendineuses et nerveuses majeures à la **main droite (sa main dominante)**, ayant nécessité une intervention chirurgicale lourde en urgence (micro-chirurgie nerveuse et chirurgie orthopédique de reconstruction des tendons). Cet accident a entraîné un [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de **55 jours**, ainsi que des séquelles neuropathiques douloureuses persistantes empêchant l'exercice normal de sa profession d'informaticien indépendant (développeur/codeur).
+M. Sébastien GRAZIDE a subi l'effondrement brutal d'une vasque suspendue en céramique défectueuse, lui occasionnant des lésions cutanées, tendineuses et nerveuses majeures à la **main droite (sa main dominante)**, ayant nécessité une intervention chirurgicale lourde en urgence (micro-chirurgie nerveuse et chirurgie orthopédique de reconstruction des tendons). Cet accident a entraîné un [arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total de **55 jours**, ainsi que des séquelles neuropathiques douloureuses persistantes empêchant l'exercice normal de sa profession d'informaticien indépendant (développeur/codeur).
 
 Une procédure en référé-provision (fondement de l'article 835 alinéa 2 du Code de procédure civile) a été engagée par la Victime devant le Président du Tribunal judiciaire de Foix (audience fixée au **31 juillet 2026**).
 

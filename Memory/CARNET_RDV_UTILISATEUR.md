@@ -166,6 +166,6 @@ date: "2026-07-24"
 
 - **Calendrier officiel partagé** : Google Calendar `[AM]`
 
-- **Variables factuelles strictes** : [STRICT VARIABLES.md](./STRICT_VARIABLES.md)
+- **Variables factuelles strictes** : [STRICT VARIABLES.md](STRICT VARIABLES.md)
 
 - **Archive brute intégrale** : [CARNET RDV UTILISATEUR BRUT.md](./Archives/CARNET_RDV_UTILISATEUR_BRUT.md)

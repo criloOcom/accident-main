@@ -16,7 +16,7 @@ reel_path: ../../Etudes_indemnisation/Note - Stratégique FGTI CIVI.md
 jx: J+40
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Etudes indemnisation](./README.md) › Note Strategique FGTI CIVI ([🎭](../../Token/Etudes_indemnisation/Note_Strategique_FGTI_CIVI.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Etudes indemnisation](./README.md) › Note Strategique FGTI CIVI ([👤](../../Etudes_indemnisation/Note_Strategique_FGTI_CIVI.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -82,7 +82,7 @@ Les conditions posées par l'article 706-3 du Code de procédure pénale sont in
 
 - Copie de la plainte et du procès-verbal de police (n°2026/015967.
 
-- Certificats médicaux (dont le CMI constatant les blessures) et [arrêts de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant de l'ITT de 55 jours.
+- Certificats médicaux (dont le CMI constatant les blessures) et [arrêts de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) justifiant de l'ITT de 55 jours.
 
 - Comptes-rendus opératoires (notamment SOS Main).
 

@@ -14,7 +14,7 @@ auteur: La Victime
 reel_path: ../../../Courriers/SAS_&_Salon/SAS HB BARBER - SAS - HB BARBER - Courrier.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS HB BARBER SAS HB BARBER Courrier ([🎭](../../../Token/Courriers/SAS_et_Salon/SAS_HB_BARBER_SAS_HB_BARBER_Courrier.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS HB BARBER SAS HB BARBER Courrier ([👤](../../../Courriers/SAS_et_Salon/SAS_HB_BARBER_SAS_HB_BARBER_Courrier.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -56,7 +56,7 @@ Le jour même, j’ai été pris en charge en urgence au Centre Ariégeois de So
 
 Le 30 mai 2026, j’ai été opéré par le Dr Dr Iskander DJERBI dans ce service de chirurgie de la main (suture tendineuse, suture microchirurgicale des nerfs et vaisseaux, neurolyse, sutures cutanées), comme l’attestent les comptes-rendus opératoires.
 
-Exerçant une activité d’informaticien indépendant (SIREN 500 474 457), cette incapacité m’empêche d’exercer normalement mon travail et me place dans une situation financière très fragile. Un recours contre tiers a été ouvert par la CPAM sous la référence [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md).
+Exerçant une activité d’informaticien indépendant (SIREN 500 474 457), cette incapacité m’empêche d’exercer normalement mon travail et me place dans une situation financière très fragile. Un recours contre tiers a été ouvert par la CPAM sous la référence [**[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md).
 <hr><hr>
 
 ## III — EXCUSES SUR LE DÉLAI ET IDENTIFICATION RÉCENTE DE VOTRE SOCIÉTÉ
@@ -95,7 +95,7 @@ Quelle que soit l’interprétation que vous faites aujourd’hui de l’acciden
 
 ## V — CE QUE JE VOUS DEMANDE CONCRÈTEMENT
 
-Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)), je vous remercie de bien vouloir me transmettre, dans un délai de **quinze (15) jours** à compter de la réception de la présente :
+Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)), je vous remercie de bien vouloir me transmettre, dans un délai de **quinze (15) jours** à compter de la réception de la présente :
 
 1. Le nom et les coordonnées complètes de votre **assureur de responsabilité civile professionnelle** couvrant l’activité de votre établissement au 29 mai 2026 ;
 
@@ -124,19 +124,19 @@ sebastien.grazide@gmail.com
 
 Téléphone : 06 30 51 67 75
 
-*Note administrative : ayant subi une section nerveuse et tendineuse profonde de la main droite dominante le 29 mai 2026, je suis actuellement en [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours et dans l’incapacité d’utiliser normalement un clavier ou d’écrire manuellement, ce qui explique la nécessaire délégation de certaines démarches administratives.*
+*Note administrative : ayant subi une section nerveuse et tendineuse profonde de la main droite dominante le 29 mai 2026, je suis actuellement en [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total de 55 jours et dans l’incapacité d’utiliser normalement un clavier ou d’écrire manuellement, ce qui explique la nécessaire délégation de certaines démarches administratives.*
 <!-- PJ -->
 <hr><hr>
 
 ## PIECES JOINTES
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Dépôt de plainte initial du 2 juin 2026
+- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Dépôt de plainte initial du 2 juin 2026
 
 - **[Certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures par le Dr Dr Julie JARDON
 
-- **[Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Intervention chirurgicale d'urgence SOS Main du 30 mai 2026
+- **[Compte-rendu opératoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Intervention chirurgicale d'urgence SOS Main du 30 mai 2026
 
-- **[Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)** — Accusé de dépôt du recours tiers CPAM (n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md))
+- **[Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)** — Accusé de dépôt du recours tiers CPAM (n° [**[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md))
 <!-- /PJ -->
 
 <!-- Source -->

@@ -51,7 +51,7 @@ La rééducation est prolongée de 3 semaines supplémentaires.
 
 ## Documents liés
 
-- [Prescription kiné renouvellement](../../Actes/Preuves%20officielles/20260623_DrDJERBI_RDV/20260623-1731%20DR%20DJERBI%20Ordonnance%20Kinesitherapeute.md)
+- [Prescription kiné renouvellement](../../Actes/Preuves_officielles/20260623_DrDJERBI_RDV/20260623-1731_DR_DJERBI_Ordonnance_Kinesitherapeute.md)
 
 ## Source
 

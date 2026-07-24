@@ -29,9 +29,9 @@ reel_path: ../../Reel/Archives/Archive - Bordereau Pièces 15 Juillet.md
 
 - **Pièce n°1 :** PV initial n°2026/015967 (Toulouse, 02/06/2026) — TJ (145) + plainte — Copie intégrale, lisible, dernière page signée
 
-- **Pièce n°2 :** [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) + comptes-rendus médicaux principaux — TJ (145) + plainte — Inclure mention de la plaie palmaire, tendon + nerf, ITT 56j
+- **Pièce n°2 :** [Compte-rendu opératoire](../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) + comptes-rendus médicaux principaux — TJ (145) + plainte — Inclure mention de la plaie palmaire, tendon + nerf, ITT 56j
 
-- **Pièce n°3 :** [Arrêts de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (55 jours) — TJ (145) + plainte — Permet de justifier la durée de l'ITT
+- **Pièce n°3 :** [Arrêts de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) (55 jours) — TJ (145) + plainte — Permet de justifier la durée de l'ITT
 
 - **Pièce n°4 :** Photos de la main (plaie / cicatrice) — TJ (145) + plainte — Avant/après si possible, datées
 
@@ -41,7 +41,7 @@ reel_path: ../../Reel/Archives/Archive - Bordereau Pièces 15 Juillet.md
 
 - **Pièce n°7 :** LRAR envoyée au propriétaire des murs + AR signé — TJ (145) + plainte — Montre l'information du propriétaire et son silence
 
-- **Pièce n°8 :** [Extrait Kbis](../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) / fiche RNE de la SAS (SIREN, dirigeants, capital 200 €) — TJ (145) + plainte — Imprimé à jour (10/07/2026)
+- **Pièce n°8 :** [Extrait Kbis](../../Preuves_officielles/20260601_Kbis/20260601-xxxx_Extrait_Kbis_SAS_MauvaisGarcons.md) / fiche RNE de la SAS (SIREN, dirigeants, capital 200 €) — TJ (145) + plainte — Imprimé à jour (10/07/2026)
 
 - **Pièce n°9 :** Note d'audit RNE/INPI (société active + 0 salarié + réouverture) — TJ (145) + plainte — Synthèse claire, une page
 

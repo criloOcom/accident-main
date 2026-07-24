@@ -31,7 +31,7 @@ reel_path: ../../../Actes_proceduraux/Contentieux_penal/Parquet Foix - Plainte
 
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux penal](./README.md) › Parquet Foix Plainte Complementaire PV Audition ([🎭](../../../Token/Actes_proceduraux/Contentieux_penal/Parquet_Foix_Plainte_Complementaire_PV_Audition.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux penal](./README.md) › Parquet Foix Plainte Complementaire PV Audition ([👤](../../../Actes_proceduraux/Contentieux_penal/Parquet_Foix_Plainte_Complementaire_PV_Audition.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -79,7 +79,7 @@ Sébastien GRAZIDE nous déclare :
 
 ## III — DÉCLARATION ET DÉPÔT DE PLAINTE COMPLÉMENTAIRE
 
-> « Je me présente à vous aujourd'hui pour déposer une plainte complémentaire faisant suite à ma plainte initiale du 2 juin 2026 ([**[PV n°2026/015967]**](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)). Pour rappel, j'ai été gravement blessé à la main droite le 29 mai 2026 dans le salon de coiffure "[SAS HB BARBER", géré par la société SAS HB BARBER, situé au **22 Rue Lafaurie, 09000 Foix. Cette blessure a nécessité une intervention chirurgicale en urgence et a entraîné 55 jours d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
+> « Je me présente à vous aujourd'hui pour déposer une plainte complémentaire faisant suite à ma plainte initiale du 2 juin 2026 ([**[PV n°2026/015967]**](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)). Pour rappel, j'ai été gravement blessé à la main droite le 29 mai 2026 dans le salon de coiffure "[SAS HB BARBER", géré par la société SAS HB BARBER, situé au **22 Rue Lafaurie, 09000 Foix. Cette blessure a nécessité une intervention chirurgicale en urgence et a entraîné 55 jours d'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md).
 >
 > Depuis mon premier dépôt de plainte, j'ai tenté à de multiples reprises de contacter les gérants de la société SAS HB BARBER et le propriétaire des murs, afin d'obtenir amiablement les coordonnées de leur assurance responsabilité civile, indispensable pour la prise en charge de mes préjudices.
 >

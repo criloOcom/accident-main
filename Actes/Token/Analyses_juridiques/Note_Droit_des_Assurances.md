@@ -133,7 +133,7 @@ Je vous adresse la présente mise en demeure en votre qualité d'assureur garant
 > [Article L124-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/[LEGIARTI0000177354](../../../Lois/Code/LEGIARTI0000177354.md)49) <br>
 > **Code des assurances > Chapitre IV : Les assurances de responsabilité.**
 
-Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein des locaux de votre assuré, lorsqu'une vasque en céramique défectueuse a basculé à la suite d'une manœuvre imprudente de son préposé, entraînant une lésion sévère de ma main droite (tendons et nerfs sectionnés, [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours).
+Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein des locaux de votre assuré, lorsqu'une vasque en céramique défectueuse a basculé à la suite d'une manœuvre imprudente de son préposé, entraînant une lésion sévère de ma main droite (tendons et nerfs sectionnés, [arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total de 55 jours).
 
 L'entière responsabilité de votre assuré est acquise, ce dernier ayant manqué à son obligation de sécurité, le matériel utilisé étant incontestablement défectueux (art. 1242 du Code civil[^n4]).
 

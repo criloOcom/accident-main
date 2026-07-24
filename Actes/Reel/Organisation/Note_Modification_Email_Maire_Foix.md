@@ -7,7 +7,7 @@ statut: brouillon
 reel_path: ../../Organisation/Note - Modification Email Maire Foix.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Note Modification Email Maire Foix ([🎭](../../Token/Organisation/Note_Modification_Email_Maire_Foix.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md) › Note Modification Email Maire Foix ([👤](../../Organisation/Note_Modification_Email_Maire_Foix.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -38,12 +38,12 @@ Monsieur l'Adjoint au Maire,
 
 Je me permets de vous recontacter à la suite de notre échange du 1 juin 2026, au cours duquel vous m'aviez indiqué avoir pris l'attache des services de la préfecture concernant les suites administratives de l'accident corporel grave dont j'ai été victime le 29 mai 2026 au sein de l'établissement situé au 22 Rue Lafaurie, 09000 Foix.
 
-Je tiens à vous apporter des nouvelles de mon état de santé : à la suite de la microchirurgie subie pour les sections tendineuses et nerveuses de ma main droite dominante, je poursuis une rééducation lourde (3 séances par semaine), mon [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) ayant été fixé à 55 jours.
+Je tiens à vous apporter des nouvelles de mon état de santé : à la suite de la microchirurgie subie pour les sections tendineuses et nerveuses de ma main droite dominante, je poursuis une rééducation lourde (3 séances par semaine), mon [arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) ayant été fixé à 55 jours.
 
 Habitant à Blagnac, je constate que les courriers recommandés adressés à SAS HB BARBER à l'adresse de son siège social (22 Rue Lafaurie, 09000 Foix) me sont retournés avec la mention NPAI. Pourtant, le commerce semble avoir rouvert ses portes et être en activité régulière.
 
 Dans ce contexte, et afin d'assurer la sécurité publique au sein de cet établissement recevant du public (ERP), je sollicite l'intervention de vos services de police municipale afin que des agents assermentés puissent se rendre sur place pour procéder à des vérifications indispensables :
-1. Identifier précisément la structure juridique et l'identité de l'exploitant physique actuellement en activité dans les locaux (contrôle de l'affichage légal obligatoire, [extrait Kbis](../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)).
+1. Identifier précisément la structure juridique et l'identité de l'exploitant physique actuellement en activité dans les locaux (contrôle de l'affichage légal obligatoire, [extrait Kbis](../../Preuves_officielles/20260601_Kbis/20260601-xxxx_Extrait_Kbis_SAS_MauvaisGarcons.md)).
 2. Vérifier si les installations litigieuses ayant causé l'accident (notamment la vasque en céramique présentant une cassure préexistante) sont toujours présentes sur les lieux ou si des mesures de mise en conformité et de sécurité ont été effectivement réalisées.
 3. Obtenir des éléments sur le respect des obligations de déclaration de ce sinistre auprès de leur assurance de responsabilité civile.
 

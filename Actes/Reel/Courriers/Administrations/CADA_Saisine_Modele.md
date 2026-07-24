@@ -27,7 +27,7 @@ jx: J+47
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › CADA Saisine Modele ([🎭](../../../Token/Courriers/Administrations/CADA_Saisine_Modele.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Administrations](./README.md) › CADA Saisine Modele ([👤](../../../Courriers/Administrations/CADA_Saisine_Modele.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -76,7 +76,7 @@ Madame, Monsieur,
 Je saisis la Commission d'accès aux documents administratifs, en application du Code des relations entre le public et l'administration (CRPA), à la suite du refus de communication de documents opposé par **[la Préfecture de l'Ariège / la DDETS de l'Ariège — Inspection du travail]**.
 ## I — Identité du demandeur
 
-Je soussigné(e) Sébastien GRAZIDE, demeurant 10 Avenue de Purpan, 31700 Blagnac, victime d'un accident corporel grave survenu le **29 mai 2026** dans le salon de coiffure « SAS HB BARBER », 22 Rue Lafaurie, 09000 Foix (plaie palmaire profonde de la main droite, section partielle tendon fléchisseur + paquet vasculo-nerveux, [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 55 jours — PV de police n°2026/015967).
+Je soussigné(e) Sébastien GRAZIDE, demeurant 10 Avenue de Purpan, 31700 Blagnac, victime d'un accident corporel grave survenu le **29 mai 2026** dans le salon de coiffure « SAS HB BARBER », 22 Rue Lafaurie, 09000 Foix (plaie palmaire profonde de la main droite, section partielle tendon fléchisseur + paquet vasculo-nerveux, [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) 55 jours — PV de police n°2026/015967).
 <hr><hr>
 
 ## II — Administration(s) concernée(s)
@@ -143,7 +143,7 @@ Sébastien GRAZIDE
 
 - **[Mairie - ERP Tavella - Courrier.md](../../../Courriers/Mairie/Mairie%20-%20ERP%20Tavella%20-%20Courrier.md)** — Courriel Monsieur TAVELLA (1er juin 2026)
 
-- **[PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
+- **[PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
 <!-- /PJ -->
 
 <!-- Source -->

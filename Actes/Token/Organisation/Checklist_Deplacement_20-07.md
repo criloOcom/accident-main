@@ -49,9 +49,9 @@ jx: J+52
 
 - [ ] PV initial n°2026/015967 (copie)
 
-- [ ] [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) 30/05/2026 + Arrêts travail (55j)
+- [ ] [CR opératoire](../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) 30/05/2026 + Arrêts travail (55j)
 
-- [ ] [Extrait Kbis](../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) HB BARBER (SIREN 104 103 262) < 1 mois
+- [ ] [Extrait Kbis](../../Preuves_officielles/20260601_Kbis/20260601-xxxx_Extrait_Kbis_SAS_MauvaisGarcons.md) HB BARBER (SIREN 104 103 262) < 1 mois
 
 - [ ] Note audit RNE/INPI (10/07) — société active, 0 salarié
 
@@ -77,13 +77,13 @@ jx: J+52
 
 - [ ] LRAR NPAI originaux + accusés réception
 
-- [ ] [Extrait Kbis](../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) HB BARBER (SIREN 104 103 262) < 1 mois
+- [ ] [Extrait Kbis](../../Preuves_officielles/20260601_Kbis/20260601-xxxx_Extrait_Kbis_SAS_MauvaisGarcons.md) HB BARBER (SIREN 104 103 262) < 1 mois
 
 - [ ] Note audit RNE/INPI (10/07)
 
 - [ ] Photos accident (10x15 + numérique)
 
-- [ ] [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) + Arrêts travail
+- [ ] [CR opératoire](../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) + Arrêts travail
 
 - [ ] Chronologie démarches (tableau)
 
@@ -258,14 +258,14 @@ jx: J+52
 | N° | Pièce | Destination | Note |
 |----|-------|-------------|------|
 | 1 | PV initial n°2026/015967 | TJ (145) + Plainte | Copie intégrale |
-| 2 | [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) 30/05 + CR médicaux | TJ (145) + Plainte | Plaie palmaire, tendon + nerf, 55j |
-| 3 | Arrêts travail (55j) | TJ (145) + Plainte | Justifier durée [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) |
+| 2 | [CR opératoire](../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) 30/05 + CR médicaux | TJ (145) + Plainte | Plaie palmaire, tendon + nerf, 55j |
+| 3 | Arrêts travail (55j) | TJ (145) + Plainte | Justifier durée [arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) |
 | 4 | Photos main (plaie/cicatrice) | TJ (145) + Plainte | Avant/après datées |
 | 5 | **Attestation Mathieu Frédéric (Cerfa 11527*03)** | TJ (145) + Plainte | **NOUVELLE PIÈCE N°5** — Témoin direct |
 | 6 | Photos devanture + intérieur (caméras, bacs) | TJ (145) + Plainte | À faire 20/07 midi |
 | 7 | LRAR SAS/dirigeants + AR NPAI | TJ (145) + Plainte | Mauvaise foi / injoignabilité |
 | 8 | LRAR propriétaire + AR signé | TJ (145) + Plainte | Information propriétaire + silence |
-| 9 | [Extrait Kbis](../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) HB BARBER (SIREN 104 103 262) | TJ (145) + Plainte | Imprimé à jour (< 1 mois) |
+| 9 | [Extrait Kbis](../../Preuves_officielles/20260601_Kbis/20260601-xxxx_Extrait_Kbis_SAS_MauvaisGarcons.md) HB BARBER (SIREN 104 103 262) | TJ (145) + Plainte | Imprimé à jour (< 1 mois) |
 | 10 | Note audit RNE/INPI (10/07) | TJ (145) + Plainte | Société active, 0 salarié, réouverture |
 | 11 | Requête 145 CPC signée (2 ex.) + liste pièces | TJ (145) | 2 ex. identiques, signés, annexes numérotées |
 | 12 | Plainte complémentaire 36 📜 (2 ex.) | Commissariat | 1 ex. remettre, 1 ex. travail |

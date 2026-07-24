@@ -58,7 +58,7 @@ J'y ai raconté en détail :
 
 - Mon activité professionnelle (informaticien indépendant, droitier)
 
-J'ai remis un **dossier de plainte écrit de ma main** (le 1er juin 2026), avec un bordereau de 11 pièces justificatives (identité, Kbis, captures Wero, certificats médicaux, ordonnances, [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md), attestation droits, échanges Mairie).
+J'ai remis un **dossier de plainte écrit de ma main** (le 1er juin 2026), avec un bordereau de 11 pièces justificatives (identité, Kbis, captures Wero, certificats médicaux, ordonnances, [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md), attestation droits, échanges Mairie).
 
 **Dans ce dossier, j'avais désigné **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** comme société responsable**, sur la base des informations que j'avais trouvées à l'époque (SIRET **[L'Identifiant de l'Exploitation](../../../../Memory/Tokens/token-exploitation-id.md)**, 22 rue Lafaurie).
 
@@ -111,7 +111,7 @@ Pronostic : **Récupération nerveuse sur environ 1 an, souvent incomplète.**
 
 - **Paresthésies du premier rayon** (perte de sensibilité, fourmillements pouce/index)
 
-- [Arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total : **15 jours** (jusqu'au 12 juin 2026)
+- [Arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total : **15 jours** (jusqu'au 12 juin 2026)
 
 - ITT pénale initiale : **1 jour** « sous réserve de complications »
 

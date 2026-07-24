@@ -125,7 +125,7 @@ L'audit révèle que les nouveaux identifiants ont été correctement intégrés
 
 - **SIRET (104 103 262 00010)** : Présent dans les mêmes fichiers de configuration, ainsi que dans des actes clés comme `TJ Foix - TJ Foix - Référé Provision - Assignation.md`, `⚖️ TC Foix - TC Foix - Mandataire Ad Hoc - Requête.md` et `✉️ Police Plainte Complementaire Contentieux.md`.
 
-- **Capital (1 000 €)** : Correctement paramétré et retrouvé dans les actes civils (référé) et la stratégie du bailleur ([Memory/Mémo Stratégie Bailleur HB BARBER.md](../Memory/Mémo Stratégie Bailleur HB BARBER.md)).
+- **Capital (1 000 €)** : Correctement paramétré et retrouvé dans les actes civils (référé) et la stratégie du bailleur ([Memory/Mémo Stratégie Bailleur HB BARBER.md](../Memory/Mémo_Stratégie_Bailleur_HB_BARBER.md)).
 
 - **Date de début d'activité (22 avril 2026)** : Bien documentée dans [Memory/STATUS.md](../Memory/STATUS.md), [Memory/USER_DOC_SYNTHESE.md](../Memory/USER_DOC_SYNTHESE.md), les fiches tokens et la plainte complémentaire.
 

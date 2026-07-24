@@ -499,7 +499,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 | **Total Dintilhac** | ~105 000 € (nôtre) / ~45 000 € (Glose) | **~90 000 € (compromis)** |
 
 ### Fichiers modifiés/créés
-- [Rapports/expertise/20260707 Analyse critique Glose.md](../Rapports/expertise/20260707 Analyse critique Glose.md) — NOUVEAU
+- [Rapports/expertise/20260707 Analyse critique Glose.md](../Rapports/expertise/20260707_Analyse_critique_Glose.md) — NOUVEAU
 
 - `05 🎯 Conclusions Refere.md` — MIS À JOUR (provision, R.4323-58, tableau)
 
@@ -522,7 +522,7 @@ Les lignes ci-dessous présentent le **plan initial** (préparé le 12 juillet) 
 
 - **Fichiers créés** :
 
-  - [Rapports/expertise/20260707 Mémoire juridique Glose.md](../Rapports/expertise/20260707 Mémoire juridique Glose.md) — mémoire complet sauvegardé
+  - [Rapports/expertise/20260707 Mémoire juridique Glose.md](../Rapports/expertise/20260707_Mémoire_juridique_Glose.md) — mémoire complet sauvegardé
 - **Fichiers mis à jour** :
 
   - `05 🎯 Conclusions Refere.md` — remplacé par la version Glose (provision 8 000 €, astreinte 100 €/jour, art. 145 communication assurance)
@@ -1380,7 +1380,7 @@ Mettre en place un erratum formel visant à corriger l'erreur de désignation in
 Formaliser la stratégie d'investigation liée au paiement Wero de 15 € effectué à Ayoub Bennourine (préposé) et documenter la ligne de conduite et les tâches de la roadmap Foix.
 
 ### Actions réalisées
-1. Rédaction de la section `## 4. Paiement Wero – Témoin Ayoub` dans [Memory/Mémo Stratégie Bailleur HB BARBER.md](Mémo Stratégie Bailleur HB BARBER.md).
+1. Rédaction de la section `## 4. Paiement Wero – Témoin Ayoub` dans [Memory/Mémo Stratégie Bailleur HB BARBER.md](Mémo_Stratégie_Bailleur_HB_BARBER.md).
 
 2. Ajout des tâches correspondantes dans le tableau de bord [Memory/TODO.md](TODO.md).
 

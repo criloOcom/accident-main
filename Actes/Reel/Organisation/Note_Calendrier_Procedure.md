@@ -13,7 +13,7 @@ source: drive
 jx: J+32
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Note Calendrier Procedure ([🎭](../../Token/Organisation/Note_Calendrier_Procedure.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md) › Note Calendrier Procedure ([👤](../../Organisation/Note_Calendrier_Procedure.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -34,7 +34,7 @@ jx: J+32
 | 30 mai 2026 | EVT-04 | Intervention chirurgicale microchirurgie | Médical | Fait |
 | 30 mai 2026 | EVT-05 | Consultation Spécifique Anesthésie (U03) | Médical | Fait |
 | 30 mai 2026 | EVT-20 | Frais de séjour et soins (GHS) | Médical | Payé |
-| 1 juin 2026 | EVT-06 | [Arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) initial (ITT) | Médical | Fait |
+| 1 juin 2026 | EVT-06 | [Arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) initial (ITT) | Médical | Fait |
 | 1 juin 2026 | EVT-07 | Signalement administratif | Procédure | Fait |
 | 1 juin 2026 | EVT-44 | Signalement d'accident grave et Dossier de Plainte Pénale | Médical |  |
 | 2 juin 2026 | EVT-09 | Réquisition Judiciaire médicale | Procédure | Fait |
@@ -45,13 +45,13 @@ jx: J+32
 | 2 juin 2026 10:00 | EVT-08 | Dépôt de plainte pénale | Procédure | En cours |
 | 3 juin 2026 | EVT-11 | Ouverture dossier Recours contre Tiers | Procédure | Validé |
 | 3 juin 2026 | COR-08 | Déclaration d'accident | Correspondance | Terminé |
-| 3 juin 2026 | COR-09 | Envoi de l'[arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) | Correspondance | À faire (Urgent) |
+| 3 juin 2026 | COR-09 | Envoi de l'[arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) | Correspondance | À faire (Urgent) |
 | 05/06/2026 | COR-10 | Déclaration de sinistre corporel | Correspondance | À faire |
 | 05/06/2026 | EVT-24 | Dépôt légal officiel du recommandé | Médical | Fait |
 | 05/06/2026 | COR-11 | Envoi recommandé (LRAR) | Correspondance | Expédié |
-| 05/06/2026 | EVT-46 | Preuve de dépôt LRAR (Avis d'[arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)) | Correspondance |  |
+| 05/06/2026 | EVT-46 | Preuve de dépôt LRAR (Avis d'[arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md)) | Correspondance |  |
 | 10 juin 2026 | EVT-21 | Relevé de prestations | Médical | Fait |
-| 12/06/2026 | EVT-12 | Prolongation [Arrêt de Travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) | Médical | Fait |
+| 12/06/2026 | EVT-12 | Prolongation [Arrêt de Travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) | Médical | Fait |
 | 12/06/2026 | EVT-25 | Consultation de contrôle | Médical | À faire |
 | 16 juin 2026 | COR-12 | Demande de renseignements (Recours contre Tiers) | Correspondance |  |
 | 18/06/2026 | COR-13 | Note de cadrage médico-légale et transmission de pièces | Correspondance |  |
@@ -74,7 +74,7 @@ jx: J+32
 | Non précisé | EVT-28 | Soins et remboursements (Généralités) | Procédure | À convoquer en cas d'audience (déclaration de jugement commun) |
 | Non précisé | EVT-36 | Analyse de sinistre corporel | Médical | En cours / Litige |
 | Non précisé | EVT-37 | Expertise médicale / Indemnisation | Médical | À réaliser / Barème |
-| Non précisé | EVT-38 | Consultation et prescription d'[arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) | Médical | Terminé |
+| Non précisé | EVT-38 | Consultation et prescription d'[arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) | Médical | Terminé |
 | Non précisé | EVT-39 | Évaluation des Pertes de Gains Professionnels Actuels (PGPA) | Médical | Chiffrage estimatif |
 | Non précisé | EVT-40 | Évaluation des Souffrances Endurées | Médical | Chiffrage estimatif |
 | Non précisé | EVT-41 | Dépenses de Santé Futures (DSF) | Médical | Chiffrage prospectif |

@@ -39,11 +39,11 @@ type: memory
 
 ## Documents liés
 
-- [CR opératoire — 30/05/2026](../../Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)
+- [CR opératoire — 30/05/2026](../../Actes/Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)
 
-- [Ordonnance de sortie — 30/05/2026](../../Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530-1700%20Ordonnance%20Sortie%20DrDJERBI.md)
+- [Ordonnance de sortie — 30/05/2026](../../Actes/Preuves_officielles/20260530_🆘_SOSMain/20260530-1700_Ordonnance_Sortie_DrDJERBI.md)
 
-- [Facture chirurgie 790,23 €](../../Actes/Preuves%20officielles/20260610_SOSMain_Facture/20260610-xxxx%20Facture%20Chirurgie%20SOSMain%20790euros.md)
+- [Facture chirurgie 790,23 €](../../Actes/Preuves_officielles/20260610_SOSMain_Facture/20260610-xxxx_Facture_Chirurgie_SOSMain_790euros.md)
 
 ## Source
 

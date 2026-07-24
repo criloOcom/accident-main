@@ -65,11 +65,11 @@ type: memory
 
 ## Documents liés
 
-- [Compte rendu urgences Dr JARDON 29/05](../../Actes/Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)
+- [Compte rendu urgences Dr JARDON 29/05](../../Actes/Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)
 
-- [Facture pharmacie Foix 29/05](../../Actes/Preuves%20officielles/20260529_Pharmacie_Foix/20260529-1800%20Facture%20Medicaments%20PharmacieFoix.md)
+- [Facture pharmacie Foix 29/05](../../Actes/Preuves_officielles/20260529_Pharmacie_Foix/20260529-1800_Facture_Medicaments_PharmacieFoix.md)
 
-- [PV Police n°2026/015967](../../Actes/Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)
+- [PV Police n°2026/015967](../../Actes/Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)
 
 ## Source
 

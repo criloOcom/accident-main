@@ -344,17 +344,21 @@ Généré automatiquement par `.dev/app/add_drive_links.py`.
 
 ### Fils d'Ariane (breadcrumbs)
 - Commentaire HTML `<!-- Breadcrumb -->...<!-- /Breadcrumb -->`
-
 - Toujours après YAML, avant `# Titre`
-
 - `[🏠](../README.md)` comme lien racine (pas le mot "Accueil")
-
 - Généré par `.dev/app/generate_breadcrumbs.py` — ne pas éditer à la main
+- **Lien croisé Token↔Reel (OBLIGATOIRE)** : dans la double strate `Actes/Token/X ↔ Actes/Reel/X`, le fil d'ariane se termine par un lien cliquable vers l'autre monde :
+  - Fichier **Token** : `... › Nom du dossier (👤)` où `👤` pointe vers `Actes/Reel/X` correspondant
+  - Fichier **Reel** : `... › Nom du dossier (🎭)` où `🎭` pointe vers `Actes/Token/X` correspondant
+  - Calculé dynamiquement par `cross_world_link()` (symétrie `Token`↔`Reel`, sans champ YAML `reel_path`). Lien cliquable UNIQUEMENT si la cible existe (zéro lien mort, Règle #16).
+  - Régénéré pour tout le dépôt par `python3 .dev/app/generate_breadcrumbs.py --apply` (à lancer APRÈS `generate_real_versions.py`).
+  - Exemple Token : `*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Preuves officielles](./README.md) › Preparation Expertise UMJ ([👤](../../Reel/Preuves_officielles/Preparation_Expertise_UMJ.md))*`
+  - Exemple Reel : `*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Preuves officielles](./README.md) › Preparation Expertise UMJ ([🎭](../../Token/Preuves_officielles/Preparation_Expertise_UMJ.md))*`
+- **UID dans le YAML (OBLIGATOIRE)** : chaque fichier `.md` DOIT avoir un champ `uid:` unique dans son front matter (voir Règle #33). Le `uid` est la clé de cross-référencement entre Token et Reel (même `uid` pour la paire), l'indexation Google Sheet PJ, et le lien entre les deux mondes. Un fichier sans `uid:` est en violation de Règle #30/#33. Le générateur `generate_real_versions.py` copie le `uid` Token vers le Reel ; le fil d'ariane n'affiche pas l'UID mais l'élément `(👤)`/`(🎭)` en fin de chaîne EST le repère visuel de la double strate.
 
 <hr><hr>
 
 ## XI — PIPELINE D'UNIFICATION
-
 Après TOUTE création ou modification importante de fichiers `.md`, exécuter dans l'ordre :
 
 ```bash
@@ -363,11 +367,16 @@ python3 .dev/app/unify_headings.py --apply              # titres en chiffres rom
 python3 .dev/app/normalize_blank_lines.py               # lignes vides entre paragraphes
 python3 .dev/app/normalize_blocks.py --apply             # citations canoniques
 python3 .dev/app/dedup_citation_text.py --apply          # dédoublonnage
-python3 .dev/app/generate_real_versions.py               # sync Reel ← Token
+python3 .dev/app/generate_real_versions.py               # sync Reel ← Token (OBLIGATOIRE après toute modif de liens)
+python3 .dev/app/generate_breadcrumbs.py --apply        # fil d'ariane + lien croisé 🎭/👤 (APRÈS generate_real_versions)
 python3 .dev/app/check_consistency.py                    # validation finale
 ```
 
-Les caches (`__pycache__`, `.pytest_cache`) sont supprimés après exécution.
+### Règle d'or des liens internes (NON-RÉGRESSION)
+- **TOUTE correction de lien interne se fait DANS LE TOKEN** (et les sources non-Reel : `Rapports/`, `Memory/`, `Lois/`, `Status/`). **JAMAIS dans `Actes/Reel/`** (Règle #22 INTERDICTION #1 : le Reel est un artifact généré, toute édition manuelle est écrasée au prochain `generate_real_versions.py` et constitue une violation).
+- Après avoir corrigé les liens dans les fichiers Token, lancer `generate_real_versions.py` : les miroirs Reel sont recréés avec les liens corrigés. Corriger le Reel à la main est DU TRAVAIL PERDU + une violation de Règle #22.
+- Un lien interne DOIT être un chemin relatif calculé DEPUIS le fichier le contenant (jamais un chemin « racine projet » collé tel quel, ex. `Lois/Code/X.md` sans `../`). Voir Règle #15-bis.
+- **UID unique obligatoire** : chaque fichier `.md` du dépôt DOIT porter un champ `uid:` dans son YAML (source unique de vérité, voir Règle #33). Le fil d'ariane de chaque fichier se termine par l'élément entre parenthèses `(👤)` / `(🎭)` (lien croisé Token↔Reel, Règle #15-bis) ; l'UID sert au cross-référencement et à l'indexation (Google Sheet PJ, Règle #32/#33). Un fichier sans `uid:` est en violation.
 
 <hr><hr>
 

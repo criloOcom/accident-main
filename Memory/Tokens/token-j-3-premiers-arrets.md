@@ -55,7 +55,7 @@ L'arrêt d'1 jour est erroné compte tenu de la nature de la blessure (microchir
 
 ## Documents liés
 
-- [Arrêt de travail Dr OXYBEL 01/06](../../Actes/Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)
+- [Arrêt de travail Dr OXYBEL 01/06](../../Actes/Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md)
 
 ## Source
 

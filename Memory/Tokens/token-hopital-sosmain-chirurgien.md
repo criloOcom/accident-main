@@ -44,11 +44,11 @@ Il assure ensuite le **suivi chirurgical** : contrôle J+21 le 19 juin 2026 ([J+
 
 ## Documents liés
 
-- [CR opératoire — 30/05/2026](../../Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)
+- [CR opératoire — 30/05/2026](../../Actes/Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)
 
-- [CR contrôle Dr DJERBI — 19/06/2026](../../Actes/Preuves%20officielles/20260619_DrDJERBI_MAIL/20260619-1528%20MAIL%20DrDjerbi.md)
+- [CR contrôle Dr DJERBI — 19/06/2026](../../Actes/Preuves_officielles/20260619_DrDJERBI_MAIL/20260619-1528_MAIL_DrDjerbi.md)
 
-- [Bilan Dr DJERBI (consolidation)](../../Actes/Preuves%20officielles/20260623_DrDJERBI_RDV/20260623-1730%20DR%20DJERBI%20Bilan.md)
+- [Bilan Dr DJERBI (consolidation)](../../Actes/Preuves_officielles/20260623_DrDJERBI_RDV/20260623-1730_DR_DJERBI_Bilan.md)
 
 - [Relance Dr DJERBI Consolidation J+38](../../Actes/Reel/Courriers/Médical/M%C3%A9decin%20Traitant%20-%20Consolidation%20-%20Relance.md)
 

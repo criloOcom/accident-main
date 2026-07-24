@@ -17,7 +17,7 @@ drive_id: 1Zp-JK9kz0V0DTqNbA7QDDfHliWAqv7Ebyw4Yu3Li6lU
 jx: J+39
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Note Index General ([🎭](../../Token/Organisation/Note_Index_General.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md) › Note Index General ([👤](../../Organisation/Note_Index_General.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -41,13 +41,13 @@ Partage depuis : sebastien.grazide@gmail.com
 
 *(Documents physiques — dossier `Preuves_officielles/` en attente d'insertion)*
 
-- 2026-05-30 - [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) ✓ Vérifié : Compte rendu opératoire du Dr Iskander DJERBI (microchirurgie 30 mai 2026).
+- 2026-05-30 - [CR opératoire](../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) ✓ Vérifié : Compte rendu opératoire du Dr Iskander DJERBI (microchirurgie 30 mai 2026).
 
 - 2026-06-01 - Dossier plainte ✓ Vérifié : Copie complète de la plainte officielle déposée au commissariat.
 
 - 2026-06-02 - PV Police ✓ Vérifié : Procès-verbal de constat n°[ ...].
 
-- 2026-06-19 - [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) Dr Iskander DJERBI ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
+- 2026-06-19 - [CR opératoire](../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) Dr Iskander DJERBI ✓ Vérifié : Compte rendu de consultation de contrôle J+20.
 
 - 2026-06-29 - Forensic Evidence File ✓ Vérifié : Dossier de preuves numériques et médicales.
 <hr><hr>
@@ -110,7 +110,7 @@ Partage depuis : sebastien.grazide@gmail.com
 
 - 2026-07-05 - 20 🔄 Relance Police - V1 ✓ Vérifié : Suivi plainte + demande vidéos.
 
-- 2026-07-05 - 21 ✉️ CPAM - Relance - V1 ✓ Vérifié : Suivi [dossier RCT](../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) **[N° [Dossier CPAM](../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
+- 2026-07-05 - 21 ✉️ CPAM - Relance - V1 ✓ Vérifié : Suivi [dossier RCT](../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) **[N° [Dossier CPAM](../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**.
 
 - 2026-07-05 - ✉️ Témoin Client - Attestation - V1 ✓ Vérifié : Gabarit d'attestation de témoin.
 

@@ -153,7 +153,7 @@ Le rapport d'expertise médicale du 29 mai 2027 ([20270529_Rapport_Expertise_Med
 
 ### 2d. Avis Dintilhac 2026-07-13 (externe, pré-expertise)
 
-Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../Rapports/RAPPORT_AVOCAT_DINTILHAC_20260713.md).
+Voir [RAPPORT_AVOCAT_DINTILHAC_20260713.md](../Rapports/40_Indemnisation_Dintilhac/RAPPORT_AVOCAT_DINTILHAC_20260713.md).
 
 #### Scénario prudent (DFP 10 %)
 - EVAL_GLOBALE_PRUDENTE : ≈ 126 000 € — 🔄 SUPERSEDED (expertise : 120 000 – 160 000 €)

@@ -17,7 +17,7 @@ reel_path: ../../Organisation/Note - Dossier Spécial CERFA.md
 jx: J+40
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Organisation](./README.md) › Note Dossier Special CERFA ([🎭](../../Token/Organisation/Note_Dossier_Special_CERFA.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Organisation](./README.md) › Note Dossier Special CERFA ([👤](../../Organisation/Note_Dossier_Special_CERFA.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -66,7 +66,7 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 
 - **Nature des faits** : Blessures involontaires par manquement délibéré ou négligence (caractère pénal de l'accident).
 
-- **Seuil d'ITT** : Sébastien présente un [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) continu de **55 jours**, ce qui dépasse largement le critère légal de **30 jours** (1 mois) d'ITT requis pour la saisine.
+- **Seuil d'ITT** : Sébastien présente un [arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) continu de **55 jours**, ce qui dépasse largement le critère légal de **30 jours** (1 mois) d'ITT requis pour la saisine.
 
 - **Nationalité/Lieu** : Victime française, accident survenu en France.
 
@@ -78,9 +78,9 @@ Ce formulaire permet de saisir la Commission d'Indemnisation des Victimes d'Infr
 
 3. Le [certificat médical initial](../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) (CMI) constatant les blessures de Sébastien GRAZIDE.
 
-4. Les certificats de prolongation et de reprise d'activité justifiant l'[arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md).
+4. Les certificats de prolongation et de reprise d'activité justifiant l'[arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md).
 
-5. Le [compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie rédigé par Dr Iskander DJERBI.
+5. Le [compte-rendu opératoire](../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) de microchirurgie rédigé par Dr Iskander DJERBI.
 
 6. Les justificatifs de pertes de revenus (déclarations URSSAF / avis fiscaux de Sébastien GRAZIDE en tant qu'indépendant).
 

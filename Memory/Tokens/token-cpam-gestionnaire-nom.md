@@ -44,7 +44,7 @@ Interlocutrice CPAM pour le dossier **Recours Contre Tiers (RCT) n° 31727387**,
 
 ## Documents liés
 
-- [Dossier CPAM 31727387 (attestation dépôt)](../../Actes/Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)
+- [Dossier CPAM 31727387 (attestation dépôt)](../../Actes/Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)
 
 - [Transmission Recours Tiers CPAM J+38](../../Actes/Reel/Courriers/CPAM/CPAM%20-%20Recours%20Tiers%20-%20Saisine.md)
 

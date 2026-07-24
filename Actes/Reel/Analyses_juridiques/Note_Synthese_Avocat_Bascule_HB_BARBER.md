@@ -9,7 +9,7 @@ auteur: Conseil externe (Jimini) + Sébastien GRAZIDE
 reel_path: ../../Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Analyses juridiques](./README.md) › Note Synthese Avocat Bascule HB BARBER ([🎭](../../Token/Analyses_juridiques/Note_Synthese_Avocat_Bascule_HB_BARBER.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Analyses juridiques](./README.md) › Note Synthese Avocat Bascule HB BARBER ([👤](../../Analyses_juridiques/Note_Synthese_Avocat_Bascule_HB_BARBER.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -48,7 +48,7 @@ reel_path: ../../Analyses_juridiques/Note - Synthèse Avocat Bascule HB BARBER.m
 - Pronostic : récupération nerveuse sur ≈ 1 an, souvent incomplète
 
 **1er juin 2026 – Généraliste et administratif (J+3)**
-- Consultation Dr Yogan OXYBEL : plaie suturée de 8,5 cm, paresthésies du pouce/index, [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 15 jours (AT), ITT pénale 1 jour "sous réserve de complications"
+- Consultation Dr Yogan OXYBEL : plaie suturée de 8,5 cm, paresthésies du pouce/index, [arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) 15 jours (AT), ITT pénale 1 jour "sous réserve de complications"
 
 - Dossier plainte pénale rédigé et remis à la police
 

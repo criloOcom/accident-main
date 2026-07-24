@@ -80,7 +80,7 @@ Rien de ce qui suit n'a été fait le 15 juillet — **les documents ont été p
 
 - **Mail de relance au bailleur DELRIEU** envoyé (HB BARBER nommé, art. 145 CPC évoqué)
 
-- **📄 Stratégie bailleur/HB BARBER/certificat CE documentée** → [Memory/Mémo Stratégie Bailleur HB BARBER.md](Mémo Stratégie Bailleur HB BARBER.md)
+- **📄 Stratégie bailleur/HB BARBER/certificat CE documentée** → [Memory/Mémo Stratégie Bailleur HB BARBER.md](Mémo_Stratégie_Bailleur_HB_BARBER.md)
 
 - **Documents Reel prêts à imprimer** pour dépôt lundi 20/07
 

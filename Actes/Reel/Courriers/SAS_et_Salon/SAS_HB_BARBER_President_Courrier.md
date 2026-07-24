@@ -14,7 +14,7 @@ auteur: La Victime
 reel_path: ../../../Courriers/SAS_&_Salon/SAS HB BARBER - Président - Courrier.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS HB BARBER President Courrier ([🎭](../../../Token/Courriers/SAS_et_Salon/SAS_HB_BARBER_President_Courrier.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS HB BARBER President Courrier ([👤](../../../Courriers/SAS_et_Salon/SAS_HB_BARBER_President_Courrier.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -37,7 +37,7 @@ Monsieur le Président,
 
 Par la présente, je me permets de vous écrire en votre qualité de Président et représentant légal de SAS HB BARBER, ainsi qu'à votre adresse personnelle, en raison des responsabilités qui incombent aux dirigeants de droit de sociétés commerciales.
 
-Le vendredi 29 mai 2026 vers 15h20, j'ai subi un grave accident corporel au sein de l'établissement exploité au 22 Rue Lafaurie, 09000 Foix : un bac à shampoing lourd a basculé et ma main droite a percuté une partie de la vasque en céramique déjà brisée et tranchante, provoquant une plaie palmaire profonde de la main droite, avec atteinte tendineuse et nerveuse. Informaticien indépendant de profession, cette blessure à ma main dominante me paralyse totalement dans mon activité ([arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) de 55 jours en cours).
+Le vendredi 29 mai 2026 vers 15h20, j'ai subi un grave accident corporel au sein de l'établissement exploité au 22 Rue Lafaurie, 09000 Foix : un bac à shampoing lourd a basculé et ma main droite a percuté une partie de la vasque en céramique déjà brisée et tranchante, provoquant une plaie palmaire profonde de la main droite, avec atteinte tendineuse et nerveuse. Informaticien indépendant de profession, cette blessure à ma main dominante me paralyse totalement dans mon activité ([arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) de 55 jours en cours).
 
 Le jour même, j'ai été pris en charge en urgence au centre de soins immédiats de Foix par le Dr Julie JARDON, qui a constaté la plaie palmaire droite profonde, réalisé les [premiers soins](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) (lavage, désinfection, exploration sous anesthésie locale) et m'a réorienté en urgence vers le service spécialisé « SOS Main » de Clinique de l'Union pour une exploration chirurgicale le lendemain matin. Le 30 mai 2026, j'ai été opéré par le Dr Iskander DJERBI (suture tendineuse, suture microchirurgicale des nerfs et vaisseaux, neurolyse, sutures cutanées).
 
@@ -80,7 +80,7 @@ Quelle que soit l'interprétation que vous faites aujourd'hui de l'accident, cel
 
 ## IV — CE QUE JE VOUS DEMANDE CONCRÈTEMENT
 
-Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)), je vous remercie de bien vouloir me communiquer, sous un délai de quinze (15) jours à compter de la réception de la présente :
+Afin de permettre la mise en relation de vos assureurs avec la CPAM (recours contre tiers n° [**[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**](../../../../Memory/Tokens/token-cpam-dossier-numero.md)), je vous remercie de bien vouloir me communiquer, sous un délai de quinze (15) jours à compter de la réception de la présente :
 
 1. Le nom et les coordonnées complètes de l'assureur responsabilité civile de SAS HB BARBER au 29 mai 2026 ;
 

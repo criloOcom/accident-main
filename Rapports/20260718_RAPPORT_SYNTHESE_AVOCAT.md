@@ -81,13 +81,13 @@ Attention : Le dossier comporte de nombreuses mentions erronées indiquant « D�
 ## 4. Pièces clés du dossier
 
 - **CR opératoire SOS Main** :
-  [Lien vers la pièce (Token)](../Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)
+  [Lien vers la pièce (Token)](../Actes/Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)
 
 - **Photos de la vasque** :
   (Photos manquantes sous format .md dans le dépôt local, mais visées dans les correspondances et la plainte initiale).
 
 - **Photos et constatations du 16/07** :
-  [Lien vers la note (Token)](../Actes/Preuves%20officielles/20260716_Visite_Lieux_Foix/20260716%20Note%20Constatations%20Visite%20Lieux.md)
+  [Lien vers la note (Token)](../Actes/Preuves_officielles/20260716_Visite_Lieux_Foix/20260716_Note_Constatations_Visite_Lieux.md)
 
 - **Erratum identité société** :
   [Lien vers l'erratum (Token)](../Actes/Reel/Courriers/Police/Police%20-%20Note%20Erratum%20Identit%C3%A9.md)

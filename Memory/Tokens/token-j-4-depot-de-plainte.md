@@ -51,7 +51,7 @@ Le même jour, **[L'Adjoint au Maire de la Commune]** adresse un courriel à **[
 
 ## Documents liés
 
-- [PV Police n°2026/015967](../../Actes/Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)
+- [PV Police n°2026/015967](../../Actes/Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)
 
 ## Croisements
 

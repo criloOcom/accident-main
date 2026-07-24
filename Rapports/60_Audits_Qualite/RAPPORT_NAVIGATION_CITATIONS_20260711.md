@@ -51,7 +51,7 @@ Garantir que **toute citation d'un dossier ou d'un fichier interne au dépôt** 
 Environ 290 citations résiduelles pointent vers des **cibles inexistantes** ou sont des **conventions illustratives**. Répartition :
 - **Conventions illustratives** (à ignorer) : `Memory/RULES.md #12`, `Actes/...` (listage de dossiers dans AGENTS.md), `*.md`, `{00-06}`, `XXX.md`.
 
-- **Docs d'archive / journaux historiques** (`Rapports/Archives/...`, [Memory/STATUS.md](../../Memory/STATUS.md)) : chemins historiques morts (fichiers renommés/supprimés, ex. [Rapports/expertise/20260707 Mémoire juridique Glose.md](../expertise/20260707 Mémoire juridique Glose.md) jamais importé, docs fantômes `RAPPORT_JURISPRUDENCES.md`).
+- **Docs d'archive / journaux historiques** (`Rapports/Archives/...`, [Memory/STATUS.md](../../Memory/STATUS.md)) : chemins historiques morts (fichiers renommés/supprimés, ex. [Rapports/expertise/20260707 Mémoire juridique Glose.md](../expertise/20260707_Mémoire_juridique_Glose.md) jamais importé, docs fantômes `RAPPORT_JURISPRUDENCES.md`).
 
 - **Quelques docs fantômes connus** déjà signalés dans l'audit Hermès (ex. `Memory/RAPPORT_JURISPRUDENCES.md`).
 

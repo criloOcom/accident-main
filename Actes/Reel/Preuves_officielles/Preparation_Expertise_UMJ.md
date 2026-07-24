@@ -8,7 +8,7 @@ statut: brouillon
 reel_path: ../../Preuves_officielles/Preparation_Expertise_UMJ.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Preuves officielles](./README.md) › Preparation Expertise UMJ ([🎭](../../Token/Preuves_officielles/Preparation_Expertise_UMJ.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Preuves officielles](./README.md) › Preparation Expertise UMJ ([👤](../../Preuves_officielles/Preparation_Expertise_UMJ.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -27,15 +27,15 @@ reel_path: ../../Preuves_officielles/Preparation_Expertise_UMJ.md
 
 - [ ] Carte mutuelle
 
-### I.2 — DOCUMENTS MÉDICAUX — ACCIDENT INITIAL- [ ] **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** (Dr Iskander DJERBI, 30/05/2026) — microchirurgie tendons/nerfs index droit
+### I.2 — DOCUMENTS MÉDICAUX — ACCIDENT INITIAL- [ ] **[Compte-rendu opératoire](../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** (Dr Iskander DJERBI, 30/05/2026) — microchirurgie tendons/nerfs index droit
 
 - [ ] **[Premiers soins](../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** (Dr Julie JARDON, 29/05/2026, 16h30)
 
 - [ ] **Prescription initiale** (Dr Julie JARDON)
 
-- [ ] **[Ordonnance de sortie](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530-1700%20Ordonnance%20Sortie%20DrDJERBI.md)** (Dr Iskander DJERBI, 30/05/2026) — antalgiques
+- [ ] **[Ordonnance de sortie](../../Preuves_officielles/20260530_🆘_SOSMain/20260530-1700_Ordonnance_Sortie_DrDJERBI.md)** (Dr Iskander DJERBI, 30/05/2026) — antalgiques
 
-### I.3 — [ARRÊTS DE TRAVAIL](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)- [ ] **Arrêt initial** (Dr Oxybel, 01/06/2026, 15j)
+### I.3 — [ARRÊTS DE TRAVAIL](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md)- [ ] **Arrêt initial** (Dr Oxybel, 01/06/2026, 15j)
 
 - [ ] **Prolongation 1** (11j)
 
@@ -57,7 +57,7 @@ reel_path: ../../Preuves_officielles/Preparation_Expertise_UMJ.md
 
 - [ ] Photos lésions initiales (si disponibles)
 
-- [ ] [Dossier CPAM](../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) (RCT **[N° [Dossier CPAM](../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**)
+- [ ] [Dossier CPAM](../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) (RCT **[N° [Dossier CPAM](../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**)
 
 ---
 
@@ -65,7 +65,7 @@ reel_path: ../../Preuves_officielles/Preparation_Expertise_UMJ.md
 ## II — DOCUMENTS DÉJÀ DISPONIBLES SUR DRIVE| Pièce | Drive |
 
 |-------|-------|
-| [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) Dr Iskander DJERBI | [Lien](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |
+| [CR opératoire](../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) Dr Iskander DJERBI | [Lien](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |
 | Ordonnance sortie Dr Iskander DJERBI | [Lien](https://drive.google.com/file/d/1CasEuj6N2FVmg9kAxKhdqKD70UYmq4Vh/view) |
 | [Premiers soins](../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) Dr Julie JARDON | [Lien](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view) |
 | Prescription Dr Julie JARDON | [Lien](https://drive.google.com/file/d/16ZtYjUZW0dmH0UPrHQG9bLlpWdOwflcA/view) |

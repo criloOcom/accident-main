@@ -13,7 +13,7 @@ auteur: La Victime
 reel_path: ../../../Courriers/Police/Police - Note Projet Déclaration.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Note Projet Declaration ([🎭](../../../Token/Courriers/Police/Police_Note_Projet_Declaration.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Note Projet Declaration ([👤](../../../Courriers/Police/Police_Note_Projet_Declaration.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -56,7 +56,7 @@ Moins de cinq minutes plus tard, je reviens dans le salon pour demander une reto
 
 Ma main droite vient alors percuter la zone déjà brisée de la vasque en céramique. Cette vasque présentait une cassure majeure préexistante avec des arêtes tranchantes laissées sans aucune protection ni signalisation. Le choc provoque immédiatement une plaie palmaire très profonde d'environ 8,5 centimètres, avec section des tendons et des nerfs de l'index droit. J'ai été pris en charge en urgence au Centre Ariégeois de Soins Immédiats de Foix, puis opéré le 30 mai 2026 à la Clinique de l'Union par le Dr Iskander DJERBI (service SOS Main).
 
-Le 1er juin 2026, mon médecin généraliste, Dr Oxybel, a constaté la plaie suturée de 8,5 cm, un œdème important et des paresthésies du pouce et de l'index droits, et m'a prescrit 15 jours d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md). Je suis informaticien indépendant, droitier, et j'utilise ma main droite en permanence pour mon activité ; cet accident a donc un impact important sur mon travail et mes revenus.
+Le 1er juin 2026, mon médecin généraliste, Dr Oxybel, a constaté la plaie suturée de 8,5 cm, un œdème important et des paresthésies du pouce et de l'index droits, et m'a prescrit 15 jours d'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md). Je suis informaticien indépendant, droitier, et j'utilise ma main droite en permanence pour mon activité ; cet accident a donc un impact important sur mon travail et mes revenus.
 
 Après la plainte de Toulouse, j'ai entrepris plusieurs démarches par lettres recommandées avec avis de réception : à SAS LES MAUVAIS GARÇONS (que je croyais alors être l'exploitant), à Sabir MOUNTASSER, à Catherine ANDISSAC, au bailleur Romain DELRIEU, à la CPAM de Toulouse et au Tribunal judiciaire de Foix. Certaines lettres ont donné lieu à un avis de réception numérique (notamment pour la CPAM, le bailleur et le tribunal). D'autres sont restées en instance ou sont revenues à l'expéditeur, notamment celles adressées à SAS LES MAUVAIS GARÇONS et à Catherine ANDISSAC. Je remets aux enquêteurs la liste détaillée des numéros de suivi et de leurs statuts.
 

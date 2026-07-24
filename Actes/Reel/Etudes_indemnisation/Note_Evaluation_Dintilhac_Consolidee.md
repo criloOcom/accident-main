@@ -18,7 +18,7 @@ source: local
 jx: J+39
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Etudes indemnisation](./README.md) › Note Evaluation Dintilhac Consolidee ([🎭](../../Token/Etudes_indemnisation/Note_Evaluation_Dintilhac_Consolidee.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Etudes indemnisation](./README.md) › Note Evaluation Dintilhac Consolidee ([👤](../../Etudes_indemnisation/Note_Evaluation_Dintilhac_Consolidee.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -464,7 +464,7 @@ Si la SAS a une assurance RC Pro : l'action directe est **indépendante** de l'a
 > **Code de procédure pénale > Partie législative > Livre IV : De quelques procédures particulières > Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction.[^17]**
 
 **Conditions cumulatives :**
-1. Infraction pénale caractérisée → blessures involontaires (art. 222-20 CP) — ITT pénale 1 jour, [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 55 jours
+1. Infraction pénale caractérisée → blessures involontaires (art. 222-20 CP) — ITT pénale 1 jour, [arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) 55 jours
 
 2. Seuil CIVI : ITT ≥ 1 mois → **largement dépassé** (55 jours)
 

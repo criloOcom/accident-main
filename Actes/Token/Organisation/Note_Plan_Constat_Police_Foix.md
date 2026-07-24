@@ -56,7 +56,7 @@ Monsieur le Maire,
 
 Je me permets de solliciter votre intervention urgente au titre de vos pouvoirs de police administrative générale sur la sécurité des Établissements Recevant du Public (ERP) (Articles L. 2212-2 et L. 2212-4 du CGCT).
 
-Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein du salon de coiffure situé au **[L'Adresse de l'Exploitation](../../../Memory/Tokens/token-exploitation-adresse.md)** à Foix (plaie palmaire profonde par bris de céramique défectueuse d'un bac à shampoing, 55 jours d'[arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)). Une plainte pénale est en cours.
+Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein du salon de coiffure situé au **[L'Adresse de l'Exploitation](../../../Memory/Tokens/token-exploitation-adresse.md)** à Foix (plaie palmaire profonde par bris de céramique défectueuse d'un bac à shampoing, 55 jours d'[arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md)). Une plainte pénale est en cours.
 
 Nous apprenons que l'établissement, exploité par la SAS (qui tente de se rendre insolvable et ne dispose pas d'assurance de responsabilité civile), fait l'objet d'une réouverture suspecte, potentiellement sous une nouvelle enseigne ou structure administrative non déclarée, tout en conservant le matériel dangereux à l'origine de mon accident.
 

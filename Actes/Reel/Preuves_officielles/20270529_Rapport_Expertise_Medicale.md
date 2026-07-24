@@ -18,7 +18,7 @@ reel_path: ../../Preuves_officielles/20270529_Rapport_Expertise_Medicale.md
 jx: J+365
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [👤 Reel](../README.md) › [Preuves officielles](./README.md) › 20270529 Rapport Expertise Medicale ([🎭](../../Token/Preuves_officielles/20270529_Rapport_Expertise_Medicale.md))*
+*[🏠](../../../README.md) › [📁 Actes](../../README.md) › [🎭 Token](../README.md) › [Preuves officielles](./README.md) › 20270529 Rapport Expertise Medicale ([👤](../../Preuves_officielles/20270529_Rapport_Expertise_Medicale.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -52,13 +52,13 @@ L'expert a convoqué Sébastien GRAZIDE par lettre recommandée du 24 avril 2027
 
 - [Certificat médical initial](../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) du Dr Dr Julie JARDON (SMUR), 29 mai 2026
 
-- [Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) du Dr Iskander DJERBI (SOS Main), 30 mai 2026
+- [Compte-rendu opératoire](../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) du Dr Iskander DJERBI (SOS Main), 30 mai 2026
 
 - Comptes-rendus de consultations de suivi chirurgical : 12 juin, 3 juillet, 24 juillet 2026
 
 - Prescriptions et bilans de rééducation kinésithérapie (juin 2026 — mars 2027)
 
-- Certificats d'[arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (ITT du 29 mai 2026 au 23 juillet 2026)
+- Certificats d'[arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) (ITT du 29 mai 2026 au 23 juillet 2026)
 
 - Imagerie médicale : radiographies de contrôle (30 mai, 12 juin 2026)
 
@@ -94,7 +94,7 @@ Le préposé de l'établissement a entrepris de régler un téléviseur fixé en
 
 - Prise en charge ergothérapique à partir de novembre 2026 (rééducation sensitive, désensibilisation)
 
-- [Arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total du 29 mai 2026 au 23 juillet 2026 (55 jours)
+- [Arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total du 29 mai 2026 au 23 juillet 2026 (55 jours)
 
 - Reprise professionnelle progressive à partir d'août 2026 à temps partiel thérapeutique
 

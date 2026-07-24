@@ -418,7 +418,7 @@ tags:
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : [Actes/Preuves officielles/20260618_Assurance_INFORMATION/20260618-1406 DOC AssuranceMaladie DemandeDeRenseignement.md](../Actes/Preuves officielles/20260618_Assurance_INFORMATION/20260618-1406 DOC AssuranceMaladie DemandeDeRenseignement.md)
+- **Fichier** : [Actes/Preuves officielles/20260618_Assurance_INFORMATION/20260618-1406 DOC AssuranceMaladie DemandeDeRenseignement.md](../Actes/Preuves_officielles/20260618_Assurance_INFORMATION/20260618-1406_DOC_AssuranceMaladie_DemandeDeRenseignement.md)
 
 - **Ligne** : 125
 
@@ -430,7 +430,7 @@ tags:
 
 - **Correction** : Remplacer par « ⏳ À faire » ou supprimer la mention de dépôt.
 
-- **Fichier** : [Actes/Preuves officielles/20260603_Attestation_DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md](../Actes/Preuves officielles/20260603_Attestation_DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md)
+- **Fichier** : [Actes/Preuves officielles/20260603_Attestation_DEPOT/20260603-2046 DOSSIER 31727387 AttestationDepot.md](../Actes/Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)
 
 - **Ligne** : 61
 
@@ -518,7 +518,7 @@ tags:
 
 - **Ligne** : 38
 
-- **Citation** : `Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../Actes/Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.`
+- **Citation** : `Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../Actes/Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.`
 
 - **Acte présenté comme fait** : Acte procédural ou démarche administrative
 
@@ -770,7 +770,7 @@ tags:
 
 - **Ligne** : 38
 
-- **Citation** : `Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../Actes/Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.`
+- **Citation** : `Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../Actes/Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.`
 
 - **Acte présenté comme fait** : Acte procédural ou démarche administrative
 

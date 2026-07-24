@@ -47,7 +47,7 @@ jx: J+32
 
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux civil](./README.md) › TJ Foix Refere Provision Assignation ([🎭](../../../Token/Actes_proceduraux/Contentieux_civil/TJ_Foix_Refere_Provision_Assignation.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [⚖️ Actes procéduraux](../README.md) › [Contentieux civil](./README.md) › TJ Foix Refere Provision Assignation ([👤](../../../Actes_proceduraux/Contentieux_civil/TJ_Foix_Refere_Provision_Assignation.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -111,7 +111,7 @@ Cet état de handicap temporaire sévère et documenté explique et justifie le 
 
 Une plainte pénale a été déposée pour blessures involontaires (**[ ...  du J+4 Dépôt de plainte]**) **(Pièce n°1)**. Un dossier de Recours contre Tiers a également été ouvert auprès de la CPAM sous la référence  **(Pièce n°9)**.
 
-À ce jour, le cumul des [**[arrêts de travail]**](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) prescrits s'élève à 55 jours d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) continu (du 29 mai 2026 au 23 juillet 2026 inclus) **(Pièce n°4)**.
+À ce jour, le cumul des [**[arrêts de travail]**](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) prescrits s'élève à 55 jours d'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) continu (du 29 mai 2026 au 23 juillet 2026 inclus) **(Pièce n°4)**.
 <hr><hr>
 
 ## III — DISCUSSION JURIDIQUE
@@ -239,7 +239,7 @@ Le montant de 15 000 € sollicité à titre de provision est justifié par les 
 
 **1. Le montant se situe dans la fourchette basse des provisions usuelles**
 
-Le référentiel indicatif des cours d'appel fixe la fourchette des provisions pour blessures légères à modérées entre **10 000 € et 20 000 €**. Le cas d'Sébastien GRAZIDE (section tendineuse et nerveuse de la main droite dominante, intervention chirurgicale lourde, [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) de 55 jours, séquelles nerveuses persistantes, absence de consolidation) se situe dans cette catégorie. La demande de 15 000 € constitue le **minimum de cette fourchette**.
+Le référentiel indicatif des cours d'appel fixe la fourchette des provisions pour blessures légères à modérées entre **10 000 € et 20 000 €**. Le cas d'Sébastien GRAZIDE (section tendineuse et nerveuse de la main droite dominante, intervention chirurgicale lourde, [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) de 55 jours, séquelles nerveuses persistantes, absence de consolidation) se situe dans cette catégorie. La demande de 15 000 € constitue le **minimum de cette fourchette**.
 
 **2. La provision est proportionnée au préjudice global estimé**
 
@@ -297,7 +297,7 @@ Il est donc demandé au juge des référés d'ordonner à SAS HB BARBER de commu
 Sébastien GRAZIDE est informaticien indépendant. L'atteinte physique sévère à sa main droite (dominante) limite gravement son activité professionnelle d'informaticien.
 
 - **(PGPA) Pertes de Gains Professionnels Actuels** : <br>
-    Evaluées à 1 380 € au titre de la perte de revenus durant les 55 jours d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (sur la base du chiffre d'affaires mensuel moyen de 750 € déclaré à l'URSSAF).
+    Evaluées à 1 380 € au titre de la perte de revenus durant les 55 jours d'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) (sur la base du chiffre d'affaires mensuel moyen de 750 € déclaré à l'URSSAF).
 
 - **(DFP / AIPP) Déficit Fonctionnel Permanent** : <br>
     Chiffrage provisionnel et indicatif, sous réserve de consolidation médicale future et d'expertise judiciaire contradictoire. Estimation provisoire sur la base d'un taux de 10 % (25 000 € au barème de capitalisation pour un homme de 44 ans).
@@ -372,7 +372,7 @@ Nom Prénom de l'Avocat
 
 3. [**[Compte-rendu opératoire]**](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) de microchirurgie rédigé par Dr Iskander DJERBI (30 mai 2026)
 
-4. Certificats médicaux d'[arrêts de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) justifiant 55 jours d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)
+4. Certificats médicaux d'[arrêts de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) justifiant 55 jours d'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md)
 
 5. Réquisition judiciaire UMJ et retranscription téléphonique de prise de rendez-vous
 

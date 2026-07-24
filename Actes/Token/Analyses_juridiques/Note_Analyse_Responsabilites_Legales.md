@@ -190,7 +190,7 @@ Si la SAS a une assurance RC Pro (même inconnue à ce jour), l'action directe e
 ### V.2 — FGTI / CIVI — VOIE PRINCIPALE (ART. 706-3 CPP)
 
 **Conditions remplies :**
-1. Infraction pénale (blessures involontaires, art. 222-20 CP) — ITT pénale 1 jour, [arrêt de travail](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 55 jours ✅
+1. Infraction pénale (blessures involontaires, art. 222-20 CP) — ITT pénale 1 jour, [arrêt de travail](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) 55 jours ✅
 
 2. Auteur insolvable ([**[Capital Social de l'Exploitation]**](../../../Memory/Tokens/token-exploitation-capital-social.md) ✅
 

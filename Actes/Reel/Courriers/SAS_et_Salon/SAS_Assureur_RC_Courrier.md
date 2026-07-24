@@ -29,7 +29,7 @@ reel_path: ../../../Courriers/SAS_&_Salon/SAS - Assureur RC - Courrier.md
 jx: J+50
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS Assureur RC Courrier ([🎭](../../../Token/Courriers/SAS_et_Salon/SAS_Assureur_RC_Courrier.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [SAS et Salon](./README.md) › SAS Assureur RC Courrier ([👤](../../../Courriers/SAS_et_Salon/SAS_Assureur_RC_Courrier.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -65,7 +65,7 @@ Je soussigné Sébastien GRAZIDE, demeurant 10 Avenue de Purpan, 31700 Blagnac, 
 
 Alors que je me trouvais installé au bac à shampoing, un salarié du salon est monté sur la vasque en céramique pour régler un téléviseur, en l'absence de tout équipement adapté (escabeau, marchepied). En descendant, la vasque a basculé brutalement. En tentant de le protéger par réflexe, j'ai tendu ma main droite — ma main dominante — qui a heurté une cassure majeure préexistante, non signalée, sur le flanc de la vasque.
 
-Cet accident a entraîné une section complète du tendon fléchisseur profond (FDP) de l'index droit, ainsi qu'une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une intervention de microchirurgie d'urgence le 30 mai 2026. Mon [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total a été initialement fixé à 55 jours, avant une longue phase de rééducation.
+Cet accident a entraîné une section complète du tendon fléchisseur profond (FDP) de l'index droit, ainsi qu'une section du paquet vasculo-nerveux collatéral radial, ayant nécessité une intervention de microchirurgie d'urgence le 30 mai 2026. Mon [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total a été initialement fixé à 55 jours, avant une longue phase de rééducation.
 
 Une expertise médicale judiciaire a depuis été réalisée. Par rapport en date du 12 juin 2027, l'expert retient notamment :
 
@@ -101,8 +101,8 @@ En application de ce texte, je vous mets donc formellement en demeure, en votre 
 
 4. **Me verser, à titre de provision**, une somme de **15 000 € (quinze mille euros)** à valoir sur l'indemnisation définitive de mes préjudices, montant cohérent avec :
 
-   - la preuve de l'accident et des lésions (PV de police, [certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md), [compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)),
-   - la durée d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (55 jours) et la consolidation à 12 mois,
+   - la preuve de l'accident et des lésions (PV de police, [certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md), [compte-rendu opératoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)),
+   - la durée d'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) (55 jours) et la consolidation à 12 mois,
    - les conclusions de l'expertise médicale judiciaire (DFP 12 %, SE 4/7, incidence professionnelle majeure),
    - les évaluations Dintilhac déjà produites.
 
@@ -112,7 +112,7 @@ Je joins à la présente, pour bonne information :
 
 - copie du [certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) du 29 mai 2026 ;
 
-- copie du [compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) du 30 mai 2026 ;
+- copie du [compte-rendu opératoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) du 30 mai 2026 ;
 
 - copie du rapport d'expertise médicale du 12 juin 2027 ;
 

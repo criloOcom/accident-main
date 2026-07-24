@@ -57,7 +57,7 @@ Le chirurgien préconise la poursuite de la rééducation ([J+25 Première kiné
 
 ## Documents liés
 
-- [Compte-rendu contrôle Dr DJERBI 19/06](../../Actes/Preuves%20officielles/20260619_DrDJERBI_MAIL/20260619-1528%20MAIL%20DrDjerbi.md)
+- [Compte-rendu contrôle Dr DJERBI 19/06](../../Actes/Preuves_officielles/20260619_DrDJERBI_MAIL/20260619-1528_MAIL_DrDjerbi.md)
 
 ## Source
 

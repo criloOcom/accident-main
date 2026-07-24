@@ -37,9 +37,9 @@ auteur: La Victime
 > La version officielle à déposer est le fichier **36 📜 PLAINTE_COMPLEMENTAIRE_POLICE_FOIX.md**.
 
 # 📋 ANTISÈCHE ORALE<br>Plainte Complémentaire
-# **Dossier [PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)<br>Accident du 29 mai 2026**
+# **Dossier [PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)<br>Accident du 29 mai 2026**
 
-**À l'attention de : Commissariat de Police de Foix — Service des Plaintes — Officier en charge du [PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)**
+**À l'attention de : Commissariat de Police de Foix — Service des Plaintes — Officier en charge du [PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)**
 
 **Déposant :** [Moi — mon identité]
 ## I — 🎯 **OBJET : PLAINTE COMPLÉMENTAIRE**
@@ -49,11 +49,11 @@ auteur: La Victime
 
 ## II — 📝 **EXPOSÉ DES FAITS**
 
-### II.1 — **1. Contexte initial ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))**
+### II.1 — **1. Contexte initial ([PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md))**
 
 Le 29 mai 2026, j'ai été victime d'un accident grave dans le salon de coiffure **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** situé au **[L'Adresse de l'Exploitation](../../../../Memory/Tokens/token-exploitation-adresse.md)**, entraînant une section nerveuse et tendineuse de la main droite nécessitant une intervention chirurgicale en urgence.
 
-Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.
+Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)) pour blessures involontaires et défaut de sécurité.
 
 ### II.2 — **2. Obstruction à la justice — Refus de communiquer l'assurance RC**
 
@@ -218,7 +218,7 @@ Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../
 
 ## IV — 📌 **PIÈCES JUSTIFICATIVES JOINTS**
 
-1. **Copie du [PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** (plainte initiale)
+1. **Copie du [PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** (plainte initiale)
 
 2. **Copie des LRAR retournés NPAI** (preuves de l'obstruction)
 
@@ -226,7 +226,7 @@ Une plainte pénale a été déposée le 2 juin 2026 ([PV n°2026/015967](../../
 
 4. **Photos du salon rouvert** (preuve de l'activité)
 
-5. **Dossier médical** (certificats médicaux, [CR opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md))
+5. **Dossier médical** (certificats médicaux, [CR opératoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md))
 
 6. **Mises en demeure non répondus** (preuves de la mauvaise volonté)
 <hr><hr>

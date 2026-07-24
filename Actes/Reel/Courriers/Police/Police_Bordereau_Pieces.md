@@ -12,7 +12,7 @@ auteur: La Victime
 reel_path: ../../../Courriers/Police/Police - Bordereau Pièces.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Bordereau Pieces ([🎭](../../../Token/Courriers/Police/Police_Bordereau_Pieces.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Bordereau Pieces ([👤](../../../Courriers/Police/Police_Bordereau_Pieces.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -69,7 +69,7 @@ Blagnac, le 27 juillet 2026
 
 12. ☐ **Certificat médical Dr OXYBEL** — 01/06/2026 — 1 page
 
-13. ☐ **[Arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (15 jours, 01-12/06/2026)** — 1 page
+13. ☐ **[Arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) (15 jours, 01-12/06/2026)** — 1 page
 
 14. ☐ **Ordonnances (Augmentin, Doliprane, Izalgi)** — 2 pages
 
@@ -87,7 +87,7 @@ Blagnac, le 27 juillet 2026
 
 20. ☐ **Copies LRAR adressées au salon le 29/06/2026** — 4 pages
 
-21. ☐ **Attestation de droits CPAM (n° [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) [ ... ])** — 1 page
+21. ☐ **Attestation de droits CPAM (n° [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) [ ... ])** — 1 page
 
 22. ☐ **Capture d'écran WhatsApp Ayoub BENNOURINE 18/07/2026** — message au [07 58 40 12 87](../../../../Memory/TOKEN%20MAP.md%23donnees-localisantes) + CERFA 11527\*03 joint — pas de retour — 1 page
 

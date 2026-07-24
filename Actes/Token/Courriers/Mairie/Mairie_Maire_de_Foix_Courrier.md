@@ -64,7 +64,7 @@ Par la présente, je me permets d'attirer votre attention sur une situation cons
 
 Le 29 mai 2026, j'ai été victime d'un accident corporel grave au sein de cet établissement recevant du public (ERP).
 
-Une vasque en céramique lourdement endommagée, ne respectant pas les normes élémentaires de sécurité, a causé des blessures majeures ayant entraîné une intervention chirurgicale en urgence et un [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours.
+Une vasque en céramique lourdement endommagée, ne respectant pas les normes élémentaires de sécurité, a causé des blessures majeures ayant entraîné une intervention chirurgicale en urgence et un [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total de 55 jours.
 
 En votre qualité de premier magistrat de la commune, il vous appartient d'assurer le bon ordre, la sûreté, la sécurité et la salubrité publiques. En vertu de l'[article L. 2212-2 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946370)[^1], la police municipale a pour objet d'assurer la sécurité et la commodité du passage dans les rues, quais, places et voies publiques, mais également de prévenir les accidents et les fléaux calamiteux au sein des établissements ouverts au public.
 
@@ -101,13 +101,13 @@ Je vous prie de croire, Monsieur le Maire, à l'expression de ma considération 
 <!-- PJ -->
 ## PIECES JOINTES
 
-- **[Procès-verbal de police n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
+- **[Procès-verbal de police n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte du 2 juin 2026
 
-- **[Compte-rendu operatoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** — Blessures documentees par SOS Main
+- **[Compte-rendu operatoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** — Blessures documentees par SOS Main
 
 - **[Certificat medical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** — Constatation des blessures par le Dr [**[Le Médecin en Urgence](../../../../Memory/Tokens/token-hopital-urgence-medecin.md)**]
 
-- **[Arrets de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)** — [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total de 55 jours
+- **[Arrets de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md)** — [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total de 55 jours
 <!-- /PJ -->
 
 <!-- Source -->

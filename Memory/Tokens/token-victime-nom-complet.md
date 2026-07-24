@@ -54,11 +54,11 @@ Victime directe de l'accident corporel du **29 mai 2026** ([J+0 Accident](token-
 
 ## Documents liés
 
-- [Compte rendu urgences Dr JARDON — 29/05/2026](../../Actes/Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)
+- [Compte rendu urgences Dr JARDON — 29/05/2026](../../Actes/Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)
 
-- [CR opératoire — 30/05/2026](../../Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)
+- [CR opératoire — 30/05/2026](../../Actes/Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)
 
-- [PV Police n°2026/015967](../../Actes/Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)
+- [PV Police n°2026/015967](../../Actes/Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)
 
 ## Source
 

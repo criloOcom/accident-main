@@ -51,7 +51,7 @@ Cette facture constitue la **dépense de santé effective** supportée par **[La
 
 ## Documents liés
 
-- [Facture chirurgie 790,23 €](../../Actes/Preuves%20officielles/20260610_SOSMain_Facture/20260610-xxxx%20Facture%20Chirurgie%20SOSMain%20790euros.md)
+- [Facture chirurgie 790,23 €](../../Actes/Preuves_officielles/20260610_SOSMain_Facture/20260610-xxxx_Facture_Chirurgie_SOSMain_790euros.md)
 
 ## Source
 

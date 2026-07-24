@@ -25,7 +25,7 @@ drive_id: 1_cHcprI9XKolVZZd6ef1MHCu1jts7YY40uOi3u1WATY
 jx: J+38
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [CPAM](./README.md) › CPAM Recours Tiers Saisine ([🎭](../../../Token/Courriers/CPAM/CPAM_Recours_Tiers_Saisine.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [CPAM](./README.md) › CPAM Recours Tiers Saisine ([👤](../../../Courriers/CPAM/CPAM_Recours_Tiers_Saisine.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -36,7 +36,7 @@ jx: J+38
 <!-- Objet -->
 <hr>
 
-Objet : Transmission d'elements et bordereau recapitulatif — Recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
+Objet : Transmission d'elements et bordereau recapitulatif — Recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**
 
 <hr>
 <!-- /Objet -->
@@ -46,16 +46,16 @@ Ref : Accident du 29 mai 2026 — SAS SAS HB BARBER — SIREN 104 103 262
 Madame, Monsieur,
 ## I — INTRODUCTION
 
-La presente est adressee a vos services par Sébastien GRAZIDE afin de vous informer de l'etat d'avancement des procedures judiciaires engagees a la suite de l'accident corporel grave dont j'ai ete victime le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS HB BARBER, et de vous transmettre les elements actualises necessaires au suivi de mon dossier de recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
+La presente est adressee a vos services par Sébastien GRAZIDE afin de vous informer de l'etat d'avancement des procedures judiciaires engagees a la suite de l'accident corporel grave dont j'ai ete victime le 29 mai 2026 au sein du salon de coiffure exploite par la SAS SAS HB BARBER, et de vous transmettre les elements actualises necessaires au suivi de mon dossier de recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**.
 <hr><hr>
 
 ## II — RAPPEL DU DOSSIER
 
-Mon dossier de recours contre tiers a ete ouvert par vos services le 3 juin 2026 sous le numero **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**, suite a l'accident corporel survenu le 29 mai 2026.
+Mon dossier de recours contre tiers a ete ouvert par vos services le 3 juin 2026 sous le numero **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**, suite a l'accident corporel survenu le 29 mai 2026.
 
 L'accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte mis a disposition par l'employeur. Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main le 30 mai 2026 par Dr Iskander DJERBI.
 
-Mon [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total a ete evalue a 55 jours (du 29 mai 2026 au 23 juillet 2026).
+Mon [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total a ete evalue a 55 jours (du 29 mai 2026 au 23 juillet 2026).
 <hr><hr>
 
 ## III — PROCEDURES JUDICIAIRES ENGAGEES
@@ -119,11 +119,11 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 
 - **Pièce n°1 :** [Certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) (Dr Dr Oxybel) — 29 mai 2026
 
-- **Pièce n°2 :** [Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) SOS Main (Dr Dr Iskander DJERBI) — 30 mai 2026
+- **Pièce n°2 :** [Compte-rendu opératoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) SOS Main (Dr Dr Iskander DJERBI) — 30 mai 2026
 
 - **Pièce n°3 :** Bulletin de sortie Clinique de l'Union — 31 mai 2026
 
-- **Pièce n°4 :** Certificats d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (55 jours) — 1 juin 2026
+- **Pièce n°4 :** Certificats d'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) (55 jours) — 1 juin 2026
 
 - **Pièce n°5 :** Ordonnances et prescriptions médicales — 1 juin 2026
 
@@ -147,7 +147,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 
 **C. Pièces administratives CPAM**
 
-- **Pièce n°14 :** Accusé de réception d'ouverture de [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) — Dossier n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
+- **Pièce n°14 :** Accusé de réception d'ouverture de [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) — Dossier n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**
 
 - **Pièce n°15 :** Courriers échangés avec la gestionnaire de dossier — Sigrid DESBOIS
 <hr><hr>
@@ -156,7 +156,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 
 Je sollicite de vos services :
 
-**1. La confirmation de la bonne reception** des elements transmis par la presente et leur integration a mon [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
+**1. La confirmation de la bonne reception** des elements transmis par la presente et leur integration a mon [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**.
 
 **2. Le montant des debours definitifs** conformement a l'article L.376-1 du Code de la securite sociale, necessaire a l'evaluation globale de mon prejudice dans le cadre des procedures judiciaires en cours.
 
@@ -198,7 +198,7 @@ Je sollicite de vos services :
 
 **3. L'information sur le suivi du dossier** et les demarches complementaires eventuellement necessaires de ma part.
 
-**4. L'identification de l'assureur** de la SAS SAS HB BARBER si vos services disposent de cette information dans le cadre de la gestion du [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md).
+**4. L'identification de l'assureur** de la SAS SAS HB BARBER si vos services disposent de cette information dans le cadre de la gestion du [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md).
 
 Mes coordonnees demeurent : 10 Avenue de Purpan, 31700 Blagnac — sebastien.grazide@gmail.com
 

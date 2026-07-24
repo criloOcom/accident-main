@@ -36,7 +36,7 @@ Médecin ayant assuré la **prise en charge d'urgence** de [La Victime](token-vi
 
 ## Documents liés
 
-- [Compte rendu urgences Dr JARDON — 29/05/2026](../../Actes/Preuves%20officielles/20260529_DrJARDON/20260529-1630%20SITUATION%20DrJulieJARDON.md)
+- [Compte rendu urgences Dr JARDON — 29/05/2026](../../Actes/Preuves_officielles/20260529_DrJARDON/20260529-1630_SITUATION_DrJulieJARDON.md)
 
 ## Source
 

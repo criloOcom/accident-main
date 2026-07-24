@@ -21,7 +21,7 @@ jx: J+44
 ---
 
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md) › TJ Foix Courrier Preuves Complementaires ([🎭](../../../Token/Courriers/Justice/TJ_Foix_Courrier_Preuves_Complementaires.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Justice](./README.md) › TJ Foix Courrier Preuves Complementaires ([👤](../../../Courriers/Justice/TJ_Foix_Courrier_Preuves_Complementaires.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -52,7 +52,7 @@ Foix, le 12 juillet 2026
 
 <hr><hr>
 
-**Objet : Transmission de preuves complementaires — [PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md) — Accident corporel du 29 mai 2026**
+**Objet : Transmission de preuves complementaires — [PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md) — Accident corporel du 29 mai 2026**
 
 <hr><hr>
 
@@ -60,7 +60,7 @@ Foix, le 12 juillet 2026
 
 <hr><hr>
 
-**Ref : SIREN 104 103 262 — [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
+**Ref : SIREN 104 103 262 — [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**
 
 Monsieur le President,
 ## I — INTRODUCTION
@@ -78,7 +78,7 @@ Le 29 mai 2026, j'ai ete victime d'un accident corporel grave au sein du salon d
 
 Les procedures suivantes ont ete engagees :
 
-1. **Plainte penale** deposee aupres du Commissariat de Police de Foix ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md))
+1. **Plainte penale** deposee aupres du Commissariat de Police de Foix ([PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md))
 
 2. **Mises en demeure LRAR** (29 mai 2026) : retournees NPAI
 
@@ -93,16 +93,16 @@ Je transmets par la presente les pieces suivantes :
 
 1. **Accuses de reception des courriers recommandes retournes** (29 mai 2026) — preuve de la non-distribution et de l'impossibilite de notifier la SAS
 
-2. **Copie du [PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — procedure penale en cours
+2. **Copie du [PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — procedure penale en cours
 
-3. **[[[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS [SAS HB BARBER](../../../../Memory/TOKEN%20MAP.md%23personnes-morales)](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — confirmant le siege social au 22 Rue Lafaurie, 09000 Foix
+3. **[[[Extrait Kbis](../../../Preuves_officielles/20260601_Kbis/20260601-xxxx_Extrait_Kbis_SAS_MauvaisGarcons.md) de la SAS [SAS HB BARBER](../../../../Memory/TOKEN%20MAP.md%23personnes-morales)](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — confirmant le siege social au 22 Rue Lafaurie, 09000 Foix
 
 4. **Note d'audit RNE/INPI** du 10 juillet 2026 — confirmant que la SAS est toujours active a la meme adresse, sans modification de siege
 <hr><hr>
 
 ## III — DEMANDE
 
-Je sollicite de votre bienveillance que les pieces ci-jointes soient **integrees au dossier de l'enquete preliminaire** en cours sous le [PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md).
+Je sollicite de votre bienveillance que les pieces ci-jointes soient **integrees au dossier de l'enquete preliminaire** en cours sous le [PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md).
 
 Ces elements etablissent que :
 - La SAS SAS HB BARBER ne peut etre notifiee a son siege social declare
@@ -128,9 +128,9 @@ Sébastien GRAZIDE
 
 - **[Note - Suivi Envois LRAR.md](../../../Organisation/Note%20-%20Suivi%20Envois%20LRAR.md)** — Accusés de réception des courriers recommandés retournés
 
-- **[PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
+- **[PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)** — Depot de plainte et circonstances de l'accident
 
-- **[[Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) SAS SAS HB BARBER](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN 104 103 262
+- **[[Extrait Kbis](../../../Preuves_officielles/20260601_Kbis/20260601-xxxx_Extrait_Kbis_SAS_MauvaisGarcons.md) SAS SAS HB BARBER](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md)** — SIREN 104 103 262
 
 - **[Note - Audit RNE NPAI SAS.md](../../../Analyses_juridiques/Note%20-%20Audit%20RNE%20NPAI%20SAS.md)** — Note d'audit RNE/INPI du 10 juillet 2026
 <!-- /PJ -->

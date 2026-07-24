@@ -27,15 +27,15 @@ reel_path: ../../Reel/Preuves_officielles/Preparation_Expertise_UMJ.md
 
 - [ ] Carte mutuelle
 
-### I.2 — DOCUMENTS MÉDICAUX — ACCIDENT INITIAL- [ ] **[Compte-rendu opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)** (**[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**, 30/05/2026) — microchirurgie tendons/nerfs index droit
+### I.2 — DOCUMENTS MÉDICAUX — ACCIDENT INITIAL- [ ] **[Compte-rendu opératoire](../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)** (**[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**, 30/05/2026) — microchirurgie tendons/nerfs index droit
 
 - [ ] **[Premiers soins](../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md)** (**[Le Médecin en Urgence](../../../Memory/Tokens/token-hopital-urgence-medecin.md)**, 29/05/2026, 16h30)
 
 - [ ] **Prescription initiale** (**[Le Médecin en Urgence](../../../Memory/Tokens/token-hopital-urgence-medecin.md)**)
 
-- [ ] **[Ordonnance de sortie](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530-1700%20Ordonnance%20Sortie%20DrDJERBI.md)** (**[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**, 30/05/2026) — antalgiques
+- [ ] **[Ordonnance de sortie](../../Preuves_officielles/20260530_🆘_SOSMain/20260530-1700_Ordonnance_Sortie_DrDJERBI.md)** (**[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**, 30/05/2026) — antalgiques
 
-### I.3 — [ARRÊTS DE TRAVAIL](../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md)- [ ] **Arrêt initial** (**[Le Médecin Généraliste](../../../Memory/Tokens/token-victime-medecin-generaliste.md)**, 01/06/2026, 15j)
+### I.3 — [ARRÊTS DE TRAVAIL](../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md)- [ ] **Arrêt initial** (**[Le Médecin Généraliste](../../../Memory/Tokens/token-victime-medecin-generaliste.md)**, 01/06/2026, 15j)
 
 - [ ] **Prolongation 1** (11j)
 
@@ -57,7 +57,7 @@ reel_path: ../../Reel/Preuves_officielles/Preparation_Expertise_UMJ.md
 
 - [ ] Photos lésions initiales (si disponibles)
 
-- [ ] [Dossier CPAM](../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) (RCT **[N° [Dossier CPAM](../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**)
+- [ ] [Dossier CPAM](../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) (RCT **[N° [Dossier CPAM](../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**)
 
 ---
 
@@ -65,7 +65,7 @@ reel_path: ../../Reel/Preuves_officielles/Preparation_Expertise_UMJ.md
 ## II — DOCUMENTS DÉJÀ DISPONIBLES SUR DRIVE| Pièce | Drive |
 
 |-------|-------|
-| [CR opératoire](../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) **[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** | [Lien](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |
+| [CR opératoire](../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) **[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** | [Lien](https://drive.google.com/file/d/1lwmms_NV6HY2pR4wGA1CIdu4LIQC-nD9/view) |
 | Ordonnance sortie **[Le Chirurgien SOS Main](../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)** | [Lien](https://drive.google.com/file/d/1CasEuj6N2FVmg9kAxKhdqKD70UYmq4Vh/view) |
 | [Premiers soins](../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) **[Le Médecin en Urgence](../../../Memory/Tokens/token-hopital-urgence-medecin.md)** | [Lien](https://drive.google.com/file/d/1WzTk0Mlm2BKgA51eBzYhSKBvpAiTiuVf/view) |
 | Prescription **[Le Médecin en Urgence](../../../Memory/Tokens/token-hopital-urgence-medecin.md)** | [Lien](https://drive.google.com/file/d/16ZtYjUZW0dmH0UPrHQG9bLlpWdOwflcA/view) |

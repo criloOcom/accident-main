@@ -11,7 +11,7 @@ auteur: La Victime
 reel_path: ../../../Courriers/Police/Police - Note Frise Chronologique.md
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Note Frise Chronologique ([🎭](../../../Token/Courriers/Police/Police_Note_Frise_Chronologique.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Note Frise Chronologique ([👤](../../../Courriers/Police/Police_Note_Frise_Chronologique.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -42,7 +42,7 @@ Blagnac, le 17 juillet 2026
 | **22/04/2026** | Création de la **SAS SAS HB BARBER** (SIREN 104 103 262) au 22 Rue Lafaurie, Foix | Même adresse, même activité (coiffure/barbier), DG commune : Catherine SORROCHE, dite ANDISSAC |
 | **29/05/2026** | **Accident** de la main droite de Sébastien GRAZIDE dans le salon au 22 Rue Lafaurie | Basculement d'un bac à shampoing cassé ; plaie profonde 8,5 cm, section tendons + nerfs index droit |
 | **30/05/2026** | Opération en urgence (SOS Main – Dr Iskander DJERBI) | Chirurgie de reconstruction tendino-nerveuse |
-| **01/06/2026** | Constat généraliste (Dr OXYBEL) + [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) 15 jours | Impact direct sur activité d'informaticien indépendant droitier |
+| **01/06/2026** | Constat généraliste (Dr OXYBEL) + [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) 15 jours | Impact direct sur activité d'informaticien indépendant droitier |
 | **02/06/2026** | Plainte pénale déposée à Toulouse Rive Droite (PV n° 2026/015967) | Exploitant alors indiqué : SAS LES MAUVAIS GARÇONS (incertitude précisée au PV) |
 | **29/06/2026** | Envoi d'une vague de LRAR (SAS LES MAUVAIS GARÇONS, Sabir MOUNTASSER, Catherine ANDISSAC, bailleur, CPAM, TJ Foix) | Plusieurs non réclamés / retours ; AR numériques pour CPAM, bailleur, tribunal |
 | **03/07/2026** | Réception LRAR par le bailleur Romain DELRIEU | Il répondra plus tard le 16/07 |

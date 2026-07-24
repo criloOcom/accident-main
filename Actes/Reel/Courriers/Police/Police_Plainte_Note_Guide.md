@@ -21,7 +21,7 @@ reel_path: ../../../Courriers/Police/Police_Plainte_Note_Guide.md
 jx: J+47
 ---
 <!-- Breadcrumb -->
-*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [👤 Reel](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Plainte Note Guide ([🎭](../../../Token/Courriers/Police/Police_Plainte_Note_Guide.md))*
+*[🏠](../../../../README.md) › [📁 Actes](../../../README.md) › [🎭 Token](../../README.md) › [📨 Courriers](../README.md) › [Police](./README.md) › Police Plainte Note Guide ([👤](../../../Courriers/Police/Police_Plainte_Note_Guide.md))*
 <hr>
 <!-- /Breadcrumb -->
 
@@ -58,13 +58,13 @@ Blagnac, le 11 juillet 2026
 
 - [ ] Accusés de réception des LRAR retournés NPAI
 
-- [ ] [Extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) de la SAS
+- [ ] [Extrait Kbis](../../../Preuves_officielles/20260601_Kbis/20260601-xxxx_Extrait_Kbis_SAS_MauvaisGarcons.md) de la SAS
 
 - [ ] Note d'audit RNE/INPI du 10/07/2026
 
 - [ ] Photos de l'accident et de la vasque cassée (format papier + numérique)
 
-- [ ] Certificats médicaux ([CR opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md), [arrêts de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md))
+- [ ] Certificats médicaux ([CR opératoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md), [arrêts de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md))
 
 - [ ] Liste chronologique des démarches
 
@@ -99,7 +99,7 @@ Blagnac, le 11 juillet 2026
 
 ### II.1 — À l'accueil du commissariat
 
-**Vous :** "Bonjour Madame/Monsieur, je suis Sébastien GRAZIDE. J'ai déposé une plainte le 1er juin 2026 ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)) pour un accident corporel grave survenu au salon de coiffure 'SAS HB BARBER'. Je souhaite déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves. Pouvez-vous me diriger vers le service compétent ?"
+**Vous :** "Bonjour Madame/Monsieur, je suis Sébastien GRAZIDE. J'ai déposé une plainte le 1er juin 2026 ([PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)) pour un accident corporel grave survenu au salon de coiffure 'SAS HB BARBER'. Je souhaite déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves. Pouvez-vous me diriger vers le service compétent ?"
 
 **Si on vous demande d'attendre :**
 "Bien sûr, je comprends. Puis-je avoir un numéro ou un ticket pour suivre mon tour ? Combien de temps l'attente est-elle généralement ?"
@@ -113,7 +113,7 @@ Blagnac, le 11 juillet 2026
 
 ### III.1 — Introduction auprès de l'officier
 
-**Vous :** "Bonjour Monsieur/Madame l'Officier. Je m'appelle Sébastien GRAZIDE, je suis la victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiffure 'SAS HB BARBER' situé au 22 Rue Lafaurie, 09000 Foix. J'ai déjà déposé une plainte initiale le 1er juin ([PV n°2026/015967](../../../Preuves%20officielles/20260602_Police_PV/20260602%20PV%20Police%20PV%20n%C2%B02026-015967%20AccidentSalonCoiffure.md)), et je souhaite aujourd'hui déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves par les dirigeants de l'établissement."
+**Vous :** "Bonjour Monsieur/Madame l'Officier. Je m'appelle Sébastien GRAZIDE, je suis la victime d'un accident corporel grave survenu le 29 mai 2026 au salon de coiffure 'SAS HB BARBER' situé au 22 Rue Lafaurie, 09000 Foix. J'ai déjà déposé une plainte initiale le 1er juin ([PV n°2026/015967](../../../Preuves_officielles/20260602_Police_PV/20260602_PV_Police_PV_n°2026-015967_AccidentSalonCoiffure.md)), et je souhaite aujourd'hui déposer une plainte complémentaire pour obstruction à la justice et dissimulation de preuves par les dirigeants de l'établissement."
 
 **Remettez votre dossier en disant :**
 "Voici le dossier complet que j'ai préparé. Il contient la plainte complémentaire détaillée avec toutes les références juridiques, ainsi que les pièces justificatives. Je peux vous en faire un résumé si vous le souhaitez, ou vous préférez le parcourir d'abord ?"
@@ -124,7 +124,7 @@ Blagnac, le 11 juillet 2026
 ### IV.1 — Résumé structuré (2-3 minutes max)
 
 **1. Rappel des faits initiaux (30 secondes) :**
-"Le 29 mai dernier, alors que je me trouvais en qualité de client dans ce salon, un employé est monté sur une vasque en céramique instable pour régler la télévision. La vasque a basculé, et ma main droite a heurté une cassure préexistante aux arêtes tranchantes. Résultat : une section nerveuse et tendineuse de l'index droit, une microchirurgie d'urgence, et 55 jours d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) avec des séquelles durables."
+"Le 29 mai dernier, alors que je me trouvais en qualité de client dans ce salon, un employé est monté sur une vasque en céramique instable pour régler la télévision. La vasque a basculé, et ma main droite a heurté une cassure préexistante aux arêtes tranchantes. Résultat : une section nerveuse et tendineuse de l'index droit, une microchirurgie d'urgence, et 55 jours d'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) avec des séquelles durables."
 
 **2. Obstruction caractérisée (45 secondes) :**
 "Depuis l'accident, j'ai tenté à plusieurs reprises d'obtenir les coordonnées de l'assurance responsabilité civile de l'établissement, comme la loi l'exige (Article L. 124-3 du Code des assurances[^n1]). J'ai envoyé des mises en demeure par LRAR aux dirigeants le 29 juin. Ces courriers m'ont été retournés 'défaut d'adresse', alors que la société est toujours officiellement immatriculée à cette adresse. Personne ne répond, ni aux courriers, ni aux appels. C'est une obstruction claire à mon droit d'agir contre l'assureur."
@@ -152,7 +152,7 @@ Blagnac, le 11 juillet 2026
 > **Code de procédure pénale > Section 2 : De la constitution de la partie civile et de ses effets — abrogation différée.**
 
 **Q : "Avez-vous des preuves tangibles de cette obstruction ?"**
-**R :** "Oui, absolument. J'ai ici les accusés de réception des courriers recommandés retournés 'défaut d'adresse' (je les montre), alors que l'[extrait Kbis](../../../Preuves%20officielles/20260601_Kbis/20260601-xxxx%20Extrait%20Kbis%20SAS%20MauvaisGarcons.md) prouve que la société est toujours à cette adresse. J'ai aussi la note d'audit RNE/INPI qui confirme qu'aucun changement n'a été déclaré. Et surtout, j'ai le silence radio complet malgré mes multiples tentatives de contact."
+**R :** "Oui, absolument. J'ai ici les accusés de réception des courriers recommandés retournés 'défaut d'adresse' (je les montre), alors que l'[extrait Kbis](../../../Preuves_officielles/20260601_Kbis/20260601-xxxx_Extrait_Kbis_SAS_MauvaisGarcons.md) prouve que la société est toujours à cette adresse. J'ai aussi la note d'audit RNE/INPI qui confirme qu'aucun changement n'a été déclaré. Et surtout, j'ai le silence radio complet malgré mes multiples tentatives de contact."
 
 **Q : "Pourquoi ne pas avoir saisi directement un avocat ?"**
 **R :** "J'ai entamé des démarches pour trouver un avocat, mais en parallèle, je considère que ces faits relèvent du pénal et nécessitent une intervention des autorités. L'obstruction à la justice est un délit puni par le Code pénal, et il appartient à la police judiciaire d'enquêter. De plus, je souhaite que ces agissements soient officiellement consignés dans une procédure pénale."

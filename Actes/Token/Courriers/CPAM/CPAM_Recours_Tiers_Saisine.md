@@ -36,7 +36,7 @@ jx: J+38
 <!-- Objet -->
 <hr>
 
-Objet : Transmission d'elements et bordereau recapitulatif — Recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
+Objet : Transmission d'elements et bordereau recapitulatif — Recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**
 
 <hr>
 <!-- /Objet -->
@@ -46,16 +46,16 @@ Ref : Accident du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.
 Madame, Monsieur,
 ## I — INTRODUCTION
 
-La presente est adressee a vos services par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** afin de vous informer de l'etat d'avancement des procedures judiciaires engagees a la suite de l'accident corporel grave dont j'ai ete victime le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, et de vous transmettre les elements actualises necessaires au suivi de mon dossier de recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
+La presente est adressee a vos services par **[La Victime](../../../../Memory/Tokens/token-victime-nom-complet.md)** afin de vous informer de l'etat d'avancement des procedures judiciaires engagees a la suite de l'accident corporel grave dont j'ai ete victime le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au sein du salon de coiffure exploite par la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)**, et de vous transmettre les elements actualises necessaires au suivi de mon dossier de recours contre tiers n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**.
 <hr><hr>
 
 ## II — RAPPEL DU DOSSIER
 
-Mon dossier de recours contre tiers a ete ouvert par vos services le **[J+5 Ouverture CPAM](../../../../Memory/Tokens/token-j-5-ouverture-cpam.md)** sous le numero **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**, suite a l'accident corporel survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**.
+Mon dossier de recours contre tiers a ete ouvert par vos services le **[J+5 Ouverture CPAM](../../../../Memory/Tokens/token-j-5-ouverture-cpam.md)** sous le numero **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**, suite a l'accident corporel survenu le **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**.
 
 L'accident a ete cause par la chute brutale du prepose de l'exploitation depuis un bac a shampoing en ceramique instable et casse, sur lequel il avait du monter pour acceder au poste de television, faute d'equipement d'acces adapte mis a disposition par l'employeur. Sa chute a entraine sur ma main droite une plaie palmaire profonde de 8,5 cm avec section partielle du tendon flechisseur superficiel et du paquet vasculo-nerveux de l'index dominant, ayant necessite une microchirurgie d'urgence en SOS Main le **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)** par **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**.
 
-Mon [arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) total a ete evalue a 55 jours (du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au **[J+55 Fin d'ITT](../../../../Memory/Tokens/token-j-55-fin-d-itt.md)**).
+Mon [arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) total a ete evalue a 55 jours (du **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)** au **[J+55 Fin d'ITT](../../../../Memory/Tokens/token-j-55-fin-d-itt.md)**).
 <hr><hr>
 
 ## III — PROCEDURES JUDICIAIRES ENGAGEES
@@ -119,11 +119,11 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 
 - **Pièce n°1 :** [Certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) (Dr **[Le Médecin Généraliste](../../../../Memory/Tokens/token-victime-medecin-generaliste.md)**) — **[J+0 Accident](../../../../Memory/Tokens/token-j-0-accident.md)**
 
-- **Pièce n°2 :** [Compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) SOS Main (Dr **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**) — **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)**
+- **Pièce n°2 :** [Compte-rendu opératoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) SOS Main (Dr **[Le Chirurgien SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-chirurgien.md)**) — **[J+1 Chirurgie](../../../../Memory/Tokens/token-j-1-chirurgie.md)**
 
 - **Pièce n°3 :** Bulletin de sortie **[L'Établissement SOS Main](../../../../Memory/Tokens/token-hopital-sosmain-nom.md)** — **[J+2 Sortie](../../../../Memory/Tokens/token-j-2-sortie.md)**
 
-- **Pièce n°4 :** Certificats d'[arrêt de travail](../../../Preuves%20officielles/20260601_DrOXYBEL/20260601-1115%20ARRET%20Travail%20Volet1%20DrOXYBEL.md) (55 jours) — **[J+3 Premiers arrêts](../../../../Memory/Tokens/token-j-3-premiers-arrets.md)**
+- **Pièce n°4 :** Certificats d'[arrêt de travail](../../../Preuves_officielles/20260601_DrOXYBEL/20260601-1115_ARRET_Travail_Volet1_DrOXYBEL.md) (55 jours) — **[J+3 Premiers arrêts](../../../../Memory/Tokens/token-j-3-premiers-arrets.md)**
 
 - **Pièce n°5 :** Ordonnances et prescriptions médicales — **[J+3 Premiers arrêts](../../../../Memory/Tokens/token-j-3-premiers-arrets.md)**
 
@@ -147,7 +147,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 
 **C. Pièces administratives CPAM**
 
-- **Pièce n°14 :** Accusé de réception d'ouverture de [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) — Dossier n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**
+- **Pièce n°14 :** Accusé de réception d'ouverture de [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) — Dossier n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**
 
 - **Pièce n°15 :** Courriers échangés avec la gestionnaire de dossier — **[La Gestionnaire CPAM](../../../../Memory/Tokens/token-cpam-gestionnaire-nom.md)**
 <hr><hr>
@@ -156,7 +156,7 @@ Conformement a l'article L.376-1 du Code de la securite sociale, je vous transme
 
 Je sollicite de vos services :
 
-**1. La confirmation de la bonne reception** des elements transmis par la presente et leur integration a mon [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md)]**.
+**1. La confirmation de la bonne reception** des elements transmis par la presente et leur integration a mon [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md) n° **[N° [Dossier CPAM](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md)]**.
 
 **2. Le montant des debours definitifs** conformement a l'article L.376-1 du Code de la securite sociale, necessaire a l'evaluation globale de mon prejudice dans le cadre des procedures judiciaires en cours.
 
@@ -198,7 +198,7 @@ Je sollicite de vos services :
 
 **3. L'information sur le suivi du dossier** et les demarches complementaires eventuellement necessaires de ma part.
 
-**4. L'identification de l'assureur** de la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** si vos services disposent de cette information dans le cadre de la gestion du [dossier RCT](../../../Preuves%20officielles/20260603_Attestation_DEPOT/20260603-2046%20DOSSIER%2031727387%20AttestationDepot.md).
+**4. L'identification de l'assureur** de la SAS **[L'Exploitant du Commerce (La SAS)](../../../../Memory/Tokens/token-exploitation-raison-sociale.md)** si vos services disposent de cette information dans le cadre de la gestion du [dossier RCT](../../../Preuves_officielles/20260603_Attestation_DEPOT/20260603-2046_DOSSIER_31727387_AttestationDepot.md).
 
 Mes coordonnees demeurent : **[L'Adresse de la Victime](../../../../Memory/Tokens/token-victime-adresse.md)** — **[L'Email de la Victime](../../../../Memory/Tokens/token-victime-email.md)**
 

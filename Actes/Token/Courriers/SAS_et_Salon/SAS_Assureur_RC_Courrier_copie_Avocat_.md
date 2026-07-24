@@ -144,7 +144,7 @@ Je joins à la présente l'intégralité des pièces déjà communiquées dans l
 
 - Procès-verbal de police relatif à l'accident ;
 
-- [Certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) du 29 mai 2026 et [compte-rendu opératoire](../../../Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md) du 30 mai 2026 ;
+- [Certificat médical initial](../../../Preuves%20officielles/20260529_Dr[MEDECIN_TRAITANT]/20260529-1630%20SITUATION%20DrJulie[MEDECIN_TRAITANT].md) du 29 mai 2026 et [compte-rendu opératoire](../../../Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md) du 30 mai 2026 ;
 
 - Rapport d'expertise médicale judiciaire du 12 juin 2027 ;
 

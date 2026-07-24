@@ -46,7 +46,7 @@ Cette lettre constitue une étape préparatoire à l'expertise médicale ([J+167
 
 ## Documents liés
 
-- [Lettre consolidation Dr DJERBI](../../Actes/Preuves%20officielles/20260623_DrDJERBI_RDV/20260623-1730%20DR%20DJERBI%20Bilan.md)
+- [Lettre consolidation Dr DJERBI](../../Actes/Preuves_officielles/20260623_DrDJERBI_RDV/20260623-1730_DR_DJERBI_Bilan.md)
 
 ## Source
 

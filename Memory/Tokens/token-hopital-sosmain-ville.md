@@ -39,7 +39,7 @@ Saint-Jean est la commune où se trouve la clinique ayant pratiqué la microchir
 
 ## Documents liés
 
-- [CR opératoire J+1](../../Actes/Preuves%20officielles/20260530%20%F0%9F%86%98%20SOSMain/20260530%20CR%20Op%C3%A9ratoire%20RapportInterventionMainDroite.md)
+- [CR opératoire J+1](../../Actes/Preuves_officielles/20260530_🆘_SOSMain/20260530_CR_Opératoire_RapportInterventionMainDroite.md)
 
 ## Source
 
